@@ -1,0 +1,148 @@
+2022-04-24 09-09-04:已进入聊天室 your-channel
+2022-04-24 09-09-04:发送信息：Hello World !
+2022-04-24 09-09-04:发送信息：大家好！我是机器人 ZhangBot。
+最近我的随机笑话功能上线了，大家可以对我说“@ZhangBot 讲个笑话”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+2022-04-24 09-09-05:收到来自 CYBERPUNK 的信息：額
+2022-04-24 09-09-22:检测到 Ayrton 进入聊天室
+2022-04-24 09-09-22:发送信息：Ayrton ！
+2022-04-24 09-09-22:发送信息：该用户没有曾用名。
+2022-04-24 09-10-06:收到来自 CYBERPUNK 的信息：<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <title>hack.chat</title>
+  <link rel="manifest" href="manifest.json">
+
+  <link rel="stylesheet" href="style.css">
+  <link id="scheme-link" rel="stylesheet" href="schemes/atelier-dune.css">
+
+  <link rel="stylesheet" href="vendor/katex/katex.min.css">
+  <script src="vendor/katex/katex.min.js"></script>
+  <script src="vendor/remarkable-katex/remarkableKatex.min.js"></script>
+
+  <script src="vendor/hljs/highlight.min.js"></script>
+  <link id="highlight-link" rel="stylesheet" href="vendor/hljs/styles/hybrid.css">
+  <script src="vendor/remarkable/remarkable.min.js"></script>
+</head>
+
+<body>
+  <audio style="display: none" id="notify-sound" preload="auto" src="audio/notify.mp3">
+    <source src="audio/notify.mp3" type="audio/ogg">
+  </audio>
+  <article class="container">
+    <div id="messages" class="messages"></div>
+  </article>
+  <footer id="footer">
+    <div class="container">
+      <form id="chatform" class="message">
+        <textarea id="chatinput" type="text" autocomplete="off" autofocus></textarea>
+      </form>
+    </div>
+  </footer>
+  <nav id="sidebar">
+    <div id="sidebar-content" class="hidden">
+      <h4>Settings</h4>
+      <p>
+        <input id="pin-sidebar" type="checkbox">
+        <label for="pin-sidebar">Pin sidebar</label>
+      </p>
+      <p>
+        <input id="sound-switch" type="checkbox">
+        <label for="sound-switch">Sound notifications</label>
+      </p>
+      <p>
+        <input id="notify-switch" type="checkbox">
+        <label for="notify-switch">Screen notifications</label>
+      </p>
+      <p>
+        <input id="joined-left" type="checkbox" checked>
+        <label for="joined-left">Join/left notify</label>
+      </p>
+      <p>
+        <input id="parse-latex" type="checkbox" checked>
+        <label for="parse-latex">Allow LaTeX</label>
+      </p>
+      <p>
+        <input id="syntax-highlight" type="checkbox" checked>
+        <label for="syntax-highlight">Allow Highlight</label>
+      </p>
+      <p>
+        <input id="allow-imgur" type="checkbox">
+        <label for="allow-imgur" title="Embed images like: ![Title](https://i.imgur.com/image.png)">Allow Images</label>
+      </p>
+      <hr>
+      <p>
+        <h4>Color scheme</h4>
+        <select id="scheme-selector"></select>
+      </p>
+      <p>
+        <h4>Highlight scheme</h4>
+        <select id="highlight-selector"></select>
+      </p>
+      <hr>
+      <p>
+        <button id="clear-messages">Clear all messages</button>
+      </p>
+      <hr>
+      <h4>Users online</h4>
+      <p>(Click user to invite)</p>
+      <ul id="users"></ul>
+    </div>
+  </nav>
+  <script src="client.js"></script>
+</body>
+
+</html>
+2022-04-24 09-10-13:检测到 Ayrton 离开聊天室
+2022-04-24 09-10-13:发送信息：欢迎下次再来，Ayrton ！
+2022-04-24 09-10-16:收到来自 ying 的信息：。。。
+2022-04-24 09-10-29:收到来自 ying 的信息：@ZhangBot 说个笑话3
+2022-04-24 09-10-31:发送信息：「都交了罚款的」
+多年前，在火车站，手上拿着掐灭的烟头到处找垃圾桶。遍寻不着，突然见一角落里扔了很多，刚离手，不知哪里钻出来一个戴红袖套的中年男子：罚款5元。我说：这里扔了这么多。他悠悠答道：都交了罚款的。
+2022-04-24 09-11-15:收到来自 ying 的信息：@ZhangBot 说个笑话3
+2022-04-24 09-11-17:发送信息：「我擦，真是混大了」
+老憋调戏河蚌，河蚌一气之下咬住了老憋，憋强忍疼痛拖着河蚌在河滩上来回爬行。青蛙见状敬佩的说：乖乖，憋哥混大了，散步都夹公文包了！
+2022-04-24 09-13-18:收到来自 black 的信息：我去
+2022-04-24 09-13-21:收到来自 black 的信息：235条
+2022-04-24 09-13-22:检测到 Satan 进入聊天室
+2022-04-24 09-13-22:发送信息：热烈欢迎 Satan 入场！
+2022-04-24 09-13-22:发送信息：该用户没有曾用名。
+2022-04-24 09-13-33:收到来自 Mr_Zhang 的信息：容我打个广告
+2022-04-24 09-13-40:收到来自 Satan 的信息：lol what
+2022-04-24 09-13-52:检测到 Satan 离开聊天室
+2022-04-24 09-13-53:发送信息：欢迎下次再来，Satan ！
+2022-04-24 09-14-10:收到来自 Mr_Zhang 的信息：@ZhangBot 推荐招牌程序
+2022-04-24 09-14-10:发送信息：重磅更新更新上线啦！
+1.[小张计时器（2.0）](https://zhanghelper.lanzouw.com/i7VJR02ozshc)
+面向大众：
+1.[小张锁屏](https://zhanghelper.lanzouw.com/i3jhw02cqmmf)
+2.[桌面冰墩墩](https://zhanghelper.lanzouw.com/ijFTK02cqmqj)
+3.[小张壁纸](https://zhanghelper.lanzouw.com/iYfLu02ji3le)
+面向特定行业：
+1.自动排考场（3.0）
+若要下载面向特定行业的程序，请联系：3288492688@qq.com 或 Xiao_Zhang_123@outlook.com
+非常感谢您对我们的大力支持！鄙人感激不尽！！！
+2022-04-24 09-15-02:收到来自 CYBERPUNK 的信息：@ZhangBot 你是鄙人
+2022-04-24 09-15-04:发送信息：我是易语言辅助机器人
+2022-04-24 09-15-11:收到来自 CYBERPUNK 的信息：額
+2022-04-24 09-15-25:收到来自 Mr_Zhang 的信息：！！！
+2022-04-24 09-15-53:收到来自 Mr_Zhang 的信息：ZhangBot不是用易语言编写的！
+2022-04-24 09-15-55:收到来自 Mr_Zhang 的信息：ZhangBot不是用易语言编写的！
+2022-04-24 09-15-57:收到来自 Mr_Zhang 的信息：ZhangBot不是用易语言编写的！
+2022-04-24 09-15-57:收到来自 Mr_Zhang 的信息：ZhangBot不是用易语言编写的！
+2022-04-24 09-15-58:收到来自 Mr_Zhang 的信息：ZhangBot不是用易语言编写的！
+2022-04-24 09-16-15:收到来自 DarkAncientFlameMastersT 的信息：hhh
+2022-04-24 09-17-23:检测到 789 进入聊天室
+2022-04-24 09-17-23:发送信息：Hi,789
+2022-04-24 09-17-23:发送信息：该用户没有曾用名。
+2022-04-24 09-17-33:收到来自 789 的信息：有人么
+2022-04-24 09-17-54:收到来自 DarkAncientFlameMastersT 的信息：没有呢亲
+2022-04-24 09-18-09:收到来自 black 的信息：哈哈哈
+2022-04-24 09-18-10:收到来自 black 的信息：没有
+2022-04-24 09-18-31:收到来自 789 的信息：那你是什么
+2022-04-24 09-18-33:收到来自 DarkAncientFlameMastersT 的信息：@ZhangBot 你 好
