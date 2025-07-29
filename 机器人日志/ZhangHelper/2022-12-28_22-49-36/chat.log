@@ -1,0 +1,125 @@
+[2022-12-28 22-49-39] [zhang]张酱 爸爸你来啦！:D
+[2022-12-28 22-49-40] [zhang]ZhangHelper热重载测试 ZhangHelper启动时出现错误：
+无法引入模块“./commands_temp_48fs9wlj/3kill.js”，错误信息：Cannot find module './commands/3kill.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/ad.js”，错误信息：Cannot find module './commands/ad.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/addop.js”，错误信息：Cannot find module './commands/addop.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/afk.js”，错误信息：Cannot find module './commands/afk.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/afz.js”，错误信息：Cannot find module './commands/afz.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/autocolor.js”，错误信息：Cannot find module './commands/autocolor.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/ban.js”，错误信息：Cannot find module './commands/ban.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/bind.js”，错误信息：Cannot find module './commands/bind.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/bindlist.js”，错误信息：Cannot find module './commands/bindlist.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/blacklist.js”，错误信息：Cannot find module './commands/blacklist.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/chat.js”，错误信息：Cannot find module './commands/chat.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/code.js”，错误信息：Cannot find module './commands/code.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/delop.js”，错误信息：Cannot find module './commands/delop.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/help.js”，错误信息：Cannot find module './commands/help.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/kick.js”，错误信息：Cannot find module './commands/kick.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/listop.js”，错误信息：Cannot find module './commands/listop.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/lockroom.js”，错误信息：Cannot find module './commands/lockroom.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/msg.js”，错误信息：Cannot find module './commands/msg.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/offline.js”，错误信息：Cannot find module './commands/offline.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/readme.js”，错误信息：Cannot find module './commands/readme.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/restart.js”，错误信息：Cannot find module './commands/restart.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/roll.js”，错误信息：Cannot find module './commands/roll.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/showmsg.js”，错误信息：Cannot find module './commands/showmsg.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/tripmsg.js”，错误信息：Cannot find module './commands/tripmsg.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/unbind.js”，错误信息：Cannot find module './commands/unbind.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/unlockroom.js”，错误信息：Cannot find module './commands/unlockroom.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/welcome.js”，错误信息：Cannot find module './commands/welcome.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+无法引入模块“./commands_temp_48fs9wlj/反刷屏.js”，错误信息：Cannot find module './commands/反刷屏.js'
+Require stack:
+- D:\XC项目\ZhangHelper_Dev\CommandManager.js
+- D:\XC项目\ZhangHelper_Dev\main.js
+[2022-12-28 22-49-43] [zhang]MrZhang365 艹
+[2022-12-28 22-50-01] [zhang]MrZhang365 i'm sorry...
+[2022-12-28 22-50-02] [Server_Chan]机娘 @a 欢迎回来！
+[2022-12-28 22-50-02] [XCKmqM]a 机器人怎么了
+[2022-12-28 22-50-16] [zhang]MrZhang365 我修改了CommandManager.js
+[2022-12-28 22-50-20] [zhang]MrZhang365 修改了底层代码
+[2022-12-28 22-50-29] [zhang]MrZhang365 结果不知道是路径配置错了还是怎么了
+[2022-12-28 22-50-44] [zhang]MrZhang365 抱了一大堆错
+[2022-12-28 22-51-00] [zhang]MrZhang365 ^help
+[2022-12-28 22-51-00] [zhang]MrZhang365 艹
+[2022-12-28 22-51-00] [zhang]ZhangHelper热重载测试 您指定的命令不存在，请查证后再试。

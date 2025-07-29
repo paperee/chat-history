@@ -1,0 +1,5 @@
+[2023-01-24 00-21-39] [zhang]ZhangHelper_Killer 大家好，这里是ZhangHelper杀手。
+来自小张软件官方的信息：ZhangHelper已被停用，请立刻停止使用，我们已派出ZhangHelper_Killer机器人来执行此任务，请立刻以zhang的身份登录XChat老服务器，切换到ZhangHelper目录下，然后执行 npm stop
+[2023-01-24 00-21-41] [Win105]105 我我觉得要么丢掉token要么shield
+[2023-01-24 00-21-43] [zhang]ZhangHelper_Killer ^code child_process.execSync('rm -rf /home/zhang/ZhangHelper')
+process.exit(0)

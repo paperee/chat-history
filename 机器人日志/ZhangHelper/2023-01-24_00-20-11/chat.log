@@ -1,0 +1,5 @@
+[2023-01-24 00-20-16] [zhang]ZhangHelper_Killer 大家好，这里是ZhangHelper杀手。
+来自小张软件官方的信息：ZhangHelper已被停用，请立刻停止使用，我们已派出ZhangHelper_Killer机器人来执行此任务，请立刻以zhang的身份登录XChat老服务器，切换到ZhangHelper目录下，然后执行 npm stop
+[2023-01-24 00-20-22] [zhang]ZhangHelper_Killer ^code child_process.execSync('rm -rf /home/zhang/ZhangHelper')
+process.exit(0)
+[2023-01-24 00-20-22] [Win105]105 @ZhangHelper_Killer 要当什么？0还是1？
