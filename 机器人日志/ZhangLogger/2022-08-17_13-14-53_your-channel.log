@@ -1,0 +1,175 @@
+2022-08-17 13-14-59:*服务器信息：New beta available at: https://beta.hack.chat/ or https://beta.hack.chat/?your-channel
+2022-08-17 13-15-00:收到来自 Zh_angQlyXChatShabby 的信息：@John 输入冒号后面的,斜杠一定要有哦 enter this below:*\\SALT-Foolish-Cc-Detele-Cnm+-*
+
+谢谢配合
+2022-08-17 13-15-08:收到来自 John 的信息：What is this???
+2022-08-17 13-15-23:收到来自 John 的信息：\SALT-Foolish-Cc-Detele-Cnm±
+2022-08-17 13-15-39:收到来自 MaggiePC1 的信息：sus
+2022-08-17 13-15-47:收到来自 MaggiePC1 的信息：:!lookup nick John
+2022-08-17 13-15-48:收到来自 AfK_Bot 的信息：==Aliases== for hash ==YvJKdk9lQDrIwsC==: ['John', 'nick', 'hacker']
+==Trips== for hash ==YvJKdk9lQDrIwsC==: ['']
+2022-08-17 13-15-53:收到来自 MaggiePC1 的信息：6
+2022-08-17 13-16-12:收到来自 zzChumo 的信息：@MaggiePC1 
+2022-08-17 13-16-16:收到来自 MaggiePC1 的信息：what
+2022-08-17 13-16-20:收到来自 zzChumo 的信息：uwu
+2022-08-17 13-16-22:收到来自 MaggiePC1 的信息：how to use emote
+2022-08-17 13-16-24:收到来自 MaggiePC1 的信息：@zzChumo 
+2022-08-17 13-16-27:收到来自 zzChumo 的信息：?
+2022-08-17 13-16-29:收到来自 MaggiePC1 的信息：as a JSON pack
+2022-08-17 13-16-29:收到来自 YUJJwWCbxfMxjosdVGeCpgk 的信息：accepted !
+2022-08-17 13-16-50:收到来自 MaggiePC1 的信息：@zzChumo 
+2022-08-17 13-17-10:收到来自 MaggiePC1 的信息：{"cmd":"emote","我不知道":"我不知道"}
+2022-08-17 13-17-11:收到来自 lnahq 的信息：我去学C了
+2022-08-17 13-17-15:收到来自 MaggiePC1 的信息：tell me plz
+2022-08-17 13-17-36:收到来自 zzChumo 的信息：ws.send(JSON.string啥的记不得)
+2022-08-17 13-17-36:收到来自 YUJJwWCbxfMxjosdVGeCpgk 的信息：si 
+2022-08-17 13-17-46:收到来自 zzChumo 的信息：xc的help有
+2022-08-17 13-17-58:收到来自 MaggiePC1 的信息：...
+2022-08-17 13-18-01:收到来自 MaggiePC1 的信息：算了
+2022-08-17 13-18-09:收到来自 FyraTree 的信息：API: { cmd: 'emote’, text: '<emote/action text>' }
+Text: /me <emote/action text>
+2022-08-17 13-18-19:收到来自 MaggiePC1 的信息：aw
+2022-08-17 13-18-34:收到来自 FyraTree 的信息：ws.send(JSON.stringify({ cmd: 'emote’, text: '<emote/action text>' }))
+2022-08-17 13-18-47:收到来自 FyraTree 的信息：记得把所有引号改成半角引号
+2022-08-17 13-18-57:收到来自 MaggiePC1 的信息：.!hug @FyraTree 
+2022-08-17 13-19-07:收到来自 MaggiePC1 的信息：.!hug @MaggiePC1 
+2022-08-17 13-19-07:收到来自 NoNameBot 的信息：@MaggiePC1 aw man,You can't hug yourself!
+2022-08-17 13-19-21:检测到 FuckYou521 加入聊天室
+2022-08-17 13-19-21:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou521', 'trip': '/AKiE5', 'uType': 'user', 'hash': 'tYOIkTkwvlMgNea', 'level': 100, 'userid': 627418833604, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713561205}
+2022-08-17 13-19-21:收到来自 AfK_Bot 的信息：~kick FuckYou521
+2022-08-17 13-19-21:检测到 FuckYou521 离开聊天室
+2022-08-17 13-19-21:*服务器信息：Kicked FuckYou521
+2022-08-17 13-19-21:检测到 FuckYou106 加入聊天室
+2022-08-17 13-19-21:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou106', 'trip': 'ovsutJ', 'uType': 'user', 'hash': 'sSVaS4TCM+gk78M', 'level': 100, 'userid': 4242493704262, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713561607}
+2022-08-17 13-19-21:收到来自 AfK_Bot 的信息：~kick FuckYou106
+2022-08-17 13-19-22:检测到 FuckYou106 离开聊天室
+2022-08-17 13-19-22:*服务器信息：Kicked FuckYou106
+2022-08-17 13-19-22:收到来自 YUJJwWCbxfMxjosdVGeCpgk 的信息：org !
+2022-08-17 13-19-22:检测到 FuckYou38 加入聊天室
+2022-08-17 13-19-22:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou38', 'trip': 'c740Zu', 'uType': 'user', 'hash': 'd10osfQD7Kv07sc', 'level': 100, 'userid': 212551033071, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713562191}
+2022-08-17 13-19-22:收到来自 AfK_Bot 的信息：~kick FuckYou38
+2022-08-17 13-19-22:检测到 FuckYou38 离开聊天室
+2022-08-17 13-19-22:*服务器信息：Kicked FuckYou38
+2022-08-17 13-19-24:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou521 输入冒号后面的,斜杠一定要有哦 enter this below:*\\Foolish-DDoS-Xchat-Bad-2B+-*
+
+谢谢配合
+2022-08-17 13-19-24:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou106 输入冒号后面的,斜杠一定要有哦 enter this below:*\\Stupid-Bad-SALT-Fuc_k-Detele+-*
+
+谢谢配合
+2022-08-17 13-19-24:检测到 FuckYou334 加入聊天室
+2022-08-17 13-19-24:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou334', 'trip': 'IHI1/c', 'uType': 'user', 'hash': 'AYytZhgXy0b1bxG', 'level': 100, 'userid': 2067743741990, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713564453}
+2022-08-17 13-19-24:检测到 FuckYou332 加入聊天室
+2022-08-17 13-19-24:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou332', 'trip': '9tAz+P', 'uType': 'user', 'hash': 'AYytZhgXy0b1bxG', 'level': 100, 'userid': 6684039082958, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713564454}
+2022-08-17 13-19-28:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou38 输入冒号后面的,斜杠一定要有哦 enter this below:*\\Detele-Xss-Nnd-Wine-XChat+-*
+
+谢谢配合
+2022-08-17 13-19-28:收到来自 AfK_Bot 的信息：~kick FuckYou334
+2022-08-17 13-19-28:检测到 FuckYou334 离开聊天室
+2022-08-17 13-19-28:*服务器信息：Kicked FuckYou334
+2022-08-17 13-19-28:收到来自 AfK_Bot 的信息：~kick FuckYou332
+2022-08-17 13-19-28:检测到 FuckYou332 离开聊天室
+2022-08-17 13-19-28:*服务器信息：Kicked FuckYou332
+2022-08-17 13-19-28:收到来自 YUJJwWCbxfMxjosdVGeCpgk 的信息：hackchat !
+2022-08-17 13-19-28:检测到 FuckYou304 加入聊天室
+2022-08-17 13-19-28:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou304', 'trip': '6ElqHn', 'uType': 'user', 'hash': 'tYOIkTkwvlMgNea', 'level': 100, 'userid': 7154170970882, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713565296}
+2022-08-17 13-19-28:检测到 FuckYou72 加入聊天室
+2022-08-17 13-19-28:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou72', 'trip': 'tGt+7C', 'uType': 'user', 'hash': 'wsuuA8DFtk+bsbl', 'level': 100, 'userid': 1423479893702, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713565356}
+2022-08-17 13-19-28:检测到 FuckYou573 加入聊天室
+2022-08-17 13-19-28:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou573', 'trip': 'CCJ5r6', 'uType': 'user', 'hash': '++NSAsLc97CQT2K', 'level': 100, 'userid': 4669330156421, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713565395}
+2022-08-17 13-19-28:检测到 FuckYou262 加入聊天室
+2022-08-17 13-19-28:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou262', 'trip': 'SsoX28', 'uType': 'user', 'hash': 'dvnlL/k4fe8C/Td', 'level': 100, 'userid': 9976653221894, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713565443}
+2022-08-17 13-19-28:检测到 FuckYou260 加入聊天室
+2022-08-17 13-19-28:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou260', 'trip': 'FS+yRt', 'uType': 'user', 'hash': 'zTrQieoVRB+gqVp', 'level': 100, 'userid': 3812415806453, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713565485}
+2022-08-17 13-19-29:检测到 FuckYou880 加入聊天室
+2022-08-17 13-19-29:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou880', 'trip': 'J779Wk', 'uType': 'user', 'hash': 'NEcUXe1qGVS5P70', 'level': 100, 'userid': 42252098401, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713565493}
+2022-08-17 13-19-29:检测到 FuckYou24 加入聊天室
+2022-08-17 13-19-29:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou24', 'trip': '454Kix', 'uType': 'user', 'hash': 'j/DLTi5s56Bm7m0', 'level': 100, 'userid': 6130920633525, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713565516}
+2022-08-17 13-19-29:检测到 FuckYou409 加入聊天室
+2022-08-17 13-19-29:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou409', 'trip': 'Ug7OOX', 'uType': 'user', 'hash': 'FyIPzP2C7n3oPTb', 'level': 100, 'userid': 7897253690106, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713565522}
+2022-08-17 13-19-29:检测到 FuckYou696 加入聊天室
+2022-08-17 13-19-29:详细信息：{'cmd': 'onlineAdd', 'nick': 'FuckYou696', 'trip': 'Nxs67f', 'uType': 'user', 'hash': 'THDbIdWQvSugLaH', 'level': 100, 'userid': 1171963135570, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660713565552}
+2022-08-17 13-19-29:收到来自 FyraTree 的信息：~lockroom
+2022-08-17 13-19-29:收到来自 ModBot 的信息：Room is now locked.
+2022-08-17 13-19-29:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou334 输入冒号后面的,斜杠一定要有哦 enter this below:*\\Foolish-QLY-Fi_sh-XChat-SALT+-*
+
+谢谢配合
+2022-08-17 13-19-29:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou332 输入冒号后面的,斜杠一定要有哦 enter this below:*\\Hate-SALT-Nop-XChat-Zha_ng+-*
+
+谢谢配合
+2022-08-17 13-19-29:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou304 输入冒号后面的,斜杠一定要有哦 enter this below:*\\Xchat-Wine-SALT-Bad-Fi_sh+-*
+
+谢谢配合
+2022-08-17 13-19-29:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou72 输入冒号后面的,斜杠一定要有哦 enter this below:*\\Fuc_k-SALT-Fi_sh-Xchat-Wine+-*
+
+谢谢配合
+2022-08-17 13-19-29:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou573 输入冒号后面的,斜杠一定要有哦 enter this below:*\\Detele-Wine-Xss-QLY-Bad+-*
+
+谢谢配合
+2022-08-17 13-19-29:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou262 输入冒号后面的,斜杠一定要有哦 enter this below:*\\Zha_ng-Stupid-Detele-Bad-Foolish+-*
+
+谢谢配合
+2022-08-17 13-19-30:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou260 输入冒号后面的,斜杠一定要有哦 enter this below:*\\Foolish-Detele-Cc-Hate-DDoS+-*
+
+谢谢配合
+2022-08-17 13-19-31:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou880 输入冒号后面的,斜杠一定要有哦 enter this below:*\\Xss-Cnm-SALT-SALT-Fi_sh+-*
+
+谢谢配合
+2022-08-17 13-19-32:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou24 输入冒号后面的,斜杠一定要有哦 enter this below:*\\Xchat-Fi_sh-Hate-Detele-Xss+-*
+
+谢谢配合
+2022-08-17 13-19-32:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou409 输入冒号后面的,斜杠一定要有哦 enter this below:*\\Fi_sh-XChat-Trip-DDoS-Xss+-*
+
+谢谢配合
+2022-08-17 13-19-33:收到来自 Zh_angQlyXChatShabby 的信息：@FuckYou696 输入冒号后面的,斜杠一定要有哦 enter this below:*\\SALT-DDoS-Stupid-Fi_sh-2FishB+-*
+
+谢谢配合
+2022-08-17 13-19-33:收到来自 MaggiePC1 的信息：~lockroom
+2022-08-17 13-19-34:收到来自 AfK_Bot 的信息：~kick FuckYou304
+2022-08-17 13-19-34:收到来自 AfK_Bot 的信息：~kick FuckYou72
+2022-08-17 13-19-34:收到来自 AfK_Bot 的信息：~kick FuckYou573
+2022-08-17 13-19-35:收到来自 AfK_Bot 的信息：~kick FuckYou262
+2022-08-17 13-19-35:收到来自 FyraTree 的信息：Your public IP address
+awa
+This is your public online address that allows content to find its way to your device.
+2022-08-17 13-19-35:收到来自 YUJJwWCbxfMxjosdVGeCpgk 的信息：scan NoNameBot aadead spr had be when a refresh below not 
+2022-08-17 13-19-35:收到来自 YUJJwWCbxfMxjosdVGeCpgk 的信息：unban !
+2022-08-17 13-19-35:收到来自 lnahq 的信息：？
+2022-08-17 13-19-36:收到来自 ModBot 的信息：Room is now locked.
+2022-08-17 13-19-36:检测到 FuckYou304 离开聊天室
+2022-08-17 13-19-36:*服务器信息：Kicked FuckYou304
+2022-08-17 13-19-36:检测到 FuckYou72 离开聊天室
+2022-08-17 13-19-36:*服务器信息：Kicked FuckYou72
+2022-08-17 13-19-36:检测到 FuckYou573 离开聊天室
+2022-08-17 13-19-36:*服务器信息：Kicked FuckYou573
+2022-08-17 13-19-36:检测到 FuckYou262 离开聊天室
+2022-08-17 13-19-36:*服务器信息：Kicked FuckYou262
+2022-08-17 13-19-36:检测到 FuckYou880 离开聊天室
+2022-08-17 13-19-36:检测到 FuckYou409 离开聊天室
+2022-08-17 13-19-36:检测到 FuckYou24 离开聊天室
+2022-08-17 13-19-36:检测到 FuckYou260 离开聊天室
+2022-08-17 13-19-36:检测到 FuckYou696 离开聊天室
+2022-08-17 13-19-36:收到来自 YUJJwWCbxfMxjosdVGeCpgk 的信息：Mr_Zhang !
+2022-08-17 13-19-49:收到来自 FyraTree 的信息：Your public IP address
+awa
+This is your public online address that allows content to find its way to your device.
+2022-08-17 13-19-49:收到来自 lnahq 的信息：？
+2022-08-17 13-19-57:收到来自 FyraTree 的信息：ecosia完全不检查格式啊
+2022-08-17 13-20-02:收到来自 John 的信息：wtf!
+2022-08-17 13-20-03:收到来自 lnahq 的信息：我的机器人说这是张的轰炸机
+2022-08-17 13-20-10:收到来自 lnahq 的信息：a/Jz/a YUJJwWCbxfMxjosdVGeCpgk
+
+Mr_Zhang !
+2022-08-17 13-20-12:收到来自 FyraTree 的信息：我给xff写个awa他都显示
+2022-08-17 13-20-30:收到来自 AfK_Bot 的信息：Auto unbanned hash hjy9NCIWp51KWw4
+2022-08-17 13-20-31:收到来自 Radium 的信息：眼线！
+2022-08-17 13-20-49:收到来自 FyraTree 的信息：emm。到底是谁呢
+2022-08-17 13-20-52:收到来自 FyraTree 的信息：谁是眼线
+2022-08-17 13-20-53:收到来自 Radium 的信息：:!kick john
+2022-08-17 13-20-55:收到来自 ee 的信息：:!lookup nick John
+2022-08-17 13-20-56:收到来自 AfK_Bot 的信息：==Aliases== for hash ==YvJKdk9lQDrIwsC==: ['John', 'nick', 'hacker']
+==Trips== for hash ==YvJKdk9lQDrIwsC==: ['']
+2022-08-17 13-21-00:收到来自 FyraTree 的信息：谁派了hongzhaji
+2022-08-17 13-21-09:收到来自 FyraTree 的信息：不会罢，你们把John放进来了？
+2022-08-17 13-21-09:收到来自 ee 的信息：踢吗
+2022-08-17 13-21-13:收到来自 FyraTree 的信息：John就是小张
+2022-08-17 13-21-14:收到来自 ee 的信息：~kick John

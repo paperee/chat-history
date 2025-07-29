@@ -1,0 +1,8 @@
+2022-08-16 13-39-57:*服务器信息：New beta available at: https://beta.hack.chat/ or https://beta.hack.chat/?lounge
+2022-08-16 14-01-48:检测到 terry 加入聊天室
+2022-08-16 14-01-48:详细信息：{'cmd': 'onlineAdd', 'nick': 'terry', 'trip': '21PnFs', 'uType': 'user', 'hash': 'PxF+SLwwlsfnJZu', 'level': 100, 'userid': 9838501559999, 'isBot': False, 'color': False, 'channel': 'lounge', 'time': 1660629708377}
+2022-08-16 14-02-16:收到来自 terry 的信息：ava?
+2022-08-16 14-02-29:收到来自 terry 的信息：:!lookup nick Zhang
+2022-08-16 14-02-29:收到来自 AfK_Bot 的信息：==Aliases== for hash ==ULPaoOLaxPaSYKD==: ['Zhang', 'mrzhang', 'zhang']
+==Trips== for hash ==ULPaoOLaxPaSYKD==: ['c01PWj', 'z0HE0T', '', 'bw7Gkq']
+2022-08-16 14-02-58:收到来自 terry 的信息：~kick Zhang

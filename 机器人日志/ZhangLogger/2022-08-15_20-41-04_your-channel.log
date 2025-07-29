@@ -1,0 +1,19 @@
+2022-08-15 20-41-06:*服务器信息：New beta available at: https://beta.hack.chat/ or https://beta.hack.chat/?your-channel
+2022-08-15 20-43-20:检测到 chinna 加入聊天室
+2022-08-15 20-43-20:详细信息：{'cmd': 'onlineAdd', 'nick': 'chinna', 'trip': '', 'uType': 'user', 'hash': '46spKQN0RWzOCrt', 'level': 100, 'userid': 1001318100798, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660567400919}
+2022-08-15 20-43-51:检测到 eee 加入聊天室
+2022-08-15 20-43-51:详细信息：{'cmd': 'onlineAdd', 'nick': 'eee', 'trip': 'eYFDHl', 'uType': 'user', 'hash': 'q/DZqsfEi9tEs8r', 'level': 100, 'userid': 4865371758963, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660567432049}
+2022-08-15 20-44-05:收到来自 eee 的信息：~lockroom
+2022-08-15 20-44-05:收到来自 ModBot 的信息：Room is now locked.
+2022-08-15 20-44-28:收到来自 eee 的信息：:!lookup nick nickname
+2022-08-15 20-44-29:收到来自 AfK_Bot 的信息：==Aliases== for hash ==WfG1Kk0jB3fguj5==: ['nickname']
+==Trips== for hash ==WfG1Kk0jB3fguj5==: ['']
+2022-08-15 20-44-36:收到来自 eee 的信息：:!lookup nick chinna
+2022-08-15 20-44-37:收到来自 AfK_Bot 的信息：==Aliases== for hash ==46spKQN0RWzOCrt==: ['chinna']
+==Trips== for hash ==46spKQN0RWzOCrt==: ['']
+2022-08-15 20-46-24:检测到 jammyribbish 加入聊天室
+2022-08-15 20-46-24:详细信息：{'cmd': 'onlineAdd', 'nick': 'jammyribbish', 'trip': 'n3CJhb', 'uType': 'user', 'hash': '358zr60GpGwuFmY', 'level': 100, 'userid': 665905634049, 'isBot': False, 'color': False, 'channel': 'your-channel', 'time': 1660567584782}
+2022-08-15 20-46-38:收到来自 eee 的信息：~kick ee
+2022-08-15 20-46-38:检测到 ee 离开聊天室
+2022-08-15 20-46-38:*服务器信息：Kicked ee
+2022-08-15 20-46-50:收到来自 eee 的信息：~kick nickname

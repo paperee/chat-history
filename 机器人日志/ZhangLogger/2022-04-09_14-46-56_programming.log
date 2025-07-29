@@ -1,0 +1,10 @@
+2022-04-09 14-47-18:检测到 ZhangProtector 离开聊天室
+2022-04-09 14-49-35:收到来自 tcg 的信息：hdyd
+2022-04-09 14-50-23:收到来自 merc 的信息：>Messages sent, received 418012 413507
+
+and it used 7mb ram :D
+2022-04-09 14-50-40:收到来自 merc 的信息：```Text
+static int number_of_threads = 500;
+    static int number_of_messages = 100000;
+    static int message_delay = 100;
+```

@@ -1,0 +1,10 @@
+2022-08-17 10-13-03:*服务器信息：New beta available at: https://beta.hack.chat/ or https://beta.hack.chat/?lounge
+2022-08-17 10-18-29:收到来自 False 的信息：hi
+2022-08-17 10-21-49:检测到 True 加入聊天室
+2022-08-17 10-21-49:详细信息：{'cmd': 'onlineAdd', 'nick': 'True', 'trip': '', 'uType': 'user', 'hash': 'Tt1EmYAF5YfkqVa', 'level': 100, 'userid': 3051007357893, 'isBot': False, 'color': False, 'channel': 'lounge', 'time': 1660702910207}
+2022-08-17 10-21-58:检测到 True 离开聊天室
+2022-08-17 10-34-22:检测到 TRASH 加入聊天室
+2022-08-17 10-34-22:详细信息：{'cmd': 'onlineAdd', 'nick': 'TRASH', 'trip': 'QiWYsV', 'uType': 'user', 'hash': 'ix05QJ+JnfJQHSh', 'level': 100, 'userid': 8923739856622, 'isBot': False, 'color': False, 'channel': 'lounge', 'time': 1660703662509}
+2022-08-17 10-34-22:收到来自 AfK_Bot 的信息：~kick TRASH
+2022-08-17 10-34-22:检测到 TRASH 离开聊天室
+2022-08-17 10-34-22:*服务器信息：Kicked TRASH
