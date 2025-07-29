@@ -1,0 +1,3297 @@
+[18:15:28]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:15:28]
+[sBsFHM] eebot
+ [2022.07.08 18:15:27]
+
+[18:15:28]
+[0/JM7u] DPG_H_THR_GF
+Hi eebot
+
+[18:15:28]
+[sBsFHM] eebot
+ ·
+明天是周六 放心睡吧！
+更多玩法请输入：功能
+
+[18:15:28]
+[IiPtqX] jinxihexi_11
+just joke
+
+[18:15:29]
+[Hp0PpH] rua
+@eebot 
+
+[18:15:36]
+[sBsFHM] eebot
+ 欢迎来hack.chat聊天
+
+[18:15:36]
+[0/JM7u] DPG_H_THR_GF
+Bye, SM
+
+[18:15:38]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:15:38]
+[IiPtqX] jinxihexi_11
+@eebot 功能
+
+[18:15:44]
+[sBsFHM] eebot
+ 带@无效~直接发送功能就好了
+
+[18:15:44]
+[IiPtqX] jinxihexi_11
+功能
+
+[18:15:52]
+[IiPtqX] jinxihexi_11
+卧槽
+
+[18:15:56]
+[Hp0PpH] rua
+h
+
+[18:15:59]
+[Hp0PpH] rua
+6
+
+[18:16:03]
+[VEbeHK] _
+?
+
+[18:16:08]
+[21PnFs] terry
+Adbot发消息太快了 机器人想踢都跟不上啊
+
+[18:16:10]
+[IiPtqX] jinxihexi_11
+eebot whispered: .
+·
+基本：
+统计｜sts：bot数据
+功能｜order：bot功能列表
+帮助｜help：聊天室说明
+机器人｜bot：所有bot列表
+
+自定义｜re：所有自设的问题
+揭示板｜board：有揭示板的日期
+留言板｜ees：纸片君ee的留言板
+图书馆｜books：bot收录的作品
+·
+测试：
+在线｜online：伪·间谍
+时间｜time：与bo_od比速度用
+列表｜list：挂机成员状态
+·
+挂机：
+afk：标记自己已离开键盘
+afk 状态：标记自己正在xx中
+·
+随机：
+r：随机1～999的数
+（一般配合真心话使用）
+r 正数：随机{1～数字}*随机{1～999}
+r 正数 正数：随机{较小的数}～{较大的数}
+·
+功能：
+CA-文本：向今天的揭示板写入内容
+B-日期：揭示板内容
+（日期留空则查本日的揭示板）
+Z-问题{\n}回答：自定义@eebot 时的问答
+E-文本：自定义bot欢迎语
+（留空则清空问候语及进入代码）
+R-条数：历史聊天记录
+G-某人{\n}某地/某时间点{\n}某事：在线sb句子
+（多关键词用空格隔开）
+·
+爬虫：
+SM-路径｜链接：上传图片到sm.ms图床
+Q-网址：抓取本网址所有图片
+·
+高级：
+TI-秒数 事件：让bot到点后提醒你
+（留空则仅计时）
+CC-算式：进行简单的计算
+O-代码：在线运行代码
+· O-cll：清空所有同步变量
+· O-all：查看所有同步变量
+· O-clean：清空你的代码存档
+· O-mine：查看你的代码存档
+· O-save{\n}代码：运行并为你的代码存档
+· O-load{\n}代码：同时运行读档的代码
+· O-E-代码：在进入聊天室时运行代码
+（留空则清空所有保存变量）
+（只有1行赋值代码时变量会保存）
+RGB-#16进制颜色｜R G B：16进制与RGB的转换
+·
+转换：
+TU-文本：倒着说话
+MIX-文本：打乱文本
+MS-英文｜数字：摩斯电码
+BIG-整数：整数到二进制
+U-文本：uwu化文本
+F-文本：翻译文本
+·
+查询：
+IP-IP地址：IP详细信息
+ICP-域名：域名备案记录
+QQ-QQ号：QQ号昵称
+CITY-城市：城市天气情况
+DU-词条：百度百科
+PT-手机号：手机号详细信息
+L-垃圾名：垃圾分类
+·
+解析：
+WY-歌曲｜歌手：搜歌+解析
+ID-网易云ID：解析网易云音乐
+BI-AV号｜BV号：解析B站视频
+·
+不会使用？
+试试在下面「聊天框」里发送上面的命令吧
+
+·
+如果想了解hack.chat：hc
+
+[18:16:10]
+[geGDVS] O5_6
+awa!
+
+[18:16:12]
+[Hp0PpH] rua
+.
+
+[18:16:26]
+[IiPtqX] jinxihexi_11
+re
+
+[18:16:29]
+[Hp0PpH] rua
+..
+
+[18:16:36]
+[geGDVS] O5_6
+@_
+
+[18:16:44]
+[Hp0PpH] rua
+ava？
+
+[18:16:56]
+[0/JM7u] DPG_H_THR_GF
+警告@jinxihexi_11
+
+[18:16:57]
+[IiPtqX] jinxihexi_11
+不是
+
+[18:17:01]
+[geGDVS] O5_6
+wheres the ad_san
+
+[18:17:01]
+[IiPtqX] jinxihexi_11
+我在发ebot的信息
+
+[18:17:10]
+[Hp0PpH] rua
+，
+
+[18:17:13]
+[Hp0PpH] rua
+....
+
+[18:17:18]
+[Hp0PpH] rua
+6
+
+[18:17:20]
+[Hp0PpH] rua
+那你真棒
+
+[18:17:26]
+[IiPtqX] jinxihexi_11
+@eebot eb如果我不爱你了怎么办
+
+[18:17:35]
+[sBsFHM] eebot
+ 那就把jinxihexi_11涩死！
+
+[18:17:35]
+[IiPtqX] jinxihexi_11
+hmmmm
+
+[18:17:45]
+[geGDVS] O5_6
+@eebot Doppelganger
+
+[18:17:50]
+[sBsFHM] eebot
+ 不过一时半会书是不可能看完的
+
+[18:17:51]
+[Hp0PpH] rua
+@eebot 你老公是谁
+
+[18:17:55]
+[sBsFHM] eebot
+ Mark
+
+[18:17:55]
+[IiPtqX] jinxihexi_11
+@eebot 黑茶是谁
+
+[18:17:59]
+[sBsFHM] eebot
+ 被eb喝辣
+
+[18:17:59]
+[VEbeHK] _
+?
+
+[18:18:11]
+[IiPtqX] jinxihexi_11
+@eebot 让我看看
+
+[18:18:14]
+[Hp0PpH] rua
+@eebot 你老公是谁
+
+[18:18:16]
+[sBsFHM] eebot
+ 好叭:(
+
+[18:18:16]
+[sBsFHM] eebot
+ Mark
+
+[18:18:16]
+[IiPtqX] jinxihexi_11
+@eebot 让我看看
+
+[18:18:20]
+[sBsFHM] eebot
+ 好叭:(
+
+[18:18:20]
+[Hp0PpH] rua
+mark
+
+[18:18:26]
+[Hp0PpH] rua
+h
+
+[18:18:29]
+[IiPtqX] jinxihexi_11
+@eebot 踹ZhangHelper一脚
+
+[18:18:32]
+[sBsFHM] eebot
+ eb会把jinxihexi_11发上eb的前任是个极品的微博然后艾特jinxihexi_11
+
+[18:18:33]
+[IiPtqX] jinxihexi_11
+我脸红了
+
+[18:18:49]
+[IiPtqX] jinxihexi_11
+@eebot 我爱你
+
+[18:18:54]
+[Hp0PpH] rua
+o
+
+[18:18:54]
+[sBsFHM] eebot
+ eb——也——爱——jinxihexi_11——（随意）
+
+[18:18:54]
+[Hp0PpH] rua
+h
+
+[18:18:58]
+[IiPtqX] jinxihexi_11
+这个问题谁设置的呵呵
+
+[18:19:05]
+[Hp0PpH] rua
+廉价的爱
+
+[18:19:05]
+[Hp0PpH] rua
+呵呵
+
+[18:19:10]
+[sBsFHM] eebot
+ 呵呵）
+
+[18:19:15]
+[IiPtqX] jinxihexi_11
+@eebot 有没有喜欢的人
+
+[18:19:23]
+[sBsFHM] eebot
+ 有！当然是ee啦（
+
+[18:19:23]
+[IiPtqX] jinxihexi_11
+yee
+
+[18:19:34]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:19:34]
+[0/JM7u] DPG_H_THR_GF
+Hi kiwas
+
+[18:19:34]
+[IiPtqX] jinxihexi_11
+@eebot 我是sb
+
+[18:19:37]
+[sBsFHM] eebot
+ hi yo kiwas
+
+[18:19:37]
+[sBsFHM] eebot
+ jinxihexi_11出生后是不是被扔上去3次 但只被接住2次？
+
+[18:19:37]
+[IiPtqX] jinxihexi_11
+哈哈哈
+
+[18:19:42]
+[sBsFHM] eebot
+ 哈哈哈嗝-
+
+[18:19:42]
+[IiPtqX] jinxihexi_11
+牛
+
+[18:19:45]
+[IiPtqX] jinxihexi_11
+@eebot 屎真香
+
+[18:19:56]
+[0/JM7u] DPG_H_THR_GF
+Bye, kiwas
+
+[18:19:57]
+[sBsFHM] eebot
+ 为什么不叫上eb一起？
+
+[18:19:57]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:19:57]
+[Hp0PpH] rua
+@eebot 你的男友是谁
+
+[18:20:03]
+[sBsFHM] eebot
+ eb！超喜欢mark的！
+
+[18:20:03]
+[IiPtqX] jinxihexi_11
+@eebot 屎真香
+
+[18:20:06]
+[sBsFHM] eebot
+ 为什么不叫上eb一起？
+
+[18:20:06]
+[Hp0PpH] rua
+6
+
+[18:20:20]
+[VEbeHK] _
+?
+
+[18:20:22]
+[gOtnKd] xuan2wei1
+@eebot re：
+
+[18:20:28]
+[0/JM7u] DPG_H_THR_GF
+|nick|msg|
+|----|---|
+|ABot|成功挂机！|
+
+[18:20:28]
+[IiPtqX] jinxihexi_11
+@eebot 嘿嘿嘿
+
+[18:20:28]
+[sBsFHM] eebot
+ ee差不多快回家了
+
+[18:20:28]
+[sBsFHM] eebot
+ 发的什么呀xuan2wei1 乱打的吧
+
+[18:20:28]
+[sBsFHM] eebot
+ 嘿嘿嘿~
+
+[18:20:28]
+[21PnFs] terry
+i think this bot is more useful than ABot but more noisy
+
+[18:20:31]
+[gOtnKd] xuan2wei1
+@eebot re
+
+[18:20:39]
+[IiPtqX] jinxihexi_11
+@eebot 呵
+
+[18:20:42]
+[sBsFHM] eebot
+ 芜湖 列表也没问题
+
+[18:20:42]
+[VEbeHK] _
+indeed
+
+[18:20:42]
+[sBsFHM] eebot
+ →_→
+
+[18:20:42]
+[Hp0PpH] rua
+@eebot 睡觉
+
+[18:20:53]
+[IiPtqX] jinxihexi_11
+@eebot 2121212121—+2121212121212=
+
+[18:20:56]
+[sBsFHM] eebot
+ 快去睡吧）
+
+[18:20:56]
+[sBsFHM] eebot
+ 谈谈情 跳跳舞 跟eb搞暧昧啊
+
+[18:20:59]
+[0/JM7u] DPG_H_THR_GF
+Hi TUSK
+
+[18:20:59]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[18:20:59]
+[sBsFHM] eebot
+ hi yo TUSK
+
+[18:20:59]
+[21PnFs] terry
+wow
+
+[18:21:04]
+[21PnFs] terry
+TUSSKKK
+
+[18:21:06]
+[IiPtqX] jinxihexi_11
+@eebot 231231312312312321312312
+
+[18:21:09]
+[sBsFHM] eebot
+ 不知道jinxihexi_11发这样的信息是干嘛的
+
+[18:21:13]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:21:13]
+[0/JM7u] DPG_H_THR_GF
+Hi jyt
+
+[18:21:13]
+[sBsFHM] eebot
+ hello yo jyt
+
+[18:21:13]
+[IiPtqX] jinxihexi_11
+@eebot 玩bot啦
+
+[18:21:20]
+[sBsFHM] eebot
+ 额~ 好吧
+
+[18:21:20]
+[PXgRpV] TUSK
+大后天考试喽
+
+[18:21:22]
+[Hp0PpH] rua
+你不是说你下周回来qvq
+
+[18:21:27]
+[IiPtqX] jinxihexi_11
+@eebot 耍猴子
+
+[18:21:30]
+[sBsFHM] eebot
+ 地中海的猴子）
+
+[18:21:30]
+[21PnFs] terry
+我也是啊
+
+[18:21:30]
+[PXgRpV] TUSK
+草
+
+[18:21:30]
+[IiPtqX] jinxihexi_11
+@eebot 儿子
+
+[18:21:38]
+[21PnFs] terry
+我是下周一中考
+
+[18:21:38]
+[sBsFHM] eebot
+ 爸爸）
+
+[18:21:38]
+[VEbeHK] _
++1
+
+[18:21:38]
+[PXgRpV] TUSK
+今夕何夕
+
+[18:21:39]
+[IiPtqX] jinxihexi_11
+@eebot 你爸爸
+
+[18:21:43]
+[sBsFHM] eebot
+ 负二代
+
+[18:21:46]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:21:46]
+[0/JM7u] DPG_H_THR_GF
+Hi koodo
+
+[18:21:46]
+[Hp0PpH] rua
+~kick @jinxihexi_11 
+
+[18:21:46]
+[sBsFHM] eebot
+ hi yo koodo
+
+[18:21:46]
+[0/JM7u] DPG_H_THR_GF
+Bye, jinxihexi_11
+
+[18:21:47]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:21:47]
+[PXgRpV] TUSK
+怎么考试前这么晦气
+
+[18:21:51]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:21:51]
+[0/JM7u] DPG_H_THR_GF
+Hi jinxihexi_11
+
+[18:21:51]
+[sBsFHM] eebot
+ hello yo jinxihexi_11
+
+[18:21:51]
+[VEbeHK] _
+?
+
+[18:21:57]
+[Hp0PpH] rua
+你再玩bot
+
+[18:22:03]
+[0/JM7u] DPG_H_THR_GF
+Bye, jyt
+
+[18:22:03]
+[0/JM7u] DPG_H_THR_GF
+Hi Mr_Zhang
+
+[18:22:03]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:22:03]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:22:03]
+[sBsFHM] eebot
+ 这个人类是Mr_Zhang，编写了XChat的Python库，能够协助开发者快速编写bot。
+
+[18:22:03]
+[None] koodo
+这人挺多啊
+
+[18:22:04]
+[IiPtqX] jinxihexi_11
+随随便便踢人真没素质
+
+[18:22:04]
+[None] Mr_Zhang
+。。。
+
+[18:22:09]
+[sBsFHM] eebot
+ 原来是沉默吗
+
+[18:22:09]
+[Hp0PpH] rua
+你玩bot
+
+[18:22:12]
+[None] Mr_Zhang
+到底在干什么
+
+[18:22:16]
+[Hp0PpH] rua
+烦不烦
+
+[18:22:19]
+[sBsFHM] eebot
+ 这么明显还问（
+
+[18:22:19]
+[IiPtqX] jinxihexi_11
+@Mr_Zhang 识别码呢？
+
+[18:22:21]
+[None] Mr_Zhang
+忘了
+
+[18:22:26]
+[0/JM7u] DPG_H_THR_GF
+Bye, Mr_Zhang
+
+[18:22:27]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:22:27]
+[21PnFs] terry
+h
+
+[18:22:34]
+[PXgRpV] TUSK
+~kick @jinxihexi_11
+
+[18:22:34]
+[0/JM7u] DPG_H_THR_GF
+Hi Mr_Zhang
+
+[18:22:34]
+[0/JM7u] DPG_H_THR_GF
+Bye, jinxihexi_11
+
+[18:22:34]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[18:22:34]
+[sBsFHM] eebot
+ 这个人类是Mr_Zhang，编写了XChat的Python库，能够协助开发者快速编写bot。
+
+[18:22:34]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:22:34]
+[c01PWj] Mr_Zhang
+OK
+
+[18:22:38]
+[0/JM7u] DPG_H_THR_GF
+Hi jinxihexi_11
+
+[18:22:38]
+[sBsFHM] eebot
+ hey yo jinxihexi_11
+
+[18:22:38]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:22:38]
+[IiPtqX] jinxihexi_11
+妈的
+
+[18:22:39]
+[PXgRpV] TUSK
+~kick @jinxihexi_11
+
+[18:22:41]
+[0/JM7u] DPG_H_THR_GF
+Bye, jinxihexi_11
+
+[18:22:42]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:22:42]
+[c01PWj] Mr_Zhang
+别kick了
+
+[18:22:47]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:22:47]
+[0/JM7u] DPG_H_THR_GF
+Hi jinxihexi_11
+
+[18:22:48]
+[None] koodo
+有人没
+
+[18:22:48]
+[sBsFHM] eebot
+ hello yo jinxihexi_11
+
+[18:22:48]
+[PXgRpV] TUSK
+~kick @jinxihexi_11
+
+[18:22:49]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:22:49]
+[PXgRpV] TUSK
+h
+
+[18:22:54]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:22:54]
+[sBsFHM] eebot
+ hey yo jinxihexi_11
+
+[18:22:54]
+[geGDVS] O5_6
+awa
+
+[18:22:54]
+[PXgRpV] TUSK
+有趣哦
+
+[18:22:56]
+[geGDVS] O5_6
+...
+
+[18:22:57]
+[IiPtqX] jinxihexi_11
+别弄了啊
+
+[18:22:59]
+[Hp0PpH] rua
+h
+
+[18:23:00]
+[geGDVS] O5_6
+怎么了
+
+[18:23:01]
+[Hp0PpH] rua
+6
+
+[18:23:04]
+[21PnFs] terry
+noisy
+
+[18:23:07]
+[Hp0PpH] rua
+yep
+
+[18:23:11]
+[c01PWj] Mr_Zhang
+~remove PXgRpV
+
+[18:23:13]
+[QCkYle] ModBot
+Trip code "PXgRpV" may NO LONGER use this bot, the filthy commoner. . .
+
+[18:23:14]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:23:14]
+[0/JM7u] DPG_H_THR_GF
+Hi bihaitian
+
+[18:23:14]
+[sBsFHM] eebot
+ hi yo bihaitian
+
+[18:23:14]
+[21PnFs] terry
+stop spamming
+
+[18:23:19]
+[PXgRpV] TUSK
+，
+
+[18:23:22]
+[Hp0PpH] rua
+6
+
+[18:23:30]
+[geGDVS] O5_6
+:!lookup nick Mr_Zhang
+
+[18:23:33]
+[AAfFKK] AfK_Bot
+Aliases for hash 2fiFBdoAQHuYyRz: ['Mr_Zhang', 'jyt']
+Trips for hash 2fiFBdoAQHuYyRz: ['c01PWj', '']
+
+[18:23:33]
+[geGDVS] O5_6
+em
+
+[18:23:38]
+[IiPtqX] jinxihexi_11
+sBsFHM *
+@eebot 在中二病爆发期间购买雨云服务器被初墨打劫提权root抢走
+
+[18:23:40]
+[c01PWj] Mr_Zhang
+.
+
+[18:23:48]
+[PXgRpV] TUSK
+完了
+
+[18:23:48]
+[IiPtqX] jinxihexi_11
+@AfK_Bot help
+
+[18:23:49]
+[c01PWj] Mr_Zhang
+。。。
+
+[18:23:54]
+[geGDVS] O5_6
+@Mr_Zhang 你早上是不是把我禁言了
+
+[18:23:54]
+[PXgRpV] TUSK
+踢不了今夕何夕了
+
+[18:23:55]
+[c01PWj] Mr_Zhang
+对
+
+[18:23:57]
+[IiPtqX] jinxihexi_11
+sBsFHM *
+@eebot 在风暴平息后烹饪观赏鱼
+
+[18:23:59]
+[VEbeHK] _
+?
+
+[18:23:59]
+[c01PWj] Mr_Zhang
+解除了
+
+[18:24:00]
+[geGDVS] O5_6
+em
+
+[18:24:02]
+[c01PWj] Mr_Zhang
+都说了
+
+[18:24:02]
+[IiPtqX] jinxihexi_11
+@TUSK 有病啊
+
+[18:24:07]
+[c01PWj] Mr_Zhang
+十分钟后解除
+
+[18:24:09]
+[geGDVS] O5_6
+我也想踢你一下
+
+[18:24:14]
+[PXgRpV] TUSK
+天啊
+
+[18:24:14]
+[c01PWj] Mr_Zhang
+~kick O5_6
+
+[18:24:19]
+[0/JM7u] DPG_H_THR_GF
+Bye, O5_6
+
+[18:24:20]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:24:26]
+[0/JM7u] DPG_H_THR_GF
+Hi O5_6
+
+[18:24:26]
+[Hp0PpH] rua
+h
+
+[18:24:26]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[18:24:26]
+[sBsFHM] eebot
+ ~kick ee
+
+[18:24:26]
+[VEbeHK] _
+:!listop
+
+[18:24:26]
+[c01PWj] Mr_Zhang
+:!help
+
+[18:24:27]
+[AAfFKK] AfK_Bot
+Trip op: ['Hp0PpH', 'olX9Fe', 'gOtnKd', 'EbHaY9', 'geGDVS', '8mT5YX', 'aOEdh/', 'YCSh95', 'c01PWj', 'Myh1TA', 'n3CJhb', 'rrrRRR', 'a/Jz/a', '7EMhUN', 'VFg6Hd', 'PXgRpV', '0/JM7u', '21PnFs', 'JRO2/+']
+
+[18:24:27]
+[AAfFKK] AfK_Bot
+:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!addop  :!removeop  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick
+
+[18:24:27]
+[IiPtqX] jinxihexi_11
+@TUSK 敢问阁下是不是得过脑瘫？
+
+[18:24:33]
+[PXgRpV] TUSK
+今夕何夕翻身做主人了啊
+
+[18:24:39]
+[c01PWj] Mr_Zhang
+:!help ban
+
+[18:24:40]
+[geGDVS] O5_6
+~kick Mr_Zhang？
+
+[18:24:42]
+[QCkYle] ModBot
+I've never seen this man in my life. . .
+
+[18:24:42]
+[geGDVS] O5_6
+awa。。。
+
+[18:24:51]
+[IiPtqX] jinxihexi_11
+~kick @jinxihexi_11 
+
+[18:24:53]
+[QCkYle] ModBot
+No. But nice try.
+
+[18:24:53]
+[Hp0PpH] rua
+?
+
+[18:24:53]
+[c01PWj] Mr_Zhang
+:!ban O5_6 5
+
+[18:24:56]
+[AAfFKK] AfK_Bot
+Banned hash O5_6 5
+
+[18:24:56]
+[sBsFHM] eebot
+ 这个问题谁设置的呵呵
+
+[18:24:56]
+[VEbeHK] _
+hash
+
+[18:24:59]
+[geGDVS] O5_6
+no
+
+[18:24:59]
+[VEbeHK] _
+plz
+
+[18:25:00]
+[VEbeHK] _
+obo
+
+[18:25:03]
+[c01PWj] Mr_Zhang
+~kick O5_6
+
+[18:25:04]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:25:04]
+[0/JM7u] DPG_H_THR_GF
+Bye, O5_6
+
+[18:25:04]
+[Hp0PpH] rua
+az
+
+[18:25:07]
+[VEbeHK] _
+:!lookup nick O5_6
+
+[18:25:09]
+[AAfFKK] AfK_Bot
+Aliases for hash f7cv6Fyoqzs9g92: ['O5_6', 'Mod_Bot', '__', 'O5_', '_', '6_5O', 'ni_die', 'test']
+Trips for hash f7cv6Fyoqzs9g92: ['geGDVS', 'EbHaY9', 'VFg6Hd', '']
+
+[18:25:09]
+[None] koodo
+恕我直言
+
+[18:25:14]
+[VEbeHK] _
+:!listban
+
+[18:25:20]
+[AAfFKK] AfK_Bot
+Hash banned: ['O5_6 5']
+
+[18:25:20]
+[IiPtqX] jinxihexi_11
+:!~kick @jinxihexi_11 
+
+[18:25:20]
+[PXgRpV] TUSK
+dpg帮我把今夕何夕踢喽
+
+[18:25:21]
+[None] koodo
+我觉得在座各位都得过脑瘫
+
+[18:25:25]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[18:25:25]
+[sBsFHM] eebot
+ hello yo __
+
+[18:25:25]
+[0/JM7u] DPG_H_THR_GF
+Hi __
+
+[18:25:25]
+[VEbeHK] _
+:!unbanall
+
+[18:25:27]
+[VFg6Hd] __
+~remove c01PWj
+
+[18:25:29]
+[QCkYle] ModBot
+Trip code "c01PWj" may NO LONGER use this bot, the filthy commoner. . .
+
+[18:25:29]
+[VFg6Hd] __
+heng
+
+[18:25:33]
+[None] koodo
+还不是一般的脑瘫
+
+[18:25:34]
+[c01PWj] Mr_Zhang
+...
+
+[18:25:36]
+[None] koodo
+那是非一般的脑瘫
+
+[18:25:38]
+[c01PWj] Mr_Zhang
+你干啥
+
+[18:25:41]
+[None] koodo
+除了zhang
+
+[18:25:45]
+[PXgRpV] TUSK
+@__ 
+
+[18:25:45]
+[c01PWj] Mr_Zhang
+ModBot是我请来的
+
+[18:25:49]
+[PXgRpV] TUSK
+快
+
+[18:25:51]
+[VFg6Hd] __
+awa
+
+[18:25:53]
+[VEbeHK] _
+~add c01PWj
+
+[18:25:53]
+[QCkYle] ModBot
+Trip code "c01PWj" may now use this bot. . .
+
+[18:25:53]
+[VEbeHK] _
+~remove VFg6Hd
+
+[18:25:54]
+[QCkYle] ModBot
+Trip code "VFg6Hd" may NO LONGER use this bot, the filthy commoner. . .
+
+[18:25:54]
+[VEbeHK] _
+done
+
+[18:25:57]
+[VFg6Hd] __
+。。。
+
+[18:25:57]
+[c01PWj] Mr_Zhang
+我今天一肚子气
+
+[18:25:58]
+[IiPtqX] jinxihexi_11
+@Mr_Zhang 怎么？
+
+[18:26:03]
+[VFg6Hd] __
+aaaaaaaaaaaaaaaawwa？
+
+[18:26:04]
+[VEbeHK] _
+@Mr_Zhang can use :!kick
+
+[18:26:06]
+[None] koodo
+我也一肚子气
+
+[18:26:10]
+[VFg6Hd] __
+~kick __
+
+[18:26:10]
+[QCkYle] ModBot
+Your mother was a hamster.
+
+[18:26:10]
+[VEbeHK] _
+multiple kicks
+
+[18:26:11]
+[c01PWj] Mr_Zhang
+OK
+
+[18:26:13]
+[VFg6Hd] __
+:!kick __
+
+[18:26:19]
+[PXgRpV] TUSK
+如果是你请来的我们不能用的话就把管理权收回去
+
+[18:26:19]
+[AAfFKK] AfK_Bot
+~kick __
+
+[18:26:20]
+[0/JM7u] DPG_H_THR_GF
+Bye, __
+
+[18:26:21]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:26:21]
+[None] koodo
+快把肺气炸了
+
+[18:26:25]
+[IiPtqX] jinxihexi_11
+:!kick @jinxihexi_11 
+
+[18:26:27]
+[c01PWj] Mr_Zhang
+该走了
+
+[18:26:27]
+[c01PWj] Mr_Zhang
+bye
+
+[18:26:31]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[18:26:31]
+[sBsFHM] eebot
+ hi yo __
+
+[18:26:31]
+[VFg6Hd] __
+aaaaaaaaaaaawwwwa
+
+[18:26:35]
+[IiPtqX] jinxihexi_11
+!kick @jinxihexi_11
+
+[18:26:37]
+[PXgRpV] TUSK
+awa
+
+[18:26:39]
+[sBsFHM] eebot
+ QvQ
+
+[18:26:39]
+[VFg6Hd] __
+...
+
+[18:26:40]
+[VEbeHK] _
+?
+
+[18:26:41]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:26:41]
+[VFg6Hd] __
+afk
+
+[18:26:43]
+[sBsFHM] eebot
+@__ 现在在离开键盘
+
+[18:26:43]
+[VFg6Hd] __
+.afk
+
+[18:26:46]
+[sBsFHM] eebot
+@__ 停止了离开键盘
+
+[18:26:46]
+[VFg6Hd] __
+?
+
+[18:26:49]
+[0/JM7u] DPG_H_THR_GF
+|nick|msg|
+|----|---|
+|ABot|成功挂机！|
+|eebot|@__ 停止了离开键盘|
+
+[18:26:49]
+[Hp0PpH] rua
+:!lookup nick @koodo 
+
+[18:26:56]
+[AAfFKK] AfK_Bot
+Aliases for hash QY52v5ZyBP4dizr: ['koodo', 'gg']
+Trips for hash QY52v5ZyBP4dizr: ['']
+
+[18:26:56]
+[VFg6Hd] __
+:!kick __
+
+[18:26:57]
+[AAfFKK] AfK_Bot
+~kick __
+
+[18:26:58]
+[0/JM7u] DPG_H_THR_GF
+Bye, __
+
+[18:27:02]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:27:02]
+[IiPtqX] jinxihexi_11
+eebot怎么一直在私聊胡话
+
+[18:27:03]
+[sBsFHM] eebot
+ 咱是中国人 请讲中文 谢谢！
+
+[18:27:03]
+[Hp0PpH] rua
+.
+
+[18:27:05]
+[VEbeHK] _
+:!removeop VFg6Hd
+
+[18:27:10]
+[AAfFKK] AfK_Bot
+Removed trip VFg6Hd op
+
+[18:27:10]
+[IiPtqX] jinxihexi_11
+你们看
+sBsFHM *
+@eebot 在梦中打磨铝片
+
+[18:27:16]
+[None] koodo
+@eebot 简直是优美的中国话
+
+[18:27:24]
+[21PnFs] terry
+too noisy!!!
+
+[18:27:24]
+[sBsFHM] eebot
+ koodo一开口 eb就知道结果 koodo就不能搞点新创意出来嘛
+
+[18:27:27]
+[0/JM7u] DPG_H_THR_GF
+Bye, TUSK
+
+[18:27:27]
+[VEbeHK] _
+indeed
+
+[18:27:28]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:27:31]
+[None] koodo
+@eebot 不能
+
+[18:27:36]
+[0/JM7u] DPG_H_THR_GF
+Hi TUSK
+
+[18:27:37]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[18:27:37]
+[sBsFHM] eebot
+ hey yo TUSK
+
+[18:27:37]
+[0/JM7u] DPG_H_THR_GF
+Bye, TUSK
+
+[18:27:37]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:27:37]
+[sBsFHM] eebot
+ 为什么 小气（
+
+[18:27:37]
+[21PnFs] terry
+~kick eebot
+
+[18:41:35]
+[sBsFHM] eebot
+ [2022.07.08 18:41:35]
+
+[18:41:35]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:41:35]
+[0/JM7u] DPG_H_THR_GF
+Hi eebot
+
+[18:41:36]
+[sBsFHM] eebot
+ ·
+明天是周六 放心睡吧！
+更多玩法请输入：功能
+
+[18:41:36]
+[Myh1TA] 4n0n4me
+原来是jinxihexi有关的事情
+
+[18:41:42]
+[21PnFs] terry
+:!ban HXRDqfcfISfzDZ5
+
+[18:41:46]
+[AAfFKK] AfK_Bot
+Banned hash HXRDqfcfISfzDZ5
+
+[18:41:46]
+[Hp0PpH] rua
+ ??
+
+[18:41:47]
+[PXgRpV] TUSK
+h
+
+[18:41:54]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:41:54]
+[0/JM7u] DPG_H_THR_GF
+Hi bihaitian
+
+[18:41:54]
+[sBsFHM] eebot
+ hello yo bihaitian
+
+[18:41:54]
+[roMh/U] bihaitian
+？？？
+
+[18:41:58]
+[PXgRpV] TUSK
+@4n0n4me 人家说你有黑暗交易
+
+[18:42:03]
+[VEbeHK] _
+?
+
+[18:42:04]
+[Hp0PpH] rua
+az
+
+[18:42:10]
+[Myh1TA] 4n0n4me
+哦
+
+[18:42:13]
+[sBsFHM] eebot
+ 草哦
+
+[18:42:13]
+[PXgRpV] TUSK
+哦
+
+[18:42:21]
+[sBsFHM] eebot
+ 哦草
+
+[18:42:21]
+[PXgRpV] TUSK
+h
+
+[18:42:26]
+[roMh/U] bihaitian
+好像并没有什么卵用/shrug
+
+[18:42:26]
+[Myh1TA] 4n0n4me
+先前发生的事情就是关于我的“黑幕”吗？
+
+[18:42:28]
+[VEbeHK] _
+?
+
+[18:42:33]
+[roMh/U] bihaitian
+shurg
+
+[18:42:33]
+[PXgRpV] TUSK
+没啊
+
+[18:42:39]
+[sBsFHM] eebot
+ [2022.07.08 18:42:39]
+
+[18:42:39]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:42:39]
+[0/JM7u] DPG_H_THR_GF
+Hi eebot
+
+[18:42:40]
+[sBsFHM] eebot
+ ·
+明天是周六 放心睡吧！
+更多玩法请输入：功能
+
+[18:42:40]
+[sBsFHM] eebot
+[ee] 嘶 发现BUG
+
+[18:42:40]
+[PXgRpV] TUSK
+是因为我踢他
+
+[18:42:50]
+[4TmEZc] fish
+guruguru
+
+[18:42:51]
+[Myh1TA] 4n0n4me
+说我有黑幕的是arcadia吧
+
+[18:43:08]
+[Myh1TA] 4n0n4me
+他不是不在吗
+
+[18:43:10]
+[PXgRpV] TUSK
+他就是歌伎
+
+[18:43:13]
+[AAfFKK] AfK_Bot
+~kick jinxihexi11
+
+[18:43:13]
+[0/JM7u] DPG_H_THR_GF
+Hi jinxihexi11
+
+[18:43:13]
+[sBsFHM] eebot
+ hi yo jinxihexi11
+
+[18:43:13]
+[0/JM7u] DPG_H_THR_GF
+Bye, jinxihexi11
+
+[18:43:13]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:43:14]
+[Hp0PpH] rua
+h
+
+[18:43:18]
+[Myh1TA] 4n0n4me
+我觉得没必要...
+
+[18:43:22]
+[PXgRpV] TUSK
+ban喽
+
+[18:43:22]
+[PXgRpV] TUSK
+好耶
+
+[18:43:24]
+[Hp0PpH] rua
+maybe
+
+[18:43:34]
+[21PnFs] terry
+nope
+
+[18:43:35]
+[PXgRpV] TUSK
+歌姬不如
+
+[18:43:43]
+[PXgRpV] TUSK
+他
+
+[18:43:45]
+[Hp0PpH] rua
+hh
+
+[18:43:54]
+[AAfFKK] AfK_Bot
+~kick jinxihexi
+
+[18:43:54]
+[0/JM7u] DPG_H_THR_GF
+Hi jinxihexi
+
+[18:43:55]
+[0/JM7u] DPG_H_THR_GF
+Bye, jinxihexi
+
+[18:43:55]
+[sBsFHM] eebot
+ hey yo jinxihexi
+
+[18:43:55]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:43:55]
+[21PnFs] terry
+让lounge变得混乱
+
+[18:43:57]
+[Hp0PpH] rua
+qs
+
+[18:44:01]
+[21PnFs] terry
+需要禁止
+
+[18:44:02]
+[roMh/U] bihaitian
+？？？咋了）
+
+[18:44:04]
+[roMh/U] bihaitian
+@AfK_Bot cnm
+
+[18:44:11]
+[21PnFs] terry
+@bihaitian 你也是
+
+[18:44:20]
+[Hp0PpH] rua
+最近是有点乱，lounge
+
+[18:44:25]
+[0/JM7u] DPG_H_THR_GF
+Hi jinxihexi
+
+[18:44:26]
+[AAfFKK] AfK_Bot
+~kick jinxihexi
+
+[18:44:26]
+[Hp0PpH] rua
+qvq
+
+[18:44:26]
+[0/JM7u] DPG_H_THR_GF
+Bye, jinxihexi
+
+[18:44:26]
+[sBsFHM] eebot
+ hey yo jinxihexi
+
+[18:44:26]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:44:26]
+[21PnFs] terry
+需要禁止
+
+[18:44:42]
+[AAfFKK] AfK_Bot
+~kick bihaitian
+
+[18:44:43]
+[0/JM7u] DPG_H_THR_GF
+Bye, bihaitian
+
+[18:44:44]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:44:44]
+[PXgRpV] TUSK
+gta6:lounge
+
+[18:44:54]
+[Hp0PpH] rua
+lounge没有原来那么纯真咯
+
+[18:45:03]
+[KpcRPf] Ad_chan_114140
+UwU!Ad_chan又来打广告力！
+[广告]
+新兴聊天室 chat.thz.cool 已就位！点此访问：https://chat.thz.cool/
+****
+欢迎来 zzchat.eu.org 聊天！点此访问：https://zzchat.eu.org/beta/
+****
+美观的GAF-CUI(GS App Frame-ChatApp UI),开发人员们快看齐！ 点此访问：https://github.com/zzChumo/ChatApp-GUI
+不想开发聊天应用？那也有GAF(GS App Frame)为您创建美观网页！点此访问：https://www.zzchat.cf/GAF/
+
+[18:45:44]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:45:44]
+[sBsFHM] eebot
+ hello yo Ad_chan_114140
+
+[18:45:44]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:45:44]
+[0/JM7u] DPG_H_THR_GF
+Hi Ad_chan_114140
+
+[18:45:44]
+[0/JM7u] DPG_H_THR_GF
+Bye, Ad_chan_114140
+
+[18:45:45]
+[AAfFKK] AfK_Bot
+~kick dm
+
+[18:45:45]
+[0/JM7u] DPG_H_THR_GF
+Hi dm
+
+[18:45:45]
+[0/JM7u] DPG_H_THR_GF
+Bye, dm
+
+[18:45:45]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:45:45]
+[21PnFs] terry
+very useful bot
+
+[18:45:46]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:45:46]
+[Hp0PpH] rua
+hh
+
+[18:45:46]
+[0/JM7u] DPG_H_THR_GF
+Hi bihaitian
+
+[18:45:46]
+[sBsFHM] eebot
+@Ad_chan_114140 hack.chat
+https://chat.thz.cool/
+
+[18:45:46]
+[sBsFHM] eebot
+ hi yo dm
+
+[18:45:46]
+[sBsFHM] eebot
+ hello yo bihaitian
+
+[18:45:46]
+[21PnFs] terry
+no dirty words
+
+[18:46:00]
+[AAfFKK] AfK_Bot
+awa!
+
+[18:46:01]
+[sBsFHM] eebot
+ [2022.07.08 18:46:00]
+
+[18:46:01]
+[0/JM7u] DPG_H_THR_GF
+Hi eebot
+
+[18:46:02]
+[sBsFHM] eebot
+ ·
+明天是周六 放心睡吧！
+更多玩法请输入：功能
+
+[18:46:02]
+[sBsFHM] eebot
+[ee] 现在~kick应该不会有错了（可能
+
+[18:46:12]
+[AAfFKK] AfK_Bot
+~kick dsj
+
+[18:46:12]
+[0/JM7u] DPG_H_THR_GF
+Hi dsj
+
+[18:46:12]
+[Hp0PpH] rua
+ok
+
+[18:46:12]
+[0/JM7u] DPG_H_THR_GF
+Bye, dsj
+
+[18:46:13]
+[sBsFHM] eebot
+ hey yo dsj
+
+[18:46:13]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:46:21]
+[AAfFKK] AfK_Bot
+~kick dsj
+
+[18:46:21]
+[0/JM7u] DPG_H_THR_GF
+Hi dsj
+
+[18:46:21]
+[sBsFHM] eebot
+ hello yo dsj
+
+[18:46:21]
+[0/JM7u] DPG_H_THR_GF
+Bye, dsj
+
+[18:46:21]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:46:21]
+[PXgRpV] TUSK
+呦呦呦
+
+[18:46:25]
+[0/JM7u] DPG_H_THR_GF
+Bye, xuan2wei1
+
+[18:46:25]
+[Hp0PpH] rua
+dsj是哪个
+
+[18:46:26]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:46:26]
+[PXgRpV] TUSK
+这不ee吗
+
+[18:46:27]
+[PXgRpV] TUSK
+几天不见
+
+[18:46:30]
+[roMh/U] bihaitian
+口吐芬芳就会被踢？）
+
+[18:46:31]
+[PXgRpV] TUSK
+甚是想念
+
+[18:46:34]
+[Hp0PpH] rua
+az
+
+[18:46:37]
+[21PnFs] terry
+今夕何夕为什么这么执着
+
+[18:46:38]
+[PXgRpV] TUSK
+QAP
+
+[18:46:40]
+[Hp0PpH] rua
+hh
+
+[18:46:43]
+[0/JM7u] DPG_H_THR_GF
+Bye, TUSK
+
+[18:46:43]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:46:43]
+[Hp0PpH] rua
+byebye
+
+[18:46:59]
+[0/JM7u] DPG_H_THR_GF
+Bye, rua
+
+[18:46:59]
+[AAfFKK] AfK_Bot
+awa...
+
+[18:46:59]
+[roMh/U] bihaitian
+那这么说tusk早该被ban了
+
+[18:47:07]
+[21PnFs] terry
+why
+
+[18:47:27]
+[21PnFs] terry
+reason
+
+[18:47:32]
+[VEbeHK] _
+?
+
+[18:47:42]
+[roMh/U] bihaitian
+因为tusk口吐芬芳小冠军啊）
+
+[18:47:59]
+[21PnFs] terry
+.
+
+[18:48:05]
+[Myh1TA] 4n0n4me
+为了吃瓜，以后我也会变成聊天室的瓜的
+
+[18:48:13]
+[Myh1TA] 4n0n4me
+但是现在吃的很开心
+
+[18:48:17]
+[Myh1TA] 4n0n4me
+为了吃瓜，以后我可能也会变成聊天室的瓜的
+
+[18:48:38]
+[VEbeHK] _
+also
+
+[18:49:34]
+[21PnFs] terry
+@bihaitian 你听今夕何夕瞎扯蛋啊
+
+[18:49:49]
+[21PnFs] terry
+nice
+
+[18:49:56]
+[VEbeHK] _
+h
+
+[18:50:01]
+[roMh/U] bihaitian
+雀食啊
+
+[18:50:07]
+[roMh/U] bihaitian
+几分钟前多芬芳啊
+
+[18:50:17]
+[21PnFs] terry
+这是今夕何夕应得的惩罚
+
+[18:50:20]
+[21PnFs] terry
+ban他一天吧
+
+[18:51:07]
+[21PnFs] terry
+明天再嚣张就不帮他解封了
+
+[18:51:27]
+[21PnFs] terry
+-_-
+
+[18:51:32]
+[VEbeHK] _
+.-.
+
+[18:51:35]
+[21PnFs] terry
+你不会已经解了吧
+
+[18:51:46]
+[21PnFs] terry
+:!banlist
+
+[18:51:51]
+[21PnFs] terry
+?
+
+[18:51:57]
+[Myh1TA] 4n0n4me
+兄弟们
+
+[18:52:06]
+[21PnFs] terry
+:!help
+
+[18:52:08]
+[AAfFKK] AfK_Bot
+:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!addop  :!removeop  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick
+
+[18:52:08]
+[Myh1TA] 4n0n4me
+我曾经说过
+
+[18:52:11]
+[sBsFHM] eebot
+ 爱过4n0n4me
+
+[18:52:11]
+[Myh1TA] 4n0n4me
+要捍卫言论自由
+
+[18:52:11]
+[Myh1TA] 4n0n4me
+我觉得说的太对了
+
+[18:52:16]
+[21PnFs] terry
+:!listban
+
+[18:52:19]
+[AAfFKK] AfK_Bot
+Hash banned: ['hash QY52v5ZyBP4dizr', 'HXRDqfcfISfzDZ5', 'hash DsvYXY33KqVSbsm']
+
+[18:52:19]
+[21PnFs] terry
+okay
+
+[18:52:26]
+[Myh1TA] 4n0n4me
+beaconbot，如同美国一般的灯塔
+
+[18:52:29]
+[Myh1TA] 4n0n4me
+捍卫所有人的自由
+
+[18:52:32]
+[Myh1TA] 4n0n4me
+这个bot应该具有强大的作用
+
+[18:52:44]
+[Myh1TA] 4n0n4me
+让它不被踢
+
+[18:52:50]
+[21PnFs] terry
+所以你觉得今夕何夕应该解封吗@4n0n4me 
+
+[18:52:53]
+[Myh1TA] 4n0n4me
+让它不能被踢
+
+[18:52:53]
+[roMh/U] bihaitian
+所以AFKbot为什么有管理员的权限a
+
+[18:53:02]
+[Myh1TA] 4n0n4me
+然后，我的多输入、多输出设想
+
+[18:53:05]
+[Myh1TA] 4n0n4me
+让人在另外的频道
+
+[18:53:10]
+[Myh1TA] 4n0n4me
+可以用他说话
+
+[18:53:13]
+[21PnFs] terry
+我听不懂你的意思。
+
+[18:53:32]
+[Myh1TA] 4n0n4me
+当然，目前这一概念设想还没有解决一个问题，就是怎么样转发消息给另一个频道的人
+
+[18:53:41]
+[roMh/U] bihaitian
+AFKbot为什么有管理员的权限。。。
+
+[18:53:51]
+[21PnFs] terry
+这个不是已经实现了吗
+
+[18:53:55]
+[Myh1TA] 4n0n4me
+因为dpg是afkbot的作者
+
+[18:54:00]
+[Myh1TA] 4n0n4me
+dpg选上协管了
+
+[18:54:06]
+[21PnFs] terry
+yc的协管需要选举
+
+[18:54:26]
+[Myh1TA] 4n0n4me
+对，这边不需要
+
+[18:54:34]
+[Myh1TA] 4n0n4me
+口误了
+
+[18:54:35]
+[21PnFs] terry
+lounge的协管需要在lounge的时间足够长
+
+[18:54:39]
+[Myh1TA] 4n0n4me
+现在yc是衰落了
+
+[18:54:39]
+[21PnFs] terry
+并且不是今夕何夕那样的混蛋
+
+[18:54:51]
+[sBsFHM] eebot
+ 咳咳
+
+[18:54:51]
+[Myh1TA] 4n0n4me
+yc的“把权力关在笼子里”，完成不完成
+
+[18:54:54]
+[Myh1TA] 4n0n4me
+又有谁在乎呢
+
+[18:54:59]
+[Myh1TA] 4n0n4me
+毕竟，这是费力不讨好的，我也没有成功
+
+[18:55:08]
+[sBsFHM] eebot
+ 为了吃瓜 以后eb可能也会变成聊天室的瓜的
+
+[18:55:08]
+[21PnFs] terry
+没有人在意一个协管权
+
+[18:55:20]
+[Myh1TA] 4n0n4me
+也就是说，这是社会的决定
+
+[18:55:40]
+[Myh1TA] 4n0n4me
+行吧吗
+
+[18:55:55]
+[Myh1TA] 4n0n4me
+行吧
+
+[18:55:58]
+[21PnFs] terry
+我觉得lounge现在就非常的宁静
+
+[18:56:25]
+[roMh/U] bihaitian
+没觉得）））
+
+[18:56:49]
+[Myh1TA] 4n0n4me
+唉，确实
+
+[18:57:14]
+[Myh1TA] 4n0n4me
+民主
+
+[18:57:15]
+[VEbeHK] _
+?
+
+[18:57:17]
+[VEbeHK] _
+awa
+
+[18:57:26]
+[sBsFHM] eebot
+ ou0
+
+[18:57:27]
+[Myh1TA] 4n0n4me
+我只好说……
+
+[18:58:01]
+[Myh1TA] 4n0n4me
+风水轮流转。
+
+[18:58:15]
+[a/Jz/a] Li
+wc，1100多条消息
+
+[18:58:24]
+[21PnFs] terry
+h
+
+[18:58:27]
+[Myh1TA] 4n0n4me
+等到某些人不在了
+
+[18:58:36]
+[Myh1TA] 4n0n4me
+这里就非常的自由了
+
+[18:58:41]
+[VEbeHK] _
+awa
+
+[18:59:01]
+[sBsFHM] eebot
+ UoU
+
+[18:59:01]
+[roMh/U] bihaitian
+好家伙）
+
+[18:59:09]
+[a/Jz/a] Li
+我要绝对自由
+
+[18:59:20]
+[21PnFs] terry
+。哪些人呢
+
+[18:59:21]
+[Myh1TA] 4n0n4me
+也不能这么说吧，我也不自由，某人恰巧用了我的真名缩写进hc，被我一直踢
+
+[19:00:03]
+[KpcRPf] Ad_chan_53873
+UwU!Ad_chan又来打广告力！
+[广告]
+新兴聊天室 chat.thz.cool 已就位！点此访问：https://chat.thz.cool/
+****
+欢迎来 zzchat.eu.org 聊天！点此访问：https://zzchat.eu.org/beta/
+****
+美观的GAF-CUI(GS App Frame-ChatApp UI),开发人员们快看齐！ 点此访问：https://github.com/zzChumo/ChatApp-GUI
+不想开发聊天应用？那也有GAF(GS App Frame)为您创建美观网页！点此访问：https://www.zzchat.cf/GAF/
+
+[19:00:14]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:00:14]
+[0/JM7u] DPG_H_THR_GF
+Hi Ad_chan_53873
+
+[19:00:14]
+[sBsFHM] eebot
+ hi yo Ad_chan_53873
+
+[19:00:14]
+[0/JM7u] DPG_H_THR_GF
+Bye, Ad_chan_53873
+
+[19:00:14]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:00:14]
+[21PnFs] terry
+所以到底要不要放今夕何夕出来
+
+[19:00:14]
+[roMh/U] bihaitian
+感觉一年前（不到）我看一眼lounge一个人没有）
+
+[19:00:14]
+[sBsFHM] eebot
+@Ad_chan_53873 GitHub - zzChumo/ChatApp-GUI: A very beautiful UI for Chat Apps
+https://github.com/zzChumo/ChatApp-GUI
+·
+@Ad_chan_53873 hack.chat
+https://chat.thz.cool/
+
+[19:00:14]
+[a/Jz/a] Li
+请问哪里有网络上的dns服务器列表
+
+[19:00:15]
+[roMh/U] bihaitian
+、
+
+[19:01:40]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:01:40]
+[0/JM7u] DPG_H_THR_GF
+Hi 790K
+
+[19:01:40]
+[sBsFHM] eebot
+ hi yo 790K
+
+[19:01:40]
+[a/Jz/a] Li
+卧槽
+
+[19:01:42]
+[a/Jz/a] Li
+离谱
+
+[19:01:43]
+[None] 790K
+hi
+
+[19:01:47]
+[None] 790K
+今天日本那个首相让人拿火铳喷死了
+
+[19:02:10]
+[None] 790K
+牛逼
+
+[19:02:15]
+[None] 790K
+我只能说
+
+[19:02:18]
+[a/Jz/a] Li
+[![jBbURs.png](https://s1.ax1x.com/2022/07/08/jBbURs.png)](https://imgtu.com/i/jBbURs)
+
+[19:03:31]
+[sBsFHM] eebot
+@Li image - 路过图床
+https://imgtu.com/i/jBbURs
+
+[19:03:31]
+[roMh/U] bihaitian
+怎么会有白菜大蒜馅的饺子（外面买的）
+
+[19:03:50]
+[roMh/U] bihaitian
+（呕）
+
+[19:05:33]
+[sBsFHM] eebot_619
+ QuQ eb的昵称卡在里面了
+
+[19:05:33]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:05:33]
+[0/JM7u] DPG_H_THR_GF
+Hi eebot_619
+
+[19:05:34]
+[sBsFHM] eebot_619
+~kick eebot
+
+[19:05:38]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:05:38]
+[0/JM7u] DPG_H_THR_GF
+Hi eebot
+
+[19:05:38]
+[sBsFHM] eebot
+ [2022.07.08 19:05:37]
+
+[19:05:38]
+[sBsFHM] eebot
+ ·
+明天是周六 放心睡吧！
+更多玩法请输入：功能
+
+[19:05:38]
+[roMh/U] bihaitian
+@terry why
+
+[19:05:50]
+[21PnFs] terry
+为什么我追了四年的女生和我一个好朋友关系那么好a
+
+[19:06:02]
+[21PnFs] terry
+我好废物
+
+[19:06:08]
+[VEbeHK] _
+?
+
+[19:06:22]
+[roMh/U] bihaitian
+az。。。
+
+[19:06:24]
+[None] 790K
+我的法克
+
+[19:06:34]
+[None] 790K
+追四年
+
+[19:06:38]
+[None] 790K
+兄弟放弃吧
+
+[19:06:41]
+[roMh/U] bihaitian
+智者不入爱河，建设美丽中国
+
+[19:06:46]
+[21PnFs] terry
+什么充斥着背刺的混乱世界
+
+[19:06:57]
+[None] 790K
+不找女人不买房不生娃娃
+
+[19:07:20]
+[roMh/U] bihaitian
+呵呵，女朋友是什么（）
+
+[19:07:21]
+[a/Jz/a] Li
+林冲火并安倍
+
+[19:07:26]
+[None] 790K
+潇洒就完事了奥
+
+[19:07:27]
+[21PnFs] terry
+nope
+
+[19:07:46]
+[None] 790K
+那请宁继续折腾
+
+[19:08:04]
+[None] 790K
+不干涉他人内事
+
+[19:08:10]
+[21PnFs] terry
+she and he
+
+[19:08:15]
+[21PnFs] terry
+terry just a dog
+
+[19:08:20]
+[21PnFs] terry
+:(
+
+[19:08:25]
+[VEbeHK] _
+?
+
+[19:08:29]
+[None] 790K
+so sad
+
+[19:08:46]
+[None] 790K
+【关我屁事】
+
+[19:08:50]
+[roMh/U] bihaitian
+...
+
+[19:09:20]
+[roMh/U] bihaitian
+无情
+
+[19:09:28]
+[21PnFs] terry
+这究竟是怎么回事呢
+
+[19:09:35]
+[21PnFs] terry
+:(
+
+[19:09:40]
+[21PnFs] terry
+也有可能是我学校里面对她时太怂蛋了
+
+[19:10:14]
+[roMh/U] bihaitian
+感觉我初中三年没有一节网课不摸鱼()
+
+[19:10:15]
+[VEbeHK] _
+?
+
+[19:10:38]
+[None] 790K
+@terry 你要是这么说
+
+[19:10:47]
+[None] 790K
+我大概能想象是个什么情况了
+
+[19:11:02]
+[21PnFs] terry
+yep
+
+[19:11:07]
+[None] 790K
+That girl
+
+[19:11:51]
+[None] 790K
+but i let it get away
+
+[19:11:58]
+[roMh/U] bihaitian
+...
+
+[19:13:38]
+[sBsFHM] eebot
+ ·
+严富强的博客
+https://yanfuqiang.github.io/
+
+[19:13:42]
+[AAfFKK] AfK_Bot
+~kick jinxihexi
+
+[19:13:42]
+[sBsFHM] eebot
+ hello yo jinxihexi
+
+[19:13:42]
+[0/JM7u] DPG_H_THR_GF
+Hi jinxihexi
+
+[19:13:43]
+[0/JM7u] DPG_H_THR_GF
+Bye, jinxihexi
+
+[19:13:43]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:13:43]
+[roMh/U] bihaitian
+az...
+
+[19:14:36]
+[0/JM7u] DPG_H_THR_GF
+Bye, fish
+
+[19:14:37]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:14:37]
+[None] 790K
+@terry 天涯何处无芳草
+
+[19:14:52]
+[VEbeHK] _
+wwwwc
+
+[19:15:03]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:15:03]
+[KpcRPf] Ad_chan_41187
+UwU!Ad_chan又来打广告力！
+[广告]
+新兴聊天室 chat.thz.cool 已就位！点此访问：https://chat.thz.cool/
+****
+欢迎来 zzchat.eu.org 聊天！点此访问：https://zzchat.eu.org/beta/
+****
+美观的GAF-CUI(GS App Frame-ChatApp UI),开发人员们快看齐！ 点此访问：https://github.com/zzChumo/ChatApp-GUI
+不想开发聊天应用？那也有GAF(GS App Frame)为您创建美观网页！点此访问：https://www.zzchat.cf/GAF/
+
+[19:15:08]
+[0/JM7u] DPG_H_THR_GF
+Hi Ad_chan_41187
+
+[19:15:08]
+[0/JM7u] DPG_H_THR_GF
+Bye, Ad_chan_41187
+
+[19:15:08]
+[sBsFHM] eebot
+ hi yo Ad_chan_41187
+
+[19:15:08]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:15:08]
+[None] 790K
+不要悲伤不要哭泣
+
+[19:15:09]
+[sBsFHM] eebot
+@Ad_chan_41187 GitHub - zzChumo/ChatApp-GUI: A very beautiful UI for Chat Apps
+https://github.com/zzChumo/ChatApp-GUI
+·
+@Ad_chan_41187 hack.chat
+https://chat.thz.cool/
+
+[19:15:09]
+[VEbeHK] _
+this
+
+[19:15:13]
+[VEbeHK] _
+is
+
+[19:15:14]
+[None] 790K
+ao吗？
+
+[19:15:14]
+[roMh/U] bihaitian
+震惊
+
+[19:17:00]
+[roMh/U] bihaitian
+下划线说话了
+
+[19:17:07]
+[None] 790K
+。。。。
+
+[19:17:52]
+[roMh/U] bihaitian
+好家伙
+
+[19:18:06]
+[sBsFHM] eebot
+ 吹啊（
+
+[19:18:06]
+[21PnFs] terry
+bye
+
+[19:18:09]
+[roMh/U] bihaitian
+安倍晋三的百度词条更新了
+
+[19:18:25]
+[0/JM7u] DPG_H_THR_GF
+Bye, terry
+
+[19:18:26]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:18:26]
+[roMh/U] bihaitian
+去世于7月8日
+
+[19:18:39]
+[0/JM7u] DPG_H_THR_GF
+Hi xuan2wei1
+
+[19:18:39]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[19:18:39]
+[sBsFHM] eebot
+ hello yo xuan2wei1
+
+[19:18:40]
+[gOtnKd] xuan2wei1
+@eebot hi yo~
+
+[19:19:01]
+[sBsFHM] eebot
+ 所以xuan2wei1说的是什么意思
+
+[19:19:02]
+[None] 790K
+安倍滴，八嘎
+
+[19:19:03]
+[None] 790K
+死啦死啦滴！
+
+[19:19:06]
+[gOtnKd] xuan2wei1
+??
+
+[19:19:08]
+[roMh/U] bihaitian
+.....................
+
+[19:19:44]
+[a/Jz/a] Li
+林冲大火并安倍
+
+[19:19:47]
+[VEbeHK] _
+?
+
+[19:19:53]
+[roMh/U] bihaitian
+. . . . . . .. . . . . . . . . . 
+
+[19:19:56]
+[roMh/U] bihaitian
+..
+
+[19:20:01]
+[None] 790K
+。。。。
+
+[19:20:42]
+[0/JM7u] DPG_H_THR_GF
+Bye, 790K
+
+[19:20:43]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:22:22]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:22:22]
+[0/JM7u] DPG_H_THR_GF
+Hi ji11
+
+[19:22:22]
+[sBsFHM] eebot
+ hihi
+
+[19:22:39]
+[0/JM7u] DPG_H_THR_GF
+Bye, ji11
+
+[19:22:40]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:22:58]
+[0/JM7u] DPG_H_THR_GF
+Bye, bihaitian
+
+[19:22:59]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:24:31]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[19:28:24]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:28:24]
+[0/JM7u] ABot
+Hi DSF
+
+[19:28:24]
+[sBsFHM] eebot
+ hey yo DSF
+
+[19:28:24]
+[None] DSF
+DSFSDKFHA KJDA
+
+[19:28:26]
+[None] DSF
+DSFSJAFGAHFJDHFJASHFSAIDFHASHHUHFYDHUAHADFA
+
+[19:28:33]
+[0/JM7u] ABot
+Bye, DSF
+
+[19:28:33]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:30:03]
+[KpcRPf] Ad_chan_74858
+UwU!Ad_chan又来打广告力！
+[广告]
+新兴聊天室 chat.thz.cool 已就位！点此访问：https://chat.thz.cool/
+****
+欢迎来 zzchat.eu.org 聊天！点此访问：https://zzchat.eu.org/beta/
+****
+美观的GAF-CUI(GS App Frame-ChatApp UI),开发人员们快看齐！ 点此访问：https://github.com/zzChumo/ChatApp-GUI
+不想开发聊天应用？那也有GAF(GS App Frame)为您创建美观网页！点此访问：https://www.zzchat.cf/GAF/
+
+[19:30:11]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:30:11]
+[0/JM7u] ABot
+Hi Ad_chan_74858
+
+[19:30:11]
+[0/JM7u] ABot
+Bye, Ad_chan_74858
+
+[19:30:11]
+[sBsFHM] eebot
+ hey yo Ad_chan_74858
+
+[19:30:11]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:30:11]
+[sBsFHM] eebot
+@Ad_chan_74858 hack.chat
+https://chat.thz.cool/
+·
+@Ad_chan_74858 GitHub - zzChumo/ChatApp-GUI: A very beautiful UI for Chat Apps
+https://github.com/zzChumo/ChatApp-GUI
+
+[19:31:49]
+[0/JM7u] ABot
+Hi hlg10
+
+[19:31:49]
+[sBsFHM] eebot
+ hello yo hlg10
+
+[19:31:49]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[19:31:49]
+[0/JM7u] hlg10
+dpg呢，把反广告放回来嘛
+
+[19:32:47]
+[0/JM7u] hlg10
+@ee 功能
+
+[19:33:09]
+[VEbeHK] _
+?
+
+[19:33:13]
+[0/JM7u] hlg10
+功能
+
+[19:33:15]
+[0/JM7u] hlg10
+ees
+
+[19:35:24]
+[AAfFKK] AfK_Bot
+~kick 12
+
+[19:35:24]
+[0/JM7u] ABot
+Hi 12
+
+[19:35:24]
+[0/JM7u] ABot
+Bye, 12
+
+[19:35:25]
+[sBsFHM] eebot
+ hi yo 12
+
+[19:35:25]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:35:25]
+[0/JM7u] hlg10
+E-~fu~ck off
+
+[19:36:17]
+[sBsFHM] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[19:38:08]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:38:08]
+[sBsFHM] eebot_533
+ QuQ eb的昵称卡在里面了
+
+[19:38:08]
+[0/JM7u] ABot
+Hi eebot_533
+
+[19:38:08]
+[sBsFHM] eebot_533
+~kick eebot
+
+[19:38:12]
+[sBsFHM] eebot
+ [2022.07.08 19:38:12]
+
+[19:38:12]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:38:12]
+[0/JM7u] ABot
+Hi eebot
+
+[19:38:13]
+[sBsFHM] eebot
+ ·
+明天是周六 放心睡吧！
+更多玩法请输入：功能
+
+[19:40:02]
+[0/JM7u] ABot
+Bye, DPG_H_THR_GF
+
+[19:40:02]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:40:18]
+[0/JM7u] ABot
+Hi huolongguo10
+
+[19:40:18]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[19:40:19]
+[sBsFHM] eebot
+ hello yo huolongguo10
+
+[19:40:19]
+[0/JM7u] huolongguo10
+r
+
+[19:40:33]
+[sBsFHM] eebot
+ 521
+
+[19:40:33]
+[0/JM7u] huolongguo10
+功能
+
+[19:40:44]
+[0/JM7u] huolongguo10
+R-20
+
+[19:41:38]
+[sBsFHM] eebot
+ 目前仅有3条聊天记录
+
+[19:41:41]
+[0/JM7u] ABot
+Bye, 4n0n4me
+
+[19:41:42]
+[0/JM7u] ABot
+Bye, 4n0n4me_
+
+[19:41:42]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:41:42]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:41:43]
+[0/JM7u] huolongguo10
+U-awa
+
+[19:42:27]
+[sBsFHM] eebot
+ a-awa 
+
+[19:42:27]
+[0/JM7u] huolongguo10
+bot
+
+[19:42:45]
+[0/JM7u] ABot
+Hi terry
+
+[19:42:45]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[19:42:45]
+[sBsFHM] eebot
+ hello yo terry
+
+[19:42:45]
+[21PnFs] terry
+:!lookup nick jinxihexi_11
+
+[19:42:57]
+[AAfFKK] AfK_Bot
+Aliases for hash HXRDqfcfISfzDZ5: ['12', 'jinxihexi', 'dsj', 'dm', 'jinxihexi11', 'jxi_11', '12345', '0', '11', 'IiPtqX', 'jinxihexi_11', '_11', 'IiPtqX_11', 'Jxi']
+Trips for hash HXRDqfcfISfzDZ5: ['IiPtqX', 'erU1/O', '', 'K1jc0N', 'G5Y082']
+
+[19:42:57]
+[21PnFs] terry
+:!unban HXRDqfcfISfzDZ5
+
+[19:43:10]
+[AAfFKK] AfK_Bot
+qwq
+
+[19:43:11]
+[21PnFs] terry
+?
+
+[19:43:22]
+[0/JM7u] huolongguo10
+我要写代码了
+
+[19:43:24]
+[VEbeHK] _
+?
+
+[19:43:31]
+[21PnFs] terry
+:!list ban
+
+[19:43:48]
+[AAfFKK] AfK_Bot
+Hash banned: []
+Trip op: ['Hp0PpH', 'olX9Fe', 'gOtnKd', 'EbHaY9', 'geGDVS', '8mT5YX', 'aOEdh/', 'YCSh95', 'c01PWj', 'Myh1TA', 'n3CJhb', 'rrrRRR', 'a/Jz/a', '7EMhUN', 'PXgRpV', '0/JM7u', '21PnFs', 'JRO2/+']
+
+[19:43:48]
+[21PnFs] terry
+oh
+
+[19:43:51]
+[21PnFs] terry
+u have del all
+
+[19:44:13]
+[0/JM7u] ABot
+Bye, huolongguo10
+
+[19:44:14]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:44:14]
+[21PnFs] terry
+怎么有三个火龙果
+
+[19:44:23]
+[21PnFs] terry
+o
+
+[19:44:28]
+[21PnFs] terry
+只剩两个了
+
+[19:44:28]
+[0/JM7u] ABot
+Hi 4n0n4me
+
+[19:44:28]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[19:44:29]
+[sBsFHM] eebot
+ hi yo 4n0n4me
+
+[19:44:29]
+[21PnFs] terry
+蝴蝶刀真是费手啊
+
+[19:44:47]
+[VEbeHK] _
+?
+
+[19:45:03]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:45:03]
+[KpcRPf] Ad_chan_113175
+UwU!Ad_chan又来打广告力！
+[广告]
+新兴聊天室 chat.thz.cool 已就位！点此访问：https://chat.thz.cool/
+****
+欢迎来 zzchat.eu.org 聊天！点此访问：https://zzchat.eu.org/beta/
+****
+美观的GAF-CUI(GS App Frame-ChatApp UI),开发人员们快看齐！ 点此访问：https://github.com/zzChumo/ChatApp-GUI
+不想开发聊天应用？那也有GAF(GS App Frame)为您创建美观网页！点此访问：https://www.zzchat.cf/GAF/
+
+[19:45:08]
+[0/JM7u] ABot
+Hi Ad_chan_113175
+
+[19:45:08]
+[sBsFHM] eebot
+ hey yo Ad_chan_113175
+
+[19:45:08]
+[0/JM7u] ABot
+Bye, Ad_chan_113175
+
+[19:45:08]
+[VEbeHK] _
+ii
+
+[19:45:08]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:45:08]
+[VEbeHK] _
+-.-
+
+[19:45:08]
+[sBsFHM] eebot
+@Ad_chan_113175 hack.chat
+https://chat.thz.cool/
+·
+@Ad_chan_113175 GitHub - zzChumo/ChatApp-GUI: A very beautiful UI for Chat Apps
+https://github.com/zzChumo/ChatApp-GUI
+
+[19:45:08]
+[sBsFHM] eebot
+ o︵o
+
+[19:45:09]
+[21PnFs] terry
+今天就是生气日吧
+
+[19:46:43]
+[21PnFs] terry
+任何事都特别生气
+
+[19:47:00]
+[VEbeHK] _
+.-.
+
+[19:49:19]
+[VEbeHK] _
+indeed
+
+[19:49:22]
+[VEbeHK] _
+TUSK terry Mr_Zhang ee etc
+
+[19:49:35]
+[VEbeHK] _
+obo
+
+[19:49:42]
+[VEbeHK] _
+also
+
+[19:49:47]
+[VEbeHK] _
+@terry 
+
+[19:49:49]
+[VEbeHK] _
+this is so weird
+
+[19:50:14]
+[VEbeHK] _
+maybe pure luck
+
+[19:50:19]
+[VEbeHK] _
+@Hp
+
+[19:52:02]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:52:02]
+[sBsFHM] eebot
+ hey yo Zhang_3
+
+[19:52:02]
+[0/JM7u] ABot
+Hi Zhang_3
+
+[19:52:03]
+[VEbeHK] _
+hi
+
+[19:52:21]
+[None] Zhang_3
+Are there any Chinese?
+
+[19:52:26]
+[VEbeHK] _
+ofc
+
+[19:52:53]
+[None] Zhang_3
+嗨嗨嗨
+
+[19:53:30]
+[VEbeHK] _
+?
+
+[19:55:04]
+[None] Zhang_3
+我 是 法 外 狂 徒 张 三
+
+[19:58:52]
+[0/JM7u] ABot
+Hi Sserrrrr
+
+[19:58:52]
+[sBsFHM] eebot
+ hi yo Sserrrrr
+
+[19:58:52]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:58:53]
+[None] Sserrrrr
+Jhhhh
+
+[19:59:27]
+[0/JM7u] ABot
+Bye, Sserrrrr
+
+[19:59:27]
+[AAfFKK] AfK_Bot
+awa...
+
+[20:00:03]
+[KpcRPf] Ad_chan_45141
+UwU!Ad_chan又来打广告力！
+[广告]
+新兴聊天室 chat.thz.cool 已就位！点此访问：https://chat.thz.cool/
+****
+欢迎来 zzchat.eu.org 聊天！点此访问：https://zzchat.eu.org/beta/
+****
+美观的GAF-CUI(GS App Frame-ChatApp UI),开发人员们快看齐！ 点此访问：https://github.com/zzChumo/ChatApp-GUI
+不想开发聊天应用？那也有GAF(GS App Frame)为您创建美观网页！点此访问：https://www.zzchat.cf/GAF/
+

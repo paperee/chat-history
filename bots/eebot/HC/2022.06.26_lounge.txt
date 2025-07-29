@@ -1,0 +1,630 @@
+[08:20:06]
+[0/JM7u] ABot
+Hi eebot
+
+[08:20:09]
+[sBsFHM] eebot
+ [2022.06.26 08:20:05]
+
+[08:20:09]
+[sBsFHM] eebot
+ ·
+明天是周一 今晚早点睡 上班别迟到了。
+更多玩法请输入：功能
+
+[08:20:09]
+[Hp0PpH] SAKura
+hh
+
+[08:20:14]
+[AAfFKK] AfK_Bot
+awa!
+
+[08:20:15]
+[Hp0PpH] SAKura
+功能
+
+[08:20:21]
+[Hp0PpH] SAKura
+好家伙
+
+[08:21:10]
+[PXgRpV] TUSK
+清朝的衣服也太难看了吧
+
+[08:21:12]
+[Hp0PpH] SAKura
+这么多功能
+
+[08:21:18]
+[PXgRpV] TUSK
+清朝，全中最拉
+
+[08:21:21]
+[Hp0PpH] SAKura
+看不懂QwQ
+
+[08:21:24]
+[PXgRpV] TUSK
+功能
+
+[08:21:33]
+[Hp0PpH] SAKura
+True
+
+[08:21:37]
+[Hp0PpH] SAKura
+飞花令
+
+[08:21:46]
+[sBsFHM] eebot
+ ·
+示例（轮流）：
+花自飘零水自流
+落花时节又逢君
+春江花潮秋月夜
+人面桃花相映红
+不知近水花先发
+千树万树梨花开
+霜叶红于二月花
+·
+使用方法：
+1.P-关键字：设置关键词 默认为花
+2.P-七言律诗：按规则进行
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.关键字设定后会随机选取模式
+2.模式有两种：固定、轮流
+3.固定时每句的关键词位置不会变动
+4.轮流时关键字按顺序排（如示例）
+5.当句子为7时会自动结束游戏
+
+[08:21:46]
+[sBsFHM] eebot
+ 请用P-输入关键字
+
+[08:21:46]
+[PXgRpV] TUSK
+@eebot lit
+
+[08:21:59]
+[sBsFHM] eebot
+ TUSK也可以凭空强扭瓜吗
+
+[08:21:59]
+[PXgRpV] TUSK
+。
+
+[08:22:03]
+[Hp0PpH] SAKura
+h
+
+[08:22:03]
+[Hp0PpH] SAKura
+@eebot 重启
+
+[08:22:23]
+[sBsFHM] eebot
+ 不行——还在玩游戏呢
+
+[08:22:23]
+[Hp0PpH] SAKura
+。
+
+[08:22:27]
+[Hp0PpH] SAKura
+。
+
+[08:22:30]
+[PXgRpV] TUSK
+p-死
+
+[08:22:40]
+[Hp0PpH] SAKura
+@eebot 退出
+
+[08:22:43]
+[sBsFHM] eebot
+ 不行——还在玩游戏呢
+
+[08:22:43]
+[PXgRpV] TUSK
+P-死
+
+[08:22:55]
+[sBsFHM] eebot
+ 飞花令游戏开始
+
+[08:22:55]
+[sBsFHM] eebot
+ ·
+关键字：死（TUSK）
+·
+模式：固定
+位置：关键词在每句的第4个字上
+
+[08:22:56]
+[sBsFHM] eebot
+ 每句的死在第4个字上
+
+[08:22:56]
+[Hp0PpH] SAKura
+游戏结束
+
+[08:23:05]
+[Hp0PpH] SAKura
+结束游戏
+
+[08:23:16]
+[sBsFHM] eebot
+ 飞花令已结束
+
+[08:23:16]
+[Hp0PpH] SAKura
+@eebot 睡
+
+[08:23:43]
+[sBsFHM] eebot
+ uwu SAKura晚安！eb要睡了
+
+[08:23:43]
+[Hp0PpH] SAKura
+@eebot 昵称（AFk_BOt）
+
+[08:24:19]
+[sBsFHM] eebot
+ （eb休息中）
+
+[08:24:20]
+[Hp0PpH] SAKura
+hjh
+
+[08:24:23]
+[Hp0PpH] SAKura
+@eebot 醒
+
+[08:24:31]
+[sBsFHM] eebot
+ 早安~SAKura
+
+[08:24:31]
+[PXgRpV] TUSK
+@eebot 法克鱿
+
+[08:25:02]
+[Hp0PpH] SAKura
+@eebot 昵称（AFk_Bot）
+
+[08:25:02]
+[sBsFHM] eebot
+ 法克me
+
+[08:25:02]
+[sBsFHM] eebot
+ 昵称不可以比名字长
+
+[08:25:02]
+[Hp0PpH] SAKura
+.
+
+[08:25:10]
+[Hp0PpH] SAKura
+@eebot 昵称（Afk）
+
+[08:25:22]
+[sBsFHM] eebot
+ 昵称只能是中文或英文或数字
+
+[08:25:33]
+[sBsFHM] eebot
+[ee] @eebot 昵称Afk
+
+[08:25:33]
+[Hp0PpH] SAKura
+@eebot 
+
+[08:25:52]
+[sBsFHM] eebot
+ 找ee去吧
+
+[08:26:09]
+[0/JM7u] ABot
+Hi SUN_TUSK
+
+[08:26:09]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[08:26:09]
+[sBsFHM] eebot
+ hey yooo SUN_TUSK
+
+[08:26:10]
+[PXgRpV] SUN_TUSK
+兄弟们
+
+[08:26:14]
+[Hp0PpH] SAKura
+嗯
+
+[08:26:25]
+[PXgRpV] SUN_TUSK
+我是写
+
+[08:26:29]
+[PXgRpV] SUN_TUSK
+中国古代世界观
+
+[08:26:45]
+[PXgRpV] SUN_TUSK
+还是泰拉世界观
+
+[08:26:45]
+[Hp0PpH] SAKura
+[ee] @eebot 昵称aa
+
+[08:26:47]
+[Hp0PpH] SAKura
+@SUN_TUSK 都行
+
+[08:27:16]
+[sBsFHM] eebot
+[ee] 不不不 不要带前缀
+
+[08:27:17]
+[PXgRpV] SUN_TUSK
+给点建议
+
+[08:27:25]
+[Hp0PpH] SAKura
+你喜欢哪个或那个好写就写那个
+
+[08:27:26]
+[PXgRpV] SUN_TUSK
+我都喜欢
+
+[08:27:31]
+[PXgRpV] SUN_TUSK
+awa
+
+[08:27:33]
+[sBsFHM] eebot
+ OxO
+
+[08:27:33]
+[Hp0PpH] SAKura
+@eebot 昵称ee
+
+[08:27:42]
+[sBsFHM] eebot
+ 好耶！eebot喜欢ee这个昵称
+
+[08:27:42]
+[Hp0PpH] SAKura
+@eebot 
+
+[08:27:50]
+[sBsFHM] eebot
+ 欢迎来hack.chat聊天
+
+[08:27:50]
+[Hp0PpH] SAKura
+QwQ
+
+[08:28:02]
+[Hp0PpH] SAKura
+功能
+
+[08:28:15]
+[PXgRpV] SUN_TUSK
+那我写泰拉吧
+
+[08:28:18]
+[Hp0PpH] SAKura
+嗯
+
+[08:28:22]
+[PXgRpV] SUN_TUSK
+古代的东西要看太多材料了
+
+[08:28:30]
+[PXgRpV] SUN_TUSK
+qwp
+
+[08:28:32]
+[Hp0PpH] SAKura
+qs
+
+[08:29:01]
+[Hp0PpH] SAKura
+@eebot 睡
+
+[08:29:11]
+[sBsFHM] eebot
+ uwu SAKura晚安！ee要睡了
+
+[08:29:11]
+[Hp0PpH] SAKura
+@eebot 
+
+[08:29:15]
+[sBsFHM] eebot
+ （ee休息中）
+
+[08:29:16]
+[Hp0PpH] SAKura
+hh
+
+[08:29:26]
+[sBsFHM] eebot
+[ee] 这时候可以说：功能
+
+[08:29:27]
+[Hp0PpH] SAKura
+ok
+
+[08:29:32]
+[Hp0PpH] SAKura
+@eebot 明天中考加油！
+
+[08:30:01]
+[sBsFHM] eebot
+ Zzzz好困
+
+[08:30:04]
+[sBsFHM] eebot
+[ee] ~~会有亿点变化~~
+
+[08:30:04]
+[PXgRpV] SUN_TUSK
+@eebot 法克鱿
+
+[08:30:07]
+[sBsFHM] eebot
+ Zzzz好困
+
+[08:30:07]
+[PXgRpV] SUN_TUSK
+功能
+
+[08:30:15]
+[Hp0PpH] SAKura
+功能
+
+[08:30:15]
+[0/JM7u] ABot
+Bye, TUSK
+
+[08:30:15]
+[AAfFKK] AfK_Bot
+awa...
+
+[08:30:42]
+[sBsFHM] eebot
+[ee] 功能
+
+[08:30:43]
+[PXgRpV] SUN_TUSK
+@eebot 醒
+
+[08:30:45]
+[sBsFHM] eebot
+ 早安~SUN_TUSK
+
+[08:30:45]
+[Hp0PpH] SAKura
+online
+
+[08:30:47]
+[PXgRpV] SUN_TUSK
+功能
+
+[08:30:53]
+[PXgRpV] SUN_TUSK
+？！
+
+[08:31:04]
+[PXgRpV] SUN_TUSK
+功能
+
+[08:31:37]
+[sBsFHM] eebot
+ [2022.06.26 08:31:36]
+
+[08:31:37]
+[0/JM7u] ABot
+Hi eebot
+
+[08:32:11]
+[sBsFHM] eebot
+ [2022.06.26 08:32:10]
+
+[08:32:11]
+[0/JM7u] ABot
+Hi eebot
+
+[08:32:11]
+[sBsFHM] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[08:32:11]
+[AAfFKK] AfK_Bot
+awa!
+
+[08:32:18]
+[Hp0PpH] SAKura
+:!lookup nick ABot
+
+[08:32:24]
+[AAfFKK] AfK_Bot
+Aliases for hash 9H08yCF1ho4cCmy: ['__', '_', 'ViewOnlineUsers', 'huolongguo10', 'o', 'ABot', 'Hack4r', '__kali777__', 'afk', 'Hp']
+Trips for hash 9H08yCF1ho4cCmy: ['', '0/JM7u', 'aaffkk']
+
+[08:32:41]
+[sBsFHM] eebot_882
+ QuQ eb的昵称卡在里面了
+
+[08:32:41]
+[0/JM7u] ABot
+Hi eebot_882
+
+[08:32:41]
+[AAfFKK] AfK_Bot
+awa!
+
+[08:32:41]
+[sBsFHM] eebot_882
+ QuQ eb的昵称卡在里面了
+
+[08:32:41]
+[0/JM7u] ABot
+Hi eebot_882
+
+[08:32:41]
+[AAfFKK] AfK_Bot
+awa!
+
+[08:32:41]
+[sBsFHM] eebot_882
+~kick eebot
+
+[08:32:41]
+[sBsFHM] eebot_882
+~kick eebot
+
+[08:32:45]
+[sBsFHM] eebot
+ [2022.06.26 08:32:44]
+
+[08:32:45]
+[0/JM7u] ABot
+Hi eebot
+
+[08:32:45]
+[sBsFHM] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[08:32:45]
+[AAfFKK] AfK_Bot
+awa...
+
+[08:32:46]
+[AAfFKK] AfK_Bot
+awa!
+
+[08:32:49]
+[0/JM7u] ABot
+Bye, doon
+
+[08:32:51]
+[AAfFKK] AfK_Bot
+awa...
+
+[08:33:09]
+[AAfFKK] AfK_Bot
+awa!
+
+[08:33:09]
+[0/JM7u] ABot
+Hi doon
+
+[08:33:09]
+[sBsFHM] eebot
+ hi yooooo doon
+
+[08:33:09]
+[Hp0PpH] SAKura
+:!lookup nick @AfK_Bot 
+
+[08:33:10]
+[AAfFKK] AfK_Bot
+Aliases for hash ZD40vrBZcdF04l2: ['_', 'AfK_Bot', 'ON_ONE', 'AfK_Bot_371', 'AfK_Bot_901', '__']
+Trips for hash ZD40vrBZcdF04l2: ['VEbeHK', 'AAfFKK']
+
+[08:33:10]
+[6uRwDz] doon
+a
+
+[08:33:16]
+[Hp0PpH] SAKura
+h
+
+[08:33:29]
+[Hp0PpH] SAKura
+DPG现在进不来
+
+[08:33:46]
+[Hp0PpH] SAKura
+我把他名字占了
+
+[08:33:54]
+[Hp0PpH] SAKura
+hhhhh
+
+[08:33:58]
+[Hp0PpH] SAKura
+.help
+
+[08:34:04]
+[0/JM7u] ABot
+# 帮助：
+|位置      |命令     |参数           |说明
+|----------|---------|---------------|------------------------------------------------|
+|公屏      |脏话     |无             |提醒你不要说脏话|
+|私聊      |.at      |无             |自动翻译|
+|->私聊    |.ate     |无             |关闭自动翻译|
+|公屏      |@ABot    |msg            |聊天机器人，msg为你想说的话|
+|私聊      |.create  |username       |创建小号，username为用户名|
+|->私聊    |.chat    |msg            |私聊你刚刚创建的小号来控制它，msg为你想说的话
+|->私聊    |.exit    |无             |退出小号
+|/私聊     |.tpm     |最大投票选项+1 |为即将创建的投票做准备
+|&#124;私聊|.tp      |info           |投票信息+选项
+|\私聊    |.tpe     |无             |投票结束
+|公屏      |.onlineusers| 无         |查看在线用户
+|公屏      |.protect |无             |保护自己不被盗号
+|公屏      |.help    |无             |帮助
+|公屏      |.afk     |无             |挂机
+### ！禁止刷屏！
+
+[08:34:05]
+[None] _
+我是sak
+
+[08:34:37]
+[Hp0PpH] SAKura
+h
+
+[08:34:40]
+[Hp0PpH] SAKura
+小号
+
+[08:34:46]
+[None] __
+qw
+
+[08:35:17]
+[Hp0PpH] SAKura
+@__ 这个也是我
+
+[08:35:30]
+[Hp0PpH] SAKura
+hh
+
+[08:35:52]
+[0/JM7u] ABot
+Bye, SAKura
+
+[08:35:53]
+[AAfFKK] AfK_Bot
+awa...
+
+[08:35:53]
+[6uRwDz] doon
+我是sak
+

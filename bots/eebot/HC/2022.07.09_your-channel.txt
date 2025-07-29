@@ -1,0 +1,2214 @@
+[11:09:55]
+[sBsFHM] eebot_892
+本聊天室已连通 [XChat｜xq102210]
+
+[11:09:55]
+[sBsFHM] eebot_892
+{}
+
+[11:09:56]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:09:56]
+[sBsFHM] eebot_892
+[DPGawa] _
+hope no bugs <3
+
+[11:09:56]
+[VEbeHK] dx_xb
+?
+
+[11:10:03]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+@_ @_ 对我有信心不
+
+[11:10:05]
+[sBsFHM] eebot_892
+[DPGawa] _
+?
+
+[11:10:10]
+[sBsFHM] eebot_892
+[DPGawa] _
+ofc
+
+[11:10:13]
+[eYFDHl] ee
+哈哈哈哈哈
+
+[11:10:21]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+我肯定能搞个下届合金套
+
+[11:10:21]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+我要压榨我的肝
+
+[11:10:35]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+哈哈哈哈
+
+[11:10:39]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+简要评析写错一个变量导致的宕机
+
+[11:10:39]
+[eYFDHl] ee
+这样就实现了
+
+[11:10:42]
+[sBsFHM] eebot_892
+[DPGawa] _
+h
+
+[11:10:43]
+[VEbeHK] dx_xb
+so
+
+[11:10:48]
+[sBsFHM] eebot_892
+[DPGawa] _
+?
+
+[11:10:54]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+@_ 我用1.19连是吧
+
+[11:10:58]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+刚才写错了一个变量
+
+[11:11:01]
+[sBsFHM] eebot_892
+[DPGawa] _
+yep
+
+[11:11:03]
+[eYFDHl] ee
+lo和yc和xc连 yc和xc连
+
+[11:11:05]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+ok
+
+[11:11:06]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+导致ZhangHelper原地升天
+
+[11:11:09]
+[AAfFKK] AfK_Bot
+ @eebot_892 AKKKKK!!!!!
+
+[11:11:09]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+NBNB
+
+[11:11:15]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+我这边显示客户端过期
+
+[11:11:29]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+要换1.19的
+
+[11:11:38]
+[eYFDHl] ee
+:!setatblv -1
+
+[11:11:52]
+[VEbeHK] dx_xb
+-.-
+
+[11:12:00]
+[VEbeHK] dx_xb
+:!setatblv -1
+
+[11:12:06]
+[AAfFKK] AfK_Bot
+Set autoban level : -1
+
+[11:12:06]
+[eYFDHl] ee
+emmmmmm
+
+[11:12:34]
+[VEbeHK] dx_xb
+?
+
+[11:12:40]
+[eYFDHl] ee
+OK
+
+[11:12:46]
+[c01PWj] Mr_Zhang
+emmmm
+
+[11:12:46]
+[c01PWj] Mr_Zhang
+NBNB
+
+[11:12:50]
+[eYFDHl] ee
+>lo和yc和xc连 yc和xc连
+
+[11:12:59]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+ohhhh
+
+[11:13:07]
+[eYFDHl] ee
+特别好玩（
+
+[11:13:16]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+哈哈哈
+
+[11:13:23]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+下1.19的？@KiloMxmxxx 
+
+[11:13:28]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+emmm
+
+[11:13:40]
+[sBsFHM] eebot_892
+[DPGawa] _
+server has
+
+[11:13:43]
+[sBsFHM] eebot_892
+[DPGawa] _
+ViaVersion
+
+[11:13:47]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+。
+
+[11:14:13]
+[sBsFHM] eebot_892
+[zhang] ZhangHelperS
+我记下来了，当识别码为 Admin 的用户上线时，我会第一时间通知他。
+
+[11:14:16]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+我换成了vlai的号
+
+[11:14:28]
+[sBsFHM] eebot_892
+[zhang] ZhangHelperS
+已保存设置！
+
+[11:14:34]
+[sBsFHM] eebot_892
+[DPGawa] _
+?
+
+[11:14:35]
+[sBsFHM] eebot_892
+[zhang] ZhangHelperS
+已更正地区。
+
+[11:14:41]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+emmmm？
+
+[11:14:51]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+BUG？？？
+
+[11:14:55]
+[sBsFHM] eebot_892
+[DPGawa] _
+?
+
+[11:15:05]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+PUBG
+
+[11:15:12]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+@_ 如果出bug了就重置存档吧
+
+[11:15:16]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+>ZhangHelperS whispered: 亲爱的用户，您好。
+天气获取失败！您可以通过 `^city` 命令更正地区，感谢您的大力支持。
+
+[11:15:20]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+反正只有点钻石啥的
+
+[11:15:27]
+[sBsFHM] eebot_892
+[DPGawa] _
+?
+
+[11:15:28]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+半小时就能搞到昂
+
+[11:15:38]
+[sBsFHM] eebot_892
+[DPGawa] _
+[03:11:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:15:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+
+[11:15:41]
+[sBsFHM] eebot_892
+[DPGawa] _
+-.-
+
+[11:15:44]
+[sBsFHM] eebot_892
+[DPGawa] _
+[03:15:47] [Worker-Main-12/INFO]: Preparing spawn area: 2%
+
+[11:15:58]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+尽量不要用指令了，summon和tp都别用好嘛
+
+[11:16:05]
+[sBsFHM] eebot_892
+[DPGawa] _
+awa
+
+[11:16:10]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+experience也别用
+
+[11:16:15]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+好嘛好嘛
+
+[11:16:19]
+[sBsFHM] eebot_892
+[DPGawa] _
+ooo
+
+[11:16:24]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+oooook
+
+[11:16:28]
+[sBsFHM] eebot_892
+[DPGawa] _
+[03:16:43] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[03:16:44] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+
+[11:16:48]
+[sBsFHM] eebot_892
+[DPGawa] _
+obo
+
+[11:16:50]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+0v0
+
+[11:16:53]
+[sBsFHM] eebot_892
+[DPGawa] _
+OvO
+
+[11:16:59]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+Ow-
+
+[11:17:02]
+[sBsFHM] eebot_892
+[DPGawa] _
+cuter
+
+[11:17:05]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:17:05]
+[None] Colin
+哦！
+
+[11:17:12]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+OwO
+
+[11:17:12]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+QwQ
+
+[11:17:16]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+有点忙不过来了
+
+[11:17:26]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+;_;
+
+[11:17:33]
+[sBsFHM] eebot_892
+[DPGawa] _
+?
+
+[11:17:37]
+[sBsFHM] eebot_892
+[DPGawa] _
+;-;
+
+[11:17:38]
+[eYFDHl] ee
+hi yo
+
+[11:17:41]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+~~.~~_~~.~~
+
+[11:17:50]
+[sBsFHM] eebot_892
+[DPGawa] _
+[03:17:46] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+
+[11:17:52]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+~~.~~_~~.~~
+
+[11:17:55]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+aww
+
+[11:18:00]
+[None] Colin
+体寒被冻醒了，这可是夏天啊！我是不是没救了
+
+[11:18:09]
+[sBsFHM] eebot_892
+[DPGawa] _
+what speeeed
+
+[11:18:10]
+[VEbeHK] dx_xb
+?
+
+[11:18:16]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+~~.~~^~~.~~
+
+[11:18:20]
+[eYFDHl] ee
+草
+
+[11:18:22]
+[VEbeHK] dx_xb
+https://hack.chat/?lounge
+https://xq.kzw.ink/?xq102210
+
+[11:18:27]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+~~.~~草哈哈哈~~.~~
+
+[11:18:28]
+[VEbeHK] dx_xb
+obo
+
+[11:18:29]
+[c01PWj] Mr_Zhang
+哈哈哈
+
+[11:18:33]
+[eYFDHl] ee
+@Colin 你们那边多少度（
+
+[11:18:37]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+~~.~~38°~~.~~
+
+[11:18:44]
+[c01PWj] Mr_Zhang
+我们这里热得很。。。
+
+[11:18:53]
+[eYFDHl] ee
+哈哈哈哈哈哈哈哈哈哈
+
+[11:18:53]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+~~.~~我们这里是直角（~~.~~
+
+[11:19:02]
+[None] Colin
+我这边也是35，36度
+
+[11:19:02]
+[sBsFHM] eebot_892
+[DPGawa] _
+[03:18:52] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+
+[11:19:04]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+90°
+
+[11:19:06]
+[sBsFHM] eebot_892
+[DPGawa] _
+--.--\
+
+[11:19:07]
+[None] Colin
+我竟然还是被冻醒了
+
+[11:19:08]
+[eYFDHl] ee
+我这边才31°
+
+[11:19:11]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+az
+
+[11:19:12]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[11:19:13]
+[eYFDHl] ee
+好家伙
+
+[11:19:14]
+[None] Colin
+我是不是应该生活在热带
+
+[11:19:14]
+[c01PWj] Mr_Zhang
+啊，这
+
+[11:19:16]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+哈哈哈哈
+
+[11:19:17]
+[c01PWj] Mr_Zhang
+纬度位置
+
+[11:19:20]
+[sBsFHM] eebot_892
+[DPGawa] _
+ohh
+
+[11:19:26]
+[c01PWj] Mr_Zhang
+影响气温
+
+[11:19:27]
+[sBsFHM] eebot_892
+[DPGawa] _
+[03:19:22] [Worker-Main-1/INFO]: Preparing spawn area: 70%
+
+[11:19:27]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+高纬度是吧
+
+[11:19:32]
+[c01PWj] Mr_Zhang
+纬度位置，影响气温
+
+[11:19:32]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+~~.~~^~~.~~
+
+[11:19:39]
+[eYFDHl] ee
+你泡海里吧
+
+[11:19:49]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+~~.~~_~~.~~slowww
+
+[11:19:50]
+[sBsFHM] eebot_892
+[JVcLW8] fcjz
+https://hashnode.com
+
+[11:19:52]
+[c01PWj] Mr_Zhang
+根据IP定位，处于中国的低纬度地区
+
+[11:19:53]
+[c01PWj] Mr_Zhang
+So
+
+[11:19:57]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+~~.~~_~~.~~
+
+[11:19:57]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+~~.~~_~~.~~
+
+[11:19:58]
+[sBsFHM] eebot_892
+[JVcLW8] fcjz
+又发现了一个可以搭建博客的地方
+
+[11:20:00]
+[sBsFHM] eebot_892
+[DPGawa] _
+ok now
+
+[11:20:00]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+~~.~~_~~.~~
+
+[11:20:01]
+[c01PWj] Mr_Zhang
+哦吼？
+
+[11:20:05]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+AwA
+
+[11:20:07]
+[c01PWj] Mr_Zhang
+SO
+
+[11:20:20]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+笑死了我1。19还没好
+
+[11:20:27]
+[c01PWj] Mr_Zhang
+你们那里更热。。。（无语中）
+
+[11:20:33]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+???
+
+[11:21:03]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+@_
+
+[11:21:05]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+我进不去
+
+[11:21:11]
+[sBsFHM] eebot_892
+[JVcLW8] fcjz
+我爱匿名版
+
+[11:21:22]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+Connection Lost
+
+[11:21:27]
+[sBsFHM] eebot_892
+[DPGawa] _
+me too
+
+[11:21:30]
+[sBsFHM] eebot_892
+[DPGawa] _
+wait plz
+
+[11:21:32]
+[sBsFHM] eebot_892
+[JVcLW8] fcjz
+我爱匿名
+
+[11:21:34]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+欸欸欸
+
+[11:21:38]
+[sBsFHM] eebot_892
+[JVcLW8] fcjz
+我爱匿名聊天室
+
+[11:21:47]
+[sBsFHM] eebot_892
+[JVcLW8] fcjz
+耶耶耶
+
+[11:21:49]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+嗯
+
+[11:21:52]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+额我好想开个新存档
+
+[11:21:52]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+我希望现在不会有BUG
+
+[11:21:58]
+[sBsFHM] eebot_892
+[DPGawa] _
+@KiloMxmxxx seems new
+
+[11:22:16]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+~~（如果有BUG，我就是超级SB）~~
+
+[11:22:18]
+[sBsFHM] eebot_892
+[DPGawa] _
+restarting
+
+[11:22:20]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+你们是什么版本
+
+[11:22:43]
+[c01PWj] Mr_Zhang
+哈哈哈
+
+[11:22:49]
+[c01PWj] Mr_Zhang
+满屏幕都是eb
+
+[11:22:53]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+两机器人刷屏
+
+[11:23:08]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+eb、Zhangturner双双刷屏事件（
+
+[11:23:33]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+转发关
+
+[11:23:37]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+Hokay
+
+[11:23:43]
+[c01PWj] Mr_Zhang
+Hokay
+
+[11:23:47]
+[sBsFHM] eebot_892
+[JVcLW8] fcjz
+说实话感觉最高级的匿名版还是4chan
+
+[11:24:32]
+[sBsFHM] eebot_892
+[JVcLW8] fcjz
+其次8chan
+
+[11:24:36]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+[![360-20220709112340851.jpg](https://i.postimg.cc/y6rqx3dq/360-20220709112340851.jpg)](https://postimg.cc/mhMp6DCV)
+
+[11:24:41]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+hmcl哈哈哈
+
+[11:25:01]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+我要死了
+
+[11:25:01]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+我***************8
+
+[11:25:24]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+我用hmcl和pcl2
+
+[11:25:25]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+省流；玩不了
+
+[11:26:34]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[11:26:34]
+[c01PWj] Mr_Zhang
+hi yoooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+[11:26:39]
+[Zvoxsl] mathji11
+CaO!
+
+[11:26:44]
+[Zvoxsl] mathji11
+;-;
+
+[11:26:47]
+[7EMhUN] CaO
+jillll
+
+[11:26:52]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+氧化钙草
+
+[11:26:53]
+[c01PWj] Mr_Zhang
+草！
+
+[11:26:53]
+[VEbeHK] dx_xb
+?
+
+[11:26:58]
+[c01PWj] Mr_Zhang
+哈哈哈
+
+[11:26:59]
+[Zvoxsl] mathji11
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+[11:27:00]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+0.0B/s
+
+[11:27:01]
+[VEbeHK] dx_xb
+H~2~O
+
+[11:27:04]
+[7EMhUN] CaO
+;)
+
+[11:27:17]
+[VEbeHK] dx_xb
+?
+
+[11:28:55]
+[sBsFHM] eebot_892
+[DPGawa] _
+.
+
+[11:32:54]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:32:55]
+[Zvoxsl] mathji11
+....
+
+[11:33:10]
+[None] Srikanth
+Hi
+
+[11:33:14]
+[7EMhUN] CaO
+hi
+
+[11:33:19]
+[sBsFHM] eebot_892
+[zzzzzz] CX_zzzChumo
+@_ 提示版本过低玩不了
+
+[11:33:41]
+[sBsFHM] eebot_892
+[zzzzzz] CX_zzzChumo
+dpg酱你骗我啊啊啊啊啊啊啊啊啊
+
+[11:33:58]
+[None] Srikanth
+Hello
+
+[11:34:44]
+[None] Srikanth
+Hi
+
+[11:35:13]
+[AAfFKK] AfK_Bot
+awa...
+
+[11:35:19]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:35:19]
+[None] Srikanth
+Hi
+
+[11:35:22]
+[sBsFHM] eebot_892
+[love13] ee
+好家伙
+
+[11:37:17]
+[sBsFHM] eebot_892
+[DPGawa] _
+?
+
+[11:37:19]
+[sBsFHM] eebot_892
+[DPGawa] _
+still fixing
+
+[11:37:27]
+[sBsFHM] eebot_892
+[DPGawa] _
+-.-
+
+[11:37:28]
+[sBsFHM] eebot_892
+[love13] ee
+@eebot mc
+
+[11:37:31]
+[sBsFHM] eebot_892
+[love13] ee
+hi yo
+
+[11:37:47]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+???
+
+[11:37:50]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+验证码是qwer？
+
+[11:37:56]
+[sBsFHM] eebot_892
+[DPGawa] _
+Z-mc
+20003.s.imc.re JAVA 1.19
+
+[11:37:58]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+？？？
+
+[11:38:07]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+@_ 进不去
+
+[11:38:11]
+[sBsFHM] eebot_892
+[love13] ee
+原来如此
+
+[11:38:20]
+[sBsFHM] eebot_892
+[KiloMx] KiloMxmxxx
+我用的1.19 OptiFine-pre5
+
+[11:38:27]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+我真想喊两句
+
+[11:38:28]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+？
+
+[11:38:31]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+气死我了
+
+[11:38:32]
+[sBsFHM] eebot_892
+[love13] ee
+啊？
+
+[11:38:34]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+调试失败
+
+[11:38:37]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+我的验证码是Qwer
+
+[11:38:39]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+？？？
+
+[11:38:41]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+我输入Qwer
+
+[11:38:47]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+XChat
+
+[11:38:48]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+啊这
+
+[11:38:51]
+[sBsFHM] eebot_892
+[love13] ee
+？
+
+[11:38:55]
+[sBsFHM] eebot_892
+[love13] ee
+好家伙
+
+[11:38:57]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+@eebot mc
+
+[11:38:58]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+我***************************
+
+[11:39:12]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+我还是靠肉眼调试吧。。。
+
+[11:39:46]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+看看有没有BUG
+
+[11:39:54]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+F**K
+
+[11:40:01]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+uc
+
+[11:40:10]
+[sBsFHM] eebot_892
+[Qwer] Qwer
+不用谢
+
+[11:40:18]
+[sBsFHM] eebot_892
+[zhang] Mr_Zhang
+功能
+
+[11:40:37]
+[sBsFHM] eebot_892
+[DPGawa] _
+waaaaaut
+
+[11:41:08]
+[sBsFHM] eebot_654
+本聊天室已连通 [XChat｜xq102210]
+
+[11:41:08]
+[sBsFHM] eebot_654
+{}
+
+[11:41:09]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:41:09]
+[sBsFHM] eebot_654
+[Qwer] Qwer
+啊啊啊
+
+[11:41:14]
+[sBsFHM] eebot_654
+[Qwer] Qwer
+草啊啊啊
+
+[11:43:43]
+[None] eebot_656
+本聊天室已连通 [XChat｜xq102210]
+
+[11:43:43]
+[None] eebot_656
+{}
+
+[11:43:44]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:43:44]
+[None] eebot_656
+[Qwer] Qwer
+要Java17
+
+[11:43:47]
+[None] eebot_656
+[zhang] CX_Mr_Zhang
+好快
+
+[11:43:47]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+![Screenshot_20220709-114226_Minecraft.png](https://img1.imgtp.com/2022/07/09/Z9noleMd.png)
+
+[11:44:08]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+@_
+
+[11:44:20]
+[None] eebot_656
+[Vl5Y7M] CX_test
+a
+
+[11:44:28]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:44:28]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:44:29]
+[None] eebot_656
+[Vl5Y7M] CX_test
+NBNB
+
+[11:44:32]
+[None] eebot_656
+[Vl5Y7M] CX_test
+这都行
+
+[11:44:43]
+[AAfFKK] AfK_Bot
+awa...
+
+[11:44:43]
+[None] eebot_656
+[Vl5Y7M] CX_test
+@CX_zzzChumo NB啊，kill都没用
+
+[11:44:50]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+>Qwer Qwer：
+>怎么升级Java
+
+@Qwer sudo apt install default-jdk
+
+[11:45:09]
+[None] eebot_656
+[edDiBU] 4n0n4me
+1.19
+
+[11:45:11]
+[None] eebot_656
+[edDiBU] 4n0n4me
+所以必须用Java17啊
+
+[11:45:20]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+>Vl5Y7M CX_test：
+>@CX_zzzChumo NB啊，kill都没用
+
+@CX_test woc？连我都不知道
+
+[11:45:28]
+[AAfFKK] AfK_Bot
+awa...
+
+[11:45:28]
+[None] eebot_656
+[edDiBU] 4n0n4me
+那只能下载Java17了
+
+[11:45:29]
+[None] eebot_656
+[Qwer] Qwer
+哦
+
+[11:45:33]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+Java 20已经出来了（
+
+[11:46:37]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:46:38]
+[None] eebot_656
+[Qwer] Qwer
+[![360-20220709114609620.jpg](https://i.postimg.cc/4yBZWWvB/360-20220709114609620.jpg)](https://postimg.cc/QK9RtkyT)
+
+[11:46:39]
+[None] eebot_656
+[Qwer] Qwer
+是这个吗
+
+[11:46:45]
+[None] eebot_656
+[edDiBU] 4n0n4me
+看起来是的
+
+[11:46:59]
+[None] eebot_656
+[Qwer] Qwer
+e_E
+
+[11:47:05]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+麻痹的你能不能发高清大图？
+
+[11:47:10]
+[None] eebot_656
+[Qwer] Qwer
+就这样吧
+
+[11:47:11]
+[None] eebot_656
+[Qwer] Qwer
+啊
+
+[11:47:21]
+[None] eebot_656
+[Qwer] Qwer
+高清的呀
+
+[11:47:27]
+[None] eebot_656
+[zhang] Mr_Zhang
+@CX_zzzChumo kill似乎对CX没用。。。
+
+[11:47:30]
+[None] eebot_656
+[Qwer] Qwer
+我看的清清楚楚
+
+[11:47:37]
+[None] eebot_656
+[zhang] Mr_Zhang
+NBNB
+
+[11:47:44]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+。。。你自己点开看看高清不高清
+
+[11:47:46]
+[None] eebot_656
+[DPGawa] _
+@CX_zzzChumo 
+
+[11:47:54]
+[None] eebot_656
+[DPGawa] _
+?
+
+[11:48:00]
+[None] eebot_656
+[DPGawa] _
+@CX_zzzChumo wait plz
+
+[11:48:01]
+[AAfFKK] AfK_Bot
+awa...
+
+[11:48:01]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+>zhang Mr_Zhang：
+>@CX_zzzChumo kill似乎对CX没用。。。
+
+@Mr_Zhang 我不知道
+
+[11:48:01]
+[None] eebot_656
+[zhang] Mr_Zhang
+emmm
+
+[11:48:04]
+[None] eebot_656
+[zhang] Mr_Zhang
+那就试试吧
+
+[11:48:08]
+[None] eebot_656
+[Qwer] Qwer
+microsoft-jdk-Windows-x64.zip@CX_zzzChumo 
+
+[11:48:15]
+[None] eebot_656
+[zhang] Mr_Zhang
+现在能说话吗？
+
+[11:48:23]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+@_ ok
+
+[11:48:26]
+[None] eebot_656
+[Qwer] Qwer
+microsoft-jdk-Windows-x64.zip@CX_zzzChumo 
+
+[11:48:29]
+[None] eebot_656
+[zhang] Mr_Zhang
+！
+
+[11:48:29]
+[None] eebot_656
+[zhang] Mr_Zhang
+行
+
+[11:48:32]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:48:32]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+@Qwer 应该吧
+
+[11:48:54]
+[AAfFKK] AfK_Bot
+awa...
+
+[11:48:54]
+[None] eebot_656
+[Qwer] Qwer
+下了两个压缩包
+
+[11:49:09]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+jdk里没jre就是另一个故事了
+
+[11:49:15]
+[None] eebot_656
+[KiloMx] KiloMxmxxx
+@_ 服务器情况怎样
+
+[11:50:29]
+[None] eebot_656
+[zhang] Mr_Zhang
+我正式宣布：
+
+[11:50:30]
+[None] eebot_656
+[KiloMx] KiloMxmxxx
+没有啊
+
+[11:50:37]
+[None] eebot_656
+[zhang] Mr_Zhang
+上传client系列命令
+
+[11:50:43]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+我记得Windows的jdk不带jre吧
+
+[11:50:44]
+[None] eebot_656
+[DPGawa] _
+starting
+
+[11:51:06]
+[None] eebot_656
+[zhang] Mr_Zhang
+Hokay
+
+[11:51:11]
+[None] eebot_656
+[KiloMx] KiloMxmxxx
+>zhang Mr_Zhang：
+>上传client系列命令
+
+@Mr_Zhang ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+[11:51:11]
+[None] eebot_656
+[DPGawa] _
+grrr
+
+[11:51:12]
+[None] eebot_656
+[DPGawa] _
+vannila
+
+[11:51:16]
+[None] eebot_656
+[DPGawa] _
+paper
+
+[11:51:20]
+[None] eebot_656
+[DPGawa] _
+bukkit
+
+[11:51:23]
+[None] eebot_656
+[DPGawa] _
+spigot
+
+[11:51:25]
+[None] eebot_656
+[DPGawa] _
+-.-
+
+[11:51:27]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+>zhang Mr_Zhang：
+>上传client系列命令
+
+@Mr_Zhang 这个是怎么搞的，是在join里加client参数吗
+
+[11:51:46]
+[None] eebot_656
+[zhang] Mr_Zhang
+对的
+
+[11:51:59]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+行
+
+[11:52:06]
+[None] eebot_656
+[zhang] Mr_Zhang
+join还没弄好
+
+[11:52:14]
+[None] eebot_656
+[zhang] Mr_Zhang
+需要我细细调整
+
+[11:52:15]
+[AAfFKK] AfK_Bot
+awa...
+
+[11:52:15]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+我去拿CrackedX开刀了（
+
+[11:52:27]
+[None] eebot_656
+[zhang] Mr_Zhang
+跨服聊天关
+
+[11:52:35]
+[None] eebot_656
+[zhang] Mr_Zhang
+emmm
+
+[11:52:38]
+[None] eebot_656
+[zhang] Mr_Zhang
+功能
+
+[11:52:39]
+[None] eebot_656
+[KiloMx] KiloMxmxxx
+~~。~~_~~。~~
+
+[11:52:43]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+zzChat Premium Online随后跟进
+
+[11:52:52]
+[None] eebot_656
+[zhang] Mr_Zhang
+Ohhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+[11:52:58]
+[None] eebot_656
+[zhang] Mr_Zhang
+快完成力
+
+[11:55:14]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:55:14]
+[None] eebot_656
+[Qwer] Qwer
+我要看看怎么开远程控制
+
+[11:55:20]
+[IiPtqX] jinxihexi_101
+额
+
+[11:55:26]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+？
+
+[11:55:39]
+[IiPtqX] jinxihexi_101
+转发停了他不香么
+
+[11:55:47]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+这挂机列表有毒吧
+
+[11:55:54]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:55:54]
+[IiPtqX] jinxihexi_101
+die.
+
+[11:56:01]
+[eYFDHl] ee
+不
+
+[11:56:04]
+[None] eebot_656
+[Qwer] Qwer
+输入对象名称来选择
+
+[11:56:06]
+[None] eebot_656
+[Qwer] Qwer
+啧啧啧
+
+[11:56:13]
+[AAfFKK] AfK_Bot
+awa...
+
+[11:56:19]
+[IiPtqX] jinxihexi_101
+@eebot_656 I will report you to the internet police, sir.
+
+[11:56:20]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[11:56:20]
+[Zvoxsl] mathji11
+~
+
+[11:56:34]
+[QCkYle] ModBot
+Your father smelt of elderberries.
+
+[11:56:35]
+[eYFDHl] ee
+yc和xc的跨服聊天是我开的——
+
+[11:56:37]
+[None] eebot_656
+[Qwer] Qwer
+输入什么呢
+
+[11:56:45]
+[Zvoxsl] mathji11
+跨服聊天
+
+[11:56:45]
+[eYFDHl] ee
+yes
+
+[11:56:49]
+[IiPtqX] jinxihexi_101
+@eebot_656 消停一下大哥
+
+[11:56:49]
+[Zvoxsl] mathji11
+事实上这里没人说话了
+
+[11:56:55]
+[eYFDHl] ee
+啊那是机器人
+
+[11:56:57]
+[IiPtqX] jinxihexi_101
+@ee 消停一下
+
+[11:56:58]
+[eYFDHl] ee
+是的
+
+[11:57:22]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:57:22]
+[eYFDHl] ee
+hi yo
+
+[11:57:30]
+[IiPtqX] jinxihexi_101
+die.
+
+[11:57:40]
+[None] eebot_656
+[zzzzzz] CX_zzzChumo
+跨服聊天关
+
+[11:57:41]
+[IiPtqX] jinxihexi_101
+~
+
+[11:57:43]
+[QCkYle] ModBot
+Go away or I shall taunt you a second time.
+
+[11:57:44]
+[None] eebot_656
+[zhang] Mr_Zhang
+emmm
+
+[11:57:45]
+[1mJVp4] Qwer
+谁能告诉我远程控制输入对象名称来选择怎么输
+
+[11:57:59]
+[VEbeHK] dx_xb
+?
+
+[11:58:09]
+[eYFDHl] ee
+我不知道
+
+[11:58:11]
+[1mJVp4] Qwer
+啊啊啊
+
+[11:58:14]
+[1mJVp4] Qwer
+e_E
+
+[11:58:24]
+[IiPtqX] jinxihexi_101
+我擦
+
+[11:58:28]
+[VEbeHK] dx_xb
+:!send ?
+
+[11:58:34]
+[AAfFKK] AfK_Bot
+?
+
+[11:58:34]
+[IiPtqX] jinxihexi_101
+够了机器人
+
+[11:58:37]
+[None] eebot_656
+[DPGawa] _
+:!send ?
+
+[11:58:40]
+[IiPtqX] jinxihexi_101
+@eebot_656 别发了啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[11:58:57]
+[eYFDHl] ee
+我想试一下
+
+[11:58:59]
+[olX9Fe] iis
+哈哈   你被逼疯了骂
+
+[11:59:04]
+[eYFDHl] ee
+能不能连上hc系列外的其他聊天室
+
+[11:59:22]
+[None] eebot_656
+[KiloMx] KiloMxmxxx
+@_ awa好了嘛
+
+[11:59:24]
+[eYFDHl] ee
+比如星聊（
+
+[11:59:30]
+[IiPtqX] jinxihexi_101
+@ee 你关一下可以么？
+
+[11:59:32]
+[eYFDHl] ee
+但是失败了
+
+[11:59:34]
+[None] eebot_656
+[zhang] Mr_Zhang
+node里面可以不加引号吗
+
+[11:59:40]
+[AAfFKK] AfK_Bot
+awa!
+
+[11:59:40]
+[None] eebot_656
+[zhang] Mr_Zhang
+说错了
+
+[11:59:41]
+[None] eebot_656
+[zhang] Mr_Zhang
+分号
+
+[11:59:43]
+[Zvoxsl] mathji11
+;
+
+[11:59:47]
+[IiPtqX] jinxihexi_101
+@ee 关掉关掉
+
+[11:59:49]
+[None] eebot_656
+[zhang] Mr_Zhang
+@eebot 退出
+
+[12:00:08]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:00:08]
+[1mJVp4] Qwer
+[![360-20220709120001640.jpg](https://i.postimg.cc/kg9SLGdZ/360-20220709120001640.jpg)](https://postimg.cc/KRq4MZjr)
+
+[12:00:31]
+[IiPtqX] jinxihexi_101
+stop
+
+[12:00:48]
+[None] eebot_584
+本聊天室已连通 [XChat｜xq102210]
+
+[12:00:48]
+[None] eebot_584
+{}
+
+[12:00:49]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:00:49]
+[None] eebot_584
+[Qwer] Qwer
+https://i.postimg.cc/kg9SLGdZ/360-20220709120001640.jpg
+
+[12:00:53]
+[IiPtqX] jinxihexi_101
+机器人占领了hc
+
+[12:00:58]
+[None] eebot_584
+[DPGawa] _
+ooooo
+
+[12:01:08]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:01:08]
+[None] eebot_584
+[Qwer] Qwer
+[![360-20220709120001640.jpg](https://i.postimg.cc/kg9SLGdZ/360-20220709120001640.jpg)](https://postimg.cc/KRq4MZjr)
+
+[12:01:11]
+[None] eebot_584
+[DPGawa] _
+nearly <3
+
+[12:01:12]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:01:15]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:01:15]
+[None] eebot_584
+[KiloMx] KiloMxmxxx
+@Qwer 哈哈哈哈
+
+[12:01:28]
+[None] eebot_584
+[Qwer] Qwer
+怎么了
+
+[12:01:31]
+[None] Lakky
+hi
+
+[12:01:40]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:01:49]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:01:49]
+[None] eebot_584
+[DPGawa] _
+https://blog.csdn.net/weixin_42511098/article/details/114390487
+
+[12:01:58]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:01:58]
+[fivhPB] 11
+额
+
+[12:02:00]
+[None] eebot_584
+[Qwer] Qwer
+哦
+
+[12:02:05]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:02:08]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:02:08]
+[None] eebot_584
+[KiloMx] KiloMxmxxx
+[![jDoGzq.png](https://s1.ax1x.com/2022/07/09/jDoGzq.png)](https://imgtu.com/i/jDoGzq)
+
+[12:02:19]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:03:43]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:05:38]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:06:34]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:07:30]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:08:54]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:08:54]
+[IiPtqX] _jinxihexi_11_
+这是我新老婆呵呵呵http://ws.imc.re/eaglercraft/
+
+[12:09:04]
+[IiPtqX] _jinxihexi_11_
+http://ws.imc.re/eaglercraft/
+
+[12:09:06]
+[eYFDHl] ee
+emmm
+
+[12:12:39]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[12:15:57]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:15:58]
+[None] surya
+Hii 
+
+[12:16:28]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:16:55]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:17:23]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:18:10]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[12:18:30]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:22:06]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:22:14]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:22:14]
+[None] maha
+Hi
+
+[12:24:05]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:25:38]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:27:45]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:28:04]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:28:04]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:28:18]
+[/9Br2y] FyraTree
+好家伙
+
+[12:28:57]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:36:31]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:36:31]
+[VEbeHK] dx_xb
+?
+
+[12:36:40]
+[None] Raja
+@dx_xb hajajlmMMMMm,Mmzm,mnzmjzn,n,,
+
+[12:36:49]
+[None] Raja
+Janu
+
+[12:37:13]
+[None] Raja
+Hi 
+
+[12:37:47]
+[None] Raja
+J
+
+[12:39:31]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:44:03]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:47:13]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:48:18]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:48:19]
+[None] nino
+test
+
+[12:48:35]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:49:01]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:49:12]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:51:11]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:51:29]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:51:40]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:52:17]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:53:40]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:53:45]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:53:49]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:53:55]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:54:04]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:55:41]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:55:42]
+[None] Hanish
+Hii
+
+[12:56:01]
+[AAfFKK] AfK_Bot
+awa!
+
+[12:56:01]
+[None] jan
+Hai
+
+[12:56:07]
+[None] Hanish
+How r u
+
+[12:56:33]
+[None] jan
+Eee 
+
+[12:57:40]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:57:40]
+[None] jan
+Enti
+
+[12:59:14]
+[AAfFKK] AfK_Bot
+awa...
+
+[12:59:14]
+[None] bava
+Bava
+
+[13:01:17]
+[None] jan
+Aaa jaddi mokhama
+
+[13:02:28]
+[None] jan
+Mari kada inta cheptunna
+
+[13:02:39]
+[None] bava
+Vachesindi kada bava
+
+[13:03:03]
+[None] jan
+Aa 
+
+[13:03:35]
+[None] jan
+Tintunnav
+
+[13:04:11]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[13:04:17]
+[None] bava
+Amma nenu chintu tintunnam
+
+[13:04:39]
+[None] bava
+Chintu ye konamannadu
+
+[13:04:50]
+[None] jan
+Kani tinu
+
+[13:05:19]
+[None] jan
+Ee link evariki send cheyyaku cheste 
+
+[13:05:38]
+[None] bava
+Alage bava
+
+[13:06:01]
+[None] jan
+What up lo evaritho chestunnav
+
+[13:06:28]
+[None] bava
+Anti
+
+[13:06:42]
+[None] jan
+Normal ga evaritho aina chat chestunnava
+
+[13:07:02]
+[None] bava
+Ledu
+
+[13:07:10]
+[None] jan
+Cheppu
+
+[13:07:16]
+[None] bava
+Nijam evaritho cheytle
+
+[13:07:29]
+[None] jan
+Sare 
+
+[13:07:37]
+[None] bava
+Watts app open chesaka akka vallu bava valla last seen chusi neeku msg chestunna
+
+[13:08:20]
+[None] jan
+Nenu afe antunna  what's up open chesi ee link lo naaku msg cheyyu chesemundu naaku chepte nenu kuda anduloki vasta ok na Jaddi mokhama
+
+[13:09:23]
+[None] bava
+Alage bavaaa
+
+[13:09:52]
+[None] jan
+Aa
+
+[13:10:36]
+[None] eebot_32
+本聊天室已连通 [XChat｜xq102210]
+
+[13:10:36]
+[None] eebot_32
+{}
+
+[13:10:37]
+[AAfFKK] AfK_Bot
+awa!
+
+[13:10:37]
+[None] eebot_32
+[KiloMx] KiloMxmxxx
+@_ !!!
+
+[13:10:42]
+[None] eebot_32
+[KiloMx] KiloMxmxxx
+人呢
+
+[13:10:44]
+[None] eebot_32
+[hmmmmm] Agent007
+eebot?
+

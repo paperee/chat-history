@@ -1,0 +1,361 @@
+[19:37:09]
+[0/JM7u] ABot_5
+Hi huolongguo10
+
+[19:37:10]
+[0/JM7u] ABot_5
+Hi ee
+
+[19:37:10]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[19:37:10]
+[AAfFKK] AfK_Bot
+awa!
+
+[19:37:10]
+[VEbeHK] _
+~lockroom
+
+[19:37:14]
+[QCkYle] ModBot
+Room is now locked.
+
+[19:37:14]
+[0/JM7u] huolongguo10
+卢本伟来了
+
+[19:37:20]
+[VEbeHK] _
+ind
+
+[19:37:25]
+[c01PWj] Mr_Zhang
+~unlockroom
+
+[19:37:27]
+[QCkYle] ModBot
+The plebian hoards may once again plague this channel.
+
+[19:37:30]
+[0/JM7u] ABot_5
+Hi ZhangProtectPlus
+
+[19:37:31]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[19:37:31]
+[c01PWj] Mr_Zhang
+^list
+
+[19:37:34]
+[c01PWj] ZhangProtectPlus
+以下用户受到保护：{'Mr_Zhang': 'c01PWj', 'ABot': '0/JM7u', 'YAYA': 'YCSh95', 'Fire_TUSK': 'PXgRpV', 'su': 'foMeFv', 'Chlorine_17': 'hL+0yd'}
+封禁的hash：['oM7HqJtwo5TfhCd', 'YDPA4RBXh7bafv9', 'G50tOicN6TJtazc']
+授权的用户：['PXgRpV', 'YCSh95', 'AAfFKK', 'foMeFv', 'hL+0yd', 'olX9Fe', 'PXgRpV', 'sclhHF', '21PnFs']
+
+[19:37:34]
+[hL+0yd] Chlorine_17
+楞
+
+[19:37:37]
+[c01PWj] Mr_Zhang
+OK
+
+[19:37:39]
+[VEbeHK] _
+let's wait..
+
+[19:37:48]
+[VEbeHK] _
+.afk
+
+[19:37:52]
+[0/JM7u] ABot_5
+成功挂机！
+
+[19:37:53]
+[0/JM7u] huolongguo10
+:!lookup nick ZHANGHAORANCHISHI
+
+[19:37:55]
+[AAfFKK] AfK_Bot
+Aliases for hash NzklEgMOsPAwRBM: ['FZHANGUHAOCRANK', 'KICKMEPLEASE', 'ZHANGHAORANCHISHI', 'ZHANGHAORANSHIWOER', 'ZHANGHAORANHEEEZUOAI', 'ZHANGHAORANDAJIBA', 'ZHANGHAORANSHIGESHABI', 'ZHANGHAORANCAONIMA']
+Trips for hash NzklEgMOsPAwRBM: ['']
+
+[19:37:55]
+[hL+0yd] Chlorine_17
+楞
+
+[19:37:59]
+[c01PWj] Mr_Zhang
+^bannick ZHANGHAORAN
+
+[19:38:07]
+[c01PWj] ZhangProtectPlus
+错误！昵称重复。
+
+[19:38:07]
+[c01PWj] Mr_Zhang
+emmm
+
+[19:38:10]
+[c01PWj] Mr_Zhang
+已经封禁了
+
+[19:38:13]
+[c01PWj] Mr_Zhang
+现在没事了吧。。。
+
+[19:38:17]
+[0/JM7u] huolongguo10
+# banhash NzklEgMOsPAwRBM
+
+[19:38:28]
+[hL+0yd] Chlorine_17
+这个是卢本伟的啊？
+
+[19:38:29]
+[0/JM7u] huolongguo10
+hash挺好
+
+[19:38:35]
+[hL+0yd] Chlorine_17
+楞
+
+[19:38:42]
+[0/JM7u] ABot_5
+Bye, Chlorine_17
+
+[19:38:43]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:38:43]
+[0/JM7u] huolongguo10
+没有+/
+
+[19:39:10]
+[c01PWj] ZhangProtectPlus
+该用户hash为：sldUrd8F2bxdF3c
+
+[19:39:10]
+[0/JM7u] ABot_5
+Hi Chlorine_17
+
+[19:39:10]
+[AAfFKK] AfK_Bot
+awa!!!
+
+[19:39:15]
+[0/JM7u] huolongguo10
+你知道这个的概率是多少吗
+
+[19:39:21]
+[hL+0yd] Chlorine_17
+什么的概率
+
+[19:39:28]
+[0/JM7u] ABot_5
+Bye, huolongguo10
+
+[19:39:29]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:39:50]
+[AAfFKK] AfK_Bot
+~kick 101747
+
+[19:39:50]
+[c01PWj] ZhangProtectPlus
+该用户hash为：pbcpr0fr01BN73N
+
+[19:39:50]
+[0/JM7u] ABot_5
+Hi 101747
+
+[19:39:50]
+[0/JM7u] ABot_5
+Bye, 101747
+
+[19:39:51]
+[AAfFKK] AfK_Bot
+awa...
+
+[19:39:51]
+[hL+0yd] Chlorine_17
+awa？
+
+[19:40:28]
+[c01PWj] Mr_Zhang
+？
+
+[19:40:33]
+[c01PWj] Mr_Zhang
+为什么踢他？
+
+[19:40:39]
+[hL+0yd] Chlorine_17
+他是sb
+
+[19:41:02]
+[hL+0yd] Chlorine_17
+你好像不知道他
+
+[19:41:05]
+[c01PWj] Mr_Zhang
+啊这
+
+[19:41:32]
+[hL+0yd] Chlorine_17
+我发现一件有意思的事情
+
+[19:42:46]
+[hL+0yd] Chlorine_17
+就是我本机的ip没变但是hash变了 而且我没开vpn
+
+[19:43:03]
+[c01PWj] Mr_Zhang
+哦？？？？
+
+[19:43:12]
+[c01PWj] Mr_Zhang
+你是说外网IP？
+
+[19:43:26]
+[c01PWj] Mr_Zhang
+还是内网IP？
+
+[19:43:30]
+[hL+0yd] Chlorine_17
+外网
+
+[19:43:43]
+[for9zT] Light
+内网是DHCP给的
+
+[19:44:02]
+[c01PWj] Mr_Zhang
+@Chlorine_17 所以正常
+
+[19:44:37]
+[c01PWj] Mr_Zhang
+等下
+
+[19:44:43]
+[c01PWj] Mr_Zhang
+我说错了
+
+[19:44:47]
+[c01PWj] Mr_Zhang
+那我就不懂了。。。。。。
+
+[19:44:54]
+[hL+0yd] Chlorine_17
+啊
+
+[19:45:10]
+[hL+0yd] Chlorine_17
+神奇
+
+[19:45:13]
+[hL+0yd] Chlorine_17
+布吉岛为什么的 反正就让他去吧
+
+[19:45:26]
+[VEbeHK] _
+?
+
+[19:45:57]
+[hL+0yd] Chlorine_17
+awa
+
+[19:46:10]
+[c01PWj] Mr_Zhang
+emmmmm
+
+[19:46:28]
+[hL+0yd] Chlorine_17
+好无聊哦
+
+[19:47:12]
+[VEbeHK] _
+obo
+
+[19:47:31]
+[hL+0yd] Chlorine_17
+qwp
+
+[19:47:38]
+[VEbeHK] _
+pwq
+
+[19:48:42]
+[hL+0yd] Chlorine_17
+ovo
+
+[19:49:01]
+[VEbeHK] _
+OwO
+
+[19:49:22]
+[hL+0yd] Chlorine_17
+uwu
+
+[19:49:35]
+[VEbeHK] _
+.w.
+
+[19:49:47]
+[hL+0yd] Chlorine_17
+._.
+
+[19:49:54]
+[VEbeHK] _
+-.-
+
+[19:49:58]
+[hL+0yd] Chlorine_17
+.-.
+
+[19:50:26]
+[for9zT] Light
+```text
+它可以像这样调用:
+
+cheeseshop("Limburger", "It's very runny, sir.",
+           "It's really very, VERY runny, sir.",
+           shopkeeper="Michael Palin",
+           client="John Cleese",
+           sketch="Cheese Shop Sketch")
+
+当然它会打印:
+
+-- Do you have any Limburger ?
+-- I'm sorry, we're all out of Limburger
+It's very runny, sir.
+It's really very, VERY runny, sir.
+----------------------------------------
+shopkeeper : Michael Palin
+client : John Cleese
+sketch : Cheese Shop Sketch
+
+[19:50:29]
+[VEbeHK] _
+?
+
+[19:50:33]
+[for9zT] Light
+《奶酪店》
+
+[19:50:35]
+[hL+0yd] Chlorine_17
+?
+
+[19:50:35]
+[hL+0yd] Chlorine_17
+runny
+

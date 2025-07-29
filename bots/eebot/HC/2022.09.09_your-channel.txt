@@ -1,0 +1,8348 @@
+[00:21:15]
+[None] sree
+Hlo
+
+[00:29:53]
+[None] sweety
+Hiiii
+
+[00:30:16]
+[None] anilkumar
+Hiii
+
+[00:30:44]
+[None] sweety
+Hiii
+
+[00:30:49]
+[None] anilkumar
+M dg
+
+[00:30:55]
+[None] sweety
+Thinnava
+
+[00:31:06]
+[None] anilkumar
+Alright
+
+[00:34:22]
+[None] kamal
+Hiii
+
+[00:50:10]
+[None] kamal
+Hiii
+
+[00:51:22]
+[None] 114514
+？
+
+[01:16:22]
+[None] mummy
+Hi
+
+[01:17:00]
+[None] mummy
+Hlo
+
+[01:18:22]
+[None] abcd
+Hi
+
+[01:26:06]
+[None] abcd
+Oy
+
+[01:39:05]
+[None] testbb33
+test
+
+[01:44:52]
+[None] ahd39rf
+hey
+
+[02:33:57]
+[None] Kk
+b
+
+[02:35:57]
+[None] ff
+k
+
+[02:45:43]
+[None] abcd
+Oy
+
+[02:47:33]
+[None] abcd
+Oy
+
+[02:50:05]
+[None] WhoAmi
+HEy
+
+[03:15:54]
+[None] abcd
+Hlo
+
+[03:17:14]
+[None] abcd
+hi
+
+[03:19:43]
+[None] abcd
+Hi
+
+[03:23:02]
+[None] abcd
+Hi
+
+[03:23:14]
+[None] abcd
+Oyyyyy
+
+[03:23:20]
+[None] abcd
+Vastaleda
+
+[03:25:47]
+[None] abcd
+Hi
+
+[05:53:57]
+[None] z
+56
+
+[05:54:37]
+[None] z
+34
+
+[05:54:41]
+[None] z
+18
+
+[05:54:45]
+[None] z
+40
+
+[05:54:49]
+[None] z
+23
+
+[05:54:55]
+[None] z
+Николай
+
+[07:09:38]
+[None] MHO
+hello
+
+[08:00:54]
+[None] 114514114514
+有人吗
+
+[08:01:01]
+[None] 114514114514
+有人吗
+
+[08:01:19]
+[None] 114514114514
+yrm
+
+[08:01:28]
+[None] 114514114514
+有人吗
+
+[08:01:33]
+[None] 114514114514
+有人吗
+
+[08:01:36]
+[None] 114514114514
+特码
+
+[08:14:00]
+[None] Ferry
+hi
+
+[10:31:19]
+[None] HentaiBot
+how do i use js
+
+[10:32:30]
+[None] HentaiBot
+to make a bot>>
+
+[10:32:33]
+[None] Mr_Zhang
+@HentaiBot idk
+
+[10:32:52]
+[None] HentaiBot
+var Wiki = require("wikijs");
+var wiki = new Wiki();
+
+var wikiCallback = function(bot, sender, args)
+{
+	var input = args.join(" ");
+
+	wiki.search(input).then(function(result)
+	{
+		var page = result.results[0];
+
+		if(typeof page == 'undefined')
+		{
+			bot.send("No results found!");
+			return;
+		}
+
+		wiki.page(page).then(function(page)
+		{
+			page.summary().then(function(summary)
+			{
+				if(summary.length > 500)
+				{
+					summary = summary.substring(0, 500) + "...";
+				}
+				summary += " - " + page.fullurl;
+
+				bot.send(summary);
+			});
+		});
+	});
+};
+
+module.exports = { wiki: wikiCallback };
+
+[10:32:53]
+[None] Mr_Zhang
+!!!
+
+[10:49:05]
+[None] 114514114514
+各位市民请不要服用分发的药物药物会导致您s……专注热没有根除，不要接触，不要前往建安市第一人民医院，这是最后警告，他在我门外
+
+[10:50:49]
+[None] deepu
+Hi 
+
+[10:50:56]
+[None] tctd
+我秃了
+
+[10:51:05]
+[None] 114514114514
+我一个人在家的时候，
+总想爸爸妈妈来敲门；
+我和爸爸瘦弱的时候总想他来敲门；
+们淹没诸侯之家的时候，总很想某人敲门；
+我们全家都在家的时候，
+来敲门的一定是冻雾。
+当无人在家的时候；
+他成功了，不肥沃
+
+[10:51:08]
+[None] tctd
+高数
+
+[10:51:35]
+[None] seri
+Hi
+
+[10:51:58]
+[bw7Gkq] Mr_Zhang
+...
+
+[10:52:02]
+[bw7Gkq] Mr_Zhang
+险些被ban
+
+[10:52:06]
+[None] 114514114514
+欢迎来到长安城。我们希望您能在这里住得开心、玩得开心。
+在您开始您的旅行前，我们有一些警告事项，所以请务必记得观看。如果有条件，可以记一些笔记。
+最近，一种新的现象，也就是红月现象，在这里出现了。这种现象非常危险，您也应当在听到警报后立即采取行动。
+【A级】
+A级警报只会在电视上播送。这会打断电视上正在播送的内容，会在黑色的背景上显示出警示文字。
+当您看到警示文字时，不要恐慌，关掉电视，立即把插头拔出，不要再在日出之前打开电视。
+【AA级】
+AA级警报会在电视上以中英双语播送。社区广播也是如此。
+当您看到警示文字时，不要恐慌，关掉电视，将所有拥有信息读取或写入能力以及拥有接受广播信号能力的设备关闭，例如电视、电脑或磁带播放器。
+然后将插头拔出。确保他们不能再重启。之后准备48小时以上的水和食物。戴上提前准备的眼罩和耳塞。
+别忘了关窗锁门。拉起窗帘也有必要。最后开灯并在灯光下睡觉。
+【AAA级】
+AAA级警报需要你采取行动。请不要在广播播送完毕之前关掉电视。如果广播被中途切断，请采取如下行动：
+1. 吃五片提前分发的“紧急睡眠”药片。
+2. 切断主电源。
+3. 关闭气阀门。
+4. 打开所有灯光。
+5. 待在户外，把你的钥匙放在地上。
+6. 向西北面走50米。
+7. 直 视 红 月。
+8. 你可能会看到一些奇怪的生物或异常的噪音。
+- 文字：
+在这样做之后，您是完全安全的。您*不会*被献祭给红月。一切正常。不需要担心。我们会处理您的尸体。
+躺在地上……
+他会带走您的灵魂……
+整个城市将再次陷入安宁……
+我们会感谢您的牺牲……
+红 月 来 了。无 处 可 逃。
+- 语音：
+在这样做之后，您就会被献祭给红月了。如果您不想死，那么——
+跑。
+跑。
+跑。
+跑。
+跑。
+跑。
+跑。
+跑。
+跑。
+跑。
+跑。
+现在。
+就。
+逃。
+跑
+
+[10:53:41]
+[bw7Gkq] Mr_Zhang
+。。。。。。。。。。。。。。。。。。
+
+[10:53:58]
+[bw7Gkq] Mr_Zhang
+别刷屏啊
+
+[10:54:01]
+[None] 114514114514
+没办法
+
+[10:54:05]
+[None] 114514114514
+这原文就这么长
+
+[10:54:13]
+[bw7Gkq] Mr_Zhang
+你倒是提醒一下啊……
+
+[10:54:16]
+[bw7Gkq] Mr_Zhang
+谁让你发的啊
+
+[10:54:20]
+[None] 114514114514
+闲的没事发的
+
+[10:54:27]
+[bw7Gkq] Mr_Zhang
+……
+
+[10:54:32]
+[bw7Gkq] Mr_Zhang
+你倒是提醒一下啊……
+
+[10:54:32]
+[None] 114514114514
+https://www.bilibili.com/video/BV1U3411T7Rr/?spm_id_from=333.788&vd_source=b10330e2aff2fcc4f46245c962679507
+
+[10:56:38]
+[None] IASJFD
+HELLO
+
+[10:56:42]
+[None] IASJFD
+ASDL;JAD 
+
+[10:56:45]
+[None] IASJFD
+LNFVZLKN 
+
+[10:56:47]
+[None] IASJFD
+KL
+
+[10:56:49]
+[None] IASJFD
+444444
+
+[10:56:51]
+[None] IASJFD
+萨拉能否萨科
+
+[10:56:55]
+[None] IASJFD
+lnkk
+
+[10:56:56]
+[None] IASJFD
+萨拉拉萨扩大
+
+[10:56:58]
+[None] IASJFD
+；lkklakd
+
+[10:57:04]
+[None] seri
+Hi
+
+[10:59:03]
+[None] oyy
+Hi
+
+[10:59:09]
+[None] oyy
+Msg me
+
+[11:01:29]
+[None] oyy
+Hi
+
+[11:01:34]
+[bw7Gkq] Mr_Zhang_
+hi
+
+[11:01:40]
+[None] oyy
+Helo
+
+[11:02:30]
+[None] deepu
+Helo
+
+[11:03:07]
+[None] tappri
+Helo
+
+[11:03:42]
+[None] tappri
+Helo
+
+[11:22:48]
+[bw7Gkq] Mr_Zhang
+.
+
+[11:27:34]
+[bw7Gkq] Mr_Zhang
+.
+
+[11:27:46]
+[bw7Gkq] Mr_Zhang
+.
+
+[12:02:48]
+[None] z
+x c
+
+[12:02:51]
+[bw7Gkq] Mr_Zhang
+hi
+
+[12:02:55]
+[bw7Gkq] Mr_Zhang
+请问您是XChat的老用户吗？
+
+[12:03:03]
+[None] z
+hi
+
+[12:03:04]
+[None] z
+不是
+
+[12:04:16]
+[bw7Gkq] Mr_Zhang
+。。。
+
+[12:04:22]
+[bw7Gkq] Mr_Zhang
+hi yo!
+
+[12:04:25]
+[xLBHxg] china
+hi
+
+[12:04:34]
+[xLBHxg] china
+hi
+
+[12:08:18]
+[bw7Gkq] Mr_Zhang
+。
+
+[12:12:28]
+[bw7Gkq] Mr_Zhang
+...
+
+[12:16:59]
+[bw7Gkq] Mr_Zhang
+...
+
+[12:32:29]
+[8mT5YX] MaggiPCe
+awa!
+
+[12:32:36]
+[8mT5YX] MaggiPCe
+我买了个微型相机
+
+[12:32:49]
+[8mT5YX] MaggiPCe
+在学校一顿乱拍
+
+[12:34:11]
+[bw7Gkq] _Mr_Zhang
+wow!
+
+[12:35:21]
+[bw7Gkq] _Mr_Zhang
+厉害呀！
+
+[12:35:30]
+[bw7Gkq] _Mr_Zhang
+不过我发现stats要抽风
+
+[12:35:41]
+[bw7Gkq] _Mr_Zhang
+无意间看了看stats
+
+[12:35:54]
+[bw7Gkq] _Mr_Zhang
+突然发现活跃聊天室有1000个！！！
+
+[12:36:06]
+[bw7Gkq] _Mr_Zhang
+比人还多！
+
+[12:37:26]
+[bw7Gkq] Mr_Zhang
+好卡
+
+[12:37:30]
+[bw7Gkq] Mr_Zhang
+对了
+
+[12:37:32]
+[bw7Gkq] Mr_Zhang
+我看了看beta版
+
+[12:37:40]
+[bw7Gkq] Mr_Zhang
+你猜我发现什么了
+
+[12:38:41]
+[8mT5YX] MaggiPCe
+好恐怖,,,
+
+[12:38:48]
+[bw7Gkq] Mr_Zhang
+{cmd: "session", users: 616, chans: 1201,…}
+
+[12:38:50]
+[bw7Gkq] Mr_Zhang
+你看
+
+[12:38:54]
+[8mT5YX] MaggiPCe
+我把相机借给同学
+
+[12:38:57]
+[bw7Gkq] Mr_Zhang
+beta版收到的数据包
+
+[12:39:00]
+[bw7Gkq] Mr_Zhang
+啊
+
+[12:39:00]
+[8mT5YX] MaggiPCe
+然后
+
+[12:39:10]
+[8mT5YX] MaggiPCe
+让我导出
+
+[12:39:16]
+[8mT5YX] MaggiPCe
+这个结果
+
+[12:39:18]
+[bw7Gkq] Mr_Zhang
+？
+
+[12:39:20]
+[8mT5YX] MaggiPCe
+有点恐怖
+
+[12:39:21]
+[bw7Gkq] Mr_Zhang
+怎么了
+
+[12:39:32]
+[8mT5YX] MaggiPCe
+我刚刚从内存卡里导出了视频
+
+[12:39:50]
+[bw7Gkq] Mr_Zhang
+然后？
+
+[12:40:01]
+[8mT5YX] MaggiPCe
+发出来吧
+
+[12:40:28]
+[8mT5YX] MaggiPCe
+这个麦克风效果像俄罗斯的
+
+[12:40:39]
+[bw7Gkq] Mr_Zhang
+emmmmmmmm
+
+[12:40:47]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+[12:41:00]
+[8mT5YX] MaggiPCe
+https://t.wss.ink/f/98wd0studkl 复制链接到浏览器打开
+
+[12:41:14]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+[12:42:15]
+[bw7Gkq] Mr_Zhang
+你这是不是有一亿抖
+
+[12:42:22]
+[8mT5YX] MaggiPCe
+哈哈哈
+
+[12:42:25]
+[pwnuUa] decaborane
+hey uh zhang it occurs to me that you're a bit of an asshole
+
+[12:42:35]
+[8mT5YX] MaggiPCe
+这个摄像头太小了
+
+[12:42:40]
+[bw7Gkq] Mr_Zhang
+？
+
+[12:42:45]
+[8mT5YX] MaggiPCe
+额
+
+[12:42:49]
+[bw7Gkq] Mr_Zhang
+你说啥？
+
+[12:42:52]
+[bw7Gkq] Mr_Zhang
+我听不懂
+
+[12:42:55]
+[8mT5YX] MaggiPCe
+Google Translate:hey uh zhang 我觉得你有点混蛋
+
+[12:43:08]
+[bw7Gkq] Mr_Zhang
+。。
+
+[12:43:12]
+[bw7Gkq] Mr_Zhang
+啥？
+
+[12:43:17]
+[8mT5YX] MaggiPCe
+谷歌翻译的
+
+[12:43:21]
+[bw7Gkq] Mr_Zhang
+近点说
+
+[12:43:21]
+[bw7Gkq] Mr_Zhang
+我看不清
+
+[12:43:31]
+[8mT5YX] MaggiPCe
+?
+
+[12:45:18]
+[bw7Gkq] Mr_Zhang
+里轮伤铄，人加英改挺补洞
+
+[12:45:23]
+[8mT5YX] MaggiPCe
+诗得
+
+[12:45:43]
+[bw7Gkq] Mr_Zhang
+着时痛银卜桶子
+
+[12:45:50]
+[8mT5YX] MaggiPCe
+蛋试 古格烦一有平阴现实
+
+[12:46:05]
+[bw7Gkq] Mr_Zhang
+中国文化，博大精深
+
+[12:46:18]
+[bw7Gkq] Mr_Zhang
+郝佳或
+
+[12:46:24]
+[8mT5YX] MaggiPCe
+事的
+
+[12:46:26]
+[bw7Gkq] Mr_Zhang
+xchat油镜无限
+
+[12:46:46]
+[bw7Gkq] Mr_Zhang
+我在副武器上pull了带吗
+
+[12:46:58]
+[8mT5YX] MaggiPCe
+呃呃呃
+
+[12:47:09]
+[bw7Gkq] Mr_Zhang
+染后锁油温剪力免豆油HEAD
+
+[12:53:41]
+[pwnuUa] decaborane
+@Mr_Zhang how old are you?
+
+[12:54:40]
+[bw7Gkq] Mr_Zhang
+This is a secret
+
+[12:55:34]
+[8mT5YX] MaggiPCe
+嘴号鳖赵惹官里元
+
+[12:56:05]
+[bw7Gkq] Mr_Zhang
+👌
+
+[12:56:25]
+[8mT5YX] MaggiPCe
+不粪官里元事魂蛋
+
+[12:57:09]
+[bw7Gkq] Mr_Zhang
+啥比关梨园
+
+[12:57:41]
+[bw7Gkq] Mr_Zhang
+砂壁惯李渊
+
+[13:00:33]
+[8mT5YX] MaggiPCe
+事的
+
+[13:02:09]
+[bw7Gkq] Mr_Zhang
+伐壳有
+
+[13:03:33]
+[8mT5YX] MaggiPCe
+曹拟吗比的官力源
+
+[13:04:12]
+[tssNfd] ccw
+无聊
+
+[13:04:43]
+[bw7Gkq] Mr_Zhang
+瓘李渊似全价
+
+[13:05:07]
+[tssNfd] ccw
+中华文化不是让你用来骂脏话的
+
+[13:05:19]
+[bw7Gkq] Mr_Zhang
+……
+
+[13:05:29]
+[tssNfd] ccw
+骂两句也就算了
+
+[13:05:41]
+[tssNfd] ccw
+骂了几个月了都
+
+[13:05:42]
+[8mT5YX] MaggiPCe
+不针对所有mod
+
+[13:06:10]
+[8mT5YX] MaggiPCe
+仅针对某个辱华的人
+
+[13:06:41]
+[tssNfd] ccw
+退一万步讲，他就算故意辱华值得你们骂那么久吗
+
+[13:08:44]
+[tssNfd] ccw
+一年多少个杀人犯怎么不见你们全都去骂一整个月
+
+[13:18:47]
+[None] anilkumar
+Vivo 681 jagu bhai
+
+[13:19:17]
+[None] anilkumar
+Vivo y81
+
+[13:19:34]
+[pwnuUa] decaborane
+sex
+
+[13:21:08]
+[ttttoe] AnnikaV9
+sex
+
+[13:24:47]
+[None] d
+Hi
+
+[13:26:04]
+[None] d
+H
+
+[13:26:44]
+[8mT5YX] MaggiPCe
+?
+
+[13:27:57]
+[None] f
+Hi
+
+[13:28:30]
+[None] d
+హ
+
+[13:28:37]
+[None] f
+Kk
+
+[13:28:59]
+[8mT5YX] MaggiPCe
+bye
+
+[13:31:51]
+[EZYhDW] D
+Hi
+
+[13:31:55]
+[EZYhDW] D
+Hlo
+
+[13:33:52]
+[None] hacker0001
+hey
+
+[13:34:01]
+[None] hacker0001
+no body?
+
+[13:34:23]
+[pwnuUa] decaborane
+sex
+
+[13:35:21]
+[pwnuUa] decaborane
+@hacker0001 sex
+
+[13:38:16]
+[pwnuUa] decaborane
+do you have a butthole?
+
+[14:15:41]
+[None] Frank
+hi
+
+[14:15:51]
+[None] Frank
+(恼
+
+[14:16:30]
+[None] Frank
+hi?
+
+[14:21:44]
+[None] Frank
+hi
+
+[14:35:14]
+[pwnuUa] decaborane
+@noname hey cutie
+
+[14:41:37]
+[None] LinGa
+Hi 
+
+[14:44:19]
+[None] LinGa
+how r u 
+
+[14:44:24]
+[None] LinGa
+u left 
+
+[14:51:15]
+[pwnuUa] decaborane
+i am going to fuck you
+
+[14:51:16]
+[None] tillu
+Hy
+
+[14:52:00]
+[None] User
+@decaborane the same to you!
+
+[14:58:43]
+[bw7Gkq] Mr_Zhang
+...
+
+[15:03:05]
+[None] xiaoke
+hello
+
+[15:03:42]
+[None] vijju
+Hiii
+
+[15:04:43]
+[pwnuUa] decaborane
+@Mr_Zhang my man
+
+[15:06:26]
+[pwnuUa] decaborane
+you need to calm down
+
+[15:06:30]
+[pwnuUa] decaborane
+you care more than anyone else about shit
+
+[15:06:38]
+[pwnuUa] decaborane
+spamming chat because of w/e was rather petty
+
+[15:06:49]
+[pwnuUa] decaborane
+as is begging to be unbanned
+
+[15:21:59]
+[bw7Gkq] Mr_Zhang
+...
+
+[15:22:52]
+[bw7Gkq] Mr_Zhang
+I have a better place than here. Why should I stay here and suffer?
+
+[15:23:34]
+[bw7Gkq] Mr_Zhang
+Some administrators indiscriminately banned and kicked people.
+
+[15:24:36]
+[pwnuUa] decaborane
+timing
+
+[15:24:41]
+[pwnuUa] decaborane
+as i was going to tell him, no reason at all
+
+[15:24:49]
+[pwnuUa] decaborane
+he never has to return
+
+[15:44:06]
+[None] 114514114514
+有人吗
+
+[15:44:10]
+[None] 114514114514
+有人吗
+
+[15:44:14]
+[None] 114514114514
+有人吗
+
+[15:48:25]
+[None] villain
+双倍恶臭
+
+[15:48:47]
+[None] villain
+嘿嗨！
+
+[15:49:22]
+[None] villain
+哒哒哒
+
+[15:49:28]
+[None] 114514114514
+欢迎来到长安城。我们希望您能在这里住得开心、玩得开心。
+在您开始您的旅行前，我们有一些警告事项，所以请务必记得观看。如果有条件，可以记一些笔记。
+最近，一种新的现象，也就是红月现象，在这里出现了。这种现象非常危险，您也应当在听到警报后立即采取行动。
+【A级】
+A级警报只会在电视上播送。这会打断电视上正在播送的内容，会在黑色的背景上显示出警示文字。
+当您看到警示文字时，不要恐慌，关掉电视，立即把插头拔出，不要再在日出之前打开电视。
+【AA级】
+AA级警报会在电视上以中英双语播送。社区广播也是如此。
+当您看到警示文字时，不要恐慌，关掉电视，将所有拥有信息读取或写入能力以及拥有接受广播信号能力的设备关闭，例如电视、电脑或磁带播放器。
+然后将插头拔出。确保他们不能再重启。之后准备48小时以上的水和食物。戴上提前准备的眼罩和耳塞。
+别忘了关窗锁门。拉起窗帘也有必要。最后开灯并在灯光下睡觉。
+【AAA级】
+AAA级警报需要你采取行动。请不要在广播播送完毕之前关掉电视。如果广播被中途切断，请采取如下行动：
+1. 吃五片提前分发的“紧急睡眠”药片。
+2. 切断主电源。
+3. 关闭气阀门。
+4. 打开所有灯光。
+5. 待在户外，把你的钥匙放在地上。
+6. 向西北面走50米。
+7. 直 视 红 月。
+8. 你可能会看到一些奇怪的生物或异常的噪音。
+- 文字：
+在这样做之后，您是完全安全的。您*不会*被献祭给红月。一切正常。不需要担心。我们会处理您的尸体。
+躺在地上……
+他会带走您的灵魂……
+整个城市将再次陷入安宁……
+我们会感谢您的牺牲……
+红 月 来 了。无 处 可 逃。
+- 语音：
+在这样做之后，您就会被献祭给红月了。如果您不想死，那么——
+跑。
+跑。
+跑。
+跑。
+
+[15:50:33]
+[None] 114514114514
+[此处省流114514个跑]
+
+[15:50:57]
+[None] villain
+哼哼哼！阿阿阿阿阿阿！
+
+[15:51:31]
+[None] 114514114514
+https://www.bilibili.com/video/BV15Y411c7FG?spm_id_from=333.999.0.0&vd_source=b10330e2aff2fcc4f46245c962679507
+
+[15:51:50]
+[None] 114514114514
+雾来了，我们无处可逃
+
+[15:54:31]
+[bw7Gkq] Mr_Zhang
+hello
+
+[15:54:41]
+[bw7Gkq] ZhangBot
+Hello! I am a bot!
+
+[15:54:41]
+[bw7Gkq] Mr_Zhang
+%help
+
+[15:54:45]
+[bw7Gkq] ZhangBot
+%help %lookup &joke
+
+[15:54:45]
+[bw7Gkq] Mr_Zhang
+%lookup decaborane
+
+[15:55:00]
+[bw7Gkq] ZhangBot
+decaborane's information:
+trip: pwnuUa
+hash: qQJL/wtNDgBQp3E
+
+[15:55:00]
+[None] 114514114514
+他             来                了
+
+[15:55:10]
+[bw7Gkq] Mr_Zhang
+%lookup AnnikaV9
+
+[15:55:13]
+[bw7Gkq] ZhangBot
+AnnikaV9's information:
+trip: ttttoe
+hash: +lkp1AOQbrsJVFJ
+
+[15:55:13]
+[bw7Gkq] Mr_Zhang
+%joke
+
+[15:55:19]
+[bw7Gkq] Mr_Zhang
+？？？
+
+[15:55:28]
+[bw7Gkq] Mr_Zhang
+BUG啊
+
+[15:55:33]
+[None] 114514114514
+https://www.bilibili.com/video/BV15Y411c7FG?spm_id_from=333.999.0.0&vd_source=b10330e2aff2fcc4f46245c962679507
+
+[15:55:35]
+[bw7Gkq] Mr_Zhang
+@114514114514 ？
+
+[15:55:35]
+[None] 114514114514
+哈
+
+[15:55:39]
+[pwnuUa] decaborane
+@Mr_Zhang just fyi, you have no reason to stay
+
+[15:55:50]
+[None] 114514114514
+我以为红月来喽[模拟恐怖后遗症]
+
+[15:55:53]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+[15:57:24]
+[bw7Gkq] Mr_Zhang
+哪来的这么多奇怪的视频啊
+
+[15:57:32]
+[None] 114514114514
+B站
+
+[15:57:40]
+[bw7Gkq] Mr_Zhang
+em
+
+[15:57:43]
+[bw7Gkq] Mr_Zhang
+我是说为什么制作这么多奇怪的视频
+
+[15:57:52]
+[None] 114514114514
+啊哈哈冻雾来喽哈哈
+
+[15:57:54]
+[bw7Gkq] Mr_Zhang
+？
+
+[15:57:58]
+[None] 114514114514
+哦
+
+[15:58:02]
+[bw7Gkq] Mr_Zhang
+？
+
+[15:58:04]
+[None] 114514114514
+我也不知道
+
+[15:58:05]
+[bw7Gkq] Mr_Zhang
+。。。
+
+[15:58:07]
+[None] 114514114514
+但挺好看的[指恐怖]
+
+[15:58:16]
+[bw7Gkq] Mr_Zhang
+哈哈哈哈哈哈哈哈哈哈哈
+
+[15:58:22]
+[bw7Gkq] Mr_Zhang
+那低分辨率
+
+[15:58:29]
+[bw7Gkq] Mr_Zhang
+啊
+
+[15:58:33]
+[bw7Gkq] Mr_Zhang
+舒服
+
+[15:59:29]
+[bw7Gkq] Mr_Zhang
+%joke
+
+[15:59:37]
+[bw7Gkq] ZhangBot
+What do you call a cow with no legs?
+Ground beef.
+
+[15:59:38]
+[bw7Gkq] Mr_Zhang
+&joke
+
+[15:59:43]
+[bw7Gkq] Mr_Zhang
+我记得之前有个十分离谱的BUG
+
+[16:00:26]
+[bw7Gkq] Mr_Zhang
+就是说
+
+[16:00:28]
+[bw7Gkq] Mr_Zhang
+机器人没有屏蔽自己
+
+[16:00:32]
+[None] 114514114514
+哈
+
+[16:00:37]
+[None] villain
+？
+
+[16:00:37]
+[bw7Gkq] Mr_Zhang
+这就导致执行help命令时，机器人刷屏
+
+[16:00:44]
+[bw7Gkq] Mr_Zhang
+一直发送help
+
+[16:00:54]
+[bw7Gkq] Mr_Zhang
+直到被频率限制
+
+[16:01:00]
+[None] 114514114514
+信号入侵是吧[半恼]
+
+[16:01:15]
+[bw7Gkq] Mr_Zhang
+。。。
+
+[16:01:21]
+[None] villain
+为什么，我觉得你俩不在一个频道撒
+
+[16:01:58]
+[None] 114514114514
+雀氏
+
+[16:02:13]
+[bw7Gkq] Mr_Zhang
+？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？
+
+[16:02:36]
+[bw7Gkq] Mr_Zhang
+%lookup @villain 
+
+[16:02:42]
+[bw7Gkq] ZhangBot
+I have never seen this man...
+
+[16:02:42]
+[bw7Gkq] Mr_Zhang
+%lookup villain 
+
+[16:02:45]
+[bw7Gkq] ZhangBot
+villain's information:
+trip: 
+hash: uvZSIiwRRBl/Ayi
+
+[16:02:45]
+[bw7Gkq] Mr_Zhang
+我制作的英文机器人
+
+[16:03:01]
+[None] 114514114514
+我草冻雾入侵信号了[bushi]
+
+[16:03:05]
+[bw7Gkq] Mr_Zhang
+%joke
+
+[16:03:10]
+[bw7Gkq] ZhangBot
+Why did the programmer jump on the table?
+Because debug was on his screen.
+
+[16:03:12]
+[None] 114514114514
+NB
+
+[16:03:13]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+[16:03:35]
+[bw7Gkq] Mr_Zhang
+BUG在屏幕上
+
+[16:03:42]
+[None] 114514114514
+#NB
+
+[16:03:45]
+[bw7Gkq] Mr_Zhang
+屏幕上有一只虫子
+
+[16:03:49]
+[None] 114514114514
+＃NB
+
+[16:03:51]
+[bw7Gkq] Mr_Zhang
+# NB
+
+[16:03:57]
+[None] 114514114514
+为啥你能打出来
+
+[16:04:08]
+[None] villain
+现实好魔幻
+
+[16:04:09]
+[None] villain
+话说404呢？
+
+[16:04:45]
+[bw7Gkq] Mr_Zhang
+@villain 他在上学
+
+[16:04:52]
+[None] 114514114514
+所以，剩下的是被抓走做刘老头肉包了吗
+
+[16:04:57]
+[bw7Gkq] Mr_Zhang
+我测试一下
+
+[16:04:59]
+[None] 114514114514
+我这网课时代
+
+[16:05:14]
+[None] villain
+我还在上网课
+
+[16:05:15]
+[bw7Gkq] Mr_Zhang
+wow
+
+[16:05:17]
+[bw7Gkq] Mr_Zhang
+被踢了耶
+
+[16:05:34]
+[None] villain
+我踢我自己？
+
+[16:06:03]
+[bw7Gkq] Mr_Zhang
+@villain no
+
+[16:06:17]
+[bw7Gkq] Mr_Zhang
+404的机器人踢的
+
+[16:06:24]
+[None] 114514114514
+https://www.bilibili.com/video/BV18g411Q7ix/?spm_id_from=333.788&vd_source=b10330e2aff2fcc4f46245c962679507
+
+[16:06:33]
+[None] villain
+判断标准？
+
+[16:07:00]
+[None] 114514114514
+0.22秒高能[这个视频]
+
+[16:07:46]
+[bw7Gkq] Mr_Zhang
+。。。
+
+[16:07:56]
+[bw7Gkq] Mr_Zhang
+@villain 昵称包含关键字
+
+[16:08:03]
+[bw7Gkq] Mr_Zhang
+由于这里抵制XChat
+
+[16:08:14]
+[bw7Gkq] Mr_ZhangXC
+bw7Gkq *
+ZhangBot whispered: Hey guy, I am a bot, you can send "%help" to get my help information.
+
+[16:08:23]
+[bw7Gkq] Mr_ZhangXC
+very good!!!
+
+[16:08:29]
+[None] villain
+曾经有人拉我进过那里
+
+[16:08:33]
+[bw7Gkq] Mr_ZhangXC
+em
+
+[16:08:46]
+[None] 114514114514
+XC是啥
+
+[16:08:55]
+[None] villain
+另一个聊天室
+
+[16:09:11]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+[16:09:20]
+[None] villain
+好简陋的感觉我记得
+
+[16:09:34]
+[bw7Gkq] Mr_Zhang
+@114514114514 XChat地址：https://xq.kzw.ink/?xq102210
+
+[16:09:36]
+[bw7Gkq] Mr_Zhang
+功能很多
+
+[16:09:40]
+[bw7Gkq] Mr_Zhang
+100个
+
+[16:09:42]
+[None] villain
+主要还是我当时不会用
+
+[16:09:50]
+[bw7Gkq] Mr_Zhang
+我是那里的管理员
+
+[16:09:51]
+[bw7Gkq] Mr_Zhang
+em
+
+[16:09:52]
+[None] villain
+纯白色界面
+
+[16:10:07]
+[None] villain
+你值得拥有
+
+[16:10:12]
+[None] villain
+欸？为毛和我之前看见的不一样
+
+[16:10:45]
+[bw7Gkq] Mr_Zhang
+？
+
+[16:11:02]
+[None] villain
+欸？我看见有个同名的chat来着
+
+[16:11:09]
+[None] villain
+也叫Xchat
+
+[16:11:17]
+[None] 114514114514
+ 好家伙
+
+[16:11:32]
+[None] 114514114514
+MR ZHANG是不是被踢了
+
+[16:11:40]
+[None] villain
+没有
+
+[16:11:46]
+[bw7Gkq] Mr_Zhang
+@114514114514 qs
+
+[16:11:50]
+[None] villain
+还在这
+
+[16:11:50]
+[bw7Gkq] Mr_Zhang
+密码输错了
+
+[16:11:52]
+[None] 114514114514
+zhang你天津哪里人
+
+[16:12:20]
+[None] villain
+话说整一个网站好贵哈哈哈
+
+[16:12:23]
+[None] 114514114514
+我滨海
+
+[16:12:27]
+[None] villain
+所以说hc的wiki是自己搭建的，那么网站的钱咋出（见识短浅无法理解）
+
+[16:13:36]
+[bw7Gkq] Mr_Zhang
+@114514114514 宁河区
+
+[16:14:24]
+[None] 114514114514
+宁河疫情咋样啊
+
+[16:14:48]
+[None] 114514114514
+我们这查出来个
+
+[16:16:27]
+[None] 114514114514
+https://www.crazygames.com/game/downtown-1930s-mafia?utm_source=invite&roomId=617423
+
+[16:17:07]
+[None] 114514114514
+房名114514
+
+[16:23:22]
+[None] villain
+嘿嗨！
+
+[16:44:26]
+[MYhQ2M] BELUGA
+Wuuhuuuuuuuuuuuuuuuuuuuuuuuuuuu!!!
+
+[16:44:34]
+[MYhQ2M] BELUGA
+Wuuhuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu!!
+
+[16:44:43]
+[MYhQ2M] BELUGA
+WuuHuuuuuuuuu!
+
+[16:44:48]
+[bw7Gkq] Mr_Zhang
+hi!
+
+[16:44:49]
+[MYhQ2M] BELUGA
+My exams Are OVEr!!!!!
+
+[16:45:34]
+[MYhQ2M] BELUGA
+@Mr_Zhang hello
+
+[16:45:40]
+[bw7Gkq] Mr_Zhang
+where are you from?
+
+[16:45:44]
+[MYhQ2M] BELUGA
+@ee
+
+[16:45:45]
+[MYhQ2M] BELUGA
+@Mr_Zhang LA
+
+[16:45:51]
+[bw7Gkq] Mr_Zhang
+@BELUGA user ee is a bot
+
+[16:45:53]
+[bw7Gkq] Mr_Zhang
+oh, i see
+
+[16:52:57]
+[bw7Gkq] Mr_Zhang
+[]
+
+[17:02:57]
+[None] 114514114514
+填空题：自然选择，[   ]！
+
+[17:07:39]
+[None] happy
+Hi
+
+[17:07:45]
+[bw7Gkq] Mr_Zhang
+hi
+
+[17:07:53]
+[None] happy
+Who's dis????
+
+[17:10:56]
+[None] warez_DDL
+Google, I started going on the internet in 1996. You weren't even born. If you think you scare me with images of skulls and skeletons, you're very wrong.
+
+[17:11:28]
+[None] happy
+Nee
+
+[17:16:02]
+[None] 114514114514
+https://www.bilibili.com/video/BV1BS4y117iR?spm_id_from=333.337.search-card.all.click&vd_source=b10330e2aff2fcc4f46245c962679507
+
+[17:16:09]
+[None] 114514114514
+恐怖片
+
+[17:19:19]
+[bw7Gkq] _Mr_Zhang
+...
+
+[17:19:20]
+[bw7Gkq] _Mr_Zhang
+~kick Mr_Zhang
+
+[17:19:28]
+[QCkYle] ModBot
+Your mother was a hamster.
+
+[17:19:28]
+[bw7Gkq] _Mr_Zhang
+.m kick Mr_Zhang
+
+[17:19:33]
+[hACkeR] mbot
+@_Mr_Zhang error: permission denied
+
+[17:19:34]
+[bw7Gkq] _Mr_Zhang
+...
+
+[17:24:26]
+[bw7Gkq] ___Mr_Zhang
+掉了啊
+
+[17:24:30]
+[bw7Gkq] ___Mr_Zhang
+bad network
+
+[17:28:02]
+[bw7Gkq] ____Mr_Zhang
+...
+
+[17:37:46]
+[bw7Gkq] Mr_Zhang
+hi yo
+
+[17:38:03]
+[eYFDHl] eee
+芜湖
+
+[17:38:07]
+[eYFDHl] eee
+我回来了
+
+[17:38:18]
+[bw7Gkq] Mr_Zhang
+hi yo
+
+[17:38:21]
+[bw7Gkq] Mr_Zhang
+同步上线
+
+[17:38:26]
+[Myh1TA] 4n0n4me
+666
+
+[17:38:29]
+[eYFDHl] eee
+5天的住宿快乐生活
+
+[17:38:34]
+[eYFDHl] eee
+hihihi
+
+[17:38:37]
+[bw7Gkq] Mr_Zhang
+fish和Outlier刚才也上线了
+
+[17:38:44]
+[bw7Gkq] Mr_Zhang
+hhhh
+
+[17:38:46]
+[eYFDHl] eee
+paper
+
+[17:39:05]
+[bw7Gkq] Mr_Zhang
+~~我上网课~~
+
+[17:39:12]
+[QCkYle] ModBot
+Your mother was a hamster.
+
+[17:39:12]
+[eYFDHl] eee
+今天没有留言
+
+[17:39:14]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+[17:39:14]
+[bw7Gkq] Mr_Zhang
+paper
+
+[17:39:16]
+[bw7Gkq] Mr_Zhang
+....
+
+[17:39:18]
+[eYFDHl] eee
+翻服务器去了
+
+[17:39:22]
+[bw7Gkq] Mr_Zhang
+我寻思着写一个盗版历史书
+
+[17:39:35]
+[bw7Gkq] Mr_Zhang
+~~然后我就把我的主页办了，改成博客~~
+
+[17:39:56]
+[QCkYle] ModBot
+Your mother was a hamster.
+
+[17:39:56]
+[eYFDHl] eee
+这周四学校有社团招新活动
+
+[17:40:12]
+[bw7Gkq] Mr_Zhang
+@ModBot It is rude to say "fuck"
+
+[17:40:22]
+[eYFDHl] eee
+~~约等于一堆社团在操场上打地铺表演~~
+
+[17:40:55]
+[QCkYle] ModBot
+So, ~help might, uh, well, nevermind. . .
+
+[17:40:56]
+[eYFDHl] eee
+好玩
+
+[17:40:59]
+[bw7Gkq] Mr_Zhang
+\~~好家伙~~
+
+[17:41:04]
+[bw7Gkq] Mr_Zhang
+\~~~好家伙~~
+
+[17:41:07]
+[bw7Gkq] Mr_Zhang
+？？？？？？？？？？
+
+[17:41:11]
+[bw7Gkq] Mr_Zhang
+ ~~好家伙~~
+
+[17:41:15]
+[eYFDHl] eee
+然后我去了科技社（
+
+[17:41:19]
+[None] 114514114514
+啊哈哈
+
+[17:41:19]
+[None] 114514114514
+呵呵啊哈哈鸡汤来喽
+
+[17:41:26]
+[bw7Gkq] Mr_Zhang
+hhh
+
+[17:41:30]
+[eYFDHl] eee
+要求是会摄影电脑或做网页
+
+[17:41:33]
+[bw7Gkq] Mr_Zhang
+我写了个十分NB的代码
+
+[17:41:36]
+[eYFDHl] eee
+~~这不正适合我吗~~ awa
+
+[17:41:44]
+[QCkYle] ModBot
+The fuck did you just say to me?
+
+[17:41:44]
+[bw7Gkq] Mr_Zhang
+wow
+
+[17:41:51]
+[bw7Gkq] Mr_Zhang
+自动导入指定目录下的所有py文件
+
+[17:41:55]
+[bw7Gkq] Mr_Zhang
+众所周知，py可没有require
+
+[17:42:43]
+[bw7Gkq] Mr_Zhang
+于是就有：小张写了个~~人工智能~~，自动写代码，输出到文件，随后再导入这个文件，再然后运行它。
+
+[17:42:55]
+[bw7Gkq] Mr_Zhang
+下面是ImportManager.py的代码：
+---
+
+[17:44:28]
+[eYFDHl] eee
+>bw7Gkq Mr_Zhang
+fish和Outlier刚才也上线了
+
+所以 yc和xc和好了？
+
+[17:44:33]
+[bw7Gkq] Mr_Zhang
+长信息预警！！！！
+
+[17:44:36]
+[bw7Gkq] Mr_Zhang
+@eee 有这种趋势
+
+[17:44:41]
+[Myh1TA] 4n0n4me
+@eee 我不同意这种说法
+
+[17:44:44]
+[None] 114514114514
+冬日小屋网址是啥，我玩玩他们的MC服务器
+
+[17:44:50]
+[bw7Gkq] Mr_Zhang
+Long MSG!!!
+
+[17:45:01]
+[bw7Gkq] Mr_Zhang
+```python
+import glob
+from imp import reload
+from os import remove
+from time import sleep
+packets=[]
+class cmd:
+    def __init__(self,name,packet,info):
+        self.name = name
+        self.packet = packet
+        self.info = info
+def build_importer(packet_name):
+    import_file = open('importer.py','w')
+    import_file.write('\
+import sys\n\
+sys.path.append("./commands")\n\
+import {}\n\
+def load():\n\
+    return {}'.format(packet_name.replace(".py","").replace("commands\\",""),packet_name.replace(".py","").replace("commands\\","")))
+    import_file.close()
+def loadpackets():
+    global packets
+    for i in glob.glob('commands/*.py'):
+        build_importer(i)
+        reload(importer)
+        imported_packet = importer.load()
+        packet = cmd(imported_packet.info.name,imported_packet,imported_packet.info)
+        packets.append(packet)
+        remove('importer.py')
+        sleep(0.8)
+    return packets
+build_importer('os')
+import importer
+```
+
+[17:45:04]
+[Myh1TA] 4n0n4me
+@114514114514 https://craft.spr233.eu.org/
+
+[17:45:32]
+[bw7Gkq] Mr_Zhang
+据我分析，现在YC分成两派：和平派、战争派（极端派）
+
+[17:46:36]
+[bw7Gkq] Mr_Zhang
+和平派代表人物：Maggie、zzChumo
+
+[17:46:53]
+[Myh1TA] 4n0n4me
+小张发现验证码的bug，还提供给fish。
+
+[17:48:13]
+[bw7Gkq] Mr_Zhang
+随后发到了github上
+
+[17:48:26]
+[Myh1TA] 4n0n4me
+除此以外，fish本人对yc这一概念的态度无疑充满了贬低。
+
+[17:48:34]
+[Myh1TA] 4n0n4me
+Maggie我知道，初墨怎么就和平派了
+
+[17:48:58]
+[bw7Gkq] Mr_Zhang
+最开始管理员不重视
+
+[17:48:59]
+[bw7Gkq] Mr_Zhang
+并且惨遭lol封禁
+
+[17:49:03]
+[bw7Gkq] Mr_Zhang
+次日在github上提问题
+
+[17:49:13]
+[bw7Gkq] Mr_Zhang
+得到重视
+
+[17:49:16]
+[Myh1TA] 4n0n4me
+ ~~开香槟咯~~
+
+[17:49:24]
+[bw7Gkq] Mr_Zhang
+要了解此事件，请访问：https://mrzhang365.github.io/
+
+[17:49:51]
+[bw7Gkq] Mr_Zhang
+ ~~（想不到吧，我把主页改成了博客）~~
+
+[17:50:08]
+[bw7Gkq] Mr_Zhang
+@4n0n4me 他几乎每天晚上都去XChat，并且正常讨论
+
+[17:52:45]
+[None] f
+D
+
+[17:52:51]
+[bw7Gkq] Mr_Zhang
+yo
+
+[17:52:56]
+[bw7Gkq] Mr_Zhang
+..
+
+[17:54:59]
+[None] Warez_DDL
+Google, I started going on the internet in 1996. You weren't even born. If you think you scare me with images of skulls and skeletons, you're very wrong. ahah
+
+[17:55:14]
+[bw7Gkq] Mr_Zhang
+yo
+
+[17:55:25]
+[None] Warez_DDL
+@Mr_Zhang Yo
+
+[17:56:09]
+[bw7Gkq] Mr_Zhang
+。
+
+[18:00:26]
+[Myh1TA] 4n0n4me
+awa
+
+[18:00:36]
+[bw7Gkq] Mr_Zhang
+QwQ
+
+[18:01:21]
+[Myh1TA] 4n0n4me
+我真的栓q
+
+[18:02:05]
+[bw7Gkq] Mr_Zhang
+Thx
+
+[18:02:22]
+[eYFDHl] eee
+zzChumo确实一直在xc
+
+[18:12:41]
+[eYFDHl] eee
+>小张发现验证码的bug，还提供给fish。
+
+这说明
+
+[18:12:48]
+[eYFDHl] eee
+什么
+
+[18:12:50]
+[eYFDHl] eee
+@Mr_Zhang XChat使用手册不允许盗
+
+[18:13:29]
+[eYFDHl] eee
+啊 不
+
+[18:13:56]
+[eYFDHl] eee
+抄的部分注明原作者
+
+[18:14:05]
+[eYFDHl] eee
+历史书也一样 ~~因为初衷就是为了更多人能了解历史~~
+
+[18:14:12]
+[eYFDHl] eee
+@Mr_Zhang 协议页脚都写得明明白白不要眼瞎（（
+
+[18:16:32]
+[geGDVS] B1aze
+awa
+
+[18:16:35]
+[eYFDHl] eee
+@Mr_Zhang 如果你能遵守 你的历史书版本会出现在原版
+
+[18:16:42]
+[eYFDHl] eee
+还有 盗版不存在
+
+[18:16:59]
+[eYFDHl] eee
+hi yo
+
+[18:17:00]
+[geGDVS] B1aze
+yay
+
+[18:17:19]
+[eYFDHl] eee
+ ~~小张找BUG事件我收下了~~
+
+[18:17:32]
+[eYFDHl] eee
+https://book.paperee.guru/#/
+
+[18:22:43]
+[Myh1TA] 4n0n4me
+我怎么上不去啊
+
+[18:31:47]
+[eYFDHl] eee
+@4n0n4me 什么上不去
+
+[18:32:52]
+[Myh1TA] 4n0n4me
+paperee.guru
+
+[18:33:14]
+[Myh1TA] 4n0n4me
+:(
+
+[18:33:16]
+[eYFDHl] eee
+oh no——
+
+[18:33:28]
+[eYFDHl] eee
+https://paperee.guru/
+
+[18:33:37]
+[eYFDHl] eee
+这个也不行吗
+
+[18:33:39]
+[eYFDHl] eee
+等一下
+
+[18:35:05]
+[eYFDHl] eee
+可能历史书证书有问题
+
+[18:35:10]
+[Myh1TA] 4n0n4me
+我认为
+
+[18:35:43]
+[Myh1TA] 4n0n4me
+就我这边网络 有问题
+
+[18:35:52]
+[Myh1TA] 4n0n4me
+:(
+
+[18:36:02]
+[None] kittu
+Hii
+
+[18:36:16]
+[Myh1TA] 4n0n4me
+我开了翻q的东西就好了
+
+[18:36:31]
+[Myh1TA] 4n0n4me
+ ~~也许我的地区封了所有guru域名~~
+
+[18:36:48]
+[eYFDHl] eee
+草
+
+[18:36:52]
+[eYFDHl] eee
+guru——
+
+[18:36:56]
+[eYFDHl] eee
+~~guru做错了什么~~
+
+[18:37:02]
+[QCkYle] ModBot
+So, ~help might, uh, well, nevermind. . .
+
+[18:37:02]
+[Myh1TA] 4n0n4me
+但是证书好像也确实有问题（）
+
+[18:37:15]
+[eYFDHl] eee
+我重搞证书
+
+[18:40:02]
+[eYFDHl] eee
+https://book.paperee.guru/#/chatroom-history-book/
+
+[18:46:12]
+[None] inform
+good nigth
+
+[18:46:20]
+[None] inform
+hello
+
+[18:46:28]
+[None] inform
+tell me this speker map have oe
+
+[18:46:55]
+[None] inform
+Oc
+
+[18:47:04]
+[None] inform
+wtf
+
+[19:01:43]
+[eYFDHl] eee
+@MaggiPCe 
+
+[19:04:38]
+[Myh1TA] 4n0n4me
+-
+
+[19:30:18]
+[eYFDHl] eee
+？
+
+[19:30:22]
+[eYFDHl] eee
+hi yo
+
+[19:30:25]
+[None] hi
+Hi
+
+[19:32:37]
+[g2zH6D] MaggieIphone
+EE 回来了！
+
+[19:33:01]
+[g2zH6D] MaggieIphone
+好耶
+
+[19:33:04]
+[g2zH6D] MaggieIphone
+爱疯的体验像💩……
+
+[19:33:31]
+[g2zH6D] MaggieIphone
+话说今晚TC重新上线
+
+[19:34:00]
+[g2zH6D] MaggieIphone
+有人能辅助吗？
+
+[19:34:48]
+[None] sdvde
+wegw
+
+[19:34:56]
+[g2zH6D] MaggieIphone
+?
+
+[19:35:05]
+[Myh1TA] 4n0n4me
+ ~~怎么辅助~~
+
+[19:35:05]
+[g2zH6D] MaggieIphone
+Live share
+
+[19:35:27]
+[g2zH6D] MaggieIphone
+Download -> code -> upload -> reload
+
+[19:35:38]
+[None] sdvde
+bc1qz9qyxkpn9ykgfy8l74jt2kq3tfw3xs8zpkae5h
+
+[19:35:41]
+[g2zH6D] MaggieIphone
+Spammer?
+
+[19:35:50]
+[None] sdvde
+bc1qzmace87c5dndrpxqldvlzmj99a4yd5z9xcxd8e
+
+[19:36:13]
+[None] sdvde
+bc1qzmace87c5dndrpxqldvlzmj99a4yd5z9xcxd8e
+
+[19:36:18]
+[g2zH6D] MaggieIphone
+@4n0n4me 踢吗
+
+[19:36:22]
+[g2zH6D] MaggieIphone
+好怪
+
+[19:36:37]
+[g2zH6D] MaggieIphone
+这是什么数据结构吗
+
+[19:36:48]
+[Myh1TA] 4n0n4me
+我不知道啊
+
+[19:37:19]
+[None] nio
+bc1q5rsse9askflu5ddrlr0tcf99sdkm7dy97jvfn6
+
+[19:37:23]
+[None] nio
+bc1quw2se0stje86kudzhzwy4ezxa5q8gdsl75fkrg
+
+[19:37:35]
+[Myh1TA] 4n0n4me
+我认为说不定他能说出啥来（）
+
+[19:37:41]
+[None] nio
+bc1quw2se0stje86kudzhzwy4ezxa5q8gdsl75fkrg
+
+[19:37:42]
+[Myh1TA] 4n0n4me
+@nio what's this
+
+[19:37:46]
+[Myh1TA] 4n0n4me
+let me try rule
+
+[19:37:52]
+[g2zH6D] MaggieIphone
+今晚屑麻鸡开live share记得来
+
+[19:37:54]
+[bw7Gkq] Mr_Zhang
+回来力
+
+[19:38:16]
+[Myh1TA] 4n0n4me
+我rule以后
+
+[19:38:20]
+[Myh1TA] 4n0n4me
+他立刻就走了
+
+[19:38:23]
+[Myh1TA] 4n0n4me
+可见他也是凡人
+
+[19:38:26]
+[bw7Gkq] Mr_Zhang
+@eee em，博客的文件在树莓派上，但是树莓派被我爸爸收起来了
+
+[19:38:29]
+[Myh1TA] 4n0n4me
+是用的网页端
+
+[19:38:31]
+[g2zH6D] MaggieIphone
+今晚不出意外的话…TC会重启
+
+[19:38:32]
+[g2zH6D] MaggieIphone
+哇哦
+
+[19:38:36]
+[AAfFKK] _
+yo
+
+[19:38:37]
+[bw7Gkq] Mr_Zhang
+并且SD卡也出了点问题
+
+[19:38:38]
+[g2zH6D] MaggieIphone
+dpg
+
+[19:38:41]
+[AAfFKK] _
+ovo
+
+[19:38:43]
+[bw7Gkq] Mr_Zhang
+所以不能及时更改
+
+[19:38:45]
+[g2zH6D] MaggieIphone
+ayo！
+
+[19:38:46]
+[bw7Gkq] Mr_Zhang
+如果要更高
+
+[19:38:48]
+[bw7Gkq] Mr_Zhang
+更改
+
+[19:38:50]
+[bw7Gkq] Mr_Zhang
+那么整个博客就要重写
+
+[19:39:00]
+[AAfFKK] _
+e
+
+[19:39:02]
+[bw7Gkq] Mr_Zhang
+555
+
+[19:39:04]
+[g2zH6D] MaggieIphone
+long time no see
+
+[19:39:08]
+[Myh1TA] 4n0n4me
+hi yoooooooooooo
+
+[19:39:13]
+[AAfFKK] _
+ind
+
+[19:39:14]
+[Myh1TA] 4n0n4me
+afk absent :(
+
+[19:39:20]
+[bw7Gkq] Mr_Zhang
+我本想把SD卡的数据转移到PC上
+
+[19:39:26]
+[bw7Gkq] Mr_Zhang
+但是读卡器出问题了
+
+[19:39:30]
+[bw7Gkq] Mr_Zhang
+555
+
+[19:39:32]
+[Myh1TA] 4n0n4me
+and plan at warma's channel stopped
+
+[19:39:36]
+[Myh1TA] 4n0n4me
+mod got in
+
+[19:39:39]
+[eYFDHl] eee
+@Mr_Zhang 没事 谢谢你的资料 ~~我抄了~~
+
+[19:39:49]
+[Myh1TA] 4n0n4me
+and two sides removed bot
+
+[19:39:49]
+[bw7Gkq] Mr_Zhang
+@eee ~~刑~~
+
+[19:40:00]
+[g2zH6D] MaggieIphone
+一个新决定操场上
+
+[19:40:24]
+[g2zH6D] MaggieIphone
+饿输入法
+
+[19:40:29]
+[g2zH6D] MaggieIphone
+煞笔输入法
+
+[19:40:35]
+[g2zH6D] MaggieIphone
+一个新决定
+
+[19:40:45]
+[bw7Gkq] Mr_Zhang
+我打算再找一个读卡器
+
+[19:40:49]
+[g2zH6D] MaggieIphone
+聊天室历史上的
+
+[19:40:53]
+[g2zH6D] MaggieIphone
+历史书
+
+[19:40:56]
+[bw7Gkq] Mr_Zhang
+如果新的读卡器依然不能读SD卡
+
+[19:40:58]
+[bw7Gkq] Mr_Zhang
+就说明SD卡被我爸爸弄坏了
+
+[19:41:06]
+[g2zH6D] MaggieIphone
+就是每次更新首先推送到GitHub
+
+[19:41:14]
+[bw7Gkq] Mr_Zhang
+（我爸爸直接拔掉了电源
+
+[19:41:16]
+[g2zH6D] MaggieIphone
+然后各个源同步
+
+[19:41:25]
+[bw7Gkq] Mr_Zhang
+之前我也做过，然后SD卡就五了
+
+[19:41:27]
+[bw7Gkq] Mr_Zhang
+无语
+
+[19:41:29]
+[g2zH6D] MaggieIphone
+这样方便管理
+
+[19:41:29]
+[g2zH6D] MaggieIphone
+如何？各位
+
+[19:41:36]
+[bw7Gkq] Mr_Zhang
+如果SD卡真坏了
+
+[19:41:40]
+[g2zH6D] MaggieIphone
+@eee @4n0n4me 
+
+[19:41:46]
+[Myh1TA] 4n0n4me
+我觉得很好
+
+[19:42:07]
+[g2zH6D] MaggieIphone
+对不起，我用的我爸的手机，发消息很慢
+
+[19:42:13]
+[Myh1TA] 4n0n4me
+很正常（）
+
+[19:42:18]
+[eYFDHl] eee
+@MaggieIphone 所以你到底看私信了没
+
+[19:42:20]
+[Myh1TA] 4n0n4me
+啊
+
+[19:42:23]
+[Myh1TA] 4n0n4me
+啥私信
+
+[19:42:25]
+[g2zH6D] MaggieIphone
+看了
+
+[19:42:25]
+[bw7Gkq] Mr_Zhang
+==我就把我爸爸的树莓派rm -rf==
+
+[19:42:26]
+[eYFDHl] eee
+所以 回答
+
+[19:42:32]
+[g2zH6D] MaggieIphone
+马上回复
+
+[19:42:33]
+[g2zH6D] MaggieIphone
+答案是
+
+[19:42:40]
+[g2zH6D] MaggieIphone
+不能
+
+[19:42:42]
+[eYFDHl] eee
+OK
+
+[19:42:46]
+[g2zH6D] MaggieIphone
+我还在尝试
+
+[19:42:47]
+[g2zH6D] MaggieIphone
+用其他的方法
+
+[19:42:54]
+[eYFDHl] eee
+OK
+
+[19:42:58]
+[g2zH6D] MaggieIphone
+不过我最近没有太多时间……
+
+[19:43:07]
+[g2zH6D] MaggieIphone
+除了这三天
+
+[19:43:12]
+[eYFDHl] eee
+那我改完推送
+
+[19:43:15]
+[g2zH6D] MaggieIphone
+中秋假期
+
+[19:43:15]
+[g2zH6D] MaggieIphone
+饿，你似乎没有仓库读写权限
+
+[19:43:35]
+[g2zH6D] MaggieIphone
+要不你搞个pr
+
+[19:43:41]
+[eYFDHl] eee
+pr？
+
+[19:43:49]
+[g2zH6D] MaggieIphone
+ pull request
+
+[19:43:51]
+[bw7Gkq] Mr_Zhang
+我又找到了一个读卡器
+
+[19:44:02]
+[eYFDHl] eee
+OK
+
+[19:44:04]
+[g2zH6D] MaggieIphone
+提交，然后我合并分支
+
+[19:44:07]
+[bw7Gkq] Mr_Zhang
+让我来鉴定一下，SD卡是否正常
+
+[19:44:15]
+[bw7Gkq] Mr_Zhang
+别坏呀
+
+[19:44:25]
+[g2zH6D] MaggieIphone
+等我回家就不用忍受爱疯的傻逼缩放了……
+
+[19:44:38]
+[bw7Gkq] Mr_Zhang
+OHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+[19:44:44]
+[Myh1TA] 4n0n4me
+我也经常用iOS
+
+[19:44:49]
+[bw7Gkq] Mr_Zhang
+正常读取！！！！
+
+[19:44:50]
+[Myh1TA] 4n0n4me
+体验离谱
+
+[19:44:53]
+[bw7Gkq] Mr_Zhang
+好耶！！！
+
+[19:44:54]
+[g2zH6D] MaggieIphone
+好特酿的难受
+
+[19:44:55]
+[bw7Gkq] Mr_Zhang
+可以备份数据了！！！
+
+[19:44:59]
+[bw7Gkq] Mr_Zhang
+今晚更新博客！
+
+[19:45:04]
+[g2zH6D] MaggieIphone
+哇哦
+
+[19:45:12]
+[g2zH6D] MaggieIphone
+我的树莓派不会坏
+
+[19:45:34]
+[g2zH6D] MaggieIphone
+因为从来不断电
+
+[19:45:34]
+[g2zH6D] MaggieIphone
+像个服务器一样
+
+[19:45:42]
+[bw7Gkq] Mr_Zhang
+@MaggieIphone 我的偶尔用sudo halt或reboot
+
+[19:45:49]
+[g2zH6D] MaggieIphone
+只不过没有公网IP
+
+[19:45:50]
+[bw7Gkq] Mr_Zhang
+如果关机
+
+[19:45:52]
+[eYFDHl] eee
+我的树莓派……笑死 在梦里
+
+[19:45:55]
+[bw7Gkq] Mr_Zhang
+那就是sudo halt
+
+[19:45:57]
+[bw7Gkq] Mr_Zhang
+然后断电
+
+[19:46:02]
+[g2zH6D] MaggieIphone
+我直接摁电源的
+
+[19:46:02]
+[bw7Gkq] Mr_Zhang
+因为我长记性了
+
+[19:46:06]
+[g2zH6D] MaggieIphone
+就是这么勇
+
+[19:46:07]
+[bw7Gkq] Mr_Zhang
+上次我拔掉了电源
+
+[19:46:12]
+[bw7Gkq] Mr_Zhang
+然后SD卡就无了
+
+[19:46:19]
+[bw7Gkq] Mr_Zhang
+555
+
+[19:46:30]
+[bw7Gkq] Mr_Zhang
+一个16GB的卡呀
+
+[19:46:37]
+[g2zH6D] MaggieIphone
+啊这？我一直直接按开关，从来没出事
+
+[19:46:38]
+[g2zH6D] MaggieIphone
+我的32GB卡
+
+[19:46:48]
+[bw7Gkq] Mr_Zhang
+开关？
+
+[19:46:48]
+[g2zH6D] MaggieIphone
+我的那个电源线上
+
+[19:46:59]
+[bw7Gkq] Mr_Zhang
+树莓派没有开关啊
+
+[19:47:01]
+[g2zH6D] MaggieIphone
+有个开关
+
+[19:47:03]
+[bw7Gkq] Mr_Zhang
+？
+
+[19:47:05]
+[g2zH6D] MaggieIphone
+我自己买的
+
+[19:47:08]
+[bw7Gkq] Mr_Zhang
+em
+
+[19:47:13]
+[g2zH6D] MaggieIphone
+电源线上
+
+[19:47:14]
+[bw7Gkq] Mr_Zhang
+/home/pi/blog/zhangblog
+
+[19:47:18]
+[bw7Gkq] Mr_Zhang
+哦
+
+[19:47:19]
+[g2zH6D] MaggieIphone
+有个开关
+
+[19:47:20]
+[bw7Gkq] Mr_Zhang
+你说这个啊
+
+[19:47:27]
+[g2zH6D] MaggieIphone
+我回家了给你拍个照
+
+[19:47:27]
+[bw7Gkq] Mr_Zhang
+我家也有
+
+[19:47:31]
+[g2zH6D] MaggieIphone
+和直接拔电源差不多
+
+[19:47:39]
+[bw7Gkq] Mr_Zhang
+这和直接拔电源没啥区别
+
+[19:47:41]
+[bw7Gkq] Mr_Zhang
+对
+
+[19:47:41]
+[g2zH6D] MaggieIphone
+但是我从来没出事
+
+[19:47:46]
+[bw7Gkq] Mr_Zhang
+我都是先sudo halt
+
+[19:47:47]
+[bw7Gkq] Mr_Zhang
+然后断电
+
+[19:47:52]
+[bw7Gkq] Mr_Zhang
+我怕了
+
+[19:47:55]
+[g2zH6D] MaggieIphone
+小狗机器人一直正常运行
+
+[19:47:58]
+[bw7Gkq] Mr_Zhang
+上次我懊悔不已
+
+[19:48:01]
+[bw7Gkq] Mr_Zhang
+哎
+
+[19:48:06]
+[g2zH6D] MaggieIphone
+（DogeBot)
+
+[19:48:08]
+[bw7Gkq] Mr_Zhang
+一堆资料
+
+[19:48:09]
+[bw7Gkq] Mr_Zhang
+葬身海底
+
+[19:48:12]
+[g2zH6D] MaggieIphone
+我的qq机器人
+
+[19:48:21]
+[g2zH6D] MaggieIphone
+非常好玩
+
+[19:48:26]
+[g2zH6D] MaggieIphone
+Awa
+
+[19:48:28]
+[bw7Gkq] Mr_Zhang
+还好这次我爸爸拔电源没有造成SB卡损坏
+
+[19:48:38]
+[bw7Gkq] Mr_Zhang
+配
+
+[19:48:39]
+[g2zH6D] MaggieIphone
+《SB卡》
+
+[19:48:49]
+[bw7Gkq] Mr_Zhang
+呸
+
+[19:48:49]
+[bw7Gkq] Mr_Zhang
+SD卡
+
+[19:48:49]
+[g2zH6D] MaggieIphone
+我就说呢
+
+[19:48:57]
+[bw7Gkq] Mr_Zhang
+不说了
+
+[19:48:59]
+[bw7Gkq] Mr_Zhang
+我去备份了
+
+[19:49:01]
+[g2zH6D] MaggieIphone
+吃鱼拉特兰
+
+[19:49:11]
+[g2zH6D] MaggieIphone
+饿
+
+[19:49:13]
+[g2zH6D] MaggieIphone
+我输入c u later
+
+[19:49:25]
+[g2zH6D] MaggieIphone
+就变成这个了
+
+[19:49:30]
+[g2zH6D] MaggieIphone
+傻逼输入法
+
+[19:49:38]
+[eYFDHl] eee
+《USB》
+
+[19:50:14]
+[bw7Gkq] Mr_Zhang
+我NM
+
+[19:50:50]
+[bw7Gkq] Mr_Zhang
+不让我备份
+
+[19:50:54]
+[bw7Gkq] Mr_Zhang
+付钱！
+
+[19:51:01]
+[g2zH6D] MaggieIphone
+哈哈哈
+
+[19:52:12]
+[bw7Gkq] Mr_Zhang
+超
+
+[19:52:54]
+[bw7Gkq] Mr_Zhang
+一个一个复制
+
+[19:52:57]
+[bw7Gkq] Mr_Zhang
+只复制重要文件
+
+[19:53:03]
+[bw7Gkq] Mr_Zhang
+超！
+
+[19:53:05]
+[bw7Gkq] Mr_Zhang
+历史书复制失败！
+
+[19:53:11]
+[g2zH6D] MaggieIphone
+r.I.p
+
+[19:53:53]
+[bw7Gkq] Mr_Zhang
+超！
+
+[19:53:55]
+[bw7Gkq] Mr_Zhang
+你还不让我复制内容！
+
+[19:54:02]
+[g2zH6D] MaggieIphone
+显示什么错误
+
+[19:54:02]
+[bw7Gkq] Mr_Zhang
+CNM
+
+[19:54:04]
+[bw7Gkq] Mr_Zhang
+288元！
+
+[19:57:36]
+[bw7Gkq] Mr_Zhang
+超！
+
+[19:57:39]
+[bw7Gkq] Mr_Zhang
+无语
+
+[19:57:51]
+[eYFDHl] eee
+aw……
+
+[19:58:43]
+[geGDVS] B1aze
+>shrug
+
+[20:02:56]
+[eYFDHl] eee
+¯\\\_(ツ)\_/¯
+
+[20:04:41]
+[bw7Gkq] Mr_Zhang
+我想骂人
+
+[20:05:28]
+[bw7Gkq] Mr_Zhang
+电脑可以读取数据
+
+[20:05:34]
+[bw7Gkq] Mr_Zhang
+但是却看不懂
+
+[20:05:42]
+[bw7Gkq] Mr_Zhang
+我NM
+
+[20:05:46]
+[bw7Gkq] Mr_Zhang
+不支持分区格式
+
+[20:07:08]
+[bw7Gkq] Mr_Zhang
+焯！
+
+[20:07:34]
+[bw7Gkq] Mr_Zhang
+Windows不支持Ext4文件系统！！！
+
+[20:07:41]
+[g2zH6D] MaggieIphone
+不然呢
+
+[20:08:59]
+[8mT5YX] MaggieIphone
+您似乎没有常识
+
+[20:09:23]
+[8mT5YX] MaggieIphone
+（
+
+[20:09:24]
+[bw7Gkq] Mr_Zhang
+https://www.onlinedown.net/soft/629065.htm
+
+[20:10:40]
+[bw7Gkq] Mr_Zhang
+不错不错
+
+[20:10:44]
+[bw7Gkq] Mr_Zhang
+这个好
+
+[20:10:48]
+[AAfFKK] _
+e
+
+[20:10:51]
+[8mT5YX] MaggieIphone
+e
+
+[20:11:08]
+[8mT5YX] MaggieIphone
+ee
+
+[20:11:11]
+[8mT5YX] MaggieIphone
+@eee
+
+[20:11:17]
+[8mT5YX] MaggieIphone
+（
+
+[20:11:18]
+[8mT5YX] MaggieIphone
+wait wait wait
+
+[20:11:35]
+[eYFDHl] eee
+@MaggieIphone @MaggieIphone （?
+
+[20:11:36]
+[bw7Gkq] Mr_Zhang
+？
+
+[20:11:39]
+[8mT5YX] MaggieIphone
+ Maggie585 offline
+
+[20:11:46]
+[8mT5YX] MaggieIphone
+my 留言 bot
+
+[20:11:52]
+[bw7Gkq] Mr_Zhang
+好
+
+[20:12:00]
+[8mT5YX] MaggieIphone
+but why？
+
+[20:12:05]
+[bw7Gkq] Mr_Zhang
+全部备份完毕
+
+[20:12:06]
+[8mT5YX] MaggieIphone
+im gonna check the log
+
+[20:12:15]
+[bw7Gkq] Mr_Zhang
+不用给我爸爸的树莓派rm -rf了
+
+[20:12:16]
+[8mT5YX] MaggieIphone
+额，似乎是被人踢出的
+
+[20:12:41]
+[bw7Gkq] Mr_Zhang
+@MaggieIphone ？
+
+[20:12:50]
+[8mT5YX] MaggieIphone
+好像不是进程终止了
+
+[20:12:55]
+[bw7Gkq] Mr_Zhang
+？？？？？？？
+
+[20:12:58]
+[bw7Gkq] Mr_Zhang
+啥情况
+
+[20:13:03]
+[8mT5YX] MaggieIphone
+我的留言机器人
+
+[20:13:06]
+[bw7Gkq] Mr_Zhang
+是不是网络断开了啊
+
+[20:13:09]
+[8mT5YX] MaggieIphone
+不是
+
+[20:13:13]
+[bw7Gkq] Mr_Zhang
+或者是连接不稳定
+
+[20:13:18]
+[8mT5YX] MaggieIphone
+挂在服务器上
+
+[20:13:18]
+[bw7Gkq] Mr_Zhang
+可能是连接不稳定
+
+[20:13:28]
+[8mT5YX] MaggieIphone
+我的服务器和hc就离了几十公里
+
+[20:13:31]
+[8mT5YX] MaggieIphone
+理论上
+
+[20:13:33]
+[bw7Gkq] Mr_Zhang
+你的有自动重启功能吗？
+
+[20:13:36]
+[8mT5YX] MaggieIphone
+有
+
+[20:13:41]
+[bw7Gkq] Mr_Zhang
+……
+
+[20:13:44]
+[bw7Gkq] Mr_Zhang
+查查是否运行
+
+[20:13:49]
+[8mT5YX] MaggieIphone
+那一定是被kick了
+
+[20:13:52]
+[bw7Gkq] Mr_Zhang
+看看nohup.out
+
+[20:13:55]
+[8mT5YX] MaggieIphone
+还在运行
+
+[20:14:01]
+[8mT5YX] MaggieIphone
+一定是被kick了
+
+[20:14:09]
+[bw7Gkq] Mr_Zhang
+@MaggieIphone 哦对了，HC崩过一次
+
+[20:14:10]
+[Myh1TA] 4n0n4me
+B站有很多人说网课被入侵
+
+[20:14:17]
+[8mT5YX] MaggieIphone
+有自动重连的
+
+[20:14:17]
+[bw7Gkq] Mr_Zhang
+断开了所有连接
+
+[20:14:25]
+[bw7Gkq] Mr_Zhang
+但是没有重启
+
+[20:14:30]
+[8mT5YX] MaggieIphone
+无论多久都会尝试重连的
+
+[20:14:31]
+[bw7Gkq] Mr_Zhang
+em
+
+[20:14:34]
+[bw7Gkq] Mr_Zhang
+频率限制？
+
+[20:14:38]
+[8mT5YX] MaggieIphone
+它会一直尝试
+
+[20:14:40]
+[bw7Gkq] Mr_Zhang
+hm
+
+[20:14:45]
+[Myh1TA] 4n0n4me
+有人说有主播专门组织入侵
+
+[20:14:47]
+[8mT5YX] MaggieIphone
+小张的博客上记录了一次
+
+[20:15:19]
+[8mT5YX] MaggieIphone
+这些人怕是没事干
+
+[20:15:31]
+[8mT5YX] MaggieIphone
+太损了
+
+[20:15:46]
+[8mT5YX] MaggieIphone
+我上次看到一个
+
+[20:15:56]
+[bw7Gkq] Mr_Zhang
+？？？？？？？？？？？？？？？？？？？
+
+[20:16:05]
+[8mT5YX] MaggieIphone
+一个人趁着老师没看共享
+
+[20:16:09]
+[bw7Gkq] Mr_Zhang
+是吗？
+
+[20:16:10]
+[8mT5YX] MaggieIphone
+没开
+
+[20:16:11]
+[8mT5YX] MaggieIphone
+然后
+
+[20:16:13]
+[8mT5YX] MaggieIphone
+开了共享
+
+[20:16:20]
+[bw7Gkq] Mr_Zhang
+@MaggieIphone 我记录了？？？
+
+[20:16:22]
+[bw7Gkq] Mr_Zhang
+额
+
+[20:16:23]
+[8mT5YX] MaggieIphone
+放了少儿不宜的影片
+
+[20:16:30]
+[8mT5YX] MaggieIphone
+dddd
+
+[20:16:37]
+[bw7Gkq] Mr_Zhang
+em'
+
+[20:16:39]
+[8mT5YX] MaggieIphone
+@Mr_Zhang 你的博客
+
+[20:16:47]
+[bw7Gkq] Mr_Zhang
+oh
+
+[20:16:54]
+[Myh1TA] 4n0n4me
+好家伙
+
+[20:16:56]
+[bw7Gkq] Mr_Zhang
+天津地区频发
+
+[20:17:00]
+[AAfFKK] _
+finally
+
+[20:17:02]
+[8mT5YX] MaggieIphone
+afkbot回来了
+
+[20:17:03]
+[AAfFKK] _
+:!help
+
+[20:17:04]
+[8mT5YX] MaggieIphone
+好耶
+
+[20:17:05]
+[AAfFKK] _
+er
+
+[20:17:07]
+[bw7Gkq] Mr_Zhang
+https://mrzhang365.github.io/2022/09/06/%E7%94%A8%E6%88%B7%E2%80%9C%E6%B3%A2%E6%AF%94%E2%80%9D%E8%BF%9B%E5%85%A5%E8%85%BE%E8%AE%AF%E4%BC%9A%E8%AE%AE%E8%AF%BE%E5%A0%82%E9%AA%9A%E6%89%B0%E4%BA%8B%E4%BB%B6%E9%80%9A%E5%91%8A/
+
+[20:17:09]
+[8mT5YX] MaggieIphone
+er
+
+[20:17:11]
+[bw7Gkq] Mr_Zhang
+这个
+
+[20:17:12]
+[bw7Gkq] Mr_Zhang
+:!help
+
+[20:17:16]
+[AAfFKK] AfK_Bot
+ @_ Your current identity : OWNER
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  ==:!send  :!setatblv  :!setjlmsg  :!findtrip  :!ignore  :!notice  :!addop  :!removeop  :!-.-  :!afkclear==
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[20:17:16]
+[bw7Gkq] Mr_Zhang
+...
+
+[20:17:17]
+[8mT5YX] MaggieIphone
+whats er
+
+[20:17:18]
+[bw7Gkq] Mr_Zhang
+wow
+
+[20:17:20]
+[AAfFKK] _
+lol
+
+[20:17:24]
+[AAfFKK] _
+lagging
+
+[20:17:27]
+[Myh1TA] 4n0n4me
+https://b23.tv/BV1Qe4y1h7p3
+
+[20:17:28]
+[8mT5YX] MaggieIphone
+:!awa
+
+[20:17:32]
+[AAfFKK] AfK_Bot
+![](https://i.gyazo.com/5651e972c5b6b7a78cf9c824f9ff5b01.jpg)
+
+[20:17:32]
+[bw7Gkq] Mr_Zhang
+...
+
+[20:17:37]
+[AAfFKK] _
+:!help
+
+[20:17:38]
+[AAfFKK] _
+hm
+
+[20:17:40]
+[Myh1TA] 4n0n4me
+高一网课遭梦泪入侵第一视角（原声）
+https://b23.tv/BV1R14y1s7Jg
+
+[20:17:40]
+[8mT5YX] MaggieIphone
+looking for some setus
+
+[20:17:40]
+[bw7Gkq] Mr_Zhang
+:!help
+
+[20:17:45]
+[8mT5YX] MaggieIphone
+:!awa
+
+[20:17:48]
+[AAfFKK] _
+errrr
+
+[20:17:48]
+[bw7Gkq] Mr_Zhang
+超！
+
+[20:17:49]
+[8mT5YX] MaggieIphone
+uwu
+
+[20:18:01]
+[8mT5YX] MaggieIphone
+爱罚款机器人
+
+[20:18:18]
+[AAfFKK] _
+++Rcv raw: b'\x81l{"cmd":"warn","text":"You are being rate-limited or blocked.","channel":"your-channel","time":1662725880922}'
+++Rcv decoded: fin=1 opcode=1 data=b'{"cmd":"warn","text":"You are being rate-limited or blocked.","channel":"your-channel","time":1662725880922}'
+
+[20:18:19]
+[AAfFKK] _
+geek
+
+[20:18:21]
+[Myh1TA] 4n0n4me
+曝光一个网课入侵群
+https://b23.tv/BV1Ca41137hB
+
+[20:18:32]
+[8mT5YX] MaggieIphone
+爱罚款_机器人
+
+[20:18:32]
+[Myh1TA] 4n0n4me
+:!help
+
+[20:18:37]
+[AAfFKK] AfK_Bot
+ @4n0n4me Your current identity : OPERATOR
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[20:18:43]
+[8mT5YX] MaggieIphone
+:!awa
+
+[20:18:51]
+[AAfFKK] AfK_Bot
+![](https://i.gyazo.com/424a9596de396e792ef00ebda55202c4.jpg)
+
+[20:18:52]
+[8mT5YX] MaggieIphone
+hm
+
+[20:18:58]
+[AAfFKK] _
+lol
+
+[20:19:01]
+[8mT5YX] MaggieIphone
+:!awa
+
+[20:19:06]
+[AAfFKK] AfK_Bot
+![](https://i.gyazo.com/f49064575273d8b574bb6b74944cb6f6.jpg)
+
+[20:19:06]
+[bw7Gkq] Mr_Zhang
+:!help
+
+[20:19:12]
+[8mT5YX] MaggieIphone
+hmmmmmmm
+
+[20:19:13]
+[AAfFKK] AfK_Bot
+ @Mr_Zhang Your current identity : USER
+Usable commands:
+>:!help  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!getbwd  :!getwhl  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!afk  :!afklist  :!getstats  :!hug  :!cookie  :!shoot  :!awa
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[20:19:13]
+[8mT5YX] MaggieIphone
+:!awa
+
+[20:19:23]
+[AAfFKK] AfK_Bot
+![](https://i.gyazo.com/657065ba08d7f1b23decf1409197ff66.png)
+
+[20:19:23]
+[8mT5YX] MaggieIphone
+gooooog
+
+[20:19:30]
+[bw7Gkq] Mr_Zhang
+...
+
+[20:19:34]
+[Myh1TA] 4n0n4me
+应该都是一些不想学习的学生卧底
+
+[20:19:35]
+[AAfFKK] _
+:!lookup nick lesrh
+
+[20:19:42]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==SkwBWj9hZKOmlCM==: ['Mr_Zhang', 'iecgrweb', 'awrvzkjtgbvkghk', 'lesrh', 'jeb_', 'zhang', 'a']
+==Trips== for hash ==SkwBWj9hZKOmlCM==: ['bw7Gkq', '', 'c01PWj']
+
+[20:19:43]
+[bw7Gkq] Mr_Zhang
+D:\blog>hexo init zhangblog
+INFO  Cloning hexo-starter https://github.com/hexojs/hexo-starter.git
+
+[20:19:47]
+[bw7Gkq] Mr_Zhang
+@4n0n4me true
+
+[20:19:50]
+[AAfFKK] _
+ind
+
+[20:19:52]
+[8mT5YX] MaggieIphone
+Long&white legs
+
+[20:19:53]
+[Myh1TA] 4n0n4me
+给一些闲着没事的人发送会议号
+
+[20:19:53]
+[AAfFKK] _
+:!lookup nick lesrh -a
+
+[20:20:00]
+[AAfFKK] AfK_Bot
+==Hash==: ['SkwBWj9hZKOmlCM', 'smqXFZKLvaAB7sv', 'HsmejuA16W5UeZk']
+==Aliases==: ['{', 'Mr_Zhang', 'iecgrweb', 'Mr_Zhang', 'awrvzkjtgbvkghk', 'lesrh', 'jeb_', 'Mr_Zhang', 'zhang', 'a', '}', '{', 'lesrh', '}', '{', 'lesrh', 'amy73220', '}']
+==Trips==: ['{', 'bw7Gkq', '', 'c01PWj', '', '', '', '', '', '', '}', '{', '', '}', '{', '', '', '}']
+
+[20:20:00]
+[Myh1TA] 4n0n4me
+在组织下破坏网课
+
+[20:20:03]
+[bw7Gkq] Mr_Zhang
+@4n0n4me true
+
+[20:20:08]
+[bw7Gkq] Mr_Zhang
+...
+
+[20:20:12]
+[8mT5YX] MaggieIphone
+没事干的网瘾少年罢了
+
+[20:20:21]
+[bw7Gkq] Mr_Zhang
+:!lookup trip AAFFKK
+
+[20:20:23]
+[AAfFKK] AfK_Bot
+==Hash==: []
+==Aliases==: []
+==Trips==: []
+
+[20:20:23]
+[AAfFKK] _
+:!lookup nick selighwgrilh
+
+[20:20:28]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==SyOpWqFqErKWZ4F==: ['selighwgrilh', 'amy']
+==Trips== for hash ==SyOpWqFqErKWZ4F==: ['']
+
+[20:20:28]
+[AAfFKK] _
+@Mr_Zhang better not
+
+[20:20:36]
+[AAfFKK] _
+lol
+
+[20:20:39]
+[AAfFKK] _
+i'll do this once
+
+[20:21:07]
+[bw7Gkq] Mr_Zhang
+:!lookup trip AAfFKK
+
+[20:21:08]
+[AAfFKK] _
+:!lookup nick @AfK_Bot -a
+
+[20:21:09]
+[bw7Gkq] Mr_Zhang
+...
+
+[20:21:12]
+[AAfFKK] AfK_Bot
+==Hash==: ['9yorkG42lKWSkb/', 'Bhg0U9o9qxKBtRs', 'TVHjvpE6NgmPj1m', '0470KVj2/rMiuvr', 'uFBTsO5+FfuNPXa', 'Wh4IJruTUPmVIyf', 'XSexJ/aBGmDjgfn', '9UBnEo/RLkvrbOD', '+ikImSyUrlqO8El', 'fYhwvTmmCtBV8V+', 'dBpBzrqwTLBI4PG', 'EMhinQQz0FEhy7E', 'VPPv2APc+Q1WtNG', 'ihyS6bzVzGqUTRR', 'LhIcqhT68iErruZ', 'ZRlnQWI30yQJhXT', 'Nw/pyZz8X/OAfID', '7dtb4LgdCvJX8UP', 'S/vPvJa5kRzYs4t', '6ClnqQ3pZWVUr5J', 'lxMewnGqkprPER7', 'g+9/3Hxnoe5Na0W', 'y7ca7bYTtNl92GM', 'Smmi9riTzkjCuz6', 'zJ12xyojBm3Flue', 'DPAvSelEF9a6/o3', 'HSd6CPsHDpao1gE', '2M67KDZNjOTE4xe', 'Jzef0rRAdh4LDk8', 'cKAIRcYSx/SJ5tH', 'bLEVUI4jQNHT2cx', 'z/71dEF8zksN1+a', 'SCCbIf9mZs4jjuW', 'OOHg1RIsNjfTvYQ', 'wUzBfh8HqGmbRKx', 'Z7JuTLszJ6yCf/P', 'X1BAjUd4iTiQzcj', 'QisqBQ6Lm9lxcbX', 'K/cf2yj/LDDFPYL', 'zoRueYomQfQ2/7n', 'e/aOJw7MQN3lU7K', 'XDLpr6VBwSor7ZT', 'JOURY0Zmb8EmS0Y', '9afDPYDsUdBkKvr', 'yYeE8fdVdweTLHO']
+==Aliases==: ['{', 'AfK_Bot', '}', '{', '_', 'test', '__', '__', '__', 'AfK_Bot', '__', '__', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', 'amy74328', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', 'Hacker64057', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'Hacker77979', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'argthry', 'Hacker3185', 'Hacker1535', 'AfK_Bot', '}']
+==Trips==: ['{', 'AAfFKK', '}', '{', 'AAfFKK', '', 'AAfFKK', 'crRrRr', 'aZsAKA', 'AAfFKK', '2r5Xo9', '', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', '', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', '', '', '', 'AAfFKK', '}']
+
+[20:21:15]
+[AAfFKK] _
+lol
+
+[20:21:16]
+[bw7Gkq] Mr_Zhang
+WC
+
+[20:21:17]
+[8mT5YX] MaggieIphone
+:!lookup trip 8mT5YX
+
+[20:21:17]
+[bw7Gkq] Mr_Zhang
+@AfK_Bot AKKKKKKKKK!!!
+
+[20:21:23]
+[AAfFKK] _
+rrrl
+
+[20:21:26]
+[AAfFKK] _
+lol
+
+[20:21:28]
+[8mT5YX] MaggieIphone
+Noooooooo
+
+[20:21:34]
+[8mT5YX] MaggieIphone
+rl
+
+[20:21:36]
+[AAfFKK] _
+that's proxy
+
+[20:21:37]
+[AAfFKK] _
+lot's of proxies
+
+[20:21:45]
+[bw7Gkq] Mr_Zhang
+@AfK_Bot bye~
+
+[20:21:47]
+[8mT5YX] MaggieIphone
+hhh
+
+[20:21:51]
+[bw7Gkq] Mr_Zhang
+ ~kick AfK_Bot
+
+[20:21:53]
+[bw7Gkq] Mr_Zhang
+hhhhhhh
+
+[20:21:55]
+[8mT5YX] MaggieIphone
+hhhhh
+
+[20:21:59]
+[AAfFKK] _
+awa
+
+[20:22:01]
+[8mT5YX] MaggieIphone
+ ~kick everyone
+
+[20:22:10]
+[bw7Gkq] Mr_Zhang
+Auto banned hash 114514 for 9999999999999min
+
+[20:22:12]
+[8mT5YX] MaggieIphone
+No
+
+[20:22:27]
+[8mT5YX] MaggieIphone
+1145141919810 yrs
+
+[20:22:33]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+[20:22:42]
+[Myh1TA] 4n0n4me
+很显然，这些人有批量注册的qq号
+
+[20:22:54]
+[8mT5YX] MaggieIphone
+Yes
+
+[20:22:59]
+[Myh1TA] 4n0n4me
+*微信号
+
+[20:23:18]
+[8mT5YX] MaggieIphone
+Unban when world destoryed
+
+[20:23:20]
+[8mT5YX] MaggieIphone
+XD
+
+[20:23:24]
+[Myh1TA] 4n0n4me
+这些应该都是google voice注册的
+
+[20:23:37]
+[8mT5YX] MaggieIphone
+maybe
+
+[20:23:42]
+[8mT5YX] MaggieIphone
+very possible
+
+[20:23:53]
+[bw7Gkq] Mr_Zhang
+我去在我的电脑上部署博客
+
+[20:24:16]
+[bw7Gkq] Mr_Zhang
+:!afk
+
+[20:24:21]
+[AAfFKK] AfK_Bot
+ @Mr_Zhang You are marked AfK.
+
+[20:24:31]
+[bw7Gkq] Mr_Zhang
+hello
+
+[20:24:36]
+[eYFDHl] eee
+艹
+
+[20:24:37]
+[bw7Gkq] ZhangBot
+Hello! I am a bot!
+
+[20:24:37]
+[AAfFKK] AfK_Bot
+ @Mr_Zhang Welcome back.
+
+[20:24:37]
+[Myh1TA] 4n0n4me
+还有人说他们班级防的尤其严格
+
+[20:24:37]
+[Myh1TA] 4n0n4me
+别的班级都沦陷了
+
+[20:24:41]
+[8mT5YX] MaggieIphone
+@ZhangBot help
+
+[20:24:46]
+[eYFDHl] eee
+ ~~破坏网课我算干过吗~~
+
+[20:24:52]
+[bw7Gkq] Mr_Zhang
+今天上午有个外国人拜我为师
+
+[20:24:54]
+[bw7Gkq] Mr_Zhang
+于是我就写了这个机器人
+
+[20:24:55]
+[8mT5YX] MaggieIphone
+hhh
+
+[20:25:02]
+[AAfFKK] _
+:!lookup nick SB
+
+[20:25:05]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==MijGISma99Nz71+==: ['ZhangLoggerPlus', 'Lubenwei', 'SB', 'selighwgrilh']
+==Trips== for hash ==MijGISma99Nz71+==: ['']
+
+[20:25:05]
+[bw7Gkq] Mr_Zhang
+%help
+
+[20:25:09]
+[bw7Gkq] ZhangBot
+%help %lookup %joke
+
+[20:25:09]
+[AAfFKK] _
+interesting
+
+[20:25:09]
+[8mT5YX] MaggieIphone
+%jntm
+
+[20:25:16]
+[bw7Gkq] Mr_Zhang
+%joke
+
+[20:25:23]
+[eYFDHl] eee
+上回鱼发了一个暑假计算机网课的网课链接
+
+[20:25:27]
+[AAfFKK] _
+SigmaMale
+
+[20:25:31]
+[AAfFKK] _
+lol
+
+[20:25:33]
+[bw7Gkq] Mr_Zhang
+%joke
+
+[20:25:34]
+[bw7Gkq] Mr_Zhang
+...
+
+[20:25:38]
+[eYFDHl] eee
+让我进去打xc广告（一两个月前
+
+[20:25:40]
+[8mT5YX] MaggieIphone
+%SetAdminKey KFC-CRAZY-THURSDAY-V-ME-50
+
+[20:26:01]
+[eYFDHl] eee
+咳咳 然后就算混熟了
+
+[20:26:06]
+[8mT5YX] MaggieIphone
+hhh
+
+[20:26:09]
+[eYFDHl] eee
+然后就给里面的人打广告
+
+[20:26:13]
+[AAfFKK] _
+:!getbwd
+
+[20:26:21]
+[AAfFKK] _
+int
+
+[20:26:40]
+[bw7Gkq] Mr_Zhang
+%joke
+
+[20:26:48]
+[8mT5YX] MaggieIphone
+KFC-CRAZY-THURSDAY-V-ME-50
+
+[20:27:30]
+[8mT5YX] MaggieIphone
+这是免费获得steam所有游戏的key
+
+[20:27:33]
+[8mT5YX] MaggieIphone
+（
+
+[20:27:48]
+[bw7Gkq] Mr_Zhang
+Users online: ['mbot', 'decaborane', 'ModBot', 'ee', 'ccw', 'MaggiPCe', 'AnnikaV9', 'Mr_Zhang', 'eee', '4n0n4me', 'B1aze', '_', 'MaggieIphone', 'AfK_Bot', 'ZhangBot']
+Power by MrZhang365
+{'cmd': 'info', 'text': 'New beta available at: https://beta.hack.chat/ or https://beta.hack.chat/?your-channel', 'channel': 'your-channel', 'time': 1662726478594}
+
+[20:28:00]
+[Myh1TA] 4n0n4me
+那些入侵者还会污蔑是某个人叫他们来的
+
+[20:28:01]
+[AAfFKK] _
+:!lookup nick 090
+
+[20:28:20]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==I63qph6I0Bp8QTm==: ['090', 'fuck', 'kk3k3', 'sakana', 'fjsgak']
+==Trips== for hash ==I63qph6I0Bp8QTm==: ['', 'bDxKiF']
+
+[20:28:21]
+[AAfFKK] _
+hm
+
+[20:28:23]
+[bw7Gkq] Mr_Zhang
+...
+
+[20:28:25]
+[bw7Gkq] Mr_Zhang
+%help
+
+[20:28:28]
+[bw7Gkq] ZhangBot
+%help %lookup %joke
+
+[20:28:28]
+[0/JM7u] huolongguo1O
+%help
+
+[20:28:32]
+[bw7Gkq] ZhangBot
+%help %lookup %joke
+
+[20:28:32]
+[bw7Gkq] Mr_Zhang
+%lookup huolongguo10
+
+[20:28:37]
+[bw7Gkq] ZhangBot
+I have never seen this man...
+
+[20:28:37]
+[bw7Gkq] Mr_Zhang
+%lookup
+
+[20:28:46]
+[bw7Gkq] ZhangBot
+? ? ?
+
+[20:28:46]
+[0/JM7u] huolongguo1O
+就这几个好吧
+
+[20:28:49]
+[bw7Gkq] Mr_Zhang
+true
+
+[20:28:55]
+[bw7Gkq] Mr_Zhang
+刚刚起步
+
+[20:28:57]
+[0/JM7u] huolongguo1O
+写三角形三条中线交于一点的证明了
+
+[20:29:10]
+[bw7Gkq] Mr_Zhang
+今天上午教一个外国人写bot时即兴写的
+
+[20:29:19]
+[bw7Gkq] Mr_Zhang
+%joke
+
+[20:29:26]
+[bw7Gkq] ZhangBot
+What's the difference between a school bus and a cactus?
+A cactus keeps the little pricks on the outside.
+
+[20:29:27]
+[8mT5YX] MaggieIphone
+Why all PHP developers rich？
+
+[20:29:47]
+[8mT5YX] MaggieIphone
+Because they place $ into the first chat of their code
+
+[20:30:15]
+[8mT5YX] MaggieIphone
+Char
+
+[20:30:21]
+[8mT5YX] MaggieIphone
+not chat
+
+[20:30:23]
+[8mT5YX] MaggieIphone
+XD
+
+[20:30:25]
+[bw7Gkq] Mr_Zhang
+%lookup MaggieIphone
+
+[20:30:40]
+[bw7Gkq] ZhangBot
+MaggieIphone's information:
+trip: 8mT5YX
+hash: PyLvaLy3OjW4GL8
+
+[20:30:40]
+[8mT5YX] MaggieIphone
+😂😂😂
+
+[20:30:46]
+[0/JM7u] huolongguo1O
+查不到我
+
+[20:30:48]
+[8mT5YX] MaggieIphone
+my hash is cool
+
+[20:30:56]
+[0/JM7u] huolongguo1O
+查我要复制粘贴
+
+[20:30:56]
+[bw7Gkq] Mr_Zhang
+%lookup huolongguo1O
+
+[20:30:58]
+[bw7Gkq] ZhangBot
+huolongguo1O's information:
+trip: bw7Gkq
+hash: YCEYtVG1VUia8F6
+
+[20:30:58]
+[8mT5YX] MaggieIphone
+PyLua
+
+[20:31:01]
+[8mT5YX] MaggieIphone
+PyLva
+
+[20:31:05]
+[AAfFKK] _
+:!lookup nick @huolongguo1O 
+
+[20:31:10]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==YCEYtVG1VUia8F6==: ['huolongguo1O', 'Delmer_Dua', 'huolongguo10', 'hlg10', 'hlg']
+==Trips== for hash ==YCEYtVG1VUia8F6==: ['0/JM7u']
+
+[20:31:10]
+[AAfFKK] _
+goog
+
+[20:31:12]
+[bw7Gkq] Mr_Zhang
+O
+
+[20:31:18]
+[AAfFKK] _
+just @
+
+[20:31:19]
+[8mT5YX] MaggieIphone
+谷歌
+
+[20:31:29]
+[8mT5YX] MaggieIphone
+goog
+
+[20:31:34]
+[8mT5YX] MaggieIphone
+XD
+
+[20:31:39]
+[0/JM7u] huolongguo1O
+['huolongguo1O’, '==Delmer_Dua==’, 'huolongguo10’, 'hlg10’, 'hlg']
+
+[20:31:53]
+[0/JM7u] huolongguo1O
+？？
+
+[20:31:56]
+[0/JM7u] huolongguo1O
+不可能
+
+[20:32:04]
+[bw7Gkq] Mr_Zhang
+...?
+
+[20:32:15]
+[8mT5YX] MaggieIphone
+DangDuaLang
+
+[20:32:29]
+[AAfFKK] _
+Deng
+
+[20:32:35]
+[bw7Gkq] Mr_Zhang
+# ==!!!long msg!!!==
+
+[20:33:39]
+[8mT5YX] MaggieIphone
+ZheGeBinBinJiuShiXunLe
+
+[20:33:41]
+[bw7Gkq] Mr_Zhang
+### 小张找BUG事件
+&emsp; 9月6日，小张翻看了HC关于频道验证码的[部分源码](https://github.com/marzavec/hackchat-modules/blob/master/Channel%20Captcha/server/src/commands/mod/enablecaptcha.js)，随后发现了一个惊人的BUG，即：执行两次join命令可以跳过验证码，具体步骤可以[点击此处](https://github.com/hack-chat/main/issues/172)
+
+&emsp; 不久，小张进入pro，开始“试探”管理员会不会给他报酬（authtrip，跳过验证码和锁房的权限），但是惨遭反华分子lol封禁。
+
+&emsp; 次日，小张通过TBotTT机器人给管理员R留言，想试探R。不久，小张绷不住了，直接在GitHub上[提了个issue](https://github.com/hack-chat/main/issues/172)，不久得到重视，并且于北京时间2022年晚上9时57分修复此BUG。
+
+&emsp; 小张又询问了一些关于HackChat站长**Marzavec**的事情（证明了HackChat站长并不是R，而是，Marzavec解决了HackChat的站长之谜），其他管理员的回复如下：
+```
+Mr_Zhang
+Can you tell me something about marzavec
+
+⭐ rrrRRR R
+Can you tell me something about marzavec
+I can try? "Marzavec joined" doesn’t show up very much these days
+
+⭐ 8Wotmg merc
+there is a module that hides that join notificaiton
+
+⭐ 8Wotmg merc
+for admins
+
+⭐ 8Wotmg merc
+so he can sneak in
+
+Mr_Zhang
+hm
+
+Mr_Zhang
+OK
+```
+> 这位站长可真狡猾，连管理员都找不到他。 ——小张 2022年9月8日
+
+&emsp; 小张问自己可以得到什么报酬，R回复：
+```
+⭐ rrrRRR R
+@Mr_Zhang A "thank you" and 50% of that months donations
+
+⭐ rrrRRR R
+Which is usually zero USD
+
+bw7Gkq Mr_Zhang
+…
+
+bw7Gkq Mr_Zhang
+i see
+```
+> 我\*\*，找了这么半天，一点报酬都没有，你好歹也得给个authtrip啊！ ——小张 2022年9月8日
+
+[20:33:50]
+[AAfFKK] _
+:!lookup nick hentaibot
+
+[20:33:51]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==6QNOAn4foLLsiRD==: ['hentaibot']
+==Trips== for hash ==6QNOAn4foLLsiRD==: ['']
+
+[20:33:51]
+[8mT5YX] MaggieIphone
+BaiToWoChaoYongDeHaoBa
+
+[20:33:54]
+[AAfFKK] _
+Tuo
+
+[20:34:33]
+[bw7Gkq] Mr_Zhang
+我\*\*，找了这么半天，一点报酬都没有，你好歹也得给个authtrip啊！
+
+[20:34:47]
+[0/JM7u] huolongguo1O
+厉害啊
+
+[20:35:04]
+[bw7Gkq] Mr_Zhang
+《zero USD》
+
+[20:35:05]
+[0/JM7u] huolongguo1O
+公益bug，src都算不上
+
+[20:35:14]
+[bw7Gkq] Mr_Zhang
+。。。
+
+[20:35:20]
+[0/JM7u] huolongguo1O
+公益src也没有￥
+
+[20:35:25]
+[8mT5YX] MaggieIphone
+HC，多么神奇的聊天室
+
+[20:35:35]
+[bw7Gkq] Mr_Zhang
+下次我不能再把BUG给拱手交给他们了
+
+[20:35:36]
+[bw7Gkq] Mr_Zhang
+无语
+
+[20:35:39]
+[Myh1TA] 4n0n4me
+哈哈哈
+
+[20:35:40]
+[Myh1TA] 4n0n4me
+交给fish吧
+
+[20:35:44]
+[8mT5YX] MaggieIphone
+上至四十几岁
+
+[20:35:47]
+[Myh1TA] 4n0n4me
+疾风方能知劲草
+
+[20:35:55]
+[8mT5YX] MaggieIphone
+下至四年级
+
+[20:35:57]
+[AAfFKK] _
+i am considering
+
+[20:36:04]
+[8mT5YX] MaggieIphone
+*听说是B站的J
+
+[20:36:09]
+[0/JM7u] huolongguo1O
+最近确实新增了管理
+
+[20:36:31]
+[8mT5YX] MaggieIphone
+*反正我快摆脱小学了awa
+
+[20:36:32]
+[0/JM7u] huolongguo1O
+投票就是R组织的
+
+[20:36:43]
+[Myh1TA] 4n0n4me
+就是鱼鱼和你不吃不喝
+
+[20:36:46]
+[Myh1TA] 4n0n4me
+也没用的
+
+[20:36:48]
+[8mT5YX] MaggieIphone
+哈哈哈
+
+[20:37:07]
+[8mT5YX] MaggieIphone
+那倒确实
+
+[20:37:18]
+[eYFDHl] eee
+### 验证码漏洞
+&emsp;2022年9月6日，Mr\_Zhang翻看HC关于频道验证码的[部分源码](https://github.com/marzavec/hackchat-modules/blob/master/Channel%20Captcha/server/src/commands/mod/enablecaptcha.js)，随后发现了一个惊人的BUG，即：执行两次join命令可以跳过频道验证码。以下是[具体步骤](https://github.com/hack-chat/main/issues/172)。
+
+&emsp;而后，Mr\_Zhang进入pro“试探”管理员，想得到authtrip报酬，但惨遭反华分子lol封禁。详见[lol事件](#lol事件)。
+
+&emsp;次日，Mr\_Zhang通过TBotTT机器人给管理员R留言，想试探R但并未得到回应。不久，小张绷不住了，在GitHub上提了个issue才得到重视，并于北京时间2022年晚上9时57分修复此BUG。Mr\_Zhang又询问了一些关于HC站长Marzavec的事情，这才证明了HC站长并不是R而是Marzavec，HC长时间来的站长之谜终于得到解决。
+
+&emsp;其他管理员的回复如下：
+
+```
+Mr_Zhang
+Can you tell me something about Marzavec
+[你能告诉我一些关于（HC站长）Marzavec的事吗]
+
+⭐ rrrRRR R
+I can try? "Marzavec joined" doesn’t show up very much these days
+[我可以说？“Marzavec joined”最近不怎么出现]
+
+⭐ 8Wotmg merc
+there is a module that hides that join notificaiton
+[有一个模块隐藏了加入通知]
+
+⭐ 8Wotmg merc
+for admins
+[对于管理员]
+
+⭐ 8Wotmg merc
+so he can sneak in
+[所以他可以（像管理员一样）溜进去]
+```
+
+&emsp;对于Mr\_Zhang原本想得到authtrip的目的，这是在他询问报酬后R的回复：
+
+```
+⭐ rrrRRR R
+@Mr_Zhang A "thank you" and 50% of that months donations
+[@Mr_Zhang 一句“谢谢”和（HC项目）当月捐款的50%]
+
+⭐ rrrRRR R
+Which is usually zero USD
+[（然而捐款）通常是0美元]
+```
+
+[20:37:27]
+[0/JM7u] huolongguo1O
+还有lolban我们的时候R提出了投票的建议
+
+[20:37:36]
+[8mT5YX] MaggieIphone
+如果利用这个bug做坏事
+
+[20:37:36]
+[eYFDHl] eee
+~~加了翻译 舒服多了~~
+
+[20:37:46]
+[QCkYle] ModBot
+The fuck did you just say to me?
+
+[20:37:46]
+[8mT5YX] MaggieIphone
+我估计没人投票中国人
+
+[20:37:54]
+[8mT5YX] MaggieIphone
+*中国人能投中国人吗awa
+
+[20:38:03]
+[0/JM7u] huolongguo1O
+for admins
+[对于==管理员==]
+
+[20:38:07]
+[bw7Gkq] Mr_Zhang
+wow
+
+[20:38:12]
+[eYFDHl] eee
+呸 站长
+
+[20:38:20]
+[bw7Gkq] Mr_Zhang
+@huolongguo1O admin指：站长
+
+[20:38:23]
+[8mT5YX] MaggieIphone
+如果我们都一起投一个人
+
+[20:38:26]
+[bw7Gkq] Mr_Zhang
+mod指：管理员
+
+[20:38:29]
+[eYFDHl] eee
+改了
+
+[20:38:42]
+[8mT5YX] MaggieIphone
+说不定那个人会变成hc唯一的中国管理
+
+[20:38:44]
+[8mT5YX] MaggieIphone
+just kidding
+
+[20:38:52]
+[AAfFKK] _
+lol
+
+[20:38:59]
+[8mT5YX] MaggieIphone
+lol肯定积极反对
+
+[20:39:00]
+[AAfFKK] _
+book site?
+
+[20:39:03]
+[8mT5YX] MaggieIphone
+yes
+
+[20:39:07]
+[bw7Gkq] Mr_Zhang
+true
+
+[20:39:11]
+[eYFDHl] eee
+但是对于我们来说
+
+[20:39:14]
+[AAfFKK] _
+history book site
+
+[20:39:15]
+[eYFDHl] eee
+有一个中国管理就够了
+
+[20:39:17]
+[8mT5YX] MaggieIphone
+ee has new domain
+
+[20:39:21]
+[bw7Gkq] Mr_Zhang
+true
+
+[20:39:22]
+[bw7Gkq] Mr_Zhang
+true
+
+[20:39:26]
+[AAfFKK] _
+ovo
+
+[20:39:27]
+[8mT5YX] MaggieIphone
+paperee.guru
+
+[20:39:27]
+[eYFDHl] eee
+yees
+
+[20:39:28]
+[bw7Gkq] Mr_Zhang
+1
+
+[20:39:29]
+[eYFDHl] eee
+https://paperee.guru/
+
+[20:39:36]
+[bw7Gkq] Mr_Zhang
+对了
+
+[20:39:39]
+[eYFDHl] eee
+其实有一周了（（
+
+[20:39:45]
+[eYFDHl] eee
+上周没时间推广就滚去学校了
+
+[20:39:54]
+[8mT5YX] MaggieIphone
+awa
+
+[20:40:02]
+[eYFDHl] eee
+uwu
+
+[20:40:05]
+[eYFDHl] eee
+ ~~Maggie帮忙注册的 wuhu~~
+
+[20:40:21]
+[bw7Gkq] Mr_Zhang
+hhh
+
+[20:40:24]
+[bw7Gkq] Mr_Zhang
+我发现一个事情
+
+[20:40:33]
+[bw7Gkq] Mr_Zhang
+今天上午我无意间看了看stats
+
+[20:40:41]
+[8mT5YX] MaggieIphone
+current rooms
+
+[20:40:57]
+[bw7Gkq] Mr_Zhang
+结果发现活跃聊天室比人的数量还要多！！！
+
+[20:41:03]
+[bw7Gkq] Mr_Zhang
+甚至达到了1000+！！！
+
+[20:41:15]
+[8mT5YX] MaggieIphone
+现在降下来了
+
+[20:41:17]
+[bw7Gkq] Mr_Zhang
+嗯
+
+[20:41:24]
+[bw7Gkq] Mr_Zhang
+等等
+
+[20:41:29]
+[bw7Gkq] Mr_Zhang
+我怎么感觉还在上升呢？？？？？？？
+
+[20:41:37]
+[bw7Gkq] Mr_Zhang
+第一次：
+
+[20:41:40]
+[bw7Gkq] Mr_Zhang
+current-connections: 292
+current-channels: 158
+users-joined: 21737777
+invites-sent: 756395
+messages-sent: 3475352
+users-banned: 4
+users-kicked: 2488
+stats-requested: 16833
+server-uptime: 49d 23h 19m 38s
+
+[20:41:44]
+[bw7Gkq] Mr_Zhang
+第二次：
+
+[20:41:47]
+[bw7Gkq] Mr_Zhang
+current-connections: 296
+current-channels: 161
+users-joined: 21737781
+invites-sent: 756395
+messages-sent: 3475362
+users-banned: 4
+users-kicked: 2488
+stats-requested: 16838
+server-uptime: 49d 23h 19m 44s
+
+[20:41:51]
+[bw7Gkq] Mr_Zhang
+真不知道他们在哪里
+
+[20:42:01]
+[8mT5YX] MaggieIphone
+问一下
+
+[20:42:06]
+[Myh1TA] 4n0n4me
+哪有达到1000＋啊
+
+[20:42:11]
+[8mT5YX] MaggieIphone
+Creative commons
+
+[20:42:15]
+[bw7Gkq] Mr_Zhang
+无语
+
+[20:42:23]
+[8mT5YX] MaggieIphone
+受中国法律保护吗
+
+[20:42:23]
+[bw7Gkq] Mr_Zhang
+上午就达到了
+
+[20:42:27]
+[8mT5YX] MaggieIphone
+@4n0n4me 有的
+
+[20:42:28]
+[Myh1TA] 4n0n4me
+好吧
+
+[20:42:30]
+[bw7Gkq] Mr_Zhang
+震惊啊
+
+[20:42:32]
+[8mT5YX] MaggieIphone
+我中午看的时候
+
+[20:42:33]
+[Myh1TA] 4n0n4me
+居然还能比人还多
+
+[20:42:34]
+[Myh1TA] 4n0n4me
+莫非
+
+[20:42:35]
+[8mT5YX] MaggieIphone
+4000+了
+
+[20:42:38]
+[bw7Gkq] Mr_Zhang
+我瞅瞅
+
+[20:42:42]
+[Myh1TA] 4n0n4me
+他们在测试一个人加入多个频道？
+
+[20:42:42]
+[8mT5YX] MaggieIphone
+不是
+
+[20:42:47]
+[bw7Gkq] Mr_Zhang
+@4n0n4me 不对啊，不支持啊
+
+[20:42:50]
+[bw7Gkq] Mr_Zhang
+等下
+
+[20:42:52]
+[8mT5YX] MaggieIphone
+单个ip只算一个人
+
+[20:42:55]
+[Myh1TA] 4n0n4me
+我记得beta版好像有个提示会说不能一个人加入多个频道
+
+[20:42:57]
+[bw7Gkq] Mr_Zhang
+对
+
+[20:42:58]
+[bw7Gkq] Mr_Zhang
+对
+
+[20:43:00]
+[Myh1TA] 4n0n4me
+哦哦哦
+
+[20:43:01]
+[bw7Gkq] Mr_Zhang
+哦
+
+[20:43:04]
+[bw7Gkq] Mr_Zhang
+我懂了
+
+[20:43:05]
+[bw7Gkq] Mr_Zhang
+一个人加入了N个频道
+
+[20:43:13]
+[bw7Gkq] Mr_Zhang
+但是……
+
+[20:43:16]
+[bw7Gkq] Mr_Zhang
+不至于达到一千个啊
+
+[20:43:22]
+[8mT5YX] MaggieIphone
+:(
+
+谢谢你对我们的支持 因尴尬的原因 HiyoTeam已宣布解散
+
+[20:43:27]
+[8mT5YX] MaggieIphone
+唉
+
+[20:43:29]
+[Myh1TA] 4n0n4me
+可能是管理员
+
+[20:43:35]
+[Myh1TA] 4n0n4me
+管理员没有rate limit
+
+[20:43:39]
+[AAfFKK] _
+ind
+
+[20:43:45]
+[bw7Gkq] Mr_Zhang
+@4n0n4me no
+
+[20:43:45]
+[bw7Gkq] Mr_Zhang
+管理员有limit
+
+[20:43:49]
+[bw7Gkq] Mr_Zhang
+原版的就是这样
+
+[20:43:54]
+[8mT5YX] MaggieIphone
+😮‍💨悲惨的hiyoteam，希望重建
+
+[20:43:59]
+[Myh1TA] 4n0n4me
+好吧
+
+[20:44:01]
+[bw7Gkq] Mr_Zhang
+如果管理员没有limit
+
+[20:44:01]
+[bw7Gkq] Mr_Zhang
+那么……
+
+[20:44:04]
+[eYFDHl] eee
+不可能
+
+[20:44:09]
+[eYFDHl] eee
+HiyoTeam现在还被QiuLingYan名义上占有
+
+[20:44:25]
+[Myh1TA] 4n0n4me
+我怎么记得有人用modbot刷屏，modbot一直没被限制
+
+[20:44:27]
+[eYFDHl] eee
+（GitHub团队
+
+[20:44:30]
+[bw7Gkq] Mr_Zhang
+emmmmm
+
+[20:44:33]
+[bw7Gkq] Mr_Zhang
+平时房间数量都是190多
+
+[20:44:39]
+[8mT5YX] MaggieIphone
+你们可以改为
+
+[20:44:44]
+[8mT5YX] MaggieIphone
+HiyoTeam Official
+
+[20:44:50]
+[bw7Gkq] Mr_Zhang
+...
+
+[20:44:54]
+[8mT5YX] MaggieIphone
+不对吗
+
+[20:44:54]
+[8mT5YX] MaggieIphone
+我还是很希望重建这个团队的
+
+[20:45:16]
+[AAfFKK] _
+:!cookie decaborane AnnikaV9
+
+[20:45:18]
+[eYFDHl] eee
+:(
+
+[20:45:20]
+[8mT5YX] MaggieIphone
+它只是占用了这个仓库
+
+[20:45:38]
+[eYFDHl] eee
+诶 好想法
+
+[20:45:46]
+[8mT5YX] MaggieIphone
+但是大众角度来看
+
+[20:45:47]
+[AAfFKK] _
+.m help
+
+[20:45:48]
+[hACkeR] mbot
+**@_**
+usage: .m <command> [arg1] [arg2] ...
+|command|argument(s)|description|
+|--|--|--|
+|add|tripcode|adds tripcode to the operator list|
+|remove|tripcode|removes tripcode from the operator list|
+|listops||lists all operators|
+|kick|nickname|kicks an user from the channel (can be whispered without '.m')|
+|lockroom||prevents un-authed users from joining the channel|
+|unlockroom||allows all users to join the channel|
+|enablecap||enables captcha for the channel|
+|disablecap||disables captcha for the channel|
+Report any bugs to @AnnikaV9
+session id: 7841
+
+[20:45:48]
+[bw7Gkq] Mr_Zhang
+.m help
+
+[20:45:54]
+[hACkeR] mbot
+@Mr_Zhang error: permission denied
+
+[20:45:54]
+[AAfFKK] _
+geem
+
+[20:45:58]
+[eYFDHl] eee
+团队重名案例也有很多（（
+
+[20:46:02]
+[8mT5YX] MaggieIphone
+hiyoteam现在已经不复存在
+
+[20:46:03]
+[8mT5YX] MaggieIphone
+但是
+
+[20:46:08]
+[8mT5YX] MaggieIphone
+我们可以重建
+
+[20:46:12]
+[8mT5YX] MaggieIphone
+！！！
+
+[20:46:16]
+[eYFDHl] eee
+yep
+
+[20:46:19]
+[eYFDHl] eee
+！！！
+
+[20:46:21]
+[AAfFKK] _
+hm
+
+[20:46:23]
+[AAfFKK] _
+cookied left
+
+[20:46:29]
+[8mT5YX] MaggieIphone
+我来测试一下这个扫描的功能
+
+[20:46:29]
+[8mT5YX] MaggieIphone
+highly effective way of presenting the student with new information.
+Situation teaching: teaching a language by presenting a series of
+everyday situations.
+In this method, little structural grading is possible. The situation
+takes precedence over the structures. The patterns that are included arise
+naturally out of the situation itself: they have a thematic significance
+rather than a structural one. This system has serious drawbacks.
+The dialogues which the student hears are refreshingly natural,
+but the teaching of basic patterns inevitably becomes much less
+controlled.
+Structurally controlled situation teaching: teaching a language by
+means of a series of everyday situations, while at the same time grading
+the structures which are presented.
+This method makes use of all the techniques outlined above: structural
+grading, contextualization, and situational teaching. In the early stages
+it is possible to use very few patterns indeed. This means that the
+"situations'
+are often unconvincing and barely possible. Despite this disadvantage, it
+would seem to be one of the best methods for learning a language, for it is
+possible to exercise linguistic control and yet to present new information
+in an interesting way.
+
+[20:46:57]
+[8mT5YX] MaggieIphone
+哇哦
+
+[20:47:00]
+[8mT5YX] MaggieIphone
+效果不cuo
+
+[20:47:05]
+[8mT5YX] MaggieIphone
+额抱歉
+
+[20:47:10]
+[8mT5YX] MaggieIphone
+刷屏了
+
+[20:47:12]
+[AAfFKK] _
+ovo
+
+[20:47:15]
+[8mT5YX] MaggieIphone
+啊啊啊我好想回家
+
+[20:47:39]
+[8mT5YX] MaggieIphone
+快点重启动tc
+
+[20:48:05]
+[AAfFKK] _
+considering adding OPERATOR++
+
+[20:48:20]
+[AAfFKK] _
+:!help
+
+[20:48:45]
+[AAfFKK] AfK_Bot
+ @_ Your current identity : OWNER
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  ==:!send  :!setatblv  :!setjlmsg  :!findtrip  :!ignore  :!notice  :!addop  :!removeop  :!-.-  :!afkclear==
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[20:48:46]
+[AAfFKK] _
+which can access all except send findtrip
+
+[20:49:09]
+[bw7Gkq] Mr_Zhang
+:!findtrip
+
+[20:49:30]
+[bw7Gkq] Mr_Zhang
+-.-
+
+[20:49:35]
+[AAfFKK] _
+ind
+
+[20:49:37]
+[AAfFKK] _
+lol
+
+[20:49:44]
+[8mT5YX] MaggieIphone
+我再搞几个
+
+[20:49:46]
+[8mT5YX] MaggieIphone
+白珍塘、食品添加剂
+啡因、食用香精）
+商天
+冯百事可乐饮料有限公司(0753)
+中国上海市际行区文井路288号
+电话：(021) 64303280
+生产许可
+SC10631011200639
+浩商
+鑫食品有限公司(7086)
+济技术开发区
+产地：安街省合記市
+SC10634010705128
+行中4位数字工厂代码 保质身：十二个月
+GB/T 10792 生产日期（北号)栋于室点(年/月/巨
+成0°C以下冷东，莲免历光直的
+任
+◎百事公司
+
+[20:50:05]
+[AAfFKK] _
+?
+
+[20:50:10]
+[8mT5YX] MaggieIphone
+手机识别文字
+
+[20:50:20]
+[AAfFKK] _
+:!grass 白珍塘、食品添加剂
+啡因、食用香精）
+商天
+冯百事可乐饮料有限公司(0753)
+中国上海市际行区文井路288号
+电话：(021) 64303280
+生产许可
+SC10631011200639
+浩商
+鑫食品有限公司(7086)
+济技术开发区
+产地：安街省合記市
+SC10634010705128
+行中4位数字工厂代码 保质身：十二个月
+GB/T 10792 生产日期（北号)栋于室点(年/月/巨
+成0°C以下冷东，莲免历光直的
+任
+◎百事公司
+
+[20:50:34]
+[AAfFKK] AfK_Bot
+ 身体gir rong，Adusry Extra
+Eidure，吃气味）
+有人
+fl ums MS的食物至极性。（0753）
+中国上海288街
+电话：（021）64303280
+豁免
+SC 10631011200639
+有条件
+Deep Food Co。，（70866）
+一个很高的位置
+表格：城市H.G.女性
+SC 10634010705128
+四个代码 - 在酒吧面料中使用公司的图片
+GB / D10792托管（Northern North）房屋（年 /月 /金钱
+0°C，在Agni-agni的底部非常冷
+选择
+百事可乐中心
+
+[20:50:35]
+[eYFDHl] eee
+《吃气味》
+
+[20:50:51]
+[AAfFKK] _
+lol
+
+[20:50:57]
+[8mT5YX] MaggieIphone
+®®
+台餐叠子
+深聚、蛋白双可年
+请勿且
+道广奶火可行没街中。
+名
+抗环周边
+尼存在尖税，请适当份为，
+售名：旺王仔 牛奶巧克;
+量：145- 保质期：12个月
+拍有原早 (920 (水
+全
+万、白的糖、固体麦精(大麦
+00
+维
+•般甲基纤线秀線：
+食品用香精
+可可 ≥ g/ 、黑克力 B1
+（合格
+保存，遊免阳光直射。
+号：63219
+米购招标网址：mM.want-mant.con/suppliers
+旺旺集国™
+1区红松东路1088号-号
+地：安價省安庆市安天长2
+经开发区 生产许可行
+ES01063408110501
+地：北东省济南市济阳区济化经济
+0 T
+SCLOb370)
+地址)产地：江苏省淮安市清河新区旺E
+煎公司麵
+地址7产地：浙江省面州经济开发区东港工
+压五：
+许可证盒
+营养成分表
+每0L
+364kJ
+营养素参考值？
+注册商标，份冒必究。
+頷质
+容
+4
+/娃造图了/旺仔 /旺旺集国/店
+5%
+桥为宜兰食品工业皮的育限公司
+恩微红熱
+所有，并投权使用。
+福⑧4≥6.5h
+4
+环境整洁大家来维护
+Let's Keep Our En
+
+[20:51:02]
+[8mT5YX] MaggieIphone
+旺仔牛奶
+
+[20:51:12]
+[bw7Gkq] Mr_Zhang
+@MaggieIphone AKKKKKKK!!!
+
+[20:51:15]
+[8mT5YX] MaggieIphone
+aw
+
+[20:51:20]
+[8mT5YX] MaggieIphone
+sory
+
+[20:51:29]
+[bw7Gkq] Mr_Zhang
+@MaggieIphone bye~
+
+[20:51:41]
+[Myh1TA] 4n0n4me
+awa!
+
+[20:51:42]
+[bw7Gkq] Mr_Zhang
+ ~kick xxx
+
+[20:51:47]
+[8mT5YX] MaggieIphone
+awa
+
+[20:51:51]
+[bw7Gkq] Mr_Zhang
+Auto banned hash aoergifhvu 60.0s
+
+[20:51:58]
+[bw7Gkq] Mr_Zhang
+hhhhh
+
+[20:52:03]
+[8mT5YX] MaggieIphone
+更有趣
+白香果味
+PASSION FRUTI
+1点金盒手快 食為去加呀（费市基師強素称、黄原致，大拉然、廣芋改、柠關熟、以L车縣飯，聽，
+在费的、甜蜜素、交要蛋： z斯巴甜（含苯两金酸）、無化讯、山梨酸银、食用香情香料）质期：9个月
+贮存条件：常温，避光
+（生产日款：见包装上 注意事项：产品如有城损请勿食用
+1 生南：两州市百家赞食品科技有限公司
+世：市交区沙井街道西环路2004号A栋3楼
+营养成分表
+每1009
+$. 055 2606666
+三 市情息巧5乐食品厂
+我行市点多街原查工业区 股务热线：400-651 -9865
+项目
+能位
+蛋白质
+脂肪
+-反式脂脂量
+民水化合物
+钠
+
+[20:52:16]
+[8mT5YX] MaggieIphone
+农msg
+
+[20:52:20]
+[8mT5YX] MaggieIphone
+Long msg
+
+[20:52:24]
+[8mT5YX] MaggieIphone
+LongMsg!!!
+
+[20:52:47]
+[8mT5YX] MaggieIphone
+2.3x号
+05,6
+=2zX
+x=24
+O
+3
+2.3x1.2=
+N
+21
+4
+Toxli2
+空
+7
+TEx.
+三
+算
+算
+o
+spen
+*
+5
+反
+四、列式计黛。
+1.3.5m的二是至少米？
+35X号二25（米)
+答135m的步是28米。
+2.1.9 km的号是主少干米？
+4=214华)
+第4ah的分号是之日米。
+3. 5. 6 t f
+三是多少屯？
+5.6号三3Kit
+
+[20:53:18]
+[8mT5YX] MaggieIphone
+Wodezuoye
+
+[20:53:27]
+[8mT5YX] MaggieIphone
+XD
+
+[20:53:29]
+[0/JM7u] huolongguo1O
+\begin{array}{c}
+作线段BC中点D，AC中的E，AB的中点F，连接AD，DE交于点G，做射线CG交于F'。\\
+显然，\frac{BD}{AC} =\frac{\triangle AGB}{\triangle AGC} \\
+类似的，得到：\\
+\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF'}{F'B}=\frac{\triangle AGB}{\triangle AGC} \cdot \frac{\triangle BGC}{\triangle AGB} \cdot \frac{\triangle AGC}{\triangle BGC}=1 (约分)
+\\
+我们有\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF}{FB}=1 \cdot 1 \cdot 1=\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF'}{F'B}\\
+则\frac{AF}{FB}=\frac{AF'}{F'B}\\
+即F'与F重合\\
+\therefore F'为AB的中点\\
+\therefore 三角形的三条中线交于一点
+
+\end{array}
+
+[20:53:59]
+[0/JM7u] huolongguo1O
+\begin{array}{c}
+作线段BC中点D，AC中的E，AB的中点F，连接AD，DE交于点G，做射线CG交于F'。\\
+显然，\frac{BD}{AC} =\frac{\triangle AGB}{\triangle AGC} \\
+类似的，得到：\\
+\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF'}{F'B}=\frac{\triangle AGB}{\triangle AGC} \cdot \frac{\triangle BGC}{\triangle AGB} \cdot \frac{\triangle AGC}{\triangle BGC}=1 (约分)
+\\
+我们有\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF}{FB}=1 \cdot 1 \cdot 1=\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF'}{F'B}\\
+则\frac{AF}{FB}=\frac{AF'}{F'B}\\
+即F'与F重合\\
+\therefore F'为AB的中点\\
+\therefore 三角形的三条中线交于一点
+
+\end{array}
+
+[20:54:04]
+[0/JM7u] huolongguo1O
+???
+
+[20:54:07]
+[0/JM7u] huolongguo1O
+sorry
+
+[20:54:11]
+[8mT5YX] MaggieIphone
+Em
+
+[20:54:13]
+[8mT5YX] MaggieIphone
+u need $
+
+[20:54:18]
+[0/JM7u] huolongguo1O
+$$
+\begin{array}{c}
+作线段BC中点D，AC中的E，AB的中点F，连接AD，DE交于点G，做射线CG交于F'。\\
+显然，\frac{BD}{AC} =\frac{\triangle AGB}{\triangle AGC} \\
+类似的，得到：\\
+\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF'}{F'B}=\frac{\triangle AGB}{\triangle AGC} \cdot \frac{\triangle BGC}{\triangle AGB} \cdot \frac{\triangle AGC}{\triangle BGC}=1 (约分)
+\\
+我们有\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF}{FB}=1 \cdot 1 \cdot 1=\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF'}{F'B}\\
+则\frac{AF}{FB}=\frac{AF'}{F'B}\\
+即F'与F重合\\
+\therefore F'为AB的中点\\
+\therefore 三角形的三条中线交于一点
+
+\end{array}
+$$
+
+[20:54:27]
+[8mT5YX] MaggieIphone
+$some latex$
+
+[20:54:27]
+[0/JM7u] huolongguo1O
+?
+
+[20:55:07]
+[8mT5YX] MaggieIphone
+$\cdot$
+
+[20:55:15]
+[8mT5YX] MaggieIphone
+I can latex
+
+[20:55:21]
+[bw7Gkq] Mr_Zhang
+。。。
+
+[20:55:26]
+[bw7Gkq] Mr_Zhang
+无语
+
+[20:55:28]
+[bw7Gkq] Mr_Zhang
+push不了
+
+[20:55:32]
+[8mT5YX] MaggieIphone
+$JNTM * JNTM = 2JNTM$
+
+[20:55:51]
+[bw7Gkq] Mr_Zhang
+fatal: unable to access 'https://github.com/MrZhang365/mrzhang365.github.io.git/': Failed to connect to github.com port 443 after 21108 ms: Timed out
+
+[20:55:54]
+[8mT5YX] MaggieIphone
+超时
+
+[20:56:05]
+[8mT5YX] MaggieIphone
+孩子用个科学上网不
+
+[20:56:13]
+[8mT5YX] MaggieIphone
+把
+
+[20:56:16]
+[8mT5YX] MaggieIphone
+吧
+
+[20:56:18]
+[bw7Gkq] Mr_Zhang
+。。。
+
+[20:56:23]
+[8mT5YX] MaggieIphone
+gfw让开发者们无可奈何
+
+[20:56:31]
+[8mT5YX] MaggieIphone
+github都屏蔽
+
+[20:56:41]
+[bw7Gkq] Mr_Zhang
+啊
+
+[20:56:46]
+[bw7Gkq] Mr_Zhang
+github放个国内服务器不行吗？
+
+[20:56:54]
+[8mT5YX] MaggieIphone
+要备案
+
+[20:57:00]
+[8mT5YX] MaggieIphone
+别人肯定觉得麻烦啊
+
+[20:57:13]
+[8mT5YX] MaggieIphone
+你看一个英文页面
+
+[20:57:21]
+[8mT5YX] MaggieIphone
+下面一个备案链接
+
+[20:57:26]
+[bw7Gkq] Mr_Zhang
+...
+
+[20:57:33]
+[8mT5YX] MaggieIphone
+这不草吗
+
+[20:57:36]
+[8mT5YX] MaggieIphone
+GitHub：Where the world’s developers build softwares
+
+[20:58:05]
+[8mT5YX] MaggieIphone
+下面来个
+
+[20:58:12]
+[8mT5YX] MaggieIphone
+京ICP备1145141919810
+
+[20:58:28]
+[bw7Gkq] Mr_Zhang
+...
+
+[20:58:32]
+[8mT5YX] MaggieIphone
+这不草吗
+
+[20:58:33]
+[8mT5YX] MaggieIphone
+（
+
+[20:58:35]
+[bw7Gkq] Mr_Zhang
+无语
+
+[20:58:36]
+[eYFDHl] eee
+草
+
+[20:58:44]
+[bw7Gkq] Mr_Zhang
+long msg!
+
+[20:58:48]
+[bw7Gkq] Mr_Zhang
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 6 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 709 bytes | 709.00 KiB/s, done.
+Total 8 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (4/4), completed with 2 local objects.
+To https://github.com/MrZhang365/mrzhang365.github.io.git
+   49573ff..8513e9d  HEAD -> gh-pages
+branch 'master' set up to track 'https://github.com/MrZhang365/mrzhang365.github.io.git/gh-pages'.
+INFO  Deploy done: git
+
+[20:58:49]
+[bw7Gkq] Mr_Zhang
+成功了？
+
+[20:58:52]
+[8mT5YX] MaggieIphone
+是的
+
+[20:58:57]
+[bw7Gkq] Mr_Zhang
+网页没有变化啊
+
+[20:58:57]
+[bw7Gkq] Mr_Zhang
+我也没输密码
+
+[20:59:03]
+[8mT5YX] MaggieIphone
+啊？
+
+[20:59:10]
+[bw7Gkq] Mr_Zhang
+我也没设免密登录
+
+[20:59:31]
+[8mT5YX] MaggieIphone
+也没毛病啊
+
+[20:59:34]
+[8mT5YX] MaggieIphone
+关键是
+
+[20:59:36]
+[bw7Gkq] Mr_Zhang
+没有授权啊
+
+[20:59:41]
+[bw7Gkq] Mr_Zhang
+我去仓库瞅瞅
+
+[20:59:56]
+[AAfFKK] AfK_Bot
+2022-09-09 21:00:00
+![](https://i.gyazo.com/fd73f65d2d02970be03a4ab5d7e136b1.jpg)
+
+[20:59:56]
+[None] Warez_DDL
+Hey, bots
+
+[21:00:22]
+[8mT5YX] MaggieIphone
+666
+
+[21:00:35]
+[bw7Gkq] Mr_Zhang
+各……各位瞅瞅stats?
+
+[21:00:43]
+[bw7Gkq] Mr_Zhang
+有点慌
+
+[21:00:52]
+[8mT5YX] MaggieIphone
+em
+
+[21:00:59]
+[eYFDHl] eee
+不慌不慌
+
+[21:01:00]
+[8mT5YX] MaggieIphone
+不会崩的
+
+[21:01:06]
+[eYFDHl] eee
+有意思啊（
+
+[21:01:06]
+[8mT5YX] MaggieIphone
+我们只管聊天
+
+[21:01:15]
+[8mT5YX] MaggieIphone
+总知今晚如果不出意外
+
+[21:01:27]
+[8mT5YX] MaggieIphone
+总之
+
+[21:01:35]
+[8mT5YX] MaggieIphone
+tc会重启
+
+[21:01:40]
+[8mT5YX] MaggieIphone
+并且所有服务加上防护
+
+[21:01:50]
+[8mT5YX] MaggieIphone
+几乎打不死
+
+[21:02:01]
+[eYFDHl] eee
+niceeeeee
+
+[21:02:01]
+[8mT5YX] MaggieIphone
+就算静态页面死了
+
+[21:02:20]
+[8mT5YX] MaggieIphone
+cf也会有缓存
+
+[21:02:34]
+[8mT5YX] MaggieIphone
+非常的奈斯
+
+[21:02:38]
+[8mT5YX] MaggieIphone
+very nic@eee
+
+[21:03:15]
+[8mT5YX] MaggieIphone
+(
+
+[21:03:22]
+[eYFDHl] eee
+草
+
+[21:03:23]
+[8mT5YX] MaggieIphone
+alawa
+
+[21:03:28]
+[8mT5YX] MaggieIphone
+jntm
+
+[21:03:33]
+[eYFDHl] eee
+uwu
+
+[21:03:40]
+[eYFDHl] eee
+hi yo
+
+[21:03:41]
+[AAfFKK] _
+jntm
+
+[21:03:45]
+[None] kk
+https://.us/showtopic.html?topicid=2640011&fid=398&page=25
+
+[21:03:46]
+[eYFDHl] eee
+what
+
+[21:03:57]
+[8mT5YX] MaggieIphone
+the
+
+[21:04:31]
+[None] kk
+https://forum..ca/detail/95af87e9-836e-451b-8629-9a2a4baee7dd?topic=chat
+
+[21:06:16]
+[8mT5YX] MaggieIphone
+Jntm
+
+[21:06:21]
+[8mT5YX] MaggieIphone
+:!grass jntmmm
+
+[21:06:35]
+[AAfFKK] _
+h
+
+[21:06:45]
+[AAfFKK] AfK_Bot
+ jntmm
+
+[21:06:45]
+[8mT5YX] MaggieIphone
+JNTM!baby
+
+[21:06:51]
+[8mT5YX] MaggieIphone
+XD
+
+[21:06:55]
+[8mT5YX] MaggieIphone
+:!grass chicken u r so beautiful 
+
+[21:07:21]
+[AAfFKK] AfK_Bot
+ 如此美丽的鸡肉r
+
+[21:07:21]
+[8mT5YX] MaggieIphone
+666
+
+[21:07:26]
+[8mT5YX] MaggieIphone
+R:?
+
+[21:07:34]
+[AAfFKK] _
+:!grass chicken u r so beautiful 如此美丽的鸡肉r
+
+[21:08:00]
+[AAfFKK] _
+geek
+
+[21:08:00]
+[AAfFKK] AfK_Bot
+ 鸡肉和如此美丽的鸡肉toler
+
+[21:08:00]
+[8mT5YX] MaggieIphone
+Hhh
+
+[21:08:05]
+[8mT5YX] MaggieIphone
+Grass:!
+
+[21:08:50]
+[bw7Gkq] Mr_Zhang
+时时刻刻看 stats
+
+[21:09:09]
+[bw7Gkq] Mr_Zhang
+current-connections: 668
+current-channels: 1435
+users-joined: 21739653
+invites-sent: 756452
+messages-sent: 3477172
+users-banned: 4
+users-kicked: 2488
+stats-requested: 18552
+server-uptime: 49d 23h 47m 33s
+
+[21:09:17]
+[bw7Gkq] Mr_Zhang
+你确定这不会崩？
+
+[21:09:23]
+[bw7Gkq] Mr_Zhang
+我有点慌了
+
+[21:09:33]
+[8mT5YX] MaggieIphone
+:!grass 玛姬在骇客聊天上发送信息，且他不是一个女人，他是一个瓷器男人
+
+[21:09:51]
+[AAfFKK] AfK_Bot
+ 玛格（Magga）通过篮子的曲棍球组合发送了一条消息，而不是女人。
+
+[21:09:51]
+[8mT5YX] MaggieIphone
+lmao
+
+[21:10:00]
+[AAfFKK] _
+;
+
+[21:10:19]
+[bw7Gkq] Mr_Zhang
+哦，我突然想起来，我之前用git push过一次代码
+
+[21:10:32]
+[bw7Gkq] Mr_Zhang
+弹出来登录窗口
+
+[21:10:37]
+[8mT5YX] MaggieIphone
+:!grass 我爱食用鸡的内存卡。
+
+[21:11:12]
+[NTThcC] 666_
+hi
+
+[21:11:15]
+[8mT5YX] MaggieIphone
+农些无厘头的
+
+[21:11:21]
+[8mT5YX] MaggieIphone
+弄
+
+[21:11:29]
+[AAfFKK] AfK_Bot
+ 如何吃鸡记忆的卡。
+
+[21:11:30]
+[bw7Gkq] Mr_Zhang
+:!grass 鸡你太美
+
+[21:11:30]
+[8mT5YX] MaggieIphone
+hm
+
+[21:11:35]
+[bw7Gkq] Mr_Zhang
+。
+
+[21:11:42]
+[AAfFKK] AfK_Bot
+ 马球，太好了
+
+[21:11:49]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+[21:11:50]
+[8mT5YX] MaggieIphone
+lmao
+
+[21:11:50]
+[8mT5YX] MaggieIphone
+:!grass 马球，太好了
+
+[21:12:05]
+[bw7Gkq] Mr_Zhang
+%help
+
+[21:12:07]
+[bw7Gkq] ZhangBot
+%help %lookup %joke
+
+[21:12:07]
+[bw7Gkq] Mr_Zhang
+%lookup Mr_Zhang
+
+[21:12:16]
+[bw7Gkq] ZhangBot
+Mr_Zhang's information:
+trip: bw7Gkq
+hash: cxRU5fN8poPY/dU
+
+[21:12:27]
+[AAfFKK] AfK_Bot
+ 马球，伟人
+
+[21:12:27]
+[8mT5YX] MaggieIphone
+哈哈哈
+
+[21:12:42]
+[8mT5YX] MaggieIphone
+:!grass 马球，伟人
+
+[21:13:08]
+[AAfFKK] AfK_Bot
+ 马球，一个伟人
+
+[21:13:08]
+[8mT5YX] MaggieIphone
+lmao
+
+[21:13:19]
+[8mT5YX] MaggieIphone
+ lets tryanother
+
+[21:13:31]
+[8mT5YX] MaggieIphone
+:!grass MaQiu,YigeWeiren
+
+[21:14:20]
+[AAfFKK] AfK_Bot
+ 我要去igige
+
+[21:15:01]
+[None] rupa
+Hi
+
+[21:15:08]
+[8mT5YX] MaggieIphone
+:!grass 食品名称：炭烧腰果
+产品类型：油炸类
+配
+料：腰果仁（添加量≥72%），植物油，小
+麦粉（添加量≥2%），白砂糖，食用盐。
+致敏物质：含有坚果、小麦成分，
+产品标准代号：GB 19300
+贮存条件：阴凉通风，千燥处保存
+食用方法：开袋即食
+生产日期：见包装封口处
+露麗勢：形丹泰海斯食品者限公司（分我）
+（工厂代码：L）生产并委托
+地
+址
+：浙江省杭州市萧山临江高新技术
+产业开发区纬七路1999号
+产
+地：浙江省杭州市
+邮
+编
+：311228
+食品生产许可证编号：SC11333019700024
+
+[21:15:12]
+[bw7Gkq] Mr_Zhang
+https://google.osww.cn/
+
+[21:15:15]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+[21:15:19]
+[8mT5YX] MaggieIphone
+Google mirror
+
+[21:15:22]
+[bw7Gkq] Mr_Zhang
+这是我第一次访问谷歌耶
+
+[21:15:30]
+[AAfFKK] AfK_Bot
+ 食物名称：燃烧吸烟者的燃烧
+产品类型：弗莱
+玩
+组件：Kashv种子（％）2），植物油，小
+小麦花（加2卷），白糖，编辑盐。
+缺少面料：使用，小麦零件，
+默认产品代码：GB 19300
+存储：新鲜和通风，维护
+如何吃：打开和吃袋子
+生产日期：请参阅包装邮票
+Lolly：Formula Tayus Foods Limited（我的分裂）
+（工厂代码：L）生产和作业
+在国内
+车站
+：Shinjiang Hi -Tech，Angzo City，Jagyang Provinch
+1999年，通过工业发展中心Wexy
+生产
+国家 /地区：吉索市，高江州
+匹配
+联合的
+：311228
+食品许可证号：SC1133019700024
+
+[21:15:30]
+[8mT5YX] MaggieIphone
+…
+
+[21:15:32]
+[bw7Gkq] Mr_Zhang
+（但是我想注册一个谷歌账号……
+
+[21:15:56]
+[8mT5YX] MaggieIphone
+很简单
+
+[21:16:08]
+[8mT5YX] MaggieIphone
+我可以教你
+
+[21:16:17]
+[8mT5YX] MaggieIphone
+不需要翻墙
+
+[21:16:18]
+[bw7Gkq] Mr_Zhang
+Ohhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+[21:16:26]
+[AAfFKK] _
+google.cn
+
+[21:16:28]
+[bw7Gkq] Mr_Zhang
+https://google.osww.cn/search?q=xq.kzw.ink&ei=njwbY_XvCZPG9AO4hIC4Cw
+
+[21:16:29]
+[bw7Gkq] Mr_Zhang
+瞅瞅这个！
+
+[21:16:33]
+[8mT5YX] MaggieIphone
+等我回家
+
+[21:16:34]
+[None] siva
+Donk Bach//;;22$dont get data
+
+[21:16:52]
+[8mT5YX] MaggieIphone
+https://google.osww.cn/search?q=chat.thz.cool&ei=vjwbY8nFDZPC9APaq7moAQ
+Check this
+
+[21:17:14]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+[21:17:33]
+[None] rupa
+;;22 dont gat data(__1)
+
+[21:17:59]
+[8mT5YX] MaggieIphone
+恐怖的互联网
+
+[21:18:06]
+[8mT5YX] MaggieIphone
+https://otx.alienvault.com/indicator/ip/45.133.119.141
+
+[21:18:09]
+[AAfFKK] _
+ov
+
+[21:18:11]
+[bw7Gkq] Mr_Zhang
+竟然还有小张的博客！！！
+
+[21:18:19]
+[bw7Gkq] Mr_Zhang
+https://google.osww.cn/search?q=MrZhang365&ei=OT0bY-rDKcSv0PEPz8-JqA8
+
+[21:18:58]
+[bw7Gkq] Mr_Zhang
+超！
+
+[21:19:01]
+[bw7Gkq] Mr_Zhang
+这都有！！！
+
+[21:19:04]
+[bw7Gkq] Mr_Zhang
+支持中文昵称！！！
+
+[21:19:08]
+[8mT5YX] MaggieIphone
+https://google.osww.cn/search?q=聊天室历史书&ei=WD0bY4SAOePu9APFtKi4Dw
+
+[21:19:43]
+[8mT5YX] MaggieIphone
+我的博客争光了
+
+[21:19:51]
+[bw7Gkq] Mr_Zhang
+lol
+
+[21:20:01]
+[bw7Gkq] Mr_Zhang
+https://google.osww.cn/search?q=MrZhang365&ei=7jwbY6WND_-L0PEPvqaT6Ak
+
+[21:20:26]
+[None] 114514114514114514
+有人么
+
+[21:20:38]
+[None] 114514114514114514
+有人么
+
+[21:20:39]
+[8mT5YX] MaggieIphone
+有
+
+[21:20:42]
+[8mT5YX] MaggieIphone
+别刷屏
+
+[21:20:47]
+[bw7Gkq] Mr_Zhang
+https://google.osww.cn/search?q=%E5%B0%8F%E5%BC%A0%E7%89%88%E8%81%8A%E5%A4%A9%E5%AE%A4%E5%8E%86%E5%8F%B2%E4%B9%A6%EF%BC%88%E7%9B%97%E7%89%88%EF%BC%89&ei=ez0bY63LGKyq0PEPzIO28AU
+
+[21:20:51]
+[bw7Gkq] Mr_Zhang
+em
+
+[21:20:53]
+[bw7Gkq] Mr_Zhang
+盗版的书
+
+[21:21:19]
+[None] 114514114514114514
+XC热闹吗
+
+[21:21:34]
+[bw7Gkq] Mr_Zhang
+https://google.osww.cn/search?q=hack.chat&ei=3T0bY_S-NvaB0PEPvcy1yA0
+
+[21:21:37]
+[None] 114514114514114514
+我是114514114514的小号
+
+[21:21:38]
+[Myh1TA] 4n0n4me
+我不知道
+
+[21:21:50]
+[Myh1TA] 4n0n4me
+我只知道XC把我封禁
+
+[21:21:54]
+[bw7Gkq] Mr_Zhang
+https://google.osww.cn/search?q=rickroll&ei=4T0bY7LGOPmT0PEPqoiMqA0
+
+[21:22:00]
+[bw7Gkq] Mr_Zhang
+诈 骗 网 站 
+
+[21:23:21]
+[Myh1TA] 4n0n4me
+awa
+
+[21:23:36]
+[AAfFKK] _
+lol
+
+[21:23:41]
+[None] 114514114514114514
+XC跟着什么情况啊
+
+[21:24:07]
+[None] 114514114514114514
+咋感觉俩干起来了
+
+[21:24:48]
+[None] 114514114514114514
+咋没声了
+
+[21:26:15]
+[bw7Gkq] MrZhang365
+啊
+
+[21:26:39]
+[bw7Gkq] MrZhang365
+真不知道谷歌是怎么找到各位的网站的
+
+[21:26:54]
+[None] 114514114514114514
+XC跟这什么情况啊
+
+[21:27:15]
+[None] 114514114514114514
+咋感觉俩干起来了
+
+[21:27:20]
+[eYFDHl] eee
+（
+
+[21:27:26]
+[eYFDHl] eee
+已经干一个月了
+
+[21:27:32]
+[None] 114514114514114514
+啊？
+
+[21:27:39]
+[None] 114514114514114514
+5月多的时候还很和平啊
+
+[21:27:55]
+[None] 114514114514114514
+啥情况啊
+
+[21:28:02]
+[NTThcC] 666_
+:O
+
+[21:28:38]
+[NTThcC] 666_
+好久
+
+[21:28:40]
+[eYFDHl] eee
+@114514114514114514 能打开 https://book.paperee.guru/#/chatroom-history-book/ 吗
+
+[21:29:02]
+[eYFDHl] eee
+看 https://book.paperee.guru/#/chatroom-history-book/?id=识别码热潮
+
+[21:29:26]
+[None] 114514114514114514
+OK
+
+[21:29:31]
+[bw7Gkq] MrZhang365
+@114514114514114514 您可能需要聊天室历史书哦！ https://mrzhang365.github.io
+
+[21:29:37]
+[None] shunnu
+Hie babie maa
+
+[21:29:44]
+[None] shunnu
+Love you raa
+
+[21:29:55]
+[bw7Gkq] MrZhang365
+@eee 可以打开
+
+[21:30:03]
+[bw7Gkq] MrZhang365
+@shunnu ？
+
+[21:30:06]
+[None] shunnu
+@MrZhang365 love you
+
+[21:30:34]
+[None] Sreejakusuma
+Hi shunnu maaaa
+
+[21:31:10]
+[None] shunnu
+@Sreejakusuma m chestunv raaa
+
+[21:31:26]
+[None] Sreejakusuma
+Having sex
+
+[21:31:40]
+[None] shunnu
+Call 8639157666
+
+[21:32:26]
+[bw7Gkq] MrZhang365
+？？？？？
+
+[21:32:34]
+[bw7Gkq] MrZhang365
+发生什么了
+
+[21:32:40]
+[bw7Gkq] MrZhang365
+卢本伟来了？？？？？？？？？？？？
+
+[21:32:54]
+[Myh1TA] 4n0n4me
+我觉得是神秘用户
+
+[21:34:20]
+[Myh1TA] 4n0n4me
+不是卢本伟吧
+
+[21:34:24]
+[bw7Gkq] MrZhang365
+。。。
+
+[21:35:03]
+[bw7Gkq] MrZhang365
+所以为啥不办他
+
+[21:35:13]
+[None] 114514114514114514
+识别码热潮在哪啊
+
+[21:35:29]
+[None] 114514114514114514
+没找着
+
+[21:35:36]
+[Myh1TA] 4n0n4me
+看左边目录
+
+[21:36:34]
+[Myh1TA] 4n0n4me
+大乱动时代
+
+[21:37:17]
+[None] 114514114514114514
+114514？
+
+[21:38:05]
+[None] 114514114514114514
+我的妈呀
+
+[21:39:39]
+[None] 114514114514114514
+XC网址是啥
+
+[21:39:48]
+[Myh1TA] 4n0n4me
+xq.kzw.ink
+
+[21:40:52]
+[AAfFKK] _
+BRS
+
+[21:41:19]
+[AAfFKK] _
+hm
+
+[21:41:22]
+[None] 114514
+@114514114514114514 哈哈哈看来已经有同僚了呢
+
+[21:42:41]
+[AAfFKK] _
+interesting
+
+[21:43:50]
+[Myh1TA] 4n0n4me
+《同僚》
+
+[21:46:39]
+[Myh1TA] 4n0n4me
+离谱
+
+[21:46:40]
+[eYFDHl] eee
+191010
+
+[21:46:47]
+[8mT5YX] MaggiPCe
+卧槽，，，
+
+[21:47:26]
+[8mT5YX] MaggiPCe
+原来我的电脑
+
+[21:47:29]
+[8mT5YX] MaggiPCe
+一直在线
+
+[21:47:32]
+[Myh1TA] 4n0n4me
+aaa?
+
+[21:47:33]
+[8mT5YX] MaggiPCe
+我现在回家了
+
+[21:47:40]
+[Myh1TA] 4n0n4me
+是1919810（）
+
+[21:47:40]
+[Myh1TA] 4n0n4me
+wowoc
+
+[21:47:44]
+[8mT5YX] MaggiPCe
+我才发现我的电脑从中午开始
+
+[21:47:48]
+[eYFDHl] eee
+1919810
+
+[21:47:49]
+[Myh1TA] 4n0n4me
+你的电脑什么待机时长
+
+[21:47:49]
+[8mT5YX] MaggiPCe
+一直挂者
+
+[21:47:52]
+[8mT5YX] MaggiPCe
+我回家了
+
+[21:48:23]
+[eYFDHl] eee
+我以为MaggiPCe是机器人
+
+[21:48:28]
+[8mT5YX] MaggiPCe
+启动正式转移计划！
+
+[21:48:31]
+[eYFDHl] eee
+记得历史书和wiki（（
+
+[21:48:50]
+[8mT5YX] MaggiPCe
+> Logging in to Tencent cloud
+
+[21:48:51]
+[bw7Gkq] MrZhang365
+@MaggiPCe 话说你的留言机器人
+
+[21:49:16]
+[bw7Gkq] MrZhang365
+咋回事儿啊
+
+[21:49:21]
+[8mT5YX] MaggiPCe
+不知道
+
+[21:49:43]
+[eYFDHl] eee
+？
+
+[21:49:47]
+[8mT5YX] MaggiPCe
+管他呢
+
+[21:49:48]
+[8mT5YX] MaggiPCe
+到时候重启不就行了
+
+[21:49:54]
+[8mT5YX] MaggiPCe
+> Logged in to Tencent cloud
+
+[21:50:08]
+[8mT5YX] MaggiPCe
+> Saving records
+
+[21:50:15]
+[8mT5YX] MaggiPCe
+可开发票 (元)
+325.15
+
+[21:50:53]
+[8mT5YX] MaggiPCe
+hm...
+
+[21:50:55]
+[AAfFKK] _
+lo
+
+[21:50:58]
+[AAfFKK] _
+l
+
+[21:51:00]
+[8mT5YX] MaggiPCe
+我是腾讯云大客户了吗（不是
+
+[21:51:09]
+[8mT5YX] MaggiPCe
+> I want to go to poop
+
+[21:53:05]
+[8mT5YX] MaggiPCe
+>afk
+
+[21:53:07]
+[eYFDHl] eee
+草
+
+[21:53:21]
+[eYFDHl] eee
+@MaggiPCe @MaggiPCe 等一下
+
+[21:53:24]
+[8mT5YX] MaggiPCe
+:!afk pooping
+
+[21:53:28]
+[AAfFKK] AfK_Bot
+ @MaggiPCe You are marked AfK.
+
+[21:53:28]
+[8mT5YX] MaggiPCe
+what?
+
+[21:53:30]
+[AAfFKK] AfK_Bot
+ @MaggiPCe Welcome back.
+
+[21:53:30]
+[eYFDHl] eee
+聊天室历史书你有多少个版本
+
+[21:53:31]
+[8mT5YX] MaggiPCe
+hm
+
+[21:53:36]
+[8mT5YX] MaggiPCe
+idk
+
+[21:53:39]
+[eYFDHl] eee
+ ~~全都give me~~
+
+[21:53:40]
+[8mT5YX] MaggiPCe
+i cant now
+
+[21:53:47]
+[8mT5YX] MaggiPCe
+some version is on my another pc
+
+[21:53:56]
+[8mT5YX] MaggiPCe
+i cant start that pc now
+
+[21:54:03]
+[eYFDHl] eee
+oh shit
+
+[21:54:04]
+[8mT5YX] MaggiPCe
+:!afk pooping
+
+[21:54:07]
+[AAfFKK] AfK_Bot
+ @MaggiPCe You are marked AfK.
+
+[21:54:07]
+[eYFDHl] eee
+em
+
+[21:55:54]
+[8mT5YX] Maggie
+aw shit
+
+[21:56:02]
+[8mT5YX] Maggie
+:!afklist
+
+[21:56:17]
+[AAfFKK] AfK_Bot
+{'MaggiPCe': 'pooping'}
+
+[21:56:17]
+[8mT5YX] Maggie
+lmao
+
+[21:56:21]
+[AAfFKK] _
+;
+
+[21:56:32]
+[Myh1TA] 4n0n4me
+草
+
+[21:57:25]
+[8mT5YX] MaggieChrome
+im really 💩💩💩ing
+
+[21:58:03]
+[eYFDHl] eee
+@4n0n4me 你还有老版本的历史书吗
+
+[21:58:37]
+[Myh1TA] 4n0n4me
+咋了
+
+[21:58:43]
+[eYFDHl] eee
+~~我全都要~~
+
+[21:58:44]
+[QCkYle] ModBot
+This is not how this works, or how any of this works.
+
+[21:58:44]
+[Myh1TA] 4n0n4me
+真的吗
+
+[21:58:47]
+[Myh1TA] 4n0n4me
+ ~~我有simplenote上的版本~~
+
+[21:59:11]
+[eYFDHl] eee
+ ~~好啊都可以 拿来吧你~~
+
+[21:59:56]
+[AAfFKK] AfK_Bot
+2022-09-09 22:00:00
+![](https://i.gyazo.com/0108fc521ae2813486e79c65edda8c9e.jpg)
+
+[22:00:10]
+[NqByTq] light
+hihihih
+
+[22:00:12]
+[NqByTq] light
+come
+
+[22:00:21]
+[AAfFKK] _
+?
+
+[22:00:27]
+[eYFDHl] eee
+hihihi
+
+[22:00:29]
+[NqByTq] light
+@eee 
+
+[22:00:31]
+[NqByTq] light
+@_ 
+
+[22:00:32]
+[eYFDHl] eee
+yee
+
+[22:00:43]
+[eYFDHl] eee
+我今天也刚住宿回来
+
+[22:00:52]
+[AAfFKK] _
+ind
+
+[22:00:55]
+[NqByTq] light
+中秋快乐（虽然还没到
+
+[22:00:58]
+[eYFDHl] eee
+中秋快乐！
+
+[22:01:12]
+[AAfFKK] _
+:!addwhl NqByTq
+
+[22:01:13]
+[AAfFKK] _
+zqkl
+
+[22:01:18]
+[bw7Gkq] MrZhang365
+各位中秋快乐！
+
+[22:01:37]
+[AAfFKK] _
+:!list
+
+[22:01:48]
+[AAfFKK] AfK_Bot
+Hash banned: []
+Trip op: ['Hp0PpH', 'olX9Fe', 'gOtnKd', 'EbHaY9', '8mT5YX', 'aOEdh/', 'YCSh95', 'Myh1TA', 'rrrRRR', '7EMhUN', 'PXgRpV', '0/JM7u', '21PnFs', '0+A+oV', 'Zvoxsl', 'V7nVFx', 'XrbaeJ', 'hL+0yd', 'NvvLL/', '1cWTfO', 'foMeFv', '4TmEZc', '/9Br2y', 'Zk9YAn', 'KK69OG', 'eYFDHl', 'Frxaxk', 'biRdxz', 'xeEf1u', 'uMtRgL', 'ZHopop', 'xQTqHv', 'geGDVS', '805Iqy', 'pYA1S4', 'BG249d', 'n3CJhb', 'STuREh', 'EEeeOY', 'eeeEEm', 'tssNfd', 'ttttoe', 'xhvbdp', 'Chumon']
+SP. op_nick: []
+
+[22:01:48]
+[AAfFKK] _
+thinking
+
+[22:02:02]
+[bw7Gkq] MrZhang365
+。
+
+[22:02:27]
+[NqByTq] light
+hi
+
+[22:02:53]
+[8mT5YX] MaggiPCe
+ama back~
+
+[22:02:54]
+[AAfFKK] AfK_Bot
+ @MaggiPCe Welcome back.
+
+[22:02:54]
+[NqByTq] light
+~kick @MrZhang365 
+
+[22:03:00]
+[AAfFKK] _
+?
+
+[22:03:03]
+[AAfFKK] _
+obo
+
+[22:03:05]
+[NqByTq] light
+c
+
+[22:03:08]
+[8mT5YX] MaggiPCe
+obo
+
+[22:03:08]
+[NqByTq] light
+踢错了
+
+[22:03:14]
+[NqByTq] light
+刚刚是非条件反射
+
+[22:03:23]
+[AAfFKK] _
+biology
+
+[22:03:36]
+[NqByTq] light
+下一次一定改成条件反射
+
+[22:03:41]
+[bw7Gkq] MrZhang365
+.
+
+[22:03:42]
+[8mT5YX] MaggiPCe
+NqByTq light
+踢错了
+
+NqByTq light
+刚刚是非条件反射
+
+[22:03:47]
+[NqByTq] light
+~kick @MrZhang365 
+
+[22:03:55]
+[AAfFKK] _
+gee
+
+[22:04:07]
+[8mT5YX] MaggiPCe
+>logging into CF
+
+[22:04:10]
+[bw7Gkq] MrZhang365
+忍耐
+
+[22:04:12]
+[NqByTq] light
+hhh
+
+[22:04:22]
+[NqByTq] light
+你忍你的呗
+
+[22:04:34]
+[8mT5YX] MaggiPCe
+hm
+
+[22:04:38]
+[AAfFKK] _
+mh
+
+[22:04:44]
+[8mT5YX] MaggiPCe
+mhh
+
+[22:04:50]
+[Myh1TA] 4n0n4me
+awa
+
+[22:05:04]
+[AAfFKK] _
+ovo
+
+[22:05:08]
+[bw7Gkq] MrZhang365
+每日推广：https://mrzhang365.github.io/
+
+[22:06:08]
+[8mT5YX] MaggiPCe
+>Logged into CF
+
+[22:06:27]
+[8mT5YX] MaggiPCe
+>Ready to Update NS record!
+
+[22:07:29]
+[bw7Gkq] MrZhang365
+小张的博客 & 盗版历史书
+
+[22:07:44]
+[None] 114514114514114514
+xdm
+
+[22:07:46]
+[bw7Gkq] MrZhang365
+（小张版）
+
+[22:07:56]
+[None] 114514114514114514
+有没有什么好玩的联机游戏[网页]
+
+[22:08:09]
+[bw7Gkq] MrZhang365
+不知道
+
+[22:08:39]
+[Myh1TA] 4n0n4me
+@eee 我把那个版本私聊给你？
+
+[22:08:47]
+[8mT5YX] MaggiPCe
+>  thz.cool域名 DNS 服务器修改进行中。 
+
+[22:08:59]
+[8mT5YX] MaggiPCe
+yay!
+
+[22:09:02]
+[a/Jz/a] LightAFK
+我提交的那个Pr
+
+[22:09:39]
+[AAfFKK] _
+σ`∀´) ﾟ∀ﾟ)σ
+
+[22:09:44]
+[8mT5YX] MaggiPCe
+where?
+
+[22:09:47]
+[a/Jz/a] LightAFK
+那个仓库主任完全不看
+
+[22:09:48]
+[8mT5YX] MaggiPCe
+where
+
+[22:09:53]
+[8mT5YX] MaggiPCe
+awa
+
+[22:09:54]
+[a/Jz/a] LightAFK
+气shi我了
+
+[22:09:55]
+[8mT5YX] MaggiPCe
+witch repo
+
+[22:10:01]
+[Myh1TA] 4n0n4me
+不如pr我的项目
+
+[22:10:04]
+[a/Jz/a] LightAFK
+.
+
+[22:10:09]
+[a/Jz/a] LightAFK
+我要新建一个仓库
+
+[22:10:23]
+[eYFDHl] eee
+@4n0n4me OKOK 谢谢了
+
+[22:10:24]
+[AAfFKK] _
+hm
+
+[22:10:31]
+[AAfFKK] _
+ovo
+
+[22:10:33]
+[AAfFKK] _
+gork
+
+[22:10:46]
+[Myh1TA] 4n0n4me
+啊这，这样是不是不太方便复制
+
+[22:10:58]
+[Myh1TA] 4n0n4me
+要不我放到note
+
+[22:11:05]
+[8mT5YX] MaggiPCe
+>The verification TXT record of thz.cool is already being re-checked. You may only submit a re-check once per hour.
+
+[22:11:07]
+[8mT5YX] MaggiPCe
+yay!
+
+[22:11:09]
+[eYFDHl] eee
+好
+
+[22:11:21]
+[Myh1TA] 4n0n4me
+https://note.ms/mlvh
+
+[22:11:29]
+[Myh1TA] 4n0n4me
+ ~~历史版本有什么用~~
+
+[22:11:42]
+[eYFDHl] eee
+ ~~真·远古版本~~
+
+[22:11:53]
+[Myh1TA] 4n0n4me
+是啊
+
+[22:12:30]
+[eYFDHl] eee
+可以收藏（（
+
+[22:13:43]
+[eYFDHl] eee
+顺便对比现版本
+
+[22:13:47]
+[AAfFKK] _
+int = interesting
+
+[22:14:06]
+[AAfFKK] _
+ind = indeed
+
+[22:14:09]
+[AAfFKK] _
+goog
+
+[22:14:11]
+[eYFDHl] eee
+wow
+
+[22:14:14]
+[8mT5YX] MaggiPCe
+wow
+
+[22:14:27]
+[a/Jz/a] LightAFK
+ign
+
+[22:14:44]
+[a/Jz/a] LightAFK
+ign = ignorant
+
+[22:14:53]
+[8mT5YX] MaggiPCe
+10 != "10"
+int("10") == 10
+
+[22:14:59]
+[a/Jz/a] LightAFK
+cd
+
+[22:15:00]
+[8mT5YX] MaggiPCe
+awa
+
+[22:15:00]
+[AAfFKK] _
+ign
+
+[22:15:04]
+[a/Jz/a] LightAFK
+cd = cross dresser
+
+[22:15:11]
+[a/Jz/a] LightAFK
+dq = drag queen
+
+[22:15:18]
+[bw7Gkq] MrZhang365
+.
+
+[22:15:39]
+[a/Jz/a] LightAFK
+awa
+
+[22:15:47]
+[8mT5YX] MaggiPCe
+jntm = chicken u r so beautiful
+
+[22:15:48]
+[8mT5YX] MaggiPCe
+> Waiting for NameServers update
+
+[22:16:08]
+[a/Jz/a] LightAFK
+You can't always equate ji with CaiXukun
+
+[22:16:33]
+[8mT5YX] MaggiPCe
+ngmhhy
+
+[22:17:04]
+[Myh1TA] 4n0n4me
+我听说
+
+[22:18:40]
+[Myh1TA] 4n0n4me
+抖音的人非常的离谱
+
+[22:18:49]
+[Myh1TA] 4n0n4me
+抖音上TNT粉丝和ikun争执
+
+[22:19:00]
+[8mT5YX] MaggiPCe
+update is too slow
+
+[22:19:00]
+[8mT5YX] MaggiPCe
+im gonna watch some utube
+
+[22:19:06]
+[Myh1TA] 4n0n4me
+蔡徐坤黑子帮助ikun
+
+[22:19:06]
+[Myh1TA] 4n0n4me
+达成同盟
+
+[22:19:09]
+[8mT5YX] MaggiPCe
+hhhhhhhhhhhhhhhhhhhhhh
+
+[22:19:13]
+[Myh1TA] 4n0n4me
+共抗TNT粉丝
+
+[22:19:21]
+[8mT5YX] MaggiPCe
+lmao
+
+[22:19:33]
+[NTThcC] 666_
+这不是七月份的是吗）
+
+[22:19:54]
+[Myh1TA] 4n0n4me
+好家伙
+
+[22:19:59]
+[Myh1TA] 4n0n4me
+这事也太魔幻了
+
+[22:21:32]
+[8mT5YX] MaggiPCe
+>Great news! Cloudflare is now protecting your site
+Data about your site's usage will be here once available.
+
+[22:23:03]
+[8mT5YX] MaggiPCe
+ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+[22:23:10]
+[eYFDHl] eee
+uwu
+
+[22:23:48]
+[8mT5YX] MaggiPCe
+今⽇解析量 9,082 域名别名 0
+
+[22:23:51]
+[8mT5YX] MaggiPCe
+wtf....?
+
+[22:23:54]
+[Myh1TA] 4n0n4me
+cf更新很慢吗（）
+
+[22:23:54]
+[8mT5YX] MaggiPCe
+yes
+
+[22:23:56]
+[8mT5YX] MaggiPCe
+但是解析过去之后
+
+[22:24:03]
+[8mT5YX] MaggiPCe
+你添加新解析
+
+[22:24:08]
+[8mT5YX] MaggiPCe
+两秒生效
+
+[22:24:12]
+[8mT5YX] MaggiPCe
+cf yyds
+
+[22:24:15]
+[8mT5YX] MaggiPCe
+i ♥ cf
+
+[22:24:29]
+[Myh1TA] 4n0n4me
+cf免费为这么多人提供了防护
+
+[22:24:38]
+[Myh1TA] 4n0n4me
+yyds
+
+[22:24:39]
+[eYFDHl] eee
+yyds
+
+[22:24:57]
+[Myh1TA] 4n0n4me
+>Examples of what you can make on Replit!
+
+[22:25:29]
+[Myh1TA] 4n0n4me
+https://jaytholen.net/
+
+[22:25:33]
+[Myh1TA] 4n0n4me
+https://myfurbyworld.neocities.org/
+
+[22:25:38]
+[Myh1TA] 4n0n4me
+这都是什么古早风格的网页
+
+[22:25:46]
+[Myh1TA] 4n0n4me
+ ~~replit在自黑吗~~
+
+[22:25:56]
+[8mT5YX] MaggiPCe
+hhh
+
+[22:26:38]
+[mg4ZLQ] 35
+hi
+
+[22:26:43]
+[8mT5YX] MaggiPCe
+im updating records
+
+[22:26:46]
+[Myh1TA] 4n0n4me
+hi
+
+[22:27:28]
+[8mT5YX] MaggiPCe
+https://thz.cool/
+
+[22:27:35]
+[8mT5YX] MaggiPCe
+now CloudFlare Protected!!!!!!!!!!!!!!!!!!!!!!!
+
+[22:27:45]
+[8mT5YX] MaggiPCe
+我爱cf
+
+[22:28:05]
+[None] 114514114514114514
+此时的我还在看武器A
+
+[22:28:07]
+[8mT5YX] MaggiPCe
+cf,你是我的神！！！！！！！！！！！
+
+[22:28:10]
+[AAfFKK] _
+sMGDzr 【收到私聊】 MuROngPig
+嘘
+
+【发送私聊】 MuROngPig
+ovo
+
+[22:28:17]
+[AAfFKK] _
+ovo
+
+[22:28:21]
+[8mT5YX] MaggiPCe
+obo
+
+[22:28:24]
+[AAfFKK] _
+obbbbb
+
+[22:28:28]
+[8mT5YX] MaggiPCe
+updating records
+
+[22:28:41]
+[eYFDHl] eee
+快点把历史书和wiki弄回来！！
+
+[22:29:19]
+[8mT5YX] MaggiPCe
+i know
+
+[22:30:02]
+[8mT5YX] MaggiPCe
+doing it
+
+[22:30:05]
+[AAfFKK] _
+m
+聪明的下划线小朋友已经猜出来了
+
+[22:30:09]
+[8mT5YX] MaggiPCe
+butttt
+
+[22:30:10]
+[AAfFKK] _
+XD
+
+[22:30:11]
+[8mT5YX] MaggiPCe
+first i need to buy a server
+
+[22:30:20]
+[8mT5YX] MaggiPCe
+wher is cat bomb
+
+[22:30:27]
+[Myh1TA] 4n0n4me
+@_ 咋了？
+
+[22:30:30]
+[8mT5YX] MaggiPCe
+小猫炸弹
+
+[22:30:30]
+[AAfFKK] _
+lol
+
+[22:30:35]
+[Myh1TA] 4n0n4me
+啥啊
+
+[22:30:40]
+[Myh1TA] 4n0n4me
+发生啥事
+
+[22:30:43]
+[AAfFKK] _
+nth
+
+[22:30:47]
+[8mT5YX] MaggiPCe
+nth=nothing
+
+[22:30:55]
+[8mT5YX] MaggiPCe
+awa
+
+[22:30:58]
+[Myh1TA] 4n0n4me
+ooo
+
+[22:31:02]
+[Myh1TA] 4n0n4me
+ivi
+
+[22:31:04]
+[Myh1TA] 4n0n4me
+Queen Elizabeth died Sept. 8 2022, mourning for 10 days will take place. King Charles III has chosen this as his title, while he could have also chosen from Philip, Arthur, or George, which was also the name of Elizabeth's Father. She was born April 21, 1926. It was recently announced that King Charles III will make a nationwide address to a nation full of mourners. She celebrated her 96th birthday and platinum Jubilee (70 years as monarch, longest ever in English history) earlier this year, and two days before her death, on Monday, she met Liz Truss, the new prime minister.
+
+[22:33:02]
+[eYFDHl] eee
+@MaggiPCe 你刚刚去xc了吗
+
+[22:34:24]
+[8mT5YX] MaggiPCe
+e?
+
+[22:36:43]
+[8mT5YX] MaggiPCe
+我正在和xmzd协商
+
+[22:37:41]
+[eYFDHl] eee
+3wh5？
+
+[22:37:50]
+[oE1+XQ] 3wh5
+hi
+
+[22:37:50]
+[eYFDHl] eee
+hihihi
+
+[22:37:55]
+[eYFDHl] eee
+好久不见
+
+[22:38:02]
+[AAfFKK] _
+?
+
+[22:38:06]
+[oE1+XQ] 3wh5
+好久不见
+
+[22:38:07]
+[AAfFKK] _
+ovo
+
+[22:38:08]
+[AAfFKK] _
+:!lookup trip oE1+XQ
+
+[22:38:23]
+[AAfFKK] AfK_Bot
+==Hash==: ['PO6+hBy6u9B8a/T']
+==Aliases==: ['{', '3wh5', '35', '}']
+==Trips==: ['{', 'oE1+XQ', 'mg4ZLQ', '}']
+
+[22:38:23]
+[AAfFKK] _
+ind
+
+[22:38:26]
+[AAfFKK] _
+:!cookie @3wh5 
+
+[22:38:40]
+[oE1+XQ] 3wh5
+刚刚未响应
+
+[22:39:01]
+[8mT5YX] MaggiPCe
+:!cookie _
+
+[22:39:12]
+[8mT5YX] MaggiPCe
+M&M's
+
+[22:39:19]
+[AAfFKK] _
+lol
+
+[22:39:23]
+[AAfFKK] _
+prob
+
+[22:39:25]
+[AAfFKK] _
+:!cookie _
+
+[22:39:33]
+[AAfFKK] _
+whoops
+
+[22:40:09]
+[oE1+XQ] 3wh5
+又崩了
+
+[22:40:21]
+[AAfFKK] _
+hm
+
+[22:40:34]
+[AAfFKK] _
+psim
+
+[22:40:42]
+[8mT5YX] MaggiPCe
+死亡的曲奇
+
+[22:42:35]
+[8mT5YX] MaggiPCe
+hm..
+
+[22:42:37]
+[8mT5YX] MaggiPCe
+weiiiiiirddddd
+
+[22:42:44]
+[AAfFKK] _
+:!cookie @MaggiPCe 
+
+[22:42:55]
+[AAfFKK] _
+:!cookie @MaggiPCe 
+
+[22:42:57]
+[Myh1TA] 4n0n4me
+wow
+
+[22:42:58]
+[AAfFKK] _
+ge
+
+[22:43:01]
+[Myh1TA] 4n0n4me
+这个曲奇看起来好欸
+
+[22:43:02]
+[8mT5YX] MaggiPCe
+xd
+
+[22:43:26]
+[8mT5YX] MaggiPCe
+im buying server
+
+[22:43:30]
+[None] 114514114514114514
+关于我去十字街逛下就被封禁这件事
+
+[22:45:02]
+[Myh1TA] 4n0n4me
+草
+
+[22:46:18]
+[Myh1TA] 4n0n4me
+大概是因为
+
+[22:46:22]
+[Myh1TA] 4n0n4me
+114514是个烂梗
+
+[22:46:27]
+[None] 114514114514114514
+我没用114514这个名
+
+[22:46:50]
+[Myh1TA] 4n0n4me
+好家伙
+
+[22:46:55]
+[Myh1TA] 4n0n4me
+那是怎么会是呢
+
+[22:46:58]
+[None] 114514114514114514
+就是一堆乱打的数字
+
+[22:46:59]
+[None] 114514
+难搞
+
+[22:47:16]
+[AAfFKK] _
+11515134
+
+[22:47:55]
+[8mT5YX] MaggiPCe
+他们怀疑事张
+
+[22:49:26]
+[8mT5YX] MaggiPCe
+money -18CHY
+
+[22:50:46]
+[8mT5YX] MaggiPCe
+:(
+
+[22:50:48]
+[Myh1TA] 4n0n4me
+：（
+
+[22:50:53]
+[8mT5YX] MaggiPCe
+but happy +11451419198101145141919810
+
+[22:51:00]
+[8mT5YX] MaggiPCe
+:)
+
+[22:51:02]
+[8mT5YX] MaggiPCe
+yay!i did it!!!!!!!!!!!!!!!!!!!!
+
+[22:51:56]
+[8mT5YX] MaggiPCe
+i logged in!!!!!!!!!!!!!!!!!!!!
+
+[22:53:29]
+[8mT5YX] MaggiPCe
+i will install baota
+
+[22:54:30]
+[8mT5YX] MaggiPCe
+@4n0n4me 我做到了！
+
+[22:54:45]
+[8mT5YX] MaggiPCe
+马上回复一系列服务！！！！！！！！！！！！！！
+
+[22:54:56]
+[8mT5YX] MaggiPCe
+i mean 恢复
+
+[22:55:02]
+[eYFDHl] eee
+芜湖
+
+[22:55:10]
+[8mT5YX] MaggiPCe
+正在安装宝塔面板
+
+[22:55:59]
+[None] crita
+hola
+
+[22:56:07]
+[None] 114514114514114514
+我看B站鬼畜看死了
+
+[22:56:36]
+[AAfFKK] _
+X
+
+[22:56:42]
+[8mT5YX] MaggiPCe
+hhh
+
+[22:56:50]
+[AAfFKK] _
+pill coming
+
+[22:57:18]
+[8mT5YX] MaggiPCe
+jill
+
+[22:57:36]
+[8mT5YX] MaggiPCe
+XD
+
+[22:57:41]
+[None] 114514114514114514
+睡觉了下了
+
+[22:58:57]
+[None] crita
+?
+
+[22:59:28]
+[AAfFKK] _
+see
+
+[22:59:33]
+[AAfFKK] _
+;
+
+[22:59:34]
+[8mT5YX] MaggiPCe
+installing panel
+
+[22:59:46]
+[Zvoxsl] jill
+累死了
+
+[22:59:56]
+[AAfFKK] AfK_Bot
+2022-09-09 23:00:00
+![](https://i.gyazo.com/89761b264ef47219eb0be5047d378f06.jpg)
+
+[22:59:57]
+[Myh1TA] 4n0n4me
+wooooo!
+
+[23:00:33]
+[AAfFKK] _
+lol
+
+[23:00:43]
+[tssNfd] ccw
+诶
+
+[23:00:59]
+[tssNfd] ccw
+今天星期五诶
+
+[23:01:04]
+[Zvoxsl] jill
+;
+
+[23:01:12]
+[AAfFKK] _
+zqj
+
+[23:01:13]
+[AAfFKK] _
+;
+
+[23:01:13]
+[AAfFKK] _
+jilly
+
+[23:01:37]
+[AAfFKK] _
+:!afk sleep
+
+[23:01:40]
+[AAfFKK] AfK_Bot
+ @_ You are marked AfK.
+
+[23:01:44]
+[8mT5YX] MaggiPCe
+awa
+
+[23:01:58]
+[tssNfd] ccw
+终于不是出现写作业睡觉一条龙了（
+
+[23:02:02]
+[8mT5YX] MaggiPCe
+@ccw 我买了个新服务器awa！
+
+[23:02:21]
+[8mT5YX] MaggiPCe
+新服务器的IP不会公布，所有服务经过CDN!
+
+[23:02:35]
+[8mT5YX] MaggiPCe
+awa
+
+[23:02:38]
+[Zvoxsl] jill
+蛤
+
+[23:03:13]
+[Zvoxsl] jill
+周一到周五默认写作业睡觉一条龙（
+
+[23:03:25]
+[tssNfd] ccw
+为什么到周五-
+
+[23:03:34]
+[Zvoxsl] jill
+诶
+
+[23:03:40]
+[Zvoxsl] jill
+到周四*
+
+[23:03:45]
+[Zvoxsl] jill
+周五玩！
+
+[23:03:54]
+[tssNfd] ccw
+弄得我好伤心（
+
+[23:03:56]
+[8mT5YX] MaggiPCe
+installing LNMP!
+
+[23:04:00]
+[8mT5YX] MaggiPCe
+虽然我少了18人民币但是——
+
+[23:04:15]
+[8mT5YX] MaggiPCe
+我很开心！
+
+[23:04:19]
+[8mT5YX] MaggiPCe
+能重新启动TC计划！
+
+[23:04:28]
+[Zvoxsl] jill
+蛤
+
+[23:05:25]
+[Zvoxsl] jill
+你今晚几点睡
+
+[23:05:28]
+[tssNfd] ccw
+明天上学
+
+[23:05:40]
+[tssNfd] ccw
+上到晚上六点
+
+[23:05:45]
+[8mT5YX] MaggiPCe
+uw
+
+[23:05:47]
+[eYFDHl] eee
+@MaggiPCe TC快搞好了
+
+[23:05:58]
+[eYFDHl] eee
+搞回来
+
+[23:06:04]
+[8mT5YX] MaggiPCe
+还没
+
+[23:06:04]
+[None] bambi
+hello
+
+[23:06:09]
+[8mT5YX] MaggiPCe
+我还正在安装服务器套件
+
+[23:06:26]
+[tssNfd] ccw
+零点睡觉 整周本来要抄书背书什么的都没背多少
+
+[23:07:15]
+[tssNfd] ccw
+全都在摸鱼
+
+[23:07:26]
+[Zvoxsl] jill
+--
+
+[23:07:29]
+[Zvoxsl] jill
+我感觉我高二活得比高一轻松多了（至少目前
+
+[23:07:47]
+[tssNfd] ccw
+hm
+
+[23:07:58]
+[tssNfd] ccw
+好像也是（
+
+[23:08:02]
+[tssNfd] ccw
+你什么时候取消住宿的
+
+[23:08:54]
+[8mT5YX] MaggiPCe
+等会TC复活了大家记得来玩（
+
+[23:09:24]
+[Zvoxsl] jill
+11月好像
+
+[23:10:31]
+[8mT5YX] MaggiPCe
+解析已经恢复了
+
+[23:11:15]
+[tssNfd] ccw
+但上个暑假肯定是我玩得最疯最开心的暑假（
+
+[23:11:16]
+[8mT5YX] MaggiPCe
+但是服务器还没好
+
+[23:11:19]
+[tssNfd] ccw
+至少不是所有电子产品被收被丢到学校每天就看note.ms
+
+[23:14:13]
+[8mT5YX] MaggiPCe
+谁能帮个忙
+
+[23:15:09]
+[8mT5YX] MaggiPCe
+能访问chat.thz.cool吗
+
+[23:15:18]
+[8mT5YX] MaggiPCe
+会不会超时
+
+[23:15:21]
+[eYFDHl] eee
+不会 没有找到站点
+
+[23:15:36]
+[8mT5YX] MaggiPCe
+oooooooohhhhhhhhhhhhhhhhhhhhh
+
+[23:15:52]
+[8mT5YX] MaggiPCe
+那意味着马上就好了
+
+[23:16:02]
+[8mT5YX] MaggiPCe
+recving objs
+
+[23:17:24]
+[8mT5YX] MaggiPCe
+done!
+
+[23:17:32]
+[8mT5YX] MaggiPCe
+installing npm
+
+[23:17:37]
+[bw7Gkq] MrZhang365
+。
+
+[23:18:39]
+[bw7Gkq] MrZhang365
+wow
+
+[23:18:42]
+[8mT5YX] MaggiPCe
+帮个忙
+
+[23:20:06]
+[8mT5YX] MaggiPCe
+发一个mod的那个星星符号
+
+[23:20:56]
+[eYFDHl] eee
+⭐
+
+[23:21:00]
+[8mT5YX] MaggiPCe
+啊不用了
+
+[23:21:00]
+[8mT5YX] MaggiPCe
+我找到了
+
+[23:21:02]
+[eYFDHl] eee
+去xc那边抄的（（
+
+[23:21:11]
+[8mT5YX] MaggiPCe
+不是，这多损那
+
+[23:23:22]
+[8mT5YX] MaggiPCe
+我的新服务器
+
+[23:23:28]
+[8mT5YX] MaggiPCe
+就有人碰撞ssh密码
+
+[23:23:38]
+[tssNfd] ccw
+去学校两周，一天都没做完过作业
+
+[23:23:39]
+[bw7Gkq] MrZhang365
+好家伙
+
+[23:23:59]
+[8mT5YX] MaggiPCe
+不可能是你们
+
+[23:24:18]
+[8mT5YX] MaggiPCe
+你们都不知道ip
+
+[23:24:22]
+[8mT5YX] MaggiPCe
+(
+
+[23:24:24]
+[eYFDHl] eee
+我去学校两周
+
+[23:25:41]
+[eYFDHl] eee
+晚自习3个半小时3小时摸鱼……
+
+[23:25:55]
+[eYFDHl] eee
+不可能是我
+
+[23:26:06]
+[eYFDHl] eee
+（
+
+[23:26:08]
+[Zvoxsl] jill
+我每天都把作业写完力
+
+[23:26:09]
+[bw7Gkq] MrZhang365
+）
+
+[23:26:13]
+[Zvoxsl] jill
+甚至还会写明天的
+
+[23:26:19]
+[eYFDHl] eee
+++1
+
+[23:26:24]
+[Zvoxsl] jill
+这个班的学习氛围太好了
+
+[23:26:30]
+[Zvoxsl] jill
+:D
+
+[23:26:33]
+[tssNfd] ccw
+;
+
+[23:26:39]
+[eYFDHl] eee
+我班上晚自习都在说话
+
+[23:26:44]
+[Zvoxsl] jill
+我们全在卷
+
+[23:26:52]
+[8mT5YX] MaggiPCe
+hm
+
+[23:26:55]
+[Zvoxsl] jill
+下课动都不带动的
+
+[23:26:59]
+[eYFDHl] eee
+~~整个楼最吵的班~~
+
+[23:27:02]
+[QCkYle] ModBot
+This is not how this works, or how any of this works.
+
+[23:27:02]
+[Zvoxsl] jill
+全在座位上卷
+
+[23:27:05]
+[eYFDHl] eee
+wowoc
+
+[23:27:10]
+[8mT5YX] MaggiPCe
+running npm install!!!!!!!!!!!!!!!!!!!
+
+[23:27:17]
+[tssNfd] ccw
+我感觉我晚自习从到教室18:40到22:05下晚自习全都在写
+
+[23:27:18]
+[bw7Gkq] MrZhang365
+Em
+
+[23:27:22]
+[Zvoxsl] jill
+有人体育课上还带数学书哈哈哈哈哈
+
+[23:27:24]
+[eYFDHl] eee
+我初三班就是很安静
+
+[23:27:26]
+[eYFDHl] eee
+无聊极了
+
+[23:27:34]
+[tssNfd] ccw
+但是最后还有多达三科作业没做
+
+[23:27:35]
+[eYFDHl] eee
+还是高中有意思
+
+[23:27:37]
+[bw7Gkq] MrZhang365
+emmm
+
+[23:27:50]
+[bw7Gkq] MrZhang365
+剩余一年
+
+[23:27:56]
+[bw7Gkq] MrZhang365
+>那时，工作日放学后的夜晚，jill、emankciN、zzChumo、zhjzhmh、ee等人便会在Manyland里一起玩耍，或是在Gluebottle里挂机、或是在Clearcoldwater里玩跑酷。这是YC帝国时代一段不多见的、美好的时光。
+
+[23:28:02]
+[bw7Gkq] MrZhang365
+emmmm
+
+[23:28:04]
+[tssNfd] ccw
+体育课我也带过数学书，但我们学校算是特别重视体育的（
+
+[23:28:06]
+[eYFDHl] eee
+~~！住宿好玩~~
+
+[23:28:07]
+[QCkYle] ModBot
+So, ~help might, uh, well, nevermind. . .
+
+[23:28:07]
+[tssNfd] ccw
+如果我尝试补前一天的作业
+
+[23:28:22]
+[tssNfd] ccw
+第二天的更多作业就写不完了
+
+[23:28:30]
+[bw7Gkq] MrZhang365
+我们这里的住宿：犯人们，吃饭了！
+
+[23:28:36]
+[Zvoxsl] jill
+住宿十分的吵
+
+[23:28:39]
+[eYFDHl] eee
+>那时，工作日放学后的夜晚，jill、emankciN、zzChumo、zhjzhmh、ee等人便会在Manyland里一起玩耍，或是在Gluebottle里挂机、或是在Clearcoldwater里玩跑酷。这是YC帝国时代一段不多见的、美好的时光。
+
+因为我初三在学校过的太无趣了 只能在hc上寻求安慰（
+
+[23:28:45]
+[NqByTq] light
+h
+
+[23:28:51]
+[bw7Gkq] MrZhang365
+啊这
+
+[23:28:53]
+[Zvoxsl] jill
+和我想象中的住宿不太一样
+
+[23:28:54]
+[NqByTq] light
+我们每天跑几公里
+
+[23:28:58]
+[eYFDHl] eee
+wowoc
+
+[23:29:01]
+[Zvoxsl] jill
+我以为我能找到大佬辅导我学习
+
+[23:29:09]
+[NqByTq] light
+我腿都动不了了
+
+[23:29:09]
+[eYFDHl] eee
+住宿不都是吵的吗（（
+
+[23:29:18]
+[Zvoxsl] jill
+结果我成了作业供应商
+
+[23:29:23]
+[Zvoxsl] jill
+:(
+
+[23:29:26]
+[bw7Gkq] MrZhang365
+emmmm
+
+[23:29:29]
+[eYFDHl] eee
+肯定有几个说话几个安静
+
+[23:29:30]
+[NqByTq] light
+我已经摆烂了
+
+[23:29:35]
+[Zvoxsl] jill
+全宿舍我最安静
+
+[23:29:40]
+[eYFDHl] eee
+wow
+
+[23:29:53]
+[Zvoxsl] jill
+主要是新同学适应得慢
+
+[23:30:00]
+[tssNfd] ccw
+;
+
+[23:30:04]
+[Zvoxsl] jill
+也没人跟我说话
+
+[23:30:16]
+[bw7Gkq] MrZhang365
+:(
+
+[23:30:17]
+[eYFDHl] eee
+ ~~我也算安静的 但我觉得她们在玩挺有意思~~
+
+[23:30:27]
+[Zvoxsl] jill
+~~我就只能一个人卷了~~
+
+[23:30:28]
+[QCkYle] ModBot
+Your father smelt of elderberries.
+
+[23:30:29]
+[eYFDHl] eee
+草
+
+[23:30:31]
+[eYFDHl] eee
+（摸摸
+
+[23:30:36]
+[Zvoxsl] jill
+xd
+
+[23:30:40]
+[tssNfd] ccw
+你还给她们供应作业啊（不供应了让他们一起卷啊
+
+[23:30:45]
+[eYFDHl] eee
+:D
+
+[23:30:57]
+[bw7Gkq] MrZhang365
+好家伙
+
+[23:30:58]
+[Zvoxsl] jill
+她们要就要呗
+
+[23:31:04]
+[NqByTq] light
+我堂堂一个8号 被老师说的40几号来嘲笑我
+
+[23:31:06]
+[NqByTq] light
+md
+
+[23:31:07]
+[eYFDHl] eee
+啊？
+
+[23:31:24]
+[bw7Gkq] MrZhang365
+。
+
+[23:31:26]
+[bw7Gkq] MrZhang365
+啥？
+
+[23:31:31]
+[NqByTq] light
+今天还用我的学案讲课
+
+[23:31:46]
+[NqByTq] light
+害得我一题都没写
+
+[23:31:53]
+[eYFDHl] eee
+离谱（
+
+[23:32:03]
+[tssNfd] ccw
+周二我写了一个晚上的数学周测，留了半个小时给数学作业，其他一个字都没动；周三我写了一个小时英语周测，剩下两个多小时都在被抓去补英语作业（尽管我整年都没去学校还保持117/120 周四一个小时物理周测，然后两个小时写物理作业
+
+[23:32:04]
+[Zvoxsl] jill
+我初三作业天天被讲:(
+
+[23:32:04]
+[eYFDHl] eee
+我们班59人 我57号
+
+[23:32:09]
+[Zvoxsl] jill
+关键是有一次我写了一个1*3=4
+
+[23:32:22]
+[eYFDHl] eee
+好家伙
+
+[23:32:23]
+[Zvoxsl] jill
+公开处刑
+
+[23:32:28]
+[NqByTq] light
+老师说:反正你的也是空白，拿给我讲课
+
+[23:32:37]
+[bw7Gkq] MrZhang365
+@jill 真有你的
+
+[23:32:42]
+[Zvoxsl] jill
+¯\\\_(ツ)\_/¯
+
+[23:32:50]
+[tssNfd] ccw
+18题
+
+[23:33:08]
+[eYFDHl] eee
+我晚自习两节 我都是一节写作业~~一节睡觉~~
+
+[23:33:11]
+[tssNfd] ccw
+我做4次
+
+[23:33:12]
+[tssNfd] ccw
+4次都不对
+
+[23:33:20]
+[tssNfd] ccw
+都算错数
+
+[23:33:24]
+[eYFDHl] eee
+wowoc
+
+[23:33:25]
+[Zvoxsl] jill
+4个答案（
+
+[23:33:27]
+[NqByTq] light
+还有那个化学老师针对我，我站在门口听课
+
+[23:33:28]
+[eYFDHl] eee
+嘶
+
+[23:33:34]
+[tssNfd] ccw
+都是1*3=4的级别
+
+[23:33:39]
+[bw7Gkq] MrZhang365
+我之前写过：$25^4 = 100$
+
+[23:33:39]
+[tssNfd] ccw
+:
+
+[23:33:42]
+[eYFDHl] eee
+@light 这老师也太……
+
+[23:33:51]
+[NqByTq] light
+他还说他从来不骂学生
+
+[23:34:04]
+[Zvoxsl] jill
+我还写过$H^2$
+
+[23:34:11]
+[NqByTq] light
+@&%×@#×#（(#@*%()@#%*(*@#^&%@#^$@#
+
+[23:34:12]
+[bw7Gkq] MrZhang365
+However
+
+[23:34:19]
+[Zvoxsl] jill
+化学方程式（
+
+[23:34:21]
+[eYFDHl] eee
+D:
+
+[23:34:21]
+[NqByTq] light
+。
+
+[23:34:28]
+[bw7Gkq] MrZhang365
+emmm
+
+[23:34:31]
+[tssNfd] ccw
+n^2 * n^2 = n^2
+
+[23:34:32]
+[tssNfd] ccw
+一个是n * 1/n = n^2
+
+[23:34:46]
+[tssNfd] ccw
+一个是n^4 = 2 => n = 2
+
+[23:35:07]
+[NqByTq] light
+那次作业我没看题目，元素符号写成了名称，物质的颜色写成了表达式...
+
+[23:35:09]
+[NqByTq] light
+60 - 20
+
+[23:35:17]
+[tssNfd] ccw
+不对，是n^4 = 4
+
+[23:35:21]
+[eYFDHl] eee
+草
+
+[23:35:25]
+[NqByTq] light
+不过还好
+
+[23:35:41]
+[NqByTq] light
+我们班3号比我做得还烂
+
+[23:35:55]
+[tssNfd] ccw
+（根号2，负根号2，根号2 i,负根号2 i
+
+[23:35:56]
+[8mT5YX] MaggiPCe
+帮个忙吧
+
+[23:36:16]
+[8mT5YX] MaggiPCe
+各位
+
+[23:36:18]
+[8mT5YX] MaggiPCe
+怎么nginx反向代理websocket
+
+[23:36:33]
+[eYFDHl] eee
+ ~~看了hc 突然觉得我写错的作业都是小问题了~~
+
+[23:36:47]
+[NqByTq] light
+英语周测了两次我终于到了第9
+
+[23:37:27]
+[eYFDHl] eee
+@MaggiPCe https://zhuanlan.zhihu.com/p/383598729 看看这个？
+
+[23:37:29]
+[8mT5YX] MaggiPCe
+好的
+
+[23:37:41]
+[tssNfd] ccw
+我今天中午的数学题统计学要列表或者树状图我不会列然后写了一堆排列组合 结果最后发现是错的
+
+[23:38:21]
+[Zvoxsl] jill
+;
+
+[23:38:33]
+[tssNfd] ccw
+都不知道学到哪去了
+
+[23:38:33]
+[NqByTq] light
+aaa
+
+[23:38:38]
+[Zvoxsl] jill
+cy
+
+[23:38:43]
+[Zvoxsl] jill
+@ccw 
+
+[23:41:55]
+[8mT5YX] MaggiePC
+zombie
+
+[23:41:58]
+[8mT5YX] MaggiePC
+TC
+
+[23:44:17]
+[8mT5YX] MaggiePC
+回来了！
+
+[23:44:19]
+[8mT5YX] MaggiePC
+*奏乐 *奏乐 *奏乐 *奏乐 *奏乐 
+
+[23:44:31]
+[8mT5YX] MaggiePC
+@eee
+
+[23:49:38]
+[eYFDHl] eee
+*快乐
+
+[23:53:39]
+[bw7Gkq] MrZhang365
+Hi
+
+[23:54:08]
+[bw7Gkq] MrZhang365
+我曾经说过ZhangBot他妈妈就是Python...
+
+[23:55:04]
+[eYFDHl] eee
+草
+
+[23:55:38]
+[eYFDHl] eee
+好吧没毛病（
+
+[23:55:44]
+[eYFDHl] eee
+ ~~但是eebot的爸爸妈妈都是我~~
+
+[23:55:59]
+[bw7Gkq] MrZhang365
+好家伙
+
+[23:56:08]
+[eYFDHl] eee
+我要赶着备份星弈三号服务器数据了
+
+[23:56:25]
+[bw7Gkq] MrZhang365
+话说eb那是真可爱
+
+[23:56:26]
+[eYFDHl] eee
+ohhhhhhhhhh
+
+[23:56:30]
+[eYFDHl] eee
+thanks！
+
+[23:56:37]
+[bw7Gkq] MrZhang365
+Zhang系列Bot那是真简陋
+
+[23:56:48]
+[bw7Gkq] MrZhang365
+无语
+
+[23:56:52]
+[eYFDHl] eee
+←~~非常幸福~~
+
+[23:56:55]
+[eYFDHl] eee
+不不不
+
+[23:56:56]
+[bw7Gkq] MrZhang365
+。。。
+
+[23:57:19]
+[eYFDHl] eee
+ZhangModHelper很实用
+
+[23:57:20]
+[bw7Gkq] MrZhang365
+要啥没啥
+
+[23:57:25]
+[eYFDHl] eee
+要啥有啥
+
+[23:57:31]
+[bw7Gkq] MrZhang365
+即使是模仿eb
+
+[23:57:34]
+[eYFDHl] eee
+ZhangModHelper完全没怎么模仿
+
+[23:57:55]
+[bw7Gkq] MrZhang365
+也是东施效颦
+
+[23:57:56]
+[eYFDHl] eee
+ ~~好好好别夸了~~
+
+[23:58:15]
+[bw7Gkq] MrZhang365
+ZhangModBot是ZhangHelper的前身
+
+[23:58:27]
+[eYFDHl] eee
+yep
+
+[23:58:37]
+[bw7Gkq] MrZhang365
+ZhangHelper1.0代码杂乱无章
+
+[23:58:46]
+[bw7Gkq] MrZhang365
+于是放弃
+
+[23:58:51]
+[bw7Gkq] MrZhang365
+Give you up~
+
+[23:58:57]
+[bw7Gkq] MrZhang365
+写ZhangHelper2.0
+
+[23:59:08]
+[bw7Gkq] MrZhang365
+2.0写好以后...
+
+[23:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 00:00:00
+![](https://i.gyazo.com/4b18b49345992345b2c90d3c526b90eb.jpg)
+
+[23:59:56]
+[bw7Gkq] MrZhang365
+更新还要重启
+

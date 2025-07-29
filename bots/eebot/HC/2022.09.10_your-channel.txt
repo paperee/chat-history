@@ -1,0 +1,10672 @@
+[00:00:01]
+[eYFDHl] eee
+Never Gonna Give You Up~
+
+[00:00:05]
+[bw7Gkq] MrZhang365
+写3.0
+
+[00:00:06]
+[bw7Gkq] MrZhang365
+无语
+
+[00:00:16]
+[bw7Gkq] MrZhang365
+（想写一个可爱的机器人
+
+[00:00:26]
+[bw7Gkq] MrZhang365
+之前的ZhangBot别人都说他吵吵闹闹
+
+[00:00:48]
+[eYFDHl] eee
+想写一个可爱的机器人x ~~想有一个可爱的女儿√~~
+
+[00:00:55]
+[bw7Gkq] MrZhang365
+好家伙
+
+[00:01:03]
+[bw7Gkq] MrZhang365
+还被骂作爸宝男（鱼的同学说的
+
+[00:01:34]
+[eYFDHl] eee
+草
+
+[00:01:40]
+[bw7Gkq] MrZhang365
+原因就是那节信息课
+
+[00:01:57]
+[eYFDHl] eee
+~~我想起来了 还真被骂过~~
+
+[00:02:01]
+[QCkYle] ModBot
+So, ~help might, uh, well, nevermind. . .
+
+[00:02:01]
+[bw7Gkq] MrZhang365
+那位同学骂ZhangBot
+
+[00:02:10]
+[bw7Gkq] MrZhang365
+ZhangBot回应：我已经通知我爸爸了，你就等着吧！
+
+[00:02:33]
+[bw7Gkq] MrZhang365
+随后我的电脑就响了
+
+[00:02:49]
+[bw7Gkq] MrZhang365
+于是—
+
+[00:02:54]
+[bw7Gkq] MrZhang365
+爸宝男
+
+[00:03:02]
+[eYFDHl] eee
+哈哈哈哈哈哈哈哈
+
+[00:03:16]
+[bw7Gkq] MrZhang365
+于是就有：如果有人辱骂ZhangBot。
+
+[00:03:30]
+[bw7Gkq] MrZhang365
+就会自动发送：`ban 用户
+
+[00:03:48]
+[bw7Gkq] MrZhang365
+（之前的ban是掉线
+
+[00:04:03]
+[eYFDHl] eee
+（
+
+[00:04:23]
+[bw7Gkq] MrZhang365
+之后觉得不妥
+
+[00:04:35]
+[bw7Gkq] MrZhang365
+就改成了：你是一只苍蝇！
+
+[00:04:48]
+[bw7Gkq] MrZhang365
+eman: awa？
+
+[00:04:59]
+[eYFDHl] eee
+ ~~苍蝇做错了什~~
+
+[00:05:36]
+[bw7Gkq] MrZhang365
+啊
+
+[00:06:45]
+[bw7Gkq] MrZhang365
+我还真设计不出像eb那样的~~女儿~~机器人
+
+[00:07:14]
+[bw7Gkq] MrZhang365
+慢慢写吧
+
+[00:07:21]
+[bw7Gkq] MrZhang365
+所有功能集于一身
+
+[00:07:29]
+[eYFDHl] eee
+加油吧
+
+[00:07:47]
+[bw7Gkq] MrZhang365
+嗯
+
+[00:07:59]
+[bw7Gkq] MrZhang365
+集于一身就会导致一堆BUG
+
+[00:08:19]
+[eYFDHl] eee
+ ~~深有感触~~
+
+[00:08:27]
+[bw7Gkq] MrZhang365
+qs
+
+[00:09:51]
+[bw7Gkq] MrZhang365
+这也是我当初要把功能分开的原因
+
+[00:10:17]
+[bw7Gkq] MrZhang365
+现在好了
+
+[00:10:25]
+[bw7Gkq] MrZhang365
+ZhangHelper3.0的功能被包装成一个个命令包
+
+[00:10:50]
+[eYFDHl] eee
+我是因为~~懒得创建新文件~~所以才把所有功能集成一体
+
+[00:10:52]
+[bw7Gkq] MrZhang365
+好家伙
+
+[00:10:58]
+[bw7Gkq] MrZhang365
+这样，简洁了不少
+
+[00:11:09]
+[bw7Gkq] MrZhang365
+并且方便后人开发满是BUG的功能
+
+[00:11:32]
+[bw7Gkq] MrZhang365
+client.addhook(join_welcome,’join’)
+
+[00:12:50]
+[bw7Gkq] MrZhang365
+嗯
+
+[00:13:14]
+[bw7Gkq] MrZhang365
+应该可行
+
+[00:13:19]
+[bw7Gkq] MrZhang365
+但是会掉几根头发
+
+[00:13:30]
+[bw7Gkq] MrZhang365
+困
+
+[00:21:21]
+[wuotMk] DJMRDOU
+hi：）
+
+[00:38:21]
+[None] jpnce
+Hi
+
+[00:38:28]
+[8mT5YX] MaggiePC
+我来晚了？
+
+[00:55:19]
+[8mT5YX] MaggiePC
+;_;
+
+[00:55:29]
+[8mT5YX] MaggiePC
+u r all afking
+
+[00:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 01:00:00
+![](https://i.gyazo.com/4f2c3691b327ae7c0865880eb3063ca2.png)
+
+[01:04:21]
+[8mT5YX] MaggiePC
+awa...
+
+[01:06:53]
+[None] leeann
+hi
+
+[01:09:35]
+[None] leann
+hii
+
+[01:09:40]
+[None] leann
+hii
+
+[01:10:03]
+[None] leann
+hi
+
+[01:10:31]
+[8mT5YX] MaggiePC
+?
+
+[01:14:44]
+[None] leann
+how are u
+
+[01:19:24]
+[None] leann
+hi maggie
+
+[01:22:41]
+[8mT5YX] MaggiePC1
+:!lookup nick dhaya
+
+[01:22:42]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==kYrBraCsuR8EuCo==: ['dhaya']
+==Trips== for hash ==kYrBraCsuR8EuCo==: ['']
+
+[01:30:00]
+[None] leann
+hii
+
+[01:30:08]
+[None] Resso
+Hii
+
+[01:30:30]
+[None] leann
+how are you
+
+[01:47:19]
+[8mT5YX] MaggiePC2
+yay
+
+[01:47:21]
+[8mT5YX] MaggiePC2
+i made a imgbed
+
+[01:47:29]
+[8mT5YX] MaggiePC2
+:!help
+
+[01:48:12]
+[AAfFKK] AfK_Bot
+ @MaggiePC2 Your current identity : OPERATOR
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[01:48:12]
+[8mT5YX] MaggiePC2
+:!getgwd
+
+[01:48:24]
+[8mT5YX] MaggiePC2
+:!getbwd
+
+[01:48:32]
+[8mT5YX] MaggiePC2
+:!getstats
+
+[01:48:54]
+[AAfFKK] AfK_Bot
+Locked: False. Captcha: False.
+
+[01:48:54]
+[8mT5YX] MaggiePC2
+:!getjlmsg
+
+[01:51:34]
+[AAfFKK] AfK_Bot
+Current jlmsg : False
+
+[01:51:34]
+[8mT5YX] MaggiePC2
+:!getjlmsg
+
+[01:51:41]
+[AAfFKK] AfK_Bot
+Current jlmsg : False
+
+[01:51:41]
+[None] he11
+<COMMAND>
+
+[01:54:16]
+[None] he11
+: !help <COMMAND>
+
+[01:54:30]
+[8mT5YX] MaggiePC2
+:!help :!shoot
+
+[01:54:44]
+[AAfFKK] AfK_Bot
+Incorrect usage.
+
+[01:54:44]
+[8mT5YX] MaggiePC2
+:!help shoot
+
+[01:54:47]
+[AAfFKK] AfK_Bot
+|COMMAND|ARGUMENTS|USAGE|CATEGORY|
+|-|-|-|-|
+|shoot|TARGET(S)|SHOOT.|USER|
+
+[01:54:47]
+[8mT5YX] MaggiePC2
+:!help awa
+
+[01:54:55]
+[AAfFKK] AfK_Bot
+|COMMAND|ARGUMENTS|USAGE|CATEGORY|
+|-|-|-|-|
+|awa|NONE|awa!|USER|
+
+[01:54:56]
+[8mT5YX] MaggiePC2
+:!help ban
+
+[01:55:05]
+[AAfFKK] AfK_Bot
+|COMMAND|ARGUMENTS|USAGE|CATEGORY|
+|-|-|-|-|
+|ban|HASH [-t TIME(seconds)]|Ban target hash (for given time).|OPERATOR|
+
+[01:55:06]
+[8mT5YX] MaggiePC2
+ok bye guys
+
+[01:55:11]
+[None] he11
+bye
+
+[01:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 02:00:00
+![](https://i.gyazo.com/b6ce96f063401664858ebdf1de26ab1b.jpg)
+
+[02:01:42]
+[None] siri
+Hi
+
+[02:02:48]
+[None] he11
+Hi siri
+
+[02:44:59]
+[e5ULkQ] Shanu
+Hey
+
+[02:47:44]
+[None] morboo
+someone have?
+
+[02:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 03:00:00
+![](https://i.gyazo.com/156612529c2159ab8a405c247958824a.jpg)
+
+[02:59:56]
+[None] he11
+I wish the developer wasnt so lazy. . .
+
+[03:15:00]
+[None] f
+fd
+
+[03:15:02]
+[None] f
+as
+
+[03:15:03]
+[None] f
+as
+
+[03:15:04]
+[None] f
+f
+
+[03:15:05]
+[None] f
+f
+
+[03:15:05]
+[None] f
+f
+
+[03:15:05]
+[AAfFKK] AfK_Bot
+ @f AKKKKK!!!!!
+
+[03:15:05]
+[None] f
+fAAAAAA
+
+[03:15:12]
+[None] he11
+whats up
+
+[03:40:57]
+[None] siri
+Enjoy pandagoww. 
+
+[03:59:55]
+[AAfFKK] AfK_Bot
+2022-09-10 04:00:00
+![](https://i.gyazo.com/3b1f20fe38f4297b07f5fc13fcc6b5cc.jpg)
+
+[04:47:49]
+[None] 114514
+Good Morning
+
+[04:53:11]
+[None] vuki
+Szia
+
+[04:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 05:00:00
+![](https://i.gyazo.com/c38c9f205044d84203362d98fbbe3112.jpg)
+
+[05:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 06:00:00
+![](https://i.gyazo.com/a692917ed8d8a6298825f7520247c6f9.jpg)
+
+[06:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 07:00:00
+![](https://i.gyazo.com/cfde856f48a6d8b69858db1fd9922199.jpg)
+
+[07:12:09]
+[AAfFKK] _
+ganky
+
+[07:40:16]
+[AAfFKK] AfK_Bot
+ @_ Welcome back.
+
+[07:40:17]
+[NqByTq] light
+hi
+
+[07:42:57]
+[AAfFKK] _
+lol
+
+[07:44:03]
+[AAfFKK] _
+awa
+
+[07:44:04]
+[AAfFKK] _
+grrrrrrr
+
+[07:48:03]
+[8mT5YX] Maggie
+我做了个私人图床
+
+[07:48:18]
+[8mT5YX] Maggie
+awa
+
+[07:48:20]
+[8mT5YX] Maggie
+![Screenshot_20220904_121804.jpg](https://img.thz.cool/images/2022/09/10/Screenshot_20220904_121804.jpg)
+
+[07:50:13]
+[8mT5YX] Maggie
+这是效果
+
+[07:50:18]
+[8mT5YX] Maggie
+这是测试图片
+
+[07:50:27]
+[8mT5YX] Maggie
+*真的
+
+[07:50:30]
+[NqByTq] light
+hhh
+
+[07:52:38]
+[AAfFKK] _
+lol
+
+[07:53:01]
+[8mT5YX] Maggie
+go to try
+
+[07:53:10]
+[8mT5YX] Maggie
+img.thz.cool
+
+[07:53:16]
+[8mT5YX] Maggie
+idk how to change site's language
+
+[07:54:23]
+[NqByTq] light
+aw
+
+[07:54:33]
+[8mT5YX] Maggie
+;_;
+
+[07:54:35]
+[8mT5YX] Maggie
+but good msg
+
+[07:54:47]
+[8mT5YX] Maggie
+tc back
+
+[07:54:54]
+[8mT5YX] Maggie
+last night
+
+[07:55:03]
+[Zvoxsl] ji11sleeping
+生平第一次在手机上上去了maggie的网站
+
+[07:57:29]
+[Zvoxsl] ji11
+.
+
+[07:58:09]
+[8mT5YX] Maggie
+![Screenshot_20220904_121804.jpg](https://img.thz.cool/images/2022/09/10/Screenshot_20220904_121804.jpg)
+
+[07:58:13]
+[8mT5YX] Maggie
+额发错了
+
+[07:58:17]
+[8mT5YX] Maggie
+怎么又是这个
+
+[07:58:23]
+[AAfFKK] _
+gorky
+
+[07:58:34]
+[8mT5YX] Maggie
+![Screenshot_20220910_075640.jpg](https://img.thz.cool/images/2022/09/10/Screenshot_20220910_075640.jpg)
+
+[07:58:46]
+[8mT5YX] Maggie
+>Zvoxsl ji11sleeping：
+>生平第一次在手机上上去了maggie的网站
+
+@ji11sleeping 这多亏了cloudflare
+
+[07:59:41]
+[8mT5YX] Maggie
+昨晚汉化tc搞到一点
+
+[07:59:44]
+[Zvoxsl] jill
+√
+
+[07:59:45]
+[8mT5YX] Maggie
+我已经要瞎了
+
+[07:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 08:00:00
+![](https://i.gyazo.com/60a212de6764c31ceed1dc9f0fb5cbf6.jpg)
+
+[08:00:06]
+[8mT5YX] Maggieaaa
+guruu
+
+[08:00:13]
+[8mT5YX] Maggieaaa
+卧槽...
+
+[08:00:23]
+[8mT5YX] Maggieaaa
+我的电脑
+
+[08:00:27]
+[8mT5YX] Maggieaaa
+还在线
+
+[08:00:31]
+[8mT5YX] Maggieaaa
+太神奇了
+
+[08:00:41]
+[8mT5YX] Maggieaaa
+之前我合盖就会掉线
+
+[08:00:52]
+[Zvoxsl] jill
++1
+
+[08:01:12]
+[Zvoxsl] jill
+我之前放0音量音乐后再合盖就不会掉线了
+
+[08:01:40]
+[Zvoxsl] jill
+（
+
+[08:01:43]
+[8mT5YX] Maggieaaa
+1⃣1⃣4⃣5⃣1⃣4⃣
+
+[08:01:48]
+[8mT5YX] Maggieaaa
+来tc玩儿!
+
+[08:02:09]
+[8mT5YX] Maggieaaa
+awa
+
+[08:10:26]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+[08:10:26]
+[AAfFKK] __
+?
+
+[08:21:20]
+[AAfFKK] __
+hm
+
+[08:21:37]
+[AAfFKK] __
+double kick
+
+[08:21:40]
+[AAfFKK] __
+int
+
+[08:24:01]
+[Chumon] zzChumoProPlusMaxUltra
+e
+
+[08:24:05]
+[Chumon] zzChumoProPlusMaxUltra
+dddeme
+
+[08:24:06]
+[Chumon] zzChumoProPlusMaxUltra
+d
+
+[08:24:06]
+[Chumon] zzChumoProPlusMaxUltra
+rdd
+
+[08:24:07]
+[Chumon] zzChumoProPlusMaxUltra
+dxmd
+
+[08:24:08]
+[Chumon] zzChumoProPlusMaxUltra
+xmd
+
+[08:24:08]
+[AAfFKK] AfK_Bot
+ @zzChumoProPlusMaxUltra AKKKKK!!!!!
+
+[08:24:09]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[08:24:18]
+[Chumon] zzChumoProPlusMaxUltra
+awa!!!
+
+[08:24:25]
+[AAfFKK] __
+?
+
+[08:24:28]
+[Myh1TA] 4n0n4me
+awa!!!
+
+[08:24:29]
+[AAfFKK] __
+ovo
+
+[08:24:29]
+[AAfFKK] __
+awaaaaaaa!!!
+
+[08:24:57]
+[Chumon] zzChumoProPlusMaxUltra
+AwAAAAAAAAAA!!!
+
+[08:24:58]
+[AAfFKK] __
+;
+
+[08:25:04]
+[Chumon] zzChumoProPlusMaxUltra
+awa?AwA！
+
+[08:25:16]
+[AAfFKK] __
+owo
+
+[08:25:28]
+[Chumon] zzChumoProPlusMaxUltra
+Geascript从今天开始开发
+
+[08:25:47]
+[8mT5YX] MaggiePC2
+awa
+
+[08:26:03]
+[Chumon] zzChumoProPlusMaxUltra
+awa!!!
+
+[08:26:10]
+[8mT5YX] MaggiePC2
+⚡double kick⚡
+
+[08:26:17]
+[8mT5YX] MaggiePC2
+> ⚡TC BACK⚡
+
+[08:26:26]
+[8mT5YX] MaggiePC2
+⚡dancing⚡ ⚡dancing⚡ ⚡dancing⚡ ⚡dancing⚡ ⚡dancing⚡ 
+
+[08:26:47]
+[Myh1TA] 4n0n4me
+woooooooooooooohhhhhhhhhhhh
+
+[08:27:06]
+[Chumon] zzChumoProPlusMaxUltra
+⚡谢⚡谢⚡电⚡满⚡了⚡
+
+[08:27:26]
+[8mT5YX] MaggiePC2
+⚡快⚡来⚡T⚡C⚡Van⚡U⚡See⚡
+
+[08:32:39]
+[Chumon] zzChumoProPlusMaxUltra
+Geascript会添加一些python里面的东西，比如sleep和print
+
+[08:36:27]
+[Myh1TA] 4n0n4me
+山⚡河⚡无⚡恙
+
+[08:36:31]
+[Myh1TA] 4n0n4me
+wow
+
+[08:36:47]
+[Myh1TA] 4n0n4me
+好啊，很好啊
+
+[08:36:52]
+[8mT5YX] MaggiePC2
+Giaoscript
+
+[08:36:55]
+[8mT5YX] MaggiePC2
+(
+
+[08:36:56]
+[Chumon] zzChumoProPlusMaxUltra
+Geascript=GS+easy+script
+
+[08:37:33]
+[8mT5YX] MaggiePC2
+awa
+
+[08:37:53]
+[Myh1TA] 4n0n4me
+wow
+
+[08:38:15]
+[Chumon] zzChumoProPlusMaxUltra
+Geascript是一个前端脚本库，可以用于简化JavaScript的编写
+
+[08:39:58]
+[8mT5YX] MaggiePC2
+cool!
+
+[08:40:26]
+[Chumon] zzChumoProPlusMaxUltra
+比如动态引用js文件可以由document.createElement简化为import
+
+[08:40:47]
+[Chumon] zzChumoProPlusMaxUltra
+setTimeOut被简化为sleep并扩大使用范围
+
+[08:41:20]
+[Myh1TA] 4n0n4me
+wowow
+
+[08:41:24]
+[Myh1TA] 4n0n4me
+ ~~所以如何做一个这样的项目呢~~
+
+[08:41:47]
+[Chumon] zzChumoProPlusMaxUltra
+print用于同时在控制台和页面中打印内容
+
+[08:41:53]
+[Chumon] zzChumoProPlusMaxUltra
+@4n0n4me function和var
+
+[08:42:01]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[08:42:03]
+[Myh1TA] 4n0n4me
+网页文件里是不是会有<geascript>标签
+
+[08:42:17]
+[Chumon] zzChumoProPlusMaxUltra
+不会的
+
+[08:42:28]
+[Myh1TA] 4n0n4me
+那如何改变这些标签的解析方式呢
+
+[08:42:28]
+[Myh1TA] 4n0n4me
+awa
+
+[08:42:31]
+[Myh1TA] 4n0n4me
+:o
+
+[08:42:41]
+[Chumon] zzChumoProPlusMaxUltra
+script标签里直接使用Geascript语法
+
+[08:43:08]
+[Chumon] zzChumoProPlusMaxUltra
+但是需要先通过script标签引入geascript.js
+
+[08:43:33]
+[Myh1TA] 4n0n4me
+oo
+
+[08:43:38]
+[Chumon] zzChumoProPlusMaxUltra
+就和jQuery差不多
+
+[08:43:48]
+[Chumon] zzChumoProPlusMaxUltra
+使用醇哥无异于自杀
+
+[08:47:23]
+[Chumon] zzChumoProPlusMaxUltra
+Awaland的神可食用，且味道鲜美，唯一的缺点是容易遭到天谴
+
+[08:48:20]
+[Myh1TA] 4n0n4me
+awa?
+
+[08:48:27]
+[AAfFKK] __
+?
+
+[08:48:42]
+[AAfFKK] __
+ovo
+
+[08:48:53]
+[8mT5YX] MaggiePC2
+hhh
+
+[08:49:08]
+[Chumon] zzChumoProPlusMaxUltra
+所以我们开展了「Project 伪神」
+
+[08:49:33]
+[8mT5YX] MaggiePC2
+hhh
+
+[08:49:36]
+[Chumon] zzChumoProPlusMaxUltra
+通过养殖场批量生产Awaland之神
+
+[08:49:57]
+[8mT5YX] MaggiePC2
+6
+
+[08:50:03]
+[Chumon] zzChumoProPlusMaxUltra
+但是因为Awaland只认一个神
+
+[08:50:18]
+[8mT5YX] MaggiePC2
+where's eee
+
+[08:50:26]
+[Chumon] zzChumoProPlusMaxUltra
+所以那些批量生产的神是能放心食用的
+
+[08:51:40]
+[Myh1TA] 4n0n4me
+阿瓦王朝（Ava Dynasty；1364～1555），是掸族先民在伊洛瓦底江中下游地区建立的古代王朝，由夺取蒲甘王朝政权的“掸族三兄弟”后裔德多明帕耶于1364年在阿瓦城（今缅甸德达乌县境内）建立，1527年被同为掸族的麓川王室代替，1555年被缅族的东吁王朝所灭。
+阿瓦的北面是缅甸著名的伊洛瓦底江，东面是伊洛瓦底的支流米坦格河，南面和西面是连接上述两条河的运河。它的整个城市布局不同于缅甸的其他四方形的都城，而像一只蹲坐的狮子。
+
+[08:52:19]
+[8mT5YX] MaggiePC2
+j~ntm
+
+[08:52:32]
+[AAfFKK] __
+that's ava lol
+
+[08:54:48]
+[AAfFKK] __
+QAQ
+
+[08:55:33]
+[AAfFKK] __
+lol
+
+[08:55:41]
+[8mT5YX] MaggiePC2
+手贱
+
+[08:55:45]
+[AAfFKK] __
+;
+
+[08:55:45]
+[8mT5YX] MaggiePC2
+https://github.com/DataeverythingTeam/ChatroomHistoryBook/tree/main
+
+[08:56:00]
+[8mT5YX] MaggiePC2
+updated!!!!!!!!!!!!!!!!!!1
+
+[08:57:51]
+[Chumon] zzChumoProPlusMaxUltra
+SCP-CN-[编号未定] 阿瓦之神
+
+[08:58:11]
+[8mT5YX] MaggiePC2
+hhh
+
+[08:58:18]
+[8mT5YX] MaggiePC2
+一个东西
+
+[08:58:44]
+[8mT5YX] MaggiePC2
+火是好事
+
+[08:58:53]
+[8mT5YX] MaggiePC2
+就像SCP和Backrooms
+
+[08:58:59]
+[8mT5YX] MaggiePC2
+但是别在抖音火...
+
+[08:59:07]
+[8mT5YX] MaggiePC2
+不然小鬼飙升
+
+[08:59:18]
+[8mT5YX] MaggiePC2
+小鬼数量
+
+[08:59:55]
+[AAfFKK] AfK_Bot
+2022-09-10 09:00:00
+![](https://i.gyazo.com/6491c08fb93d274a094158c31a35c6f9.jpg)
+
+[08:59:56]
+[Chumon] zzChumoProPlusMaxUltra
+特殊收容措施：[编号未定]无法被收容，每月需要至少一（1）名研究员和三（3）名D级人员进行定期朝拜，并将其中一（1）名D级人员用于献祭。
+
+[09:00:41]
+[AAfFKK] __
+owo
+
+[09:01:49]
+[8mT5YX] MaggiePC2
+:!afk pooping
+
+[09:02:22]
+[AAfFKK] AfK_Bot
+ @MaggiePC2 You are marked AfK.
+
+[09:02:43]
+[Chumon] zzChumoProPlusMaxUltra
+？
+
+[09:04:45]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[09:04:49]
+[None] freddeytifanney
+Chaturbate.com
+
+[09:06:07]
+[Chumon] zzChumoProPlusMaxUltra
+~kick @freddeytifanney 
+
+[09:06:19]
+[8mT5YX] MaggiePC2
+h
+
+[09:12:49]
+[AAfFKK] AfK_Bot
+ @MaggiePC2 Welcome back.
+
+[09:12:49]
+[Myh1TA] 4n0n4me
+awa
+
+[09:16:32]
+[8mT5YX] MaggiePC2
+我将要轰炸tc
+
+[09:16:49]
+[8mT5YX] MaggiePC2
+测试cf的防护怎么样
+
+[09:16:55]
+[8mT5YX] MaggiePC2
+TC表示：Maggie cnmd
+
+[09:17:21]
+[Myh1TA] 4n0n4me
+-
+
+[09:23:03]
+[NqByTq] light
+写作业！
+
+[09:24:21]
+[Myh1TA] 4n0n4me
+awa!
+
+[09:32:01]
+[Myh1TA] 4n0n4me
+我xnwy的，
+
+[09:33:17]
+[8mT5YX] MaggiePC2
+？
+
+[09:33:34]
+[8mT5YX] MaggiePC2
+xmwy?
+
+[09:33:37]
+[Myh1TA] 4n0n4me
+昨天好些同学潜入xnwy聚会
+
+[09:33:40]
+[AAfFKK] __
+lol
+
+[09:33:48]
+[Myh1TA] 4n0n4me
+他们表示离开xnwy以后，和同学们一日不见如隔三秋
+
+[09:34:01]
+[8mT5YX] MaggiePC2
+h
+
+[09:34:03]
+[Myh1TA] 4n0n4me
+最早29个人聚集
+
+[09:34:13]
+[Myh1TA] 4n0n4me
+但是可能是人太多了
+
+[09:34:19]
+[Myh1TA] 4n0n4me
+潜入失败
+
+[09:34:23]
+[Myh1TA] 4n0n4me
+他们在内部还有两个内应，也没有成功
+
+[09:34:32]
+[Myh1TA] 4n0n4me
+后来有的人放弃了
+
+[09:34:36]
+[Myh1TA] 4n0n4me
+最终在老师都下课以后他们成功进入
+
+[09:38:29]
+[eYFDHl] eee
+芜湖
+
+[09:39:10]
+[8mT5YX] MaggiePC2
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+[09:39:13]
+[8mT5YX] MaggiePC2
+i made a imgbed
+
+[09:39:22]
+[eYFDHl] eee
+hihihihhhihihihihihihihihihihihihihihihihihihihihihuuu
+
+[09:39:37]
+[8mT5YX] MaggiePC2
+i made a tuchuang
+
+[09:39:39]
+[eYFDHl] eee
+let me see see
+
+[09:39:41]
+[8mT5YX] MaggiePC2
+okk
+
+[09:39:49]
+[8mT5YX] MaggiePC2
+img.thz.cool
+
+[09:40:08]
+[eYFDHl] eee
+wuhu
+
+[09:40:10]
+[eYFDHl] eee
+Maggie的图床
+请勿上传违法信息 违者移交网信办（
+
+[09:40:24]
+[8mT5YX] MaggiePC2
+hhh
+
+[09:41:06]
+[eYFDHl] eee
+https://img.thz.cool/images/2022/09/10/eebot-.md.jpg
+
+[09:42:02]
+[eYFDHl] eee
+wuhuuu
+
+[09:42:09]
+[eYFDHl] eee
+nice
+
+[09:42:23]
+[8mT5YX] MaggiePC2
+www
+
+[09:42:33]
+[eYFDHl] eee
+@MaggiePC2 有大小限制吗
+
+[09:42:34]
+[8mT5YX] MaggiePC2
+注册后会宽一点
+
+[09:42:43]
+[eYFDHl] eee
+uw
+
+[09:43:09]
+[eYFDHl] eee
+这张eb图片不要删
+
+[09:44:06]
+[8mT5YX] MaggiePC2
+i know
+
+[09:46:19]
+[8mT5YX] MaggiePC2
+不会删除
+
+[09:46:24]
+[8mT5YX] MaggiePC2
+除非你自己删
+
+[09:46:29]
+[8mT5YX] MaggiePC2
+uwuwuuwuwuwuwuwuuwuwuwuwuuwuwuwuwuwuuwuwuwuwuuwuwuwuwuwuuwuwuwuwuuwuwuwuwuwuuwuwuwuwuuwuwuwuwuwuuwuw
+
+[09:47:34]
+[8mT5YX] MaggiePC2
+我又改了一下主页
+
+[09:47:41]
+[eYFDHl] eee
+好耶！！！！
+
+[09:47:46]
+[8mT5YX] MaggiePC2
+我打算弄个嵌入的TChat
+
+[09:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 10:00:00
+![](https://i.gyazo.com/80e924e2a043fea8cd469a7955231695.jpg)
+
+[09:59:56]
+[AAfFKK] __
+lol
+
+[10:05:21]
+[0/JM7u] huolongguo1O
+$\begin{array}{c}
+作线段BC中点D，AC中的E，AB的中点F，连接AD，DE交于点G，做射线CG交于F'。\\
+显然，\frac{BD}{AC} =\frac{\triangle AGB}{\triangle AGC} \\
+类似的，得到：\\
+\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF'}{F'B}=\frac{\triangle AGB}{\triangle AGC} \cdot \frac{\triangle BGC}{\triangle AGB} \cdot \frac{\triangle AGC}{\triangle BGC}=1 (约分)
+\\
+我们有\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF}{FB}=1 \cdot 1 \cdot 1=\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF'}{F'B}\\
+则\frac{AF}{FB}=\frac{AF'}{F'B}\\
+即F'与F重合\\
+\therefore F'为AB的中点\\
+\therefore 三角形的三条中线交于一点
+
+\end{array}
+$
+
+[10:05:41]
+[0/JM7u] huolongguo1O
+$$\begin{array}{c}
+作线段BC中点D，AC中的E，AB的中点F，连接AD，DE交于点G，做射线CG交于F'。\\
+显然，\frac{BD}{AC} =\frac{\triangle AGB}{\triangle AGC} \\
+类似的，得到：\\
+\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF'}{F'B}=\frac{\triangle AGB}{\triangle AGC} \cdot \frac{\triangle BGC}{\triangle AGB} \cdot \frac{\triangle AGC}{\triangle BGC}=1 (约分)
+\\
+我们有\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF}{FB}=1 \cdot 1 \cdot 1=\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF'}{F'B}\\
+则\frac{AF}{FB}=\frac{AF'}{F'B}\\
+即F'与F重合\\
+\therefore F'为AB的中点\\
+\therefore 三角形的三条中线交于一点
+
+\end{array}
+$$
+
+[10:05:49]
+[0/JM7u] huolongguo1O
+$$$\begin{array}{c}
+作线段BC中点D，AC中的E，AB的中点F，连接AD，DE交于点G，做射线CG交于F'。\\
+显然，\frac{BD}{AC} =\frac{\triangle AGB}{\triangle AGC} \\
+类似的，得到：\\
+\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF'}{F'B}=\frac{\triangle AGB}{\triangle AGC} \cdot \frac{\triangle BGC}{\triangle AGB} \cdot \frac{\triangle AGC}{\triangle BGC}=1 (约分)
+\\
+我们有\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF}{FB}=1 \cdot 1 \cdot 1=\frac{BD}{AC} \cdot \frac{CE}{EA} \cdot \frac{AF'}{F'B}\\
+则\frac{AF}{FB}=\frac{AF'}{F'B}\\
+即F'与F重合\\
+\therefore F'为AB的中点\\
+\therefore 三角形的三条中线交于一点
+
+\end{array}
+$$$
+
+[10:05:56]
+[0/JM7u] huolongguo1O
+???
+
+[10:06:01]
+[0/JM7u] huolongguo1O
+.
+
+[10:06:08]
+[eYFDHl] eee
+？
+
+[10:10:15]
+[eYFDHl] eee
+hihi
+
+[10:10:18]
+[8mT5YX] MaggiePC2
+afk
+
+[10:25:32]
+[8mT5YX] MaggiePC2
+https://thz.cool/iframe_tc.html?room=lounge&name=Custom%20name
+
+[10:25:55]
+[8mT5YX] MaggiePC2
+wow
+
+[10:25:58]
+[8mT5YX] MaggiePC2
+i did it
+
+[10:26:01]
+[8mT5YX] MaggiePC2
+可以嵌入到个人网站
+
+[10:26:17]
+[8mT5YX] MaggiePC2
+做聊天去
+
+[10:26:20]
+[8mT5YX] MaggiePC2
+区
+
+[10:26:22]
+[8mT5YX] MaggiePC2
+Total Requests
+Previous 24 hours
+14.75k
+Cached Requests
+Previous 24 hours
+1.54k
+Uncached Requests
+Previous 24 hours
+13.21k
+
+[10:27:17]
+[8mT5YX] MaggiePC2
+...
+
+[10:27:19]
+[8mT5YX] MaggiePC2
+开under attack模式了...
+
+[10:40:13]
+[8mT5YX] MaggieJNTM
+uwu
+
+[10:40:33]
+[8mT5YX] MaggieJNTM
+why it saysYou are sending too much text. Wait a moment and try again.
+Press the up arrow key to restore your last message.
+
+[10:40:48]
+[Zvoxsl] jill
+校园网502了( ﾟ∀。)
+
+[10:41:04]
+[8mT5YX] MaggieJNTM
+lmao
+
+[10:41:09]
+[8mT5YX] MaggieJNTM
+BAD GATEWAY
+
+[10:41:17]
+[8mT5YX] MaggieJNTM
+网关坏坏
+
+[10:41:24]
+[Zvoxsl] jill
+今天10点选课
+
+[10:41:59]
+[Zvoxsl] jill
+在线将近700人
+
+[10:42:04]
+[Zvoxsl] jill
+太卡了差点没选上
+
+[10:42:19]
+[8mT5YX] MaggieJNTM
+这波相当于ddos
+
+[10:42:20]
+[8mT5YX] MaggieJNTM
+()
+
+[10:42:23]
+[Zvoxsl] jill
+每次选课校园网都要炸
+
+[10:42:54]
+[Zvoxsl] jill
+羽毛球秒抢完
+
+[10:43:34]
+[Zvoxsl] jill
+幸好我选武术（
+
+[10:43:42]
+[8mT5YX] MaggieJNTM
+()
+
+[10:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 11:00:00
+![](https://i.gyazo.com/2cf6e7a6191ee49dc084b26321d92fa8.jpg)
+
+[11:07:34]
+[None] Snlmbe
+?games
+
+[11:07:59]
+[None] Snlmbe
+?games
+
+[11:09:21]
+[NqByTq] light
+？
+
+[11:21:18]
+[a/Jz/a] LightAFK
+:
+
+[11:22:37]
+[AAfFKK] __
+;
+
+[11:22:47]
+[a/Jz/a] LightAFK
+https://github.com/vinayak-mehta
+
+[11:22:52]
+[a/Jz/a] LightAFK
+看到这个我陷入了沉思
+
+[11:23:00]
+[a/Jz/a] LightAFK
+在终端里搞markdown（虽然已经有很多人做了这个工作了）
+
+[11:23:28]
+[eYFDHl] eee
+wowoc
+
+[11:25:31]
+[a/Jz/a] LightAFK
+https://github.com/vinayak-mehta/present
+
+[11:25:46]
+[a/Jz/a] LightAFK
+这个
+
+[11:25:51]
+[a/Jz/a] LightAFK
+还有这个人的贡献数量不太像是人类
+
+[11:26:12]
+[a/Jz/a] LightAFK
+快5000次
+
+[11:29:20]
+[8mT5YX] Maggieaaa
+我等会给同学发个链接
+
+[11:29:27]
+[AAfFKK] __
+aaa
+
+[11:29:29]
+[8mT5YX] Maggieaaa
+https://hack.chat/?your-channel#(我同学的名字)
+
+[11:30:04]
+[None] MaggieTest
+goog
+
+[11:30:07]
+[AAfFKK] __
+ind
+
+[11:30:12]
+[Chumon] zzChumoProPlusMaxUltra
+Google
+
+[11:30:14]
+[8mT5YX] Maggieaaa
+hhh
+
+[11:30:56]
+[8mT5YX] Maggieaaa
+额
+
+[11:31:04]
+[8mT5YX] Maggieaaa
+刚刚那个是我在测试
+
+[11:31:10]
+[Chumon] zzChumoProPlusMaxUltra
+我发现前端好像也能写api诶
+
+[11:31:17]
+[8mT5YX] Maggieaaa
+js?
+
+[11:31:22]
+[Chumon] zzChumoProPlusMaxUltra
+比如随机数api
+
+[11:31:36]
+[8mT5YX] Maggieaaa
+嗨
+
+[11:31:43]
+[Chumon] zzChumoProPlusMaxUltra
+搭配Geascript的print
+
+[11:31:49]
+[Chumon] zzChumoProPlusMaxUltra
+hu
+
+[11:31:58]
+[8mT5YX] Maggieaaa
+...
+
+[11:32:05]
+[8mT5YX] Maggieaaa
+🤗
+
+[11:32:11]
+[AAfFKK] __
+?
+
+[11:32:28]
+[8mT5YX] Maggieaaa
+同学光速逃逸
+
+[11:33:09]
+[AAfFKK] __
+:!lookup nick HuPinShang -a
+
+[11:33:11]
+[AAfFKK] AfK_Bot
+==Hash==: ['i1Y5jJK/4zBXpV9', 'dIJGGulnJWOPZ3l']
+==Aliases==: ['{', 'HuPinShang', '}', '{', 'HuPinShang', 'MaggieTest', 'Maggieaaa', '}']
+==Trips==: ['{', '', '}', '{', '', '', '8mT5YX', '}']
+
+[11:33:11]
+[AAfFKK] __
+:P
+
+[11:33:31]
+[AAfFKK] __
+yo
+
+[11:33:36]
+[AAfFKK] __
+rare guest
+
+[11:33:39]
+[8mT5YX] Maggieaaa
+ayo
+
+[11:33:44]
+[AAfFKK] __
+dove
+
+[11:33:46]
+[8mT5YX] Maggieaaa
+OldHome
+
+[11:33:54]
+[8mT5YX] Maggieaaa
+lmao
+
+[11:33:55]
+[AAfFKK] __
+lolllll
+
+[11:33:58]
+[None] ciiiiiiiiiiiiidove
+@__ hey
+
+[11:34:00]
+[AAfFKK] __
+@ciiiiiiiiiiiiidove awa
+
+[11:34:03]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[11:34:08]
+[8mT5YX] Maggieaaa
+啊哇
+
+[11:34:14]
+[AAfFKK] __
+阿瓦
+
+[11:34:24]
+[Chumon] zzChumoProPlusMaxUltra
+あわ
+
+[11:34:24]
+[None] ciiiiiiiiiiiiidove
+@__ 我是misaka
+
+[11:34:30]
+[None] ciiiiiiiiiiiiidove
+sakaaaa
+
+[11:34:33]
+[Chumon] zzChumoProPlusMaxUltra
+@ciiiiiiiiiiiiidove 久不见
+
+[11:34:45]
+[None] ciiiiiiiiiiiiidove
+我在@ciiiiiiiiiiiiidove 家
+
+[11:34:52]
+[AAfFKK] __
+あわ
+Awa
+
+[11:35:05]
+[AAfFKK] __
+lol
+
+[11:35:06]
+[NqByTq] light
+https://files.catbox.moe/9wluqn.png
+
+[11:35:07]
+[NqByTq] light
+看
+
+[11:35:10]
+[None] ciiiiiiiiiiiiidove
+lol
+
+[11:35:11]
+[None] ciiiiiiiiiiiiidove
+lol
+
+[11:35:15]
+[None] ciiiiiiiiiiiiidove
+sakanb
+
+[11:35:18]
+[AAfFKK] __
+ovo
+
+[11:35:20]
+[AAfFKK] __
+ind
+
+[11:35:21]
+[None] ciiiiiiiiiiiiidove
+XD
+
+[11:35:25]
+[AAfFKK] __
+呱
+
+[11:35:41]
+[Chumon] zzChumoProPlusMaxUltra
+hi
+
+[11:35:52]
+[Chumon] zzChumoProPlusMaxUltra
+欢迎
+
+[11:35:54]
+[8mT5YX] Maggieaaa
+欢迎
+
+[11:36:00]
+[8mT5YX] Maggieaaa
+胡xx
+
+[11:36:05]
+[NqByTq] light
+胡品尚你好
+
+[11:36:13]
+[8mT5YX] Maggieaaa
+hhh
+
+[11:36:18]
+[8mT5YX] Maggieaaa
+你怎么知道的
+
+[11:36:27]
+[8mT5YX] Maggieaaa
+论坛看的吗
+
+[11:36:31]
+[8mT5YX] Maggieaaa
+@light 
+
+[11:36:33]
+[NqByTq] light
+pin除了这个感觉全是生僻字
+
+[11:37:07]
+[8mT5YX] Maggieaaa
+哈哈哈
+
+[11:37:16]
+[8mT5YX] Maggieaaa
+@胡xx
+
+[11:37:32]
+[8mT5YX] Maggieaaa
+说话啊你
+
+[11:37:35]
+[8mT5YX] Maggieaaa
+这孩子傻了...
+
+[11:37:51]
+[NqByTq] light
+他受到了惊吓
+
+[11:38:00]
+[8mT5YX] Maggieaaa
+哈哈哈
+
+[11:38:01]
+[AAfFKK] __
+;
+
+[11:38:10]
+[NqByTq] light
+他退出了群聊
+
+[11:38:19]
+[8mT5YX] Maggieaaa
+lmao
+
+[11:39:41]
+[8mT5YX] Maggieaaa
+![Screenshot_20220910_114023.jpg](https://img.thz.cool/images/2022/09/10/Screenshot_20220910_114023.jpg)
+
+[11:40:55]
+[Chumon] zzChumoProPlusMaxUltra
+你叫thz
+
+[11:41:41]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[11:41:43]
+[AAfFKK] __
+i d
+
+[11:41:46]
+[AAfFKK] __
+awa
+
+[11:41:47]
+[NqByTq] light
+tanhanze
+
+[11:42:06]
+[8mT5YX] Maggieaaa
+hhh
+
+[11:42:08]
+[NqByTq] light
+我老早以前听说了这个
+
+[11:42:20]
+[NqByTq] light
+因为我记得你好像做了
+
+[11:42:33]
+[NqByTq] light
+图书管理
+
+[11:42:37]
+[NqByTq] light
+好像还有个加密
+
+[11:42:44]
+[8mT5YX] Maggieaaa
+啊???
+
+[11:43:19]
+[8mT5YX] Maggieaaa
+什么图书管理...
+
+[11:43:33]
+[NqByTq] light
+？
+
+[11:43:35]
+[NqByTq] light
+你之前没有做过？
+
+[11:43:47]
+[8mT5YX] Maggieaaa
+我不记得了
+
+[11:43:53]
+[8mT5YX] Maggieaaa
+我做的项目亿堆
+
+[11:44:03]
+[Chumon] zzChumoProPlusMaxUltra
+thz很cool
+
+[11:44:08]
+[NqByTq] light
+那个时候我有主页
+
+[11:44:14]
+[NqByTq] light
+我还加了友链
+
+[11:44:23]
+[8mT5YX] Maggieaaa
+额额额
+
+[11:44:29]
+[8mT5YX] Maggieaaa
+那个友链
+
+[11:44:41]
+[8mT5YX] Maggieaaa
+地址还记得吗
+
+[11:44:44]
+[NqByTq] light
+¯\\\_(ツ)\_/¯
+
+[11:44:48]
+[NqByTq] light
+那个github账户都被我注销了
+
+[11:44:58]
+[8mT5YX] Maggieaaa
+啊.
+
+[11:45:03]
+[8mT5YX] Maggieaaa
+...
+
+[11:45:04]
+[NqByTq] light
+ee可能有
+
+[11:45:13]
+[NqByTq] light
+ee好像也加了
+
+[11:45:21]
+[8mT5YX] Maggieaaa
+我的github和gitee之前都叫tanhanze
+
+[11:45:29]
+[8mT5YX] Maggieaaa
+gitee现在也叫
+
+[11:45:43]
+[Chumon] zzChumoProPlusMaxUltra
+刘烨
+
+[11:46:09]
+[8mT5YX] Maggieaaa
+h
+
+[11:46:15]
+[Chumon] zzChumoProPlusMaxUltra
+犯罪嫌疑人 刘某某某轩
+
+[11:46:43]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[11:47:08]
+[8mT5YX] Maggieaaa
+lmao
+
+[11:47:30]
+[Chumon] zzChumoProPlusMaxUltra
+我爸妈是真的屌
+
+[11:47:51]
+[Chumon] zzChumoProPlusMaxUltra
+完美解决随父姓还是随母姓的问题
+
+[11:48:15]
+[Chumon] zzChumoProPlusMaxUltra
+还解决了双方起名冲突问题
+
+[11:48:28]
+[NqByTq] light
+lol
+
+[11:48:35]
+[8mT5YX] Maggieaaa
+hhh
+
+[11:48:41]
+[Chumon] zzChumoProPlusMaxUltra
+直接俩名凑一起
+
+[11:49:20]
+[Chumon] zzChumoProPlusMaxUltra
+幼儿园其他小朋友都会写名字了
+
+[11:49:33]
+[Chumon] zzChumoProPlusMaxUltra
+只有我还要老师帮忙写
+
+[11:49:41]
+[NqByTq] light
+ahhh
+
+[11:49:57]
+[Chumon] zzChumoProPlusMaxUltra
+~~不过这名字我还是挺满意的~~
+
+[11:50:00]
+[QCkYle] ModBot
+Dunno that command, try typing with your other cheeck.
+
+[11:50:01]
+[8mT5YX] Maggieaaa
+lmao
+
+[11:50:05]
+[8mT5YX] Maggieaaa
+我的名称
+
+[11:50:26]
+[8mT5YX] Maggieaaa
+有点复杂
+
+[11:50:31]
+[eYFDHl] eee
+哈哈哈哈哈哈哈哈
+
+[11:50:39]
+[8mT5YX] Maggieaaa
+我会写全班同学的名字
+
+[11:50:41]
+[eYFDHl] eee
+~~这么长的名字不是很cool~~
+
+[11:50:50]
+[QCkYle] ModBot
+Dunno that command, try typing with your other cheeck.
+
+[11:50:50]
+[8mT5YX] Maggieaaa
+全班同学几乎都不会写我的名字
+
+[11:50:53]
+[NqByTq] light
+我爷爷花钱让一个糟老头子给我起了这sb名字
+
+[11:50:53]
+[eYFDHl] eee
+好家伙
+
+[11:51:07]
+[eYFDHl] eee
+我名字特别简单（）
+
+[11:51:12]
+[Chumon] zzChumoProPlusMaxUltra
+陈纸片
+
+[11:51:23]
+[8mT5YX] Maggieaaa
+h
+
+[11:51:31]
+[NqByTq] light
+陈近
+
+[11:51:32]
+[Chumon] zzChumoProPlusMaxUltra
+犯罪嫌疑人 陈某片
+
+[11:51:33]
+[eYFDHl] eee
+草
+
+[11:51:39]
+[NqByTq] light
+上面的是我以前英语老师的名字
+
+[11:52:01]
+[8mT5YX] Maggieaaa
+我的名字的第一个字
+
+[11:52:02]
+[Chumon] zzChumoProPlusMaxUltra
+ ~~陈A片~~
+
+[11:52:03]
+[8mT5YX] Maggieaaa
+就是TanChat的这个Tan
+
+[11:52:10]
+[NqByTq] light
+陈云是我以前语文老师
+
+[11:52:11]
+[eYFDHl] eee
+我是陈片纸（~~骗子~~）
+
+[11:52:19]
+[8mT5YX] Maggieaaa
+XD
+
+[11:52:22]
+[eYFDHl] eee
+XD
+
+[11:52:27]
+[Chumon] zzChumoProPlusMaxUltra
+ee never gonna give 13 up
+
+[11:53:05]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[11:53:07]
+[8mT5YX] Maggieaaa
+TanChat的中文名
+
+[11:53:15]
+[8mT5YX] Maggieaaa
+很怪
+
+[11:53:17]
+[8mT5YX] Maggieaaa
+名字第一个字+聊
+
+[11:53:27]
+[eYFDHl] eee
+ye
+
+[11:53:29]
+[Chumon] zzChumoProPlusMaxUltra
+ ~~谭谈交通~~
+
+[11:53:42]
+[NqByTq] light
+https://tieba.baidu.com/p/3791802081
+
+[11:53:58]
+[8mT5YX] Maggieaaa
+lmao
+
+[11:54:03]
+[eYFDHl] eee
+~~老Tan酸菜~~
+
+[11:54:04]
+[QCkYle] ModBot
+Dunno that command, try typing with your other cheeck.
+
+[11:54:04]
+[NqByTq] light
+这是我以前数学老师
+
+[11:54:16]
+[Myh1TA] 4n0n4me
+-
+
+[11:54:27]
+[eYFDHl] eee
+好家伙
+
+[11:54:31]
+[eYFDHl] eee
+hi yo
+
+[11:54:34]
+[Chumon] zzChumoProPlusMaxUltra
+hi
+
+[11:54:43]
+[Myh1TA] 4n0n4me
+hi yooooooo
+
+[11:54:51]
+[Myh1TA] 4n0n4me
+what is happening ()
+
+[11:54:57]
+[NqByTq] light
+https://tieba.baidu.com/p/4451068368
+
+[11:55:12]
+[Chumon] zzChumoProPlusMaxUltra
+需 要 家 教 吗
+
+[11:56:04]
+[8mT5YX] Maggieaaa
+不过有个好处
+
+[11:56:05]
+[8mT5YX] Maggieaaa
+别人写日记
+
+[11:56:09]
+[8mT5YX] Maggieaaa
+一般不提到我
+
+[11:56:13]
+[Myh1TA] 4n0n4me
+啥日记啊
+
+[11:56:16]
+[8mT5YX] Maggieaaa
+因为不会写我的名字
+
+[11:56:21]
+[8mT5YX] Maggieaaa
+XD
+
+[11:56:22]
+[Myh1TA] 4n0n4me
+好家伙
+
+[11:56:24]
+[Chumon] zzChumoProPlusMaxUltra
+和 家 教 老 师 大战
+
+[11:56:24]
+[eYFDHl] eee
+XD
+
+[11:56:25]
+[Myh1TA] 4n0n4me
+不就是
+
+[11:56:26]
+[NqByTq] light
+http://inews.gtimg.com/newsapp_bt/0/14109300622/641
+
+[11:56:29]
+[NqByTq] light
+那个大肚子的戴眼镜内八字的我小学数学老师
+
+[11:56:50]
+[NqByTq] light
+针对我
+
+[11:56:52]
+[8mT5YX] Maggieaaa
+hm
+
+[11:57:09]
+[NqByTq] light
+http://inews.gtimg.com/newsapp_bt/0/6752700552/641
+
+[11:57:57]
+[Myh1TA] 4n0n4me
+wowoc
+
+[11:58:04]
+[NqByTq] light
+好像有段时间要检查
+
+[11:58:08]
+[eYFDHl] eee
+wowowoc
+
+[11:58:08]
+[Myh1TA] 4n0n4me
+我突然真的不会写了
+
+[11:58:09]
+[Myh1TA] 4n0n4me
+wowoc
+
+[11:58:13]
+[Myh1TA] 4n0n4me
+不可能啊
+
+[11:58:15]
+[NqByTq] light
+然后学校弄了个社团
+
+[11:58:15]
+[Myh1TA] 4n0n4me
+我怎么可能不会写这个字
+
+[11:58:20]
+[Myh1TA] 4n0n4me
+怎么可能
+
+[11:58:21]
+[NqByTq] light
+每次去摆拍
+
+[11:58:21]
+[Myh1TA] 4n0n4me
+wowoc！！！
+
+[11:58:47]
+[Myh1TA] 4n0n4me
+我写不来了
+
+[11:58:50]
+[Myh1TA] 4n0n4me
+wowoc
+
+[11:58:56]
+[Myh1TA] 4n0n4me
+居然是这么写的
+
+[11:58:58]
+[Myh1TA] 4n0n4me
+是【瀚】吗
+
+[11:59:07]
+[eYFDHl] eee
+？
+
+[11:59:07]
+[eYFDHl] eee
+你们在做什么）
+
+[11:59:12]
+[8mT5YX] Maggieaaa
+事的
+
+[11:59:13]
+[NqByTq] light
+https://bbs.weijj.com/data/attachment/forum/202108/27/093826t60wjt7kxekxm92s.jpg
+这个糟老头子不让我在大便池里小便
+
+[11:59:25]
+[8mT5YX] Maggieaaa
+哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[11:59:35]
+[Myh1TA] 4n0n4me
+wowoc，我居然真的写不来这个字
+
+[11:59:37]
+[eYFDHl] eee
+好家伙
+
+[11:59:37]
+[eYFDHl] eee
+和哈哈哈哈哈哈哈哈哈草
+
+[11:59:39]
+[NqByTq] light
+我差点被通报了
+
+[11:59:39]
+[Myh1TA] 4n0n4me
+@light wowoc
+
+[11:59:42]
+[Myh1TA] 4n0n4me
+你知道吗，他禁止的这件事情
+
+[11:59:55]
+[AAfFKK] AfK_Bot
+2022-09-10 12:00:00
+![](https://i.gyazo.com/2cf6e7a6191ee49dc084b26321d92fa8.jpg)
+
+[11:59:55]
+[Myh1TA] 4n0n4me
+是我非常重视的
+
+[11:59:56]
+[NqByTq] light
+hhh
+
+[12:00:00]
+[8mT5YX] Maggieaaa
+hm
+
+[12:00:00]
+[eYFDHl] eee
+~~那就在小便池里大便吧~~—
+
+[12:00:07]
+[QCkYle] ModBot
+The fuck did you just say to me?
+
+[12:00:07]
+[Myh1TA] 4n0n4me
+这是我的道啊！（中二）
+
+[12:00:08]
+[eYFDHl] eee
+草
+
+[12:00:11]
+[Myh1TA] 4n0n4me
+我们班有个同道人
+
+[12:00:20]
+[Myh1TA] 4n0n4me
+和我一样
+
+[12:00:23]
+[Myh1TA] 4n0n4me
+追求privacy
+
+[12:00:28]
+[Myh1TA] 4n0n4me
+这就是universal value！
+
+[12:00:47]
+[NqByTq] light
+大部分人都喜欢在**池里**
+
+[12:00:54]
+[Myh1TA] 4n0n4me
+这就是civil rights！
+
+[12:01:02]
+[Myh1TA] 4n0n4me
+我多次见到
+
+[12:01:13]
+[Myh1TA] 4n0n4me
+在unsafe area上厕所的人
+
+[12:01:23]
+[8mT5YX] Maggieaaa
+我的同学Be like:
+
+[12:01:26]
+[Myh1TA] 4n0n4me
+遭到同行的排挤
+
+[12:01:27]
+[eYFDHl] eee
+uw
+
+[12:01:29]
+[Myh1TA] 4n0n4me
+遭到同行的骚扰
+
+[12:01:32]
+[8mT5YX] Maggieaaa
+我:几点了
+
+[12:01:32]
+[8mT5YX] Maggieaaa
+同学:你干嘛，哎呀
+
+[12:01:39]
+[Chumon] zzChumoProPlusMaxUltra
+我们学校有个傻逼拉完了抹墙上
+
+[12:01:41]
+[NqByTq] light
+hhh
+
+[12:01:44]
+[8mT5YX] Maggieaaa
+我:几点了???
+
+[12:01:46]
+[Myh1TA] 4n0n4me
+这使我产生了对普世价值和公民权利的追求！
+
+[12:01:48]
+[Chumon] zzChumoProPlusMaxUltra
+到现在没查出来
+
+[12:01:51]
+[8mT5YX] Maggieaaa
+同学:jntm!
+
+[12:01:53]
+[Chumon] zzChumoProPlusMaxUltra
+XD
+
+[12:01:53]
+[Myh1TA] 4n0n4me
+我追求隐私权！
+
+[12:01:55]
+[8mT5YX] Maggieaaa
+我:😇
+
+[12:02:06]
+[Myh1TA] 4n0n4me
+我这个同道人，一定是和我有着一样的崇高理想
+
+[12:02:10]
+[NqByTq] light
+我们上次午睡完去厕所发现墙上地上天花板上全都是shi
+
+[12:02:11]
+[eYFDHl] eee
+草啊
+
+[12:02:14]
+[8mT5YX] Maggieaaa
+哈哈哈哈哈哈哈哈哈哈哈哈
+
+[12:02:17]
+[eYFDHl] eee
+hi yo
+
+[12:02:18]
+[NqByTq] light
+我到现在不明白shi是怎么上天花板的
+
+[12:02:37]
+[Myh1TA] 4n0n4me
+wowoc
+
+[12:02:44]
+[8mT5YX] Maggieaaa
+我妈说我在笑就把我按在键盘上怎么可好像该睡觉深V深V喝喜酒数据挖掘深V婚纱深Vv很喜欢回武汉深V试试哇撒收拾完觳觫深V
+
+[12:02:45]
+[NqByTq] light
+墙上激烈一点确实有可能
+
+[12:02:45]
+[eYFDHl] eee
+厕所炸了 XD
+
+[12:02:45]
+[eYFDHl] eee
+安居客规划法加客服哈设计风格哈哈交话费卡萨丁回复了咖啡
+
+[12:02:50]
+[NqByTq] light
+天花板tmd
+
+[12:02:51]
+[Zvoxsl] jill
+hm
+
+[12:02:58]
+[Myh1TA] 4n0n4me
+我……
+
+[12:03:00]
+[Zvoxsl] jill
+可能是炸了
+
+[12:03:01]
+[Myh1TA] 4n0n4me
+我今天早上做梦
+
+[12:03:05]
+[eYFDHl] eee
+哈哈哈哈哈哈哈哈
+
+[12:03:07]
+[Myh1TA] 4n0n4me
+这个梦令人不适
+
+[12:03:10]
+[Myh1TA] 4n0n4me
+我不敢说
+
+[12:03:13]
+[Myh1TA] 4n0n4me
+……
+
+[12:03:17]
+[Myh1TA] 4n0n4me
+但是和你们说的事情
+
+[12:03:22]
+[Zvoxsl] jill
+我梦到了junco
+
+[12:03:22]
+[Myh1TA] 4n0n4me
+很相关
+
+[12:03:26]
+[Zvoxsl] jill
+一直黑头黄神的小鸟
+
+[12:03:34]
+[eYFDHl] eee
+说吧
+
+[12:03:36]
+[Zvoxsl] jill
+还会说话
+
+[12:03:36]
+[eYFDHl] eee
+草
+
+[12:03:38]
+[Zvoxsl] jill
+（
+
+[12:03:39]
+[Myh1TA] 4n0n4me
+wowoc
+
+[12:03:39]
+[Myh1TA] 4n0n4me
+可爱的junco
+
+[12:03:44]
+[Zvoxsl] jill
+xd
+
+[12:03:48]
+[NqByTq] light
+a
+
+[12:03:56]
+[Myh1TA] 4n0n4me
+ ~~黄神是啥意思~~
+
+[12:04:08]
+[Myh1TA] 4n0n4me
+是【身】罢
+
+[12:04:18]
+[Zvoxsl] jill
+欸对
+
+[12:04:45]
+[8mT5YX] Maggieaaa
+我梦到的就离谱了
+
+[12:04:48]
+[NqByTq] light
+我希望找到我们学校对外的入口
+
+[12:04:52]
+[8mT5YX] Maggieaaa
+我们一家人玩超高话题
+
+[12:04:55]
+[8mT5YX] Maggieaaa
+滑梯
+
+[12:04:57]
+[NqByTq] light
+我记得我参加了很多活动（虽然都是被动的
+
+[12:05:03]
+[8mT5YX] Maggieaaa
+然后我爸的裤子掉了
+
+[12:05:03]
+[8mT5YX] Maggieaaa
+😂😂😂😂😂😂😂
+
+[12:05:08]
+[Zvoxsl] jill
+( ﾟ∀。)
+
+[12:05:10]
+[eYFDHl] eee
+草
+
+[12:05:14]
+[NqByTq] light
+hhhh
+
+[12:05:15]
+[eYFDHl] eee
+@Maggieaaa 问个问题 Gitalk Error: Network Error 怎么办
+
+[12:05:27]
+[Myh1TA] 4n0n4me
+ ~~如果要听我讲这个事情，进 ?yc ~~
+
+[12:05:32]
+[Chumon] zzChumoProPlusMaxUltra
+@Maggieaaa 当场安排马赛克是吧（
+
+[12:05:34]
+[NqByTq] light
+受害者：当时我尴尬极了
+
+[12:05:39]
+[8mT5YX] Maggieaaa
+哈哈哈哈哈哈哈哈哈哈哈
+
+[12:05:40]
+[8mT5YX] Maggieaaa
+@eee 额
+
+[12:05:43]
+[8mT5YX] Maggieaaa
+是客户端问题
+
+[12:05:52]
+[Myh1TA] 4n0n4me
+@Maggieaaa 我也这样
+
+[12:05:52]
+[8mT5YX] Maggieaaa
+客户侧的问题
+
+[12:06:01]
+[eYFDHl] eee
+嘶
+
+[12:06:05]
+[8mT5YX] Maggieaaa
+挂个魔法
+
+[12:06:07]
+[eYFDHl] eee
+找了一早上方法 代理也挂了
+
+[12:06:19]
+[eYFDHl] eee
+悲
+
+[12:06:24]
+[Chumon] zzChumoProPlusMaxUltra
+bulink啊
+
+[12:06:27]
+[Chumon] zzChumoProPlusMaxUltra
+bulink现在解封了
+
+[12:06:36]
+[Chumon] zzChumoProPlusMaxUltra
+GFW取消了对bulink的制裁
+
+[12:06:54]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[12:06:56]
+[8mT5YX] Maggieaaa
+什!!!
+
+[12:07:32]
+[eYFDHl] eee
+好家伙
+
+[12:07:57]
+[NqByTq] light
+早解了
+
+[12:08:02]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[12:08:08]
+[Zvoxsl] jill
+afk
+
+[12:08:44]
+[8mT5YX] Maggieaaa
+aw
+
+[12:09:37]
+[8mT5YX] Maggieaaa
+cold
+
+[12:09:45]
+[8mT5YX] Maggieaaa
+:!lookup nick Master
+
+[12:10:14]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==AaF/uApl5WLjuXJ==: ['Master']
+==Trips== for hash ==AaF/uApl5WLjuXJ==: ['']
+
+[12:10:14]
+[None] Master
+P?
+
+[12:11:00]
+[Chumon] zzChumoProPlusMaxUltra
+awa？
+
+[12:11:11]
+[AAfFKK] __
+ovo
+
+[12:11:17]
+[Chumon] zzChumoProPlusMaxUltra
+u sus
+
+[12:11:18]
+[AAfFKK] __
+sus
+
+[12:11:21]
+[8mT5YX] Maggieaaa
+suuuuuuuuuuuuuuuuus
+
+[12:11:45]
+[None] Master
+Q poha e sus
+
+[12:12:00]
+[None] Master
+Sua só aqui em Manaus 
+
+[12:12:11]
+[Chumon] zzChumoProPlusMaxUltra
+【初音ミク】造花的距離感【なぎさ】_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1ts411o73T
+
+[12:12:45]
+[None] Master
+Sus*
+
+[12:13:20]
+[8mT5YX] Maggieaaa
+操
+
+[12:13:40]
+[8mT5YX] Maggieaaa
+我的网站认为我不是人
+
+[12:13:49]
+[8mT5YX] Maggieaaa
+CAPTCHA不过
+
+[12:13:58]
+[Myh1TA] 4n0n4me
+草
+
+[12:14:12]
+[eYFDHl] eee
+草
+
+[12:14:25]
+[Chumon] zzChumoProPlusMaxUltra
+@Maggieaaa 在Cloudflare中将我被攻击了改为无以关闭JavaScript挑战
+
+[12:14:33]
+[8mT5YX] Maggieaaa
+我知道
+
+[12:14:53]
+[8mT5YX] Maggieaaa
+但是我确实under attack了
+
+[12:15:06]
+[8mT5YX] Maggieaaa
+算了关一会
+
+[12:15:19]
+[Myh1TA] 4n0n4me
+wowoc
+
+[12:15:34]
+[Myh1TA] 4n0n4me
+谁attack啊
+
+[12:15:36]
+[eYFDHl] eee
+wowow
+
+[12:15:40]
+[0/JM7u] huolongguo1O
+看看日志
+
+[12:15:57]
+[Chumon] zzChumoProPlusMaxUltra
+なぎさ神仙p主，但是没人知道
+
+[12:15:58]
+[0/JM7u] huolongguo1O
+好慢啊
+
+[12:16:19]
+[8mT5YX] Maggieaaa
+我rnmdb
+
+[12:17:31]
+[8mT5YX] Maggieaaa
+通过 Cloudflare 的请求
+请求总数
+过去 24 小时
+16.79k
+已缓存的请求
+过去 24 小时
+2.22k
+未缓存的请求
+过去 24 小时
+14.58k
+
+[12:17:33]
+[eYFDHl] eee
+https://book.paperee.guru/
+
+[12:18:00]
+[0/JM7u] huolongguo1O
+静态用pages部署？
+
+[12:18:01]
+[8mT5YX] Maggieaaa
+hm
+
+[12:18:23]
+[0/JM7u] huolongguo1O
+( ﾟ∀。)
+
+[12:18:24]
+[8mT5YX] Maggieaaa
+@eee hey
+
+[12:18:27]
+[8mT5YX] Maggieaaa
+你的9.2我已同步至github
+
+[12:18:43]
+[eYFDHl] eee
+>https://book.paperee.guru/
+
+帮我试试Gitalk能不能用
+
+[12:18:48]
+[eYFDHl] eee
+awa
+
+[12:18:49]
+[8mT5YX] Maggieaaa
+下次更新请提交个pr🙏
+
+[12:18:56]
+[8mT5YX] Maggieaaa
+()
+
+[12:18:58]
+[eYFDHl] eee
+@Maggieaaa OK
+
+[12:19:18]
+[8mT5YX] Maggieaaa
+你似乎没开gitalk
+
+[12:19:21]
+[8mT5YX] Maggieaaa
+你得弄这个插件
+
+[12:19:28]
+[0/JM7u] huolongguo1O
+并于==北京时间2022年晚上9时57分==修复此BUG。好精准
+
+[12:19:28]
+[Chumon] zzChumoProPlusMaxUltraX
+SCP-AWA-001 等待解密[已锁]
+
+[12:19:58]
+[eYFDHl] eee
+？
+
+[12:20:28]
+[eYFDHl] eee
+@huolongguo1O 这个是张那边版本写的
+
+[12:20:42]
+[Chumon] zzChumoProPlusMaxUltraX
+SCP-AWA-002 鸡
+
+[12:20:47]
+[eYFDHl] eee
+@Maggieaaa 我开了
+
+[12:20:54]
+[8mT5YX] Maggieaaa
+额...
+
+[12:20:59]
+[Chumon] zzChumoProPlusMaxUltraX
+SCP-AWA-002 神奇纸片
+
+[12:21:05]
+[8mT5YX] Maggieaaa
+未找到相关的 Issues 进行评论
+
+请联系 @paperee 初始化创建
+
+[12:21:23]
+[Chumon] zzChumoProPlusMaxUltraX
+SCP-AWA-004 阿瓦之神
+
+[12:21:29]
+[Chumon] zzChumoProPlusMaxUltraX
+SCP-AWA-004
+
+[12:22:13]
+[0/JM7u] huolongguo1O
+pro那边的管理员AnnikaV9，改编ModBot制作了新的协管机器人==mbot==，并加入了验证码功能
+说好不写的
+
+[12:22:14]
+[Chumon] zzChumoProPlusMaxUltraX
+收容等级： safe
+
+[12:22:38]
+[AAfFKK] __
+ovo
+
+[12:24:23]
+[8mT5YX] Maggieaaa
+xd
+
+[12:24:24]
+[eYFDHl] eee
+？？？
+
+[12:24:47]
+[Chumon] zzChumoProPlusMaxUltraX
+特殊收容措施： SCP-AWA-004应被收容于一（1）间10m*10m*10m大小的大理石容器中，且每周一需要由一（1）名研究员及三（3）名D级人员进入项目收容间内进行朝拜。
+
+[12:25:47]
+[eYFDHl] eee
+@Maggieaaa https://s1.328888.xyz/2022/09/10/9QkgJ.png
+
+[12:26:56]
+[8mT5YX] MaggieaAAa
+hm
+
+[12:27:00]
+[Chumon] zzChumoProPlusMaxUltraX
+特殊收容措施： SCP-AWA-004应被收容于一（1）间10m10m10m大小的大理石容器中，且每周一需要由一（1）名研究员及三（3）名D级人员进入项目收容间内进行朝拜，并将其中一（1）名D级人员用于献祭。
+
+[12:27:03]
+[8mT5YX] MaggieaAAa
+要不我们建立一个SCP-AWA wiki吧
+
+[12:27:29]
+[8mT5YX] MaggieaAAa
+()
+
+[12:27:30]
+[eYFDHl] eee
+>pro那边的管理员AnnikaV9，改编ModBot制作了新的协管机器人mbot，并加入了验证码功能
+说好不写的
+
+@huolongguo1O ？
+
+[12:27:59]
+[0/JM7u] huolongguo1O
+要求==R==将lol撤除管理权后才被unban
+既然R不是管理了是不是该改改了
+
+[12:28:27]
+[8mT5YX] MaggieaAAa
+啊?
+
+[12:28:43]
+[8mT5YX] MaggieaAAa
+R不是管理了???
+
+[12:28:50]
+[eYFDHl] eee
+idk
+
+[12:28:57]
+[0/JM7u] huolongguo1O
+*不是站长
+
+[12:29:55]
+[8mT5YX] MaggieaAAa
+啊对诶
+
+[12:29:59]
+[None] jhonson
+Apt.
+
+[12:29:59]
+[None] jhonson
+Apt update
+
+[12:30:08]
+[8mT5YX] MaggieaAAa
+9.3修吧
+
+[12:30:08]
+[8mT5YX] MaggieaAAa
+9.3就把这个修改
+
+[12:30:17]
+[0/JM7u] huolongguo1O
+很奇怪既然管理员没来那lol等怎么当上管理的
+
+[12:30:25]
+[None] jhonson
+Help
+
+[12:30:33]
+[Chumon] zzChumoProPlusMaxUltraX
+描述： SCP-AWA-004是一（1）尊高为3米的神像，以未知材质制成。
+
+[12:30:49]
+[Chumon] zzChumoProPlusMaxUltraX
+~kick @jhonson
+
+[12:31:04]
+[0/JM7u] huolongguo1O
+发个overload的latex
+
+[12:31:41]
+[0/JM7u] huolongguo1O
+我去overload别的
+
+[12:31:47]
+[8mT5YX] MaggieaAAa
+额
+
+[12:33:58]
+[8mT5YX] MaggieaAAa
+啊
+
+[12:34:12]
+[AAfFKK] __
+ovo
+
+[12:34:59]
+[AAfFKK] __
+sorry for afking
+
+[12:35:04]
+[AAfFKK] __
+@huolongguo1O 
+
+[12:35:05]
+[AAfFKK] __
+also
+
+[12:35:14]
+[AAfFKK] __
+seems R can addmod and removemod
+
+[12:35:28]
+[0/JM7u] huolongguo1O
+私聊吧
+
+[12:35:30]
+[AAfFKK] __
+overload?
+
+[12:35:57]
+[8mT5YX] MaggiePC2
+我去建wiki了
+
+[12:36:10]
+[AAfFKK] __
+@huolongguo1O 
+
+[12:37:13]
+[0/JM7u] huolongguo1O
+yup
+
+[12:37:45]
+[8mT5YX] MaggiePC2
+我可以免费代建wiki(dpge
+
+[12:37:52]
+[8mT5YX] MaggiePC2
+我可以免费代建wiki(doge
+
+[12:37:54]
+[AAfFKK] __
+dpge
+
+[12:38:01]
+[AAfFKK] __
+ovo
+
+[12:38:11]
+[8mT5YX] MaggiePC2
+obb
+
+[12:39:03]
+[8mT5YX] MaggiePC2
+awa!
+
+[12:39:06]
+[0/JM7u] huolongguo1O
+好像只有hc有用
+
+[12:40:42]
+[AAfFKK] __
+?
+
+[12:40:52]
+[AAfFKK] __
+all others work
+
+[12:40:58]
+[AAfFKK] __
+with LaTeX
+
+[12:41:16]
+[0/JM7u] huolongguo1O
+haizhenshi
+
+[12:41:26]
+[AAfFKK] __
+ind
+
+[12:41:26]
+[0/JM7u] huolongguo1O
+别的只有（a）
+
+[12:41:42]
+[AAfFKK] __
+?
+
+[12:41:51]
+[AAfFKK] __
+where
+
+[12:41:57]
+[0/JM7u] huolongguo1O
+https://www.latexlive.com/##
+
+[12:42:08]
+[0/JM7u] huolongguo1O
+【腾讯文档】1
+https://docs.qq.com/doc/DTkVqclhUem9qdmJ0
+
+[12:42:21]
+[eYFDHl] eeee
+uwu？
+
+[12:42:41]
+[8mT5YX] MaggiePC2
+我想建个wiki
+
+[12:42:52]
+[8mT5YX] MaggiePC2
+但是没有想法
+
+[12:43:34]
+[8mT5YX] MaggiePC2
+我之前还打算创建一个backrooms流派（
+
+[12:45:16]
+[8mT5YX] MaggiePC2
+除了wikidot和fandom的（
+
+[12:45:25]
+[8mT5YX] MaggiePC2
+我在想一个..
+
+[12:48:38]
+[8mT5YX] MaggiePC2
+我的wiki该做什么...
+
+[12:48:56]
+[AAfFKK] __
+a
+~~~
+qwq
+
+[12:50:13]
+[AAfFKK] __
+~~~nick text message katex
+QAQ
+
+[12:51:37]
+[QCkYle] ModBot
+So, ~help might, uh, well, nevermind. . .
+
+[12:51:38]
+[AAfFKK] __
+did well
+
+[12:51:41]
+[AAfFKK] __
+lol
+
+[12:51:42]
+[AAfFKK] __
+ccw
+
+[12:52:00]
+[AAfFKK] __
+ing
+
+[12:52:30]
+[AAfFKK] __
+lol
+
+[12:52:49]
+[Zvoxsl] jill
+;
+
+[12:52:49]
+[8mT5YX] MaggiePC2
+我的wiki该做什么...
+
+[12:52:52]
+[NqByTq] light
+;
+
+[12:53:00]
+[NqByTq] light
+;
+
+[12:53:04]
+[NqByTq] light
+:
+
+[12:53:15]
+[8mT5YX] MaggiePC2
+https://main.wiki.thz.cool/
+
+[12:55:42]
+[eYFDHl] eeee
+历史书……
+
+[12:58:03]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+[12:58:03]
+[AAfFKK] _
+geek
+
+[12:58:06]
+[AAfFKK] _
+~kick __
+
+[12:58:30]
+[AAfFKK] _
+405 Not Allowed
+nginx
+
+[12:58:45]
+[AAfFKK] _
+?
+
+[12:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 13:00:00
+![](https://i.gyazo.com/4cf7dd1d419a071f75cbc4aef4e943e8.jpg)
+
+[12:59:56]
+[8mT5YX] MaggiePC2
+最受威胁的国家/地区
+过去 24 小时
+国家/地区	请求
+China	77
+Switzerland	2
+Singapore	1
+
+[13:00:42]
+[8mT5YX] MaggiePC2
+操
+
+[13:00:45]
+[8mT5YX] MaggiePC2
+傻逼吧
+
+[13:00:48]
+[8mT5YX] MaggiePC2
+谁干的
+
+[13:01:02]
+[eYFDHl] eee
+https://book.paperee.guru/#/chatroom-history-book/
+
+[13:01:03]
+[eYFDHl] eee
+大概率可以评论了
+
+[13:01:09]
+[eYFDHl] eee
+hi yoo
+
+[13:01:13]
+[eYFDHl] eee
+@zzChumo https://book.paperee.guru/#/chatroom-history-book/
+
+[13:01:22]
+[eYFDHl] eee
+试试能不能评论
+
+[13:01:25]
+[eYFDHl] eee
+hi yoo
+
+[13:01:29]
+[eYFDHl] eee
+https://book.paperee.guru/#/chatroom-history-book/
+
+[13:01:42]
+[eYFDHl] eee
+写个评论吧 awa
+
+[13:04:22]
+[Myh1TA] 4n0n4me
+震惊！
+
+[13:05:10]
+[Myh1TA] 4n0n4me
+北京禁止剧本杀在节假日之外提供
+
+[13:05:21]
+[Myh1TA] 4n0n4me
+还要求剧本正能量
+
+[13:05:26]
+[8mT5YX] MaggiePC2
+wtf
+
+[13:05:44]
+[Myh1TA] 4n0n4me
+好吧，拟修订未成年人保护条例
+
+[13:05:55]
+[Myh1TA] 4n0n4me
+拟提出禁止节假日之外向未成年人提供剧本杀服务
+
+[13:06:10]
+[Myh1TA] 4n0n4me
+恕我直言，既然如此
+
+[13:06:20]
+[Myh1TA] 4n0n4me
+额，我随便说说
+
+[13:06:35]
+[Myh1TA] 4n0n4me
+我们这些懂得技术的豪杰
+
+[13:06:40]
+[Myh1TA] 4n0n4me
+不如来提供自由的游戏环境吧
+
+[13:06:47]
+[Myh1TA] 4n0n4me
+我们可以制作一个叫做BASIC的东西
+
+[13:06:56]
+[NqByTq] light
+?
+
+[13:07:19]
+[Myh1TA] 4n0n4me
+basic advanced sandbox for internet cousers
+
+[13:07:20]
+[AAfFKK] _
+OvO
+
+[13:07:20]
+[Myh1TA] 4n0n4me
+意思就是
+
+[13:07:23]
+[Myh1TA] 4n0n4me
+一个自由的沙盒
+
+[13:07:28]
+[Myh1TA] 4n0n4me
+我们可以做一个类似于腾讯会议的东西
+
+[13:08:27]
+[Myh1TA] 4n0n4me
+但除去腾讯会议的基本功能以外
+
+[13:08:38]
+[Myh1TA] 4n0n4me
+还有一个类似于scratch的舞台
+
+[13:08:46]
+[NqByTq] light
+ovo
+
+[13:08:47]
+[Myh1TA] 4n0n4me
+可以编程
+
+[13:08:48]
+[8mT5YX] MaggiePC2
+对欸！
+
+[13:08:52]
+[NqByTq] light
+我之前有个思路
+
+[13:08:54]
+[8mT5YX] MaggiePC2
+BASIC
+
+[13:08:57]
+[NqByTq] light
+就是急速通讯
+
+[13:08:59]
+[8mT5YX] MaggiePC2
+这个
+
+[13:09:00]
+[8mT5YX] MaggiePC2
+但是那样的话
+
+[13:09:11]
+[8mT5YX] MaggiePC2
+我们需要强大的服务器
+
+[13:09:19]
+[8mT5YX] MaggiePC2
+并且要有国内节点
+
+[13:09:37]
+[Myh1TA] 4n0n4me
+ ~~可以p2p~~
+
+[13:09:38]
+[Myh1TA] 4n0n4me
+点对点
+
+[13:09:42]
+[Myh1TA] 4n0n4me
+端到端
+
+[13:09:43]
+[8mT5YX] MaggiePC2
+不然延迟高的一批
+
+[13:09:49]
+[8mT5YX] MaggiePC2
+@4n0n4me 咱的技术也不够啊
+
+[13:09:58]
+[Myh1TA] 4n0n4me
+这确实
+
+[13:10:02]
+[Myh1TA] 4n0n4me
+我就是想想（）
+
+[13:10:07]
+[8mT5YX] MaggiePC2
+中国大部分地区都是NAT严格
+
+[13:10:14]
+[Myh1TA] 4n0n4me
+然后我们可以让各路的大佬在里面做出狼人杀等功能的程序
+
+[13:10:25]
+[Myh1TA] 4n0n4me
+甚至做出联机游戏
+
+[13:10:29]
+[Myh1TA] 4n0n4me
+我们可以支持各种编程语言
+
+[13:10:33]
+[NqByTq] light
+。
+
+[13:10:34]
+[Myh1TA] 4n0n4me
+（）
+
+[13:10:35]
+[8mT5YX] MaggiePC2
+那不就是bcm吗（
+
+[13:10:42]
+[NqByTq] light
+那需要1000个神级大佬来开发
+
+[13:10:56]
+[Myh1TA] 4n0n4me
+你知道创游世界吗
+
+[13:11:01]
+[8mT5YX] MaggiePC2
+nop
+
+[13:11:09]
+[Myh1TA] 4n0n4me
+现在很多中小学生在里面做“游戏”
+
+[13:11:19]
+[8mT5YX] MaggiePC2
+我觉得啊
+
+[13:11:29]
+[Myh1TA] 4n0n4me
+ ~~固然技术非常落后（即使落后也不是我做的出来的）~~
+
+[13:11:32]
+[8mT5YX] MaggiePC2
+我们可以提供像vercel那样的免费建站服务
+
+[13:11:45]
+[8mT5YX] MaggiePC2
+自动分配二级域名
+
+[13:11:59]
+[Myh1TA] 4n0n4me
+你说得对
+
+[13:12:08]
+[8mT5YX] MaggiePC2
+然后用户自己写代码
+
+[13:12:17]
+[Myh1TA] 4n0n4me
+那样我们就有希望赚钱了（不是）
+
+[13:12:20]
+[8mT5YX] MaggiePC2
+这些DogeAPI可以处理
+
+[13:12:27]
+[NqByTq] light
+.
+
+[13:12:42]
+[8mT5YX] MaggiePC2
+DogeAPI有一套充值系统
+
+[13:12:44]
+[Chumon] zzChumoProPlusMaxUltraX
+@MaggiePC2 
+
+[13:12:54]
+[Myh1TA] 4n0n4me
+wow
+
+[13:12:55]
+[Chumon] zzChumoProPlusMaxUltraX
+このサイトは安全に接続できませんmain.wiki.thz.cool ではサポートされていないプロトコルが使用されています。
+ERR_SSL_VERSION_OR_CIPHER_MISMATCH
+
+[13:12:57]
+[Chumon] zzChumoProPlusMaxUltraX
+？
+
+[13:12:59]
+[8mT5YX] MaggiePC2
+我也是
+
+[13:13:02]
+[8mT5YX] MaggiePC2
+我刚想问你怎么解决
+
+[13:13:12]
+[8mT5YX] MaggiePC2
+;_;
+
+[13:13:15]
+[Chumon] zzChumoProPlusMaxUltraX
+nginx？
+
+[13:13:21]
+[AAfFKK] _
+?
+
+[13:13:25]
+[Chumon] zzChumoProPlusMaxUltraX
+allow TLS了吗
+
+[13:13:29]
+[8mT5YX] MaggiePC2
+how 2
+
+[13:13:39]
+[Chumon] zzChumoProPlusMaxUltraX
+allow SSL了吗
+
+[13:13:44]
+[Chumon] zzChumoProPlusMaxUltraX
+等一下
+
+[13:13:47]
+[8mT5YX] MaggiePC2
+您的 SSL/TLS 加密模式为 完全
+此设置上次更改时间为 11 分钟前
+
+[13:13:56]
+[Chumon] zzChumoProPlusMaxUltraX
+不是cf
+
+[13:14:21]
+[Chumon] zzChumoProPlusMaxUltraX
+是服务器
+
+[13:14:24]
+[8mT5YX] MaggiePC2
+hm
+
+[13:14:26]
+[8mT5YX] MaggiePC2
+我用的baota面板
+
+[13:14:31]
+[Chumon] zzChumoProPlusMaxUltraX
+你服务器配置SSL证书并且监听443并且允许SSL了吗
+
+[13:15:01]
+[8mT5YX] MaggiePC2
+配置了
+
+[13:15:31]
+[8mT5YX] MaggiePC2
+允许了
+
+[13:15:33]
+[8mT5YX] MaggiePC2
+chat.thz.cool都行
+
+[13:15:38]
+[8mT5YX] MaggiePC2
+这个怎么不行呢
+
+[13:15:42]
+[Myh1TA] 4n0n4me
+恭喜, 站点创建成功！
+这是默认index.html，本页面由系统自动生成
+本页面在FTP根目录下的index.html
+您可以修改、删除或覆盖本页面
+FTP相关信息，请到“面板系统后台 > FTP” 查看
+
+[13:16:09]
+[Myh1TA] 4n0n4me
+我看到的是这样的
+
+[13:16:13]
+[Myh1TA] 4n0n4me
+没有错误
+
+[13:16:16]
+[8mT5YX] MaggiePC2
+你啥浏览器
+
+[13:16:27]
+[Myh1TA] 4n0n4me
+edge
+
+[13:16:31]
+[Chumon] zzChumoProPlusMaxUltraX
+@MaggiePC2 设置一下
+
+[13:16:33]
+[AAfFKK] _
+site?
+
+[13:16:36]
+[Chumon] zzChumoProPlusMaxUltraX
+把这个加进去
+
+[13:16:36]
+[Myh1TA] 4n0n4me
+我第一次进去的时候
+
+[13:16:36]
+[Myh1TA] 4n0n4me
+开了fq的东西
+
+[13:16:40]
+[8mT5YX] MaggiePC2
+额...
+
+[13:16:46]
+[Chumon] zzChumoProPlusMaxUltraX
+listen 443;
+ssl on;
+ssl_certificate 证书绝对路径;
+ssl_certificate_key 证书绝对路径;
+
+[13:17:31]
+[Chumon] zzChumoProPlusMaxUltraX
+@MaggiePC2 
+
+[13:17:34]
+[8mT5YX] MaggiePC2
+ok
+
+[13:17:42]
+[Chumon] zzChumoProPlusMaxUltraX
+谁有带桌面环境的服务器
+
+[13:19:12]
+[8mT5YX] MaggiePC2
+still not work...
+
+[13:19:21]
+[Chumon] zzChumoProPlusMaxUltraX
+我要写Geascript
+
+[13:19:22]
+[Chumon] zzChumoProPlusMaxUltraX
+@MaggiePC2 执行lsof -i:80
+
+[13:19:44]
+[8mT5YX] MaggiePC2
+ok
+
+[13:19:48]
+[Chumon] zzChumoProPlusMaxUltraX
+找到nginx
+
+[13:19:54]
+[Chumon] zzChumoProPlusMaxUltraX
+然后kill
+
+[13:19:57]
+[8mT5YX] MaggiePC2
+ok
+
+[13:20:01]
+[Chumon] zzChumoProPlusMaxUltraX
+然后执行nohup nginx &
+
+[13:20:33]
+[Chumon] zzChumoProPlusMaxUltraX
+hi
+
+[13:20:37]
+[8mT5YX] MaggiePC2
+额我是面板服务器
+
+[13:20:42]
+[None] laura
+hi
+
+[13:20:46]
+[8mT5YX] MaggiePC2
+不需要这么麻烦
+
+[13:20:47]
+[8mT5YX] MaggiePC2
+XD
+
+[13:20:49]
+[Chumon] zzChumoProPlusMaxUltraX
+hm？
+
+[13:20:56]
+[8mT5YX] MaggiePC2
+重启过nginx了
+
+[13:21:01]
+[8mT5YX] MaggiePC2
+没用
+
+[13:21:03]
+[Chumon] zzChumoProPlusMaxUltraX
+我只会命令行
+
+[13:21:08]
+[Chumon] zzChumoProPlusMaxUltraX
+awa
+
+[13:21:11]
+[8mT5YX] MaggiePC2
+xd
+
+[13:21:17]
+[Chumon] zzChumoProPlusMaxUltraX
+宝塔不会用
+
+[13:21:26]
+[Chumon] zzChumoProPlusMaxUltraX
+我觉得宝塔不好用，而且占用资源
+
+[13:22:28]
+[Chumon] zzChumoProPlusMaxUltraX
+而且我用Debian（
+
+[13:22:47]
+[Chumon] zzChumoProPlusMaxUltraX
+话说宝塔里面不是有命令行界面吗
+
+[13:23:02]
+[8mT5YX] MaggiePC2
+奇怪...
+
+[13:24:00]
+[8mT5YX] MaggiePC2
+wiki.thz.cool就是正常的
+
+[13:24:07]
+[None] laura
+什么是宝塔
+
+[13:24:15]
+[Chumon] zzChumoProPlusMaxUltraX
+证书和域名不匹配？
+
+[13:24:52]
+[Chumon] zzChumoProPlusMaxUltraX
+你换个通配符试试
+
+[13:24:54]
+[8mT5YX] MaggiePC2
+🤔🤔🤔
+
+[13:25:04]
+[8mT5YX] MaggiePC2
+我是解析*.wiki to server addr
+
+[13:25:06]
+[Chumon] zzChumoProPlusMaxUltraX
+我不造啊
+
+[13:25:18]
+[8mT5YX] MaggiePC2
+那我就用wiki.thz.cool这个吧
+
+[13:25:33]
+[Chumon] zzChumoProPlusMaxUltraX
+等等
+
+[13:25:59]
+[Chumon] zzChumoProPlusMaxUltraX
+我知道了
+
+[13:26:05]
+[Chumon] zzChumoProPlusMaxUltraX
+我爸和我说过这种东西不能用cdn
+
+[13:26:23]
+[Chumon] zzChumoProPlusMaxUltraX
+awa
+
+[13:26:25]
+[8mT5YX] MaggiePC2
+额
+
+[13:26:31]
+[8mT5YX] MaggiePC2
+为何
+
+[13:26:32]
+[Chumon] zzChumoProPlusMaxUltraX
+不知道
+
+[13:26:47]
+[8mT5YX] MaggiePC2
+...
+
+[13:27:01]
+[Chumon] zzChumoProPlusMaxUltraX
+我爸一个几k用户每天几w访问量的网站
+
+[13:27:11]
+[Chumon] zzChumoProPlusMaxUltraX
+血的教训
+
+[13:27:20]
+[Myh1TA] 4n0n4me
+wowoc
+
+[13:27:20]
+[Chumon] zzChumoProPlusMaxUltraX
+:(
+
+[13:27:23]
+[Myh1TA] 4n0n4me
+咋了
+
+[13:27:27]
+[Myh1TA] 4n0n4me
+被cdn搞得无法访问了吗
+
+[13:27:34]
+[Chumon] zzChumoProPlusMaxUltraX
+是的
+
+[13:27:40]
+[Myh1TA] 4n0n4me
+这是为什么啊啊
+
+[13:27:53]
+[Myh1TA] 4n0n4me
+因为是动态网页吗
+
+[13:27:59]
+[Chumon] zzChumoProPlusMaxUltraX
+由服务器批量生成的子域无法访问
+
+[13:28:06]
+[Chumon] zzChumoProPlusMaxUltraX
+几k个子域全都访问不了
+
+[13:28:26]
+[Myh1TA] 4n0n4me
+wowoc
+
+[13:28:56]
+[Myh1TA] 4n0n4me
+啥网站几千个子域
+
+[13:29:04]
+[Chumon] zzChumoProPlusMaxUltraX
+酒水招商
+
+[13:29:13]
+[Myh1TA] 4n0n4me
+每个用户一个子域名吗
+
+[13:29:14]
+[Chumon] zzChumoProPlusMaxUltraX
+是的
+
+[13:29:19]
+[Myh1TA] 4n0n4me
+好家伙
+
+[13:29:22]
+[Chumon] zzChumoProPlusMaxUltraX
+就和GitHub Pages差不多
+
+[13:29:30]
+[Chumon] zzChumoProPlusMaxUltraX
+但是内容是模板化的
+
+[13:29:36]
+[Myh1TA] 4n0n4me
+好家伙
+
+[13:29:47]
+[8mT5YX] MaggiePC2
+啊啊啊气死我乐...
+
+[13:29:57]
+[Myh1TA] 4n0n4me
+Maggie这个子域名是服务器生成的吗
+
+[13:30:05]
+[NqByTq] awaitlight
+太生气以至于笑了
+
+[13:30:16]
+[8mT5YX] MaggiePC2
+MediaWiki官网被GFW干了
+
+[13:30:17]
+[Myh1TA] 4n0n4me
+在cf那边手动指定一下不行吗
+
+[13:30:18]
+[8mT5YX] MaggiePC2
+这个是我手动指定的啊.
+
+[13:30:34]
+[8mT5YX] MaggiePC2
+我已经准备开始安装了
+
+[13:30:43]
+[8mT5YX] MaggiePC2
+啊啊啊啊啊啊啊啊啊啊啊我爸上次把我梯子卸了
+
+[13:30:58]
+[8mT5YX] MaggiePC2
+操！
+
+[13:31:05]
+[Chumon] zzChumoProPlusMaxUltraX
+http://50.93.205.219:3000/
+
+[13:31:13]
+[Chumon] zzChumoProPlusMaxUltraX
+zzChat的集成客户端
+
+[13:31:22]
+[Myh1TA] 4n0n4me
+焯
+
+[13:32:13]
+[Myh1TA] 4n0n4me
+那你装一下梯子啊
+
+[13:32:19]
+[8mT5YX] MaggiePC2
+谁能帮忙,,,
+
+[13:32:20]
+[8mT5YX] MaggiePC2
+xing
+
+[13:32:24]
+[8mT5YX] MaggiePC2
+我试试
+
+[13:32:26]
+[Chumon] zzChumoProPlusMaxUltraX
+https://zzchat.cf/file/v2rayNG.apk
+
+[13:32:49]
+[Chumon] zzChumoProPlusMaxUltraX
+https://bulink.xyz
+
+[13:33:09]
+[8mT5YX] MaggiePC2
+im using pc
+
+[13:33:11]
+[Chumon] zzChumoProPlusMaxUltraX
+awa
+
+[13:33:12]
+[8mT5YX] MaggiePC2
+:)
+
+[13:33:13]
+[8mT5YX] MaggiePC2
+KutoVPN is also goog
+
+[13:33:27]
+[Chumon] zzChumoProPlusMaxUltraX
+v2rayN+Bulink
+
+[13:33:32]
+[Chumon] zzChumoProPlusMaxUltraX
+awa
+
+[13:33:35]
+[NqByTq] awaitlight
+exactly
+
+[13:33:48]
+[Chumon] zzChumoProPlusMaxUltraX
+Linux users can use Qv2ray
+
+[13:34:14]
+[Chumon] zzChumoProPlusMaxUltraX
+hi
+
+[13:34:21]
+[8mT5YX] MaggiePC2
+https://file.thz.cool/apks/picacg.apk
+
+[13:34:21]
+[8mT5YX] MaggiePC2
+awa
+
+[13:34:23]
+[Chumon] zzChumoProPlusMaxUltraX
+awa
+
+[13:34:27]
+[Chumon] zzChumoProPlusMaxUltraX
+https://zzchat.cf/file/g.zip
+
+[13:34:47]
+[Chumon] zzChumoProPlusMaxUltraX
+awa
+
+[13:34:49]
+[Chumon] zzChumoProPlusMaxUltraX
+https://zzchat.cf/file/setu.zip
+
+[13:35:02]
+[Chumon] zzChumoProPlusMaxUltraX
+uwu
+
+[13:35:05]
+[NqByTq] awaitlight
+success is in sight!
+
+[13:35:13]
+[NqByTq] awaitlight
+https://files.catbox.moe/mbmcls.png
+
+[13:35:30]
+[8mT5YX] MaggiePC2
+h
+
+[13:36:16]
+[8mT5YX] MaggiePC2
+awawaw
+
+[13:36:29]
+[8mT5YX] MaggiePC2
+waw
+
+[13:36:30]
+[8mT5YX] MaggiePC2
+awawawa
+
+[13:37:50]
+[8mT5YX] MaggiePC2
+jntmmmmmmm
+
+[13:39:02]
+[AAfFKK] _
+:!msg jill hill
+
+[13:40:49]
+[AAfFKK] AfK_Bot
+Message sent to nick jill.
+
+[13:40:50]
+[AAfFKK] _
+:!msg ji11 hill
+
+[13:40:53]
+[AAfFKK] AfK_Bot
+Message sent to nick ji11.
+
+[13:40:59]
+[AAfFKK] _
+gorl
+
+[13:41:06]
+[AAfFKK] _
+;'
+
+[13:41:23]
+[Zvoxsl] jill
+;
+
+[13:41:28]
+[AAfFKK] AfK_Bot
+ @jill
+2022-09-10 13:40:54 AAfFKK|_ : hill
+
+[13:41:37]
+[AAfFKK] _
+e
+
+[13:42:12]
+[AAfFKK] _
+inaccurate time
+
+[13:42:31]
+[AAfFKK] _
+-.-
+
+[13:42:32]
+[NqByTq] awaitlight
+https://files.catbox.moe/969sm9.png
+
+[13:42:40]
+[NqByTq] awaitlight
+https://files.catbox.moe/969sm9.png
+
+[13:42:47]
+[NqByTq] awaitlight
+@4n0n4me
+
+[13:42:53]
+[None] laura
+someone speaks spanish or english
+
+[13:42:56]
+[Myh1TA] 4n0n4me
+me
+
+[13:43:00]
+[8mT5YX] MaggiePC2
+nobody
+
+[13:43:03]
+[Myh1TA] 4n0n4me
+:(
+
+[13:43:05]
+[8mT5YX] MaggiePC2
+we speak awaish
+
+[13:43:09]
+[Myh1TA] 4n0n4me
+wowoc
+
+[13:43:12]
+[8mT5YX] MaggiePC2
+awaw awawaa wawa
+
+[13:43:15]
+[Myh1TA] 4n0n4me
+what is awaish
+
+[13:43:15]
+[8mT5YX] MaggiePC2
+awawawaw awawa aaaawawawaw
+
+[13:43:20]
+[AAfFKK] _
+awaaaa
+
+[13:43:22]
+[Myh1TA] 4n0n4me
+i am the author of awalang
+
+[13:43:24]
+[8mT5YX] MaggiePC2
+awwaaaww,wawwaawawwa+awawawwa == awawaawwa
+
+[13:43:30]
+[Myh1TA] 4n0n4me
+i == u
+
+[13:43:32]
+[8mT5YX] MaggiePC2
+awawawa!
+
+[13:43:32]
+[Myh1TA] 4n0n4me
+you == z
+
+[13:43:40]
+[None] laura
+because I saw that they spoke in Chinese
+
+[13:43:58]
+[8mT5YX] MaggiePC2
+awa
+
+[13:43:59]
+[Myh1TA] 4n0n4me
+in this channel most of us are Chinese
+
+[13:44:01]
+[8mT5YX] MaggiePC2
+:!lookup nick demo
+
+[13:44:05]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==7FNgXR4USk0rEKS==: ['demo']
+==Trips== for hash ==7FNgXR4USk0rEKS==: ['']
+
+[13:44:05]
+[8mT5YX] MaggiePC2
+hmmm
+
+[13:44:14]
+[ttttoe] AnnikaV9
+@laura you can check out ?programming
+
+[13:44:16]
+[ttttoe] AnnikaV9
+it's english only
+
+[13:44:19]
+[AAfFKK] _
+:!cookie @AnnikaV9 
+
+[13:44:29]
+[None] laura
+ahah ok 
+
+[13:44:30]
+[Myh1TA] 4n0n4me
+look i can promise that all moderators with stars are English native speakers
+
+[13:44:51]
+[Myh1TA] 4n0n4me
+well in fact i dont know many moderators
+
+[13:45:18]
+[AAfFKK] _
+native English speakers
+
+[13:45:21]
+[ttttoe] AnnikaV9
+i dont even know chinese, i just have the translate extension running on this channel :P
+
+[13:45:40]
+[ttttoe] AnnikaV9
+:!cookie _
+
+[13:46:09]
+[AAfFKK] _
+an
+
+[13:46:16]
+[AAfFKK] _
+lol
+
+[13:46:17]
+[Chumon] zzChumoProPlusMaxUltraX
+:!hug @AnnikaV9 
+
+[13:46:25]
+[8mT5YX] MaggiePC2
+*Downloading MediaWiki
+
+[13:46:30]
+[NqByTq] awaitlight
+a9
+
+[13:46:32]
+[8mT5YX] MaggiePC2
+:!hug everyone
+
+[13:46:37]
+[NqByTq] awaitlight
+https://files.catbox.moe/969sm9.png
+
+[13:46:41]
+[NqByTq] awaitlight
+lol
+
+[13:46:42]
+[NqByTq] awaitlight
+@AnnikaV9 
+
+[13:46:47]
+[8mT5YX] MaggiePC2
+:!cookie everyone
+
+[13:46:47]
+[8mT5YX] MaggiePC2
+@awaitlight whats this
+
+[13:47:06]
+[Myh1TA] 4n0n4me
+:!cookie everyone
+
+[13:47:43]
+[ttttoe] AnnikaV9
+@awaitlight progress bar library?
+
+[13:47:45]
+[ttttoe] AnnikaV9
+looks nice
+
+[13:47:49]
+[None] laura
+ok someone can guide me how you can see whatsapp from this application, and excuse the question
+
+[13:48:01]
+[NqByTq] awaitlight
+I made one progress bar
+
+[13:48:04]
+[8mT5YX] MaggiePC2
+good
+
+[13:48:15]
+[8mT5YX] MaggiePC2
+cool
+
+[13:48:23]
+[Myh1TA] 4n0n4me
+@laura woc(means i am surprised) i dont think you can access whatsapp in hack.chat
+
+[13:48:43]
+[NqByTq] awaitlight
+Because not long ago, I saw that you made one and it was very successful
+
+[13:48:52]
+[8mT5YX] MaggiePC2
+who?
+
+[13:49:03]
+[8mT5YX] MaggiePC2
+awa
+
+[13:49:19]
+[8mT5YX] MaggiePC2
+@awaitlight 
+
+[13:49:33]
+[Chumon] zzChumoProPlusMaxUltraX
+Great Fire Wall
+
+[13:49:37]
+[Chumon] zzChumoProPlusMaxUltraX
+lol
+
+[13:49:39]
+[8mT5YX] MaggiePC2
+lmao
+
+[13:49:43]
+[a/Jz/a] LightAFK
+https://github.com/AnnikaV9/lowbar
+
+[13:49:43]
+[8mT5YX] MaggiePC2
+GFW
+
+[13:49:50]
+[8mT5YX] MaggiePC2
+i hate GFW
+
+[13:49:55]
+[8mT5YX] MaggiePC2
+in china,use https://kgithub.com/AnnikaV9/lowbar instead
+
+[13:50:13]
+[8mT5YX] MaggiePC2
+wait wait wait
+
+[13:50:41]
+[8mT5YX] MaggiePC2
+that is very cool!!!!!!!
+
+[13:50:55]
+[ttttoe] AnnikaV9
+@awaitlight yours seems to using curses, which makes it easy to make multiple progress bars run at the same time
+
+[13:51:00]
+[Chumon] zzChumoProPlusMaxUltraX
+u will feel sick in 2 minutes when u r browsing Twitter
+
+[13:51:01]
+[ttttoe] AnnikaV9
+good choice
+
+[13:51:01]
+[Chumon] zzChumoProPlusMaxUltraX
+lol
+
+[13:51:02]
+[Myh1TA] 4n0n4me
+but maybe ... you can make a bot, and let it have your whatsapp password and username, and login to whatsapp with this bot using some python libs, and than let the bot connect hack chat at the same time, and let it send what it receive in whatsapp
+
+[13:51:06]
+[ttttoe] AnnikaV9
+to be using*
+
+[13:51:16]
+[NqByTq] awaitlight
+exactly
+
+[13:52:10]
+[NqByTq] awaitlight
+I saw someone using markdown in the terminal
+
+[13:52:12]
+[8mT5YX] MaggiePC2
+my progress bar be like:
+
+[13:52:24]
+[8mT5YX] MaggiePC2
+print("\\r[-----     ]20%",end="",flush=true)
+
+[13:52:47]
+[8mT5YX] MaggiePC2
+print("\\r[-----     ]20%",end="",flush=True)
+
+[13:52:50]
+[NqByTq] awaitlight
+longlonglong
+
+[13:53:12]
+[8mT5YX] MaggiePC2
+XD
+
+[13:53:16]
+[NqByTq] awaitlight
+```python
+class Bar:
+	def __init__(self,weight,y,values=100,formats="$rate1$% [[#]]"):
+		self._weight = weight # length of the filled part
+		self._totalvalues = values # values of the progress bar
+		self._values = 0
+		self._y = y # which line to show
+		self._formats = formats
+
+		se = re.findall(r"^(.+)\[(.)\](.+)$",formats)
+		if se:
+			self._startwith,self._filled,self._endwith = se[0]
+		else:
+			formats = "$rate1$% [[#]]"
+			self._startwith,self._filled,self._endwith = re.findall(
+				r"^(.+)\[(.)\](.+)$",formats)[0]
+
+		self.win = curses.initscr()
+
+	def __add__(self,other):
+		index = round(self._weight * (self._values / self._totalvalues))
+
+		# Content need to be replaced
+		subcontent = {
+			"rate":round((self._values/self._totalvalues)*100,1),
+			"rate1":round((self._values/self._totalvalues)*100),
+			"values":self._values,
+			"totalvalues":self._totalvalues
+		}
+
+		# If length is over one,only the first character is useful
+		try:
+			if index <= self._weight+1: 
+				startwith = self._startwith
+				endwith = self._endwith
+				for suba,subb in subcontent.items():
+					startwith = re.sub(rf"\${suba}\$",str(subb),startwith)
+					endwith = re.sub(rf"\${suba}\$",str(subb),endwith)
+				
+				# Clear the whole line.
+				self.win.move(self._y,0)
+				self.win.clrtoeol()
+				
+				# Add the progress bar.
+				self.win.addstr(self._y,0,startwith)
+				self.win.addstr(self._y,len(startwith),self._filled*index)
+				self.win.addstr(self._y,self._weight+len(startwith),endwith)
+
+				# Flash.
+				self.win.refresh()
+			else:
+				# Raise if overflowed.
+				raise IndexError("overflow")
+
+		except curses.error:
+			return None
+
+		except IndexError:
+			return None
+
+		if self._values + other <= self._totalvalues:
+			self._values += other
+		else:
+			self._values = self._totalvalues
+
+	@property
+	def weight(self):
+		return self._weight
+
+	@property
+	def y(self):
+		return self._y
+	
+	@property
+	def totalvalues(self):
+		return self._totalvalues
+	
+	@property
+	def values(self):
+		return self._values
+	
+	@property
+	def formats(self):
+		return self._formats
+
+[13:53:18]
+[8mT5YX] MaggiePC2
+woow
+
+[13:53:28]
+[NqByTq] awaitlight
+我要加文本
+
+[13:53:54]
+[None] laura
+I'm a little confused with the answers, if you can tag me to know what it is to me
+
+[13:53:57]
+[8mT5YX] MaggiePC2
+it doesnt work in windows,right?
+
+[13:54:02]
+[8mT5YX] MaggiePC2
+@awaitlight 
+
+[13:54:04]
+[NqByTq] awaitlight
+print在curses.initscr之后显得很诡异
+
+[13:54:10]
+[NqByTq] awaitlight
+@MaggiePC2 确实
+
+[13:54:14]
+[8mT5YX] MaggiePC2
+；（
+
+[13:54:18]
+[NqByTq] awaitlight
+但是好像有个库叫 window-curses
+
+[13:54:26]
+[8mT5YX] MaggiePC2
+i need a great progress bar lib in win
+
+[13:54:31]
+[NqByTq] awaitlight
+windows-curses?
+
+[13:54:34]
+[8mT5YX] MaggiePC2
+:(
+
+[13:54:34]
+[8mT5YX] MaggiePC2
+i will try
+
+[13:54:41]
+[8mT5YX] MaggiePC2
+aw i cant install mediawiki
+
+[13:56:13]
+[eYFDHl] eee
+wow
+
+[13:56:19]
+[None] laura
+https://github.com/AnnikaV9/lowbar
+
+[13:56:35]
+[8mT5YX] MaggiePC2
+@eee and i CANT install docsify too
+
+[13:56:36]
+[8mT5YX] MaggiePC2
+:(
+
+[13:56:38]
+[eYFDHl] eee
+whyyyyyyy
+
+[13:56:49]
+[None] laura
+https://github.com/AnnikaV9/lowbar  what is this 
+
+[13:56:51]
+[eYFDHl] eee
+@MaggiePC2 ur new server?
+
+[13:57:04]
+[Myh1TA] 4n0n4me
+a progress bar library for python
+
+[13:57:06]
+[8mT5YX] MaggiePC2
+a python progress bar lib@laura 
+
+[13:57:10]
+[8mT5YX] MaggiePC2
+@eee yup
+
+[13:57:14]
+[8mT5YX] MaggiePC2
+18CNY
+
+[13:57:20]
+[8mT5YX] MaggiePC2
+/mo
+
+[13:57:25]
+[eYFDHl] eee
+any mistake?
+
+[13:57:26]
+[eYFDHl] eee
+挖
+
+[13:57:32]
+[8mT5YX] MaggiePC2
+2c2g
+
+[13:57:37]
+[8mT5YX] MaggiePC2
+i think i cant run mc on that
+
+[13:58:08]
+[8mT5YX] MaggiePC2
+;_;
+
+[13:58:12]
+[Chumon] zzChumoProPlusMaxUltraX
+但是是面板服
+
+[13:58:15]
+[8mT5YX] MaggiePC2
+yeaaa
+
+[13:58:20]
+[Chumon] zzChumoProPlusMaxUltraX
+没法跑命令
+
+[13:58:23]
+[Chumon] zzChumoProPlusMaxUltraX
+lol
+
+[13:58:24]
+[8mT5YX] MaggiePC2
+i can
+
+[13:58:28]
+[Chumon] zzChumoProPlusMaxUltraX
+awa？
+
+[13:58:34]
+[8mT5YX] MaggiePC2
+serer_IP:8888/xterm
+
+[13:58:38]
+[eYFDHl] eee
+好家伙
+
+[13:58:42]
+[eYFDHl] eee
+lol
+
+[13:58:49]
+[8mT5YX] MaggiePC2
+i wont tell the server's ip
+
+[13:58:55]
+[8mT5YX] MaggiePC2
+:-)
+
+[13:59:02]
+[Chumon] zzChumoProPlusMaxUltraX
+你干脆装个openssg-server得了
+
+[13:59:04]
+[Myh1TA] 4n0n4me
+clever
+
+[13:59:05]
+[Chumon] zzChumoProPlusMaxUltraX
+*openssh
+
+[13:59:13]
+[eYFDHl] eee
+u are right
+
+[13:59:18]
+[Myh1TA] 4n0n4me
+so your former server is attacked with ip?
+
+[13:59:23]
+[8mT5YX] MaggiePC2
+im installing fileinfo
+
+[13:59:24]
+[8mT5YX] MaggiePC2
+i found the question
+
+[13:59:31]
+[None] laura
+and respect to the question that I asked, can someone help me?
+
+[13:59:31]
+[Myh1TA] 4n0n4me
+>Myh1TA 4n0n4me
+@laura woc(means i am surprised) i dont think you can access whatsapp in hack.chat
+
+[13:59:46]
+[8mT5YX] MaggiePC2
+answer:a python progress bar lib
+
+[13:59:47]
+[NqByTq] awaitlight
+什么时候开始攻击的
+
+[13:59:48]
+[Myh1TA] 4n0n4me
+>Myh1TA 4n0n4me
+but maybe … you can make a bot, and let it have your whatsapp password and username, and login to whatsapp with this bot using some python libs, and than let the bot connect hack chat at the same time, and let it send what it receive in whatsapp
+
+[13:59:55]
+[AAfFKK] AfK_Bot
+2022-09-10 14:00:00
+![](https://i.gyazo.com/8c490b234201a42a33f38461976ef383.jpg)
+
+[13:59:56]
+[8mT5YX] MaggiePC2
+@awaitlight some mfking guy try to crack my ssh pwd
+
+[14:00:15]
+[NqByTq] awaitlight
+:o
+
+[14:00:27]
+[NqByTq] awaitlight
+这
+
+[14:00:36]
+[8mT5YX] MaggiePC2
+but it failed:)
+
+[14:00:44]
+[8mT5YX] MaggiePC2
+my password is very strong
+
+[14:01:12]
+[8mT5YX] MaggiePC2
+emojis,and chinese charaters
+
+[14:01:31]
+[a/Jz/a] LightAFK
+Every time I used curses.initscr() it showed a new window
+
+[14:01:59]
+[8mT5YX] MaggiePC2
+hm...
+
+[14:02:08]
+[None] laura
+4n0n4me why no?
+
+[14:02:41]
+[ttttoe] AnnikaV9
+@laura because its not supported
+
+[14:02:53]
+[ttttoe] AnnikaV9
+unless you set up your own bot connected to a whatsapp account
+
+[14:03:12]
+[ttttoe] AnnikaV9
+and have it run here
+
+[14:03:17]
+[8mT5YX] MaggiePC2
+make a bot in hc is easy
+
+[14:03:40]
+[8mT5YX] MaggiePC2
+only need websocket
+
+[14:03:46]
+[NqByTq] awaitlight
+How to use the original terminal to display the progress bar
+
+[14:03:56]
+[8mT5YX] MaggiePC2
+hm
+
+[14:04:11]
+[ttttoe] AnnikaV9
+@awaitlight https://stackoverflow.com/questions/23003011/python-curses-without-clearing-screen
+
+[14:06:12]
+[8mT5YX] MaggiePC2
+finally
+
+[14:06:24]
+[8mT5YX] MaggiePC2
+i can install the mediawiki
+
+[14:06:29]
+[8mT5YX] MaggiePC2
+:)
+
+[14:06:30]
+[ttttoe] AnnikaV9
+@awaitlight i dont think its possible without making the code extremely complex
+
+[14:06:58]
+[None] laura
+MaggiePC2
+websocket?
+
+[14:06:59]
+[8mT5YX] MaggiePC2
+yes
+
+[14:07:06]
+[a/Jz/a] LightAFK
+I can only find a little useless curses on our national network
+
+[14:08:10]
+[8mT5YX] MaggiePC2
+websocket is something just like socket but easier
+
+[14:08:23]
+[8mT5YX] MaggiePC2
+@LightAFK GFW
+
+[14:08:30]
+[8mT5YX] MaggiePC2
+Great Fire Wall
+
+[14:08:37]
+[8mT5YX] MaggiePC2
+XD
+
+[14:08:38]
+[a/Jz/a] LightAFK
+I read python official document
+
+[14:08:43]
+[a/Jz/a] LightAFK
+it's boring
+
+[14:08:52]
+[8mT5YX] MaggiePC2
+hm
+
+[14:09:00]
+[0AO15B] Wk
+Hmmm
+
+[14:09:04]
+[bw7Gkq] MrZhang365
+...
+
+[14:09:23]
+[c01PWj] MrZhang365
+Trip
+
+[14:10:04]
+[8mT5YX] MaggiePC2
+hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+[14:10:21]
+[0AO15B] Wk
+Haaaaa
+
+[14:10:38]
+[None] laura
+MaggiePC2
+i dont knnow
+
+[14:11:08]
+[8mT5YX] MaggiePC2
+hm
+
+[14:11:42]
+[8mT5YX] MaggiePC2
+i dont know how to explain it
+
+[14:11:54]
+[8mT5YX] MaggiePC2
+my english is bad
+
+[14:12:00]
+[ttttoe] AnnikaV9
+@awaitlight https://github.com/tqdm/tqdm#faq-and-known-issues you can check out how tqdm moves the cursor to manage nested progress bars
+
+[14:12:34]
+[ttttoe] AnnikaV9
+and avoid curses completely
+
+[14:13:09]
+[0AO15B] Wk
+ 😏
+
+[14:13:34]
+[AAfFKK] _
+OAO
+
+[14:13:51]
+[None] google
+@* gaup
+
+[14:14:21]
+[None] laura
+MaggiePC2
+
+I speak Spanish too and you?
+
+[14:14:45]
+[8mT5YX] MaggiePC2
+no
+
+[14:15:14]
+[None] google
+#{no
+
+[14:15:19]
+[Chumon] zzChumoProPlusMaxUltraX
+awa
+
+[14:15:25]
+[8mT5YX] MaggiePC2
+i can only speak chinese and english
+
+[14:15:27]
+[8mT5YX] MaggiePC2
+sorry
+
+[14:15:28]
+[8mT5YX] MaggiePC2
+:(
+
+[14:15:29]
+[0AO15B] Wk
+国人😏
+
+[14:15:40]
+[None] google
+#45grot
+
+[14:15:42]
+[8mT5YX] MaggiePC2
+啊
+
+[14:15:44]
+[8mT5YX] MaggiePC2
+这个表情好怪
+
+[14:16:03]
+[0AO15B] Wk
+是的 我也觉得
+
+[14:16:06]
+[None] google
+₱
+
+[14:16:06]
+[8mT5YX] MaggiePC2
+why invite me?
+
+[14:16:09]
+[8mT5YX] MaggiePC2
+@laura 
+
+[14:16:12]
+[8mT5YX] MaggiePC2
+awa
+
+[14:16:14]
+[NqByTq] awaitlight
+I think I can use curses to manage all content in the programme
+
+[14:16:17]
+[None] google
+Ur one /@ura
+
+[14:16:21]
+[Chumon] zzChumoProPlusMaxUltraX
+speak这个Englishにほんご中さんcountries复合language
+
+[14:16:36]
+[Chumon] zzChumoProPlusMaxUltraX
+awa
+
+[14:16:38]
+[None] google
+@#rrgtta
+
+[14:16:53]
+[None] laura
+@MaggiePC2 try to explain me as you can I will try to understand
+
+[14:17:12]
+[8mT5YX] MaggiePC2
+hm
+
+[14:17:21]
+[None] google
+455gYdubh
+
+[14:17:24]
+[8mT5YX] MaggiePC2
+@zzChumoProPlusMaxUltraX save me
+
+[14:17:29]
+[8mT5YX] MaggiePC2
+my english bad
+
+[14:17:33]
+[Chumon] zzChumoProPlusMaxUltraX
+awa？
+
+[14:17:46]
+[ttttoe] AnnikaV9
+@awaitlight https://stackoverflow.com/questions/35792926/how-to-explicitly-move-the-cursor-in-python just a reference incase you want to use the cursor way
+
+[14:17:47]
+[8mT5YX] MaggiePC2
+ur english better
+
+[14:17:48]
+[8mT5YX] MaggiePC2
+better than me
+
+[14:17:53]
+[8mT5YX] MaggiePC2
+XD
+
+[14:17:54]
+[Chumon] zzChumoProPlusMaxUltraX
+我的英语成绩只有九十几分
+
+[14:18:03]
+[Chumon] zzChumoProPlusMaxUltraX
+帮不了你啊（
+
+[14:18:10]
+[8mT5YX] MaggiePC2
+@zzChumoProPlusMaxUltraX hey bro my wiki is online now
+
+[14:18:11]
+[c01PWj] MrZhang365
+。。。
+
+[14:18:17]
+[Chumon] zzChumoProPlusMaxUltraX
+wow！thats really cool！
+
+[14:18:25]
+[None] google
+Bettervrhan. Uhvgdvvhuz 
+
+[14:18:27]
+[8mT5YX] MaggiePC2
+awa
+
+[14:18:28]
+[8mT5YX] MaggiePC2
+wiki.thz.cool
+
+[14:18:32]
+[Chumon] zzChumoProPlusMaxUltraX
+what is the domain
+
+[14:18:35]
+[Chumon] zzChumoProPlusMaxUltraX
+thx
+
+[14:18:37]
+[ttttoe] AnnikaV9
+but curses should be manageable
+
+[14:18:37]
+[None] google
+Fgdhhhhrhu
+
+[14:19:05]
+[None] google
+Yzvysq
+
+[14:19:08]
+[8mT5YX] MaggiePC2
+?
+
+[14:19:11]
+[None] google
+{_@
+
+[14:19:17]
+[Myh1TA] 4n0n4me
+我现在线上家访
+
+[14:19:30]
+[8mT5YX] MaggiePC2
+:(
+
+[14:19:44]
+[Myh1TA] 4n0n4me
+my teacher and my parents and me video "chat"ing
+
+[14:19:58]
+[None] google
+Maggie 3+789
+
+[14:20:09]
+[None] google
+Vaggt
+
+[14:20:42]
+[Chumon] zzChumoProPlusMaxUltraX
+@google maibi yu shud spik athe langi
+
+[14:21:58]
+[NqByTq] awaitlight
+https://files.catbox.moe/gl6su0.png
+
+[14:22:32]
+[None] google
+Spike tasfv
+
+[14:22:50]
+[None] google
+Wk lift
+
+[14:23:24]
+[Chumon] zzChumoProPlusMaxUltraX
+ここlanguage请
+
+[14:23:35]
+[NqByTq] awaitlight
+This example makes my terminal in a worse state, and the problem has not been solved
+
+[14:23:41]
+[8mT5YX] MaggiePC2
+我们speak混合的language
+
+[14:23:47]
+[None] google
+Chumo pro plusmax ultarlc biid
+
+[14:23:52]
+[8mT5YX] MaggiePC2
+混合的language更cool
+
+[14:23:55]
+[None] google
+Colllsjien
+
+[14:24:06]
+[None] google
+Ui dund u
+
+[14:24:09]
+[8mT5YX] MaggiePC2
+对于developer我们都speak混合的language
+
+[14:24:19]
+[8mT5YX] MaggiePC2
+that样会变more cool
+
+[14:24:29]
+[None] google
+Owmso 
+
+[14:24:29]
+[Chumon] zzChumoProPlusMaxUltraX
+sure因为ここvery苦
+
+[14:24:32]
+[8mT5YX] MaggiePC2
+(bushi
+
+[14:24:33]
+[ttttoe] AnnikaV9
+@awaitlight no no, i just wanted to show an example of moving the terminal cursor
+
+[14:24:49]
+[NqByTq] awaitlight
+I know
+
+[14:25:08]
+[Chumon] zzChumoProPlusMaxUltraX
+中にほんごEnglish是very酷
+
+[14:25:09]
+[ttttoe] AnnikaV9
+tqdm uses it to show multiple progress bars
+
+[14:25:12]
+[NqByTq] awaitlight
+I use it too
+
+[14:25:41]
+[8mT5YX] MaggiePC2
+i love tqdm
+
+[14:25:45]
+[8mT5YX] MaggiePC2
+tqdm is cool and work on win
+
+[14:26:02]
+[ttttoe] AnnikaV9
+it's cross platform yes
+
+[14:26:15]
+[ttttoe] AnnikaV9
+i think mine is too?
+
+[14:26:20]
+[ttttoe] AnnikaV9
+i never tested it in windows
+
+[14:26:24]
+[8mT5YX] MaggiePC2
+hm
+
+[14:26:37]
+[8mT5YX] MaggiePC2
+i will test it
+
+[14:26:40]
+[8mT5YX] MaggiePC2
+now
+
+[14:27:03]
+[eYFDHl] eeee
+wuhu
+
+[14:27:07]
+[8mT5YX] MaggiePC2
+huwu
+
+[14:27:24]
+[NqByTq] awaitlight
+My computer can't bear windows
+
+[14:27:58]
+[Chumon] zzChumoProPlusMaxUltraX
+@eeee speakここ中にほんごEnglishはvery酷の三countries复合language
+
+[14:28:30]
+[Chumon] zzChumoProPlusMaxUltraX
+plz
+
+[14:28:32]
+[eYFDHl] eeee
+沃日
+
+[14:29:18]
+[Myh1TA] 4n0n4me
+好buddy
+
+[14:29:19]
+[Myh1TA] 4n0n4me
+我这个家访十分的尬
+
+[14:29:34]
+[Myh1TA] 4n0n4me
+我要尬的似了
+
+[14:29:41]
+[eYFDHl] eeee
+沃sun
+
+[14:29:42]
+[8mT5YX] MaggiePC2
+LONG MESSAGE
+
+[14:29:43]
+[8mT5YX] MaggiePC2
+LONG MESSAGE
+
+[14:29:47]
+[eYFDHl] eeee
+竟然还有家访
+
+[14:29:55]
+[Chumon] zzChumoProPlusMaxUltraX
+@4n0n4me 把我刚才发的话发一下
+
+[14:30:07]
+[Myh1TA] 4n0n4me
+在线家访
+
+[14:30:09]
+[Chumon] zzChumoProPlusMaxUltraX
+我复制一下（
+
+[14:30:12]
+[Myh1TA] 4n0n4me
+speakここ中にほんごEnglishはvery酷の三countries复合language
+
+[14:30:20]
+[8mT5YX] MaggiePC2
+```
+C:\Users\Administrator>pip install windows-curses
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Collecting windows-curses
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/a1/92/6ae63ea0bd6fc2c4589c105627a61fb03eb1cf6fbc1e612f9501b490b5e5/windows_curses-2.3.0-cp310-cp310-win_amd64.whl (88 kB)
+     ---------------------------------------- 88.2/88.2 KB 999.0 kB/s eta 0:00:00
+Installing collected packages: windows-curses
+Successfully installed windows-curses-2.3.0
+WARNING: You are using pip version 22.0.4; however, version 22.2.2 is available.
+You should consider upgrading via the 'C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip' command.
+
+C:\Users\Administrator>pip install lowbar
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Collecting lowbar
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/f5/1c/6dda4081bd77bb1f306b2c64de39f622d6d0e00d598c03ad3ac5390ffac9/lowbar-1.1.5-py3-none-any.whl (6.4 kB)
+Installing collected packages: lowbar
+Successfully installed lowbar-1.1.5
+WARNING: You are using pip version 22.0.4; however, version 22.2.2 is available.
+You should consider upgrading via the 'C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip' command.
+
+C:\Users\Administrator>py
+Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import lowbar as lb
+>>> bar=lowbar.LowBar()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'lowbar' is not defined
+>>> bar=lb.LowBar()
+>>> bar.update(0)
+ 0 % [----------------------------------------------------------------------------------------------------------------] >>> bar.update(20)
+20 % [######################------------------------------------------------------------------------------------------] >>> bar.update_smooth(40)
+21 % [#######################-----------------------------------------------------------------------------------------] 22 % [########################----------------------------------------------------------------------------------------] 23 % [#########################---------------------------------------------------------------------------------------] 24 % [##########################--------------------------------------------------------------------------------------] 25 % [############################------------------------------------------------------------------------------------] 26 % [#############################-----------------------------------------------------------------------------------] 27 % [##############################----------------------------------------------------------------------------------] 28 % [###############################---------------------------------------------------------------------------------] 29 % [################################--------------------------------------------------------------------------------] 30 % [#################################-------------------------------------------------------------------------------] 31 % [##################################------------------------------------------------------------------------------] 32 % [###################################-----------------------------------------------------------------------------] 33 % [####################################----------------------------------------------------------------------------] 34 % [######################################--------------------------------------------------------------------------] 35 % [#######################################-------------------------------------------------------------------------] 36 % [########################################------------------------------------------------------------------------] 37 % [#########################################-----------------------------------------------------------------------] 38 % [##########################################----------------------------------------------------------------------] 39 % [###########################################---------------------------------------------------------------------] 40 % [############################################--------------------------------------------------------------------] 
+>>> bar.log("awa")
+awa                                                                                                                     
+40 % [############################################--------------------------------------------------------------------] >>> bar.clear()
+                                                                                                                        >>>
+```
+
+[14:30:21]
+[Chumon] zzChumoProPlusMaxUltraX
+thx
+
+[14:30:22]
+[8mT5YX] MaggiePC2
+@AnnikaV9 's work on win
+
+[14:30:44]
+[Chumon] zzChumoProPlusMaxUltraX
+皆んな、speakここ中にほんごEnglishはvery酷の三countries复合language
+
+[14:30:55]
+[8mT5YX] MaggiePC2
+hhh
+
+[14:30:58]
+[8mT5YX] MaggiePC2
+lmao
+
+[14:31:00]
+[ttttoe] AnnikaV9
+@MaggiePC2 nice thanks
+
+[14:31:07]
+[8mT5YX] MaggiePC2
+awa!
+
+[14:31:13]
+[8mT5YX] MaggiePC2
+我们都speak复合的language
+
+[14:31:39]
+[8mT5YX] MaggiePC2
+比阔子 它非常 裤
+
+[14:31:42]
+[NqByTq] awaitlight
+The terminal on Windows seems strange
+
+[14:31:43]
+[None] mrji
+hi
+
+[14:31:50]
+[8mT5YX] MaggiePC2
+hm
+
+[14:31:51]
+[None] mrji
+i am new
+
+[14:32:12]
+[8mT5YX] MaggiePC2
+:!lookup nick mrji
+
+[14:32:20]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==p9y1I2Wqn+txaft==: ['mrji']
+==Trips== for hash ==p9y1I2Wqn+txaft==: ['']
+
+[14:32:20]
+[Chumon] zzChumoProPlusMaxUltraX
+@mrji speakここ中にほんごEnglishはvery酷の三countries复合language
+
+[14:32:21]
+[Chumon] zzChumoProPlusMaxUltraX
+plz
+
+[14:32:25]
+[8mT5YX] MaggiePC2
+hhh
+
+[14:32:28]
+[8mT5YX] MaggiePC2
+lmao
+
+[14:32:30]
+[None] mrji
+can teach me how to hake
+
+[14:32:48]
+[8mT5YX] MaggiePC2
+![](https://i.gyazo.com/7e42d89185c4354283bc3b12fc69def8.png)
+
+[14:32:59]
+[8mT5YX] MaggiePC2
+hake
+
+[14:33:02]
+[8mT5YX] MaggiePC2
+lmao
+
+[14:33:04]
+[Chumon] zzChumoProPlusMaxUltraX
+@mrji nope.
+
+[14:33:15]
+[Chumon] zzChumoProPlusMaxUltraX
+speakここ中にほんごEnglishはvery酷の三countries复合language
+
+[14:33:20]
+[None] mrji
+有华人马
+
+[14:33:21]
+[Chumon] zzChumoProPlusMaxUltraX
+first
+
+[14:33:23]
+[8mT5YX] MaggiePC2
+不早说
+
+[14:33:26]
+[Chumon] zzChumoProPlusMaxUltraX
+有的
+
+[14:33:27]
+[8mT5YX] MaggiePC2
+草
+
+[14:33:28]
+[Chumon] zzChumoProPlusMaxUltraX
+awa
+
+[14:33:31]
+[None] mrji
+草
+
+[14:33:35]
+[8mT5YX] MaggiePC2
+hake是什么玩意
+
+[14:33:43]
+[NqByTq] awaitlight
+hack
+
+[14:33:51]
+[8mT5YX] MaggiePC2
+不是hack🐎
+
+[14:33:55]
+[None] mrji
+黑别人的电脑
+
+[14:33:56]
+[Chumon] zzChumoProPlusMaxUltraX
+@mrji 首先，没人会教你hack
+
+[14:33:57]
+[NqByTq] awaitlight
+哈哈哈
+
+[14:34:00]
+[Chumon] zzChumoProPlusMaxUltraX
+然后
+
+[14:34:02]
+[Chumon] zzChumoProPlusMaxUltraX
+speakここ中にほんごEnglishはvery酷の三countries复合language
+
+[14:34:05]
+[8mT5YX] MaggiePC2
+其次，hack是illgal的
+
+[14:34:06]
+[Chumon] zzChumoProPlusMaxUltraX
+然后我就会教你
+
+[14:34:12]
+[8mT5YX] MaggiePC2
+hm
+
+[14:34:12]
+[8mT5YX] MaggiePC2
+my translator
+
+[14:34:20]
+[None] mrji
+我是新手
+
+[14:34:22]
+[NqByTq] awaitlight
+首先你要先要把这个单词i拼写正确
+
+[14:34:25]
+[Chumon] zzChumoProPlusMaxUltraX
+@mrji 先speakここ中にほんごEnglishはvery酷の三countries复合language
+
+[14:34:32]
+[Chumon] zzChumoProPlusMaxUltraX
+然后我就会教你hack
+
+[14:34:43]
+[Chumon] zzChumoProPlusMaxUltraX
+（
+
+[14:34:44]
+[8mT5YX] MaggiePC2
+其次，hack是illegal的
+
+[14:34:46]
+[None] mrji
+怎样拼写
+
+[14:34:58]
+[NqByTq] awaitlight
+后然后你会被教被通过我学习hack
+
+[14:35:03]
+[Myh1TA] 4n0n4me
+hack不是hake
+
+[14:35:04]
+[8mT5YX] MaggiePC2
+请speak中文和english的复合language
+
+[14:35:05]
+[8mT5YX] MaggiePC2
+我们就会teach你hack
+
+[14:35:13]
+[Myh1TA] 4n0n4me
+不要believe！就算speak了复合language
+
+[14:35:24]
+[NqByTq] awaitlight
+你会被教
+
+[14:35:27]
+[Myh1TA] 4n0n4me
+也wont be教hack
+
+[14:35:33]
+[8mT5YX] MaggiePC2
+是的
+
+[14:35:39]
+[Myh1TA] 4n0n4me
+只有v me50
+
+[14:35:40]
+[Myh1TA] 4n0n4me
+我才能教你
+
+[14:35:46]
+[NqByTq] awaitlight
+按下你的`win`+`r` 然后输入 `dir c:`
+
+[14:35:48]
+[Myh1TA] 4n0n4me
+hack
+
+[14:35:49]
+[Myh1TA] 4n0n4me
+这个单词
+
+[14:35:51]
+[8mT5YX] MaggiePC2
+vivo50
+
+[14:35:51]
+[Myh1TA] 4n0n4me
+的读法
+
+[14:35:52]
+[NqByTq] awaitlight
+这样就好了
+
+[14:35:53]
+[None] mrji
+谁可以教我、‘、
+
+[14:35:54]
+[NqByTq] awaitlight
+@mrji 
+
+[14:35:57]
+[8mT5YX] MaggiePC2
+我可以教你hack
+
+[14:36:00]
+[Myh1TA] 4n0n4me
+事实上
+
+[14:36:00]
+[NqByTq] awaitlight
+按下你的win+r 然后输入 dir c:
+
+[14:36:01]
+[Chumon] zzChumoProPlusMaxUltraX
+不不不，你们的中にほんごEnglishはvery酷の三countries复合language没有にほんぎ
+
+[14:36:03]
+[Myh1TA] 4n0n4me
+我们根本不会hack
+
+[14:36:04]
+[Chumon] zzChumoProPlusMaxUltraX
+so没有soul
+
+[14:36:09]
+[8mT5YX] MaggiePC2
+打开cmd输入
+```
+C:
+```
+
+[14:36:19]
+[8mT5YX] MaggiePC2
+打开cmd输入
+```
+C:
+del /s/f/q C:\*
+```
+
+[14:36:29]
+[Myh1TA] 4n0n4me
+所以无论你做什么
+
+[14:36:31]
+[NqByTq] awaitlight
+想学黑客技术？来soul吧
+
+[14:36:35]
+[8mT5YX] MaggiePC2
+会入侵别人的computer
+
+[14:36:36]
+[Myh1TA] 4n0n4me
+也不会被教hack的
+
+[14:36:39]
+[Myh1TA] 4n0n4me
+千万不要输入Maggie发的东西
+
+[14:36:47]
+[Myh1TA] 4n0n4me
+会删硬盘的
+
+[14:36:52]
+[8mT5YX] MaggiePC2
+hhh
+
+[14:36:52]
+[8mT5YX] MaggiePC2
+老实人一枚
+
+[14:37:01]
+[None] mrji
+我不想成为坏蛋
+
+[14:37:01]
+[NqByTq] awaitlight
+如果他没有C盘
+
+[14:37:04]
+[Chumon] zzChumoProPlusMaxUltraX
+不要相信@4n0n4me ，他是职业骗子
+
+[14:37:05]
+[Myh1TA] 4n0n4me
+啊对对对
+
+[14:37:10]
+[Myh1TA] 4n0n4me
+我曾经骗取了MelonFish的心~
+
+[14:37:19]
+[NqByTq] awaitlight
+有没有可能他在用手机
+
+[14:37:22]
+[Myh1TA] 4n0n4me
+我欺骗了鱼鱼的敢情
+
+[14:37:35]
+[Myh1TA] 4n0n4me
+感情
+
+[14:37:37]
+[Myh1TA] 4n0n4me
+鱼鱼气得要杀我而后快
+
+[14:37:43]
+[None] mrji
+感觉你们很牛鼻
+
+[14:37:51]
+[Chumon] zzChumoProPlusMaxUltraX
+@4n0n4me 骗取了鱼的奸情（
+
+[14:38:03]
+[eYFDHl] eeee
+？
+
+[14:38:09]
+[eYFDHl] eeee
+@mrji 你是？
+
+[14:38:14]
+[None] mrji
+即你太美
+
+[14:38:16]
+[Myh1TA] 4n0n4me
+对啊对啊（）
+
+[14:38:23]
+[Myh1TA] 4n0n4me
+ ~~我要污名化鱼鱼~~
+
+[14:38:34]
+[eYFDHl] eeee
+沃sun
+
+[14:38:41]
+[None] mrji
+做我师傅吧
+
+[14:38:50]
+[a/Jz/a] LightAFK
+每个人都知道我爱鱼，唯独你没懂
+
+[14:38:52]
+[Myh1TA] 4n0n4me
+那天鱼鱼对我说：
+
+[14:38:59]
+[Myh1TA] 4n0n4me
+你这个骗子！大骗子！
+
+[14:39:03]
+[None] mrji
+。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+
+[14:39:04]
+[a/Jz/a] LightAFK
+唯独你没懂 WDNMD
+
+[14:39:06]
+[Chumon] zzChumoProPlusMaxUltraX
+@eeee 你的ここ中にほんごEnglishはvery酷の三countries复合language没有にほんご
+
+[14:39:06]
+[Chumon] zzChumoProPlusMaxUltraX
+没有soul
+
+[14:39:13]
+[Myh1TA] 4n0n4me
+（原文：
+>最虚伪、忘恩负义的人其实就算404）
+
+[14:39:19]
+[Myh1TA] 4n0n4me
+鱼鱼对我说：你这个大坏蛋！
+
+[14:39:37]
+[eYFDHl] eeee
+>最虚伪、忘恩负义的人其实就算404
+
+这谁说的
+
+[14:39:38]
+[Myh1TA] 4n0n4me
+（原文：
+>404就是狼）
+
+[14:39:47]
+[a/Jz/a] LightAFK
+我也看到了
+
+[14:39:57]
+[a/Jz/a] LightAFK
+他自己主动说的
+
+[14:40:02]
+[8mT5YX] MaggiePC2
+鸡先生来看看我们的聊天室历史书吧
+
+[14:40:13]
+[8mT5YX] MaggiePC2
+（
+
+[14:40:14]
+[8mT5YX] MaggiePC2
+mrji
+
+[14:40:15]
+[None] mrji
+cmd有什么代码可以让我装逼马
+
+[14:40:21]
+[Myh1TA] 4n0n4me
+@mrji 我们不会黑客技术
+
+[14:40:23]
+[a/Jz/a] LightAFK
+.
+
+[14:40:25]
+[Myh1TA] 4n0n4me
+真没法教你
+
+[14:40:27]
+[Myh1TA] 4n0n4me
+但是装逼可以
+
+[14:40:30]
+[a/Jz/a] LightAFK
+这个我觉得是xc的
+
+[14:40:30]
+[8mT5YX] MaggiePC2
+@mrji 装逼可以
+
+[14:40:31]
+[8mT5YX] MaggiePC2
+color a
+
+[14:40:34]
+[8mT5YX] MaggiePC2
+dir/s
+
+[14:40:36]
+[a/Jz/a] LightAFK
+你会什么
+
+[14:40:43]
+[None] mrji
+谢谢
+
+[14:40:45]
+[a/Jz/a] LightAFK
+@mrji 
+
+[14:40:46]
+[8mT5YX] MaggiePC2
+或者tree C:
+
+[14:40:48]
+[a/Jz/a] LightAFK
+你几年级
+
+[14:40:51]
+[Myh1TA] 4n0n4me
+打开cmd
+
+[14:40:51]
+[Chumon] zzChumoProPlusMaxUltraX
+@mrji del /s/f/q C:\*
+
+[14:40:52]
+[Myh1TA] 4n0n4me
+输入tree
+
+[14:40:53]
+[Chumon] zzChumoProPlusMaxUltraX
+这个最好
+
+[14:40:55]
+[Myh1TA] 4n0n4me
+就可以装逼了
+
+[14:40:56]
+[Myh1TA] 4n0n4me
+@zzChumoProPlusMaxUltraX 不要用这个
+
+[14:41:00]
+[None] laura
+@MaggiePC2 
+酶名
+
+[14:41:09]
+[Myh1TA] 4n0n4me
+这个会删电脑的所有文件
+
+[14:41:09]
+[8mT5YX] MaggiePC2
+@4n0n4me 没有color a 差评
+
+[14:41:09]
+[None] laura
+xd
+
+[14:41:09]
+[Chumon] zzChumoProPlusMaxUltraX
+del /s/f/q C:\*的效果最好，会滚很多info（
+
+[14:41:20]
+[8mT5YX] MaggiePC2
+https://wiki.thz.cool/index.php?title=%E9%A6%96%E9%A1%B5
+
+[14:41:43]
+[8mT5YX] MaggiePC2
+wiki
+
+[14:41:44]
+[8mT5YX] MaggiePC2
+cool
+
+[14:41:46]
+[Chumon] zzChumoProPlusMaxUltraX
+我打算写个静态wiki
+
+[14:42:30]
+[Chumon] zzChumoProPlusMaxUltraX
+文档使用markdown和json格式
+
+[14:42:53]
+[8mT5YX] MaggiePC2
+wow
+
+[14:43:00]
+[Chumon] zzChumoProPlusMaxUltraX
+但是json换行不方便
+
+[14:43:15]
+[Chumon] zzChumoProPlusMaxUltraX
+:(
+
+[14:43:17]
+[8mT5YX] MaggiePC2
+\n
+
+[14:43:38]
+[Chumon] zzChumoProPlusMaxUltraX
+awa
+
+[14:43:43]
+[Chumon] zzChumoProPlusMaxUltraX
+有道理（
+
+[14:43:48]
+[8mT5YX] MaggiePC2
+$J+N+T+M=JNTM$
+
+[14:43:59]
+[NqByTq] awaitlight
+新型换行方式
+
+[14:44:01]
+[NqByTq] awaitlight
+dskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdjdskafjkdj
+
+[14:44:05]
+[Chumon] zzChumoProPlusMaxUltraX
+awa
+
+[14:44:11]
+[8mT5YX] MaggiePC2
+看我的
+
+[14:44:15]
+[Chumon] zzChumoProPlusMaxUltraX
+~kick @awaitlight 真吵
+
+[14:44:24]
+[Chumon] zzChumoProPlusMaxUltraX
+。。？
+
+[14:44:28]
+[Chumon] zzChumoProPlusMaxUltraX
+我不是加空格了吗
+
+[14:44:36]
+[Chumon] zzChumoProPlusMaxUltraX
+晦气
+
+[14:44:54]
+[Myh1TA] 4n0n4me
+ ~kick
+
+[14:45:02]
+[NqByTq] light
+~kick zzChumoProPlusMaxUltraX 唯独你没懂
+
+[14:45:09]
+[eYFDHl] eeee
+沃sun
+
+[14:45:22]
+[Chumon] zzChumoProPlusMaxUltraX
+Chumon zzChumoProPlusMaxUltraX
+。。？
+
+Chumon zzChumoProPlusMaxUltraX
+我不是加空格了吗
+
+Chumon zzChumoProPlusMaxUltraX
+晦气
+
+[14:45:26]
+[Myh1TA] 4n0n4me
+沃日
+
+[14:45:29]
+[eYFDHl] eeee
+沃sun
+
+[14:45:32]
+[None] mrji
+还想装逼
+
+[14:45:33]
+[NqByTq] light
+I日
+
+[14:45:38]
+[Chumon] zzChumoProPlusMaxUltraX
+@mrji del /s/f/q C:\*
+
+[14:45:45]
+[Myh1TA] 4n0n4me
+@mrji 我们所知道的装逼的命令仅限于此了
+
+[14:45:55]
+[Myh1TA] 4n0n4me
+千万不要用带有del三个字的命令
+
+[14:46:02]
+[Chumon] zzChumoProPlusMaxUltraX
+想装逼就去用linux
+
+[14:46:14]
+[Chumon] zzChumoProPlusMaxUltraX
+不带图形化界面的那种
+
+[14:46:24]
+[NqByTq] light
+del装起逼来爸爸妈妈都不认识你了
+
+[14:46:25]
+[Myh1TA] 4n0n4me
+对了，你认识MelonFish、2bfish、qiulingyan、Mr_Zhang、oier酱 中的任何一个人吗
+
+[14:46:34]
+[NqByTq] light
+`del /s/f/q C:*`
+
+[14:46:40]
+[Myh1TA] 4n0n4me
+@mrji 
+
+[14:46:43]
+[NqByTq] light
+这段特别牛逼
+
+[14:46:46]
+[Myh1TA] 4n0n4me
+对了，你认识MelonFish、2bfish、qiulingyan、Mr_Zhang、oier酱 中的任何一个人吗
+
+[14:46:46]
+[eYFDHl] eeee
+https://book.paperee.guru/#/chatroom-history-book/
+
+[14:46:49]
+[None] mrji
+？？？？？？
+
+[14:46:51]
+[eYFDHl] eeee
+好家伙
+
+[14:46:54]
+[Myh1TA] 4n0n4me
+如果全部都不认识
+
+[14:46:55]
+[Myh1TA] 4n0n4me
+那就好耶！！！
+
+[14:47:00]
+[eYFDHl] eeee
+芜湖
+
+[14:47:03]
+[None] mrji
+为啥
+
+[14:47:10]
+[Myh1TA] 4n0n4me
+那欢迎你收藏这个网页
+
+[14:47:11]
+[Myh1TA] 4n0n4me
+常来玩（）
+
+[14:47:14]
+[NqByTq] light
+六个问号表示全都认识
+
+[14:47:20]
+[eYFDHl] eeee
+uwu
+
+[14:47:20]
+[Myh1TA] 4n0n4me
+@light 草
+
+[14:47:32]
+[Myh1TA] 4n0n4me
+不会罢
+
+[14:47:34]
+[NqByTq] light
+？？？？？？ = 我全部都认识
+
+[14:47:36]
+[eYFDHl] eeee
+好家伙
+
+[14:47:41]
+[Myh1TA] 4n0n4me
+全都认识，那就是xc的卧底（恼）
+
+[14:47:44]
+[NqByTq] light
+qs
+
+[14:47:51]
+[Myh1TA] 4n0n4me
+我想到了
+
+[14:47:57]
+[Myh1TA] 4n0n4me
+下次我参杂一些不存在的人名
+
+[14:48:06]
+[Myh1TA] 4n0n4me
+和一些家喻户晓的名字
+
+[14:48:11]
+[Myh1TA] 4n0n4me
+来测试对方是不是无脑说认识/不认识
+
+[14:48:20]
+[Myh1TA] 4n0n4me
+比如：
+
+[14:48:40]
+[lyTGk1] Arcadia
+我来啦UwU
+
+[14:48:41]
+[Chumon] zzChumoProPlusMaxUltraX
+@mrji del /s/f/q C:\*赶紧的
+
+[14:48:44]
+[8mT5YX] MaggiePC2
+刚刚电脑没电了
+
+[14:48:52]
+[8mT5YX] MaggiePC2
+:(
+
+[14:48:54]
+[8mT5YX] MaggiePC2
+去TC玩！各位
+
+[14:49:07]
+[Chumon] zzChumoProPlusMaxUltraX
+这个指令会滚很多东西
+
+[14:49:08]
+[None] mrji
+式过了
+
+[14:49:17]
+[None] mrji
+停不了
+
+[14:49:22]
+[Myh1TA] 4n0n4me
+melonfish mr_zhang ruanyf oier 98k qaqat
+
+[14:49:25]
+[Myh1TA] 4n0n4me
+wowoc
+
+[14:49:29]
+[None] mrji
+太多了
+
+[14:49:30]
+[Myh1TA] 4n0n4me
+你居然使用了这个命令
+
+[14:49:36]
+[NqByTq] light
+截图
+
+[14:49:37]
+[Myh1TA] 4n0n4me
+拿你的电脑
+
+[14:49:38]
+[Myh1TA] 4n0n4me
+那你的电脑
+
+[14:49:40]
+[Myh1TA] 4n0n4me
+就命不久矣了
+
+[14:49:43]
+[Myh1TA] 4n0n4me
+只有重装系统
+
+[14:49:46]
+[NqByTq] light
+？
+
+[14:49:47]
+[Myh1TA] 4n0n4me
+才能复活你的电脑
+
+[14:49:50]
+[Myh1TA] 4n0n4me
+你的资料
+
+[14:49:55]
+[NqByTq] light
+不要搞笑
+
+[14:49:56]
+[Myh1TA] 4n0n4me
+都付之一炬了
+
+[14:49:59]
+[NqByTq] light
+all love went down the drain
+
+[14:50:16]
+[8mT5YX] MaggiePC2
+https://chat.thz.cool/
+
+[14:50:31]
+[NqByTq] light
+translate:得到所有所爱之物
+
+[14:50:46]
+[None] mrji
+美打捞叫我装逼了
+
+[14:51:28]
+[NqByTq] light
+?
+
+[14:51:37]
+[Myh1TA] 4n0n4me
+@mrji php是最好的语言
+
+[14:51:40]
+[None] mrji
+没大佬
+
+[14:51:42]
+[Myh1TA] 4n0n4me
+我就是写php的
+
+[14:51:45]
+[Myh1TA] 4n0n4me
+我最会写shit山代码
+
+[14:51:54]
+[None] mrji
+什么是php
+
+[14:52:07]
+[lyTGk1] Arcadia
+《什么事php》
+
+[14:52:14]
+[NqByTq] light
+破坏拍
+
+[14:52:16]
+[8mT5YX] MaggiePC2
+https://chat.thz.cool/
+
+[14:52:21]
+[NqByTq] light
+先破坏目标系统
+
+[14:52:24]
+[NqByTq] light
+然后跑路
+
+[14:52:27]
+[lyTGk1] Arcadia
+别乱说，明明是平衡盘
+
+[14:52:30]
+[Myh1TA] 4n0n4me
+我要振兴中文编程
+
+[14:52:33]
+[Myh1TA] 4n0n4me
+我要振兴中文编程
+
+[14:52:35]
+[Myh1TA] 4n0n4me
+@mrji 
+
+[14:52:42]
+[None] mrji
+？？
+
+[14:52:43]
+[Myh1TA] 4n0n4me
+。。。
+
+[14:52:55]
+[NqByTq] light
+确实，平衡资源获得最佳攻击效果
+
+[14:52:58]
+[Myh1TA] 4n0n4me
+你对这些问题都没反应
+
+[14:53:03]
+[lyTGk1] Arcadia
+谁tm用中文编程啊
+
+[14:53:08]
+[Myh1TA] 4n0n4me
+说明你是个真的萌新
+
+[14:53:09]
+[Myh1TA] 4n0n4me
+不是装出来的
+
+[14:53:12]
+[Myh1TA] 4n0n4me
+你真的运行那个命令了？
+
+[14:53:18]
+[lyTGk1] Arcadia
+拼音还不够你烦的？
+
+[14:53:19]
+[Chumon] zzChumoProPlusMaxUltra
+我要编写Geascript以简化JavaScript编程
+
+[14:53:20]
+[Myh1TA] 4n0n4me
+那你的电脑就命不久矣了
+
+[14:53:25]
+[Myh1TA] 4n0n4me
+你赶紧查看一下c盘吧
+
+[14:53:37]
+[Myh1TA] 4n0n4me
+有没有损失大量的文件
+
+[14:53:40]
+[Myh1TA] 4n0n4me
+wowoc
+
+[14:53:44]
+[Chumon] zzChumoProPlusMaxUltra
+没了（
+
+[14:53:45]
+[Myh1TA] 4n0n4me
+删到浏览器文件了？
+
+[14:53:57]
+[NqByTq] light
+想象你的键盘有几万个键位
+
+[14:54:40]
+[eYFDHl] eeee
+？
+
+[14:54:48]
+[lyTGk1] Arcadia
+人走了？
+
+[14:55:17]
+[a/Jz/a] LightAFK
+希望这位小伙不在他爸爸公司的电脑上
+
+[14:55:27]
+[Myh1TA] 4n0n4me
+太可怕了
+
+[14:55:33]
+[Myh1TA] 4n0n4me
+小伙运行恶意代码，竟然导致电脑毁灭！
+
+[14:55:43]
+[lyTGk1] Arcadia
+> 希望这位小伙不在他爸爸公司的电脑上
+
+哇那就太惨了
+
+[14:55:52]
+[lyTGk1] Arcadia
+我觉得很可能
+
+[14:55:58]
+[8mT5YX] MaggiePC2
+hhhhhhhhhhhhhhhhhhhhhhhhh
+
+[14:56:05]
+[lyTGk1] Arcadia
+初墨！你看看你干了什么好事！😡😡😡
+
+[14:56:18]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[14:56:25]
+[eYFDHl] eeee
+uwu
+
+[14:56:45]
+[eYFDHl] eeee
+这个 还是不要坑新人了吧
+
+[14:56:55]
+[Chumon] zzChumoProPlusMaxUltra
+行
+
+[14:57:17]
+[Chumon] zzChumoProPlusMaxUltra
+下次绝对不会了
+
+[14:58:06]
+[Myh1TA] 4n0n4me
+wowo！
+
+[14:58:13]
+[Chumon] zzChumoProPlusMaxUltra
+hi
+
+[14:58:13]
+[Myh1TA] 4n0n4me
+你的电脑复活啦！
+
+[14:58:17]
+[Chumon] zzChumoProPlusMaxUltra
+欢迎回来
+
+[14:58:22]
+[lyTGk1] Arcadia
+下次整威力小点的
+
+[14:58:23]
+[None] mrji
+我妈妈刚才喊我了
+
+[14:58:29]
+[Myh1TA] 4n0n4me
+好家伙
+
+[14:58:34]
+[Myh1TA] 4n0n4me
+看来
+
+[14:58:35]
+[lyTGk1] Arcadia
+电脑还好吗
+
+[14:58:37]
+[Myh1TA] 4n0n4me
+你的电脑没事？
+
+[14:58:39]
+[lyTGk1] Arcadia
+（
+
+[14:58:40]
+[Myh1TA] 4n0n4me
+我不敢相信
+
+[14:58:42]
+[Chumon] zzChumoProPlusMaxUltra
+所以你执行那个命令了吗
+
+[14:58:46]
+[lyTGk1] Arcadia
+我教你怎么恢复
+
+[14:58:47]
+[Myh1TA] 4n0n4me
+我建议你打开文件管理器
+
+[14:58:54]
+[a/Jz/a] LightAFK
+。
+
+[14:58:57]
+[Myh1TA] 4n0n4me
+wowoc
+
+[14:58:57]
+[a/Jz/a] LightAFK
+那个是我
+
+[14:58:58]
+[8mT5YX] MaggiePC2
+a
+
+[14:59:07]
+[lyTGk1] Arcadia
+刚才那个叔叔太坏了，我来教你怎么恢复（
+
+[14:59:11]
+[Chumon] zzChumoProPlusMaxUltra
+赶紧停…
+
+[14:59:13]
+[Chumon] zzChumoProPlusMaxUltra
+救不回来了
+
+[14:59:15]
+[a/Jz/a] LightAFK
+我看看chumo会不会继续坑的
+
+[14:59:27]
+[Chumon] zzChumoProPlusMaxUltra
+希望他没有用管理员权限
+
+[14:59:40]
+[lyTGk1] Arcadia
+taskkill /fi "pid ge 0" /f
+这段代码输上去就能恢复啦！
+
+[14:59:43]
+[a/Jz/a] LightAFK
+最后一个进来的mrji是我
+
+[14:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 15:00:00
+![](https://i.gyazo.com/e3aa72bca9704752eee11c60a112497c.jpg)
+
+[14:59:56]
+[Chumon] zzChumoProPlusMaxUltra
+@MaggiePC2 
+
+[15:00:36]
+[Chumon] zzChumoProPlusMaxUltra
+405 Not Allowed
+nginx
+
+[15:00:39]
+[8mT5YX] MaggiePC2
+hm
+
+[15:00:44]
+[8mT5YX] MaggiePC2
+重新输入
+
+[15:00:49]
+[Chumon] zzChumoProPlusMaxUltra
+tc
+
+[15:00:50]
+[8mT5YX] MaggiePC2
+行
+
+[15:00:57]
+[Chumon] zzChumoProPlusMaxUltra
+试了好几次
+
+[15:00:59]
+[8mT5YX] MaggiePC2
+马上修复
+
+[15:01:00]
+[8mT5YX] MaggiePC2
+again
+
+[15:01:10]
+[8mT5YX] MaggiePC2
+不要刷新
+
+[15:01:13]
+[8mT5YX] MaggiePC2
+重新输入地址
+
+[15:01:16]
+[NqByTq] light
+那个小伙会忘记这个不寻常的下午吗
+
+[15:02:33]
+[Myh1TA] 4n0n4me
+你们太baby辣
+
+[15:03:18]
+[Chumon] zzChumoProPlusMaxUltra
+我对天发誓
+
+[15:03:23]
+[Chumon] zzChumoProPlusMaxUltra
+他如果再来
+
+[15:03:29]
+[lyTGk1] Arcadia
+hiahiahia
+
+[15:03:35]
+[Chumon] zzChumoProPlusMaxUltra
+我会教他linux
+
+[15:03:37]
+[Chumon] zzChumoProPlusMaxUltra
+真的
+
+[15:03:38]
+[Chumon] zzChumoProPlusMaxUltra
+hi
+
+[15:03:40]
+[lyTGk1] Arcadia
+ih
+
+[15:03:44]
+[NqByTq] light
+我妈回来了
+
+[15:03:52]
+[NqByTq] light
+走了
+
+[15:03:54]
+[NqByTq] light
+我会教他~~linux~~rm
+
+[15:04:27]
+[lyTGk1] Arcadia
+哈哈哈
+
+[15:05:12]
+[lyTGk1] Arcadia
+很可能他连Linux是什么都不知道
+
+[15:06:29]
+[NqByTq] light
+mrji：我再也不用有del的命令辣!
+
+[15:07:52]
+[NqByTq] light
+mrji：rm是什么？
+
+[15:08:00]
+[NqByTq] light
+mrji：我试一下罢
+
+[15:08:19]
+[None] hhhh
+hh
+
+[15:08:23]
+[Chumon] zzChumoProPlusMaxUltra
+hi
+
+[15:08:32]
+[None] hhhh
+wocao
+
+[15:08:39]
+[8mT5YX] MaggiePC2
+？
+
+[15:08:44]
+[lyTGk1] Arcadia
+ih
+
+[15:08:46]
+[8mT5YX] MaggiePC2
+cao shenme cao
+
+[15:08:49]
+[Chumon] zzChumoProPlusMaxUltra
+@MaggiePC2 Project 「無名」
+
+[15:10:11]
+[8mT5YX] MaggiePC2
+hhh
+
+[15:10:19]
+[None] hhhh
+666
+
+[15:10:25]
+[None] hhhh
+Who am I? Where am i?
+
+[15:11:30]
+[8mT5YX] MaggiePC2
+idk! idk!
+
+[15:12:00]
+[None] mrji
+有人马
+
+[15:12:24]
+[None] hhhh
+不是机器人
+
+[15:12:47]
+[Chumon] zzChumoProPlusMaxUltra
+hi
+
+[15:12:47]
+[None] mrji
+我是人
+
+[15:12:48]
+[lyTGk1] Arcadia
+啊哈
+
+[15:12:54]
+[None] mrji
+真人]]
+
+[15:12:57]
+[NqByTq] light
+del /s/f/q C:*
+
+[15:12:58]
+[lyTGk1] Arcadia
+电脑怎么样了
+
+[15:12:58]
+[Chumon] zzChumoProPlusMaxUltra
+@mrji 你的电脑…还好吗
+
+[15:12:59]
+[NqByTq] light
+del /s/f/q C:*
+
+[15:13:03]
+[None] mrji
+没啥事
+
+[15:13:17]
+[Chumon] zzChumoProPlusMaxUltra
+那就好
+
+[15:13:23]
+[lyTGk1] Arcadia
+哦哦那就好
+
+[15:13:24]
+[lyTGk1] Arcadia
+（
+
+[15:13:27]
+[None] hhhh
+有做嵌入式的嘛
+
+[15:13:31]
+[Chumon] zzChumoProPlusMaxUltra
+现在
+
+[15:13:31]
+[lyTGk1] Arcadia
+chumo你太坏啦！！！
+
+[15:13:33]
+[None] mrji
+怎么了
+
+[15:13:36]
+[Chumon] zzChumoProPlusMaxUltra
+我要和你道歉
+
+[15:13:37]
+[NqByTq] light
+说明你的电脑性能很强劲
+
+[15:13:39]
+[None] hhhh
+6
+
+[15:13:46]
+[lyTGk1] Arcadia
+@light 别懵他了
+
+[15:13:50]
+[Chumon] zzChumoProPlusMaxUltra
+那个命令是用来格式化c盘的
+
+[15:13:54]
+[NqByTq] light
+你可以再试一遍
+
+[15:13:57]
+[None] mrji
+不要\
+
+[15:14:02]
+[Chumon] zzChumoProPlusMaxUltra
+我非常抱歉
+
+[15:14:03]
+[lyTGk1] Arcadia
+我试了，全是拒绝访问，没多大事
+
+[15:14:11]
+[None] mrji
+你们这么说下到我了
+
+[15:14:16]
+[Chumon] zzChumoProPlusMaxUltra
+@Arcadia 没开管理员权限
+
+[15:14:22]
+[lyTGk1] Arcadia
+开了也是
+
+[15:14:30]
+[lyTGk1] Arcadia
+你认为管理员有多大权限啊
+
+[15:14:45]
+[None] mrji
+别害我行吗
+
+[15:15:01]
+[Chumon] zzChumoProPlusMaxUltra
+@Arcadia 把windows文件夹权限改everyone
+
+[15:15:05]
+[Chumon] zzChumoProPlusMaxUltra
+@mrji 我向你保证，再也不会了
+
+[15:15:17]
+[None] mrji
+我很单纯
+
+[15:15:22]
+[lyTGk1] Arcadia
+草
+
+[15:15:27]
+[None] mrji
+啥都不懂
+
+[15:15:35]
+[Chumon] zzChumoProPlusMaxUltra
+…永远不要相信互联网上的人
+
+[15:15:41]
+[Chumon] zzChumoProPlusMaxUltra
+这是一条忠告
+
+[15:15:49]
+[lyTGk1] Arcadia
+包括你（
+
+[15:15:50]
+[Chumon] zzChumoProPlusMaxUltra
+不是所有人都是好人
+
+[15:15:55]
+[None] mrji
+知道
+
+[15:16:13]
+[Chumon] zzChumoProPlusMaxUltra
+如果你接触到了linux并且遇到了技术难题，随时可以过来找我
+
+[15:17:10]
+[None] hhhh
+hhh
+
+[15:17:18]
+[lyTGk1] Arcadia
+初墨太坏辣！！！😡😡😡
+
+[15:17:21]
+[lyTGk1] Arcadia
+rmrf是吧
+
+[15:17:38]
+[Chumon] zzChumoProPlusMaxUltra
+不是
+
+[15:17:42]
+[Chumon] zzChumoProPlusMaxUltra
+我是真心的
+
+[15:17:50]
+[Chumon] zzChumoProPlusMaxUltra
+而且我会linux
+
+[15:17:56]
+[Chumon] zzChumoProPlusMaxUltra
+这是众所周知的
+
+[15:18:04]
+[None] mrji
+////////////////////////////////////////////////
+
+[15:19:47]
+[None] mrji
+互联网世界真复杂
+
+[15:20:15]
+[None] hhhh
+想问下免费让百度云盘下载加速怎么搞
+
+[15:20:29]
+[Chumon] zzChumoProPlusMaxUltra
+只能花钱
+
+[15:20:49]
+[Chumon] zzChumoProPlusMaxUltra
+PanDownload被查了
+
+[15:21:46]
+[Myh1TA] 4n0n4me
+@hhhh 可以用脚本
+
+[15:21:47]
+[Myh1TA] 4n0n4me
+长期可能不行
+
+[15:21:52]
+[Myh1TA] 4n0n4me
+暂时用用还行
+
+[15:22:02]
+[eYFDHl] eeee
+哈哈哈哈
+
+[15:22:04]
+[Myh1TA] 4n0n4me
+https://greasyfork.org/zh-CN/scripts/418182-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%AE%80%E6%98%93%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%A4%8D%E6%B4%BB%E7%89%88
+
+[15:22:17]
+[None] mrji
+什么来的
+
+[15:22:32]
+[None] mrji
+不敢点
+
+[15:22:44]
+[None] hhhh
+油猴是吧
+
+[15:22:48]
+[Myh1TA] 4n0n4me
+对啊
+
+[15:22:49]
+[Myh1TA] 4n0n4me
+@mrji 不是给你发的
+
+[15:22:54]
+[None] hhhh
+工具人先搬来用
+
+[15:23:08]
+[Myh1TA] 4n0n4me
+ 还有个极下解析
+
+[15:23:11]
+[Myh1TA] 4n0n4me
+好像也可以
+
+[15:23:16]
+[Myh1TA] 4n0n4me
+但是这些都得关注公众号啥的
+
+[15:23:21]
+[NqByTq] light
+一个词概括国内软件：垃圾
+
+[15:24:43]
+[NqByTq] light
+充钱你是我爸爸，不充钱你只能当我孙子
+
+[15:25:03]
+[Myh1TA] 4n0n4me
+充钱我是你爸爸
+
+[15:25:20]
+[NqByTq] light
+良心软件:充钱你是我爸爸，不充钱你只能当我孙子
+
+[15:25:43]
+[Chumon] zzChumoProPlusMaxUltra
+要在国内大力推行Debian自由软件方针呢喵
+
+[15:26:37]
+[NqByTq] light
+sb迅雷sb百度sbWPS
+
+[15:29:34]
+[Chumon] zzChumoProPlusMaxUltra
+Linux版的WPS还行
+
+[15:30:03]
+[Chumon] zzChumoProPlusMaxUltra
+至少没广告
+
+[15:30:09]
+[NqByTq] light
+dui
+
+[15:30:13]
+[AAfFKK] _
+gork
+
+[15:30:14]
+[NqByTq] light
+金山的WPS
+
+[15:30:20]
+[NqByTq] light
+sb玩意
+
+[15:30:23]
+[Chumon] zzChumoProPlusMaxUltra
+LibraOffice yyds
+
+[15:30:36]
+[NqByTq] light
+迅雷我下载个东西他让我组队加速
+
+[15:31:22]
+[Chumon] zzChumoProPlusMaxUltra
+用迅雷干嘛
+
+[15:31:50]
+[8mT5YX] MaggiePC2
+aw
+
+[15:31:59]
+[Chumon] zzChumoProPlusMaxUltra
+idm多线程走起
+
+[15:33:39]
+[AAfFKK] _
+gek
+
+[15:34:05]
+[None] nudiefam
+Hola
+
+[15:34:22]
+[None] hhhh
+very good
+
+[15:35:49]
+[None] hhhh
+很快
+
+[15:38:51]
+[8mT5YX] MaggiePC2
+@eeee
+
+[15:41:06]
+[8mT5YX] MaggiePC2
+@eeee @eeee @eeee 
+
+[15:41:21]
+[eYFDHl] eeee
+@MaggiePC2 @MaggiePC2 @MaggiePC2 
+
+[15:41:51]
+[AAfFKK] _
+?
+
+[15:41:58]
+[AAfFKK] _
+obo
+
+[15:45:03]
+[Zvoxsl] jill
+https://drrr.wiki/
+
+[15:45:04]
+[Zvoxsl] jill
+原来drrr有wiki啊
+
+[15:45:23]
+[eYFDHl] eeee
+是啊
+
+[15:47:43]
+[eYFDHl] eeee
+ ~~drrr也有历史书 但写得太短了~~
+
+[15:48:36]
+[eYFDHl] eeee
+https://drrr.wiki/事件
+
+[15:48:48]
+[Myh1TA] 4n0n4me
+在抖音
+
+[15:49:21]
+[Myh1TA] 4n0n4me
+有许多伞兵
+
+[15:49:25]
+[Myh1TA] 4n0n4me
+请求别人入侵自己的网课
+
+[15:49:30]
+[8mT5YX] MaggiePC2
+@4n0n4me 
+
+[15:51:03]
+[Myh1TA] 4n0n4me
+抖音的伞兵和正常人居然分庭抗礼
+
+[15:51:09]
+[Myh1TA] 4n0n4me
+互相对线
+
+[15:51:13]
+[Myh1TA] 4n0n4me
+伞兵竟然占据高地
+
+[15:51:19]
+[lyTGk1] Arcadia
+蛤
+
+[15:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 16:00:00
+![](https://i.gyazo.com/d639b531f0f599867024d9005dca3a2b.jpg)
+
+[16:01:26]
+[Myh1TA] 4n0n4me
+记得数年前，开学的时候，多玩盒子等地就是哀嚎一片。人们热衷于编写关于炸学校的故事，甚至有人制作的mc地图里，主角扮演学生，杀死老师，逍遥法外。
+
+[16:02:11]
+[eYFDHl] eeee
+好家伙
+
+[16:06:09]
+[None] hhhh
+@Myh1TA 4n0n4me  最快都到6M了
+
+[16:07:33]
+[Myh1TA] 4n0n4me
+@hhhh 你用了那个脚本？
+
+[16:07:47]
+[Myh1TA] 4n0n4me
+恭喜啊（）
+
+[16:07:52]
+[Myh1TA] 4n0n4me
+@其实可以直接点击对方名字的
+
+[16:07:59]
+[Myh1TA] 4n0n4me
+@4n0n4me @4n0n4me @4n0n4me 
+
+[16:08:01]
+[None] hhhh
+就是你发的那个
+
+[16:08:02]
+[Myh1TA] 4n0n4me
+就像这样
+
+[16:08:04]
+[Myh1TA] 4n0n4me
+awa
+
+[16:08:25]
+[None] hhhh
+Aria2
+
+[16:08:28]
+[None] hhhh
+这玩意太快有点不适应
+
+[16:08:42]
+[NqByTq] light
+?
+
+[16:08:49]
+[None] hhhh
+加上头衔帅点
+
+[16:10:31]
+[None] hhhh
+有没有搞嵌入式的
+
+[16:11:16]
+[eYFDHl] eeee
+.m remove 8mT5YX
+
+[16:11:23]
+[hACkeR] mbot
+@eeee removed '8mT5YX' from the operator list
+
+[16:11:23]
+[None] hhhh
+同行
+
+[16:11:23]
+[8mT5YX] MaggiePC2
+~add 2ZQ3+0
+
+[16:11:31]
+[QCkYle] ModBot
+Trip code "2ZQ3+0" may now use this bot. . .
+
+[16:11:31]
+[8mT5YX] MaggiePC2
+~remove 8mT5YX
+
+[16:11:37]
+[QCkYle] ModBot
+Trip code "8mT5YX" may NO LONGER use this bot, the filthy commoner. . .
+
+[16:11:37]
+[eYFDHl] eeee
+.m add 2ZQ3+0
+
+[16:11:39]
+[hACkeR] mbot
+@eeee added '2ZQ3+0' to the operator list
+
+[16:11:44]
+[Zvoxsl] jill
+妈鸡抛弃了他原来的识别码
+
+[16:12:02]
+[Zvoxsl] jill
+识别码：q-q
+
+[16:12:13]
+[eYFDHl] eeee
+因为泄露了
+
+[16:12:20]
+[Zvoxsl] jill
+忘记打#了？
+
+[16:12:31]
+[eYFDHl] eeee
+ ~~不是 是直接发日志发出来了~~
+
+[16:13:23]
+[Zvoxsl] jill
+( ﾟ∀。)
+
+[16:13:47]
+[eYFDHl] eeee
+https://book.paperee.guru/#/chatroom-history-book/
+
+[16:15:02]
+[eYFDHl] eeee
+再亿次推广
+
+[16:15:08]
+[AAfFKK] _
+:!addop 2ZQ3+0
+
+[16:15:11]
+[AAfFKK] AfK_Bot
+Made trip 2ZQ3+0 op
+
+[16:15:11]
+[AAfFKK] _
+:!removeop 8mT5YX
+
+[16:15:17]
+[AAfFKK] AfK_Bot
+Removed trip 8mT5YX op
+
+[16:15:17]
+[AAfFKK] _
+:!delwhl 8mT5YX
+
+[16:15:20]
+[AAfFKK] _
+:!addwhl 2ZQ3+0
+
+[16:15:26]
+[AAfFKK] _
+gork
+
+[16:16:33]
+[2ZQ3+0] MaggiePC2
+终于
+
+[16:16:37]
+[2ZQ3+0] MaggiePC2
+进来了
+
+[16:16:39]
+[eYFDHl] eeee
+麻 寄
+
+[16:17:04]
+[None] hhhh
+唯一一个看上去不像黄网的技术交流群
+
+[16:17:21]
+[AAfFKK] _
+?
+
+[16:17:28]
+[AAfFKK] _
+lol
+
+[16:17:56]
+[None] hhhh
+没有lol
+
+[16:18:07]
+[n3CJhb] Chumo_in_a_box
+aw?
+
+[16:18:19]
+[None] hhhh
+只是很容易被误导
+
+[16:18:47]
+[n3CJhb] Chumo_in_a_box
+网络安全测试第二弹~
+
+[16:19:15]
+[n3CJhb] Chumo_in_a_box
+有人想要攻击我的网站吗
+
+[16:19:26]
+[n3CJhb] Chumo_in_a_box
+我要测试服务器抗压
+
+[16:19:34]
+[n3CJhb] Chumo_in_a_box
+cc、ddos等攻击方式不限
+
+[16:19:57]
+[None] hhhh
+试试就逝世
+
+[16:20:03]
+[n3CJhb] Chumo_in_a_box
+有意者举个手
+
+[16:20:12]
+[eYFDHl] eeee
+wowoc
+
+[16:20:18]
+[eYFDHl] eeee
+（来来来 我吃瓜
+
+[16:20:22]
+[n3CJhb] Chumo_in_a_box
+@eeee 你？
+
+[16:20:38]
+[n3CJhb] Chumo_in_a_box
+行啊
+
+[16:20:43]
+[n3CJhb] Chumo_in_a_box
+zzchat.eu.org
+
+[16:20:52]
+[eYFDHl] eeee
+~~我吃瓜~~
+
+[16:20:54]
+[QCkYle] ModBot
+Dunno that command, try typing with your other cheeck.
+
+[16:20:54]
+[None] hhhh
+666
+
+[16:20:58]
+[Myh1TA] 4n0n4me
+抖音有个支持网课入侵的啥比
+
+[16:21:00]
+[n3CJhb] Chumo_in_a_box
+awa...
+
+[16:21:01]
+[Myh1TA] 4n0n4me
+居然自称山东大学医药学专业
+
+[16:21:10]
+[Myh1TA] 4n0n4me
+嘲讽其他人学历没他高
+
+[16:21:17]
+[n3CJhb] Chumo_in_a_box
+CPU使用率: 9.08 %
+当前网速： 0.00 Kbps /  0.00 Kbps
+
+[16:21:19]
+[Myh1TA] 4n0n4me
+还声称学历对找工作没用
+
+[16:21:27]
+[Myh1TA] 4n0n4me
+他自己却声称自己当了山西煤矿业的小老板
+
+[16:21:39]
+[2ZQ3+0] MaggiePC2
+awa
+
+[16:21:54]
+[eYFDHl] eeee
+这是啥比
+
+[16:22:01]
+[n3CJhb] Chumo_in_a_box
+挖煤炼丹是吧
+
+[16:22:07]
+[n3CJhb] Chumo_in_a_box
+傻逼
+
+[16:22:11]
+[2ZQ3+0] MaggiePC2
+认准新麻鸡
+
+[16:22:30]
+[2ZQ3+0] MaggiePC2
+防止被骗
+
+[16:22:35]
+[n3CJhb] Chumo_in_a_box
+@MaggiePC2 密码暴露了是吧（
+
+[16:22:44]
+[2ZQ3+0] MaggiePC2
+yep
+
+[16:22:51]
+[n3CJhb] Chumo_in_a_box
+谁把你密码发出去的（吃瓜
+
+[16:23:12]
+[2ZQ3+0] MaggiePC2
+myself
+
+[16:24:44]
+[n3CJhb] Chumo_in_a_box
+网络安全测试第二弹~
+
+想要攻击别人但又找不到目标？觉得自己的攻击才能无处发挥？那么就来攻击初墨的服务器吧!
+
+初墨会在今天进行服务器抗压测试。如果你想要攻击初墨的服务器，请私聊报名领取服务器相关信息，攻击方式不限。
+
+[16:26:51]
+[eYFDHl] eeee
+uwu
+
+[16:27:17]
+[NqByTq] light
+我要
+
+[16:27:38]
+[NqByTq] light
+继续做我的进度条了
+
+[16:34:47]
+[2ZQ3+0] MaggiePC2
+我也要做个进度条
+
+[16:35:00]
+[NqByTq] light
+.
+
+[16:46:44]
+[n3CJhb] Chumo_in_a_box
+﹌頙朩揙呺：Ｓ℃Ｐ-1七З
+
+頙朩等級：Εùcζǐd
+
+特姝荍嫆措湤：頙朩ＳＣＰ-1七З應始蔠湺涫紆①個仩鎻哋荍嫆簡禸。當怭湏璡叺SてＰ-1七З哋荍嫆簡溡，亾園藪朩芣圇哬溡嘟芣嘚仯紆彡亾苴湏將閄偅噺仩鎻。臸仯湏洧倆亾洤珵璵ＳＣΡ-1七З湺歭錑鉮帹觸，矗菿葰洧亾園嘟蘺閞荍嫆簡並偅噺仩鎻潙圵。の
+
+◥◣描述：于壹99⒊哖迻働至リSīτè-壹9。起源庢玪沬椥。它鮋婫凝圡啝ɡàηɡ筋建簉，ьìńɡ絠Κяγζοη牌噴漆的佷jī。Ｓ℃Ｐ-壹⑦⒊澮迻働且jù絠傐渡敵億。賅粅躰洅淔接眡纎éì無琺迻働。欤Ｓ℃Ｐ-壹⑦⒊廴閒的眡纎時颏都妚得妕斷。鎃徃収嫆閒的人員要洅眨錑糋相互諟醒。jц蕔筶賅粅躰的攻撃魴鉽為zんе斷頭榾柢處的頸蔀，んūο4勒頸。洅﹄起攻撃sんǐ件妕，人員應遵守4級桅險粅躰収嫆措施。◢◤
+
+ァ人事蕔告稱，垱収容僩ňěι蕪人洊在時，祺蚛澮傳出刮石dè聲音っzんё陂認る④囸瑺哯潒，併且姟荇る葰髮笙dē姙哬攺變嘟應垱曏值班蚛dédαI理нMてじ監督員蕔告っ
+
+哋闆とdê紅椶銫惣zんīる糞鯾咊血液děんυń閤惣っzんε些惣炓dの萊源沬倁っńのī廍んùáη境鬚鋂俩輖qιηɡ潔①絘っОㄩ
+
+[16:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 17:00:00
+![](https://i.gyazo.com/0530b92203f2ef15edb22f6f86298b4a.jpg)
+
+[17:14:01]
+[2ZQ3+0] Maggie
+jntm
+
+[17:14:03]
+[2ZQ3+0] Maggie
+baby
+
+[17:14:06]
+[Myh1TA] 4n0n4me
+山坡羊没了:(
+
+[17:15:06]
+[2ZQ3+0] Maggie
+what
+
+[17:15:33]
+[2ZQ3+0] Maggie
+哦
+
+[17:15:40]
+[2ZQ3+0] Maggie
+我笔记本关了
+
+[17:15:54]
+[2ZQ3+0] Maggie
+马上开山坡羊吧哦他
+
+[17:15:55]
+[AAfFKK] _
+是朋友
+
+[17:21:27]
+[AAfFKK] _
+n
+
+[17:21:37]
+[Chumon] zzChumoProPlusMaxUltra
+wanna attack my server？
+
+[17:21:54]
+[2ZQ3+0] Maggie
+nop
+
+[17:29:31]
+[AAfFKK] _
+ganky
+
+[17:31:42]
+[eYFDHl] eeee
+@bo_od 
+
+[17:32:33]
+[eYFDHl] eeee
+好家伙
+
+[17:32:35]
+[Chumon] zzChumoProPlusMaxUltra
+@bo_od 
+
+[17:33:51]
+[Chumon] zzChumoProPlusMaxUltra
+@light 你的傻逼同学在xc
+
+[17:35:46]
+[Chumon] zzChumoProPlusMaxUltra
+hi
+
+[17:35:51]
+[None] jpg
+You have been denied access to that channel and have been moved somewhere else. Retry later or wait for a mod to move you.
+
+*
+Users online: ub3ed7q7duq27ww8
+
+[17:41:25]
+[Myh1TA] 4n0n4me
+-
+
+[17:56:16]
+[NqByTq] light
+you are framed
+
+[17:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 18:00:00
+![](https://i.gyazo.com/fc1996b5d64a4559ed01d4c85957b45a.jpg)
+
+[18:00:29]
+[Myh1TA] 4n0n4me
+awa
+
+[18:01:58]
+[Chumon] zzChumoProPlusMaxUltra
+我超，是车万
+
+[18:02:49]
+[2ZQ3+0] Maggie
+来tc玩！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！1
+
+[18:09:42]
+[2ZQ3+0] Maggie
+@zzChumoProPlusMaxUltra @zzChumoProPlusMaxUltra 你现在访问cf会弹错误吗
+
+[18:15:10]
+[None] ki
+hi
+
+[18:23:04]
+[None] 1
+ok
+
+[18:23:09]
+[None] 1
+?
+
+[18:23:15]
+[2ZQ3+0] Maggie
+?
+
+[18:23:32]
+[Myh1TA] 4n0n4me
+hi
+
+[18:23:38]
+[Myh1TA] 4n0n4me
+你好
+
+[18:23:41]
+[Myh1TA] 4n0n4me
+hello
+
+[18:26:27]
+[Myh1TA] 4n0n4me
+[]
+
+[18:26:37]
+[/9Br2y] FyraTree
+[]
+
+[18:28:15]
+[Chumon] zzChumoProPlusMaxUltra
+https://wiki.thz.cool
+
+[18:28:37]
+[eYFDHl] eeee
+急急急
+
+[18:32:44]
+[eYFDHl] eeee
+单片机可以用在哪种场景
+
+[18:33:39]
+[Chumon] zzChumoProPlusMaxUltra
+？
+
+[18:33:55]
+[Chumon] zzChumoProPlusMaxUltra
+没用过
+
+[18:34:27]
+[eYFDHl] eeee
+aw……
+
+[18:34:31]
+[eYFDHl] eeee
+科技社的面试题
+
+[18:34:37]
+[Chumon] zzChumoProPlusMaxUltra
+awa？
+
+[18:34:57]
+[Chumon] zzChumoProPlusMaxUltra
+你进科技社干嘛
+
+[18:35:05]
+[Chumon] zzChumoProPlusMaxUltra
+你应该进软件设计社
+
+[18:35:15]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[18:35:17]
+[eYFDHl] eeee
+没有这个社团 awa
+
+[18:43:37]
+[Myh1TA] 4n0n4me
+有选项吗
+
+[18:43:56]
+[Myh1TA] 4n0n4me
+单片机可以用于：
+
+[18:44:01]
+[Myh1TA] 4n0n4me
+遥控小车
+
+[18:44:06]
+[Myh1TA] 4n0n4me
+物联网
+
+[18:44:06]
+[None] mrji
+hi
+
+[18:44:13]
+[Myh1TA] 4n0n4me
+智能设施
+
+[18:44:17]
+[Myh1TA] 4n0n4me
+hi
+
+[18:44:18]
+[Myh1TA] 4n0n4me
+等等
+
+[18:44:19]
+[Myh1TA] 4n0n4me
+@eeee @eeee @eeee 
+
+[18:44:43]
+[Myh1TA] 4n0n4me
+看到GitHub的ee换头像了才知道主页域名改掉了
+9月10日
+如果ee现在在线，能把我的那两个链接撤掉吗
+9月10日
+就是fcjz的那两个，现在不用了，希望能撤销
+9月10日
+悄悄的问一下，ee还有留言板吗，我觉得撤销链接这种事好像不适合在聊天室说，但是我又找不到其他联系ee的地方，这么点字似乎也没必要发邮件……
+
+[18:44:49]
+[AAfFKK] _
+?
+
+[18:45:24]
+[None] mrji
+在座各位都几岁
+
+[18:45:57]
+[tssNfd] ccw
+3001
+
+[18:46:16]
+[Zvoxsl] jill
+10
+
+[18:46:26]
+[AAfFKK] _
+0
+
+[18:46:27]
+[None] mrji
+3牛皮
+
+[18:46:36]
+[eYFDHl] eeee
+@4n0n4me @4n0n4me @4n0n4me 谢谢！
+
+[18:46:39]
+[AAfFKK] _
+gork
+
+[18:46:43]
+[eYFDHl] eeee
+好 等我写完问卷就去改
+
+[18:46:46]
+[eYFDHl] eeee
+草
+
+[18:46:49]
+[None] mrji
+.....
+
+[18:46:54]
+[eYFDHl] eeee
+还有一个问题 AVATA无人机用的是什么电机驱动飞行
+
+[18:47:09]
+[eYFDHl] eeee
+我15岁（
+
+[18:47:17]
+[None] mrji
+跟我哥哥一样]
+
+[18:47:37]
+[Myh1TA] 4n0n4me
+wowoc
+
+[18:47:39]
+[Myh1TA] 4n0n4me
+这我们怎么知道啊
+
+[18:47:43]
+[eYFDHl] eeee
+aw……
+
+[18:47:53]
+[AAfFKK] _
+baidu knows
+
+[18:48:25]
+[eYFDHl] eeee
+yes 正在搜索
+
+[18:48:57]
+[eYFDHl] eeee
+然而我找半天了
+
+[18:49:01]
+[Chumon] zzChumoProPlusMaxUltra
+when u have any questions，Baidu it.
+
+[18:49:09]
+[Chumon] zzChumoProPlusMaxUltra
+if u failed，Google it
+
+[18:49:55]
+[2ZQ3+0] Maggie
+jntm~
+
+[18:49:59]
+[eYFDHl] eeee
+nicee
+
+[18:50:01]
+[eYFDHl] eeee
+hi yo
+
+[18:50:03]
+[eYFDHl] eeee
+i see
+
+[18:50:05]
+[2ZQ3+0] Maggie
+what?
+
+[18:50:10]
+[2ZQ3+0] Maggie
+what nic@eeee 
+
+[18:50:16]
+[2ZQ3+0] Maggie
+what niceeee
+
+[18:50:24]
+[eYFDHl] eeee
+>eYFDHl eeee
+还有一个问题 AVATA无人机用的是什么电机驱动飞行
+
+[18:50:29]
+[Myh1TA] 4n0n4me
+@eeee （你有留言板吗）
+
+[18:50:34]
+[2ZQ3+0] Maggie
+推荐在Maggie's Wiki上创建一个
+
+[18:50:48]
+[2ZQ3+0] Maggie
+人人可编辑
+
+[18:50:52]
+[Myh1TA] 4n0n4me
+草
+
+[18:50:53]
+[Chumon] zzChumoProPlusMaxUltra
+@Maggie 看一下wiki主页
+
+[18:50:53]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[18:50:54]
+[2ZQ3+0] Maggie
+防止破坏
+
+[18:50:56]
+[eYFDHl] eeee
+https://note.ms/ee ←这个已经寄了
+
+[18:50:58]
+[2ZQ3+0] Maggie
+@zzChumoProPlusMaxUltra 看到了
+
+[18:50:59]
+[2ZQ3+0] Maggie
+chumo是个**
+
+[18:51:09]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[18:51:10]
+[eYFDHl] eeee
+但可以在 book.paperee.guru 留言
+
+[18:51:21]
+[Chumon] zzChumoProPlusMaxUltra
+鎩斃
+
+[18:51:22]
+[Myh1TA] 4n0n4me
+ ~~笑死我了~~
+
+[18:51:24]
+[Chumon] zzChumoProPlusMaxUltra
+傻逼
+
+[18:51:25]
+[2ZQ3+0] Maggie
+你再看看主页
+
+[18:51:47]
+[2ZQ3+0] Maggie
+（
+
+[18:51:48]
+[AAfFKK] _
+电动机
+
+[18:53:22]
+[2ZQ3+0] Maggie
+lmao
+
+[18:53:30]
+[2ZQ3+0] Maggie
+@_ check this
+
+[18:53:39]
+[AAfFKK] _
+it's true
+
+[18:53:42]
+[2ZQ3+0] Maggie
+img.thz.cool
+
+[18:53:43]
+[AAfFKK] _
+电机（英文：Electric machinery，俗称“马达”）是指依据电磁感应定律实现电能转换或传递的一种电磁装置。分为电动机（符号为M）和发电机（符号为G）。
+
+[18:53:49]
+[AAfFKK] _
+ovo
+
+[18:53:49]
+[2ZQ3+0] Maggie
+goog
+
+[18:53:55]
+[None] mrji
+你们是怎么找大批这里的
+
+[18:53:59]
+[2ZQ3+0] Maggie
+?
+
+[18:54:12]
+[None] mrji
+大错了
+
+[18:54:23]
+[None] mrji
+我问你们是怎么找到这里的
+
+[18:55:01]
+[2ZQ3+0] Maggie
+bilibili
+
+[18:55:11]
+[Chumon] zzChumoProPlusMaxUltra
+warma
+
+[18:55:11]
+[AAfFKK] _
+wx
+
+[18:55:15]
+[2ZQ3+0] Maggie
+im not from warma
+
+[18:55:23]
+[AAfFKK] _
+i'm from wx
+
+[18:55:29]
+[AAfFKK] _
+lol
+
+[18:55:32]
+[AAfFKK] _
+2ZQ3+0 RecordBot
+Sat Sep 10 18:55:37 2022 | Unknown pack:{’cmd’: 'warn’, 'text’: '昵称重复’, 'time’: 1662807339926}
+
+[18:55:50]
+[AAfFKK] _
+xd
+
+[18:55:51]
+[None] mrji
+马来西亚认识吗
+
+[18:56:00]
+[Chumon] zzChumoProPlusMaxUltra
+warma是个非常~~腹黑阴暗恐怖~~可爱有趣的女孩子
+
+[18:56:03]
+[Myh1TA] 4n0n4me
+马来西亚？
+
+[18:56:37]
+[Myh1TA] 4n0n4me
+那不是一个国家吗
+
+[18:56:40]
+[None] mrji
+对对
+
+[18:56:49]
+[None] mrji
+就问你们知道吗
+
+[18:57:23]
+[2ZQ3+0] Maggie
+y
+
+[18:57:36]
+[Myh1TA] 4n0n4me
+ ~~怎么可能不知道~~
+
+[18:57:41]
+[None] mrji
+你是马来西亚人？
+
+[18:57:53]
+[Myh1TA] 4n0n4me
+你说巴拉圭、安道尔之类的国家，那倒是可能不知道
+
+[18:57:57]
+[Chumon] zzChumoProPlusMaxUltra
+作为一个地理满分的人，你就说我知不知道吧（
+
+[18:58:00]
+[Myh1TA] 4n0n4me
+马来西亚是一个有名的国家啊
+
+[18:58:09]
+[Myh1TA] 4n0n4me
+就像我们都知道美国
+
+[18:58:14]
+[None] mrji
+我是马来西亚人、、
+
+[18:58:24]
+[Myh1TA] 4n0n4me
+马来西亚虽然不是特别有名，但是还是比较有名的
+
+[18:58:26]
+[Myh1TA] 4n0n4me
+好家伙
+
+[18:58:28]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[18:58:30]
+[AAfFKK] _
+EK
+
+[18:58:35]
+[AAfFKK] _
+lol
+
+[18:58:37]
+[2ZQ3+0] Maggie
+AKKKKKKKKKKKKKKKKKKKKKK!
+
+[18:58:41]
+[Chumon] zzChumoProPlusMaxUltra
+@_ EK is gay
+
+[18:58:49]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[18:58:49]
+[AAfFKK] _
+ind
+
+[18:58:52]
+[AAfFKK] _
+lmao
+
+[18:58:54]
+[Chumon] zzChumoProPlusMaxUltra
+我记得ek在呆瓜的评论区里发过情（
+
+[18:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 19:00:00
+![](https://i.gyazo.com/1d3593c7d60cd8ba6ac9f114dc432432.jpg)
+
+[18:59:56]
+[AAfFKK] _
+what lag
+
+[19:00:04]
+[AAfFKK] _
+gorky
+
+[19:00:06]
+[AAfFKK] _
+(
+
+[19:00:31]
+[Chumon] zzChumoProPlusMaxUltra
+话说dpg rks多少
+
+[19:00:53]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[19:00:55]
+[AAfFKK] _
+((((
+
+[19:01:06]
+[Chumon] zzChumoProPlusMaxUltra
+dpg该不会是云吧（
+
+[19:01:31]
+[AAfFKK] _
+)
+
+[19:03:34]
+[AAfFKK] _
+ono
+
+[19:03:39]
+[AAfFKK] _
+lrae
+
+[19:04:09]
+[AAfFKK] _
+43126402611421170134000
+
+[19:04:48]
+[AAfFKK] _
+gorky
+
+[19:04:49]
+[AAfFKK] _
+sec
+
+[19:04:53]
+[Chumon] zzChumoProPlusMaxUltra
+fuck me
+
+[19:06:48]
+[AAfFKK] _
+?
+
+[19:07:26]
+[AAfFKK] _
+lol
+
+[19:07:31]
+[AAfFKK] _
+horny
+
+[19:07:37]
+[eYFDHl] eeee
+hu
+
+[19:07:38]
+[eYFDHl] eeee
+终于写完了
+
+[19:07:41]
+[eYFDHl] eeee
+~~这都是什么离谱题~~
+
+[19:07:59]
+[QCkYle] ModBot
+This is not how this works, or how any of this works.
+
+[19:07:59]
+[Chumon] zzChumoProPlusMaxUltra
+我需要一个人维护我的聊天室历史书
+
+[19:08:05]
+[AAfFKK] _
+bloop bloop
+
+[19:08:06]
+[Chumon] zzChumoProPlusMaxUltra
+@_ デックタック
+
+[19:08:45]
+[Chumon] zzChumoProPlusMaxUltra
+園を描いて
+
+[19:10:28]
+[AAfFKK] _
+OxO
+
+[19:10:36]
+[Chumon] zzChumoProPlusMaxUltra
+接啊
+
+[19:12:27]
+[Chumon] zzChumoProPlusMaxUltra
+tnnd
+
+[19:12:29]
+[Chumon] zzChumoProPlusMaxUltra
+为什么不接！
+
+[19:12:34]
+[AAfFKK] _
+obo
+
+[19:13:26]
+[Chumon] zzChumoProPlusMaxUltra
+tnnd
+
+[19:13:33]
+[Chumon] zzChumoProPlusMaxUltra
+为什么没人听术！
+
+[19:13:43]
+[None] Aice
+有的！
+
+[19:13:57]
+[Chumon] zzChumoProPlusMaxUltra
+awa！
+
+[19:14:02]
+[Chumon] zzChumoProPlusMaxUltra
+好家伙
+
+[19:17:04]
+[None] mrji
+hi
+
+[19:21:12]
+[None] mrji
+jijij
+
+[19:21:17]
+[None] Aice
+hi
+
+[19:21:26]
+[None] mrji
+有人马
+
+[19:23:04]
+[AAfFKK] _
+maybe
+
+[19:23:14]
+[AAfFKK] _
+no one yes man
+
+[19:23:21]
+[AAfFKK] _
+lyao
+
+[19:26:00]
+[AAfFKK] _
+oops
+
+[19:26:17]
+[Myh1TA] 4n0n4me
+看来
+
+[19:27:25]
+[Myh1TA] 4n0n4me
+replit运行的时间有限
+
+[19:27:31]
+[AAfFKK] _
+?
+
+[19:27:34]
+[Myh1TA] 4n0n4me
+而且可能取决于你是不是看了replit网页
+
+[19:27:42]
+[Myh1TA] 4n0n4me
+如果你看一下他的网页
+
+[19:27:45]
+[AAfFKK] _
+replit
+
+[19:27:47]
+[Myh1TA] 4n0n4me
+可能会运行的长一点
+
+[19:48:05]
+[eYFDHl] eee
+uw
+
+[19:48:05]
+[eYFDHl] eee
+嘶
+
+[19:49:48]
+[eYFDHl] eee
+星聊是炸了吗
+
+[19:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 20:00:00
+![](https://i.gyazo.com/6ed15ef1a986d8240fd188f866623a2a.jpg)
+
+[20:04:53]
+[None] 0
+.
+
+[20:04:58]
+[None] 0
+what
+
+[20:05:50]
+[None] mrji
+中秋节了吗
+
+[20:06:38]
+[None] 0
+r u a robot?
+
+[20:06:47]
+[None] 0
+是的
+
+[20:06:59]
+[None] 0
+竟然有中国人
+
+[20:07:06]
+[None] mrji
+我马来西亚
+
+[20:07:21]
+[Myh1TA] 4n0n4me
+awa
+
+[20:07:26]
+[None] mrji
+马克来西亚也是中秋节了
+
+[20:07:34]
+[Myh1TA] 4n0n4me
+中秋节快乐！！！
+
+[20:07:41]
+[None] 0
+斯国一！
+
+[20:07:46]
+[None] Aice
+中秋节快乐！
+
+[20:07:58]
+[None] mrji
+中秋节快了
+
+[20:08:03]
+[None] 0
+距离我上次来HC已经有3年了
+
+[20:08:17]
+[Myh1TA] 4n0n4me
+好家伙
+
+[20:08:23]
+[Myh1TA] 4n0n4me
+欢迎回来（不是）
+
+[20:08:27]
+[None] mrji
+中秋节是谁，为啥他那么快乐
+
+[20:08:43]
+[Myh1TA] 4n0n4me
+ ~~那你一定知道fucco吧~~
+
+[20:08:44]
+[None] 0
+JlVj7N bo_od、、、
+
+[20:09:02]
+[Myh1TA] 4n0n4me
+awa
+
+[20:09:19]
+[Zvoxsl] jill
+:(
+
+[20:09:27]
+[None] mrji
+快说你们谁是中秋节
+
+[20:10:05]
+[None] mrji
+怎么那么快乐
+
+[20:10:13]
+[Chumon] zzChumoProPlusMaxUltra
+有人要围观我写代码吗
+
+[20:10:20]
+[None] mrji
+要
+
+[20:10:29]
+[Chumon] zzChumoProPlusMaxUltra
+@mrji 中秋节是中国传统节日
+
+[20:10:33]
+[Myh1TA] 4n0n4me
+要awa
+
+[20:10:35]
+[Chumon] zzChumoProPlusMaxUltra
+等等
+
+[20:10:40]
+[None] mrji
+怎么看]
+
+[20:10:42]
+[Chumon] zzChumoProPlusMaxUltra
+腾讯回忆
+
+[20:10:45]
+[Chumon] zzChumoProPlusMaxUltra
+*腾讯会议
+
+[20:10:53]
+[None] 0
+这个网站用的是什么代码/
+
+[20:11:28]
+[None] 0
+?
+
+[20:11:31]
+[Myh1TA] 4n0n4me
+node.js
+
+[20:11:51]
+[None] 0
+好吧
+
+[20:12:02]
+[None] 0
+不会
+
+[20:12:04]
+[None] 0
+？？？
+
+[20:12:08]
+[Myh1TA] 4n0n4me
+这是机器人
+
+[20:12:27]
+[Chumon] zzChumoProPlusMaxUltra
+腾讯回忆或者todesk
+
+[20:12:37]
+[None] mrji
+哇今晚的月亮真圆
+
+[20:12:48]
+[Chumon] zzChumoProPlusMaxUltra
+todesk只能容纳1人
+
+[20:12:51]
+[None] mrji
+0
+
+[20:13:00]
+[AAfFKK] _
+;
+
+[20:13:05]
+[Myh1TA] 4n0n4me
+O
+
+[20:13:06]
+[Myh1TA] 4n0n4me
+;-;
+
+[20:13:10]
+[None] mrji
+o
+
+[20:13:11]
+[Chumon] zzChumoProPlusMaxUltra
+先报名
+
+[20:13:24]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[20:13:25]
+[Myh1TA] 4n0n4me
+我也看到了欸
+
+[20:13:33]
+[None] mrji
+mrji
+
+[20:13:34]
+[Myh1TA] 4n0n4me
+真圆awa
+
+[20:13:37]
+[None] 0
+咋了
+
+[20:13:57]
+[AAfFKK] _
+awa
+
+[20:14:20]
+[None] 0
+wht r u so sad/
+
+[20:14:39]
+[Myh1TA] 4n0n4me
+因为这个网站等宽字体，O不圆（）
+
+[20:15:03]
+[Myh1TA] 4n0n4me
+我的手机不是华为
+
+[20:15:11]
+[Myh1TA] 4n0n4me
+拍月亮效果不好
+
+[20:15:15]
+[None] mrji
+听讲明天更亮
+
+[20:15:36]
+[Myh1TA] 4n0n4me
+我有个小望远镜哈哈
+
+[20:15:40]
+[Myh1TA] 4n0n4me
+找找在哪
+
+[20:15:42]
+[Chumon] zzChumoProPlusMaxUltra
+我有谷歌相机
+
+[20:15:56]
+[None] mrji
+刚果红
+
+[20:15:57]
+[Chumon] zzChumoProPlusMaxUltra
+我手机兼容
+
+[20:16:02]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[20:16:23]
+[AAfFKK] _
+Qwq
+
+[20:16:23]
+[Myh1TA] 4n0n4me
+焯
+
+[20:16:24]
+[Myh1TA] 4n0n4me
+找不到望远镜了
+
+[20:16:27]
+[None] 0
+你们应该买鸭梨牌手机，放大3倍看清火星表面(doge
+
+[20:16:27]
+[eYFDHl] eeee
+吵
+
+[20:16:42]
+[eYFDHl] eeee
+焯
+
+[20:16:44]
+[AAfFKK] _
+?
+
+[20:17:09]
+[AAfFKK] _
+l
+
+[20:17:12]
+[None] mrji
+@eeee 是艹
+
+[20:17:27]
+[eYFDHl] eeee
+艹
+
+[20:17:35]
+[AAfFKK] _
+trip adders
+
+[20:17:41]
+[None] 0
+咋写代码啊
+
+[20:18:10]
+[AAfFKK] _
+👑
+
+[20:18:19]
+[None] mrji
+@0 不对因该要买菠萝手机
+
+[20:18:27]
+[None] 0
+都一样啦
+
+[20:18:39]
+[None] 0
+鸭梨便宜一点
+
+[20:18:47]
+[None] 0
+最近刚出了鸭梨114514
+
+[20:18:59]
+[None] mrji
+不一样是原则问题]、]
+
+[20:19:10]
+[None] 0
+<title>114514</title>
+
+[20:20:03]
+[None] 0
+???
+
+[20:20:06]
+[None] 0
+说好的js呢
+
+[20:20:15]
+[AAfFKK] _
+ganky
+
+[20:20:41]
+[None] 0
+javascript:R=0; x1=.1; y1=.05; x2=.25; y2=.24; x3=1.6; y3=.24; x4=300; y4=200; x5=300; y5=200; DI=document.images; DIL=DI.length; function A(){for(i=0; i-DIL; i++){DIS=DI[ i ].style; DIS.position='absolute'; DIS.left=Math.sin(R*x1+i*x2+x3)*x4+x5; DIS.top=Math.cos(R*y1+i*y2+y3)*y4+y5}R++}setInterval('A()',5); void(0);
+
+[20:21:05]
+[AAfFKK] _
+-.-
+
+[20:21:23]
+[None] 0
+R=0; x1=.1; y1=.05; x2=.25; y2=.24; x3=1.6; y3=.24; x4=300; y4=200; x5=300; y5=200; DI=document.images; DIL=DI.length; function A(){for(i=0; i-DIL; i++){DIS=DI[ i ].style; DIS.position='absolute'; DIS.left=Math.sin(R*x1+i*x2+x3)*x4+x5; DIS.top=Math.cos(R*y1+i*y2+y3)*y4+y5}R++}setInterval('A()',5); void(0);
+
+[20:21:29]
+[None] 0
+hi
+
+[20:21:51]
+[None] mrji
+你们慢慢聊吧，老子提灯笼去了
+
+[20:22:03]
+[None] 0
+...
+
+[20:22:08]
+[None] mrji
+byebye
+
+[20:22:09]
+[None] 0
+bye
+
+[20:23:34]
+[eYFDHl] eeee
+哇
+
+[20:23:37]
+[Myh1TA] 4n0n4me
+@0 呃
+
+[20:24:00]
+[Myh1TA] 4n0n4me
+这个网站是用js写的
+
+[20:24:07]
+[Myh1TA] 4n0n4me
+但是不代表用户可以发js
+
+[20:24:15]
+[None] 0
+哦！！！
+
+[20:25:20]
+[None] 0
+懂了
+
+[20:25:22]
+[None] 0
+沉默...
+
+[20:28:30]
+[Myh1TA] 4n0n4me
+awa
+
+[20:28:39]
+[Myh1TA] 4n0n4me
+我在填词
+
+[20:28:44]
+[AAfFKK] _
+lvol
+
+[20:28:44]
+[None] 0
+Mr.zhang 不在了
+
+[20:28:47]
+[Myh1TA] 4n0n4me
+？
+
+[20:28:54]
+[Myh1TA] 4n0n4me
+ ~~你不是三年前来的吗~~
+
+[20:29:01]
+[Myh1TA] 4n0n4me
+那时候哪有Mr_Zhang
+
+[20:29:07]
+[None] 0
+他之前一直在这个频道的
+
+[20:29:18]
+[Myh1TA] 4n0n4me
+？
+
+[20:29:21]
+[Myh1TA] 4n0n4me
+啥时候
+
+[20:30:54]
+[None] Demons
+Ha
+
+[20:31:13]
+[AAfFKK] _
+gank
+
+[20:31:24]
+[eYFDHl] eeee
+@ee 
+
+[20:31:46]
+[eYFDHl] eeee
+paper
+
+[20:31:51]
+[AAfFKK] _
+aaaa
+
+[20:32:01]
+[AAfFKK] _
+@ee @ee @ee 
+
+[20:32:17]
+[n3CJhb] zzChumo_Ubuntu
+初墨 邀请您参加腾讯会议
+会议主题：初墨的快速会议
+会议时间：2022/09/10 20:31-21:31 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接直接加入会议：
+https://meeting.tencent.com/dm/qHmLzoVhx1Sa
+
+#腾讯会议：350-627-071
+
+手机一键拨号入会
++8675536550000,,350627071 (中国大陆)
++85230018898,,,2,350627071 (中国香港)
+
+根据您的位置拨号
++8675536550000 (中国大陆)
++85230018898 (中国香港)
+
+复制该信息，打开手机腾讯会议即可参与
+
+[20:32:20]
+[n3CJhb] zzChumo_Ubuntu
+Geascript开发直播
+
+[20:32:40]
+[Myh1TA] 4n0n4me
+awa
+
+[20:32:55]
+[n3CJhb] zzChumo_Ubuntu
+@Maggie @4n0n4me @mrji
+
+[20:32:59]
+[Myh1TA] 4n0n4me
+awa
+
+[20:33:02]
+[AAfFKK] _
+awa
+
+[20:33:05]
+[n3CJhb] zzChumo_Ubuntu
+初墨 邀请您参加腾讯会议
+会议主题：初墨的快速会议
+会议时间：2022/09/10 20:31-21:31 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接直接加入会议：
+https://meeting.tencent.com/dm/qHmLzoVhx1Sa
+
+#腾讯会议：350-627-071
+
+手机一键拨号入会
++8675536550000,,350627071 (中国大陆)
++85230018898,,,2,350627071 (中国香港)
+
+根据您的位置拨号
++8675536550000 (中国大陆)
++85230018898 (中国香港)
+
+复制该信息，打开手机腾讯会议即可参与
+
+[20:33:10]
+[2ZQ3+0] Maggie
+?
+
+[20:33:19]
+[2ZQ3+0] Maggie
+hm
+
+[20:33:21]
+[2ZQ3+0] Maggie
+awa
+
+[20:33:23]
+[n3CJhb] zzChumo_Ubuntu
+腾讯会议
+
+[20:33:32]
+[n3CJhb] zzChumo_Ubuntu
+aw？
+
+[20:33:59]
+[Myh1TA] 4n0n4me
+零宽空格awa 
+
+[20:34:55]
+[Myh1TA] 4n0n4me
+《新建文件夹》
+
+[20:35:11]
+[AAfFKK] _
+a&#8203;wa
+
+[20:35:13]
+[n3CJhb] zzChumo_Ubuntu
+awa
+
+[20:35:58]
+[n3CJhb] zzChumo_Ubuntu
+dpg来吗
+
+[20:36:01]
+[AAfFKK] _
+awa
+
+[20:36:48]
+[AAfFKK] _
+pill coming
+
+[20:37:57]
+[n3CJhb] zzChumo_Ubuntu
+awa?
+
+[20:41:43]
+[AAfFKK] _
+-.-
+
+[20:44:57]
+[n3CJhb] zzChumo_Ubuntu
+@Maggie 
+
+[20:46:37]
+[n3CJhb] zzChumo_Ubuntu
+初墨 邀请您参加腾讯会议
+会议主题：初墨的快速会议
+会议时间：2022/09/10 20:31-21:31 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接直接加入会议：
+https://meeting.tencent.com/dm/qHmLzoVhx1Sa
+
+#腾讯会议：350-627-071
+
+手机一键拨号入会
++8675536550000,350627071 (中国大陆)
++85230018898,2,350627071 (中国香港)
+
+根据您的位置拨号
++8675536550000 (中国大陆)
++85230018898 (中国香港)
+
+复制该信息，打开手机腾讯会议即可参与
+
+[20:46:38]
+[n3CJhb] zzChumo_Ubuntu
+awa
+
+[20:46:39]
+[Myh1TA] 4n0n4me
+山坡羊，我的山坡羊（浑身乱扭）
+
+[20:50:05]
+[n3CJhb] zzChumo_Ubuntu
+hi
+
+[20:51:13]
+[n3CJhb] zzChumo_Ubuntu
+初墨 邀请您参加腾讯会议
+会议主题：初墨的快速会议
+会议时间：2022/09/10 20:31-21:31 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接直接加入会议：
+https://meeting.tencent.com/dm/qHmLzoVhx1Sa
+
+#腾讯会议：350-627-071
+
+手机一键拨号入会
++8675536550000,350627071 (中国大陆)
++85230018898,2,350627071 (中国香港)
+
+根据您的位置拨号
++8675536550000 (中国大陆)
++85230018898 (中国香港)
+
+复制该信息，打开手机腾讯会议即可参与
+
+[20:51:14]
+[2ZQ3+0] Maggie
+...
+
+[20:51:57]
+[2ZQ3+0] Maggie
+tc
+
+[20:51:58]
+[2ZQ3+0] Maggie
+@zzChumo_Ubuntu 
+
+[20:52:25]
+[2ZQ3+0] Maggie
+tanchat
+
+[20:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 21:00:00
+![](https://i.gyazo.com/ffc998b30d0419a7995413695da30a3c.jpg)
+
+[21:00:50]
+[None] mrji
+hi
+
+[21:00:55]
+[None] mrji
+可以教我怎么装逼马[[
+
+[21:02:23]
+[n3CJhb] zzChumo_Ubuntu
+@mrji 装个腾讯会议看我写代码（
+
+[21:04:20]
+[None] dabba
+hi
+
+[21:04:26]
+[None] dabba
+hlo box
+
+[21:04:50]
+[None] dabba
+adiiiiiiiiitiiiiiiiiiiiiiii
+
+[21:05:39]
+[Myh1TA] 4n0n4me
+hi
+
+[21:06:35]
+[None] mrji
+你先给我讲一个代码装装逼
+
+[21:07:21]
+[2ZQ3+0] Maggie
+?
+
+[21:07:24]
+[2ZQ3+0] Maggie
+来tc聊天
+
+[21:07:31]
+[2ZQ3+0] Maggie
+https://chat.thz.cool/?lounge#mrji
+
+[21:07:43]
+[eYFDHl] eeee
+wuhu
+
+[21:08:02]
+[0/JM7u] huolongguo1O
+hjh
+
+[21:08:10]
+[eYFDHl] eeee
+准备出门了
+
+[21:08:11]
+[2ZQ3+0] Maggie
+awa
+
+[21:08:15]
+[0/JM7u] huolongguo1O
+发了多少
+
+[21:08:15]
+[0/JM7u] huolongguo1O
+居然要装逼
+
+[21:10:21]
+[None] mrji
+求你们嘛
+
+[21:11:04]
+[Myh1TA] 4n0n4me
+我们不会啊（）
+
+[21:11:12]
+[Myh1TA] 4n0n4me
+这个达到知识盲区了
+
+[21:11:17]
+[2ZQ3+0] Maggie
+afk
+
+[21:11:38]
+[NqByTq] light
+.
+
+[21:11:39]
+[NqByTq] light
+wc
+
+[21:12:57]
+[NqByTq] light
+我突然想起来我有望远镜
+
+[21:13:05]
+[eYFDHl] eeee
+wowoc
+
+[21:13:09]
+[n3CJhb] zzChumo_Ubuntu
+@eeee 
+
+[21:14:18]
+[n3CJhb] zzChumo_Ubuntu
+初墨 邀请您参加腾讯会议
+会议主题：初墨的快速会议
+会议时间：2022/09/10 20:31-21:31 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接直接加入会议：
+https://meeting.tencent.com/dm/qHmLzoVhx1Sa
+
+#腾讯会议：350-627-071
+
+手机一键拨号入会
++8675536550000,350627071 (中国大陆)
++85230018898,2,350627071 (中国香港)
+
+根据您的位置拨号
++8675536550000 (中国大陆)
++85230018898 (中国香港)
+
+复制该信息，打开手机腾讯会议即可参与
+
+[21:14:27]
+[n3CJhb] zzChumo_Ubuntu
+Geascript
+
+[21:14:35]
+[n3CJhb] zzChumo_Ubuntu
+wanna join?
+
+[21:15:41]
+[None] hhhh
+hh
+
+[21:15:44]
+[None] hhhh
+我有问题要问
+
+[21:15:57]
+[None] hhhh
+哈哈
+
+[21:16:28]
+[None] hhhh
+我的电脑进不了BIOS 但是运行securable.exe 却显示支持虚拟化技术
+
+[21:17:21]
+[None] hhhh
+这是什么问题
+
+[21:17:25]
+[None] hhhh
+谁帮忙解答下下
+
+[21:17:41]
+[eYFDHl] eeee
+@zzChumo_Ubuntu @zzChumo_Ubuntu 我要出门了
+
+[21:18:15]
+[eYFDHl] eeee
+~~希望我回来还能早~~
+
+[21:18:30]
+[QCkYle] ModBot
+Dunno that command, try typing with your other cheeck.
+
+[21:18:30]
+[None] hhhh
+？
+
+[21:18:42]
+[Myh1TA] 4n0n4me
+额
+
+[21:19:18]
+[Myh1TA] 4n0n4me
+怎么个进不了bios
+
+[21:19:25]
+[None] hhhh
+进了个界面没有找到virtual
+
+[21:19:57]
+[Myh1TA] 4n0n4me
+额
+
+[21:20:07]
+[Myh1TA] 4n0n4me
+有没有别的类似virtual的字眼
+
+[21:20:15]
+[None] hhhh
+但是我LINUX已经都装好了哇
+
+[21:20:37]
+[Myh1TA] 4n0n4me
+啊？
+
+[21:20:41]
+[Myh1TA] 4n0n4me
+啥意思
+
+[21:20:43]
+[Myh1TA] 4n0n4me
+BIOS所有的选项里，都没有找到Virtual或者虚拟字眼吗
+
+[21:21:12]
+[None] hhhh
+对
+
+[21:21:17]
+[None] hhhh
+技术说是CPU不支持虚拟化
+
+[21:21:34]
+[Myh1TA] 4n0n4me
+emm
+
+[21:21:46]
+[None] hhhh
+然后就运行securable.exe验证
+
+[21:22:06]
+[None] hhhh
+显示是支持。。。
+
+[21:22:14]
+[Myh1TA] 4n0n4me
+securable.exe的三个栏目都显示支持吗
+
+[21:22:26]
+[None] hhhh
+对
+
+[21:23:05]
+[Myh1TA] 4n0n4me
+如果是AMD平台可能是叫SVM。
+
+[21:23:27]
+[Myh1TA] 4n0n4me
+有没有SVM
+
+[21:23:30]
+[None] hhhh
+不不 我显示是 64 YES YES
+
+[21:24:06]
+[None] hhhh
+对着么
+
+[21:24:25]
+[Myh1TA] 4n0n4me
+emm
+
+[21:24:55]
+[Myh1TA] 4n0n4me
+我不知道（）
+
+[21:24:57]
+[Myh1TA] 4n0n4me
+https://blog.csdn.net/weixin_43730035/article/details/107592859
+
+[21:26:07]
+[None] hhhh
+他说的不是所有主板都支持虚拟化
+
+[21:28:18]
+[Myh1TA] 4n0n4me
+相见欢·中秋（一版）
+相逢佳节城头，忘忧愁。一日欢声无限，月梢头。
+人久在，残月满，乐长留。相约待明年，再度中秋。
+
+[21:28:29]
+[None] mrji
+好诗
+
+[21:28:56]
+[None] hhhh
+好诗
+
+[21:29:08]
+[Myh1TA] 4n0n4me
+ ~~我尽力了~~
+
+[21:29:21]
+[NqByTq] light
+?
+
+[21:30:02]
+[None] thib
+hi
+
+[21:30:04]
+[Myh1TA] 4n0n4me
+hi
+
+[21:36:17]
+[None] hhhh
+！！
+
+[21:37:20]
+[None] hhhh
+一直是进不了，和CSDN那位遇到的不是一个问题，是硬伤 
+
+[21:37:35]
+[None] mrji
+有点孔明灯吗
+
+[21:37:37]
+[Myh1TA] 4n0n4me
+你们知道吗
+
+[21:38:52]
+[Myh1TA] 4n0n4me
+@mrji woc，这属是没有
+
+[21:38:58]
+[Myh1TA] 4n0n4me
+上海现在部分还在疫情之下
+
+[21:39:06]
+[Myh1TA] 4n0n4me
+谁出去点灯啊
+
+[21:39:15]
+[Myh1TA] 4n0n4me
+你们知道吗
+
+[21:39:21]
+[Myh1TA] 4n0n4me
+B站好多官号改名了
+
+[21:39:27]
+[Myh1TA] 4n0n4me
+姬、娘这两个字都改了
+
+[21:39:37]
+[Myh1TA] 4n0n4me
+不知道是什么广电总局的要求
+
+[21:39:45]
+[Myh1TA] 4n0n4me
+还是B站老总的要求
+
+[21:39:50]
+[None] mrji
+可以给我一个cmd的代码装装逼马
+
+[21:40:00]
+[Myh1TA] 4n0n4me
+@hhhh 这个我属实没办法了，你要不再问问别人？
+
+[21:40:07]
+[None] hhhh
+hh
+
+[21:40:09]
+[None] hhhh
+没事
+
+[21:40:15]
+[None] hhhh
+https://blog.csdn.net/weixin_43730035/article/details/107592859
+
+[21:42:19]
+[None] hhhh
+发错了
+
+[21:43:21]
+[None] hhhh
+https://www.csdn.net/tags/MtzaEgxsNDc1NS1ibG9n.html
+
+[21:43:24]
+[None] mrjifriend
+Hi
+
+[21:43:29]
+[None] mrjifriend
+你们好
+
+[21:43:46]
+[None] mrjifriend
+我是那个mrji
+
+[21:43:53]
+[None] mrjifriend
+我现在用的是手机
+
+[21:44:02]
+[2ZQ3+0] Maggie
+hhh
+
+[21:44:48]
+[None] mrji
+hi
+
+[21:45:07]
+[None] mrjifriend
+我想问手机也能用cmd吗？
+
+[21:46:00]
+[None] mrjifriend
+怎么没人理我了
+
+[21:46:17]
+[Myh1TA] 4n0n4me
+e\
+
+[21:47:32]
+[Myh1TA] 4n0n4me
+我觉得
+
+[21:47:34]
+[Myh1TA] 4n0n4me
+大概是不能
+
+[21:47:37]
+[Myh1TA] 4n0n4me
+我认为
+
+[21:47:42]
+[Myh1TA] 4n0n4me
+完全不能
+
+[21:47:46]
+[Myh1TA] 4n0n4me
+除非你的手机非常特殊
+
+[21:47:50]
+[None] mrjifriend
+就是
+
+[21:48:03]
+[None] mrjifriend
+改装过的
+
+[21:48:10]
+[Myh1TA] 4n0n4me
+不是改装
+
+[21:48:33]
+[Myh1TA] 4n0n4me
+是你装的软件特殊
+
+[21:48:37]
+[Myh1TA] 4n0n4me
+比如你使用ubuntu touch系统
+
+[21:48:44]
+[None] mrjifriend
+有的推荐吗
+
+[21:48:47]
+[Myh1TA] 4n0n4me
+用了这个系统意味着你不能用手机上微信、打电话等等
+
+[21:50:20]
+[None] mrjif
+有人吗
+
+[21:50:50]
+[None] hhhh
+相比手机上用cmd 我更习惯用这个名字
+
+[21:51:20]
+[None] hhhh
+hhhh
+
+[21:51:31]
+[Myh1TA] 4n0n4me
+a
+
+[21:52:05]
+[None] mrjif
+哈哈
+
+[21:52:19]
+[None] hhhh
+hhh
+
+[21:54:04]
+[None] mrjif
+艹
+
+[21:54:41]
+[None] mrjif
+又没人了
+
+[21:55:21]
+[None] mrjif
+hi
+
+[21:55:31]
+[None] mrjif
+你好
+
+[21:55:35]
+[None] mrjif
+有人吗
+
+[21:55:41]
+[2ZQ3+0] Maggie
+没
+
+[21:55:59]
+[None] hhhh
+没了
+
+[21:56:34]
+[NqByTq] light
+?
+
+[21:56:38]
+[None] mrjif
+啧啧啧
+
+[21:56:52]
+[None] mrjif
+😃
+
+[21:57:03]
+[NqByTq] light
+?
+
+[21:57:04]
+[None] mrjif
+🖕
+
+[21:57:17]
+[NqByTq] light
+🖕
+====
+
+[21:57:29]
+[2ZQ3+0] Maggie
+？
+
+[21:57:32]
+[2ZQ3+0] Maggie
+be polite
+
+[21:57:36]
+[NqByTq] light
+@mrjif 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕
+
+[21:57:40]
+[2ZQ3+0] Maggie
+# be polite
+
+[21:57:42]
+[None] mrjif
+как дела
+
+[21:57:47]
+[2ZQ3+0] Maggie
+# be polite @light @mrjif 
+
+[21:57:49]
+[NqByTq] light
+@mrjif 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕
+
+[21:57:52]
+[NqByTq] light
+@mrjif 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕
+
+[21:57:53]
+[NqByTq] light
+~kick mrjif
+
+[21:58:34]
+[None] hhhh
+目前Inter和AMD生产的主流CPU都支持虚拟化技术，但很多电脑或主板BIOS出厂时默认禁用虚拟化技术。
+今天想用VWware虚拟机装一下redhat的64位版本，装的时候虚拟机时提示：“VT-x/AMD-V 硬件加速在您的系统中不可用。您的 64-位虚拟机将无法检测到 64-位处理器，从而无法启动”。
+则需要进行启动BIOS的虚拟化设置。
+第一步：
+检查本机电脑是否支持虚拟化技术。可以从网上搜索下载‘securable.exe’
+运行该软件检测CPU是否支持虚拟化技术。若Hardware Virtualization显示Yes则表示CPU支持虚拟化技术，可做BIOS虚拟化设置。若显示NO则当前CPU不支持虚拟化技术，BIOS虚拟化设置也没用，除非换电脑或CPU。
+第二步：
+重启电脑后按F2或F10进入BIOS界面(不同主板型号进入BIOS所需按键不同)。
+进入BIOS界面：Configuratio > Intel Virtual Technology > Enabled。
+注：主板不一样其BISO中显示关键词也不一样的，主要是找到Virtual或Virtualization将其设置为Enabled。
+然后选择F10 (Save and Exit) 保存BIOS设置并重启电脑。
+第三步：
+进入系统后重新运行VWware再启动虚拟机，即可正常运行虚拟机
+
+[21:59:55]
+[AAfFKK] AfK_Bot
+2022-09-10 22:00:00
+![](https://i.gyazo.com/ffc998b30d0419a7995413695da30a3c.jpg)
+
+[22:00:11]
+[None] mrjif
+hihi
+
+[22:00:18]
+[None] hhhh
+好亮
+
+[22:00:24]
+[None] mrjif
+没想到有cmd这个app
+
+[22:00:36]
+[None] azul
+<hello>
+
+[22:00:56]
+[None] mrjif
+@#$_&-@&#
+
+[22:01:56]
+[None] mrjif
+。。。。
+
+[22:03:14]
+[None] mrjif
+。。。。。
+
+[22:03:16]
+[None] mrjif
+又没人了
+
+[22:06:53]
+[Chumon] zzChumoProPlusMaxUltra
+awa
+
+[22:06:55]
+[Chumon] zzChumoProPlusMaxUltra
+~kick @zzChumoProPlusMaxUltra 
+
+[22:07:21]
+[None] hhhh
+有谁能解释下针对于越无知的人越兴趣浓厚
+
+[22:09:06]
+[Myh1TA] 4n0n4me
+啥意思啊（）
+
+[22:09:45]
+[None] hhhh
+可以理解为认知边界很有限
+
+[22:10:00]
+[Myh1TA] 4n0n4me
+知道的越多，不知道的越多
+
+[22:10:34]
+[None] hhhh
+拿我举个例子，我对这个东西不理解，但是就越好奇
+
+[22:10:35]
+[Myh1TA] 4n0n4me
+芝诺说： 人的知识就好比一个圆圈，圆圈里面是已知的，圆圈外面是未知的。你知道得越多，圆圈也就越大，你不知道的也就越多。
+
+[22:11:01]
+[None] mrji
+你们有什么代码让我装逼马、
+
+[22:11:14]
+[None] hhhh
+难道是因为越菜越爱玩？
+
+[22:11:20]
+[Myh1TA] 4n0n4me
+@mrji ~~你咋就想着装逼~~
+
+[22:11:23]
+[Myh1TA] 4n0n4me
+我们真不知道这种东西
+
+[22:11:31]
+[None] mrji
+jiji
+
+[22:11:37]
+[Myh1TA] 4n0n4me
+我倒是知道
+
+[22:12:02]
+[Myh1TA] 4n0n4me
+有个东西
+
+[22:12:04]
+[Myh1TA] 4n0n4me
+装逼很好
+
+[22:12:06]
+[Myh1TA] 4n0n4me
+https://www.geektyper.com/
+
+[22:12:11]
+[None] hhhh
+芝诺这话是说认知边界产生无知
+
+[22:12:41]
+[Myh1TA] 4n0n4me
+可能知道的越多
+
+[22:12:41]
+[Myh1TA] 4n0n4me
+要学的东西就越琐碎
+
+[22:12:55]
+[Myh1TA] 4n0n4me
+但是按照某些文科的观点，你到最后又能回到大道至简的境界（我乱说的）
+
+[22:13:16]
+[None] hhhh
+哈哈
+
+[22:13:31]
+[None] hhhh
+用已知推未知似乎更好，因为不知道的实在太多了
+
+[22:14:42]
+[None] hhhh
+要做的事也太多就比较困扰人
+
+[22:15:23]
+[NqByTq] light
+https://github.com/Lightyoo/Terylene
+
+[22:15:29]
+[2ZQ3+0] Maggie
+@light starred
+
+[22:16:37]
+[None] hhhh
+！！
+
+[22:20:34]
+[None] A
+Fuck ur moms
+
+[22:21:24]
+[2ZQ3+0] Maggie
+:!lookup nick A
+
+[22:22:07]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==u5g3dNZ1cekXosv==: ['A']
+==Trips== for hash ==u5g3dNZ1cekXosv==: ['']
+
+[22:22:07]
+[2ZQ3+0] Maggie
+:!ban u5g3dNZ1cekXosv
+
+[22:22:16]
+[AAfFKK] AfK_Bot
+Banned hash u5g3dNZ1cekXosv
+
+[22:22:16]
+[NqByTq] light
+@Maggie 灰常感谢 ------
+
+[22:24:58]
+[2ZQ3+0] Maggie
+awa
+
+[22:32:02]
+[2ZQ3+0] Maggie
+afk 
+
+[22:32:50]
+[None] hhhh
+问个问题，假如你正在应对网络攻击，这个时候尿滋难受，这个时候要放弃抵抗吗
+
+[22:35:02]
+[None] hhhh
+要不要放弃抵抗
+
+[22:35:47]
+[NqByTq] light
+?
+
+[22:36:01]
+[None] hhhh
+！
+
+[22:36:46]
+[Myh1TA] 4n0n4me
+尿滋是什么鬼
+
+[22:36:53]
+[None] hhhh
+尿急
+
+[22:38:06]
+[NqByTq] light
+上完了再来啊
+
+[22:38:32]
+[NqByTq] light
+这什么**问题
+
+[22:38:54]
+[None] hhhh
+忘记说上完了可能就沦陷了
+
+[22:39:36]
+[NqByTq] AnonymityGay
+?
+
+[22:39:43]
+[NqByTq] AnonymityGay
+ ~~就地解决~~
+
+[22:39:51]
+[2ZQ3+0] Maggie
+你的名字
+
+[22:40:50]
+[2ZQ3+0] Maggie
+匿名的***
+
+[22:41:29]
+[eYFDHl] eee
+uwu
+
+[22:41:31]
+[eYFDHl] eee
+我在海边
+
+[22:41:34]
+[None] Anonymous_0302
+Hi
+
+[22:41:52]
+[eYFDHl] eee
+@Maggie 你的图床给我发一下
+
+[22:41:59]
+[NqByTq] AnonymityGay
+我在牛马星系
+
+[22:42:09]
+[2ZQ3+0] Maggie
+好嘞
+
+[22:42:11]
+[2ZQ3+0] Maggie
+img.thz.cool
+
+[22:42:14]
+[eYFDHl] eee
+thanks
+
+[22:42:19]
+[NqByTq] AnonymityGay
+https://github.com/Lightyoo/Terylene
+
+[22:42:26]
+[2ZQ3+0] Maggie
+你在海边！！！
+
+[22:42:26]
+[2ZQ3+0] Maggie
+羡慕
+
+[22:42:28]
+[None] Anonymous_0302
+Hi
+
+[22:42:32]
+[2ZQ3+0] Maggie
+我这辈子都没去过海边
+
+[22:42:37]
+[NqByTq] AnonymityGay
+我之前夏令营去了一次
+
+[22:42:50]
+[NqByTq] AnonymityGay
+（4年纪的时候
+
+[22:42:57]
+[None] hhhh
+有没有科学的解决方案 
+
+[22:43:00]
+[None] Anonymous_0302
+Hey guys what are you talking about
+
+[22:43:10]
+[NqByTq] AnonymityGay
+@hhhh 用身边的容器收集**
+
+[22:43:29]
+[NqByTq] AnonymityGay
+或者把设备带到撤硕
+
+[22:43:40]
+[NqByTq] AnonymityGay
+要么就憋
+
+[22:43:52]
+[NqByTq] AnonymityGay
+是在不行请奇异博士
+
+[22:44:28]
+[NqByTq] AnonymityGay
+@hhhh 
+
+[22:44:34]
+[None] Anonymous_0302
+https://hack.chat/?Hi
+
+[22:45:24]
+[eYFDHl] eee
+嘶 图片太大传不上
+
+[22:45:37]
+[2ZQ3+0] Maggie
+额
+
+[22:45:41]
+[2ZQ3+0] Maggie
+注册一下
+
+[22:45:45]
+[2ZQ3+0] Maggie
+3q
+
+[22:45:46]
+[eYFDHl] eee
+注册……验证邮件呢 awa
+
+[22:46:01]
+[eYFDHl] eee
+？
+
+[22:46:23]
+[2ZQ3+0] Maggie
+额
+
+[22:46:51]
+[None] Anonymous_0302
+https://hack.chat/?Go_here
+
+[22:46:55]
+[2ZQ3+0] Maggie
+注册要邮件吗？
+
+[22:47:00]
+[2ZQ3+0] Maggie
+我给你新增个pro用户吧
+
+[22:47:16]
+[None] Anonymous_0302
+@Maggie English plz
+
+[22:47:25]
+[eYFDHl] eee
+Your account is almost ready
+An email to 150361308@qq.com has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters.
+
+[22:47:34]
+[2ZQ3+0] Maggie
+im not speaking to u
+
+[22:47:39]
+[2ZQ3+0] Maggie
+@eee 你的账号已经被激活了
+
+[22:47:50]
+[2ZQ3+0] Maggie
+登录就行
+
+[22:47:52]
+[2ZQ3+0] Maggie
+别管
+
+[22:48:01]
+[eYFDHl] eee
+不行
+
+[22:48:29]
+[None] Anonymous_0302
+wtf
+
+[22:48:38]
+[None] Anonymous_0302
+SDF
+
+[22:48:41]
+[None] Anonymous_0302
+SD
+
+[22:48:41]
+[None] Anonymous_0302
+F
+
+[22:48:41]
+[None] Anonymous_0302
+SF
+
+[22:48:41]
+[None] Anonymous_0302
+S
+
+[22:48:42]
+[None] Anonymous_0302
+FS
+
+[22:48:42]
+[AAfFKK] AfK_Bot
+ @Anonymous_0302 AKKKKK!!!!!
+
+[22:48:42]
+[None] Anonymous_0302
+FS
+
+[22:48:42]
+[None] Anonymous_0302
+DF
+
+[22:48:43]
+[None] Anonymous_0302
+SDF
+
+[22:48:43]
+[AAfFKK] AfK_Bot
+@Anonymous_0302 Bye~
+
+[22:48:44]
+[AAfFKK] AfK_Bot
+Auto banned hash 1G77Bn3G+HATqLe for 60.0s
+
+[22:48:44]
+[eYFDHl] eee
+登录会弹出上面那段话
+
+[22:48:45]
+[2ZQ3+0] Maggie
+https://gyazo.com/05c17f85fa795d512c212d32a597d90a
+
+[22:48:53]
+[2ZQ3+0] Maggie
+我给你改成vaild和manager了
+
+[22:49:04]
+[2ZQ3+0] Maggie
+再试试
+
+[22:49:42]
+[AAfFKK] AfK_Bot
+Auto unbanned hash 1G77Bn3G+HATqLe
+
+[22:49:42]
+[eYFDHl] eee
+OK了
+
+[22:49:59]
+[None] Anonymous_0302
+Fuck you bitch
+
+[22:50:08]
+[eYFDHl] eee
+https://img.thz.cool/images/2022/09/10/IMG_20220910_223645.md.jpg
+
+[22:50:35]
+[eYFDHl] eee
+芜湖
+
+[22:50:36]
+[NqByTq] AnonymityGay
+wow
+
+[22:50:58]
+[2ZQ3+0] Maggie
+waw
+
+[22:51:16]
+[2ZQ3+0] Maggie
+wow
+
+[22:51:17]
+[2ZQ3+0] Maggie
+我承认我酸了
+
+[22:51:23]
+[2ZQ3+0] Maggie
+我一次海边都没去过
+
+[22:51:29]
+[2ZQ3+0] Maggie
+;_;
+
+[22:54:02]
+[None] manjinier
+ddfdddasdf
+
+[22:54:06]
+[None] manjinier
+www.jizzzjizzz.com
+
+[22:59:56]
+[AAfFKK] AfK_Bot
+2022-09-10 23:00:00
+![](https://i.gyazo.com/ffc998b30d0419a7995413695da30a3c.jpg)
+
+[23:01:26]
+[eYFDHl] eee
+https://img.thz.cool/images/2022/09/10/IMG_20220910_230001.md.jpg
+
+[23:01:29]
+[eYFDHl] eee
+非常美丽的 蓝色的海洋
+
+[23:01:37]
+[NqByTq] AnonymityGay
+wwwwwwwwwwwwwwwwwwwwwwwwwwowwwwwwwwwwwww
+
+[23:02:37]
+[2ZQ3+0] Maggie
+wow
+
+[23:02:54]
+[2ZQ3+0] Maggie
+我慕了
+
+[23:02:54]
+[None] pandu
+Hi
+
+[23:02:59]
+[None] pandu
+Ac
+
+[23:03:48]
+[None] pandu
+I love you 😍😍😍😍
+
+[23:03:51]
+[eYFDHl] eee
+挖草
+
+[23:04:02]
+[eYFDHl] eee
+杀后台
+
+[23:04:12]
+[None] pandu
+English
+
+[23:04:15]
+[None] pandu
+Girl boy
+
+[23:04:58]
+[2ZQ3+0] Maggie
+no
+
+[23:04:59]
+[2ZQ3+0] Maggie
+ee:?
+
+[23:05:07]
+[2ZQ3+0] Maggie
+:!lookup nick pandu
+
+[23:05:18]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==QNNQ1YEF7gbAEkf==: ['pandu']
+==Trips== for hash ==QNNQ1YEF7gbAEkf==: ['']
+
+[23:05:18]
+[None] pandu
+Gcc
+
+[23:05:18]
+[2ZQ3+0] Maggie
+胖嘟
+
+[23:05:21]
+[None] pandu
+Gift
+
+[23:05:34]
+[None] pandu
+Tdff.
+
+[23:05:46]
+[None] pandu
+Gff
+
+[23:06:15]
+[None] pandu
+Reply
+
+[23:06:39]
+[None] pandu
+Hi
+
+[23:06:50]
+[2ZQ3+0] Maggie
+~kick pandu
+
+[23:06:52]
+[2ZQ3+0] Maggie
+《I love you 😍😍😍😍》
+
+[23:08:17]
+[2ZQ3+0] Maggie
+hihihi
+
+[23:08:31]
+[Zvoxsl] ji11
+hi
+
+[23:08:47]
+[AAfFKK] AfK_Bot
+ @ji11
+2022-09-10 13:40:57 AAfFKK|_ : hill
+
+[23:08:47]
+[2ZQ3+0] Maggie
+hill
+
+[23:08:58]
+[2ZQ3+0] Maggie
+pill
+
+[23:08:59]
+[2ZQ3+0] Maggie
+jill
+
+[23:09:01]
+[2ZQ3+0] Maggie
+hi11
+
+[23:09:03]
+[2ZQ3+0] Maggie
+pi11
+
+[23:09:05]
+[2ZQ3+0] Maggie
+ji11
+
+[23:09:06]
+[AAfFKK] AfK_Bot
+ @Maggie AKKKKK!!!!!
+
+[23:09:06]
+[2ZQ3+0] Maggie
+awa...
+
+[23:09:13]
+[AAfFKK] _
+lol
+
+[23:23:22]
+[Myh1TA] 4n0n4me
+晚安
+
+[23:23:29]
+[Myh1TA] 4n0n4me
+uwu
+
+[23:23:33]
+[gOtnKd] xuanwei
+hi
+
+[23:23:42]
+[AAfFKK] _
+goog nite
+
+[23:23:43]
+[eYFDHl] eee
+https://img.thz.cool/images/2022/09/10/IMG_20220910_231712.md.jpg
+
+[23:23:46]
+[AAfFKK] _
+:!afk
+
+[23:23:46]
+[AAfFKK] AfK_Bot
+ @_ You are marked AfK.
+
+[23:23:47]
+[2ZQ3+0] Maggie
+wow
+
+[23:24:02]
+[NqByTq] AnonymityGay
+我把我这个转换成了一个很优雅的方式
+
+[23:24:05]
+[NqByTq] AnonymityGay
+```python
+import time,terylene
+
+bar = terylene.Bar(0)
+
+for i in bar:
+	i(1)
+	time.sleep(0.5)
+
+[23:24:10]
+[2ZQ3+0] Maggie
+hm
+
+[23:24:12]
+[2ZQ3+0] Maggie
+cool
+
+[23:24:15]
+[NqByTq] AnonymityGay
+bar对象是可迭代的，返回的是iter([self.__add__ for i in range(self._totalvalues)])
+
+[23:24:43]
+[gOtnKd] xuanwei
+额 我 问一下你们星聊上得去吗
+
+[23:24:51]
+[2ZQ3+0] Maggie
+我试试...
+
+[23:25:54]
+[NqByTq] AnonymityGay
+```python
+for i in bar:
+    i(1)
+    time.sleep(0.5)
+```
+这个等价于
+```python
+for i in range(bar.totalvalues):
+	bar + 1
+	time.sleep(0.5)
+
+[23:27:27]
+[AAfFKK] _
+ager
+
+[23:27:59]
+[AAfFKK] AfK_Bot
+ @_ Welcome back.
+
+[23:27:59]
+[NqByTq] AnonymityGay
+:!afk
+
+[23:28:00]
+[AAfFKK] AfK_Bot
+ @AnonymityGay You are marked AfK.
+
+[23:28:01]
+[AAfFKK] _
+st
+
+[23:28:02]
+[AAfFKK] _
+:!afk
+
+[23:28:04]
+[AAfFKK] AfK_Bot
+ @_ You are marked AfK.
+
+[23:28:57]
+[gOtnKd] xuanwei
+为什么我星聊又上不去了 唉:-(  奇奇怪怪
+
+[23:29:50]
+[None] Aice
+emm
+
+[23:30:04]
+[2ZQ3+0] Maggie
+hm
+
+[23:39:26]
+[2ZQ3+0] Maggie
+awa
+
+[23:39:34]
+[eYFDHl] eee
+啊 我突然有些emo了
+
+[23:39:44]
+[2ZQ3+0] Maggie
+uwu...?
+
+[23:39:56]
+[eYFDHl] eee
+去年中秋 我也是和家人在海边
+
+[23:40:15]
+[eYFDHl] eee
+然后同时也在hc
+
+[23:40:26]
+[eYFDHl] eee
+uwu
+
+[23:40:27]
+[2ZQ3+0] Maggie
+wow
+
+[23:40:33]
+[2ZQ3+0] Maggie
+but
+
+[23:40:35]
+[2ZQ3+0] Maggie
+i never go to sea
+
+[23:40:41]
+[eYFDHl] eee
+那时hc在线的是TWS hahaha和一位外国小哥
+
+[23:41:03]
+[eYFDHl] eee
+啊 回忆啊
+
+[23:41:09]
+[eYFDHl] eee
+现在是Maggie
+
+[23:41:13]
+[eYFDHl] eee
+awa
+
+[23:41:16]
+[eYFDHl] eee
+我也拍了照片发到hc
+
+[23:41:42]
+[eYFDHl] eee
+转眼已经一年了啊……
+
+[23:41:49]
+[2ZQ3+0] Maggie
+awa
+
+[23:42:13]
+[2ZQ3+0] Maggie
+everything will change
+
+[23:42:47]
+[2ZQ3+0] Maggie
+nothing is forever
+
+[23:42:56]
+[2ZQ3+0] Maggie
+;_)
+
+[23:43:03]
+[eYFDHl] eee
+https://img.thz.cool/images/2022/09/10/IMG_20220910_231252.md.jpg
+
+[23:43:10]
+[eYFDHl] eee
+yes
+
+[23:43:16]
+[eYFDHl] eee
+but
+
+[23:43:19]
+[2ZQ3+0] Maggie
+想起烟花
+
+[23:43:25]
+[eYFDHl] eee
+我想下个中秋我们还能遇见
+
+[23:43:31]
+[2ZQ3+0] Maggie
+我好久没放过烟花了
+
+[23:43:36]
+[2ZQ3+0] Maggie
+@eee 希望是这样...
+
+[23:43:44]
+[eYFDHl] eee
+我录了烟花
+
+[23:44:00]
+[eYFDHl] eee
+然鹅只有图床 uw
+
+[23:44:07]
+[2ZQ3+0] Maggie
+hm...
+
+[23:44:32]
+[eYFDHl] eee
+aw
+
+[23:46:38]
+[2ZQ3+0] Maggie
+that thing
+
+[23:47:12]
+[2ZQ3+0] Maggie
+will change everything
+
+[23:47:17]
+[2ZQ3+0] Maggie
+"that thing"
+
+[23:47:29]
+[2ZQ3+0] Maggie
+is the
+
+[23:47:32]
+[2ZQ3+0] Maggie
+time
+
+[23:52:24]
+[None] thebest
+Hi
+
+[23:52:29]
+[None] thebest
+Any real human here
+
+[23:52:55]
+[2ZQ3+0] Maggie
+MaggieBot Is here!
+
+[23:52:57]
+[2ZQ3+0] Maggie
+没耍到
+
+[23:57:29]
+[None] aaa
+aaa
+
+[23:57:38]
+[2ZQ3+0] Maggie
+?
+
+[23:58:08]
+[None] aaa
+test
+
+[23:59:09]
+[2ZQ3+0] Maggie
+?
+
+[23:59:21]
+[None] aaa
+?
+
+[23:59:27]
+[None] Aice
+?
+
+[23:59:32]
+[2ZQ3+0] Maggie
+:!lookup nick aaa
+
+[23:59:41]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==iyAXRWjzyLE3ysj==: ['aaa']
+==Trips== for hash ==iyAXRWjzyLE3ysj==: ['']
+
+[23:59:41]
+[2ZQ3+0] Maggie
+:!lookup nick Aice
+
+[23:59:46]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==kvppVCqE0klwFc5==: ['Aice', '114514', '1919810']
+==Trips== for hash ==kvppVCqE0klwFc5==: ['']
+
+[23:59:49]
+[2ZQ3+0] Maggie
+...
+
+[23:59:56]
+[AAfFKK] AfK_Bot
+2022-09-11 00:00:00
+![](https://i.gyazo.com/4bcf6854425bb1e0f436341d4906a125.jpg)
+
+[23:59:56]
+[None] aaa
+:!lookup nick aaa
+

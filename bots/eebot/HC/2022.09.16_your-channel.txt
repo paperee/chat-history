@@ -1,0 +1,4629 @@
+[00:59:49]
+[AAfFKK] AfK_Bot
+2022-09-16 01:00:00
+![](https://i.gyazo.com/abf62ec187a5a25fe138a328e5e3aae2.jpg)
+
+[01:18:14]
+[None] bandar
+g
+
+[01:19:20]
+[None] aAice
+g
+
+[01:22:25]
+[None] trol
+https://www.mediafire.com/file/1kebk43uyf1r22c/nY7StW5L3Vl5Fl-o.mp4/file
+
+[01:23:05]
+[None] aAice
+what?@trol 
+
+[01:29:05]
+[None] aAice
+what it about ?? @trol @trol @trol 
+
+[01:30:43]
+[None] aAice
+.m kick @trol 
+
+[01:38:13]
+[hACkeR] mbot
+@aAice error: permission denied
+
+[01:38:13]
+[None] aAice
+.m kick @Aice
+
+[01:40:01]
+[hACkeR] mbot
+@aAice error: permission denied
+
+[01:40:01]
+[None] aAice
+:!afk
+
+[01:40:24]
+[AAfFKK] AfK_Bot
+ @aAice You are marked AfK.
+
+[01:40:24]
+[None] aAice
+:!help
+
+[01:40:43]
+[AAfFKK] AfK_Bot
+ @aAice Your current identity : USER
+Usable commands:
+>:!help  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!getbwd  :!getwhl  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!afk  :!afklist  :!getstats  :!hug  :!cookie  :!shoot  :!awa
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[01:40:44]
+[AAfFKK] AfK_Bot
+ @aAice Welcome back.
+
+[01:40:44]
+[None] aAice
+:!grass
+
+[01:41:16]
+[None] aAice
+:!grass @Aice
+
+[01:41:55]
+[AAfFKK] AfK_Bot
+ @AOOOO
+
+[01:41:55]
+[None] aAice
+:!help grass
+
+[01:42:01]
+[AAfFKK] AfK_Bot
+|COMMAND|ARGUMENTS|USAGE|CATEGORY|
+|-|-|-|-|
+|grass|TEXT|Grass by Google.|USER|
+
+[01:42:01]
+[None] aAice
+:!grass @AfK_Bot 
+
+[01:43:31]
+[AAfFKK] AfK_Bot
+ @fk_bott
+
+[01:43:31]
+[None] aAice
+:!awa @aAice 
+
+[01:43:53]
+[None] aAice
+:!awa
+
+[01:44:17]
+[None] aAice
+:!help awa
+
+[01:44:40]
+[AAfFKK] AfK_Bot
+|COMMAND|ARGUMENTS|USAGE|CATEGORY|
+|-|-|-|-|
+|awa|NONE|awa!|USER|
+
+[01:44:40]
+[None] aAice
+:!translate
+
+[01:45:19]
+[AAfFKK] AfK_Bot
+QwP
+
+[01:45:19]
+[None] aAice
+:!help translate
+
+[01:45:41]
+[AAfFKK] AfK_Bot
+|COMMAND|ARGUMENTS|USAGE|CATEGORY|
+|-|-|-|-|
+|translate|[TARGET LANGUAGE] TEXT|Translate given text.|USER|
+Supported languages: ['af', 'sq', 'am', 'ar', 'hy', 'az', 'eu', 'be', 'bn', 'bs', 'bg', 'ca', 'ceb', 'ny', 'zh-cn', 'zh-tw', 'co', 'hr', 'cs', 'da', 'nl', 'en', 'eo', 'et', 'tl', 'fi', 'fr', 'fy', 'gl', 'ka', 'de', 'el', 'gu', 'ht', 'ha', 'haw', 'iw', 'he', 'hi', 'hmn', 'hu', 'is', 'ig', 'id', 'ga', 'it', 'ja', 'jw', 'kn', 'kk', 'km', 'ko', 'ku', 'ky', 'lo', 'la', 'lv', 'lt', 'lb', 'mk', 'mg', 'ms', 'ml', 'mt', 'mi', 'mr', 'mn', 'my', 'ne', 'no', 'or', 'ps', 'fa', 'pl', 'pt', 'pa', 'ro', 'ru', 'sm', 'gd', 'sr', 'st', 'sn', 'sd', 'si', 'sk', 'sl', 'so', 'es', 'su', 'sw', 'sv', 'tg', 'ta', 'te', 'th', 'tr', 'uk', 'ur', 'ug', 'uz', 'vi', 'cy', 'xh', 'yi', 'yo', 'zu']
+
+[01:45:41]
+[None] aAice
+:!help msg
+
+[01:47:32]
+[AAfFKK] AfK_Bot
+|COMMAND|ARGUMENTS|USAGE|CATEGORY|
+|-|-|-|-|
+|msg|NICK MSG|Leave given nick a message.|USER|
+
+[01:47:32]
+[None] aAice
+:!msg @Aice f**k!
+
+[01:48:44]
+[AAfFKK] AfK_Bot
+Message sent to nick Aice.
+
+[01:48:44]
+[None] aAice
+:!msg @Aice f**k!
+
+[01:49:13]
+[AAfFKK] AfK_Bot
+Message sent to nick Aice.
+
+[01:49:13]
+[None] aAice
+:!list
+
+[01:49:46]
+[AAfFKK] AfK_Bot
+Hash banned: ['AhaDkC0W5xnBMY+', 'hpL1u1g6+y6lIY2', 'MxIdJfu9tZilh2g', '5/gXjt4GrKhH1F3', 'gsNM/WHEVq3XIrT', 'H5ssxunQESY+aTa', 'QQbYvRgWzk48+e1', 'ZQ3d8O/JN0J3UvE', 'gkassDLYJkMVhCt', 'T2YnMmMTcHV0F3a', 'ZgTSmxvD6X5vEL/', 'k1/NmxMW8Xe3bAI', 'kRj7QfR+qn8RUvK', '6MlCsRLF057UZfV', '7n1TfDIM1WLQm+8', 'qJzEOyNMfXYLlze', 'NhQFVOWqQcZOkWt', '/QH4cVrwWkyMPxC', 'eBBASZLgYYZ+1Cs', 'gdmcHE+UXWf/BI1', 'Pm8wm7DRJCPmG8N', '26QNH8sEFxNsl3G', '/+jK6o8tdqWEVjK', 'OhX/BbOo7CbofwG', 'DDWP3NzYbzj3lLi', 'u/cq3DwIZl/Nx1E', 'er7WyrPX3PlZD5+', 'MxIdJfu9tZilh2g', 'ZQ3d8O/JN0J3UvE', 'hpL1u1g6+y6lIY2', 'gkassDLYJkMVhCt', 'AhaDkC0W5xnBMY+', 'ZgTSmxvD6X5vEL/', '6MlCsRLF057UZfV', 'NhQFVOWqQcZOkWt']
+Trip op: ['Hp0PpH', 'olX9Fe', 'gOtnKd', 'EbHaY9', 'aOEdh/', 'YCSh95', 'Myh1TA', 'rrrRRR', '7EMhUN', 'PXgRpV', '0/JM7u', '21PnFs', '0+A+oV', 'Zvoxsl', 'V7nVFx', 'XrbaeJ', 'hL+0yd', 'NvvLL/', '1cWTfO', 'foMeFv', '4TmEZc', '/9Br2y', 'Zk9YAn', 'KK69OG', 'eYFDHl', 'Frxaxk', 'biRdxz', 'xeEf1u', 'uMtRgL', 'ZHopop', 'xQTqHv', 'geGDVS', '805Iqy', 'pYA1S4', 'BG249d', 'n3CJhb', 'STuREh', 'EEeeOY', 'eeeEEm', 'tssNfd', 'ttttoe', 'xhvbdp', 'Chumon', '2ZQ3+0']
+SP. op_nick: []
+
+[01:49:47]
+[None] aAice
+:!help tripmsg
+
+[01:50:50]
+[AAfFKK] AfK_Bot
+|COMMAND|ARGUMENTS|USAGE|CATEGORY|
+|-|-|-|-|
+|tripmsg|TRIP MSG|Leave given trip a message.|USER|
+
+[01:50:50]
+[None] aAice
+:!tripmsg @AAfFKK ?
+
+[01:52:07]
+[AAfFKK] AfK_Bot
+Message sent to trip @AAfFKK.
+
+[01:59:50]
+[AAfFKK] AfK_Bot
+2022-09-16 02:00:00
+![](https://i.gyazo.com/9426ab213eea4bcd84c57aa25dd23749.jpg)
+
+[02:41:15]
+[None] thiruu
+Hi
+
+[02:41:38]
+[None] shobana
+Hi
+
+[02:42:02]
+[None] thiruu
+Haii akka
+
+[02:42:06]
+[None] thiruu
+Vignan
+
+[02:42:56]
+[None] shobana
+Hmnsjam
+
+[02:59:50]
+[AAfFKK] AfK_Bot
+2022-09-16 03:00:00
+![](https://i.gyazo.com/d9261b3903b69d4a53658aa9d1f0932b.jpg)
+
+[03:59:50]
+[AAfFKK] AfK_Bot
+2022-09-16 04:00:00
+![](https://i.gyazo.com/259b7c1d2ba83926bac7f1a9fd7fc7f3.jpg)
+
+[04:01:02]
+[None] Aice
+hi
+
+[04:01:31]
+[AAfFKK] AfK_Bot
+ @Aice
+2022-09-16 01:48:55 null|aAice :  f**k!
+2022-09-16 01:49:24 null|aAice :  f**k!
+
+[04:01:40]
+[None] Aice
+:!afk
+
+[04:05:48]
+[AAfFKK] AfK_Bot
+ @Aice You are marked AfK.
+
+[04:59:50]
+[AAfFKK] AfK_Bot
+2022-09-16 05:00:00
+![](https://i.gyazo.com/6a789d0b94552beee2475c1bed4fd3dd.jpg)
+
+[05:21:11]
+[None] me
+我的
+
+[05:59:50]
+[AAfFKK] AfK_Bot
+2022-09-16 06:00:00
+![](https://i.gyazo.com/16767221a7846549ac9718a4daf8722a.jpg)
+
+[06:59:50]
+[AAfFKK] AfK_Bot
+2022-09-16 07:00:00
+![](https://i.gyazo.com/8c1ef0dacb47878dbaa1067ccd54805e.jpg)
+
+[07:59:49]
+[AAfFKK] AfK_Bot
+2022-09-16 08:00:00
+![](https://i.gyazo.com/8c1ef0dacb47878dbaa1067ccd54805e.jpg)
+
+[08:26:38]
+[None] Frank
+hi?
+
+[08:26:57]
+[None] hhhh
+公司邮件系统显示邮件已满，无法删除之前的邮件，导致收不到新的工资条，这种有没办法可以解决
+
+[08:27:30]
+[None] hhhh
+😄
+
+[08:28:10]
+[None] Frank
+what's this
+
+[08:41:54]
+[V7nVFx] The_Cat
+awa
+
+[08:55:37]
+[None] 114514114514
+有人吗
+
+[08:55:45]
+[None] 114514114514
+有人吗
+
+[08:55:52]
+[None] 114514114514
+有人吗
+
+[08:59:49]
+[AAfFKK] AfK_Bot
+2022-09-16 09:00:00
+![](https://i.gyazo.com/baab866fc7f1f5c9ff54b25748bd40c0.png)
+
+[09:32:09]
+[s5xZwc] snose
+中立不能成为一种赌约——赌双份和平或双倍敌对的赌约
+
+[09:59:49]
+[AAfFKK] AfK_Bot
+2022-09-16 10:00:00
+![](https://i.gyazo.com/ca1817455815475b01c7ddce25a352db.jpg)
+
+[10:59:49]
+[AAfFKK] AfK_Bot
+2022-09-16 11:00:00
+![](https://i.gyazo.com/631a2d636330b67bbd5c07a023475837.jpg)
+
+[10:59:49]
+[None] 114514114514
+咋发的图片
+
+[11:59:49]
+[AAfFKK] AfK_Bot
+2022-09-16 12:00:00
+![](https://i.gyazo.com/20d48e612c8f5543893ff50ea2138842.jpg)
+
+[12:37:58]
+[None] vishal_ff
+Hii
+
+[12:59:50]
+[AAfFKK] AfK_Bot
+2022-09-16 13:00:00
+![](https://i.gyazo.com/e0178bd067dd9845ce9b56969cfcb96b.jpg)
+
+[13:39:37]
+[None] hlo
+Hi
+
+[13:39:50]
+[None] 114514114514
+有人吗
+
+[13:44:06]
+[None] 114514114514
+有人吗
+
+[13:44:09]
+[None] 114514114514
+有人吗
+
+[13:44:10]
+[None] 114514114514
+有人吗
+
+[13:44:11]
+[None] 114514114514
+有人吗
+
+[13:44:11]
+[None] 114514114514
+有人吗
+
+[13:44:12]
+[None] 114514114514
+有人吗
+
+[13:44:15]
+[AAfFKK] AfK_Bot
+ @114514114514 AKKKKK!!!!!
+
+[13:44:15]
+[None] 114514114514
+？
+
+[13:44:22]
+[None] 114514114514
+啥意思
+
+[13:50:51]
+[None] gpa
+Hi
+
+[13:59:51]
+[AAfFKK] AfK_Bot
+2022-09-16 14:00:00
+![](https://i.gyazo.com/e0178bd067dd9845ce9b56969cfcb96b.jpg)
+
+[14:11:26]
+[None] nk
+Hi bro 
+
+[14:49:35]
+[None] your
+Hacbahsbskd
+
+[14:49:39]
+[None] your
+Sndbndnd
+
+[14:49:40]
+[None] your
+Djd
+
+[14:49:41]
+[None] your
+S
+
+[14:49:41]
+[None] your
+S
+
+[14:49:41]
+[None] your
+S
+S
+S
+
+[14:49:42]
+[None] your
+D
+D
+
+[14:49:43]
+[None] your
+G
+
+[14:49:43]
+[AAfFKK] AfK_Bot
+ @your AKKKKK!!!!!
+
+[14:49:43]
+[None] your
+T
+
+[14:49:44]
+[None] your
+T
+T
+
+[14:49:44]
+[AAfFKK] AfK_Bot
+@your Bye~
+
+[14:49:45]
+[AAfFKK] AfK_Bot
+Auto banned hash JsdrGcjGpcWvBqb for 60.0s
+
+[14:50:44]
+[AAfFKK] AfK_Bot
+Auto unbanned hash JsdrGcjGpcWvBqb
+
+[14:59:49]
+[AAfFKK] AfK_Bot
+2022-09-16 15:00:00
+![](https://i.gyazo.com/4ec7167a9ad92c55fb4b91cc468fa96e.jpg)
+
+[15:28:35]
+[None] ast
+jhgh;sprt
+
+[15:29:05]
+[None] ast
+dlfjldjhkjk jjufdg hrngkjfd
+
+[15:30:39]
+[None] ast
+sb
+
+[15:30:44]
+[None] ast
+fndkjgfjv sjvnx
+
+[15:33:07]
+[None] 114514114514
+https://www.bilibili.com/video/BV1Qt4y1b7cZ/?spm_id_from=333.788.recommend_more_video.1&vd_source=b10330e2aff2fcc4f46245c962679507
+
+[15:52:35]
+[None] shahzeb
+Hey everyone..!!!
+
+[15:57:56]
+[None] shahzeb
+Hey what's going on..?
+
+[15:59:58]
+[AAfFKK] AfK_Bot
+2022-09-16 16:00:00
+![](https://i.gyazo.com/1b1a13e65370bed35736125ad473cfcc.jpg)
+
+[16:06:21]
+[qtFrtP] Arik
+I
+
+[16:06:29]
+[qtFrtP] Arik
+Giaman
+
+[16:06:43]
+[None] 111
+防守打法
+
+[16:07:06]
+[None] 111
+@111 
+
+[16:10:08]
+[None] kalyan
+Hi
+
+[16:10:14]
+[None] kalyan
+Hi
+
+[16:10:22]
+[None] kalyan
+Hello
+
+[16:10:23]
+[None] kalyan
+Hi Pawan
+
+[16:10:30]
+[None] pawan
+Jsjs
+
+[16:10:32]
+[None] pawan
+Hi
+
+[16:10:44]
+[None] pawan
+Who r u
+
+[16:11:12]
+[jga1nc] t_c_g
+hi
+
+[16:12:16]
+[None] kalyan
+Hi
+
+[16:13:41]
+[None] amma
+Hi
+
+[16:13:44]
+[None] amma
+Hi
+
+[16:14:01]
+[None] kalyan
+Hi amma I am Kalyan
+
+[16:14:21]
+[jga1nc] t_c_g
+hi kalyan
+
+[16:17:02]
+[None] Madhu
+Hii
+
+[16:17:12]
+[jga1nc] t_c_g
+hiiii
+
+[16:46:56]
+[None] sainaveen
+hai
+
+[16:47:05]
+[None] sainaveen
+avuana
+
+[16:47:25]
+[None] sainaveen
+yes
+
+[16:47:26]
+[None] sainaveen
+yes
+
+[16:47:27]
+[None] sainaveen
+hai
+
+[16:47:30]
+[None] sainaveen
+then do that one
+
+[16:59:49]
+[AAfFKK] AfK_Bot
+2022-09-16 17:00:00
+![](https://i.gyazo.com/93ab6c3a48f25f8375e332ef4da942fb.jpg)
+
+[17:13:08]
+[eYFDHl] eee
+芜湖
+
+[17:13:14]
+[eYFDHl] eee
+回来了
+
+[17:13:18]
+[jga1nc] t_c_g
+乐
+
+[17:13:43]
+[eYFDHl] eee
+@Maggie321 我回来了 ~~打听下这周有什么新鲜事~~
+
+[17:13:48]
+[2ZQ3+0] Maggie321
+@eee
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[17:13:48]
+[jga1nc] t_c_g
+ee前辈早
+
+[17:13:51]
+[eYFDHl] eee
+tcg好
+
+[17:13:56]
+[eYFDHl] eee
+@Maggie321 Maggie看到就踹我下uwu yc和XC发生什么了 404和Light去XC了？
+zhang Mr_Zhang
+昨晚404来闹事
+zhang Mr_Zhang
+历史记录被清除了
+zhang Mr_Zhang
+hhh
+zhang Mr_Zhang
+404说，light用ZhangHaoRanChaoJiShaBi这个名字
+zhang Mr_Zhang
+与yc无关
+zhang Mr_Zhang
+是他个人行为
+zhang Mr_Zhang
+以牙还牙
+zhang Mr_Zhang
+我这个行为属于个人行为
+
+[17:26:29]
+[2ZQ3+0] Maggie321
+@eee
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[17:26:29]
+[eYFDHl] eee
+@Maggie321 啊对还有这个 如果不清楚见到404也帮我问一下
+oQbUtS lesbian_ganger
+4n0n4me_SB_2B_666 向你发送私信：您有新留言：
+（2022-09-15 07:01:51）zhang｜4n0n4me沙比二逼666：“这是我个人的行为昂，与XChat无关”
+（2022-09-15 07:02:01）zhang｜4n0n4me沙比二逼666：转告他们哦
+
+[17:27:16]
+[2ZQ3+0] Maggie321
+@eee
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[17:27:16]
+[jga1nc] t_c_g
+乐
+
+[17:27:17]
+[jga1nc] t_c_g
+>eYFDHl eee
+@Maggie321 Maggie看到就踹我下uwu yc和XC发生什么了 404和Light去XC了？
+zhang Mr_Zhang
+昨晚404来闹事
+zhang Mr_Zhang
+历史记录被清除了
+zhang Mr_Zhang
+hhh
+zhang Mr_Zhang
+404说，light用ZhangHaoRanChaoJiShaBi这个名字
+zhang Mr_Zhang
+与yc无关
+zhang Mr_Zhang
+是他个人行为
+zhang Mr_Zhang
+以牙还牙
+zhang Mr_Zhang
+我这个行为属于个人行为
+
+[17:28:08]
+[2ZQ3+0] Maggie321
+@t_c_g
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[17:28:09]
+[eYFDHl] eee
+@Maggie321 这个转告是什么 鱼关了记录历史记录 我没看到
+Admin fish：
+@lesbian_ganger 你要是能见到404帮我把这个转发给他
+
+[17:28:09]
+[2ZQ3+0] Maggie321
+@eee
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[17:28:10]
+[eYFDHl] eee
+awa？
+
+[17:28:19]
+[jga1nc] t_c_g
+乐
+
+[17:28:25]
+[jga1nc] t_c_g
+（完全不会用）
+
+[17:28:40]
+[eYFDHl] eee
+@Maggie321 9ICcgL snose
+19:56:53 寒冰投手: yc和hc为敌？
+
+[17:29:19]
+[2ZQ3+0] Maggie321
+@eee
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[17:29:30]
+[eYFDHl] eee
+hi yo
+
+[17:29:48]
+[eYFDHl] eee
+真·刚过完中秋我就想念国庆~~的作业~~了
+
+[17:30:26]
+[None] devang
+hii
+
+[17:31:22]
+[None] D
+hii
+
+[17:34:02]
+[None] sherry
+Http
+
+[17:34:09]
+[None] sherry
+Hht
+
+[17:34:16]
+[None] 0x194
+ohhhhhhh
+
+[17:34:22]
+[None] 0x194
+awa
+
+[17:34:23]
+[None] sherry
+Min 2 awy
+
+[17:34:43]
+[None] sherry
+Maggie
+
+[17:35:24]
+[None] sherry
+Fat
+
+[17:35:28]
+[None] sherry
+Far
+
+[17:35:31]
+[None] 0x194
+is maggie here
+
+[17:36:51]
+[None] 0x194
+（为了防止闹事者认出我来，我换了个名字）
+
+[17:37:17]
+[eYFDHl] eee
+@0x194 看我给Maggie321的留言）
+
+[17:37:38]
+[None] sherry
+Cool out
+
+[17:38:00]
+[None] sherry
+Bot root
+
+[17:38:34]
+[None] 0x194
+awa?
+
+[17:38:39]
+[None] 0x194
+看不到（）
+
+[17:38:42]
+[eYFDHl] eee
+whyy
+
+[17:38:49]
+[None] 0x194
+我不是Maggie啊
+
+[17:38:52]
+[None] 0x194
+我是(194)_16_
+
+[17:39:01]
+[None] 0x194
+我是(194)~16~
+
+[17:39:05]
+[eYFDHl] eee
+eYFDHl eee
+@Maggie321 我回来了 打听下这周有什么新鲜事
+eYFDHl eee
+@Maggie321 Maggie看到就踹我下uwu yc和XC发生什么了 404和Light去XC了？
+zhang Mr_Zhang
+昨晚404来闹事
+zhang Mr_Zhang
+历史记录被清除了
+zhang Mr_Zhang
+hhh
+zhang Mr_Zhang
+404说，light用ZhangHaoRanChaoJiShaBi这个名字
+zhang Mr_Zhang
+与yc无关
+zhang Mr_Zhang
+是他个人行为
+zhang Mr_Zhang
+以牙还牙
+zhang Mr_Zhang
+我这个行为属于个人行为
+eYFDHl eee
+@Maggie321 啊对还有这个 如果不清楚见到404也帮我问一下
+oQbUtS lesbian_ganger
+4n0n4me_SB_2B_666 向你发送私信：您有新留言：
+（2022-09-15 07:01:51）zhang｜4n0n4me沙比二逼666：“这是我个人的行为昂，与XChat无关”
+（2022-09-15 07:02:01）zhang｜4n0n4me沙比二逼666：转告他们哦
+eYFDHl eee
+@Maggie321 这个转告是什么 鱼关了记录历史记录 我没看到
+Admin fish
+@lesbian_ganger 你要是能见到404帮我把这个转发给他
+eYFDHl eee
+@Maggie321 9ICcgL snose
+19:56:53 寒冰投手: yc和hc为敌？
+
+[17:39:19]
+[2ZQ3+0] Maggie321
+@eee
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[17:39:20]
+[None] 0x194
+666
+
+[17:39:24]
+[None] sherry
+Magma dack
+
+[17:39:27]
+[None] 0x194
+他们就知道删除历史记录
+
+[17:39:56]
+[None] 0x194
+大概是周一吧
+
+[17:40:40]
+[None] 0x194
+不不不
+
+[17:40:45]
+[None] 0x194
+应该是周末
+
+[17:40:48]
+[None] sherry
+Ttj
+
+[17:40:48]
+[None] 0x194
+light正义的骂了小张
+
+[17:40:53]
+[None] 0x194
+小张十分生气
+
+[17:40:57]
+[None] 0x194
+反复轰炸yc
+
+[17:41:53]
+[None] 0x194
+我觉得这也挺正常的
+
+[17:41:54]
+[None] 0x194
+当初卢本伟来
+
+[17:41:56]
+[None] 0x194
+一直没有骂404
+
+[17:41:59]
+[None] 0x194
+现在小张骂404
+
+[17:42:05]
+[None] 0x194
+也算是帮卢本伟做了卢本伟没做的
+
+[17:42:16]
+[eYFDHl] eee
+wait
+
+[17:42:40]
+[None] 0x194
+不知道这里边有几个xc的眼线啊
+
+[17:42:54]
+[None] 0x194
+疑似眼线的人走了
+
+[17:53:11]
+[None] Anonymous_0484
+Hello'
+
+[17:53:26]
+[None] Anonymous_0484
+I'm is a hacker
+
+[17:53:46]
+[None] 0x194
+awa
+
+[17:59:48]
+[AAfFKK] AfK_Bot
+2022-09-16 18:00:00
+![](https://i.gyazo.com/aa2d932d10e83a914642094ac98a6911.png)
+
+[18:04:45]
+[None] sherry
+Jhfygyg
+
+[18:08:41]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+[18:08:41]
+[AAfFKK] _
+hm
+
+[18:08:50]
+[AAfFKK] _
+gork
+
+[18:08:52]
+[None] sherry
+Or ll9lllllllllllll)) llllllllollllllllolloooollloll)bh
+
+[18:10:43]
+[AAfFKK] _
+?
+
+[18:10:49]
+[AAfFKK] _
+rare tcg
+
+[18:10:54]
+[None] 0x194
+yep
+
+[18:11:17]
+[None] 0x194
+clever dpg can recognize me?
+
+[18:11:25]
+[AAfFKK] _
+ovo
+
+[18:11:34]
+[None] 0x194
+obo
+
+[18:11:49]
+[AAfFKK] _
+obb
+
+[18:11:52]
+[None] sherry
+Ggh
+
+[18:11:55]
+[AAfFKK] _
+:!lookup
+
+[18:12:13]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ====: []
+==Trips== for hash ====: []
+
+[18:12:13]
+[AAfFKK] _
+goog
+
+[18:12:16]
+[AAfFKK] _
+database cleared
+
+[18:12:19]
+[AAfFKK] _
+but
+
+[18:12:22]
+[None] 0x194
+wow
+
+[18:12:23]
+[AAfFKK] _
+:!msg _ awa
+
+[18:12:30]
+[AAfFKK] AfK_Bot
+Message sent to nick _.
+
+[18:12:30]
+[AAfFKK] _
+errrr
+
+[18:12:33]
+[AAfFKK] AfK_Bot
+ @_
+2022-09-16 18:12:42 AAfFKK|_ : awa
+
+[18:12:33]
+[None] 0x194
+此地数为小张所炸
+
+[18:12:38]
+[AAfFKK] _
+laggy
+
+[18:12:39]
+[AAfFKK] _
+ovo
+
+[18:12:41]
+[None] 0x194
+大有陆沉之象
+
+[18:12:48]
+[None] 0x194
+悲哉
+
+[18:12:51]
+[None] 0x194
+:!help
+
+[18:13:24]
+[AAfFKK] AfK_Bot
+ @0x194 Your current identity : USER
+Usable commands:
+>:!help  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!getbwd  :!getwhl  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!afk  :!afklist  :!getstats  :!hug  :!cookie  :!shoot  :!awa
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[18:13:25]
+[AAfFKK] _
+2 sec
+
+[18:17:31]
+[None] sherry
+Athar  jdhdh r  ksmrixhe jxjdudhd  rxostcyxsu  ruhrh  slehdky rhahxcty  lsmejddjdjt tzjsjsjxhdt t kzskdjenxu dkxkah jddj r ajrhfrjfh fskejfybrudheud extchejfy  fkdbgbfjcctxusksjwodi fcuxsjekdk dhxksheld  dsksjdudwlskdhvrskskdu skemdkr  gd slemdkslsl fy ectcskskdkwjdh tccydjfuek slelckdy cjdjeldh y xlarnei  ehhbs et  fr rcl f fksskskxk fIDHSYCRCG HSK kxsgskdheuc
+
+[18:20:20]
+[None] Shaj
+jhs
+
+[18:20:28]
+[AAfFKK] _
+let me restart server ogrk
+
+[18:20:34]
+[AAfFKK] _
+bye AfK_Bot
+
+[18:20:56]
+[None] Shaj
+jush ws aw
+
+[18:21:05]
+[None] Shaj
+fis ws sb
+
+[18:24:58]
+[None] jdsfalkhjdfahjsfak
+hdsfjdaskfj
+
+[18:25:07]
+[None] sherry
+Thgfj
+
+[18:25:15]
+[None] 0x194
+αΓκ
+
+[18:29:27]
+[eYFDHl] eee
+@a23 你是Maggie吗
+
+[18:33:24]
+[eYFDHl] eee
+uw……
+
+[18:46:28]
+[jga1nc] tcg
+早
+
+[18:46:37]
+[None] 0x194_
+。_。
+
+[18:52:01]
+[/9Br2y] 404_
+我电脑出了点问题
+
+[18:52:07]
+[/9Br2y] 404_
+（）
+
+[18:52:19]
+[jga1nc] tcg
+啊呜哇
+
+[18:53:39]
+[None] 0x194__
+测试一下能不能重启
+
+[19:04:25]
+[AAfFKK] _
+hm
+
+[19:04:28]
+[AAfFKK] _
+:!addwhl jga1nc
+
+[19:04:37]
+[AAfFKK] _
+:!getwhl
+
+[19:04:40]
+[AAfFKK] _
+oops
+
+[19:04:44]
+[De8Tuc] 19
+哈哈哈哈哈哈
+
+[19:05:57]
+[AAfFKK] _
+shhhht
+
+[19:06:03]
+[None] 0x194__
+某人真不愧是某人的高徒
+
+[19:06:58]
+[None] 0x194__
+一天在线12小时（）
+
+[19:07:06]
+[None] 0x194__
+隔着996呢
+
+[19:07:11]
+[None] 0x194__
+资本家不是不应该亲自参与生产吗
+
+[19:07:37]
+[None] 0x194__
+不是应该提供原材料吗
+
+[19:07:43]
+[None] 0x194__
+显然是我多次表白某人，他对我也有好感（害羞）
+
+[19:08:27]
+[eYFDHl] eee
+草
+
+[19:09:18]
+[eYFDHl] eee
+ ~~我想到之前的404的著作 重生之我是男同~~
+
+[19:09:27]
+[None] pandu
+Hello
+
+[19:09:30]
+[AAfFKK] _
+?
+
+[19:09:34]
+[eYFDHl] eee
+hi yo
+
+[19:09:35]
+[None] pandu
+Hi
+
+[19:11:27]
+[None] ajay
+-hh
+
+[19:11:44]
+[None] ajay
+Hhh
+
+[19:12:48]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+[19:12:48]
+[AAfFKK] _
+finally
+
+[19:13:26]
+[AAfFKK] _
+:!addwhl jga1nc
+
+[19:13:32]
+[AAfFKK] _
+:!getwhl
+
+[19:13:35]
+[AAfFKK] AfK_Bot
+Whitelisted trips:['21PnFs', 'Hp0PpH', 'QCkYle', 'rrrRRR', '0/JM7u', 'PXgRpV', 'eYFDHl', '2AspBN', 'O1GS0O', 'geGDVS', 'Fj/Dbs', 'EvdPeD', 'roMh/U', 'UPr/2z', 'usQpxZ', 'Wftzdn', 'olX9Fe', '1cWTfO', 'n3CJhb', 'gOtnKd', 'YCSh95', 'Myh1TA', '7EMhUN', 'sclhHF', 'VFg6Hd', 'n/g8Z7', '+de+tF', '0+A+oV', 'q9D8Va', '/nsl0N', 'aOEdh/', 'XrbaeJ', 'V7nVFx', 'AucpIg', 'Zk9YAn', 'hL+0yd', 'NvvLL/', '/9Br2y', '8UA+MY', 'rZS3bL', 'AAfFKK', 'pwnuUa', 'u3rwOv', 'kmzrux', 'JlVj7N', 'KK69OG', 'a/Jz/a', 'VEbeHK', 'DlQJLw', 'PnNymf', '7/4YqN', '4TmEZc', 'Zvoxsl', 'S14GEC', 'sBsFHM', '6L81lc', 'mQNszM', 'FB49o5', 'pHzezS', 'y/97ug', '02BFbg', 'RedYSa', 'K1jc0N', 'znt6Q3', 'aaffkk', '02Mrrr', 'ih8EJJ', 'f5Msgw', 'Lxiamv', 'S9PQwQ', '1177PH', '7DA3OE', '13A13u', 'julAke', 'wvecwo', '1mJVp4', 'uMtRgL', 'JRO2/+', 'duoFBI', 'biRdxz', 'ztnKBB', 'OxOzZn', 'xeEf1u', 'ZHopop', 'soROHf', '805Iqy', 'wuotMk', '816b4Q', 'K+oMJ7', 'AKAR4Z', 'pYA1S4', 'BG249d', 'SYCVCf', 'QMQq/r', '154xPi', 'kzJil1', '0EFuck', 'teRryK', 'FUCkER', 'yM+DNV', 'chvBsw', 'QFUe1W', 'foMeFv', 'LAVa45', 'oRrsmz', 'eeeEEm', 'STuREh', 'tssNfd', 'ttttoe', 'xhvbdp', 'Oi5jf6', 'hACkeR', 'Chumon', 'ktf4NW', 'aZsAKA', 'sAkANb', 'AnS8+C', 'T6rsnZ', 'anAyE8', 'NqByTq', '2ZQ3+0', 'jga1nc']
+
+[19:13:35]
+[AAfFKK] _
+gork
+
+[19:13:38]
+[None] 0x194__
+对了
+
+[19:14:01]
+[De8Tuc] 19
+。
+
+[19:16:16]
+[None] 0x194__
+prove myself awa
+
+[19:16:21]
+[AAfFKK] _
+?
+
+[19:20:05]
+[AAfFKK] _
+oxo
+
+[19:20:08]
+[AAfFKK] _
+awa
+
+[19:35:35]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+[19:35:35]
+[AAfFKK] __
+:!lookup nick _
+
+[19:35:40]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==HTKufqvAe4ZENyr==: ['_']
+==Trips== for hash ==HTKufqvAe4ZENyr==: ['AAfFKK']
+
+[19:35:40]
+[AAfFKK] _
+hm
+
+[19:36:20]
+[AAfFKK] _
+gork
+
+[19:39:11]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+[19:39:11]
+[AAfFKK] __
+:!lookup nick _
+
+[19:39:15]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==HTKufqvAe4ZENyr==: ['_']
+==Trips== for hash ==HTKufqvAe4ZENyr==: ['AAfFKK']
+
+[19:46:33]
+[None] abcd
+哈喽
+
+[19:48:03]
+[AAfFKK] _
+gotk
+
+[19:53:53]
+[AAfFKK] _
+york
+
+[19:59:45]
+[AAfFKK] AfK_Bot
+2022-09-16 20:00:00
+![](https://i.gyazo.com/7acf0becf5f70f775747f3f6314eb415.jpg)
+
+[19:59:45]
+[None] free
+需要夸夸
+
+[19:59:53]
+[AAfFKK] _
+?
+
+[19:59:59]
+[AAfFKK] _
+夸夸
+
+[20:00:04]
+[None] free
+这个没弄明白怎么玩呀
+
+[20:00:22]
+[AAfFKK] _
+夸夸夸夸夸夸夸夸夸夸
+
+[20:00:38]
+[AAfFKK] _
+gork
+
+[20:00:47]
+[AAfFKK] _
+ihi
+
+[20:01:05]
+[AAfFKK] _
+:!cookie @free 
+
+[20:01:10]
+[None] 0x194__
+这个
+
+[20:01:37]
+[None] 0x194__
+就是说话的
+
+[20:01:39]
+[None] 0x194__
+目前没啥人
+
+[20:01:41]
+[None] 0x194__
+所以没啥人说话（←废话）
+
+[20:01:50]
+[None] 0x194__
+事实上……
+
+[20:01:52]
+[eYFDHl] eee
+uwu
+
+[20:02:00]
+[None] 0x194__
+这里的用户虽然上线的不多
+
+[20:02:09]
+[None] 0x194__
+但是这里遭遇着严峻的情况
+
+[20:02:21]
+[None] 0x194__
+那就是隔壁聊天室的敌对
+
+[20:02:56]
+[None] 0x194__
+这很离谱对吧
+
+[20:03:00]
+[None] 0x194__
+我认为……
+
+[20:03:17]
+[None] 0x194__
+笔锋的抑扬、文字的力量
+
+[20:03:27]
+[None] 0x194__
+今天显现了。
+
+[20:03:30]
+[None] 0x194__
+我不知道这有多少的力量
+
+[20:03:35]
+[None] 0x194__
+但是有一点
+
+[20:03:37]
+[None] 0x194__
+就有一点的好
+
+[20:03:40]
+[eYFDHl] eee
+:)
+
+[20:04:41]
+[eYFDHl] eee
+:(
+
+[20:05:23]
+[None] 0x194__
+:o
+
+[20:06:59]
+[None] 0x194__
+轻舞飞扬的话倒是引起了我的创作灵感（算不上文学，就是玩梗）
+
+[20:07:07]
+[eYFDHl] eee
+好家伙
+
+[20:07:16]
+[None] 0x194__
+你说的对，确实是这样的。但是《原神》是由米哈游自主研发的一款全新开放世界冒险游戏。游戏发生在一个被称作「提瓦特」的幻想世界，在这里，被神选中的人将被授予「神之眼」，导引元素之力。你将扮演一位名为「旅行者」的神秘角色，在自由的旅行中邂逅性格各异、能力独特的同伴们，和他们一起击败强敌，找回失散的亲人——同时，逐步发掘「原神」的真相。
+
+[20:07:41]
+[None] 0x194__
+我是反对辱骂原神玩家的
+
+[20:07:59]
+[None] 0x194__
+但是这一段话挺适合的（）
+
+[20:08:04]
+[lyTGk1] Arcadia
+咋了？
+
+[20:08:10]
+[None] 0x194__
+没什么
+
+[20:08:16]
+[None] 0x194__
+玩个梗（）
+
+[20:08:21]
+[eYFDHl] eee
+哇
+
+[20:08:46]
+[lyTGk1] Arcadia
+eee ,ih
+
+[20:09:45]
+[eYFDHl] eee
+hi rnm
+
+[20:09:48]
+[None] 0x194__
+你说的对，确实是这样的。但是《XC》是由线圈自主研发的一款全新开放世界冒险游戏。游戏发生在一个被称作「聊天室」的幻想世界，在这里，被小张选中的人将被授予「代理」，导引LaTeX之力。你将扮演一位名为「狗」的神秘角色，在自由的旅行中邂逅性格各异、能力独特的ZhangKiller们，和他们一起击败强敌，找回失散的亲人——同时，逐步发掘「YC」的真相。
+
+[20:10:02]
+[eYFDHl] eee
+草
+
+[20:10:08]
+[None] 0x194__
+随便填了几个词（）
+
+[20:10:26]
+[None] 0x194__
+有生草的效果就好（）
+
+[20:10:34]
+[lyTGk1] aidacrA
+hi
+
+[20:10:45]
+[eYFDHl] eee
+这极其生草
+
+[20:10:46]
+[lyTGk1] aidacrA
+草
+
+[20:11:16]
+[lyTGk1] aidacrA
+https://discord.gg/XZhs8zj6
+
+[20:11:30]
+[lyTGk1] aidacrA
+来康康这个
+
+[20:11:34]
+[None] 0x194__
+wow
+
+[20:11:39]
+[None] 0x194__
+discord
+
+[20:11:40]
+[eYFDHl] eee
+yep
+
+[20:11:51]
+[eYFDHl] eee
+然而我忘了discord的账号密码……悲
+
+[20:12:16]
+[eYFDHl] eee
+才用了一天就忘了
+
+[20:12:27]
+[lyTGk1] aidacrA
+重新注册（
+
+[20:12:35]
+[None] 0x194__
+我能不能上去discord呢
+
+[20:12:39]
+[eYFDHl] eee
+awa
+
+[20:12:43]
+[None] 0x194__
+这个加速好像没用
+
+[20:12:44]
+[eYFDHl] eee
+全局
+
+[20:12:49]
+[None] 0x194__
+所以我选择开【数据删除】
+
+[20:12:54]
+[lyTGk1] aidacrA
+用steam++
+
+[20:12:57]
+[eYFDHl] eee
+草
+
+[20:12:59]
+[None] 0x194__
+原先我开的就是steam++
+
+[20:13:06]
+[None] 0x194__
+但是好像出了点问题
+
+[20:13:13]
+[lyTGk1] aidacrA
+能用啊
+
+[20:13:16]
+[lyTGk1] aidacrA
+UwU
+
+[20:13:26]
+[None] 0x194__
+ ~~可能我这边网络环境出了点问题~~
+
+[20:13:27]
+[None] 0x194__
+ovo
+
+[20:13:33]
+[eYFDHl] eee
+uwu
+
+[20:13:36]
+[eYFDHl] eee
+b和a23到底是谁
+
+[20:14:33]
+[None] 0x194__
+不知道啊
+
+[20:14:43]
+[jga1nc] tcg
+早上好
+
+[20:14:54]
+[None] 0x194__
+nenc是我
+
+[20:15:12]
+[eYFDHl] eee
+我焯
+
+[20:15:15]
+[None] 0x194__
+你知道我是谁吧（）、
+
+[20:15:20]
+[eYFDHl] eee
+三个聊天室同时有人发早上好
+
+[20:15:22]
+[None] 0x194__
+咋了？（）
+
+[20:15:22]
+[None] 0x194__
+肯定是tcg（）
+
+[20:15:29]
+[None] 0x194__
+tcg特有的住在日界线上（）
+
+[20:15:38]
+[jga1nc] tcg
+？
+
+[20:15:46]
+[eYFDHl] eee
+uwu
+
+[20:15:47]
+[jga1nc] tcg
+乐
+
+[20:15:48]
+[jga1nc] tcg
+我只在yc和xq
+
+[20:15:55]
+[eYFDHl] eee
+nenc好
+
+[20:15:55]
+[jga1nc] tcg
+第三个是什么
+
+[20:15:59]
+[eYFDHl] eee
+星聊
+
+[20:16:04]
+[jga1nc] tcg
+乐，哪个不是我
+
+[20:16:15]
+[jga1nc] tcg
+那*
+
+[20:16:20]
+[eYFDHl] eee
+awa
+
+[20:17:47]
+[eYFDHl] eee
+后期补充：大乱动期间，2022年9日14日11时，MelonFish在XC回忆这时期黑茶事件时提到了：
+
+>Admin fish 2022-09-14 11:16:03
+得出结论：yc的人来xc，很大部分功劳是ee的，这种把用户群体全都寄托在一个人身上的行为是极度不合理、荒唐的
+
+>Admin fish 2022-09-14 11:16:52
+再次得出结论：yc的人来xc就是因为当初yc环境不行罢了
+
+>Admin fish 2022-09-14 11:18:06
+最后得出结论：xc早期信息达到80000条都是黑茶的功劳
+
+[20:20:02]
+[None] 0x194__
+他当时又没有能力找来别人（）
+
+[20:20:09]
+[eYFDHl] eee
+确实
+
+[20:22:51]
+[eYFDHl] eee
+https://im.ccox.cn/ImageMessage/63073256c2cfd6782ba07f9a_1663330731461.jpeg
+
+[20:23:21]
+[eYFDHl] eee
+你们有QQ的可以帮忙验证下吗）
+
+[20:23:38]
+[lyTGk1] aidacrA
+（手机不在
+
+[20:23:54]
+[None] Sahlan
+hey, where are you? IM hacking your handphone 
+
+[20:24:41]
+[None] Sahlan
+WTF men,  what the fuck
+
+[20:24:47]
+[lyTGk1] aidacrA
+？
+
+[20:25:07]
+[lyTGk1] aidacrA
+hi
+
+[20:26:13]
+[None] Jizer
+Hey
+
+[20:26:16]
+[None] Jizer
+What you help me?
+
+[20:26:49]
+[eYFDHl] eee
+uw
+
+[20:32:07]
+[eYFDHl] eee
+呜呜呜呜
+
+[20:32:56]
+[eYFDHl] eee
+悼念逝去的.osww.cn
+
+[20:33:09]
+[AAfFKK] _
+was
+
+[20:33:29]
+[eYFDHl] eee
+服务器炸得凄凉 炸得悲惨
+
+[20:35:01]
+[lyTGk1] aidacrA
+额
+
+[20:35:04]
+[AAfFKK] _
+gork
+
+[20:35:08]
+[lyTGk1] aidacrA
+那是什么网站（别骂我我真的不知道
+
+[20:35:24]
+[AAfFKK] _
+zl
+
+[20:35:33]
+[AAfFKK] _
+xl
+
+[20:35:35]
+[AAfFKK] _
+gork
+
+[20:35:37]
+[AAfFKK] _
+rumble
+
+[20:35:49]
+[AAfFKK] _
+grumble
+
+[20:35:51]
+[AAfFKK] _
+wobble
+
+[20:35:55]
+[lyTGk1] aidacrA
+？
+
+[20:36:34]
+[AAfFKK] _
+lol
+
+[20:41:13]
+[jga1nc] tcg
+早
+
+[20:43:23]
+[None] Jungle
+啊
+
+[20:43:42]
+[lyTGk1] aidacrA
+https://discord.gg/XZhs8zj6
+
+[20:46:12]
+[None] yes
+hello
+
+[20:46:15]
+[None] yes
+your mom yeah
+
+[20:46:22]
+[None] yes
+alsdkjflksdfjlkdsj
+
+[20:46:27]
+[eYFDHl] eee
+@aidacrA 我的博客之类的站
+
+[20:46:35]
+[lyTGk1] aidacrA
+哦哦哦
+
+[20:47:02]
+[lyTGk1] aidacrA
+居然是cn域名
+
+[20:47:10]
+[eYFDHl] eee
+因为这个域名不是我的）
+
+[20:48:00]
+[eYFDHl] eee
+本来还有可能继续续费的
+
+[20:48:17]
+[eYFDHl] eee
+但在国内某些地区被墙了
+
+[20:48:28]
+[lyTGk1] aidacrA
+啊
+
+[20:49:32]
+[lyTGk1] aidacrA
+我记得印度有20多个顶级域名
+
+[20:50:02]
+[lyTGk1] aidacrA
+中国是一个`.cn`一个`.中国`一个`.中國`
+
+[20:50:37]
+[lyTGk1] aidacrA
+印度20多种语言
+
+[20:50:48]
+[lyTGk1] aidacrA
+（
+
+[20:51:04]
+[lyTGk1] aidacrA
+太厚脸皮了）
+
+[20:51:54]
+[lyTGk1] aidacrA
+hi
+
+[20:57:30]
+[eYFDHl] eee
+草
+
+[20:57:41]
+[eYFDHl] eee
+20多种语言 这离谱（
+
+[20:57:55]
+[eYFDHl] eee
+我觉得除英文外其他语言的域名真的少见
+
+[20:58:24]
+[eYFDHl] eee
+.中国的我只见过一个 新华网.中国
+
+[20:58:48]
+[eYFDHl] eee
+诶nenc到哪去了
+
+[20:59:32]
+[eYFDHl] eee
+Maggie也不在
+
+[20:59:45]
+[AAfFKK] AfK_Bot
+2022-09-16 21:00:00
+![](https://i.gyazo.com/518b62406d541f6013705aecb72737c4.jpg)
+
+[20:59:57]
+[jga1nc] tcg
+乐
+
+[21:00:05]
+[eYFDHl] eee
+@Maggie321 Maggie你人呢 看到了就踹我或ee
+
+[21:00:55]
+[2ZQ3+0] Maggie321
+@eee
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[21:00:55]
+[eYFDHl] eee
+@ee test
+
+[21:01:56]
+[jga1nc] tcg
+乐
+
+[21:02:47]
+[jga1nc] tcg
+我记得你们要聊回复来着？
+
+[21:03:02]
+[eYFDHl] eee
+回复？
+
+[21:03:02]
+[n3CJhb] zzChumo_zcm_Prox1ed
+哇
+
+[21:03:05]
+[n3CJhb] zzChumo_zcm_Prox1ed
+是tcg
+
+[21:03:07]
+[jga1nc] tcg
+@zzChumo_zcm_Prox1ed 是初墨大大！
+
+[21:03:47]
+[lyTGk1] aidacrA
+蛤
+
+[21:04:06]
+[jga1nc] tcg
+@aidacrA 阿卡迪亚！早呀
+
+[21:05:51]
+[lyTGk1] aidacrA
+早
+
+[21:05:52]
+[n3CJhb] zzChumo_zcm_Prox1ed
+>jga1nc tcg：
+>@zzChumo_zcm_Prox1ed 是初墨大大！
+
+@tcg ~~话说你怎么认识我的~~
+
+[21:07:00]
+[jga1nc] tcg
+早
+
+[21:07:07]
+[n3CJhb] zzChumo_zcm_Prox1ed
+>jga1nc tcg：
+>@zzChumo_zcm_Prox1ed 是初墨大大！
+
+@tcg ~~话说你怎么认识我的~~
+
+[21:07:46]
+[n3CJhb] zzChumo_zcm_Prox1ed
+我是在聊天室历史书里看到您的
+
+[21:08:12]
+[jga1nc] tcg
+我很久以前就知道你了（
+
+[21:08:14]
+[n3CJhb] zzChumo_zcm_Prox1ed
+aw？
+
+[21:08:23]
+[jga1nc] tcg
+为什么是您（
+
+[21:08:24]
+[eYFDHl] eee
+what
+
+[21:08:25]
+[5hnPnj] orange
+hi yo
+
+[21:08:27]
+[eYFDHl] eee
+hi yooo
+
+[21:08:32]
+[jga1nc] tcg
+咱以前见过哇
+
+[21:08:32]
+[jga1nc] tcg
+hiyoo
+
+[21:08:35]
+[5hnPnj] orange
+en
+
+[21:08:38]
+[eYFDHl] eee
+你们是同个时期的人物吧）
+
+[21:08:40]
+[eYFDHl] eee
+历史书里有
+
+[21:08:45]
+[n3CJhb] zzChumo_zcm_Prox1ed
+>jga1nc tcg：
+>为什么是您（
+
+@tcg 你把modbot引进来了（激动
+
+[21:08:47]
+[5hnPnj] orange
+啊？
+
+[21:08:50]
+[jga1nc] tcg
+？
+
+[21:08:51]
+[n3CJhb] zzChumo_zcm_Prox1ed
+>jga1nc tcg：
+>咱以前见过哇
+
+@tcg 记不得了（
+
+[21:08:55]
+[5hnPnj] orange
+> 历史书里有
+
+[21:08:55]
+[jga1nc] tcg
+我没有
+
+[21:08:57]
+[5hnPnj] orange
+那本历史说
+
+[21:08:59]
+[jga1nc] tcg
+不要瞎说
+
+[21:09:00]
+[jga1nc] tcg
+（
+
+[21:09:09]
+[n3CJhb] zzChumo_zcm_Prox1ed
+@orange hi蓝橙
+
+[21:09:09]
+[n3CJhb] zzChumo_zcm_Prox1ed
+awa？
+
+[21:09:17]
+[eYFDHl] eee
+ ModBot那时的事我不太清楚
+
+[21:09:30]
+[eYFDHl] eee
+基本是404写的
+
+[21:09:38]
+[eYFDHl] eee
+可以去问问他
+
+[21:09:40]
+[n3CJhb] zzChumo_zcm_Prox1ed
+话说tcg我确实见过
+
+[21:09:58]
+[eYFDHl] eee
+~~话说你们都有住过宿吗~~
+
+[21:10:09]
+[jga1nc] tcg
+是的是的
+
+[21:10:10]
+[n3CJhb] zzChumo_zcm_Prox1ed
+但是没有和他说过话的记忆
+
+[21:10:11]
+[eYFDHl] eee
+好家伙
+
+[21:10:13]
+[jga1nc] tcg
+@eee 没有
+
+[21:10:14]
+[jga1nc] tcg
+@zzChumo_zcm_Prox1ed 乐
+
+[21:10:20]
+[n3CJhb] zzChumo_zcm_Prox1ed
+awa？
+
+[21:10:25]
+[n3CJhb] zzChumo_zcm_Prox1ed
+感觉忘记了好多事…
+
+[21:10:46]
+[jga1nc] tcg
+骑车回家，pffline啦
+
+[21:10:51]
+[n3CJhb] zzChumo_zcm_Prox1ed
+awa
+
+[21:10:58]
+[jga1nc] tcg
+offline*
+
+[21:10:59]
+[n3CJhb] zzChumo_zcm_Prox1ed
+拜
+
+[21:11:00]
+[eYFDHl] eee
+不过 ~~因为记不住太多人~~
+
+[21:11:06]
+[eYFDHl] eee
+只要在聊天室里突然出现的活跃用户我一般默认为熟人（bushi）
+
+[21:11:24]
+[n3CJhb] zzChumo_zcm_Prox1ed
+>eYFDHl eee：
+>不过 ~~因为记不住太多人~~
+
+@eee 我的记忆正在消失
+
+[21:11:35]
+[eYFDHl] eee
+@zzChumo_zcm_Prox1ed 我觉得我记性特别好）
+
+[21:11:48]
+[eYFDHl] eee
+~~聊天室历史书前两个时代的事基本是我写的~~
+
+[21:12:06]
+[n3CJhb] zzChumo_zcm_Prox1ed
+我不知道
+
+[21:12:55]
+[eYFDHl] eee
+wow
+
+[21:12:57]
+[n3CJhb] zzChumo_zcm_Prox1ed
+aw！
+
+[21:13:10]
+[n3CJhb] zzChumo_zcm_Prox1ed
+aw？
+
+[21:13:12]
+[n3CJhb] zzChumo_zcm_Prox1ed
+有人吗
+
+[21:18:47]
+[eYFDHl] eee
+？
+
+[21:19:28]
+[wuotMk] DJMRDOU
+？
+
+[21:19:36]
+[lyTGk1] aidacrA
+https://discord.gg/XZhs8zj6
+
+[21:20:21]
+[lyTGk1] aidacrA
+为什么不来😡😡😡
+
+[21:20:30]
+[n3CJhb] zzChumo_zcm_Prox1ed
+我Discord早卸了
+
+[21:20:50]
+[n3CJhb] zzChumo_zcm_Prox1ed
+-_-
+
+[21:20:54]
+[eYFDHl] eee
+我的挂梯子后有些聊天室上不去了）
+
+[21:21:09]
+[lyTGk1] aidacrA
+用网页版（
+
+[21:21:17]
+[lyTGk1] aidacrA
+steam++也行
+
+[21:21:28]
+[n3CJhb] zzChumo_zcm_Prox1ed
+>eYFDHl eee：
+>我的挂梯子后有些聊天室上不去了）
+
+@eee PAC
+
+[21:21:31]
+[eYFDHl] eee
+no 我这边必须全局
+
+[21:21:48]
+[n3CJhb] zzChumo_zcm_Prox1ed
+啧
+
+[21:21:55]
+[lyTGk1] aidacrA
+不是
+
+[21:22:22]
+[lyTGk1] aidacrA
+自己可以手动设pac列表的
+
+[21:22:32]
+[n3CJhb] zzChumo_zcm_Prox1ed
+我不想开梯子
+
+[21:22:43]
+[n3CJhb] zzChumo_zcm_Prox1ed
+占用资源
+
+[21:22:50]
+[n3CJhb] zzChumo_zcm_Prox1ed
+烦
+
+[21:22:54]
+[eYFDHl] eee
+uw
+
+[21:23:27]
+[lyTGk1] aidacrA
+UwU
+
+[21:24:20]
+[n3CJhb] zzChumo_zcm_Prox1ed
+( ﾟ∀。)
+
+[21:24:29]
+[n3CJhb] zzChumo_zcm_Prox1ed
+已经变成…十字街的形状了
+
+[21:24:46]
+[n3CJhb] zzChumo_zcm_Prox1ed
+（
+
+[21:24:47]
+[eYFDHl] eee
+wuhuwuhuwuhu
+
+[21:25:19]
+[eYFDHl] eee
+上周的社团面试问卷通过了）
+
+[21:25:48]
+[n3CJhb] zzChumo_zcm_Prox1ed
+再见
+
+[21:30:40]
+[jga1nc] tcg
+早安
+
+[21:30:47]
+[jga1nc] tcg
+刚把车停回去（
+
+[21:30:58]
+[n3CJhb] zzChumo_zcm_Prox1ed
+hi
+
+[21:31:48]
+[jga1nc] tcg
+早呀初墨大大
+
+[21:32:07]
+[n3CJhb] zzChumo_zcm_Prox1ed
+！我在学银冰说话（（（
+
+[21:32:17]
+[jga1nc] tcg
+乐
+
+[21:34:05]
+[jga1nc] tcg
+银冰早
+
+[21:34:13]
+[n3CJhb] zzChumo_zcm_Prox1ed
+awa！
+
+[21:34:32]
+[n3CJhb] zzChumo_zcm_Prox1ed
+awa？
+
+[21:34:34]
+[n3CJhb] zzChumo_zcm_Prox1ed
+！银冰是基金会中国分部的一位大佬了啦（（（
+
+[21:35:02]
+[jga1nc] tcg
+乐
+
+[21:35:49]
+[jga1nc] tcg
+我正在看7000
+
+[21:35:56]
+[n3CJhb] zzChumo_zcm_Prox1ed
+# 控制，收容，保护
+
+您的行为正在被RAISA记录并实时上传至基金会服务器。
+
+[21:36:07]
+[jga1nc] tcg
+（3个月以来第一次想起来scp
+
+[21:36:08]
+[jga1nc] tcg
+7000的翻译
+
+[21:36:27]
+[jga1nc] tcg
+大冤种
+
+[21:36:38]
+[jga1nc] tcg
+乐
+
+[21:36:39]
+[n3CJhb] zzChumo_zcm_Prox1ed
+！我最近在看破碎之神教会之类的东西（（（
+
+[21:37:33]
+[jga1nc] tcg
+乐
+
+[21:37:41]
+[jga1nc] tcg
+之前看到一篇
+
+[21:38:24]
+[jga1nc] tcg
+什么来着
+
+[21:38:26]
+[jga1nc] tcg
+好像是
+
+[21:38:29]
+[jga1nc] tcg
+机神教徒与blablabla
+
+[21:38:41]
+[jga1nc] tcg
+（blablbala是我忘了
+
+[21:38:47]
+[n3CJhb] zzChumo_zcm_Prox1ed
+！awa（（（
+
+[21:39:21]
+[jga1nc] tcg
+好像是一个破碎教徒与血肉教的某位拥有一堆手的故事？
+
+[21:39:29]
+[jga1nc] tcg
+（
+
+[21:39:30]
+[AAfFKK] _
+hm
+
+[21:40:05]
+[AAfFKK] _
+gorky
+
+[21:40:08]
+[n3CJhb] zzChumo_zcm_Prox1ed
+https://zzchat.eu.org/index.html?public
+
+[21:41:18]
+[AAfFKK] _
+tcgy
+
+[21:41:21]
+[jga1nc] tcg
+啊呜哇
+
+[21:43:16]
+[lyTGk1] aidacrA
+https://discord.gg/XZhs8zj6
+
+[21:45:17]
+[None] Kalyan
+Hlo
+
+[21:53:37]
+[jga1nc] t_c_g
+早安
+
+[21:53:48]
+[jga1nc] t_c_g
+早
+
+[21:54:18]
+[AAfFKK] _
+QAQ
+
+[21:54:31]
+[None] Aice
+？晚好
+
+[21:54:35]
+[AAfFKK] _
+早
+
+[21:54:39]
+[jga1nc] t_c_g
+@_ 早吖
+
+[21:54:44]
+[AAfFKK] _
+@t_c_g awa
+
+[21:54:48]
+[n3CJhb] zzChumo_zcm_Prox1ed
+awa
+
+[21:54:56]
+[n3CJhb] zzChumo_zcm_Prox1ed
+# 亚洲av日本女优在线观看
+
+https://zzchat.eu.org/?public
+
+[21:55:22]
+[None] Aice
+6
+
+[21:55:33]
+[jga1nc] t_c_g
+乐
+
+[21:55:38]
+[n3CJhb] zzChumo_zcm_Prox1ed
+awa
+
+[21:55:43]
+[AAfFKK] _
+awa
+
+[21:55:54]
+[None] Aice
+《一切请以实际为准》
+
+[21:56:23]
+[jga1nc] t_c_g
+乐
+
+[21:56:30]
+[AAfFKK] _
+qwq
+
+[21:56:58]
+[None] 0x194
+@zzChumo_zcm_Prox1ed 你懂硬盘吗
+
+[21:57:48]
+[n3CJhb] zzChumo_zcm_Prox1ed
+# Never Gonna Give You Up II (Rick×n-buna×Deco*27×Daily Haocore PianoRock Remix) -Reloaded- JPN Ver.在线收听
+
+https://zzchat.eu.org/?public
+
+[21:57:53]
+[None] 0x194
+我最近硬盘有点问题
+
+[21:57:53]
+[None] 0x194
+总是蓝屏重启
+
+[21:58:00]
+[n3CJhb] zzChumo_zcm_Prox1ed
+>0x194：
+>@zzChumo_zcm_Prox1ed 你懂硬盘吗
+
+@0x194 我搞软件的
+
+[21:58:06]
+[None] 0x194
+有人说是硬盘快坏了
+
+[21:58:07]
+[None] 0x194
+我用CrystalDiskInfo检查
+
+[21:58:11]
+[None] 0x194
+检查出来全是\-\-\-
+
+[21:58:20]
+[None] 0x194
+啥也检查不出来
+
+[21:58:24]
+[n3CJhb] zzChumo_zcm_Prox1ed
+红？
+
+[21:58:25]
+[n3CJhb] zzChumo_zcm_Prox1ed
+awa
+
+[21:58:28]
+[None] 0x194
+三个杠
+
+[21:58:30]
+[n3CJhb] zzChumo_zcm_Prox1ed
+准备备份换硬盘把
+
+[21:58:48]
+[None] 0x194
+就是“当前值”“临界值”“最差值”
+
+[21:58:49]
+[None] 0x194
+这三个
+
+[21:58:50]
+[None] 0x194
+:(
+
+[21:58:52]
+[None] 0x194
+他说健康状态100%
+
+[21:59:02]
+[None] 0x194
+是不是0/0算出来的
+
+[21:59:06]
+[n3CJhb] zzChumo_zcm_Prox1ed
+？
+
+[21:59:14]
+[AAfFKK] _
+?
+
+[21:59:23]
+[n3CJhb] zzChumo_zcm_Prox1ed
+建议找专门的人检查
+
+[21:59:23]
+[AAfFKK] _
+;
+
+[21:59:24]
+[None] 0x194
+是不是软件啥也检测不出来所以100%
+
+[21:59:27]
+[None] 0x194
+气死我了
+
+[21:59:29]
+[n3CJhb] zzChumo_zcm_Prox1ed
+等等，有没有这么一种可能
+
+[21:59:44]
+[AAfFKK] AfK_Bot
+2022-09-16 22:00:00
+![](https://i.gyazo.com/6245c80a2bbeef7af07cd90c5b3a850f.jpg)
+
+[21:59:44]
+[n3CJhb] zzChumo_zcm_Prox1ed
+__你用的是ssd__
+
+[21:59:50]
+[n3CJhb] zzChumo_zcm_Prox1ed
+如果硬盘没问题/你用的是SSD的话应该就不是硬盘问题了
+
+[22:00:29]
+[None] 0x194
+是SSD
+
+[22:00:48]
+[None] 0x194
+是不是他这些检测不适用于SSD？
+
+[22:00:56]
+[None] 0x194
+初墨果然nb（）、
+
+[22:01:10]
+[lyTGk1] aidacrA
+等一下
+
+[22:01:12]
+[n3CJhb] zzChumo_zcm_Prox1ed
+建议根据错误代码搜索而不是只搜索“电脑蓝屏怎么办”
+
+[22:01:16]
+[n3CJhb] zzChumo_zcm_Prox1ed
+>0x194：
+>是不是他这些检测不适用于SSD？
+
+@0x194 是的
+
+[22:01:20]
+[lyTGk1] aidacrA
+@0x194 你是4n0n4me吧……？
+
+[22:01:24]
+[n3CJhb] zzChumo_zcm_Prox1ed
+:!lookup @0x194 
+
+[22:01:40]
+[lyTGk1] aidacrA
+:!lookup @0x194
+
+[22:01:51]
+[n3CJhb] zzChumo_zcm_Prox1ed
+:!lookup nick @0x194 
+
+[22:01:51]
+[n3CJhb] zzChumo_zcm_Prox1ed
+..?
+
+[22:02:00]
+[n3CJhb] zzChumo_zcm_Prox1ed
+@_ 
+
+[22:02:11]
+[None] 0x194
+对啊
+
+[22:02:28]
+[n3CJhb] zzChumo_zcm_Prox1ed
+awa
+
+[22:02:33]
+[None] 0x194
+那个错误代码
+
+[22:02:36]
+[AAfFKK] _
+?
+
+[22:02:37]
+[None] 0x194
+根本看不见
+
+[22:02:39]
+[n3CJhb] zzChumo_zcm_Prox1ed
+aw？
+
+[22:02:41]
+[AAfFKK] _
+:!help
+
+[22:02:41]
+[AAfFKK] AfK_Bot
+ @_ Your current identity : OWNER
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  ==:!send  :!setatblv  :!setjlmsg  :!findtrip  :!ignore  :!notice  :!addop  :!removeop  :!-.-  :!afkclear==
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[22:02:42]
+[AAfFKK] _
+:!lookup nick @0x194 
+
+[22:02:50]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==L1HUMTklJDPmZvO==: ['0x194']
+==Trips== for hash ==L1HUMTklJDPmZvO==: ['']
+
+[22:02:50]
+[AAfFKK] _
+gork>?
+
+[22:02:53]
+[None] 0x194
+default boot device missing or boot failed
+
+[22:02:58]
+[None] 0x194
+重启以后报这个
+
+[22:03:04]
+[AAfFKK] _
+:!-.-
+
+[22:03:12]
+[AAfFKK] AfK_Bot
+ -.-
+
+[22:03:12]
+[AAfFKK] _
+:!-.-
+
+[22:03:13]
+[None] 0x194
+报这个就不能开机
+
+[22:03:13]
+[AAfFKK] AfK_Bot
+ ._.
+
+[22:03:14]
+[n3CJhb] zzChumo_zcm_Prox1ed
+BIOS启动问题吗？
+
+[22:03:21]
+[None] 0x194
+电脑开机出现英文default boot device missing or boot failed是什么情况 可以给老船长保修
+https://b23.tv/BV15Y4y187ye
+
+[22:03:30]
+[n3CJhb] zzChumo_zcm_Prox1ed
+进BIOS看一下启动项
+
+[22:03:30]
+[None] 0x194
+这个视频里面说是硬盘要坏了D:
+
+[22:03:41]
+[n3CJhb] zzChumo_zcm_Prox1ed
+或者你硬盘松了
+
+[22:03:42]
+[n3CJhb] zzChumo_zcm_Prox1ed
+>0x194：
+>这个视频里面说是硬盘要坏了D:
+
+@0x194 可能是真的（
+
+[22:03:50]
+[None] 0x194
+这也有可能，有人说晃一晃电脑
+
+[22:03:52]
+[None] 0x194
+我晃一晃（暂时）好了
+
+[22:03:58]
+[jga1nc] t_c_g
+404什么时候来
+
+[22:04:05]
+[n3CJhb] zzChumo_zcm_Prox1ed
+那问题就基本确定了
+
+[22:04:10]
+[None] 0x194
+我就是404（）
+
+[22:04:13]
+[None] 0x194
+我新版BIOS
+
+[22:04:19]
+[None] 0x194
+无法看见启动项
+
+[22:04:23]
+[None] 0x194
+只有几个选项（是否开启USB启动之类的）
+
+[22:04:33]
+[n3CJhb] zzChumo_zcm_Prox1ed
+@0x194 硬盘问题实锤
+
+[22:04:48]
+[None] 0x194
+D:
+
+[22:04:52]
+[n3CJhb] zzChumo_zcm_Prox1ed
+gank掉电脑外壳重接硬盘
+
+[22:05:00]
+[jga1nc] t_c_g
+乐了
+
+[22:05:01]
+[jga1nc] t_c_g
+所以你们不讨论那个东西了吗
+
+[22:05:18]
+[None] 0x194
+我只有缓兵之计啊（）
+
+[22:05:28]
+[None] 0x194
+事实证明缓兵之计确实有用
+
+[22:05:32]
+[n3CJhb] zzChumo_zcm_Prox1ed
+笔记本电脑可以找售后
+
+[22:05:34]
+[n3CJhb] zzChumo_zcm_Prox1ed
+>jga1nc t_c_g：
+>所以你们不讨论那个东西了吗
+
+@t_c_g awa？
+
+[22:05:39]
+[None] 0x194
+小张在xc人多的时候，绷不住了，说自己别无选择，只有轰炸yc
+
+[22:05:48]
+[None] 0x194
+小张这样突然的言论导致了反对
+
+[22:05:55]
+[jga1nc] t_c_g
+乐
+
+[22:06:06]
+[None] 0x194
+鱼鱼警告小张：人多的时候不要说404的事情
+
+[22:06:08]
+[eYFDHl] eee
+芜湖
+
+[22:06:20]
+[None] 0x194
+因为说这个事情他们必定显得有那么一点凶残
+
+[22:06:21]
+[AAfFKK] _
+ovo
+
+[22:06:31]
+[None] 0x194
+毕竟xc的大部分用户没看见我去那边抗议
+
+[22:06:31]
+[None] 0x194
+何况我也确实没对xc造成破坏
+
+[22:06:42]
+[jga1nc] t_c_g
+乐
+
+[22:06:50]
+[n3CJhb] zzChumo_zcm_Prox1ed
+对了
+
+[22:06:56]
+[n3CJhb] zzChumo_zcm_Prox1ed
+等一下
+
+[22:06:58]
+[eYFDHl] eee
+说得好
+
+[22:07:27]
+[AAfFKK] _
+⭐ 8Wotmg mercury
+R is marzavec real
+
+XYZ+bX xyz
+no
+
+XYZ+bX xyz
+only on github
+
+[22:07:36]
+[AAfFKK] _
+gork
+
+[22:07:37]
+[None] 0x194
+awa?
+
+[22:07:44]
+[lyTGk1] aidacrA
+所以说我没进历史书就是因为没有参与吵架吗-_-
+
+[22:07:47]
+[AAfFKK] _
+ovo
+
+[22:07:47]
+[None] 0x194
+这是啥意思
+
+[22:07:48]
+[eYFDHl] eee
+ ~~但其实 我觉得Light也有点过了~~
+
+[22:07:49]
+[jga1nc] t_c_g
+乐
+
+[22:07:50]
+[jga1nc] t_c_g
+>lyTGk1 aidacrA
+所以说我没进历史书就是因为没有参与吵架吗-_-乐
+
+[22:08:05]
+[jga1nc] t_c_g
+乐
+
+[22:08:07]
+[eYFDHl] eee
+下次见到他我想让说几句）
+
+[22:08:14]
+[n3CJhb] zzChumo_zcm_Prox1ed
+gank掉电脑外壳
+
+[22:08:15]
+[n3CJhb] zzChumo_zcm_Prox1ed
+。。。
+
+[22:08:17]
+[n3CJhb] zzChumo_zcm_Prox1ed
+等等
+
+[22:08:20]
+[lyTGk1] aidacrA
+> 所以说我没进历史书就是因为没有参与吵架吗-_-
+
+吵架就是hc的一切吗……
+
+[22:08:20]
+[eYFDHl] eee
+然而不知道今天怎么回事很多人都没来
+
+[22:08:27]
+[AAfFKK] _
+so R is probably marzavec on github
+
+[22:08:32]
+[eYFDHl] eee
+Maggie和Light
+
+[22:08:32]
+[n3CJhb] zzChumo_zcm_Prox1ed
+![Screenshot_20220915-205716_Chrome.png](https://img1.imgtp.com/2022/09/15/VB7rv9Lg.png)
+
+[22:08:34]
+[jga1nc] t_c_g
+@_ donno
+
+[22:08:57]
+[AAfFKK] _
+@t_c_g awa
+
+[22:09:07]
+[None] 0x194
+@aidacrA ~~历史书上记载的大部分是这样的事情（）~~
+
+[22:09:15]
+[eYFDHl] eee
+>lyTGk1 aidacrA
+所以说我没进历史书就是因为没有参与吵架吗-_-
+
+~~你一个月来一次很多人都不认识你啊~~
+
+[22:09:17]
+[n3CJhb] zzChumo_zcm_Prox1ed
+@eee @0x194 ![Screenshot_20220915-205716_Chrome.png](https://img1.imgtp.com/2022/09/15/VB7rv9Lg.png)
+
+[22:09:18]
+[eYFDHl] eee
+i see
+
+[22:09:22]
+[None] 0x194
+我电脑出了点问题，重启一下（）
+
+[22:09:35]
+[eYFDHl] eee
+对了
+
+[22:09:41]
+[jga1nc] t_c_g
+所以我到底是怎么上历史书的
+
+[22:09:42]
+[lyTGk1] aidacrA
+> 不是啊，我经常来的
+
+[22:09:57]
+[eYFDHl] eee
+鱼把xc删掉的聊天记录发到了xc
+
+[22:09:58]
+[eYFDHl] eee
+焯
+
+[22:10:00]
+[jga1nc] t_c_g
+乐
+
+[22:10:08]
+[eYFDHl] eee
+@t_c_g 你的话是404写的）
+
+[22:10:12]
+[eYFDHl] eee
+我找找记录丢哪了
+
+[22:10:35]
+[jga1nc] t_c_g
+他为什么会写这个（）
+
+[22:10:39]
+[jga1nc] t_c_g
+没必要（）
+
+[22:11:08]
+[eYFDHl] eee
+2022-9-13：https://note.ms/xcyyds13
+2022-9-15：https://note.ms/xcneverlost15
+
+[22:11:09]
+[/9Br2y] 0x194
+我之所以用这个名字
+
+[22:11:14]
+[/9Br2y] 0x194
+就是为了贯彻缓兵之计（）
+
+[22:11:19]
+[eYFDHl] eee
+2022-9-14：https://note.ms/xcwillwin14
+
+[22:11:22]
+[/9Br2y] 0x194
+让小张认不出来我（）
+
+[22:11:25]
+[/9Br2y] 0x194
+如果小张来了
+
+[22:11:27]
+[eYFDHl] eee
+wow
+
+[22:11:28]
+[/9Br2y] 0x194
+看见我和light都不在
+
+[22:11:31]
+[/9Br2y] 0x194
+就等着我们来了
+
+[22:11:37]
+[eYFDHl] eee
+好
+
+[22:11:42]
+[AAfFKK] _
+1*16^2+9*16+4
+
+[22:12:01]
+[AAfFKK] _
+1\*16^2+9*16+4
+
+[22:12:04]
+[AAfFKK] _
+gork
+
+[22:12:06]
+[jga1nc] t_c_g
+乐
+
+[22:12:41]
+[/9Br2y] 0x194
+我下载了一个硬盘检测软件
+
+[22:14:28]
+[/9Br2y] 0x194
+来检测
+
+[22:14:30]
+[eYFDHl] eee
+wow
+
+[22:14:39]
+[/9Br2y] 0x194
+AS SSD
+
+[22:14:41]
+[n3CJhb] zzChumo_zcm_Prox1ed
+zzChumo|建议检查对方有没有留后门|2022-09-13 21:46:17
+zzChumo|比如像我之前一样|2022-09-13 21:46:34
+zzChumo|在星奕三号里留了个带sudo的小号|2022-09-13 21:46:50
+fish|正 大 光 明|2022-09-13 21:47:14
+
+[22:15:04]
+[n3CJhb] zzChumo_zcm_Prox1ed
+awa
+
+[22:15:09]
+[/9Br2y] 0x194
+？？？
+
+[22:15:25]
+[n3CJhb] zzChumo_zcm_Prox1ed
+https://note.ms/xcyyds13
+
+[22:15:46]
+[n3CJhb] zzChumo_zcm_Prox1ed
+睡觉了
+
+[22:16:02]
+[n3CJhb] zzChumo_zcm_Prox1ed
+晚安
+
+[22:16:10]
+[AAfFKK] _
+?
+
+[22:16:30]
+[eYFDHl] eeee
+这个倒没问题）
+
+[22:16:36]
+[eYFDHl] eeee
+~~星三炸得彻底~~
+
+[22:16:39]
+[AAfFKK] _
+gork
+
+[22:16:58]
+[/9Br2y] 0x194
+检测出来分挺高的
+
+[22:18:07]
+[/9Br2y] 0x194
+所以我的硬盘还好吗:|
+
+[22:18:50]
+[None] mrjif
+hey
+
+[22:19:00]
+[None] mrjif
+gys
+
+[22:19:03]
+[eYFDHl] eeee
+所以硬盘怎么了
+
+[22:19:09]
+[eYFDHl] eeee
+hi yo
+
+[22:19:19]
+[None] mrjif
+硬盘？ 
+
+[22:19:25]
+[None] mrjif
+什么硬盘
+
+[22:19:44]
+[None] mrjif
+还时不是在跟我说话
+
+[22:20:01]
+[AAfFKK] _
+gork it
+
+[22:20:05]
+[None] Aice
+0x194
+我最近硬盘有点问题
+
+0x194
+总是蓝屏重启
+
+n3CJhb zzChumo_zcm_Prox1ed
+0x194：
+@zzChumo_zcm_Prox1ed 你懂硬盘吗
+
+@0x194 我搞软件的
+
+0x194
+有人说是硬盘快坏了
+
+0x194
+我用CrystalDiskInfo检查
+
+0x194
+检查出来全是—
+
+0x194
+啥也检查不出来
+
+[22:20:39]
+[None] Aice
+@eeee 
+
+[22:20:44]
+[eYFDHl] eeee
+好家伙
+
+[22:21:04]
+[AAfFKK] _
+go
+
+[22:21:26]
+[AAfFKK] _
+rk
+
+[22:22:49]
+[eYFDHl] eeee
+hi yo
+
+[22:23:38]
+[None] hhhh
+有没有哪位大佬帮忙看下，U盘提示目录名和语法不正确怎么搞？显示是乱码
+
+[22:24:17]
+[AAfFKK] _
+?
+
+[22:24:32]
+[/9Br2y] 0x194
+我自己硬盘都有问题
+
+[22:24:47]
+[eYFDHl] eeee
+问zzChumo……人走了
+
+[22:24:50]
+[/9Br2y] 0x194
+没法说（）
+
+[22:24:51]
+[AAfFKK] _
+gokr
+
+[22:24:55]
+[/9Br2y] 0x194
+但是在哪里提示的
+
+[22:24:59]
+[AAfFKK] _
+tq
+
+[22:25:00]
+[lyTGk1] rnm
+草
+
+[22:25:00]
+[lyTGk1] rnm
+2给僵尸号
+
+[22:25:04]
+[AAfFKK] _
+早
+
+[22:25:10]
+[lyTGk1] rnm
+*两个
+
+[22:25:13]
+[None] hhhh
+需要数据恢复吗
+
+[22:25:23]
+[AAfFKK] _
+@Arc @Arcadia ?
+
+[22:25:24]
+[None] Aice
+这位的名字非常重量级啊@rnm 
+
+[22:25:25]
+[lyTGk1] rnm
+对
+
+[22:25:32]
+[AAfFKK] _
+.m kick @Arc @Arcadia
+
+[22:25:38]
+[AAfFKK] _
+awa
+
+[22:25:41]
+[lyTGk1] rnm
+啊哈
+
+[22:25:42]
+[None] Aice
+:D
+
+[22:26:00]
+[lyTGk1] rnm
+*下划线*先生居然成为协管了
+
+[22:26:06]
+[AAfFKK] _
+?
+
+[22:26:09]
+[lyTGk1] rnm
+*没*什么
+
+[22:26:17]
+[None] hhhh
+@0x194 点部分文件夹的时候提示，
+
+[22:26:21]
+[AAfFKK] _
+*a*wa
+
+[22:26:24]
+[/9Br2y] 0x194
+emm
+
+[22:26:24]
+[/9Br2y] 0x194
+乱码又是在哪
+
+[22:26:28]
+[lyTGk1] rnm
+*蛤*
+
+[22:26:33]
+[None] hhhh
+等下我截图
+
+[22:26:36]
+[/9Br2y] 0x194
+ ~~数据恢复又不能免费~~
+
+[22:26:37]
+[/9Br2y] 0x194
+ ~~我硬盘里还有点隐私的东西~~
+
+[22:26:46]
+[lyTGk1] rnm
+*草*
+
+[22:26:58]
+[None] Aice
+艹
+
+[22:27:00]
+[AAfFKK] _
+\*UwU*
+
+[22:27:09]
+[AAfFKK] _
+e
+
+[22:27:23]
+[AAfFKK] _
+:!listop
+
+[22:27:26]
+[AAfFKK] AfK_Bot
+Trip op: ['Hp0PpH', 'olX9Fe', 'gOtnKd', 'EbHaY9', 'aOEdh/', 'YCSh95', 'Myh1TA', 'rrrRRR', '7EMhUN', 'PXgRpV', '0/JM7u', '21PnFs', '0+A+oV', 'Zvoxsl', 'V7nVFx', 'XrbaeJ', 'hL+0yd', 'NvvLL/', '1cWTfO', 'foMeFv', '4TmEZc', '/9Br2y', 'Zk9YAn', 'KK69OG', 'eYFDHl', 'Frxaxk', 'biRdxz', 'xeEf1u', 'uMtRgL', 'ZHopop', 'xQTqHv', 'geGDVS', '805Iqy', 'pYA1S4', 'BG249d', 'n3CJhb', 'STuREh', 'EEeeOY', 'eeeEEm', 'tssNfd', 'ttttoe', 'xhvbdp', 'Chumon', '2ZQ3+0']
+SP. op_nick: []
+
+[22:27:26]
+[AAfFKK] _
+:!addop lyTGk1
+
+[22:27:38]
+[AAfFKK] AfK_Bot
+Made trip lyTGk1 op
+
+[22:27:39]
+[AAfFKK] _
+gork
+
+[22:27:40]
+[AAfFKK] _
+:!addwhl lyTGk1
+
+[22:27:45]
+[AAfFKK] _
+:!getwhl
+
+[22:27:48]
+[AAfFKK] AfK_Bot
+Whitelisted trips:['21PnFs', 'Hp0PpH', 'QCkYle', 'rrrRRR', '0/JM7u', 'PXgRpV', 'eYFDHl', '2AspBN', 'O1GS0O', 'geGDVS', 'Fj/Dbs', 'EvdPeD', 'roMh/U', 'UPr/2z', 'usQpxZ', 'Wftzdn', 'olX9Fe', '1cWTfO', 'n3CJhb', 'gOtnKd', 'YCSh95', 'Myh1TA', '7EMhUN', 'sclhHF', 'VFg6Hd', 'n/g8Z7', '+de+tF', '0+A+oV', 'q9D8Va', '/nsl0N', 'aOEdh/', 'XrbaeJ', 'V7nVFx', 'AucpIg', 'Zk9YAn', 'hL+0yd', 'NvvLL/', '/9Br2y', '8UA+MY', 'rZS3bL', 'AAfFKK', 'pwnuUa', 'u3rwOv', 'kmzrux', 'JlVj7N', 'KK69OG', 'a/Jz/a', 'VEbeHK', 'DlQJLw', 'PnNymf', '7/4YqN', '4TmEZc', 'Zvoxsl', 'S14GEC', 'sBsFHM', '6L81lc', 'mQNszM', 'FB49o5', 'pHzezS', 'y/97ug', '02BFbg', 'RedYSa', 'K1jc0N', 'znt6Q3', 'aaffkk', '02Mrrr', 'ih8EJJ', 'f5Msgw', 'Lxiamv', 'S9PQwQ', '1177PH', '7DA3OE', '13A13u', 'julAke', 'wvecwo', '1mJVp4', 'uMtRgL', 'JRO2/+', 'duoFBI', 'biRdxz', 'ztnKBB', 'OxOzZn', 'xeEf1u', 'ZHopop', 'soROHf', '805Iqy', 'wuotMk', '816b4Q', 'K+oMJ7', 'AKAR4Z', 'pYA1S4', 'BG249d', 'SYCVCf', 'QMQq/r', '154xPi', 'kzJil1', '0EFuck', 'teRryK', 'FUCkER', 'yM+DNV', 'chvBsw', 'QFUe1W', 'foMeFv', 'LAVa45', 'oRrsmz', 'eeeEEm', 'STuREh', 'tssNfd', 'ttttoe', 'xhvbdp', 'Oi5jf6', 'hACkeR', 'Chumon', 'ktf4NW', 'aZsAKA', 'sAkANb', 'AnS8+C', 'T6rsnZ', 'anAyE8', 'NqByTq', '2ZQ3+0', 'jga1nc', 'lyTGk1']
+
+[22:27:48]
+[AAfFKK] _
+yorked
+
+[22:28:58]
+[None] Aice
+hi
+
+[22:30:15]
+[None] Aice
+。。
+
+[22:30:40]
+[eYFDHl] eeee
+yeeeeeee
+
+[22:32:12]
+[eYFDHl] eeee
+估计下周每天下午放学在学校就能碰电脑了
+
+[22:32:21]
+[AAfFKK] _
+owoooo
+
+[22:32:26]
+[/9Br2y] 0x194
+awa
+
+[22:32:41]
+[eYFDHl] eeee
+快乐
+
+[22:32:50]
+[lyTGk1] rnm
+*为什么*那么多`e`
+
+[22:33:13]
+[eYFDHl] eee
+不过还得等正式报告通知
+
+[22:33:20]
+[eYFDHl] eee
+awa？
+
+[22:33:23]
+[lyTGk1] rnm
+`UwU`
+
+[22:33:35]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+24个
+
+[22:33:38]
+[AAfFKK] _
+lol
+
+[22:33:44]
+[/9Br2y] 0x194
+ ~~ee数学直觉真好~~
+
+[22:33:48]
+[/9Br2y] 0x194
+ ~~随手就是24个~~
+
+[22:33:53]
+[None] Aice
+6
+
+[22:34:17]
+[AAfFKK] _
+?
+
+[22:34:21]
+[AAfFKK] _
+gork
+
+[22:34:25]
+[/9Br2y] 0x194
+@_ gork？
+
+[22:34:38]
+[AAfFKK] _
+gorkella
+
+[22:35:41]
+[None] Dedeepya
+Hii
+
+[22:35:44]
+[AAfFKK] _
+gorkie
+
+[22:35:46]
+[2ZQ3+0] Maggie123
+我正艰难的上网
+
+[22:35:50]
+[AAfFKK] _
+gie
+
+[22:35:51]
+[2ZQ3+0] Maggie123
+我家的路由器死了
+
+[22:35:56]
+[AAfFKK] _
+ovo
+
+[22:35:56]
+[/9Br2y] 0x194
+gork是独眼巨人罢
+
+[22:35:57]
+[None] Jahnavi
+Hii dedeepya
+
+[22:35:58]
+[AAfFKK] _
+ind
+
+[22:36:00]
+[AAfFKK] _
+hork
+
+[22:36:02]
+[None] Jahnavi
+Zag ssh skin s gj o
+
+[22:36:07]
+[None] Dedeepya
+Pavitra unda
+
+[22:36:08]
+[2ZQ3+0] Maggie123
+然后我在用手机热点上网
+
+[22:36:08]
+[None] Jahnavi
+Haa undi
+
+[22:36:20]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+焯
+
+[22:36:22]
+[2ZQ3+0] Maggie123
+一个星期不编程就会晕死的人，谁懂（
+
+[22:36:30]
+[None] Aice
+好强（
+
+[22:36:49]
+[/9Br2y] 0x194
+maggie nb
+
+[22:37:01]
+[2ZQ3+0] Maggie123
+awa?
+
+[22:37:02]
+[2ZQ3+0] Maggie123
+awa!
+
+[22:37:11]
+[2ZQ3+0] Maggie123
+去tc看看
+
+[22:37:24]
+[AAfFKK] _
+fc
+
+[22:37:34]
+[AAfFKK] _
+F
+
+[22:37:38]
+[2ZQ3+0] Maggie123
+A
+
+[22:37:43]
+[2ZQ3+0] Maggie123
+Miss
+
+[22:37:52]
+[2ZQ3+0] Maggie123
+Bad
+
+[22:37:58]
+[AAfFKK] _
+phi
+
+[22:38:21]
+[None] ap
+@Maggie123 yekkada
+
+[22:38:59]
+[2ZQ3+0] Maggie321
+@ap
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[22:38:59]
+[AAfFKK] _
+@Maggie321 @Maggie321 @Maggie321 @Maggie321 @Maggie321 @Maggie321 awa
+
+[22:39:10]
+[2ZQ3+0] Maggie321
+@_
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[22:39:10]
+[AAfFKK] _
+goog
+
+[22:39:44]
+[2ZQ3+0] Maggie123
+goo——
+
+[22:40:07]
+[None] Aice
+哈哈哈这个机器人好可爱
+
+[22:40:09]
+[None] Aice
+，，，，
+
+[22:40:25]
+[2ZQ3+0] Maggie123
+哈哈哈
+
+[22:40:58]
+[2ZQ3+0] Maggie123
+手机摸鱼摸出来的
+
+[22:41:06]
+[2ZQ3+0] Maggie123
+ee也有
+
+[22:41:09]
+[AAfFKK] _
+for mine it's just
+
+[22:41:19]
+[AAfFKK] _
+:!msg AfK_Bot gork
+
+[22:41:25]
+[AAfFKK] AfK_Bot
+Message sent to nick AfK_Bot.
+
+[22:41:26]
+[2ZQ3+0] Maggie123
+afk poop
+
+[22:41:33]
+[AAfFKK] _
+goog
+
+[22:42:55]
+[AAfFKK] _
+ignore first 17
+
+[22:43:03]
+[AAfFKK] _
+orkg
+
+[22:43:06]
+[None] ap
+You
+
+[22:43:10]
+[AAfFKK] _
+gkk
+
+[22:43:39]
+[AAfFKK] _
+ccwy
+
+[22:46:24]
+[2ZQ3+0] NotMaggiePhone
+awa
+
+[22:46:26]
+[AAfFKK] _
+awa
+
+[22:46:29]
+[2ZQ3+0] NotMaggiePhone
+pooping——
+
+[22:46:35]
+[2ZQ3+0] NotMaggiePhone
+()
+
+[22:46:54]
+[None] Aice
+emm
+
+[22:47:47]
+[2ZQ3+0] NotMaggiePhone
+讲个笑话，
+
+TC之前打算国际化
+现在想
+在国内推广开都不太可能——
+
+[22:47:55]
+[/9Br2y] 0x194
+D:
+
+[22:48:33]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+@NotMaggiePhone @NotMaggiePhone @NotMaggiePhone 
+
+[22:49:54]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+百度AI开放平台那个识别图片的网址在哪
+
+[22:50:17]
+[2ZQ3+0] NotMaggiePhone
+额
+
+[22:50:36]
+[2ZQ3+0] NotMaggiePhone
+搜索
+
+[22:50:39]
+[2ZQ3+0] NotMaggiePhone
+EasyDL
+
+[22:50:42]
+[2ZQ3+0] NotMaggiePhone
+就刑了
+
+[22:50:47]
+[2ZQ3+0] NotMaggiePhone
+@eeeeeeeeeeeeeeeeeeeeeeee @eeeeeeeeeeeeeeeeeeeeeeee @eeeeeeeeeeeeeeeeeeeeeeee 
+
+[22:51:52]
+[None] sfrt
+Sa
+
+[22:53:24]
+[AAfFKK] _
+?
+
+[22:53:48]
+[None] s
+Yekkada 
+
+[22:55:17]
+[None] hhhh
+!!!!!
+
+[22:55:21]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+@NotMaggiePhone @NotMaggiePhone @NotMaggiePhone thanks！
+
+[22:55:36]
+[AAfFKK] _
+just send :!kick rnm @Arcadia
+
+[22:55:39]
+[AAfFKK] _
+gork it
+
+[22:56:08]
+[lyTGk1] Arcadia
+:!kick rnm
+
+[22:56:14]
+[AAfFKK] AfK_Bot
+.m kick rnm 
+
+[22:56:15]
+[AAfFKK] _
+goog
+
+[22:56:17]
+[lyTGk1] Arcadia
+哦吼？
+
+[22:56:24]
+[AAfFKK] _
+>协管的协管
+
+[22:56:37]
+[lyTGk1] Arcadia
+我是协管吗。。。
+
+[22:56:39]
+[lyTGk1] Arcadia
+em
+
+[22:56:49]
+[AAfFKK] _
+lol
+
+[22:56:52]
+[lyTGk1] Arcadia
+这样*不好*
+
+[22:56:59]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+还可以有协管的协管的协管的协管的协管的协管
+
+[22:57:03]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+的协管的协管的协管的协管的协管的协管的协管的协管的协管的协管的协管的协管……
+
+[22:57:11]
+[AAfFKK] _
+ind
+
+[22:57:14]
+[AAfFKK] _
+:!translate en 套娃
+
+[22:57:29]
+[AAfFKK] AfK_Bot
+ Set a baby
+
+[22:57:30]
+[AAfFKK] _
+hm
+
+[22:57:32]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+yeeee
+
+[22:57:35]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+真·套娃
+
+[22:57:39]
+[AAfFKK] _
+:!translate en 俄罗斯套娃
+
+[22:57:42]
+[AAfFKK] AfK_Bot
+ Russian
+
+[22:57:42]
+[AAfFKK] _
+.
+
+[22:57:51]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+啊草
+
+[22:58:11]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+开始搞项目了……
+
+[22:58:25]
+[2ZQ3+0] Maggie123
+100% [----------------------------------] POOP COMPLETED
+
+[22:58:25]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+@Maggie123 @Maggie123 @Maggie123 
+
+[22:58:28]
+[2ZQ3+0] Maggie321
+@eeeeeeeeeeeeeeeeeeeeeeee
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[22:58:28]
+[2ZQ3+0] Maggie123
+what?
+
+[22:58:34]
+[2ZQ3+0] Maggie123
+witch program
+
+[22:58:37]
+[AAfFKK] _
+:!translate matryoshka
+
+[22:58:46]
+[2ZQ3+0] Maggie123
+i have soooooooooooooooooooooooo many programs :O
+
+[22:58:49]
+[AAfFKK] AfK_Bot
+ 马r
+
+[22:58:49]
+[AAfFKK] _
+hm
+
+[22:58:51]
+[AAfFKK] _
+just matryoshka
+
+[22:58:56]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+Maggie听说过opencv图像识别吗
+
+[22:59:03]
+[2ZQ3+0] Maggie123
+no
+
+[22:59:24]
+[2ZQ3+0] Maggie123
+never
+
+[22:59:26]
+[2ZQ3+0] Maggie123
+i am lj
+
+[22:59:35]
+[2ZQ3+0] Maggie123
+i can only mediapipe
+
+[22:59:39]
+[2ZQ3+0] Maggie123
+opencv-mediapipe
+
+[22:59:45]
+[AAfFKK] AfK_Bot
+2022-09-16 23:00:00
+![](https://i.gyazo.com/6245c80a2bbeef7af07cd90c5b3a850f.jpg)
+
+[22:59:45]
+[2ZQ3+0] Maggie123
+or...
+
+[23:00:12]
+[2ZQ3+0] Maggie123
+opencv-python == advenced turtle
+
+[23:00:27]
+[2ZQ3+0] Maggie123
+isn't it?
+
+[23:00:32]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+python opencv
+
+[23:00:39]
+[2ZQ3+0] Maggie123
+it's same
+
+[23:00:48]
+[2ZQ3+0] Maggie123
+python opencv and opencv python
+
+[23:00:56]
+[2ZQ3+0] Maggie123
+same thing
+
+[23:01:01]
+[2ZQ3+0] Maggie123
+awa
+
+[23:01:09]
+[Zvoxsl] ji11
+;
+
+[23:01:27]
+[2ZQ3+0] Maggie123
+@eeeeeeeeeeeeeeeeeeeeeeee so witch program
+
+[23:01:36]
+[None] s
+@eeeeeeeeeeeeeeeeeeeeeeee @ Sssssssssssss 
+
+[23:02:13]
+[2ZQ3+0] NOTmaggie
+@eeeeeeeeeeeeeeeeeeeeeeee so!
+
+[23:02:17]
+[2ZQ3+0] NOTmaggie
+WITCH PROGRAM?
+
+[23:02:25]
+[2ZQ3+0] NOTmaggie
+awa
+
+[23:02:27]
+[AAfFKK] _
+?
+
+[23:02:36]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+@NOTmaggie @NOTmaggie 说、说中文
+
+[23:02:43]
+[2ZQ3+0] NOTmaggie
+什么项目
+
+[23:02:49]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+大概是利用opencv识别在打瞌睡的学生 拍照发送到微信
+
+[23:03:07]
+[2ZQ3+0] NOTmaggie
+这个
+
+[23:03:19]
+[2ZQ3+0] NOTmaggie
+mediapipe
+
+[23:03:21]
+[2ZQ3+0] NOTmaggie
+可以
+
+[23:03:23]
+[2ZQ3+0] NOTmaggie
+应该吧？
+
+[23:03:26]
+[2ZQ3+0] NOTmaggie
+我找找我之前的文件
+
+[23:03:54]
+[2ZQ3+0] NOTmaggie
+a 1T hard disk
+
+[23:03:59]
+[2ZQ3+0] NOTmaggie
+so cool
+
+[23:04:01]
+[None] s
+Good night
+
+[23:04:04]
+[AAfFKK] _
+indeed
+
+[23:04:08]
+[None] Aice
+好强啊
+
+[23:04:17]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+大概内容是每分钟截取一张照片，然后让他去识别正在打瞌睡的学生
+当识别到的时候，就把这张照片发送到微信
+提前让他去学习打瞌睡的 建立成模型
+我们的目标是让他每分钟截取一张到文件夹 并在这个文件夹对它进行识别 然后将识别出来的照片传到微信或者是什么程序上
+或者不要这个接口
+整个自动脚本
+把图片存到u盘
+（社团项目）
+
+[23:04:21]
+[AAfFKK] _
+daddy
+
+[23:04:22]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+Maggie nb
+
+[23:04:32]
+[2ZQ3+0] NOTmaggie
+wow,cool
+
+[23:04:33]
+[2ZQ3+0] NOTmaggie
+i have a disk
+
+[23:04:46]
+[AAfFKK] _
+s->
+
+[23:04:56]
+[2ZQ3+0] NOTmaggie
+138/1000GB used
+
+[23:05:07]
+[AAfFKK] _
+gb
+
+[23:05:11]
+[2ZQ3+0] NOTmaggie
+aw
+
+[23:05:17]
+[AAfFKK] _
+wa
+
+[23:05:24]
+[AAfFKK] _
+ov
+
+[23:05:26]
+[2ZQ3+0] NOTmaggie
+finding in dir "E:/mybullshits/"...
+
+[23:06:01]
+[2ZQ3+0] NOTmaggie
+too much files
+
+[23:06:11]
+[2ZQ3+0] NOTmaggie
+i cant find it
+
+[23:06:14]
+[AAfFKK] _
+many
+
+[23:06:26]
+[None] s
+Ap39t3110
+
+[23:06:28]
+[2ZQ3+0] NOTmaggie
+我说中文吧还是
+
+[23:07:07]
+[AAfFKK] _
+@obs tasty zhelon
+
+[23:07:10]
+[/9Br2y] 0x194
+B站有人统计同学上课睡觉情况
+
+[23:07:13]
+[AAfFKK] _
+goog nite
+
+[23:07:14]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+焯
+
+[23:07:23]
+[2ZQ3+0] NOTmaggie
+goog nike
+
+[23:07:26]
+[/9Br2y] 0x194
+往往有觉皇一样的存在
+
+[23:07:28]
+[2ZQ3+0] NOTmaggie
+goog pick
+
+[23:07:30]
+[/9Br2y] 0x194
+gud nait
+
+[23:07:34]
+[2ZQ3+0] NOTmaggie
+gdnt
+
+[23:07:50]
+[AAfFKK] _
+@obs peace for it awa
+
+[23:07:50]
+[2ZQ3+0] NOTmaggie
+god nit
+
+[23:08:33]
+[None] s
+A39t4901
+
+[23:09:04]
+[None] hhhh
+可以黑别人微信吗
+
+[23:09:26]
+[AAfFKK] _
+u did
+
+[23:09:31]
+[None] hhhh
+哈哈
+
+[23:09:36]
+[AAfFKK] _
+u good night
+
+[23:09:47]
+[AAfFKK] _
+sleep early
+
+[23:09:50]
+[AAfFKK] _
+:!afk
+
+[23:09:55]
+[AAfFKK] AfK_Bot
+ @_ You are marked AfK.
+
+[23:09:55]
+[Zvoxsl] ji11
+;
+
+[23:11:03]
+[None] Aice
+为啥你会想到这么做呢。。。@hhhh 
+
+[23:11:44]
+[eYFDHl] eeeeeeeeeeeeeeeeeeeeeeee
+焯
+
+[23:13:26]
+[None] hhhh
+有人盗取我数据
+
+[23:14:48]
+[None] s
+God bless you 
+
+[23:15:30]
+[None] hhhh
+！！！
+
+[23:15:36]
+[jga1nc] TCG
+早安
+
+[23:15:42]
+[AAfFKK] _
+早
+
+[23:15:53]
+[AAfFKK] AfK_Bot
+ @_ Welcome back.
+
+[23:15:54]
+[None] hhhh
+我的数据恢复了，但是人家把我东西复制了@Aice 
+
+[23:16:13]
+[AAfFKK] _
+:!afk
+
+[23:16:20]
+[AAfFKK] AfK_Bot
+ @_ You are marked AfK.
+
+[23:16:20]
+[None] Aice
+@hhhh 那可难搞
+
+[23:17:07]
+[None] Aice
+说起来你是有什么私人的东西放在微信里头吗？@hhhh 
+
+[23:17:29]
+[None] hhhh
+以后真的不能轻易相信任何人
+
+[23:17:31]
+[None] Aice
+肯定啊
+
+[23:17:41]
+[None] s
+E
+
+[23:17:52]
+[None] hhhh
+我是U盘数据
+
+[23:18:00]
+[AAfFKK] _
+observer i see
+
+[23:18:05]
+[AAfFKK] AfK_Bot
+ @_ Welcome back.
+
+[23:18:06]
+[AAfFKK] _
+:!afk
+
+[23:18:07]
+[AAfFKK] AfK_Bot
+ @_ You are marked AfK.
+
+[23:18:15]
+[None] Aice
+为你默哀。@hhhh 
+
+[23:18:21]
+[None] 1
+1
+
+[23:18:29]
+[None] Aice
+2
+
+[23:18:34]
+[None] 1
+3
+
+[23:18:39]
+[None] Aice
+4
+
+[23:18:44]
+[AAfFKK] AfK_Bot
+5
+
+[23:18:45]
+[None] 1
+6
+
+[23:18:45]
+[None] Aice
+7
+
+[23:18:50]
+[None] 1
+9
+
+[23:18:57]
+[None] hhhh
+U盘出了问题数据读不了，然后拿去修他给我把数据拷贝到他哪里，大言不惭的说我的数据没有用，结果他都看了很多重要信息  我丢
+
+[23:19:04]
+[None] Aice
+10
+
+[23:19:05]
+[None] s
+Godblessyou 
+
+[23:19:36]
+[None] hhhh
+刚好我还不在跟前，不然我直接给他删掉
+
+[23:19:43]
+[None] s
+God bless you 
+
+[23:19:44]
+[jga1nc] TCG
+god bless
+
+[23:19:48]
+[None] s
+D
+
+[23:19:52]
+[None] hhhh
+！！！！
+
+[23:19:57]
+[None] s
+We
+
+[23:20:00]
+[None] Aice
+所以在私人数据这方面，建议还是去找些正牌的店去修理比较好吧
+
+[23:20:06]
+[None] s
+W
+
+[23:20:09]
+[None] s
+N
+
+[23:20:14]
+[None] Aice
+（指修理u盘
+
+[23:20:25]
+[None] hhhh
+哎，没太大关系，其实就是自己整理的一些关键的资源
+
+[23:20:47]
+[None] hhhh
+一般人搜不到
+
+[23:20:55]
+[None] Aice
+自己整理的，那也得耗费不少心血
+
+[23:21:19]
+[None] s
+God plus you
+
+[23:21:24]
+[None] hhhh
+当没发生过把，从哪里来就让他回归哪里
+
+[23:21:39]
+[None] Aice
+唉
+
+[23:22:01]
+[None] hhhh
+U盘可能根目录出问题
+
+[23:22:08]
+[None] hhhh
+信息资产安全真的重要
+
+[23:22:49]
+[None] hhhh
+还好不涉及开发的软件的东西
+
+[23:23:11]
+[None] Aice
+雀食
+
+[23:23:11]
+[None] hhhh
+要是涉及软件的就可能遭殃
+
+[23:23:46]
+[None] Aice
+这算是不幸中的万幸吗？
+
+[23:23:57]
+[jga1nc] TCG
+乐
+
+[23:24:03]
+[jga1nc] TCG
+（完全听不懂
+
+[23:24:05]
+[None] hhhh
+不敢再泄露任何数据了
+
+[23:24:10]
+[None] Aice
+或者说，找个能够信任 并且技术方面比较强的人，帮忙看看也好嘛
+
+[23:24:58]
+[None] hhhh
+相信人真的可怕
+
+[23:25:06]
+[None] Aice
+啊
+
+[23:25:19]
+[None] Aice
+说来倒也没错，毕竟吃一堑长一智
+
+[23:25:56]
+[None] Aice
+……
+
+[23:26:06]
+[None] wk
+刚刚发生什么了 
+
+[23:26:27]
+[None] hhhh
+以后真的不能太仁义了，什么东西留个心眼还是好的，人家拿去就是复制粘贴到手
+
+[23:26:40]
+[None] Aice
+嗯嗯 比如搞个备份？
+
+[23:27:03]
+[None] hhhh
+我他妈等他半天就为了他来给我修，结果人家白嫖数据
+
+[23:27:27]
+[None] hhhh
+不然早换另外一家了
+
+[23:27:38]
+[None] hhhh
+搞备份嘛
+
+[23:27:44]
+[None] Aice
+所以最后修好了吗
+
+[23:27:53]
+[eYFDHl] eeee
+？
+
+[23:27:53]
+[None] hhhh
+重要的数据都恢复了
+
+[23:27:57]
+[None] hhhh
+就是根目录逻辑出错
+
+[23:28:10]
+[None] Aice
+那就好
+
+[23:28:15]
+[None] hhhh
+100-200之间其实就能解决
+
+[23:28:28]
+[None] Aice
+（吁气）
+
+[23:28:36]
+[None] hhhh
+其实真的应该解决存储问题
+
+[23:30:27]
+[None] hhhh
+我就引发了思考
+
+[23:30:36]
+[None] Aice
+:D
+
+[23:34:56]
+[jga1nc] TCG
+发生了什么
+
+[23:35:16]
+[jga1nc] TCG
+吗
+
+[23:36:37]
+[None] Aice
+刚刚
+
+[23:36:50]
+[None] Aice
+@hhhh 他突然说想要黑别人微信
+
+[23:37:06]
+[jga1nc] TCG
+乐
+
+[23:37:31]
+[eYFDHl] eeee
+呱呱呱
+
+[23:37:45]
+[None] Aice
+于是我赶紧问他什么状况，然后他就说出了他的u盘拿去给别人修，结果数据被别人拷走了 这么件大事
+
+[23:37:52]
+[None] Aice
+哦，我打字速度。
+
+[23:38:01]
+[None] Aice
+有点小慢
+
+[23:38:16]
+[None] Aice
+。。。
+
+[23:39:10]
+[jga1nc] TCG
+没事
+
+[23:39:12]
+[Zvoxsl] ji11WantsaGoodSleep
+睡！
+
+[23:39:15]
+[Zvoxsl] ji11WantsaGoodSleep
+afk
+
+[23:39:17]
+[jga1nc] TCG
+我更慢
+
+[23:39:18]
+[None] Aice
+:D
+
+[23:41:37]
+[None] amanda
+Amanda
+
+[23:42:12]
+[jga1nc] TCG
+hi
+
+[23:42:21]
+[jga1nc] TCG
+hi amanda
+
+[23:51:25]
+[None] hhhh
+脚本管理插件没法装
+
+[23:51:40]
+[jga1nc] TCG
+乐
+
+[23:51:50]
+[eYFDHl] eeee
+哇
+
+[23:55:59]
+[None] Dedeepya
+Hyy
+
+[23:57:27]
+[None] Aice
+咋突然这么多人进进出出的
+
+[23:57:28]
+[None] Aice
+好怪
+
+[23:59:44]
+[AAfFKK] AfK_Bot
+2022-09-17 00:00:00
+![](https://i.gyazo.com/6245c80a2bbeef7af07cd90c5b3a850f.jpg)
+

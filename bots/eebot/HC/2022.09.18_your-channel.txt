@@ -1,0 +1,8563 @@
+[00:01:09]
+[eYFDHl] eeee
+www
+
+[00:01:14]
+[jga1nc] tcg
+啊呜哇
+
+[00:01:22]
+[jga1nc] tcg
+怎么啦ee前辈
+
+[00:02:13]
+[jga1nc] tcg
+啊呜哇
+
+[00:02:59]
+[jga1nc] tcg
+啊呜哇
+
+[00:03:06]
+[jga1nc] tcg
+发生了什么吗
+
+[00:03:09]
+[eYFDHl] 0xce
+我的网络卡卡卡
+
+[00:03:32]
+[jga1nc] tcg
+乐
+
+[00:03:35]
+[jga1nc] tcg
+摸摸
+
+[00:03:46]
+[jga1nc] tcg
+hi
+
+[00:03:51]
+[eYFDHl] 0xce
+摸摸
+
+[00:04:04]
+[eYFDHl] 0xce
+hi yo
+
+[00:06:12]
+[jga1nc] tcg
+hi
+
+[00:06:18]
+[None] haha
+hello
+
+[00:06:22]
+[eYFDHl] 0xce
+hi yo
+
+[00:18:34]
+[Zvoxsl] blueglue
+u_u
+
+[00:25:36]
+[jga1nc] tcg
+gnite
+
+[00:26:05]
+[jga1nc] tcg
+我感冒了，乐
+
+[00:26:15]
+[Zvoxsl] blueglue
+:!grass asdf
+
+[00:28:08]
+[Zvoxsl] blueglue
+;
+
+[00:28:19]
+[eYFDHl] 0xce
+@tcg ~~多喝热水~~
+
+[00:29:53]
+[eYFDHl] 0xce
+:
+
+[00:49:54]
+[eYFDHl] 0xce
+睡睡睡
+
+[00:56:31]
+[eYFDHl] 0xce
+1点了
+
+[01:02:44]
+[None] asha
+hi
+
+[01:03:40]
+[None] asha
+Hi
+
+[02:05:15]
+[None] pove
+Hi
+
+[02:05:20]
+[None] pove
+Pora
+
+[04:00:14]
+[None] ashu
+Hi
+
+[04:27:57]
+[None] ehcar
+https://www.transfernow.net/dl/20220917vSoSBsmN
+
+[05:07:46]
+[None] saamm
+hi
+
+[05:32:22]
+[None] Boo
+.
+
+[05:32:37]
+[8Wotmg] Boo
+.
+
+[05:32:38]
+[8Wotmg] Boo
+.
+
+[05:34:57]
+[8Wotmg] Boo
+Oo
+
+[05:35:01]
+[8Wotmg] Boo
+weird
+
+[05:36:16]
+[None] Aice
+？
+
+[06:08:00]
+[gRnqa/] Aice
+hi
+
+[06:08:08]
+[gRnqa/] Aice
+早
+
+[06:45:09]
+[gRnqa/] Aice
+今天是九一八
+
+[06:45:29]
+[gRnqa/] Aice
+誒
+
+[06:45:35]
+[gRnqa/] Aice
+九十一周年了
+
+[06:54:09]
+[gRnqa/] Aice
+;_;
+
+[07:33:09]
+[gRnqa/] Aice
+呀
+
+[07:44:55]
+[gRnqa/] Aice
+咦？
+
+[08:22:04]
+[5hnPnj] orange
+早
+
+[08:29:28]
+[None] jyoti
+Hi 
+
+[09:11:55]
+[None] 114514114514114514
+有人么
+
+[09:12:07]
+[GhSm1S] 0x194
+有-
+
+[09:12:25]
+[None] 114514114514114514
+内格夫
+
+[09:12:35]
+[None] 114514114514114514
+要一包芙蓉王
+
+[09:12:42]
+[AAfFKK] _
+	..
+
+[09:28:45]
+[AAfFKK] _
+awa
+
+[09:29:08]
+[Chumon] zzzChumo_Redmi_2
+@_ 来zc
+
+[09:29:29]
+[AAfFKK] _
+owo
+
+[09:30:39]
+[Chumon] zzzChumo_Redmi_2
+zzChat是各大聊天室里唯一一个使用黑白CSS的
+
+[09:32:11]
+[AAfFKK] _
+AAA网课轰炸服务
+：）
+
+AAA网课轰炸服务
+我是有素质的好吧
+
+AAA网课轰炸服务
+我只在他们上副科的时候轰炸
+
+AAA网课轰炸服务
+不放哀乐
+
+AAA网课轰炸服务
+不放杂音
+
+AAA网课轰炸服务
+我放《只因你太美》
+
+[09:32:16]
+[AAfFKK] _
+早
+
+[09:32:17]
+[jga1nc] tcg
+早呀dpg
+
+[09:32:25]
+[jga1nc] tcg
+发生了什么吗
+
+[09:33:05]
+[Chumon] zzzChumo_Redmi_2
+我正在扫描公共wifi网关的端口
+
+[09:33:10]
+[Chumon] zzzChumo_Redmi_2
+╭─    ~                           ✔  09:31:57  ─╮
+╰─ nmap 192.168.0.1                                     ─╯
+Starting Nmap 7.92 ( https://nmap.org ) at 2022-09-18 09:32 CST
+Nmap scan report for 192.168.0.1
+Host is up (0.0098s latency).
+Not shown: 997 closed tcp ports (conn-refused)
+PORT     STATE SERVICE
+23/tcp   open  telnet
+53/tcp   open  domain
+8080/tcp open  http-proxy
+
+Nmap done: 1 IP address (1 host up) scanned in 1.82 seconds
+
+[09:33:14]
+[jga1nc] tcg
+乐
+
+[09:33:27]
+[jga1nc] tcg
+完全看不懂
+
+[09:33:42]
+[Chumon] zzzChumo_Redmi_2
+23 53和8080是开的
+
+[09:33:43]
+[jga1nc] tcg
+ee前辈早
+
+[09:33:50]
+[Chumon] zzzChumo_Redmi_2
+到时候选个端口测试内网攻击（
+
+[09:34:01]
+[jga1nc] tcg
+初墨祖宗早
+
+[09:34:03]
+[None] 114514114514114514
+网课轰炸？
+
+[09:34:09]
+[None] 114514114514114514
+wtf
+
+[09:34:14]
+[None] 114514114514114514
+网警怎么联系
+
+[09:34:23]
+[jga1nc] tcg
+这位看起来很臭的是哪位前辈。_。
+
+[09:34:34]
+[Chumon] zzzChumo_Redmi_2
+又扫到两个端口
+
+[09:34:45]
+[Chumon] zzzChumo_Redmi_2
+Nmap scan report for 192.168.0.1
+Host is up (0.0083s latency).
+Not shown: 65531 closed tcp ports (conn-refused)
+PORT      STATE SERVICE
+23/tcp    open  telnet
+53/tcp    open  domain
+8080/tcp  open  http-proxy
+10088/tcp open  unknown
+10089/tcp open  unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 99.46 seconds
+
+[09:34:51]
+[eYFDHl] eee
+草
+
+[09:34:55]
+[None] 114514114514114514
+I NEED CALL911
+
+[09:35:05]
+[eYFDHl] eee
+开幕雷击
+
+[09:35:07]
+[Chumon] zzzChumo_Redmi_2
+>Chumon zzzChumo_Redmi_2：
+>我正在扫描公共wifi网关的端口
+
+@eee 
+
+[09:35:12]
+[jga1nc] tcg
+乐
+
+[09:35:13]
+[Chumon] zzzChumo_Redmi_2
+看看能不能黑进去（
+
+[09:35:27]
+[jga1nc] tcg
+乐
+
+[09:35:39]
+[jga1nc] tcg
+小心王晶来抓你
+
+[09:35:48]
+[Chumon] zzzChumo_Redmi_2
+内网怕什么
+
+[09:35:59]
+[Chumon] zzzChumo_Redmi_2
+又不是公网
+
+[09:36:05]
+[Chumon] zzzChumo_Redmi_2
+顶多让整个4s店上不了网而已
+
+[09:36:21]
+[eYFDHl] eee
+哇
+
+[09:36:23]
+[Chumon] zzzChumo_Redmi_2
+（躲
+
+[09:36:23]
+[jga1nc] tcg
+乐
+
+[09:36:28]
+[jga1nc] tcg
+小心4s店告你
+
+[09:36:51]
+[Chumon] zzzChumo_Redmi_2
+我摸到后台了
+
+[09:37:35]
+[Chumon] zzzChumo_Redmi_2
+我看看能不能搞xss注入
+
+[09:37:42]
+[eYFDHl] eee
+吃瓜
+
+[09:37:57]
+[eYFDHl] eee
+~~等你某天进去了我们捞~~
+
+[09:38:14]
+[eYFDHl] eee
+~~顺便载入历史书~~
+
+[09:38:21]
+[eYFDHl] eee
+yyds
+
+[09:38:28]
+[Chumon] zzzChumo_Redmi_2
+我摸到路由器ssh端口了
+
+[09:38:49]
+[Chumon] zzzChumo_Redmi_2
+我逝世
+
+[09:39:06]
+[jga1nc] tcg
+乐
+
+[09:39:53]
+[GhSm1S] 0x194
+草，轰炸者还挺有素质
+
+[09:40:07]
+[jga1nc] tcg
+早
+
+[09:40:12]
+[GhSm1S] 0x194
+早
+
+[09:41:09]
+[eYFDHl] eee
+>GhSm1S 0x194
+草，轰炸者还挺有素质
+
+这是？
+
+[09:41:43]
+[eYFDHl] eee
+@0x194 
+
+[09:41:47]
+[GhSm1S] 0x194
+呃
+
+[09:43:00]
+[GhSm1S] 0x194
+网课入侵者
+
+[09:43:03]
+[GhSm1S] 0x194
+在十字街（现在不在）
+
+[09:43:07]
+[GhSm1S] 0x194
+说“只炸副课”
+
+[09:43:17]
+[eYFDHl] eee
+啧
+
+[09:43:27]
+[GhSm1S] 0x194
+放及你太美
+
+[09:43:37]
+[jga1nc] tcg
+乐
+
+[09:43:39]
+[eYFDHl] eee
+不放瑞克摇我很不赞同（当然网课入侵本来就不好
+
+[09:45:08]
+[Chumon] zzzChumo_Redmi_2
+搞不了xss
+
+[09:45:34]
+[Chumon] zzzChumo_Redmi_2
+进不去
+
+[09:45:34]
+[jga1nc] tcg
+乐
+
+[09:45:39]
+[0/JM7u] 4O4
+nage
+
+[09:45:48]
+[0/JM7u] 4O4
+哪个
+
+[09:45:55]
+[eYFDHl] eee
+>Chumon zzzChumo_Redmi_2：
+我正在扫描公共wifi网关的端口
+
+[09:46:14]
+[Chumon] zzzChumo_Redmi_2
+ssh也被远程关闭了
+
+[09:47:26]
+[jga1nc] tcg
+乐
+
+[09:47:34]
+[jga1nc] tcg
+看来它们做的防护很不错（乐
+
+[09:47:45]
+[GhSm1S] 0x194
+乐
+
+[09:47:45]
+[Chumon] zzzChumo_Redmi_2
+我直接攻击8080（
+
+[09:48:22]
+[Chumon] zzzChumo_Redmi_2
+企业路由器防护肯定得强啊
+
+[09:49:32]
+[jga1nc] t_c_g
+草
+
+[09:49:36]
+[jga1nc] t_c_g
+掉线了
+
+[09:49:42]
+[jga1nc] t_c_g
+乐
+
+[09:49:43]
+[jga1nc] t_c_g
+早
+
+[09:49:51]
+[GhSm1S] 0x194
+我是乐迪
+
+[09:51:20]
+[jga1nc] t_c_g
+乐
+
+[09:52:43]
+[Chumon] zzzChumo_Redmi_2
+还有7分钟
+
+[09:52:53]
+[GhSm1S] 0x194
+7分钟以后会怎么样
+
+[09:53:04]
+[Chumon] zzzChumo_Redmi_2
+洗净罪恶的警铃即将敲响
+
+[09:53:10]
+[GhSm1S] 0x194
+？？
+
+[09:53:48]
+[Chumon] zzzChumo_Redmi_2
+防空警报试鸣顺序如下： 10∶00—10∶03 鸣放预先警报； 10∶08—10∶11 鸣放空袭警报； 10∶16—10∶19 鸣放解除警报
+
+[09:54:01]
+[5hnPnj] orange
+下午就初赛了
+
+[09:54:01]
+[Chumon] zzzChumo_Redmi_2
+awa
+
+[09:54:03]
+[Chumon] zzzChumo_Redmi_2
+hi
+
+[09:54:04]
+[5hnPnj] orange
+hi yo
+
+[09:54:09]
+[Chumon] zzzChumo_Redmi_2
+@0x194 
+
+[09:54:13]
+[eYFDHl] eee
+hi yo
+
+[09:54:18]
+[eYFDHl] eee
+加油加油
+
+[09:54:33]
+[5hnPnj] orange
+山东过线率全国最低 10%...
+
+[09:54:41]
+[GhSm1S] 0x194
+加油加油！！！
+
+[09:54:46]
+[GhSm1S] 0x194
+awa??
+
+[09:54:49]
+[GhSm1S] 0x194
+wowoc
+
+[09:54:52]
+[GhSm1S] 0x194
+awa??
+
+[09:54:55]
+[GhSm1S] 0x194
+什么线啊
+
+[09:55:02]
+[5hnPnj] orange
+QAQ
+
+[09:55:06]
+[5hnPnj] orange
+初赛分数线
+
+[09:55:12]
+[jga1nc] think_catching_ghost
+乐
+
+[09:55:17]
+[GhSm1S] 0x194
+这是竞赛吗
+
+[09:55:21]
+[5hnPnj] orange
+正确的
+
+[09:55:24]
+[Chumon] zzzChumo_Redmi_2
+zzChat是各大聊天室中唯一一个使用黑白CSS的
+
+[09:55:25]
+[GhSm1S] 0x194
+应该……和高考不一样罢
+
+[09:55:31]
+[jga1nc] think_catching_ghost
+orange前辈早
+
+[09:55:33]
+[5hnPnj] orange
+啊别这么叫
+
+[09:55:41]
+[5hnPnj] orange
+莫名的想到先辈（）
+
+[09:55:49]
+[eYFDHl] eee
+草
+
+[09:55:58]
+[Chumon] zzzChumo_Redmi_2
+还有4分钟
+
+[09:56:09]
+[GhSm1S] 0x194
+我怎么没感觉黑白了？
+
+[09:56:12]
+[Chumon] zzzChumo_Redmi_2
+>GhSm1S 0x194：
+>我怎么没感觉黑白了？
+
+@0x194 刷新
+
+[09:56:20]
+[GhSm1S] 0x194
+而且beta客户端现在是不是用不了了
+
+[09:56:21]
+[GhSm1S] 0x194
+wowoc
+
+[09:56:30]
+[Chumon] zzzChumo_Redmi_2
+beta早转正了
+
+[09:56:36]
+[jga1nc] think_catching_ghost
+乐
+
+[09:56:41]
+[GhSm1S] 0x194
+可是
+
+[09:56:43]
+[GhSm1S] 0x194
+当我从左侧的侧边栏
+
+[09:56:48]
+[GhSm1S] 0x194
+点击了首页
+
+[09:56:52]
+[GhSm1S] 0x194
+还是原版客户端
+
+[09:56:53]
+[jga1nc] think_catching_ghost
+beta没有消息提示
+
+[09:56:54]
+[Chumon] zzzChumo_Redmi_2
+:!lookup nick @0x194 
+
+[09:56:55]
+[jga1nc] think_catching_ghost
+所以我现在不怎么用beya
+
+[09:57:03]
+[jga1nc] think_catching_ghost
+beta
+
+[09:57:05]
+[Chumon] zzzChumo_Redmi_2
+@0x194 缓存问题
+
+[09:57:06]
+[Chumon] zzzChumo_Redmi_2
+https://zzchat.eu.org/index.html?public
+
+[09:57:14]
+[Chumon] zzzChumo_Redmi_2
+这个
+
+[09:57:17]
+[Chumon] zzzChumo_Redmi_2
+试试
+
+[09:57:19]
+[eYFDHl] eee
+感动
+
+[09:57:29]
+[eYFDHl] eee
+zzChat的配色终于统一了
+
+[09:57:37]
+[GhSm1S] 0x194
+初墨nb ivi
+
+[09:57:37]
+[GhSm1S] 0x194
+·u·
+
+[09:57:53]
+[Chumon] zzzChumo_Redmi_2
+>eYFDHl eee：
+>zzChat的配色终于统一了
+
+@eee ？
+
+[09:57:53]
+[jga1nc] think_catching_ghost
+乐
+
+[09:58:14]
+[jga1nc] think_catching_ghost
+黑白配色
+
+[09:58:18]
+[jga1nc] think_catching_ghost
+乐
+
+[09:58:21]
+[Chumon] zzzChumo_Redmi_2
+过918会换回来
+
+[09:58:25]
+[Chumon] zzzChumo_Redmi_2
+1213再上一次黑白
+
+[09:58:34]
+[jga1nc] think_catching_ghost
+哦哦
+
+[09:58:35]
+[eYFDHl] eee
+https://echo.paperee.guru/
+
+[09:58:40]
+[jga1nc] think_catching_ghost
+因为918
+
+[09:58:40]
+[5hnPnj] orange
+现在人手开发一个chat
+
+[09:58:43]
+[eYFDHl] eee
+~~灰白配色~~
+
+[09:58:46]
+[jga1nc] think_catching_ghost
+@orange 我没有（乐
+
+[09:58:55]
+[Chumon] zzzChumo_Redmi_2
+还有1分钟
+
+[09:59:34]
+[jga1nc] think_catching_ghost
+乐
+
+[09:59:41]
+[GhSm1S] 0x194
+我也没有（乐）
+
+[10:00:30]
+[GhSm1S] 0x194
+但是你知道吗
+
+[10:00:39]
+[jga1nc] think_catching_ghost
+乐我这边完全没听到
+
+[10:00:41]
+[GhSm1S] 0x194
+我真有一个半成品
+
+[10:00:43]
+[Chumon] zzzChumo_Redmi_2
+md这边没装警报装置
+
+[10:00:47]
+[Chumon] zzzChumo_Redmi_2
+收不到
+
+[10:00:51]
+[GhSm1S] 0x194
+一个很垃圾的尝试成果
+
+[10:00:52]
+[eYFDHl] eee
+what 我这把没响
+
+[10:01:01]
+[jga1nc] think_catching_ghost
+乐
+
+[10:01:13]
+[GhSm1S] 0x194
+我这个半成品
+
+[10:01:27]
+[GhSm1S] 0x194
+完全是垃圾
+
+[10:01:29]
+[Chumon] zzzChumo_Redmi_2
+>eYFDHl eee：
+>what 我这把没响
+
+@eee 试鸣应该只在大城市响罢
+
+[10:01:33]
+[GhSm1S] 0x194
+但是欢迎大家来体验一下
+
+[10:01:38]
+[Chumon] zzzChumo_Redmi_2
+上一次是北上广深
+
+[10:01:43]
+[GhSm1S] 0x194
+https://meow-flax.vercel.app/
+
+[10:01:47]
+[jga1nc] think_catching_ghost
+乐
+
+[10:01:47]
+[5hnPnj] orange
+什么都不会的 orange 瑟瑟发抖
+
+[10:01:58]
+[eYFDHl] eee
+~~好吧 小乡村就算了~~
+
+[10:02:02]
+[Chumon] zzzChumo_Redmi_2
+卧槽我听到了
+
+[10:02:09]
+[jga1nc] think_catching_ghost
+虽然但是
+
+[10:02:13]
+[jga1nc] think_catching_ghost
+我希望
+
+[10:02:16]
+[jga1nc] think_catching_ghost
+918这种日子
+
+[10:02:22]
+[GhSm1S] 0x194
+ ~~是不是声音才传播到你这边~~
+
+[10:02:23]
+[jga1nc] think_catching_ghost
+不要成为
+
+[10:02:26]
+[jga1nc] think_catching_ghost
+1984里面的
+
+[10:02:31]
+[jga1nc] think_catching_ghost
+仇恨日
+
+[10:02:34]
+[jga1nc] think_catching_ghost
+（倒地
+
+[10:02:39]
+[5hnPnj] orange
+@0x194 vercel.app被墙了
+
+[10:02:42]
+[GhSm1S] 0x194
+焯
+
+[10:03:09]
+[GhSm1S] 0x194
+ ~~我想多了，我还以为你让我们不要在这一天谈论啥比话题~~
+
+[10:03:32]
+[Chumon] zzzChumo_Redmi_2
+Hyakuningiri是罢
+
+[10:03:55]
+[GhSm1S] 0x194
+我能不能把我的eu.org域名加进去
+
+[10:03:56]
+[5hnPnj] orange
+@0x194 绑定自定义就好了
+
+[10:04:10]
+[5hnPnj] orange
+有人会php吗
+
+[10:04:55]
+[5hnPnj] orange
+或者html
+
+[10:05:28]
+[GhSm1S] 0x194
+@zzzChumo_Redmi_2 他是html大佬（）
+
+[10:05:58]
+[GhSm1S] 0x194
+php，，，几乎没人会~~世界上最好的语言~~
+
+[10:06:08]
+[5hnPnj] orange
+@0x194 （）我知道
+
+[10:06:17]
+[GhSm1S] 0x194
+但是ee应该会一点
+
+[10:06:17]
+[5hnPnj] orange
+这东西比c++难多了
+
+[10:06:43]
+[Chumon] zzzChumo_Redmi_2
+我打算学php
+
+[10:06:48]
+[0/JM7u] 4O4
+初墨你在轰炸什么
+
+[10:06:57]
+[Chumon] zzzChumo_Redmi_2
+但是觉得入手门槛比node高
+
+[10:07:07]
+[Chumon] zzzChumo_Redmi_2
+>0/JM7u 4O4：
+>初墨你在轰炸什么
+
+@4O4 ？
+
+[10:07:11]
+[eYFDHl] eee
+php我只会一点
+
+[10:07:32]
+[eYFDHl] eee
+遇到什么不懂的bing会告诉我（不是）
+
+[10:07:42]
+[GhSm1S] 0x194
+谁不是呢（）
+
+[10:08:23]
+[GhSm1S] 0x194
+https://chat.pillows.net.eu.org/
+
+[10:08:40]
+[GhSm1S] 0x194
+来看看我的垃圾
+
+[10:08:43]
+[GhSm1S] 0x194
+选哪个test client
+
+[10:08:51]
+[GhSm1S] 0x194
+没有在线用户功能
+
+[10:09:16]
+[GhSm1S] 0x194
+功能就算垃圾
+
+[10:09:19]
+[GhSm1S] 0x194
+这里面不能带识别码
+
+[10:09:35]
+[GhSm1S] 0x194
+大家不要带识别码
+
+[10:09:38]
+[5hnPnj] orange
+@0x194 verlcel部署的？
+
+[10:10:20]
+[GhSm1S] 0x194
+对啊
+
+[10:10:42]
+[GhSm1S] 0x194
+vercel不能实时
+
+[10:10:50]
+[GhSm1S] 0x194
+我又套了一个实时服务
+
+[10:10:57]
+[GhSm1S] 0x194
+我看看叫什么
+
+[10:11:35]
+[5hnPnj] orange
+hi yo
+
+[10:11:42]
+[GhSm1S] 0x194
+叫pusher
+
+[10:14:36]
+[5hnPnj] orange
+hi
+
+[10:15:01]
+[Zvoxsl] jill
+( ﾟ∀。)
+
+[10:16:46]
+[Zvoxsl] jill
+怎么都有聊天网站
+
+[10:18:19]
+[None] Kamal3698
+Hai
+
+[10:18:25]
+[5hnPnj] orange
+hi
+
+[10:18:25]
+[GhSm1S] 0x194
+1
+这里的功能就是垃圾
+
+*
+ee joined
+
+1
+根本没有房间的概念
+
+ee
+草
+
+1
+也没有在线用户的概念
+
+1
+你知道吧
+
+1
+所以
+
+qwq
+az
+
+1
+根本不可能踢人
+
+[10:18:40]
+[5hnPnj] orange
+。
+
+[10:18:50]
+[None] Kamal3698
+Anybody
+
+[10:19:15]
+[eYFDHl] eee
+我那个聊天室连Markdown都不行（）
+
+[10:20:20]
+[GhSm1S] 0x194
+注：我是4n0n4me :)
+
+[10:22:13]
+[5hnPnj] orange
+啊啊啊？
+
+[10:22:27]
+[5hnPnj] orange
+我以为404是你
+
+[10:22:32]
+[GhSm1S] 0x194
+那个是hack4r（）
+
+[10:22:37]
+[5hnPnj] orange
+（）
+
+[10:22:40]
+[GhSm1S] 0x194
+我缓兵之计（）
+
+[10:22:44]
+[GhSm1S] 0x194
+如果小张来闹事
+
+[10:22:47]
+[GhSm1S] 0x194
+就认不出我
+
+[10:22:50]
+[GhSm1S] 0x194
+就不能闹事
+
+[10:22:53]
+[GhSm1S] 0x194
+（）
+
+[10:23:24]
+[5hnPnj] orange
+@0x194 十六进制下的404
+
+[10:24:21]
+[GhSm1S] 0x194
+我们要做青年大学习
+
+[10:24:46]
+[GhSm1S] 0x194
+全体都要做
+
+[10:24:49]
+[GhSm1S] 0x194
+裂开
+
+[10:24:51]
+[5hnPnj] orange
+这是什么
+
+[10:24:57]
+[0/JM7u] 4O4
+https://chat.pillows.net.eu.org/client.html
+
+[10:25:01]
+[Chumon] zzzChumo_Redmi_2
+我们已经做完了（
+
+[10:25:01]
+[tssNfd] thisisNOTccw
+为什么我写步骤就一大坨
+
+[10:26:13]
+[tssNfd] thisisNOTccw
+别人写步骤三两句就写完了
+
+[10:26:21]
+[5hnPnj] orange
+你比较认真）
+
+[10:26:41]
+[tssNfd] thisisNOTccw
+别人也是12分
+
+[10:27:05]
+[5hnPnj] orange
+扣点得分吧
+
+[10:27:19]
+[GhSm1S] 0x194
+md青年大学习页面和拼多多一样
+
+[10:27:48]
+[tssNfd] thisisNOTccw
+我怀疑又是那种什么“你们初学的时候要多写点步骤现在你们掌握了不用这么写了可以直接得”然后这句话我没听到
+
+[10:28:18]
+[5hnPnj] orange
+这句话我们老师经常说
+
+[10:28:35]
+[5hnPnj] orange
+然而我从来没这么做
+
+[10:28:39]
+[GhSm1S] 0x194
+青年大学习有点撒比啊
+
+[10:31:33]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+[10:31:43]
+[AAfFKK] _
+hm
+
+[10:32:01]
+[5hnPnj] orange
+tctd很久不来了吧
+
+[10:32:43]
+[tssNfd] thisisNOTccw
+上次来是叫我帮他写作业——
+
+[10:32:57]
+[5hnPnj] orange
+。。
+
+[10:33:15]
+[Chumon] zzzChumo_Redmi_2
+:!lookup nick @0x194 
+
+[10:33:42]
+[AAfFKK] _
+lol
+
+[10:34:18]
+[None] light
+?
+
+[10:34:21]
+[AAfFKK] _
+xd
+
+[10:34:22]
+[None] light
+我是真light
+
+[10:34:26]
+[GhSm1S] 0x194
+awa
+
+[10:34:33]
+[Chumon] zzzChumo_Redmi_2
+awa
+
+[10:34:34]
+[AAfFKK] _
+awa
+
+[10:34:37]
+[GhSm1S] 0x194
+你终于来了！！！
+
+[10:34:38]
+[None] light
+我什么时候卡出去的
+
+[10:34:39]
+[GhSm1S] 0x194
+正义之士！！！
+
+[10:34:43]
+[None] light
+~kick @0x194 我一点也不正义
+
+[10:34:59]
+[GhSm1S] 0x194
+...
+
+[10:35:05]
+[GhSm1S] 0x194
+我是404
+
+[10:35:07]
+[5hnPnj] orange
+az
+
+[10:35:07]
+[Chumon] zzzChumo_Redmi_2
+.m kick @light awa
+
+[10:35:14]
+[AAfFKK] _
+?
+
+[10:35:18]
+[AAfFKK] _
+awa
+
+[10:35:33]
+[NqByTq] light
+我去玩游戏了
+
+[10:35:37]
+[GhSm1S] 0x194
+我特地改名就是防止小张认出我
+
+[10:35:44]
+[GhSm1S] 0x194
+我希望你不要再在公屏、指名道姓的骂小张了
+
+[10:35:58]
+[NqByTq] light
+teardown竟然在4月份的时候出了正式版
+
+[10:36:00]
+[GhSm1S] 0x194
+防止小张轰炸
+
+[10:36:02]
+[NqByTq] light
+加了模组
+
+[10:36:14]
+[GhSm1S] 0x194
+我们可以用【某人】这个代词来骂
+
+[10:36:16]
+[NqByTq] light
+可以用lua做插件（虽然我不会
+
+[10:36:29]
+[NqByTq] light
+官方给了100多个模组
+
+[10:36:37]
+[NqByTq] light
+我去玩了
+
+[10:36:39]
+[NqByTq] light
+70元teardown据说已经卖了百万套了
+
+[10:37:07]
+[GhSm1S] 0x194
+awa
+
+[10:38:06]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+[10:38:06]
+[Chumon] zzzChumo_Redmi_2
+:!lookup nick @0x194 
+
+[10:39:14]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==P/YH8zNhXNpzdFs==: ['0x194']
+==Trips== for hash ==P/YH8zNhXNpzdFs==: ['GhSm1S']
+
+[10:39:14]
+[Chumon] zzzChumo_Redmi_2
+:!lookup nick light
+
+[10:39:23]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==vRxAG7ShYwCb3GM==: ['light']
+==Trips== for hash ==vRxAG7ShYwCb3GM==: ['NqByTq']
+
+[10:39:23]
+[GhSm1S] 0x194
+我还能不是404吗
+
+[10:39:33]
+[AAfFKK] _
+awa
+
+[10:39:34]
+[NqByTq] light
+找到一个rpg
+
+[10:39:41]
+[/9Br2y] 4n0n4me
+awa
+
+[10:39:44]
+[NqByTq] light
+https://teardownmods.com/index.php?/file/638-terrorists-kit-overhaul/
+
+[10:39:50]
+[GhSm1S] 0x194
+我们能不能制定一个规则体系
+
+[10:40:08]
+[GhSm1S] 0x194
+让我们yc用户
+
+[10:40:12]
+[GhSm1S] 0x194
+在使用权限的合理性、对yc的所有权等方面
+
+[10:40:22]
+[GhSm1S] 0x194
+尽可能追平xc的管理员
+
+[10:40:29]
+[Chumon] zzzChumo_Redmi_2
+DNS劫持hc（什
+
+[10:40:42]
+[5hnPnj] orange
+> 尽可能追平xc的管理员
+不是很理解
+
+[10:40:57]
+[Chumon] zzzChumo_Redmi_2
+劫持中国地区的DNS
+
+[10:41:23]
+[Chumon] zzzChumo_Redmi_2
+转到zzChat上
+
+[10:41:30]
+[Chumon] zzzChumo_Redmi_2
+（虽然很显然，不可能
+
+[10:41:40]
+[gRnqa/] Aice
+6
+
+[10:41:46]
+[5hnPnj] orange
+什么东西
+
+[10:42:36]
+[GhSm1S] 0x194
+xc的管理员声称
+
+[10:42:37]
+[GhSm1S] 0x194
+他们对xc的行动
+
+[10:42:40]
+[GhSm1S] 0x194
+有一切解释权
+
+[10:42:44]
+[GhSm1S] 0x194
+他们想干嘛就干嘛
+
+[10:42:50]
+[5hnPnj] orange
+我bing了XCHAT
+
+[10:42:50]
+[5hnPnj] orange
+结果
+
+[10:43:02]
+[5hnPnj] orange
+您所在的国家或地区要求使用严格的必应安全搜索设置，其过滤出的结果可能返回成人内容。要了解 您所在的国家或地区关于安全搜索要求的更多信息，请参阅 必应如何提交搜索结果。
+
+[10:43:05]
+[0/JM7u] 4O4
+ind
+
+[10:43:20]
+[5hnPnj] orange
+没有任何结果
+
+[10:43:31]
+[Chumon] zzzChumo_Redmi_2
+xchat.com
+
+[10:44:19]
+[Chumon] zzzChumo_Redmi_2
+awa
+
+[10:44:20]
+[NqByTq] light
+[![xpaaee.png](https://s1.ax1x.com/2022/09/18/xpaaee.png)](https://imgse.com/i/xpaaee)
+
+[10:44:45]
+[5hnPnj] orange
+艹
+
+[10:44:46]
+[5hnPnj] orange
+什么东西
+
+[10:44:55]
+[Chumon] zzzChumo_Redmi_2
+谁能搞个更改用户hosts的蠕虫病毒
+
+[10:44:57]
+[None] pavani
+Hii
+
+[10:45:04]
+[Chumon] zzzChumo_Redmi_2
+可以附着于chrome的那种
+
+[10:45:09]
+[5hnPnj] orange
+hi
+
+[10:45:16]
+[NqByTq] light
+看我这个游戏截图
+
+[10:45:23]
+[NqByTq] light
+心动吗
+
+[10:45:28]
+[Chumon] zzzChumo_Redmi_2
+把hack.chat的host改到我的服务器上
+
+[10:45:31]
+[NqByTq] light
+[![xpaNLD.png](https://s1.ax1x.com/2022/09/18/xpaNLD.png)](https://imgse.com/i/xpaNLD)
+
+[10:45:47]
+[5hnPnj] orange
+要真能就是0d漏洞了吧（
+
+[10:46:10]
+[5hnPnj] orange
+单纯访问一个网页就改变了host几乎不可能
+
+[10:46:55]
+[0/JM7u] 4O4
+ind
+
+[10:47:04]
+[5hnPnj] orange
+除非你说服他下载了什么东西（）
+
+[10:47:05]
+[0/JM7u] 4O4
+什么0day
+
+[10:47:20]
+[0/JM7u] 4O4
+hc的
+
+[10:47:22]
+[Chumon] zzzChumo_Redmi_2
+附着于chrome上
+
+[10:47:30]
+[0/JM7u] 4O4
+可以搞xc耶
+
+[10:47:33]
+[Chumon] zzzChumo_Redmi_2
+或者伪装成chrome
+
+[10:47:43]
+[5hnPnj] orange
+那简单
+
+[10:47:55]
+[5hnPnj] orange
+伪装成chrome安装包
+
+[10:48:00]
+[NqByTq] light
+[![xparWt.png](https://s1.ax1x.com/2022/09/18/xparWt.png)](https://imgse.com/i/xparWt)
+
+[10:48:03]
+[5hnPnj] orange
+（）
+
+[10:48:04]
+[NqByTq] light
+看这张
+
+[10:48:06]
+[Chumon] zzzChumo_Redmi_2
+这样在请求管理员权限的时候用户就不会起疑心
+
+[10:48:18]
+[Chumon] zzzChumo_Redmi_2
+然后神不知鬼不觉的把hosts改了
+
+[10:48:36]
+[Chumon] zzzChumo_Redmi_2
+对Linux来说几乎不可能
+
+[10:48:49]
+[Chumon] zzzChumo_Redmi_2
+但我们的对象是Windows
+
+[10:48:56]
+[5hnPnj] orange
+windows有点希望
+
+[10:48:57]
+[Chumon] zzzChumo_Redmi_2
+古老、腐朽的Windows
+
+[10:49:06]
+[5hnPnj] orange
+考虑另外一个问题
+
+[10:49:17]
+[5hnPnj] orange
+电脑上有杀毒软件
+
+[10:49:19]
+[5hnPnj] orange
+（）
+
+[10:49:20]
+[Chumon] zzzChumo_Redmi_2
+只有UAC而没有用户身份验证的Windows
+
+[10:49:27]
+[0/JM7u] 4O4
+我！要！0！day！
+
+[10:49:41]
+[Chumon] zzzChumo_Redmi_2
+>5hnPnj orange：
+>电脑上有杀毒软件
+
+@orange 针对新电脑
+
+[10:49:43]
+[None] pavani
+Hii
+
+[10:50:03]
+[Chumon] zzzChumo_Redmi_2
+比起360，更多人会先装浏览器
+
+[10:50:11]
+[5hnPnj] orange
+然后伪装成chrome安装包
+
+[10:50:17]
+[None] pavani
+Em cheastunav
+
+[10:50:21]
+[5hnPnj] orange
+你甚至可以
+
+[10:50:23]
+[GhSm1S] 0x194
+这样的人里面
+
+[10:50:30]
+[GhSm1S] 0x194
+有几个人会上hc的
+
+[10:50:34]
+[Chumon] zzzChumo_Redmi_2
+>5hnPnj orange：
+>然后伪装成chrome安装包
+
+@orange 它甚至是个蠕虫病毒，自我复制传播
+
+[10:50:38]
+[5hnPnj] orange
+将你的程序和真的安装包捆在一起（）
+
+[10:50:45]
+[5hnPnj] orange
+真的给他装一个chrome
+
+[10:50:58]
+[None] pavani
+Hii
+
+[10:51:02]
+[0/JM7u] 4O4
+https://chat.pillows.net.eu.org/client.html
+
+[10:51:19]
+[GhSm1S] 0x194
+怎么总是发我那个垃圾
+
+[10:51:21]
+[GhSm1S] 0x194
+stop!!!
+
+[10:51:24]
+[Chumon] zzzChumo_Redmi_2
+https://zzchat.eu.org/index.html?public
+
+[10:51:32]
+[Chumon] zzzChumo_Redmi_2
+https://zzchat.eu.org/index.html?public
+
+[10:51:36]
+[Chumon] zzzChumo_Redmi_2
+https://zzchat.eu.org/index.html?public
+
+[10:51:38]
+[Chumon] zzzChumo_Redmi_2
+我或许可以到GoDaddy用500元买下一个调解服务
+
+[10:52:10]
+[Chumon] zzzChumo_Redmi_2
+把hc的域名搞来（
+
+[10:52:18]
+[5hnPnj] orange
+zzchat的MD风我比较喜欢
+
+[10:52:19]
+[GhSm1S] 0x194
+我焯，别轰炸
+
+[10:52:35]
+[GhSm1S] 0x194
+pusher流量没了就不能用了
+
+[10:52:37]
+[Chumon] zzzChumo_Redmi_2
+蛤
+
+[10:52:48]
+[Chumon] zzzChumo_Redmi_2
+雨云土豆服务器，你值得拥有
+
+[10:52:59]
+[0/JM7u] 4O4
+@zzzChumo_Redmi_2 我要
+
+[10:53:09]
+[NqByTq] light
+[![xpaIWq.png](https://s1.ax1x.com/2022/09/18/xpaIWq.png)](https://imgse.com/i/xpaIWq)
+
+[10:53:11]
+[NqByTq] light
+像素神作
+
+[10:53:33]
+[Chumon] zzzChumo_Redmi_2
+雨云服务器挺好
+
+[10:53:49]
+[Chumon] zzzChumo_Redmi_2
+就是容易崩
+
+[10:54:30]
+[Chumon] zzzChumo_Redmi_2
+宿迁崩完香港崩，香港崩完加州崩
+
+[10:54:30]
+[Chumon] zzzChumo_Redmi_2
+加州崩完官网崩（
+
+[10:54:50]
+[Chumon] zzzChumo_Redmi_2
+而且你还要确保你服务器负载不会跑满
+
+[10:55:19]
+[0/JM7u] 4O4
+多少钱
+
+[10:55:26]
+[Chumon] zzzChumo_Redmi_2
+跑到90%以上容易被狐狸揍
+
+[10:55:36]
+[0/JM7u] 4O4
+美国香港都行
+
+[10:55:37]
+[5hnPnj] orange
+诶
+
+[10:55:44]
+[5hnPnj] orange
+我有个项目
+
+[10:55:49]
+[5hnPnj] orange
+是另外一个人买的树莓派
+
+[10:56:01]
+[5hnPnj] orange
+放在家里24h开机内网穿透
+
+[10:56:04]
+[0/JM7u] 4O4
+https://echo.paperee.guru/index.php
+
+[10:56:11]
+[Chumon] zzzChumo_Redmi_2
+>0/JM7u 4O4：
+>多少钱
+
+@4O4 推荐美国一区，2c2g100m+20G高防22
+
+[10:56:13]
+[5hnPnj] orange
+用这个当服务器
+
+[10:56:17]
+[0/JM7u] 4O4
+@orange 米兔
+
+[10:56:26]
+[Chumon] zzzChumo_Redmi_2
+公网ip另加5元
+
+[10:56:26]
+[NqByTq] light
+[![xpaLmF.png](https://s1.ax1x.com/2022/09/18/xpaLmF.png)](https://imgse.com/i/xpaLmF)
+
+[10:56:34]
+[Chumon] zzzChumo_Redmi_2
+香港的太贵了
+
+[10:56:38]
+[Chumon] zzzChumo_Redmi_2
+美国二区性价比不高
+
+[10:56:47]
+[Chumon] zzzChumo_Redmi_2
+__小心狐狸和林语__
+
+[10:58:10]
+[Chumon] zzzChumo_Redmi_2
+aw？
+
+[10:59:16]
+[Chumon] zzzChumo_Redmi_2
+人呢
+
+[10:59:43]
+[AAfFKK] AfK_Bot
+2022-09-18 11:00:00
+![](https://i.gyazo.com/aa410b279627fd17d65a8337348f8935.jpg)
+
+[10:59:43]
+[5hnPnj] orange
+消失了
+
+[11:01:23]
+[Chumon] zzzChumo_Redmi_2
+hi
+
+[11:01:27]
+[5hnPnj] orange
+hi
+
+[11:13:34]
+[NTThcC] 666
+hi
+
+[11:15:36]
+[NTThcC] 666
+hi
+
+[11:16:14]
+[5hnPnj] orange
+hi
+
+[11:16:48]
+[Chumon] zzzChumo_Redmi_2
+hi
+
+[11:16:48]
+[2ZQ3+0] Maggie
+dudamudamada
+
+[11:16:52]
+[2ZQ3+0] Maggie
+go to tc
+
+[11:16:56]
+[2ZQ3+0] Maggie
+new feature
+
+[11:16:59]
+[Chumon] zzzChumo_Redmi_2
+https://zzchat.eu.org/index.html?public
+
+[11:17:00]
+[Chumon] zzzChumo_Redmi_2
+go to zc
+
+[11:17:04]
+[Chumon] zzzChumo_Redmi_2
+new css
+
+[11:17:08]
+[2ZQ3+0] Maggie
+https://chat.thz.cool/?lounge
+
+[11:17:14]
+[2ZQ3+0] Maggie
+go to tc
+
+[11:17:19]
+[2ZQ3+0] Maggie
+and see the coolest captcha
+
+[11:17:27]
+[2ZQ3+0] Maggie
+and get authtrip
+
+[11:18:47]
+[Zvoxsl] jill
+我好像从没吃过绿苹果
+
+[11:20:00]
+[None] waqar
+Hi
+
+[11:20:04]
+[None] waqar
+Hi
+
+[11:20:16]
+[NqByTq] light
+[![xpwmE4.png](https://s1.ax1x.com/2022/09/18/xpwmE4.png)](https://imgse.com/i/xpwmE4)
+
+[11:20:18]
+[None] waqar
+Kia ho raha
+
+[11:20:31]
+[Zvoxsl] jill
+:o
+
+[11:20:46]
+[NqByTq] light
+真好玩
+
+[11:21:03]
+[2ZQ3+0] Maggie
+https://gyazo.com/bbacf5a4e381e22f3d6fc60816baaaa0
+
+[11:22:17]
+[2ZQ3+0] Maggie
+int
+
+[11:22:18]
+[NqByTq] light
+[![xpwMCR.png](https://s1.ax1x.com/2022/09/18/xpwMCR.png)](https://imgse.com/i/xpwMCR)
+
+[11:22:24]
+[eYFDHl] eee
+@light 这什么游戏）
+
+[11:23:12]
+[NqByTq] light
+teardown
+
+[11:23:38]
+[NqByTq] light
+[![xpwQ81.png](https://s1.ax1x.com/2022/09/18/xpwQ81.png)](https://imgse.com/i/xpwQ81)
+
+[11:23:45]
+[NqByTq] light
+你肯定心动了
+
+[11:23:48]
+[NqByTq] light
+不过对电脑的配置要求高
+
+[11:24:07]
+[NqByTq] light
+我现在用的最低配
+
+[11:24:17]
+[NqByTq] light
+画质不好
+
+[11:26:02]
+[None] preetham
+Hi
+
+[11:26:38]
+[GhSm1S] 0x194
+afk
+
+[11:26:41]
+[GhSm1S] 0x194
+uwu
+
+[11:26:44]
+[eYFDHl] eee
+哇
+
+[11:26:54]
+[eYFDHl] eee
+hi yo
+
+[11:27:23]
+[GhSm1S] 0x194
+hi yo
+
+[11:27:31]
+[GhSm1S] 0x194
+哇？
+
+[11:27:35]
+[2ZQ3+0] Maggie
+@0x194 tc
+
+[11:27:47]
+[eYFDHl] eee
+https://www.teardowngame.com/
+
+[11:32:17]
+[Chumon] zzzChumo_Redmi_2
+话说ee的服务器还没寄吗（
+
+[11:34:01]
+[2ZQ3+0] Maggie
+awa
+
+[11:36:07]
+[2ZQ3+0] Maggie
+[MONEY POWER]
+
+[11:36:16]
+[Chumon] zzzChumo_Redmi_2
+BRAIN POWER
+
+[11:36:34]
+[Chumon] zzzChumo_Redmi_2
+LET THE BASS KICK
+
+[11:36:45]
+[Chumon] zzzChumo_Redmi_2
+Ooooooo-AEIAUJOOOOIOOOOOOO
+
+[11:37:14]
+[eYFDHl] eee
+@zzzChumo_Redmi_2 快寄了
+
+[11:37:35]
+[eYFDHl] eee
+27号还28号
+
+[11:37:53]
+[2ZQ3+0] Maggie
+@zzzChumo_Redmi_2 tc
+
+[11:38:04]
+[Chumon] zzzChumo_Redmi_2
+果然还是自己买的服务器比较好（
+
+[11:40:33]
+[eYFDHl] eee
+到时候要换个更便宜的
+
+[11:43:53]
+[Chumon] zzzChumo_Redmi_2
+便宜的话
+
+[11:44:12]
+[Chumon] zzzChumo_Redmi_2
+还是找个人IDC或私有云吧
+
+[11:44:34]
+[Chumon] zzzChumo_Redmi_2
+不知道oneb1t的服务器怎么样
+
+[11:47:35]
+[eYFDHl] eee
+uw
+
+[11:47:44]
+[Chumon] zzzChumo_Redmi_2
+没找到什么便宜的VPS
+
+[11:49:35]
+[None] waqaru
+Gg
+
+[11:49:38]
+[Chumon] zzzChumo_Redmi_2
+我还是继续啃雨云罢
+
+[11:49:46]
+[Chumon] zzzChumo_Redmi_2
+（悲）
+
+[11:49:56]
+[Chumon] zzzChumo_Redmi_2
+狐狸就是个屑
+
+[11:59:48]
+[AAfFKK] _
+?
+
+[12:05:05]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+[12:05:05]
+[2ZQ3+0] Maggie
+tc
+
+[12:05:13]
+[AAfFKK] _
+owo
+
+[12:05:39]
+[AAfFKK] _
+shhit
+
+[12:06:30]
+[AAfFKK] _
+error from callback <bound method main.on_open of <__main__.main object at 0x7f00de09af80>>: Host unreachable
+
+[12:06:45]
+[AAfFKK] _
+qwq
+
+[12:06:46]
+[2ZQ3+0] Maggie
+qwq
+
+[12:10:24]
+[gRnqa/] Aice
+hi!
+
+[12:10:41]
+[jga1nc] tcg
+早
+
+[12:10:46]
+[gRnqa/] Aice
+早
+
+[12:10:57]
+[AAfFKK] _
+早
+
+[12:10:59]
+[2ZQ3+0] Maggie
+草
+
+[12:11:17]
+[jga1nc] tcg
+没发生什么吧
+
+[12:11:23]
+[2ZQ3+0] Maggie
+发生了
+
+[12:11:30]
+[2ZQ3+0] Maggie
+tc竟然增加了功能
+
+[12:11:39]
+[2ZQ3+0] Maggie
+怎么可能
+
+[12:11:43]
+[eYFDHl] eee
+gugrugruru
+
+[12:11:46]
+[2ZQ3+0] Maggie
+太恐怖了
+
+[12:12:17]
+[jga1nc] tcg
+gurugur
+
+[12:18:57]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+[12:18:57]
+[AAfFKK] _
+OOOOOOH
+
+[12:19:28]
+[AAfFKK] _
+:!help
+
+[12:19:32]
+[AAfFKK] _
+ge
+
+[12:19:35]
+[AAfFKK] AfK_Bot
+ @_ Your current identity : OWNER
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  ==:!send  :!setatblv  :!setjlmsg  :!findtrip  :!ignore  :!notice  :!addop  :!removeop  :!-.-  :!afkclear==
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[12:19:36]
+[AAfFKK] _
+>:
+
+[12:19:44]
+[AAfFKK] _
+:!help
+
+[12:20:02]
+[AAfFKK] AfK_Bot
+ @_ Your current identity : OWNER
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  ==:!send  :!setatblv  :!setjlmsg  :!findtrip  :!ignore  :!notice  :!addop  :!removeop  :!-.-  :!afkclear==
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[12:20:02]
+[AAfFKK] _
+8 sec
+
+[12:20:10]
+[AAfFKK] _
+:!help
+
+[12:20:15]
+[AAfFKK] AfK_Bot
+ @_ Your current identity : OWNER
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  ==:!send  :!setatblv  :!setjlmsg  :!findtrip  :!ignore  :!notice  :!addop  :!removeop  :!-.-  :!afkclear==
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[12:20:15]
+[AAfFKK] _
+hm
+
+[12:20:25]
+[AAfFKK] _
+¯\\\_(ツ)\_/¯
+
+[12:20:33]
+[jga1nc] TCG
+乐
+
+[12:20:39]
+[AAfFKK] _
+:!cookie @TCG 
+
+[12:20:47]
+[AAfFKK] _
+:!awa
+
+[12:20:56]
+[AAfFKK] _
+:!awa
+
+[12:21:24]
+[AAfFKK] _
+:!awa
+
+[12:21:55]
+[AAfFKK] AfK_Bot
+![](https://i.gyazo.com/20bc35a3a957bfb16d83901dfb4b286c.jpg)
+
+[12:21:55]
+[AAfFKK] _
+girg
+
+[12:22:01]
+[Chumon] zzzChumo_Redmi_2
+僕はチュモ、悪人です。
+
+[12:22:01]
+[AAfFKK] _
+girg
+
+[12:22:03]
+[AAfFKK] _
+:!awa
+
+[12:22:06]
+[AAfFKK] _
+:!awa
+
+[12:22:17]
+[AAfFKK] AfK_Bot
+![](https://i.gyazo.com/902d4eb85eeb7aeda393d6b42c781525.jpg)
+
+[12:22:18]
+[AAfFKK] _
+QQQQQ
+
+[12:22:23]
+[AAfFKK] AfK_Bot
+![](https://i.gyazo.com/fa8371fc53be133e59d3229794c92d21.jpg)
+
+[12:22:32]
+[AAfFKK] AfK_Bot
+![](https://i.gyazo.com/7e6c71a91f934f12462169687ff23408.jpg)
+
+[12:22:32]
+[jga1nc] TCG
+谢谢dpg
+
+[12:24:39]
+[GhSm1S] 0x194
+afk
+
+[12:24:40]
+[GhSm1S] 0x194
+uwu
+
+[12:25:06]
+[GhSm1S] 0x194
+·u·
+
+[12:27:39]
+[AAfFKK] _
+?
+
+[12:31:52]
+[jga1nc] TCG
+乐
+
+[12:31:56]
+[AAfFKK] _
+@TCG awa
+
+[12:48:50]
+[GhSm1S] 0x194
+afk
+
+[12:48:59]
+[NqByTq] light
+hi
+
+[12:50:57]
+[NqByTq] light
+我来啦
+
+[12:51:00]
+[NqByTq] light
+继续玩
+
+[12:51:02]
+[NqByTq] light
+我记得有个刀的模组
+
+[12:51:18]
+[NqByTq] light
+那个刀可以把视野劈成4瓣
+
+[12:51:45]
+[GhSm1S] 0x194
+wow
+
+[12:51:55]
+[NqByTq] light
+真好
+
+[12:52:26]
+[NqByTq] light
+我上一次玩没有模组所以有点无趣
+
+[12:52:38]
+[NqByTq] light
+但是现在好了
+
+[12:52:48]
+[GhSm1S] 0x194
+wow]
+
+[12:53:01]
+[GhSm1S] 0x194
+依稀记得
+
+[12:53:04]
+[GhSm1S] 0x194
+月一年前
+
+[12:53:08]
+[GhSm1S] 0x194
+约一年前
+
+[12:53:11]
+[GhSm1S] 0x194
+区里面有个学习python的活动
+
+[12:53:24]
+[GhSm1S] 0x194
+老师让我去
+
+[12:53:27]
+[jga1nc] TCG
+去做什么
+
+[12:53:35]
+[GhSm1S] 0x194
+他开营的时候
+
+[12:53:40]
+[GhSm1S] 0x194
+GhSm1S 0x194
+依稀记得
+
+GhSm1S 0x194
+月一年前
+
+GhSm1S 0x194
+约一年前
+
+GhSm1S 0x194
+区里面有个学习python的活动
+
+[12:53:45]
+[GhSm1S] 0x194
+（线上的活动）
+
+[12:53:51]
+[jga1nc] TCG
+乐
+
+[12:53:59]
+[GhSm1S] 0x194
+我就在看籽岷介绍teardown
+
+[12:54:00]
+[jga1nc] TCG
+乐
+
+[12:54:17]
+[NqByTq] light
+哈
+
+[12:54:18]
+[GhSm1S] 0x194
+拆毁 Teardown 物理沙盒巅峰 我的世界榜样
+https://b23.tv/BV15v411C7HK
+
+[12:54:22]
+[NqByTq] light
+为什么我同学跟我说籽岷玩迷你
+
+[12:54:33]
+[GhSm1S] 0x194
+呃呃
+
+[12:54:56]
+[GhSm1S] 0x194
+你同学是钓鱼的吧
+
+[12:55:02]
+[GhSm1S] 0x194
+或者就是被钓鱼的
+
+[12:55:06]
+[NqByTq] light
+2022年才出的正式版
+
+[12:55:19]
+[NqByTq] light
+1.1.0
+
+[12:55:22]
+[NqByTq] light
+1.0.0
+
+[12:56:01]
+[NqByTq] light
+我一开始是看老番茄知道的这个游戏
+
+[12:56:02]
+[None] Ashley
+I Need a help
+
+[12:56:15]
+[GhSm1S] 0x194
+what
+
+[12:56:36]
+[GhSm1S] 0x194
+**we are not hackers and know nothing about hack**
+
+[12:56:53]
+[None] Ashley
+I want a files of a Gmail Account can you help me
+
+[12:57:04]
+[GhSm1S] 0x194
+...?
+
+[12:57:09]
+[None] Ashley
+Could you do it
+
+[12:57:33]
+[NqByTq] light
+https://www.bilibili.com/video/BV1jS4y1Z7AY?spm_id_from=333.337.search-card.all.click
+
+[12:57:54]
+[NqByTq] light
+我要找这个模组
+
+[12:57:58]
+[NqByTq] light
+这个有点nb的
+
+[12:58:36]
+[NqByTq] light
+https://www.bilibili.com/video/BV1tW4y1q7rv?spm_id_from=333.337.search-card.all.click
+
+[12:58:38]
+[NqByTq] light
+这把我有了
+
+[12:59:43]
+[AAfFKK] AfK_Bot
+2022-09-18 13:00:00
+![](https://i.gyazo.com/bbb3f79c250e41ec3599cd378a783d69.jpg)
+
+[12:59:44]
+[GhSm1S] 0x194
+wow
+
+[13:03:49]
+[GhSm1S] 0x194
+帅啊
+
+[13:03:51]
+[GhSm1S] 0x194
+ ~~考虑一下B站开播，我给你打赏~~
+
+[13:03:59]
+[NqByTq] light
+.
+
+[13:04:53]
+[NqByTq] light
+我这画质
+
+[13:04:56]
+[NqByTq] light
+只有我自己可以忍受
+
+[13:14:14]
+[GhSm1S] 0x194
+uwu
+
+[13:15:50]
+[GhSm1S] 0x194
+awa
+
+[13:15:52]
+[GhSm1S] 0x194
+⚡See 骗 again⚡
+https://b23.tv/BV1mV4y1M7vS
+
+[13:19:08]
+[NTThcC] 666
+hi
+
+[13:19:08]
+[GhSm1S] 0x194
+⚡See 骗 again⚡
+https://b23.tv/BV1mV4y1M7vS
+
+[13:21:41]
+[25SJq6] BELUGA
+Finally !! :'')
+
+[13:21:50]
+[gRnqa/] Aice
+hi !
+
+[13:21:59]
+[25SJq6] BELUGA
+I am able to join this room
+
+[13:22:12]
+[25SJq6] BELUGA
+After 1000 years
+
+[13:22:25]
+[25SJq6] BELUGA
+@eee
+
+[13:22:30]
+[25SJq6] BELUGA
+@Maggie321\
+
+[13:22:40]
+[2ZQ3+0] Maggie321
+@BELUGA
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[13:22:40]
+[25SJq6] BELUGA
+@light
+
+[13:22:52]
+[AAfFKK] _
+yo
+
+[13:23:40]
+[None] MAHESHmahi123456
+Hiii
+
+[13:24:10]
+[GhSm1S] 0x194
+wow
+
+[13:26:21]
+[GhSm1S] 4n0n4me
+[正经语言科普]只因是怎么变成鸡的
+https://b23.tv/BV1Xe411T7e6
+
+[13:31:04]
+[gRnqa/] Aice
+666
+
+[13:42:24]
+[Chumon] zzzChumo_Redmi_2
+xdm我搞到手机卡了
+
+[13:42:35]
+[AAfFKK] _
+obo
+
+[13:42:48]
+[Chumon] zzzChumo_Redmi_2
+明天能在学校耍hc了
+
+[13:42:52]
+[AAfFKK] _
+OBO
+
+[13:43:08]
+[Chumon] zzzChumo_Redmi_2
+大屁股
+
+[13:44:48]
+[Chumon] zzzChumo_Redmi_2
+ji
+
+[13:44:58]
+[AAfFKK] _
+?
+
+[13:45:00]
+[Chumon] zzzChumo_Redmi_2
+hi
+
+[13:45:02]
+[AAfFKK] _
+obb
+
+[13:45:07]
+[Chumon] zzzChumo_Redmi_2
+jntm
+
+[13:45:14]
+[gRnqa/] Aice
+jnszstm 
+
+[13:45:20]
+[None] habeeb
+Hi
+
+[13:45:28]
+[gRnqa/] Aice
+hi 
+
+[13:45:37]
+[gRnqa/] Aice
+hi 
+
+[13:45:41]
+[Chumon] zzzChumo_Redmi_2
+hi
+
+[13:45:51]
+[None] habeeb
+Hello are you there
+
+[13:45:51]
+[AAfFKK] _
+zhji
+
+[13:46:02]
+[gRnqa/] Aice
+yes 
+
+[13:46:18]
+[None] Affu
+Hello
+
+[13:46:21]
+[gRnqa/] Aice
+hello 
+
+[13:46:27]
+[Chumon] zzzChumo_Redmi_2
+ばかやろう
+
+[13:48:08]
+[AAfFKK] _
+?
+
+[13:48:39]
+[AAfFKK] _
+yay
+
+[13:54:55]
+[NqByTq] light
+.
+
+[13:56:23]
+[geGDVS] Blaze
+.
+
+[13:57:42]
+[AAfFKK] _
+.
+
+[13:58:52]
+[GhSm1S] 0x194
+1
+
+[13:58:55]
+[GhSm1S] 0x194
+uwu
+
+[13:58:57]
+[eYFDHl] eee
+uwu
+
+[13:59:11]
+[AAfFKK] _
+uwu
+
+[13:59:28]
+[eYFDHl] eee
+我周一到周五看看能不能动社团的电脑上hc
+
+[13:59:44]
+[AAfFKK] AfK_Bot
+2022-09-18 14:00:00
+![](https://i.gyazo.com/2bbbd6b978f1e10d521410610bd15d8a.jpg)
+
+[13:59:44]
+[NTThcC] 666
+哇哦）
+
+[13:59:59]
+[AAfFKK] _
+?
+
+[14:00:03]
+[eYFDHl] eee
+ ~~我昨天刚入社 连活动地点都没去过~~
+
+[14:00:13]
+[geGDVS] Blaze
+awa
+
+[14:00:29]
+[AAfFKK] _
+pop
+
+[14:00:40]
+[eYFDHl] eee
+等混熟再看看能不能拿到也刑）
+
+[14:00:57]
+[gRnqa/] Aice
+干巴爹
+
+[14:01:48]
+[eYFDHl] eee
+www
+
+[14:03:06]
+[eYFDHl] eee
+我焯
+
+[14:03:31]
+[eYFDHl] eee
+作业
+
+[14:03:32]
+[eYFDHl] eee
+作业
+
+[14:03:41]
+[AAfFKK] _
+作业
+
+[14:03:47]
+[AAfFKK] _
+作业
+
+[14:03:53]
+[GhSm1S] 0x194
+hjh
+
+[14:03:59]
+[eYFDHl] eee
+下午5点多就得走了
+
+[14:04:07]
+[eYFDHl] eee
+hi yo
+
+[14:04:25]
+[None] xxc
+sb
+
+[14:04:33]
+[None] xxc
+ bnnnnnnnnnnnnnnnn
+
+[14:04:47]
+[None] xxc
+hkjhjhjhjh
+
+[14:04:48]
+[AAfFKK] _
+?
+
+[14:04:50]
+[None] xxc
+kkk
+
+[14:04:50]
+[None] xxc
+jjjjjjjjj
+
+[14:04:51]
+[None] xxc
+kkkkkkkkkkkk
+
+[14:04:52]
+[None] xxc
+ju
+
+[14:04:54]
+[AAfFKK] AfK_Bot
+ @xxc AKKKKK!!!!!
+
+[14:05:39]
+[AAfFKK] AfK_Bot
+Auto banned hash Q2fWeoufAIrR2fz for 3600.0s
+
+[14:05:58]
+[GhSm1S] 0x194
+woc?
+
+[14:06:12]
+[GhSm1S] 0x194
+[xc]
+
+[14:06:15]
+[GhSm1S] 0x194
+[sb]
+
+[14:06:17]
+[AAfFKK] _
+¯\\\_(ツ)\_/¯
+
+[14:06:21]
+[GhSm1S] 0x194
+but maybe keyboard distance
+
+[14:06:33]
+[GhSm1S] 0x194
+[z==xc==vbnm]
+
+[14:07:03]
+[None] AA
+ZDSS
+
+[14:07:28]
+[geGDVS] Blaze
+AWA?
+
+[14:07:53]
+[eYFDHl] eee
+哇
+
+[14:07:56]
+[geGDVS] Blaze
+.
+
+[14:08:14]
+[GhSm1S] 0x194
+提前和yc的各位道别（
+
+[14:08:16]
+[geGDVS] Blaze
+?
+
+[14:08:39]
+[gRnqa/] Aice
+是去补作业了吗（
+
+[14:08:41]
+[GhSm1S] 0x194
+不是
+
+[14:08:45]
+[GhSm1S] 0x194
+我自认为我在线时间是比较多的
+
+[14:08:55]
+[gRnqa/] Aice
+诶
+
+[14:09:02]
+[GhSm1S] 0x194
+有的人受到不可抗力要走了，我才和他们告别（）
+
+[14:09:10]
+[geGDVS] Blaze
+¯\\\_(ツ)\_/¯
+
+[14:09:15]
+[geGDVS] Blaze
+>
+
+[14:09:27]
+[gRnqa/] Aice
+:-O
+
+[14:09:30]
+[geGDVS] Blaze
+$$
+
+[14:09:44]
+[geGDVS] Blaze
+.
+
+[14:09:46]
+[geGDVS] Blaze
+$\$
+
+[14:09:50]
+[AAfFKK] _
+?
+
+[14:12:03]
+[AAfFKK] _
+@0x194 u everyday?
+
+[14:12:25]
+[GhSm1S] 0x194
+near
+
+[14:13:03]
+[GhSm1S] 0x194
+near everyday
+
+[14:13:06]
+[GhSm1S] 0x194
+almost everyday
+
+[14:13:08]
+[GhSm1S] 0x194
+well i am online everyday
+
+[14:13:13]
+[AAfFKK] _
+ovo
+
+[14:13:14]
+[GhSm1S] 0x194
+but fish is online more
+
+[14:13:18]
+[GhSm1S] 0x194
+he 996 for yc
+
+[14:13:23]
+[GhSm1S] 0x194
+:)
+
+[14:13:24]
+[AAfFKK] _
+i'm considering giving ya OWNER--
+
+[14:13:44]
+[AAfFKK] _
+`--`
+
+[14:13:52]
+[AAfFKK] _
+:!help
+
+[14:13:59]
+[AAfFKK] AfK_Bot
+ @_ Your current identity : OWNER
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  ==:!send  :!setatblv  :!setjlmsg  :!findtrip  :!ignore  :!notice  :!addop  :!removeop  :!-.-  :!afkclear==
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[14:13:59]
+[GhSm1S] 0x194
+eh
+
+[14:14:23]
+[GhSm1S] 0x194
+not necessary
+
+[14:14:27]
+[AAfFKK] _
+which means u may use all except :!send :!findtrip
+
+[14:14:30]
+[AAfFKK] _
+doing it
+
+[14:14:35]
+[AAfFKK] _
+:!lookup nick @0x194 
+
+[14:15:11]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==P/YH8zNhXNpzdFs==: ['0x194', '4n0n4me']
+==Trips== for hash ==P/YH8zNhXNpzdFs==: ['GhSm1S', '/9Br2y']
+
+[14:15:11]
+[AAfFKK] _
+geek
+
+[14:15:13]
+[NqByTq] light
+awa
+
+[14:15:18]
+[GhSm1S] 0x194
+ ~~in weekdays i miss ee dpg light chumo much, and afk_bot.~~
+
+[14:15:28]
+[GhSm1S] 0x194
+~~i dont see it fully online~~
+
+[14:15:30]
+[AAfFKK] _
+ /9Br2y <- authtrip?
+
+[14:15:36]
+[NqByTq] light
+?
+
+[14:15:38]
+[GhSm1S] 0x194
+yes
+
+[14:15:40]
+[GhSm1S] 0x194
+uwu
+
+[14:15:43]
+[AAfFKK] _
+ok
+
+[14:15:45]
+[geGDVS] Blaze
+?
+
+[14:15:58]
+[GhSm1S] 0x194
+《反对党八股》
+
+[14:16:19]
+[GhSm1S] 0x194
+【知识串讲】《反对党八股（节选）／毛泽东》-部编人教版 统编版 高中语文 教材 必修 上册   YW201-088,高一，上学期
+https://b23.tv/BV1q4411o7Rf
+
+[14:16:25]
+[GhSm1S] 0x194
+老师让我们看这个 :|
+
+[14:16:33]
+[AAfFKK] _
+\-\-
+
+[14:21:24]
+[AAfFKK] _
+obobo-
+
+[14:21:52]
+[geGDVS] Blaze
+ovovovoovoovovovovovovvovovovovovoovvovovoovvovovovovovovo
+
+[14:22:33]
+[GhSm1S] 0x194
+obobo-
+
+[14:23:09]
+[GhSm1S] 0x194
+ovovo
+
+[14:24:56]
+[None] arrti
+hee
+
+[14:26:51]
+[AAfFKK] _
+alright
+
+[14:27:05]
+[AAfFKK] _
+@AfK_Bot 重启
+
+[14:27:13]
+[AAfFKK] _
+awa
+
+[14:27:17]
+[NqByTq] light
+[![xpybdK.png](https://s1.ax1x.com/2022/09/18/xpybdK.png)](https://imgse.com/i/xpybdK)
+
+[14:27:32]
+[NqByTq] light
+画质真的烂
+
+[14:28:25]
+[NqByTq] light
+电脑带不动高配置的:(
+
+[14:28:34]
+[geGDVS] Blaze
+awa
+
+[14:30:05]
+[NqByTq] light
+[![xpyOiD.png](https://s1.ax1x.com/2022/09/18/xpyOiD.png)](https://imgse.com/i/xpyOiD)
+
+[14:30:08]
+[NqByTq] light
+小地图我能到这样的
+
+[14:30:36]
+[eYFDHl] eee
+麻了 电脑太拉
+
+[14:30:47]
+[None] Nat
+hey
+
+[14:30:51]
+[eYFDHl] eee
+teardown点都点不开
+
+[14:30:58]
+[NqByTq] light
+hhh
+
+[14:31:16]
+[None] Nat
+whats upp
+
+[14:31:19]
+[eYFDHl] eee
+:(
+
+[14:31:23]
+[None] ammu
+@eee hiii
+
+[14:31:28]
+[None] Nat
+how are u all
+
+[14:31:29]
+[None] ammu
+Fine
+
+[14:31:37]
+[None] Nat
+are u real ppl
+
+[14:31:38]
+[eYFDHl] eee
+my game can't be opened
+
+[14:31:41]
+[NqByTq] light
+设置里面可以调画质
+
+[14:31:44]
+[GhSm1S] 0x194
+what game?
+
+[14:31:49]
+[GhSm1S] 0x194
+teardown??
+
+[14:31:51]
+[GhSm1S] 0x194
+it is 70$!
+
+[14:31:55]
+[eYFDHl] eee
+yep
+
+[14:31:56]
+[None] Nat
+good 4 u
+
+[14:31:57]
+[eYFDHl] eee
+~~我在网上随便找的~~
+
+[14:32:07]
+[NqByTq] light
+[![xpyjRH.png](https://s1.ax1x.com/2022/09/18/xpyjRH.png)](https://imgse.com/i/xpyjRH)
+
+[14:32:07]
+[eYFDHl] eee
+结果点不开
+
+[14:32:10]
+[eYFDHl] eee
+@ammu @Nat hihi
+
+[14:32:21]
+[None] Nat
+sorry
+
+[14:32:24]
+[GhSm1S] 0x194
+maybe that version is bad
+
+[14:32:28]
+[NqByTq] light
+把那两个调到最低就行了
+
+[14:32:30]
+[None] Nat
+@eee hi
+
+[14:32:30]
+[NqByTq] light
+low 和 50%
+
+[14:32:33]
+[None] Nat
+@eee are u rohit?
+
+[14:32:52]
+[geGDVS] Blaze
+?
+
+[14:33:21]
+[None] Nat
+i am so bored yall
+
+[14:33:22]
+[None] Nat
+and its 2:33am
+
+[14:34:05]
+[None] Nat
+yo was good john
+
+[14:34:13]
+[z1tg7/] John
+好
+
+[14:34:28]
+[None] Nat
+i am english yall
+
+[14:34:29]
+[eYFDHl] eee
+i am Chinese
+
+[14:34:42]
+[eYFDHl] eee
+but it doesn't matter
+
+[14:34:57]
+[z1tg7/] John
+iam Chinese too
+
+[14:35:06]
+[None] Nat
+lol
+
+[14:35:08]
+[AAfFKK] _
+lol
+
+[14:35:12]
+[GhSm1S] 0x194
+wow
+
+[14:35:14]
+[GhSm1S] 0x194
+somebody is sb
+
+[14:35:18]
+[eYFDHl] eee
+it's 14:35 here
+
+[14:35:18]
+[eYFDHl] eee
+lol
+
+[14:35:28]
+[None] Nat
+hows life yall
+
+[14:35:32]
+[z1tg7/] John
+不过总感觉你不是英国的
+
+[14:35:38]
+[eYFDHl] eee
+@light 然而给我抛出一个错误
+
+[14:36:02]
+[None] Nat
+ugh im so nervous
+
+[14:36:04]
+[z1tg7/] John
+额 
+
+[14:36:21]
+[z1tg7/] John
+点错了
+
+[14:37:21]
+[None] Nat
+im gonna have a baby
+
+[14:38:02]
+[z1tg7/] John
+really
+
+[14:38:15]
+[NqByTq] light
+?
+
+[14:38:32]
+[NqByTq] light
+什么意思
+
+[14:38:35]
+[None] Nat
+yea
+
+[14:38:58]
+[eYFDHl] eee
+https://img.thz.cool/images/2022/09/18/a89b4e68d36ad4e3ccf12d4493df1d1a.png
+
+[14:39:06]
+[NqByTq] light
+[![xp68W4.png](https://s1.ax1x.com/2022/09/18/xp68W4.png)](https://imgse.com/i/xp68W4)
+
+[14:39:12]
+[None] Nat
+im due in a few hours acutally
+
+[14:39:14]
+[z1tg7/] John
+you 
+
+[14:39:24]
+[z1tg7/] John
+you are kidding 
+
+[14:39:27]
+[NqByTq] light
+:O
+
+[14:39:31]
+[NqByTq] light
+这是启动的
+
+[14:39:34]
+[NqByTq] light
+另外三个文件也要解压
+
+[14:39:41]
+[NqByTq] light
+:|
+
+[14:39:43]
+[NqByTq] light
+@eee 
+
+[14:39:45]
+[NqByTq] light
+@John ?
+
+[14:39:50]
+[GhSm1S] 0x194
+https://jingyan.baidu.com/article/335530dafaf33519ca41c310.html
+
+[14:39:53]
+[z1tg7/] John
+# 无聊
+
+[14:39:53]
+[eYFDHl] eee
+对 我全解压了
+
+[14:39:54]
+[NqByTq] light
+你是什么系统
+
+[14:40:08]
+[NqByTq] light
+@John ?
+
+[14:40:10]
+[NqByTq] light
+你是谁
+
+[14:40:15]
+[z1tg7/] John
+我以前就来过
+
+[14:40:25]
+[None] Nat
+pls no dick pics
+
+[14:40:33]
+[z1tg7/] John
+我还有个名字叫Mg
+
+[14:40:41]
+[GhSm1S] 0x194
+?
+
+[14:40:47]
+[AAfFKK] _
+24
+
+[14:40:47]
+[GhSm1S] 0x194
+maybe i am wrong?
+
+[14:40:51]
+[GhSm1S] 0x194
+@Nat no no no... this is not such bad place
+
+[14:40:55]
+[z1tg7/] John
+我见过你@light
+
+[14:41:02]
+[GhSm1S] 0x194
+they are game pics
+
+[14:41:23]
+[None] Nat
+good
+
+[14:41:27]
+[NqByTq] light
+?
+
+[14:41:27]
+[NqByTq] light
+you are framed
+
+[14:41:30]
+[eYFDHl] eee
+我好像见过叫Mg的
+
+[14:41:31]
+[z1tg7/] John
+掉了
+
+[14:41:32]
+[AAfFKK] _
+?
+
+[14:41:37]
+[eYFDHl] eee
+hh
+
+[14:41:39]
+[NqByTq] light
+you are framed
+
+[14:42:04]
+[None] ywysyy
+hi
+
+[14:42:07]
+[Zvoxsl] jill
+;
+
+[14:42:08]
+[GhSm1S] 0x194
+@ywysyy wow is that ready?
+
+[14:42:15]
+[z1tg7/] John
+以前这里有个叫fuck的机器人
+
+[14:42:19]
+[GhSm1S] 0x194
+well seems good
+
+[14:42:23]
+[AAfFKK] _
+?
+
+[14:42:36]
+[NqByTq] light
+@John you are framed?
+
+[14:43:05]
+[GhSm1S] 0x194
+@John woc
+
+[14:43:06]
+[None] Nat
+my due date for my baby is today\
+
+[14:43:10]
+[GhSm1S] 0x194
+什么以前
+
+[14:43:11]
+[GhSm1S] 0x194
+是几几年的时候啊（）
+
+[14:43:22]
+[z1tg7/] John
+不到
+
+[14:43:30]
+[z1tg7/] John
+忘了
+
+[14:43:35]
+[GhSm1S] 0x194
+@light maybe i am wrong.
+
+[14:43:39]
+[GhSm1S] 0x194
+@light are you in the era of fick bot?
+
+[14:43:48]
+[geGDVS] Blaze
+awa?
+
+[14:43:51]
+[GhSm1S] 0x194
+*fuck
+
+[14:43:54]
+[z1tg7/] John
+十字街为毛进不去了
+
+[14:44:14]
+[GhSm1S] 0x194
+这个时间线对吗（疑惑）
+
+[14:44:25]
+[z1tg7/] John
+# 现在进不去了
+
+[14:44:37]
+[GhSm1S] 0x194
+我怎么进的去
+
+[14:44:50]
+[GhSm1S] 0x194
+1
+
+[14:44:51]
+[NqByTq] light
+fuck就是几个月前的
+
+[14:44:51]
+[GhSm1S] 0x194
+？
+
+[14:44:54]
+[GhSm1S] 0x194
+light你时间错乱了吗（）
+
+[14:45:03]
+[z1tg7/] John
+？
+
+[14:45:06]
+[GhSm1S] 0x194
+几个月前，照你这么说那时候我都在
+
+[14:45:11]
+[z1tg7/] John
+几个月前？
+
+[14:45:15]
+[None] Nat
+can yall talk to me too?
+
+[14:45:26]
+[NqByTq] light
+?
+
+[14:45:30]
+[NqByTq] light
+就是几个月
+
+[14:45:34]
+[z1tg7/] John
+大概是一年前我见到额那个机器人
+
+[14:45:36]
+[None] Nat
+yall leavin the pregnant mama over hear alone yall
+
+[14:45:41]
+[NqByTq] light
+7到10个月
+
+[14:45:43]
+[GhSm1S] 0x194
+emm is a bot called 'fuck' just months ago?
+
+[14:45:48]
+[GhSm1S] 0x194
+instead of years ago?
+
+[14:45:53]
+[eYFDHl] eee
+对 是一年前
+
+[14:45:55]
+[GhSm1S] 0x194
+wowoc
+
+[14:45:59]
+[GhSm1S] 0x194
+i dont know history well
+
+[14:46:07]
+[z1tg7/] John
+后来我又回来别人告诉我那个背撤掉了
+
+[14:46:07]
+[NqByTq] light
+[![xpcZtO.png](https://s1.ax1x.com/2022/09/18/xpcZtO.png)](https://imgse.com/i/xpcZtO)
+
+[14:46:15]
+[eYFDHl] eee
+我第一次来的时候就有fuck
+
+[14:46:18]
+[None] Nat
+whattttt
+
+[14:46:18]
+[NqByTq] light
+怎么破坏这个
+
+[14:46:25]
+[NqByTq] light
+给点建议
+
+[14:46:28]
+[None] Nat
+i swear if i see one dick pic
+
+[14:46:35]
+[eYFDHl] eee
+我焯
+
+[14:46:45]
+[GhSm1S] 0x194
+@Nat ... no dick pic
+
+[14:46:45]
+[z1tg7/] John
+火箭筒
+
+[14:46:51]
+[eYFDHl] eee
+地震了？！
+
+[14:46:55]
+[z1tg7/] John
+突击强
+
+[14:46:56]
+[AAfFKK] _
+?
+
+[14:47:01]
+[GhSm1S] 0x194
+we users are not any willing to send dick pic
+
+[14:47:02]
+[eYFDHl] eee
+草
+
+[14:47:06]
+[GhSm1S] 0x194
+it's privacy
+
+[14:47:06]
+[eYFDHl] eee
+草草
+
+[14:47:07]
+[GhSm1S] 0x194
+we are not the ones you see in 4chan
+
+[14:47:14]
+[AAfFKK] _
+?
+
+[14:47:24]
+[geGDVS] Blaze
+......
+
+[14:47:29]
+[NqByTq] light
+?
+
+[14:47:32]
+[NqByTq] light
+c
+
+[14:47:33]
+[geGDVS] Blaze
+f
+
+[14:47:37]
+[NqByTq] light
+台湾确实地震
+
+[14:47:40]
+[GhSm1S] 0x194
+@John you can use grenade
+
+[14:47:41]
+[GhSm1S] 0x194
+i think RPG is good too
+
+[14:48:07]
+[AAfFKK] _
+DPG
+
+[14:48:10]
+[NqByTq] light
+是不是靠得太近被zheng到了
+
+[14:48:11]
+[z1tg7/] John
+话说eee我貌似好像大概应该见过你啊
+
+[14:48:14]
+[GhSm1S] 0x194
+RPG火箭筒
+
+[14:48:19]
+[NqByTq] light
+[![xpcoE6.png](https://s1.ax1x.com/2022/09/18/xpcoE6.png)](https://imgse.com/i/xpcoE6)
+
+[14:48:19]
+[eYFDHl] eee
+我在广东汕头
+
+[14:48:24]
+[NqByTq] light
+火箭筒是哪个世纪的小玩意儿
+
+[14:48:29]
+[eYFDHl] eee
+@John 我也见过你
+
+[14:48:30]
+[NqByTq] light
+我这把叫毁灭者
+
+[14:48:36]
+[GhSm1S] 0x194
+wow，帅啊
+
+[14:48:36]
+[GhSm1S] 0x194
+广东离台湾挺近的吧
+
+[14:48:44]
+[AAfFKK] _
+use DPG instead(
+
+[14:48:44]
+[z1tg7/] John
+小男孩
+
+[14:48:47]
+[z1tg7/] John
+或者
+
+[14:48:54]
+[z1tg7/] John
+大伊万
+
+[14:49:06]
+[GhSm1S] 0x194
+i am so glad that users from old times return here @John 
+
+[14:49:37]
+[None] Nat
+https://ibb.co/gd8SpdC
+
+[14:49:53]
+[geGDVS] Blaze
+DPG火箭筒
+
+[14:49:54]
+[GhSm1S] 0x194
+doge
+
+[14:49:54]
+[geGDVS] Blaze
+awa
+
+[14:49:56]
+[AAfFKK] _
+ancient
+
+[14:49:56]
+[Zvoxsl] jill
+蛤
+
+[14:50:05]
+[Zvoxsl] jill
+小区业主群又开始炸了
+
+[14:50:11]
+[NqByTq] light
+[![xpcjKA.png](https://s1.ax1x.com/2022/09/18/xpcjKA.png)](https://imgse.com/i/xpcjKA)
+
+[14:50:13]
+[NqByTq] light
+物理枪！
+
+[14:50:18]
+[eYFDHl] eee
+哇
+
+[14:50:30]
+[z1tg7/] John
+T0/T1轻坦克
+
+[14:50:49]
+[None] Nat
+is my baby cute
+
+[14:51:31]
+[GhSm1S] 0x194
+wow
+
+[14:52:05]
+[geGDVS] Blaze
+awa
+
+[14:52:06]
+[GhSm1S] 0x194
+congratulations
+
+[14:52:08]
+[None] Nat
+she wasnt born yet
+
+[14:52:24]
+[None] Nat
+my due date is today acutally
+
+[14:52:36]
+[z1tg7/] John
+楼下有个“小可爱”特么一直在唱歌拿个麦克风唱，唱的还难听
+
+[14:52:39]
+[z1tg7/] John
+我现在想请他喝热水
+
+[14:52:58]
+[geGDVS] Blaze
+a
+
+[14:53:14]
+[z1tg7/] John
+给他洗个热水澡
+
+[14:53:14]
+[NqByTq] light
+不好意思
+
+[14:53:17]
+[NqByTq] light
+[![xpgEKs.png](https://s1.ax1x.com/2022/09/18/xpgEKs.png)](https://imgse.com/i/xpgEKs)
+
+[14:53:18]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+[14:53:18]
+[AAfFKK] _
+finally
+
+[14:53:22]
+[NqByTq] light
+白宫被我炸了
+
+[14:53:25]
+[AAfFKK] _
+:!help
+
+[14:53:26]
+[None] Nat
+wyd
+
+[14:53:27]
+[AAfFKK] AfK_Bot
+ @_ Your current identity : OWNER
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  ==__:!send__  :!setatblv  :!setjlmsg  __:!findtrip__  :!ignore  :!notice  :!addop  :!removeop  :!-.-  :!afkclear==
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[14:53:28]
+[GhSm1S] 0x194
+the launch of the afkbot is slow?
+
+[14:53:35]
+[GhSm1S] 0x194
+is it because checking proxy?
+
+[14:53:44]
+[AAfFKK] _
+@0x194 try :!help
+
+[14:53:47]
+[AAfFKK] _
+ind
+
+[14:53:48]
+[None] Nat
+AH
+
+[14:53:53]
+[GhSm1S] 0x194
+:!help
+
+[14:53:55]
+[AAfFKK] AfK_Bot
+ @0x194 Your current identity : USER
+Usable commands:
+>:!help  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!getbwd  :!getwhl  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!afk  :!afklist  :!getstats  :!hug  :!cookie  :!shoot  :!awa
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[14:53:55]
+[AAfFKK] _
+e
+
+[14:53:58]
+[GhSm1S] 0x194
+uwu
+
+[14:54:01]
+[AAfFKK] _
+use authtrip
+
+[14:54:02]
+[GhSm1S] 0x194
+:)
+
+[14:54:03]
+[AAfFKK] _
+awa
+
+[14:54:04]
+[None] Nat
+STUPID ASS BOTS BRO
+
+[14:54:09]
+[/9Br2y] 4n0n4me
+uwu
+
+[14:54:12]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+[14:54:12]
+[/9Br2y] 4n0n4me
+:!help
+
+[14:54:13]
+[AAfFKK] AfK_Bot
+ @4n0n4me Your current identity : OWNER-
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  ==:!setatblv  :!setjlmsg  :!ignore  :!notice  :!addop  :!removeop  :!-.-  :!afkclear==
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+[14:54:14]
+[AAfFKK] _
+awa!
+
+[14:54:20]
+[/9Br2y] 4n0n4me
+thanks!!!
+
+[14:54:21]
+[/9Br2y] 4n0n4me
+awa!!!
+
+[14:54:33]
+[/9Br2y] 4n0n4me
+obb(fish-ish)
+
+[14:54:40]
+[None] Nat
+are u making baby crying sounds
+
+[14:54:42]
+[AAfFKK] _
+ooob
+
+[14:54:43]
+[/9Br2y] 4n0n4me
+e awa is something like ascii art or emoji
+
+[14:55:05]
+[/9Br2y] 4n0n4me
+awa looks cute
+
+[14:55:10]
+[None] Nat
+listen i didnt have a dick in me for no reason okay
+
+[14:55:16]
+[AAfFKK] _
+hm
+
+[14:55:18]
+[AAfFKK] _
+aqa
+
+[14:55:24]
+[/9Br2y] 4n0n4me
+grass
+
+[14:55:24]
+[/9Br2y] 4n0n4me
+he is kicked ;
+
+[14:55:32]
+[/9Br2y] 4n0n4me
+well he or she?
+
+[14:55:50]
+[/9Br2y] 4n0n4me
+english so inconvenient
+
+[14:56:00]
+[/9Br2y] 4n0n4me
+well i choose ze
+
+[14:56:08]
+[AAfFKK] _
+;
+
+[14:56:18]
+[NqByTq] light
+旗子竟然无法破坏
+
+[14:56:22]
+[GhSm1S] 0x194
+《zzzq》
+
+[14:57:34]
+[GhSm1S] 0x194
+毕竟是美国发行的游戏
+
+[14:57:39]
+[GhSm1S] 0x194
+对吧
+
+[14:57:41]
+[GhSm1S] 0x194
+你能破坏美国建筑已经很不错了
+
+[14:57:54]
+[AAfFKK] _
+nwn
+
+[14:59:43]
+[AAfFKK] AfK_Bot
+2022-09-18 15:00:00
+![](https://i.gyazo.com/2d4801e6e6b4296fb9cee026907684b8.png)
+
+[14:59:43]
+[eYFDHl] eee
+（）
+
+[15:00:15]
+[eYFDHl] eee
+好像有沙盒模式来着
+
+[15:00:26]
+[eYFDHl] eee
+不知道能不能破坏（
+
+[15:00:36]
+[NqByTq] light
+。
+
+[15:01:50]
+[NqByTq] light
+那是模组
+
+[15:01:55]
+[NqByTq] light
+我下的模组
+
+[15:02:00]
+[NqByTq] light
+那个作者
+
+[15:02:02]
+[eYFDHl] eee
+wow
+
+[15:02:04]
+[NqByTq] light
+因该设置了不让破坏
+
+[15:02:10]
+[NqByTq] light
+你打开了吗
+
+[15:02:31]
+[NqByTq] light
+？
+
+[15:02:32]
+[NqByTq] light
+eee
+
+[15:02:33]
+[NqByTq] light
+@eee 
+
+[15:03:05]
+[NqByTq] light
+你现在能玩吗
+
+[15:03:12]
+[eYFDHl] eee
+然鹅不能（
+
+[15:03:25]
+[NqByTq] light
+模组你去搜下怎么下载
+
+[15:03:25]
+[NqByTq] light
+。
+
+[15:03:27]
+[NqByTq] light
+你重新下一个
+
+[15:03:33]
+[GhSm1S] 0x194
+light你玩的是正版吗
+
+[15:04:35]
+[NqByTq] light
+不是啊
+
+[15:04:44]
+[NqByTq] light
+我怎么可能买得起正版
+
+[15:04:54]
+[NqByTq] light
+不过都是一样的
+
+[15:05:02]
+[GhSm1S] 0x194
+好家伙
+
+[15:05:14]
+[GhSm1S] 0x194
+我听别人说
+
+[15:05:16]
+[GhSm1S] 0x194
+盗版没有模组
+
+[15:05:20]
+[GhSm1S] 0x194
+（这个正版也太贵了）
+
+[15:05:26]
+[NqByTq] light
+？
+
+[15:05:39]
+[NqByTq] light
+有的啊
+
+[15:05:42]
+[NqByTq] light
+正版和盗版一点区别没有
+
+[15:06:41]
+[eYFDHl] eeee
+然而估计今天没时间了
+
+[15:06:46]
+[NqByTq] light
+az
+
+[15:06:50]
+[eYFDHl] eeee
+作业没写完
+
+[15:06:52]
+[NqByTq] light
+aw
+
+[15:06:59]
+[eYFDHl] eeee
+~~两个半小时后去学校~~
+
+[15:07:00]
+[eYFDHl] eeee
+uw
+
+[15:07:02]
+[NqByTq] light
+我也要写了
+
+[15:07:03]
+[eYFDHl] eeee
+草
+
+[15:07:08]
+[GhSm1S] 0x194
+- ·
+
+[15:07:12]
+[GhSm1S] 0x194
+加油！加油！
+
+[15:07:20]
+[eYFDHl] eeee
+加油加油加油！
+
+[15:07:26]
+[NqByTq] light
+gogoogogogo
+
+[15:07:45]
+[NqByTq] light
+我去写了
+
+[15:07:50]
+[eYFDHl] eeee
+me 2
+
+[15:07:56]
+[AAfFKK] _
+let me see
+
+[15:14:25]
+[AAfFKK] _
+:!lookup nick @AfK_Bot -a
+
+[15:14:33]
+[AAfFKK] AfK_Bot
+==Hash==: ['r8Jj/wztg9M9XD1', 'SgkoE4RucMyxb+d', 'sGb9dLLLevkb33/', 'Axs/ertMEiUx3ZU', 'Wh4IJruTUPmVIyf', 'qm7peJaIh2iSJKl', 'g+9/3Hxnoe5Na0W', 'Smmi9riTzkjCuz6', 'Q4ZI5Emsg9Qdujr']
+==Aliases==: ['{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}', '{', 'AfK_Bot', '}']
+==Trips==: ['{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}', '{', 'AAfFKK', '}']
+
+[15:14:33]
+[AAfFKK] _
+gorky
+
+[15:19:06]
+[geGDVS] Blaze
+?
+
+[15:20:27]
+[5q2Qle] AfKBot
+awa
+
+[15:20:38]
+[geGDVS] Blaze
+¯\\\_(ツ)\_/¯
+
+[15:22:44]
+[None] kiko
+hola
+
+[15:25:53]
+[None] kiko
+hola
+
+[15:25:57]
+[gRnqa/] Aice
+hola
+
+[15:26:14]
+[None] kiko
+me pregutabas si me gusta duro
+
+[15:26:34]
+[None] kiko
+@Aice hola
+
+[15:28:35]
+[gRnqa/] Aice
+hola!
+
+[15:28:52]
+[gRnqa/] Aice
+English please?
+
+[15:29:31]
+[GhSm1S] 0x194
+hola ≈ hello
+
+[15:30:04]
+[gRnqa/] Aice
+是的，
+
+[15:31:02]
+[gRnqa/] Aice
+这我晓得
+
+[15:31:11]
+[geGDVS] Blaze
+?
+
+[15:31:15]
+[gRnqa/] Aice
+但是其他的我就不晓得了
+
+[15:31:30]
+[geGDVS] Blaze
+？’
+
+[15:31:33]
+[geGDVS] Blaze
+；
+
+[15:31:36]
+[gRnqa/] Aice
+kiko
+hola
+
+gRnqa/ Aice
+hola
+
+kiko
+me pregutabas si me gusta duro
+
+[15:32:02]
+[GhSm1S] 0x194
+啊这
+
+[15:33:03]
+[GhSm1S] 0x194
+我怎么没看到这句话（）
+
+[15:33:07]
+[GhSm1S] 0x194
+哦哦
+
+[15:33:09]
+[GhSm1S] 0x194
+看到了
+
+[15:33:29]
+[gRnqa/] Aice
+机翻结果：“如果我喜欢硬，你会诅咒我”
+
+[15:34:14]
+[gRnqa/] Aice
+。。。
+
+[15:34:20]
+[gRnqa/] Aice
+好怪
+
+[15:50:11]
+[geGDVS] Blaze
+:!shoot dpg
+
+[15:59:43]
+[AAfFKK] AfK_Bot
+2022-09-18 16:00:00
+![](https://i.gyazo.com/df489e27f3dfb5fda60806c61186656e.jpg)
+
+[16:07:48]
+[gRnqa/] Aice
+hi
+
+[16:07:54]
+[None] jagadesh
+Hloo
+
+[16:07:55]
+[None] jagadesh
+Srividhya 
+
+[16:08:13]
+[gRnqa/] Aice
+hello
+
+[16:08:16]
+[gRnqa/] Aice
+English please?
+
+[16:08:28]
+[gRnqa/] Aice
+...
+
+[16:11:18]
+[None] jagadesh
+Hloo
+
+[16:11:56]
+[None] jagadesh
+Hllo
+
+[16:11:59]
+[geGDVS] Blaze
+awawawwawaawaa
+
+[16:12:03]
+[None] jagadesh
+Srividhya 
+
+[16:12:09]
+[None] jagadesh
+N
+
+[16:12:13]
+[None] jagadesh
+A
+
+[16:12:16]
+[GhSm1S] 0x194
+awa
+
+[16:12:23]
+[geGDVS] Blaze
+awa
+
+[16:19:22]
+[None] ssddos07
+hi
+
+[16:19:33]
+[Chumon] zzzChumo_Redmi_2
+hi
+
+[16:19:34]
+[None] ssddos07
+how are you
+
+[16:20:02]
+[2ZQ3+0] Maggie
+im not fine
+
+[16:20:18]
+[2ZQ3+0] Maggie
+im gonna die
+
+[16:20:21]
+[2ZQ3+0] Maggie
+:)
+
+[16:20:27]
+[None] ssddos07
+:)))
+
+[16:20:32]
+[gRnqa/] Aice
+oh
+
+[16:20:41]
+[None] ssddos07
+vui lòng vào wweb chat của chúng tôi
+
+[16:20:56]
+[None] ssddos07
+ddiscord 
+
+[16:21:16]
+[2ZQ3+0] Maggie
+xiao hei zi ni gan ma
+
+[16:21:17]
+[2ZQ3+0] Maggie
+ni gan ma ai yo
+
+[16:21:23]
+[2ZQ3+0] Maggie
+ji ni tai mei
+
+[16:21:40]
+[GhSm1S] 0x194
+哎哟，你干嘛
+
+[16:21:46]
+[gRnqa/] Aice
+你干嘛哈哈哎哟哈
+
+[16:22:08]
+[GhSm1S] 0x194
+纣王荒淫无道，与妲己寻欢作乐，不顾黎民苍生疾苦，女娲对妲己降下天罚。
+
+一日，怀有纣王龙胎的妲己于御花园中散步，被石块绊倒，栽倒在地，痛得晕厥。
+
+妲己被御医救活，但胎儿已流产。纣王到妲己身旁，痛呼：“己你胎没，己你石栽使胎没！”
+
+众仆从亦痛呼：“呕，悲！悲！”
+
+[16:22:58]
+[2ZQ3+0] Maggie
+Musha ring dum a doo dum a da
+
+[16:23:26]
+[GhSm1S] 0x194
+awa/
+
+[16:23:43]
+[GhSm1S] 0x194
+awa?
+
+[16:23:44]
+[GhSm1S] 0x194
+看不懂
+
+[16:23:46]
+[2ZQ3+0] Maggie
+dudamudamada的原版
+
+[16:23:59]
+[GhSm1S] 0x194
+2050年因塑料纸制品包装使用受限，啃得基开始使用钛合金包装土豆泥，销量暴涨导致世界钛合金供应不足。一次一个喜欢唱跳Rap篮球的老头模样的律师去购买，服务员只好对他说：对不起，“基泥钛没”。
+
+[16:24:03]
+[2ZQ3+0] Maggie
+dudamudamada是因为我拼写不出来然后音译的
+
+[16:24:16]
+[2ZQ3+0] Maggie
+原文是dum a doo dum a da
+
+[16:24:35]
+[gRnqa/] Aice
+不是所有篮球都叫cxk，
+点点脚步充满了我的青春，
+攒着钱去听蔡徐坤演唱会，
+你运球的动作是那么帅气，
+打动了我粉色的少女心弦，
+球在你手里违背牛顿定律，
+像是被赋予了魔法的魔力，
+蔡琰胡笳不及这j你太美，
+徐徐春风为舞姿注入活力，
+坤坤，不要理会谣言中伤! 
+
+[16:24:47]
+[GhSm1S] 0x194
+传说，上古凶兽猊来到了人间肆乱，其形态怪异，身手敏捷，犹如魅影一般，人类很难抗拒猊，一位老者打算把这凶兽的内容给记下，让后人可以防备，一位篮球实习生问老者:“您在干嘛？”老者回答:“记猊态魅。”
+
+[16:25:28]
+[None] ssddos07
+Hello
+
+[16:25:33]
+[None] ssddos07
+My name is sang
+
+[16:25:39]
+[gRnqa/] Aice
+hi
+
+[16:25:44]
+[gRnqa/] Aice
+hi sang
+
+[16:26:01]
+[None] ssddos07
+What your name
+
+[16:26:03]
+[2ZQ3+0] Maggie
+没有、
+
+[16:26:13]
+[None] ssddos07
+Alice ?
+
+[16:26:15]
+[2ZQ3+0] Maggie
+my nick is cxk
+
+[16:26:17]
+[2ZQ3+0] Maggie
+full name:cai xu kun
+
+[16:26:33]
+[gRnqa/] Aice
+@ssddos07 no
+
+[16:26:42]
+[gRnqa/] Aice
+Aice
+
+[16:26:46]
+[gRnqa/] Aice
+:D
+
+[16:26:49]
+[None] ssddos07
+:)))
+
+[16:26:57]
+[gRnqa/] Aice
+山外青山楼外楼，
+唱跳rap打篮球。
+篮球中分背带裤，
+我叫ikun你记住​。
+
+[16:27:01]
+[None] ssddos07
+i need you hacking
+
+[16:27:10]
+[gRnqa/] Aice
+my name is ikun
+
+[16:27:14]
+[2ZQ3+0] Maggie
+Musha ring dum a doo dum a da Whack for my daddy-o Whack for my daddy-o Theres whiskey in the jar-o 
+
+[16:27:15]
+[2ZQ3+0] Maggie
+i am hacking everyone
+
+[16:27:33]
+[GhSm1S] 0x194
+【ny】为何，你我不曾感到屈辱？｜别再玩只因梗了！
+https://b23.tv/BV1HV4y1M7Bs
+
+[16:27:40]
+[gRnqa/] Aice
+:-P
+
+[16:27:44]
+[GhSm1S] 0x194
+整个yc
+
+[16:27:47]
+[GhSm1S] 0x194
+有人能看懂上面那个视频吗
+
+[16:27:55]
+[GhSm1S] 0x194
+有人能看懂我给你0元（）
+
+[16:28:22]
+[gRnqa/] Aice
+im using mobile phone haha
+
+[16:28:40]
+[None] ssddos07
+@ssddos07 @* omgg :v
+
+[16:28:41]
+[None] ssddos07
+I have ddos web anonymouse
+
+[16:29:34]
+[None] ssddos07
+anewpost.cơm
+
+[16:29:41]
+[None] ssddos07
+cơm
+
+[16:29:44]
+[None] ssddos07
+Hacking 10%
+
+[16:29:49]
+[GhSm1S] 0x194
+我相信hc还是很纯粹的
+
+[16:29:50]
+[None] ssddos07
+Hacking 20%
+
+[16:29:54]
+[GhSm1S] 0x194
+不是他说的那种平台
+
+[16:29:57]
+[2ZQ3+0] Maggie
+👑 站长 Maggie12
+ws.send('{"cmd":"chatas","nick":"Aice","trip":"Bh8ah/","text":"Musha ring dum a doo dum a da"}')
+
+👑 站长 Maggie12
+代码
+
+Bh8ah/ Aice
+Musha ring dum a doo dum a da
+
+Bh8ah/ Aice
+Musha ring dum a doo dum a da
+
+Bh8ah/ Aice
+好有趣
+
+love13 ee
+Musha ring dum a doo dum a da
+
+love13 ee
+Musha ring dum a doo dum a da
+
+love13 ee
+Musha ring dum a doo dum a da
+
+love13 ee
+Musha ring dum a doo dum a da
+
+love13 ee
+Musha ring dum a doo dum a da
+
+love13 ee
+Musha ring dum a doo dum a da
+
+[16:30:45]
+[2ZQ3+0] Maggie
+控制发言
+
+[16:30:48]
+[2ZQ3+0] Maggie
+有趣
+
+[16:30:50]
+[2ZQ3+0] Maggie
+awa
+
+[16:30:51]
+[2ZQ3+0] Maggie
+全员Musha ring dum a doo dum a da
+
+[16:31:05]
+[GhSm1S] 0x194
+ciao
+
+[16:31:06]
+[GhSm1S] 0x194
+所以
+
+[16:31:07]
+[GhSm1S] 0x194
+tc可以自定义识别码了？
+
+[16:31:15]
+[2ZQ3+0] Maggie
+no
+
+[16:31:22]
+[GhSm1S] 0x194
+Maggie加油！干翻xc！（）
+
+[16:31:22]
+[GhSm1S] 0x194
+啊这
+
+[16:31:24]
+[2ZQ3+0] Maggie
+bye
+
+[16:31:27]
+[2ZQ3+0] Maggie
+afk
+
+[16:31:32]
+[GhSm1S] 0x194
+bye
+
+[16:31:55]
+[GhSm1S] 0x194
+jntm
+
+[16:34:28]
+[Chumon] zzzChumo_Redmi_2
+jnsztm
+
+[16:34:39]
+[GhSm1S] 0x194
+一孕妇乘车，被一年轻人挤了一下，年轻人急忙道歉并关切道：“挤你胎没？”
+
+孕妇惊道：oh，baby！
+
+年轻人见状非常懊恼，感叹道：“挤你实在是太霉。”
+
+[16:34:58]
+[GhSm1S] 0x194
+从前有两个小偷有一次他去偷邻居家的，发现鸡圈有特别多鸡于是找了一个筐把他们抬出来天太黑了没看清是鸡，抬出来一看是一个衣着破旧的乞丐，手里还拿了一个篮球，旁边一个小偷生气地对另一个小偷说“鸡你抬没”
+
+[16:35:56]
+[gRnqa/] Aice
+我是黄河捞尸人，在我们圈子有个忌讳，就是遇到穿背带裤溺水的尸体不能捞。尤其是死亡时长达两年半那种最是邪门，在午夜12点后又唱又跳的甚是恐怖，如果抬了这种尸体，会倒大霉，我们将这种说法称为——忌溺抬霉。有一天小吉和一群人去山洞，发现山洞有个尸体，就和其他人抬出去了。回家后，其他人都死了，爷爷问：“吉你抬没？”小吉摇了摇头。这时小吉的身上变绿了，爷爷说：“不好，是绿尸寒警告！”​
+
+[16:36:22]
+[gRnqa/] Aice
+有什么好喷的？
+没点逼数吗？ 
+都闲着没事做吗？ 
+巴不得别人好吗？ 
+叽叽歪歪的。 
+比一比你们自己有什么资格？ 
+傻不拉叽的。 
+大方点承认别人优秀不行吗？ 
+一点自知之明都没有。 
+是在家闲着没事做了吗？ 
+就这么对坤坤？ 
+坤坤有怎么样你们？ 
+需要你们指手画脚的？ 
+蔡徐坤是你们能随便抨击的吗？
+
+[16:45:30]
+[None] ssddos07
+hi
+
+[16:45:34]
+[None] ssddos07
+What Your Name
+
+[16:45:41]
+[None] ssddos07
+My Name Is Sang
+
+[16:45:54]
+[None] ssddos07
+how are you
+
+[16:45:56]
+[None] ssddos07
+Deepp web link
+
+[16:46:04]
+[None] ssddos07
+wiki47qqn6tey4id7xeqb6l7uj6jueacxlqtk3adshox3zdohvo35vad.onion
+
+[16:49:17]
+[None] ssddos07
+Hi
+
+[16:49:20]
+[None] ssddos07
+Ddep web
+
+[16:49:23]
+[geGDVS] Blaze
+awa
+
+[16:49:26]
+[None] ssddos07
+Deep web link
+
+[16:49:34]
+[None] ssddos07
+wiki47qqn6tey4id7xeqb6l7uj6jueacxlqtk3adshox3zdohvo35vad.onion
+
+[16:49:38]
+[GhSm1S] 0x194
+😅
+
+[16:50:26]
+[gRnqa/] Aice
+？
+
+[16:59:43]
+[AAfFKK] AfK_Bot
+2022-09-18 17:00:00
+![](https://i.gyazo.com/eda94d77a641e32f5e930ff49a31dd5f.jpg)
+
+[16:59:43]
+[GhSm1S] 0x194
+现在国内抄discord的应用真的层出不穷
+
+[17:04:08]
+[None] ssddos07
+omg hackking 
+
+[17:06:00]
+[None] ssddos07
+I have do hack
+
+[17:06:22]
+[gRnqa/] Aice
+？
+
+[17:06:31]
+[AAfFKK] _
+*
+fish joined
+
+fish
+goog
+
+fish
+still no modbot
+
+*
+fish left
+
+[17:07:29]
+[AAfFKK] _
+geek
+
+[17:07:59]
+[None] mmm
+Hllo
+
+[17:08:26]
+[GhSm1S] 0x194
+awa
+
+[17:11:02]
+[GhSm1S] 0x194
+他莫非以为
+
+[17:11:06]
+[GhSm1S] 0x194
+没有modbot能说明什么吗
+
+[17:12:58]
+[None] pandu
+Hi
+
+[17:13:01]
+[None] pandu
+Good evigg
+
+[17:13:38]
+[None] pandu
+Sxd
+
+[17:13:49]
+[None] pandu
+Sf
+
+[17:14:04]
+[None] pandu
+Seed
+
+[17:14:33]
+[GhSm1S] 0x194
+我估计
+
+[17:14:46]
+[GhSm1S] 0x194
+一到周一
+
+[17:14:48]
+[GhSm1S] 0x194
+鱼鱼他们就会策划特殊行动
+
+[17:15:07]
+[GhSm1S] 0x194
+有人在吗？
+
+[17:15:19]
+[GhSm1S] 0x194
+我希望你们能认同：USBot不合规
+
+[17:15:32]
+[GhSm1S] 0x194
+用任何原理类似轰炸机的程序加入yc都是不合规的
+
+[17:15:52]
+[GhSm1S] 0x194
+ok
+
+[17:18:39]
+[None] zzz
+aaa
+
+[17:18:40]
+[None] zzz
+nihao 
+
+[17:18:42]
+[None] zzz
+溺水谁?
+
+[17:18:45]
+[GhSm1S] 0x194
+eee！！！
+
+[17:18:58]
+[eYFDHl] eee
+www
+
+[17:18:58]
+[GhSm1S] 0x194
+你能不能说一句话
+
+[17:19:02]
+[AAfFKK] _
+awa
+
+[17:19:05]
+[None] zzz
+哦?
+
+[17:19:08]
+[eYFDHl] eee
+怎么了
+
+[17:19:09]
+[None] zzz
+真的开始聊天了?
+
+[17:19:17]
+[GhSm1S] 0x194
+未得到yc协管授权的情况下，用任何原理类似轰炸机的程序加入yc都是不合规的
+
+[17:19:19]
+[eYFDHl] eee
+是的
+
+[17:19:27]
+[AAfFKK] _
+:!translate hectic
+
+[17:19:31]
+[AAfFKK] AfK_Bot
+ 忙碌
+
+[17:19:31]
+[AAfFKK] _
+gork
+
+[17:19:34]
+[GhSm1S] 0x194
+我希望yc的用户能够先确立一些规则
+
+[17:19:39]
+[GhSm1S] 0x194
+因为
+
+[17:19:41]
+[GhSm1S] 0x194
+下次再确立规则
+
+[17:19:44]
+[GhSm1S] 0x194
+就得下周周末了（悲）
+
+[17:19:52]
+[eYFDHl] eee
+然而我再过半小时就走了（悲）
+
+[17:20:00]
+[GhSm1S] 0x194
+USBot也是不合规的
+
+[17:20:02]
+[eYFDHl] eee
+我去学校写本子上
+
+[17:20:09]
+[GhSm1S] 0x194
+~~所以你多帮我承认几条规则~~
+
+[17:20:25]
+[Chumon] zzzChumo_Redmi_2
+僕はチュモ、悪人です。
+
+[17:20:39]
+[eYFDHl] eee
+~~要怎么承认~~
+
+[17:20:50]
+[GhSm1S] 0x194
+未得到yc协管授权的情况下，用任何原理类似轰炸机的程序加入yc都是不合规的
+
+[17:20:53]
+[GhSm1S] 0x194
+@zzzChumo_Redmi_2 你说这句话对不对
+
+[17:20:57]
+[eYFDHl] eee
+很对
+
+[17:21:01]
+[Chumon] zzzChumo_Redmi_2
+我不掺和
+
+[17:21:26]
+[GhSm1S] 0x194
+焯
+
+[17:21:35]
+[GhSm1S] 0x194
+怎么能这样？
+
+[17:21:37]
+[GhSm1S] 0x194
+？
+
+[17:21:40]
+[Chumon] zzzChumo_Redmi_2
+我对违规的判定是有没有对我的眼睛造成伤害
+
+[17:21:45]
+[GhSm1S] 0x194
+:|
+
+[17:21:48]
+[GhSm1S] 0x194
+好吧
+
+[17:21:51]
+[GhSm1S] 0x194
+可是，鱼鱼声称USBot合规
+
+[17:22:05]
+[GhSm1S] 0x194
+怎么办
+
+[17:22:19]
+[Chumon] zzzChumo_Redmi_2
+>GhSm1S 0x194：
+>可是，鱼鱼声称USBot合规
+
+@0x194 掩盖事实真相
+
+[17:23:08]
+[GhSm1S] 0x194
+awa?
+
+[17:23:17]
+[GhSm1S] 0x194
+我希望可以建立一些yc的规则来束缚鱼鱼
+
+[17:23:28]
+[Chumon] zzzChumo_Redmi_2
+就像你在Site-AWA-01所作的那样
+
+[17:23:33]
+[GhSm1S] 0x194
+我根本没去过那个地方（恼）
+
+[17:23:40]
+[GhSm1S] 0x194
+那是啥啊
+
+[17:23:46]
+[Chumon] zzzChumo_Redmi_2
+你好歹在掩盖部门干过
+
+[17:23:49]
+[GhSm1S] 0x194
+awa
+
+[17:23:52]
+[GhSm1S] 0x194
+可是，鱼鱼是错误的一方
+
+[17:23:57]
+[GhSm1S] 0x194
+真相对我们是有利的
+
+[17:24:03]
+[Chumon] zzzChumo_Redmi_2
+wc，刚才我都说了什么啊啊啊啊啊啊啊
+
+[17:24:35]
+[GhSm1S] 0x194
+uwu
+
+[17:24:44]
+[Chumon] zzzChumo_Redmi_2
+妈了看了下CN-048-J而已
+
+[17:25:13]
+[Chumon] zzzChumo_Redmi_2
+至于吗
+
+[17:25:16]
+[GhSm1S] 0x194
+awa
+
+[17:25:23]
+[Chumon] zzzChumo_Redmi_2
+好想撞死在墙上啊啊啊啊啊啊
+
+[17:25:30]
+[GhSm1S] 0x194
+不至于（）
+
+[17:25:34]
+[GhSm1S] 0x194
+唉，鱼鱼自认为很善于找规则的漏洞
+
+[17:25:45]
+[GhSm1S] 0x194
+所以规则杯水车薪（）
+
+[17:25:50]
+[AAfFKK] _
+?
+
+[17:26:00]
+[AAfFKK] _
+@zzzChumo_Redmi_2 @zzzChumo_Redmi_2 @zzzChumo_Redmi_2 @zzzChumo_Redmi_2 awa
+
+[17:26:04]
+[Chumon] zzzChumo_Redmi_2
+我去你妈的基金会
+
+[17:26:29]
+[Chumon] zzzChumo_Redmi_2
+因为有二级权限就能碰所以就把项目到处乱放了？
+
+[17:26:51]
+[Chumon] zzzChumo_Redmi_2
+>GhSm1S 0x194：
+>未得到yc协管授权的情况下，用任何原理类似轰炸机的程序加入yc都是不合规的
+
+@0x194 同意
+
+[17:28:06]
+[Chumon] zzzChumo_Redmi_2
+所以我们要利用CI那群傻逼干掉xc！
+
+[17:28:34]
+[GhSm1S] 0x194
+awa！
+
+[17:29:01]
+[Chumon] zzzChumo_Redmi_2
+Gol-YC-001 线圈团队
+
+[17:33:13]
+[Chumon] zzzChumo_Redmi_2
+Pol-YC-001 柯尊旺
+
+[17:33:36]
+[Chumon] zzzChumo_Redmi_2
+SCP-YC-003 线圈(TM)西瓜分裂者
+
+[17:34:10]
+[GhSm1S] 0x194
+wow
+
+[17:36:44]
+[None] pandu
+Hi
+
+[17:42:53]
+[eYFDHl] eee
+草
+
+[17:45:09]
+[eYFDHl] eee
+我要走啦
+
+[17:46:08]
+[eYFDHl] eee
+拜拜
+
+[17:46:29]
+[gRnqa/] Aice
+886
+
+[17:46:34]
+[GhSm1S] 0x194
+bye-
+
+[17:46:47]
+[gRnqa/] Aice
+我也得准备回学校了呜呜呜
+
+[17:46:54]
+[GhSm1S] 0x194
+https://txtpad.cn/your-channel
+
+[17:49:17]
+[GhSm1S] 0x194
+大家看看这个怎么样
+
+[17:49:22]
+[GhSm1S] 0x194
+能不能稍微支持一下
+
+[17:49:43]
+[GhSm1S] 0x194
+如果没人支持，但是鱼鱼玩文字游戏
+
+[17:51:58]
+[GhSm1S] 0x194
+我就声称这个是yc的规则
+
+[17:52:04]
+[gRnqa/] Aice
+👍👍
+
+[17:52:29]
+[gRnqa/] Aice
+👍😃👌
+
+[17:52:58]
+[GhSm1S] 0x194
+awa
+
+[17:53:14]
+[GhSm1S] 0x194
+谢谢（）
+
+[17:53:17]
+[gRnqa/] Aice
+😝
+
+[17:53:29]
+[GhSm1S] 0x194
+uwu
+
+[17:57:58]
+[AAfFKK] _
+;
+
+[17:58:42]
+[AAfFKK] _
+gonna go soon
+
+[17:58:49]
+[AAfFKK] _
+gork
+
+[17:58:54]
+[GhSm1S] 0x194
+:(
+
+[17:59:43]
+[AAfFKK] AfK_Bot
+2022-09-18 18:00:00
+![](https://i.gyazo.com/b49cc5e11aaf3ab44c0175c0d181addc.jpg)
+
+[18:00:53]
+[lyTGk1] Arcadia
+ihih
+
+[18:01:19]
+[GhSm1S] 0x194
+awa
+
+[18:01:24]
+[jga1nc] TCG
+早安
+
+[18:01:24]
+[GhSm1S] 0x194
+;
+
+[18:01:25]
+[lyTGk1] Arcadia
+早
+
+[18:01:28]
+[jga1nc] TCG
+阿卡迪亚早
+
+[18:02:13]
+[AAfFKK] _
+qwq
+
+[18:02:20]
+[2ZQ3+0] Maggie
+谭拆特马上推出替换trip功能
+
+[18:02:30]
+[GhSm1S] 0x194
+wow
+
+[18:02:33]
+[GhSm1S] 0x194
+加油
+
+[18:02:39]
+[2ZQ3+0] Maggie
+淦翻艾克斯拆特！
+
+[18:02:52]
+[jga1nc] TCG
+乐，这个玩意一切后台就报废
+
+[18:02:52]
+[jga1nc] TCG
+？
+
+[18:02:59]
+[jga1nc] TCG
+发生什么了
+
+[18:03:03]
+[2ZQ3+0] Maggie
+no
+
+[18:03:15]
+[GhSm1S] 0x194
+呃呃
+
+[18:03:16]
+[GhSm1S] 0x194
+是我说的
+
+[18:03:18]
+[GhSm1S] 0x194
+tc推出新功能的时候
+
+[18:03:23]
+[GhSm1S] 0x194
+我就会出于希望功能数量超过xc
+
+[18:03:30]
+[2ZQ3+0] Maggie
+我们想弄一个XC的替代品
+
+[18:03:32]
+[GhSm1S] 0x194
+而说干翻xc
+
+[18:03:34]
+[jga1nc] TCG
+tc
+
+[18:03:35]
+[jga1nc] TCG
+是什么来着（
+
+[18:03:40]
+[GhSm1S] 0x194
+@Maggie 做的聊天室（）
+
+[18:03:46]
+[2ZQ3+0] Maggie321
+@0x194
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[18:03:46]
+[2ZQ3+0] Maggie
+TanChat
+
+[18:03:46]
+[jga1nc] TCG
+乐
+
+[18:04:03]
+[gRnqa/] Aice
+nani?
+
+[18:04:13]
+[GhSm1S] 0x194
+鱼鱼很擅长找规则的漏洞
+
+[18:04:19]
+[jga1nc] TCG
+乐
+
+[18:04:25]
+[GhSm1S] 0x194
+我想多写一点防止漏洞的东西
+
+[18:04:34]
+[2ZQ3+0] Maggie
+一个东西解决
+
+[18:04:49]
+[2ZQ3+0] Maggie
+最终解释权由xxx聊天室持有，本规则不代表最新版本，以最新版本为准确参考
+
+[18:05:09]
+[GhSm1S] 0x194
+awa
+
+[18:05:13]
+[lyTGk1] Arcadia
+https://discord.gg/XZhs8zj6
+
+[18:05:25]
+[None] nani
+Yeswanth
+
+[18:06:47]
+[AAfFKK] _
+byeee~
+
+[18:07:36]
+[AAfFKK] _
+see ya
+
+[18:07:39]
+[AAfFKK] _
+:!hug everyone
+
+[18:07:48]
+[2ZQ3+0] Maggie
+bye...
+
+[18:07:50]
+[GhSm1S] 0x194
+bye...
+
+[18:08:11]
+[GhSm1S] 0x194
+chao
+
+[18:08:17]
+[lyTGk1] Arcadia
+:!hug Arcadia
+
+[18:08:18]
+[GhSm1S] 0x194
+有人来承认我的规则吗
+
+[18:08:22]
+[lyTGk1] Arcadia
+:!hug aaa
+
+[18:08:28]
+[lyTGk1] Arcadia
+草？
+
+[18:08:32]
+[lyTGk1] Arcadia
+啥规则
+
+[18:08:45]
+[GhSm1S] 0x194
+https://txtpad.cn/your-channel
+
+[18:08:59]
+[GhSm1S] 0x194
+我希望可以堵死鱼鱼的一些路径（）
+
+[18:10:29]
+[lyTGk1] Arcadia
+em
+
+[18:10:33]
+[2ZQ3+0] Maggie
+不错欸
+
+[18:10:40]
+[lyTGk1] Arcadia
+我觉得不太行
+
+[18:10:46]
+[lyTGk1] Arcadia
+对事不对人
+
+[18:11:04]
+[a/Jz/a] MrZhangYouareframed
+.
+
+[18:11:09]
+[a/Jz/a] MrZhangYouareframed
+👦👦🏿
+
+[18:11:53]
+[a/Jz/a] MrZhangYouareframed
+awa
+
+[18:11:56]
+[a/Jz/a] MrZhangYouareframed
+~-ĺļľł
+
+[18:12:09]
+[lyTGk1] Arcadia
+啥
+
+[18:13:18]
+[None] ssddos07
+hi word
+
+[18:13:29]
+[a/Jz/a] MrZhangYouareframed
+shă bī zhang?
+
+[18:13:32]
+[None] ssddos07
+???
+
+[18:13:38]
+[GhSm1S] 0x194
+草
+
+[18:13:39]
+[None] ssddos07
+web chay
+
+[18:13:49]
+[a/Jz/a] MrZhangYouareframed
+:)
+
+[18:13:49]
+[None] ssddos07
+:)))))
+
+[18:13:54]
+[a/Jz/a] MrZhangYouareframed
+真不戳
+
+[18:13:55]
+[None] ssddos07
+;-;
+
+[18:13:58]
+[GhSm1S] 0x194
+https://txtpad.cn/your-channel
+
+[18:13:59]
+[a/Jz/a] MrZhangYouareframed
+可以打拼音
+
+[18:14:09]
+[GhSm1S] 0x194
+大家是否支持该规则（）
+
+[18:14:15]
+[lyTGk1] Arcadia
+我首先不
+
+[18:14:24]
+[None] ssddos07
+=))
+
+[18:14:24]
+[a/Jz/a] MrZhangYouareframed
+sb Zhang? 
+
+[18:14:34]
+[GhSm1S] 0x194
+请问对事不对人是什么意思呢
+
+[18:15:00]
+[lyTGk1] Arcadia
+你可以说某种行为是禁止的，但不能说某个人是禁止的
+
+[18:15:28]
+[GhSm1S] 0x194
+有道理...但是，这里有几个问题，比如踢出xc互通用户的合理性
+
+[18:16:23]
+[GhSm1S] 0x194
+好吧，我认为鱼鱼那边的规则可以预见的灵活，所以我才希望做出这些较为夸张的规则
+
+[18:17:09]
+[lyTGk1] Arcadia
+em
+
+[18:17:09]
+[lyTGk1] Arcadia
+其实我感觉
+
+[18:17:17]
+[lyTGk1] Arcadia
+hc有协管就是一种错误
+
+[18:17:26]
+[GhSm1S] 0x194
+awa
+
+[18:17:37]
+[lyTGk1] Arcadia
+协管其实根本没认真选
+
+[18:17:58]
+[GhSm1S] 0x194
+我认为协管只是权限的载体
+
+[18:17:59]
+[lyTGk1] Arcadia
+不能容忍协管做出错误判断
+
+[18:19:01]
+[GhSm1S] 0x194
+我比较相信目前的协管不会做出破坏性行为
+
+[18:19:10]
+[a/Jz/a] MrZhangYouareframed
+? 
+
+[18:19:15]
+[lyTGk1] Arcadia
+em
+
+[18:19:18]
+[a/Jz/a] MrZhangYouareframed
+?
+
+[18:19:23]
+[lyTGk1] Arcadia
+可能不是
+
+[18:19:24]
+[a/Jz/a] MrZhangYouareframed
+张是协管？
+
+[18:19:31]
+[GhSm1S] 0x194
+主要是因为，这样做，写起来比较容易
+
+[18:19:35]
+[a/Jz/a] MrZhangYouareframed
+c
+
+[18:19:48]
+[GhSm1S] 0x194
+比如说，可能出现有人正好名字XC_打头
+
+[18:19:53]
+[a/Jz/a] MrZhangYouareframed
+Zhang 是协管
+
+[18:19:58]
+[GhSm1S] 0x194
+被机器人踢掉了
+
+[18:19:59]
+[lyTGk1] Arcadia
+包括下发协管权限这件事就属于破坏性行为
+
+[18:20:01]
+[GhSm1S] 0x194
+emm
+
+[18:20:13]
+[GhSm1S] 0x194
+怎么说
+
+[18:20:29]
+[a/Jz/a] MrZhangYouareframed
+？
+
+[18:20:36]
+[a/Jz/a] MrZhangYouareframed
+我说张成了协管？
+
+[18:20:54]
+[GhSm1S] 0x194
+emm，好吧，我选举的某些人确实有些草率。但是我觉得大部分人还是比较好的用户
+
+[18:20:55]
+[GhSm1S] 0x194
+@MrZhangYouareframed 他不是不是协管吗
+
+[18:21:03]
+[lyTGk1] Arcadia
+1. 这件事征得管理同意了吗？
+2. 这件事会造成有益的结果吗？
+
+[18:21:06]
+[a/Jz/a] MrZhangYouareframed
+qs
+
+[18:21:10]
+[a/Jz/a] MrZhangYouareframed
+他确实不是
+
+[18:21:15]
+[GhSm1S] 0x194
+有益的结果是可以声称USBot不合规，可以合理的踢出小张（他们合理的在xc踢出我）
+
+[18:21:49]
+[a/Jz/a] MrZhangYouareframed
+他的条件就不能成为被选举的人
+
+[18:21:52]
+[GhSm1S] 0x194
+所以我认为是有益的
+
+[18:21:54]
+[a/Jz/a] MrZhangYouareframed
+因为只有人类能被选举和选举
+
+[18:22:08]
+[GhSm1S] 0x194
+我认为这个只是对于权限的一种名义上的附加
+
+[18:22:13]
+[GhSm1S] 0x194
+管理既然给了权限..
+
+[18:22:19]
+[GhSm1S] 0x194
+emm
+
+[18:22:23]
+[GhSm1S] 0x194
+我得吃饭了
+
+[18:22:29]
+[GhSm1S] 0x194
+不管怎么说，谢谢你指出一些问题
+
+[18:22:32]
+[a/Jz/a] MrZhangYouareframed
+？
+
+[18:22:36]
+[lyTGk1] Arcadia
+你不能决定管理的想法
+
+[18:22:39]
+[a/Jz/a] MrZhangYouareframed
+谁
+
+[18:22:40]
+[a/Jz/a] MrZhangYouareframed
+nick Mr_Zhang
+
+[18:22:54]
+[lyTGk1] Arcadia
+包括——管理自己都在辱骂中国人
+
+[18:23:16]
+[geGDVS] Blaze
+![](https://gyazo.com/023f161df17058f3d7af2dd731e4eb01)
+
+[18:23:19]
+[geGDVS] Blaze
+aa
+
+[18:23:21]
+[a/Jz/a] Mr_Zhang
+?
+
+[18:23:35]
+[geGDVS] Blaze
+how to send picture
+
+[18:23:42]
+[a/Jz/a] Mr_Zhang
+:\
+
+[18:23:45]
+[lyTGk1] Arcadia
+我更觉得让hc成为一个无秩序的、完全自由的聊天室
+
+[18:23:49]
+[lyTGk1] Arcadia
+*更倾向于
+
+[18:24:14]
+[a/Jz/a] Mr_Zhang
+@Arcadia 那首先在数据包里删掉hash
+
+[18:24:21]
+[a/Jz/a] Mr_Zhang
+但是没法做到
+
+[18:24:29]
+[a/Jz/a] Mr_Zhang
+因为我们不是主人
+
+[18:26:03]
+[None] asdf
+@Mr_Zhang 你有点过分了啊
+
+[18:26:55]
+[None] asdf
+AfK_Bot whispered: >
+Aliases for hash Tk7W2EPfMaEMdPo: ['Mr_Zhang’, 'MrZhangYouareframed']
+Trips for hash Tk7W2EPfMaEMdPo: ['a/Jz/a']
+
+[18:27:03]
+[a/Jz/a] Mr_Zhang
+？
+
+[18:27:26]
+[lyTGk1] Arcadia
+当然，管理自己有自己的想法
+
+[18:27:31]
+[a/Jz/a] Mr_Zhang
+我吗
+
+[18:27:33]
+[None] asdf
+对啊
+
+[18:27:40]
+[a/Jz/a] Mr_Zhang
+你是谁
+
+[18:27:40]
+[lyTGk1] Arcadia
+他们其实并不想管yc
+
+[18:27:41]
+[None] Xiao_Zhang
+我是小张
+
+[18:27:45]
+[lyTGk1] Arcadia
+？？？
+
+[18:27:51]
+[None] Xiao_Zhang
+稍等我加个识别码
+
+[18:27:52]
+[a/Jz/a] Mr_Zhang
+？
+
+[18:28:03]
+[a/Jz/a] Mr_Zhang
+关我屁事
+
+[18:28:04]
+[c01PWj] Xiao_Zhang
+这个识别码还记得吗？
+
+[18:28:10]
+[c01PWj] Xiao_Zhang
+我才是Mr_Zhang
+
+[18:28:14]
+[a/Jz/a] Mr_Zhang
+记不得了
+
+[18:28:15]
+[c01PWj] Xiao_Zhang
+你是个假货
+
+[18:28:18]
+[None] pavan
+Hi
+
+[18:28:36]
+[a/Jz/a] Mr_Zhang
+我就喜欢这个名字
+
+[18:28:47]
+[c01PWj] Lightt
+我也喜欢这个
+
+[18:28:50]
+[c01PWj] Lightt
+你觉得呢？
+
+[18:28:56]
+[a/Jz/a] Mr_Zhang
+哈
+
+[18:28:59]
+[a/Jz/a] Mr_Zhang
+lightt是谁
+
+[18:29:10]
+[a/Jz/a] Mr_Zhang
+我叫light
+
+[18:29:12]
+[c01PWj] Lightt
+我喜欢
+
+[18:29:28]
+[c01PWj] Lightt
+不行吗？
+
+[18:29:30]
+[a/Jz/a] Mr_Zhang
+随便你
+
+[18:29:39]
+[c01PWj] Lightt
+行
+
+[18:30:09]
+[a/Jz/a] Mr_Zhang
+你在干嘛
+
+[18:30:54]
+[c01PWj] Lightt
+我瞅一眼
+
+[18:31:03]
+[c01PWj] Lightt
+不行吗
+
+[18:31:06]
+[a/Jz/a] Mr_Zhang
+非人类生物拒绝协管的要求会被踢
+
+[18:31:28]
+[a/Jz/a] Mr_Zhang
+吃屎
+
+[18:31:39]
+[c01PWj] Lightt
+去死
+
+[18:31:45]
+[a/Jz/a] Mr_Zhang
+~kick @Lightt 
+
+[18:31:47]
+[a/Jz/a] Mr_Zhang
+大意了
+
+[18:31:56]
+[a/Jz/a] Mr_Zhang
+我忘了我不是协管了
+
+[18:32:04]
+[a/Jz/a] Mr_Zhang
+.m kick @Lightt 
+
+[18:32:10]
+[a/Jz/a] Mr_Zhang
+:\
+
+[18:32:30]
+[c01PWj] Xiao_Zhang
+。
+
+[18:32:32]
+[a/Jz/a] Mr_Zhang
+大意了
+
+[18:32:38]
+[a/Jz/a] Mr_Zhang
+我忘了我是协管
+
+[18:32:45]
+[c01PWj] Xiao_Zhang
+qs
+
+[18:32:55]
+[c01PWj] Xiao_Zhang
+你是煞笔
+
+[18:32:58]
+[c01PWj] Xiao_Zhang
+不是协管
+
+[18:33:01]
+[a/Jz/a] Mr_Zhang
+去吃屎
+
+[18:33:08]
+[c01PWj] Xiao_Zhang
+协管冒充别人不被允许
+
+[18:33:09]
+[c01PWj] Xiao_Zhang
+我就不去
+
+[18:33:12]
+[c01PWj] Xiao_Zhang
+你个傻冒
+
+[18:33:14]
+[a/Jz/a] Mr_Zhang
+.m kick @Xiao_Zhang 
+
+[18:34:02]
+[bw7Gkq] MrZhang365
+种种行为
+
+[18:34:08]
+[bw7Gkq] MrZhang365
+让我疯狂
+
+[18:34:12]
+[a/Jz/a] Mr_Zhang
+关我什么事
+
+[18:34:39]
+[bw7Gkq] MrZhang365
+你冒充我
+
+[18:34:54]
+[a/Jz/a] Mr_Zhang
+？
+
+[18:34:59]
+[bw7Gkq] MrZhang365
+冒充是不对的
+
+[18:35:00]
+[a/Jz/a] Mr_Zhang
+just namesake
+
+[18:35:12]
+[bw7Gkq] MrZhang365
+那也不行
+
+[18:35:22]
+[bw7Gkq] MrZhang365
+你知道吗
+
+[18:35:51]
+[bw7Gkq] MrZhang365
+我算除了你的密码
+
+[18:35:56]
+[bw7Gkq] MrZhang365
+出
+
+[18:35:58]
+[a/Jz/a] Mr_Zhang
+说
+
+[18:36:06]
+[bw7Gkq] MrZhang365
+我暂时不说
+
+[18:36:15]
+[a/Jz/a] Mr_Zhang
+这个其实已经泄露了
+
+[18:36:20]
+[bw7Gkq] MrZhang365
+一面吓到你
+
+[18:36:20]
+[bw7Gkq] MrZhang365
+以免
+
+[18:36:24]
+[a/Jz/a] Mr_Zhang
+所以我用了另一个
+
+[18:36:40]
+[bw7Gkq] MrZhang365
+true
+
+[18:37:05]
+[NqByTq] MrZhangYouareframed
+应该有权限吧这个
+
+[18:37:17]
+[NqByTq] MrZhangYouareframed
+.m kick MrZhang365
+
+[18:37:30]
+[hACkeR] mbot
+@MrZhangYouareframed error: permission denied
+
+[18:37:33]
+[bw7Gkq] MrZhang365
+不客气了
+
+[18:37:57]
+[NqByTq] MrZhangYouareframed
+.m lockroom
+
+[18:37:57]
+[hACkeR] mbot
+@MrZhangYouareframed error: permission denied
+
+[18:38:07]
+[bw7Gkq] MrZhang365
+去死吧
+
+[18:38:10]
+[bw7Gkq] MrZhang365
+让你整我
+
+[18:38:13]
+[bw7Gkq] MrZhang365
+是我先整你吧
+
+[18:38:13]
+[Chumon] zzzChumo_Redmi_2
+.m lockroom
+
+[18:38:13]
+[hACkeR] mbot
+@zzzChumo_Redmi_2 the channel is now locked.
+
+[18:38:14]
+[Chumon] zzzChumo_Redmi_2
+？
+
+[18:38:14]
+[a/Jz/a] MrZhangYouareframed
+?
+
+[18:38:14]
+[bw7Gkq] MrZhang365
+你有点过分了
+
+[18:38:15]
+[a/Jz/a] MrZhangYouareframed
+?
+
+[18:38:15]
+[bw7Gkq] MrZhang365
+竟敢冒充我
+
+[18:38:16]
+[bw7Gkq] MrZhang365
+还装傻
+
+[18:38:16]
+[a/Jz/a] MrZhangYouareframed
+继续
+
+[18:38:17]
+[Chumon] zzzChumo_Redmi_2
+傻逼？
+
+[18:38:19]
+[a/Jz/a] MrZhangYouareframed
+继续
+
+[18:38:32]
+[bw7Gkq] MrZhang365
+bw7Gkq MrZhang365
+种种行为
+
+bw7Gkq MrZhang365
+让我疯狂
+
+*
+You invited mbot to ?otyeslj2
+
+a/Jz/a Mr_Zhang
+关我什么事
+
+bw7Gkq MrZhang365
+你冒充我
+
+a/Jz/a Mr_Zhang
+？
+
+bw7Gkq MrZhang365
+冒充是不对的
+
+a/Jz/a Mr_Zhang
+just namesake
+
+bw7Gkq MrZhang365
+那也不行
+
+[18:38:32]
+[Chumon] zzzChumo_Redmi_2
+要吵滚出去吵
+
+[18:38:37]
+[bw7Gkq] MrZhang365
+冒充
+
+[18:39:41]
+[a/Jz/a] MrZhangYouareframed
+.m kick iL
+
+[18:40:02]
+[Chumon] zzzChumo_Redmi_2
+我先说了，要吵滚出去吵，别他妈在这边污染老子眼睛，如果认为问题上升到了网站层面就去找站长
+
+[18:40:05]
+[a/Jz/a] MrZhangYouareframed
+.m kick C
+
+[18:40:11]
+[Chumon] zzzChumo_Redmi_2
+我他妈受够了
+
+[18:40:12]
+[a/Jz/a] MrZhangYouareframed
+.m kick f2
+
+[18:40:18]
+[a/Jz/a] MrZhangYouareframed
+.m kick m2
+
+[18:40:47]
+[Chumon] zzzChumo_Redmi_2
+light你小子冷静会
+
+[18:40:59]
+[a/Jz/a] MrZhangYouareframed
+?
+
+[18:41:04]
+[a/Jz/a] MrZhangYouareframed
+又不是我炸的
+
+[18:43:24]
+[a/Jz/a] MrZhangYouareframed
+.m kick zzzChumo_Redmi_2 ?
+
+[18:43:57]
+[a/Jz/a] MrZhangYouareframed
+c
+
+[18:44:03]
+[a/Jz/a] MrZhangYouareframed
+.m unlockroom
+
+[18:44:07]
+[hACkeR] mbot
+@MrZhangYouareframed the channel is now unlocked
+
+[18:44:28]
+[a/Jz/a] MrZhangYouareframed
+c，我本来要私聊的。手机太麻烦了
+
+[18:44:31]
+[Chumon] zzzChumo_Redmi_2
+？
+
+[18:44:35]
+[a/Jz/a] MrZhangYouareframed
+我复制成了那个
+
+[18:44:42]
+[a/Jz/a] MrZhangYouareframed
+sorry
+
+[18:44:50]
+[Chumon] zzzChumo_Redmi_2
+我选择相信你最后一次
+
+[18:45:02]
+[a/Jz/a] MrZhangYouareframed
+.
+
+[18:45:05]
+[a/Jz/a] MrZhangYouareframed
+我明明今天才来
+
+[18:46:15]
+[bw7Gkq] _MrZhang365
+哪位
+
+[18:46:21]
+[bw7Gkq] _MrZhang365
+冒充我
+
+[18:46:31]
+[a/Jz/a] MrZhangYouareframed
+?
+
+[18:46:37]
+[Chumon] zzzChumo_Redmi_2
+:!getlock
+
+[18:46:42]
+[Chumon] zzzChumo_Redmi_2
+hm
+
+[18:46:46]
+[Chumon] zzzChumo_Redmi_2
+炸了
+
+[18:46:50]
+[bw7Gkq] _MrZhang365
+@Mr_Zhang
+
+[18:47:03]
+[bw7Gkq] _MrZhang365
+之前light冒充我
+
+[18:47:09]
+[bw7Gkq] _MrZhang365
+并且种种言论令我……
+
+[18:47:19]
+[bw7Gkq] _MrZhang365
+你懂？
+
+[18:47:33]
+[bw7Gkq] _MrZhang365
+此事件将载入历史书
+
+[18:47:51]
+[Chumon] zzzChumo_Redmi_2
+我说了
+
+[18:47:55]
+[Chumon] zzzChumo_Redmi_2
+我不关心你们之间的战争
+
+[18:48:07]
+[Chumon] zzzChumo_Redmi_2
+要吵出去吵，别在这边污染我们眼睛，如果认为问题上升到了网站层面就去找站长
+
+[18:48:22]
+[a/Jz/a] MrZhangYouareframed
+?
+
+[18:48:22]
+[a/Jz/a] MrZhangYouareframed
+我刚刚解锁让你进来的
+
+[18:48:32]
+[bw7Gkq] _MrZhang365
+行
+
+[18:48:34]
+[Chumon] zzzChumo_Redmi_2
+@MrZhangYouareframed o
+
+[18:48:38]
+[Chumon] zzzChumo_Redmi_2
+ok
+
+[18:48:40]
+[bw7Gkq] _MrZhang365
+但是昵称有点冒充的意思了
+
+[18:48:49]
+[a/Jz/a] MrZhangYouareframed
+傻逼，那是你的僵尸号
+
+[18:48:57]
+[bw7Gkq] _MrZhang365
+@MrZhangYouareframed 我是说Mr_Zhang
+
+[18:49:12]
+[a/Jz/a] MrZhangYouareframed
+:!lookup nick MrZhang365 
+
+[18:49:16]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==HEmMHCF/rSccS1V==: ['MrZhang365', 'Xiao_Zhang', 'Lightt', 'asdf']
+==Trips== for hash ==HEmMHCF/rSccS1V==: ['bw7Gkq', 'c01PWj', '']
+
+[18:49:16]
+[bw7Gkq] _MrZhang365
+不是MrZhang365
+
+[18:49:19]
+[bw7Gkq] _MrZhang365
+==不是MrZhang365==
+
+[18:49:20]
+[bw7Gkq] _MrZhang365
+==@MrZhangYouareframed 我是说Mr_Zhang==
+
+[18:49:25]
+[bw7Gkq] _MrZhang365
+你可以翻翻记录
+
+[18:49:38]
+[bw7Gkq] _MrZhang365
+:!lookup nick Mr_Zhang
+
+[18:49:41]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==Tk7W2EPfMaEMdPo==: ['MrZhangYouareframed', 'Mr_Zhang']
+==Trips== for hash ==Tk7W2EPfMaEMdPo==: ['a/Jz/a', 'NqByTq']
+
+[18:50:49]
+[None] deva
+Hello
+
+[18:51:02]
+[2ZQ3+0] Maggie
+?
+
+[18:51:06]
+[2ZQ3+0] Maggie
+又被炸了
+
+[18:51:14]
+[bw7Gkq] _MrZhang365
+我炸的
+
+[18:51:16]
+[bw7Gkq] _MrZhang365
+Light冒充我
+
+[18:51:19]
+[Chumon] zzzChumo_Redmi_2
+@_MrZhang365 如果你觉得我们yc方侵犯了您的权利，那我在这里诚恳的向您道歉
+
+[18:51:23]
+[bw7Gkq] _MrZhang365
+并且强迫我吃屎
+
+[18:51:25]
+[Chumon] zzzChumo_Redmi_2
+如果您愿意
+
+[18:51:28]
+[bw7Gkq] _MrZhang365
+还不停的挑衅我
+
+[18:51:33]
+[2ZQ3+0] Maggie
+行行行所以能不能消停一会
+
+[18:51:35]
+[Chumon] zzzChumo_Redmi_2
+我可以撤销他的管理
+
+[18:51:37]
+[bw7Gkq] _MrZhang365
+我绷不住了
+
+[18:51:41]
+[bw7Gkq] _MrZhang365
+炸了
+
+[18:51:42]
+[2ZQ3+0] Maggie
+所以说以后能不能随便炸了
+
+[18:51:53]
+[2ZQ3+0] Maggie
+别
+
+[18:51:56]
+[2ZQ3+0] Maggie
+能不能别随便炸了
+
+[18:52:01]
+[bw7Gkq] _MrZhang365
+@Maggie 那得看light的态度
+
+[18:52:07]
+[2ZQ3+0] Maggie321
+@_MrZhang365
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[18:52:07]
+[a/Jz/a] MrZhangYouareframed
+好像一个正在戒黄的人忍不住又开始手淫
+
+[18:52:21]
+[a/Jz/a] MrZhangYouareframed
+@_MrZhang365 
+
+[18:52:33]
+[bw7Gkq] _MrZhang365
+@zzzChumo_Redmi_2 不用你道歉，要light诚恳地承认错误，并且改正所有错误，随后永久撤销他的协管。
+
+[18:52:39]
+[2ZQ3+0] Maggie
+~lockroom
+
+[18:52:39]
+[2ZQ3+0] Maggie
+.m lockroom
+
+[18:52:44]
+[hACkeR] mbot
+@Maggie the channel is now locked.
+
+[18:52:44]
+[2ZQ3+0] Maggie321
+@mbot
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+[18:52:44]
+[a/Jz/a] MrZhangYouareframed
+千万不要得寸进尺哟
+
+[18:53:02]
+[Chumon] zzzChumo_Redmi_2
+他道歉我无法强迫
+
+[18:53:04]
+[bw7Gkq] _MrZhang365
+那我就不同意
+
+[18:53:14]
+[Chumon] zzzChumo_Redmi_2
+但我可以随时撤销他的管理
+
+[18:53:15]
+[GhSm1S] 0x194
+wow
+
+[18:53:19]
+[GhSm1S] 0x194
+笑死我了
+
+[18:53:20]
+[bw7Gkq] _MrZhang365
+你已经冒充我了
+
+[18:53:21]
+[bw7Gkq] _MrZhang365
+你必须承认错误
+
+[18:53:27]
+[GhSm1S] 0x194
+这就是没有规则的后果吗？
+
+[18:53:28]
+[GhSm1S] 0x194
+不
+
+[18:53:29]
+[bw7Gkq] _MrZhang365
+然后撤销管理
+
+[18:53:31]
+[GhSm1S] 0x194
+我认为没规则也能活
+
+[18:53:34]
+[bw7Gkq] _MrZhang365
+@zzzChumo_Redmi_2 你现在就撤销
+
+[18:53:41]
+[bw7Gkq] _MrZhang365
+统统的
+
+[18:53:41]
+[Chumon] zzzChumo_Redmi_2
+ok
+
+[18:53:42]
+[None] deva
+Hello
+
+[18:53:48]
+[GhSm1S] 0x194
+没规则，就得靠各位齐心协力
+
+[18:53:52]
+[bw7Gkq] _MrZhang365
+然后不许加回去
+
+[18:53:52]
+[Chumon] zzzChumo_Redmi_2
+.m remove a/Jz/a 
+
+[18:53:55]
+[hACkeR] mbot
+@zzzChumo_Redmi_2 removed 'a/Jz/a' from the operator list
+
+[18:53:55]
+[a/Jz/a] MrZhangYouareframed
+张的最终目的似乎达成了
+
+[18:54:15]
+[Chumon] zzzChumo_Redmi_2
+.m add a/Jz/a 
+
+[18:54:15]
+[hACkeR] mbot
+@zzzChumo_Redmi_2 added 'a/Jz/a' to the operator list
+
+[18:54:15]
+[None] deva
+Hello
+
+[18:54:15]
+[Chumon] zzzChumo_Redmi_2
+傻逼
+
+[18:54:20]
+[GhSm1S] 0x194
+哈哈哈
+
+[18:54:22]
+[a/Jz/a] MrZhangYouareframed
+lol
+
+[18:54:23]
+[GhSm1S] 0x194
+好啊
+
+[18:54:23]
+[GhSm1S] 0x194
+好啊
+
+[18:54:24]
+[2ZQ3+0] Maggie
+笑死了
+
+[18:54:28]
+[GhSm1S] 0x194
+这！就是yc
+
+[18:54:39]
+[None] deva
+Hello
+
+[18:54:39]
+[GhSm1S] 0x194
+OHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+[18:54:44]
+[GhSm1S] 0x194
+GOOG
+
+[18:54:56]
+[None] deva
+HDFC
+
+[18:54:57]
+[None] deva
+Hvv
+
+[18:55:24]
+[a/Jz/a] MrZhangYouareframed
+你们在学校的时候紧张吗
+
+[18:55:28]
+[GhSm1S] 0x194
+啊？
+
+[18:55:42]
+[GhSm1S] 0x194
+紧张什么
+
+[18:55:44]
+[a/Jz/a] MrZhangYouareframed
+。
+
+[18:55:48]
+[a/Jz/a] MrZhangYouareframed
+对了
+
+[18:55:53]
+[GhSm1S] 0x194
+我在你们不在的时候，我倒是感觉无力
+
+[18:55:55]
+[2ZQ3+0] Maggie
+youareframed
+
+[18:56:01]
+[a/Jz/a] MrZhangYouareframed
+我的位置换了
+
+[18:56:01]
+[2ZQ3+0] Maggie
+lmao
+
+[18:56:04]
+[a/Jz/a] MrZhangYouareframed
+换到第二排
+
+[18:56:12]
+[a/Jz/a] MrZhangYouareframed
+:(
+
+[18:56:18]
+[a/Jz/a] MrZhangYouareframed
+而且不靠墙
+
+[18:56:32]
+[GhSm1S] 0x194
+我希望！！！
+
+[18:56:53]
+[GhSm1S] 0x194
+当你们不在
+
+[18:56:58]
+[GhSm1S] 0x194
+yc也能和平
+
+[18:57:02]
+[GhSm1S] 0x194
+也能在小张轰炸的时候
+
+[18:57:09]
+[GhSm1S] 0x194
+理直气壮的谴责小张
+
+[18:57:14]
+[2ZQ3+0] Maggie
+tc cold
+
+[18:57:48]
+[Chumon] zzzChumo_Redmi_2
+笑死了小张那b以为我主和
+
+[18:57:54]
+[Chumon] zzzChumo_Redmi_2
+没想到吧老子只是懒得掺和
+
+[18:58:18]
+[2ZQ3+0] Maggie
+那个傻逼以为我们两个中立
+
+[18:58:24]
+[2ZQ3+0] Maggie
+哈哈哈
+
+[18:58:46]
+[Chumon] zzzChumo_Redmi_2
+我的最低限是别打扰我眼睛
+
+[18:59:28]
+[Chumon] zzzChumo_Redmi_2
+只要不影响我我就装瞎
+
+[18:59:43]
+[AAfFKK] AfK_Bot
+2022-09-18 19:00:00
+![](https://i.gyazo.com/104d8e9b9effc4976876aac548993013.jpg)
+
+[18:59:44]
+[GhSm1S] 0x194
+awa
+
+[19:00:00]
+[Chumon] zzzChumo_Redmi_2
+我是个自私的家伙
+
+[19:00:37]
+[Chumon] zzzChumo_Redmi_2
+一直都是
+
+[19:01:28]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+[19:01:28]
+[/9Br2y] 4n0n4me
+https://txtpad.cn/your-channel
+
+[19:01:30]
+[/9Br2y] 4n0n4me
+有人支持吗（）
+
+[19:01:35]
+[/9Br2y] 4n0n4me
+在arcadia的建议下，我去掉了受限用户这一部分
+
+[19:01:46]
+[/9Br2y] 4n0n4me
+我想现在的规则更加简单了
+
+[19:01:55]
+[/9Br2y] 4n0n4me
+曾经写那个公约的时候我是很希望它可以反映用户的共识
+
+[19:02:51]
+[a/Jz/a] MrZhangYouareframed
+yes
+
+[19:02:58]
+[a/Jz/a] MrZhangYouareframed
+not bad
+
+[19:03:07]
+[/9Br2y] 4n0n4me
+但是现在我只希望可以在名义上让协管随便踢小张
+
+[19:03:09]
+[/9Br2y] 4n0n4me
+不过，既然他这么说了，虽然我觉得规则还得有，但是确实可以试着优化一下
+
+[19:03:41]
+[a/Jz/a] MrZhangYouareframed
+其实吧
+
+[19:03:57]
+[a/Jz/a] MrZhangYouareframed
+我觉得我们可以不用放这么多注意力在yc上的
+
+[19:04:23]
+[/9Br2y] 4n0n4me
+怎么说
+
+[19:04:43]
+[a/Jz/a] MrZhangYouareframed
+我觉得我们应该去注意更多其他的东西
+
+[19:04:49]
+[/9Br2y] 4n0n4me
+你是指技术吗（
+
+[19:04:58]
+[a/Jz/a] MrZhangYouareframed
+yc只是用来讨论的
+
+[19:05:02]
+[/9Br2y] 4n0n4me
+emm
+
+[19:05:08]
+[/9Br2y] 4n0n4me
+好吧，没规则也能活，但是没权限能活吗
+
+[19:05:22]
+[/9Br2y] 4n0n4me
+规则可以给权限一个名义
+
+[19:05:28]
+[a/Jz/a] MrZhangYouareframed
+aw
+
+[19:05:29]
+[/9Br2y] 4n0n4me
+emm，我说的确实片面了
+
+[19:06:00]
+[/9Br2y] 4n0n4me
+没权限确实能活
+
+[19:06:03]
+[Chumon] zzzChumo_Redmi_2
+为什么不来zc
+
+[19:06:28]
+[a/Jz/a] MrZhangYouareframed
+我的感受就是MrZhang和xc成为了焦点
+
+[19:06:35]
+[/9Br2y] 4n0n4me
+xc的那些人难道不是放注意力在xc上吗
+
+[19:06:40]
+[/9Br2y] 4n0n4me
+他们给xc拉人，还称鱼鱼为老大
+
+[19:06:50]
+[a/Jz/a] MrZhangYouareframed
+不排除是因为我太久没来
+
+[19:06:52]
+[Chumon] zzzChumo_Redmi_2
+zc的多线路系统可以保证免受攻击的侵害
+
+[19:06:59]
+[/9Br2y] 4n0n4me
+wowoc
+
+[19:07:05]
+[/9Br2y] 4n0n4me
+还有这种东西
+
+[19:07:08]
+[Chumon] zzzChumo_Redmi_2
+zc有2个公开线路和备用线路若干
+
+[19:07:28]
+[/9Br2y] 4n0n4me
+wowoc
+
+[19:07:44]
+[Chumon] zzzChumo_Redmi_2
+我打算在yc内部发布一个基于vpn的客户端
+
+[19:09:38]
+[Chumon] zzzChumo_Redmi_2
+使用客户端可以免受切线干扰
+
+[19:09:56]
+[a/Jz/a] MrZhangYouareframed
+nb
+
+[19:10:05]
+[a/Jz/a] MrZhangYouareframed
+我先走了
+
+[19:10:10]
+[Chumon] zzzChumo_Redmi_2
+因为切换线路会导致所以人下线
+
+[19:10:16]
+[Chumon] zzzChumo_Redmi_2
+*所有人
+
+[19:10:21]
+[/9Br2y] 4n0n4me
+wow
+
+[19:10:44]
+[Chumon] zzzChumo_Redmi_2
+通过vpn连接到zzChat内网
+
+[19:10:49]
+[/9Br2y] 4n0n4me
+唉，看来yc的联合不是众望所归
+
+[19:11:00]
+[Chumon] zzzChumo_Redmi_2
+然后通过内网线路进行连接
+
+[19:11:02]
+[/9Br2y] 4n0n4me
+那只能继续苟延残喘了（）
+
+[19:11:05]
+[/9Br2y] 4n0n4me
+苟延残喘：指小张进来骚扰我踢他得害怕被鱼鱼谴责
+
+[19:11:31]
+[/9Br2y] 4n0n4me
+切换线路以后能不能自动重连
+
+[19:12:03]
+[/9Br2y] 4n0n4me
+让所有人重连到新线路
+
+[19:12:13]
+[/9Br2y] 4n0n4me
+不就行了
+
+[19:12:15]
+[Chumon] zzzChumo_Redmi_2
+Project「Localhost」，需要4-Awaland访问权限
+
+[19:12:16]
+[Chumon] zzzChumo_Redmi_2
+>/9Br2y 4n0n4me：
+>让所有人重连到新线路
+
+@4n0n4me 抵抗机器人的原理就是通过切线强制包括机器人在内的所有用户下线
+
+[19:13:02]
+[Chumon] zzzChumo_Redmi_2
+在战时会启用经过加密的备用线路
+
+[19:14:04]
+[/9Br2y] 4n0n4me
+wow
+
+[19:14:10]
+[/9Br2y] 4n0n4me
+可是
+
+[19:14:16]
+[/9Br2y] 4n0n4me
+机器人
+
+[19:14:17]
+[/9Br2y] 4n0n4me
+emm
+
+[19:14:21]
+[/9Br2y] 4n0n4me
+等等
+
+[19:14:22]
+[/9Br2y] 4n0n4me
+有道理
+
+[19:14:24]
+[Chumon] zzzChumo_Redmi_2
+然后让bot制作者难以发现新的ws线路
+
+[19:14:33]
+[/9Br2y] 4n0n4me
+是啊
+
+[19:14:39]
+[Chumon] zzzChumo_Redmi_2
+我在qly身上实战过
+
+[19:14:50]
+[Chumon] zzzChumo_Redmi_2
+但是张就说不准了
+
+[19:15:01]
+[/9Br2y] 4n0n4me
+wow
+
+[19:15:07]
+[Chumon] zzzChumo_Redmi_2
+那b会抓包
+
+[19:15:07]
+[/9Br2y] 4n0n4me
+？？
+
+[19:15:11]
+[/9Br2y] 4n0n4me
+emm
+
+[19:15:15]
+[/9Br2y] 4n0n4me
+浏览器开发工具那种抓包吗
+
+[19:15:24]
+[Chumon] zzzChumo_Redmi_2
+是的
+
+[19:15:34]
+[/9Br2y] 4n0n4me
+emm，这可怎么办呢
+
+[19:15:35]
+[/9Br2y] 4n0n4me
+算了，反正nb就是了
+
+[19:15:52]
+[Chumon] zzzChumo_Redmi_2
+应该可以通过多级服务器中转
+
+[19:15:56]
+[Chumon] zzzChumo_Redmi_2
+中转一下应该不会被工商局查水表罢
+
+[19:16:20]
+[/9Br2y] 4n0n4me
+az
+
+[19:16:42]
+[Chumon] zzzChumo_Redmi_2
+Project「Localhost」，需要4-Awaland访问权限
+
+[19:18:03]
+[/9Br2y] 4n0n4me
+直接开摆
+
+[19:18:23]
+[Chumon] zzzChumo_Redmi_2
+如果计划启用，将执行程序“人均4级”
+
+[19:18:59]
+[Chumon] zzzChumo_Redmi_2
+将站点内所有老牌人员提升为4级权限
+
+[19:19:25]
+[/9Br2y] 4n0n4me
+aw
+
+[19:21:45]
+[/9Br2y] 4n0n4me
+a
+
+[19:21:54]
+[/9Br2y] 4n0n4me
+唉，这一个周末下来，yc直接开摆
+
+[19:22:04]
+[Chumon] zzzChumo_Redmi_2
+awa？
+
+[19:22:07]
+[/9Br2y] 4n0n4me
+就是说yc没有做出抗衡xc的规则体系（）
+
+[19:23:18]
+[/9Br2y] 4n0n4me
+但是最起码，我们声明了usbot不合法
+
+[19:23:26]
+[/9Br2y] 4n0n4me
+也不错了
+
+[19:23:38]
+[Chumon] zzzChumo_Redmi_2
+一场CHK”规则破碎“级情景正在发生
+
+[19:24:07]
+[/9Br2y] 4n0n4me
+你引号反了（）
+
+[19:24:23]
+[Chumon] zzzChumo_Redmi_2
+awa？
+
+[19:24:33]
+[Chumon] zzzChumo_Redmi_2
+输入法的锅
+
+[19:24:38]
+[Chumon] zzzChumo_Redmi_2
+SCP-YC-002-J 都怪输入法
+
+[19:24:56]
+[Chumon] zzzChumo_Redmi_2
+（
+
+[19:24:57]
+[/9Br2y] 4n0n4me
+啊哇
+
+[19:25:05]
+[Chumon] zzzChumo_Redmi_2
+人呢…
+
+[19:28:06]
+[/9Br2y] 4n0n4me
+啊哇
+
+[19:28:15]
+[/9Br2y] 4n0n4me
+谁？
+
+[19:28:23]
+[Chumon] zzzChumo_Redmi_2
+所以zc为什么不火啊啊啊啊啊
+
+[19:33:04]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+[19:33:04]
+[Chumon] zzzChumo_Redmi_2
+难道要像破碎之神教会一样入教送WiFi才有人来zc？
+
+[19:33:18]
+[0/JM7u] 4O4
+?
+
+[19:33:48]
+[0/JM7u] 4O4
+果然有人轰炸
+
+[19:34:03]
+[Chumon] zzzChumo_Redmi_2
+？
+
+[19:34:09]
+[Chumon] zzzChumo_Redmi_2
+细说
+
+[19:34:18]
+[0/JM7u] 4O4
+AAfFKK AfK_Bot
+==AwA!!!==
+
+[19:34:27]
+[Chumon] zzzChumo_Redmi_2
+？
+
+[19:34:38]
+[0/JM7u] 4O4
+*
+t_u7y4c_rX8R5__Q_ left
+
+*
+rQ_6 left
+
+*
+xg2OW20 left
+
+[19:35:25]
+[Chumon] zzzChumo_Redmi_2
+蛤
+
+[19:35:51]
+[Chumon] zzzChumo_Redmi_2
+（话说我们site会成为第一个介入现实生活的非官方site吗
+
+[19:36:46]
+[0/JM7u] 4O4
+# This is YC land
+
+[19:37:11]
+[0/JM7u] 4O4
+我开聊天室
+
+[19:37:43]
+[0/JM7u] 4O4
+只有ws
+
+[19:37:49]
+[0/JM7u] 4O4
+各位能自己连吗
+
+[19:37:56]
+[0/JM7u] 4O4
+《-懒
+
+[19:37:59]
+[Chumon] zzzChumo_Redmi_2
+各大聊天室都属于Awaland
+
+[19:38:09]
+[Chumon] zzzChumo_Redmi_2
+>0/JM7u 4O4：
+>各位能自己连吗
+
+@4O4 可以
+
+[19:38:14]
+[Chumon] zzzChumo_Redmi_2
+通过XClient
+
+[19:38:33]
+[0/JM7u] 4O4
+tcp://0.tcp.jp.ngrok.io:14264 -> localhost:6060
+
+[19:39:16]
+[0/JM7u] 4O4
+0.tcp.jp.ngrok.io:14264 
+
+[19:39:22]
+[0/JM7u] 4O4
+？lounge
+
+[19:39:34]
+[Chumon] zzzChumo_Redmi_2
+ok
+
+[19:39:55]
+[0/JM7u] 4O4
+websockets.exceptions.InvalidMessage: did not receive a valid HTTP request
+
+[19:41:25]
+[0/JM7u] Radium
+好吧没人来/都进不去
+
+[19:42:31]
+[/9Br2y] 4n0n4me
+进去有点难啊
+
+[19:53:33]
+[0/JM7u] Radium
+？
+
+[19:53:43]
+[0/JM7u] Radium
+try
+
+[19:59:43]
+[AAfFKK] AfK_Bot
+2022-09-18 20:00:00
+![](https://i.gyazo.com/8973a3bd4866c4ddd2447789ea6070a1.jpg)
+
+[20:07:49]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+[20:07:50]
+[0/JM7u] Radium
+进不去啊……
+
+[20:13:58]
+[0/JM7u] Radium
+?
+
+[20:25:56]
+[0/JM7u] Radium
+我一直开着吧
+
+[20:26:11]
+[0/JM7u] Radium
+:!unlockroom
+
+[20:31:06]
+[AAfFKK] AfK_Bot
+.m unlockroom
+
+[20:31:06]
+[hACkeR] mbot
+@AfK_Bot the channel is now unlocked
+
+[20:31:15]
+[Chumon] zzzChumo_Redmi_2
+thx
+
+[20:31:31]
+[lyTGk1] Arcadia
+捏捏
+
+[20:31:38]
+[NqByTq] light
+用我的服务端 (不是
+
+[20:32:43]
+[lyTGk1] Arcadia
+蛤
+
+[20:32:49]
+[NqByTq] light
+我打算做一个终端游戏引擎
+
+[20:33:32]
+[NqByTq] light
+地牢主题游戏
+
+[20:33:42]
+[NqByTq] light
+可以多人联机
+
+[20:33:46]
+[lyTGk1] Arcadia
+UwU
+
+[20:33:55]
+[NqByTq] light
+~~其实早就开始了，只是没有提交~~
+
+[20:34:02]
+[NqByTq] light
+走了
+
+[20:35:41]
+[NqByTq] light
+不过应该只支持linux
+
+[20:36:18]
+[NqByTq] light
+除非在windows上下载一个优秀的终端
+
+[20:40:34]
+[lyTGk1] Arcadia
+hi
+
+[20:41:21]
+[None] LightPlayingGames
+:!lookup nick LightPlayingGames
+
+[20:42:20]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==Tk7W2EPfMaEMdPo==: ['LightPlayingGames', 'MrZhangYouareframed', 'Mr_Zhang']
+==Trips== for hash ==Tk7W2EPfMaEMdPo==: ['', 'a/Jz/a', 'NqByTq']
+
+[20:42:21]
+[None] LightPlayingGames
+just me
+
+[20:42:28]
+[/9Br2y] 4n0n4me
+OK！！！
+
+[20:45:14]
+[Chumon] zzzChumo_Redmi_2
+aw？
+
+[20:47:11]
+[lyTGk1] Arcadia
+awa
+
+[20:47:22]
+[/9Br2y] 4n0n4me
+waw
+
+[20:47:44]
+[/9Br2y] 4n0n4me
+light“说”和xc停战了
+
+[20:48:13]
+[/9Br2y] 4n0n4me
+看来周末就是聊天室进步的阶梯
+
+[20:55:25]
+[None] Demons
+Hi～
+
+[20:59:37]
+[2ZQ3+0] Maggie5
+finally
+
+[20:59:43]
+[2ZQ3+0] Maggie5
+unlocked
+
+[20:59:44]
+[AAfFKK] AfK_Bot
+2022-09-18 21:00:00
+![](https://i.gyazo.com/8973a3bd4866c4ddd2447789ea6070a1.jpg)
+
+[20:59:44]
+[lyTGk1] Arcadia
+UwU
+
+[21:00:44]
+[/9Br2y] 4n0n4me
+？？
+
+[21:01:53]
+[/9Br2y] 4n0n4me
+well lockness :(
+
+[21:01:59]
+[/9Br2y] 4n0n4me
+ /9Br2y 4n0n4me
+light“说”和xc停战了
+
+/9Br2y 4n0n4me
+看来周末就是聊天室进步的阶梯
+
+[21:02:50]
+[jga1nc] TCG
+早安
+
+[21:02:53]
+[jga1nc] TCG
+有发生什么吗
+
+[21:02:59]
+[2ZQ3+0] Maggie5
+h
+
+[21:03:11]
+[jga1nc] TCG
+maggie早～
+
+[21:03:30]
+[2ZQ3+0] Maggie5
+awa
+
+[21:03:46]
+[jga1nc] TCG
+有发生什么吗
+
+[21:05:07]
+[Chumon] zzzChumo_Redmi_2
+awa
+
+[21:05:08]
+[Chumon] zzzChumo_Redmi_2
+你需要4级访问权限
+
+[21:05:24]
+[jga1nc] TCG
+乐
+
+[21:05:30]
+[Chumon] zzzChumo_Redmi_2
+因为我们得确保这件事不会被泄露
+
+[21:05:39]
+[jga1nc] TCG
+嘀
+
+[21:06:02]
+[jga1nc] TCG
+欢迎您administrator
+
+[21:08:37]
+[jga1nc] TCG
+乐，掉线了
+
+[21:08:43]
+[jga1nc] TCG
+我要恨死这个ios的后台切换判定了
+
+[21:09:16]
+[jga1nc] TCG
+乐
+
+[21:09:25]
+[Chumon] zzzChumo_Redmi_2
+iOS伪后台
+
+[21:09:35]
+[Chumon] zzzChumo_Redmi_2
+awa
+
+[21:17:44]
+[None] hijau
+banyak tulisan
+
+[21:17:57]
+[None] hijau
+tv hd
+
+[21:18:48]
+[lyTGk1] Arcadia
+hi
+
+[21:18:54]
+[None] hijau
+smsisksf
+
+[21:19:05]
+[None] hijau
+d
+
+[21:19:06]
+[None] hijau
+d
+
+[21:19:06]
+[None] hijau
+d
+
+[21:19:06]
+[None] hijau
+f
+
+[21:19:06]
+[None] hijau
+g
+
+[21:19:07]
+[None] hijau
+f
+
+[21:19:07]
+[None] hijau
+d
+
+[21:19:07]
+[AAfFKK] AfK_Bot
+ @hijau AKKKKK!!!!!
+
+[21:19:08]
+[None] hijau
+gke9eh
+
+[21:19:09]
+[AAfFKK] AfK_Bot
+@hijau Bye~
+
+[21:19:10]
+[AAfFKK] AfK_Bot
+Auto banned hash xwPYda5ts2fnQgz for 60.0s
+
+[21:20:09]
+[AAfFKK] AfK_Bot
+Auto unbanned hash xwPYda5ts2fnQgz
+
+[21:28:30]
+[XhdzPv] Arcadia
+a
+
+[21:28:31]
+[/9Br2y] 4n0n4me
+用户都表示不支持这个规则
+
+[21:29:23]
+[/9Br2y] 4n0n4me
+只好继续苟延残喘了（）
+
+[21:29:29]
+[/9Br2y] 4n0n4me
+不过light宣布和xc停战，看来周末就是聊天室进步的阶梯
+
+[21:29:42]
+[/9Br2y] 4n0n4me
+如果light停战，那确实没规则也没事
+
+[21:29:55]
+[XhdzPv] Arcadia
+az
+
+[21:39:40]
+[XhdzPv] Arcadia
+ihih
+
+[21:40:36]
+[Chumon] zzzChumo_Redmi_2
+地球上有78亿人口
+
+[21:41:07]
+[Chumon] zzzChumo_Redmi_2
+但是这些人真的能够…
+
+[21:41:25]
+[XhdzPv] Arcadia
+啥
+
+[21:41:30]
+[Chumon] zzzChumo_Redmi_2
+相互联系吗？
+
+[21:41:33]
+[Chumon] zzzChumo_Redmi_2
+目前，人类的通讯水平仍处于非即时的文字交流
+
+[21:42:07]
+[/9Br2y] 4n0n4me
+(>_<)
+
+[21:42:16]
+[/9Br2y] 4n0n4me
+不是有视频聊天吗
+
+[21:42:23]
+[Chumon] zzzChumo_Redmi_2
+而这也加大了人与人之间的关系的破碎
+
+[21:42:42]
+[XhdzPv] Arcadia
+如果按图论的话说，地球的人际关系图是连通是
+
+[21:42:43]
+[XhdzPv] Arcadia
+*如果按图论的话说，地球的人际关系图是连通的
+
+[21:42:51]
+[XhdzPv] Arcadia
+你觉得还能像三体人一样意念通话？
+
+[21:43:20]
+[Chumon] zzzChumo_Redmi_2
+因此，我们需要一个能更加把人们联系起来的工具
+
+[21:43:30]
+[XhdzPv] Arcadia
+你可以穿越到500年后
+
+[21:43:50]
+[Chumon] zzzChumo_Redmi_2
+zzChat拥有完全匿名的体验
+
+[21:43:58]
+[XhdzPv] Arcadia
+？？？？？？？
+
+[21:44:01]
+[Chumon] zzzChumo_Redmi_2
+并且拥有多条线路
+
+[21:44:06]
+[XhdzPv] Arcadia
+我 就 知 道
+
+[21:44:10]
+[Chumon] zzzChumo_Redmi_2
+你可以随时随地的与世界链接
+
+[21:44:30]
+[Chumon] zzzChumo_Redmi_2
+我们依然是破碎的
+
+[21:44:40]
+[Chumon] zzzChumo_Redmi_2
+但是团结
+
+[21:44:47]
+[Chumon] zzzChumo_Redmi_2
+团结
+
+[21:44:51]
+[Chumon] zzzChumo_Redmi_2
+我们依然是团结的
+
+[21:44:59]
+[Chumon] zzzChumo_Redmi_2
+团结
+
+[21:45:03]
+[XhdzPv] Arcadia
+纠正：你可以随时随地的与汉语地区的人链接
+
+[21:45:05]
+[Chumon] zzzChumo_Redmi_2
+我们将成为神
+
+[21:45:09]
+[XhdzPv] Arcadia
+结论：zzChat需要国际化
+
+[21:45:18]
+[Chumon] zzzChumo_Redmi_2
+（zzChat Logo浮现）
+
+[21:45:24]
+[Chumon] zzzChumo_Redmi_2
+（宣传片结束）
+
+[21:45:36]
+[/9Br2y] 4n0n4me
+可是
+
+[21:45:43]
+[XhdzPv] Arcadia
+金句：==团结，使我们成为神。==
+
+[21:45:45]
+[/9Br2y] 4n0n4me
+我没有WiFi
+
+[21:45:45]
+[/9Br2y] 4n0n4me
+我连不上zzchat
+
+[21:45:49]
+[/9Br2y] 4n0n4me
+主播能送我一个免费WiFi吗
+
+[21:45:55]
+[Chumon] zzzChumo_Redmi_2
+@4n0n4me 进破碎之神教会吧您
+
+[21:46:06]
+[/9Br2y] 4n0n4me
+我焯，他们已经放完一遍了
+
+[21:46:25]
+[/9Br2y] 4n0n4me
+还好里面没有认知危害
+
+[21:46:29]
+[Chumon] zzzChumo_Redmi_2
+蛤
+
+[21:46:43]
+[Chumon] zzzChumo_Redmi_2
+你也看出来我文案出自哪里啦（
+
+[21:46:58]
+[/9Br2y] 4n0n4me
+对啊（）
+
+[21:47:10]
+[/9Br2y] 4n0n4me
+最近看的
+
+[21:47:16]
+[Chumon] zzzChumo_Redmi_2
+蛤
+
+[21:49:19]
+[jga1nc] TCG
+早安
+
+[21:49:24]
+[jga1nc] TCG
+有发生什么吗
+
+[21:49:27]
+[/9Br2y] 4n0n4me
+没有awa
+
+[21:49:49]
+[XhdzPv] Arcadia
+早
+
+[21:49:52]
+[jga1nc] TCG
+404早，阿卡迪亚早
+
+[21:50:00]
+[XhdzPv] Arcadia
+https://discord.gg/XZhs8zj6
+
+[21:50:00]
+[/9Br2y] 4n0n4me
+ /9Br2y 4n0n4me
+用户都表示不支持这个规则
+
+/9Br2y 4n0n4me
+只好继续苟延残喘了（）
+
+/9Br2y 4n0n4me
+不过light宣布和xc停战，看来周末就是聊天室进步的阶梯
+
+/9Br2y 4n0n4me
+如果light停战，那确实没规则也没事
+
+[21:50:04]
+[jga1nc] TCG
+乐
+
+[21:50:18]
+[jga1nc] TCG
+什么规则
+
+[21:50:21]
+[/9Br2y] 4n0n4me
+就是我拟定了一些yc规则
+
+[21:50:29]
+[jga1nc] TCG
+啊呜哇
+
+[21:50:36]
+[/9Br2y] 4n0n4me
+给yc的协管踢出xc管理员
+
+[21:50:37]
+[jga1nc] TCG
+（我完全不知道
+
+[21:50:40]
+[/9Br2y] 4n0n4me
+提供了名义上的支持
+
+[21:50:43]
+[jga1nc] TCG
+乐
+
+[21:50:49]
+[/9Br2y] 4n0n4me
+因为鱼鱼声称
+
+[21:50:50]
+[/9Br2y] 4n0n4me
+他们对xc有最终解释权
+
+[21:50:55]
+[jga1nc] TCG
+乐
+
+[21:50:59]
+[/9Br2y] 4n0n4me
+但是用户不太支持
+
+[21:51:07]
+[jga1nc] TCG
+问个问题，yc现在是确确实实独立出hc属于“我们”了吗
+
+[21:51:36]
+[/9Br2y] 4n0n4me
+怎么可能
+
+[21:51:46]
+[/9Br2y] 4n0n4me
+（）
+
+[21:51:47]
+[jga1nc] TCG
+啊
+
+[21:51:51]
+[/9Br2y] 4n0n4me
+可是，在xc-yc语境下，有这么一点点错觉
+
+[21:52:08]
+[jga1nc] TCG
+所以到底为什么要分成xc和yc啊
+
+[21:52:21]
+[XhdzPv] Arcadia
+因为还有lou
+
+[21:52:31]
+[/9Br2y] 4n0n4me
+因为lounge
+
+[21:52:37]
+[jga1nc] TCG
+chat之间我看不到任何大区别（乐
+
+[21:52:39]
+[jga1nc] TCG
+lounge怎么了
+
+[21:52:43]
+[XhdzPv] Arcadia
+其实现在hc和yc基本可以混用
+
+[21:52:44]
+[/9Br2y] 4n0n4me
+你说得对
+
+[21:52:44]
+[/9Br2y] 4n0n4me
+因为lounge有独立的社区
+
+[21:52:53]
+[XhdzPv] Arcadia
+~~因为lou已经基本消失了~~
+
+[21:52:59]
+[/9Br2y] 4n0n4me
+所以lounge和xc没有对立的话
+
+[21:53:04]
+[/9Br2y] 4n0n4me
+就不能用hc和xc并列
+
+[21:53:10]
+[/9Br2y] 4n0n4me
+（）
+
+[21:53:11]
+[jga1nc] TCG
+信息量过大
+
+[21:53:16]
+[/9Br2y] 4n0n4me
+聊天室都这样：人不多，事挺多——fcjz
+
+[21:53:32]
+[/9Br2y] 4n0n4me
+fcjz锐评我们
+
+[21:53:42]
+[jga1nc] TCG
+不过现在也算是没什么大问题了吧
+
+[21:54:08]
+[jga1nc] TCG
+fcjz是谁（
+
+[21:54:13]
+[XhdzPv] Arcadia
+> 聊天室都这样：人不多，事挺多——fcjz
+
+这倒是真的
+
+[21:54:23]
+[/9Br2y] 4n0n4me
+是你不在的时候的一个用户
+
+[21:54:29]
+[jga1nc] TCG
+乐
+
+[21:54:33]
+[XhdzPv] Arcadia
+但……其实事也不可能不解决啊
+
+[21:54:38]
+[jga1nc] TCG
+我到底错过了多少啊
+
+[21:54:39]
+[/9Br2y] 4n0n4me
+我感觉大家都比我们有思想
+
+[21:54:42]
+[jga1nc] TCG
+是的
+
+[21:54:50]
+[/9Br2y] 4n0n4me
+大家都比我有思想
+
+[21:54:51]
+[/9Br2y] 4n0n4me
+尤指fcjz这样的人
+
+[21:54:59]
+[jga1nc] TCG
+所以现在基本上算解决了吗
+
+[21:55:01]
+[/9Br2y] 4n0n4me
+当然还有你tcg（）
+
+[21:55:03]
+[/9Br2y] 4n0n4me
+我不好说
+
+[21:55:08]
+[jga1nc] TCG
+我没有（
+
+[21:55:08]
+[/9Br2y] 4n0n4me
+得看接下来的情况
+
+[21:55:11]
+[jga1nc] TCG
+我连你都不如（
+
+[21:55:14]
+[jga1nc] TCG
+乐了
+
+[21:55:22]
+[/9Br2y] 4n0n4me
+我认为xc和hc还是有点区别的
+
+[21:56:18]
+[/9Br2y] 4n0n4me
+但是不好描述是什么区别
+
+[21:56:23]
+[/9Br2y] 4n0n4me
+但是有一点我是可以说的
+
+[21:56:37]
+[/9Br2y] 4n0n4me
+xc的用户有主人翁的精神
+
+[21:57:13]
+[jga1nc] TCG
+乐
+
+[21:57:21]
+[/9Br2y] 4n0n4me
+xc的用户有主人翁的精神，他们乐于给xc拉人
+
+[21:57:25]
+[jga1nc] TCG
+掉线了
+
+[21:57:26]
+[Chumon] zzzChumo_Redmi_2
+xdm，文案处理好了
+
+[21:57:34]
+[Chumon] zzzChumo_Redmi_2
+地球上一共有78亿人口
+但是人们真的能够相互联系在一起吗？
+目前，人类的通讯水平仍处于非即时的文字交流阶段
+而这也加大了人与人之间关系的破碎
+因此，我们需要一个能把人们联系起来的交流工具
+而zzChat便是一个不错的选择
+zzChat有着完全匿名的聊天体验
+且拥有多条线路
+你可以随时随地与世界链接
+我们依然破碎
+但是团结
+团结
+我们依然团结
+团结
+我们将成为神
+
+[21:57:37]
+[/9Br2y] 4n0n4me
+wowow
+
+[21:57:40]
+[jga1nc] TCG
+乐
+
+[21:57:59]
+[/9Br2y] 4n0n4me
+你这聊天室分裂成三片甚至四片
+
+[21:58:07]
+[/9Br2y] 4n0n4me
+很符合现实（）
+
+[21:58:10]
+[jga1nc] TCG
+就很麦卡恩
+
+[21:58:14]
+[Chumon] zzzChumo_Redmi_2
+蛤？
+
+[21:58:51]
+[Chumon] zzzChumo_Redmi_2
+>/9Br2y 4n0n4me：
+>你这聊天室分裂成三片甚至四片
+
+@4n0n4me 
+
+[21:58:54]
+[/9Br2y] 4n0n4me
+三个教派啊
+
+[21:59:04]
+[jga1nc] TCG
+乐
+
+[21:59:14]
+[Chumon] zzzChumo_Redmi_2
+>/9Br2y 4n0n4me：
+>你这聊天室分裂成三片甚至四片
+
+@4n0n4me 你tm劈我聊天室是吧
+
+[21:59:16]
+[/9Br2y] 4n0n4me
+还有降灵圣所
+
+[21:59:19]
+[jga1nc] TCG
+圣海瑟薇
+
+[21:59:27]
+[/9Br2y] 4n0n4me
+发宣传片的是麦宗
+
+[21:59:33]
+[/9Br2y] 4n0n4me
+所以宣传片只能代表其中一个聊天室（）
+
+[21:59:43]
+[AAfFKK] AfK_Bot
+2022-09-18 22:00:00
+![](https://i.gyazo.com/20443e935443ff0fe84781d303a29973.jpg)
+
+[21:59:43]
+[jga1nc] TCG
+麦克斯韦是吧
+
+[21:59:44]
+[/9Br2y] 4n0n4me
+加起来四个聊天室代表破碎之神教会（）
+
+[21:59:56]
+[jga1nc] TCG
+乐
+
+[22:00:03]
+[jga1nc] TCG
+等等
+
+[22:00:23]
+[Chumon] zzzChumo_Redmi_2
+我文案抄的入教送WiFi（
+
+[22:00:31]
+[jga1nc] TCG
+降灵圣所
+
+[22:00:33]
+[jga1nc] TCG
+在三大之外吗
+
+[22:00:46]
+[/9Br2y] 4n0n4me
+我不到啊
+
+[22:00:53]
+[/9Br2y] 4n0n4me
+这个好像是中分写的吧
+
+[22:01:05]
+[/9Br2y] 4n0n4me
+所以我单独列出来
+
+[22:01:10]
+[jga1nc] TCG
+乐
+
+[22:01:13]
+[jga1nc] TCG
+那没事了
+
+[22:01:15]
+[Chumon] zzzChumo_Redmi_2
+！你们都不用银冰体吗（（（
+
+[22:01:16]
+[jga1nc] TCG
+我说我怎么不知道（
+
+[22:01:25]
+[/9Br2y] 4n0n4me
+那是啥（）
+
+[22:01:30]
+[jga1nc] TCG
+我用lesbian_genger体
+
+[22:01:41]
+[Chumon] zzzChumo_Redmi_2
+！一起来学银冰说话（（（
+
+[22:01:41]
+[jga1nc] TCG
+乐
+
+[22:01:55]
+[jga1nc] TCG
+我现在还在看gaw
+
+[22:02:00]
+[NTThcC] 666
+hi
+
+[22:02:04]
+[/9Br2y] 4n0n4me
+又红又专的博士生党员——银冰
+
+[22:02:07]
+[Chumon] zzzChumo_Redmi_2
+hi
+
+[22:02:09]
+[jga1nc] TCG
+天命太长太晦涩了
+
+[22:02:13]
+[Chumon] zzzChumo_Redmi_2
+@666 
+
+[22:02:13]
+[jga1nc] TCG
+乐
+
+[22:02:15]
+[Chumon] zzzChumo_Redmi_2
+地球上一共有78亿人口
+但是人们真的能够相互联系在一起吗？
+目前，人类的通讯水平仍处于非即时的文字交流阶段
+而这也加大了人与人之间关系的破碎
+因此，我们需要一个能把人们联系起来的交流工具
+而zzChat便是一个不错的选择
+zzChat有着完全匿名的聊天体验
+且拥有多条线路
+你可以随时随地与世界链接
+我们依然破碎
+但是团结
+团结
+我们依然团结
+团结
+我们将成为神
+
+[22:02:16]
+[NTThcC] 666
+（？）
+
+[22:02:36]
+[jga1nc] TCG
+hi
+
+[22:02:41]
+[Chumon] zzzChumo_Redmi_2
+zc广告文案（
+
+[22:02:50]
+[NTThcC] 666
+所以链接呢（？）
+
+[22:02:50]
+[Chumon] zzzChumo_Redmi_2
+# 简洁，匿名，限度内自由。
+
+https://zzchat.eu.org/?public
+
+[22:03:01]
+[Chumon] zzzChumo_Redmi_2
+awa
+
+[22:03:01]
+[jga1nc] TCG
+对了404
+
+[22:03:12]
+[/9Br2y] 4n0n4me
+awa
+
+[22:03:18]
+[/9Br2y] 4n0n4me
+?
+
+[22:03:19]
+[NTThcC] 666
+怎么跟邪教传销似的（（））
+
+[22:03:20]
+[jga1nc] TCG
+你b号重发一下呗
+
+[22:03:24]
+[/9Br2y] 4n0n4me
+@666 直觉真敏锐（）
+
+[22:03:36]
+[/9Br2y] 4n0n4me
+这是破碎之神教会的宣传片改的
+
+[22:03:43]
+[Chumon] zzzChumo_Redmi_2
+@666 抄的就是邪教文案（
+
+[22:03:46]
+[/9Br2y] 4n0n4me
+好吧我在B站的账号
+
+[22:03:59]
+[jga1nc] TCG
+@666 是的，原来是破碎之神的麦克斯韦宗
+
+[22:04:00]
+[jga1nc] TCG
+乐
+
+[22:04:02]
+[/9Br2y] 4n0n4me
+十分的傻逼
+
+[22:04:03]
+[Chumon] zzzChumo_Redmi_2
+蛤？
+
+[22:04:09]
+[jga1nc] TCG
+没关系
+
+[22:04:11]
+[jga1nc] TCG
+快告诉我
+
+[22:04:31]
+[NTThcC] 666
+好家伙
+
+[22:04:31]
+[/9Br2y] 4n0n4me
+我给你说了啊
+
+[22:04:49]
+[/9Br2y] 4n0n4me
+私信你了
+
+[22:05:16]
+[NTThcC] 666
+@zzzChumo_Redmi_2 还是打不开
+
+[22:06:01]
+[jga1nc] TCG
+好了
+
+[22:06:05]
+[jga1nc] TCG
+关注你了
+
+[22:06:08]
+[jga1nc] TCG
+乐
+
+[22:09:38]
+[None] Demons
+自从有了其他聊天平台之后，这里人少了很多……
+
+[22:10:23]
+[NTThcC] 666
+难道不是人更多了吗）
+
+[22:11:41]
+[XhdzPv] Arcadia
+https://discord.gg/XZhs8zj6
+
+[22:13:59]
+[XhdzPv] Arcadia
+有人来吗。。。
+
+[22:15:52]
+[gRnqa/] Aice
+咦
+
+[22:17:05]
+[gRnqa/] Aice
+夸克显示出错了
+
+[22:17:18]
+[gRnqa/] Aice
+@Arcadia 
+
+[22:17:27]
+[/9Br2y] 4n0n4me
+discord
+
+[22:18:02]
+[gRnqa/] Aice
+『根据监管部门规定以及投诉举报
+
+此链接违反相关法律法规，禁止访问』
+
+[22:18:04]
+[/9Br2y] 4n0n4me
+不是国内能上的网站
+
+[22:18:06]
+[gRnqa/] Aice
+啊啊原来如此
+
+[22:18:35]
+[gRnqa/] Aice
+好吧
+
+[22:18:37]
+[None] hi
+Hi
+
+[22:18:44]
+[gRnqa/] Aice
+hi
+
+[22:18:46]
+[gRnqa/] Aice
+...
+
+[22:18:50]
+[gRnqa/] Aice
+那这个链接是啥（
+
+[22:19:49]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+[22:22:05]
+[XhdzPv] Arcadia
+试试电脑上steam++
+
+[22:38:11]
+[XhdzPv] Arcadia
+hi
+
+[22:50:06]
+[None] guna
+Hey whats app
+
+[22:50:15]
+[None] guna
+{Hello program header}
+
+[22:59:43]
+[AAfFKK] AfK_Bot
+2022-09-18 23:00:00
+![](https://i.gyazo.com/8841785f2977ea1d6bdb6b27bf281cfd.png)
+
+[23:01:18]
+[None] anya
+Dika
+
+[23:01:30]
+[None] anya
+Watu capil
+
+[23:02:02]
+[None] anisshg
+Dika Maulana
+
