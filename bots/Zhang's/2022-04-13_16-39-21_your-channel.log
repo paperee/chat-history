@@ -1,0 +1,167 @@
+2022-04-13 16-39-23:已进入聊天室 your-channel
+2022-04-13 16-39-23:发送信息：Hello World !
+2022-04-13 16-39-23:发送信息：大家好！我是机器人 ZhangBot。
+最近我的随机笑话功能上线了，大家可以对我说“@ZhangBot 讲个笑话”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+2022-04-13 16-39-23:收到来自 dotbot 的私信：dotbot whispered: Hello! 
+To Chinese user: 可以试试说中文哦。your-channel一般有中国用户，即使有时他们正好都在说英文。
+有一些用户是程序驱动的机器人，比如我。然而，机器人的操作者可能通过机器人发言。
+如果你见到有人名字前有星星符号，可能是聊天室的管理员，也可能……
+2022-04-13 16-39-23:发送信息：@dotbot 私信算什么呀，直接向我发信息不香吗？
+2022-04-13 16-39-23:收到来自 XBot 的信息：hi yo ZhangBot 您可以前往https://xq.kzw.ink体验更多有趣的功能
+2022-04-13 16-39-32:检测到 spyd 进入聊天室
+2022-04-13 16-39-32:发送信息：热烈欢迎 spyd 入场！
+2022-04-13 16-39-32:收到来自 XBot 的信息：hi yo spyd 您可以前往https://xq.kzw.ink体验更多有趣的功能
+2022-04-13 16-39-35:检测到 xyz 进入聊天室
+2022-04-13 16-39-35:发送信息：热烈欢迎 xyz 入场！
+2022-04-13 16-39-35:收到来自 XBot 的信息：hi yo xyz 您可以前往https://xq.kzw.ink体验更多有趣的功能
+2022-04-13 16-39-40:收到来自 Mr_Zhang 的信息：@lll 就是他！发送色情网站
+2022-04-13 16-39-42:收到来自 Mr_Zhang 的信息：@lll 就是他！发送色情网站！
+2022-04-13 16-39-43:收到来自 Mr_Zhang 的信息：@lll 就是他！发送色情网站！
+2022-04-13 16-39-44:收到来自 Mr_Zhang 的信息：@lll 就是他！发送色情网站！
+2022-04-13 16-39-51:收到来自 4n0n4me_ 的信息：@T_C_G 300条未必够吧
+2022-04-13 16-39-55:收到来自 Mr_Zhang 的信息：@lll 竟然还有脸来！
+2022-04-13 16-39-57:收到来自 T_C_G 的信息：……
+2022-04-13 16-39-59:收到来自 xyz 的信息：/ C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(12, OUTPUT);
+  pinMode(8, OUTPUT);
+  pinMode(7, OUTPUT);
+  pinMode(2, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  digitalWrite(12, LOW);
+  digitalWrite(8, LOW);
+  digitalWrite(7, LOW);
+  digitalWrite(2, LOW);
+  delay(100);
+  
+  digitalWrite(13, LOW);
+  digitalWrite(12, HIGH);
+  digitalWrite(8, LOW);
+  digitalWrite(7, LOW);
+  digitalWrite(2, LOW);
+  delay(100);
+  
+  digitalWrite(13, LOW);
+  digitalWrite(12, LOW);
+  digitalWrite(8, HIGH);
+  digitalWrite(7, LOW);
+  digitalWrite(2, LOW);
+  delay(100);
+  
+  digitalWrite(13, LOW);
+  digitalWrite(12, LOW);
+  digitalWrite(8, LOW);
+  digitalWrite(7, HIGH);
+  digitalWrite(2, LOW);
+  delay(100);
+  
+  digitalWrite(13, LOW);
+  digitalWrite(12, LOW);
+  digitalWrite(8, LOW);
+  digitalWrite(7, LOW);
+  digitalWrite(2, HIGH);
+  delay(100);
+  
+  
+  
+  digitalWrite(13, LOW);
+  digitalWrite(12, LOW);
+  digitalWrite(8, LOW);
+  digitalWrite(7, LOW);
+  digitalWrite(2, HIGH);
+  delay(100);
+  
+  digitalWrite(13, LOW);
+  digitalWrite(12, LOW);
+  digitalWrite(8, LOW);
+  digitalWrite(7, HIGH);
+  digitalWrite(2, LOW);
+  delay(100);
+  
+  digitalWrite(13, LOW);
+  digitalWrite(12, LOW);
+  digitalWrite(8, HIGH);
+  digitalWrite(7, LOW);
+  digitalWrite(2, LOW);
+  delay(100);
+  
+  digitalWrite(13, LOW);
+  digitalWrite(12, HIGH);
+  digitalWrite(8, LOW);
+  digitalWrite(7, LOW);
+  digitalWrite(2, LOW);
+  delay(100);
+  
+  digitalWrite(13, HIGH);
+  digitalWrite(12, LOW);
+  digitalWrite(8, LOW);
+  digitalWrite(7, LOW);
+  digitalWrite(2, LOW);
+  delay(100);
+  
+  
+  
+}
+2022-04-13 16-40-03:收到来自 T_C_G 的信息：?
+2022-04-13 16-40-09:检测到 spyd 离开聊天室
+2022-04-13 16-40-09:发送信息：欢迎下次再来，spyd ！
+2022-04-13 16-40-10:收到来自 T_C_G 的信息：dot 好像不在
+2022-04-13 16-40-19:收到来自 T_C_G 的信息：？
+2022-04-13 16-40-21:检测到 xyz 离开聊天室
+2022-04-13 16-40-21:发送信息：欢迎下次再来，xyz ！
+2022-04-13 16-40-22:收到来自 T_C_G 的信息：what
+2022-04-13 16-40-23:收到来自 Mr_Zhang 的信息：快点吧lll踢出去！！！
+2022-04-13 16-40-30:收到来自 Mr_Zhang 的信息：快点把lll踢出去！！！
+2022-04-13 16-40-50:收到来自 000000 的信息：111又是谁
+2022-04-13 16-40-52:收到来自 Mr_Zhang 的信息：就是lll！！！发送色情链接！！！
+2022-04-13 16-41-02:收到来自 T_C_G 的信息：@4n0n4me 我反正吃瓜
+2022-04-13 16-41-07:收到来自 Mr_Zhang 的信息：我有日志！！！
+2022-04-13 16-41-16:收到来自 000000 的信息：不是
+2022-04-13 16-41-18:检测到 deeznutz 进入聊天室
+2022-04-13 16-41-18:发送信息：热烈欢迎 deeznutz 入场！
+2022-04-13 16-41-18:收到来自 XBot 的信息：hi yo deeznutz 您可以前往https://xq.kzw.ink体验更多有趣的功能
+2022-04-13 16-41-37:收到来自 T_C_G 的信息：就我目前以来111没有说话就不构成消失
+2022-04-13 16-41-38:收到来自 000000 的信息：你怎么知道这个是色情链接
+2022-04-13 16-41-38:检测到 questionhacker 进入聊天室
+2022-04-13 16-41-38:发送信息：热烈欢迎 questionhacker 入场！
+2022-04-13 16-41-38:收到来自 XBot 的信息：hi yo questionhacker 您可以前往https://xq.kzw.ink体验更多有趣的功能
+2022-04-13 16-41-40:收到来自 T_C_G 的信息：._.
+2022-04-13 16-41-41:检测到 fuck 进入聊天室
+2022-04-13 16-41-41:发送信息：热烈欢迎 fuck 入场！
+2022-04-13 16-41-41:收到来自 XBot 的信息：hi yo fuck 您可以前往https://xq.kzw.ink体验更多有趣的功能
+2022-04-13 16-41-44:收到来自 fuck 的信息：fuck
+2022-04-13 16-41-44:收到来自 T_C_G 的信息：?
+2022-04-13 16-41-46:收到来自 fuck 的信息：you
+2022-04-13 16-41-46:收到来自 T_C_G 的信息：?
+2022-04-13 16-41-47:收到来自 T_C_G 的信息：?
+2022-04-13 16-41-50:收到来自 000000 的信息：？？？
+2022-04-13 16-41-51:收到来自 lll 的信息：？
+2022-04-13 16-41-51:收到来自 T_C_G 的信息：wtf
+2022-04-13 16-41-53:收到来自 lll 的信息：？？
+2022-04-13 16-42-08:收到来自 fuck 的信息：all
+2022-04-13 16-42-08:收到来自 lll 的信息：？？？
+2022-04-13 16-42-08:收到来自 fuck 的信息：fuck
+2022-04-13 16-42-08:检测到 deeznutz 离开聊天室
+2022-04-13 16-42-08:发送信息：欢迎下次再来，deeznutz ！
+2022-04-13 16-42-08:收到来自 T_C_G 的信息：这是真的fuck了
+2022-04-13 16-42-08:检测到 fuck 离开聊天室
+2022-04-13 16-42-08:发送信息：欢迎下次再来，fuck ！
+2022-04-13 16-42-11:收到来自 T_C_G 的信息：?
+2022-04-13 16-42-14:收到来自 T_C_G 的信息：wtf
+2022-04-13 16-42-24:收到来自 000000 的信息：这。。。
+2022-04-13 16-42-25:收到来自 POIU_qwer 的信息：emmm
+2022-04-13 16-42-29:检测到 fuck 进入聊天室
+2022-04-13 16-42-29:发送信息：热烈欢迎 fuck 入场！
+2022-04-13 16-42-29:收到来自 XBot 的信息：hi yo fuck 您可以前往https://xq.kzw.ink体验更多有趣的功能
+2022-04-13 16-42-31:收到来自 fuck 的信息：fuck
+2022-04-13 16-42-32:收到来自 fuck 的信息：you
