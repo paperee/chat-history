@@ -1,0 +1,6 @@
+报告（60866,22/02/07）：
+#1 ee: ee开头(8706) + Ellen(536) - eebot开头(944)* = 8298 (13.63%)
+#2 zzChumo: zzChumo(3342) + Chumo(2007) = 5349 (8.79%)
+#3 tctd: tctd(1527) + TCmoon(2213) = 3740 (6.14%)
+#4 emankciN: emankciN开头(3087) + on_fire(32) + _______(58) - emankciN_s_bot(98) = 3079 (5.06%)
+#5 jill: ji11开头(1575) + jill开头(300) + glu开头(765) + ji22(37) + jl(31) + snowmanjill(13) = 2721 (4.47%)
