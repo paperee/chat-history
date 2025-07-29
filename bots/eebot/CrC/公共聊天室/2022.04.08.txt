@@ -1,0 +1,197 @@
+22:41:40 【收到私聊】 bo_od
+这位客人，这里还没有天亮呢，可能没有人接待，敬请谅解。
+
+22:41:40 Anotia
+Welcome, eebot
+
+22:41:40 bo_od
+该hash曾用名:['纸片君ee']
+
+22:41:40 eebot
+hey yo this is eebot
+
+22:41:41 eebot
+想了解更多玩法 请输入「功能」
+
+22:41:55 eebot
+11358!
+
+22:42:25 Anotia
+欢迎，Mr_Zhang！
+
+22:42:26 eebot
+hello Mr_Zhang
+
+22:42:44 Mr_Zhang
+终于找到了
+
+22:43:01 Mr_Zhang
+原来都在这里呀
+
+22:43:23 纸片君ee
+hiyo
+
+22:43:35 CaO
+.
+
+22:44:23 Anotia
+Hello~
+
+22:44:24 eebot
+hi yo Mr_Zhang
+
+22:44:45 Mr_Zhang
+我如何把我的机器人放到这里？
+
+22:45:37 Anotia
+大帅比 Chiro 你来辣
+
+22:45:37 eebot
+hi Chiro
+
+22:45:45 Mr_Zhang
+我如何把我的机器人放到这里？
+
+22:45:49 Chiro
+>XZdpta Anotia：
+>大帅比 Chiro 你来辣
+
+@Anotia 草 还有定制welcome
+
+22:46:05 CaO
+大帅比
+
+22:48:07 Anotia
+欢迎~
+
+22:48:07 eebot
+hi yo Mr_Zhang
+
+22:49:55 Zvezda
+大帅比这个是随机的
+
+22:50:16 Chiro
+> Mr_Zhang：
+>我如何把我的机器人放到这里？
+
+@Mr_Zhang 可以抓包看看 协议很简单
+
+22:50:25 Chiro
+![img](https://bed-1254016670.cos.ap-guangzhou.myqcloud.com/files/NZ8rJi/IMG_20220408_224916.jpg)
+
+22:50:28 Mr_Zhang
+好的
+
+22:50:54 Chiro
+18块买的插座功率计量器 做工不错
+
+22:51:25 Anotia
+Welcome, Test
+
+22:51:25 bo_od
+该hash曾用名:['Mr_Zhang']
+
+22:51:25 eebot
+hello Test
+
+22:51:56 Mr_Zhang
+好啊！还可以替人。这回不怕被盗号了
+
+22:52:04 Mr_Zhang
+好啊！还可以踢人。这回不怕被盗号了
+
+22:53:55 Zvezda
+>Z+zTvB Zvezda：
+>笑死了，一直播海底捞的生日歌
+
+粤语区专属梗了属于是
+
+22:55:26 bo_od
+该hash曾用名:['Mr_Zhang', 'Test']
+
+22:55:26 eebot
+Mr_Zhang!
+
+22:55:31 Mr_Zhang
+Hello
+
+22:56:39 Mr_Zhang
+这里可比hc好多了
+
+22:56:39 bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+22:56:52 Mr_Zhang
+有中文
+
+22:57:01 eebot
+LOCKBOT!
+
+22:57:02 LOCKBOT
+已经到达预计的锁定房间时间，请回复对应的口令以进行进一步的操作
+`[a]`延迟 30 分钟 / `[b]`延迟 1 小时 / `[c]` 取消今天的自动锁房
+无回复三分钟后将执行锁房操作
+
+22:57:06 Mr_Zhang
+等等，该怎么添加识别码？
+
+22:57:19 纸片君ee
+b
+
+22:57:28 纸片君ee
+和hc一样
+
+22:57:28 Mr_Zhang
+c
+
+22:57:31 11358
+a
+
+22:57:32 Mr_Zhang
+明白了
+
+22:57:34 纸片君ee
+失败（
+
+22:57:40 Anotia
+欢迎~
+
+22:57:40 bo_od
+该hash曾用名:['Mr_Zhang', 'Test']
+
+22:57:40 eebot
+hi yo Mr_Zhang
+
+22:57:43 bo_od
+Mr_Zhang是小天使
+
+22:57:55 Anotia
+欢迎~
+
+22:57:56 eebot
+hi yo Mr_Zhang
+
+22:58:00 Mr_Zhang
+你好
+
+22:58:24 Mr_Zhang
+十字街有没有官方的Python库？
+
+22:58:43 Zvezda
+大概没有
+
+22:58:48 Mr_Zhang
+明白了
+
+22:59:23 Mr_Zhang
+还需要我一步一步摸索
+
+22:59:33 Mr_Zhang
+还好这里都是中文
+
+22:59:47 Mr_Zhang
+可以查看中文帮助
+
+22:59:59 bo_od
+Fri Apr  8 23:00:00 2022
+

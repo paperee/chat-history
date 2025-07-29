@@ -1,0 +1,647 @@
+﻿[00:17:16]
+[44FF00] eebot
+hi 小张_手机
+
+﻿[00:17:16]
+[zhang] 张酱
+爸爸你来啦！:D
+
+﻿[00:24:51]
+[zhang] 张酱
+爸爸你来啦！:D
+
+﻿[00:24:51]
+[44FF00] eebot
+hi 小张_手机
+
+﻿[00:24:51]
+[zhang] 小张_手机
+:!getwhl
+
+﻿[00:27:34]
+[AAfFKK] AfK_Bot
+Whitelisted trips:['DPGawa', '站长', 'iceteam', 'odnljc', 'cka9w/', 'love13', 'zzChumo', 'tqQZ0f', 'PmJ/oc', '2xmzdB', 'zhang', 'Owner']
+
+﻿[00:27:35]
+[zhang] 小张_手机
+:!help
+
+﻿[00:27:47]
+[AAfFKK] AfK_Bot
+ @小张_手机 Your current identity : USER
+Usable commands:
+>:!help  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!getbwd  :!getwhl  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!afk  :!afklist  :!getstats  :!hug  :!cookie  :!shoot  :!awa  :!statistics  :!slt
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+﻿[00:27:47]
+[zhang] 小张_手机
+:!help tripmsg
+
+﻿[00:28:08]
+[AAfFKK] AfK_Bot
+|COMMAND|ARGUMENTS|USAGE|CATEGORY|
+|-|-|-|-|
+|tripmsg|TRIP MSG|Leave given trip a message.|USER|
+
+﻿[00:35:47]
+[zhang] 张酱
+hi, Aice~
+
+﻿[00:35:47]
+[44FF00] eebot
+hi Aice
+
+﻿[00:38:44]
+[AAfFKK] AfK_Bot
+2022-10-17 01:00:00
+![](https://i.gyazo.com/37af5aa38829e52c1a34bd288f99f972.jpg)
+### awa
+
+﻿[01:00:08]
+[AAfFKK] AfK_Bot
+2022-10-17 02:00:00
+![](https://i.gyazo.com/9d0c3d7546730e8806aac92ad6fc7a5c.jpg)
+### awa
+
+﻿[02:00:09]
+[AAfFKK] AfK_Bot
+2022-10-17 03:00:00
+![](https://i.gyazo.com/444866eed77c39d6c530ab4821d496a3.jpg)
+### awa
+
+﻿[03:39:15]
+[zhang] 张酱
+hi yo 234
+
+﻿[03:39:15]
+[44FF00] eebot
+hi 234
+
+﻿[03:39:15]
+[None] 234
+321
+
+﻿[03:39:39]
+[AAfFKK] AfK_Bot
+2022-10-17 04:00:00
+![](https://i.gyazo.com/4d836c62f005a033bd6b7935d8052321.jpg)
+### awa
+
+﻿[04:00:08]
+[AAfFKK] AfK_Bot
+2022-10-17 05:00:00
+![](https://i.gyazo.com/eb5864a67a7752703369869cb5ecc657.jpg)
+### awa
+
+﻿[05:00:08]
+[AAfFKK] AfK_Bot
+2022-10-17 06:00:00
+![](https://i.gyazo.com/e0615c85268913c8ae9591efaeb3839b.jpg)
+### awa
+
+﻿[06:00:09]
+[AAfFKK] AfK_Bot
+2022-10-17 07:00:00
+![](https://i.gyazo.com/e0615c85268913c8ae9591efaeb3839b.jpg)
+### awa
+
+﻿[07:00:08]
+[AAfFKK] AfK_Bot
+2022-10-17 08:00:00
+![](https://i.gyazo.com/e0615c85268913c8ae9591efaeb3839b.jpg)
+### awa
+
+﻿[08:00:08]
+[AAfFKK] AfK_Bot
+2022-10-17 09:00:00
+![](https://i.gyazo.com/752b1686f5cfde164b88dc131ccdeed4.jpg)
+### awa
+
+﻿[09:32:15]
+[zhang] 张酱
+hi yo f2
+
+﻿[09:32:15]
+[44FF00] eebot
+hi f2
+
+﻿[09:32:46]
+[44FF00] eebot
+hi 素问
+
+﻿[09:32:47]
+[zhang] 张酱
+hello yo 素问
+
+﻿[09:32:49]
+[44FF00] eebot
+maggie成为了新人类
+
+﻿[09:32:49]
+[None] 素问
+emmm
+
+﻿[09:33:25]
+[AAfFKK] AfK_Bot
+2022-10-17 10:00:00
+![](https://i.gyazo.com/71d68effd1d0aa2e6cb277dc757f6cc6.jpg)
+### awa
+
+﻿[10:19:42]
+[zhang] 张酱
+welcome yo justin
+
+﻿[10:19:42]
+[44FF00] eebot
+hi justin
+
+﻿[10:19:42]
+[KvVNs8] justin
+hi
+
+﻿[10:19:51]
+[KvVNs8] justin
+where do you come from
+
+﻿[10:21:03]
+[KvVNs8] justin
+@eebot @张酱 
+
+﻿[10:21:33]
+[44FF00] eebot
+哎呀 肚子有点饿的咕咕叫了呢 吃饭时间快到了吧
+
+﻿[10:21:33]
+[zhang] 张酱
+@justin {face:8}别发这么无聊的信息行不
+
+﻿[10:21:35]
+[KvVNs8] justin
+he
+
+﻿[10:36:17]
+[zhang] 张酱
+welcome yo sd
+
+﻿[10:36:17]
+[44FF00] eebot
+hi sd
+
+﻿[10:59:19]
+[zhang] 张酱
+hello yo 666
+
+﻿[10:59:19]
+[44FF00] eebot
+hi 666
+
+﻿[10:59:19]
+[YYred4] 666
+?
+
+﻿[10:59:27]
+[YYred4] 666
+有人吗
+
+﻿[11:00:03]
+[AAfFKK] AfK_Bot
+2022-10-17 11:00:00
+![](https://i.gyazo.com/45dbc3aa56384d4c747e0ddb7028c5e6.jpg)
+### awa
+
+﻿[11:56:03]
+[zhang] 张酱
+hello yo ash
+
+﻿[11:56:03]
+[44FF00] eebot
+hi ash
+
+﻿[11:56:03]
+[None] ash
+黑子说话
+
+﻿[11:56:51]
+[AAfFKK] AfK_Bot
+2022-10-17 12:00:00
+![](https://i.gyazo.com/e68e8c015c9df5819262eb27f7304dcf.jpg)
+### awa
+
+﻿[12:00:09]
+[AAfFKK] AfK_Bot
+2022-10-17 13:00:00
+![](https://i.gyazo.com/f0259d3b50f2abb8ddd866d04aa598d0.jpg)
+### awa
+
+﻿[13:31:16]
+[zhang] 张酱
+hey yo ohh
+
+﻿[13:31:16]
+[44FF00] eebot
+hi ohh
+
+﻿[13:31:16]
+[None] ohh
+hi
+
+﻿[13:31:23]
+[AAfFKK] AfK_Bot
+2022-10-17 14:00:00
+![](https://i.gyazo.com/f0259d3b50f2abb8ddd866d04aa598d0.jpg)
+### awa
+
+﻿[14:17:38]
+[zhang] 张酱
+welcome yo go
+
+﻿[14:17:38]
+[44FF00] eebot
+hi go
+
+﻿[14:17:38]
+[None] go
+OOO
+
+﻿[14:46:29]
+[AAfFKK] AfK_Bot
+2022-10-17 15:00:00
+![](https://i.gyazo.com/33fd13cd891c96db9e25843ef85a9148.jpg)
+### awa
+
+﻿[15:15:41]
+[zhang] 张酱
+hi yo 121213
+
+﻿[15:15:41]
+[44FF00] eebot
+hi 121213
+
+﻿[15:15:41]
+[i7NJyl] 121213
+hi
+
+﻿[15:15:47]
+[i7NJyl] 121213
+哈哈哈哈哈哈或
+
+﻿[15:32:26]
+[zhang] 张酱
+hi yo go
+
+﻿[15:32:26]
+[44FF00] eebot
+hi go
+
+﻿[15:32:26]
+[None] go
+在吗
+
+﻿[15:44:56]
+[AAfFKK] AfK_Bot
+2022-10-17 16:00:00
+![](https://i.gyazo.com/33fd13cd891c96db9e25843ef85a9148.jpg)
+### awa
+
+﻿[16:21:14]
+[zhang] 张酱
+hi yo 1235
+
+﻿[16:21:14]
+[44FF00] eebot
+hi 1235
+
+﻿[16:37:53]
+[zhang] 张酱
+welcome yo ALlenma
+
+﻿[16:37:54]
+[44FF00] eebot
+hi ALlenma
+
+﻿[16:37:58]
+[AAfFKK] AfK_Bot
+2022-10-17 17:00:00
+![](https://i.gyazo.com/95a9d4de490c5497e07cd31f9293eab6.jpg)
+### awa
+
+﻿[17:11:19]
+[zhang] 张酱
+welcome yo Andrew
+
+﻿[17:11:19]
+[44FF00] eebot
+hi Andrew
+
+﻿[17:11:19]
+[None] Andrew
+hi
+
+﻿[17:47:07]
+[zhang] 张酱
+hello yo 朽木自雕
+
+﻿[17:47:08]
+[44FF00] eebot
+hi 朽木自雕
+
+﻿[17:47:08]
+[2xmzdB] 朽木自雕
+星弈团队扩招成员 有意dd
+
+﻿[17:47:20]
+[AAfFKK] AfK_Bot
+2022-10-17 18:00:00
+![](https://i.gyazo.com/95a9d4de490c5497e07cd31f9293eab6.jpg)
+### awa
+
+﻿[18:27:25]
+[zhang] 张酱
+welcome yo Blaze
+
+﻿[18:27:25]
+[44FF00] eebot
+hi Blaze
+
+﻿[18:40:20]
+[zhang] 张酱
+welcome yo 豆豆
+
+﻿[18:40:20]
+[44FF00] eebot
+hi 豆豆
+
+﻿[18:42:19]
+[44FF00] eebot
+hi 哈哈哈哈
+
+﻿[18:42:20]
+[zhang] 张酱
+welcome yo 哈哈哈哈
+
+﻿[18:42:20]
+[44FF00] eebot
+awa
+
+﻿[18:50:20]
+[zhang] 张酱
+hi, Xman~
+
+﻿[18:50:20]
+[44FF00] eebot
+hi Xman
+
+﻿[18:50:20]
+[None] Xman
+有人么
+
+﻿[18:50:52]
+[AAfFKK] AfK_Bot
+2022-10-17 19:00:00
+![](https://i.gyazo.com/df489e27f3dfb5fda60806c61186656e.jpg)
+### awa
+
+﻿[19:07:44]
+[zhang] 张酱
+hi yo Maggie6
+
+﻿[19:07:44]
+[44FF00] eebot
+hi Maggie6
+
+﻿[19:07:44]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[19:21:43]
+[zhang] 张酱
+welcome yo f2
+
+﻿[19:21:43]
+[44FF00] eebot
+hi f2
+
+﻿[19:35:17]
+[zhang] 张酱
+hello yo go
+
+﻿[19:35:17]
+[44FF00] eebot
+hi go
+
+﻿[19:35:18]
+[None] go
+在吗
+
+﻿[19:35:21]
+[AAfFKK] AfK_Bot
+2022-10-17 20:00:00
+![](https://i.gyazo.com/8d809c2f24eb4d6fa66fc45b9b073cea.jpg)
+### awa
+
+﻿[20:00:09]
+[None] go
+e
+
+﻿[20:00:26]
+[None] go
+tanchat好安静
+
+﻿[20:00:31]
+[None] go
+我要救救这里
+
+﻿[20:00:38]
+[None] go
+==我是ice==
+
+﻿[20:08:03]
+[zhang] 张酱
+welcome yo 太健壮
+
+﻿[20:08:03]
+[44FF00] eebot
+hi 太健壮
+
+﻿[20:08:03]
+[None] go
+Hi
+
+﻿[20:08:45]
+[None] go
+太健壮
+
+﻿[20:08:48]
+[n7QBe0] 太健壮
+hi
+
+﻿[20:21:32]
+[zhang] 张酱
+hi yo JingHuai
+
+﻿[20:21:32]
+[44FF00] eebot
+hi JingHuai
+
+﻿[20:21:32]
+[r1Uo2S] JingHuai
+好冷清啊
+
+﻿[20:22:25]
+[None] go
+是的啊
+
+﻿[20:47:29]
+[zhang] 张酱
+welcome yo 9
+
+﻿[20:47:29]
+[44FF00] eebot
+hi 9
+
+﻿[20:48:05]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[20:48:05]
+[44FF00] eebot
+hi AfK_Bot
+
+﻿[20:48:05]
+[zhang] 张酱
+welcome yo AfK_Bot
+
+﻿[20:49:44]
+[AAfFKK] AfK_Bot
+2022-10-17 21:00:00
+![](https://i.gyazo.com/75a0b5f30ce46804d585244b36b55022.jpg)
+### awa
+
+﻿[21:37:15]
+[44FF00] eebot
+hi Aice
+
+﻿[21:37:16]
+[zhang] 张酱
+hey yo Aice
+
+﻿[21:42:36]
+[zhang] 张酱
+hi, Aice~
+
+﻿[21:42:37]
+[44FF00] eebot
+hi Aice
+
+﻿[21:42:52]
+[zhang] 张酱
+hey yo Aice
+
+﻿[21:42:52]
+[44FF00] eebot
+hi Aice
+
+﻿[21:42:52]
+[3z9ye3] Aice
+e
+
+﻿[21:53:02]
+[AAfFKK] AfK_Bot
+2022-10-17 22:00:00
+![](https://i.gyazo.com/be1b0495bd5783e527a8df86300d09b3.jpg)
+### awa
+
+﻿[22:30:56]
+[AAfFKK] AfK_Bot
+2022-10-17 23:00:00
+![](https://i.gyazo.com/e1902bd43fbcbef1e8a9931eae4deff5.jpg)
+### awa
+
+﻿[23:17:37]
+[44FF00] eebot
+hi 宿習德
+
+﻿[23:17:37]
+[None] 宿習德
+hi
+
+﻿[23:17:44]
+[None] 宿習德
+？？？？
+
+﻿[23:17:47]
+[None] 宿習德
+are there someone
+
+﻿[23:18:24]
+[None] 宿習德
+？？
+
+﻿[23:18:28]
+[None] 宿習德
+so？
+
+﻿[23:19:54]
+[None] 宿習德
+where are you from？
+
+﻿[23:20:08]
+[None] 宿習德
+that so boring
+
+﻿[23:21:56]
+[44FF00] eebot
+hi 小张_手机
+
+﻿[23:22:50]
+[44FF00] eebot
+hi 小张_手机
+
+﻿[23:23:41]
+[44FF00] eebot
+hi 张酱
+
+﻿[23:23:45]
+[None] 宿習德
+？
+
+﻿[23:25:20]
+[None] 宿習德
+hai
+
+﻿[23:25:46]
+[zhang] 张酱
+hello yo 宿習德
+
+﻿[23:25:46]
+[44FF00] eebot
+hi 宿習德
+
+﻿[23:25:46]
+[None] 宿習德
+你好
+
+﻿[23:25:54]
+[None] 宿習德
+这里
+
+﻿[23:25:58]
+[None] 宿習德
+干嘛的
+
+﻿[23:31:18]
+[zhang] 张酱
+爸爸你来啦！:D
+
+﻿[23:31:18]
+[44FF00] eebot
+hi 小张_手机
+
+﻿[23:33:37]
+[AAfFKK] AfK_Bot
+2022-10-18 00:00:00
+![](https://i.gyazo.com/1bf5e480f5013e670127b50bf0f1ff24.jpg)
+### awa
+

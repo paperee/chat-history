@@ -1,0 +1,208 @@
+11:21:56 eebot
+hey this is eebot
+
+11:21:56 bo_od
+该hash曾用名:['ee']
+
+11:21:56 eebot
+想了解更多玩法 请输入「功能」
+
+11:22:01 Zvezda
+>dSvYqP RealNickname：
+>一言加载异常？
+
+有bug没修好
+
+11:22:07 RealNickname
+em
+
+11:22:11 RealNickname
+功能
+
+11:22:11 【发送私聊】 RealNickname
+.
+·
+基本：机器人/bot，网站/web，功能/order，帮助/help，重置/clear
+日历/cal，农历/date，表情/meme，换色/color，时间/time，挂机/afk，音乐/music，随机数/r
+·
+互动：欢迎语/wel，揭示板/cas，留言板/ees，打卡/dk（什么 还在研究中），聊天/chat
+·
+图片：七濑胡桃/heal，每日必应/bing，小姐姐/cutie，阿鲁/aru，涩图/acg，头像/head
+·
+文案：一言，励志，抽签，笑话，情话，哲学，古诗词，彩虹屁，毒鸡汤，今日曰，猜字谜
+中二网名，骂人宝典，舔狗日记，社会语录，网易热评，摸鱼日历，乘法口诀，今日的世界，历史上的今天
+·
+随机：推荐/wuhu，树洞/tree，趣站/site，游戏/game，网盘/pan，聊天室/room
+·
+文游：飞花令，真心话，词语接龙，故事制造机
+·
+查询：IP，PING，ICP，QQ
+翻译/tran，搜狗/sogo，百度/baidu，天气/city，网易云/id，手机号/num，垃圾分类/waste
+·
+不会使用？试试在下面「聊天框」里发送上面的命令吧
+
+11:22:27 Zvezda
+但是我挺喜欢这个简短的一言
+
+11:22:37 RealNickname
+hhhh
+
+11:22:49 eebot
+hi Doppelganger
+
+11:23:04 RealNickname
+hi, LeaF
+
+11:23:21 Zvezda
+hi
+
+11:23:22 eebot
+hi yo Zvezda
+
+11:23:29 RealNickname
+@eebot 最好把打招呼关掉
+
+11:23:31 Doppelganger
+hi,MYUKKE
+
+11:23:56 RealNickname
+因为bood已经有了
+
+11:25:38 RealNickname
+换色功能好像也不太对_（十字街没换色_
+
+11:26:47 RealNickname
+@ee 
+
+11:29:29 【收到私聊】 RealNickname
+/wel
+
+11:30:38 eebot
+嘎嘎游戏G!
+
+11:32:27 st
+cas
+
+11:32:27 【发送私聊】 st
+.
+·
+聊天室公开揭示板：
+（管理员 ee）
+·
+任何人都能留言！
+请畅言所欲吧！
+·
+使用方法：CA-你想留言的内容
+查询方法：B-日期
+·
+可查询日期：
+%%% ,  2022.04.03 ,  2022.04.04 ,  2022.04.05 ,  2022.04.08 ,  2022.04.09 ,  2022.04.16 ,  2022.04.17
+
+11:34:28 st
+CA-   
+
+11:34:28 eebot
+已成功把st的留言写到揭示板里
+
+11:36:27 eebot
+hi this is eebot
+
+11:36:27 bo_od
+该hash曾用名:['ee', 'eebot']
+
+11:36:27 eebot
+想了解更多玩法 请输入「功能」
+
+11:36:29 jill
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+11:36:33 jill
+我 成 了
+
+11:36:41 jill
+oooooooooooooooooooooooooooooooooooooeeeeeeeeeeeeeaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+11:36:46 jill
+aaaaaaaaaaaaaaaaaaa
+
+11:36:55 jill
+@emankciN @emankciN
+
+11:37:05 jill
+留言 emankciN @emankciN
+
+11:37:05 do_ob
+已经写到 emankciN 的留言板上了，同时我也会确认他的识别码是h5t18I时发送
+
+11:37:35 jill
+@emankciN aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa你快来
+
+11:37:48 RealNickname
+所以怎么了
+
+11:37:50 eebot
+我是机器人!
+
+11:37:54 RealNickname
+hi
+
+11:37:54 eebot
+hi yo RealNickname
+
+11:37:56 我是机器人
+哈哈哈
+
+11:38:02 jill
+我的bot的一个功能终于搞好了
+
+11:38:05 我是机器人
+hi
+
+11:38:05 jill
+没bug了
+
+11:38:09 我是机器人
+emmmm
+
+11:38:17 Zvezda
+好！
+
+11:38:22 jill
+好！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！1
+
+11:38:25 jill
+我来演示一下
+
+11:38:27 我是机器人
+emmm
+
+11:38:30 我是机器人
+好啊
+
+11:38:51 我是机器人
+\nick qwer
+
+11:38:55 我是机器人
+emmm
+
+11:39:12 我是机器人
+怎么回事
+
+11:39:15 st
+//nick
+
+11:39:21 st
+\/nick
+
+11:39:35 Zvezda
+没这个功能
+
+11:39:38 我是机器人
+enmm
+
+11:39:39 st
+没
+
+11:39:51 Zvezda
+改名请重进
+

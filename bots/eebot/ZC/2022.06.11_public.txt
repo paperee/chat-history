@@ -1,0 +1,754 @@
+[21:03:35]
+[DG5Pu+] eebot_315
+ awa eb的昵称卡在里面了
+
+[21:03:38]
+[Oj+2Xc] ee
+功能
+
+[21:03:38]
+[Admin] zzChumo
+>gMpRWX Ukraine_Today：
+>>gMpRWX Ukraine_Today：
+>>
+>>@Ukraine_Today 或者是把标题栏阴影改成像侧边栏一样
+
+@Ukraine_Today 考虑了
+
+[21:03:41]
+[CNTNuQ] Light
+the layout of foolishbird is foolish
+
+[21:03:59]
+[CNTNuQ] Light
+too foolish to use it as a frame easily
+
+[21:04:02]
+[gMpRWX] Ukraine_Today
+emmm
+
+[21:04:05]
+[CNTNuQ] Light
+hhh
+
+[21:04:14]
+[DG5Pu+] eebot_620
+ awa eb的昵称卡在里面了
+
+[21:04:16]
+[HlBzH+] Mr_Zhang
+我先去ZhangChat啦
+
+[21:04:16]
+[Oj+2Xc] ee
+zc
+
+[21:05:32]
+[DG5Pu+] eebot_496
+ awa eb的昵称卡在里面了
+
+[21:05:33]
+[HlBzH+] Mr_Zhang
+对了
+
+[21:05:34]
+[Oj+2Xc] ee
+zc
+
+[21:06:16]
+[DG5Pu+] eebot_817
+ awa eb的昵称卡在里面了
+
+[21:06:17]
+[Admin] zzChumo
+名字和config里的一样会被踢
+
+[21:06:21]
+[Admin] zzChumo
+测试过了
+
+[21:06:21]
+[Oj+2Xc] ee
+>Admin zzChumo：
+>《我的trip里永远装着线圈民主共和国》
+
+@zzChumo ++1
+
+[21:06:22]
+[HlBzH+] Mr_Zhang
+哈哈哈
+
+[21:06:24]
+[HlBzH+] Mr_Zhang
+对
+
+[21:06:27]
+[Oj+2Xc] ee
+zc
+
+[21:06:31]
+[HlBzH+] Mr_Zhang
+You are not the admin, liar!
+
+[21:06:36]
+[Admin] zzChumo
+hh
+
+[21:07:01]
+[Oj+2Xc] ee
+啊 绝了 现在eebot一个代码适配了6个聊天室
+
+[21:07:19]
+[HlBzH+] Mr_Zhang
+刑
+
+[21:07:26]
+[gMpRWX] Ukraine_Today
+还有啊
+
+[21:07:41]
+[Admin] zzChumo
+获得成就：六足鼎立
+
+[21:07:44]
+[HlBzH+] Mr_Zhang
+哈哈哈
+
+[21:07:45]
+[DG5Pu+] eebot_817
+ 哈哈哈草
+
+[21:07:46]
+[gMpRWX] Ukraine_Today
+标题栏的颜色能不能随配色一起变（）
+
+[21:07:53]
+[HlBzH+] Mr_Zhang
+还有ZhanChat。。。
+
+[21:08:00]
+[HlBzH+] Mr_Zhang
+还有ZhangChat。。。
+
+[21:08:02]
+[Oj+2Xc] ee
+在线
+
+[21:08:03]
+[HlBzH+] Mr_Zhang
+等下
+
+[21:08:07]
+[Oj+2Xc] ee
+哈哈哈哈哈
+
+[21:08:08]
+[Admin] zzChumo
+>gMpRWX Ukraine_Today：
+>标题栏的颜色能不能随配色一起变（）
+
+@Ukraine_Today 需要浏览器支持
+
+[21:08:11]
+[HlBzH+] Mr_Zhang
+ZhangChat简称zc
+
+[21:08:15]
+[HlBzH+] Mr_Zhang
+是不是重名了啊
+
+[21:08:16]
+[Oj+2Xc] ee
+>HlBzH+ Mr_Zhang：
+>还有ZhanChat。。。
+
+@Mr_Zhang 网址是什么
+
+[21:08:22]
+[HlBzH+] Mr_Zhang
+ZhangChat准备就绪！！！
+下载链接：https://zhanghelper.lanzouw.com/it1GT0693swj
+
+[21:08:23]
+[DG5Pu+] eebot_817
+ @Mr_Zhang 蓝奏云
+https://zhanghelper.lanzouw.com/it1GT0693swj
+
+[21:08:24]
+[HlBzH+] Mr_Zhang
+这个
+
+[21:08:36]
+[HlBzH+] Mr_Zhang
+运行里面的client.py
+
+[21:08:37]
+[Oj+2Xc] ee
+>HlBzH+ Mr_Zhang：
+>ZhangChat简称zc
+
+@Mr_Zhang 好家伙 就跟mrz和MRZ一样
+
+[21:08:40]
+[Oj+2Xc] ee
+OK
+
+[21:08:43]
+[HlBzH+] Mr_Zhang
+哈哈哈
+
+[21:08:43]
+[DG5Pu+] eebot_817
+ 草哈哈哈
+
+[21:08:44]
+[Oj+2Xc] ee
+可以打包一下
+
+[21:08:48]
+[HlBzH+] Mr_Zhang
+对了
+
+[21:08:55]
+[HlBzH+] Mr_Zhang
+我的真名是张皓然
+
+[21:08:57]
+[HlBzH+] Mr_Zhang
+那么
+
+[21:09:06]
+[Oj+2Xc] ee
+像Light那样打包成.exe
+
+[21:09:11]
+[HlBzH+] Mr_Zhang
+嗯
+
+[21:09:15]
+[HlBzH+] Mr_Zhang
+ZhangChat简称为ZHC
+
+[21:09:26]
+[HlBzH+] Mr_Zhang
+总行了吧
+
+[21:09:26]
+[Admin] zzChumo
+冷知识：zzChat的服务器只值8块钱
+
+[21:09:27]
+[Oj+2Xc] ee
+wowocok
+
+[21:09:30]
+[Oj+2Xc] ee
+woc
+
+[21:09:34]
+[CNTNuQ] Light
+@zzChumo 
+
+[21:09:39]
+[Admin] zzChumo
+@Light 
+
+[21:09:51]
+[gMpRWX] Ukraine_Today
+草
+
+[21:09:58]
+[HlBzH+] Mr_Zhang
+哈哈哈
+
+[21:09:59]
+[CNTNuQ] Light
+when you buy server for the first time
+
+[21:10:03]
+[HlBzH+] Mr_Zhang
+先下线了
+
+[21:10:05]
+[CNTNuQ] Light
+ the price is 8
+
+[21:10:05]
+[HlBzH+] Mr_Zhang
+afk
+
+[21:10:06]
+[DG5Pu+] eebot_817
+ @Mr_Zhang 现在在离开键盘
+
+[21:10:11]
+[CNTNuQ] Light
+but next is 30
+
+[21:10:26]
+[Admin] zzChumo
+zzChat的服务器有50M带宽，还有20G高防
+
+[21:10:36]
+[gMpRWX] Ukraine_Today
+够了（）
+
+[21:10:36]
+[Admin] zzChumo
+@Light 我看看（
+
+[21:10:47]
+[CNTNuQ] Light
+we think every user is the most sb sb --tencent
+
+[21:10:55]
+[CNTNuQ] Light
+> we think every user is the most sb sb --tencent
+
+[21:11:03]
+[Oj+2Xc] ee
+wow
+
+[21:11:03]
+[DG5Pu+] eebot_817
+ uvu
+
+[21:11:42]
+[DG5Pu+] eebot_817
+ hey Light
+
+[21:11:46]
+[Oj+2Xc] ee
+hi yo
+
+[21:11:49]
+[Admin] zzChumo
+@Light 续费也只要8块钱（
+
+[21:11:54]
+[Admin] zzChumo
+酸不酸（
+
+[21:12:00]
+[CNTNuQ] Light
+fuck you
+
+[21:12:10]
+[Admin] zzChumo
+fa♂q
+
+[21:12:11]
+[CNTNuQ] Light
+don't talk about this with me(crying
+
+[21:12:16]
+[Admin] zzChumo
+hhh
+
+[21:12:17]
+[CNTNuQ] Light
+crying
+
+[21:12:18]
+[Oj+2Xc] ee
+搞个域名吧
+
+[21:12:29]
+[Admin] zzChumo
+@ee 解析不了
+
+[21:12:30]
+[CNTNuQ] Light
+zzChumo.sbsbsb.sbs
+
+[21:12:51]
+[DG5Pu+] eebot_817
+ hi yo nobody
+
+[21:12:57]
+[None] nobody
+nobody前来看看
+
+[21:13:03]
+[Oj+2Xc] ee
+hi yo
+
+[21:13:11]
+[Admin] zzChumo
+hii
+
+[21:13:15]
+[DG5Pu+] eebot_817
+ ·
+小张软件
+https://zhangsoft611488867.wordpress.com/
+
+[21:14:08]
+[CNTNuQ] Light
+hi
+
+[21:14:08]
+[None] foolishbird
+hey,Light
+
+[21:14:12]
+[Admin] zzChumo
+欢迎蠢鸟！
+
+[21:14:13]
+[CNTNuQ] Light
+hey
+
+[21:14:13]
+[None] foolishbird
+hey,Light
+
+[21:14:16]
+[CNTNuQ] Light
+hhh
+
+[21:14:22]
+[gMpRWX] Ukraine_Today
+能赌钱吗
+
+[21:14:27]
+[CNTNuQ] Light
+no
+
+[21:14:34]
+[gMpRWX] Ukraine_Today
+我都正没正经玩过几次
+
+[21:14:39]
+[None] nobody
+@Ukraine_Today 你在想什么（
+
+[21:14:40]
+[Admin] zzChumo
+@Ukraine_Today 美国服务器，没事
+
+[21:14:41]
+[Oj+2Xc] ee
+@foolishbird 
+
+[21:14:53]
+[Oj+2Xc] ee
+hi
+
+[21:14:53]
+[None] foolishbird
+hey,ee
+
+[21:14:55]
+[Oj+2Xc] ee
+yo
+
+[21:14:57]
+[CNTNuQ] Light
+@Ukraine_Today BirdCoin won't be used on bot again
+
+[21:15:02]
+[CNTNuQ] Light
+but soon
+
+[21:15:07]
+[Oj+2Xc] ee
+help
+
+[21:15:16]
+[gMpRWX] Ukraine_Today
+help
+
+[21:15:17]
+[CNTNuQ] Light
+it will be used on my new software "Lomy"
+
+[21:15:17]
+[Oj+2Xc] ee
+芜湖
+
+[21:15:46]
+[gMpRWX] Ukraine_Today
+那赶快上lomy（）
+
+[21:16:10]
+[CNTNuQ] Light
+lomy is like a browser
+
+[21:16:24]
+[gMpRWX] Ukraine_Today
+啥
+
+[21:16:29]
+[CNTNuQ] Light
+but you don't need to learn js,html,css
+
+[21:16:33]
+[CNTNuQ] Light
+just python
+
+[21:16:40]
+[Oj+2Xc] ee
+wow
+
+[21:16:40]
+[DG5Pu+] eebot_817
+ wow
+
+[21:17:06]
+[CNTNuQ] Light
+I write some mods
+
+[21:17:22]
+[CNTNuQ] Light
+that's all
+
+[21:17:25]
+[DG5Pu+] eebot_817
+ 如果是这样的话（？
+
+[21:17:27]
+[CNTNuQ] Light
+I'll go
+
+[21:17:42]
+[DG5Pu+] eebot
+ 2022.06.11 21:17:41
+
+[21:17:42]
+[DG5Pu+] eebot
+ ·
+明天是周六 放心睡吧！
+更多玩法请输入：功能
+
+[21:18:15]
+[Admin] zzChumo
+![android-icon-72x72.png](https://hack.chat/android-icon-72x72.png)
+
+[21:18:41]
+[DG5Pu+] eebot
+ 2022.06.11 21:18:40
+
+[21:18:41]
+[DG5Pu+] eebot
+ ·
+好好学习 天天向上
+更多玩法请输入：功能
+
+[21:18:46]
+[CNTNuQ] Light
+![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)
+
+[21:18:49]
+[DG5Pu+] eebot
+ @Light hack.chat
+https://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png
+
+[21:18:50]
+[CNTNuQ] Light
+![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)
+
+[21:18:52]
+[DG5Pu+] eebot
+ @Light hack.chat
+https://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png
+
+[21:18:53]
+[CNTNuQ] Light
+if
+
+[21:19:01]
+[Oj+2Xc] ee
+嘶
+
+[21:19:01]
+[CNTNuQ] Light
+that's cool
+
+[21:19:01]
+[Admin] zzChumo
+hm
+
+[21:19:05]
+[Oj+2Xc] ee
+why
+
+[21:19:09]
+[Oj+2Xc] ee
+改一改
+
+[21:19:14]
+[Admin] zzChumo
+?
+
+[21:19:15]
+[CNTNuQ] Light
+many pictures on/in? a row
+
+[21:19:43]
+[CNTNuQ] Light
+![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)![hey](https://hack.chat/android-icon-72x72.png)
+
+[21:19:46]
+[CNTNuQ] Light
+five
+
+[21:19:46]
+[DG5Pu+] eebot
+ @Light hack.chat
+https://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png!heyhttps://hack.chat/android-icon-72x72.png
+
+[21:20:15]
+[CNTNuQ] Light
+![hey](https://hack.chat/android-icon-36x36.png)![hey]
+
+[21:20:18]
+[DG5Pu+] eebot
+ @Light hack.chat
+https://hack.chat/android-icon-36x36.png!hey
+
+[21:20:31]
+[CNTNuQ] Light
+![hey](https://hack.chat/android-icon-18x18.png)
+
+[21:20:34]
+[DG5Pu+] eebot
+ @Light hack.chat
+https://hack.chat/android-icon-18x18.png
+
+[21:20:41]
+[CNTNuQ] Light
+![hey](https://hack.chat/android-icon-24x24.png)
+
+[21:20:43]
+[DG5Pu+] eebot
+ @Light hack.chat
+https://hack.chat/android-icon-24x24.png
+
+[21:20:49]
+[CNTNuQ] Light
+![hey](https://hack.chat/android-icon-36x36.png)
+
+[21:20:52]
+[CNTNuQ] Light
+cool
+
+[21:20:52]
+[DG5Pu+] eebot
+ @Light hack.chat
+https://hack.chat/android-icon-36x36.png
+
+[21:21:29]
+[CNTNuQ] Light
+do you know something bad in TangShan
+
+[21:21:30]
+[Admin] zzChumo
+要不是手边没电脑我已经把Light封了（
+
+[21:21:39]
+[Admin] zzChumo
+@Light wtf？？？
+
+[21:21:43]
+[CNTNuQ] Light
+Tang Shan Hit Person
+
+[21:22:00]
+[CNTNuQ] Light
+It leads a big influence
+
+[21:22:03]
+[Admin] zzChumo
+哦唐山啊我还以为是汤山
+
+[21:22:07]
+[CNTNuQ] Light
+hhh
+
+[21:22:41]
+[Admin] zzChumo
+唐山治安一直可以的（
+
+[21:23:52]
+[CNTNuQ] Light
+three things similar this have happened this year in TangShan
+
+[21:23:53]
+[DG5Pu+] eebot_925
+ awa eb的昵称卡在里面了
+
+[21:23:54]
+[DG5Pu+] eebot_925
+ awa eb的昵称卡在里面了
+
+[21:23:54]
+[DG5Pu+] eebot
+ hi eebot_925
+
+[21:23:54]
+[DG5Pu+] eebot
+ hi eebot_925
+
+[21:24:16]
+[DG5Pu+] eebot
+ 2022.06.11 21:24:15
+
+[21:24:16]
+[DG5Pu+] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[21:24:30]
+[Oj+2Xc] ee
+![](https://hack.chat/android-icon-72x72.png)![](https://hack.chat/android-icon-72x72.png)![](https://hack.chat/android-icon-72x72.png)![](https://hack.chat/android-icon-72x72.png)
+
+[21:25:19]
+[DG5Pu+] eebot
+ 2022.06.11 21:25:18
+
+[21:25:19]
+[DG5Pu+] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[21:25:20]
+[Oj+2Xc] ee
+![](https://hack.chat/android-icon-72x72.png)![](https://hack.chat/android-icon-72x72.png)![](https://hack.chat/android-icon-72x72.png)![](https://hack.chat/android-icon-72x72.png)
+
+[21:25:31]
+[DG5Pu+] eebot
+ wow
+
+[21:25:31]
+[DG5Pu+] eebot
+ 无法写入 含有无法识别的字符
+
+[21:25:31]
+[DG5Pu+] eebot
+ 无法写入 含有无法识别的字符
+
+[21:25:31]
+[DG5Pu+] eebot
+ 无法写入 含有无法识别的字符
+
+[21:25:31]
+[DG5Pu+] eebot
+ @ee hack.chat
+s://hack.chat/android-icon-72x72.png!
+·
+@ee hack.chat
+s://hack.chat/android-icon-72x72.png
+
+[21:28:29]
+[DG5Pu+] eebot
+ 2022.06.11 21:28:28
+
+[21:28:29]
+[DG5Pu+] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+

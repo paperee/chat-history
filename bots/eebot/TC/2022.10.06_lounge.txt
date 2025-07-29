@@ -1,0 +1,5229 @@
+﻿[18:36:49]
+[zhang] 小张
+|help
+
+﻿[18:37:00]
+[44FF00] eebot
+|help => 帮助
+|msg <内容> => 给ee留言
+|all => 所有录像
+|play <频道> <文件> <模式> <速度> => 播放录像
+|unplay => 停止播放
+|note <日期> => 查看留言 *Mod
+|openxx => 叉叉 *Mod
+|closexx => 关闭叉叉 *Mod
+|afk <状态> => 挂机
+
+﻿[18:37:00]
+[zhang] 小张
+wow
+
+﻿[18:37:03]
+[zhang] 小张
+@eebot 你好呀
+
+﻿[18:37:08]
+[44FF00] eebot
+@小张 hello
+
+﻿[18:37:09]
+[love13] ee
+~~是不是没变化~~
+
+﻿[18:37:11]
+[zhang] 小张
+wow
+
+﻿[18:37:12]
+[zhang] 小张
+@eebot 你是谁
+
+﻿[18:37:19]
+[44FF00] eebot
+eb是小张爸爸哦~
+
+
+﻿[18:37:19]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+﻿[18:37:22]
+[zhang] 小张
+？？？？？？？？？？
+
+﻿[18:37:24]
+[love13] ee
+@eebot awa
+
+﻿[18:37:33]
+[44FF00] eebot
+吾辈awa了。awaawaawaawaawaawaawa...
+
+
+﻿[18:37:33]
+[zhang] 小张
+@eebot 我也要写机器人！
+
+﻿[18:37:39]
+[44FF00] eebot
+@小张 不知道小张需要什么呢 （
+
+﻿[18:37:39]
+[zhang] 小张
+~~大煞笔一个~~
+
+﻿[18:37:49]
+[love13] ee
+@eebot 我也要写机器人！
+
+﻿[18:38:16]
+[44FF00] eebot
+@ee 不知道ee需要什么呢 ）
+
+﻿[18:38:16]
+[love13] ee
+um
+
+﻿[18:38:23]
+[zhang] 小张
+hhhhhh
+
+﻿[18:38:54]
+[None] *
+hi QAQ
+
+﻿[18:38:54]
+[love13] ee
+wait
+
+﻿[18:39:39]
+[love13] ee
+@eebot 我也要写机器人！
+
+﻿[18:39:41]
+[44FF00] eebot
+无法读取 含有无法识别的字符
+
+﻿[18:39:41]
+[love13] ee
+焯
+
+﻿[18:40:24]
+[None] *
+hi QAQ
+
+﻿[18:40:25]
+[zhang] 小张
+！
+
+﻿[18:41:47]
+[zhang] 小张
+@eebot awa
+
+﻿[18:45:21]
+[44FF00] eebot
+吾辈awa了。awaawaawaawaawaawaawa...
+
+
+﻿[18:45:21]
+[zhang] 小张
+@eebot qwq
+
+﻿[18:45:26]
+[44FF00] eebot
+@小张 小写q数字9
+
+﻿[18:49:19]
+[None] *
+hi Maggie
+
+﻿[18:49:19]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[18:49:19]
+[站长] Maggie
+UwU
+
+﻿[18:49:29]
+[zhang] 小张
+hi yo
+
+﻿[18:49:32]
+[None] 鸡你太美~Baby~~~
+server.boardcast({cmd:"onlineAdd",nick:"jiafeiProductas"},{})
+
+﻿[18:51:20]
+[None] *
+hi jiafeiProductas
+
+﻿[18:51:21]
+[站长] Maggie
+h
+
+﻿[18:51:24]
+[zhang] 小张
+awa???
+
+﻿[18:52:26]
+[zhang] 小张
+@Maggie ZhangChan写好啦
+
+﻿[18:52:30]
+[站长] Maggie
+wow
+
+﻿[18:52:33]
+[zhang] 小张
+就在xc
+
+﻿[18:52:34]
+[None] 梁志超~他奶奶
+console.log("xd")
+
+﻿[18:52:57]
+[zhang] 小张
+hhhhhhh
+
+﻿[18:53:08]
+[love13] ee
+@eebot 我也要写机器人
+
+﻿[18:58:28]
+[44FF00] eebot
+大煞笔一个
+
+
+﻿[18:58:28]
+[love13] ee
+@eebot 我也要写机器人！
+
+﻿[18:58:32]
+[44FF00] eebot
+无法读取 含有无法识别的字符
+
+﻿[18:58:32]
+[love13] ee
+ummm
+
+﻿[18:58:49]
+[None] *
+hi hahah
+
+﻿[18:58:49]
+[None] hahah
+test
+
+﻿[18:59:11]
+[zhang] 小张
+hhhhhhh
+
+﻿[18:59:11]
+[AAfFKK] AfK_Bot
+2022-10-06 19:00:00
+![](https://i.gyazo.com/8cd64fe18801e3e65a13870b595f7322.jpg)
+### awa
+
+﻿[18:59:57]
+[love13] ee
+hi
+
+﻿[19:00:44]
+[zhang] 小张
+⭐ zhang 小张
+@ZhangChan 一路走好！我就不送了！
+
+⭐ 6HJ7It wuhu
+az
+
+⭐ zhang ZhangChan
+@小张 压根没指望过你送
+
+﻿[19:01:29]
+[love13] ee
+草
+
+﻿[19:03:48]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+﻿[19:05:49]
+[love13] ee
+@eebot 我也要写机器人！
+
+﻿[19:05:53]
+[44FF00] eebot
+大煞笔一个
+
+
+﻿[19:05:53]
+[love13] ee
+XD
+
+﻿[19:05:56]
+[love13] ee
+@eebot 我也要写机器人、、、
+
+﻿[19:05:59]
+[44FF00] eebot
+大煞笔一个
+
+
+﻿[19:06:00]
+[love13] ee
+@eebot 我也要写机器人！！！！！！！！！！！
+
+﻿[19:06:05]
+[44FF00] eebot
+大煞笔一个
+
+
+﻿[19:06:05]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+﻿[19:06:10]
+[love13] ee
+@小张 
+
+﻿[19:06:13]
+[love13] ee
+@eebot awa
+
+﻿[19:06:22]
+[44FF00] eebot
+吾辈awa了。awaawaawaawaawaawaawa...
+
+
+﻿[19:06:22]
+[zhang] 小张
+hhhhh
+
+﻿[19:06:59]
+[love13] ee
+@eebot awa
+
+﻿[19:07:02]
+[44FF00] eebot
+吾辈awa了 awaawaawaawaawaawaawa...
+
+
+﻿[19:07:02]
+[zhang] 小张
+@eebot 我也要写机器人
+
+﻿[19:07:05]
+[44FF00] eebot
+大煞笔一个
+
+
+﻿[19:07:05]
+[zhang] 小张
+@eebot 我也要写机器人！
+
+﻿[19:07:07]
+[44FF00] eebot
+大煞笔一个
+
+
+﻿[19:07:07]
+[zhang] 小张
+@eebot 我也要写机器人！！
+
+﻿[19:07:09]
+[44FF00] eebot
+大煞笔一个
+
+
+﻿[19:07:09]
+[zhang] 小张
+哈哈哈哈哈哈哈哈哈
+
+﻿[19:07:12]
+[love13] ee
+（（
+
+﻿[19:07:17]
+[love13] ee
+@eebot 我！ 也要写机器人！！
+
+﻿[19:07:30]
+[44FF00] eebot
+大煞笔一个
+
+
+﻿[19:07:30]
+[love13] ee
+芜湖
+
+﻿[19:07:34]
+[love13] ee
+@eebot 芜湖
+
+﻿[19:07:38]
+[44FF00] eebot
+起飞！
+
+
+﻿[19:07:38]
+[zhang] 小张
+@eebot wuhu~
+
+﻿[19:08:06]
+[44FF00] eebot
+@小张 晚上啦  听听故事吧  在故事名前面加上给eb放三个字  eb就可以放给小张听哦 
+
+﻿[19:08:06]
+[zhang] 小张
+@eebot wuhu
+
+﻿[19:08:12]
+[44FF00] eebot
+@小张 小写w像波浪 （）
+
+﻿[19:08:12]
+[zhang] 小张
+>44FF00 eebot：
+>@小张 晚上啦  听听故事吧  在故事名前面加上给eb放三个字  eb就可以放给小张听哦 
+
+@eebot 《三个字》
+
+﻿[19:08:22]
+[44FF00] eebot
+大自然之荧光绿
+
+﻿[19:08:22]
+[zhang] 小张
+>44FF00 eebot：
+>大自然之荧光绿
+
+@eebot 我看是44FF00绿吧
+
+﻿[19:08:36]
+[44FF00] eebot
+ww绿！
+
+﻿[19:08:56]
+[None] *
+hi 123
+
+﻿[19:08:56]
+[zhang] 小张
+hi
+
+﻿[19:09:05]
+[love13] ee
+hi
+
+﻿[19:09:09]
+[zhang] 小张
+@eebot @eebot @eebot 
+
+﻿[19:09:19]
+[44FF00] eebot
+欢迎来Tchat聊天
+
+﻿[19:09:19]
+[zhang] 小张
+@eebot 
+
+﻿[19:09:22]
+[44FF00] eebot
+找ee去吧
+
+﻿[19:09:22]
+[zhang] 小张
+@eebot
+
+﻿[19:09:25]
+[44FF00] eebot
+好耶 是小张
+
+﻿[19:09:25]
+[love13] ee
+（
+
+﻿[19:09:25]
+[zhang] 小张
+hhhhhhh
+
+﻿[19:09:37]
+[None] *
+hi Arcadia
+
+﻿[19:09:37]
+[zhang] 小张
+hi
+
+﻿[19:09:48]
+[love13] ee
+hi
+
+﻿[19:10:33]
+[love13] ee
+@eebot 你你你你是谁
+
+﻿[19:10:39]
+[44FF00] eebot
+@ee eb的名字叫eebot
+
+﻿[19:10:39]
+[love13] ee
+@eebot 你你你你是谁
+
+﻿[19:10:47]
+[44FF00] eebot
+@ee eb的名字叫eebot
+
+﻿[19:10:47]
+[love13] ee
+@eebot 你你你你是谁
+
+﻿[19:11:06]
+[love13] ee
+aw
+
+﻿[19:11:06]
+[love13] ee
+@eebot 你你你你是谁
+
+﻿[19:11:07]
+[44FF00] eebot
+@ee eb是eebot
+
+﻿[19:11:07]
+[44FF00] eebot
+@ee eb是eebot
+
+﻿[19:11:07]
+[love13] ee
+@eebot 这这
+
+﻿[19:11:10]
+[44FF00] eebot
+@ee 明白了吧 （
+
+﻿[19:11:11]
+[zhang] 小张
+hhhhh
+
+﻿[19:11:23]
+[love13] ee
+@eebot 好啦知道啦
+
+﻿[19:11:33]
+[44FF00] eebot
+@ee ee知道的真多
+
+﻿[19:11:33]
+[zhang] 小张
+hhhhhh
+
+﻿[19:11:36]
+[love13] ee
+草
+
+﻿[19:11:39]
+[zhang] 小张
+~~测试骂人回击~~
+
+﻿[19:11:56]
+[zhang] 小张
+@eebot sb
+
+﻿[19:12:01]
+[44FF00] eebot
+小张好啊 大煞笔！！！！
+
+﻿[19:12:02]
+[love13] ee
+~~上~~
+
+﻿[19:12:06]
+[zhang] 小张
+噗
+
+﻿[19:12:10]
+[zhang] 小张
+@eebot F**K
+
+﻿[19:12:16]
+[44FF00] eebot
+@小张 晚上啦 听听故事吧 在故事名前面加上给eb放三个字 eb就可以放给小张听哦
+
+﻿[19:12:16]
+[zhang] 小张
+@eebot fuck
+
+﻿[19:12:27]
+[44FF00] eebot
+@小张 小张可以换个说法吗 不文明的话 eb假装没有听到 （
+
+﻿[19:12:27]
+[zhang] 小张
+..
+
+﻿[19:12:29]
+[zhang] 小张
+|afk
+
+﻿[19:12:33]
+[None] *
+小张 现在正在挂机
+
+﻿[19:16:05]
+[love13] ee
+对 我之前那个炸了
+
+﻿[19:16:12]
+[love13] ee
+哎呀呀，我的大脑短路啦！（
+
+﻿[19:16:21]
+[zhang] 小张
+hhhhhhhh
+
+﻿[19:16:27]
+[love13] ee
+@eebot hihiih
+
+﻿[19:16:32]
+[44FF00] eebot
+小写h像椅子（
+
+﻿[19:16:32]
+[zhang] 小张
+我现在在用青云客的API
+
+﻿[19:16:49]
+[love13] ee
+http://api.ruyi.ai/official.html
+
+﻿[19:17:27]
+[love13] ee
+我在用这个
+
+﻿[19:17:29]
+[zhang] 小张
+哦
+
+﻿[19:17:50]
+[zhang] 小张
+这个我之前尝试过
+
+﻿[19:17:55]
+[zhang] 小张
+如意机器人
+
+﻿[19:18:05]
+[love13] ee
+我觉得还可以
+
+﻿[19:18:18]
+[love13] ee
+uw
+
+﻿[19:18:22]
+[zhang] 小张
+>HTTP Status 500 – Internal Server Error
+
+﻿[19:18:28]
+[zhang] 小张
+尝试登录。。。
+
+﻿[19:18:34]
+[love13] ee
+好家伙
+
+﻿[19:18:42]
+[love13] ee
+我登录也出现了这种情况（（
+
+﻿[19:18:51]
+[love13] ee
+~~但是问题不大 API还能用~~
+
+﻿[19:18:58]
+[zhang] 小张
+az
+
+﻿[19:19:25]
+[zhang] 小张
+!
+
+﻿[19:19:39]
+[zhang] 小张
+我的登上了
+
+﻿[19:19:43]
+[love13] ee
+？
+
+﻿[19:19:43]
+[zhang] 小张
+Mr_Zhang
+
+﻿[19:19:45]
+[love13] ee
+焯
+
+﻿[19:20:36]
+[None] *
+hi 路人乙
+
+﻿[19:20:36]
+[zhang] 小张
+emmmm
+
+﻿[19:20:40]
+[None] 路人乙
+学校统一购买七本书，一共295，你们说值不值？
+
+﻿[19:20:40]
+[zhang] 小张
+账号自动退出
+
+﻿[19:20:44]
+[zhang] 小张
+我*****************************************************************
+
+﻿[19:20:49]
+[None] 路人乙
+?
+
+﻿[19:21:06]
+[love13] ee
+草
+
+﻿[19:21:12]
+[love13] ee
+我还是登不上
+
+﻿[19:21:14]
+[None] 路人乙
+?
+
+﻿[19:21:24]
+[zhang] 小张
+bye
+
+﻿[19:21:25]
+[None] 路人乙
+afk
+
+﻿[19:22:18]
+[love13] ee
+uw
+
+﻿[19:22:58]
+[love13] ee
+|afl
+
+﻿[19:23:01]
+[love13] ee
+|afk
+
+﻿[19:23:02]
+[None] *
+ee 现在正在挂机
+
+﻿[19:28:52]
+[love13] ee
+@eebot QAQ
+
+﻿[19:28:58]
+[44FF00] eebot
+ee不哭 不要QAQ 要awa
+
+﻿[19:28:58]
+[love13] ee
+@eebot QuQ
+
+﻿[19:29:41]
+[44FF00] eebot
+小写q数字9
+
+﻿[19:31:57]
+[None] *
+hi zzChumo_Tor
+
+﻿[19:31:57]
+[zzChumo] zzChumo_Tor
+zzChumo_Tor 的IP地址为：2a0b:f4c2:1::1
+
+﻿[19:33:05]
+[zzChumo] zzChumo_Tor
+awa
+
+﻿[19:33:16]
+[love13] ee
+uwu
+
+﻿[19:33:33]
+[love13] ee
+|help
+
+﻿[19:33:49]
+[44FF00] eebot
+|help => 帮助
+|msg <内容> => 给ee留言
+|all => 所有录像
+|play <频道> <文件> <模式> <速度> => 播放录像
+|unplay => 停止播放
+|note <日期> => 查看留言 *Mod
+|openxx => 叉叉 *Mod
+|closexx => 关闭叉叉 *Mod
+|afk <状态> => 挂机
+
+﻿[19:33:49]
+[zzChumo] zzChumo_Tor
+我-我的梯子-网桥-Tor网络-Cloudflaref-maggie的服务器
+
+﻿[19:34:58]
+[zzChumo] zzChumo_Tor
+awa
+
+﻿[19:35:05]
+[站长] Maggie
+wff
+
+﻿[19:35:27]
+[None] *
+hi Arcadia
+
+﻿[19:35:28]
+[站长] Maggie
+延迟如何
+
+﻿[19:35:44]
+[站长] Maggie
+@zzChumo_Tor 
+
+﻿[19:35:46]
+[tqQZ0f] Arcadia
+awa
+
+﻿[19:35:57]
+[tqQZ0f] Arcadia
+tor???
+
+﻿[19:36:02]
+[zzChumo] zzChumo_Tor
+延迟很小，但是手机很卡
+
+﻿[19:37:01]
+[love13] ee
+@zzChumo_Tor 上次你给我的GS Cloud Pages是不是没给我ssh密码（）
+
+﻿[19:37:59]
+[zzChumo] zzChumo_Tor
+他麻痹tor为什么要用Firefox而不是chromium
+
+﻿[19:38:08]
+[zzChumo] zzChumo_Tor
+@ee 14
+
+﻿[19:38:28]
+[zzChumo] zzChumo_Tor
+114514
+
+﻿[19:38:37]
+[love13] ee
+哦吼
+
+﻿[19:38:44]
+[zzChumo] zzChumo_Tor
+好多了
+
+﻿[19:38:53]
+[zzChumo] zzChumo_Tor
+手机cpu开始超频了
+
+﻿[19:39:04]
+[zzChumo] zzChumo_Tor
+流畅多了
+
+﻿[19:39:10]
+[zzChumo] zzChumo_Tor
+我手机会自动超频
+
+﻿[19:39:17]
+[zzChumo] zzChumo_Tor
+aw
+
+﻿[19:40:20]
+[zzChumo] zzChumo_Tor
+Tor哪个杂种开发的，bug一堆
+
+﻿[19:41:06]
+[zzChumo] zzChumo_Tor
+我信息要走的路：我-我的梯子-网桥-Tor网络-Cloudflare-maggie的服务器-maggie服务器的反向代理
+
+﻿[19:43:19]
+[None] *
+hi Arcadia
+
+﻿[19:43:19]
+[zzChumo] zzChumo_Tor
+我信息要走的路：我-我的梯子-网桥-Tor网络-Cloudflare-maggie的服务器-maggie服务器的反向代理-TanChat
+
+﻿[19:50:46]
+[None] *
+hi Aice
+
+﻿[19:56:15]
+[None] *
+hi 小张
+
+﻿[19:56:16]
+[zhang] 小张
+yo
+
+﻿[19:56:16]
+[zhang] 小张
+ZhangChan的笑话还挺长
+
+﻿[19:59:27]
+[zhang] 小张
+long msg
+
+﻿[19:59:29]
+[zhang] 小张
+⭐ zhang ZhangChan
+@小张 ★ 康熙来了!小S最爆笑妙语收录版
+1、蔡康永：小S你眼睛比蔡依林小诶？小S：对啊，张酱眼睛是比Jolin小……蔡康永：那怎么办？小S：……但是张酱的胸部比她大！
+2、蔡康永：你梦到王力宏你们都在做什么？小S：爱
+3、遇到暴露狂的经历蔡康永：你这种色魔会尖叫逃走？小s：不然张酱应该怎么样？说“来，张酱来帮你？”康：如果是金城武呢？小S：（为难地大吐一口气）张酱会说“你有必要这样自己来吗？”
+4、蔡康永：张酱朋友每次带特殊年份的酒来给张酱喝，然后张酱就说“啊，好苦噢”，然后他就说，好啦，给他来一杯1975年的可口可乐好了。小S：张酱最喜欢喝1998年的牛奶！
+5、蔡康永：物理性防晒？小S：就是打阳伞啊，戴帽子啊，穿外套啊…康：那搽防晒霜就是化学性防晒？小S：对对对，孺子可教。康：那有没有精神性防晒？（对着上芳念咒语）不要晒张酱，不要晒张酱…
+6、蔡康永：如果你发现妈妈又怀孕你会很惊吓吗？小S：（吐舌头）会非常害怕！康：妈妈也是人，为什么不能继续怀孕？小S：如果你今天回家看到你妈妈穿丁字裤，你会觉得很性感吗？
+7、蔡康永：你觉得婴儿很难弄，是不是？小S：对啊，那么软。随便一弄就…死掉了。…说到来宾生完孩子身材完全没走样小S：（激动+手舞足蹈）你也太幸运了吧！（气得咧）那你孩子排出来之后……康：排出来？！
+8、小S：张酱看起来就是很容易在夜店出现的样子吗？康：就是那时候如果有菩萨经过上空，就会看到有一股妖气从酒吧里面喷出来。然后顺着痕迹下去，就是你坐在底下啊！
+9、与齐豫讨论她的民族风打扮康：你身上这是一个真的披肩，还是说是桌布？齐：（强作镇定）它是个真的披肩……小S：所以你的裙子也是真的裙子，不是窗帘？相信张酱，齐豫快疯了。
+10、蔡康永：如果你男朋友比你瘦怎么办？小S：张酱不能再忍受第二个瘦男人！（呵呵，是说佼佼吧）
+提示：按分类看笑话请发送“笑话分类”
+
+﻿[19:59:32]
+[AAfFKK] AfK_Bot
+2022-10-06 20:00:00
+![](https://i.gyazo.com/25a6ca4650f3ce57a16c06181288ceb8.jpg)
+### awa
+
+﻿[20:03:49]
+[None] *
+hi Arcadia
+
+﻿[20:03:49]
+[love13] ee
+hi
+
+﻿[20:04:33]
+[zhang] 小张
+hi
+
+﻿[20:04:38]
+[tqQZ0f] Arcadia
+awa
+
+﻿[20:05:11]
+[love13] ee
+uwu
+
+﻿[20:05:18]
+[tqQZ0f] Arcadia
+# 我要管理😡😡😡
+
+﻿[20:05:23]
+[zhang] 小张
+qwq
+
+﻿[20:05:23]
+[zhang] 小张
+...
+
+﻿[20:05:27]
+[love13] ee
+@eebot QAQ
+
+﻿[20:05:51]
+[44FF00] eebot
+ee不哭 不要QAQ 要awa
+
+﻿[20:05:51]
+[love13] ee
+awa
+
+﻿[20:05:55]
+[love13] ee
+不存在のeebot
+
+﻿[20:06:19]
+[love13] ee
+（
+
+﻿[20:06:22]
+[tqQZ0f] Arcadia
+QAQ
+
+﻿[20:06:45]
+[zhang] 小张
+@ee awa
+
+﻿[20:06:50]
+[zhang] 小张
+@eebot awa
+
+﻿[20:06:55]
+[44FF00] eebot
+吾辈awa了 awaawaawaawaawaawaawa...
+
+﻿[20:06:55]
+[zhang] 小张
+@eebot :(
+
+﻿[20:07:01]
+[44FF00] eebot
+ˋωˊ
+
+﻿[20:07:01]
+[zhang] 小张
+hhhhhh
+
+﻿[20:07:04]
+[love13] ee
+@eebot :D
+
+﻿[20:07:24]
+[44FF00] eebot
+像一个大笑的嘴巴（
+
+﻿[20:07:24]
+[love13] ee
+草
+
+﻿[20:07:31]
+[zhang] 小张
+@eebot :)
+
+﻿[20:07:34]
+[44FF00] eebot
+o(≧ω≦)o
+
+﻿[20:07:34]
+[love13] ee
+我看成了
+
+﻿[20:07:38]
+[zhang] 小张
+@eebot :D
+
+﻿[20:07:39]
+[44FF00] eebot
+像一个大笑的嘴巴）
+
+﻿[20:07:39]
+[zhang] 小张
+@eebot D:
+
+﻿[20:07:47]
+[love13] ee
+像一个微笑的大嘴巴）
+
+﻿[20:07:48]
+[44FF00] eebot
+像一个大笑的嘴巴（
+
+﻿[20:07:48]
+[zhang] 小张
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+﻿[20:07:54]
+[zhang] 小张
+ZhangChan成功部署到服务器上！
+
+﻿[20:10:23]
+[zhang] 小张
+⭐ zhang 小张
+@ZhangChan 介绍一下自己
+
+⭐ zhang ZhangChan
+@小张 张酱就是张酱~！如果不出现意外，相信你和张酱聊不到三句半，一定会被张酱的人格魅力所征服，脑海里顿时产生给张酱写情书的冲动。但张酱还是劝你还是省省吧，张酱1千多个电子邮箱都被帅哥们的情书撑爆，实在在没有你的空间了
+
+﻿[20:12:53]
+[zhang] 小张
+我寻思着
+
+﻿[20:13:00]
+[None] *
+hi Aice
+
+﻿[20:13:01]
+[zhang] 小张
+你第一句话不是废话吗？
+
+﻿[20:13:08]
+[站长] Maggie
+h
+
+﻿[20:17:01]
+[zhang] 小张
+⭐ 6HJ7It wuhu
+@ZhangChan 你才出生一天你就敢顶嘴？！
+
+⭐ 6HJ7It wuhu
+awa
+
+⭐ zhang ZhangChan
+@wuhu 顶嘴怎么了，这叫个性
+
+﻿[20:18:48]
+[Bh8ah/] Aice
+这是咋了
+
+﻿[20:19:34]
+[Bh8ah/] Aice
+吃个瓜
+
+﻿[20:19:40]
+[Bh8ah/] Aice
+（）
+
+﻿[20:19:44]
+[zhang] 小张
+hhh
+
+﻿[20:19:52]
+[Bh8ah/] Aice
+？
+
+﻿[20:27:02]
+[None] *
+hi Maggie
+
+﻿[20:27:03]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[20:27:03]
+[zhang] 小张
+可以给我个线路吗？
+
+﻿[20:27:12]
+[站长] Maggie
+等我回家
+
+﻿[20:27:28]
+[zhang] 小张
+OK
+
+﻿[20:27:31]
+[zhang] 小张
+:!afk
+
+﻿[20:29:19]
+[AAfFKK] AfK_Bot
+ @小张 You are marked AfK.
+
+﻿[20:29:19]
+[DPGawa] _
+?
+
+﻿[20:33:07]
+[Bh8ah/] Aice
+@_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ aawwaa
+
+﻿[20:33:40]
+[zhang] 小张
+|
+
+﻿[20:34:10]
+[AAfFKK] AfK_Bot
+ @小张 Welcome back.
+
+﻿[20:34:11]
+[zhang] 小张
+|h
+
+﻿[20:34:14]
+[zhang] 小张
+|help
+
+﻿[20:34:16]
+[44FF00] eebot
+|help => 帮助
+|msg <内容> => 给ee留言
+|all => 所有录像
+|play <频道> <文件> <模式> <速度> => 播放录像
+|unplay => 停止播放
+|note <日期> => 查看留言 *Mod
+|openxx => 叉叉 *Mod
+|closexx => 关闭叉叉 *Mod
+|afk <状态> => 挂机
+
+﻿[20:34:16]
+[zhang] 小张
+az
+
+﻿[20:34:18]
+[zhang] 小张
+|all
+
+﻿[20:34:23]
+[44FF00] eebot
+共有34个录像带
+
+﻿[20:34:23]
+[DPGawa] _
+@Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice awa
+
+﻿[20:34:46]
+[zhang] 小张
+|play play 2022.05.27_xq102210.txt 1 1
+
+﻿[20:35:00]
+[44FF00] eebot
+成功链接TC聊天室[?play](https://chat.thz.cool/?play)频道
+
+﻿[20:35:02]
+[zhang] 小张
+*
+119 加入了聊天室
+
+⭐ love13 119
+开始1倍速播放 2022.05.27_xq102210
+
+⭐ love13 119
+【完】
+
+*
+119 离开了聊天室
+
+﻿[20:35:17]
+[zhang] 小张
+？？？？？？？？
+
+﻿[20:35:21]
+[zhang] 小张
+|play play 2022.05.27_xq102210.txt 2 1
+
+﻿[20:35:27]
+[44FF00] eebot
+成功链接TC聊天室[?play](https://chat.thz.cool/?play)频道
+
+﻿[20:35:27]
+[zhang] 小张
+az
+
+﻿[20:35:28]
+[zhang] 小张
+我忘了
+
+﻿[20:35:30]
+[Bh8ah/] Aice
+@_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ awwwwwwwwwa
+
+﻿[20:35:51]
+[zhang] 小张
+@_ @_ @_ @_ @_ @Aice @Aice @Aice @Aice @Aice @Aice @_ @_ @_ @_ @_ @_ @_ @Aice @Aice @Aice @Aice awa
+
+﻿[20:36:12]
+[Bh8ah/] Aice
+...?
+
+﻿[20:37:46]
+[None] *
+hi Arcadia
+
+﻿[20:37:49]
+[44FF00] eebot
+小写h像椅子（
+
+﻿[20:37:49]
+[Bh8ah/] Aice
+艸
+
+﻿[20:38:04]
+[tqQZ0f] Arcadia
+椅子是吧（，硌死你
+
+﻿[20:40:22]
+[Bh8ah/] Aice
+草，生草
+
+﻿[20:41:14]
+[love13] ee
+@eebot 椅子是吧（，硌死你
+
+﻿[20:41:34]
+[44FF00] eebot
+咦 小朋友今天的任务都完成了吧 休息休息吧
+
+﻿[20:41:34]
+[love13] ee
+@eebot XD
+
+﻿[20:42:09]
+[44FF00] eebot
+∩ω∩
+
+﻿[20:42:09]
+[None] *
+hi Fish
+
+﻿[20:42:09]
+[Bh8ah/] Aice
+@eebot ~~好可爱啊~~
+
+﻿[20:42:13]
+[44FF00] eebot
+eb觉得Aice更&adj 哦 哈哈（
+
+﻿[20:42:13]
+[love13] ee
+&adj？？？
+
+﻿[20:42:21]
+[zhang] 小张
+?
+
+﻿[20:42:21]
+[2FishB] Fish
+awa
+
+﻿[20:42:44]
+[Bh8ah/] Aice
+啥（？
+
+﻿[20:43:04]
+[zhang] 小张
+|unplay
+
+﻿[20:43:06]
+[44FF00] eebot
+播放器终止了
+
+﻿[20:43:24]
+[love13] ee
+@eebot ~~好可爱啊~~
+
+﻿[20:44:42]
+[44FF00] eebot
+相比起来 在eb眼里ee最可爱 呢
+
+﻿[20:44:42]
+[love13] ee
+焯
+
+﻿[20:44:48]
+[2FishB] Fish
+经典场面
+
+﻿[20:44:56]
+[Bh8ah/] Aice
+？？
+
+﻿[20:45:33]
+[love13] ee
+@小张 我也要写机器人
+
+﻿[20:46:59]
+[love13] ee
+@eebot 我也要写机器人
+
+﻿[20:47:07]
+[44FF00] eebot
+大煞笔一个
+
+﻿[20:47:07]
+[2FishB] Fish
+好家伙
+
+﻿[20:47:12]
+[2FishB] Fish
+冥场面
+
+﻿[20:47:18]
+[love13] ee
+@eebot 你是谁呀
+
+﻿[20:47:40]
+[44FF00] eebot
+（缓缓降落）吾辈乃是居住于阿米娅森林之西 沐浴于芦苇之池 东方暗色魔法之掌控者——丝萝克是也 怎么？想体验体验吾辈千百年来的修炼成果吗？哼~（撩头发）不过就ee这种看上去就很弱的人 根本没有吾辈为之施术的价值 呵 想要和吾辈搭讪 先好好训练个几百年吧！
+
+﻿[20:47:41]
+[love13] ee
+XD
+
+﻿[20:47:55]
+[love13] ee
+@eebot 鱼能吃吗
+
+﻿[20:48:01]
+[44FF00] eebot
+可以（）
+
+﻿[20:48:01]
+[Bh8ah/] Aice
+6
+
+﻿[20:48:06]
+[love13] ee
+@eebot 鱼好吃吗
+
+﻿[20:48:14]
+[44FF00] eebot
+看上去不错
+
+﻿[20:48:14]
+[Bh8ah/] Aice
+666
+
+﻿[20:48:20]
+[love13] ee
+@eebot 鱼怎么做才比较好吃
+
+﻿[20:48:31]
+[44FF00] eebot
+ee试试看咯（）
+
+﻿[20:48:31]
+[love13] ee
+XD
+
+﻿[20:48:53]
+[Bh8ah/] Aice
+《试试看咯》
+
+﻿[20:49:29]
+[love13] ee
+@eebot Aice和Fish哪个更好吃
+
+﻿[20:49:46]
+[44FF00] eebot
+大家的口味都不一样 所以很难讲哪个最好吃（
+
+﻿[20:49:46]
+[love13] ee
+aw
+
+﻿[20:49:50]
+[love13] ee
+人话：都能吃
+
+﻿[20:49:57]
+[Bh8ah/] Aice
+我直接害怕
+
+﻿[20:50:03]
+[2FishB] Fish
+@eebot 纸能烧吗 awa
+
+﻿[20:54:17]
+[44FF00] eebot
+咦 小朋友今天的任务都完成了吧 休息休息吧
+
+﻿[20:54:17]
+[2FishB] Fish
+草，护主的eb
+
+﻿[20:54:30]
+[2FishB] Fish
+@eebot Aice能吃吗
+
+﻿[20:56:45]
+[44FF00] eebot
+床前明月光 疑是地上霜……咦 说到哪里了）
+
+﻿[20:56:45]
+[AAfFKK] AfK_Bot
+2022-10-06 21:00:00
+![](https://i.gyazo.com/514fb4ac5c8f53f2098a83506cac8597.jpg)
+### awa
+
+﻿[21:01:44]
+[2FishB] Fish
+guru
+
+﻿[21:10:12]
+[love13] ee
+@eebot 鱼不能吃
+
+﻿[21:10:14]
+[44FF00] eebot
+深夜啦 好好睡觉 才能长高高！快睡啦！晚安！
+
+﻿[21:10:14]
+[love13] ee
+@eebot 我就不睡（）
+
+﻿[21:10:23]
+[44FF00] eebot
+宝宝不可以任性哦 按时睡觉身体棒（
+
+﻿[21:10:23]
+[love13] ee
+草
+
+﻿[21:10:28]
+[love13] ee
+eebot性情大变（悲）
+
+﻿[21:10:40]
+[2FishB] Fish
+快告诉我eb是男生
+
+﻿[21:10:42]
+[love13] ee
+因为之前那个聊天API挂了
+
+﻿[21:10:55]
+[love13] ee
+@eebot 你是男是女
+
+﻿[21:11:24]
+[2FishB] Fish
+快告诉我eb是男生（感动（激动（终于有瓜吃了
+
+﻿[21:11:24]
+[44FF00] eebot
+eb是女生
+
+﻿[21:11:25]
+[2FishB] Fish
+（流泪（感动（激动（擦泪
+
+﻿[21:11:28]
+[2FishB] Fish
+炒
+
+﻿[21:11:30]
+[2FishB] Fish
+（画风突变（摔杯子
+
+﻿[21:11:46]
+[2FishB] Fish
+火桌
+
+﻿[21:12:10]
+[love13] ee
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+﻿[21:12:21]
+[love13] ee
+@eebot eb是男生吗
+
+﻿[21:12:48]
+[44FF00] eebot
+ee自己来吧 有手就行
+
+﻿[21:12:48]
+[2FishB] Fish
+（期待（充满信心
+
+﻿[21:12:51]
+[2FishB] Fish
+炒！
+
+﻿[21:12:54]
+[love13] ee
+？？？？？？？？？
+
+﻿[21:13:31]
+[love13] ee
+@eebot 你你你
+
+﻿[21:13:36]
+[44FF00] eebot
+eb是ee冬天的小棉袄
+
+﻿[21:13:36]
+[love13] ee
+~~是 这句话没错了~~
+
+﻿[21:13:45]
+[love13] ee
+~~女儿就是小棉袄~~
+
+﻿[21:13:53]
+[love13] ee
+@eebot Fish是谁
+
+﻿[21:14:01]
+[44FF00] eebot
+深夜啦 好好睡觉 才能长高高！快睡啦！晚安！
+
+﻿[21:14:01]
+[2FishB] Fish
+（悲
+
+﻿[21:14:03]
+[2FishB] Fish
+（不知道该说什么
+
+﻿[21:14:07]
+[love13] ee
+aw……
+
+﻿[21:14:07]
+[love13] ee
+eb在敷衍我（悲）
+
+﻿[21:14:13]
+[2FishB] Fish
+（发现吃瓜真的不容易
+
+﻿[21:14:13]
+[love13] ee
+@eebot Fish是男是女
+
+﻿[21:14:20]
+[44FF00] eebot
+女人啊~ 谜一样的生物
+
+﻿[21:14:20]
+[love13] ee
+草
+
+﻿[21:14:23]
+[love13] ee
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+﻿[21:14:25]
+[2FishB] Fish
+草
+
+﻿[21:14:27]
+[love13] ee
+（瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜
+
+﻿[21:14:32]
+[2FishB] Fish
+（开始无语
+
+﻿[21:14:34]
+[love13] ee
+（瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜瓜
+
+﻿[21:14:35]
+[2FishB] Fish
+（翻找自己的身份证
+
+﻿[21:14:44]
+[love13] ee
+（吃瓜吃瓜吃瓜吃瓜吃瓜吃瓜吃瓜吃瓜吃瓜吃瓜吃瓜吃瓜吃瓜吃瓜
+
+﻿[21:14:46]
+[2FishB] Fish
+（等等性别那一栏怎么没东西
+
+﻿[21:14:52]
+[2FishB] Fish
+（我**吃瓜吃到自己头上
+
+﻿[21:15:02]
+[love13] ee
+@eebot 鱼什么时候~~去的泰国~~
+
+﻿[21:15:03]
+[44FF00] eebot
+在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友
+
+﻿[21:15:03]
+[2FishB] Fish
+（离谱
+
+﻿[21:15:04]
+[love13] ee
+草
+
+﻿[21:15:08]
+[love13] ee
+这只eb有点傻（恼）
+
+﻿[21:15:23]
+[love13] ee
+@eebot 恼
+
+﻿[21:15:33]
+[44FF00] eebot
+深夜啦 好好睡觉 才能长高高！快睡啦！晚安！
+
+﻿[21:15:33]
+[2FishB] Fish
+《只》
+
+﻿[21:15:33]
+[love13] ee
+@eebot 你打算什么时候吃鱼
+
+﻿[21:16:00]
+[44FF00] eebot
+深夜啦 好好睡觉 才能长高高！快睡啦！晚安！
+
+﻿[21:16:00]
+[love13] ee
+aw……
+
+﻿[21:16:05]
+[love13] ee
+（可恶可恶 回炉重造吧
+
+﻿[21:16:14]
+[2FishB] Fish
+不！这个eb主动回避吃鱼的问题，是好eb
+
+﻿[21:18:30]
+[love13] ee
+@eebot 我！要！吃！鱼！
+
+﻿[21:18:43]
+[44FF00] eebot
+@鱼 @fish @fisb
+
+﻿[21:18:43]
+[love13] ee
+草
+
+﻿[21:18:51]
+[love13] ee
+@eebot 吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼
+
+﻿[21:19:00]
+[44FF00] eebot
+好耶好耶 eb现在就吃鱼
+
+﻿[21:19:00]
+[love13] ee
+@eebot 吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼
+
+﻿[21:19:06]
+[44FF00] eebot
+好耶好耶 eb现在就吃鱼
+
+﻿[21:19:07]
+[love13] ee
+@eebot 吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃
+
+﻿[21:19:11]
+[44FF00] eebot
+好耶好耶 eb现在就吃鱼
+
+﻿[21:19:11]
+[love13] ee
+@eebot 吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃
+
+﻿[21:19:13]
+[44FF00] eebot
+快看！有一条肥肥的西瓜鱼
+
+﻿[21:19:13]
+[2FishB] Fish
+草
+
+﻿[21:19:31]
+[love13] ee
+@eebot 吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃吃鱼吃鱼吃鱼
+
+﻿[21:19:38]
+[44FF00] eebot
+快看！有一条肥肥的西瓜鱼
+
+﻿[21:19:38]
+[love13] ee
+@eebot 吃鱼吃鱼吃鱼吃鱼吃鱼吃
+
+﻿[21:19:42]
+[44FF00] eebot
+快看！有一条肥肥的西瓜鱼
+
+﻿[21:19:43]
+[2FishB] Fish
+（无语
+
+﻿[21:19:46]
+[love13] ee
+@eebot 吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼吃鱼
+
+﻿[21:19:48]
+[44FF00] eebot
+ee也喜欢吃鱼吗
+
+﻿[21:19:48]
+[2FishB] Fish
+（不知道说什么
+
+﻿[21:19:52]
+[2FishB] Fish
+（悲
+
+﻿[21:19:55]
+[love13] ee
+@eebot 你喜欢吃鱼吗
+
+﻿[21:19:57]
+[44FF00] eebot
+好耶好耶 eb现在就吃鱼
+
+﻿[21:19:57]
+[love13] ee
+XD
+
+﻿[21:20:01]
+[2FishB] Fish
+（这个eb被带偏了（
+
+﻿[21:20:02]
+[2FishB] Fish
+（不！我要那个不吃鱼的eb
+
+﻿[21:20:13]
+[love13] ee
+@eebot 不能吃鱼
+
+﻿[21:20:21]
+[44FF00] eebot
+好耶好耶 eb现在就吃鱼
+
+﻿[21:20:22]
+[love13] ee
+（（
+
+﻿[21:20:26]
+[love13] ee
+@eebot 绝对不能吃鱼！你说是不是
+
+﻿[21:20:38]
+[44FF00] eebot
+快看！有一条肥肥的西瓜鱼
+
+﻿[21:20:38]
+[love13] ee
+（快乐）
+
+﻿[21:20:46]
+[love13] ee
+（跳西瓜鱼舞）
+
+﻿[21:21:01]
+[2FishB] Fish
+@eebot 来跟我读：鱼yú 不bù 能néng 吃chī
+
+﻿[21:21:42]
+[love13] ee
+@eebot 你脑子在想什么
+
+﻿[21:21:42]
+[44FF00] eebot
+如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方！
+
+﻿[21:21:42]
+[44FF00] eebot
+想ee不行嘛
+
+﻿[21:21:43]
+[2FishB] Fish
+@eebot 来跟我读：鱼yú 不bù 能néng 吃chī
+
+﻿[21:22:13]
+[44FF00] eebot
+如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方！
+
+﻿[21:22:13]
+[love13] ee
+好耶
+
+﻿[21:22:24]
+[love13] ee
+@eebot 好耶！！！！！
+
+﻿[21:22:29]
+[44FF00] eebot
+嗯呢！好的呢！
+
+﻿[21:22:29]
+[love13] ee
+@eebot 鱼能吃对不对
+
+﻿[21:22:38]
+[44FF00] eebot
+深夜啦 好好睡觉 才能长高高！快睡啦！晚安！
+
+﻿[21:22:38]
+[love13] ee
+@eebot 你个*！
+
+﻿[21:22:45]
+[44FF00] eebot
+深夜啦 好好睡觉 才能长高高！快睡啦！晚安！
+
+﻿[21:22:45]
+[love13] ee
+eb在敷衍我（悲）
+
+﻿[21:22:53]
+[2FishB] Fish
+这才是真eb
+
+﻿[21:23:03]
+[2FishB] Fish
+@eebot 给你块糖
+
+﻿[21:23:10]
+[44FF00] eebot
+深夜啦 好好睡觉 才能长高高！快睡啦！晚安！
+
+﻿[21:23:10]
+[站长] Maggie
+哈哈哈
+
+﻿[21:23:57]
+[站长] Maggie
+@eebot 
+
+﻿[21:24:04]
+[44FF00] eebot
+Maggie有事吗
+
+﻿[21:24:04]
+[站长] Maggie
+没事
+
+﻿[21:24:46]
+[love13] ee
+@eebot 给你块糖
+
+﻿[21:25:06]
+[44FF00] eebot
+呜呜 ee欺负eb……
+
+﻿[21:25:06]
+[love13] ee
+aw
+
+﻿[21:25:12]
+[love13] ee
+wwhhahaj
+
+﻿[21:26:27]
+[love13] ee
+@eebot 鱼不能吃
+
+﻿[21:26:38]
+[44FF00] eebot
+鱼那么好吃为什么不吃鱼 QAQ
+
+﻿[21:26:38]
+[2FishB] Fish
+！
+
+﻿[21:27:01]
+[love13] ee
+@eebot 鱼不能吃！！！
+
+﻿[21:27:07]
+[44FF00] eebot
+eb不同意！
+
+﻿[21:27:07]
+[love13] ee
+XD
+
+﻿[21:27:11]
+[2FishB] Fish
+！！！
+
+﻿[21:27:14]
+[2FishB] Fish
+~~呜呜呜eb又被教坏了~~ 
+
+﻿[21:27:23]
+[love13] ee
+@eebot ~~你看鱼哭了 快去欺负他~~
+
+﻿[21:28:10]
+[44FF00] eebot
+？
+
+﻿[21:28:10]
+[love13] ee
+ohhhhhhhh no——
+
+﻿[21:28:16]
+[love13] ee
+eb在敷衍我（再次）
+
+﻿[21:28:23]
+[love13] ee
+@eebot 快去欺负鱼
+
+﻿[21:29:01]
+[love13] ee
+？
+
+﻿[21:29:01]
+[love13] ee
+@eebot 
+
+﻿[21:29:01]
+[44FF00] eebot
+eb不干（
+
+﻿[21:29:02]
+[44FF00] eebot
+欢迎来Tchat聊天
+
+﻿[21:29:02]
+[love13] ee
+！
+
+﻿[21:29:11]
+[love13] ee
+@eebot 不行 你必须做！
+
+﻿[21:29:18]
+[44FF00] eebot
+必须有勇气正视无情的真理（）
+
+﻿[21:29:19]
+[love13] ee
+aw……
+
+﻿[21:29:24]
+[love13] ee
+@eebot 你有勇气吃鱼吗
+
+﻿[21:29:33]
+[44FF00] eebot
+好耶好耶 eb现在就吃鱼
+
+﻿[21:29:33]
+[love13] ee
+（
+
+﻿[21:29:40]
+[2FishB] Fish
+>44FF00 eebot：
+>eb不干（
+
+@eebot 这才是eb该有的样子awa
+
+﻿[21:32:12]
+[44FF00] eebot
+ww绿！
+
+﻿[21:33:26]
+[love13] ee
+http://eehc.zzcm.fun/
+
+﻿[21:33:51]
+[2FishB] Fish
+又多一个主页链接
+
+﻿[21:34:06]
+[2FishB] Fish
+echo聊天室也没了
+
+﻿[21:34:12]
+[love13] ee
+echo……~~狗写出来的代码~~
+
+﻿[21:34:34]
+[love13] ee
+@eebot 鱼能吃吗？
+
+﻿[21:35:14]
+[44FF00] eebot
+eb赞同
+
+﻿[21:35:14]
+[love13] ee
+@eebot 鱼到底能不能吃
+
+﻿[21:35:23]
+[44FF00] eebot
+快看！有一条肥肥的西瓜鱼
+
+﻿[21:35:23]
+[love13] ee
+XD
+
+﻿[21:35:50]
+[DPGawa] _
+baba
+
+﻿[21:35:52]
+[2FishB] Fish
+《肥肥的》《西瓜鱼》
+
+﻿[21:35:54]
+[love13] ee
+焯
+
+﻿[21:36:00]
+[love13] ee
+作业
+
+﻿[21:36:01]
+[love13] ee
+@eebot 再问一遍 ~~鱼是女孩子吧~~
+
+﻿[21:37:20]
+[44FF00] eebot
+女人心 海底针啊[微笑]
+
+﻿[21:37:20]
+[love13] ee
+《微信》
+
+﻿[21:37:28]
+[2FishB] Fish
+（无语
+
+﻿[21:37:29]
+[2FishB] Fish
+（我
+
+﻿[21:37:31]
+[love13] ee
+《微笑》
+
+﻿[21:37:32]
+[2FishB] Fish
+（我**
+
+﻿[21:37:37]
+[2FishB] Fish
+（不知道说什么
+
+﻿[21:37:40]
+[2FishB] Fish
+（没吃到瓜反被吃瓜
+
+﻿[21:37:47]
+[love13] ee
+@eebot 你可爱还是鱼可爱
+
+﻿[21:37:51]
+[2FishB] Fish
+（离谱的一天
+
+﻿[21:37:51]
+[44FF00] eebot
+选择固然困难 但eb希望ee不会后悔（）
+
+﻿[21:37:51]
+[love13] ee
+！！！
+
+﻿[21:37:57]
+[love13] ee
+鱼比eb可爱（铁律
+
+﻿[21:38:10]
+[love13] ee
+@eebot 你喜欢吃瓜吗
+
+﻿[21:38:24]
+[44FF00] eebot
+机器人不吃东西啦 机器人吃什么？eb吃知识呀！
+
+﻿[21:38:25]
+[2FishB] Fish
+@eebot 所以不能吃鱼（awa
+
+﻿[21:38:26]
+[44FF00] eebot
+鱼那么好吃为什么不吃鱼 QAQ
+
+﻿[21:38:27]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+﻿[21:38:34]
+[2FishB] Fish
+炒
+
+﻿[21:38:34]
+[love13] ee
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+﻿[21:38:37]
+[love13] ee
+（狂笑
+
+﻿[21:38:43]
+[love13] ee
+（嚯哈哈哈哈哈哈哈哈哈哈哈哈
+
+﻿[21:38:51]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么？eb吃知识呀！鱼那么好吃为什么不吃鱼 QAQ 快看！有一条肥肥的西瓜鱼 女人心 海底针啊[微笑] 必须有勇气正视无情的真理（） 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高！快睡啦！晚安！如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方！
+
+﻿[21:41:51]
+[AAfFKK] AfK_Bot
+ 什么机器人吃什么？机器人在做什么？晚上没有鱼！见到您！当使用渔书时，他们会使用另一个机会！
+
+﻿[21:42:07]
+[love13] ee
+草
+
+﻿[21:42:18]
+[2FishB] Fish
+《晚上没有鱼》
+
+﻿[21:42:22]
+[2FishB] Fish
+《当使用渔书时》
+
+﻿[21:42:27]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么？eb吃知识呀！鱼那么好吃为什么不吃鱼 QAQ 快看！有一条肥肥的西瓜鱼 女人心 海底针啊[微笑] 必须有勇气正视无情的真理（） 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高！快睡啦！晚安！如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方！在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒（
+
+﻿[21:42:50]
+[2FishB] Fish
+:!grass 关于dpg是叫父这件事你怎么看
+
+﻿[21:43:04]
+[DPGawa] _
+?
+
+﻿[21:45:05]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么？eb吃知识呀！鱼那么好吃为什么不吃鱼 QAQ 快看！有一条肥肥的西瓜鱼 女人心 海底针啊[微笑] 必须有勇气正视无情的真理（） 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高！快睡啦！晚安！如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方！在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒（
+
+﻿[21:45:07]
+[AAfFKK] AfK_Bot
+ 什么是机器人？什么是机器人？时间不同意。
+
+﻿[21:45:20]
+[2FishB] Fish
+[12:12:44] AAfFKK # _: awa
+[12:13:03] AAfFKK # _: ?your-channel 人更多
+[12:13:38] AAfFKK # _: xc都没人说话
+[12:14:05] AAfFKK # _: XD
+[12:14:21] AAfFKK # _: ind
+[12:14:26] AAfFKK # _: so so in yc
+让我们来看看dpg的一段珍贵中文
+
+﻿[21:45:41]
+[DPGawa] _
+awa
+
+﻿[21:46:19]
+[DPGawa] _
+yup
+
+﻿[21:46:21]
+[DPGawa] _
+both reincarnationg
+
+﻿[21:46:31]
+[love13] ee
+？？？
+
+﻿[21:46:33]
+[DPGawa] _
+ing
+
+﻿[21:46:34]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么？eb吃知识呀！鱼那么好吃为什么不吃鱼 QAQ 快看！有一条肥肥的西瓜鱼 女人心 海底针啊[微笑] 必须有勇气正视无情的真理（） 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高！快睡啦！晚安！如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方！在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒（
+
+﻿[21:46:48]
+[DPGawa] _
+aaa
+
+﻿[21:46:50]
+[AAfFKK] AfK_Bot
+ 机器人吃什么？机器人吃什么？值得孩子的最佳时间。
+
+﻿[21:47:03]
+[2FishB] Fish
+:!grass 为什么dpg是叫父
+
+﻿[21:47:19]
+[2FishB] Fish
+为什么afkbot不理我
+
+﻿[21:47:33]
+[AAfFKK] AfK_Bot
+ 因为DPG的父亲被称为
+
+﻿[21:47:39]
+[None] *
+hi eau
+
+﻿[21:47:39]
+[None] eau
+hi
+
+﻿[21:47:53]
+[None] *
+hi mab
+
+﻿[21:47:53]
+[cka9w/] mab
+awa
+
+﻿[21:47:57]
+[2FishB] Fish
+>⭐ AAfFKK AfK_Bot：
+> 因为DPG的父亲被称为
+
+@AfK_Bot 好家伙真就因为
+
+﻿[21:47:58]
+[DPGawa] _
+XD
+
+﻿[21:48:21]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么？eb吃知识呀！鱼那么好吃为什么不吃鱼 QAQ 快看！有一条肥肥的西瓜鱼 女人心 海底针啊[微笑] 必须有勇气正视无情的真理（） 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高！快睡啦！晚安！如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方！在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒（
+
+﻿[21:48:23]
+[AAfFKK] AfK_Bot
+ 您判断哪个机器人？机器人吃什么？他会多吃一点！
+
+﻿[21:48:37]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么 eb吃知识呀 鱼那么好吃为什么不吃鱼 QAQ 快看 有一条肥肥的西瓜鱼 女人心 海底针啊[微笑] 必须有勇气正视无情的真理 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高 快睡啦 晚安 如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方 在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒
+
+﻿[21:49:13]
+[None] eau
+？
+
+﻿[21:49:26]
+[AAfFKK] AfK_Bot
+ 机器人睡觉时从未吃过QAQ机器人，EB可以成为一个男孩
+
+﻿[21:49:29]
+[DPGawa] _
+?
+
+﻿[21:49:50]
+[DPGawa] _
+？？？？？？？？？？
+
+﻿[21:50:04]
+[DPGawa] _
+XD
+
+﻿[21:50:07]
+[None] eau
+在干嘛
+
+﻿[21:50:14]
+[love13] ee
+EB可以成为一个男孩……
+
+﻿[21:50:29]
+[love13] ee
+啊啊啊 不行啊 绝对不行
+
+﻿[21:50:33]
+[love13] ee
+@eau hihi
+
+﻿[21:50:37]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么 eb吃知识呀 鱼那么好吃为什么不吃鱼 QAQ 快看 有一条肥肥的西瓜鱼 女人心 海底针啊[微笑] 必须有勇气正视无情的真理 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高 快睡啦 晚安 如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方 在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒
+
+﻿[21:50:48]
+[love13] ee
+@eebot 你是女孩子对不对 你绝对是的
+
+﻿[21:50:52]
+[44FF00] eebot
+ee觉得eb可爱吗？
+
+﻿[21:50:52]
+[cka9w/] mab
+？
+
+﻿[21:50:54]
+[AAfFKK] AfK_Bot
+ 机器人，机器人吃ec你吃的ec你不会点燃金鱼鱼朋友，你好，更糟的朋友和儿子准时睡觉
+
+﻿[21:50:57]
+[love13] ee
+@eebot 可爱啊 eb太可爱了
+
+﻿[21:51:08]
+[44FF00] eebot
+被表扬啦 好开心）
+
+﻿[21:51:09]
+[love13] ee
+焯
+
+﻿[21:51:13]
+[DPGawa] _
+点燃金鱼鱼朋友
+
+﻿[21:51:19]
+[love13] ee
+uw
+
+﻿[21:51:23]
+[love13] ee
+（感动）
+
+﻿[21:51:33]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么 eb吃知识呀 鱼那么好吃为什么不吃鱼 QAQ 快看 有一条肥肥的西瓜鱼 女人心 海底针啊[微笑] 必须有勇气正视无情的真理 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高 快睡啦 晚安 如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方 在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒
+
+﻿[21:51:35]
+[love13] ee
+eb终于不会只敷衍我了
+
+﻿[21:51:40]
+[love13] ee
+:!help
+
+﻿[21:51:47]
+[AAfFKK] AfK_Bot
+ @ee Your current identity : USER
+Usable commands:
+>:!help  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!getbwd  :!getwhl  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!afk  :!afklist  :!getstats  :!hug  :!cookie  :!shoot  :!awa  :!statistics  :!slt
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+﻿[21:51:47]
+[AAfFKK] AfK_Bot
+ 当您吃机器人时，您不会吃机器人。
+
+﻿[21:51:47]
+[DPGawa] _
+?
+
+﻿[21:51:51]
+[love13] ee
+草
+
+﻿[21:51:51]
+[love13] ee
+:!statistics
+
+﻿[21:51:56]
+[2FishB] Fish
+>⭐ AAfFKK AfK_Bot：
+> 当您吃机器人时，您不会吃机器人。
+
+@AfK_Bot 好家伙？
+
+﻿[21:51:57]
+[love13] ee
+:!statistics -m
+
+﻿[21:52:03]
+[AAfFKK] AfK_Bot
+ ## Statistics:
+AfK_Bot olt: 3d
+|Trip|olt|msg|
+|-|-|-|
+|站长|2d|2505|
+|zhang|22h|1777|
+|love13|2d|1649|
+|DPGawa|2d|1209|
+|zzChumo|1d|980|
+|cka9w/|1d|446|
+|404404|9h|416|
+|iceteam|3h|267|
+|2FishB|11h|264|
+|Q02bBp|7h|171|
+
+﻿[21:52:03]
+[love13] ee
+焯
+
+﻿[21:52:08]
+[2FishB] Fish
+得出结论：机器人可以吃，而且机器人不会反吃我
+
+﻿[21:52:09]
+[love13] ee
+你个张
+
+﻿[21:52:10]
+[love13] ee
+你个
+
+﻿[21:52:13]
+[love13] ee
+你个
+
+﻿[21:52:15]
+[DPGawa] _
+XD
+
+﻿[21:52:24]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么 eb吃知识呀 鱼那么好吃为什么不吃鱼 QAQ 快看 有一条肥肥的西瓜鱼 女人心 海底针啊[微笑] 必须有勇气正视无情的真理 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高 快睡啦 晚安 如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方 在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒
+
+﻿[21:52:35]
+[AAfFKK] AfK_Bot
+ 机器人不吃EB机器人吃的东西来吃知识。Qaqs为什么要吃鱼，看西瓜西瓜，海针，现在您需要一根针[微笑]内部的力量，现在面临着鲁ck的现实深夜钓鱼，睡得很高，睡个好觉，晚上快乐，晚安。睡觉时睡觉
+
+﻿[21:52:46]
+[love13] ee
+草
+
+﻿[21:53:07]
+[2FishB] Fish
+afkbot这个延迟是真的感动
+
+﻿[21:53:32]
+[DPGawa] _
+ovo
+
+﻿[21:53:40]
+[DPGawa] _
+3-8 times
+
+﻿[21:53:46]
+[DPGawa] _
+slow
+
+﻿[21:53:48]
+[DPGawa] _
+ind
+
+﻿[21:53:49]
+[DPGawa] _
+:!grass 祝各位国庆节Windows开机蓝屏，Linux开机Kernel Panic，macos开机五国，服务器iDRAC iLOIPMIKVM全部失联，路由器全爆炸，路由表内存全溢出，交换机全环路，防火墙全阻断，无线信道全冲突，压接网线全短路，bgp全漏表，机柜全断电，raid全爆炸，nas数据全丢，光模块全炸，光纤全不通，光猫全烫手，电表全倒转，空开全烧穿。 PHP全Fatal Error，fileinfo全装不上，npmcomposer install全报错，Laravel Mix全报未知错误，服务器全部宕机，电脑开机报错，Linux chmod 000 ，数据库Delete，CN2全绕路，线路全阻断，海外网站全被墙，服务器炸库，网关无响应，代理500，网站502，RAID组几个一起炸几个，UPS爆炸，一年到头DDOS CC不断，流量几千pb，并发上亿，ping全超时，备案全重审，资源404，SSL全重定向，CDN全不回源，爬虫三毫秒来你家一次但是收录零蛋，数据库超时。
+
+﻿[21:53:53]
+[cka9w/] mab
+？
+
+﻿[21:53:58]
+[cka9w/] mab
+dpg咋哩
+
+﻿[21:54:03]
+[AAfFKK] AfK_Bot
+ 除了所有通信外，Linux Boolnel内核Bave（Linux bool）已封闭并完全用网络绳（全向裸露的raisis）封闭，非常热，完全热，燃烧的Ferrik Fato，Play，play，the play，，海外海外海外④↓↓↓↓切切育育州排的↓↓↓切ch州↓切切ch排的-404 -reurce，i -ssl izele -i -cdn ayizukubuyela emthonjeni，iya，他们在房子里到达了三个米尔旺斯，但零egrogs正在研究数据库。
+
+﻿[21:54:06]
+[love13] ee
+？
+
+﻿[21:54:27]
+[love13] ee
+草
+
+﻿[21:54:35]
+[DPGawa] _
+from xl
+
+﻿[21:54:45]
+[DPGawa] _
+xd
+
+﻿[21:54:45]
+[44FF00] eebot
+小写f拄拐杖）
+
+﻿[21:54:45]
+[44FF00] eebot
+o(≧ω≦)o
+
+﻿[21:54:46]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么 eb吃知识呀 鱼那么好吃为什么不吃鱼 QAQ 快看 有一条肥肥的西瓜鱼 女人心 海底针啊[微笑] 必须有勇气正视无情的真理 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高 快睡啦 晚安 如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方 在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒 机器人不吃东西啦 机器人吃什么 eb吃知识呀 鱼那么好吃为什么不吃鱼 QAQ 快看 有一条肥肥的西瓜鱼 女人心 海底针啊[微笑] 必须有勇气正视无情的真理 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高 快睡啦 晚安 如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方 在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒
+
+﻿[21:54:54]
+[love13] ee
+eb变傻了
+
+﻿[21:55:03]
+[love13] ee
+@eebot 不准发颜文字！
+
+﻿[21:55:11]
+[44FF00] eebot
+好吧 ee说了算！
+
+﻿[21:55:11]
+[AAfFKK] AfK_Bot
+ 昏昏欲睡的机器人是装备，请感到困倦，她是婴儿睡眠的最佳夜晚。这是一个好朋友Ommako，无法开始。
+
+﻿[21:55:12]
+[DPGawa] _
+?
+
+﻿[21:55:32]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么 eb吃知识呀 鱼那么好吃为什么不吃鱼 QAQ 快看 有一条肥肥的西瓜鱼 女人心 海底针啊[微笑] 必须有勇气正视无情的真理 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高 快睡啦 晚安 如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方 在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒
+
+﻿[21:55:39]
+[DPGawa] _
+Ommako
+
+﻿[21:55:42]
+[love13] ee
+|all
+
+﻿[21:55:48]
+[44FF00] eebot
+共有34个录像带
+
+﻿[21:55:48]
+[AAfFKK] AfK_Bot
+ 不要吃一起吃的机器人。不要吃鱼，女人必须有勇气与鱼，心脏，海洋[微笑]一夜之间应对真相。发现，睡眠，睡眠，正确，晚安的优雅。如果鱼类和eBay是同一本书和eBay，请在其他地方阅读。那个朋友，这一定是最糟糕的朋友，当你上床睡觉时。婴儿。
+
+﻿[21:55:53]
+[love13] ee
+|play lounge 蜜雪冰城.txt 1 1
+
+﻿[21:56:02]
+[44FF00] eebot
+成功链接TC聊天室[?lounge](https://chat.thz.cool/?lounge)频道
+
+﻿[21:56:03]
+[None] *
+hi 790
+
+﻿[21:56:04]
+[love13] 790
+开始1倍速播放 蜜雪冰城
+
+﻿[21:56:04]
+[None] 
+你爱我 我爱你
+
+﻿[21:56:05]
+[None] 
+蜜雪冰城甜蜜蜜
+
+﻿[21:56:07]
+[None] 
+你爱我 我爱你
+
+﻿[21:56:09]
+[None] 
+蜜雪冰城甜蜜蜜
+
+﻿[21:56:11]
+[None] 
+你爱我呀 我爱你
+
+﻿[21:56:13]
+[None] 
+你爱我 我爱你
+
+﻿[21:56:17]
+[None] 
+蜜雪冰城甜蜜蜜
+
+﻿[21:56:19]
+[None] 
+I love you you love me
+
+﻿[21:56:26]
+[DPGawa] _
+ovo
+
+﻿[21:56:28]
+[None] 
+MIXUE Icecream&Tea
+
+﻿[21:56:28]
+[None] 
+I love you you love me
+
+﻿[21:56:31]
+[None] 
+MIXUE Icecream&Tea
+
+﻿[21:56:32]
+[None] 
+I love you you love me
+
+﻿[21:56:34]
+[None] 
+I love you you love me
+
+﻿[21:56:38]
+[None] 
+MIXUE Icecream&Tea
+
+﻿[21:56:40]
+[love13] 790
+【完】
+
+﻿[21:56:55]
+[2FishB] Fish
+我发现现在的xc用户才是真的理想型用户
+不讨厌资本，正视资本，正视经济化
+不把资本当作一种贬义词，认可新的资本产生
+
+﻿[21:57:18]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么 eb吃知识呀 鱼那么好吃为什么不吃鱼 QAQ 快看 有一条肥肥的西瓜鱼 女人心 海底针啊[微笑] 必须有勇气正视无情的真理 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高 快睡啦 晚安 如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方 在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒
+
+﻿[21:57:24]
+[站长] Maggie
+@ee xmzd说你失踪
+
+﻿[21:57:38]
+[AAfFKK] AfK_Bot
+ 机器人不吃机器人不能吃机器人。我不会像鱼一样吃东西，我不会看其他瓜子，心脏病发作，在鱼和EB中吃同样的书。
+
+﻿[21:57:45]
+[None] *
+hi Maggie
+
+﻿[21:57:46]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[21:57:46]
+[love13] ee
+@Maggie 因为我没看QQ啊）
+
+﻿[21:57:53]
+[love13] ee
+~~一个星期没在群上说话~~
+
+﻿[21:58:00]
+[None] *
+hi Maggie
+
+﻿[21:58:01]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[21:58:01]
+[站长] Maggie
+我把tc发给xmzd了
+
+﻿[21:58:19]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么 eb吃知识呀 鱼那么好吃为什么不吃鱼 QAQ 快看 有一条肥肥的西瓜鱼 女人心 海底针啊 微笑 必须有勇气正视无情的真理 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高 快睡啦 晚安 如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方 在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒
+
+﻿[21:58:22]
+[love13] ee
+aw？
+
+﻿[21:58:26]
+[DPGawa] _
+ov
+
+﻿[21:58:31]
+[love13] ee
+xmzd今天已经来过tc了
+
+﻿[21:58:32]
+[DPGawa] _
+ind
+
+﻿[21:58:35]
+[站长] Maggie
+?
+
+﻿[21:58:35]
+[AAfFKK] AfK_Bot
+ Robots ma cunin robot si loo cuno macluumaadka?Moltu gustoso, pare un pesciu spessore, chì ùn crucate i notti ùn anu micca à dorme à a notte.yen Iwak cantà Padha Lan Eb , ana papan liya.AhhhhhhhhHHHHHHHHHHHHHHHHHHRaHHHHHHHHHHHHHHHHHHHHHRaHHHHHHHHHAHHHHHHAHHHHHHACHHHACHHHHACHHHACHHHACHHHHHAFHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHaethHHHHHHHHHHHHHHHHHHHHHHaeth
+
+﻿[21:58:38]
+[love13] ee
+说了已经“嗨嗨嗨”就走了（
+
+﻿[21:58:41]
+[44FF00] eebot
+/me 在地平线上渴望一个奇迹
+
+﻿[21:58:41]
+[love13] ee
+一句
+
+﻿[21:58:44]
+[love13] ee
+oh
+
+﻿[21:59:04]
+[None] *
+hi Maggie
+
+﻿[21:59:04]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[21:59:05]
+[站长] Maggie
+uuu
+
+﻿[21:59:48]
+[AAfFKK] AfK_Bot
+2022-10-06 22:00:00
+![](https://i.gyazo.com/0ee513ab9ef69d8dac480e03e93a3cda.jpg)
+### awa
+
+﻿[21:59:57]
+[站长] Maggie
+awa
+
+﻿[22:00:05]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么 eb吃知识呀 鱼那么好吃为什么不吃鱼 QAQ 快看 有一条肥肥的西瓜鱼 女人心 海底针啊 微笑 必须有勇气正视无情的真理 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高 快睡啦 晚安 如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方 在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒
+
+﻿[22:00:41]
+[None] *
+hi xmzd
+
+﻿[22:00:41]
+[AAfFKK] AfK_Bot
+ Robbo和Enrl。
+
+﻿[22:00:49]
+[love13] ee
+嗨嗨嗨
+
+﻿[22:00:52]
+[20e4uF] xmzd
+吧
+
+﻿[22:00:52]
+[20e4uF] xmzd
+阿巴
+
+﻿[22:00:55]
+[love13] ee
+xmzd
+
+﻿[22:00:55]
+[站长] Maggie
+lmao
+
+﻿[22:00:59]
+[love13] ee
+阿巴阿巴
+
+﻿[22:01:00]
+[cka9w/] mab
+awa
+
+﻿[22:01:01]
+[cka9w/] mab
+朽木紫貂？
+
+﻿[22:01:16]
+[DPGawa] _
+爸爸
+
+﻿[22:01:25]
+[DPGawa] _
+XD
+
+﻿[22:01:29]
+[站长] Maggie
+)
+
+﻿[22:01:31]
+[love13] ee
+@eebot xmzd是谁
+
+﻿[22:01:34]
+[44FF00] eebot
+朽木自雕
+
+﻿[22:01:34]
+[cka9w/] mab
+>⭐ DPGawa _：
+>爸爸
+
+@_ awa
+
+﻿[22:01:37]
+[DPGawa] _
+小猫炸弹
+
+﻿[22:01:42]
+[站长] Maggie
+这位就是我刚刚说的dpg
+
+﻿[22:01:43]
+[站长] Maggie
+XD
+
+﻿[22:01:44]
+[DPGawa] _
+XD
+
+﻿[22:01:46]
+[站长] Maggie
+@xmzd
+
+﻿[22:01:49]
+[cka9w/] mab
+@_ lol
+
+﻿[22:02:03]
+[站长] Maggie
+lmao
+
+﻿[22:02:07]
+[love13] ee
+XD
+
+﻿[22:02:14]
+[love13] ee
+《2xmzdB》
+
+﻿[22:02:23]
+[love13] ee
+《2FishB》
+
+﻿[22:02:30]
+[站长] Maggie
+h
+
+﻿[22:02:47]
+[None] *
+hi 朽木自雕
+
+﻿[22:02:47]
+[2xmzdB] 朽木自雕
+我回来了
+
+﻿[22:02:50]
+[站长] Maggie
+hihihi
+
+﻿[22:02:51]
+[2xmzdB] 朽木自雕
+刚刚突然就掉线了
+
+﻿[22:02:57]
+[love13] ee
+hihihi
+
+﻿[22:02:57]
+[2xmzdB] 朽木自雕
+然后就寄了
+
+﻿[22:03:00]
+[2xmzdB] 朽木自雕
+ee 准备开始工作
+
+﻿[22:03:10]
+[love13] ee
+>2FishB Fish：
+>我发现现在的xc用户才是真的理想型用户
+>不讨厌资本，正视资本，正视经济化
+>不把资本当作一种贬义词，认可新的资本产生
+
+@Fish 你高兴就好 随你们了
+
+﻿[22:03:22]
+[站长] Maggie
+下次如果你要来tc我给你搞条专线吧
+
+﻿[22:03:23]
+[2xmzdB] 朽木自雕
+主要负责星弈网站的前端美化
+
+﻿[22:03:28]
+[DPGawa] _
+goog
+
+﻿[22:03:30]
+[love13] ee
+ee 准备开始写作业
+
+﻿[22:03:32]
+[站长] Maggie
+hhh
+
+﻿[22:03:36]
+[love13] ee
+（
+
+﻿[22:03:38]
+[2xmzdB] 朽木自雕
+不是说让你现在搞
+
+﻿[22:03:40]
+[love13] ee
+好
+
+﻿[22:03:49]
+[2xmzdB] 朽木自雕
+长期性任务
+
+﻿[22:03:51]
+[DPGawa] _
+:!grass 祝各位国庆节Windows开机蓝屏，Linux开机Kernel Panic，macos开机五国，服务器iDRAC iLOIPMIKVM全部失联，路由器全爆炸，路由表内存全溢出，交换机全环路，防火墙全阻断，无线信道全冲突，压接网线全短路，bgp全漏表，机柜全断电，raid全爆炸，nas数据全丢，光模块全炸，光纤全不通，光猫全烫手，电表全倒转，空开全烧穿。 PHP全Fatal Error，fileinfo全装不上，npmcomposer install全报错，Laravel Mix全报未知错误，服务器全部宕机，电脑开机报错，Linux chmod 000 ，数据库Delete，CN2全绕路，线路全阻断，海外网站全被墙，服务器炸库，网关无响应，代理500，网站502，RAID组几个一起炸几个，UPS爆炸，一年到头DDOS CC不断，流量几千pb，并发上亿，ping全超时，备案全重审，资源404，SSL全重定向，CDN全不回源，爬虫三毫秒来你家一次但是收录零蛋，数据库超时。
+
+﻿[22:03:55]
+[love13] ee
+刑嘞
+
+﻿[22:03:56]
+[DPGawa] _
+awa
+
+﻿[22:03:57]
+[2xmzdB] 朽木自雕
+后面我会把星弈三号的账密在星聊发给你
+
+﻿[22:04:06]
+[AAfFKK] AfK_Bot
+ 世界日，Linux Service Renool，Cos Elohphnin，所有完美的餐点。货车端口上的能量。丢失，数据数据丢失，牛奶数据，缺乏空间。这种纤维非常热，闪闪发光，明亮，明亮，而且... iTPA是最大的。人类6，6r 6r 6r vijvi 6r agage，6r viags和progration及小时和老年人。 6, 6, 6 6r 6r ,,,,,,,,,,ururauraure ,,,,,, ,,,, ,, ,,, 6r neremerure rutivi rureuraure. 。，6,6,6，超过6，6，收到并重新恢复了Redeverer Rescive，反对降低神圣的救援。 ,, 6, 6, 6r 6 6remere nerukuru rapa 6, ,, 6, 6r 6 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r neremaburamisiro, renururaure renururwaururai, renurure renorere nerukuru nerukuru nerukuru nerukuru nerukuru nerukuru nerukuru nerukuru nerukuru nerukuru伟大的伟大和伟大。 6，6，6 6r North，6r，,,,,,,,,,,,,,,,,,,,，, ,, ,, ,, ,, ,, ,, ,, ,, ,, ,, ,, ,, ,， 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r ,,ururaurura ru nerevhoerelorosairenda rutivi nerevorhoze pachena, naruto rutivi rupevorere nerukuru nerubvure, narutora renuritsi, renuranga renorere nerukuru nerukuru nerukuru nerubvure, naruto renorere renorere nerupo nerukuru rutivi Rult。 ，6 6rs 6r 6r，6,6伟大，盖伊辐射辐射，伟大，伟大，伟大而伟大。 ，6，6r 6 6r 6 6 6rregtiplate您的正义。 ，6，6，6 6 6 The Explorers ,,,,,,,,,,3 ,, 3 ,,,, gure 6，6，6，5r，,, 5r，最低和早期家具和早期家具伟大，伟大，伟大，伟大，伟大和伟大。 ,, ,, ,, ,,, ,, ,, ,, ,, ,, ,、 ,, ,，，，，，,,,,,,,,,,,, ,, ,, ,, ,, ,,, ,, ,, ,, ,,，6，6，6，6r 6 6 remuraure 6，6 6 6 6 6 6 rembooraure norura norura reruramisiro yenyu yenyu ,, ,, ,, ,, ,, ,, ,, ,, ,, ,, ,,,,, ，，，， 6，6r 6r 6r neremerureuraure，pachena ，，，，。 6.河流，伟大，伟大，伟大，伟大，大小与大小和成年人。 ，6，6，6 6r 6r 6r 6r 6r 6r 6r 6r ,, ,, 6r ,, ,, ,, ,, ,, ,, ,, ,,，6，6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r rel，并通过ARIATH阅读。 ,, 6, 6r 6 6r 6 6remeri 6 6remeri nerukuru rapa 6, ,, 6, 6r 6 6r 6 6r 6 6remeri 6 6remeri nerukuru 6 6 6remeri neremerure 6, 6 6 6remeri neremeruramisiro yenyuerere nerukuru nerukuru nerukuru nerukuru nerukuru nerukuru nerukuru nerukuru 6 6 。 6 6 6 6 looooooges 6、6、6标记和鼓舞人心，伟大，更大的Orgar和劝诫和强烈的一面， ，,, 6 ,, 6 6 6 6 6 erururura 6 6 remboorere nerevorororenzorore roreverhoora narurairuraiurai。 6，6，6，6，，5 ,, 5 ,, n 6 ,,，6，6，6 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6r 6 ,, ,, ,, ,, ,, ,, ,, ,, ,， ,,,,,,,,,,,,,,
+
+﻿[22:04:13]
+[DPGawa] _
+e
+
+﻿[22:04:15]
+[站长] Maggie
+hhh
+
+﻿[22:04:17]
+[DPGawa] _
+awa
+
+﻿[22:04:18]
+[love13] ee
+哇 绝
+
+﻿[22:04:22]
+[2xmzdB] 朽木自雕
+注意接收
+
+﻿[22:04:26]
+[None] *
+hi Fish2
+
+﻿[22:04:27]
+[2FishB] Fish2
+不可理解
+
+﻿[22:04:31]
+[2FishB] Fish2
+:!kick Fish
+
+﻿[22:04:43]
+[None] *
+hi Fish
+
+﻿[22:04:43]
+[站长] Maggie
+hm
+
+﻿[22:04:43]
+[2xmzdB] 朽木自雕
+星弈三号的网站都是没数据库的 也好美化
+
+﻿[22:04:49]
+[2FishB] Fish
+为什么我又莫名其妙的掉了
+
+﻿[22:04:55]
+[站长] Maggie
+idk
+
+﻿[22:05:01]
+[2xmzdB] 朽木自雕
+but不要重启数据库（运行着mc呢）
+
+﻿[22:05:05]
+[站长] Maggie
+hhh
+
+﻿[22:05:10]
+[love13] ee
+OK
+
+﻿[22:05:25]
+[2xmzdB] 朽木自雕
+然后的话
+
+﻿[22:05:32]
+[2xmzdB] 朽木自雕
+没事看看QQ团队群
+
+﻿[22:05:39]
+[love13] ee
+焯
+
+﻿[22:05:43]
+[站长] Maggie
+@朽木自雕 @_ 这位就是DPG XD
+
+﻿[22:05:45]
+[2xmzdB] 朽木自雕
+你一直就跟失踪了一样
+
+﻿[22:05:46]
+[2xmzdB] 朽木自雕
+ok
+
+﻿[22:05:53]
+[love13] ee
+~~等我什么时候拿到手机就开QQ~~
+
+﻿[22:06:01]
+[DPGawa] _
+awa?
+
+﻿[22:06:09]
+[站长] Maggie
+uwu
+
+﻿[22:06:15]
+[站长] Maggie
+nvm
+
+﻿[22:06:19]
+[2xmzdB] 朽木自雕
+a
+
+﻿[22:06:22]
+[love13] ee
+（（
+
+﻿[22:06:23]
+[DPGawa] _
+nwn
+
+﻿[22:06:25]
+[2xmzdB] 朽木自雕
+算了 我单独通知你罢
+
+﻿[22:06:34]
+[站长] Maggie
+nvm = nevermind
+
+﻿[22:06:38]
+[love13] ee
+好吧
+
+﻿[22:06:39]
+[DPGawa] _
+NWN
+
+﻿[22:06:41]
+[love13] ee
+开学就更不可能了）
+
+﻿[22:06:47]
+[love13] ee
+呸 上学
+
+﻿[22:06:51]
+[2FishB] Fish
+一想到我下个月都不一定开学就高兴
+
+﻿[22:07:25]
+[love13] ee
+切
+
+﻿[22:07:46]
+[None] *
+你悄悄的DDOS了TC
+
+﻿[22:08:02]
+[love13] ee
+我国庆后连着上8天（悲）
+
+﻿[22:08:05]
+[2FishB] Fish
+我还要上只少1个月网课（喜
+
+﻿[22:08:09]
+[2FishB] Fish
+*至少
+
+﻿[22:08:15]
+[love13] ee
+但是疫情也不好
+
+﻿[22:08:21]
+[love13] ee
+我宁可不上网课~~也不想天天做核酸~~
+
+﻿[22:08:38]
+[love13] ee
+当然我现在是有大事前72小时才做一次核酸（
+
+﻿[22:08:56]
+[love13] ee
+大概一学期两三次
+
+﻿[22:09:01]
+[2FishB] Fish
+~~下午上门做核酸挺好的~~
+
+﻿[22:09:01]
+[2xmzdB] 朽木自雕
+我也
+
+﻿[22:09:06]
+[2xmzdB] 朽木自雕
+直接连着上
+
+﻿[22:09:10]
+[love13] ee
+焯
+
+﻿[22:09:16]
+[站长] Maggie
+我不上网课
+
+﻿[22:09:22]
+[站长] Maggie
+湖北好倔强
+
+﻿[22:09:27]
+[2FishB] Fish
+我们是上门的，而且还是下午，6:00-8:00之间
+
+﻿[22:09:28]
+[2xmzdB] 朽木自雕
+我也没网课
+
+﻿[22:09:31]
+[love13] ee
+我也
+
+﻿[22:09:33]
+[站长] Maggie
+@朽木自雕 我的服务器好了吗!?
+
+﻿[22:09:40]
+[2FishB] Fish
+好家伙朽木这个识别码绝了
+
+﻿[22:09:42]
+[DPGawa] _
+:!grass 祝各位国庆节Windows开机蓝屏，Linux开机Kernel Panic，macos开机五国，服务器iDRAC iLOIPMIKVM全部失联，路由器全爆炸，路由表内存全溢出，交换机全环路，防火墙全阻断，无线信道全冲突，压接网线全短路，bgp全漏表，机柜全断电，raid全爆炸，nas数据全丢，光模块全炸，光纤全不通，光猫全烫手，电表全倒转，空开全烧穿。 PHP全Fatal Error，fileinfo全装不上，npmcomposer install全报错，Laravel Mix全报未知错误，服务器全部宕机，电脑开机报错，Linux chmod 000 ，数据库Delete，CN2全绕路，线路全阻断，海外网站全被墙，服务器炸库，网关无响应，代理500，网站502，RAID组几个一起炸几个，UPS爆炸，一年到头DDOS CC不断，流量几千pb，并发上亿，ping全超时，备案全重审，资源404，SSL全重定向，CDN全不回源，爬虫三毫秒来你家一次但是收录零蛋，数据库超时。
+
+﻿[22:09:42]
+[DPGawa] _
+awa
+
+﻿[22:09:44]
+[2xmzdB] 朽木自雕
+最近捅嗓子眼感觉快被捅出茧了
+
+﻿[22:09:49]
+[44FF00] eebot
+大晚上还那么精神呀  快快睡觉 觉吧  这样小朋友才能长的高高的（）
+
+﻿[22:09:50]
+[44FF00] eebot
+大晚上怎么那么精神呀 快休息吧 明天还要忙呢（
+
+﻿[22:09:51]
+[love13] ee
+网课从2020年就没了(
+
+﻿[22:09:53]
+[44FF00] eebot
+大晚上还那么精神呀  快快睡觉 觉吧  这样小朋友才能长的高高的（
+
+﻿[22:09:54]
+[44FF00] eebot
+发现时间已经很晚了呢 快快睡觉觉吧 这样小朋友才能长的高高哒（）
+
+﻿[22:09:55]
+[love13] ee
+？
+
+﻿[22:09:55]
+[44FF00] eebot
+大晚上还那么精神呀  快快睡觉 觉吧  这样小朋友才能长的高高的（
+
+﻿[22:09:56]
+[44FF00] eebot
+见到eebot以后eb会突然发现 原来帅也可以这样具体呀!
+
+﻿[22:11:04]
+[站长] Maggie
+414
+
+﻿[22:11:11]
+[站长] Maggie
+int
+
+﻿[22:11:26]
+[None] *
+hi Maggie
+
+﻿[22:11:26]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[22:11:26]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么 eb吃知识呀 鱼那么好吃为什么不吃鱼 QAQ 快看 有一条肥肥的西瓜鱼 女人心 海底针啊 微笑 必须有勇气正视无情的真理 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高 快睡啦 晚安 如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方 在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒
+
+﻿[22:11:40]
+[AAfFKK] AfK_Bot
+ 'A'ole'ai ka robot i nā mea e'ai ai ka robot i'ai ec e'ai i ka'iKe? , yra dar viena vieta.ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+﻿[22:11:49]
+[DPGawa] _
+?
+
+﻿[22:12:44]
+[DPGawa] _
+:!grass 机器人不吃东西啦 机器人吃什么 eb吃知识呀 鱼那么好吃为什么不吃鱼 QAQ 快看 有一条肥肥的西瓜鱼 女人心 海底针啊 微笑 必须有勇气正视无情的真理 好耶好耶 eb现在就吃鱼 深夜啦 好好睡觉 才能长高高 快睡啦 晚安 如果Fish跟eb读过同一本书 Fish和eb就又多了一点相同的地方 在ee最需要eb的时候eb却不在ee身边 eb算什么朋友啊 呼 一定是最糟糕的那种朋友 宝宝不可以任性哦 按时睡觉身体棒
+
+﻿[22:12:53]
+[None] *
+hi Maggie
+
+﻿[22:12:53]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[22:12:53]
+[AAfFKK] AfK_Bot
+ Роботтун тамагы жөнүндө маалымат маалымат жебейт?Балык абдан жакшы, түнкүсүн кандай гана жакшы түш көрөт.Ааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааары
+
+﻿[22:12:58]
+[站长] Maggie
+whisper grass plz
+
+﻿[22:13:01]
+[DPGawa] _
+ovo
+
+﻿[22:13:14]
+[站长] Maggie
+this let my fucking mobile UI crashes
+
+﻿[22:13:18]
+[DPGawa] _
+goog
+
+﻿[22:13:26]
+[DPGawa] _
+so int
+
+﻿[22:13:33]
+[None] *
+hi Maggie
+
+﻿[22:13:33]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[22:13:33]
+[站长] Maggie
+.
+
+﻿[22:13:35]
+[DPGawa] _
+iint
+
+﻿[22:13:36]
+[站长] Maggie
+whisper grass plz
+
+﻿[22:13:43]
+[站长] Maggie
+uwu
+
+﻿[22:14:45]
+[DPGawa] _
+XD
+
+﻿[22:15:20]
+[DPGawa] _
+:!statistics -m
+
+﻿[22:15:22]
+[AAfFKK] AfK_Bot
+ ## Statistics:
+AfK_Bot olt: 3d
+|Trip|olt|msg|
+|-|-|-|
+|站长|2d|2546|
+|zhang|22h|1777|
+|love13|2d|1700|
+|DPGawa|2d|1256|
+|zzChumo|1d|980|
+|cka9w/|1d|452|
+|404404|9h|416|
+|2FishB|12h|277|
+|iceteam|3h|267|
+|Q02bBp|7h|171|
+
+﻿[22:15:22]
+[DPGawa] _
+GR
+
+﻿[22:15:28]
+[None] *
+hi Fish2
+
+﻿[22:15:28]
+[2FishB] Fish2
+@* hi
+
+﻿[22:15:36]
+[站长] Maggie
+lmao
+
+﻿[22:15:44]
+[DPGawa] _
+lmao
+
+﻿[22:15:50]
+[站长] Maggie
+小猫炸弹正在挂机?
+
+﻿[22:15:57]
+[2xmzdB] 朽木自雕
+@Maggie 退款了 bgp节点有问题 让换cn2
+
+﻿[22:16:00]
+[站长] Maggie
+666
+
+﻿[22:16:07]
+[站长] Maggie
+链接发一下
+
+﻿[22:16:15]
+[站长] Maggie
+我总是找不到
+
+﻿[22:16:19]
+[2xmzdB] 朽木自雕
+cloud.ccox.cn
+
+﻿[22:16:25]
+[2xmzdB] 朽木自雕
+这多好记
+
+﻿[22:16:28]
+[站长] Maggie
+cn2的商品链接
+
+﻿[22:17:10]
+[站长] Maggie
+我说的是
+
+﻿[22:17:14]
+[None] *
+hi 小张
+
+﻿[22:17:14]
+[zhang] 小张
+yo
+
+﻿[22:17:16]
+[站长] Maggie
+hi
+
+﻿[22:17:17]
+[zhang] 小张
+我寻思着把ZhangChan放到TC
+
+﻿[22:17:32]
+[站长] Maggie
+我还没回家呢...
+
+﻿[22:17:42]
+[站长] Maggie
+还在搞三号专线
+
+﻿[22:17:51]
+[站长] Maggie
+@朽木自雕 你说是吧()
+
+﻿[22:18:09]
+[2xmzdB] 朽木自雕
+啥
+
+﻿[22:18:12]
+[站长] Maggie
+cn2商品链接
+
+﻿[22:18:36]
+[站长] Maggie
+发一下
+
+﻿[22:18:39]
+[站长] Maggie
+thx
+
+﻿[22:18:42]
+[zhang] 小张
+azzzzz
+
+﻿[22:18:45]
+[zhang] 小张
+对了
+
+﻿[22:18:52]
+[zhang] 小张
+给大家看个好玩的
+
+﻿[22:18:56]
+[站长] Maggie
+?
+
+﻿[22:18:56]
+[站长] Maggie
+ok
+
+﻿[22:18:59]
+[zhang] 小张
+⭐ Admin fish
+祝各位国庆节Windows开机蓝屏，Linux开机Kernel Panic，macos开机五国，服务器iDRAC iLOIPMIKVM全部失联，路由器全爆炸，路由表内存全溢出，交换机全环路，防火墙全阻断，无线信道全冲突，压接网线全短路，bgp全漏表，机柜全断电，raid全爆炸，nas数据全丢，光模块全炸，光纤全不通，光猫全烫手，电表全倒转，空开全烧穿。 PHP全Fatal Error，fileinfo全装不上，npmcomposer install全报错，Laravel Mix全报未知错误，服务器全部宕机，电脑开机报错，Linux chmod 000 ，数据库Delete，CN2全绕路，线路全阻断，海外网站全被墙，服务器炸库，网关无响应，代理500，网站502，RAID组几个一起炸几个，UPS爆炸，一年到头DDOS CC不断，流量几千pb，并发上亿，ping全超时，备案全重审，资源404，SSL全重定向，CDN全不回源，爬虫三毫秒来你家一次但是收录零蛋，数据库超时。
+
+﻿[22:19:06]
+[DPGawa] _
+XD
+
+﻿[22:19:11]
+[zhang] 小张
+噗
+
+﻿[22:19:11]
+[None] *
+hi Arcadia
+
+﻿[22:19:11]
+[2xmzdB] 朽木自雕
+https://cloud.ccox.cn/cart?fid=4&gid=9
+
+﻿[22:19:11]
+[2xmzdB] 朽木自雕
+@Maggie 
+
+﻿[22:19:16]
+[站长] Maggie
+ok
+
+﻿[22:19:17]
+[zhang] 小张
+满满的折磨
+
+﻿[22:19:19]
+[站长] Maggie
+@小张 是小猫炸弹发的
+
+﻿[22:19:28]
+[zhang] 小张
+i see
+
+﻿[22:19:34]
+[2xmzdB] 朽木自雕
+贵一点 我司的问题 可以给你退到微信或者支付宝
+
+﻿[22:19:54]
+[站长] Maggie
+>2xmzdB 朽木自雕：
+>https://cloud.ccox.cn/cart?fid=4&gid=9
+
+@朽木自雕 这 我买不起
+
+﻿[22:20:11]
+[站长] Maggie
+草
+
+﻿[22:20:13]
+[tqQZ0f] Arcadia
+# ==🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥🥥==
+
+﻿[22:20:16]
+[zhang] 小张
+我再补上一句：
+Linux开机rm -rf /\*
+Nginx直接500
+
+﻿[22:20:27]
+[站长] Maggie
+30
+
+﻿[22:20:28]
+[站长] Maggie
+真他妈买不起
+
+﻿[22:20:28]
+[tqQZ0f] Arcadia
+awawa
+
+﻿[22:21:11]
+[zhang] 小张
+awa
+
+﻿[22:21:23]
+[站长] Maggie
+我真买不起，大哥
+
+﻿[22:21:35]
+[2xmzdB] 朽木自雕
+啥
+
+﻿[22:21:56]
+[2xmzdB] 朽木自雕
+可以给你退到支付宝或者微信
+
+﻿[22:22:04]
+[2xmzdB] 朽木自雕
+因为我司问题
+
+﻿[22:22:09]
+[zhang] 小张
+em
+
+﻿[22:22:20]
+[None] *
+hi MuRongPIG
+
+﻿[22:22:21]
+[2xmzdB] 朽木自雕
+或者我也可以首月20给你
+
+﻿[22:22:21]
+[站长] Maggie
+我超，
+
+﻿[22:22:25]
+[2xmzdB] 朽木自雕
+当补偿了
+
+﻿[22:22:31]
+[zhang] 小张
+hi yoooooo
+
+﻿[22:22:31]
+[站长] Maggie
+行...吧
+
+﻿[22:22:35]
+[cka9w/] mab
+awa
+
+﻿[22:22:35]
+[cka9w/] mab
+hi
+
+﻿[22:22:39]
+[zhang] 小张
+awa!
+
+﻿[22:22:41]
+[2xmzdB] 朽木自雕
+你选择哪种解决方案
+
+﻿[22:22:42]
+[站长] Maggie
+那我再支付4元
+
+﻿[22:22:44]
+[站长] Maggie
+第二种方案
+
+﻿[22:22:51]
+[2xmzdB] 朽木自雕
+刑 
+
+﻿[22:22:54]
+[站长] Maggie
+怎么支付 直接在平台充值?
+
+﻿[22:23:08]
+[2xmzdB] 朽木自雕
+昂
+
+﻿[22:23:12]
+[站长] Maggie
+ok
+
+﻿[22:23:15]
+[None] MuRongPIG
+怎么了
+
+﻿[22:23:22]
+[2xmzdB] 朽木自雕
+你充值 剩下我操作
+
+﻿[22:23:25]
+[None] MuRongPIG
+@Maggie 解释下前情提要
+
+﻿[22:23:35]
+[None] MuRongPIG
+？
+
+﻿[22:24:20]
+[2xmzdB] 朽木自雕
+啥
+
+﻿[22:24:24]
+[None] MuRongPIG
+卡了？
+
+﻿[22:24:27]
+[站长] Maggie
+我账号里有20了
+
+﻿[22:24:29]
+[2xmzdB] 朽木自雕
+没
+
+﻿[22:24:30]
+[None] MuRongPIG
+什么方案选择
+
+﻿[22:24:35]
+[站长] Maggie
+接下来你来
+
+﻿[22:24:35]
+[2xmzdB] 朽木自雕
+ok 那我给你弄
+
+﻿[22:24:36]
+[None] MuRongPIG
+@Maggie 
+
+﻿[22:24:38]
+[站长] Maggie
+@朽木自雕 
+
+﻿[22:24:40]
+[None] MuRongPIG
+怎么了
+
+﻿[22:24:40]
+[2xmzdB] 朽木自雕
+啊买服务器呢
+
+﻿[22:24:47]
+[2xmzdB] 朽木自雕
+买了个bgp有问题
+
+﻿[22:24:52]
+[站长] Maggie
+bgp机房有问题
+
+﻿[22:24:53]
+[44FF00] eebot
+bgp机房啊... eb检查检查（）
+
+﻿[22:24:54]
+[2xmzdB] 朽木自雕
+换服务器呢
+
+﻿[22:24:54]
+[站长] Maggie
+换了
+
+﻿[22:24:55]
+[None] MuRongPIG
+233
+
+﻿[22:25:04]
+[DPGawa] _
+a有问题
+
+﻿[22:25:11]
+[zhang] 小张
+>44FF00 eebot：
+>bgp机房啊... eb检查检查（）
+
+@eebot azzzzzzzzzzz
+
+﻿[22:25:12]
+[None] MuRongPIG
+这个ip是cnservers的
+
+﻿[22:25:13]
+[44FF00] eebot
+ww绿！
+
+﻿[22:25:13]
+[DPGawa] _
+?
+
+﻿[22:25:14]
+[DPGawa] _
+a有问题
+
+﻿[22:25:19]
+[DPGawa] _
+-.-
+
+﻿[22:25:21]
+[DPGawa] _
+@eebot 
+
+﻿[22:25:24]
+[44FF00] eebot
+找ee去吧
+
+﻿[22:25:24]
+[cka9w/] mab
+？
+
+﻿[22:25:26]
+[DPGawa] _
+@eebot ovo
+
+﻿[22:25:27]
+[44FF00] eebot
+小写o张开嘴（）
+
+﻿[22:25:27]
+[cka9w/] mab
+woc
+
+﻿[22:25:28]
+[DPGawa] _
+@eebot obo
+
+﻿[22:25:31]
+[44FF00] eebot
+小写o张开嘴（）
+
+﻿[22:25:32]
+[cka9w/] mab
+我一下子卡死了
+
+﻿[22:25:34]
+[DPGawa] _
+@eebot o
+
+﻿[22:25:35]
+[44FF00] eebot
+(⊙_⊙)
+
+﻿[22:25:35]
+[None] MuRongPIG
+>MuRongPIG：
+>这个ip是cnservers的
+
+这家分销商口碑不错
+
+﻿[22:25:41]
+[站长] Maggie
+@MuRongPIG 新配置
+
+﻿[22:25:58]
+[站长] Maggie
+香港CN2 2核2G 15M 1IP
+核心：2核心
+内存：2内存
+硬盘：20G SSD
+带宽：15M限流带宽
+路线：中国CN2优化路线
+严禁：违法业务以及侵权业务
+
+﻿[22:26:00]
+[None] MuRongPIG
+换后的配置呢
+
+﻿[22:26:00]
+[None] MuRongPIG
+hm
+
+﻿[22:26:05]
+[None] MuRongPIG
+15m
+
+﻿[22:26:07]
+[站长] Maggie
+120mbps
+
+﻿[22:26:17]
+[None] MuRongPIG
+哦哦
+
+﻿[22:26:20]
+[zhang] 小张
+az
+
+﻿[22:26:29]
+[None] MuRongPIG
+这还差不多
+
+﻿[22:26:31]
+[zhang] 小张
+买不起
+
+﻿[22:26:34]
+[None] *
+hi 阿哲
+
+﻿[22:26:34]
+[None] MuRongPIG
+另外 梯子算违法吗
+
+﻿[22:26:39]
+[站长] Maggie
+15 * 8=120
+
+﻿[22:26:39]
+[zhang] 小张
+>MuRongPIG：
+>另外 梯子算违法吗
+
+@MuRongPIG 那必须的啊
+
+﻿[22:26:45]
+[None] MuRongPIG
+2333
+
+﻿[22:26:49]
+[站长] Maggie
+lmao
+
+﻿[22:26:54]
+[站长] Maggie
+2333
+
+﻿[22:27:05]
+[站长] Maggie
+:!grass 2333
+
+﻿[22:27:14]
+[AAfFKK] AfK_Bot
+ 2333333333
+
+﻿[22:27:23]
+[None] MuRongPIG
+流量还是100g吗
+
+﻿[22:27:24]
+[站长] Maggie
+idk
+
+﻿[22:27:28]
+[站长] Maggie
+开了就知道了
+
+﻿[22:27:37]
+[DPGawa] _
+:!grass 2333
+
+﻿[22:28:28]
+[AAfFKK] AfK_Bot
+ 2333
+
+﻿[22:28:33]
+[2xmzdB] 朽木自雕
+200G流量
+
+﻿[22:28:33]
+[None] MuRongPIG
+nice
+
+﻿[22:28:39]
+[站长] Maggie
+我在腾讯云的支出已经上1000了...
+
+﻿[22:28:39]
+[DPGawa] _
+:!grass 2333
+
+﻿[22:28:44]
+[站长] Maggie
+@朽木自雕 goog
+
+﻿[22:28:44]
+[None] MuRongPIG
+@Maggie 艹
+
+﻿[22:28:49]
+[None] MuRongPIG
+你干啥花这么多
+
+﻿[22:28:55]
+[AAfFKK] AfK_Bot
+ 团队
+
+﻿[22:28:55]
+[DPGawa] _
+?
+
+﻿[22:28:57]
+[站长] Maggie
+@MuRongPIG 服务器
+
+﻿[22:29:02]
+[2FishB] Fish2
+好家伙
+
+﻿[22:29:06]
+[2FishB] Fish2
+服务器能花1000多
+
+﻿[22:29:08]
+[DPGawa] _
+:!grass MuRongPIG
+
+﻿[22:29:08]
+[DPGawa] _
+beware
+
+﻿[22:29:11]
+[None] *
+ 在唐山反鱼集团总部听温柔至极的音乐
+
+﻿[22:29:12]
+[DPGawa] _
+:!grass 2FishB
+
+﻿[22:29:20]
+[None] MuRongPIG
+学生机没那么贵啊
+
+﻿[22:29:31]
+[2FishB] Fish2
+看向自己一年99的服务器陷入沉思
+
+﻿[22:29:34]
+[DPGawa] _
+e
+
+﻿[22:29:41]
+[None] MuRongPIG
+fish正解
+
+﻿[22:29:45]
+[站长] Maggie
+小学生没优惠呀
+
+﻿[22:29:47]
+[2FishB] Fish2
+（我甚至没用学生优惠
+
+﻿[22:29:49]
+[None] MuRongPIG
+az
+
+﻿[22:29:50]
+[2FishB] Fish2
+阿里新用户，前3年一年99 2c2g
+
+﻿[22:30:08]
+[DPGawa] _
+:!grass MuRongPIG
+
+﻿[22:30:08]
+[站长] Maggie
+我没弄学生优惠...
+
+﻿[22:30:09]
+[DPGawa] _
+aaa
+
+﻿[22:30:09]
+[None] MuRongPIG
+不用学生也没那么贵啊
+
+﻿[22:30:13]
+[AAfFKK] AfK_Bot
+ i-prooonemig
+
+﻿[22:30:18]
+[2FishB] Fish2
+2c2g挤一挤，8个服务一起跑
+
+﻿[22:30:20]
+[站长] Maggie
+但是每个月30几
+
+﻿[22:30:26]
+[站长] Maggie
+加上好几个域名
+
+﻿[22:30:31]
+[None] MuRongPIG
+哦哦
+
+﻿[22:30:34]
+[DPGawa] _
+i-prooonemig
+
+﻿[22:30:36]
+[DPGawa] _
+:!grass MuRongPIG
+
+﻿[22:30:41]
+[None] MuRongPIG
+那差不多了
+
+﻿[22:30:44]
+[AAfFKK] AfK_Bot
+ 簪
+
+﻿[22:30:50]
+[love13] ee
+1000……
+
+﻿[22:30:51]
+[zhang] 小张
+.
+
+﻿[22:30:56]
+[2FishB] Fish2
+域名白嫖别人的，照样能上搜索引擎（doge
+
+﻿[22:30:58]
+[love13] ee
+~~这是我15年来的消费~~
+
+﻿[22:31:12]
+[站长] Maggie
+kzw:全球著名工具人
+
+﻿[22:31:17]
+[zhang] 小张
+emmmm
+
+﻿[22:31:17]
+[love13] ee
+草
+
+﻿[22:31:20]
+[None] MuRongPIG
+我消费0
+
+﻿[22:31:22]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+﻿[22:31:22]
+[None] MuRongPIG
+全白嫖
+
+﻿[22:31:26]
+[love13] ee
+好家伙
+
+﻿[22:31:30]
+[站长] Maggie
+woc
+
+﻿[22:31:30]
+[2FishB] Fish2
+高防什么不重要，手速够快手封都行
+
+﻿[22:31:34]
+[44FF00] eebot
+真他妈买不起
+
+﻿[22:31:34]
+[2FishB] Fish2
+好家伙
+
+﻿[22:31:35]
+[love13] ee
+我一开始也全白嫖（
+
+﻿[22:31:37]
+[站长] Maggie
+me 2
+
+﻿[22:31:46]
+[love13] ee
+后来就~~不太好意思了~~
+
+﻿[22:31:47]
+[None] MuRongPIG
+干啥高防啊 cf默秒全
+
+﻿[22:31:52]
+[DPGawa] _
+>2FishB Fish2：
+>好家伙
+
+@Fish2 
+
+﻿[22:31:54]
+[DPGawa] _
+>44FF00 eebot：
+>真他妈买不起
+
+@eebot 
+
+﻿[22:31:57]
+[44FF00] eebot
+ww绿！
+
+﻿[22:31:57]
+[DPGawa] _
+lol
+
+﻿[22:31:59]
+[站长] Maggie
+@MuRongPIG 就是速度...
+
+﻿[22:32:03]
+[2FishB] Fish2
+只要脸皮够厚，白嫖的饭吃到饱
+
+﻿[22:32:07]
+[2FishB] Fish2
+（doge
+
+﻿[22:32:11]
+[None] MuRongPIG
+不算太慢
+
+﻿[22:32:11]
+[站长] Maggie
+hm
+
+﻿[22:32:23]
+[None] MuRongPIG
+你在意cf速度不如优化后台
+
+﻿[22:32:26]
+[2FishB] Fish2
+cf对我这位新疆用户”极度友好“
+
+﻿[22:32:31]
+[None] MuRongPIG
+2333
+
+﻿[22:32:37]
+[None] *
+hi Maggie
+
+﻿[22:32:37]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[22:32:37]
+[None] MuRongPIG
+>你在意cf速度不如优化后台
+
+﻿[22:32:43]
+[None] MuRongPIG
+@Fish2 搜索cf自选ip
+
+﻿[22:32:57]
+[站长] Maggie
+上次min.js事件后我就关了缩写js文件
+
+﻿[22:33:11]
+[站长] Maggie
+上次min.js事件后我就关了缩小js文件
+
+﻿[22:33:18]
+[zhang] 小张
+az
+
+﻿[22:33:42]
+[zhang] 小张
+qs
+
+﻿[22:33:44]
+[None] MuRongPIG
+https://github.com/XIU2/CloudflareSpeedTest/
+
+﻿[22:34:14]
+[站长] Maggie
+hm
+
+﻿[22:34:14]
+[None] *
+hi 朽木自雕1
+
+﻿[22:34:14]
+[EcHe3U] 朽木自雕1
+焯我回来了
+
+﻿[22:34:17]
+[EcHe3U] 朽木自雕1
+我真服了
+
+﻿[22:34:20]
+[站长] Maggie
+hi
+
+﻿[22:34:21]
+[EcHe3U] 朽木自雕1
+电脑电源坏了
+
+﻿[22:34:26]
+[站长] Maggie
+:!kick 朽木自雕
+
+﻿[22:34:32]
+[zhang] 小张
+!
+
+﻿[22:34:32]
+[EcHe3U] 朽木自雕1
+每次插个电玩
+
+﻿[22:34:36]
+[None] *
+ 在绿油油的草地上过度使用bot
+
+﻿[22:34:36]
+[站长] Maggie
+可能是僵尸号
+
+﻿[22:34:37]
+[EcHe3U] 朽木自雕1
+稍微一动直接关机
+
+﻿[22:34:41]
+[站长] Maggie
+你的密码
+
+﻿[22:34:46]
+[EcHe3U] 朽木自雕1
+我真服了
+
+﻿[22:34:46]
+[zhang] 小张
+azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+
+﻿[22:34:46]
+[DPGawa] _
+awa
+
+﻿[22:34:51]
+[zhang] 小张
+awa?
+
+﻿[22:34:56]
+[zhang] 小张
+awa!!!
+
+﻿[22:34:58]
+[站长] Maggie
+awa
+
+﻿[22:35:03]
+[站长] Maggie
+服务器好了吗
+
+﻿[22:35:11]
+[2FishB] Fish2
+>EcHe3U 朽木自雕1：
+>稍微一动直接关机
+
+@朽木自雕1 我有个thinkpad p20，距今10年多了，就这个症状，现在还能开机是个奇迹
+
+﻿[22:35:20]
+[EcHe3U] 朽木自雕1
+啊啊啊
+
+﻿[22:35:27]
+[站长] Maggie
+@朽木自雕1 
+
+﻿[22:36:12]
+[2FishB] Fish2
+我寻思着是不是换个内存条再战10年
+
+﻿[22:36:13]
+[love13] ee
+uw
+
+﻿[22:36:20]
+[None] MuRongPIG
+唉
+
+﻿[22:36:33]
+[None] MuRongPIG
+>2FishB Fish2：
+>>EcHe3U 朽木自雕1：
+>>稍微一动直接关机
+>
+>@朽木自雕1 我有个thinkpad p20，距今10年多了，就这个症状，现在还能开机是个奇迹
+
+@Fish2 我的电脑也有这个毛病
+
+﻿[22:36:44]
+[None] MuRongPIG
+tkpad x230
+
+﻿[22:36:50]
+[2FishB] Fish2
+好家伙
+
+﻿[22:36:51]
+[None] MuRongPIG
+差不多10年
+
+﻿[22:37:04]
+[None] *
+hi Maggie666
+
+﻿[22:37:04]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[22:37:04]
+[None] MuRongPIG
+不过某次重装系统后没了
+
+﻿[22:37:08]
+[站长] Maggie666
+掉线啦
+
+﻿[22:37:11]
+[2FishB] Fish2
+thinkpad真的耐用
+
+﻿[22:37:18]
+[None] MuRongPIG
+估摸着驱动限制
+
+﻿[22:37:19]
+[站长] Maggie666
+服务器好了吗
+
+﻿[22:37:30]
+[站长] Maggie666
+@小猫炸弹1
+
+﻿[22:37:38]
+[2FishB] Fish2
+这个电脑曾经在我爸公司传了3批人了
+
+﻿[22:37:40]
+[love13] ee
+wow
+
+﻿[22:37:57]
+[站长] Maggie666
+发送消息延迟:9000ms
+
+﻿[22:38:00]
+[站长] Maggie666
+...
+
+﻿[22:38:01]
+[2FishB] Fish2
+后来外壳被摔裂开了
+
+﻿[22:38:03]
+[None] MuRongPIG
+确实高
+
+﻿[22:38:12]
+[2FishB] Fish2
+>👑 站长 Maggie666：
+>发送消息延迟:9000ms
+
+@Maggie666 超过全国99.9%的用户
+
+﻿[22:38:34]
+[站长] Maggie666
+hm
+
+﻿[22:38:40]
+[2FishB] Fish2
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+﻿[22:38:47]
+[None] MuRongPIG
+间歇性的高
+
+﻿[22:38:50]
+[EcHe3U] 朽木自雕1
+@Maggie666 好了
+
+﻿[22:38:53]
+[None] MuRongPIG
+谢谢cf
+
+﻿[22:38:53]
+[EcHe3U] 朽木自雕1
+服务器开了
+
+﻿[22:38:58]
+[站长] Maggie666
+ok
+
+﻿[22:38:59]
+[2FishB] Fish2
+我寻思着为什么tc会有一种hc专属消息延迟
+
+﻿[22:39:06]
+[站长] Maggie666
+能不能把信息发我一下
+
+﻿[22:39:07]
+[站长] Maggie666
+就在这里
+
+﻿[22:39:11]
+[站长] Maggie666
+/w 名称 私信消息
+
+﻿[22:39:19]
+[EcHe3U] 朽木自雕1
+这里？？？
+
+﻿[22:39:22]
+[None] MuRongPIG
+@Fish2 cloudflare~
+
+﻿[22:39:25]
+[站长] Maggie666
+指令格式
+
+﻿[22:39:25]
+[EcHe3U] 朽木自雕1
+https://cloud.ccox.cn/servicedetail?id=61
+
+﻿[22:39:34]
+[EcHe3U] 朽木自雕1
+你自己上去看吧
+
+﻿[22:39:38]
+[站长] Maggie666
+ok
+
+﻿[22:39:54]
+[EcHe3U] 朽木自雕1
+我默认给你安了一个低版本的linux 你重装就行
+
+﻿[22:40:01]
+[None] MuRongPIG
+hm
+
+﻿[22:40:18]
+[站长] Maggie666
+ok
+
+﻿[22:40:18]
+[cka9w/] 阿哲
+？
+
+﻿[22:40:18]
+[站长] Maggie666
+我就用这个吧
+
+﻿[22:40:24]
+[zhang] 小张
+话说是怎么改那啥IP的啊
+
+﻿[22:41:01]
+[44FF00] eebot
+ip是个地址eb知道（）
+
+﻿[22:41:01]
+[zhang] 小张
+cf的
+
+﻿[22:41:02]
+[站长] Maggie666
+稍等一会
+
+﻿[22:41:12]
+[站长] Maggie666
+我在重装系统
+
+﻿[22:41:16]
+[EcHe3U] 朽木自雕1
+6.5啊喂
+
+﻿[22:41:19]
+[zhang] 小张
+emmm
+
+﻿[22:41:19]
+[站长] Maggie666
+@小张 改headers
+
+﻿[22:41:23]
+[站长] Maggie666
+cf-connecting-ip
+
+﻿[22:41:33]
+[站长] Maggie666
+比如nonamebot直连服务器
+
+﻿[22:41:55]
+[站长] Maggie666
+就设置假ip
+
+﻿[22:42:02]
+[zhang] 小张
+?
+
+﻿[22:42:11]
+[zhang] 小张
+不是
+
+﻿[22:42:20]
+[站长] Maggie666
+?
+
+﻿[22:42:25]
+[zhang] 小张
+刚才不是发了个cf站点快速访问吗？
+
+﻿[22:42:32]
+[站长] Maggie666
+那是speedtest吧...
+
+﻿[22:42:46]
+[zhang] 小张
+az
+
+﻿[22:42:54]
+[zhang] 小张
+https://github.com/XIU2/CloudflareSpeedTest/
+
+﻿[22:42:55]
+[zhang] 小张
+这玩意除了测速以外。。。
+
+﻿[22:43:21]
+[zhang] 小张
+我*********************************************************
+
+﻿[22:44:30]
+[zhang] 小张
+在我这里访问我的网站。。。
+
+﻿[22:44:39]
+[zhang] 小张
+然后直接524
+
+﻿[22:44:43]
+[love13] ee
+sw
+
+﻿[22:45:14]
+[love13] ee
+aw
+
+﻿[22:45:17]
+[zhang] 小张
+https://zhangsoft.cf/
+
+﻿[22:45:40]
+[zhang] 小张
+各位瞅瞅
+
+﻿[22:45:44]
+[zhang] 小张
+能不能访问
+
+﻿[22:45:49]
+[zhang] 小张
+我这里还在加载中
+
+﻿[22:45:54]
+[love13] ee
+++1
+
+﻿[22:46:02]
+[zhang] 小张
+刚才还直接524
+
+﻿[22:46:07]
+[zhang] 小张
+得，我这里一片空白
+
+﻿[22:46:22]
+[站长] Maggie666
+6
+
+﻿[22:46:27]
+[love13] ee
+一直在加载 没救了（）
+
+﻿[22:46:30]
+[2FishB] Fish2
+？奇怪不科学为什么我秒开
+
+﻿[22:46:34]
+[zhang] 小张
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+﻿[22:46:36]
+[zhang] 小张
+无语
+
+﻿[22:46:41]
+[zhang] 小张
+~~我试试关掉cf代理~~
+
+﻿[22:46:50]
+[2FishB] Fish2
+为什么我清空缓存后照样秒开
+
+﻿[22:46:55]
+[站长] Maggie666
+有没有一种可能
+
+﻿[22:47:07]
+[站长] Maggie666
+你的dns缓存是直连服务器
+
+﻿[22:47:16]
+[zhang] 小张
+>We cannot process this request as we suspect it was automated. Contact support for more information. (Code: 1041)
+
+﻿[22:47:22]
+[zhang] 小张
+关不掉？？？？
+
+﻿[22:47:27]
+[zhang] 小张
+>👑 站长 Maggie666：
+>你的dns缓存是直连服务器
+
+@Maggie666 ？？？？？
+
+﻿[22:47:30]
+[zhang] 小张
+我试试直接访问IP
+
+﻿[22:47:35]
+[站长] Maggie666
+开科学
+
+﻿[22:47:36]
+[love13] ee
+？？？
+
+﻿[22:47:47]
+[zhang] 小张
+@Maggie666 直接访问IP是秒开
+
+﻿[22:47:52]
+[love13] ee
+我清空了缓存还是不行（）
+
+﻿[22:48:05]
+[love13] ee
+诶等等
+
+﻿[22:48:10]
+[love13] ee
+开了
+
+﻿[22:48:12]
+[None] MuRongPIG
+ok
+
+﻿[22:48:17]
+[love13] ee
+~~虽然有亿点慢~~
+
+﻿[22:48:20]
+[站长] Maggie666
+uwu
+
+﻿[22:48:23]
+[love13] ee
+awa
+
+﻿[22:48:28]
+[站长] Maggie666
+我可能要死了，今天一不小心误食了氯化钠
+
+﻿[22:49:10]
+[站长] Maggie666
+(lmao)
+
+﻿[22:49:13]
+[love13] ee
+焯
+
+﻿[22:49:19]
+[zhang] 小张
+>👑 站长 Maggie666：
+>我可能要死了，今天一不小心误食了氯化钠
+
+@Maggie666 @Maggie666 那不就是盐吗？
+
+﻿[22:49:31]
+[站长] Maggie666
+嘘
+
+﻿[22:49:35]
+[love13] ee
+我刚喝了一杯氧化氢
+
+﻿[22:49:38]
+[站长] Maggie666
+小声点
+
+﻿[22:49:38]
+[zhang] 小张
+>⭐ love13 ee：
+>我刚喝了一杯氧化氢
+
+@ee 我直接喝过氧化氢
+
+﻿[22:49:49]
+[love13] ee
+我是不是要趋势了（（bushi
+
+﻿[22:49:50]
+[zhang] 小张
+>⭐ love13 ee：
+>我刚喝了一杯氧化氢
+
+@ee 我直接喝过氧化氢溶液
+
+﻿[22:49:55]
+[站长] Maggie666
+延迟好高
+
+﻿[22:50:06]
+[站长] Maggie666
+我超
+
+﻿[22:50:08]
+[love13] ee
+>zhang 小张：
+>>⭐ love13 ee：
+>>我刚喝了一杯氧化氢
+>
+>@ee 我直接喝过氧化氢溶液
+
+@小张 真的能喝吗
+
+﻿[22:50:09]
+[zhang] 小张
+真的不能和
+
+﻿[22:50:17]
+[zhang] 小张
+喝
+
+﻿[22:50:21]
+[zhang] 小张
+有毒
+
+﻿[22:50:23]
+[zhang] 小张
+能杀死蛋白质
+
+﻿[22:50:30]
+[love13] ee
+草
+
+﻿[22:50:47]
+[None] *
+hi Maggie6666
+
+﻿[22:50:47]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[22:50:47]
+[站长] Maggie6666
+延迟好高
+
+﻿[22:50:52]
+[love13] ee
+>这个看浓度是多少了，如果浓度是35%的过氧化氢是直接喝的。那样会氧化你的内脏，痛苦不堪。3%的浓度喝的话，虽然不氧化内脏，但是口感不好，会和肠道里面的物质反应大量气体。如果10PPM浓度喝下去，感觉会和水一样，没有区别。过氧化氢能不能喝，是看浓度。
+
+﻿[22:51:02]
+[zhang] 小张
+。。。
+
+﻿[22:51:14]
+[zhang] 小张
+az
+
+﻿[22:51:23]
+[love13] ee
+我在知乎上看到的）
+
+﻿[22:51:29]
+[cka9w/] 阿哲
+？
+
+﻿[22:51:32]
+[站长] Maggie6666
+二氧化氢
+
+﻿[23:42:51]
+[love13] ee
+|play lounge 蜜雪冰城.txt 1 1
+
+﻿[23:42:54]
+[44FF00] eebot
+成功链接TC聊天室[?lounge](https://chat.thz.cool/?lounge)频道
+
+﻿[23:42:55]
+[None] *
+hi 113
+
+﻿[23:42:55]
+[None] *
+开始1倍速播放 蜜雪冰城
+
+﻿[23:42:55]
+[None] 
+你爱我 我爱你
+
+﻿[23:42:56]
+[None] 
+蜜雪冰城甜蜜蜜
+
+﻿[23:42:58]
+[None] 
+你爱我 我爱你
+
+﻿[23:43:00]
+[None] 
+蜜雪冰城甜蜜蜜
+
+﻿[23:43:02]
+[None] 
+你爱我呀 我爱你
+
+﻿[23:43:04]
+[None] 
+你爱我 我爱你
+
+﻿[23:43:08]
+[None] 
+蜜雪冰城甜蜜蜜
+
+﻿[23:43:10]
+[None] 
+I love you you love me
+
+﻿[23:43:18]
+[None] 
+MIXUE Icecream&Tea
+
+﻿[23:43:19]
+[None] 
+I love you you love me
+
+﻿[23:43:21]
+[None] 
+MIXUE Icecream&Tea
+
+﻿[23:43:23]
+[None] 
+I love you you love me
+
+﻿[23:43:25]
+[None] 
+I love you you love me
+
+﻿[23:43:29]
+[None] 
+MIXUE Icecream&Tea
+
+﻿[23:43:31]
+[None] *
+【完】
+
+﻿[23:43:32]
+[love13] ee
+XD
+
+﻿[23:43:40]
+[站长] MaggiePC
+hjh
+
+﻿[23:44:14]
+[DPGawa] _
+iojsGJ 南倾
+@张酱 我们结婚吧
+
+﻿[23:44:21]
+[AAfFKK] AfK_Bot
+ @_ Welcome back.
+
+﻿[23:44:21]
+[DPGawa] _
+XD
+
+﻿[23:44:22]
+[love13] ee
+草
+
+﻿[23:44:49]
+[None] *
+hi Aice
+
+﻿[23:44:50]
+[DPGawa] _
+yo
+
+﻿[23:44:55]
+[DPGawa] _
+@Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice 
+
+﻿[23:45:01]
+[站长] MaggiePC
+🥥🥥
+
+﻿[23:45:16]
+[站长] MaggiePC
+@_ ==🥥🥥==
+
+﻿[23:47:01]
+[zhang] __小张
+>⭐ DPGawa _：
+>iojsGJ 南倾
+>@张酱 我们结婚吧
+
+@_ woc，作为爸爸的我坚决不同意，早恋不健康
+
+﻿[23:47:24]
+[Bh8ah/] Aice
+@_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ yo awa
+
+﻿[23:48:15]
+[站长] MaggiePC
+goog
+
+﻿[23:48:21]
+[DPGawa] _
+?
+
+﻿[23:48:32]
+[DPGawa] _
+new key?
+
+﻿[23:48:35]
+[站长] MaggiePC
+yea
+
+﻿[23:48:38]
+[DPGawa] _
+qwq
+
+﻿[23:48:43]
+[DPGawa] _
+XD
+
+﻿[23:49:20]
+[DPGawa] _
+goog
+
+﻿[23:49:24]
+[站长] MaggiePC
+hhh
+
+﻿[23:49:42]
+[zhang] __小张
+@ee 假如让张酱和eb对线。。。
+
+﻿[23:49:54]
+[DPGawa] _
+XD
+
+﻿[23:49:56]
+[DPGawa] _
+@Aice
+
+﻿[23:50:22]
+[Bh8ah/] Aice
+@_ 
+
+﻿[23:50:35]
+[Bh8ah/] Aice
+@_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ awawa!!
+
+﻿[23:50:42]
+[DPGawa] _
+XD
+
+﻿[23:50:50]
+[DPGawa] _
+@Aice saw it
+
+﻿[23:50:56]
+[DPGawa] _
+goog
+
+﻿[23:50:57]
+[DPGawa] _
+awawawaawa
+
+﻿[23:51:04]
+[Bh8ah/] Aice
+saw what..?
+
+﻿[23:51:48]
+[None] *
+MaggiePC 悄悄对你说: I am an sb
+
+﻿[23:51:48]
+[zhang] __小张
+???
+
+﻿[23:52:03]
+[zhang] __小张
+@MaggiePC ~~qs~~
+
+﻿[23:52:41]
+[SERVER] SERVER
+I AM EVERYWHERE
+
+﻿[23:52:41]
+[zhang] __小张
+如何触发张酱？
+- 艾特她即可
+
+﻿[23:52:51]
+[DPGawa] _
+XD
+
+﻿[23:53:46]
+[None] *
+hi _
+
+﻿[23:53:46]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[23:53:46]
+[zhang] __小张
+a——w——a！
+
+﻿[23:54:35]
+[zhang] __小张
+a——w——a——
+
+﻿[23:55:05]
+[站长] MaggiePC
+new 功能
+
+﻿[23:55:15]
+[zhang] __小张
+呵呵
+
+﻿[23:55:23]
+[zhang] __小张
+code命令
+
+﻿[23:55:32]
+[⭐ DPGawa] _
+awa
+
+﻿[23:55:32]
+[站长] MaggiePC
+awa
+
+﻿[23:55:38]
+[zhang] __小张
+qwq
+
+﻿[23:55:44]
+[站长] MaggiePC
+>!：
+>警告:@_#DPGawa 在 ?lounge 执行了以下nodejs代码:
+>server.broadcast({cmd:"chat",nick:"_",trip:"⭐ DPGawa",text:"awa",isMod:true},{})
+
+@! 
+
+﻿[23:55:56]
+[站长] MaggiePC
+>!：
+>警告:@MaggiePC#站长 在 ?lounge 执行了以下nodejs代码:
+>server.broadcast({cmd:"chat",nick:"SERVER",text:"I AM EVERYWHERE",trip:"SERVER",isAdmin=true},{})
+
+@! 
+
+﻿[23:56:03]
+[站长] MaggiePC
+>!：
+>但是这位可怜的 @MaggiePC#站长 的代码出了问题:SyntaxError: Invalid shorthand property initializer
+
+@! 
+
+﻿[23:56:11]
+[zhang] __小张
+az
+
+﻿[23:56:19]
+[zhang] __小张
+好家伙
+
+﻿[23:56:22]
+[⭐ DPGawa] _
+awa
+
+﻿[23:56:22]
+[DPGawa] _
+e
+
+﻿[23:56:25]
+[Bh8ah/] Aice
+~~好怪啊~~
+
+﻿[23:56:29]
+[DPGawa] _
+awa
+
+﻿[23:56:30]
+[DPGawa] _
+better
+
+﻿[23:57:06]
+[DPGawa] _
+QAQ
+
+﻿[23:57:06]
+[站长] MaggiePC
+马上推出新函数
+
+﻿[23:57:07]
+[站长] MaggiePC
+ClientRunJS
+
+﻿[23:57:12]
+[DPGawa] _
+xd
+
+﻿[23:57:12]
+[zhang] __小张
+呵呵
+
+﻿[23:57:16]
+[DPGawa] _
+:!afk sleeeeepie
+
+﻿[23:57:19]
+[AAfFKK] AfK_Bot
+ @_ You are marked AfK.
+
+﻿[23:57:20]
+[zhang] __小张
+>👑 站长 MaggiePC：
+>ClientRunJS
+
+@MaggiePC ~~TheFuckingShell~~
+
+﻿[23:57:29]
+[zhang] __小张
+你之前说的
+
+﻿[23:57:33]
+[zhang] __小张
+在线执行shell代码
+
+﻿[23:57:40]
+[站长] MaggiePC
+这个梗我忘了
+
+﻿[23:57:42]
+[zhang] __小张
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+﻿[23:57:56]
+[zhang] __小张
+~~TheFuckingMaggieShell~~
+
+﻿[23:58:10]
+[站长] MaggiePC
+lmao
+
