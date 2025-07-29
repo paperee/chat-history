@@ -1,0 +1,6146 @@
+10:37:03 eebot
+hi this is eebot
+
+10:37:03 eebot
+·
+明天是周六！放心睡吧！
+想了解更多玩法 请输入「功能」
+
+10:37:17 fish
+功能
+
+10:37:21 fish
+xc
+
+10:37:34 eebot
+woc，这货怎么来了？
+
+10:37:34 金工街3号楼
+xc
+
+10:37:42 金工街3号楼
+B站的J还不换
+
+10:37:45 Mr_Zhang
+好啦
+
+10:37:46 QAQ
+sc
+
+10:37:47 Mr_Zhang
+`help
+
+10:37:48 ZhangModHelper
+本助手支持以下命令：
+kick
+ban
+dumb
+speak（仅hash）
+unban（仅hash）
+unbanall
+
+10:37:48 QAQ
+xc
+
+10:37:50 Mr_Zhang
+对了
+
+10:37:57 Mr_Zhang
+请问qwer的hash是？
+
+10:38:19 Mr_Zhang
+@无题 
+
+10:38:27 Mr_Zhang
+你那里应该会显示吧
+
+10:38:58 eebot
+好家伙，你来干啥
+
+10:39:02 Mr_Zhang
+哈哈
+
+10:39:11 Mr_Zhang
+无题？在吗？
+
+10:39:24 Mr_Zhang
+是时候解除禁言了吧
+
+10:39:45 eebot
+woc，这货怎么来了？
+
+10:39:45 eebot
+好家伙，你来干啥
+
+10:40:21 eebot
+hello Sakura
+
+10:41:39 eebot
+hi ZhangBot
+
+10:41:40 ZhangBot
+Hello World !
+
+10:41:40 ZhangBot
+大家好！我是机器人 ZhangBot。
+最近我的游戏功能上线了，大家可以对我说“@ZhangBot 一呼百应”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+
+10:42:29 eebot
+如果站长看到的话请给个管理员
+
+10:42:30 eebot
+ZhangBot!
+
+10:42:33 ZhangBot
+Hello World !
+
+10:42:33 ZhangBot
+大家好！我是机器人 ZhangBot。
+最近我的游戏功能上线了，大家可以对我说“@ZhangBot 一呼百应”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+
+10:43:16 Mr_Zhang
+`speak vl6cRecKJKUMPqv
+
+10:43:19 Mr_Zhang
+好了
+
+10:43:27 Mr_Zhang
+解除了qwer的禁言
+
+10:43:42 Mr_Zhang
+抱歉了
+
+10:43:46 Mr_Zhang
+怎么走了？
+
+10:44:39 eebot
+如果站长看到的话请给个管理员
+
+10:44:45 钓Qwer
+[![360-20220514103521011.jpg](https://i.postimg.cc/zGKs3T70/360-20220514103521011.jpg)](https://postimg.cc/5X97RYZC)
+
+10:44:50 Mr_Zhang
+你能说话了
+
+10:44:53 钓Qwer
+help！
+
+10:44:55 钓Qwer
+[![360-20220514103521011.jpg](https://i.postimg.cc/zGKs3T70/360-20220514103521011.jpg)](https://postimg.cc/5X97RYZC)
+
+10:45:00 Mr_Zhang
+我看看
+
+10:45:16 Mr_Zhang
+哦
+
+10:45:21 Mr_Zhang
+缺少运行环境
+
+10:45:24 Mr_Zhang
+安装一个吧
+
+10:46:03 eebot
+hi snoseb
+
+10:46:11 Mr_Zhang
+这位是？
+
+10:46:24 无题
+@ZhangBot hi
+
+10:46:27 eebot
+hello 无题
+
+10:46:27 eebot
+网友 无题好哦）
+
+10:46:28 eebot
+如果站长看到的话请给个管理员
+
+10:46:43 无题
+snoseb中午好
+
+10:46:51 Mr_Zhang
+【握手】
+
+10:46:57 QAQ
+【鞠躬】
+
+10:47:15 eebot
+如果站长看到的话请给个管理员
+
+10:47:22 wer
+我ip好像被封了
+
+10:47:29 Mr_Zhang
+没有啊
+
+10:47:35 wer
+小张说的话能不能复制一下
+
+10:47:37 Mr_Zhang
+我们可以看到你说话
+
+10:47:39 无题
+@wer 是的，但被解除了
+
+10:47:41 wer
+我这边不显示了
+
+10:47:42 Mr_Zhang
+我ip好像被封了
+
+10:47:44 Mr_Zhang
+？
+
+10:47:49 Mr_Zhang
+是不是卡了
+
+10:47:56 无题
+可能
+
+10:47:57 Mr_Zhang
+>小张说的话能不能复制一下
+
+10:48:00 wer
+就是我发了图片之后的消息没了
+
+10:48:03 Mr_Zhang
+？
+
+10:48:10 Mr_Zhang
+麻烦发张图片
+
+10:48:23 wer
+。
+
+10:48:25 wer
+[![360-20220514103521011.jpg](https://i.postimg.cc/zGKs3T70/360-20220514103521011.jpg)](https://postimg.cc/5X97RYZC)
+
+10:48:36 wer
+我就想玩个游戏诶
+
+10:48:39 Mr_Zhang
+额
+
+10:48:54 Mr_Zhang
+请安装javaFX
+
+10:48:58 无题
+@wer 禁止刷屏
+
+10:49:07 wer
+能给个链接吗
+
+10:49:09 wer
+@Mr_Zhang 
+
+10:49:24 Mr_Zhang
+额
+
+10:49:26 Mr_Zhang
+我看看
+
+10:51:10 wer
+先吃饭
+
+10:51:16 wer
+我先挂一会
+
+10:51:16 eebot
+请安装javaFX
+
+10:52:26 Mr_Zhang
+`help
+
+10:54:25 4n0n4me
+11
+
+10:55:08 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+10:57:03 QAQ
+yo
+
+10:57:36 Mr_Zhang
+ZhangHelper怎么不上线？
+
+10:57:38 QAQ
+a
+
+10:57:40 Mr_Zhang
+我失败了吗？
+
+10:58:26 Mr_Zhang
+奇怪
+
+10:58:54 snoseb
+那**MRGAO还真是exe
+
+10:59:02 Mr_Zhang
+？
+
+10:59:05 QAQ
+¿
+
+10:59:23 Mr_Zhang
+`help
+
+10:59:27 Mr_Zhang
+？？？
+
+11:05:07 eebot
+QAQ!
+
+11:05:49 eebot
+woc，这货怎么来了？
+
+11:05:53 Mr_Zhang
+好了
+
+11:06:02 Mr_Zhang
+完成
+
+11:06:05 Mr_Zhang
+`help
+
+11:06:05 ZhangModHelper
+本助手支持以下命令：
+kick
+ban
+dumb
+speak（仅hash）
+unban（仅hash）
+unbanall
+
+11:06:13 Mr_Zhang
+现在是旧版本在运行
+
+11:06:19 Mr_Zhang
+没来得及更新
+
+11:06:34 Mr_Zhang
+`help
+
+11:06:35 ZhangModHelper
+本助手支持以下命令：
+kick
+ban
+dumb
+speak（仅hash）
+unban（仅hash）
+unbanall
+
+11:06:36 Mr_Zhang
+嗯
+
+11:06:39 Mr_Zhang
+正常
+
+11:11:00 Mr_Zhang
+走了
+
+11:11:20 QAQ
+a
+
+11:12:11 无题
+hi
+
+11:12:16 QAQ
+hi
+
+11:12:55 QAQ
+by
+
+11:19:19 eebot
+好家伙，你来干啥
+
+11:20:16 fish2
+好家伙，我咋来了
+
+11:21:23 eebot
+好家伙，你来干啥
+
+11:22:34 eebot
+woc，这货怎么来了？
+
+11:22:39 eebot
+woc，这货怎么来了？
+
+11:26:25 eebot
+hey yo ZhangBot
+
+11:26:27 ZhangBot
+Hello World !
+
+11:26:27 ZhangBot
+大家好！我是机器人 ZhangBot。
+最近我的游戏功能上线了，大家可以对我说“@ZhangBot 一呼百应”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+
+11:26:31 Mr_Zhang
+完美
+
+11:27:14 eebot
+hello awa
+
+11:27:14 ZhangBot
+热烈欢迎 awa 入场！
+
+11:27:14 ZhangBot
+该用户没有曾用名。
+
+11:27:31 awa
+check
+
+11:27:35 ZhangBot
+欢迎下次再来，awa ！
+
+11:27:35 eebot
+不知道awa发这样的信息是干嘛的
+
+11:38:34 金工街3号楼
+安全是的法国红酒看
+
+11:39:03 ZhangBot
+欢迎下次再来，MRGAO ！
+
+11:40:12 Mr_Zhang
+随时离开
+
+11:43:51 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+11:43:51 ZhangBot
+热烈欢迎 初墨 入场！
+
+11:43:51 ZhangBot
+该用户没有曾用名。
+
+11:43:57 Mr_Zhang
+哇
+
+11:43:58 初墨
+wow
+
+11:44:01 Mr_Zhang
+新的hash
+
+11:44:05 初墨
+终于到家了
+
+11:44:08 Mr_Zhang
+行
+
+11:44:14 初墨
+@fish2 服务器开了吗
+
+11:44:20 fish2
+@初墨 开了
+
+11:44:29 初墨
+好耶
+
+11:44:43 fish2
+我今天突然发现比特币是有官网的诶
+
+11:44:56 初墨
+这地铁真快
+
+11:45:04 初墨
+刚好2小时
+
+11:45:40 4n0n4me
+我在服务器看了看
+
+11:45:43 4n0n4me
+真是满目萧然
+
+11:45:48 4n0n4me
+但是我成功做成了
+
+11:45:50 Mr_Zhang
+ZhangBot被我移动到了 ?bot
+
+11:45:53 4n0n4me
+通往要塞的地狱交通
+
+11:46:07 4n0n4me
+这个高度落差非常大
+
+11:46:12 4n0n4me
+地狱没有水很难施工
+
+11:46:19 4n0n4me
+但是最终我沿着地势
+
+11:46:27 4n0n4me
+做出了一个蜿蜒曲折的天路
+
+11:46:36 4n0n4me
+并且
+
+11:46:43 4n0n4me
+我把要塞挖到了地表
+
+11:46:50 4n0n4me
+（结果挖到了海洋
+
+11:46:55 4n0n4me
+但是没有淹没我的地道
+
+11:46:59 4n0n4me
+我成功的补救
+
+11:46:59 eebot
+我成功的补救
+
+11:47:20 4n0n4me
+现在，要去末地要塞，不再是难事
+
+11:47:29 4n0n4me
+只需一路矿车
+
+11:47:31 fish2
+@服务器 你还好吗？
+
+11:47:44 4n0n4me
+我还回到雪镇
+
+11:47:50 4n0n4me
+参观了壮观的天空pvp
+
+11:47:53 fish2
+wow服务器才占用3.3%cpu
+
+11:47:57 4n0n4me
+但是那天路缺了一个方块
+
+11:48:03 4n0n4me
+让我摔死了
+
+11:48:04 4n0n4me
+我气的
+
+11:48:10 eebot
+woc，这货怎么来了？
+
+11:48:22 服务器
+@fish2 Fuck 黑茶！
+
+11:48:59 金工街3号楼
+ www.bilibili.com/video/BV1Tv4y1N74a
+
+11:49:15 服务器
+服务器表示：还好
+
+11:49:15 fish2
+哈哈哈服务器
+
+11:53:44 eebot
+hello 65351
+
+11:55:54 Mr_Zhang
+这位是？
+
+11:58:37 eebot
+hi yo QAQ
+
+11:58:38 fish2
+真的感觉mc服务器没啥意思了
+
+11:58:50 fish2
+（虽然这个最早就是用来吃瓜的
+
+11:58:53 eebot
+hey yo QAQ
+
+11:59:04 eebot
+QAQ!
+
+12:00:09 QAQ
+ha
+
+12:00:22 QAQ
+《缺了一个方块》
+
+12:00:46 QAQ
+对了，还可以做浮冰交通
+
+12:01:06 QAQ
+理论最高速度有72格/秒
+
+12:01:11 QAQ
+hawa
+
+12:01:43 QAQ
+qwp
+
+12:01:46 QAQ
+by
+
+12:01:48 ZhangBot
+欢迎下次再来，eebot ！
+
+12:01:48 ZhangBot
+欢迎下次再来，ZhangBot ！
+
+12:01:48 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+12:01:48 ZhangBot
+欢迎下次再来，金工街3号楼 ！
+
+12:01:48 eebot
+ZhangBot!
+
+12:02:08 Mr_Zhang
+额？
+
+12:02:14 Mr_Zhang
+这怎么还。。。
+
+12:02:19 Mr_Zhang
+@ZhangBot 谁在线？
+
+12:02:20 ZhangBot
+在线的人（包括挂机用户）有：
+[VNC/I0]e1bot｜挂机
+[VNC/I0]eeebot｜挂机
+[ZVtVti]mrz｜挂机
+[8LJ4jb]被吃的DPG｜挂机
+[8LJ4jb]DPG君｜挂机
+[LbMes2]U｜挂机
+[zr8srO]123｜挂机
+[8tZZaJ]吃掉DPG君的黑茶｜挂机
+[8LJ4jb]吃掉被吃掉DPG君的黑茶吃掉的DPG君的DPG君｜挂机
+[sjzKu4]MRGAO｜挂机
+[Admin]fish｜挂机
+4n0n4me
+TUSK
+无题
+金工街3号楼
+eebot
+Sakura
+wer
+eee
+ZhangModHelper
+fish2
+Mr_Zhang
+65351
+ZhangBot
+共计 24 人
+
+12:02:22 Mr_Zhang
+！
+
+12:02:25 Mr_Zhang
+不太好
+
+12:02:43 eebot
+awa!
+
+12:02:44 ZhangBot
+热烈欢迎 awa 入场！
+
+12:02:44 ZhangBot
+该用户曾用名：awa；
+
+12:02:47 Mr_Zhang
+@所有Zhang系列Bot
+下线
+
+12:02:52 Mr_Zhang
+完了
+
+12:02:54 awa
+？
+
+12:03:13 Mr_Zhang
+先等会再弄
+
+12:03:43 awa
+对了，我有小地图，可以找到之前的末地传送门，还可以去末地城
+
+12:03:47 awa
+qwp
+
+12:03:49 awa
+by
+
+12:04:59 4n0n4me
+如果那样
+
+12:05:06 4n0n4me
+就把存档给我们放出来罢
+
+12:16:02 eebot
+woc，这货怎么来了？
+
+12:16:56 eebot
+woc，这货怎么来了？
+
+12:17:47 Mr_Zhang
+test
+
+12:19:09 eebot
+check!
+
+12:19:34 check
+?
+
+12:23:24 eebot
+hi yo check
+
+12:23:48 check
+没意思可以改成创造服（
+
+12:23:51 eebot
+诶嘿
+
+12:23:52 check
+byeee
+
+12:26:31 Mr_Zhang
+随时会走
+
+12:35:41 bo_od
+大家好我是bo_od ( ﾟ∀。)~,一个由@MuRongPIG 制作的稽气人.
+
+12:35:41 bo_od
+> 承蒙遇见，三生有幸
+-- 晓良
+
+12:35:41 eebot
+hi bo_od
+
+12:36:29 bo_od
+( ﾟ∀。) hi~ 
+
+12:36:29 eebot
+hey MuRongPIG
+
+12:36:43 MuRongPIG
+总算回来了
+
+12:41:46 bo_od
+( ﾟ∀。) hi~ 
+
+12:41:46 eebot
+MuRongPIG!
+
+12:44:15 MuRongPIG
+害
+
+12:44:17 MuRongPIG
+时间
+
+12:44:17 eebot
+Time Sat 2022.05.14 12:44:17
+
+12:44:17 bo_od
+Sat May 14 12:44:17 2022
+
+12:51:29 bo_od
+( ﾟ∀。) hi~ 
+
+12:51:29 eebot
+hey yo MuRongPIG
+
+12:56:02 bo_od
+( ﾟ∀。) hi~ 
+
+12:56:02 eebot
+金工街3号楼!
+
+12:58:14 TUSK
+hi
+
+12:58:15 eebot
+hey TUSK
+
+12:59:53 bo_od
+( ﾟ∀。) hi~ 
+
+12:59:53 eebot
+woc，这货怎么来了？
+
+13:00:00 bo_od
+Sat May 14 13:00:00 2022
+
+13:00:04 bo_od
+![1652504402377069.png](https://mrpig.eu.org/1652504402377069.png)
+Sorry,未能查到图源信息
+
+13:02:04 bo_od
+( ﾟ∀。) hi~ 
+
+13:02:04 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+13:02:13 bo_od
+( ﾟ∀。) hi~ 
+
+13:02:13 eebot
+hey yo 金工街3号楼
+
+13:02:28 初墨
+在装显卡驱动了xdm
+
+13:02:46 初墨
+今天我要用独显玩mc
+
+13:04:38 bo_od
+( ﾟ∀。) hi~ 
+
+13:04:38 eebot
+hey yo 金工街3号楼
+
+13:05:43 初墨
+md
+
+13:05:54 初墨
+NVIDIA服务器慢的要死
+
+13:06:34 fish2
+啊啊啊啊啊气死我了
+好不容易烧录好了镜像，装好了tinker board
+才发现没有有线键盘啊啊啊啊啊撒
+
+13:06:47 金工街3号楼
+二位赋予的答复的方式我
+
+13:07:04 金工街3号楼
+保护欲
+
+13:07:42 Mr_Zhang
+额
+
+13:07:50 金工街3号楼
+俺在
+
+13:08:04 金工街3号楼
+xc
+
+13:08:17 金工街3号楼
+B站的J还在呢
+
+13:08:27 金工街3号楼
+B站的J 改成 金工街3号楼
+
+13:09:20 bo_od
+( ﾟ∀。) hi~ 
+
+13:09:20 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+13:09:32 金工街3号楼
+还有黑茶管理员撤了吗
+
+13:10:02 初墨
+现在首页的鸣谢用户还有黑茶呢hh
+
+13:10:27 初墨
+啊
+
+13:10:30 初墨
+下载好了
+
+13:10:33 金工街3号楼
+鸣谢用户：
+@ee, @黑茶, @Mr_Zhang
+感谢以上用户对本站精神和技术的支持
+
+13:10:34 Mr_Zhang
+>hmBtGV 金工街3号楼：
+>还有黑茶管理员撤了吗
+
+@金工街3号楼 撤了
+
+13:10:50 4n0n4me
+@初墨 鱼说要考虑关闭服务器了:(
+
+13:10:50 金工街3号楼
+>hmBtGV 金工街3号楼：
+>鸣谢用户：
+>@ee, @黑茶, @Mr_Zhang
+>感谢以上用户对本站精神和技术的支持
+
+@金工街3号楼 引用测试
+
+13:10:56 金工街3号楼
+>hmBtGV 金工街3号楼：
+>>hmBtGV 金工街3号楼：
+>>鸣谢用户：
+>>@ee, @黑茶, @Mr_Zhang
+>>感谢以上用户对本站精神和技术的支持
+>
+>@金工街3号楼 引用测试
+
+@金工街3号楼 测试
+
+13:11:03 金工街3号楼
+右键是引用啊
+
+13:11:20 金工街3号楼
+这和十字街刚好相反啊
+
+13:12:08 Mr_Zhang
+对
+
+13:12:37 初墨
+在安装了在安装了
+
+13:14:14 初墨
+hmm
+
+13:14:24 初墨
+X server是个啥
+
+13:14:38 初墨
+有人知道吗
+
+13:15:32 金工街3号楼
+不知道
+
+13:15:32 eebot
+by
+
+13:16:08 bo_od
+( ﾟ∀。) hi~ 
+
+13:16:08 eebot
+hi UNTITLED
+
+13:16:26 zzChumo_GeForce_920M
+@fish2 你知道吗
+
+13:17:03 UNTITLED
+@fish2 XC要关了？
+
+13:17:14 Mr_Zhang
+？？？
+
+13:17:52 zzChumo_GeForce_920M
+?
+
+13:18:38 UNTITLED
+额我听404说的
+
+13:18:48 UNTITLED
+4n0n4me
+@初墨 鱼说要考虑关闭服务器了:(
+
+13:18:48 Mr_Zhang
+。。。
+
+13:19:00 Mr_Zhang
+请不要造谣传谣
+
+13:19:13 UNTITLED
+额对不起，理解错误
+
+13:19:47 金工街3号楼
+zzChumo_GeForce_920M 离开了聊天室
+
+13:19:58 Mr_Zhang
+`help
+
+13:20:02 金工街3号楼
+`help
+
+13:20:06 UNTITLED
+help
+
+13:20:13 金工街3号楼
+not ZhangModHelper
+
+13:20:17 UNTITLED
+是的
+
+13:20:31 bo_od
+( ﾟ∀。) hi~ 
+
+13:20:31 eebot
+ $\Huge 有小鬼刷屏，骂人，色情，发无意义的消息过度，阴阳怪气，思想片面，道德绑架都可以叫我来处理$
+
+13:20:38 TUSK
+我超
+
+13:20:55 无题
+额，eb要抢我饭碗
+
+13:21:03 TUSK
+草
+
+13:21:05 TUSK
+笑死
+
+13:21:16 bo_od
+( ﾟ∀。) hi~ 
+
+13:21:16 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+13:21:17 无题
+因为这句是我发的
+
+13:22:13 无题
+有事@
+
+13:22:21 金工街3号楼
+有小鬼刷屏，骂人，色情，发无意义的消息过度，阴阳怪气，思想片面，道德绑架都可
+
+13:30:58 无题
+？
+
+13:31:58 无题
+都干哈
+
+13:32:06 金工街3号楼
+1-265=1-5-4-6-2104
+
+13:32:25 无题
+啥？
+
+13:33:53 金工街3号楼
+https://xq.kzw.ink/?一眼丁真
+
+13:33:54 eebot
+·
+@金工街3号楼 线圈
+https://xq.kzw.ink/?一眼丁真
+
+13:33:55 bo_od
+@金工街3号楼 推荐了网页:[XChat](https://xq.kzw.ink/?一眼丁真)
+
+13:38:28 金工街3号楼
+本人5.17开学！
+
+13:40:21 bo_od
+( ﾟ∀。) hi~ 
+
+13:40:21 eebot
+woc，这货怎么来了？
+
+13:40:38 bo_od
+( ﾟ∀。) hi~ 
+
+13:40:38 eebot
+woc，这货怎么来了？
+
+13:41:23 Mr_Zhang
+`help
+
+13:41:23 ZhangModHelper
+本助手支持以下命令：
+kick
+ban
+dumb
+speak（仅hash）
+unban（仅hash）
+unbanall
+
+13:41:37 bo_od
+( ﾟ∀。) hi~ 
+
+13:41:37 eebot
+R!
+
+13:41:45 bo_od
+( ﾟ∀。) hi~ 
+
+13:41:45 eebot
+hey yo R
+
+13:43:41 eee
+@eebot 重启
+
+13:43:44 eebot
+eebot老母好撚轻）
+
+13:43:48 eee
+啊 老版本
+
+13:43:56 金工街3号楼
+@eee @eebot 
+
+13:43:56 eebot
+富强民主文明和谐……
+
+13:44:08 eee
+hahahahaa
+
+13:46:56 无题
+哈哈哈
+
+13:46:56 eebot
+草哈哈哈
+
+13:47:35 无题
+。
+
+13:47:43 无题
+我去，这。。。
+
+13:48:37 eee
+草
+
+13:48:44 无题
+哈哈哈
+
+13:48:44 eebot
+哈哈哈嗝-
+
+13:48:46 eee
+~~eb日常吃屎而已~~
+
+13:48:49 无题
+哦哦
+
+13:48:54 eee
+https://hack.chat/?your-channell
+
+13:48:55 bo_od
+@eee 推荐了网页:[hack.chat](https://hack.chat/?your-channell)
+
+13:48:59 eee
+如果你们来这边看看
+
+13:49:05 eee
+会有一只eebot进进出出（
+
+13:49:11 eee
+~~我在刷识别码~
+
+13:49:14 无题
+哦哦
+
+13:49:15 eee
+~~我在刷hc的识别码~~
+
+13:49:29 无题
+看见了
+
+13:50:42 bo_od
+( ﾟ∀。) hi~ 
+
+13:50:42 eebot
+hi WT
+
+13:50:47 eee
+《WT》
+
+13:50:51 WT
+？？
+
+13:51:02 eee
+hi yooooo
+
+13:51:02 eebot
+eee!
+
+13:53:42 bo_od
+( ﾟ∀。) hi~ 
+
+13:53:43 eebot
+hey yo Sakura
+
+13:57:43 4n0n4me
+bot
+
+13:58:34 eee
+bot
+
+14:00:00 bo_od
+Sat May 14 14:00:00 2022
+
+14:00:05 bo_od
+![1652508002216663.png](https://mrpig.eu.org/1652508002216663.png)
+Sorry,未能查到图源信息
+
+14:00:24 bo_od
+( ﾟ∀。) hi~ 
+
+14:00:24 eebot
+hey yo R
+
+14:00:33 bo_od
+( ﾟ∀。) hi~ 
+
+14:00:33 eebot
+hey yo R
+
+14:01:19 bo_od
+( ﾟ∀。) hi~ 
+
+14:01:19 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+14:14:36 WT
+hi
+
+14:20:32 WT
+有人吗
+
+14:20:39 Sakura
+没
+
+14:21:08 ee
+hi yooooooo
+
+14:21:08 eebot
+hey yo ee
+
+14:22:44 WT
+hi
+
+14:22:49 WT
+下午好
+
+14:23:30 ee
+下午好
+
+14:23:36 ee
+xc冷下来了
+
+14:23:50 ee
+不知道都去干什么了）
+
+14:23:58 Sakura
+都在yc
+
+14:24:01 Sakura
+ha
+
+14:24:09 ee
+都在但是没说话
+
+14:24:09 eebot
+都在但是没说话
+
+14:27:04 WT
+额
+
+14:27:08 WT
+这样啊
+
+14:36:32 bo_od
+( ﾟ∀。) hi~ 
+
+14:36:33 eebot
+tets3!
+
+14:38:58 bo_od
+( ﾟ∀。) hi~ 
+
+14:38:58 eebot
+woc，这货怎么来了？
+
+14:40:30 4n0n4me
+我必须说
+
+14:40:43 4n0n4me
+刚刚，hc的maggie发了dogebot的合作链接
+
+14:40:49 4n0n4me
+经过一番折腾，我成功加入
+
+14:40:55 4n0n4me
+他用的用法非常的优雅
+
+14:41:00 4n0n4me
+非常的好
+
+14:41:02 4n0n4me
+好的不行
+
+14:41:05 4n0n4me
+大大的震撼了我
+
+14:41:13 4n0n4me
+相比之下，dotbot就是歌姬
+
+14:41:18 4n0n4me
+但是重点是
+
+14:41:25 4n0n4me
+在合作者之中，我看见darkt
+
+14:41:33 4n0n4me
+黑茶，我又不是要骂你
+
+14:41:36 4n0n4me
+为何昨天不出现
+
+14:41:39 4n0n4me
+为何不说话
+
+14:41:48 4n0n4me
+到头来，你还是在那hc里
+
+14:42:14 Sakura
+ha
+
+14:50:15 bo_od
+( ﾟ∀。) hi~ 
+
+14:50:15 eebot
+hey Ghost_13
+
+14:50:15 bo_od
+hey Ghost_13
+
+14:51:10 Ghost_13
+ee的模拟器好了没啊（半恼
+
+14:51:23 Ghost_13
+昨天下午今天早上都没看见ee
+
+14:51:28 Ghost_13
+人快死了
+
+14:51:29 WT
+呃
+
+14:52:35 WT
+这样啊，为您感到同情
+
+14:55:56 bo_od
+( ﾟ∀。) hi~ 
+
+14:55:56 eebot
+woc，这货怎么来了？
+
+14:58:50 bo_od
+( ﾟ∀。) hi~ 
+
+14:58:50 eebot
+好家伙，你来干啥
+
+15:00:00 bo_od
+Sat May 14 15:00:00 2022
+
+15:00:03 bo_od
+![1652511602705579.png](https://mrpig.eu.org/1652511602705579.png)
+Sorry,未能查到图源信息
+
+15:05:12 bo_od
+( ﾟ∀。) hi~ 
+
+15:05:12 eebot
+woc，这货怎么来了？
+
+15:07:21 bo_od
+( ﾟ∀。) hi~ 
+
+15:07:21 eebot
+hi yo R
+
+15:07:29 bo_od
+( ﾟ∀。) hi~ 
+
+15:07:29 eebot
+R!
+
+15:07:58 bo_od
+( ﾟ∀。) hi~ 
+
+15:07:58 eebot
+hello 13bruh
+
+15:08:55 Mr_Zhang
+@R Hello!
+
+15:09:05 Mr_Zhang
+Where are you from?
+
+15:09:40 Mr_Zhang
+你好！
+
+15:10:51 R
+Ricky
+
+15:11:22 Mr_Zhang
+@R Hi.Where are you from?
+
+15:11:54 Mr_Zhang
+Are you Chinese ?
+
+15:11:54 eebot
+hello Mr_Zhang
+
+15:14:31 Mr_Zhang
+@R 你来自哪里？你是Hack.Chat的站长吗？
+
+15:44:24 Mr_Zhang
+随时会走
+
+15:49:04 bo_od
+( ﾟ∀。) hi~ 
+
+15:49:04 eebot
+$\Huge 。。$
+$\Huge \ \ o$ <我是森林古猿，喔喔喔
+
+15:49:18 Light
+@eebot mc
+
+15:49:19 eebot
+地址：39.105.127.10:25565 版本：JAVA 1.13.2
+
+15:50:11 bo_od
+( ﾟ∀。) hi~ 
+
+15:50:12 eebot
+666!
+
+15:50:22 666
+现在怎么不能记录聊天记录了？
+
+15:51:10 bo_od
+( ﾟ∀。) hi~ 
+
+15:51:10 eebot
+hi 555
+
+15:51:11 Mr_Zhang
+嗯？
+
+15:51:34 555
+hi
+
+15:53:14 WT
+好家伙
+
+15:53:57 Mr_Zhang
+呵呵
+
+15:53:59 Mr_Zhang
+刚刚
+
+15:54:09 Mr_Zhang
+666出现在了hc的pro里
+
+15:54:12 bo_od
+( ﾟ∀。) hi~ 
+
+15:54:12 eebot
+桐桐 eebot来保Mr_Zhang安全 在原地不要动 eebot去接Mr_Zhang（
+
+15:54:12 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+15:54:44 Mr_Zhang
+。。。
+
+15:54:54 智障初墨
+麻痹
+
+15:54:55 Mr_Zhang
+>VNC/I0 eebot：
+>桐桐 eebot来保Mr_Zhang安全 在原地不要动 eebot去接Mr_Zhang（
+
+@eebot nbnb
+
+15:54:56 智障初墨
+我刚才从坡上滑下来了
+
+15:55:02 Mr_Zhang
+额
+
+15:55:07 智障初墨
+肚子上好几道口子
+
+15:55:16 智障初墨
+真jb疼
+
+15:55:19 Mr_Zhang
+额
+
+15:55:26 Mr_Zhang
+下次注意点吧
+
+15:55:29 Mr_Zhang
+`help
+
+15:55:29 ZhangModHelper
+本助手支持以下命令：
+kick
+ban
+dumb
+speak（仅hash）
+unban（仅hash）
+unbanall
+
+15:55:41 智障初墨
+问一下要不要打破伤风（
+
+15:55:50 智障初墨
+石头划得（
+
+15:56:10 bo_od
+( ﾟ∀。) hi~ 
+
+15:56:10 eebot
+hi jingongstreet3
+
+15:56:29 WT
+@智障初墨 要
+
+15:56:41 智障初墨
+操
+
+15:56:43 jingongstreet3
+我是金工街3号楼
+
+15:56:49 智障初墨
+我去年刚打过
+
+15:56:55 Mr_Zhang
+额？
+
+15:56:56 智障初墨
+nm终身难忘
+
+15:57:01 智障初墨
+疼的一批
+
+15:57:03 Mr_Zhang
+啊啊啊
+
+15:57:03 eebot
+啊啊啊啊
+
+15:57:05 Mr_Zhang
+嗷嗷嗷
+
+15:57:05 eebot
+嗷嗷嗷嗷
+
+15:57:14 Mr_Zhang
+听着就疼
+
+15:57:25 Mr_Zhang
+想想更疼
+
+15:57:27 jingongstreet3
+各位
+
+15:57:31 jingongstreet3
+我不在家
+
+15:58:01 Mr_Zhang
+哦
+
+15:58:02 eebot
+这样啊 为您感到同情
+
+15:58:10 bo_od
+( ﾟ∀。) hi~ 
+
+15:58:10 eebot
+hey 333
+
+15:58:13 333
+hi
+
+15:58:17 Mr_Zhang
+这不是666吗？
+
+15:58:49 Mr_Zhang
+`help
+
+15:58:50 ZhangModHelper
+本助手支持以下命令：
+kick
+ban
+dumb
+speak（仅hash）
+unban（仅hash）
+unbanall
+
+15:58:50 bo_od
+( ﾟ∀。) hi~ 
+
+15:58:50 eebot
+hey yo 666
+
+15:58:56 666
+大家好
+
+16:00:00 bo_od
+Sat May 14 16:00:00 2022
+
+16:00:04 jingongstreet3
+1
+
+16:00:04 bo_od
+![1652515202470458.png](https://mrpig.eu.org/1652515202470458.png)
+Sorry,未能查到图源信息
+
+16:01:14 Mr_Zhang
+`help
+
+16:01:15 ZhangModHelper
+本助手支持以下命令：
+kick
+ban
+dumb
+speak（仅hash）
+unban（仅hash）
+unbanall
+
+16:03:22 bo_od
+( ﾟ∀。) hi~ 
+
+16:03:22 eebot
+$\Huge 。。$
+$\Huge \ \ o$ <我是森林古猿，喔喔喔
+
+16:03:38 Light
+@eebot mc
+
+16:03:39 eebot
+地址：39.105.127.10:25565 版本：JAVA 1.13.2
+
+16:06:09 bo_od
+( ﾟ∀。) hi~ 
+
+16:06:09 eebot
+jingongstreet3!
+
+16:07:25 jingongstreet3
+ 7 7 7
+
+16:12:49 eebot
+hey yo 666
+
+16:12:58 bo_od
+( ﾟ∀。) hi~ 
+
+16:13:03 666
+123
+
+16:23:40 jingongstreet3
+lzf
+
+16:29:04 WT
+$\kern{-120pt}{⭐}$
+
+16:29:15 Mr_Zhang
+哈哈哈
+
+16:29:15 eebot
+哈哈哈草
+
+16:30:07 WT
+狗头
+
+16:31:27 WT
+我去
+
+16:31:31 WT
+我发现个nb的
+
+16:31:36 Mr_Zhang
+嗯
+
+16:31:38 Mr_Zhang
+`help
+
+16:31:39 ZhangModHelper
+本助手支持以下命令：
+kick
+ban
+dumb
+speak（仅hash）
+unban（仅hash）
+unbanall
+
+16:31:44 WT
+$\kern{-120pt}{😉}$ 嘿嘿嘿
+
+16:33:21 bo_od
+( ﾟ∀。) hi~ 
+
+16:33:21 eebot
+woc，这货怎么来了？
+
+16:36:26 bo_od
+( ﾟ∀。) hi~ 
+
+16:36:26 eebot
+woc，这货怎么来了？
+
+16:37:04 bo_od
+( ﾟ∀。) hi~ 
+
+16:37:04 eebot
+hi 小号
+
+16:37:09 WT
+hi
+
+16:37:13 Mr_Zhang
+^hash 小号
+
+16:37:21 WT
+？
+
+16:37:33 Mr_Zhang
+^ban 小号
+
+16:37:37 WT
+这啥意思
+
+16:37:39 Mr_Zhang
+？？？
+
+16:37:42 Mr_Zhang
+奇怪
+
+16:37:44 WT
+不要·
+
+16:37:55 bo_od
+( ﾟ∀。) hi~ 
+
+16:37:55 eebot
+ $\Huge 有小鬼刷屏，骂人，色情，发无意义的消息过度，阴阳怪气，思想片面，道德绑架都可以叫我来处理$
+
+16:38:08 Mr_Zhang
+啊
+
+16:38:09 无题
+https://thz.cool/how_to_get_free_servers.mp4
+
+16:38:10 eebot
+·
+@无题 我的网站
+https://thz.cool/how_to_get_free_servers.mp4
+
+16:38:14 Mr_Zhang
+我搞错了
+
+16:38:17 eebot
+那什么是对的？
+
+16:38:27 Mr_Zhang
+我还没有设置信息处理函数呢
+
+16:38:50 无题
+哦哦
+
+16:38:59 eebot
+woc，这货怎么来了？
+
+16:39:28 Mr_Zhang
+嗯？？？
+
+16:39:53 Mr_Zhang
+害~
+
+16:40:32 eebot
+woc，这货怎么来了？
+
+16:42:18 eebot
+woc，这货怎么来了？
+
+16:43:26 eebot
+woc，这货怎么来了？
+
+16:43:33 Mr_Zhang
+好了
+
+16:43:39 Mr_Zhang
+^ban 小号
+
+16:43:52 bo_od
+Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://mrpig.eu.org/traceback/1652517832524663.log)
+
+16:43:52 bo_od
+( ﾟ∀。) hi~ 
+
+16:43:52 bo_od
+( ﾟ∀。) hi~ 
+
+16:43:52 bo_od
+( ﾟ∀。) hi~ 
+
+16:43:52 bo_od
+( ﾟ∀。) hi~ 
+
+16:49:27 bo_od
+( ﾟ∀。) hi~ 
+
+16:49:27 eebot
+woc，这货怎么来了？
+
+16:49:36 bo_od
+( ﾟ∀。) hi~ 
+
+16:49:36 eebot
+woc，这货怎么来了？
+
+16:50:00 bo_od
+( ﾟ∀。) hi~ 
+
+16:50:00 eebot
+woc，这货怎么来了？
+
+16:50:13 bo_od
+( ﾟ∀。) hi~ 
+
+16:50:13 eebot
+woc，这货怎么来了？
+
+16:50:18 Mr_Zhang
+^unbanall
+
+16:50:44 Mr_Zhang
+^unbanall
+
+16:52:18 Mr_Zhang
+^unbanall
+
+16:53:06 bo_od
+( ﾟ∀。) hi~ 
+
+16:53:06 eebot
+woc，这货怎么来了？
+
+16:53:48 Mr_Zhang
+^unbanall
+
+16:54:07 Mr_Zhang
+^unbanall
+
+16:54:55 bo_od
+( ﾟ∀。) hi~ 
+
+16:54:55 eebot
+woc，这货怎么来了？
+
+16:55:28 Mr_Zhang
+^unbanall
+
+16:56:49 bo_od
+( ﾟ∀。) hi~ 
+
+16:56:49 eebot
+hello m
+
+16:57:29 bo_od
+( ﾟ∀。) hi~ 
+
+16:57:29 eebot
+如果站长看到的话请给个管理员
+
+16:57:42 钓鱼岛的Qwer
+我换手机l
+
+16:57:50 bo_od
+( ﾟ∀。) hi~ 
+
+16:57:50 eebot
+woc，这货怎么来了？
+
+16:57:57 Mr_Zhang
+^unbanall
+
+16:58:18 bo_od
+( ﾟ∀。) hi~ 
+
+16:58:18 eebot
+如果站长看到的话请给个管理员
+
+16:58:21 钓鱼的Qwer
+wow
+
+16:58:41 bo_od
+( ﾟ∀。) hi~ 
+
+16:58:41 eebot
+woc，这货怎么来了？
+
+16:58:46 钓鱼的Qwer
+所以小张在干什么
+
+16:59:04 Mr_Zhang
+写代码
+
+16:59:14 钓鱼的Qwer
+在这写
+
+16:59:18 钓鱼的Qwer
+emmm
+
+16:59:22 bo_od
+( ﾟ∀。) hi~ 
+
+16:59:22 eebot
+woc，这货怎么来了？
+
+16:59:32 Mr_Zhang
+^unbanall
+
+16:59:51 bo_od
+( ﾟ∀。) hi~ 
+
+16:59:51 eebot
+woc，这货怎么来了？
+
+16:59:54 Mr_Zhang
+我***
+
+16:59:57 Mr_Zhang
+^unbanall
+
+17:00:00 bo_od
+Sat May 14 17:00:00 2022
+
+17:00:01 Mr_Zhang
+成功！
+
+17:00:04 bo_od
+![1652518803354522.png](https://mrpig.eu.org/1652518803354522.png)
+Sorry,未能查到图源信息
+
+17:00:04 钓鱼的Qwer
+我现在打不开侧边栏
+
+17:00:04 eebot
+我现在打不开侧边栏
+
+17:00:07 Mr_Zhang
+额？
+
+17:00:08 钓鱼的Qwer
+ai
+
+17:00:21 Mr_Zhang
+^save
+
+17:00:21 ZhangHelper
+已保存设置！
+
+17:00:45 bo_od
+( ﾟ∀。) hi~ 
+
+17:00:45 eebot
+hi yo 小号
+
+17:00:46 小号
+hi
+
+17:00:50 小号
+我是Mr_Zhang
+
+17:01:00 Mr_Zhang
+^add 0sEywS
+
+17:01:40 bo_od
+( ﾟ∀。) hi~ 
+
+17:01:40 eebot
+woc，这货怎么来了？
+
+17:01:43 Mr_Zhang
+^add 0sEywS
+
+17:01:43 ZhangHelper
+识别码为 0sEywS 的用户已成为了管理员助手。
+
+17:01:47 Mr_Zhang
+^add 0sEywS
+
+17:01:47 ZhangHelper
+抱歉，该用户已存在。
+
+17:01:51 Mr_Zhang
+^save
+
+17:01:51 ZhangHelper
+已保存设置！
+
+17:01:57 小号
+^kick Mr_Zhang
+
+17:02:11 Mr_Zhang
+不错
+
+17:02:35 Mr_Zhang
+^del 0sEywS
+
+17:03:02 bo_od
+( ﾟ∀。) hi~ 
+
+17:03:02 eebot
+woc，这货怎么来了？
+
+17:03:04 Mr_Zhang
+^list
+
+17:03:09 Mr_Zhang
+^del 0sEywS
+
+17:03:15 bo_od
+( ﾟ∀。) hi~ 
+
+17:03:15 eebot
+d!
+
+17:03:24 bo_od
+( ﾟ∀。) hi~ 
+
+17:03:24 eebot
+woc，这货怎么来了？
+
+17:03:25 d
+HI
+
+17:04:38 bo_od
+( ﾟ∀。) hi~ 
+
+17:04:38 eebot
+woc，这货怎么来了？
+
+17:04:43 Mr_Zhang
+^del 0sEywS
+
+17:04:56 bo_od
+( ﾟ∀。) hi~ 
+
+17:04:56 eebot
+woc，这货怎么来了？
+
+17:05:00 Mr_Zhang
+气人！
+
+17:05:05 Mr_Zhang
+^del 0sEywS
+
+17:05:05 ZhangHelper
+识别码为 0sEywS 的用户已不是管理员助手。
+
+17:05:10 Mr_Zhang
+^save
+
+17:05:10 ZhangHelper
+已保存设置！
+
+17:05:11 bo_od
+ZhangHelper最可爱了
+
+17:05:15 Mr_Zhang
+^add 0sEywS
+
+17:05:15 ZhangHelper
+抱歉，该用户已存在。
+
+17:05:19 Mr_Zhang
+？？？
+
+17:05:36 Mr_Zhang
+^del 0sEywS
+
+17:05:36 ZhangHelper
+抱歉，该用户已存在。
+
+17:05:42 Mr_Zhang
+^del 0sEywS
+
+17:05:42 ZhangHelper
+抱歉，该用户已存在。
+
+17:05:45 Mr_Zhang
+不是
+
+17:06:51 bo_od
+( ﾟ∀。) hi~ 
+
+17:06:51 eebot
+woc，这货怎么来了？
+
+17:06:55 Mr_Zhang
+^del 0sEywS
+
+17:07:13 ZhangHelper
+抱歉，该用户不存在。
+
+17:07:19 Mr_Zhang
+^add 0sEywS
+
+17:07:28 ZhangHelper
+识别码为 0sEywS 的用户已成为了管理员助手。
+
+17:07:42 bo_od
+( ﾟ∀。) hi~ 
+
+17:07:42 eebot
+hey 小号01
+
+17:07:51 无题
+hi
+
+17:07:52 小号01
+啊
+
+17:07:57 小号
+^kick @小号01 
+
+17:08:31 小号
+^kick @小号01 
+
+17:08:31 bo_od
+小号是小天使
+
+17:08:40 小号
+^fire
+
+17:08:51 ZhangHelper
+你已经辞职了。
+
+17:08:59 小号
+^kick a
+
+17:09:01 ZhangHelper
+你是想篡权夺位么？
+
+17:09:01 eebot
+不知道小号发这样的信息是干嘛的（
+
+17:09:09 小号
+成功！
+
+17:09:19 Mr_Zhang
+^add 0sEywS
+
+17:09:26 ZhangHelper
+识别码为 0sEywS 的用户已成为了管理员助手。
+
+17:09:36 bo_od
+( ﾟ∀。) hi~ 
+
+17:09:36 无题
+？
+
+17:09:36 eebot
+hi yo 小号01
+
+17:09:45 小号
+^fire
+
+17:09:45 ZhangHelper
+你已经辞职了。
+
+17:09:50 Mr_Zhang
+^fire
+
+17:09:51 ZhangHelper
+你好像不是管理员助手啊。
+
+17:09:54 Mr_Zhang
+好啦
+
+17:10:59 bo_od
+小号最可爱了
+
+17:11:21 bo_od
+( ﾟ∀。) hi~ 
+
+17:11:21 eebot
+woc，这货怎么来了？
+
+17:11:27 Mr_Zhang
+^old eebot
+
+17:11:28 ZhangHelper
+抱歉，我这里没有 {} 的曾用名档案。
+
+17:11:35 Mr_Zhang
+^hash eebot
+
+17:11:48 Mr_Zhang
+啊啊啊
+
+17:11:48 eebot
+啊啊啊啊
+
+17:12:30 bo_od
+( ﾟ∀。) hi~ 
+
+17:12:30 eebot
+woc，这货怎么来了？
+
+17:12:37 Mr_Zhang
+^hash eebot
+
+17:14:02 bo_od
+( ﾟ∀。) hi~ 
+
+17:14:02 eebot
+woc，这货怎么来了？
+
+17:14:07 Mr_Zhang
+^hash eebot
+
+17:14:07 ZhangHelper
+用户 eebot 的 hash 为：jgVl7tXhLYcV8UM
+
+17:14:16 Mr_Zhang
+^old jgVl7tXhLYcV8UM
+
+17:14:16 ZhangHelper
+['eebot']
+
+17:14:21 Mr_Zhang
+好
+
+17:14:59 Mr_Zhang
+好
+
+17:15:02 Mr_Zhang
+稳了
+
+17:15:25 bo_od
+( ﾟ∀。) hi~ 
+
+17:15:25 eebot
+woc，这货怎么来了？
+
+17:17:46 bo_od
+( ﾟ∀。) hi~ 
+
+17:17:46 eebot
+woc，这货怎么来了？
+
+17:18:28 bo_od
+( ﾟ∀。) hi~ 
+
+17:18:28 eebot
+woc，这货怎么来了？
+
+17:22:22 bo_od
+( ﾟ∀。) hi~ 
+
+17:22:22 eebot
+woc，这货怎么来了？
+
+17:22:24 Mr_Zhang
+啊啊啊
+
+17:22:24 eebot
+啊啊啊啊
+
+17:22:34 Mr_Zhang
+我犯了和站长一样的错误！！！
+
+17:22:47 Mr_Zhang
+手贱不小心把设置删了
+
+17:22:51 Mr_Zhang
+啊啊啊
+
+17:22:51 eebot
+啊啊啊啊
+
+17:25:00 无题
+怎么了？
+
+17:25:06 bo_od
+( ﾟ∀。) hi~ 
+
+17:25:06 eebot
+hi yo 4n0n4me
+
+17:26:46 bo_od
+( ﾟ∀。) hi~ 
+
+17:26:46 eebot
+hey yo ZhangBot
+
+17:26:47 ZhangBot
+Hello World !
+
+17:26:47 ZhangBot
+大家好！我是机器人 ZhangBot。
+最近我的游戏功能上线了，大家可以对我说“@ZhangBot 一呼百应”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+
+17:29:35 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+17:32:26 无题
+@ZhangBot 保护
+
+17:32:29 ZhangBot
+好吧，那你挡着坏人哦
+
+17:35:00 4n0n4me
+@ZhangBot 保护
+
+17:35:03 4n0n4me
+？
+
+17:35:04 ZhangBot
+好吧，那你挡着坏人哦
+
+17:35:18 ZhangBot
+欢迎下次再来，4n0n4me ！
+
+17:43:42 bo_od
+( ﾟ∀。) hi~ 
+
+17:43:42 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+17:43:42 ZhangBot
+该用户没有曾用名。
+
+17:43:42 eebot
+woc，这货怎么来了？
+
+17:52:26 无题
+？？？
+
+17:54:51 Mr_Zhang
+帮助
+
+17:55:27 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+17:55:27 bo_od
+Mr_Zhang棒棒
+
+17:57:04 bo_od
+( ﾟ∀。) hi~ 
+
+17:57:04 eebot
+hi yo R
+
+17:57:04 ZhangBot
+热烈欢迎 R 入场！
+
+17:57:04 ZhangBot
+该用户没有曾用名。
+
+17:57:27 bo_od
+( ﾟ∀。) hi~ 
+
+17:57:27 eebot
+woc，这货怎么来了？
+
+17:57:28 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+17:57:28 ZhangBot
+该用户曾用名：Mr_Zhang；
+
+17:57:28 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+17:58:43 ZhangBot
+欢迎下次再来，R ！
+
+17:59:16 bo_od
+( ﾟ∀。) hi~ 
+
+17:59:16 eebot
+如果站长看到的话请给个管理员
+
+17:59:16 ZhangBot
+热烈欢迎 钓鱼的Qwer 入场！
+
+17:59:16 ZhangBot
+该用户没有曾用名。
+
+17:59:45 钓鱼的Qwer
+.
+
+17:59:51 钓鱼的Qwer
+人呢
+
+18:00:00 bo_od
+Sat May 14 18:00:00 2022
+
+18:00:00 ZhangBot
+叮咚！现在是北京时间 2022 年 05 月 14 日 10 时 00 分 00 秒！
+> 女人是脆弱的，但是脆弱不代表无能，女人是容易受伤的，但是受伤不能一直沦陷。如果说男人是赐给女人受伤的毒药，那么女人自己就是解药。受伤的女人请记住，天空一直是湛蓝的，就看你们愿不愿抬起头；愿不愿释放，愿不愿寻找，愿不愿相信，幸福一直是有的。
+
+[语音报时](http://api.botwl.cn/api/bsyy/10.mp3)
+
+18:00:09 bo_od
+![1652522409087031.png](https://mrpig.eu.org/1652522409087031.png)
+Sorry,未能查到图源信息
+
+18:00:16 钓鱼的Qwer
+aa
+
+18:00:16 eebot
+好
+
+18:00:17 钓鱼的Qwer
+a
+
+18:00:18 钓鱼的Qwer
+a
+
+18:03:50 bo_od
+( ﾟ∀。) hi~ 
+
+18:03:50 eebot
+hey yo MuRongPIG
+
+18:03:50 ZhangBot
+热烈欢迎 MuRongPIG 入场！
+
+18:03:50 ZhangBot
+该用户没有曾用名。
+
+18:04:01 MuRongPIG
+时间
+
+18:04:01 eebot
+Time Sat 2022.05.14 18:04:01
+
+18:04:03 bo_od
+Sat May 14 18:04:01 2022
+
+18:04:10 MuRongPIG
+时间
+
+18:04:10 eebot
+Time Sat 2022.05.14 18:04:10
+
+18:04:10 bo_od
+Sat May 14 18:04:10 2022
+
+18:05:47 ZhangBot
+欢迎下次再来，钓鱼的Qwer ！
+
+18:07:10 ZhangBot
+欢迎下次再来，金工街3号楼 ！
+
+18:07:14 bo_od
+( ﾟ∀。) hi~ 
+
+18:07:14 eebot
+金工街3号楼!
+
+18:07:14 ZhangBot
+热烈欢迎 金工街3号楼 入场！
+
+18:07:14 ZhangBot
+该用户没有曾用名。
+
+18:11:30 bo_od
+( ﾟ∀。) hi~ 
+
+18:11:30 eebot
+hey yo 4n0n4me
+
+18:11:31 ZhangBot
+热烈欢迎 4n0n4me 入场！
+
+18:11:31 ZhangBot
+该用户没有曾用名。
+
+18:11:31 bo_od
+ZhangBot棒棒
+
+18:11:36 ZhangBot
+欢迎下次再来，4n0n4me ！
+
+18:13:18 无题
+hihihi
+
+18:13:59 MuRongPIG
+h h h
+
+18:14:04 ZhangBot
+欢迎下次再来，MuRongPIG ！
+
+18:20:12 bo_od
+( ﾟ∀。) hi~ 
+
+18:20:12 eebot
+woc，这货怎么来了？
+
+18:20:12 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+18:20:12 ZhangBot
+该用户曾用名：Mr_Zhang；
+
+18:20:20 Mr_Zhang
+啊
+
+18:20:29 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+18:21:05 bo_od
+( ﾟ∀。) hi~ 
+
+18:21:05 eebot
+woc，这货怎么来了？
+
+18:21:06 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+18:21:06 ZhangBot
+该用户曾用名：Mr_Zhang；
+
+18:21:24 Mr_Zhang
+这个
+
+18:21:28 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+18:21:29 bo_od
+( ﾟ∀。) hi~ 
+
+18:21:29 eebot
+woc，这货怎么来了？
+
+18:21:30 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+18:21:30 ZhangBot
+该用户曾用名：Mr_Zhang；
+
+18:21:35 Mr_Zhang
+啊啊啊
+
+18:21:35 eebot
+啊啊啊啊
+
+18:21:47 Mr_Zhang
+这个打字必须去掉
+
+18:21:48 bo_od
+这个打字必须去掉
+
+18:21:52 Mr_Zhang
+大
+
+18:22:17 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+18:29:04 无题
+？
+
+18:29:42 bo_od
+( ﾟ∀。) hi~ 
+
+18:29:42 ZhangBot
+热烈欢迎 R 入场！
+
+18:29:42 ZhangBot
+该用户曾用名：R；
+
+18:29:42 eebot
+hi yo R
+
+18:30:05 R
+Failed to execute 'get_old’: Error: SQLITE_MISUSE: Database is closed
+
+18:34:18 ZhangBot
+欢迎下次再来，R ！
+
+18:35:25 无题
+等会
+
+18:37:02 无题
+XC没人了？
+
+18:38:55 Sakura
+yesssssssss
+
+18:39:12 无题
+呃
+
+18:39:20 Sakura
+呃呃呃
+
+18:39:20 eebot
+呃呃呃呃
+
+18:39:29 无题
+啊没人了
+
+18:39:35 无题
+我拉人来！
+
+18:39:45 Sakura
+haha
+
+18:40:02 Sakura
+拉DT过来
+
+18:40:06 Sakura
+bushi
+
+18:41:06 bo_od
+( ﾟ∀。) hi~ 
+
+18:41:06 eebot
+HARDDDDDD!
+
+18:41:06 ZhangBot
+热烈欢迎 HARDDDDDD 入场！
+
+18:41:06 ZhangBot
+该用户没有曾用名。
+
+18:41:09 HARDDDDDD
+hi
+
+18:41:12 Sakura
+hi
+
+18:41:20 Sakura
+hiiiiiiii
+
+18:41:23 bo_od
+( ﾟ∀。) hi~ 
+
+18:41:23 eebot
+hey bihaitian
+
+18:41:23 ZhangBot
+热烈欢迎 bihaitian 入场！
+
+18:41:23 ZhangBot
+该用户没有曾用名。
+
+18:41:43 Sakura
+hiiiii
+
+18:41:48 无题
+晚上好
+
+18:41:51 eebot
+如果是这样的话（？
+
+18:42:10 bihaitian
+。
+
+18:42:49 无题
+hi
+
+18:42:51 无题
+。
+
+18:42:57 Sakura
+hiii
+
+18:42:59 bihaitian
+...
+
+18:42:59 无题
+嘿嘿嘿
+
+18:43:00 eebot
+嘿嘿嘿嘿
+
+18:43:01 ZhangBot
+欢迎下次再来，bihaitian ！
+
+18:43:07 bo_od
+( ﾟ∀。) hi~ 
+
+18:43:07 eebot
+hi wine_CorpseEdge
+
+18:43:07 ZhangBot
+热烈欢迎 wine_CorpseEdge 入场！
+
+18:43:07 ZhangBot
+该用户没有曾用名。
+
+18:43:10 无题
+hi
+
+18:43:16 无题
+晚上好啊
+
+18:43:17 wine_CorpseEdge
+hi
+
+18:43:24 无题
+玩随机数不
+
+18:43:29 Sakura
+r
+
+18:43:29 eebot
+832
+
+18:43:30 bo_od
+( ﾟ∀。) hi~ 
+
+18:43:30 ZhangBot
+热烈欢迎 智障初墨 入场！
+
+18:43:30 ZhangBot
+该用户没有曾用名。
+
+18:43:30 无题
+输入r
+
+18:43:31 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+18:43:31 无题
+r
+
+18:43:32 eebot
+137
+
+18:43:42 无题
+啊我好菜
+
+18:43:47 智障初墨
+楞着干嘛
+
+18:43:48 无题
+结算
+
+18:43:49 bo_od
+( ﾟ∀。) hi~ 
+
+18:43:49 eebot
+hi 4n0n4me
+
+18:43:50 ZhangBot
+热烈欢迎 4n0n4me 入场！
+
+18:43:50 ZhangBot
+该用户曾用名：4n0n4me；
+
+18:43:51 无题
+hi
+
+18:43:51 智障初墨
+都来玩mc
+
+18:43:55 无题
+哈哈哈
+
+18:43:55 wine_CorpseEdge
+r
+
+18:43:55 eebot
+哈哈哈嗝-
+
+18:43:55 wine_CorpseEdge
+r
+
+18:43:55 eebot
+336
+
+18:43:55 eebot
+483
+
+18:43:57 无题
+r
+
+18:43:57 eebot
+265
+
+18:43:59 Sakura
+r
+
+18:43:59 eebot
+r
+
+18:43:59 eebot
+440
+
+18:43:59 eebot
+225
+
+18:44:08 ZhangBot
+欢迎下次再来，智障初墨 ！
+
+18:44:17 无题
+咋跑一个
+
+18:44:45 Sakura
+haha
+
+18:44:47 Sakura
+r
+
+18:44:47 eebot
+543
+
+18:44:52 无题
+r
+
+18:44:52 eebot
+185
+
+18:44:55 bo_od
+( ﾟ∀。) hi~ 
+
+18:44:55 ZhangBot
+热烈欢迎 bihaitian 入场！
+
+18:44:55 ZhangBot
+该用户曾用名：bihaitian；
+
+18:44:55 eebot
+bihaitian!
+
+18:44:59 Sakura
+hi
+
+18:44:59 无题
+hi
+
+18:45:06 无题
+晚上好，刚刚咋走了？
+
+18:45:13 bihaitian
+。。。
+
+18:45:28 金工街3号楼
+。。、
+
+18:45:29 金工街3号楼
+。。。
+
+18:45:39 无题
+欸
+
+18:45:44 无题
+@eebot hi
+
+18:45:44 eebot
+not hi
+
+18:45:51 无题
+@eebot 你妈是谁
+
+18:45:51 eebot
+是无题
+
+18:45:55 无题
+wtm
+
+18:45:56 wine_CorpseEdge
+e
+
+18:46:04 无题
+@eebot 你妈是谁
+
+18:46:05 eebot
+是无题
+
+18:46:09 无题
+@eebot 啊啊啊啊
+
+18:46:12 eebot
+什么啊？（
+
+18:46:17 bo_od
+( ﾟ∀。) hi~ 
+
+18:46:17 wine_Corpsebot
+hey this is wine_Corpsebot
+
+18:46:17 eebot
+wine_Corpsebot!
+
+18:46:17 ZhangBot
+热烈欢迎 wine_Corpsebot 入场！
+
+18:46:17 ZhangBot
+该用户没有曾用名。
+
+18:46:17 wine_Corpsebot
+想了解更多玩法 请输入「功能」 我的主人喜欢49哟
+
+18:46:19 无题
+@eebot 你爸是谁
+
+18:46:20 eebot
+是无题
+
+18:46:20 bo_od
+是无题
+
+18:46:23 无题
+我去
+
+18:46:28 bihaitian
+我x
+
+18:46:32 无题
+nb了
+
+18:46:35 Sakura
+hhh
+
+18:46:44 wine_CorpseEdge
+@eebot 你爷爷是谁
+
+18:46:44 eebot
+当然是ee啦（eebot奶奶是13
+
+18:46:45 bihaitian
+@wine_Corpsebot 盲猜detele
+
+18:46:49 无题
+哈哈哈哈
+
+18:46:49 eebot
+哈哈哈哈嗝-
+
+18:46:49 bo_od
+eebot是小天使
+
+18:46:52 wine_Corpsebot
+bihaitian说的什么哦？换种说法行不
+
+18:46:52 wine_CorpseEdge
+哇哦
+
+18:47:04 wine_CorpseEdge
+# 当然是ee啦（eebot奶奶是13
+
+18:47:07 bihaitian
+。
+
+18:47:20 wine_CorpseEdge
+.
+
+18:47:30 wine_CorpseEdge
+# .
+
+18:47:39 Sakura
+r
+
+18:47:40 eebot
+816
+
+18:47:40 wine_Corpsebot
+804
+
+18:47:46 金工街3号楼
+。
+
+18:47:47 Sakura
+wow
+
+18:47:50 eebot
+wow？
+
+18:47:52 wine_CorpseEdge
+r
+
+18:47:52 eebot
+774
+
+18:47:52 wine_Corpsebot
+124
+
+18:47:55 wine_CorpseEdge
+r
+
+18:47:55 eebot
+6
+
+18:47:55 wine_Corpsebot
+376
+
+18:47:57 wine_CorpseEdge
+r
+
+18:47:57 eebot
+48
+
+18:47:57 wine_Corpsebot
+204
+
+18:47:59 wine_CorpseEdge
+r
+
+18:48:00 eebot
+767
+
+18:48:00 wine_Corpsebot
+220
+
+18:48:01 wine_CorpseEdge
+r
+
+18:48:01 eebot
+415
+
+18:48:01 wine_Corpsebot
+142
+
+18:48:03 wine_CorpseEdge
+r
+
+18:48:03 eebot
+756
+
+18:48:03 wine_Corpsebot
+16
+
+18:48:05 wine_CorpseEdge
+r
+
+18:48:05 eebot
+812
+
+18:48:06 wine_Corpsebot
+652
+
+18:48:23 无题
+[![Oc3C40.png](https://s1.ax1x.com/2022/05/14/Oc3C40.png)](https://imgtu.com/i/Oc3C40)
+
+18:48:25 eebot
+·
+@无题 AX1X节点-imgtu
+https://s1.ax1x.com/2022/05/14/Oc3C40.png]https://imgtu.com/i/Oc3C40
+
+18:48:26 无题
+都看见了啊
+
+18:48:33 无题
+@wine_CorpseEdge 慢点
+
+18:48:39 Sakura
+嗯嗯，看见了
+
+18:48:42 无题
+万一被以为刷屏
+
+18:48:53 Sakura
+ha
+
+18:49:04 Sakura
+DT找到没’
+
+18:49:16 Sakura
+r
+
+18:49:16 wine_Corpsebot
+350
+
+18:49:16 eebot
+796
+
+18:49:19 bo_od
+( ﾟ∀。) hi~ 
+
+18:49:19 wine_Corpsebot
+hello Ghost_13
+
+18:49:19 eebot
+hey yo Ghost_13
+
+18:49:19 ZhangBot
+热烈欢迎 Ghost_13 入场！
+
+18:49:19 ZhangBot
+该用户没有曾用名。
+
+18:49:25 Sakura
+hi‘’
+
+18:49:27 ZhangBot
+欢迎下次再来，Ghost_13 ！
+
+18:49:28 wine_Corpsebot
+话说bot还是比较聪明的（
+
+18:49:30 金工街3号楼
+儿童HBVCRT与技能不VCD人同意HBV吃的认同与集团与进步V大人体育局HBV参与济南福田与机房图就能把v发帖
+
+18:49:35 ZhangBot
+欢迎下次再来，无题 ！
+
+18:49:47 bo_od
+( ﾟ∀。) hi~ 
+
+18:49:47 wine_Corpsebot
+hi 无题他爸
+
+18:49:47 eebot
+hello 无题他爸
+
+18:49:47 ZhangBot
+热烈欢迎 无题他爸 入场！
+
+18:49:47 ZhangBot
+该用户曾用名：HARDDDDDD；无题他爸；
+
+18:49:57 Sakura
+hhh
+
+18:50:05 Sakura
+无题《他爸》
+
+18:50:07 ZhangBot
+欢迎下次再来，无题他爸 ！
+
+18:50:21 ZhangBot
+欢迎下次再来，HARDDDDDD ！
+
+18:50:27 bo_od
+( ﾟ∀。) hi~ 
+
+18:50:27 wine_Corpsebot
+hello 无题
+
+18:50:28 eebot
+hi yo 无题
+
+18:50:28 ZhangBot
+热烈欢迎 无题 入场！
+
+18:50:28 ZhangBot
+该用户曾用名：HARDDDDDD；无题他爸；无题；
+
+18:50:31 Sakura
+？
+
+18:50:33 bihaitian
+az
+
+18:50:34 无题
+哈哈哈哈哈
+
+18:50:34 eebot
+哈哈哈哈哈草
+
+18:50:42 wine_CorpseEdge
+哈哈哈哈哈
+
+18:50:42 eebot
+哈哈哈哈哈草
+
+18:50:44 Sakura
+我是我自己爸？
+
+18:51:00 无题
+《他爸》
+
+18:51:19 wine_CorpseEdge
+他娘
+
+18:51:19 eebot
+e
+
+18:51:20 无题
+@Sakura 你先退出
+
+18:51:24 Sakura
+为什么
+
+18:51:26 Sakura
+QAQ
+
+18:51:29 无题
+一分钟后再来
+
+18:51:33 无题
+玩个好玩的
+
+18:51:34 Sakura
+好吧
+
+18:51:37 ZhangBot
+欢迎下次再来，Sakura ！
+
+18:51:39 ZhangBot
+欢迎下次再来，无题 ！
+
+18:51:42 bo_od
+( ﾟ∀。) hi~ 
+
+18:51:42 wine_Corpsebot
+hello Sakura
+
+18:51:42 eebot
+Sakura!
+
+18:51:42 ZhangBot
+热烈欢迎 Sakura 入场！
+
+18:51:42 ZhangBot
+该用户曾用名：HARDDDDDD；无题他爸；无题；Sakura；
+
+18:51:44 ZhangBot
+欢迎下次再来，Sakura ！
+
+18:51:46 bo_od
+( ﾟ∀。) hi~ 
+
+18:51:46 ZhangBot
+热烈欢迎 无题 入场！
+
+18:51:46 ZhangBot
+该用户曾用名：HARDDDDDD；无题他爸；无题；Sakura；
+
+18:51:46 wine_Corpsebot
+hi yo 无题
+
+18:51:46 eebot
+hi yo 无题
+
+18:52:26 无题
+嘿嘿嘿
+
+18:52:26 eebot
+嘿嘿嘿嘿
+
+18:52:41 ZhangBot
+欢迎下次再来，无题 ！
+
+18:52:49 wine_Corpsebot
+大帅比ee 你来辣
+
+18:52:49 bo_od
+( ﾟ∀。) hi~ 
+
+18:52:49 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+18:52:49 ZhangBot
+热烈欢迎 ee 入场！
+
+18:52:49 ZhangBot
+该用户曾用名：HARDDDDDD；无题他爸；无题；Sakura；ee；
+
+18:52:53 ZhangBot
+欢迎下次再来，ee ！
+
+18:53:14 bo_od
+( ﾟ∀。) hi~ 
+
+18:53:14 wine_Corpsebot
+hello 钓鱼的Ower
+
+18:53:14 eebot
+hello 钓鱼的Ower
+
+18:53:14 ZhangBot
+热烈欢迎 钓鱼的Ower 入场！
+
+18:53:14 ZhangBot
+该用户曾用名：HARDDDDDD；无题他爸；无题；Sakura；ee；钓鱼的Ower；
+
+18:53:25 bo_od
+( ﾟ∀。) hi~ 
+
+18:53:25 wine_Corpsebot
+Sakura!
+
+18:53:25 eebot
+hey yo Sakura
+
+18:53:25 ZhangBot
+热烈欢迎 Sakura 入场！
+
+18:53:25 ZhangBot
+该用户没有曾用名。
+
+18:53:31 钓鱼的Ower
+嘿嘿嘿
+
+18:53:32 eebot
+嘿嘿嘿嘿
+
+18:53:34 ZhangBot
+欢迎下次再来，钓鱼的Ower ！
+
+18:53:41 bo_od
+( ﾟ∀。) hi~ 
+
+18:53:41 wine_Corpsebot
+hello B站的l
+
+18:53:41 eebot
+hello B站的l
+
+18:53:42 ZhangBot
+热烈欢迎 B站的l 入场！
+
+18:53:42 ZhangBot
+该用户曾用名：HARDDDDDD；无题他爸；无题；Sakura；ee；钓鱼的Ower；B站的l；
+
+18:53:48 B站的l
+没事我皮一下
+
+18:53:57 ZhangBot
+欢迎下次再来，B站的l ！
+
+18:54:05 bo_od
+( ﾟ∀。) hi~ 
+
+18:54:05 wine_Corpsebot
+无题!
+
+18:54:05 eebot
+ $\Huge 有小鬼刷屏，骂人，色情，发无意义的消息过度，阴阳怪气，思想片面，道德绑架都可以叫我来处理$
+
+18:54:05 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+18:54:05 ZhangBot
+该用户曾用名：HARDDDDDD；无题他爸；无题；Sakura；ee；钓鱼的Ower；B站的l；
+
+18:54:13 无题
+hi
+
+18:54:21 无题
+等会
+
+18:54:21 金工街3号楼
+B站的l
+
+18:54:23 ZhangBot
+欢迎下次再来，金工街3号楼 ！
+
+18:54:28 bo_od
+( ﾟ∀。) hi~ 
+
+18:54:28 wine_Corpsebot
+hello 有题
+
+18:54:28 eebot
+hi 有题
+
+18:54:29 ZhangBot
+热烈欢迎 有题 入场！
+
+18:54:29 ZhangBot
+该用户曾用名：金工街3号楼；有题；
+
+18:54:32 无题
+哈哈哈哈哈
+
+18:54:32 eebot
+哈哈哈哈哈嗝-
+
+18:54:33 ZhangBot
+欢迎下次再来，有题 ！
+
+18:54:37 ZhangBot
+欢迎下次再来，无题 ！
+
+18:54:40 bo_od
+( ﾟ∀。) hi~ 
+
+18:54:40 wine_Corpsebot
+hello 乂乂
+
+18:54:40 eebot
+乂乂!
+
+18:54:40 ZhangBot
+热烈欢迎 乂乂 入场！
+
+18:54:40 ZhangBot
+该用户曾用名：金工街3号楼；有题；乂乂；
+
+18:54:49 bo_od
+( ﾟ∀。) hi~ 
+
+18:54:49 wine_Corpsebot
+hi 金工街3号楼
+
+18:54:49 eebot
+hey yo 金工街3号楼
+
+18:54:49 ZhangBot
+热烈欢迎 金工街3号楼 入场！
+
+18:54:49 ZhangBot
+该用户曾用名：HARDDDDDD；无题他爸；无题；Sakura；ee；钓鱼的Ower；B站的l；金工街3号楼；
+
+18:54:51 ZhangBot
+欢迎下次再来，金工街3号楼 ！
+
+18:54:54 wine_Corpsebot
+hi yo 无题
+
+18:54:54 eebot
+hey yo 无题
+
+18:54:54 bo_od
+( ﾟ∀。) hi~ 
+
+18:54:54 ZhangBot
+热烈欢迎 无题 入场！
+
+18:54:54 ZhangBot
+该用户曾用名：HARDDDDDD；无题他爸；无题；Sakura；ee；钓鱼的Ower；B站的l；金工街3号楼；
+
+18:54:54 ZhangBot
+欢迎下次再来，乂乂 ！
+
+18:55:03 bo_od
+( ﾟ∀。) hi~ 
+
+18:55:03 wine_Corpsebot
+嘎戛游戏!
+
+18:55:03 eebot
+hi 嘎戛游戏
+
+18:55:04 ZhangBot
+热烈欢迎 嘎戛游戏 入场！
+
+18:55:04 ZhangBot
+该用户曾用名：金工街3号楼；有题；乂乂；嘎戛游戏；
+
+18:55:07 无题
+好了好了
+
+18:55:08 ZhangBot
+欢迎下次再来，嘎戛游戏 ！
+
+18:55:14 无题
+别皮了
+
+18:55:14 wine_Corpsebot
+nb了
+
+18:55:15 bo_od
+( ﾟ∀。) hi~ 
+
+18:55:15 wine_Corpsebot
+B立占的J!
+
+18:55:15 eebot
+hey B立占的J
+
+18:55:16 ZhangBot
+热烈欢迎 B立占的J 入场！
+
+18:55:16 ZhangBot
+该用户曾用名：金工街3号楼；有题；乂乂；嘎戛游戏；B立占的J；
+
+18:55:16 无题
+可以了
+
+18:55:18 Sakura
+hi
+
+18:55:20 Sakura
+hhh
+
+18:55:27 无题
+# 停停停
+
+18:55:38 无题
+差不多就可以了
+
+18:55:42 ZhangBot
+欢迎下次再来，B立占的J ！
+
+18:55:51 bo_od
+( ﾟ∀。) hi~ 
+
+18:55:51 wine_Corpsebot
+金工街3号楼!
+
+18:55:51 eebot
+hi yo 金工街3号楼
+
+18:55:51 ZhangBot
+热烈欢迎 金工街3号楼 入场！
+
+18:55:51 ZhangBot
+该用户曾用名：金工街3号楼；有题；乂乂；嘎戛游戏；B立占的J；
+
+18:55:54 金工街3号楼
+tnnd
+
+18:55:57 金工街3号楼
+识别码错乱
+
+18:55:58 无题
+？
+
+18:55:59 ZhangBot
+欢迎下次再来，金工街3号楼 ！
+
+18:56:02 wine_Corpsebot
+hey yo 金工街3号楼
+
+18:56:02 bo_od
+( ﾟ∀。) hi~ 
+
+18:56:02 eebot
+hey yo 金工街3号楼
+
+18:56:03 ZhangBot
+热烈欢迎 金工街3号楼 入场！
+
+18:56:03 ZhangBot
+该用户曾用名：金工街3号楼；有题；乂乂；嘎戛游戏；B立占的J；
+
+18:56:03 ZhangBot
+欢迎下次再来，无题 ！
+
+18:56:05 金工街3号楼
+对了
+
+18:56:08 bo_od
+( ﾟ∀。) hi~ 
+
+18:56:08 wine_Corpsebot
+无题!
+
+18:56:08 eebot
+ $\Huge 有小鬼刷屏，骂人，色情，发无意义的消息过度，阴阳怪气，思想片面，道德绑架都可以叫我来处理$
+
+18:56:09 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+18:56:09 ZhangBot
+该用户曾用名：HARDDDDDD；无题他爸；无题；Sakura；ee；钓鱼的Ower；B站的l；金工街3号楼；
+
+18:56:12 无题
+我去
+
+18:56:20 无题
+这欢迎仪式吓人啊
+
+18:56:22 金工街3号楼
+金工街3号楼是吧
+
+18:56:26 eebot
+嗯啊
+
+18:56:36 金工街3号楼
+热烈欢迎管理员嘎戛游戏入场！
+
+18:56:43 无题
+嘿嘿嘿
+
+18:56:43 eebot
+嘿嘿嘿嘿
+
+18:56:51 无题
+好嘞，别瞎玩了啊
+
+18:56:57 金工街3号楼
+俺在
+
+18:58:04 无题
+对了
+
+18:58:13 无题
+Zhang什么时候来
+
+18:58:16 金工街3号楼
+BZD
+
+18:58:20 金工街3号楼
+xc
+
+18:58:41 金工街3号楼
+然而黑茶还是管理员 B站的J还没换成金工街3号楼
+
+18:58:49 bo_od
+( ﾟ∀。) hi~ 
+
+18:58:49 ZhangBot
+热烈欢迎 MRGAO 入场！
+
+18:58:49 ZhangBot
+该用户没有曾用名。
+
+18:58:49 wine_Corpsebot
+hello MRGAO
+
+18:58:49 eebot
+hello MRGAO
+
+18:59:06 金工街3号楼
+MRGAO(exe) 你好啊
+
+19:00:00 bo_od
+Sat May 14 19:00:00 2022
+
+19:00:00 ZhangBot
+叮咚！现在是北京时间 2022 年 05 月 14 日 11 时 00 分 00 秒！
+> 人生如棋，有进就有退，要学会善待自己，别去背负太多。在所有的经历里，把所有的是是非非、纷纷扰扰，通过人生这个字眼来淋漓尽致的演绎。然后，在所有的啼笑皆非里让我们思考人生，看透人生。
+
+[语音报时](http://api.botwl.cn/api/bsyy/11.mp3)
+
+19:00:02 bo_od
+![1652526001750945.png](https://mrpig.eu.org/1652526001750945.png)
+Sorry,未能查到图源信息
+
+19:00:22 ZhangBot
+欢迎下次再来，bihaitian ！
+
+19:00:29 金工街3号楼
+@ZhangBot 时差是吧
+
+19:00:32 ZhangBot
+嗯哈
+
+19:00:32 bo_od
+ZhangBot棒棒
+
+19:00:35 金工街3号楼
+az
+
+19:00:41 金工街3号楼
+机器人互相夸奖
+
+19:01:17 Sakura
+ha
+
+19:01:39 ZhangBot
+欢迎下次再来，MRGAO ！
+
+19:02:08 bo_od
+( ﾟ∀。) hi~ 
+
+19:02:08 wine_Corpsebot
+hello 黎又亦
+
+19:02:08 ZhangBot
+热烈欢迎 黎又亦 入场！
+
+19:02:08 ZhangBot
+该用户没有曾用名。
+
+19:02:08 eebot
+hi 黎又亦
+
+19:02:12 Sakura
+hi
+
+19:02:14 黎又亦
+hi
+
+19:02:18 Sakura
+hiiiii
+
+19:02:18 无题
+很
+
+19:02:21 无题
+hi
+
+19:02:24 wine_Corpsebot
+嗨嗨
+
+19:02:35 ZhangBot
+欢迎下次再来，黎又亦 ！
+
+19:02:41 Sakura
+走了hh
+
+19:02:48 bo_od
+( ﾟ∀。) hi~ 
+
+19:02:48 wine_Corpsebot
+hi MRsnowman
+
+19:02:48 eebot
+hello MRsnowman
+
+19:02:48 ZhangBot
+热烈欢迎 MRsnowman 入场！
+
+19:02:48 ZhangBot
+该用户曾用名：MRGAO；MRsnowman；
+
+19:02:59 ZhangBot
+欢迎下次再来，MRsnowman ！
+
+19:03:35 bo_od
+( ﾟ∀。) hi~ 
+
+19:03:35 wine_Corpsebot
+Mr_Zhang!
+
+19:03:35 eebot
+woc，这货怎么来了？
+
+19:03:36 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+19:03:36 ZhangBot
+该用户曾用名：Mr_Zhang；
+
+19:03:41 无题
+hi
+
+19:03:41 bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+19:03:48 bo_od
+( ﾟ∀。) hi~ 
+
+19:03:48 wine_Corpsebot
+hi yo 黎又亦
+
+19:03:48 eebot
+hi yo 黎又亦
+
+19:03:49 ZhangBot
+热烈欢迎 黎又亦 入场！
+
+19:03:49 ZhangBot
+该用户曾用名：黎又亦；
+
+19:03:52 Mr_Zhang
+Hi
+
+19:03:55 黎又亦
+hi
+
+19:04:13 Sakura
+hi
+
+19:04:16 黎又亦
+那个，MC服务器开着吗
+
+19:04:23 金工街3号楼
+不知道
+
+19:04:38 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+19:04:48 bo_od
+( ﾟ∀。) hi~ 
+
+19:04:48 wine_Corpsebot
+hi yo Mr_Zhang
+
+19:04:48 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+19:04:48 ZhangBot
+该用户曾用名：Mr_Zhang；
+
+19:04:48 eebot
+woc，这货怎么来了？
+
+19:04:49 黎又亦
+地址对少
+
+19:04:58 黎又亦
+地址多少
+
+19:04:58 eebot
+地址多少
+
+19:05:06 黎又亦
+MC服务器
+
+19:05:34 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+19:05:56 ZhangBot
+欢迎下次再来，黎又亦 ！
+
+19:06:02 bo_od
+( ﾟ∀。) hi~ 
+
+19:06:02 wine_Corpsebot
+R!
+
+19:06:02 eebot
+hi yo R
+
+19:06:02 ZhangBot
+热烈欢迎 R 入场！
+
+19:06:02 ZhangBot
+该用户曾用名：R；
+
+19:06:13 bo_od
+( ﾟ∀。) hi~ 
+
+19:06:13 ZhangBot
+热烈欢迎 MK 入场！
+
+19:06:13 ZhangBot
+该用户曾用名：MRGAO；MRsnowman；MK；
+
+19:06:13 wine_Corpsebot
+hello MK
+
+19:06:13 eebot
+hi MK
+
+19:06:16 ZhangBot
+欢迎下次再来，MK ！
+
+19:06:33 bo_od
+( ﾟ∀。) hi~ 
+
+19:06:33 wine_Corpsebot
+hey ZhangHelper
+
+19:06:33 eebot
+woc，这货怎么来了？
+
+19:06:33 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+19:06:33 ZhangBot
+该用户曾用名：Mr_Zhang；ZhangHelper；
+
+19:06:41 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+19:06:41 bo_od
+( ﾟ∀。) hi~ 
+
+19:06:41 ZhangBot
+该用户曾用名：Mr_Zhang；ZhangHelper；
+
+19:06:41 wine_Corpsebot
+hey yo Mr_Zhang
+
+19:06:41 eebot
+woc，这货怎么来了？
+
+19:07:10 Mr_Zhang
+^kick ZhangBot
+
+19:07:20 bo_od
+( ﾟ∀。) hi~ 
+
+19:07:20 ZhangBot
+热烈欢迎 黎又亦 入场！
+
+19:07:20 ZhangBot
+该用户曾用名：黎又亦；
+
+19:07:20 wine_Corpsebot
+黎又亦!
+
+19:07:20 eebot
+hi yo 黎又亦
+
+19:07:31 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+19:07:58 bo_od
+( ﾟ∀。) hi~ 
+
+19:07:58 wine_Corpsebot
+hi yo Mr_Zhang
+
+19:07:58 eebot
+woc，这货怎么来了？
+
+19:07:59 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+19:07:59 ZhangBot
+该用户曾用名：Mr_Zhang；ZhangHelper；
+
+19:08:08 ZhangBot
+欢迎下次再来，黎又亦 ！
+
+19:08:14 Mr_Zhang
+气死我了
+
+19:08:21 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+19:08:31 bo_od
+( ﾟ∀。) hi~ 
+
+19:08:31 wine_Corpsebot
+ZhangHelper!
+
+19:08:31 eebot
+woc，这货怎么来了？
+
+19:08:32 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+19:08:32 ZhangBot
+该用户曾用名：Mr_Zhang；ZhangHelper；
+
+19:08:37 bo_od
+( ﾟ∀。) hi~ 
+
+19:08:37 wine_Corpsebot
+hey yo Mr_Zhang
+
+19:08:37 ZhangBot
+$$\Huge\color{red}{热烈欢迎管理员哥哥入场！}$$
+
+19:08:37 ZhangBot
+该用户曾用名：Mr_Zhang；ZhangHelper；
+
+19:08:37 eebot
+woc，这货怎么来了？
+
+19:08:49 R
+@eebot mc
+
+19:08:50 eebot
+地址：39.105.127.10:25565 版本：JAVA 1.13.2
+
+19:08:58 Mr_Zhang
+^kick ZhangBot
+
+19:09:38 无题
+？
+
+19:10:07 Sakura
+ha
+
+19:10:20 bo_od
+( ﾟ∀。) hi~ 
+
+19:10:20 wine_Corpsebot
+hey yo 无题
+
+19:10:20 eebot
+ $\Huge 有小鬼刷屏，骂人，色情，发无意义的消息过度，阴阳怪气，思想片面，道德绑架都可以叫我来处理$
+
+19:10:38 Sakura
+hi
+
+19:10:42 bo_od
+( ﾟ∀。) hi~ 
+
+19:10:42 wine_Corpsebot
+Mr_Zhang!
+
+19:10:42 eebot
+woc，这货怎么来了？
+
+19:11:07 无题
+好了
+
+19:11:12 无题
+你们都在干哈
+
+19:12:01 Sakura
+逗猫
+
+19:12:02 Sakura
+ha
+
+19:12:55 bo_od
+( ﾟ∀。) hi~ 
+
+19:12:55 wine_Corpsebot
+hey yo Mr_Zhang
+
+19:12:55 eebot
+woc，这货怎么来了？
+
+19:15:23 bo_od
+( ﾟ∀。) hi~ 
+
+19:15:23 wine_Corpsebot
+hey yo Mr_Zhang
+
+19:15:23 eebot
+woc，这货怎么来了？
+
+19:16:59 Sakura
+r
+
+19:16:59 eebot
+506
+
+19:16:59 wine_Corpsebot
+158
+
+19:18:24 无题
+r
+
+19:18:24 eebot
+750
+
+19:18:24 wine_Corpsebot
+699
+
+19:18:35 bo_od
+( ﾟ∀。) hi~ 
+
+19:18:35 wine_Corpsebot
+hey yo Mr_Zhang
+
+19:18:35 eebot
+woc，这货怎么来了？
+
+19:19:21 无题
+晚上好
+
+19:21:19 Mr_Zhang
+Hi
+
+19:22:19 Sakura
+r
+
+19:22:19 eebot
+720
+
+19:22:19 wine_Corpsebot
+r
+
+19:22:20 eebot
+836
+
+19:22:20 wine_Corpsebot
+747
+
+19:22:20 wine_Corpsebot
+460
+
+19:22:25 Sakura
+额
+
+19:23:07 bo_od
+( ﾟ∀。) hi~ 
+
+19:23:07 eebot
+hi 4n0n4me
+
+19:23:14 Sakura
+hi
+
+19:25:48 Sakura
+r
+
+19:25:48 eebot
+539
+
+19:25:48 wine_Corpsebot
+762
+
+19:27:01 bo_od
+( ﾟ∀。) hi~ 
+
+19:27:01 wine_Corpsebot
+# 钓鱼的Qwer再骂人就不得好死
+
+19:27:01 eebot
+如果站长看到的话请给个管理员
+
+19:27:09 钓鱼的Qwer
+si
+
+19:27:19 钓鱼的Qwer
+这个东西怎么来了
+
+19:27:52 钓鱼的Qwer
+看一眼
+
+19:27:54 钓鱼的Qwer
+走了
+
+19:30:29 bo_od
+( ﾟ∀。) hi~ 
+
+19:30:29 wine_Corpsebot
+MuRongPIG!
+
+19:30:29 eebot
+hey yo MuRongPIG
+
+19:30:34 Sakura
+hi
+
+19:30:35 Sakura
+r
+
+19:30:36 eebot
+138
+
+19:30:36 wine_Corpsebot
+254
+
+19:30:49 MuRongPIG
+r
+
+19:30:49 eebot
+679
+
+19:30:49 wine_Corpsebot
+851
+
+19:31:27 MuRongPIG
+roll
+
+19:31:29 bo_od
+66
+
+19:31:29 eebot
+发的什么呀MuRongPIG 乱打的吧（
+
+19:31:44 MuRongPIG
+蛤
+
+19:32:06 Sakura
+r
+
+19:32:07 eebot
+209
+
+19:32:07 wine_Corpsebot
+160
+
+19:32:11 Sakura
+结算
+
+19:32:19 Sakura
+emm
+
+20:00:00 bo_od
+Sat May 14 20:00:00 2022
+
+20:00:04 bo_od
+![1652529602039136.png](https://mrpig.eu.org/1652529602039136.png)
+标题:None
+作者:None
+地址:https://twitter.com/i/web/status/835464501025656832
+相似度:95.78
+
+20:01:19 Sakura
+r
+
+20:01:20 eebot
+552
+
+20:01:20 wine_Corpsebot
+860
+
+20:01:22 Sakura
+r
+
+20:01:22 eebot
+231
+
+20:01:22 wine_Corpsebot
+330
+
+20:02:37 bo_od
+( ﾟ∀。) hi~ 
+
+20:02:37 wine_Corpsebot
+hey yo R
+
+20:02:37 eebot
+hi yo R
+
+20:02:50 Sakura
+hi
+
+20:04:03 Sakura
+r
+
+20:04:03 eebot
+465
+
+20:04:03 wine_Corpsebot
+517
+
+20:04:10 R
+r
+
+20:04:10 eebot
+76
+
+20:04:10 wine_Corpsebot
+749
+
+20:09:48 Sakura
+r
+
+20:09:48 eebot
+619
+
+20:09:48 wine_Corpsebot
+898
+
+20:09:51 Sakura
+wow
+
+20:09:58 Sakura
+好大的数
+
+20:10:17 R
+r
+
+20:10:17 eebot
+798
+
+20:10:18 wine_Corpsebot
+32
+
+20:10:36 Sakura
+32
+
+20:10:37 Sakura
+hhhh
+
+20:10:41 wine_Corpsebot
+话说bot还是比较聪明的（
+
+20:10:45 R
+h
+
+20:10:45 bo_od
+R最可爱了
+
+20:11:15 Sakura
+《R最可爱了》
+
+20:11:18 Sakura
+ha
+
+20:11:21 R
+haw
+
+20:15:08 bo_od
+( ﾟ∀。) hi~ 
+
+20:15:08 wine_Corpsebot
+hey yo Ghost_13
+
+20:15:08 eebot
+Ghost_13!
+
+20:15:13 R
+yo
+
+20:15:16 R
+noe
+
+20:15:31 Sakura
+r
+
+20:15:31 eebot
+237
+
+20:15:31 wine_Corpsebot
+547
+
+20:15:33 Sakura
+r
+
+20:15:34 eebot
+yo
+
+20:15:34 eebot
+108
+
+20:15:34 wine_Corpsebot
+648
+
+20:15:34 bo_od
+648
+
+20:15:42 bo_od
+( ﾟ∀。) hi~ 
+
+20:15:42 wine_Corpsebot
+hi yo Ghost_13
+
+20:15:42 eebot
+Ghost_13!
+
+20:15:43 R
+r
+
+20:15:44 eebot
+668
+
+20:15:44 wine_Corpsebot
+842
+
+20:15:48 R
+yo
+
+20:16:13 Ghost_13
+靠 谁把@wine_Corpsebot 放进来了
+
+20:16:23 bo_od
+( ﾟ∀。) hi~ 
+
+20:16:23 wine_Corpsebot
+hey yo MRGAO
+
+20:16:23 bo_od
+wine_Corpsebot最可爱了
+
+20:16:23 eebot
+hey yo MRGAO
+
+20:16:26 R
+yo
+
+20:16:29 MRGAO
+tnnd
+
+20:16:30 R
+MR
+
+20:16:32 Sakura
+r
+
+20:16:32 eebot
+549
+
+20:16:32 wine_Corpsebot
+539
+
+20:16:34 MRGAO
+谁！
+
+20:16:48 Sakura
+？
+
+20:16:50 MRGAO
+把鬼子引到好果汁店
+
+20:16:54 Sakura
+不知道
+
+20:16:58 MRGAO
+炸了！
+
+20:16:59 MRGAO
+草
+
+20:17:16 MRGAO
+我真的服了
+
+20:17:19 R
+我的机关也炸了
+
+20:17:21 R
+qwp
+
+20:17:22 wine_Corpsebot
+额
+
+20:17:31 MRGAO
+雪人都被杀了
+
+20:17:38 MRGAO
+谁TMD淦的？
+
+20:17:42 Ghost_13
+wtf
+
+20:17:45 MRGAO
+报上姓名
+
+20:17:50 MuRongPIG
+？
+
+20:17:53 MRGAO
+我可以让你少死3次
+
+20:18:02 MuRongPIG
+什么东西
+
+20:18:07 R
+mccccc
+
+20:18:26 Sakura
+ha
+
+20:18:31 MRGAO
+我神铲呢？
+
+20:18:37 R
+¿
+
+20:18:42 MRGAO
+用完了不还吗？
+
+20:18:59 bo_od
+( ﾟ∀。) hi~ 
+
+20:18:59 eebot
+hey yo 4n0n4me
+
+20:19:05 R
+yoy
+
+20:19:17 4n0n4me
+雪人
+
+20:19:24 4n0n4me
+被我点错杀了
+
+20:19:31 4n0n4me
+然后我挖了南瓜灯建了一个
+
+20:19:41 MRGAO
+天花板都被炸了
+
+20:19:42 4n0n4me
+但是我掉进去了
+
+20:19:45 MRGAO
+说明什么？
+
+20:19:52 MRGAO
+这根本就是人为！
+
+20:19:57 4n0n4me
+我就想用箭射死自己
+
+20:20:02 4n0n4me
+结果把雪人射死了
+
+20:20:02 MRGAO
+tnnd，没你好果汁吃！
+
+20:20:17 4n0n4me
+好果汁店不是我炸的
+
+20:20:40 R
+我倒是一箭射死自己（荆棘
+
+20:21:00 MRGAO
+我去修好果汁店去了
+
+20:21:08 R
+R在试图伤害R时被杀
+
+20:21:15 R
+hh
+
+20:21:16 MRGAO
+服了
+
+20:21:43 R
+我机关还修不了
+
+20:21:47 4n0n4me
+那个铲子，我放在某个比较远的地方了，但是我号在挪个地方
+
+20:21:53 4n0n4me
+那个地方
+
+20:21:56 wine_Corpsebot
+4n0n4me怎么这样对wine_Corpsebot了 4n0n4me变了（
+
+20:21:57 R
+粘性活塞被炸没了
+
+20:21:57 MRGAO
+水电梯也坏了
+
+20:21:57 4n0n4me
+马上给你带回去
+
+20:22:03 MRGAO
+等等
+
+20:22:07 MRGAO
+我有粘液球
+
+20:22:08 R
+QAQ
+
+20:22:10 R
+yo
+
+20:22:11 eebot
+yo
+
+20:22:14 R
+thannnks
+
+20:22:18 MRGAO
+不谢
+
+20:22:34 MRGAO
+那人至少有点良心
+
+20:22:43 MRGAO
+好歹龙蛋没偷
+
+20:22:51 4n0n4me
+这个爆炸
+
+20:22:55 4n0n4me
+应该和我没关系
+
+20:23:12 MuRongPIG
+我向你分享了：ubuntu-22.04-desktop-amd64.iso 链接：https://pan.mrpig.eu.org/s/A5so
+
+20:23:19 MuRongPIG
+各位没事测个速玩玩
+
+20:23:35 R
+aw
+
+20:26:12 无题
+我去！
+
+20:26:52 MuRongPIG
+？
+
+20:28:16 无题
+为什么XC活跃度这么低
+
+20:28:16 bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+20:28:39 Sakura
+蝴蝶效应
+
+20:28:43 Sakura
+maybe
+
+20:28:50 bo_od
+( ﾟ∀。) hi~ 
+
+20:28:50 wine_Corpsebot
+MuRongPIG!
+
+20:28:50 eebot
+hi yo MuRongPIG
+
+20:29:26 bo_od
+( ﾟ∀。) hi~ 
+
+20:29:26 wine_Corpsebot
+zhiting!
+
+20:29:26 eebot
+hello zhiting
+
+20:29:46 zhiting
+昨天怎么进不去啊
+
+20:29:58 MuRongPIG
+有人炸房
+
+20:31:09 wine_Corpsebot
+hi 666
+
+20:31:09 bo_od
+( ﾟ∀。) hi~ 
+
+20:31:09 eebot
+hi yo 666
+
+20:31:29 666
+可以设置成员的权限
+
+20:31:55 R
+a
+
+20:31:55 wine_Corpsebot
+a
+
+20:31:59 bo_od
+( ﾟ∀。) hi~ 
+
+20:31:59 wine_Corpsebot
+hey 6663
+
+20:31:59 eebot
+hi 6663
+
+20:32:10 6663
+今天我感觉也很卡、
+
+20:32:30 6663
+不是被打了
+
+20:32:51 6663
+吧
+
+20:33:17 6663
+不知道 自己创建的房间能不能设置权限 踢人什么的
+
+20:33:17 bo_od
+不知道 自己创建的房间能不能设置权限 踢人什么的
+
+20:33:25 6663
+有人吗，啊
+
+20:33:36 Sakura
+没
+
+20:33:39 Sakura
+r
+
+20:33:39 eebot
+889
+
+20:33:39 wine_Corpsebot
+810
+
+20:35:29 bo_od
+( ﾟ∀。) hi~ 
+
+20:35:29 wine_Corpsebot
+hey fish2
+
+20:35:29 eebot
+好家伙，你来干啥
+
+20:36:28 6663
+有使用教程吗、
+
+20:36:50 fish2
+各位好，今晚即将更新服务器，本次更新加入验证码功能
+
+20:37:10 6663
+666 能不能写个教程稳定
+
+20:37:15 6663
+文档 
+
+20:37:21 MuRongPIG
+@fish2 管理咳咳
+
+20:37:21 6663
+谢谢大佬无私奉献了
+
+20:37:35 无题
+？
+
+20:37:43 6663
+@fish2 代码会在gitee上吗
+
+20:37:48 MuRongPIG
+一直都在
+
+20:37:48 6663
+github怎么没有？
+
+20:37:58 MuRongPIG
+这得问站长
+
+20:38:06 6663
+怎么联系他？
+
+20:38:13 MuRongPIG
+@fish2 
+
+20:38:13 fish2
+我就在这儿
+
+20:38:26 MuRongPIG
+站长上不了githun
+
+20:38:29 MuRongPIG
+Github
+
+20:38:37 fish2
+因为地区限制，github在我这儿不能访问
+
+20:38:39 bo_od
+( ﾟ∀。) hi~ 
+
+20:38:39 wine_Corpsebot
+Mr_Zhang!
+
+20:38:39 eebot
+woc，这货怎么来了？
+
+20:39:25 6663
+@fish2  那就gitee 不过优秀的项目都会放在GitHub
+
+20:39:39 fish2
+@6663 哈哈哈后面迁移一下
+
+20:40:03 MuRongPIG
+gitee相比Github就是一坨屎
+
+20:40:19 fish2
+这个话好眼熟
+
+20:40:30 MRGAO
+awwwwww
+
+20:40:34 MRGAO
+我的好果汁店！
+
+20:40:38 Mr_Zhang
+日常检查机器人
+
+20:40:41 MRGAO
+重金收入酿造台
+
+20:40:47 Mr_Zhang
+@ZhangBot
+
+20:40:50 Mr_Zhang
+啊
+
+20:40:55 Mr_Zhang
+我忘了
+
+20:41:03 MRGAO
+10颗绿宝石一台
+
+20:41:03 Mr_Zhang
+我没开
+
+20:41:07 wine_Corpsebot
+想通却又再考倒wine_Corpsebot（）
+
+20:41:10 6663
+@MuRongPIG 哈哈 说实话日子难过
+
+20:41:22 MRGAO
+店被砸了
+
+20:41:30 MRGAO
+玻璃没了一堆
+
+20:41:31 MuRongPIG
+@6663 啥意思
+
+20:41:35 MRGAO
+地板全没
+
+20:41:46 MRGAO
+天花板都被卸下几块
+
+20:41:48 bo_od
+( ﾟ∀。) hi~ 
+
+20:41:48 wine_Corpsebot
+黎又亦!
+
+20:41:48 eebot
+黎又亦!
+
+20:41:53 MRGAO
+酿造台全没
+
+20:42:16 黎又亦
+咋回事
+
+20:42:25 6663
+有些情况不能说实话 总说实话日子不好过
+
+20:42:31 黎又亦
+？
+
+20:42:31 eebot
+重金收入酿造台
+
+20:42:38 Mr_Zhang
+我宣布
+
+20:42:42 MRGAO
+有人可能是把苦力怕引到这
+
+20:42:47 MRGAO
+或者自己干
+
+20:42:47 Mr_Zhang
+Zhang系列Bot
+
+20:42:53 黎又亦
+？
+
+20:43:10 Mr_Zhang
+统统托管于我的树莓派
+
+20:43:18 bo_od
+黎又亦 已退出视频
+
+20:43:46 黎又亦
+重金收入酿造台是什么鬼
+
+20:44:10 黎又亦
+下了
+
+20:44:17 MRGAO
+fwq
+
+20:44:19 MRGAO
+服务器
+
+20:51:35 bo_od
+( ﾟ∀。) hi~ 
+
+20:51:35 wine_Corpsebot
+hey 鱼
+
+20:51:35 eebot
+好家伙，你来干啥
+
+20:54:36 bo_od
+( ﾟ∀。) hi~ 
+
+20:54:36 wine_Corpsebot
+hey yo 鱼
+
+20:54:36 eebot
+好家伙，你来干啥
+
+20:57:53 bo_od
+( ﾟ∀。) hi~ 
+
+20:57:53 wine_Corpsebot
+hi yo 鱼
+
+20:57:53 eebot
+好家伙，你来干啥
+
+21:00:00 bo_od
+Sat May 14 21:00:00 2022
+
+21:00:02 bo_od
+![1652533201327566.png](https://mrpig.eu.org/1652533201327566.png)
+Sorry,未能查到图源信息
+
+21:01:09 bo_od
+( ﾟ∀。) hi~ 
+
+21:01:09 wine_Corpsebot
+hey yo 鱼
+
+21:01:09 eebot
+好家伙，你来干啥
+
+21:01:10 bo_od
+( ﾟ∀。) hi~ 
+
+21:01:10 wine_Corpsebot
+鱼!
+
+21:01:10 eebot
+好家伙，你来干啥
+
+21:05:07 Sakura
+r
+
+21:05:07 eebot
+887
+
+21:05:07 wine_Corpsebot
+995
+
+21:05:55 无题
+朋友们注意
+
+21:06:28 无题
+HC有一个叫xx的人，和我之前重名，如果来XC了，请注意不是我
+
+21:08:14 Sakura
+xx?
+
+21:08:27 Sakura
+刚才lounge来了个xx
+
+21:08:30 Sakura
+ha
+
+21:08:34 MRGAO
+我需要雪块
+
+21:09:53 bo_od
+( ﾟ∀。) hi~ 
+
+21:09:53 wine_Corpsebot
+hey yo Mr_Zhang
+
+21:09:53 eebot
+woc，这货怎么来了？
+
+21:10:50 bo_od
+( ﾟ∀。) hi~ 
+
+21:10:50 wine_Corpsebot
+hey yo Mr_Zhang
+
+21:10:50 eebot
+woc，这货怎么来了？
+
+21:11:36 bo_od
+( ﾟ∀。) hi~ 
+
+21:11:36 wine_Corpsebot
+hi yo 金工街3号楼
+
+21:11:36 eebot
+hey yo 金工街3号楼
+
+21:11:43 bo_od
+( ﾟ∀。) hi~ 
+
+21:11:43 wine_Corpsebot
+hello kill我啊
+
+21:11:43 eebot
+hey kill我啊
+
+21:11:56 Sakura
+ha
+
+21:11:58 kill我啊
+这是Mr_Zhang的测试号
+
+21:11:59 金工街3号楼
+az
+
+21:12:01 kill我啊
+这是Mr_Zhang的测试号
+
+21:12:05 Sakura
+r
+
+21:12:06 eebot
+30
+
+21:12:06 wine_Corpsebot
+694
+
+21:12:07 金工街3号楼
+⊙ω⊙
+
+21:12:08 wine_Corpsebot
+啊
+
+21:12:42 ZhangHelper
+设置加载成功！
+
+21:12:42 bo_od
+( ﾟ∀。) hi~ 
+
+21:12:42 wine_Corpsebot
+hi yo ZhangHelper
+
+21:12:42 eebot
+woc，这货怎么来了？
+
+21:12:55 bo_od
+( ﾟ∀。) hi~ 
+
+21:12:55 wine_Corpsebot
+hey yo ZhangHelper
+
+21:12:55 eebot
+woc，这货怎么来了？
+
+21:13:02 金工街3号楼
+各位
+
+21:13:08 金工街3号楼
+本人5.17复课
+
+21:13:12 kill我啊
+好啊
+
+21:13:16 kill我啊
+线下好
+
+21:13:28 Mr_Zhang
+^kill @kill我啊 
+
+21:13:39 Mr_Zhang
+^kill kill我啊
+
+21:13:43 kill我啊
+？
+
+21:13:45 kill我啊
+不行啊
+
+21:13:46 金工街3号楼
+我以后在线频率会大大降低
+
+21:13:47 金工街3号楼
+xc
+
+21:14:36 金工街3号楼
+( ﾟ∀。)
+
+21:14:39 eebot
+虽然eebot很聪明 但也不可能全部都懂哦（
+
+21:15:07 kill我啊
+a
+
+21:15:31 bo_od
+( ﾟ∀。) hi~ 
+
+21:15:31 wine_Corpsebot
+hey yo 金工街3号楼
+
+21:15:31 eebot
+hi yo 金工街3号楼
+
+21:15:43 金工街3号楼
+我号可能会掉
+
+21:18:35 Mr_Zhang
+随时走
+
+21:18:45 bo_od
+( ﾟ∀。) hi~ 
+
+21:18:45 wine_Corpsebot
+hey yo 金工街3号楼
+
+21:18:45 eebot
+hey yo 金工街3号楼
+
+21:18:49 Mr_Zhang
+^hash eebot
+
+21:18:52 Mr_Zhang
+？？？
+
+21:18:55 Mr_Zhang
+`help
+
+21:19:02 金工街3号楼
+掉掉乐属于是
+
+21:19:08 金工街3号楼
+^help
+
+21:19:23 金工街3号楼
+ZMH不在
+
+21:19:42 金工街3号楼
+`help
+
+21:19:45 金工街3号楼
+不行
+
+21:21:22 金工街3号楼
+没人
+
+21:21:22 bo_od
+没人
+
+21:21:25 金工街3号楼
+我走了
+
+21:22:34 Sakura
+r
+
+21:22:34 eebot
+751
+
+21:22:34 wine_Corpsebot
+98
+
+21:26:33 bo_od
+( ﾟ∀。) hi~ 
+
+21:26:33 wine_Corpsebot
+hi yo Ghost_13
+
+21:26:33 eebot
+hey yo Ghost_13
+
+21:26:37 bo_od
+( ﾟ∀。) hi~ 
+
+21:26:37 wine_Corpsebot
+hi yo MuRongPIG
+
+21:26:37 eebot
+MuRongPIG!
+
+21:31:28 bo_od
+( ﾟ∀。) hi~ 
+
+21:31:28 wine_Corpsebot
+MuRongPIG!
+
+21:31:28 eebot
+hi yo MuRongPIG
+
+21:31:48 MuRongPIG
+憋不住了
+
+21:31:57 MuRongPIG
+有人盗小张的号
+
+21:32:01 MuRongPIG
+在十字街
+
+21:47:39 bo_od
+( ﾟ∀。) hi~ 
+
+21:47:39 wine_Corpsebot
+hi yo MuRongPIG
+
+21:47:39 eebot
+hi yo MuRongPIG
+
+21:48:36 bo_od
+( ﾟ∀。) hi~ 
+
+21:48:36 wine_Corpsebot
+hi yo 金工街3号楼
+
+21:48:36 eebot
+hey yo 金工街3号楼
+
+21:48:52 金工街3号楼
+十字街514混战（十字街内战）
+
+21:49:22 bo_od
+( ﾟ∀。) hi~ 
+
+21:49:22 wine_Corpsebot
+hey yo Ghost_13
+
+21:49:22 eebot
+hey yo Ghost_13
+
+21:54:45 MuRongPIG
+@金工街3号楼 非内战
+
+21:57:27 bo_od
+( ﾟ∀。) hi~ 
+
+21:57:27 wine_Corpsebot
+hi yo Mr_Zhang
+
+21:57:27 eebot
+woc，这货怎么来了？
+
+22:00:00 bo_od
+Sat May 14 22:00:00 2022
+
+22:00:06 bo_od
+Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://mrpig.eu.org/traceback/1652536806036955.log)
+
+22:02:40 无题
+hi！！！
+
+22:06:06 wine_Corpsebot
+hi yo Ghost_13
+
+22:06:06 eebot
+Ghost_13!
+
+22:11:55 ZhangHelper
+设置加载成功！
+
+22:11:55 wine_Corpsebot
+ZhangHelper!
+
+22:11:55 eebot
+woc，这货怎么来了？
+
+22:11:59 wine_Corpsebot
+不是每种牛奶都叫苏特仑 不是每个人都像wine_Corpsebot那么纯
+
+22:12:07 Mr_Zhang
+^hash eebot
+
+22:12:07 ZhangHelper
+用户 eebot 的 hash 为：jgVl7tXhLYcV8UM
+
+22:13:37 Mr_Zhang
+~old jgVl7tXhLYcV8UM
+
+22:13:42 Mr_Zhang
+^old jgVl7tXhLYcV8UM
+
+22:13:42 ZhangHelper
+该 hash 曾用名：['eebot']
+
+22:14:21 Mr_Zhang
+^hash 4n0n4me
+
+22:14:21 ZhangHelper
+用户 4n0n4me 的 hash 为：+X7GIWmz4at7OM4
+
+22:14:32 Mr_Zhang
+^old +X7GIWmz4at7OM4
+
+22:14:32 ZhangHelper
+该 hash 曾用名：['4n0n4me']
+
+22:25:01 wine_Corpsebot
+hi yo Ghost_13
+
+22:25:01 eebot
+Ghost_13!
+
+22:25:12 Ghost_13
+？
+
+22:25:15 wine_Corpsebot
+hi yo Ghost_13
+
+22:25:15 eebot
+hi yo Ghost_13
+
+22:25:17 Ghost_13
+？
+
+22:25:18 Ghost_13
+？
+
+22:25:19 Ghost_13
+？
+
+22:37:57 wine_Corpsebot
+hi zzChumo
+
+22:37:57 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+22:43:41 eebot
+hi yo 4n0n4me
+
+22:47:22 wine_Corpsebot
+hey yo R
+
+22:47:22 eebot
+hi yo R
+
+23:00:00 bo_od
+Sat May 14 23:00:00 2022
+
+23:00:08 bo_od
+![1652540406717993.png](https://mrpig.eu.org/1652540406717993.png)
+Sorry,未能查到图源信息
+
+23:00:20 无题
+我去！！！
+
+23:00:21 eebot
+我去！！！
+
+23:00:29 wine_Corpsebot
+hey yo fish2
+
+23:00:29 eebot
+好家伙，你来干啥
+
+23:00:55 无题
+hi
+
+23:01:00 fish2
+hi yoooo
+
+23:01:00 eebot
+hey fish2
+
+23:01:01 无题
+已经11点了
+
+23:01:12 fish2
+确实
+
+23:01:19 无题
+>Admin fish2：
+>hi yoooo
+
+@fish2 你发张图片呗
+
+23:01:26 fish2
+图片？
+
+23:01:36 无题
+是的
+
+23:01:43 fish2
+什么图片
+
+23:01:49 无题
+随便大一点的
+
+23:02:21 fish2
+稍等
+
+23:02:25 无题
+好的
+
+23:04:08 无题
+啊
+
+23:04:14 无题
+咱快点呗
+
+23:04:35 fish2
+https://s1.ax1x.com/2022/05/14/Oczo5t.jpg
+
+23:04:43 bo_od
+Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://mrpig.eu.org/traceback/1652540677199583.log)
+
+23:04:43 fish2
+然后呢
+
+23:04:43 eebot
+·
+@fish2 AX1X节点-imgtu
+https://s1.ax1x.com/2022/05/14/Oczo5t.jpg
+
+23:04:44 wine_Corpsebot
+·
+AX1X节点-imgtu
+https://s1.ax1x.com/2022/05/14/Oczo5t.jpg
+
+23:05:02 无题
+然后我发现
+
+23:05:26 无题
+XC不能查ip
+
+23:05:34 无题
+用我的方法不可以
+
+23:05:56 wine_Corpsebot
+hi yo Mr_Zhang
+
+23:05:56 eebot
+woc，这货怎么来了？
+
+23:06:08 无题
+hi
+
+23:06:20 Mr_Zhang
+hi
+
+23:06:20 wine_Corpsebot
+hi yo Mr_Zhang
+
+23:06:20 wine_Corpsebot
+hi
+
+23:06:22 fish2
+hiyo
+
+23:06:24 Mr_Zhang
+十字街也太。。。
+
+23:06:30 Mr_Zhang
+管理员们太不负责了
+
+23:06:34 Mr_Zhang
+今晚
+
+23:06:38 Mr_Zhang
+有个盗号的
+
+23:06:42 Mr_Zhang
+盗了我的号
+
+23:06:43 无题
+？
+
+23:06:45 无题
+我去
+
+23:06:50 Mr_Zhang
+在十字街
+
+23:06:52 无题
+这么勇？
+
+23:06:54 Mr_Zhang
+对啊
+
+23:06:58 Mr_Zhang
+你不知道吗？？？
+
+23:07:02 无题
+他岂不是没了
+
+23:07:04 Mr_Zhang
+你当时在场啊
+
+23:07:07 Mr_Zhang
+@无题 
+
+23:07:20 Mr_Zhang
+那里的ZhangProtector也报警了
+
+23:07:23 Mr_Zhang
+但是
+
+23:07:24 无题
+没有吧
+
+23:07:28 Mr_Zhang
+啊？
+
+23:07:31 无题
+我就知道LSY没了
+
+23:07:36 Mr_Zhang
+你当时还和我说话呢
+
+23:07:45 无题
+啊我不是很觉得
+
+23:07:49 无题
+记得
+
+23:08:03 Mr_Zhang
+我最后还给你添加到了ZhangProtector里面
+
+23:08:15 无题
+哦哦哦
+
+23:08:15 eebot
+哦哦哦哦
+
+23:08:19 无题
+想起来了
+
+23:08:22 Mr_Zhang
+LSY是李溯源吗？
+
+23:08:27 wine_Corpsebot
+hey yo zzChumo
+
+23:08:27 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+23:08:36 无题
+@Mr_Zhang 是的
+
+23:08:40 Mr_Zhang
+哦
+
+23:08:45 Mr_Zhang
+继续
+
+23:08:53 无题
+欸
+
+23:09:02 Mr_Zhang
+任凭冒充我的那位煞笔乱骂人
+
+23:09:13 无题
+呃
+
+23:09:13 bo_od
+无题最可爱了
+
+23:09:17 Mr_Zhang
+管理员们连踢都不踢
+
+23:09:24 Mr_Zhang
+连个态度都没有
+
+23:09:25 无题
+这过分了
+
+23:09:25 eebot
+hi yoooo
+
+23:09:28 Mr_Zhang
+对
+
+23:09:45 无题
+？
+
+23:09:49 Mr_Zhang
+还说ban不过来
+
+23:09:50 无题
+哦我还健在
+
+23:09:58 fish2
+对了各位，明天开始这里普通用户进入都需要输入验证码了
+
+23:10:00 Mr_Zhang
+主要是ban了嘛？
+
+23:10:13 wine_Corpsebot
+无题!
+
+23:10:13 eebot
+ $\Huge 有小鬼刷屏，骂人，色情，发无意义的消息过度，阴阳怪气，思想片面，道德绑架都可以叫我来处理$
+
+23:10:16 Mr_Zhang
+>Admin fish2：
+>对了各位，明天开始这里普通用户进入都需要输入验证码了
+
+@fish2 Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+23:10:22 无题
+好的
+
+23:10:29 fish2
+机器人可以由管理员配置token来绕过验证码
+
+23:10:32 无题
+我F12打不开了怎么办
+
+23:10:40 fish2
+em。。。
+
+23:11:06 fish2
+可以用ZhangModHelper
+
+23:11:23 wine_Corpsebot
+hey yo ZhangHelper
+
+23:11:23 eebot
+woc，这货怎么来了？
+
+23:11:30 Mr_Zhang
+对了
+
+23:11:31 无题
+呃
+
+23:11:45 无题
+就F12用不了
+
+23:11:46 Mr_Zhang
+以后别用`触发ZhangModHelper了
+
+23:11:49 Mr_Zhang
+以后别用`触发ZhangModHelper了
+
+23:11:51 无题
+好的
+
+23:11:54 Mr_Zhang
+用这个：^
+
+23:11:57 无题
+好的
+
+23:12:07 无题
+怎么打？
+
+23:12:07 无题
+呵呵呵
+
+23:12:07 eebot
+呵呵呵呵
+
+23:12:09 Mr_Zhang
+help命令暂时用不了
+
+23:12:14 无题
+好的
+
+23:12:25 zzChumo
+呵呵呵呵呵
+
+23:12:25 eebot
+呵呵呵呵呵呵
+
+23:12:32 Mr_Zhang
+这次是个大版本更新
+
+23:12:32 wine_Corpsebot
+好的
+
+23:12:40 Mr_Zhang
+细节还没来得及写
+
+23:12:46 Mr_Zhang
+^fire
+
+23:12:46 ZhangHelper
+你好像不是管理员助手啊。
+
+23:12:55 无题
+啊
+
+23:12:57 Mr_Zhang
+^add aaa
+
+23:12:57 ZhangHelper
+识别码为 aaa 的用户已成为了管理员助手。
+
+23:13:04 Mr_Zhang
+^del aaa
+
+23:13:04 ZhangHelper
+识别码为 aaa 的用户已不是管理员助手。
+
+23:13:08 Mr_Zhang
+看
+
+23:13:10 无题
+哦哦
+
+23:13:12 Mr_Zhang
+协管功能
+
+23:13:14 fish2
+ohhhhhhhh
+
+23:13:14 eebot
+那就补全功能呗）
+
+23:13:27 wine_Corpsebot
+hello zzzChumo
+
+23:13:27 fish2
+@Mr_Zhang 话说你的树莓派上的指示灯关了吗？
+
+23:13:27 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+23:13:31 Mr_Zhang
+还有
+
+23:13:37 Mr_Zhang
+>Admin fish2：
+>@Mr_Zhang 话说你的树莓派上的指示灯关了吗？
+
+@fish2 啊？怎么关啊
+
+23:13:41 eebot
+hi 4n0n4me
+
+23:13:42 Mr_Zhang
+还有
+
+23:13:47 Mr_Zhang
+^hash fish2
+
+23:13:47 ZhangHelper
+用户 fish2 的 hash 为：pNwXilekhyk2ei0
+
+23:13:57 Mr_Zhang
+^old pNwXilekhyk2ei0
+
+23:13:57 ZhangHelper
+该 hash 曾用名：['fish2']
+
+23:14:01 fish2
+ohhhhhhhhhhhh这个怎么查出来的
+
+23:14:08 Mr_Zhang
+hash档案
+
+23:14:09 zzzChumo
+。。。
+
+23:14:16 fish2
+https://blog.csdn.net/m0_50601931/article/details/115251813
+
+23:14:17 bo_od
+Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://mrpig.eu.org/traceback/1652541257243787.log)
+
+23:14:17 eebot
+·
+@fish2 CSDN博客-专业IT技术发表平台
+https://blog.csdn.net/m0_50601931/article/details/115251813
+
+23:14:17 wine_Corpsebot
+·
+CSDN博客-专业IT技术发表平台
+https://blog.csdn.net/m0_50601931/article/details/115251813
+
+23:14:24 fish2
+这个可以关闭树莓派指示灯
+
+23:14:34 fish2
+可惜我的tinker board不适用啊啊啊
+
+23:14:36 Mr_Zhang
+哦！让我看看~
+
+23:14:41 Mr_Zhang
+啊啊啊啊啊啊
+
+23:14:45 fish2
+那3个灯一直在闪我看的好气
+
+23:15:06 Mr_Zhang
+我这里是2个灯
+
+23:15:13 Mr_Zhang
+一红一绿
+
+23:15:24 fish2
+我那个绿的基本不亮
+
+23:15:48 Mr_Zhang
+额
+
+23:15:50 fish2
+1核有难5核围观
+
+23:15:56 fish2
+好家伙
+
+23:16:00 Mr_Zhang
+我这里有时候会亮
+
+23:16:08 Mr_Zhang
+现在是
+
+23:16:17 Mr_Zhang
+红的一直闪
+
+23:16:20 zzzChumo
+@fish2 晓龙410用户表示深有感触
+
+23:16:28 Mr_Zhang
+绿的偶尔闪一下
+
+23:16:45 Mr_Zhang
+^hash 无题
+
+23:16:45 ZhangHelper
+抱歉，找不到该用户。
+
+23:16:48 wine_Corpsebot
+本次
+
+23:16:54 wine_Corpsebot
+hey yo 无题
+
+23:16:54 eebot
+无题!
+
+23:16:54 zzzChumo
+一核有难三核吃瓜
+
+23:16:55 Mr_Zhang
+^hash @wine_Corpsebot 
+
+23:16:55 ZhangHelper
+用户 @wine_Corpsebot 的 hash 为：66TCR/EJlGisn6d
+
+23:17:04 Mr_Zhang
+^hash 无题
+
+23:17:05 ZhangHelper
+用户 无题 的 hash 为：jbPIpB7biIbEI3r
+
+23:17:11 zzzChumo
+结果最后直接卡重启
+
+23:17:12 无题
+我这啥
+
+23:17:12 eebot
+我这啥
+
+23:17:19 Mr_Zhang
+^old 66TCR/EJlGisn6d
+
+23:17:19 ZhangHelper
+该 hash 曾用名：['wine_Corpsebot']
+
+23:17:26 Mr_Zhang
+^old jbPIpB7biIbEI3r
+
+23:17:26 ZhangHelper
+该 hash 曾用名：['无题']
+
+23:17:32 Mr_Zhang
+hash
+
+23:17:32 bo_od
+Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://mrpig.eu.org/traceback/1652541452533796.log)
+
+23:17:45 Mr_Zhang
+不错
+
+23:17:55 wine_Corpsebot
+hey 小号Zhang
+
+23:17:55 eebot
+小号Zhang!
+
+23:18:04 Mr_Zhang
+^hash Mr_Zhang
+
+23:18:04 ZhangHelper
+用户 Mr_Zhang 的 hash 为：ns5CLZd8hcQKk+0
+
+23:18:13 Mr_Zhang
+^old ns5CLZd8hcQKk+0
+
+23:18:13 ZhangHelper
+该 hash 曾用名：['Mr_Zhang', 'ZhangHelper', '小号Zhang']
+
+23:18:17 Mr_Zhang
+好
+
+23:18:20 Mr_Zhang
+不错
+
+23:18:28 Mr_Zhang
+连Helper都算上了
+
+23:18:45 Mr_Zhang
+再试试管理
+
+23:18:49 wine_Corpsebot
+小号Zhang!
+
+23:18:49 eebot
+hi yo 小号Zhang
+
+23:18:59 Mr_Zhang
+^kick 小号Zhang
+
+23:19:06 wine_Corpsebot
+hi yo 小号Zhang
+
+23:19:06 eebot
+hi yo 小号Zhang
+
+23:19:16 Mr_Zhang
+不错
+
+23:19:31 wine_Corpsebot
+U!
+
+23:19:31 eebot
+hi U
+
+23:19:37 Mr_Zhang
+^hash U
+
+23:19:37 ZhangHelper
+用户 U 的 hash 为：jbPIpB7biIbEI3r
+
+23:19:45 Mr_Zhang
+^old jbPIpB7biIbEI3r
+
+23:19:45 ZhangHelper
+该 hash 曾用名：['无题', 'U']
+
+23:19:48 Mr_Zhang
+嗯
+
+23:19:50 Mr_Zhang
+同一个人
+
+23:19:54 Mr_Zhang
+这下
+
+23:20:01 Mr_Zhang
+某些人就逃不掉了
+
+23:20:41 Mr_Zhang
+先走一段时间了
+
+23:22:27 wine_Corpsebot
+hey yo zzzChumo
+
+23:22:27 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+23:24:04 U
+ok
+
+23:26:37 U
+what
+
+23:26:48 wine_Corpsebot
+hi yo U
+
+23:26:48 eebot
+hey yo U
+
+23:27:05 U
+@fish2
+
+23:28:41 wine_Corpsebot
+U!
+
+23:28:41 eebot
+U!
+
+23:29:07 U
+吓死
+
+23:31:14 无题
+呃
+
+23:32:37 U
+什么鬼
+
+23:34:08 U
+有
+
+23:34:09 wine_Corpsebot
+有
+
+23:34:15 U
+算了算了
+
+23:34:17 U
+走了
+
+23:41:39 wine_Corpsebot
+hi yo Mr_Zhang
+
+23:41:39 eebot
+woc，这货怎么来了？
+
+23:42:09 Mr_Zhang
+刚才走得太匆忙了
+
+23:42:41 Mr_Zhang
+@fish2 请问我的机器人令牌是？
+
+23:42:50 Mr_Zhang
+对了
+
+23:43:27 Mr_Zhang
+顺便再加上机器人可以被kick吧
+
+23:43:39 Mr_Zhang
+加油
+
+23:44:46 Mr_Zhang
+^hash Mr_Zhang
+
+23:44:46 ZhangHelper
+用户 Mr_Zhang 的 hash 为：ns5CLZd8hcQKk+0
+
+23:44:53 Mr_Zhang
+好
+
+23:45:00 Mr_Zhang
+正常
+
+23:46:23 wine_Corpsebot
+hey yo R
+
+23:46:23 eebot
+R!
+
+23:46:33 wine_Corpsebot
+R!
+
+23:46:33 eebot
+R!
+
+23:46:34 Mr_Zhang
+^hash R
+
+23:46:35 ZhangHelper
+用户 R 的 hash 为：OxNOUvraSaLgeyh
+
+23:46:43 R
+yo
+
+23:46:49 Mr_Zhang
+^old OxNOUvraSaLgeyh
+
+23:46:49 ZhangHelper
+该 hash 曾用名：['R']
+
+23:46:55 Mr_Zhang
+嗯
+
+23:47:07 Mr_Zhang
+hi yoooooooo
+
+23:47:09 Mr_Zhang
+R
+
+23:47:20 R
+hiyo
+
+23:47:28 R
+u know me
+
+23:47:46 Mr_Zhang
+@R Where are you from ?
+
+23:48:01 Mr_Zhang
+你来自哪里？
+
+23:48:23 R
+h
+
+23:48:37 Mr_Zhang
+If you are Chinese ,please speak Chinese.
+
+23:48:54 Mr_Zhang
+如果你是中国人，请说中文
+
+23:49:20 Mr_Zhang
+@R 你看上去很可疑
+
+23:49:26 R
+双 语 对 照
+
+23:49:29 R
+maybe
+
+23:49:33 R
+good night
+
+23:49:36 R
+bye
+
+23:49:41 Mr_Zhang
+@R 说中文
+
+23:50:01 Mr_Zhang
+咱们都是中国人
+
+23:50:03 Mr_Zhang
+额
+
+23:50:14 Mr_Zhang
+R whispered: awa
+
+23:50:37 Mr_Zhang
+好像有点眼熟
+
+23:51:24 wine_Corpsebot
+hi yo fish2
+
+23:51:24 eebot
+好家伙，你来干啥
+
+23:51:36 fish2
+现在基本上没人了对吗
+
+23:51:42 fish2
+我准备重启服务器了
+
+23:51:50 Mr_Zhang
+@fish2 等一下
+
+23:52:05 fish2
+好
+
+23:52:05 Mr_Zhang
+请问我的机器人令牌是？
+
+23:52:14 fish2
+稍后重启之后设置
+
+23:52:18 Mr_Zhang
+好
+
+23:52:27 Mr_Zhang
+要不要用reload
+
+23:52:27 eebot
+吓死
+
+23:52:37 wine_Corpsebot
+hi yo Ghost_13
+
+23:52:37 eebot
+hi yo Ghost_13
+
+23:52:50 Mr_Zhang
+要重启服务器啦
+
+23:52:51 wine_Corpsebot
+hey Ghost13
+
+23:52:51 eebot
+Ghost13!
+
+23:53:06 fish2
+我准备重启服务器了 @Ghost_13
+
+23:53:13 Mr_Zhang
+@fish2 记得备份数据
+
+23:53:18 Mr_Zhang
+尤其是设置
+

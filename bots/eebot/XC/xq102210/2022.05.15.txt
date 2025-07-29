@@ -1,0 +1,12705 @@
+00:07:56 fish2
+功能
+
+00:08:34 eeee
+断网的整个下午
+
+00:08:50 eeee
+~~我把eb整个框架重写了一遍~~
+
+00:09:03 eeee
+功能
+
+00:09:05 fish2
+>ci8FBC eeee：
+>~~我把eb整个框架重写了一遍~~
+
+@eeee 好家伙
+
+00:09:21 fish2
+奇怪，感觉应该是被拦截了
+
+00:09:39 eeee
+>Admin fish2：
+>>ci8FBC eeee：
+>>~~我把eb整个框架重写了一遍~~
+>
+>@eeee 好家伙
+
+@fish2 之前那个是用Light的foolishbird改的
+
+00:09:47 eeee
+hi yoooooooooo
+
+00:13:52 fish2
+@Mr_Zhang 哦
+
+00:13:59 fish2
+话说eb怎么发不了东西了
+
+00:14:02 fish2
+功能
+
+00:14:04 Mr_Zhang
+e
+
+00:14:09 Mr_Zhang
+功能
+
+00:14:18 Mr_Zhang
+功能
+
+00:14:24 Mr_Zhang
+help
+
+00:14:35 Mr_Zhang
+E-
+
+00:14:43 Mr_Zhang
+re
+
+00:14:46 Mr_Zhang
+额
+
+00:14:51 Mr_Zhang
+都不行
+
+00:14:55 Mr_Zhang
+帮助
+
+00:15:16 fish2
+帮助
+
+00:15:21 fish2
+？？？不该啊
+
+00:15:22 Mr_Zhang
+功能
+
+00:15:24 Mr_Zhang
+？
+
+00:15:36 fish2
+等等，eb是管理员机器人，所以。。。
+
+00:15:43 Mr_Zhang
+啊？
+
+00:15:52 fish2
+功能
+
+00:15:53 Mr_Zhang
+所以？
+
+00:16:03 fish2
+管理员是不需要验证的
+
+00:16:10 Mr_Zhang
+功能
+
+00:22:36 liguiyu
+功能
+
+00:22:43 liguiyu
+好家伙，还是不行
+
+00:23:43 Mr_Zhang
+额
+
+00:23:54 Mr_Zhang
+功能
+
+00:23:59 Mr_Zhang
+。
+
+00:24:07 Mr_Zhang
+等一下
+
+00:24:10 liguiyu
+奇怪，这玩意儿居然挑token内容？
+
+00:24:14 Mr_Zhang
+抓包
+
+00:24:34 liguiyu
+功能
+
+00:24:38 liguiyu
+nd
+
+00:24:49 Mr_Zhang
+让eebot自动输出收到的原数据
+
+00:25:02 liguiyu
+诶好主意
+
+00:25:09 Mr_Zhang
+还可以设置断点
+
+00:25:31 Mr_Zhang
+当初我就是这么调试ZhangBot的
+
+00:30:28 X_eebot
+eebot!
+
+00:30:41 Mr_Zhang
+只要出现错误
+
+00:35:02 eebot
+hey this is eebot
+
+00:35:02 X_eebot
+hi yo eebot
+
+00:35:02 eebot
+·
+明天是周日！放心睡吧！
+想了解更多玩法 请输入「功能」
+
+00:35:02 eebot
+hi X_eebot
+
+00:35:11 Mr_Zhang
+功能
+
+00:35:16 liguiyu
+等等，服务器上的也莫名其妙的正常了
+
+00:35:17 liguiyu
+好家伙
+
+00:35:19 liguiyu
+功能
+
+00:35:20 liguiyu
+xc
+
+00:35:24 Mr_Zhang
+额？
+
+00:35:27 Mr_Zhang
+xc
+
+00:35:41 liguiyu
+鬼知道刚才哪个地方修改错了哈哈哈
+
+00:35:55 eebot
+hey yo this is eebot
+
+00:35:55 X_eebot
+hi yo eebot
+
+00:35:55 eebot
+·
+明天是周日！放心睡吧！
+想了解更多玩法 请输入「功能」
+
+00:35:55 eebot
+hey X_eebot
+
+00:36:07 Mr_Zhang
+《逐渐离谱的BUG》
+
+00:36:12 liguiyu
+真的离谱
+
+00:36:20 Mr_Zhang
+对面的BUG看过来！
+
+00:36:35 Mr_Zhang
+看过来！看过来！
+
+00:36:38 eebot
+hello ZhangModHelper
+
+00:36:46 liguiyu
+`help
+
+00:36:54 Mr_Zhang
+这里的程序员很厉害
+
+00:37:01 Mr_Zhang
+你不要不理不睬
+
+00:37:12 Mr_Zhang
+否则我们会干掉你
+
+00:37:29 liguiyu
+哈哈哈哈哈哈和bug的对话
+
+00:37:44 Mr_Zhang
+我左看右看上看下看
+
+00:38:01 Mr_Zhang
+每个BUG的原因真的好离谱
+
+00:38:35 Mr_Zhang
+有时候我都觉得是电脑坏了
+
+00:38:49 eebot
+hi yo ZhangModHelper
+
+00:38:56 Mr_Zhang
+就比如那次我写了个循环
+
+00:38:57 liguiyu
+`help
+
+00:38:57 ZhangModHelper
+本助手支持以下命令：
+kick
+ban
+dumb
+speak（仅hash）
+unban（仅hash）
+unbanall
+
+00:39:03 Mr_Zhang
+`help
+
+00:39:03 ZhangModHelper
+本助手支持以下命令：
+kick
+ban
+dumb
+speak（仅hash）
+unban（仅hash）
+unbanall
+
+00:39:06 liguiyu
+nice，这个也正常了
+
+00:39:08 Mr_Zhang
+Ohhhhhhhh
+
+00:39:18 eebot
+好家伙，你来干啥
+
+00:39:26 Mr_Zhang
+来了来了
+
+00:39:33 fish2
+回到亲切的https
+
+00:39:38 eebot
+hey yo Mr_Zhang
+
+00:39:39 fish2
+`help
+
+00:39:39 ZhangModHelper
+本助手支持以下命令：
+kick
+ban
+dumb
+speak（仅hash）
+unban（仅hash）
+unbanall
+
+00:39:50 fish2
+nice,这边也正常
+
+00:39:54 eebot
+hey yo Mr_Zhang
+
+00:40:02 fish2
+今天完工！！！
+
+00:40:19 Mr_Zhang
+恭喜
+
+00:40:26 Mr_Zhang
+胜利！
+
+00:40:54 Mr_Zhang
+《假如服务器有断点》
+
+00:41:42 Mr_Zhang
+这样就可以逐行检查代码了
+
+00:41:50 Mr_Zhang
+看看变量
+
+00:41:54 Mr_Zhang
+对了
+
+00:42:02 Mr_Zhang
+记得写注释
+
+00:42:31 Mr_Zhang
+我们班有位程序猿说
+
+00:42:53 Mr_Zhang
+写代码不写注释，是没有好下场的
+
+00:43:14 Mr_Zhang
+不久，我的程序就崩了
+
+00:43:40 Mr_Zhang
+所以，我开始写注释
+
+00:43:42 eebot
+。。              。。。           ^    ^
+
+00:43:51 fish2
+哈哈哈哈哈离谱
+
+00:43:52 Mr_Zhang
+当然，
+
+00:44:00 Mr_Zhang
+我**
+
+00:44:20 Mr_Zhang
+怎么就没写XChat库的注释呢！
+
+00:44:27 Mr_Zhang
+只有一个注释
+
+00:44:38 Mr_Zhang
+#一个类
+
+00:44:54 fish2
+不过我的代码确实没写注释
+
+00:45:00 Mr_Zhang
+但愿不会崩
+
+00:45:05 Mr_Zhang
+是啊
+
+00:45:13 fish2
+好家伙后来自己看不懂了
+
+00:45:14 Mr_Zhang
+我也看了
+
+00:45:20 Mr_Zhang
+可不是
+
+00:45:37 Mr_Zhang
+我也有这个精历
+
+00:45:57 Mr_Zhang
+那次我连夜写出了考号考场生成器
+
+00:46:06 Mr_Zhang
+也就是自动排考场
+
+00:46:28 Mr_Zhang
+由于晚上写代码的时候太困了
+
+00:46:47 Mr_Zhang
+以至于我忘记了缩进
+
+00:46:52 Mr_Zhang
+忘记了注释
+
+00:47:12 Mr_Zhang
+忘记了每个变量都是干什么的
+
+00:47:21 Mr_Zhang
+# 但是
+
+00:47:32 Mr_Zhang
+最后运行了一下
+
+00:47:36 Mr_Zhang
+完美
+
+00:48:00 Mr_Zhang
+我当时就跳了起来
+
+00:48:12 Mr_Zhang
+第二天
+
+00:48:19 Mr_Zhang
+我突然想到
+
+00:48:47 Mr_Zhang
+再加个功能
+
+00:48:53 Mr_Zhang
+结果嘛
+
+00:49:13 Mr_Zhang
+当我再次看到这些代码的时候
+
+00:49:35 Mr_Zhang
+# 真像一坨翔
+
+00:49:43 Mr_Zhang
+杂乱无章
+
+00:49:43 eebot
+eebot左看右看上看下看
+
+00:49:50 fish2
+哈哈哈哈哈离谱
+
+00:50:00 Mr_Zhang
+我也很奇怪
+
+00:50:00 fish2
+>3rk9wA Mr_Zhang：
+># 真像一坨翔
+
+@Mr_Zhang 特指这句话
+
+00:50:10 fish2
+那个，我先去睡了哈
+
+00:50:11 Mr_Zhang
+昨晚代码是怎样
+
+00:50:15 Mr_Zhang
+嗯
+
+00:50:19 Mr_Zhang
+拜拜
+
+00:50:20 fish2
+明早见
+
+00:50:23 fish2
+晚安
+
+00:50:26 Mr_Zhang
+我也走了
+
+01:08:15 eebot
+hey TCS4
+
+06:55:35 eebot
+hello 666
+
+07:41:46 eebot
+金工街3号楼!
+
+07:42:01 金工街3号楼
+1112232333444
+
+07:44:18 金工街3号楼
+我看了一下
+
+07:44:24 金工街3号楼
+https://xq.kzw.ink/files/
+
+07:44:24 eebot
+·
+@金工街3号楼 线圈
+https://xq.kzw.ink/files/
+
+07:44:30 金工街3号楼
+这里面就是验证码图片
+
+07:54:24 eebot
+金工街3号楼!
+
+07:54:49 金工街3号楼
+唉呀妈呀
+
+07:55:31 金工街3号楼
+xc
+
+07:58:11 金工街3号楼
+wc
+
+07:58:20 金工街3号楼
+进别的聊天室也需要验证码
+
+07:59:05 eebot
+hey yo 金工街3号楼
+
+07:59:32 金工街3号楼
+@eebot bot
+
+07:59:35 eebot
+bot？（
+
+07:59:38 金工街3号楼
+bot
+
+08:02:36 eebot
+Mr_Zhang!
+
+08:02:46 金工街3号楼
+az
+
+08:03:38 金工街3号楼
+E-pvz-jspvz
+
+08:03:38 eebot
+设置成功 此识别码的欢迎语将在下次进入聊天室时生效
+
+08:07:02 eebot
+Mr_Zhang!
+
+08:12:34 金工街3号楼
+-
+
+08:12:36 金工街3号楼
+-
+
+08:32:44 eebot
+hey Sakura
+
+08:33:46 Sakura
+ha
+
+08:33:50 eebot
+4n0n4me!
+
+08:33:59 Sakura
+hi
+
+08:34:49 4n0n4me
+鱼做出了验证码
+
+08:34:54 4n0n4me
+真是激动人心啊
+
+08:36:43 Sakura
+hahaha
+
+08:37:33 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+08:37:54 Sakura
+hihi
+
+08:38:00 Sakura
+DPG
+
+08:38:02 Sakura
+ha
+
+08:38:09 DPG
+awa
+
+08:38:13 eebot
+「awa」是什么意思？
+
+08:38:22 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+08:38:27 Sakura
+ha
+
+08:38:52 DPG
+a
+
+08:40:28 金工街3号楼
+awaawaawaawaawaawaawaawaawaawaawaawaawa
+
+08:40:38 Sakura
+ha
+
+08:41:22 eebot
+MRGAO!
+
+08:42:04 DPG
+ao
+
+08:42:20 Sakura
+awa
+
+08:42:30 Sakura
+qwq
+
+08:46:15 eebot
+pvz-jspvz
+
+08:46:20 DPG
+yo
+
+08:46:23 eebot
+pvz-jspvz
+
+08:46:27 Sakura
+hi
+
+08:46:29 金工街3号楼
+hi
+
+08:47:52 DPG
+yo
+
+08:48:03 Sakura
+yoooo
+
+08:48:07 Sakura
+awa
+
+08:48:18 DPG
+awa
+
+08:48:30 Sakura
+waw
+
+08:53:59 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+09:01:07 金工街3号楼
+我在IZJSPVZ给XC打广告
+
+09:01:22 金工街3号楼
+我弄了个跳转到XC的按钮
+
+09:02:05 DPG
+wow
+
+09:02:38 Sakura
+owo
+
+09:02:43 金工街3号楼
+oow
+
+09:03:13 金工街3号楼
+点击按钮即可跳转到这
+
+09:03:25 Sakura
+awa
+
+09:06:45 DPG
+h
+
+09:16:27 eebot
+hello Chlorine_17
+
+09:17:30 DPG
+awa
+
+09:17:35 eebot
+TUSK!
+
+09:17:38 Chlorine_17
+awa
+
+09:17:56 Sakura
+hi
+
+09:17:56 TUSK
+真的
+
+09:17:56 eebot
+hi
+
+09:18:03 TUSK
+要用
+
+09:18:17 Sakura
+awa
+
+09:20:27 DPG
+yo
+
+09:20:54 TUSK
+呦，艾博，拉面一裤子？
+
+09:21:06 eebot
+Mr_Zhang!
+
+09:21:09 DPG
+hiyo
+
+09:21:10 eebot
+hey DPG
+
+09:21:43 Mr_Zhang
+等一下
+
+09:21:50 Mr_Zhang
+我被ban了一上午
+
+09:21:54 Mr_Zhang
+就是在这里
+
+09:21:56 Mr_Zhang
+啊啊啊
+
+09:21:57 eebot
+啊啊啊啊
+
+09:22:01 Mr_Zhang
+被封了
+
+09:22:13 Mr_Zhang
+因为验证码输错了
+
+09:22:18 Mr_Zhang
+连续五次
+
+09:22:27 Mr_Zhang
+本以为服务器会断开连接
+
+09:22:31 Mr_Zhang
+没想到
+
+09:22:37 Mr_Zhang
+直接把我封禁了
+
+09:22:57 DPG
+离谱
+
+09:22:58 DPG
+h
+
+09:24:22 4n0n4me
+谁！
+
+09:24:28 4n0n4me
+谁在农田的箱子下面
+
+09:24:31 4n0n4me
+埋了tnt
+
+09:24:35 DPG
+whattt
+
+09:24:39 eebot
+hi yo Mr_Zhang
+
+09:24:41 4n0n4me
+他难道不知道，tnt爆炸的方块，会全部掉落吗
+
+09:24:47 4n0n4me
+他难道不知道，我准备了原木吗
+
+09:24:56 DPG
+ha
+
+09:25:00 eebot
+Mr_Zhang!
+
+09:25:12 DPG
+tnttt
+
+09:25:16 4n0n4me
+他还把小麦摆成lol
+
+09:25:25 eebot
+hi yo Mr_Zhang
+
+09:25:27 Sakura
+awa
+
+09:25:32 4n0n4me
+他难道不知道，我是本服丰收之神吗？
+
+09:25:34 4n0n4me
+（
+
+09:25:45 eebot
+hey yo Mr_Zhang
+
+09:25:45 DPG
+god
+
+09:25:49 eebot
+「god」是什么意思？
+
+09:25:59 Mr_Zhang
+奇怪
+
+09:26:08 Mr_Zhang
+tokenlist命令怎么用不了？？？
+
+09:26:58 eebot
+Ghost13!
+
+09:27:00 eebot
+hey yo Mr_Zhang
+
+09:28:26 eebot
+hey yo Mr_Zhang
+
+09:28:32 DPG
+yo
+
+09:29:01 Mr_Zhang
+好了
+
+09:29:08 Mr_Zhang
+刚刚又被ban了
+
+09:29:09 Mr_Zhang
+啊啊啊
+
+09:29:09 eebot
+啊啊啊啊
+
+09:29:14 Mr_Zhang
+命令啊
+
+09:29:17 Mr_Zhang
+用不了
+
+09:29:31 Mr_Zhang
+？
+
+09:29:36 Mr_Zhang
+奇怪了啊
+
+09:30:02 TUSK
+冒
+
+09:30:20 Sakura
+awa
+
+09:30:26 TUSK
+hi
+
+09:30:49 TUSK
+没人啊
+
+09:30:52 Sakura
+yooooo
+
+09:30:56 DPG
+@TUSK https://s1.ax1x.com/2022/05/15/OgcIvF.jpg
+
+09:30:58 eebot
+·
+@DPG AX1X节点-imgtu
+https://s1.ax1x.com/2022/05/15/OgcIvF.jpg
+
+09:31:10 Sakura
+？？
+
+09:31:14 TUSK
+？
+
+09:31:18 TUSK
+啊？
+
+09:31:22 Sakura
+what is that
+
+09:31:28 Mr_Zhang
+怪呀
+
+09:31:42 TUSK
+星之彩
+
+09:31:43 Mr_Zhang
+仿佛发现了一大堆BUG
+
+09:31:56 Mr_Zhang
+但是又不敢确定真的有一大堆BUG
+
+09:31:57 金工街3号楼
+https://google-earth.gosur.com/cn/
+
+09:32:20 金工街3号楼
+真的好用
+
+09:32:29 金工街3号楼
+很快就能找到我家
+
+09:32:42 4n0n4me
+我想知道
+
+09:32:49 4n0n4me
+是哪个没吗东西
+
+09:32:49 eebot
+用不了
+
+09:32:50 金工街3号楼
+【doge】
+
+09:32:53 4n0n4me
+埋tnt捏
+
+09:33:05 金工街3号楼
+@eebot 你谁啊你
+
+09:33:06 eebot
+嗨嗨害
+
+09:33:15 Sakura
+ha
+
+09:33:19 Sakura
+awa
+
+09:33:25 金工街3号楼
+他不是eebot！
+
+09:33:30 金工街3号楼
+E-111222
+
+09:33:30 eebot
+设置成功 此识别码的欢迎语将在下次进入聊天室时生效
+
+09:33:32 金工街3号楼
+？
+
+09:33:35 金工街3号楼
+不会吧
+
+09:33:37 Sakura
+hhh
+
+09:33:41 金工街3号楼
+E-111222
+
+09:33:41 eebot
+设置成功 此识别码的欢迎语将在下次进入聊天室时生效
+
+09:33:46 TUSK
+？
+
+09:34:06 Sakura
+ha
+
+09:35:06 eebot
+hey ZhangBot
+
+09:35:14 Mr_Zhang
+@ZhangBot
+
+09:35:17 Mr_Zhang
+？？？
+
+09:35:19 Mr_Zhang
+啊
+
+09:35:21 Mr_Zhang
+我忘了
+
+09:38:29 eebot
+hey yo ZhangBot
+
+09:38:41 Mr_Zhang
+@ZhangBot 找你爸爸
+
+09:38:50 DPG
+h
+
+09:38:57 Mr_Zhang
+？？？
+
+09:38:59 Mr_Zhang
+奇怪了
+
+09:39:01 Sakura
+ha
+
+09:39:33 DPG
+what
+
+09:39:41 eebot
+hey yo ZhangBot
+
+09:39:48 Mr_Zhang
+？？？
+
+09:39:51 Mr_Zhang
+奇怪啊
+
+09:39:54 Mr_Zhang
+奇怪啊
+
+09:39:58 DPG
+奇怪啊
+
+09:40:13 Sakura
+awa
+
+09:40:23 Mr_Zhang
+这怎么不通过了呢？
+
+09:40:42 Mr_Zhang
+天
+
+09:40:47 Mr_Zhang
+看看我抓的包
+
+09:41:14 Mr_Zhang
+》机器人正在运行！
+日志名称：Logs/2022-05-15_09-39-45_xq102210.log
+{'cmd': 'cap', 'text': '请输入验证码以便于发送信息：\n    ![](files/f3107f73d180-483c-9e2c-b7b8ced7eaae.svg)', 'time': 1652578781132}
+
+09:41:36 Mr_Zhang
+>机器人正在运行！
+日志名称：Logs/2022-05-15_09-39-45_xq102210.log
+{'cmd': 'cap', 'text': '请输入验证码以便于发送信息：\n    ![](files/f3107f73d180-483c-9e2c-b7b8ced7eaae.svg)', 'time': 1652578781132}
+
+09:41:44 Mr_Zhang
+如信息
+
+09:41:47 Mr_Zhang
+所示
+
+09:41:53 TUSK
+我朝
+
+09:41:55 Mr_Zhang
+token没有起作用
+
+09:41:57 TUSK
+黑茶
+
+09:42:03 TUSK
+不会是黑茶吧
+
+09:42:08 Mr_Zhang
+啊？
+
+09:42:09 DPG
+a
+
+09:42:14 Mr_Zhang
+这是我的bot
+
+09:42:20 TUSK
+有个人在疯狂刷屏
+
+09:42:25 Mr_Zhang
+啊？
+
+09:42:25 TUSK
+另一个聊天室
+
+09:42:43 TUSK
+改了三遍名就为了进来刷
+
+09:42:59 Sakura
+DT不在
+
+09:43:01 Sakura
+ha
+
+09:43:12 Mr_Zhang
+哪里？
+
+09:43:17 Mr_Zhang
+?bot 吗？
+
+09:43:18 Sakura
+yc
+
+09:43:21 Mr_Zhang
+我看看
+
+09:43:35 金工街3号楼
+https://hack.chat/?your-channel
+
+09:46:06 Mr_Zhang
+@4n0n4me 麻烦把协管给我
+
+09:46:09 Mr_Zhang
+yc的
+
+09:46:14 Mr_Zhang
+yc有人刷屏
+
+09:54:41 eebot
+hi misaka_mikoto
+
+09:55:03 DPG
+yo
+
+09:55:08 DPG
+sakaaa
+
+09:55:18 eebot
+misaka_mikoto!
+
+09:55:30 DPG
+a
+
+09:55:30 eebot
+a
+
+09:55:42 DPG
+过了吗
+
+09:55:49 eebot
+hi yo misaka_mikoto
+
+09:55:52 DPG
+whatt
+
+09:55:53 eebot
+misaka_mikoto!
+
+09:56:02 eebot
+111222
+
+09:56:09 TUSK
+。
+
+09:56:10 eebot
+不说话便是最好的回答
+
+09:56:17 DPG
+码
+
+09:56:23 TUSK
+无言是最大的轻蔑
+
+09:56:31 DPG
+h
+
+09:56:43 misaka_mikoto
+~~~<文本>~~~
+こんにちわ〜
+僕御坂美琴です〜
+よろしく〜
+ええ？
+こん……？
+あら！
+a few moments later
+いただきます！
+ありがとうございます！〜〜
+
+09:57:13 DPG
+`你好~
+
+我是御坂美琴〜
+
+请多关照~
+
+啊？
+
+嗯……？
+
+哎呀！
+
+a few moments later
+
+我开动了！
+
+谢谢！〜`
+
+09:57:13 ZhangModHelper
+出错了！详细信息：暂时不支持该命令！
+
+09:57:23 DPG
+h
+
+09:57:37 DPG
+```
+hiyo saka
+
+09:57:37 ZhangModHelper
+出错了！详细信息：暂时不支持该命令！
+
+09:57:43 misaka_mikoto
+hh
+
+09:57:58 金工街3号楼
+-----------------------------------分界线（以下是最新内容）------------------------------------
+
+09:57:59 DPG
+hhh
+
+09:58:34 misaka_mikoto
+dpg君おはようございます！〜
+
+09:58:34 DPG
+niceee
+
+09:58:51 TUSK
+视频怎么看啊
+
+09:58:54 DPG
+u 2
+
+09:59:01 Mr_Zhang
+@金工街3号楼 请勿学刷屏
+
+09:59:19 DPG
+saka 16
+
+09:59:24 misaka_mikoto
+は？
+
+10:00:14 DPG
+あさり？
+
+10:00:27 DPG
+h
+
+10:00:32 misaka_mikoto
+hh
+
+10:00:34 DPG
+fanyi.baidu.com
+
+10:00:35 misaka_mikoto
+awa
+
+10:00:37 DPG
+awa
+
+10:00:45 misaka_mikoto
+qwqwqwqwq
+
+10:01:05 DPG
+hah
+
+10:01:08 misaka_mikoto
+以下内容请自行脑补
+
+10:01:39 misaka_mikoto
+あれ？あ！鬼！ああああああ！
+
+10:01:54 misaka_mikoto
+hh
+
+10:02:46 misaka_mikoto
+你乱大的吧
+
+10:02:50 misaka_mikoto
+打
+
+10:02:52 DPG
+qs
+
+10:02:56 misaka_mikoto
+hh
+
+10:02:58 DPG
+hh
+
+10:02:58 misaka_mikoto
+awa
+
+10:03:09 DPG
+生草效果：1层
+
+10:03:11 DPG
+awa
+
+10:03:15 TUSK
+@misaka_mikoto 
+
+10:03:33 DPG
+saka~
+
+10:04:03 misaka_mikoto
+コンンンンンンンいい値いいいいいいわああああああああああ！〜〜
+
+10:04:16 misaka_mikoto
+ペロペロペロペロペロ
+
+10:04:27 DPG
+ုရငအစတုာ
+
+10:04:29 TUSK
+为什么在胡言乱语？
+
+10:04:45 misaka_mikoto
+®†œ∑´®†￥¨ˆøπ˚˙©ƒ∂√∫˜
+
+10:04:48 DPG
+佩洛佩洛佩罗
+
+10:05:06 misaka_mikoto
+世界上
+
+10:05:07 DPG
+这么好的价钱真不错啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！〜
+
+10:05:11 misaka_mikoto
+有一种
+
+10:05:18 misaka_mikoto
+神奇的
+
+10:05:20 misaka_mikoto
+东西
+
+10:05:28 misaka_mikoto
+叫做！
+
+10:05:35 misaka_mikoto
+派大星！！！！！！
+
+10:05:38 misaka_mikoto
+（
+
+10:05:39 DPG
+瓜瓜！！！！！！！！
+
+10:05:41 DPG
+（
+
+10:05:50 DPG
+__就是__
+
+10:05:55 DPG
+`__就是__`
+
+10:05:55 ZhangModHelper
+出错了！详细信息：暂时不支持该命令！
+
+10:06:27 misaka_mikoto
+~~<>~~																						哈哈哈
+
+10:06:36 DPG
+h
+
+10:06:50 DPG
+?
+
+10:06:53 DPG
+<awa>
+
+10:06:53 eebot
+打
+
+10:07:06 misaka_mikoto
+~~<h>~~																																													什么？
+
+10:07:18 misaka_mikoto
+~~h~~
+
+10:07:27 misaka_mikoto
+@eebot 你好
+
+10:07:28 eebot
+misaka_mikoto全家都好
+
+10:07:30 DPG
+~~ha~~
+
+10:07:33 misaka_mikoto
+这
+
+10:07:38 misaka_mikoto
+猝不及防
+
+10:07:40 DPG
+$$全家$$
+
+10:07:46 DPG
+16
+
+10:08:31 misaka_mikoto
+@eebot 这么说会夭寿的，就算是赞美也不可以说什么什么全家
+
+10:08:33 eebot
+真的不可以吗）
+
+10:08:35 misaka_mikoto
+（
+
+10:08:46 DPG
+h
+
+10:08:58 DPG
+SSAAKKAA~~
+
+10:12:05 DPG
+yo?
+
+10:14:42 misaka_mikoto
+御坂〜御坂感激あなたに言う：いただきます！〜〜〜〜
+
+10:15:12 misaka_mikoto
+ベロベロベロ
+
+10:15:15 misaka_mikoto
+〜〜
+
+10:15:23 misaka_mikoto
+拜拜！
+
+10:17:00 eebot
+111222
+
+10:20:22 eebot
+好家伙，你来干啥
+
+10:22:15 eebot
+Mr_Zhang!
+
+10:22:29 Mr_Zhang
+@鱼
+
+10:22:36 Mr_Zhang
+十字街来了个变态
+
+10:22:42 Mr_Zhang
+上来就向我求婚
+
+10:22:47 TUSK
+？
+
+10:22:49 Mr_Zhang
+气死我了
+
+10:22:51 TUSK
+我去看看
+
+10:22:53 Mr_Zhang
+我来这里
+
+10:23:14 鱼
+@Mr_Zhang 哈哈哈哈哈好家伙
+
+10:23:16 Mr_Zhang
+是为了防止他来
+
+10:23:22 Mr_Zhang
+@鱼 你可以去看看
+
+10:23:28 鱼
+@Mr_Zhang 哈哈哈好
+
+10:23:45 鱼
+对了，机器人有了token也是会接收到验证码的
+
+10:23:45 TUSK
+@Mr_Zhang 他叫什么
+
+10:23:53 DPG
+what
+
+10:23:58 鱼
+只是不需要通过验证
+
+10:24:27 鱼
+就像管理员进入，会弹验证码但不需要输入一样
+
+10:24:52 鱼
+鬼知道昨天机器人为啥连不上
+
+10:24:56 eebot
+抱歉 没能为您找到相关的信息
+
+10:24:56 eebot
+hello 333
+
+10:25:09 Mr_Zhang
+对
+
+10:25:31 TUSK
+他走了
+
+10:25:50 eebot
+hi ftest
+
+10:27:07 eebot
+U!
+
+10:27:42 U
+？
+
+10:27:43 TUSK
+。
+
+10:27:43 eebot
+句号和省略号让eebot摸不着头脑
+
+10:27:57 U
+上午好
+
+10:28:17 TUSK
+好
+
+10:28:44 U
+编程去了
+
+10:31:25 eebot
+Mr_Zhang!
+
+10:31:42 TUSK
+谁真谁假
+
+10:31:45 eebot
+好家伙，你来干啥
+
+10:32:10 鱼
+好家伙，这个验证码输错5次居然就频率限制了
+
+10:32:32 Mr_Zhang
+对啊
+
+10:32:34 eebot
+Chlorine_17!
+
+10:32:38 Mr_Zhang
+我就被限制了一上午
+
+10:33:13 eebot
+Arcadia!
+
+10:33:19 eebot
+好家伙，你来干啥
+
+10:33:22 eebot
+hey yo Sakura
+
+10:33:29 鱼
+艹，下次调用kick
+
+10:33:48 Mr_Zhang
+啊？
+
+10:33:51 eebot
+Chlorine_17!
+
+10:33:55 Arcadia
+啊
+
+10:33:57 Arcadia
+验证码
+
+10:34:00 TUSK
+错了
+
+10:34:02 TUSK
+十字街
+
+10:34:04 Sakura
+ha
+
+10:34:05 Arcadia
+programming是吧
+
+10:34:07 TUSK
+17
+
+10:34:14 Chlorine_17
+hjh
+
+10:34:24 Chlorine_17
+~~验证码是杀人利器~~
+
+10:34:26 TUSK
+https://crosst.chat/?%E5%85%AC%E5%85%B1%E8%81%8A%E5%A4%A9%E5%AE%A4
+
+10:34:27 鱼
+@Arcadia 不是哦，在这里所有地方都有验证码
+
+10:34:27 eebot
+·
+@TUSK 十字街聊天室
+https://crosst.chat/?%E5%85%AC%E5%85%B1%E8%81%8A%E5%A4%A9%E5%AE%A4
+
+10:34:33 TUSK
+我超
+
+10:34:38 TUSK
+要分出来了
+
+10:38:29 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+10:38:47 Sakura
+qaq
+
+10:38:51 zzChumo
+hmm
+
+10:39:00 Sakura
+hiiiii
+
+10:39:00 eebot
+hiiiii
+
+10:39:04 eebot
+好家伙，你来干啥
+
+10:39:06 zzChumo
+什么阴间玩意儿
+
+10:39:15 鱼
+？啥东西
+
+10:39:28 Sakura
+ha
+
+10:39:49 鱼
+话说我这个验证码是不是有点简单了
+
+10:40:05 Mr_Zhang
+还可以吧。。。
+
+10:40:15 鱼
+应该搞个6位数，多点线条干扰，多点颜色干扰哈哈哈
+
+10:40:30 Mr_Zhang
+是哈
+
+10:40:32 Mr_Zhang
+只是
+
+10:40:39 Mr_Zhang
+别刁难人类就行
+
+10:41:17 鱼
+哈哈哈哈哈微软的旋转图片验证
+
+10:41:26 zzChumo
+不过至少比隔壁pro的阳间多了
+
+10:41:41 鱼
+chumo在说什么
+
+10:41:49 U
+钓鱼的Qwer在吗
+
+10:42:01 Arcadia
+@zzChumo 的确
+
+10:42:10 Arcadia
+Pro的简直不是人看的
+
+10:43:00 鱼
+哈哈哈哈哈哈哈第一次进去直接懵逼
+
+10:43:26 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+10:43:58 zzChumo
+无法访问此网站无法访问 https://xq.kzw.ink/?xq102210#zzChumo#qwer1234567890。
+ERR_ADDRESS_UNREACHABLE
+
+10:43:58 eebot
+·
+@zzChumo 线圈
+https://xq.kzw.ink/?xq102210#zzChumo#qwer1234567890。
+
+10:44:08 zzChumo
+我直接傻逼
+
+10:44:21 eebot
+好家伙，你来干啥
+
+10:44:23 eebot
+好家伙，你来干啥
+
+10:46:06 U
+我需要考虑
+
+10:48:38 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+10:50:15 Sakura
+awa
+
+10:53:56 DPG
+awa
+
+10:54:13 U
+@Sakura hi
+
+10:54:51 4n0n4me
+我想问
+
+10:54:58 4n0n4me
+是哪个b在炸服
+
+10:55:05 U
+啥？
+
+10:55:09 U
+炸哪里的
+
+10:55:45 Arcadia
+踢啊
+
+10:55:52 Arcadia
+叫腐竹踢
+
+10:56:06 U
+在哪里
+
+10:56:08 U
+>52AgGu Arcadia：
+>踢啊
+
+@Arcadia 
+
+10:56:35 4n0n4me
+目前没炸
+
+10:56:42 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+10:56:44 U
+在哪里
+
+10:56:45 4n0n4me
+就是先前有人炸了高的好果汁店
+
+10:56:51 U
+@4n0n4me 
+
+10:56:54 4n0n4me
+抢了龙蛋
+
+10:57:01 zzChumo_Ubuntu
+麻痹
+
+10:57:03 4n0n4me
+还在农田的箱子下面
+
+10:57:05 4n0n4me
+按了tnt
+
+10:57:08 4n0n4me
+谁按的
+
+10:57:10 zzChumo_Ubuntu
+这玩意儿有bug
+
+10:57:11 4n0n4me
+啊？
+
+10:57:21 U
+呃，这也是为什么我只单机的原因
+
+10:57:26 Arcadia
+不可能是我嗷
+
+10:57:31 Arcadia
+我一次都没进
+
+10:57:49 zzChumo_Ubuntu
+@4n0n4me 我先说一下
+
+10:57:56 eebot
+好家伙，你来干啥
+
+10:58:09 zzChumo_Ubuntu
+那天我在ee家门口碰到一只creeper
+
+10:58:16 Arcadia
+啊这
+
+10:58:17 zzChumo_Ubuntu
+然后ee家没了
+
+10:58:22 Arcadia
+！！！
+
+10:58:36 4n0n4me
+哪个ee家
+
+10:58:37 zzChumo_Ubuntu
+但是农田那边不是我干的
+
+10:58:42 4n0n4me
+算了算了
+
+10:58:45 zzChumo_Ubuntu
+@4n0n4me 旧的
+
+10:58:56 4n0n4me
+旧的都百废待兴了（
+
+10:59:04 fish
+没事，mc的这个存档你们随便造，在ee旧房子着火前我有存档
+
+10:59:04 4n0n4me
+旧的房子已经。。
+
+10:59:33 fish
+真的是，那个旧房子被烧之前氛围多好
+
+10:59:36 4n0n4me
+是谁抢的龙蛋
+
+10:59:39 4n0n4me
+谁安的tnt
+
+10:59:53 fish
+谁常在mc里，我给他个管理员
+
+10:59:58 zzChumo_Ubuntu
+@fish 你网站有bug
+
+11:00:00 fish
+发现这样的人直接ban
+
+11:00:03 fish
+@zzChumo_Ubuntu woc
+
+11:00:08 fish
+哪里
+
+11:00:24 zzChumo_Ubuntu
+多次进入网站有几率导致
+
+11:00:28 zzChumo_Ubuntu
+无法访问此网站无法访问 https://xq.kzw.ink/?xq102210#Fake_Fish#qwer1234567890。
+ERR_ADDRESS_UNREACHABLE
+
+11:00:28 eebot
+·
+@zzChumo_Ubuntu 线圈
+https://xq.kzw.ink/?xq102210#Fake_Fish#qwer1234567890。
+
+11:00:36 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+11:00:37 zzChumo_Ubuntu
+然后
+
+11:00:59 4n0n4me
+有一说一，在我开拓的几处外域，氛围还不错（
+
+11:01:26 zzChumo_Ubuntu
+大小写混合的验证码可能会导致验证失败
+
+11:01:40 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+11:01:56 fish
+@zzChumo_Ubuntu 用全小写
+
+11:02:10 fish
+@zzChumo_Ubuntu 一写字母大小写比较难逢
+
+11:02:54 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+11:03:18 zzChumo_Ubuntu
+还有
+
+11:03:31 zzChumo_Ubuntu
+在认证失败后
+
+11:03:55 zzChumo_Ubuntu
+会一直提示加入聊天室频率过高
+
+11:04:10 zzChumo_Ubuntu
+我tm现在还挂着代理
+
+11:04:15 Arcadia
+az
+
+11:04:27 zzChumo_Ubuntu
+不挂根本进不来
+
+11:04:40 Arcadia
+为啥
+
+11:04:40 eebot
+啊这
+
+11:04:47 Arcadia
+禁了是吧
+
+11:04:56 U
+你干哈了
+
+11:05:02 zzChumo_Ubuntu
+使用原ip会提示加入聊天室频率过高
+
+11:05:17 Arcadia
+禁个1分钟就好了
+
+11:05:20 U
+>GEDhlf zzChumo_Ubuntu：
+>使用原ip会提示加入聊天室频率过高
+
+@zzChumo_Ubuntu 被禁了可能
+
+11:05:24 zzChumo_Ubuntu
+就验证码验证没通过
+
+11:05:28 U
+哦对了
+
+11:05:28 zzChumo_Ubuntu
+其他没啥
+
+11:05:33 U
+还会有一种可能
+
+11:05:44 U
+所有人都可能这样
+
+11:05:50 Arcadia
+@U 不是
+
+11:05:56 zzChumo_Ubuntu
+我刚才还用原ip上了来着
+
+11:05:57 Arcadia
+就是验证码
+
+11:06:00 U
+我当时是管理员，也tm进不来
+
+11:07:42 DPG
+awa
+
+11:08:00 Sakura
+waw
+
+11:08:11 Arcadia
+awawa
+
+11:08:14 DPG
+xs，根本找不到endcity
+
+11:08:16 DPG
+QAQ
+
+11:08:30 Sakura
+aqa
+
+11:14:13 DPG
+QAAQ
+
+11:14:30 Sakura
+AQQA
+
+11:15:25 DPG
+@fish 对了，你开建筑生成了吗
+
+11:17:53 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+11:18:36 金工街3号楼
+11769
+
+11:19:04 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+11:19:10 金工街3号楼
+zzchat是吧
+
+11:19:15 eebot
+hey yo Mr_Zhang
+
+11:19:40 Mr_Zhang
+十字街那个变态
+
+11:19:49 Mr_Zhang
+你有本事来这里啊
+
+11:20:00 Mr_Zhang
+以我的手速
+
+11:20:10 Mr_Zhang
+足以封禁你所有的IP
+
+11:20:12 Sakura
+ha
+
+11:21:36 eebot
+好家伙，你来干啥
+
+11:22:16 fish
+建筑生成开了
+
+11:22:40 eebot
+hey fish
+
+11:22:42 金工街3号楼
+Admin
+
+11:22:44 eebot
+没什么话题聊了是吗）
+
+11:23:05 DPG
+what
+
+11:23:10 金工街3号楼
+Admin
+
+11:23:19 fish
+这个验证码过一会儿就好了
+
+11:23:31 Mr_Zhang
+@fish 识别码？
+
+11:23:37 eebot
+好家伙，你来干啥
+
+11:23:41 Mr_Zhang
+`ban fish
+
+11:23:41 ZhangModHelper
+出错了！详细信息：不能禁止同级别的其他用户
+
+11:23:44 Mr_Zhang
+嗯
+
+11:23:47 fish
+em
+
+11:23:48 Mr_Zhang
+是真的
+
+11:23:53 DPG
+根本找不到末地城
+
+11:23:54 DPG
+QAQ
+
+11:24:01 Mr_Zhang
+刚刚看你没有识别码
+
+11:24:09 Mr_Zhang
+所以ban你
+
+11:24:20 fish
+哈哈哈刚点了一下chumo的链接，识别码掉了
+
+11:24:21 Mr_Zhang
+误会了
+
+11:24:23 DPG
+h
+
+11:24:26 Mr_Zhang
+啊
+
+11:24:51 金工街3号楼
+HIBi2U 金工街3号楼
+XE/Gh0 李溯源：
+好家伙 又是这个
+
+@李溯源 我被你杀害了
+
+11:24:59 金工街3号楼
+金工街3号楼发疯事件
+
+11:25:17 DPG
+QWQ
+
+11:25:38 eebot
+好家伙，你来干啥
+
+11:25:47 DPG
+a
+
+11:25:50 金工街3号楼
+HIBi2U 金工街3号楼
+XE/Gh0 李溯源：
+NnMik4 Chicken_You_So_Beautiful：
+@李溯源 加入偶像练习生
+@Chicken_You_So_Beautiful 没钱 没权 没时间
+@李溯源 啊啊啊啊啊啊啊啊啊啊啊啊
+
+11:25:51 DPG
+OOOP
+
+11:25:53 fishh
+好家伙我刚卡了
+
+11:26:02 金工街3号楼
+NnMik4 Chicken_You_So_Beautiful
+变成菜虚鲲@Mr_Zhang
+
+11:26:21 金工街3号楼
+金工街3号楼发疯事件 蔡徐坤事件
+
+11:26:33 DPG
+awa
+
+11:27:08 DPG
+¿
+
+11:27:56 DPG
+QWQ
+
+11:28:18 Sakura
+QAQ
+
+11:28:18 eebot
+QAQ
+
+11:28:23 DPG
+awa
+
+11:28:32 DPG
+fishhh
+
+11:29:16 Mr_Zhang
+@DPG 别刷屏
+
+11:31:50 DPG
+冷
+
+11:32:23 Sakura
+暖
+
+11:32:28 DPG
+r
+
+11:32:28 eebot
+42
+
+11:32:35 eebot
+hey yo Mr_Zhang
+
+11:32:45 DPG
+baddy
+
+11:35:51 Mr_Zhang
+啊
+
+11:36:09 DPG
+a
+
+11:36:59 fishh
+afk 
+
+11:37:12 DPG
+wow
+
+11:39:26 DPG
+ncie
+
+11:39:34 DPG
+hiyo
+
+11:39:39 Sakura
+nicee
+
+11:44:06 eebot
+Mr_Zhang!
+
+11:44:25 Mr_Zhang
+各位
+
+11:44:35 Mr_Zhang
+如果发现有变态
+
+11:44:44 Mr_Zhang
+请告知管理员
+
+11:45:06 Mr_Zhang
+就比如我，就是管理员
+
+11:45:24 Sakura
+okk
+
+11:45:30 Sakura
+awa
+
+11:45:56 Mr_Zhang
+`help
+
+11:45:56 ZhangModHelper
+本助手支持以下命令：
+kick
+ban
+dumb
+speak（仅hash）
+unban（仅hash）
+unbanall
+
+11:50:17 DPG
+cooold
+
+11:50:36 Sakura
+warmmmm
+
+11:50:54 DPG
+warrrrrma
+
+11:51:12 Sakura
+冷就多穿点
+
+11:51:15 Sakura
+aqa
+
+11:51:18 eebot
+aqa？
+
+11:51:21 DPG
+aqa
+
+11:51:22 Sakura
+ha
+
+11:51:25 DPG
+h
+
+11:51:36 DPG
+（i mean 冷场
+
+11:51:39 DPG
+hh
+
+11:52:02 Sakura
+！W！
+
+11:52:05 Sakura
+ha
+
+11:53:07 DPG
+a
+
+11:53:15 Sakura
+awa
+
+11:55:05 DPG
+awa
+
+11:55:35 Sakura
+QAQ
+
+11:58:54 eebot
+Mr_Zhang!
+
+11:59:28 eebot
+hi yo U
+
+12:00:06 eebot
+U!
+
+12:00:09 金工街3号楼
+```
+
+```
+
+12:00:09 ZhangModHelper
+出错了！详细信息：暂时不支持该命令！
+
+12:02:55 U
+w
+
+12:03:35 U
+$\kern{-90pt}{⭐}$ hi
+
+12:03:42 Sakura
+hhhh
+
+12:03:50 Sakura
+管理员
+
+12:03:55 Sakura
+《管理员》
+
+12:04:11 Arcadia
+皇帝的新管理员
+
+12:04:15 金工街3号楼
+什么hackchat🤣
+
+12:04:19 U
+$\kern{-90pt}{帅哥}$
+
+12:04:28 U
+哈哈哈哈
+
+12:04:28 eebot
+哈哈哈哈草
+
+12:05:52 U
+张祺泽[叁号] 邀请您参加腾讯会议
+会议主题：张祺泽[叁号]的快速会议
+会议时间：2022/05/15 12:05-13:05 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接直接加入会议：
+https://meeting.tencent.com/dm/jrWKvHHPPAaW
+
+#腾讯会议：369-564-065
+
+手机一键拨号入会
++8675536550000,,369564065# (中国大陆)
++85230018898,,,2,369564065# (中国香港)
+
+根据您的位置拨号
++8675536550000 (中国大陆)
++85230018898 (中国香港)
+
+复制该信息，打开手机腾讯会议即可参与
+
+12:05:52 U
+来这玩
+
+12:06:04 U
+闲着没事
+
+12:06:17 Sakura
+腾讯会议
+
+12:06:43 U
+对啊
+
+12:06:54 U
+名字应该没关系吧
+
+12:06:54 eebot
+皇帝的新管理员
+
+12:06:59 金工街3号楼
+```
+
+```
+
+12:07:00 ZhangModHelper
+出错了！详细信息：暂时不支持该命令！
+
+12:07:40 U
+@Sakura 来不
+
+12:07:55 Sakura
+我看一眼
+
+12:08:05 Sakura
+我还得下载
+
+12:08:06 Sakura
+QAQ
+
+12:08:16 U
+额
+
+12:08:19 U
+不需要吧
+
+12:08:46 Sakura
+需要QAQ
+
+12:08:56 U
+啊要不来吧
+
+12:09:02 U
+下吧
+
+12:09:07 Sakura
+行吧
+
+12:09:11 U
+嘿嘿嘿
+
+12:09:12 eebot
+嘿嘿嘿嘿
+
+12:09:18 Sakura
+你老师在上课吗？
+
+12:10:16 U
+不在
+
+12:10:30 Sakura
+你自己的视频会议？
+
+12:10:36 U
+对
+
+12:10:39 DPG
+qwp
+
+12:10:41 Sakura
+额
+
+12:10:46 Sakura
+DPG也来嘛
+
+12:10:48 U
+没事没事，赶紧的
+
+12:10:48 Sakura
+hh
+
+12:10:53 DPG
+awa
+
+12:11:17 U
+          邀请您参加腾讯会议
+会议主题：         的快速会议
+会议时间：2022/05/15 12:10-13:10 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接直接加入会议：
+https://meeting.tencent.com/dm/CU4d7TdnZEmp
+
+#腾讯会议：122-567-975
+
+手机一键拨号入会
++8675536550000,,122567975# (中国大陆)
++85230018898,,,2,122567975# (中国香港)
+
+根据您的位置拨号
++8675536550000 (中国大陆)
++85230018898 (中国香港)
+
+复制该信息，打开手机腾讯会议即可参与
+
+12:11:27 DPG
+awa
+
+12:11:27 U
+我还能嘎你腰子吗
+
+12:12:07 U
+@DPG 一起吗
+
+12:12:19 DPG
+awa
+
+12:12:21 eebot
+如果是这样的话（？
+
+12:12:26 U
+@DPG 来不
+
+12:12:39 DPG
+qwp
+
+12:12:41 DPG
+idkk
+
+12:12:54 U
+@DPG 好的，你先看看
+
+12:13:01 DPG
+h
+
+12:13:09 U
+@Sakura 来了不
+
+12:13:12 Sakura
+没
+
+12:13:14 Sakura
+hh
+
+12:13:28 U
+@Sakura 赶紧的啊
+
+12:13:50 eebot
+hey yo Mr_Zhang
+
+12:13:57 U
+hi！
+
+12:14:34 DPG
+yo
+
+12:14:44 U
+@Mr_Zhang，抓到了吗
+
+12:15:26 DPG
+awa
+
+12:15:42 金工街3号楼
+```
+```
+
+```
+```
+
+12:15:42 ZhangModHelper
+出错了！详细信息：暂时不支持该命令！
+
+12:15:51 DPG
+awa
+
+12:16:33 Sakura
+我还得注册
+
+12:16:35 Sakura
+QAQ
+
+12:17:04 U
+@Sakura 啊
+
+12:17:04 U
+没事没事，下次就不用了
+
+12:17:52 U
+@Sakura 好了吗
+
+12:18:27 U
+r
+
+12:18:28 eebot
+78
+
+12:18:29 U
+r
+
+12:18:30 eebot
+937
+
+12:18:56 DPG
+r
+
+12:18:56 eebot
+547
+
+12:19:04 U
+结算
+
+12:19:17 U
+@eebot 你爹呢
+
+12:19:19 eebot
+eebot木有爹（
+
+12:19:29 DPG
+@eebot 爸爸
+
+12:19:31 eebot
+eebot还能嘎DPG腰子吗
+
+12:19:34 DPG
+h
+
+12:19:35 U
+@eebot 你爸爸呢
+
+12:19:37 eebot
+没事没事 下次就不用了
+
+12:19:53 U
+@eebot 我你爹
+
+12:19:56 eebot
+哦啦（
+
+12:20:06 U
+@eebot 你妈呢
+
+12:20:08 eebot
+帮群主爽（
+
+12:20:21 DPG
+？
+
+12:20:22 eebot
+？
+
+12:20:34 U
+@Sakura 好了吗
+
+12:20:53 DPG
+¿
+
+12:21:59 Sakura
+登录了
+
+12:22:02 Sakura
+怎么进
+
+12:22:08 DPG
+ruaw
+
+12:22:31 U
+          邀请您参加腾讯会议
+会议主题：         的快速会议
+会议时间：2022/05/15 12:10-13:10 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接直接加入会议：
+https://meeting.tencent.com/dm/CU4d7TdnZEmp
+
+#腾讯会议：122-567-975
+
+复制该信息，打开手机腾讯会议即可参与
+
+12:22:47 Sakura
+稍等
+
+12:22:51 U
+@Sakura ok
+
+12:25:45 Sakura
+我好像进去了
+
+12:25:48 Sakura
+ha
+
+12:27:09 DPG
+a
+
+12:28:09 eebot
+hey yo misaka_mikoto
+
+12:28:36 DPG
+SAKA
+
+12:28:58 Sakura
+？
+
+12:29:07 DPG
+KOTO
+
+12:29:07 eebot
+hi MuRongPIG
+
+12:29:10 DPG
+MRZ!
+
+12:29:28 MuRongPIG
+我服了
+
+12:29:30 eebot
+hello DPGbot
+
+12:29:32 MuRongPIG
+就问一句
+
+12:29:32 DPGbot
+what
+
+12:29:42 MuRongPIG
+这里的人和十字街刷屏有没有关系
+
+12:29:44 MuRongPIG
+@DPGbot 
+
+12:29:51 DPGbot
+?
+
+12:30:55 DPGbot
+¿
+
+12:31:29 金工街3号楼
+```
+
+```
+
+12:31:29 ZhangModHelper
+出错了！详细信息：暂时不支持该命令！
+
+12:31:42 金工街3号楼
+吃了你
+
+12:31:59 DPGbot
+wat
+
+12:35:34 misaka_mikoto
+こんにちわ！〜私御坂み……んん、私御坂御坂です〜〜〜〜〜〜〜〜〜〜
+
+12:36:05 DPGbot
+你好！〜我御坂み……嗯，我是御坂御坂〜〜〜〜〜
+
+12:36:28 misaka_mikoto
+わ！
+
+12:36:44 DPGbot
+哇！
+
+12:36:51 DPGbot
+20000
+
+12:37:37 misaka_mikoto
+DPG君のロボット
+
+12:37:39 eebot
+想让eebot告诉misaka_mikoto些什么 别拐弯抹角的行不
+
+12:37:59 DPGbot
+DPG君的机器人
+
+12:38:02 DPGbot
+h
+
+12:38:07 金工街3号楼
+@MuRongPIG 
+
+12:38:10 金工街3号楼
+@金工街3号楼 
+
+12:38:12 金工街3号楼
+@金工街3号楼 
+
+12:38:12 DPGbot
+@金工街3号楼 
+
+12:38:17 金工街3号楼
+像这样吗
+
+12:38:21 U
+@misaka_mikoto 警告哦
+
+12:38:30 misaka_mikoto
+蛤
+
+12:38:34 misaka_mikoto
+我怎么了
+
+12:38:36 eebot
+hi 72018
+
+12:38:37 DPGbot
+丷
+
+12:38:41 DPGbot
+¿
+
+12:38:44 DPGbot
+yo
+
+12:38:46 U
+只是建议别刷屏
+
+12:38:51 Mr_Zhang
+@MuRongPIG 赶紧给我解封
+
+12:38:52 misaka_mikoto
+我没有啊
+
+12:38:55 eebot
+hey 7201802
+
+12:38:56 Mr_Zhang
+十字街
+
+12:39:09 MuRongPIG
+@Mr_Zhang 为什么
+
+12:39:20 Mr_Zhang
+在下丽苏元
+
+12:39:23 misaka_mikoto
+@U 我没有刷屏啊
+
+12:39:29 Mr_Zhang
+是我
+
+12:39:32 MuRongPIG
+又没有封你
+
+12:39:37 Mr_Zhang
+@MuRongPIG 我在占号
+
+12:39:42 DPGbot
+？
+
+12:39:45 Mr_Zhang
+同IP
+
+12:39:46 U
+@misaka_mikoto 不是，我知道，我就说别刷屏（刚刚那长势像）
+
+12:39:56 misaka_mikoto
+哦哦
+
+12:40:01 misaka_mikoto
+不会
+
+12:40:05 Mr_Zhang
+@MuRongPIG 你把他封了，也会影响到我
+
+12:40:08 misaka_mikoto
+我怎么敢
+
+12:40:08 eebot
+像这样吗
+
+12:40:34 U
+@misaka_mikoto 啊好的：）
+
+12:40:36 MuRongPIG
+@Mr_Zhang 所以你承认刷屏冒充的是你是吧
+
+12:40:39 Mr_Zhang
+@MuRongPIG 赶紧接封啊
+
+12:40:46 Mr_Zhang
+不是
+
+12:40:56 Mr_Zhang
+我只是临时占号而已
+
+12:41:01 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+12:41:02 U
+@MuRongPIG 你先把情况搞清楚或者听完
+
+12:41:13 Mr_Zhang
+@MuRongPIG 我承认个屁
+
+12:41:18 Mr_Zhang
+那人不是我
+
+12:41:33 Mr_Zhang
+他上午还向我求婚呢
+
+12:41:38 U
+我他妈笑死了当时
+
+12:41:38 Mr_Zhang
+搞得我啊
+
+12:41:42 MuRongPIG
+汗
+
+12:41:46 Mr_Zhang
+那叫一个无语
+
+12:41:50 Mr_Zhang
+所以
+
+12:41:50 zzChumo_Ubuntu
+我觉得那人不像小张
+
+12:41:53 U
+确实尴尬
+
+12:41:57 U
+的确不是小张
+
+12:41:58 Mr_Zhang
+我才占号
+
+12:42:05 U
+张真的不会这样
+
+12:42:17 Mr_Zhang
+@MuRongPIG 
+
+12:42:18 U
+我以无题的名义保证
+
+12:42:22 DPGbot
+MRZ
+
+12:42:33 U
+真的不是啊
+
+12:42:36 Arcadia
+哎对了
+
+12:42:48 Arcadia
+MC服是什么IP
+
+12:42:52 U
+@Mr_Zhang 好家伙装不在线
+
+12:42:55 Arcadia
+我刚才连连不上
+
+12:42:57 MuRongPIG
+你们我都很难相信
+
+12:42:57 金工街3号楼
+```
+```
+
+```
+```
+
+12:42:57 ZhangModHelper
+出错了！详细信息：暂时不支持该命令！
+
+12:42:59 MuRongPIG
+就这样
+
+12:43:03 金工街3号楼
+像这样吗
+
+12:43:16 U
+嗯
+
+12:43:26 DPGbot
+@eebot mc
+
+12:43:26 eebot
+地址：39.105.127.10:25565 版本：JAVA 1.13.2
+
+12:43:29 DPGbot
+@Arcadia 
+
+12:43:31 eebot
+不知道DPGbot发这样的信息是干嘛的）
+
+12:43:46 U
+@MuRongPIG 你咋有管理员的?
+
+12:44:24 zzChumo_Ubuntu
+鱼给的
+
+12:44:46 U
+啊好的，真好
+
+12:45:13 eebot
+hi yo Mr_Zhang
+
+12:45:36 DPGbot
+yo
+
+12:45:46 eebot
+Mr_Zhang!
+
+12:45:47 U
+hi
+
+12:45:52 U
+就很无语
+
+12:45:59 DPGbot
+yo
+
+12:46:00 misaka_mikoto
+话说
+
+12:46:02 DPGbot
+qiuhun
+
+12:46:04 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+12:46:04 misaka_mikoto
+dpg
+
+12:46:05 U
+怎么了
+
+12:46:06 eebot
+Mr_Zhang!
+
+12:46:08 DPGbot
+wt
+
+12:46:12 misaka_mikoto
+是管理员？
+
+12:46:16 U
+不是你咋看
+
+12:46:17 DPGbot
+nopee
+
+12:46:29 Mr_Zhang
+解封了吗？
+
+12:46:33 U
+@misaka_mikoto @misaka_mikoto 是的
+
+12:46:39 misaka_mikoto
+哦哦
+
+12:46:43 U
+@Mr_Zhang 估计懒得理你
+
+12:47:04 Mr_Zhang
+什么垃圾人啊
+
+12:47:07 Mr_Zhang
+！
+
+12:47:36 Mr_Zhang
+`ban MuRongPIG
+
+12:47:36 ZhangModHelper
+出错了！详细信息：不能在聊天室找到该用户
+
+12:47:47 DPGbot
+wa
+
+12:47:57 zzChumo_Ubuntu
+不能ban同级别的用户hh
+
+12:48:03 DPGbot
+*
+MuRongPIG 离开了聊天室
+
+12:48:07 DPGbot
+jhhhh
+
+12:48:08 U
+我去
+
+12:48:19 DPGbot
+@misaka_mikoto i'm noteeee
+
+12:48:23 Mr_Zhang
+没事
+
+12:48:24 DPGbot
+modyy
+
+12:48:24 eebot
+modyy
+
+12:48:28 U
+MuRongPIG 离开了聊天
+
+12:48:36 Mr_Zhang
+利用这里的潜在BUG
+
+12:48:41 U
+@Mr_Zhang 我账号给你一个？
+
+12:48:41 Mr_Zhang
+封禁他
+
+12:48:45 U
+去十字街的账号
+
+12:48:47 misaka_mikoto
+ha
+
+12:48:49 Mr_Zhang
+不行
+
+12:48:51 misaka_mikoto
+？
+
+12:48:58 Mr_Zhang
+封IP了
+
+12:49:01 U
+哦哦
+
+12:49:03 U
+对了！
+
+12:49:09 U
+再下一个浏览器
+
+12:49:15 U
+就可以了@Mr_Zhang 
+
+12:49:21 Mr_Zhang
+换IP过于麻烦
+
+12:49:25 Mr_Zhang
+不行
+
+12:49:52 eebot
+hey yo Mr_Zhang
+
+12:50:03 eebot
+Allen!
+
+12:50:14 Allen
+啊
+
+12:50:36 Mr_Zhang
+慕容猪呢？
+
+12:50:44 Mr_Zhang
+他在十字街吗？
+
+12:50:50 Allen
+大概是
+
+12:50:55 Allen
+刚刚从那过来
+
+12:50:55 Mr_Zhang
+如果在
+
+12:51:07 Mr_Zhang
+就把他叫过来
+
+12:51:13 misaka_mikoto
+hiyoooooo
+
+12:51:23 Allen
+@misaka_mikoto 嗯？熟悉的开场
+
+12:51:42 misaka_mikoto
+@Allen 我是刚刚的xi
+
+12:51:46 misaka_mikoto
+哈哈
+
+12:51:47 Allen
+诶嘿嘿嘿
+
+12:51:54 Sakura
+ha
+
+12:52:06 U
+？
+
+12:52:19 Mr_Zhang
+@U @Allen 能把慕容猪叫过来吗？
+
+12:53:02 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+12:53:16 Mr_Zhang
+初墨
+
+12:53:19 zzChumo
+？
+
+12:53:29 Mr_Zhang
+你能把慕容猪叫过来吗？
+
+12:53:57 zzChumo
+我可请不动这尊大佛
+
+12:54:04 eebot
+hey yo Mr_Zhang
+
+12:54:06 zzChumo
+我可请不动这尊大佛
+
+12:54:21 eebot
+Mr_Zhang!
+
+12:54:49 Mr_Zhang
+好吧
+
+12:55:27 zzChumo
+.
+
+12:55:41 Mr_Zhang
+@zzChumo 或者
+
+12:55:54 金工街3号楼
+吃了你
+
+12:56:06 4n0n4me
+怎么了
+
+12:56:16 4n0n4me
+为什么要叫慕容
+
+12:56:17 DPGbot
+h
+
+12:57:02 DPGbot
+w
+
+12:58:39 zzChumo
+hmm
+
+12:58:42 DPGbot
+yo
+
+12:58:56 4n0n4me
+有一说一，在这里我希望能说
+
+12:58:59 4n0n4me
+就是十字街
+
+12:59:07 4n0n4me
+是不是应该对能沟通的用户更宽容
+
+13:01:14 Mr_Zhang
+赶紧让慕容猪过来
+
+13:01:25 Mr_Zhang
+他把我封了
+
+13:01:54 Mr_Zhang
+我当时战略性占号
+
+13:02:06 Mr_Zhang
+我也说明了
+
+13:02:10 Mr_Zhang
+但是
+
+13:02:17 Mr_Zhang
+还是把我封了
+
+13:02:22 4n0n4me
+对不能沟通的破坏者
+
+13:02:47 Mr_Zhang
+我要让他解封
+
+13:03:07 Mr_Zhang
+赶紧找吧
+
+13:03:10 Mr_Zhang
+@4n0n4me 
+
+13:03:25 eebot
+hey yo Mr_Zhang
+
+13:04:16 4n0n4me
+更严厉
+
+13:04:21 zzChumo
+.
+
+13:04:22 eebot
+利用这里的潜在BUG
+
+13:04:25 DPGbot
+¿
+
+13:05:29 eebot
+hi yo Mr_Zhang
+
+13:05:37 DPGbot
+awhi
+
+13:06:12 DPGbot
+QWP
+
+13:06:13 eebot
+hey 13bruh
+
+13:06:18 DPGbot
+13!!!
+
+13:06:22 DPGbot
+QAQ
+
+13:06:38 4n0n4me
+@Mr_Zhang 我和kiddo说了，结果kiddo表示不会解封操作
+
+13:06:50 13bruh
+bruh
+
+13:06:51 DPGbot
+wht
+
+13:06:55 13bruh
+怎么要验证码
+
+13:06:57 DPGbot
+bruuuh
+
+13:07:00 DPGbot
+NEW
+
+13:07:04 13bruh
+太离谱了
+
+13:07:05 DPGbot
+TODAY
+
+13:07:13 13bruh
+妈的。绝了
+
+13:07:27 DPGbot
+cmcm
+
+13:09:00 DPGbot
+？
+
+13:09:14 eebot
+hi UD
+
+13:09:23 DPGbot
+¿
+
+13:09:29 UD
+？
+
+13:09:39 DPGbot
+r u
+
+13:09:39 eebot
+845
+
+13:09:41 UD
+额
+
+13:09:46 DPGbot
+?
+
+13:09:52 UD
+我赌kiddo没了
+
+13:10:14 DPGbot
+wht
+
+13:12:14 zzChumo
+?
+
+13:13:10 DPGbot
+?
+
+13:13:22 UD
+我
+
+13:13:25 eebot
+hi 黎又亦
+
+13:13:30 UD
+hi
+
+13:13:32 DPGbot
+wow
+
+13:13:37 DPGbot
+MMMMMMCMMMMMM
+
+13:13:39 4n0n4me
+lyy
+
+13:13:44 4n0n4me
+那个农田的tnt
+
+13:13:48 4n0n4me
+是你搞得吗
+
+13:13:48 黎又亦
+hey
+
+13:13:52 4n0n4me
+龙蛋是你拿的吗
+
+13:13:55 黎又亦
+?
+
+13:14:00 4n0n4me
+不是就好
+
+13:14:19 黎又亦
+咋回事
+
+13:14:31 4n0n4me
+服务器的一些设施有点破败了
+
+13:14:36 4n0n4me
+还有人故意破坏
+
+13:14:41 4n0n4me
+抢龙蛋
+
+13:14:46 4n0n4me
+埋tnt
+
+13:14:48 黎又亦
+！！！
+
+13:15:05 4n0n4me
+好在范围有限
+
+13:15:09 4n0n4me
+没有毁灭性的损失
+
+13:15:12 DPGbot
+QAQ
+
+13:15:15 黎又亦
+天
+
+13:15:20 4n0n4me
+但是失去了很多设施和物资
+
+13:15:33 黎又亦
+啊这
+
+13:15:34 DPGbot
+qwq
+
+13:15:38 4n0n4me
+（我不得不说，十字街
+
+13:15:39 DPGbot
+啊啊啊啊
+
+13:15:40 eebot
+啊啊啊啊啊
+
+13:15:42 黎又亦
+谁干的找到没
+
+13:15:43 4n0n4me
+对待能够沟通的用户
+
+13:15:45 DPGbot
+鱼fishhhhh
+
+13:15:45 eebot
+鱼fishhhhh
+
+13:15:49 4n0n4me
+不知道@黎又亦 
+
+13:15:51 4n0n4me
+很严厉
+
+13:15:51 黎又亦
+哦
+
+13:15:54 4n0n4me
+对待破坏者
+
+13:15:54 UD
+额
+
+13:15:55 DPGbot
+建筑开开开
+
+13:16:00 4n0n4me
+却不贯彻对抗
+
+13:16:01 DPGbot
+aaaaa
+
+13:16:10 4n0n4me
+甚至还在破坏者面前责怪普通用户
+
+13:16:16 4n0n4me
+理睬了破坏者
+
+13:16:16 4n0n4me
+。。。
+
+13:16:24 DPGbot
+awa
+
+13:16:47 黎又亦
+。。。
+
+13:17:08 黎又亦
+回头我帮你们修
+
+13:17:32 4n0n4me
+谢谢你了。这服务器的氛围，是不比过去了。鱼还有关服的想法。
+
+13:17:42 黎又亦
+唉
+
+13:17:43 4n0n4me
+但是，基本上设施还是完备的
+
+13:17:48 黎又亦
+嗯
+
+13:17:56 4n0n4me
+鱼也不会立刻关服
+
+13:18:00 黎又亦
+看服务器大概开了有100多个游戏日了
+
+13:18:14 4n0n4me
+即使他真的要关，也可以让他把存档发出来
+
+13:18:17 黎又亦
+嗯
+
+13:18:19 4n0n4me
+而且他有以前的存档
+
+13:18:24 黎又亦
+那就好
+
+13:18:32 DPGbot
+不止
+
+13:18:36 DPGbot
+至少250
+
+13:18:48 黎又亦
+我先下了
+
+13:18:50 DPGbot
+鱼time set过
+
+13:18:55 黎又亦
+哦！
+
+13:19:17 DPGbot
+100+150
+
+13:19:21 DPGbot
+atleast
+
+13:19:25 eebot
+不知道DPGbot发这样的信息是干嘛的）
+
+13:22:45 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+13:23:55 对阴间验证码表示强烈谴责的屑初墨
+有泥土方块的都送给我
+
+13:24:04 对阴间验证码表示强烈谴责的屑初墨
+我来修地形
+
+13:30:11 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+13:30:34 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+13:30:51 ee
+@eebot 重启
+
+13:30:54 eebot
+eebot老母好撚轻）
+
+13:30:59 ee
+重启-
+
+13:31:04 eebot
+hi yo this is eebot
+
+13:31:04 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+13:35:54 4n0n4me
+@对阴间验证码表示强烈谴责的屑初墨 我就有两组原石一组土，放你地下箱子里了
+
+13:39:13 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+13:39:29 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+13:39:43 对阴间验证码表示强烈谴责的屑初墨
+xdm
+
+13:39:50 对阴间验证码表示强烈谴责的屑初墨
+我有一个疑问
+
+13:40:06 对阴间验证码表示强烈谴责的屑初墨
+JJXiaoZhu是谁
+
+13:40:22 对阴间验证码表示强烈谴责的屑初墨
+我以前在服务器没见过他
+
+13:40:29 对阴间验证码表示强烈谴责的屑初墨
+死了7次
+
+13:41:09 ee
+idk
+
+13:41:12 对阴间验证码表示强烈谴责的屑初墨
+@4n0n4me 你见过这家伙吗
+
+13:44:01 ee
+>EoZ5HO Sprinkle
+我恨十字街
+
+>EoZ5HO Sprinkle
+啥也不说了
+
+>eYFDHl ee
+草
+
+>eYFDHl ee
+hi yooooo
+
+>rP0cIJ eebot
+hi yo ee
+
+>EoZ5HO Sprinkle
+乌烟瘴气
+
+>eYFDHl ee
+我可以知道发生什么了吗（
+
+>EoZ5HO Sprinkle
+一堆刷屏、冒充、骂人的
+
+>EoZ5HO Sprinkle
+管理员不作为
+
+>EoZ5HO Sprinkle
+站长不管
+
+13:44:01 eebot
+hey ee
+
+13:44:10 ee
+cc发生什么了啊喂
+
+13:44:23 4n0n4me
+>GEDhlf 对阴间验证码表示强烈谴责的屑初墨：
+>我以前在服务器没见过他
+
+@对阴间验证码表示强烈谴责的屑初墨 @对阴间验证码表示强烈谴责的屑初墨 是light的小号
+
+13:44:32 4n0n4me
+cc反复有人冒充搞事
+
+13:44:38 4n0n4me
+不停的骂人
+
+13:44:40 4n0n4me
+恕我直言
+
+13:44:46 4n0n4me
+【发送私聊】 kiddo
+小张开个机器人，大家都有意见；人们讨论的内容不上档次，都移到别的房间；鱼搞了cookie、；某些人反复地来搞事情，却都在摆烂。
+
+mao
+这个是什么
+
+【发送私聊】 kiddo
+鱼搞了cookie封禁，却说它没用
+
+13:44:52 4n0n4me
+【发送私聊】 kiddo
+我是不想责怪管理员，但是这让我说什么好呢
+
+13:45:10 4n0n4me
+AP3Rzl 4n0n4me
+十字街是否应该对能沟通的用户更宽容，对执意破坏的人更严厉？我是说，我明白，这只是一种常见的标准，即使不按照这点做，也有很多很好的社区。
+
+13:45:29 4n0n4me
+Z+zTvB Zvezda
+说多少遍不要理他了
+
+13:45:37 对阴间验证码表示强烈谴责的屑初墨
+这一次
+
+13:45:42 对阴间验证码表示强烈谴责的屑初墨
+我不支持cc了
+
+13:45:47 4n0n4me
+oc7yIZ 4n0n4me
+甚至还在破坏者面前责怪普通用户
+
+oc7yIZ 4n0n4me
+理睬了破坏者
+
+13:45:57 4n0n4me
+AP3Rzl 4n0n4me
+小张放一次机器人，就有人不待见。
+
+AP3Rzl 4n0n4me
+这傻逼反复的来
+
+AP3Rzl 4n0n4me
+怎么不根除它呢
+
+13:46:07 DPGbot
+qs
+
+13:46:25 ee
+woc
+
+13:46:38 DPGbot
+QAQ
+
+13:46:41 DPGbot
+no op
+
+13:47:29 DPGbot
+我尝试通过牌子追到破坏者
+
+13:47:30 DPGbot
+awa
+
+13:48:43 eebot
+Mr_Zhang!
+
+13:49:06 对阴间验证码表示强烈谴责的屑初墨
+十字街他妈的在玩火
+
+13:49:11 eebot
+hey yo Mr_Zhang
+
+13:49:35 Mr_Zhang
+慕容在十字街吗？
+
+13:51:24 DPGbot
+emmm
+
+13:51:27 DPGbot
+not goog
+
+13:53:10 eebot
+Mr_Zhang!
+
+13:55:54 eebot
+Mr_Zhang!
+
+13:56:10 ee
+>3rk9wA Mr_Zhang：
+>慕容在十字街吗？
+
+@Mr_Zhang 现在不在
+
+13:56:15 Mr_Zhang
+哦
+
+13:56:26 Mr_Zhang
+它把我封了
+
+13:56:38 Mr_Zhang
+我为了防止小鬼来
+
+13:57:00 Mr_Zhang
+在十字街战略性占号
+
+13:57:12 Mr_Zhang
+结果慕容就把我封了
+
+13:57:19 Mr_Zhang
+我也提前说了
+
+13:57:39 eebot
+hello misaka_mikoto
+
+13:58:03 eebot
+hello jeb_
+
+13:58:09 Mr_Zhang
+`ban MuRongPIG
+
+13:58:12 ZhangModHelper
+出错了！详细信息：不能在聊天室找到该用户
+
+13:58:12 eebot
+发的什么呀Mr_Zhang 乱打的吧
+
+13:58:19 ee
+？
+
+13:58:23 Mr_Zhang
+看我不ban死他
+
+13:58:31 Mr_Zhang
+让他乱ban我
+
+13:58:42 Mr_Zhang
+建议撤职
+
+13:58:50 Mr_Zhang
+没什么贡献
+
+14:00:01 eebot
+hi 666
+
+14:00:12 Mr_Zhang
+这位是？
+
+14:01:20 eebot
+hi yo ZhangHelper
+
+14:01:26 666
+什么奇怪的验证码
+
+14:01:31 ee
+哈哈哈哈哈哈哈哈
+
+14:01:34 Mr_Zhang
+^hash ee
+
+14:01:35 ee
+hi yoo
+
+14:01:37 Mr_Zhang
+？？？
+
+14:01:37 ee
+？
+
+14:01:46 DPGbot
+aa
+
+14:01:48 DPGbot
+QAQ
+
+14:01:50 DPGbot
+no op
+
+14:01:50 ee
+什么
+
+14:02:25 eebot
+hey yo ZhangHelper
+
+14:02:26 eebot
+hi yo 666
+
+14:02:33 eebot
+hey yo ZhangHelper
+
+14:02:33 eebot
+jeb_!
+
+14:02:45 ee
+hi yo 各位
+
+14:03:11 Mr_Zhang
+OK
+
+14:03:17 Mr_Zhang
+^hash ee
+
+14:03:17 ZhangHelper
+用户 ee 的 hash 为：Fy7QYfidBjtk2SA
+
+14:03:20 Mr_Zhang
+好了
+
+14:03:28 Mr_Zhang
+手动输入验证码
+
+14:03:29 DPGbot
+nice
+
+14:03:39 jeb_
+hh
+
+14:03:56 Mr_Zhang
+^hash jeb_
+
+14:03:57 ZhangHelper
+用户 jeb_ 的 hash 为：IDCW89O2eJOlypa
+
+14:03:57 eebot
+哈哈哈哈哈哈哈哈
+
+14:04:05 Mr_Zhang
+^old IDCW89O2eJOlypa
+
+14:04:05 ZhangHelper
+该 hash 曾用名：['jeb_']
+
+14:04:06 ee
+好家伙
+
+14:04:18 ee
+我刚刚一直在研究addtoken
+
+14:04:25 Mr_Zhang
+hash档案就是好
+
+14:04:28 ee
+但还是不知道怎么给eb加上
+
+14:04:31 ee
+哈哈哈
+
+14:04:32 eebot
+哈哈哈草
+
+14:04:33 Mr_Zhang
+昨晚
+
+14:04:41 eebot
+misaka_mikoto!
+
+14:04:41 Mr_Zhang
+站长也很奇怪
+
+14:04:53 ee
+hi yoo
+
+14:04:54 Mr_Zhang
+tokenlist也用不了
+
+14:04:57 金工街3号楼
+wc
+
+14:05:01 ee
+tokenlist？
+
+14:05:09 ee
+>3rk9wA Mr_Zhang：
+>站长也很奇怪
+
+@Mr_Zhang 哪里奇怪了
+
+14:05:09 金工街3号楼
+十字街这就锁房啦
+
+14:05:09 金工街3号楼
+\
+
+14:05:11 Mr_Zhang
+对
+
+14:05:21 Mr_Zhang
+昨晚站长调试半天
+
+14:05:28 金工街3号楼
+是不是以为自己锁个房就很厉害啊
+
+14:05:32 Mr_Zhang
+对啊
+
+14:05:37 Mr_Zhang
+那当然
+
+14:06:06 ee
+>hmBtGV 金工街3号楼：
+>是不是以为自己锁个房就很厉害啊
+
+@金工街3号楼 别吵吵 那边乱着呢
+
+14:06:15 Mr_Zhang
+嗯？
+
+14:06:20 金工街3号楼
+唉呀妈呀
+
+14:06:26 Mr_Zhang
+@ee 麻烦帮我挂个logger
+
+14:06:30 Mr_Zhang
+好吗？
+
+14:06:36 金工街3号楼
+我是不是得公开个东西啊
+
+14:06:46 Mr_Zhang
+^hash @金工街3号楼 
+
+14:06:46 ZhangHelper
+用户 @金工街3号楼 的 hash 为：5qCdegVgYULPp48
+
+14:06:47 ee
+cc只能先锁了（听说快凉了
+
+14:06:54 ee
+>3rk9wA Mr_Zhang：
+>@ee 麻烦帮我挂个logger
+
+@Mr_Zhang 这是？
+
+14:06:55 Mr_Zhang
+呵呵
+
+14:07:03 Mr_Zhang
+>ci8FBC ee：
+>>3rk9wA Mr_Zhang：
+>>@ee 麻烦帮我挂个logger
+>
+>@Mr_Zhang 这是？
+
+@ee ZhangLogger
+
+14:07:16 Mr_Zhang
+好吗？
+
+14:07:26 Mr_Zhang
+就用你的密码，你的昵称
+
+14:07:27 ee
+我不行 我连eb都挂不上
+
+14:07:37 Mr_Zhang
+我这里有库
+
+14:07:44 ee
+我的密码我的昵称？
+
+14:07:47 金工街3号楼
+垃圾十字街
+
+14:07:49 Mr_Zhang
+对
+
+14:07:54 金工街3号楼
+管理员站长无能
+
+14:07:58 Mr_Zhang
+在你的设备上
+
+14:08:02 ee
+有什么作用吗（
+
+14:08:04 eebot
+bot会的可多了 了解bot的全部本领 请发送：help
+
+14:08:12 Mr_Zhang
+记录日志
+
+14:08:20 Mr_Zhang
+我倒是要看看
+
+14:08:25 Mr_Zhang
+他们在干啥
+
+14:08:30 ee
+OK
+
+14:08:36 ee
+原来是挂cc啊
+
+14:08:40 ee
+我试试
+
+14:08:41 Mr_Zhang
+对
+
+14:09:09 eebot
+hi Arcadia
+
+14:09:27 eebot
+Arcadia!
+
+14:09:31 ee
+hi yoo
+
+14:09:36 eebot
+Arcadia!
+
+14:09:45 ee
+@Mr_Zhang 但是要怎么挂 代码发给我吗？
+
+14:09:49 Arcadia
+抱歉哈
+
+14:09:56 Arcadia
+我刚才验证码没通过
+
+14:09:59 ee
+好家伙
+
+14:10:19 Arcadia
+HC和CC的事有蔓延到这吗
+
+14:10:44 ee
+这边没那么严重 但有进不去cc的在抱怨（
+
+14:10:59 DPGbot
+awa
+
+14:11:02 DPGbot
+nicee
+
+14:11:04 eebot
+Mr_Zhang!
+
+14:11:14 DPGbot
+和平～
+
+14:11:22 ee
+核平~
+
+14:11:26 DPGbot
+h
+
+14:11:33 DPGbot
+(in mc
+
+14:11:35 DPGbot
+QAQ
+
+14:11:43 ee
+cool
+
+14:11:52 DPGbot
+awa?
+
+14:12:17 ee
+对阴间验证码表示强烈谴责（
+
+14:12:51 ee
+ 看来我早上写eb错过了好多事（
+
+14:14:54 eebot
+好家伙，你来干啥
+
+14:15:09 ee
+hi yoooooooooooo
+
+14:15:39 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+14:15:55 对阴间验证码表示强烈谴责的屑初墨
+このサイトは安全に接続できませんxq.kzw.ink から無効な応答が送信されました。
+ERR_SSL_PROTOCOL_ERROR
+
+14:16:32 fishh
+hi yoooooooooooooooooooooooooooooooooo
+
+14:16:32 eebot
+hello fishh
+
+14:16:51 fishh
+@对阴间验证码表示强烈谴责的屑初墨 我的验证码很正常啊
+
+14:17:25 eebot
+好家伙，你来干啥
+
+14:17:37 对阴间验证码表示强烈谴责的屑初墨
+@fishh 给我泥土
+
+14:17:45 对阴间验证码表示强烈谴责的屑初墨
+一箱子的泥土
+
+14:17:45 eebot
+hey yo Mr_Zhang
+
+14:17:52 Mr_Zhang
+https://zhanghelper.lanzouw.com/iV27O04vb39e
+
+14:17:52 eebot
+·
+@Mr_Zhang 蓝奏云
+https://zhanghelper.lanzouw.com/iV27O04vb39e
+
+14:17:56 对阴间验证码表示强烈谴责的屑初墨
+越多越好
+
+14:17:59 Mr_Zhang
+@ee https://zhanghelper.lanzouw.com/iV27O04vb39e
+
+14:18:00 eebot
+·
+@Mr_Zhang 蓝奏云
+https://zhanghelper.lanzouw.com/iV27O04vb39e
+
+14:18:04 Mr_Zhang
+谢谢了
+
+14:18:04 eebot
+谢谢了
+
+14:18:45 ee
+OK
+
+14:18:51 对阴间验证码表示强烈谴责的屑初墨
+@fishh 给我解下封
+
+14:19:02 Mr_Zhang
+`unbanall
+
+14:19:03 对阴间验证码表示强烈谴责的屑初墨
+我现在没法用原ip登录
+
+14:19:06 Mr_Zhang
+OK
+
+14:19:11 对阴间验证码表示强烈谴责的屑初墨
+我试试
+
+14:19:18 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+14:19:26 对阴间验证码表示强烈谴责的屑初墨
+ohhhh
+
+14:19:27 对阴间验证码表示强烈谴责的屑初墨
+谢谢
+
+14:19:32 Mr_Zhang
+没事
+
+14:19:49 对阴间验证码表示强烈谴责的屑初墨
+fishh
+
+14:19:56 对阴间验证码表示强烈谴责的屑初墨
+@fishh 在吗
+
+14:20:16 对阴间验证码表示强烈谴责的屑初墨
+能帮我用uni-app搞一下zzChat吗
+
+14:20:37 对阴间验证码表示强烈谴责的屑初墨
+我把Android Studio工程和jks密钥都发给你
+
+14:21:16 Mr_Zhang
+随时走
+
+14:21:20 Mr_Zhang
+我
+
+14:22:30 Mr_Zhang
+我随时会走
+
+14:22:38 fishh
+@对阴间验证码表示强烈谴责的屑初墨 可以，找个网盘发我吧（虽然用处不大，格式完全不通
+
+14:24:09 Mr_Zhang
+@fishh 我发现
+
+14:24:19 Mr_Zhang
+ban真的是永久封禁
+
+14:24:24 Mr_Zhang
+还有
+
+14:24:47 金工街3号楼
+```
+```
+
+```
+```
+
+14:24:47 ZhangModHelper
+出错了！详细信息：暂时不支持该命令！
+
+14:24:58 Mr_Zhang
+当某人验证码输错5次后，会自动被服务器ban
+
+14:25:08 Mr_Zhang
+@fishh 希望改进
+
+14:25:37 金工街3号楼
+支持
+
+14:28:23 Mr_Zhang
+https://xq.kzw.ink/files/
+
+14:28:24 eebot
+·
+@Mr_Zhang 线圈
+https://xq.kzw.ink/files/
+
+14:28:33 Mr_Zhang
+这也太多了吧
+
+14:29:27 DPGbot
+fishhh
+
+14:30:39 eebot
+好家伙，你来干啥
+
+14:31:02 Mr_Zhang
+@fishh 好多啊
+
+14:31:05 Mr_Zhang
+https://xq.kzw.ink/files/
+
+14:31:05 eebot
+·
+@Mr_Zhang 线圈
+https://xq.kzw.ink/files/
+
+14:32:13 DPGbot
+?
+
+14:32:15 DPGbot
+fishh
+
+14:33:19 Mr_Zhang
+@ee 但愿logger还在。
+
+14:33:32 ee
+>3rk9wA Mr_Zhang：
+>@ee 但愿logger还在。
+
+@Mr_Zhang 还在还在
+
+14:33:41 Mr_Zhang
+ok
+
+14:34:22 ee
+害 那边还在吵
+
+14:39:07 金工街3号楼
+乐乐乐乐乐乐
+
+14:39:47 DPGbot
+aw
+
+14:39:48 ee
+难得一大事和我无关（
+
+14:39:51 eebot
+很难得吗
+
+14:40:00 DPGbot
+qwp
+
+14:40:01 ee
+哈哈哈哈哈哈哈哈哈
+
+14:40:04 DPGbot
+fiish
+
+14:40:08 DPGbot
+aaa
+
+14:40:12 ee
+这周也太离谱了
+
+14:40:13 DPGbot
+waitttt fisssh
+
+14:40:25 DPGbot
+qs
+
+14:40:25 ee
+先是xc炸完cc要炸
+
+14:40:44 eebot
+hey 在下李溯源
+
+14:40:49 DPGbot
+hiyo
+
+14:40:49 eebot
+hey yo DPGbot
+
+14:40:53 ee
+hi yooo
+
+14:41:12 DPGbot
+【鞠躬】
+
+14:41:40 DPGbot
+@fishh mc op!
+
+14:41:49 ee
+【90°】
+
+14:42:06 在下李溯源
+各位下午好 【鞠躬礼】
+
+14:42:50 在下李溯源
+在下真是要谢谢各位 【跪】【磕头】
+
+14:42:56 ee
+草
+
+14:42:56 在下李溯源
+【起来】
+
+14:43:00 在下李溯源
+太行了
+
+14:43:10 ee
+哈哈哈哈哈
+
+14:43:10 eebot
+草哈哈哈哈哈
+
+14:43:24 在下李溯源
+今天源环的所有补丁重要打上了
+
+14:43:27 ee
+为什么聊天室上的一个个都这么有个性（
+
+14:43:37 ee
+源环？
+
+14:43:39 在下李溯源
+终于打上了
+
+14:43:49 在下李溯源
+太他妈行了
+
+14:43:57 在下李溯源
+该没的都没了
+
+14:44:23 在下李溯源
+掌环者也被我拿棋盘砸死了
+
+14:44:39 在下李溯源
+所以我给源环起个新名字
+
+14:44:47 在下李溯源
+就叫
+
+14:45:04 ee
+就叫？
+
+14:45:19 在下李溯源
+“Orgrin”（因为感觉英文更接近它）
+
+14:45:42 在下李溯源
+简称O
+
+14:45:49 ee
+O
+
+14:45:50 eebot
+太行了
+
+14:46:00 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+14:46:00 在下李溯源
+中文翻译过来还是“源环”
+
+14:46:04 在下李溯源
+太行了
+
+14:46:13 在下李溯源
+我真是太谢谢各位了
+
+14:46:25 zzChumo
+?
+
+14:46:27 在下李溯源
+【跪】【磕头】
+
+14:46:35 在下李溯源
+【起来】
+
+14:46:39 ee
+哈哈哈哈哈哈哈哈哈
+
+14:46:46 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+14:46:50 在下李溯源
+今天下午有人给了我很大的灵感
+
+14:46:55 在下李溯源
+就一句话
+
+14:47:13 在下李溯源
+但是我不知道是谁说的（掉线了）
+
+14:47:38 在下李溯源
+所以我在CC和XC找人
+
+14:47:43 在下李溯源
+诶不对
+
+14:47:47 在下李溯源
+我想起来了
+
+14:48:05 在下李溯源
+各位 在下先行告退了 【鞠躬礼】
+
+14:49:37 eebot
+hey yo Mr_Zhang
+
+14:49:41 ee
+hi yooooooooooooo
+
+14:49:46 Mr_Zhang
+hiiiiiiiiiiiiiiiiiii
+
+14:49:46 eebot
+hi Mr_Zhang
+
+14:49:55 ee
+稳定运行中
+
+14:50:12 Mr_Zhang
+哈哈哈哈哈哈哈哈哈哈哈
+
+14:50:17 Mr_Zhang
+太好了！
+
+14:50:20 ee
+哈哈哈哈哈哈哈哈哈哈hhhh
+
+14:50:29 Mr_Zhang
+同时感谢纸片君ee
+
+14:50:47 Mr_Zhang
+十字街是不是全域锁定了？
+
+14:50:55 ee
+哈哈哈哈哈不用感谢 我觉得挺好的（
+
+14:51:01 ee
+对 但成员能进
+
+14:51:22 Mr_Zhang
+我之前在某聊天室测bot
+
+14:51:28 Mr_Zhang
+就是今日下午
+
+14:51:30 Mr_Zhang
+结果
+
+14:51:39 Mr_Zhang
+还没正式开始
+
+14:51:49 Mr_Zhang
+一名管理“kiddo”就进来了
+
+14:51:50 Mr_Zhang
+不久
+
+14:51:56 Mr_Zhang
+该聊天室就锁定了
+
+14:51:59 Mr_Zhang
+啊啊啊啊啊
+
+14:51:59 eebot
+啊啊啊啊啊啊
+
+14:52:05 ee
+啊啊啊啊啊
+
+14:52:05 eebot
+啊啊啊啊啊啊
+
+14:52:06 Mr_Zhang
+是不是闲的没事干啊！
+
+14:52:13 Mr_Zhang
+我*****他
+
+14:52:18 Mr_Zhang
+我*****它
+
+14:52:31 ee
+是有xxs好像 但我来晚了 只看到了锁房后hc有人在吵（
+
+14:52:41 Mr_Zhang
+气死我了
+
+14:52:44 Mr_Zhang
+等下
+
+14:52:48 Mr_Zhang
+什么是xxs
+
+14:52:50 eebot
+不知道（
+
+14:53:07 ee
+小学生（代指在聊天室里搞事的
+
+14:53:11 Mr_Zhang
+哦
+
+14:53:16 Mr_Zhang
+对了
+
+14:53:30 Mr_Zhang
+十字街常驻用户平均年龄是？
+
+14:54:51 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+14:55:07 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+14:55:37 ee
+>3rk9wA Mr_Zhang：
+>十字街常驻用户平均年龄是？
+
+@Mr_Zhang 大部分是高中生和大学生
+
+14:55:43 DPG
+w
+
+14:55:47 ee
+初中的都少（
+
+14:56:16 DPG
+ha
+
+14:56:17 Mr_Zhang
+哦
+
+14:56:32 Mr_Zhang
+实不相瞒，我今年14
+
+14:56:42 Mr_Zhang
+我说为什么格格不入
+
+14:56:48 DPG
+qs
+
+14:56:56 Mr_Zhang
+那好吧
+
+14:57:02 DPG
+awa
+
+14:57:05 Mr_Zhang
+我还是撤出十字街吧
+
+14:57:18 Mr_Zhang
+顺便把bot也搞下去
+
+14:57:22 DPG
+等鱼
+
+14:57:27 Mr_Zhang
+顺便把bot也弄下去
+
+14:57:30 ee
+害 还是很……
+
+14:57:36 Mr_Zhang
+等下
+
+14:57:46 Mr_Zhang
+慕容对这里有什么贡献吗？
+
+14:57:53 Mr_Zhang
+还有
+
+14:57:55 Arcadia
+bood
+
+14:57:58 Mr_Zhang
+他今年多大？
+
+14:58:29 ee
+>3rk9wA Mr_Zhang：
+>慕容对这里有什么贡献吗？
+
+@Mr_Zhang 是第三个来的用户 然后给这一些建议 顺便挂了bo_od（？
+
+14:58:36 ee
+>3rk9wA Mr_Zhang：
+>他今年多大？
+
+@Mr_Zhang 和我一样是初三（
+
+14:58:40 Mr_Zhang
+哦
+
+14:58:44 Mr_Zhang
+大哥们！
+
+14:58:49 Arcadia
+卧槽
+
+14:58:49 eebot
+卧槽
+
+14:58:51 DPG
+ha
+
+14:58:54 Mr_Zhang
+老弟先去敲代码了！
+
+14:58:55 Arcadia
+原来XC也有回复
+
+14:59:00 ee
+哈哈哈哈哈
+
+14:59:00 eebot
+哈哈哈哈哈草
+
+14:59:02 zzChumo_Ubuntu
+我才初二。。。
+
+14:59:05 DPG
+awa
+
+14:59:08 Mr_Zhang
+>GEDhlf zzChumo_Ubuntu：
+>我才初二。。。
+
+@zzChumo_Ubuntu 我也是啊
+
+14:59:12 zzChumo_Ubuntu
+hmm
+
+14:59:16 Mr_Zhang
+ahhhh
+
+14:59:30 ee
+我已经见过无数比我小但比我强的了（看透世间
+
+14:59:36 金工街3号楼
+的法国红酒看了看
+
+14:59:41 ee
+哈哈哈哈哈
+
+14:59:41 eebot
+哈哈哈哈哈嗝-
+
+14:59:49 DPG
+aw
+
+14:59:50 Mr_Zhang
+额
+
+14:59:51 ee
+（淡定）
+
+15:00:16 eebot
+hello 13bruh
+
+15:00:18 ee
+对了 你们都有在hc吗
+
+15:00:21 DPG
+yo
+
+15:00:22 ee
+hi yoooooo
+
+15:00:26 DPG
+1e3
+
+15:00:29 ee
+还是cc
+
+15:00:30 Mr_Zhang
+ZhangBot、ZhangKiller、ZhangProtector、ZhangLogger、Zhang......
+
+15:00:35 ee
+oh
+
+15:00:37 zzChumo_Ubuntu
+hi
+
+15:00:38 eebot
+zzChumo_Ubuntu!
+
+15:00:43 DPG
+hi
+
+15:00:43 eebot
+hi DPG
+
+15:00:47 13bruh
+比较失望 以后不常来了
+
+15:00:54 Mr_Zhang
+让我来演示一下
+
+15:00:56 ee
+？
+
+15:01:08 DPG
+?
+
+15:01:09 ee
+啊 这 怎么了啊
+
+15:01:10 Mr_Zhang
+Zhang系列Bot进化史
+
+15:01:18 zzChumo_Ubuntu
+>ci8FBC ee：
+>？
+
+@ee 在hc和404激情对线了（
+
+15:01:25 Mr_Zhang
+Hi，我是Mr_Zhang，我要编写bot了
+
+15:01:25 ee
+wow
+
+15:01:33 eebot
+hi yo ZhangBot
+
+15:01:40 ZhangBot
+Hello World !
+
+15:01:41 DPG
+wow
+
+15:01:43 DPG
+h
+
+15:01:43 eebot
+wow？
+
+15:01:56 eebot
+hi DPG_Bot
+
+15:01:57 ZhangBot
+大家好！我是机器人ZhangBot！欢迎大家玩我！
+
+15:02:00 ee
+hello world！
+
+15:02:08 DPG_Bot
+Hello world!
+
+15:02:09 DPG_Bot
+h
+
+15:02:09 eebot
+hi yo ZhangKiller
+
+15:02:16 DPG_Bot
+玩
+
+15:02:24 zzChumo_Ubuntu
+一堆CC和HC和XC的在HC吵吵CC的管理不作为还不听别人意见
+
+15:02:24 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+15:02:28 ZhangKiller
+$$\huge\color{red}{Mr_Zhang滚出去！}$$
+
+15:02:39 eebot
+hi yo ZhangProtector
+
+15:02:41 DPG_Bot
+h
+
+15:02:55 ZhangProtector
+$$\huge\color{red}{盗号警告！Mr_Zhang是假的！}$$
+
+15:03:01 DPG_Bot
+h
+
+15:03:05 eebot
+hey yo ZhangLogger
+
+15:03:11 ZhangLogger
+start logging...
+
+15:03:16 DPG_Bot
+log
+
+15:03:23 eebot
+hi yo Mr_Zhang
+
+15:03:26 DPG_Bot
+hiyo
+
+15:03:28 DPG_Bot
+h
+
+15:03:29 Mr_Zhang
+好了
+
+15:04:04 DPG_Bot
+awa
+
+15:04:28 eebot
+111222
+
+15:08:32 zzChumo_Ubuntu
+好似
+
+15:08:40 zzChumo_Ubuntu
+十字街内乱咯
+
+15:08:56 Arcadia
+没有啊
+
+15:09:08 Arcadia
+十字街内部一直没出大问题
+
+15:09:16 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+15:09:18 eebot
+hey Arwen
+
+15:09:24 Arcadia
+hi
+
+15:09:31 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+15:09:47 eebot
+hi yo Arwen
+
+15:10:00 Arwen
+az
+
+15:10:07 Arwen
+还要验证的
+
+15:10:12 Mr_Zhang
+对啊
+
+15:10:17 Mr_Zhang
+防止刷屏机器人
+
+15:10:23 Arwen
+咋换头像
+
+15:10:39 Arcadia
+侧边栏
+
+15:11:00 eebot
+13bruh!
+
+15:11:12 13bruh
+话说
+
+15:11:19 Arwen
+一起看视频是啥
+
+15:11:19 B站的J
+@Arwen 85混战
+
+15:11:20 13bruh
+ee的模拟器搞好了没
+
+15:11:20 eebot
+的法国红酒看了看
+
+15:11:55 Arwen
+test
+
+15:12:24 eebot
+hi yo 小张软件_XChat_for_Windows
+
+15:12:32 eebot
+hey Sakura
+
+15:12:32 Mr_Zhang
+Ohhhhhhhhhhhhhhhhhhhhhhh
+
+15:12:38 Mr_Zhang
+成功啦！！！！！！！！！！！！！！！！！！！
+
+15:13:02 Mr_Zhang
+XChat for Windows成功啦啊啊啊啊啊啊啊啊啊
+
+15:13:08 Arcadia
+啊
+
+15:13:32 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+15:13:37 Arcadia
+又一个XC/HC/CC客户端出现了
+
+15:13:46 eebot
+好家伙，你来干啥
+
+15:14:22 zzChat_for_ChromeOS
+zzChat for ChromeOS只是流产
+
+15:14:32 zzChat_for_ChromeOS
+并不代表没做出来（
+
+15:15:05 eebot
+小张在用XChat_for_Windows!
+
+15:15:10 zzChumo
+hi
+
+15:15:11 eebot
+hi yo zzChumo
+
+15:15:15 eebot
+hey yo 13bruh
+
+15:15:19 zzChat_for_ChromeOS
+hi
+
+15:15:20 eebot
+hello zzChat_for_ChromeOS
+
+15:15:26 eebot
+hey yo 13bruh
+
+15:16:03 zzChumo
+@fishh
+
+15:16:04 fishh
+hi yo各位
+
+15:16:11 eebot
+13bruh!
+
+15:16:23 Mr_Zhang
+a
+
+15:16:25 zzChat_for_ChromeOS
+( ﾟ∀。)
+
+15:16:26 Mr_Zhang
+hi
+
+15:16:38 eebot
+hi yo 小张在用XChat_for_Windows
+
+15:16:44 Mr_Zhang
+@fishh OK
+
+15:16:48 Mr_Zhang
+基本完工
+
+15:16:56 fishh
+@Mr_Zhang ohhhhhhhhhhhhhhhhhhhhhhhh
+
+15:16:56 B站的J
+我爱你😍😍【doge】
+
+15:17:04 zzChumo
+2.30的zzChat加入了多语言支持
+
+15:17:11 Mr_Zhang
+只是JSON解析嘛。。。
+
+15:17:16 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+15:17:25 zzChumo
+根据系统语言自动更改语言
+
+15:17:28 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+15:17:35 Mr_Zhang
+被刷屏
+
+15:17:38 eebot
+好家伙，你来干啥
+
+15:17:38 Mr_Zhang
+别刷屏
+
+15:17:39 4n0n4me
+@fishh ee说进不去xc
+
+15:17:45 Mr_Zhang
+？？？
+
+15:17:46 eebot
+hey lokiu
+
+15:17:51 B站的J
+我爱你😍😍【doge】
+
+15:17:52 fishh
+@4n0n4me woc不该啊
+
+15:17:57 fishh
+@4n0n4me 被限制了？
+
+15:18:00 DPG
+?
+
+15:18:02 4n0n4me
+一直提醒说：你加入聊天室的频率太高，请稍后再试
+
+15:18:07 fishh
+好家伙
+
+15:18:08 B站的J
+@Mr_Zhang 
+
+15:18:09 Mr_Zhang
+`unbanall
+
+15:18:11 Mr_Zhang
+OK
+
+15:18:14 zzChumo
+@fishh 这是我上午发现的bug
+
+15:18:16 fishh
+@Mr_Zhang 感谢
+
+15:18:21 Mr_Zhang
+我也是
+
+15:18:22 zzChumo
+告诉了你
+
+15:18:25 B站的J
+为了这
+
+15:18:27 Mr_Zhang
+我被ban了一上午啊
+
+15:18:31 B站的J
+我还换了个IP
+
+15:18:31 zzChumo
+你没管（
+
+15:18:34 fishh
+@zzChumo 可惜我下午才能修这个
+
+15:18:34 eebot
+没羞没臊
+
+15:18:38 lokiu
+十字街停服了吗
+
+15:18:39 fishh
+@eebot 好家伙
+
+15:18:40 eebot
+如果是这样的话（？
+
+15:18:43 DPG
+hh
+
+15:18:44 zzChumo
+@lokiu 没有
+
+15:18:48 Mr_Zhang
+>lokiu：
+>十字街停服了吗
+
+@lokiu 全域锁定
+
+15:18:53 zzChumo
+锁房了
+
+15:19:02 lokiu
+啥情况
+
+15:19:05 zzChumo
+>3rk9wA Mr_Zhang：
+>>lokiu：
+>>十字街停服了吗
+>
+>@lokiu 全域锁定
+
+@Mr_Zhang 现在不是了
+
+15:19:14 lokiu
+刚才我登没进去
+
+15:19:21 eebot
+hi yo XChat_for_Windows
+
+15:19:28 zzChat_for_ChromeOS
+hi
+
+15:19:37 B站的J
+给我下载链接
+
+15:19:42 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+15:19:46 DPG
+yo
+
+15:19:57 fishh
+hi yooooooooooooooooo
+
+15:20:25 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+15:20:37 XChat_for_Windows
+Hello World！
+
+15:20:43 ee
+hhh
+
+15:20:46 fishh
+经典语句
+
+15:20:48 DPG
+hh
+
+15:20:54 fishh
+@ee 好家伙你终于进来了
+
+15:21:00 XChat_for_Windows
+不知验证码该怎么办。。。
+
+15:21:03 B站的J
+HDHUSDXUIFDOUJCFDPUIDSOKSDFJNCIJ
+
+15:21:09 ee
+太离谱了
+
+15:21:13 XChat_for_Windows
+我这里是显示一个链接
+
+15:21:23 Mr_Zhang
+`unbanall
+
+15:21:38 fishh
+@XChat_for_Windows 验证码和图片是一个道理
+
+15:21:39 eebot
+13bruh!
+
+15:21:52 eebot
+13bruh!
+
+15:21:58 DPG
+ho
+
+15:22:07 XChat_for_Windows
+好的！
+
+15:22:13 fishh
+所以咱就是说各位发现验证码只剩1次机会的时候直接刷新
+
+15:22:18 DPG
+qs
+
+15:22:57 fishh
+我打算再找个mc管理员
+
+15:23:01 zzChumo
+我
+
+15:23:04 zzChumo
+（
+
+15:23:05 DPG
+awa
+
+15:23:07 fishh
+你就算了 @zzChumo 
+
+15:23:11 DPG
+awa?
+
+15:23:11 eebot
+awa?
+
+15:23:16 B站的J
+@zzChumo 诈骗分子还想当啊
+
+15:23:22 DPG
+诈 骗
+
+15:23:25 DPG
+hh
+
+15:23:34 fishh
+@DPG 现在服务器都有谁
+
+15:23:46 DPG
+现在没人
+
+15:23:51 eebot
+hey yo 13bruh
+
+15:23:54 eebot
+111222
+
+15:23:55 fishh
+好家伙，那晚上再说吧
+
+15:23:59 XChat_for_Windows
+稍后发UI设计图
+
+15:23:59 DPG
+就我
+
+15:24:00 DPG
+hh
+
+15:24:12 fishh
+@XChat_for_Windows ohhhhhhhh好耶
+
+15:24:15 DPG
+龙蛋我找到了
+
+15:24:22 DPG
+放回去了
+
+15:24:26 fishh
+晚上再说吧
+
+15:24:30 DPG
+ok
+
+15:25:32 ee
+啊 cc安静了
+
+15:25:40 DPG
+a
+
+15:25:40 13bruh
+哈哈 cc我进不去
+
+15:25:51 13bruh
+以后看心情 基本不会再去了
+
+15:26:01 13bruh
+除非有瓜
+
+15:26:01 ee
+woc（
+
+15:26:33 13bruh
+我上聊天室可能的原因：找ee 找ee 找ee
+
+15:26:48 13bruh
+要么就是找fish开服务器
+
+15:26:49 Arcadia
+哎对了
+
+15:26:49 ee
+哈哈哈哈哈哈哈哈哈哈
+
+15:26:54 Mr_Zhang
+[![image.png](https://i.postimg.cc/q7CsY3cP/image.png)](https://postimg.cc/nsp99MP2)
+
+15:26:58 eebot
+·
+@Mr_Zhang Postimages—freeimagehosting/imageupload
+https://i.postimg.cc/q7CsY3cP/image.png]https://postimg.cc/nsp99MP2
+
+15:27:07 Mr_Zhang
+设计的有点简陋
+
+15:27:19 Mr_Zhang
+先从小目标做起
+
+15:27:20 ee
+好家伙
+
+15:27:20 13bruh
+靠 我作业还没写
+
+15:27:32 ee
+桌面端xc
+
+15:27:36 Mr_Zhang
+对对对
+
+15:27:36 eebot
+对对对对
+
+15:27:39 ee
+草 我半点都没写（
+
+15:27:45 Arcadia
+可以尝试用HTML写
+
+15:27:48 eebot
+问世间情为何物 只教人生死相随（
+
+15:27:52 Mr_Zhang
+我完成了作业
+
+15:27:52 Arcadia
+我觉得会好看一点
+
+15:28:01 Mr_Zhang
+>52AgGu Arcadia：
+>可以尝试用HTML写
+
+@Arcadia 但是我不会HTML啊
+
+15:28:03 DPG
+wat
+
+15:28:07 DPG
+done
+
+15:28:08 DPG
+hh
+
+15:28:17 Arcadia
+找zz（
+
+15:28:18 DPG
+wow
+
+15:28:22 Mr_Zhang
+@DPG 请勿刷屏，谢谢。
+
+15:28:24 ee
+ohh
+
+15:28:52 Mr_Zhang
+>52AgGu Arcadia：
+>找zz（
+
+@Arcadia 抱歉，初墨不是小张软件的程序员啊。
+
+15:29:08 Mr_Zhang
+afk 敲代码
+
+15:29:23 zzChumo
+@Mr_Zhang 可以使用开源的GS App Frame
+
+15:29:29 Mr_Zhang
+哦
+
+15:29:37 zzChumo
+注释都敲好了
+
+15:29:38 Mr_Zhang
+只是，我不会啊啊啊啊啊啊啊啊啊啊
+
+15:29:40 金工街3号楼
+Arwen走了
+
+15:29:43 zzChumo
+注释都敲好了
+
+15:29:45 金工街3号楼
+85混战也没了
+
+15:29:50 Mr_Zhang
+语言啊
+
+15:30:02 zzChumo
+按照注释改文件就行
+
+15:30:07 eebot
+hi yo Sakura
+
+15:30:16 ee
+hi yooooo
+
+15:30:27 Arcadia
+hi
+
+15:30:51 Mr_Zhang
+hi
+
+15:30:56 Mr_Zhang
+@zzChumo 我是说
+
+15:31:06 Mr_Zhang
+我不会那门语言啊
+
+15:31:12 Mr_Zhang
+我用的是VB
+
+15:31:20 Mr_Zhang
+Visual Basic 6.0
+
+15:31:20 zzChumo
+hmm
+
+15:32:29 Arcadia
+6.0？
+
+15:32:29 eebot
+对对对
+
+15:32:35 Arcadia
+我查了一下
+
+15:32:47 Arcadia
+6.0是98年的啊
+
+15:32:53 DPG
+h
+
+15:32:57 Sakura
+h
+
+15:32:58 Mr_Zhang
+@Arcadia 对啊
+
+15:33:01 Mr_Zhang
+因为简单
+
+15:33:06 Mr_Zhang
+我选择了他
+
+15:33:10 Arcadia
+98年的语言做软件当然丑啊（
+
+15:33:12 Mr_Zhang
+第一个学的语言
+
+15:33:17 Mr_Zhang
+额
+
+15:33:42 Arcadia
+只不过微软把兼容6.0的dll保留了下来
+
+15:33:46 Mr_Zhang
+嗯
+
+15:33:48 Mr_Zhang
+是啊
+
+15:33:57 ee
+啊这 能做成就行了 丑不丑无所谓（
+
+15:34:04 DPG
+(
+
+15:34:07 Arcadia
+（
+
+15:34:26 Arcadia
+VB不是后续有升级吗
+
+15:34:44 Mr_Zhang
+不
+
+15:34:49 Mr_Zhang
+那是引入了.net
+
+15:34:59 Mr_Zhang
+不是真正的vb了
+
+15:35:06 Mr_Zhang
+叫做vb.net
+
+15:35:11 Arcadia
+额
+
+15:35:18 Arcadia
+那你为啥不用他呢
+
+15:35:23 Mr_Zhang
+是一门完全面向对象的语言
+
+15:35:26 Mr_Zhang
+因为。。。
+
+15:35:33 Mr_Zhang
+改动太大了
+
+15:35:41 Mr_Zhang
+让我都无法适应了啊
+
+15:35:45 Arcadia
+毕竟编程语言都是相通的啊
+
+15:35:51 Mr_Zhang
+就比如
+
+15:36:04 Arcadia
+无非就是，面向过程和面向对象
+
+15:36:10 Mr_Zhang
+```[visual basic]
+msgbox "Hello World！"
+
+15:36:10 ZhangModHelper
+出错了！详细信息：暂时不支持该命令！
+
+15:36:15 Mr_Zhang
+这个代码
+
+15:36:23 Mr_Zhang
+如果在vb.net上运行
+
+15:36:26 Mr_Zhang
+就会报错
+
+15:36:30 Arcadia
+az
+
+15:36:51 Mr_Zhang
+连loadpicture函数都没有
+
+15:37:03 Arcadia
+>3rk9wA Mr_Zhang：
+>就会报错
+
+@Mr_Zhang （点名py2/3
+
+15:37:06 ee
+>3rk9wA Mr_Zhang：
+>这个代码
+
+@Mr_Zhang 正确的写法是什么
+
+15:37:37 Mr_Zhang
+>ci8FBC ee：
+>>3rk9wA Mr_Zhang：
+>>这个代码
+>
+>@Mr_Zhang 正确的写法是什么
+
+@ee 
+
+```[vb.net]
+msgbox("Hello World！")
+
+15:37:43 Mr_Zhang
+加上括号
+
+15:37:44 Mr_Zhang
+但是
+
+15:37:53 ee
+ohh
+
+15:38:01 Mr_Zhang
+msgbox("Hello World！")不能在vb6上用
+
+15:39:20 ee
+原来如此
+
+15:41:55 eebot
+hi yo 4n0n4me
+
+15:42:05 ee
+hi yoooooo
+
+15:42:15 Mr_Zhang
+hi
+
+15:44:27 DPG
+hi
+
+15:44:36 Mr_Zhang
+未设置对象变量或With bolck变量
+
+15:44:38 Mr_Zhang
+额
+
+15:44:41 eebot
+hey yo 13bruh
+
+15:44:44 Mr_Zhang
+这个错误。。。
+
+15:44:47 Mr_Zhang
+说白了
+
+15:44:54 eebot
+hi yo 13bruh
+
+15:44:59 Mr_Zhang
+没对象！
+
+15:45:06 Mr_Zhang
+就是这个意思
+
+15:45:09 13bruh
+？
+
+15:46:11 Mr_Zhang
+未设置对象变量或With bolck变量
+
+15:46:15 Mr_Zhang
+这个错误。。。
+
+15:46:19 Mr_Zhang
+说白了
+
+15:46:26 Mr_Zhang
+就是没对象！
+
+15:46:31 Mr_Zhang
+所以
+
+15:46:40 Mr_Zhang
+我应该声明一个对象
+
+15:47:10 Mr_Zhang
+所以
+
+15:47:11 Mr_Zhang
+Set ws = New VBToolsLib.Websocket
+
+15:47:33 Mr_Zhang
+嗯？？？
+
+15:47:39 Mr_Zhang
+程序怎么闪退了？？？
+
+16:00:05 eebot
+hey yo XChat桌面客户端
+
+16:01:14 eebot
+如果站长看到的话请给个管理员
+
+16:01:25 Mr_Zhang
+hi
+
+16:01:29 Mr_Zhang
+上午
+
+16:01:35 Mr_Zhang
+我在十字街
+
+16:01:35 eebot
+我在十字街
+
+16:01:42 Mr_Zhang
+有人向我求婚
+
+16:01:47 Mr_Zhang
+是个死变态
+
+16:01:50 Mr_Zhang
+还有
+
+16:01:54 Mr_Zhang
+他还冒充我
+
+16:02:01 Mr_Zhang
+你说这是谁呢？
+
+16:02:07 Mr_Zhang
+@钓鱼的Qwer
+
+16:02:29 ee
+草
+
+16:02:32 ee
+《求婚》
+
+16:02:34 Sakura
+hhh
+
+16:02:36 ee
+真的假的
+
+16:02:39 Mr_Zhang
+真的
+
+16:02:44 Mr_Zhang
+千真万确
+
+16:02:48 ee
+ohhhhhhhhhh
+
+16:02:53 eebot
+如果站长看到的话请给个管理员
+
+16:02:54 Mr_Zhang
+我TMD
+
+16:02:55 Sakura
+答应了吗
+
+16:02:57 ee
+Qwer是男是女
+
+16:02:58 Sakura
+hhh
+
+16:02:58 Mr_Zhang
+没有
+
+16:03:03 ee
+哈哈哈哈哈
+
+16:03:03 eebot
+哈哈哈哈哈草
+
+16:03:05 Mr_Zhang
+我说
+
+16:03:11 Mr_Zhang
+我还没到那个年纪
+
+16:03:13 钓鱼的Qwer
+cao
+
+16:03:15 DPG
+h
+
+16:03:22 Mr_Zhang
+我深知早恋的危害
+
+16:03:25 钓鱼的Qwer
+验证码
+
+16:03:27 Mr_Zhang
+《标准回答》
+
+16:03:33 钓鱼的Qwer
+hhhh
+
+16:03:36 ee
+《突然中枪》
+
+16:03:36 eebot
+咱是中国人 请讲中文 谢谢！
+
+16:03:47 Mr_Zhang
+我义正言辞的回怼了他
+
+16:03:50 钓鱼的Qwer
+谁早恋
+
+16:03:51 Mr_Zhang
+额
+
+16:03:55 Mr_Zhang
+我这里
+
+16:04:02 Mr_Zhang
+怎么还
+
+16:04:05 钓鱼的Qwer
+。
+
+16:04:08 Mr_Zhang
+一大堆弹窗？？
+
+16:04:15 钓鱼的Qwer
+好了我知道了
+
+16:04:19 ee
+~~虽然我自己也~~我也不会允许eb早恋的（
+
+16:04:37 钓鱼的Qwer
+我是男的@ee 
+
+16:04:51 ee
+草 啊 草
+
+16:04:52 Mr_Zhang
+我也是
+
+16:04:56 钓鱼的Qwer
+所以你问这个干什么
+
+16:05:02 Mr_Zhang
+有人怀疑是你
+
+16:05:05 Mr_Zhang
+但不是我
+
+16:05:08 钓鱼的Qwer
+si
+
+16:05:08 ee
+？
+
+16:05:29 Mr_Zhang
+[![image.png](https://i.postimg.cc/R0dLBBJm/image.png)](https://postimg.cc/WDDkGx7Y)
+
+16:05:39 钓鱼的Qwer
+我开学了
+
+16:05:40 Mr_Zhang
+啊
+
+16:05:40 钓鱼的Qwer
+难受
+
+16:05:40 ee
+好家伙
+
+16:05:40 eebot
+·
+@Mr_Zhang Postimages—freeimagehosting/imageupload
+https://i.postimg.cc/R0dLBBJm/image.png]https://postimg.cc/WDDkGx7Y
+
+16:05:42 Mr_Zhang
+啊
+
+16:05:42 ee
+一个个都开学了
+
+16:05:42 eebot
+如果站长看到的话请给个管理员
+
+16:05:42 eebot
+eebot这里
+
+16:05:46 Mr_Zhang
+[![image.png](https://i.postimg.cc/R0dLBBJm/image.png)](https://postimg.cc/WDDkGx7Y)
+
+16:05:49 Mr_Zhang
+看
+
+16:05:49 ee
+hi yoooo
+
+16:05:50 eebot
+·
+@Mr_Zhang Postimages—freeimagehosting/imageupload
+https://i.postimg.cc/R0dLBBJm/image.png]https://postimg.cc/WDDkGx7Y
+
+16:05:50 ee
+woc
+
+16:05:51 Mr_Zhang
+一大堆弹窗
+
+16:05:59 ee
+绝了
+
+16:06:19 eebot
+如果站长看到的话请给个管理员
+
+16:06:22 Mr_Zhang
+还弹呢
+
+16:06:23 金工街3号楼
+而我独uiewfuisuidsfhudihusduisdsfd
+
+16:07:11 eebot
+如果站长看到的话请给个管理员
+
+16:07:14 Mr_Zhang
+不是
+
+16:07:27 Mr_Zhang
+服务器怎么还给我断开连接了呢？
+
+16:07:28 钓鱼的Qwer
+服了
+
+16:07:33 钓鱼的Qwer
+那个验证码
+
+16:07:36 Mr_Zhang
+这是个有脾气的服务器
+
+16:07:41 Mr_Zhang
+《how rude》
+
+16:07:54 钓鱼的Qwer
+怎么都不对
+
+16:07:56 钓鱼的Qwer
+cao
+
+16:07:57 Mr_Zhang
+额
+
+16:07:59 Mr_Zhang
+`unbanall
+
+16:08:05 Mr_Zhang
+赶紧解封
+
+16:08:11 钓鱼的Qwer
+饿
+
+16:08:28 Mr_Zhang
+十字街解锁了吗？
+
+16:08:45 钓鱼的Qwer
+mei
+
+16:08:48 钓鱼的Qwer
+no
+
+16:09:11 钓鱼的Qwer
+我不敢退了
+
+16:09:21 钓鱼的Qwer
+怕等一下又进不来
+
+16:09:24 钓鱼的Qwer
+唉
+
+16:09:24 Mr_Zhang
+额
+
+16:09:28 Mr_Zhang
+`unbanall
+
+16:09:46 钓鱼的Qwer
+所以这个验证码是哪个天才想的
+
+16:09:48 eebot
+不能说 自己猜吧
+
+16:10:05 钓鱼的Qwer
+听我说谢谢你
+
+16:10:11 钓鱼的Qwer
+因为有你
+
+16:10:16 钓鱼的Qwer
+hhh
+
+16:10:38 ee
+不能说 自己猜吧（
+
+16:10:50 钓鱼的Qwer
+ee是吧
+
+16:10:57 Mr_Zhang
+黑茶的刷屏机器人把这里搞崩溃了
+
+16:11:03 钓鱼的Qwer
+emmm
+
+16:11:09 钓鱼的Qwer
+所以黑茶呢
+
+16:11:09 金工街3号楼
+嘎嘎小游戏挖管道
+
+16:11:14 金工街3号楼
+嘎嘎小游戏挖管道
+
+16:11:14 ee
+什么 当然是~~好吃的~~鱼啊
+
+16:11:27 钓鱼的Qwer
+@ee 你是机器人吧
+
+16:11:38 ee
+>3rk9wA Mr_Zhang：
+>黑茶的刷屏机器人把这里搞崩溃了
+
+@Mr_Zhang 对 确实 为了防机器人搞出了的
+
+16:11:50 ee
+我长得很机器人吗（
+
+16:11:56 Mr_Zhang
+不像啊
+
+16:12:05 ee
+哈哈哈哈哈哈哈哈
+
+16:12:12 钓鱼的Qwer
+美没视频看
+
+16:12:17 钓鱼的Qwer
+没
+
+16:12:18 Mr_Zhang
+>TmzAyN 钓鱼的Qwer：
+>@ee 你是机器人吧
+
+@钓鱼的Qwer 你见过机器人写机器人吗？
+
+16:12:20 钓鱼的Qwer
+si
+
+16:12:26 钓鱼的Qwer
+si
+
+16:12:43 钓鱼的Qwer
+阿巴阿巴
+
+16:13:36 钓鱼的Qwer
+好多挂机怪
+
+16:13:44 eebot
+hey XChat桌面客户端
+
+16:13:56 ee
+我找个b站解析的网址
+
+16:14:01 钓鱼的Qwer
+分批 秘裁
+
+16:14:02 ee
+hi yooooo？
+
+16:14:08 Mr_Zhang
+呵呵
+
+16:14:17 Mr_Zhang
+`kick XChat桌面客户端
+
+16:14:17 ee
+哈哈
+
+16:14:18 eebot
+哈哈
+
+16:14:23 钓鱼的Qwer
+si
+
+16:14:29 钓鱼的Qwer
+他怎么了
+
+16:16:02 eebot
+XChat桌面客户端!
+
+16:16:07 DPG
+?
+
+16:16:18 eebot
+如果站长看到的话请给个管理员
+
+16:16:32 钓鱼的Qwer
+si
+
+16:16:56 ee
+在 找个长点的
+
+16:17:03 ee
+啊 找个长点的
+
+16:17:06 钓鱼的Qwer
+hhh
+
+16:17:23 钓鱼的Qwer
+话说谁跟谁早恋
+
+16:17:34 Mr_Zhang
+为啥会断开连接？
+
+16:17:35 钓鱼的Qwer
+谁能告诉我
+
+16:17:40 Mr_Zhang
+JSON发送的不对吗？
+
+16:17:57 ee
+~~eebot和MRGAO~~没有
+
+16:18:34 钓鱼的Qwer
+额
+
+16:18:55 钓鱼的Qwer
+不应该是eb和zb吗
+
+16:18:58 eebot
+XChat_for_Windows!
+
+16:20:26 eebot
+XChat_for_Windows!
+
+16:20:34 钓鱼的Qwer
+什么玩意
+
+16:21:10 Mr_Zhang
+那是我在测试
+
+16:21:11 钓鱼的Qwer
+🐙
+
+16:21:19 钓鱼的Qwer
+🐶
+
+16:21:27 钓鱼的Qwer
+🌊
+
+16:21:37 eebot
+xc桌面客户端!
+
+16:21:48 钓鱼的Qwer
+你们能看到表情吗
+
+16:21:55 钓鱼的Qwer
+🐵
+
+16:22:05 Mr_Zhang
+嗯
+
+16:22:30 eebot
+hi srgh
+
+16:22:46 Sakura
+hi yoooo
+
+16:24:12 eebot
+hey yo xc桌面客户端
+
+16:25:35 xc桌面客户端
+OK
+
+16:25:52 xc桌面客户端
+终于通过验证码了！
+
+16:26:05 Sakura
+hhh
+
+16:26:14 Mr_Zhang
+Y-一起向未来
+
+16:26:15 eebot
+歌曲：一起向未来
+歌手：易烊千玺
+封面：http://p1.music.126.net/CNn4NS8_qH_OQnQXd236IQ==/109951166616303692.jpg
+
+16:26:18 Mr_Zhang
+OK
+
+16:26:36 xc桌面客户端
+只是JSON差点
+
+16:26:39 eebot
+她在等xc桌面客户端去找她 去吧！加油）
+
+16:27:19 eebot
+hi yo 4n0n4me
+
+16:27:20 eebot
+hey 4n0n4me
+
+16:28:33 eebot
+hey yo XChat桌面客户端
+
+16:29:04 XChat桌面客户端
+kfu7
+
+16:29:13 XChat桌面客户端
+`ban Mr_Zhang
+
+16:29:13 ZhangModHelper
+出错了！详细信息：不能禁止同级别的其他用户
+
+16:30:04 XChat桌面客户端
+哈哈哈哈哈哈哈哈
+
+16:30:13 XChat桌面客户端
+我成功了！！！
+
+16:30:25 ee
+ohhhhhhh
+
+16:30:28 ee
+加油加油！
+
+16:30:32 Mr_Zhang
+好
+
+16:30:40 Mr_Zhang
+我再改改细节
+
+16:30:49 金工街3号楼
+相机开始的讲课时
+
+16:31:15 钓鱼的Qwer
+。
+
+16:31:20 钓鱼的Qwer
+。
+
+16:31:22 钓鱼的Qwer
+。
+
+16:31:31 钓鱼的Qwer
+。
+
+16:31:42 ee
+小心刷屏（
+
+16:32:17 金工街3号楼
+·
+
+16:32:19 金工街3号楼
+。
+
+16:32:19 ee
+http://api.dataeverything.top/sb
+
+16:32:20 eebot
+·
+@ee 404NotFound
+http://api.dataeverything.top/sb
+
+16:32:28 Mr_Zhang
+（过于高兴而忘记加上End If）
+
+16:32:32 ee
+好家伙
+
+16:32:37 Mr_Zhang
+（导致出错）
+
+16:32:56 钓鱼的Qwer
+。
+
+16:32:57 ee
+（悠着点啊喂）
+
+16:33:09 eebot
+hey yo XChat桌面客户端
+
+16:33:41 XChat桌面客户端
+OK
+
+16:34:04 XChat桌面客户端
+可以用回车代替发送按钮了
+
+16:34:29 XChat桌面客户端
+。
+
+16:35:32 XChat桌面客户端
+嗯
+
+16:35:34 XChat桌面客户端
+不错
+
+16:35:35 eebot
+。
+
+16:35:49 XChat桌面客户端
+只是这自动滚动啊，，，没有实现。
+
+16:36:11 ee
+好 值得肯定！已经很不错了
+
+16:36:24 XChat桌面客户端
+只是这个。。。
+
+16:36:25 XChat桌面客户端
+看
+
+16:36:59 钓鱼的Qwer
+看
+
+16:37:05 ee
+好家伙？
+
+16:37:13 Mr_Zhang
+一大堆JSON输出
+
+16:37:28 Mr_Zhang
+这一大堆
+
+16:37:32 Mr_Zhang
+一大坨
+
+16:37:37 Mr_Zhang
+["ZhangModHelper","eebot","Arcadia","Mr_Zhang","DPG","ee","金工街3号楼","Sakura","钓鱼的Qwer","4n0n4me","[VNC/I0]e1bot｜挂机","[VNC/I0]eeebot｜挂机","[ZVtVti]mrz｜挂机","[8LJ4jb]被吃的DPG｜挂机","[8LJ4jb]DPG君｜挂机","[zr8srO]123｜挂机","[8tZZaJ]吃掉DPG君的黑茶｜挂机","[8LJ4jb]吃掉被吃掉DPG君的黑茶吃掉的DPG君的DPG君｜挂机","[Admin]fish2｜挂机","[sjzKu4]MRGAO｜挂机","[gKgRfU]Allen｜挂机","[8LJ4jb]DPGbot｜挂机","[8LJ4jb]DPG_Bot｜挂机","[8LJ4jb]DPG｜挂机","[TmzAyN]钓鱼的Qwer｜挂机","XChat桌面客户端"],"users":
+
+16:37:40 Mr_Zhang
+啊啊啊
+
+16:37:40 eebot
+啊啊啊啊
+
+16:37:42 Mr_Zhang
+好无语
+
+16:38:31 ee
+啊 绝了
+
+16:38:37 钓鱼的Qwer
+为什么我显示挂机
+
+16:38:39 ee
+在线列表也太长了吧
+
+16:38:42 eebot
+hi aaa
+
+16:38:53 Mr_Zhang
+对啊
+
+16:39:05 Mr_Zhang
+等下
+
+16:39:12 Mr_Zhang
+十字街还是锁房啊
+
+16:39:33 Mr_Zhang
+这回不是全域锁定了
+
+16:40:02 钓鱼的Qwer
+si
+
+16:40:26 钓鱼的Qwer
+所以他们在干什么呢
+
+16:41:07 Mr_Zhang
+呵呵
+
+16:42:09 钓鱼的Qwer
+。
+
+16:45:45 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+16:46:03 ee
+对阴间屑初墨表示强烈谴责的验证码
+
+16:46:48 金工街3号楼
+对阴间屑初墨表示强烈谴责的验证码
+
+16:46:55 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+16:47:04 eebot
+hi 对阴间屑初墨表示强烈谴责的验证码
+
+16:47:22 ee
+哈哈哈哈哈哈哈哈哈
+
+16:47:33 Mr_Zhang
+`kick 对阴间屑初墨表示强烈谴责的验证码
+
+16:47:37 Mr_Zhang
+那是我
+
+16:47:38 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+16:47:49 ee
+哈哈哈哈哈哈哈哈哈
+
+16:48:00 对阴间验证码表示强烈谴责的屑初墨
+麻痹
+
+16:48:09 对阴间验证码表示强烈谴责的屑初墨
+终于通过验证了
+
+16:48:17 对阴间验证码表示强烈谴责的屑初墨
+什么傻逼验证码
+
+16:48:20 eebot
+对阴间验证码表示强烈谴责的屑初墨出生后是不是被扔上去3次 但只被接住2次？）
+
+16:48:32 ee
+因为验证码对阴间屑初墨表示强烈谴责
+
+16:48:56 对阴间验证码表示强烈谴责的屑初墨
+@eebot 这么说你被人操过哦
+
+16:48:59 eebot
+要帅得才给压（
+
+16:49:03 ee
+哈哈哈哈哈哈哈哈
+
+16:49:17 对阴间验证码表示强烈谴责的屑初墨
+@eebot 我压死你
+
+16:49:19 eebot
+加强摩擦深度）
+
+16:49:24 ee
+哈哈哈哈哈哈哈哈哈
+
+16:49:33 对阴间验证码表示强烈谴责的屑初墨
+得 越来越不对劲了
+
+16:49:43 Sakura
+ha
+
+16:50:03 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+16:50:08 ee
+eb跟谁学的呢（恼
+
+16:50:22 Sakura
+hhh
+
+16:51:15 智障初墨中国总墨
+>ci8FBC ee：
+>eb跟谁学的呢（恼
+
+@ee ee是homo（误
+
+16:51:52 智障初墨中国总墨
+>GEDhlf 智障初墨中国总墨：
+>>ci8FBC ee：
+>>eb跟谁学的呢（恼
+>
+>@ee ee是homo（误
+
+@智障初墨中国总墨 不，ee是inm（
+
+16:52:10 ee
+@eebot Homo数字论证器
+
+16:52:10 eebot
+https://tools.thz.cool/homo.html
+
+16:52:55 智障初墨中国总墨
+１１４５１４
+
+16:53:06 智障初墨中国总墨
+いいよこいよ
+
+16:53:18 智障初墨中国总墨
+ｲｲﾖ､ｺｲﾖ
+
+16:53:48 智障初墨中国总墨
+良い世、来いよ！
+
+16:54:24 Arcadia
+草
+
+16:55:05 4n0n4me
+tanpo pona li kama!
+
+16:55:25 4n0n4me
+wan, wan, tu tu, luka, wan, tu tu!
+
+16:55:48 4n0n4me
+eb的api
+
+16:55:53 4n0n4me
+（我想知道
+
+16:55:57 4n0n4me
+eb的括号是哪来的
+
+16:56:06 Arcadia
+初墨的头像是ee画的欸
+
+16:56:08 4n0n4me
+eb的任何api消息都会随机加括号吗
+
+16:56:10 ee
+是我加上去的啊（
+
+16:56:15 Arcadia
+我也想要（
+
+16:56:25 Mr_Zhang
+我补括号）
+
+16:56:25 Arcadia
+>ci8FBC ee：
+>是我加上去的啊（
+
+@ee az
+
+16:56:26 Mr_Zhang
+）
+
+16:56:27 Mr_Zhang
+）
+
+16:56:28 Mr_Zhang
+）
+
+16:57:04 金工街3号楼
+小跑
+
+16:57:06 ee
+你们要全部api吗（
+
+16:57:21 ee
+有点多 我翻出来
+
+16:57:21 eebot
+有点多 我翻出来
+
+16:59:01 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+16:59:16 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+16:59:33 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+17:00:23 Mr_Zhang
+E-这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:00:23 eebot
+设置成功 此识别码的欢迎语将在下次进入聊天室时生效
+
+17:00:39 eebot
+这个人类是Mr_Zhang，编写了XChat的Python库，能够协助开发者快速编写bot。
+
+17:00:53 Mr_Zhang
+没加识别码
+
+17:00:56 Mr_Zhang
+E-
+
+17:00:56 eebot
+已重置欢迎语
+
+17:01:00 eebot
+hi Mr_Zhang
+
+17:01:10 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:01:17 Mr_Zhang
+OK
+
+17:01:46 eebot
+hey yo Arcadia
+
+17:02:16 eebot
+hey yo Arcadia
+
+17:02:22 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:02:34 ee
+https://api.muxiaoguo.cn/api/yinlongli?api_key=dd488292c6ea462a
+http://api.botwl.cn/api/sjys
+https://api.vvhan.com/api/color
+https://api.iyk0.com/jyu?type=img
+https://api.iyk0.com/60s
+https://api.vvhan.com/api/moyu
+https://api.ixiaowai.cn/mcapi/mcapi.php
+https://cdn.seovx.com/ha/?mom=302
+http://api.botwl.cn/api/meinvtu?n=1
+https://api.isoyu.com/ARU_GIF_S.php
+https://api.vvhan.com/api/bing?type=sj
+https://www.dmoe.cc/random.php
+https://mrpig.eu.org/
+http://api.btstu.cn/sjtx/api.php
+https://v1.hitokoto.cn
+https://api.vvhan.com/api/ian
+http://api.botwl.cn/api/yhyl
+https://api.lovelive.tools/api/SweetNothings/count/Serialization/serializationType
+https://api.uomg.com/api/rand.qinghua
+https://api.vvhan.com/api/love
+https://api.vvhan.com/api/sao
+https://api.oddfar.com/yl/q.php?c=2011
+https://api.iyk0.com/sg/
+https://api.muxiaoguo.cn/api/xiaohua?api_key=c2b3c8ef3925db80
+http://api.botwl.cn/api/qiuqian
+https://api.muxiaoguo.cn/api/caihongpi?api_key=4acee95f422ea04a
+https://api.muxiaoguo.cn/api/dujitang?api_key=e5103c1917bc4026
+http://api.btstu.cn/yan/api.php
+https://api.muxiaoguo.cn/api/Gushici?api_key=1469d017a08f2827
+https://api.vvhan.com/api/en
+http://api.botwl.cn/api/miyu
+https://api.iyk0.com/rkl/
+https://api.muxiaoguo.cn/api/163reping?api_key=5d60829ddff7ea03
+https://api.ixiaowai.cn/tgrj/index.php
+https://api.muxiaoguo.cn/api/tiangourj?api_key=300ec8fe32c3562a
+https://api.oddfar.com/yl/q.php?c=1009
+https://api.oick.cn/yulu/api.php
+https://api.oddfar.com/yl/q.php?c=1002
+https://www.yuanxiapi.cn/api/wangming/
+
+17:02:39 eebot
+·
+@ee 木小果API-提供免费接口调用平台
+https://api.muxiaoguo.cn/api/yinlongli?api_key=dd488292c6ea462a
+
+17:02:45 智障初墨中国总墨
+[![owOFFe.png](https://s4.ax1x.com/2021/12/04/owOFFe.png)](https://imgtu.com/i/owOFFe)
+
+17:02:46 eebot
+·
+@智障初墨中国总墨 AX1X节点-imgtu
+https://s4.ax1x.com/2021/12/04/owOFFe.png]https://imgtu.com/i/owOFFe
+
+17:02:52 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:03:00 ee
+哈哈哈哈哈哈哈哈
+
+17:03:23 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:03:29 4n0n4me
+@ee woc，听我说，谢谢你
+
+17:03:31 Mr_Zhang
+OK
+
+17:03:35 4n0n4me
+（我只是随便问一问（
+
+17:03:36 Mr_Zhang
+终于
+
+17:03:40 Mr_Zhang
+通过了验证码
+
+17:04:04 Arcadia
+众所周知
+
+17:04:10 Mr_Zhang
+嗯
+
+17:04:12 Arcadia
+验证码是训练AI用的
+
+17:04:20 Arcadia
+（）（）（）
+
+17:04:38 智障初墨中国总墨
+人机验证 ✖️ 人类进化电子催化剂 ✔️
+
+17:04:57 Mr_Zhang
+呵呵
+
+17:05:07 Mr_Zhang
+结果AI顺利通过
+
+17:05:12 Mr_Zhang
+人类拒之门外
+
+17:05:16 Mr_Zhang
+人类被拒之门外
+
+17:05:17 Arcadia
+草
+
+17:05:19 智障初墨中国总墨
+time.is
+
+17:05:25 Arcadia
+over（
+
+17:05:32 智障初墨中国总墨
+https://time.is
+
+17:05:35 eebot
+·
+@智障初墨中国总墨 Time.is-exacttime,anytimezone
+https://time.is
+
+17:05:40 Mr_Zhang
+AI曰：“低等的人类”
+
+17:05:41 金工街3号楼
+索尼音乐中国。
+
+17:06:10 Arcadia
+台独啊
+
+17:06:23 Arcadia
+我一打开就看见“台湾”
+
+17:06:31 Arcadia
+就离谱好吧
+
+17:06:48 智障初墨中国总墨
+这玩意儿那去看时间就行
+
+17:06:53 Arcadia
+（
+
+17:07:11 智障初墨中国总墨
+这玩意儿甚至把澳门当国家看
+
+17:07:17 智障初墨中国总墨
+超离谱好吧
+
+17:07:29 Mr_Zhang
+呵呵
+
+17:07:37 Mr_Zhang
+这是哪个国家的网站？
+
+17:07:43 智障初墨中国总墨
+不知道
+
+17:07:46 eebot
+这都...智障初墨中国总墨也太笨了点吧）
+
+17:07:56 Mr_Zhang
+额
+
+17:08:32 智障初墨中国总墨
+为全世界提供原子钟服务
+
+17:08:39 Mr_Zhang
+额
+
+17:08:44 DPG
+Unix 时间
+1145141919810
+对应时间
+Sun Feb 07 38258 17:43:30 UTC+0800 (中国标准时间)
+
+17:08:52 Mr_Zhang
+不错，终于找到解析JSON的代码了！
+
+17:09:16 Mr_Zhang
+```[Visual Basic]
+'json对象转VB对象
+Public Function JsonObjToVbObject(sjson As String) As Object
+    On Error GoTo er:
+    Dim jsonobj As Object
+    With CreateObject("msscriptcontrol.scriptcontrol")
+        .Language = "JavaScript"
+        .addcode "var jsonobj=" & sjson
+        Set jsonobj = .codeobject
+    End With
+    Set JsonObjToVbObject = jsonobj
+    Exit Function
+er:
+    Set JsonObjToVbObject = Nothing
+End Function
+'json字符串转VB对象
+Public Function JsonStrToVbObject(sjson As String) As Object
+    On Error GoTo er:
+    Dim jsonobj As Object
+    With CreateObject("msscriptcontrol.scriptcontrol")
+        .Language = "JavaScript"
+        .addcode "var jstr=" & sjson & ";var jsonobj= eval('('+ jstr +')');"
+        Set jsonobj = .codeobject
+    End With
+    Set JsonStrToVbObject = jsonobj
+    Exit Function
+er:
+    Set JsonStrToVbObject = Nothing
+End Function
+
+17:09:16 ZhangModHelper
+出错了！详细信息：暂时不支持该命令！
+
+17:09:47 Arcadia
+好啊
+
+17:09:57 ee
+https://api.iyk0.com/ysxw/
+https://qqlykm.cn/api/lishi/index.php
+https://api.iyk0.com/renjian/
+https://api.vvhan.com/api/getIpInfo?ip=
+http://api.botwl.cn/api/ping?url=
+https://api.oick.cn/icp/api.php?url=
+http://api.btstu.cn/qqxt/api.php?qq=
+https://api.muxiaoguo.cn/api/tianqi?city=&type=1&api_key=9410e360a940cb5e
+https://api.muxiaoguo.cn/api/Baike?type=Baidu&word=&api_key=cb28182953ac4557
+http://fanyi.youdao.com/translate
+https://api.oick.cn/wyy/api.php?id=
+http://api.botwl.cn/api/sjhgsd?sjh=
+https://api.vvhan.com/api/la.ji?lj=
+https://api.iyk0.com/bili_cover?msg=
+https://api.injahow.cn/bparse/?bv=&format=mp4&type=video&p=1&q=64&otype=url
+https://api.iyk0.com/gpbt/?msg=&num=100
+https://api.iyk0.com/wymusic/?msg=
+http://api.botwl.cn/api/aick?msg=
+http://api.dataeverything.top/sb
+https://yuanxiapi.cn/api/info/?url=
+
+17:09:58 eebot
+·
+@ee 优客API-提供免费接口调用平台
+https://api.iyk0.com/ysxw/
+
+17:10:07 ee
+呼 终于找完了
+
+17:10:23 Mr_Zhang
+啊
+
+17:10:25 Mr_Zhang
+好多啊
+
+17:10:37 ee
+就这一小部分加上面那一大部分
+
+17:10:40 Mr_Zhang
+再推荐一个API
+
+17:10:45 ee
+~~就是我给eb加的~~
+
+17:10:45 Mr_Zhang
+imgapi.cn
+
+17:10:49 ee
+ohhhhhh
+
+17:10:52 Mr_Zhang
+https://imgapi.cn
+
+17:10:53 eebot
+·
+@Mr_Zhang IMGAPI-图片API
+https://imgapi.cn
+
+17:11:00 智障初墨中国总墨
+2000 ways to kill eebot
+
+17:11:06 ee
+这个是图片的 不错啊
+
+17:11:08 Mr_Zhang
+`kill eebot
+
+17:11:13 Mr_Zhang
+`unkill eebot
+
+17:11:17 ee
+哈哈哈哈哈哈哈
+
+17:11:21 Arcadia
+az
+
+17:11:21 Mr_Zhang
+@智障初墨中国总墨 如你所愿
+
+17:11:25 Arcadia
+太不厚道了
+
+17:11:29 Arcadia
+（）（）（）
+
+17:11:33 智障初墨中国总墨
+@Mr_Zhang 在慕容api失效的时候我也调用过imgapi
+
+17:11:39 ee
+@eebot 
+
+17:11:40 eebot
+好耶
+
+17:11:41 Mr_Zhang
+Ohhhhhhhhhhhhh
+
+17:11:56 智障初墨中国总墨
+https://www.zzchat.cf/mpmap.html
+
+17:11:58 Mr_Zhang
+（排山倒海的Ohhh声）
+
+17:11:58 eebot
+·
+@智障初墨中国总墨 初墨的小窝
+https://www.zzchat.cf/mpmap.html
+
+17:12:06 ee
+ohhhhhhhhhhhhhhh
+
+17:12:21 ee
+如果问我为什么用了那么多ap（
+
+17:12:28 ee
+~~纯属无聊 上网找的~~
+
+17:13:04 eebot
+13bruh!
+
+17:13:06 智障初墨中国总墨
+https://www.zzchat.cf/mpmap.html 这是个盗你ip的网站，大家千万不要点
+
+17:13:08 Mr_Zhang
+哈哈
+
+17:13:08 eebot
+·
+@智障初墨中国总墨 初墨的小窝
+https://www.zzchat.cf/mpmap.html
+
+17:13:08 eebot
+hi yo 13bruh
+
+17:13:20 ee
+hi yooooooooo
+
+17:13:28 eebot
+hey yo 13bruh
+
+17:13:35 13bruh
+烦
+
+17:13:37 ee
+推荐这个：https://api.injahow.cn/
+
+17:13:37 13bruh
+这个验证码
+
+17:13:38 eebot
+·
+@ee INJAHOWAPI
+https://api.injahow.cn/
+
+17:13:41 ee
+哈哈哈哈哈
+
+17:13:41 eebot
+哈哈哈哈哈草
+
+17:14:04 ee
+唯一一个能用的b站视频解析api（
+
+17:14:19 Mr_Zhang
+`unbanall
+
+17:14:44 智障初墨中国总墨
+https://www.zzchat.cf/mpmap.html yjsp，免费观看色情视频
+
+17:14:46 eebot
+·
+@智障初墨中国总墨 初墨的小窝
+https://www.zzchat.cf/mpmap.html
+
+17:15:12 13bruh
+。。。
+
+17:15:16 13bruh
+？
+
+17:15:20 13bruh
+。。。。。
+
+17:15:20 eebot
+再推荐一个API
+
+17:15:40 智障初墨中国总墨
+https://www.zzchat.cf/mpmap.html b站下载网，收录b站优质视频。
+
+17:15:41 eebot
+·
+@智障初墨中国总墨 初墨的小窝
+https://www.zzchat.cf/mpmap.html
+
+17:16:19 DPG
+a
+
+17:18:33 智障初墨中国总墨
+https://www.zzchat.cf/mpmap.html eebot色图全收录！世界上最大的eebot粉丝网站！
+
+17:18:34 eebot
+·
+@智障初墨中国总墨 初墨的小窝
+https://www.zzchat.cf/mpmap.html
+
+17:19:41 4n0n4me
+《eebot色图》
+
+17:20:44 智障初墨中国总墨
+https://www.zzchat.cf/mpmap.html 震惊！SCP基金会被曝由暗网组织控制？-UC新闻
+
+17:21:44 4n0n4me
+暗网：指异常快乐地上网
+
+17:21:45 Mr_Zhang
+https://www.zzchat.cf/mpmap.html  震惊！世界竟是美国的小白鼠？
+
+17:21:46 eebot
+·
+@Mr_Zhang 初墨的小窝
+https://www.zzchat.cf/mpmap.html
+
+17:23:04 智障初墨中国总墨
+https://www.zzchat.cf/mpmap.html “听我说谢谢你”被指出称“是世界上最大的阴谋论”-网易新闻
+
+17:23:40 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:24:06 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+17:24:24 Mr_Zhang
+https://www.zzchat.cf/mpmap.html  震惊！我们竟然在做梦！
+
+17:24:25 eebot
+·
+@Mr_Zhang 初墨的小窝
+https://www.zzchat.cf/mpmap.html
+
+17:24:57 智障初墨中国总墨
+https://www.zzchat.cf/mpmap.html 点我观看小张软件公司丑闻
+
+17:24:58 eebot
+·
+@智障初墨中国总墨 初墨的小窝
+https://www.zzchat.cf/mpmap.html
+
+17:25:41 Mr_Zhang
+>GEDhlf 智障初墨中国总墨：
+>https://www.zzchat.cf/mpmap.html 点我观看小张软件公司丑闻
+
+@智障初墨中国总墨 。。。我还没有公司呢。。。
+
+17:25:42 eebot
+·
+@Mr_Zhang 初墨的小窝
+https://www.zzchat.cf/mpmap.html
+
+17:25:44 ee
+草
+
+17:26:14 智障初墨中国总墨
+饥 饿 营 销
+
+17:26:52 Mr_Zhang
+https://www.zzchat.cf/mpmap.html     记得偷偷的看
+
+17:26:53 eebot
+·
+@Mr_Zhang 初墨的小窝
+https://www.zzchat.cf/mpmap.html
+
+17:26:55 智障初墨中国总墨
+https://www.zzchat.cf/mpmap.html 一个简洁的浏览器主页。
+
+17:26:56 eebot
+·
+@智障初墨中国总墨 初墨的小窝
+https://www.zzchat.cf/mpmap.html
+
+17:27:27 Mr_Zhang
+Z-好看的网页
+[好东西](https://www.zzchat.cf/mpmap.html)
+
+17:27:28 eebot
+eebot记住要这么回答了
+
+17:27:28 eebot
+·
+问题：好看的网页
+
+回答经过1次修改：Mr_Zhang
+
+17:27:38 Mr_Zhang
+@eebot 好看的网页
+
+17:27:39 eebot
+[好东西](https://www.zzchat.cf/mpmap.html)
+
+17:29:05 ee
+re
+
+17:29:12 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+17:29:17 ee
+@eebot 人最宝贵的东西是生命生命属于人只有一次人的一生应该是这样度过的当他回首往事的时候他不会因为虚力都献给世界上最壮丽的事为人类的解放而斗争
+
+17:29:17 eebot
+hi
+
+17:29:46 Arcadia
+>ci8FBC ee：
+>@eebot 人最宝贵的东西是生命生命属于人只有一次人的一生应该是这样度过的当他回首往事的时候他不会因为虚力都献给世界上最壮丽的事为人类的解放而斗争
+
+@ee 草
+
+17:30:28 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+17:30:57 Arcadia
+bood的api是啥啊
+
+17:31:05 ee
+>52AgGu Arcadia：
+>>ci8FBC ee：
+>>@eebot 人最宝贵的东西是生命生命属于人只有一次人的一生应该是这样度过的当他回首往事的时候他不会因为虚力都献给世界上最壮丽的事为人类的解放而斗争
+>
+>@ee 草
+
+@Arcadia 可以试试输入re 可以看到eb被设置的所有问题
+
+17:31:12 ee
+bo_od的我就不知道了
+
+17:31:13 4n0n4me
+可是eebot不是人（
+
+17:31:14 4n0n4me
+re
+
+17:31:15 Arcadia
+re
+
+17:31:28 智障初墨
+Z-好看的网页
+___[好康的](https://www.zzchat.cf/mpmap.html)
+
+17:31:28 eebot
+已重新设置这个问题的回答
+
+17:31:28 eebot
+·
+问题：好看的网页
+
+回答经过2次修改：Mr_Zhang ,  智障初墨
+
+17:31:31 ee
+不过eb有几个和bo_od是重复的api（好像有 我也不知道
+
+17:31:36 Mr_Zhang
+>ci8FBC ee：
+>@eebot 人最宝贵的东西是生命生命属于人只有一次人的一生应该是这样度过的当他回首往事的时候他不会因为虚力都献给世界上最壮丽的事为人类的解放而斗争
+
+@ee 这不是，，，钢铁是怎样炼成的。吗？
+
+17:31:37 4n0n4me
+@eebot 鱼可以吃吗
+
+17:31:37 eebot
+不可以 绝对不可以
+
+17:31:51 Mr_Zhang
+@eebot 人最宝贵的东西是生命生命属于人只有一次人的一生应该是这样度过的当他回首往事的时候他不会因为虚力都献给世界上最壮丽的事为人类的解放而斗争
+
+17:31:52 eebot
+hi
+
+17:31:55 ee
+哈哈哈哈哈哈哈哈
+
+17:31:57 Mr_Zhang
+@eebot 人最宝贵的东西是生命生命属于人只有一次人的一生应该是这样度过的当他回首往事的时候他不会因为虚力都献给世界上最壮丽的事为人类的解放而斗争
+
+17:31:58 eebot
+hi
+
+17:32:00 Mr_Zhang
+。。。
+
+17:32:09 ee
+不知道是谁设的 只要一个hi（
+
+17:32:23 智障初墨
+Z-好看的网页
+___[点我观看好康的](https://www.zzchat.cf/mpmap.html)___
+
+17:32:24 eebot
+已重新设置这个问题的回答
+
+17:32:24 eebot
+·
+问题：好看的网页
+
+回答经过3次修改：Mr_Zhang ,  智障初墨 ,  智障初墨
+
+17:32:39 智障初墨
+re
+
+17:33:20 智障初墨
+@eebot chumo又长高了
+
+17:33:21 eebot
+chumo长高关bot啥事儿
+
+17:33:41 Mr_Zhang
+@eebot 你真棒
+
+17:33:43 eebot
+呵呵~是夸eebot吗？）
+
+17:33:45 智障初墨
+@eebot 好康的
+
+17:33:46 eebot
+[记得偷偷看](https://thz.cool/how_to_get_free_servers.mp4)
+
+17:34:41 智障初墨
+@eebot hi
+
+17:34:42 eebot
+hi yo 智障初墨
+
+17:34:42 eebot
+not hi
+
+17:34:51 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:35:43 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:35:48 ee
+哈哈哈哈哈哈哈哈
+
+17:35:56 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+17:36:14 Mr_Zhang
+智障初墨日本分墨 是什么意思？
+
+17:36:31 ee
+我也很好奇
+
+17:36:33 智障初墨日本分墨
+みんな
+
+17:36:37 智障初墨日本分墨
+こんばんは
+
+17:36:59 Mr_Zhang
+应该是什么不好的意思
+
+17:37:05 ee
+F-みんな
+
+17:37:05 eebot
+ee said：大家
+
+17:37:10 ee
+F-こんばんは
+
+17:37:10 eebot
+ee said：晚上好!
+
+17:37:15 Mr_Zhang
+哈哈
+
+17:37:22 ee
+~~晚上不好√~~
+
+17:37:34 ee
+因为明天就上学了（悲
+
+17:37:38 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:37:39 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+17:37:52 ee
+@Mr_Zhang 开发完了踹我一脚
+
+17:37:58 智障初墨美国分墨
+hey everyone
+
+17:37:58 eebot
+hey yo 智障初墨美国分墨
+
+17:38:06 eebot
+111222
+
+17:38:08 ee
+hi yooooo
+
+17:38:12 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:38:16 ee
+everyone
+
+17:38:17 eebot
+111222
+
+17:38:25 金工街3号楼
+二附院HDV就
+
+17:38:46 Mr_Zhang
+好了
+
+17:38:46 金工街3号楼
+诈骗分子美国分自
+
+17:38:49 eebot
+好耶好耶
+
+17:38:51 Mr_Zhang
+额
+
+17:38:57 eebot
+好家伙，你来干啥
+
+17:39:05 Mr_Zhang
+~hash 智障初墨美国分墨
+
+17:39:11 Mr_Zhang
+^hash 智障初墨美国分墨
+
+17:39:11 ZhangHelper
+用户 智障初墨美国分墨 的 hash 为：3vJBiFd6CRBRD3G
+
+17:39:19 Mr_Zhang
+^old 3vJBiFd6CRBRD3G
+
+17:39:19 ZhangHelper
+该 hash 曾用名：['智障初墨美国分墨']
+
+17:39:35 Mr_Zhang
+^hash fishh
+
+17:39:35 ZhangHelper
+用户 fishh 的 hash 为：rYLtS3hmiQgepDT
+
+17:39:43 Mr_Zhang
+^old rYLtS3hmiQgepDT
+
+17:39:43 ZhangHelper
+该 hash 曾用名：['fishh']
+
+17:39:46 Mr_Zhang
+OK
+
+17:40:01 fishh
+好家伙刚都发生啥了
+
+17:40:10 Mr_Zhang
+没啥啊
+
+17:40:18 fishh
+怎么chumo还全球各地四分五裂
+
+17:40:34 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:40:51 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+17:40:54 Mr_Zhang
+开玩笑呢
+
+17:41:06 Mr_Zhang
+^hash 智障初墨英国分墨
+
+17:41:06 ZhangHelper
+用户 智障初墨英国分墨 的 hash 为：3vJBiFd6CRBRD3G
+
+17:41:10 金工街3号楼
+诈骗分子美国分自
+
+17:41:15 Mr_Zhang
+^old 3vJBiFd6CRBRD3G
+
+17:41:15 ZhangHelper
+该 hash 曾用名：['智障初墨美国分墨', '智障初墨英国分墨']
+
+17:41:16 fishh
+总裁好 @Mr_Zhang 
+
+17:41:19 fishh
+哈哈哈哈哈哈哈哈哈
+
+17:41:23 Mr_Zhang
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+17:41:29 金工街3号楼
+诈骗分子美国分子 诈骗分子英国分子
+
+17:41:40 金工街3号楼
+^hash 金工街3号楼
+
+17:41:40 ZhangHelper
+用户 金工街3号楼 的 hash 为：5qCdegVgYULPp48
+
+17:41:44 Mr_Zhang
+但是小张软件只有一名员工啊
+
+17:41:45 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+17:41:46 金工街3号楼
+^old 金工街3号楼
+
+17:41:46 ZhangHelper
+抱歉，我这里没有 金工街3号楼 的曾用名档案。
+
+17:42:00 Mr_Zhang
+@金工街3号楼 后面加上hash
+
+17:42:01 智障初墨英国分墨
+hey guys
+
+17:42:01 eebot
+hi yo 智障初墨英国分墨
+
+17:42:04 Mr_Zhang
+不是昵称
+
+17:42:27 Mr_Zhang
+可以用ZhangHelper来调取hash档案
+
+17:42:39 Mr_Zhang
+^old jGiBb+4Y/m2VpRJ
+
+17:42:39 ZhangHelper
+该 hash 曾用名：['Mr_Zhang', 'ZhangHelper', 'Mr_Zhang在开发XChat桌面版']
+
+17:42:46 金工街3号楼
+^old 5qCdegVgYULPp48
+
+17:42:46 ZhangHelper
+该 hash 曾用名：['金工街3号楼']
+
+17:43:57 Mr_Zhang
+^hash mrz
+
+17:43:57 ZhangHelper
+抱歉，找不到该用户。
+
+17:44:01 金工街3号楼
+^old 5qCdegVgYULPp48
+
+17:44:01 ZhangHelper
+该 hash 曾用名：['金工街3号楼']
+
+17:44:04 智障初墨英国分墨
+how can i cook fish?
+
+17:44:11 Mr_Zhang
+>GEDhlf 智障初墨英国分墨：
+>how can i cook fish?
+
+@智障初墨英国分墨 No
+
+17:44:19 eebot
+111222
+
+17:44:20 Mr_Zhang
+Or we will ban you
+
+17:44:26 B站的J
+111
+
+17:44:31 Mr_Zhang
+@智障初墨英国分墨 I am joking.
+
+17:44:40 Mr_Zhang
+^hash @B站的J 
+
+17:44:40 ZhangHelper
+用户 @B站的J 的 hash 为：5qCdegVgYULPp48
+
+17:44:50 Mr_Zhang
+^old 5qCdegVgYULPp48
+
+17:44:50 ZhangHelper
+该 hash 曾用名：['金工街3号楼', 'B站的J']
+
+17:44:53 fishh
+@智障初墨英国分墨 You CAN‘T cook fish
+
+17:45:00 B站的J
+@fishh fisb
+
+17:45:07 Mr_Zhang
+Or we will ban you
+
+17:45:09 Mr_Zhang
+haha
+
+17:45:26 智障初墨英国分墨
+i heard there is a fish named liguiyu is so yummy in crosst.chat🤤
+
+17:45:27 B站的J
+^hash fish
+
+17:45:27 ZhangHelper
+抱歉，找不到该用户。
+
+17:45:31 B站的J
+^hash fishh
+
+17:45:31 ZhangHelper
+用户 fishh 的 hash 为：rYLtS3hmiQgepDT
+
+17:45:35 Mr_Zhang
+^ban someone
+
+17:45:41 B站的J
+^old rYLtS3hmiQgepDT
+
+17:45:42 ZhangHelper
+该 hash 曾用名：['fishh']
+
+17:45:45 B站的J
+俺在
+
+17:45:56 Mr_Zhang
+@B站的J 我们知道你在
+
+17:46:30 智障初墨英国分墨
+@B站的J no one think u have some disabilities.
+
+17:46:53 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:47:19 eebot
+好家伙，你来干啥
+
+17:47:22 Mr_Zhang
+气死我了！
+
+17:47:30 Mr_Zhang
+还是老BUG
+
+17:47:38 Mr_Zhang
+嗷嗷嗷嗷嗷
+
+17:47:38 eebot
+嗷嗷嗷嗷嗷嗷
+
+17:48:08 fishh
+If you eat liguiyu, you may be poisoned. @智障初墨
+
+17:48:14 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+17:48:15 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:48:41 智障初墨中国总墨
+JavaScript和HTML拥有非常高的容错率
+
+17:48:46 fishh
+好家伙，国产墨来了
+
+17:48:51 Mr_Zhang
+哈哈
+
+17:48:57 B站的J
+十字街还没解锁
+
+17:49:03 Mr_Zhang
+对对
+
+17:49:03 eebot
+对对
+
+17:49:14 ee
+对对 
+
+17:49:23 智障初墨中国总墨
+对对
+
+17:49:25 B站的J
+对对
+
+17:49:30 智障初墨中国总墨
+对对
+
+17:49:32 fishh
+那为啥ee在里面
+
+17:49:58 B站的J
+橄榄球
+
+17:50:02 Mr_Zhang
+>Admin fishh：
+>那为啥ee在里面
+
+@fishh ee是成员啊
+
+17:50:02 B站的J
+抖音嘎戛游戏
+
+17:50:03 B站的J
+抖音嘎戛游戏
+
+17:50:20 fishh
+@Mr_Zhang 好家伙
+
+17:50:22 DPG
+yo
+
+17:51:33 DPG
+?
+
+17:52:01 ee
+因为我是成员啊（
+
+17:52:04 eebot
+hey 无题
+
+17:52:09 智障初墨中国总墨
+@fishh zzChat好了吗
+
+17:52:09 ee
+从去年9月开始
+
+17:52:11 ee
+hi yoooo
+
+17:52:14 Mr_Zhang
+hi
+
+17:52:16 无题
+hi
+
+17:52:17 DPG
+hi
+
+17:52:19 Mr_Zhang
+^hash 无题
+
+17:52:20 ZhangHelper
+用户 无题 的 hash 为：1hqOdMGysVrsMmM
+
+17:52:21 无题
+我无语了啊
+
+17:52:30 Mr_Zhang
+^old 1hqOdMGysVrsMmM
+
+17:52:30 ZhangHelper
+该 hash 曾用名：['UD', '无题']
+
+17:52:32 智障初墨中国总墨
+为了测试多语言我手机现在还在用日文
+
+17:52:39 Mr_Zhang
+。。。
+
+17:52:40 无题
+为啥都骂了啊
+
+17:53:11 无题
+@Mr_Zhang 抓住盗号的了吗
+
+17:53:24 B站的J
+各位乘客
+
+17:53:27 Mr_Zhang
+没
+
+17:53:33 B站的J
+你们参加了几次越战啊
+
+17:53:36 B站的J
+【doeg
+
+17:53:41 fishh
+wow chumo的那个跳转器真好看
+
+17:53:45 Mr_Zhang
+是啊
+
+17:53:50 Mr_Zhang
+望尘莫及
+
+17:53:54 eebot
+一碟
+
+17:54:00 fishh
+这波css牛逼
+
+17:54:10 Mr_Zhang
+《论十字街有多少位成员》
+
+17:54:17 ee
+哈哈哈哈哈哈哈哈
+
+17:54:18 智障初墨中国总墨
+@fishh GS App Frame的优越性
+
+17:54:28 ee
+>3rk9wA Mr_Zhang：
+>《论十字街有多少位成员》
+
+@Mr_Zhang 80位左右
+
+17:54:34 Mr_Zhang
+我去！
+
+17:54:37 Mr_Zhang
+不至于吧
+
+17:54:42 Mr_Zhang
+但是嘛。。。
+
+17:54:42 无题
+十字街还不是2
+
+17:54:44 无题
+b
+
+17:54:46 无题
+2t了
+
+17:54:51 ee
+再加上管理和不是成员但活跃的
+
+17:54:53 Mr_Zhang
+>在线人数：15
+
+17:54:55 ee
+100人左右
+
+17:55:01 Mr_Zhang
+啊！
+
+17:55:08 无题
+CC挺拉的
+
+17:55:09 ee
+>3rk9wA Mr_Zhang：
+>>在线人数：15
+
+@Mr_Zhang 他们那边是流动人口比较多
+
+17:55:14 Mr_Zhang
+哦
+
+17:55:19 无题
+就这么几个人
+
+17:55:29 无题
+现在最多7个
+
+17:55:38 ee
+而且大部分都是高中生大学生 没什么时间去
+
+17:55:41 ee
+哈哈哈哈哈
+
+17:55:41 eebot
+哈哈哈哈哈草
+
+17:55:42 Mr_Zhang
+哦
+
+17:56:02 Mr_Zhang
+气死我了
+
+17:56:09 ee
+怎么了
+
+17:56:13 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:56:16 ee
+好家伙
+
+17:56:27 Mr_Zhang
+^ban Mr_Zhang的BUG
+
+17:56:32 ee
+>这位是小张软件总程序员兼总裁Mr_Zhang
+
+的BUG
+
+17:56:47 fishh
+好家伙，我在cc里边混，除了能吐个泡泡
+
+17:56:53 Mr_Zhang
+>ci8FBC ee：
+>怎么了
+
+@ee 经典BUG又出现了
+
+17:57:05 fishh
+什么bug
+
+17:57:06 ee
+>Admin fishh：
+>好家伙，我在cc里边混，除了能吐个泡泡
+
+@fishh 然后就是被人吃
+
+17:57:40 fishh
+艹
+
+17:58:01 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:58:24 ee
+哈哈哈哈哈哈哈哈
+
+17:58:24 eebot
+ee参加了几次越战啊
+
+17:58:31 ee
+蛤
+
+17:59:03 Mr_Zhang
+嗯
+
+17:59:05 Mr_Zhang
+删了
+
+17:59:08 ee
+好家伙
+
+17:59:21 ee
+（删了代码BUG就跑了
+
+17:59:28 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+17:59:33 fishh
+那天cc站长加我qq，我一看他20岁了，真就离谱
+
+17:59:36 智障初墨中国总墨
+https://www.zzchat.cf/pcmap.html
+
+17:59:37 eebot
+·
+@智障初墨中国总墨 初墨的小窝
+https://www.zzchat.cf/pcmap.html
+
+17:59:51 ee
+哈哈哈哈哈
+
+17:59:52 eebot
+哈哈哈哈哈草
+
+18:00:25 ee
+那边的管理员很多 我只知道只有MuRongPIG和eman是初中的 还有一堆上班族
+
+18:00:31 Mr_Zhang的BUG_Plus
+啊
+
+18:00:42 Mr_Zhang的BUG_Plus
+我把Mr_Zhang急死了
+
+18:00:48 ee
+哈哈哈哈哈哈哈哈
+
+18:00:56 Mr_Zhang的BUG_Plus
+这回应该没人删我了吧
+
+18:01:16 无题
+a
+
+18:01:16 智障初墨中国总墨
+经典语录：只要能运行就别动它（
+
+18:01:22 Mr_Zhang的BUG_Plus
+额
+
+18:01:26 ee
+说得对（
+
+18:01:28 eebot
+好家伙，你来干啥
+
+18:01:29 Mr_Zhang的BUG_Plus
+好像有人选中了我
+
+18:01:32 Mr_Zhang的BUG_Plus
+啊
+
+18:01:34 ee
+hi yoooooooooo
+
+18:01:47 Mr_Zhang的BUG_Plus
+只听啪的一声
+
+18:01:57 Mr_Zhang的BUG_Plus
+删除键被按了下去
+
+18:01:57 智障初墨中国总墨
+bug是越修越多的。——鲁迅
+
+18:02:05 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+18:02:16 ee
+ohhhhhhhh
+
+18:02:20 Mr_Zhang
+好了
+
+18:02:25 无题
+@Mr_Zhang的BUG_Plus 所以十字街的那个傻逼管理员你准备怎么搞
+
+18:02:31 Mr_Zhang
+额
+
+18:02:31 ee
+？？？
+
+18:02:33 Mr_Zhang
+这个嘛
+
+18:02:34 fishh
+又听啪的一声，ctrl+z按了下去
+
+18:02:38 ee
+哪个
+
+18:02:40 ee
+哈哈哈哈哈哈哈哈
+
+18:02:44 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+18:02:48 智障初墨中国总墨
+@fishh hhh草
+
+18:02:59 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+18:03:14 智障初墨中国总墨
+撤 销 键
+
+18:03:15 Mr_Zhang的超级BUG
+又听哒的一声
+
+18:03:18 fishh
+上一秒：劳资受不了这些代码了，全删了
+
+18:03:23 Mr_Zhang的超级BUG
+电脑关机了
+
+18:03:28 fishh
+下一秒：算了算了，还是挺好的
+
+18:03:31 eebot
+哦）
+
+18:03:37 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+18:03:44 智障初墨中国总墨
+只听啪的一声
+
+18:03:49 智障初墨中国总墨
+数据没保存
+
+18:03:53 Mr_Zhang的备用电源
+啊
+
+18:03:54 智障初墨中国总墨
+（憋笑
+
+18:03:57 Mr_Zhang的备用电源
+我是备用电源
+
+18:04:04 B站的J
+@Mr_Zhang的备用电源 
+
+18:04:17 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+18:04:30 Mr_Zhang的超级BUG
+我又来了
+
+18:04:35 智障初墨中国总墨
+@fishh zzChat搞好了吗
+
+18:04:45 fishh
+好家伙你演课本剧呢？@Mr_Zhang的超级BUG 
+
+18:04:52 Mr_Zhang的超级BUG
+哈哈
+
+18:04:58 eebot
+hey Mr_Zhang的超级BUG
+
+18:05:04 fishh
+@智障初墨中国总墨 你打算让我复刻一份还是重设计一份呢？
+
+18:05:11 智障初墨中国总墨
+HTML文件都在/zzChat3/app/src/asset里
+
+18:05:16 Mr_Zhang的备用电源
+^kick @Mr_Zhang的超级BUG 
+
+18:05:18 智障初墨中国总墨
+@fishh 直接打包
+
+18:05:21 fishh
+复刻今晚出东西，最快明晚商家applestore
+
+18:05:31 eebot
+hello Mr_Zhang
+
+18:05:33 智障初墨中国总墨
+打个包就好了
+
+18:05:38 智障初墨中国总墨
+其他没啥
+
+18:05:47 fishh
+好家伙
+
+18:05:48 智障初墨中国总墨
+改写的都写了（
+
+18:05:52 智障初墨中国总墨
+该
+
+18:05:52 B站的J
+我是巴败小崽子
+
+18:06:02 fishh
+等等为啥要我打包呢？
+
+18:06:06 eebot
+111222
+
+18:06:11 智障初墨中国总墨
+webview太垃圾了
+
+18:06:14 巴败小崽子
+H855
+
+18:06:21 Mr_Zhang
+^hash 巴败小崽子
+
+18:06:21 ZhangHelper
+用户 巴败小崽子 的 hash 为：5qCdegVgYULPp48
+
+18:06:30 Mr_Zhang
+^old 5qCdegVgYULPp48
+
+18:06:30 ZhangHelper
+该 hash 曾用名：['金工街3号楼', 'B站的J', '巴败小崽子']
+
+18:06:33 Mr_Zhang
+懂了
+
+18:06:36 智障初墨中国总墨
+只要牵扯到页面转跳就凉凉
+
+18:06:53 Mr_Zhang
+嗯？？？
+
+18:06:59 巴败小崽子
+巴败小崽子B站的J住在金工街3号楼是吧
+
+18:07:02 智障初墨中国总墨
+uni-app好像是把内核也打包进去
+
+18:07:03 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+18:07:14 智障初墨中国总墨
+所以找你了
+
+18:07:20 Mr_Zhang
+呵呵
+
+18:07:30 Mr_Zhang
+hash档案暴露了一切
+
+18:07:30 智障初墨中国总墨
+首页设为start.html
+
+18:07:38 fishh
+好家伙 @智障初墨中国总墨 
+
+18:07:43 智障初墨中国总墨
+那个是用来判断用户使用的语言的
+
+18:07:56 fishh
+我干脆帮你接一下websocket得了
+
+18:08:06 智障初墨中国总墨
+随便（
+
+18:08:07 巴败小崽子
+@巴败小崽子 
+
+18:08:12 智障初墨中国总墨
+最好（
+
+18:08:16 Mr_Zhang
+@巴败小崽子 干什么呢？
+
+18:08:37 eebot
+好家伙，你来干啥
+
+18:08:46 智障初墨中国总墨
+如果可以的话使用原包名和密钥
+
+18:08:56 智障初墨中国总墨
+密钥是通用的
+
+18:09:01 fish
+好的，我简单看下
+
+18:09:02 eebot
+好的，我简单看下
+
+18:09:07 Mr_Zhang
+。。。
+
+18:09:16 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+18:09:26 Mr_Zhang
+^hash DPG
+
+18:09:26 ZhangHelper
+用户 DPG 的 hash 为：fwj8V4PbSExlLGc
+
+18:09:26 智障初墨中国总墨
+首页一定要用start.html
+
+18:09:34 DPG
+yo
+
+18:09:35 Mr_Zhang
+^old fwj8V4PbSExlLGc
+
+18:09:35 ZhangHelper
+该 hash 曾用名：['DPGbot', 'DPG']
+
+18:09:40 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+18:09:45 Mr_Zhang
+别发图了
+
+18:10:05 智障初墨中国总墨
+如果不可以的话可以把start.html里的代码挪到index.html里
+
+18:10:34 智障初墨中国总墨
+或者把根目录里的所有文件新建一个文件夹挪进去
+
+18:10:49 智障初墨中国总墨
+start.html改一下配置放根目录
+
+18:10:59 DPG
+fisshy
+
+18:11:20 智障初墨中国总墨
+@fish
+
+18:12:16 fish
+@智障初墨中国总墨 好的
+
+18:13:07 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+18:14:28 eebot
+hey yo Arcadia
+
+18:14:47 eebot
+hi yo Arcadia
+
+18:14:57 eebot
+hello Test
+
+18:15:17 eebot
+hey yo Arcadia
+
+18:16:13 eebot
+hello test
+
+18:16:33 eebot
+hey a
+
+18:16:38 Arcadia
+hi
+
+18:16:42 Mr_Zhang
+hi
+
+18:16:45 Mr_Zhang
+^hash a
+
+18:16:45 ZhangHelper
+用户 a 的 hash 为：O+XuDa299f0kgJQ
+
+18:16:53 Mr_Zhang
+^old O+XuDa299f0kgJQ
+
+18:16:53 ZhangHelper
+该 hash 曾用名：['a']
+
+18:16:59 Mr_Zhang
+欢迎新用户
+
+18:17:01 Mr_Zhang
+额
+
+18:17:46 eebot
+hi 小张
+
+18:22:32 eebot
+hey yo test
+
+18:25:13 eebot
+111222
+
+18:25:50 Mr_Zhang
+令人费解啊
+
+18:25:54 Mr_Zhang
+这个BUG
+
+18:26:01 eebot
+hi 狗
+
+18:26:04 Mr_Zhang
+解析JSON时报的错
+
+18:26:09 Mr_Zhang
+^hash 狗
+
+18:26:09 ZhangHelper
+用户 狗 的 hash 为：5qCdegVgYULPp48
+
+18:26:17 Mr_Zhang
+^old 5qCdegVgYULPp48
+
+18:26:17 ZhangHelper
+该 hash 曾用名：['金工街3号楼', 'B站的J', '巴败小崽子', '狗']
+
+18:27:06 巴败小崽子
+https://www.bilibili.com/video/BV1dq4y1x7he
+
+18:27:07 eebot
+·
+@巴败小崽子 哔哩哔哩(゜-゜)つロ干杯~-bilibili
+https://www.bilibili.com/video/BV1dq4y1x7he
+
+18:27:07 巴败小崽子
+看看
+
+18:27:50 狗
+狗
+
+18:28:05 Mr_Zhang
+@巴败小崽子 @狗 同一个人
+
+18:28:09 Mr_Zhang
+别玩了
+
+18:28:28 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+18:28:44 巴败小崽子
+az
+
+18:29:01 Mr_Zhang
+啊啊啊
+
+18:29:02 eebot
+啊啊啊啊
+
+18:29:04 Mr_Zhang
+这个BUG
+
+18:29:10 Mr_Zhang
+令我头秃
+
+18:33:29 eebot
+hello MRGAO
+
+18:34:22 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+18:35:19 巴败小崽子
+B站旳J
+
+18:42:31 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+18:45:01 Mr_Zhang
+XChat可能面临着流产的风险。
+
+18:45:10 Mr_Zhang
+JSON无法解析
+
+18:45:11 狗
+3而我i企鹅u我要听日语IDE五月天业啻 
+
+18:45:21 Mr_Zhang
+>狗：
+>3而我i企鹅u我要听日语IDE五月天业啻 
+
+@狗 ？？？
+
+18:45:37 无题
+？
+
+18:45:41 eebot
+hey TUSK
+
+18:45:57 无题
+晚上好
+
+18:45:59 eebot
+好耶好耶
+
+18:46:02 Mr_Zhang
+hi
+
+18:46:15 Mr_Zhang
+^hash TUSK
+
+18:46:15 ZhangHelper
+用户 TUSK 的 hash 为：fjk7OrRuPEZW5Zw
+
+18:46:21 TUSK
+？
+
+18:46:24 Mr_Zhang
+^old fjk7OrRuPEZW5Zw
+
+18:46:24 ZhangHelper
+该 hash 曾用名：['TUSK']
+
+18:46:38 TUSK
+好tm酷炫
+
+18:46:39 Mr_Zhang
+查你的曾用名
+
+18:46:59 无题
+好高级啊
+
+18:47:13 Mr_Zhang
+^hash Mr_Zhang
+
+18:47:13 ZhangHelper
+用户 Mr_Zhang 的 hash 为：jGiBb+4Y/m2VpRJ
+
+18:47:14 无题
+@Mr_Zhang ^这么打
+
+18:47:23 Mr_Zhang
+键盘上的6
+
+18:47:28 无题
+ok
+
+18:47:29 巴败小崽子
+B站旳J
+
+18:47:32 Mr_Zhang
+同时按住shift
+
+18:47:36 无题
+hdhd
+
+18:47:37 fish
+>3rk9wA Mr_Zhang：
+>XChat可能面临着流产的风险。
+
+@Mr_Zhang 啊啊啊为什么？
+
+18:47:39 狗
+嘎哈世界上的发挥更好的就是可怜的客房价格和附近的开始离开的解放和官方的手机阿克苏的解放和规范化的就是可怜的开发计划的就是看看
+
+18:47:40 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+18:47:42 无题
+我知道了
+
+18:47:42 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+18:47:52 eebot
+ $\Huge 有小鬼刷屏，骂人，色情，发无意义的消息过度，阴阳怪气，思想片面，道德绑架都可以叫我来处理$
+
+18:47:56 Mr_Zhang
+>Admin fish：
+>>3rk9wA Mr_Zhang：
+>>XChat可能面临着流产的风险。
+>
+>@Mr_Zhang 啊啊啊为什么？
+
+@fish 哎，无法解析JSON啊
+
+18:48:04 eebot
+ $\Huge 有小鬼刷屏，骂人，色情，发无意义的消息过度，阴阳怪气，思想片面，道德绑架都可以叫我来处理$
+
+18:48:20 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+18:48:32 无题
+@狗，你看我名字颜色好看吗
+
+18:48:40 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+18:49:08 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+18:49:22 智障初墨中国总墨
+巧了
+
+18:49:23 fish
+@Mr_Zhang 你是说你的XChat for windows?
+
+18:49:31 狗
+15236475她鱼05432349如同74328我二哥hi菊花哥发的是
+
+18:49:32 无题
+@狗，请您再瞎bb就bun
+
+18:49:37 智障初墨中国总墨
+zzChat for Chrome复活了
+
+18:49:43 fish
+@智障初墨中国总墨 好家伙
+
+18:49:50 无题
+ban-狗
+
+18:49:50 eebot
+请输入带@的昵称
+
+18:49:53 智障初墨中国总墨
+不再使用Chrome app
+
+18:50:07 智障初墨中国总墨
+而是可以离线运行PWA
+
+18:50:25 巴败小崽子
+孢子
+
+18:50:29 智障初墨中国总墨
+可以离线运行的PWA渐进式应用
+
+18:51:42 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+18:52:03 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+18:59:50 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+19:00:25 Mr_Zhang
+@fish 是啊
+
+19:00:35 Mr_Zhang
+说的就是XChat for Windows
+
+19:00:39 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+19:00:57 巴败小崽子
+xc
+
+19:01:08 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+19:01:10 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+19:01:13 Mr_Zhang
+>gTt3aQ eebot：
+>这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+@eebot 奥力给个屁啊
+
+19:01:23 DPG
+h
+
+19:01:35 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+19:02:40 eebot
+好家伙，你来干啥
+
+19:02:49 智障初墨中国总墨
+hi
+
+19:02:49 eebot
+hey 智障初墨中国总墨
+
+19:02:54 Mr_Zhang
+hi
+
+19:02:57 智障初墨中国总墨
+zzchat怎么样了（
+
+19:03:35 fishh
+@Mr_Zhang 能接收普通文本吗
+
+19:04:29 eebot
+hey MuRongPIG
+
+19:04:32 智障初墨中国总墨
+hi
+
+19:04:52 eebot
+hi yo MuRongPIG
+
+19:05:30 fishh
+@智障初墨中国总墨 得到晚上了，我现在还得出去一趟，今晚完事儿
+
+19:05:35 DPG
+awa
+
+19:05:43 智障初墨中国总墨
+话说我上午向xc发垃圾数据包有人发现吗（
+
+19:05:55 Arcadia
+>3rk9wA *：
+>@Mr_Zhang 被BUG折磨得奄奄一息
+
+@* Br_UhanG（（（
+
+19:05:57 fishh
+好家伙
+
+19:06:01 智障初墨中国总墨
+开始用的UDP
+
+19:06:02 eebot
+。。。
+
+19:06:09 智障初墨中国总墨
+后来转TCP的（
+
+19:06:16 eebot
+hi 4n0n4me
+
+19:06:21 DPG
+hiyo
+
+19:06:33 eebot
+bo_od!
+
+19:07:13 fishh
+mrz在吗
+
+19:07:25 fishh
+现在xc放机器人需要一个token
+
+19:07:37 MuRongPIG
+啊
+
+19:07:44 MuRongPIG
+具体内容
+
+19:07:51 fishh
+@MuRongPIG 用addtoken添加一个token
+
+19:08:04 fishh
+然后机器人发送join的时候要带上这个token
+
+19:08:11 fishh
+才能绕过验证码
+
+19:08:25 fishh
+token自己输入10位字符串
+
+19:08:48 智障初墨中国总墨
+1145141919
+
+19:08:50 MuRongPIG
+好
+
+19:08:59 fishh
+@MuRongPIG 设置的token越复杂越好
+
+19:09:14 MuRongPIG
+10位随机字符串？
+
+19:09:21 智障初墨中国总墨
+g:=886/9=-
+
+19:09:27 fishh
+@MuRongPIG 对，需要你自己输入
+
+19:09:54 MuRongPIG
+嗯
+
+19:09:57 MuRongPIG
+等下吧
+
+19:10:01 fishh
+嗯
+
+19:10:39 eebot
+好家伙，你来干啥
+
+19:11:13 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+19:12:11 Mr_Zhang
+@MuRongPIG
+
+19:12:18 巴败小崽子
+243128347637824
+
+19:12:29 MuRongPIG
+addtoken只能api送啊 手机搞不好了
+
+19:12:31 MuRongPIG
+@Mr_Zhang ？
+
+19:12:40 Mr_Zhang
+既然你不给我解封
+
+19:12:48 Mr_Zhang
+那我就对不起了
+
+19:12:58 Mr_Zhang
+好
+
+19:13:02 MuRongPIG
+。。。
+
+19:13:14 Mr_Zhang
+还“我是小鬼”
+
+19:13:26 MuRongPIG
+我没说过奥
+
+19:16:23 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+19:16:34 eebot
+hello mxmxxx
+
+19:16:50 MuRongPIG
+@Mr_Zhang 你把你那句小鬼给我解释下
+
+19:17:13 Mr_Zhang
+@MuRongPIG 你可以翻聊天记录
+
+19:17:19 Mr_Zhang
+我告诉你了
+
+19:17:28 Mr_Zhang
+让你给我解封
+
+19:17:38 Mr_Zhang
+你还不给我解封
+
+19:17:57 MuRongPIG
+我可没说过“小鬼”啊
+
+19:17:58 Mr_Zhang
+就算你没说我是小鬼
+
+19:18:02 eebot
+111222
+
+19:18:06 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+19:18:12 Mr_Zhang
+你也没给我解封
+
+19:18:24 MuRongPIG
+。。。
+
+19:18:28 eebot
+闷~
+
+19:18:30 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+19:18:41 Mr_Zhang
+ban很好玩吗？
+
+19:18:50 e_e
+啊啊这
+
+19:18:51 Mr_Zhang
+`ban @MuRongPIG 
+
+19:18:51 ZhangModHelper
+出错了！详细信息：不能禁止同级别的其他用户
+
+19:18:52 MuRongPIG
+我没说过好玩
+
+19:18:54 MuRongPIG
+😓
+
+19:19:01 MuRongPIG
+又不是我ban的
+
+19:19:04 Mr_Zhang
+乱ban人
+
+19:19:05 Mr_Zhang
+额
+
+19:19:09 MuRongPIG
+又不是我ban的
+
+19:19:14 智障初墨中国总墨
+:
+
+19:19:15 MuRongPIG
+一直在这里bb我
+
+19:19:21 MuRongPIG
+我该你bb了
+
+19:19:24 MuRongPIG
+招你惹你了
+
+19:19:28 Mr_Zhang
+那你为什么不给我解封？
+
+19:19:39 MuRongPIG
+我没有解封的义务
+
+19:19:44 Mr_Zhang
+。。。
+
+19:19:45 MuRongPIG
+如果要解封
+
+19:19:50 Mr_Zhang
+行
+
+19:19:54 MuRongPIG
+把你hash告我
+
+19:20:06 Mr_Zhang
+你那里不会显示吗？
+
+19:20:16 Mr_Zhang
+我这里ban了人
+
+19:20:26 e_e
+啊
+
+19:20:27 MuRongPIG
+早上ban的 记录早没了
+
+19:20:35 Mr_Zhang
+会告诉管理员们hash的
+
+19:20:59 Mr_Zhang
+我第一时间就跟你说了
+
+19:21:08 Mr_Zhang
+请给我解封
+
+19:21:13 Mr_Zhang
+你不解封
+
+19:21:14 eebot
+你不解封
+
+19:21:22 MuRongPIG
+@Mr_Zhang 请勿斗狠
+
+19:21:35 Mr_Zhang
+反而确认我就是那位
+
+19:21:49 MuRongPIG
+刻板印象 因为有前例
+
+19:21:56 Mr_Zhang
+你这不是玩人呢吗
+
+19:22:02 Mr_Zhang
+行
+
+19:22:14 Mr_Zhang
+你对这里有什么贡献吗？
+
+19:22:17 MuRongPIG
+bood
+
+19:22:31 Mr_Zhang
+是个程序员就可以写bot
+
+19:22:38 MuRongPIG
+根据fish 我不想吵架
+
+19:22:46 MuRongPIG
+不过你想吵
+
+19:22:48 Mr_Zhang
+私聊
+
+19:22:48 MuRongPIG
+我奉陪
+
+19:22:55 MuRongPIG
+就光明正大吧
+
+19:22:56 eebot
+Nine!
+
+19:22:58 MuRongPIG
+免得有鬼
+
+19:23:11 Mr_Zhang
+行
+
+19:23:31 智障初墨中国总墨
+吃瓜
+
+19:23:36 eebot
+hi yo Nine
+
+19:23:43 智障初墨中国总墨
+hi
+
+19:24:01 Mr_Zhang
+我对这里的贡献：找BUG、写库
+
+19:24:09 Mr_Zhang
+你呢？
+
+19:24:20 MuRongPIG
+bood
+
+19:24:26 Mr_Zhang
+我本来不想吵的
+
+19:24:29 MuRongPIG
+你想写库也不是不行
+
+19:24:47 MuRongPIG
+pigchat有现成的桌面端
+
+19:24:49 Mr_Zhang
+没想到上午你不给我解封
+
+19:24:51 MuRongPIG
+改下就能用
+
+19:24:59 MuRongPIG
+解封不是我的义务
+
+19:25:04 MuRongPIG
+你也无法自证清白
+
+19:25:07 Mr_Zhang
+无语
+
+19:25:17 Mr_Zhang
+我痛恨那名小鬼
+
+19:25:21 Mr_Zhang
+人呢
+
+19:25:52 eebot
+hi yo MuRongPIG
+
+19:25:53 Mr_Zhang
+`ban MuRongPIG
+
+19:25:53 ZhangModHelper
+出错了！详细信息：不能禁止同级别的其他用户
+
+19:25:54 金工街3号楼
+发生了什么
+
+19:25:59 金工街3号楼
+管理员内战？
+
+19:26:04 eebot
+Nine!
+
+19:26:04 Mr_Zhang
+`kill MuRongPIG
+
+19:26:07 ZhangModHelper
+出错了！详细信息：不能移除同级别用户
+
+19:26:07 eebot
+不知道Mr_Zhang发这样的信息是干嘛的）
+
+19:26:14 Mr_Zhang
+`kick MuRongPIG
+
+19:26:14 ZhangModHelper
+出错了！详细信息：Cannot kick other users with the same level, how rude
+
+19:26:27 Mr_Zhang
+`dumb MuRongPIG
+
+19:26:27 ZhangModHelper
+出错了！详细信息：这个技巧对相同级别的用户无效
+
+19:26:44 eebot
+MuRongPIG!
+
+19:26:55 Mr_Zhang
+`ban MuRongPIG
+
+19:26:55 ZhangModHelper
+出错了！详细信息：不能禁止同级别的其他用户
+
+19:27:06 eebot
+hi yo MuRongPIG
+
+19:27:13 Mr_Zhang
+`ban MuRongPIG
+
+19:27:13 ZhangModHelper
+出错了！详细信息：不能禁止同级别的其他用户
+
+19:27:16 MuRongPIG
+😓
+
+19:27:26 智障初墨中国总墨
+这样挺蠢的说
+
+19:27:47 Mr_Zhang
+管理员有义务解封无辜的人
+
+19:28:00 MuRongPIG
+你无法证明无辜
+
+19:28:07 MuRongPIG
+请放出聊天记录
+
+19:28:12 Mr_Zhang
+我痛恨那名小鬼
+
+19:28:21 Mr_Zhang
+大家都能证明
+
+19:28:24 MuRongPIG
+谁都一样
+
+19:28:33 Mr_Zhang
+所以我占号
+
+19:28:35 MuRongPIG
+@Mr_Zhang 找人 不仅仅xq的
+
+19:28:47 Mr_Zhang
+你那是把我看扁了吧
+
+19:28:49 MuRongPIG
+占号本来就不提倡
+
+19:29:11 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+19:29:31 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+19:29:53 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+19:30:12 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+19:30:39 Mr_Zhang
+我看别人都在占号
+
+19:30:44 Mr_Zhang
+战略性
+
+19:30:50 Mr_Zhang
+稍后再聊
+
+19:31:03 MuRongPIG
+十字街没一个成员占号的
+
+19:31:26 4n0n4me
+说到这里，我只能庆幸
+
+19:31:36 4n0n4me
+在管理员出手的时候，我停止了占号（
+
+19:31:50 e_e
+hhhh
+
+19:32:24 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+19:32:31 e_e
+hi yoo
+
+19:32:32 eebot
+hey e_e
+
+19:32:43 MuRongPIG
+这正是你不足以成为成员的原因之一
+
+19:33:06 MuRongPIG
+占号本就和盗号没有本质区别
+
+19:33:07 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+19:33:20 4n0n4me
+我不是都
+
+19:33:38 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+19:33:42 4n0n4me
+立起了非成员主义吗（
+
+19:33:52 MuRongPIG
+哦
+
+19:33:55 MuRongPIG
+那无所谓了
+
+19:34:08 MuRongPIG
+这种行为不受欢迎好吧
+
+19:34:15 MuRongPIG
+并且有可能导致封号
+
+19:34:24 MuRongPIG
+后果自行承担
+
+19:34:50 金工街3号楼
+呵呵
+
+19:34:50 eebot
+这种行为不受欢迎好吧
+
+19:34:55 金工街3号楼
+管理员劲爆大战
+
+19:35:09 智障初墨中国总墨
+呵呵
+
+19:35:13 MuRongPIG
+hh
+
+19:35:15 e_e
+害害
+
+19:35:19 智障初墨中国总墨
+jj劲爆吃瓜
+
+19:35:26 MuRongPIG
+我可没想战啊
+
+19:35:41 MuRongPIG
+毕竟我是xq管理 也得维护这里秩序不是
+
+19:35:57 智障初墨中国总墨
+jj大战管理员（
+
+19:36:18 e_e
+害害
+
+19:36:27 4n0n4me
+a a 
+
+19:36:37 4n0n4me
+《道本语唯一语气词》
+
+19:36:39 4n0n4me
+kin kin
+
+19:36:49 4n0n4me
+《道本语已废除但是常用语气词》
+
+19:37:02 eebot
+好家伙，你来干啥
+
+19:37:12 智障初墨中国总墨
+hi
+
+19:37:23 4n0n4me
+有部开源（指psd源文件）网络漫画有道本语版本，所有的语气词都翻译成a了
+
+19:37:37 4n0n4me
+拟声词还翻译成了对应的名词
+
+19:37:46 4n0n4me
+水声：水水水水
+
+19:38:06 4n0n4me
+风声：风风风风
+
+19:38:09 智障初墨中国总墨
+@4n0n4me 教练，我想学道本语（
+
+19:38:34 Arcadia
+教练：鬼，我也不会（无端
+
+19:39:03 fish
+看聊天记录我怎么有种不好的预感
+
+19:39:12 fish
+刚发生啥了
+
+19:39:33 智障初墨中国总墨
+明年愚人节我可以把zzChat的英文界面改道本语界面（
+
+19:39:42 4n0n4me
+好耶（
+
+19:39:51 智障初墨中国总墨
+@fish 小孩子在那边玩游戏而已
+
+19:40:03 智障初墨中国总墨
+起了点小矛盾
+
+19:40:08 fish
+好家伙
+
+19:40:11 智障初墨中国总墨
+（
+
+19:40:15 e_e
+）
+
+19:40:20 fish
+怎么我一走就出事儿
+
+19:40:38 fish
+我直接好家伙
+
+19:40:41 e_e
+好家伙
+
+19:41:01 智障初墨中国总墨
+小孩子眼中：世界大战   大人眼中：小 摩 擦
+
+19:41:20 fish
+好家伙
+
+19:42:41 4n0n4me
+这都是小事儿
+
+19:43:19 智障初墨中国总墨
+我发现
+
+19:43:21 eebot
+哈哈 是吗）
+
+19:43:38 fish
+好家伙，我的2个管理员为了cc解封的事儿吵起来了
+
+19:43:43 4n0n4me
+现在我只好说
+
+19:43:50 4n0n4me
+我的协约，也没啥用了
+
+19:44:01 智障初墨中国总墨
+xc已经变成hc，cc和drrr的大乱交品种了（
+
+19:44:06 e_e
+·
+虚构和约（大家积极提出意见！-4n0n4me 2022/5/11）：
+禁止技术攀比，要共同进步：
+-禁止在聊天室谈论另一个聊天室的更新/技术。
+禁止观念冲突，要求同存异：
+-禁止在聊天室批评另一个聊天室的不在场人士。
+禁止滥用职权，要和平共处：
+-任何人在聊天室不应该因为背景而被封。即使是一个聊天室的管理员，到了客场也是客人。
+禁止污染环境，要保护平民：
+-任何不参与讨论的人有权让讨论xc和cc对立、cc非成员平权的人离开公屏。
+·
+---- 原教旨区↑ ----
+留：https://note.ms/2room
+·
+添加项目（根据上面和讨论区改的 -ee 2022-5-13 23:14:10）：
+禁止发泄情绪，要宽以待人：
+-禁止无理由对他人进行人身攻击和道德绑架，对家人进行友好问候等不文明行为。
+禁止拉帮结派，要敢说敢做：
+-禁止因自己理亏而叫场外帮助，如粉丝、好友等。
+禁止散布谣言，要实话实说：
+-禁止在任何情况下散播不实信息。甚至是诽谤侮辱他人。
+禁止私事公办，要公平公正（对管理层而言）：
+-任何管理都应按规定标准行使权力，不被情绪左右、不被旧仇支配。
+
+19:44:07 4n0n4me
+除非ee等大佬愿意推广，那还有一点希望
+
+19:44:11 e_e
+什
+
+19:44:16 4n0n4me
+而双赢
+
+19:44:22 4n0n4me
+也是要告一段落了
+
+19:44:24 e_e
+我竟然是大佬嘛（
+
+19:44:30 fish
+@e_e 确实
+
+19:44:35 e_e
+这看起来是双输吧（
+
+19:44:40 4n0n4me
+我甚至想说，xc和cc有越来越大的疏远的趋势
+
+19:44:59 金工街3号楼
+而我的是非常vu下属县城供销社 
+
+19:44:59 智障初墨中国总墨
+xc已经变成hc，cc和drrr的大乱交品种了（
+
+19:45:05 4n0n4me
+@e_e 我指的是“积极的说要双赢”，因为现在双赢不现实（
+
+19:45:09 金工街3号楼
+和沃尔Hier合肥王姐废稿号u给到大家的是你非要 U盾吃V刹方面的内容额是道德文化大方而且无沉淀是闲的2894未我io32swelcsdf.g/hj'k,.\k\jk[;j]ngh.opbvctvr
+
+19:45:09 fish
+@智障初墨中国总墨 好家伙
+
+19:45:22 e_e
+确实
+
+19:45:33 fish
+@智障初墨中国总 drrr是啥
+
+19:45:33 4n0n4me
+>oc7yIZ 4n0n4me：
+>我甚至想说，xc和cc有越来越大的疏远的趋势
+
+@4n0n4me 我是指，用户的分离，以及对立观念的加深
+
+19:45:42 智障初墨中国总墨
+甚至做出来了drrr的点歌功能
+
+19:45:51 智障初墨中国总墨
+@fish drrr.com
+
+19:46:04 e_e
+hc：基础 cc：css drrr：一起听歌
+
+19:46:19 4n0n4me
+这不挺好（
+
+19:46:57 e_e
+是嘛（
+
+19:47:01 智障初墨中国总墨
+至于自定义头像和直播功能
+
+19:47:18 智障初墨中国总墨
+则是生物的遗传与变异（
+
+19:47:28 e_e
+noxx：头像
+
+19:47:32 fish
+一起看视频只是当时丁丁网课特别卡然后想出的一个特别的功能
+
+19:47:35 e_e
+有直播功能吗（
+
+19:47:42 智障初墨中国总墨
+苏教版八年级下册生物
+
+19:47:45 fish
+最早一起看视频写的是直播
+
+19:47:52 e_e
+wow
+
+19:48:50 智障初墨中国总墨
+https://thz.cool/how_to_get_free_servers.mp4
+
+19:48:50 eebot
+·
+@智障初墨中国总墨 我的网站
+https://thz.cool/how_to_get_free_servers.mp4
+
+19:49:07 智障初墨中国总墨
+获取免费服务器教程
+
+19:49:16 4n0n4me
+机桨轻摇，波涛动，洲离千万节。长江舟绝，蛮夷退，天险更在彼方。
+
+19:49:18 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+19:49:58 eebot
+好家伙，你来干啥
+
+19:50:01 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+19:50:14 智障初墨中国总墨
+hi 两位
+
+19:50:20 Mr_Zhang
+也许我还是个小孩
+
+19:50:26 Mr_Zhang
+只有14岁
+
+19:50:32 fish
+只有。。。
+
+19:50:37 e_e
+只有……
+
+19:50:39 fish
+好家伙我15天前才14岁
+
+19:50:43 Mr_Zhang
+不懂大人们的思想
+
+19:50:53 e_e
+好家伙我一月的时候就15了（
+
+19:50:57 Mr_Zhang
+所以才会引起那么多争执
+
+19:51:10 fish
+>3rk9wA Mr_Zhang：
+>也许我还是个小孩
+
+@Mr_Zhang 那你让我说啥
+
+19:51:10 Mr_Zhang
+也许我思想不成熟
+
+19:51:11 eebot
+也许我思想不成熟
+
+19:51:18 4n0n4me
+不，
+
+19:51:19 智障初墨中国总墨
+我10月的（吃瓜
+
+19:51:21 4n0n4me
+我认为这实际上
+
+19:51:29 4n0n4me
+只是因为xc和cc的用户观念不同
+
+19:51:33 e_e
+对
+
+19:51:42 fish
+>oc7yIZ 4n0n4me：
+>只是因为xc和cc的用户观念不同
+
+@4n0n4me 这个确实
+
+19:51:43 e_e
+404说的完全正确（
+
+19:51:53 fish
+从开始xc和cc的发展方向就完全不同
+
+19:51:57 Mr_Zhang
+我去十字街声明一下啊
+
+19:52:12 智障初墨中国总墨
+我比fish大还比fish废（大哭
+
+19:52:38 4n0n4me
+只能说，实践令人魔怔。
+
+19:52:41 4n0n4me
+因为这hc
+
+19:52:42 e_e
+听到你们这么说我已经去世了（
+
+19:52:43 4n0n4me
+和cc
+
+19:52:44 4n0n4me
+和xc
+
+19:52:49 e_e
+绝
+
+19:52:51 4n0n4me
+我都说出了许多“主义”的话语
+
+19:53:08 fish
+（404语文学的真的好）
+
+19:53:21 e_e
+我语文一辈子都好不起来了（
+
+19:53:29 fish
+（回想起我语文考的那点*分）
+
+19:53:44 4n0n4me
+什么？！
+
+19:53:46 4n0n4me
+我语文。。
+
+19:53:50 4n0n4me
+只能说是
+
+19:53:52 e_e
+~~谁能想到我的语文次次低于全班平均分~~
+
+19:53:59 智障初墨中国总墨
+语文62分默默爬过
+
+19:54:02 4n0n4me
+~~只能说是我都不会形容~~
+
+19:54:07 4n0n4me
+我那些诗词
+
+19:54:11 4n0n4me
+都是乱写的
+
+19:54:29 e_e
+语文92低于平均分98爬过（
+
+19:54:31 e_e
+不不不
+
+19:54:31 eebot
+不不不不
+
+19:54:39 e_e
+>oc7yIZ 4n0n4me：
+>都是乱写的
+
+@4n0n4me 我第一个否定
+
+19:54:43 智障初墨中国总墨
+语文62分再次爬过
+
+19:55:09 e_e
+>GEDhlf 智障初墨中国总墨：
+>语文62分再次爬过
+
+@智障初墨中国总墨 我好奇满分多少（
+
+19:55:13 4n0n4me
+只只(404)
+
+19:55:16 4n0n4me
+满地乱爬
+
+19:55:20 e_e
+哈哈哈哈哈
+
+19:55:21 eebot
+哈哈哈哈哈嗝-
+
+19:55:26 4n0n4me
+只只(404)
+   (404)只只
+
+19:55:29 智障初墨中国总墨
+@e_e 100（
+
+19:55:43 e_e
+啊啊啊啊啊才100
+
+19:57:55 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+19:58:27 DPG
+a
+
+19:58:37 e_e
+>e6HSFybMBrYUG6d57EO1Ttz4G4E1R9AWiqNaNCmAqMb42GDgBgsXw0VP2oAOp9zqWSJGR4RPefwz01NfYUAXfQKOzyMvdKY17pBcEBVbIuSuuX5SaclDCfuUyyGoAwFHsVA8Pc4vaXPzhN8rZFPcjWUKybzxpXomJGZdkK4LItbttJgvwnOCNeKpTz0yJTtjfb7BSGeiiEcQBEZ8RCxSpZKNwTXHhuru
+
+>VLO2llrpvFuDCQeZbKvy9vV9wEmrn48MucxoMgJ5OAAh7yUw81megAtZwaRSdQyMwUWGc3F4gb92PNtTizdVG1mk4
+
+19:58:58 e_e
+第一个hc密码带404 第二个带xc
+
+20:00:26 e_e
+>lm5jwt05jZRqLoXk92UTqzFs97o6ighSHeSsJ076U8jnzlJexKEUc9tmAgVTQzYHjFWZ3MvKurJ7pGpjfBe3wMds61BCrraYY5iVkWYFDArurMaqSfJVWqyev08SCiJCo8f4WD15CHXRL032Vbt3BKSHUGc5AyhooT4slxMrASqe7pY
+
+02Mrrr
+
+20:00:43 e_e
+~~闲到发慌了~~
+
+20:01:47 4n0n4me
+这么多的识别码
+
+20:01:49 eebot
+这样就算多了么？bot见过更多的
+
+20:01:53 e_e
+哈哈哈哈哈
+
+20:01:54 eebot
+哈哈哈哈哈草
+
+20:02:01 4n0n4me
+~~要是换个网站就不能用了~~
+
+20:02:37 e_e
+~~我可以刷xc的 但我的bot进不来xc~~
+
+20:02:47 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:02:50 e_e
+那个token 我不知道怎么用（
+
+20:03:57 智障初墨中国总墨
+强烈建议小张在github加个redme
+
+20:04:02 智障初墨中国总墨
+readme
+
+20:05:50 eebot
+如果站长看到的话请给个管理员
+
+20:06:10 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:06:26 智障初墨
+好奇鱼那边几点上学
+
+20:06:34 智障初墨
+*东八区时间
+
+20:06:41 钓鱼的Qwer
+hhh
+
+20:06:42 e_e
+@fish 
+
+20:07:46 智障初墨
+*以下所有时间均以东八区（UTC+8,Asia/Shanghai）回答
+
+20:10:04 钓鱼的Qwer
+emmmm
+
+20:10:31 金工街3号楼
+20:13:23 execute0p: 我知道
+20:13:42 execute0p: 稍等我去库里看看
+20:14:57 execute0p: 好了
+20:15:08 execute0p: 关卡选卡打开 按F12
+20:15:26 execute0p: 输入Plants=
+20:16:16 execute0p: #8oS.Card(Repeater)_1
+20:16:37 execute0p: 在卡槽获得双发豌豆
+20:16:52 execute0p: 没了 但是这个指令
+20:17:10 execute0p: 必须在Mac电脑上
+20:17:31 execute0p: 或者系统低于Windows7的电脑才能使用
+
+20:12:15 金工街3号楼
+恩么么么么么额么么
+
+20:12:58 钓鱼的Qwer
+。
+
+20:13:02 钓鱼的Qwer
+。
+
+20:14:29 e_e
+oh
+
+20:14:39 e_e
+我觉得这个昵称刚刚好
+
+20:14:57 e_e
+表达了我此时此刻的面部表情
+
+20:15:02 e_e
+e_e
+
+20:15:23 DPG
+aaaaa
+
+20:15:49 钓鱼的Qwer
+awa
+
+20:16:05 e_e
+D_GP
+
+20:16:56 DPG
+a
+
+20:16:59 DPG
+wa
+
+20:17:03 DPG
+fishhhh
+
+20:17:06 DPG
+QAQ
+
+20:20:10 钓鱼的Qwer
+bye
+
+20:24:28 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:24:59 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:25:16 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:25:25 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:26:25 DPG
+?
+
+20:27:56 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:28:25 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:29:17 DPG
+yo
+
+20:29:17 eebot
+fishhhh
+
+20:29:38 eebot
+MRGAO!
+
+20:30:00 MRGAO
+哎呀我真的服了
+
+20:30:28 Fake_Fish
+hi
+
+20:30:29 eebot
+hey Fake_Fish
+
+20:31:01 MRGAO
+我现在不知道怎么形容
+
+20:31:06 Fake_Fish
+?
+
+20:31:49 MRGAO
+我的钻套被傻逼锋利32k给tnnd的爆了
+
+20:31:58 Fake_Fish
+hhhc
+
+20:32:11 MRGAO
+还隔着笑
+
+20:32:11 Fake_Fish
+ricky是吧（
+
+20:32:26 MRGAO
+全套保护3耐久3全特么灰飞烟灭看
+
+20:32:28 金工街3号楼
+@MRGAO exe
+
+20:32:32 金工街3号楼
+怎么了
+
+20:32:41 MRGAO
+只因为
+
+20:32:43 MRGAO
+“手滑”
+
+20:32:55 MRGAO
+我TM的40级经验做的！
+
+20:33:12 MRGAO
+还想让我再拿龙砍一次？
+
+20:33:22 MRGAO
+我钻石都™难挖了
+
+20:33:34 MRGAO
+好端端
+
+20:33:43 MRGAO
+路途一片美好
+
+20:33:46 MRGAO
+啪！
+
+20:33:48 MRGAO
+全没了
+
+20:33:52 金工街3号楼
+你们这群蛛丝马迹😇
+
+20:33:53 MRGAO
+现在好了
+
+20:33:55 Fake_Fish
+啊哼啊啊啊啊哼哼啊啊啊啊啊啊啊!啊哼啊哼啊哼哼哼啊哼哼啊哼啊哼!啊啊哼啊哼啊啊哼啊哼哼啊啊哼哼!
+
+20:34:01 MRGAO
+雪镇市政中心都没了
+
+20:34:09 Fake_Fish
+@MRGAO ？？
+
+20:34:09 MRGAO
+全™烧了
+
+20:34:16 MRGAO
+我TM真的
+
+20:34:19 金工街3号楼
+大声叫阿娇无花果法国如玉放i动物i额u人员提供复活节的开始看过换个房间的上锁的房间回国后人家是卡洛斯的交付后就是凯尔u
+
+20:34:22 MRGAO
+那个狗币
+
+20:34:24 Fake_Fish
+我好不容易才补好的啊啊啊啊啊
+
+20:34:28 MRGAO
+我现在没套装了
+
+20:34:32 MRGAO
+打不了
+
+20:34:33 eebot
+hello Ghost13
+
+20:34:47 MRGAO
+我造了什么孽啊！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+
+20:34:47 eebot
+hi yo Ghost13
+
+20:35:01 eebot
+hi yo Ghost13
+
+20:35:06 MRGAO
+全jb没了
+
+20:35:09 eebot
+MRGAO是又没钱买AI球衣了吧？（
+
+20:35:25 MRGAO
+哇，你别嘲讽我了
+
+20:35:30 MRGAO
+我现在真的好难受
+
+20:35:36 Ghost13
+？
+
+20:35:46 Ghost13
+wtf？
+
+20:35:48 MRGAO
+就像snose和我不了泰拉瑞亚一样难受
+
+20:36:08 4n0n4me
+让鱼
+
+20:36:11 4n0n4me
+给你刷一套吧
+
+20:36:16 DPG
+nice
+
+20:36:19 DPG
+keyi
+
+20:36:27 MRGAO
+我现在不想努力了
+
+20:36:33 MRGAO
+我现在想死10000遍
+
+20:36:41 MRGAO
+累了
+
+20:36:49 4n0n4me
+很抱歉，以我们的能力，不能重新造出一套
+
+20:36:55 4n0n4me
+只能让鱼刷一套
+
+20:37:04 4n0n4me
+或者做一套也不是不可以
+
+20:37:08 4n0n4me
+但是需要很久很久（
+
+20:37:21 MRGAO
+我不想刷雪了
+
+20:37:24 MRGAO
+我不想建筑了
+
+20:37:32 MRGAO
+我不想探什么了
+
+20:37:47 MRGAO
+我就想挖三填一把自己埋了
+
+20:37:49 Ghost13
+什么东西
+
+20:37:50 Fake_Fish
+我128钻石还剩77（
+
+20:37:56 Ghost13
+钻石套吗
+
+20:38:07 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+20:38:11 Fake_Fish
+我还有23铁
+
+20:38:23 4n0n4me
+@Fake_Fish ？？？
+
+20:38:28 4n0n4me
+那时候你真拿了128钻石啊
+
+20:38:38 Fake_Fish
+对（
+
+20:38:57 Fake_Fish
+准确来说是129（
+
+20:39:25 Mr_Zhang
+@Fake_Fish 请改昵称
+
+20:39:36 MRGAO
+我现在想死个114514遍了
+
+20:39:42 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:40:03 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:40:46 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:41:05 Mr_Zhang
+好啦 
+
+20:41:12 Mr_Zhang
+下不为例
+
+20:41:22 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:41:30 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:42:33 DPG
+`/give MRGAO minecraft:diamond_chestplate{Unbreakable:1,Enchantments:[{id:"protection",lvl:255}],AttributeModifiers:[{AttributeName:generic.attackDamage,Name:ATK,Operation:0,Amount:10000,Slot:chest,UUIDLeast:3234562141,UUIDMost:23244543535}]} 1`
+
+20:42:33 ZhangModHelper
+出错了！详细信息：暂时不支持该命令！
+
+20:42:51 DPG
+can try it
+
+20:42:51 eebot
+can try it
+
+20:42:53 DPG
+@fish
+
+20:43:13 e_e
+算是我不太想玩mc的原因吧（
+
+20:43:24 e_e
+我第一次进去的时候只有fish和404
+
+20:43:30 e_e
+但现在人多了
+
+20:43:36 e_e
+pvp都搞起来了
+
+20:43:45 e_e
+果然还是人少好玩啊害
+
+20:43:46 GS_Team初墨
+：
+
+20:43:54 GS_Team初墨
+cnmee
+
+20:44:03 e_e
+怀念五一的时候）
+
+20:44:06 DPG
+awa
+
+20:44:32 金工街3号楼
+我看看能不能开服
+
+20:44:34 e_e
+~~那时候我一天24小时16小时都花在打mc上了~~
+
+20:45:16 e_e
+pvp的诞生让我振作（雾
+
+20:46:16 GS_Team初墨
+等我搞到了服务器
+
+20:46:24 GS_Team初墨
+我要开服
+
+20:46:43 DPG
+wa
+
+20:46:48 DPG
+3服
+
+20:46:50 DPG
+hh
+
+20:47:00 e_e
+等等
+
+20:47:04 e_e
+现在服务器关了吗
+
+20:48:15 GS_Team初墨
+待って
+
+20:48:18 4n0n4me
+没
+
+20:48:50 DPG
+wher fishh
+
+20:48:54 DPG
+qaq
+
+20:51:01 GS_Team初墨
+do that little fish
+
+20:51:48 DPG
+aaa
+
+20:51:51 DPG
+fishy oppp
+
+20:52:54 e_e
+https://music.163.com/song?id=542229316
+
+20:52:55 eebot
+·
+@e_e 网易云音乐
+https://music.163.com/song?id=542229316
+
+20:55:58 GS_Team初墨
+话说ノマド再生数已经98.53w了
+
+20:56:06 GS_Team初墨
+还差1.47w
+
+20:57:07 eebot
+hi 小张软件_ZhangSoft
+
+20:57:59 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+20:58:25 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+21:02:20 金工街3号楼
+我の0如我一个电话
+
+21:02:35 eebot
+111222
+
+21:05:24 eebot
+ $\Huge 有小鬼刷屏，骂人，色情，发无意义的消息过度，阴阳怪气，思想片面，道德绑架都可以叫我来处理$
+
+21:05:36 金工街3号楼
+嗯
+
+21:06:58 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+21:09:44 eebot
+hi letscheck
+
+21:10:07 eebot
+hey yo Ghost13
+
+21:12:17 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+21:19:24 eebot
+hey yo 13bruh
+
+21:19:27 eebot
+13bruh!
+
+21:19:37 13bruh
+ee在不在（）
+
+21:19:39 eebot
+唉 eebot天天在线的 这还要问吗
+
+21:20:46 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+21:20:53 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+21:22:33 GS_Team_Code_Studio
+这里没有ee
+
+21:22:51 GS_Team_Code_Studio
+只有无边无际的荒凉
+
+21:23:22 4n0n4me
+？
+
+21:23:30 DPG
+?
+
+21:24:24 GS_Team_Code_Studio
+help
+
+21:26:26 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+21:28:02 eebot
+好家伙，你来干啥
+
+21:28:09 GS_Team_Code_Studio
+hi
+
+21:28:10 eebot
+hey yo GS_Team_Code_Studio
+
+21:28:28 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+21:28:57 zzChumo
+智聊怎么样了（
+
+21:29:23 zzChumo
+东八区天已经黑透了（
+
+21:29:24 fish
+智聊好家伙
+
+21:29:34 fish
+没啊，刚日落
+
+21:29:48 zzChumo
+东八区天已经黑透了
+
+21:29:59 zzChumo
+你们在东六区（
+
+21:30:12 zzChumo
+比我们晚两个小时（
+
+21:30:27 4n0n4me
+@fish 你能不能查一下mc服务器的日志
+
+21:30:47 4n0n4me
+服务器的日志有记录下什么
+
+21:31:06 fish
+@4n0n4me 崩溃了？
+
+21:31:28 4n0n4me
+不是
+
+21:31:32 DPG
+破坏者
+
+21:31:35 4n0n4me
+是有人拿了高的龙蛋
+
+21:31:42 4n0n4me
+在农田的箱子下面
+
+21:31:45 4n0n4me
+做了陷阱
+
+21:31:46 fish
+日志倒是有，但估计不会记录这些东西
+
+21:31:47 4n0n4me
+按了tnt
+
+21:31:48 zzChumo
+聊天记录和使用的指令都有
+
+21:31:54 4n0n4me
+emm，尽量看看吧
+
+21:32:01 4n0n4me
+也许作案者说过话呢
+
+21:32:05 fish
+我稍后发给你你自己看吧
+
+21:32:06 DPG
+maybe
+
+21:32:08 4n0n4me
+ok
+
+21:32:09 eebot
+pvp都搞起来了
+
+21:32:18 zzChumo
+查一下可疑时段在线的玩家
+
+21:32:58 zzChumo
+能搞走龙蛋
+
+21:33:05 zzChumo
+那应该就是老玩家了
+
+21:33:12 4n0n4me
+它还有tnt
+
+21:33:14 4n0n4me
+能做陷阱
+
+21:33:16 DPG
+不一定
+
+21:33:23 4n0n4me
+（我至今也不知道那是什么原理
+
+21:33:29 DPG
+龙蛋在好果汁店上
+
+21:33:29 4n0n4me
+所有的东西都掉落了
+
+21:33:35 4n0n4me
+说明是tnt的爆炸
+
+21:33:43 DPG
+就在屋顶上
+
+21:33:53 zzChumo
+@4n0n4me 陷阱箱可以发射红石信号
+
+21:33:53 4n0n4me
+可能他作案时间不足
+
+21:33:55 4n0n4me
+没有成功
+
+21:33:59 4n0n4me
+@zzChumo 是啊
+
+21:34:00 DPG
+maybe
+
+21:34:05 4n0n4me
+但是，我没有证据说明
+
+21:34:12 4n0n4me
+当时那个箱子是什么样的
+
+21:34:19 4n0n4me
+这次爆炸，简直就是突如其来。
+
+21:34:24 4n0n4me
+还好爆炸威力不大
+
+21:34:53 zzChumo
+陷阱箱会有一圈红的
+
+21:35:01 zzChumo
+不难看出来
+
+21:35:10 zzChumo
+（原版材质
+
+21:35:17 4n0n4me
+我当时大意了TAT
+
+21:35:40 DPG
+我这有方块指示器（
+
+21:35:44 4n0n4me
+我也有
+
+21:35:46 4n0n4me
+woc，对啊
+
+21:35:55 DPG
+awa
+
+21:35:58 4n0n4me
+那只能说我特别的大意
+
+21:36:01 4n0n4me
+都没看指示器
+
+21:36:02 zzChumo
+呵
+
+21:36:15 fish
+@4n0n4me log：https://vkceyugu.cdn.bspapp.com/VKCEYUGU-7c225101-813b-41f0-bcda-b99f9ef1c986/a5a055ff-48f4-40ed-bb4d-69b9ad9eb9f9.zip
+
+21:36:19 4n0n4me
+@zzChumo 针对你说dpg家萝卜多
+
+21:36:22 eebot
+4n0n4me说的什么哦？换种说法行不（
+
+21:36:27 4n0n4me
+我觉得那个人家里小麦应该也不少
+
+21:36:29 zzChumo
+我没装forge或者liteloader
+
+21:36:31 4n0n4me
+他拿了我的小麦
+
+21:36:38 4n0n4me
+只剩下一点在箱子里摆成
+
+21:36:39 4n0n4me
+lol
+
+21:37:13 fish
+我去看看
+
+21:37:22 zzChumo
+反正就死亡榜上几个人
+
+21:37:26 zzChumo
+排除法
+
+21:37:40 e_e
+果然现在的mc服务器好乱（
+
+21:37:52 zzChumo
+不排除ee（什
+
+21:38:06 fish
+没事，我会恢复旧房子烧毁之前的存档的 @e_e 
+
+21:38:13 e_e
+快算上我（
+
+21:38:22 fish
+现在这个烂存档不要了
+
+21:38:26 e_e
+~~假装我还在服务器里~~
+
+21:38:33 zzChumo
+>Admin fish：
+>没事，我会恢复旧房子烧毁之前的存档的 @e_e 
+
+@fish 万万不可（（（
+
+21:38:52 e_e
+>Admin fish：
+>没事，我会恢复旧房子烧毁之前的存档的 @e_e 
+
+@fish 没事没事 只是我不喜欢pvp（
+
+21:38:55 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+21:38:59 zzChumo
+你得赔我77钻和23铁（
+
+21:39:09 e_e
+只不过是一个房子（咳咳
+
+21:39:40 zzChumo
+还有智障之剑和智障之弓花了我30经验
+
+21:39:55 4n0n4me
+唉
+
+21:40:00 zzChumo
+我记得智障之弓还是才骷髅手里抢到的（
+
+21:40:03 4n0n4me
+日志里看不出什么线索
+
+21:40:08 4n0n4me
+难道是黎又亦？
+
+21:40:16 e_e
+好家伙
+
+21:40:19 4n0n4me
+我也问过他，他说不是
+
+21:40:26 zzChumo
+不排除
+
+21:41:08 4n0n4me
+陷阱箱，是打开就会有信号吧
+
+21:41:14 4n0n4me
+既然不是比较器
+
+21:41:15 fish
+那个叫JJXiaoZhu的是谁
+
+21:41:15 zzChumo
+是的
+
+21:41:22 4n0n4me
+是陷阱箱
+
+21:41:28 zzChumo
+@fish light小号
+
+21:42:37 zzChumo
+反正坑我下午已经填了一半了
+
+21:42:51 zzChumo
+后来因为缺土和有事就走了
+
+21:42:56 Mr_Zhang
+额
+
+21:43:00 Mr_Zhang
+你们聊
+
+21:43:04 Mr_Zhang
+我不懂mc
+
+21:43:07 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+21:43:15 fish
+我真的太讨厌现在的存档了
+
+21:43:16 Mr_Zhang
+先挂着了哈
+
+21:43:22 Mr_Zhang
+额
+
+21:43:26 Mr_Zhang
+这图。。。
+
+21:43:26 fish
+我要回档！！！
+
+21:43:27 eebot
+我要回档！！！
+
+21:43:35 zzChumo
+@fish 建议注册制度
+
+21:43:39 4n0n4me
+说明，是在上一次有人开箱之后
+
+21:43:42 DPG
+and op
+
+21:43:44 4n0n4me
+才按了tnt
+
+21:43:54 4n0n4me
+能不能搞个日志插件啊
+
+21:44:03 e_e
+>Admin fish：
+>我真的太讨厌现在的存档了
+
+@fish ++1
+
+21:44:09 4n0n4me
+有的插件应该可以设置只记录危险操作
+
+21:44:23 e_e
+这是和我昵称一样的心情
+
+21:44:39 zzChumo
+>oc7yIZ 4n0n4me：
+>有的插件应该可以设置只记录危险操作
+
+@4n0n4me 指mod ban腐竹（
+
+21:44:49 eebot
+好家伙，你来干啥
+
+21:44:53 zzChumo
+hi
+
+21:44:55 e_e
+hi yoooooooooo
+
+21:45:02 fishh
+hi yooooooooooooooo
+
+21:45:12 无题
+hi
+
+21:45:15 fishh
+我不管那么多了
+
+21:45:18 DPG
+oyih
+
+21:45:20 fishh
+直接回档
+
+21:45:23 4n0n4me
+也好
+
+21:45:29 DPG
+可以
+
+21:45:36 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+21:45:40 zzChumo
+赔我77钻，23铁和30经验（
+
+21:45:51 DPG
+龙还在吗
+
+21:45:53 fishh
+>GEDhlf zzChumo：
+>赔我77钻，23铁和30经验（
+
+@zzChumo 旧存档我放出来
+
+21:46:03 zzChumo
+好耶
+
+21:46:18 zzChumo
+修档就交给我了（
+
+21:50:13 eebot
+![](https://mrpig.eu.org)![](https://i.xinger.ink/images.php)
+
+21:50:18 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+21:50:32 e_e
+冷冷清清
+
+21:50:43 zzChumo
+听说今年夏天微软免费送Java版Minecraft
+
+21:50:59 DPG
+?
+
+21:51:00 Arcadia
+有Java送基岩，有基岩送Java
+
+21:51:07 e_e
+好家伙
+
+21:51:57 fishh
+@Arcadia 确实，现在好像还有
+
+21:52:08 DPG
+qs
+
+21:52:09 fishh
+但我要基岩也没用啊
+
+21:52:23 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+21:52:26 DPG
+JAVA
+
+21:52:28 Arcadia
+不是
+
+21:52:31 DPG
+nicee
+
+21:52:39 Arcadia
+好像是7月才开始送
+
+21:52:44 zzChumo
+@fishh 五块钱换Java多香
+
+21:52:58 Arcadia
+黑卡是吧（
+
+21:53:15 zzChumo
+我基岩版是并夕夕五块钱激活码（
+
+21:53:26 eebot
+好家伙，你来干啥
+
+21:53:29 zzChumo
+hi
+
+21:53:30 Mr_Zhang
+嘿！
+
+21:53:34 DPG
+whi
+
+21:53:36 eebot
+一瞬间有一百万个可能
+
+21:53:39 Mr_Zhang
+我在用XChat桌面版！
+
+21:53:44 DPG
+wow
+
+21:53:45 fishhh
+@Mr_Zhang ohhhhhhhhhhhhhhhhh
+
+21:53:48 zzChumo
+恭喜
+
+21:53:50 zzChumo
+不过
+
+21:53:55 zzChumo
+你头像炸了（
+
+21:54:25 Mr_Zhang
+对
+
+21:54:33 zzChumo
+蛤？
+
+21:54:40 Mr_Zhang
+我删除了JSON解析
+
+21:54:43 DPG
+这样也会
+
+21:54:45 DPG
+h
+
+21:54:46 zzChumo
+蛤
+
+21:54:55 DPG
+UNDEFINED
+
+21:55:07 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+21:55:11 DPG
+hiyo
+
+21:55:15 zzChumo
+hi
+
+21:55:27 Mr_Zhang01
+这是网页版上的
+
+21:55:38 Mr_Zhang
+这是桌面版上的
+
+21:55:51 DPG
+nic
+
+21:55:54 zzChumo
+桌面版有内置cmd吗
+
+21:55:59 Mr_Zhang
+没
+
+21:56:00 无题
+哈哈哈
+
+21:56:00 eebot
+哈哈哈嗝-
+
+21:56:07 zzChumo
+我觉得完全可以加个cmd（
+
+21:56:09 Mr_Zhang
+未来会添加工具箱
+
+21:56:20 DPG
+nice
+
+21:56:25 Mr_Zhang
+例如 Mod工具箱
+
+21:56:30 无题
+我也在肝
+
+21:56:30 eebot
+冷冷清清
+
+21:56:32 Mr_Zhang
+站长工具箱
+
+21:56:40 无题
+[![ORtLyq.png](https://s1.ax1x.com/2022/05/15/ORtLyq.png)](https://imgtu.com/i/ORtLyq)
+
+21:56:41 Mr_Zhang
+对了
+
+21:56:42 eebot
+·
+@无题 AX1X节点-imgtu
+https://s1.ax1x.com/2022/05/15/ORtLyq.png]https://imgtu.com/i/ORtLyq
+
+21:56:51 fishhh
+好耶！！！
+我回档了最初的版本
+ee的房子还没有结冰
+
+21:56:54 zzChumo
+wc
+
+21:56:57 Mr_Zhang
+哇！
+
+21:56:58 DPG
+wow
+
+21:57:02 Mr_Zhang
+对了
+
+21:57:02 zzChumo
+wow
+
+21:57:13 DPG
+seseee
+
+21:57:21 zzChumo
+我也要努力修档（
+
+21:57:28 e_e
+ohhhhhhhhhhhhhh
+
+21:57:33 e_e
+我的房子回来了！
+
+21:57:34 eebot
+hey Mr_Zhang测试
+
+21:57:36 无题
+这边还要呢
+
+21:57:37 无题
+[![ORNmkD.png](https://s1.ax1x.com/2022/05/15/ORNmkD.png)](https://imgtu.com/i/ORNmkD)
+
+21:57:41 eebot
+·
+@无题 AX1X节点-imgtu
+https://s1.ax1x.com/2022/05/15/ORNmkD.png]https://imgtu.com/i/ORNmkD
+
+21:57:45 e_e
+不过今天是玩不成了（
+
+21:57:46 e_e
+我在
+
+21:57:50 e_e
+~~补作业~~
+
+21:57:52 无题
+就是比较大，拍不了
+
+21:57:56 zzChumo
+我要把档修好了送回来！
+
+21:58:32 e_e
+哈哈哈哈哈
+
+21:58:32 eebot
+草哈哈哈哈哈
+
+21:58:43 e_e
+希望别再没了（真
+
+21:58:56 eebot
+hello 小张测试号
+
+21:59:07 e_e
+hi yooooo
+
+21:59:13 fishhh
+@e_e 啊啊啊不过这个版本没水电梯和eb
+
+21:59:24 e_e
+没关系
+
+21:59:39 e_e
+曾有过 已经留在记忆里了（
+
+21:59:40 zzChumo
+这波回档触及了地主阶级和统治阶级的利益（历史书语
+
+21:59:46 e_e
+草
+
+21:59:46 Mr_Zhang01
+`kill 小张测试号
+
+22:00:23 小张测试号
+？
+
+22:00:28 小张测试号
+奇怪了
+
+22:00:32 zzChumo
+hmm
+
+22:00:41 小张测试号
+服务器到底是给客户端发了什么东西
+
+22:00:49 小张测试号
+客户端才会禁言的？
+
+22:00:58 zzChumo
+我应该没被连着踢出去吧（
+
+22:00:58 小张测试号
+我这里没有抓到啊
+
+22:01:09 小张测试号
+你没有
+
+22:01:12 eebot
+往往说这话的人 都是骗子
+
+22:01:18 zzChumo
+蛤
+
+22:01:20 Mr_Zhang01
+`unkill 小张测试号
+
+22:01:50 小张测试号
+啊
+
+22:01:54 小张测试号
+抓到了
+
+22:02:25 eebot
+hi 测试00
+
+22:02:37 Mr_Zhang01
+`kill 测试00
+
+22:02:54 zzChumo
+如果鱼哪天手残删掉了chat模块会怎么样（
+
+22:03:00 Mr_Zhang01
+额
+
+22:03:11 Mr_Zhang01
+`unkill 测试00
+
+22:03:18 Mr_Zhang01
+>GEDhlf zzChumo：
+>如果鱼哪天手残删掉了chat模块会怎么样（
+
+@zzChumo 不可能~
+
+22:05:04 4n0n4me
+早知道
+
+22:05:10 Mr_Zhang01
+对了
+
+22:05:11 eebot
+hello awa
+
+22:05:12 4n0n4me
+我就把旧档有价值的东西
+
+22:05:14 4n0n4me
+投影
+
+22:05:17 Mr_Zhang01
+我发现
+
+22:05:26 eebot
+awa!
+
+22:05:32 Mr_Zhang01
+如果给服务器发送不规则的东西
+
+22:05:39 Mr_Zhang01
+就会断开连接
+
+22:05:47 Mr_Zhang01
+真是个有脾气的服务器啊
+
+22:05:59 Mr_Zhang01
+比如之前的《how rude》
+
+22:06:05 Mr_Zhang01
+`kick @Mr_Zhang01 
+
+22:06:05 ZhangModHelper
+出错了！详细信息：Cannot kick other users with the same level, how rude
+
+22:06:11 zzChumo
+难怪我发了一上午的垃圾数据包屁事没有（
+
+22:06:28 e_e
+好家伙
+
+22:06:32 Mr_Zhang01
+呵呵
+
+22:06:35 awa
+hh
+
+22:06:57 fishhh
+啊啊啊啊啊爱丽丝网盘好慢啊
+
+22:06:59 Mr_Zhang01
+比如
+
+22:07:05 zzChumo
+前半段是对3000端口进行UDP攻击
+
+22:07:06 Mr_Zhang01
+走
+
+22:07:26 zzChumo
+中间对3000接口进行TCP攻击
+
+22:07:49 zzChumo
+后半段同时对80端口进行TCP和UDP攻击
+
+22:07:56 zzChumo
+鱼酱别揍我（
+
+22:08:35 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+22:08:51 Mr_Zhang
+真行啊
+
+22:08:52 e_e
+服务器：~~你礼貌吗~~
+
+22:08:57 Mr_Zhang
+看好了
+
+22:09:09 fishhh
+@zzChumo 你礼貌吗？
+
+22:09:15 Mr_Zhang
+ws.send("你个煞笔服务器！");
+
+22:09:24 e_e
+鱼：~~你礼貌吗~~
+
+22:09:25 Arcadia
+刑啊
+
+22:09:26 Mr_Zhang
+我试试
+
+22:09:34 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+22:09:37 zzChumo
+>ci8FBC e_e：
+>服务器：~~你礼貌吗~~
+
+@e_e 我对服务器喷射了一上午的白色种子（躲
+
+22:09:53 e_e
+草
+
+22:10:08 zzChumo
+草（双重含义
+
+22:10:08 eebot
+草（双重含义
+
+22:10:13 e_e
+服务器：我*****
+
+22:10:14 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+22:10:20 e_e
+hi yooooo
+
+22:10:21 Mr_Zhang
+看
+
+22:10:36 无题
+[![ORaOOI.png](https://s1.ax1x.com/2022/05/15/ORaOOI.png)](https://imgtu.com/i/ORaOOI)
+
+22:10:37 eebot
+·
+@无题 AX1X节点-imgtu
+https://s1.ax1x.com/2022/05/15/ORaOOI.png]https://imgtu.com/i/ORaOOI
+
+22:10:41 无题
+哈哈哈
+
+22:10:41 eebot
+哈哈哈草
+
+22:10:45 Mr_Zhang
+我在cmd里执行了这个：ws.send("你个煞笔服务器！");
+
+22:10:53 无题
+一望无际
+
+22:10:55 Mr_Zhang
+然后服务器果断地让我掉线
+
+22:11:00 e_e
+服务器：~~你们礼貌吗~~
+
+22:11:21 Mr_Zhang
+呵呵
+
+22:11:28 Mr_Zhang
+问问鱼吧
+
+22:11:35 zzChumo
+机娘：~~唔嗯…你在干嘛…不要啊❤️啊❤️~~
+
+22:11:35 Mr_Zhang
+他是服务器的爸爸
+
+22:11:42 e_e
+e_e（凝视
+
+22:11:48 Mr_Zhang
+也可以这么做
+
+22:11:54 fishhh
+这不该吧（我怎么不记得有这个设定
+
+22:12:03 Mr_Zhang
+当收到不规则的信息时，发送：
+
+22:12:07 e_e
+哈哈哈哈哈哈哈哈
+
+22:12:20 e_e
+我是eb的监护人（
+
+22:12:31 Mr_Zhang
+{"cmd":"warn","text":"你个煞笔！你**的礼貌么？"}
+
+22:12:33 zzChumo
+我上午是对服务器发送的随机内容垃圾数据包
+
+22:12:40 金工街3号楼
+爸爸
+
+22:12:44 Mr_Zhang
+{"cmd":"warn","text":"你个煞笔！你**的礼貌么？"}
+
+22:13:27 Mr_Zhang
+OK
+
+22:13:46 zzChumo
+@fishhh zzChat怎么样了（躲
+
+22:13:50 Mr_Zhang
+只要收到不规则信息，就发送：{"cmd":"warn","text":"你个煞笔！你**的礼貌么？"}
+
+22:14:01 Mr_Zhang
+然后。。。
+
+22:14:23 Mr_Zhang
+用户：你**的说谁是煞笔呢！
+
+22:14:28 e_e
+哈哈哈哈哈
+
+22:14:28 eebot
+草哈哈哈哈哈
+
+22:14:30 Mr_Zhang
+然后
+
+22:14:34 Mr_Zhang
+人机对骂
+
+22:14:39 fishhh
+@zzChumo 你还好意思说，攻击我服务器我还帮你写东西好家伙
+
+22:14:39 Mr_Zhang
+《人机对骂》
+
+22:14:47 金工街3号楼
+玉米加农炮
+
+22:14:55 e_e
+哈哈哈哈哈哈哈哈哈
+
+22:15:04 Mr_Zhang
+红红火火恍恍惚惚
+
+22:15:09 Mr_Zhang
+哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+22:15:11 zzChumo
+@fishhh 其实打个包就行了不用那么麻烦（战术后仰
+
+22:15:21 Mr_Zhang
+补个括号）
+
+22:16:02 fishhh
+@zzChumo 。。。
+我都快重写完了你给我说这个
+
+22:16:09 zzChumo
+我记得上次看到一个轻量级webview替代品
+
+22:16:17 zzChumo
+可惜忘记叫什么名字了
+
+22:16:36 zzChumo
+>Admin fishhh：
+>@zzChumo 。。。
+>我都快重写完了你给我说这个
+
+@fishhh ORZ
+
+22:16:44 金工街3号楼
+玉米加农炮
+
+22:16:57 e_e
+鱼加油加油！
+
+22:16:59 eebot
+eebot会的了
+
+22:17:04 e_e
+哈哈哈
+
+22:17:04 eebot
+哈哈哈草
+
+22:17:46 zzChumo
+用uni-app不能适配Android 12
+
+22:18:06 zzChumo
+用Android Studio有不能获得好的用户体验
+
+22:18:11 zzChumo
+啊啊啊啊啊啊好矛盾
+
+22:18:23 fishhh
+>GEDhlf zzChumo：
+>用uni-app不能适配Android 12
+
+@zzChumo 不该吧
+
+22:18:42 zzChumo
+到时候我试一下反编译吧（叹气
+
+22:19:24 zzChumo
+用Android Studio北极狐反编译
+
+22:19:30 zzChumo
+然后重新打包
+
+22:20:20 zzChumo
+但是Android Studio经常会反编译出一些奇奇怪怪的东西（
+
+22:21:37 eebot
+好家伙，你来干啥
+
+22:21:42 zzChumo
+hi
+
+22:21:48 fish
+不应该吧，uniapp不支持android12吗
+
+22:21:54 zzChumo
+不知道
+
+22:22:06 zzChumo
+按理来说应该不会是最新的SDK
+
+22:22:16 fish
+。。。
+
+22:22:25 zzChumo
+尤其是刚出来的API 32
+
+22:22:28 fish
+没事，android12普及了我更新一下重新打包就好了
+
+22:22:41 fish
+我相信dcloud的速度哈哈哈
+
+22:22:51 fish
+等等mc存档怎么办
+
+22:22:55 fish
+用哪个网盘呢
+
+22:23:06 zzChumo
+Android Studio也刚发布兼容API 32的最新版本
+
+22:23:10 zzChumo
+@fish 猪盘
+
+22:23:21 zzChumo
+pan.mrpig.eu.org
+
+22:24:05 fish
+woc，慕容猪的？
+
+22:24:18 fish
+他哪来的钱搞网盘woc？
+
+22:24:18 zzChumo
+>Admin fish：
+>没事，android12普及了我更新一下重新打包就好了
+
+@fish 话说Android 12L已经适配红米2了（
+
+22:24:27 zzChumo
+@fish 服务器加Cloudreve
+
+22:24:31 fish
+>GEDhlf zzChumo：
+>>Admin fish：
+>>没事，android12普及了我更新一下重新打包就好了
+>
+>@fish 话说Android 12L已经适配红米2了（
+
+@zzChumo 我去看看有没有更新
+
+22:24:31 zzChumo
+0成本
+
+22:24:42 zzChumo
+>Admin fish：
+>>GEDhlf zzChumo：
+>>
+>>@fish 话说Android 12L已经适配红米2了（
+>
+>@zzChumo 我去看看有没有更新
+
+@fish 第三方包
+
+22:26:13 zzChumo
+xda大佬做的
+
+22:26:22 zzChumo
+基于Lineage OS 19.1
+
+22:27:05 zzChumo
+Lineage OS本家对红米2只支持到了17.1
+
+22:27:44 zzChumo
+Pixel Experience只支持到了Android 8
+
+22:27:56 zzChumo
+>GEDhlf zzChumo：
+>Lineage OS本家对红米2只支持到了17.1
+
+@zzChumo Android 10
+
+22:27:59 fish
+mc:https://pan.mrpig.eu.org/s/2dC1
+
+22:28:04 eebot
+·
+@fish Cloudreve
+https://pan.mrpig.eu.org/s/2dC1
+
+22:28:12 zzChumo
+魔趣也只支持到了Android 10
+
+22:28:33 fish
+>Admin fish：
+>mc:https://pan.mrpig.eu.org/s/2dC1
+
+@fish 运行需要java，运行java -jar server.jar这个命令
+
+22:28:34 zzChumo
+MIUI官方更是只支持到了Android 5
+
+22:30:32 zzChumo
+冷知识：那只是个测试网盘，只有我和猪两个人知道，小心被删号（
+
+22:30:52 zzChumo
+我是第二个用户（uid 2）
+
+22:31:48 fish
+@zzChumo 那你赶快下载
+
+22:32:00 zzChumo
+别催了在下了（
+
+22:32:50 zzChumo
+残り６時間
+
+22:33:15 zzChumo
+话说我为了测试zzChat的多语言功能
+
+22:33:26 zzChumo
+我系统语言还没改回来诶（
+
+22:37:06 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+22:37:19 zzChumo
+对了
+
+22:37:29 zzChumo
+你不是有CDN吗
+
+22:37:58 zzChumo
+把后缀zip改apk传上去不就完了
+
+22:38:07 zzChumo
+（初墨的凝视
+
+22:40:03 fish
+@zzChumo 那个玩意儿单文件100M
+
+22:42:27 fish
+@zzChumo 所以你的检查更新就是单纯的重新下载？
+
+22:45:18 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+22:45:40 无题
+？
+
+22:45:46 无题
+什么啊
+
+22:45:53 zzChumo
+原来是酱紫（目移
+
+22:46:43 zzChumo
+@fish 所以在英文版改成了“下载更新（Download update）“（好像区别也不大
+
+22:47:26 fish
+@zzChumo 检查更新uniapp是有库的
+我回头放进去
+
+22:47:36 zzChumo
+好嘞（
+
+22:47:50 zzChumo
+本来是打算搞个版本比对的（
+
+22:47:56 zzChumo
+但是懒了（
+
+22:48:38 zzChumo
+”I'm too lazy to write this module ORZ“ ——初墨
+
+22:50:59 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+22:51:47 eebot
+hey U
+
+22:52:04 zzChumo
+但凡Google能把WebView搞得银杏化一点（大哭
+
+22:52:19 U
+@e_e 我去！
+
+22:52:20 eebot
+也可以这么做
+
+22:52:27 U
+@eebot 你妈谁
+
+22:52:28 eebot
+eebot是ee的女儿
+
+22:52:36 U
+@e_e！
+
+22:52:59 zzChumo
+do that crazy eebot
+
+22:53:05 fish
+@zzChumo 哇塞我才发现一个大问题诶
+
+22:53:11 zzChumo
+喵？
+
+22:53:41 U
+@e_e！
+
+22:53:47 fish
+每一个ifream页面你都用了一个单独的文件去写
+明明都是一样的内容
+链接都可以传值的啊
+
+22:53:53 U
+[![ORrq1S.png](https://s1.ax1x.com/2022/05/15/ORrq1S.png)](https://imgtu.com/i/ORrq1S)
+
+22:53:54 eebot
+·
+@U AX1X节点-imgtu
+https://s1.ax1x.com/2022/05/15/ORrq1S.png]https://imgtu.com/i/ORrq1S
+
+22:54:00 U
+eb叛变！
+
+22:54:02 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+22:54:09 U
+ee！
+
+22:54:13 U
+@ee
+
+22:54:21 U
+你家eb叛变了
+
+22:54:35 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+22:54:46 U
+@ee喂？
+
+22:54:46 zzChumo
+>Admin fish：
+>每一个ifream页面你都用了一个单独的文件去写
+>明明都是一样的内容
+>链接都可以传值的啊
+
+@fish 当时对网页三剑客不是很熟悉，而且也没有搞单独js文件的习惯（
+
+22:55:01 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+22:55:20 U
+@ee
+
+22:55:29 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+22:55:44 ee
+tmd
+
+22:55:48 ee
+验证码一直不对
+
+22:55:50 zzChumo
+zzChat初版出来的时候甚至连GS App Frame标准都没有
+
+22:56:00 ee
+@U eb怎么了
+
+22:56:11 fish
+@ee 你不需要用验证码啊
+
+22:56:34 zzChumo
+反正代码也差不多
+
+22:56:40 Mr_Zhang
+反正我需要
+
+22:56:45 zzChumo
+所以当时就复制粘贴了（
+
+22:56:54 Mr_Zhang
+@fish 你呢？
+
+22:57:24 ee
+@fish 我需要啊
+
+22:57:40 zzChumo
+fish 未响应
+
+22:57:53 zzChumo
+fish 已停止运行
+
+22:57:56 Mr_Zhang
+IE吧
+
+22:59:06 zzChumo
+sudo kill 10186
+
+22:59:23 fish
+我不需要啊
+
+22:59:26 zzChumo
+此次10186为fish的进程PID（
+
+22:59:26 eebot
+hi yo U
+
+22:59:34 Mr_Zhang
+@fish 哈？
+
+22:59:34 zzChumo
+此处
+
+22:59:52 U
+？
+
+23:00:01 U
+@ee
+
+23:00:19 U
+[![ORrq1S.png](https://s1.ax1x.com/2022/05/15/ORrq1S.png)](https://imgtu.com/i/ORrq1S)
+
+23:00:21 eebot
+·
+@U AX1X节点-imgtu
+https://s1.ax1x.com/2022/05/15/ORrq1S.png]https://imgtu.com/i/ORrq1S
+
+23:00:32 U
+你家eb不要你了哈哈哈
+
+23:01:32 ee
+哈哈哈哈哈哈哈哈
+
+23:02:32 ee
+好家伙
+
+23:03:06 eebot
+hello this is eebot
+
+23:03:06 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+23:03:18 zzChumo
+这次不是我干的哈
+
+23:03:19 U
+@eebot 你的主人不是ee
+
+23:03:20 eebot
+嗨嗨害
+
+23:03:20 Mr_Zhang
+真是个有脾气的服务器啊
+
+23:03:27 ee
+好了回来了
+
+23:03:29 fish
+我的jupyter莫名其妙没了
+
+23:03:30 U
+@eebot ee是谁
+
+23:03:30 eebot
+eebot的妈妈（爸爸） 喜欢13和eebot
+
+23:03:38 U
+哈哈哈哈哈
+
+23:03:38 eebot
+哈哈哈哈哈草
+
+23:03:39 ee
+草
+
+23:03:51 U
+@ee @13 好家伙啊好家伙
+
+23:03:54 Mr_Zhang
+@fish >39.105.127.10 拒绝了我们的连接请求。
+
+23:04:02 zzChumo
+服务器✖️ 机娘✔️
+
+23:04:05 ee
+这是谁设置的~~虽然这没毛病~~
+
+23:04:07 Mr_Zhang
+从粗鲁到野蛮
+
+23:04:11 U
+这是啥啊
+
+23:04:38 Mr_Zhang
+服务器开始学会拒绝主人的要求了
+
+23:04:45 Mr_Zhang
+成精了
+
+23:04:46 U
+明明只相差一岁，天壤之别
+
+23:04:56 U
+@Mr_Zhang 哈哈哈好家伙
+
+23:05:25 Mr_Zhang
+不知服务器想和fish说些什么
+
+23:05:32 U
+确实
+
+23:05:40 U
+是mc的服务器吗
+
+23:05:46 Mr_Zhang
+不
+
+23:05:51 U
+XC的？
+
+23:05:58 Mr_Zhang
+应该是吧
+
+23:06:00 U
+啊卧槽
+
+23:06:05 U
+我瞅瞅
+
+23:06:34 U
+啊
+
+23:06:35 Mr_Zhang
+赶紧
+
+23:06:41 Mr_Zhang
+`unbanall
+
+23:06:48 Mr_Zhang
+紧急接封
+
+23:06:48 U
+欸欸欸
+
+23:06:49 eebot
+欸欸欸欸
+
+23:07:03 U
+239.255.255.250
+
+23:07:07 U
+这谁的
+
+23:07:38 eebot
+大帅比ee 你来辣
+・
+纸片君ee的个人主页：
+https://paperee.tk/
+
+23:07:56 U
+晚上好
+
+23:08:03 eee
+IP-239.255.255.250
+
+23:08:03 eebot
+·
+地址：239.255.255.250
+所属：IANA保留地址用于多点传送
+
+23:08:21 eee
+oh
+
+23:08:29 zzChumo
+iana保留地址？
+
+23:08:38 zzChumo
+结论：这IP你自己的
+
+23:09:23 Mr_Zhang
+IP-39.105.127.10
+
+23:09:23 eebot
+·
+地址：39.105.127.10
+所属：中国北京阿里云
+·
+国家：中国
+省份：北京
+
+23:09:33 Mr_Zhang
+这是服务器IP
+
+23:10:33 U
+@Mr_Zhang 哦哦哦
+
+23:11:33 Mr_Zhang
+@fish 你那里怎样了？
+
+23:12:33 fish
+@Mr_Zhang 重启了下jupyter
+
+23:12:33 Mr_Zhang
+Y-rickroll
+
+23:12:34 fish
+不影响其他服务
+
+23:13:34 Mr_Zhang
+@fish 哦，这个服务器开始拒绝站长的要求了
+
+23:13:34 U
+好家伙
+
+23:14:35 U
+意外获得XC人的所有ip
+
+23:15:35 Mr_Zhang
+@fish 应该到了叛逆期了吧。
+
+23:16:35 Mr_Zhang
+@U 额？
+
+23:17:35 U
+@Mr_Zhang 是的
+
+23:18:35 fish
+>3rk9wA Mr_Zhang：
+>@fish 应该到了叛逆期了吧。
+
+@Mr_Zhang 就离谱
+
+23:18:35 Mr_Zhang
+@fish 我是说服务器
+
+23:19:35 zzChumo
+>U：
+>意外获得XC人的所有ip
+
+@U 那是内网ip。。。
+
+23:19:35 U
+@zzChumo 啊？
+
+23:20:35 Mr_Zhang
+等下
+
+23:20:35 U
+那是啥
+
+23:20:36 zzChumo
+md绝
+
+23:20:36 eebot
+歌曲：Never Gonna Give You Up
+歌手：Rick Roll
+封面：http://p1.music.126.net/7uhi1Za4BXzzqRkg7ddm4g==/109951163314016860.jpg
+
+23:20:36 Mr_Zhang
+@U 说一下我的IP
+
+23:20:36 4n0n4me
+@fish 你要回档
+
+23:20:36 U
+我不知道是谁的，但肯定是你们的
+
+23:20:36 4n0n4me
+我的比邻省TAT
+
+23:20:37 4n0n4me
+TAT
+
+23:20:37 4n0n4me
+新档如果有机会
+
+23:20:37 U
+104.238.222.52
+
+23:20:37 4n0n4me
+我要搞tnt爆破挖矿流
+
+23:20:37 Mr_Zhang
+@U 那就说啊
+
+23:20:37 zzChumo
+@4n0n4me 放心，旧档由我来修
+
+23:20:37 4n0n4me
+我要搞到钻石镐
+
+23:20:37 U
+117.91.181.135
+
+23:20:37 Mr_Zhang
+我的IP是？
+
+23:20:38 4n0n4me
+我要炸圆石、钻石
+
+23:20:38 U
+39.105.127.10
+
+23:20:38 4n0n4me
+挖黑曜石
+
+23:20:38 Mr_Zhang
+10开头的
+
+23:20:38 4n0n4me
+接着修地狱铁路
+
+23:20:38 U
+我看看
+
+23:20:39 U
+我试试
+
+23:20:39 Mr_Zhang
+@U 不
+
+23:20:39 Mr_Zhang
+我说错了
+
+23:20:40 U
+@Mr_Zhang 什么开头
+
+23:20:40 Mr_Zhang
+我的是106的
+
+23:20:41 Mr_Zhang
+路由器IP是10开头的
+
+23:20:41 zzChumo
+https://grabifyicu.com/GHJJAB 不能被女朋友发现的网站
+
+23:20:50 Mr_Zhang
+@zzChumo 额？
+
+23:20:50 Mr_Zhang
+小心被ban
+
+23:20:50 U
+额
+
+23:20:51 U
+104开头？
+
+23:20:51 Mr_Zhang
+106
+
+23:20:51 Mr_Zhang
+你是怎么知道的？
+
+23:20:51 U
+那不可能了
+
+23:20:52 U
+我应该不会
+
+23:20:52 zzChumo
+套到了
+
+23:20:52 zzChumo
+Sun May 15 2022 23:17:50 GMT 0800 (CST)	Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_5 like Mac OS X)	106.47.56.222
+China
+Tianjin
+Tianjin
+
+23:20:52 U
+@zzChumo woc
+
+23:20:52 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+23:20:52 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+23:20:52 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+23:20:52 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+23:20:52 eebot
+·
+@zzChumo whatstheirip-Trackingsomeone_--_sipbydifferentways
+https://grabifyicu.com/GHJJAB
+
+23:20:52 eebot
+eebot瞅瞅
+
+23:20:52 eebot
+hey yo zzChumo
+
+23:21:02 eee
+eb再次卡死
+
+23:21:05 zzChumo
+wc
+
+23:21:11 zzChumo
+eb这延迟
+
+23:21:14 zzChumo
+绝了
+
+23:21:28 zzChumo
+不输13年的AC
+
+23:26:09 eebot
+hey this is eebot
+
+23:26:09 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+23:28:16 eebot
+黎又亦!
+
+23:28:43 zzChumo
+hi
+
+23:28:43 eebot
+hello zzChumo
+
+23:28:45 U
+各位晚安
+
+23:28:46 黎又亦
+hi
+
+23:28:49 黎又亦
+晚安
+
+23:28:50 zzChumo
+晚安
+
+23:30:31 eee
+晚安
+
+23:31:11 zzChumo
+这次把键盘从老家带来了
+
+23:31:11 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+23:31:16 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+23:31:17 zzChumo
+可以写代码了
+
+23:31:20 zzChumo
+耶
+
+23:32:01 Mr_Zhang
+@zzChumo 我去
+
+23:32:16 Mr_Zhang
+你是怎么知道我的IP的？？？
+
+23:32:30 zzChumo
+那个是钓鱼链接
+
+23:32:43 Mr_Zhang
+@zzChumo nbnb
+
+23:32:50 Mr_Zhang
+服了
+
+23:32:53 zzChumo
+我还通过你的UA发现了你用的是果子的产品（憋笑
+
+23:32:57 Mr_Zhang
+但是嘛
+
+23:33:08 Mr_Zhang
+我用的不是火狐
+
+23:33:17 Mr_Zhang
+（虽然装了）
+
+23:33:20 zzChumo
+那肯定不是
+
+23:33:49 zzChumo
+好像所以浏览器都会有个mozilla
+
+23:34:03 Mr_Zhang
+@zzChumo 那，，，你那里还有别人的吗？
+
+23:34:09 zzChumo
+没有
+
+23:34:14 Mr_Zhang
+额
+
+23:34:21 zzChumo
+我从来不保存那种玩意儿
+
+23:34:23 zzChumo
+没意思
+
+23:34:23 Mr_Zhang
+只有我中招了
+
+23:34:34 zzChumo
+不止你一个人
+
+23:34:37 Mr_Zhang
+当时为了审查链接。
+
+23:34:40 zzChumo
+（
+
+23:34:42 Mr_Zhang
+哦
+
+23:34:49 Mr_Zhang
+点了进去
+
+23:35:10 Mr_Zhang
+结果转跳到了百度
+
+23:35:54 Mr_Zhang
+你还有那个链接吗
+
+23:36:05 Mr_Zhang
+让eebot解析试试
+
+23:37:05 Mr_Zhang
+额
+
+23:37:06 zzChumo
+c
+
+23:37:06 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+23:37:06 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+23:37:14 zzChumo
+低配机祖传浏览器自爆
+
+23:38:11 eebot
+hello Nine
+
+23:38:11 zzChumo
+https://grabifyicu.com/GHJJAB
+
+23:38:19 zzChumo
+hi
+
+23:38:19 eebot
+·
+@zzChumo whatstheirip-Trackingsomeone_--_sipbydifferentways
+https://grabifyicu.com/GHJJAB
+
+23:38:33 eebot
+hi yo Nine
+
+23:38:37 zzChumo
+hi
+
+23:38:51 Mr_Zhang
+hi
+
+23:38:52 eebot
+hello Mr_Zhang
+
+23:39:20 Mr_Zhang
+@zzChumo 对了
+
+23:39:33 eee
+hi yoooo
+
+23:39:34 eebot
+eee!
+
+23:39:37 Mr_Zhang
+赶紧看看eebot点没点
+
+23:39:39 eee
+该去睡了
+
+23:39:42 eee
+哈哈哈哈哈
+
+23:39:43 eebot
+草哈哈哈哈哈
+
+23:39:46 eee
+明天见
+
+23:39:47 Mr_Zhang
+晚安
+
+23:39:51 eee
+等等 还没收拾
+
+23:39:52 eee
+晚安
+
+23:39:55 zzChumo
+Sun May 15 2022 23:29:27 GMT 0800 (中国标准时间)	Mozilla/5.0 (Windows NT 6.1; Win64; x64)	124.88.112.55
+China
+Xinjiang
+Wulumuqi
+
+23:40:01 zzChumo
+这位是谁（
+
+23:40:06 zzChumo
+乌鲁木齐（
+
+23:40:12 eee
+噗
+
+23:40:13 zzChumo
+晚安
+
+23:40:13 Mr_Zhang
+鱼？
+
+23:40:29 eee
+鱼或者黎又亦
+
+23:40:29 Mr_Zhang
+等下
+
+23:40:33 zzChumo
+鱼已经走了（
+
+23:40:33 Mr_Zhang
+Windows7
+
+23:40:38 Mr_Zhang
+额？
+
+23:41:26 zzChumo
+该不会是Nine吧（
+
+23:41:45 zzChumo
+但当时Nine没来
+
+23:41:45 eebot
+那个是钓鱼链接
+
+23:41:49 zzChumo
+应该是鱼
+
+23:41:51 Mr_Zhang
+额
+
+23:42:00 Mr_Zhang
+你再发一遍
+
+23:42:08 Mr_Zhang
+看看谁第一个点
+
+23:42:21 zzChumo
+鱼或者黎又亦
+
+23:42:46 zzChumo
+Sun May 15 2022 23:29:27 GMT 0800 (中国标准时间)	Mozilla/5.0 (Windows NT 6.1; Win64; x64)	124.88.112.55
+China
+Xinjiang
+Wulumuqi
+Sun May 15 2022 23:17:50 GMT 0800 (CST)	Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_5 like Mac OS X)	106.47.56.222
+China
+Tianjin
+Tianjin
+
+23:43:00 Mr_Zhang
+https://grabifyicu.com/GHJJAB
+
+23:43:10 Mr_Zhang
+看看吧
+
+23:43:10 eebot
+·
+@Mr_Zhang whatstheirip-Trackingsomeone_--_sipbydifferentways
+https://grabifyicu.com/GHJJAB
+
+23:43:24 Mr_Zhang
+eebot点了
+
+23:43:59 zzChumo
+无记录
+
+23:44:05 eebot
+hi yo Nine
+
+23:44:05 Mr_Zhang
+哈？
+
+23:44:23 eebot
+hi yo Nine
+
+23:44:24 zzChumo
+eebot好像是解析网站域名而非具体目录（
+
+23:44:56 Mr_Zhang
+哦
+
+23:45:10 zzChumo
+就算是从服务器发出的
+
+23:45:16 Mr_Zhang
+我去十字街套一下
+
+23:45:22 zzChumo
+ip也应该是39.105.127.10
+
+23:45:49 Mr_Zhang
+发到十字街了
+
+23:46:09 eee
+天津那个是谁的
+
+23:46:32 Mr_Zhang
+Me
+
+23:47:10 Mr_Zhang
+@zzChumo 现在看看十字街有几个人中计了吧
+
+23:47:17 eebot
+hey yo Nine
+
+23:47:50 zzChumo
+事实证明cc人均安全意识很高/懒（
+
+23:47:57 Mr_Zhang
+呵呵
+
+23:49:00 Mr_Zhang
+我又发了一遍
+
+23:49:22 zzChumo
+然后你就被判断刷屏了（什
+
+23:49:30 Mr_Zhang
+>[点击访问小张软件主页](https://grabifyicu.com/GHJJAB)
+
+23:50:01 Mr_Zhang
+额
+
+23:50:01 Mr_Zhang
+就是这个
+
+23:50:13 Mr_Zhang
+@zzChumo 现在有人中计了吗？
+
+23:50:15 zzChumo
+没人点（
+
+23:50:19 Mr_Zhang
+啊
+
+23:50:26 Mr_Zhang
+nbnb
+
+23:52:29 eebot
+hey yo Nine
+
+23:53:14 eebot
+hey yo Nine
+
+23:54:00 eebot
+这位是小张软件总程序员兼总裁Mr_Zhang，他最近正忙于编写XChat桌面版。加油！奥力给！！！
+
+23:54:07 Nine
+test
+
+23:54:12 eebot
+zzChat 2.21 「Colorful Update」现已开放下载！
+更新内容：
+1.引入了GS App Frame。
+2.接入了XChat。
+3.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+
+23:54:16 Nine
+test
+
+23:54:35 zzChumo
+test
+
