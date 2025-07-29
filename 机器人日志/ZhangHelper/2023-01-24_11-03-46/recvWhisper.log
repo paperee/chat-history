@@ -1,0 +1,13 @@
+[2023-01-24 11-03-53] [QiuBot]QiuBot 欢迎进入聊天室！发送`.q help`获取详细信息。
+[2023-01-24 11-03-53] [QiuBot]QiuBot .
+· 出处：五月天
+· 因为痛苦太有价值，因为回忆太珍贵，所以我们更要继续往前走。
+[2023-01-24 11-03-56] [ZhangHelper]ZhangHelper .
+|等级|命令名称|
+|-:|:-|
+|用户|afk, afz, bindlist, gww, help, listop, msg, readme, roll, showmsg, tripmsg, welcome, 反刷屏|
+|协管|autocolor, kick, lockroom, offline, unlockroom|
+|管理员|3kill, addop, ban, bind, blacklist, delop, unbind|
+|您的等级 => 超级管理员|ad, chat, reload, restart|
+
+要查看指定命令的帮助信息，请发送：`^help 命令名称`

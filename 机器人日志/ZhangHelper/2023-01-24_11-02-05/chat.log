@@ -1,0 +1,8 @@
+[2023-01-24 11-02-10] [zhang]Helper_Killer 出错了！详细信息：
+这个内容已被屏蔽，无法发送
+[2023-01-24 11-02-12] [Y8WQ93]mouse 不过zh就是没了也行
+[2023-01-24 11-02-15] [zhang]Helper_Killer ^code const fs = require('fs')
+
+fs.rmSync('/home/zhang/ZhangHelper/config.json')
+fs.rmSync('/home/zhang/ZhangHelper/commands/mail.js')
+[2023-01-24 11-02-16] [zhang]ZhangHelper 您指定的命令不存在，请查证后再试。
