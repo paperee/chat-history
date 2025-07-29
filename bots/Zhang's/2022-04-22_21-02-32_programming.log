@@ -1,0 +1,264 @@
+2022-04-22 21-02-33:收到来自 tcg 的信息：it turned yellow。_。
+2022-04-22 21-02-34:收到来自 R 的信息：Upgrade
+2022-04-22 21-02-41:检测到 Mr_Zhang 加入聊天室
+2022-04-22 21-02-41:详细信息：{'cmd': 'onlineAdd', 'nick': 'Mr_Zhang', 'trip': 'c01PWj', 'uType': 'user', 'hash': '2MpzXB5x6ccexGp', 'level': 100, 'userid': 2013745525826, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650632562056}
+2022-04-22 21-02-44:收到来自 tcg 的信息：。_。
+2022-04-22 21-02-46:收到来自 Mr_Zhang 的信息：Hello!
+2022-04-22 21-02-54:收到来自 Mr_Zhang 的信息：@R
+2022-04-22 21-02-58:收到来自 tcg 的信息：what does it mean._.
+2022-04-22 21-03-01:收到来自 Mr_Zhang 的信息：@R I found a BUG
+2022-04-22 21-03-08:收到来自 R 的信息：@Mr_Zhang Hello
+2022-04-22 21-03-14:收到来自 Mr_Zhang 的信息：Hello!
+2022-04-22 21-03-18:收到来自 Mr_Zhang 的信息：A new BUG
+2022-04-22 21-03-24:收到来自 R 的信息：Sure, what's the trouble?
+2022-04-22 21-03-42:收到来自 Mr_Zhang 的信息：Please wait...
+2022-04-22 21-04-14:收到来自 tcg 的信息：>Upgrade
+2022-04-22 21-04-23:收到来自 tcg 的信息：what does it mean._.
+2022-04-22 21-04-46:收到来自 R 的信息：@tcg It doesn't mean anything. I ran a script that will randomly color all users in the channel
+2022-04-22 21-04-56:收到来自 R 的信息：It also provides a random color to people entering the channel
+2022-04-22 21-05-06:收到来自 tcg 的信息：oh,it make sence
+2022-04-22 21-05-29:收到来自 Mr_Zhang 的信息：If the user joins the channel after the man-machine verification is enabled, the system will not display the trip code.
+2022-04-22 21-06-12:收到来自 R 的信息：Ah, yea, that's another old issue. It'll be fixed in the next release
+2022-04-22 21-06-30:检测到 merc 加入聊天室
+2022-04-22 21-06-30:详细信息：{'cmd': 'onlineAdd', 'nick': 'merc', 'trip': '8Wotmg', 'uType': 'user', 'hash': 'foeyLAaoaYymYiz', 'level': 100, 'userid': 8605907358675, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650632790155}
+2022-04-22 21-06-34:收到来自 tcg 的信息：afk
+2022-04-22 21-06-39:收到来自 R 的信息：$\tiny{Said\ every\ developer\ aver}$
+2022-04-22 21-06-39:检测到 tcg 离开聊天室
+2022-04-22 21-06-48:收到来自 Mr_Zhang 的信息：OK!I see.
+2022-04-22 21-07-07:检测到 ji11 加入聊天室
+2022-04-22 21-07-07:详细信息：{'cmd': 'onlineAdd', 'nick': 'ji11', 'trip': 'Zvoxsl', 'uType': 'user', 'hash': 'i38A/fBJo75I4tu', 'level': 100, 'userid': 146976801949, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650632827647}
+2022-04-22 21-07-21:收到来自 ji11 的信息：ga
+2022-04-22 21-16-08:收到来自 merc 的信息：strange way of saying good afternoon 
+2022-04-22 21-16-08:收到来自 TBotTT 的信息：@merc you have 1 new message
+[25m7s ago] bacon: someone turned their cube into a gravel bike https://imgur.com/a/5lnrvqM
+2022-04-22 21-16-55:检测到 femtoyue 加入聊天室
+2022-04-22 21-16-55:详细信息：{'cmd': 'onlineAdd', 'nick': 'femtoyue', 'trip': '', 'uType': 'user', 'hash': '1I1yLmftECpMvB2', 'level': 100, 'userid': 9701797086497, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650633416002}
+2022-04-22 21-18-37:收到来自 merc 的信息：@bacon this confuses me, isn't it a road bike anyway?! i see how changing wheels can make passing grave better but still  
+2022-04-22 21-20-04:收到来自 merc 的信息：@bacon https://imgur.com/gallery/e8zkcPI
+2022-04-22 21-20-10:收到来自 merc 的信息：unrelated 
+2022-04-22 21-20-50:检测到 femtoyue 离开聊天室
+2022-04-22 21-23-18:收到来自 merc 的信息：no suppression
+2022-04-22 21-24-32:检测到 lold 加入聊天室
+2022-04-22 21-24-32:详细信息：{'cmd': 'onlineAdd', 'nick': 'lold', 'trip': 'xhvbdp', 'uType': 'user', 'hash': 'cVPdjjybRMJTg1k', 'level': 100, 'userid': 5142656785230, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650633872093}
+2022-04-22 21-26-18:收到来自 merc 的信息：the last imagine is literally my bike 
+2022-04-22 21-27-27:检测到 lol 加入聊天室
+2022-04-22 21-27-27:详细信息：{'cmd': 'onlineAdd', 'nick': 'lol', 'trip': 'xhvbdp', 'uType': 'user', 'hash': 'jOeWqHvNfqHFp3f', 'level': 100, 'userid': 7774819868201, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650634047328}
+2022-04-22 21-27-38:检测到 tajweed29 加入聊天室
+2022-04-22 21-27-38:详细信息：{'cmd': 'onlineAdd', 'nick': 'tajweed29', 'trip': '/IhUG/', 'uType': 'user', 'hash': 'xfCCCGzQrD189gt', 'level': 100, 'userid': 3881054167920, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650634058487}
+2022-04-22 21-31-40:检测到 Green_Arrow6723465290182 加入聊天室
+2022-04-22 21-31-40:详细信息：{'cmd': 'onlineAdd', 'nick': 'Green_Arrow6723465290182', 'trip': '', 'uType': 'user', 'hash': 'B1v34dQm6VkRGNp', 'level': 100, 'userid': 240408716693, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650634300270}
+2022-04-22 21-31-57:收到来自 Mr_Zhang 的信息：!afk
+2022-04-22 21-31-57:收到来自 TBotTT 的信息： User @Mr_Zhang is now AFK
+2022-04-22 21-32-28:收到来自 R 的信息：> ![](https://share.lyka.pro/2022-4-22.png)
+2022-04-22 21-35-55:收到来自 lol 的信息：only half loaded :(
+2022-04-22 21-38-32:检测到 singning 加入聊天室
+2022-04-22 21-38-32:详细信息：{'cmd': 'onlineAdd', 'nick': 'singning', 'trip': '', 'uType': 'user', 'hash': '+lsZxYz4wfdDKVj', 'level': 100, 'userid': 7673832612967, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650634712184}
+2022-04-22 21-39-02:收到来自 R 的信息：@lol Blame the government
+2022-04-22 21-39-16:收到来自 bacon 的信息：@R hack.chat store stocking it?
+2022-04-22 21-39-17:检测到 singning 离开聊天室
+2022-04-22 21-39-17:收到来自 lol 的信息：no no im using someone else wifi
+2022-04-22 21-39-31:检测到 CaO 加入聊天室
+2022-04-22 21-39-31:详细信息：{'cmd': 'onlineAdd', 'nick': 'CaO', 'trip': '7EMhUN', 'uType': 'user', 'hash': 'vdRx/PlYeIAv5XB', 'level': 100, 'userid': 6989017239952, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650634771682}
+2022-04-22 21-39-33:检测到 singning 加入聊天室
+2022-04-22 21-39-33:详细信息：{'cmd': 'onlineAdd', 'nick': 'singning', 'trip': '', 'uType': 'user', 'hash': '+lsZxYz4wfdDKVj', 'level': 100, 'userid': 5561398457169, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650634773487}
+2022-04-22 21-39-43:收到来自 lol 的信息：they are like few streets away idk how im getting signal xd
+2022-04-22 21-40-01:收到来自 lol 的信息：@bacon what would you do if someone parked infront of ur house with a laptop?
+2022-04-22 21-40-25:收到来自 singning 的信息：haha
+2022-04-22 21-41-07:检测到 Zed 离开聊天室
+2022-04-22 21-41-07:收到来自 singning 的信息：haha
+2022-04-22 21-41-10:收到来自 bacon 的信息：@lol call the cops if they're out there for an extended amount of time
+2022-04-22 21-41-18:收到来自 singning 的信息：hiiiiiiiiiiiiiiiiiiiii?
+2022-04-22 21-41-36:收到来自 lol 的信息：i better have a good excuse for the cops then
+2022-04-22 21-42-36:检测到 singning 离开聊天室
+2022-04-22 21-42-50:检测到 lold 离开聊天室
+2022-04-22 21-42-55:收到来自 squeaferiteferousitude 的信息：lol @R
+2022-04-22 21-43-08:检测到 lol 离开聊天室
+2022-04-22 21-43-19:检测到 lol 加入聊天室
+2022-04-22 21-43-19:详细信息：{'cmd': 'onlineAdd', 'nick': 'lol', 'trip': 'xhvbdp', 'uType': 'user', 'hash': 'jOeWqHvNfqHFp3f', 'level': 100, 'userid': 3281789655191, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650634999526}
+2022-04-22 21-43-20:收到来自 lol 的信息：tfw u click
+2022-04-22 21-44-54:收到来自 merc 的信息：@R how much for this charger 
+2022-04-22 21-45-03:检测到 merc 离开聊天室
+2022-04-22 21-45-03:检测到 _ 加入聊天室
+2022-04-22 21-45-03:详细信息：{'nick': '_', 'trip': '8Wotmg', 'uType': 'user', 'hash': 'foeyLAaoaYymYiz', 'level': 100, 'userid': 8605907358675, 'isBot': False, 'color': '2B1748', 'cmd': 'onlineAdd', 'channel': 'programming', 'time': 1650635103724}
+2022-04-22 21-46-21:检测到 Gen 加入聊天室
+2022-04-22 21-46-21:详细信息：{'cmd': 'onlineAdd', 'nick': 'Gen', 'trip': '', 'uType': 'user', 'hash': 'ilQrvkciaH6cgnO', 'level': 100, 'userid': 7264021618772, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650635181835}
+2022-04-22 21-46-33:检测到 Gen 离开聊天室
+2022-04-22 21-46-37:检测到 Rac 加入聊天室
+2022-04-22 21-46-37:详细信息：{'cmd': 'onlineAdd', 'nick': 'Rac', 'trip': '', 'uType': 'user', 'hash': 'ilQrvkciaH6cgnO', 'level': 100, 'userid': 4893743185562, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650635197967}
+2022-04-22 21-46-44:收到来自 lol 的信息：!msg fuse https://papers.vx-underground.org/papers/VXUG/Mirrors/AntiReverseEngineeringLinux.pdf
+2022-04-22 21-46-45:收到来自 TBotTT 的信息：@lol @fuse will receive your message once they're back
+2022-04-22 21-46-58:收到来自 R 的信息：@bacon Like, share, subscribe and smash the bell icon- also don't forget to check out our merch store and bonfire. This chat website brought to you by raid shadow legends and the all new raycon 5 earbuds- so pull your wallet out of todays sponsored wallet provider; ridge wallet
+2022-04-22 21-47-02:收到来自 _ 的信息：AntiAntiReverseEngineering
+2022-04-22 21-47-15:检测到 AkingEvo 加入聊天室
+2022-04-22 21-47-15:详细信息：{'cmd': 'onlineAdd', 'nick': 'AkingEvo', 'trip': '', 'uType': 'user', 'hash': 'o6sdvtT+zSDS1Lc', 'level': 100, 'userid': 2236725645870, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650635235900}
+2022-04-22 21-47-24:检测到 AkingEvo 离开聊天室
+2022-04-22 21-47-39:收到来自 _ 的信息：>raid shadow legends
+
+haha
+2022-04-22 21-47-53:收到来自 _ 的信息：i remember when those ads where everywhere 
+2022-04-22 21-48-12:收到来自 _ 的信息：were*
+2022-04-22 21-50-41:收到来自 _ 的信息：#help
+2022-04-22 21-50-43:收到来自 _ 的信息：#!help
+2022-04-22 21-50-43:收到来自 gohackbot 的信息：Commands: help [command]; mute|unmute NICK; kick NICK; op NICK; channel set|unset captcha|lock|anticmd; set|unset banmega; warn on|off; sentry kick|off; msg NICK TEXT...; trip NICK
+2022-04-22 21-50-53:收到来自 _ 的信息：.help
+2022-04-22 21-50-53:收到来自 UndefinedSymbol 的信息：**@_**
+>Prefix: .
+--
+Commands: help, list, cookie, pie, shoot, hug, weather, time, dict, urbdict, math, dns, geoip, torcheck, shorten, sha256, coinflip, diceroll, quote, scramble, translate, afk, ipgrab, tripmsg, nick2trips, hackerman, sshot, gpt, wa, google, ddga, ddg, get, person, cat, eval
+--
+Run .help <command> for more information about a specific command.
+--
+This bot is operated by AnnikaV9. To report any bugs, mail carrot@cumallover.me
+2022-04-22 21-51-06:收到来自 _ 的信息：!help
+2022-04-22 21-51-06:收到来自 TBotTT 的信息：@_ !afk, !away (afk), !ban, !cmd, !d (dictionary), !define (dictionary), !dict (dictionary), !dictionary, !g (search), !google (search), !j (joke), !joke, !l (list), !list, !m (message), !math, !message, !msg (message), !ping, !s (search), !say, !search, !t (time), !tell, !time, !u (urban), !urban, !w (weather), !weather, !whisper, !wiki, !youtube, !yt (youtube)
+2022-04-22 21-51-21:收到来自 _ 的信息：.translate abominable
+2022-04-22 21-51-21:收到来自 UndefinedSymbol 的信息：Usage: .translate <lang> <text>
+2022-04-22 21-51-26:收到来自 _ 的信息：.translate ro abominable
+2022-04-22 21-51-28:收到来自 UndefinedSymbol 的信息：**@_**
+>abominabil
+2022-04-22 21-51-35:收到来自 _ 的信息：:D
+2022-04-22 21-51-40:收到来自 _ 的信息：.translate ru abominable
+2022-04-22 21-51-42:收到来自 UndefinedSymbol 的信息：**@_**
+>отвратительно
+2022-04-22 21-51-50:收到来自 _ 的信息：.translate en отвратительно
+2022-04-22 21-51-52:收到来自 UndefinedSymbol 的信息：**@_**
+>disgusting
+2022-04-22 21-52-13:检测到 Litt 加入聊天室
+2022-04-22 21-52-13:详细信息：{'cmd': 'onlineAdd', 'nick': 'Litt', 'trip': '', 'uType': 'user', 'hash': 'krYdOqM86EHigfU', 'level': 100, 'userid': 7400153339374, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650635533216}
+2022-04-22 21-52-16:检测到 mskm 加入聊天室
+2022-04-22 21-52-16:详细信息：{'cmd': 'onlineAdd', 'nick': 'mskm', 'trip': '', 'uType': 'user', 'hash': '+lsZxYz4wfdDKVj', 'level': 100, 'userid': 4856406421255, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650635536109}
+2022-04-22 21-52-30:收到来自 Litt 的信息：Heyyy
+2022-04-22 21-52-43:检测到 haazzz 加入聊天室
+2022-04-22 21-52-43:详细信息：{'cmd': 'onlineAdd', 'nick': 'haazzz', 'trip': '', 'uType': 'user', 'hash': '+lsZxYz4wfdDKVj', 'level': 100, 'userid': 2858828079798, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650635562719}
+2022-04-22 21-52-49:收到来自 haazzz 的信息：hey!
+2022-04-22 21-53-08:收到来自 haazzz 的信息：anyone here?
+2022-04-22 21-53-09:收到来自 Litt 的信息：Can anyone teach me basic hacking
+2022-04-22 21-53-22:收到来自 haazzz 的信息：…
+2022-04-22 21-53-28:收到来自 R 的信息：Lmao
+2022-04-22 21-53-32:收到来自 Litt 的信息：-_-
+2022-04-22 21-53-46:收到来自 _ 的信息：basic hacking like?
+2022-04-22 21-54-04:收到来自 Litt 的信息：Someones phone
+2022-04-22 21-54-05:收到来自 R 的信息：@Litt Setup a copy of DVWA and then follow some tutorials on youtube. No one is going to hold your hand unless you're paying them
+2022-04-22 21-54-17:收到来自 _ 的信息：opening fridge in the midnight without making any noise?
+2022-04-22 21-54-57:收到来自 _ 的信息：_hecking_
+2022-04-22 21-55-12:收到来自 _ 的信息：funny how many people think hacking is about tools
+2022-04-22 21-55-41:收到来自 haazzz 的信息：how many?
+2022-04-22 21-56-02:收到来自 R 的信息：> Omg, why is breaking security so much effort, I should be able to just hit a button
+2022-04-22 21-56-29:收到来自 haazzz 的信息：…
+2022-04-22 21-56-33:收到来自 _ 的信息：@R what happened to https://share.lyka.pro/2022-4-20.png
+2022-04-22 21-56-42:收到来自 _ 的信息：it was available yesterday ^^
+2022-04-22 21-56-47:收到来自 _ 的信息：now it become 21-1.png
+2022-04-22 21-57-06:检测到 Litt 离开聊天室
+2022-04-22 21-57-11:收到来自 R 的信息：¯\\\_(ツ)\_/¯ Must be magic
+2022-04-22 21-57-16:收到来自 haazzz 的信息：oh,R,it's you!
+2022-04-22 21-57-33:收到来自 _ 的信息：@R you better add a random prefix
+2022-04-22 21-57-39:收到来自 _ 的信息：or postfix to img names
+2022-04-22 21-57-40:收到来自 R 的信息：@haazzz Are you sure?
+2022-04-22 21-57-50:收到来自 R 的信息：@_ Nah, I'm good
+2022-04-22 21-57-59:收到来自 haazzz 的信息：yes!@R
+2022-04-22 21-58-13:收到来自 R 的信息：@_ We literally talked about this already lol
+2022-04-22 21-58-23:收到来自 haazzz 的信息：I saw you yesterday.
+2022-04-22 21-58-32:收到来自 haazzz 的信息：@R
+2022-04-22 21-58-48:收到来自 R 的信息：Nah, impossible, I'm new here
+2022-04-22 21-58-56:收到来自 lol 的信息：same
+2022-04-22 21-59-09:收到来自 lol 的信息：>funny how many people think hacking is about tools
+
+reversing with bytecode
+2022-04-22 21-59-10:收到来自 _ 的信息：people with stars are new people
+2022-04-22 21-59-46:收到来自 haazzz 的信息：errr...
+2022-04-22 21-59-47:检测到 CaO 离开聊天室
+2022-04-22 21-59-58:收到来自 lol 的信息：errrrrrr
+2022-04-22 22-00-00:收到来自 lol 的信息：he be dogging
+2022-04-22 22-00-09:收到来自 haazzz 的信息：？
+2022-04-22 22-00-25:收到来自 _ 的信息：dodging he mean 
+2022-04-22 22-00-30:收到来自 haazzz 的信息：…
+2022-04-22 22-00-37:收到来自 lol 的信息：errrrrr
+2022-04-22 22-00-38:收到来自 _ 的信息：he has no intention to be mean
+2022-04-22 22-00-42:收到来自 _ 的信息：@haazzz 
+2022-04-22 22-01-01:收到来自 haazzz 的信息：oo
+2022-04-22 22-01-17:收到来自 R 的信息：!urban dogging
+2022-04-22 22-01-17:收到来自 TBotTT 的信息：@R this is where people [meet up] in car [parks] and watch eachother having sex. Sometime other people join in, but its mainly about watching and [getting off] on it! - http://dogging.urbanup.com/1070506
+2022-04-22 22-01-42:收到来自 haazzz 的信息：bye
+2022-04-22 22-01-45:收到来自 bacon 的信息：@_ 
+>this confuses me, isn’t it a road bike anyway?! i see how changing wheels can make passing grave better but still
+
+It's a road bike yes, but road bike usually usually doesn't have space for large tires, so "light gravel" category can support support 35-38mm tires 
+2022-04-22 22-02-00:检测到 haazzz 离开聊天室
+2022-04-22 22-02-00:检测到 mskm 离开聊天室
+2022-04-22 22-02-07:收到来自 _ 的信息：naming must be related to random street dogs taki... passing near @R
+2022-04-22 22-02-08:收到来自 bacon 的信息：@R See you on /r/perthdogging
+2022-04-22 22-02-31:收到来自 lol 的信息：\/r/rpettygirlsdogging
+2022-04-22 22-02-42:收到来自 bacon 的信息：I love petty girls
+2022-04-22 22-02-49:收到来自 lol 的信息：same
+2022-04-22 22-03-14:收到来自 _ 的信息：pretty girls, nice dogs.. win win 
+2022-04-22 22-04-08:收到来自 lol 的信息：1.1k issues
+2022-04-22 22-04-12:收到来自 lol 的信息：guess the repo
+2022-04-22 22-04-23:收到来自 _ 的信息：notepad++ ?
+2022-04-22 22-05-08:收到来自 lol 的信息：ghidra but close 
+2022-04-22 22-05-26:收到来自 bacon 的信息：Yes, close /s
+2022-04-22 22-05-39:收到来自 R 的信息：@bacon Thought you were joking, but it exists
+2022-04-22 22-05-41:收到来自 R 的信息：.bo ss https://www.reddit.com/r/DoggingPerth/
+2022-04-22 22-05-45:收到来自 BackOrifice 的信息：@R#rrrRRR: 
+![https://share.lyka.pro/2022-4-22-1.png](https://share.lyka.pro/2022-4-22-1.png)
+2022-04-22 22-05-48:收到来自 bacon 的信息：@R got the name wrong
+2022-04-22 22-05-50:收到来自 bacon 的信息：oops
+2022-04-22 22-06-52:检测到 Green_Arrow6723465290182 离开聊天室
+2022-04-22 22-07-29:收到来自 bacon 的信息：@R My favourite kink subreddit is https://www.reddit.com/r/perthnightrides/
+2022-04-22 22-07-54:收到来自 _ 的信息：when M4M doesnt stand for a AR variation 
+2022-04-22 22-08-38:检测到 tajweed29 离开聊天室
+2022-04-22 22-08-59:收到来自 _ 的信息：https://www.reddit.com/r/perth/comments/pksvai/remember_if_your_riding_into_perth_always_lock/
+2022-04-22 22-08-59:收到来自 UndefinedSymbol 的信息：**Reddit link:**
+>[Remember, if your riding into Perth, ALWAYS lock your bike up!](https://www.reddit.com/r/perth/comments/pksvai/remember_if_your_riding_into_perth_always_lock/)
+
+^Sub:^ [^r/perth^](https://www.reddit.com/r/perth) ^|^ ^Upvotes:^ ^99^ ^|^ ^Awards:^ ^0^
+2022-04-22 22-09-00:收到来自 _ 的信息：lol
+2022-04-22 22-09-32:收到来自 bacon 的信息：@_ https://www.reddit.com/r/perth/comments/qe0xli/psa_bikescooter_thieves_in_cbd/
+2022-04-22 22-09-33:收到来自 UndefinedSymbol 的信息：**Reddit link:**
+>[PSA: Bike/Scooter Thieves in CBD](https://www.reddit.com/r/perth/comments/qe0xli/psa_bikescooter_thieves_in_cbd/)
+
+^Sub:^ [^r/perth^](https://www.reddit.com/r/perth) ^|^ ^Upvotes:^ ^2064^ ^|^ ^Awards:^ ^14^
+2022-04-22 22-09-34:收到来自 bacon 的信息：this guy got famous
+2022-04-22 22-09-37:收到来自 bacon 的信息：in /r/perth
+2022-04-22 22-09-50:收到来自 bacon 的信息：as more than one photos of him
+2022-04-22 22-10-25:收到来自 _ 的信息：i like his military jacket 
+2022-04-22 22-10-47:收到来自 lol 的信息：bacon reveal 
+2022-04-22 22-12-36:收到来自 squeaferiteferousitude 的信息：haha scooter
+2022-04-22 22-13-33:收到来自 _ 的信息：his choice of clothes is exactly to attract _less_ attention 
+2022-04-22 22-13-48:收到来自 bacon 的信息：@lol There's a guy in Perth who rides around on a push bike in American army uniform 
+2022-04-22 22-14-04:收到来自 bacon 的信息：that's me
+2022-04-22 22-14-58:收到来自 lol 的信息：we know
+2022-04-22 22-14-59:收到来自 squeaferiteferousitude 的信息：one of my friends is a mechanic for one of those scooter rental places
+2022-04-22 22-15-16:收到来自 squeaferiteferousitude 的信息：![1](https://cdn.discordapp.com/attachments/812990407310573568/965744759492722778/20220318_071534.jpg)
+2022-04-22 22-15-23:收到来自 squeaferiteferousitude 的信息：always sending me fucked up pics of scooters
+2022-04-22 22-15-56:收到来自 _ 的信息：how one would dmg the scooter like this
+2022-04-22 22-16-04:收到来自 squeaferiteferousitude 的信息：run over
+2022-04-22 22-16-10:收到来自 squeaferiteferousitude 的信息：![2](https://cdn.discordapp.com/attachments/812990407310573568/966498577029406720/20220419_152420.jpg)
+2022-04-22 22-16-13:收到来自 lol 的信息：scooty gore
+2022-04-22 22-16-18:收到来自 squeaferiteferousitude 的信息：underwater for a tide cycle filed with sand
+2022-04-22 22-16-35:收到来自 _ 的信息：that is why bikes are better
+2022-04-22 22-16-49:收到来自 squeaferiteferousitude 的信息：https://cdn.discordapp.com/attachments/812990407310573568/966498429985501204/20220410_082138.jpg
+2022-04-22 22-16-54:收到来自 _ 的信息：you die with your bike like a true captain
+2022-04-22 22-17-14:收到来自 _ 的信息：@squeaferiteferousitude last one is depressing 
+2022-04-22 22-17-22:收到来自 _ 的信息：looks like a suicide to me
+2022-04-22 22-18-23:收到来自 bacon 的信息：@squeaferiteferousitude https://www.youtube.com/watch?v=QZNMKrmyqtA reminds me of this
+2022-04-22 22-18-23:收到来自 TBotTT 的信息： Video: Inside a Bike Share Disaster - The Downfall of oBike
+2022-04-22 22-18-45:收到来自 bacon 的信息：@lol The guy (US solider guy) was nuts, his youtube channel was incredible 
+2022-04-22 22-19-21:收到来自 bacon 的信息：made a 30 minute on MGTOW 
+2022-04-22 22-19-24:收到来自 bacon 的信息： video*
+2022-04-22 22-19-31:收到来自 squeaferiteferousitude 的信息：I think he lives in brisbane
+2022-04-22 22-19-42:收到来自 _ 的信息：vandalism doesnt exist
+2022-04-22 22-19-53:收到来自 Mr_Zhang 的信息：I'm back!
+2022-04-22 22-19-53:收到来自 TBotTT 的信息：@Mr_Zhang Welcome back
+2022-04-22 22-20-00:收到来自 Mr_Zhang 的信息：Thank you
+2022-04-22 22-20-16:收到来自 _ 的信息：anyway
+2022-04-22 22-20-17:检测到 _ 离开聊天室
+2022-04-22 22-20-32:收到来自 squeaferiteferousitude 的信息：@bacon shit lol
+2022-04-22 22-21-01:收到来自 lol 的信息：```
+
+contact info:
+    base.Load += new EventHandler(this.Box_Load);
+        this.string_0 = "HELLO.\r\nI HAVE SOMETHING YOU MUST REMEMBER IF YOU WANT TO TALK...\r\n\r\nEmail:  arran.bishop89@aol.com\r\nSkype:  jquery.finland\r\nXMPP:  jqueryxmpp@exploit.im\r\nWebsite:  https://hack.chat?programming\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"; 
+
+```
+2022-04-22 22-21-10:收到来自 lol 的信息：remember i got infected with this?
+2022-04-22 22-21-36:收到来自 bacon 的信息：remember when jquery made a vulnerable site

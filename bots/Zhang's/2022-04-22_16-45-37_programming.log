@@ -1,0 +1,88 @@
+2022-04-22 16-46-47:检测到 Z 加入聊天室
+2022-04-22 16-46-47:详细信息：{'cmd': 'onlineAdd', 'nick': 'Z', 'trip': '', 'uType': 'user', 'hash': '2MpzXB5x6ccexGp', 'level': 100, 'userid': 4335011279058, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650617206305}
+2022-04-22 16-47-42:收到来自 Z 的信息：hi
+2022-04-22 16-48-37:收到来自 squeaferiteferous 的信息：@merc yeah I've been sorta using it for a while now but thought it'd be interesting to learn a bit more in depth
+2022-04-22 16-49-55:检测到 haazzz 离开聊天室
+2022-04-22 16-51-37:收到来自 Z 的信息：What ?
+2022-04-22 16-52-28:收到来自 Z 的信息：I lost my trip code !
+2022-04-22 16-53-30:收到来自 Z 的信息：Although I entered the password, the system does not display the trip code!
+2022-04-22 16-53-55:收到来自 Z 的信息：Who can help me ?
+2022-04-22 16-54-59:检测到 k 加入聊天室
+2022-04-22 16-54-59:详细信息：{'cmd': 'onlineAdd', 'nick': 'k', 'trip': '', 'uType': 'user', 'hash': 'hcBrb3cAbbT83yB', 'level': 100, 'userid': 7886501515465, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650617698447}
+2022-04-22 16-55-11:检测到 k 离开聊天室
+2022-04-22 17-00-51:收到来自 Z 的信息：Although I entered the password, the system does not display the trip code!
+2022-04-22 17-04-18:检测到 ms9944 离开聊天室
+2022-04-22 17-07-45:检测到 nasin_ante 加入聊天室
+2022-04-22 17-07-45:详细信息：{'cmd': 'onlineAdd', 'nick': 'nasin_ante', 'trip': '', 'uType': 'user', 'hash': '7A+C6Oyfl3BdDRQ', 'level': 100, 'userid': 2011874748501, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650618463176}
+2022-04-22 17-11-53:检测到 nasin_ante 离开聊天室
+2022-04-22 17-29-40:收到来自 Z 的信息：Although I entered the password, the system does not display the trip code!
+2022-04-22 17-30-45:收到来自 merc 的信息：system is corrupt 
+2022-04-22 17-31-10:收到来自 Z 的信息：Oh
+2022-04-22 17-33-27:收到来自 merc 的信息：you better not use modern nazi symbols 
+2022-04-22 17-33-29:收到来自 merc 的信息：as nickname
+2022-04-22 17-33-53:收到来自 Z 的信息：Sorry !
+2022-04-22 17-34-47:收到来自 Z 的信息：Let me change a nickname...
+2022-04-22 17-35-07:检测到 tcg 加入聊天室
+2022-04-22 17-35-07:详细信息：{'cmd': 'onlineAdd', 'nick': 'tcg', 'trip': '', 'uType': 'user', 'hash': 'TF9CEQZI7ewNvju', 'level': 100, 'userid': 2288213181521, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650620105409}
+2022-04-22 17-35-22:检测到 Z 离开聊天室
+2022-04-22 17-35-22:检测到 N 加入聊天室
+2022-04-22 17-35-22:详细信息：{'nick': 'N', 'trip': '', 'uType': 'user', 'hash': '2MpzXB5x6ccexGp', 'level': 100, 'userid': 4335011279058, 'isBot': False, 'color': False, 'cmd': 'onlineAdd', 'channel': 'programming', 'time': 1650620121251}
+2022-04-22 17-36-13:检测到 tcg 离开聊天室
+2022-04-22 17-36-13:检测到 apoptosis 加入聊天室
+2022-04-22 17-36-13:详细信息：{'nick': 'apoptosis', 'trip': '', 'uType': 'user', 'hash': 'TF9CEQZI7ewNvju', 'level': 100, 'userid': 2288213181521, 'isBot': False, 'color': False, 'cmd': 'onlineAdd', 'channel': 'programming', 'time': 1650620171627}
+2022-04-22 17-36-22:收到来自 N 的信息：Hello!
+2022-04-22 17-36-24:检测到 3xi573n7ivli5783vR 离开聊天室
+2022-04-22 17-37-15:检测到 femtoyue 加入聊天室
+2022-04-22 17-37-15:详细信息：{'cmd': 'onlineAdd', 'nick': 'femtoyue', 'trip': '', 'uType': 'user', 'hash': 'pfjEKgRy9RTAMa7', 'level': 100, 'userid': 9382201750439, 'isBot': False, 'color': False, 'channel': 'programming', 'time': 1650620233577}
+2022-04-22 17-37-30:检测到 N 离开聊天室
+2022-04-22 17-37-30:检测到 H 加入聊天室
+2022-04-22 17-37-30:详细信息：{'nick': 'H', 'trip': '', 'uType': 'user', 'hash': '2MpzXB5x6ccexGp', 'level': 100, 'userid': 4335011279058, 'isBot': False, 'color': False, 'cmd': 'onlineAdd', 'channel': 'programming', 'time': 1650620247861}
+2022-04-22 17-37-32:收到来自 H 的信息：Hello!
+2022-04-22 17-39-55:收到来自 femtoyue 的信息：Hello
+2022-04-22 17-40-40:收到来自 apoptosis 的信息：hi
+2022-04-22 17-40-47:收到来自 H 的信息：Hi
+2022-04-22 17-40-52:收到来自 H 的信息：How do you do?
+2022-04-22 17-42-02:收到来自 femtoyue 的信息：不懂
+2022-04-22 17-42-34:收到来自 apoptosis 的信息：?
+2022-04-22 17-42-36:收到来自 apoptosis 的信息：wtf
+2022-04-22 17-43-41:收到来自 femtoyue 的信息：怎么私聊
+2022-04-22 17-43-56:收到来自 H 的信息：wtf!
+2022-04-22 17-49-09:收到来自 apoptosis 的信息：i love hatsune miku
+2022-04-22 17-49-31:检测到 merc 离开聊天室
+2022-04-22 17-56-37:收到来自 apoptosis 的信息：他有可能一天都不来。_。
+2022-04-22 17-59-47:收到来自 H 的信息：I lost my trip code !
+2022-04-22 17-59-47:收到来自 H 的信息：Although I entered the password, the system does not display the trip code!
+2022-04-22 17-59-57:收到来自 H 的信息：Can you help me ?
+2022-04-22 18-00-01:收到来自 apoptosis 的信息：._.
+2022-04-22 18-00-04:收到来自 apoptosis 的信息：no
+2022-04-22 18-02-05:收到来自 apoptosis 的信息：i wanna a new name,does someone have an idea
+2022-04-22 18-02-07:收到来自 apoptosis 的信息：?
+2022-04-22 18-02-54:收到来自 H 的信息：I think ......
+2022-04-22 18-03-16:收到来自 ZhangBot00 的信息：热烈欢迎 L 入场！
+2022-04-22 18-03-16:收到来自 bo_od_testing 的信息：( ﾟ∀。) hi~ 
+2022-04-22 18-03-17:收到来自 bo_od_testing 的信息：( ﾟ∀。) hi~ 
+2022-04-22 18-03-17:收到来自 bo_od_testing 的信息：( ﾟ∀。) hi~ 
+2022-04-22 18-03-17:收到来自 ZhangBot00 的信息：该用户曾用名：Mr_Zhang；aaa；Test；TestSB；L；
+2022-04-22 18-03-17:收到来自 ZhangBot00 的信息：热烈欢迎 H 入场！
+2022-04-22 18-03-17:收到来自 ZhangBot00 的信息：该用户曾用名：Mr_Zhang；aaa；Test；TestSB；L；H；
+2022-04-22 18-03-17:收到来自 ZhangBot00 的信息：热烈欢迎 femtoyue 入场！
+2022-04-22 18-03-17:收到来自 ZhangBot00 的信息：该用户没有曾用名。
+2022-04-22 18-03-33:检测到 apoptosis 加入聊天室
+2022-04-22 18-03-33:详细信息：{'nick': 'apoptosis', 'trip': '', 'uType': 'user', 'hash': 'TF9CEQZI7ewNvju', 'level': 100, 'userid': 2288213181521, 'isBot': False, 'color': False, 'cmd': 'onlineAdd', 'channel': 'your-channel', 'time': 1650621811025}
+2022-04-22 18-03-33:收到来自 bo_od_testing 的信息：( ﾟ∀。) hi~ 
+2022-04-22 18-03-34:收到来自 ZhangBot00 的信息：热烈欢迎 apoptosis 入场！
+2022-04-22 18-03-34:收到来自 ZhangBot00 的信息：该用户曾用名：sb；tcg；apoptosis；
+2022-04-22 18-03-42:收到来自 H 的信息：完了！
+2022-04-22 18-03-54:收到来自 XBX 的信息：？
+2022-04-22 18-03-57:收到来自 H 的信息：被踢回来了
+2022-04-22 18-03-59:收到来自 H 的信息：！！！
+2022-04-22 18-04-02:收到来自 XBX 的信息：？
+2022-04-22 18-04-22:收到来自 apoptosis 的信息：?
+2022-04-22 18-04-22:收到来自 apoptosis 的信息：wtf
+2022-04-22 18-04-22:收到来自 apoptosis 的信息：afk
+2022-04-22 18-04-35:收到来自 H 的信息：完了完了！
+2022-04-22 18-04-39:收到来自 H 的信息：刷新试试
+2022-04-22 18-04-42:收到来自 H 的信息：换个昵称
+2022-04-22 18-04-43:检测到 H 离开聊天室
+2022-04-22 18-04-44:收到来自 ZhangBot00 的信息：欢迎下次再来，H ！
+2022-04-22 18-05-31:收到来自 XBX 的信息：@apoptosis 名字真长
