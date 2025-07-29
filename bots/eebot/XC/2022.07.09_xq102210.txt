@@ -1,0 +1,15977 @@
+[00:05:52]
+[44FF00] eebot_767
+ QuQ eb的昵称卡在里面了
+
+[00:05:55]
+[love13] ee
+功能
+
+[00:07:07]
+[love13] ee
+帮助
+
+[00:09:46]
+[44FF00] eebot
+ ·
+13和ee的小说屋 new
+https://novelhouse.mysxl.cn/
+
+[00:20:59]
+[love13] ee
+eebot
+
+[11:09:53]
+[44FF00] eebot
+ [2022.07.09 11:09:52]
+
+[11:09:53]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[11:09:53]
+[44FF00] eebot
+ {}
+
+[11:09:53]
+[44FF00] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[11:09:54]
+[DPGawa] _
+hope no bugs <3
+
+[11:09:55]
+[KiloMx] KiloMxmxxx
+@_ @_ 对我有信心不
+
+[11:10:05]
+[DPGawa] _
+?
+
+[11:10:10]
+[DPGawa] _
+ofc
+
+[11:10:21]
+[KiloMx] KiloMxmxxx
+我肯定能搞个下届合金套
+
+[11:10:29]
+[44FF00] eebot
+ [eYFDHl] ee
+哈哈哈哈哈
+
+[11:10:35]
+[KiloMx] KiloMxmxxx
+你信不
+
+[11:10:35]
+[KiloMx] KiloMxmxxx
+我要压榨我的肝
+
+[11:10:35]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[11:10:35]
+[KiloMx] KiloMxmxxx
+哈哈哈哈
+
+[11:10:38]
+[44FF00] eebot
+ 草哈哈哈哈
+
+[11:10:38]
+[zhang] Mr_Zhang
+简要评析写错一个变量导致的宕机
+
+[11:10:42]
+[DPGawa] _
+h
+
+[11:10:42]
+[44FF00] eebot
+ [eYFDHl] ee
+这样就实现了
+
+[11:10:42]
+[DPGawa] _
+?
+
+[11:10:57]
+[44FF00] eebot
+ hey yo Qwer
+
+[11:10:57]
+[KiloMx] KiloMxmxxx
+@_ 我用1.19连是吧
+
+[11:10:58]
+[zhang] Mr_Zhang
+刚才写错了一个变量
+
+[11:11:01]
+[DPGawa] _
+yep
+
+[11:11:02]
+[44FF00] eebot
+ [eYFDHl] ee
+lo和yc和xc连 yc和xc连
+
+[11:11:05]
+[KiloMx] KiloMxmxxx
+ok
+
+[11:11:06]
+[zhang] Mr_Zhang
+导致ZhangHelper原地升天
+
+[11:11:08]
+[zhang] Mr_Zhang
+NBNB
+
+[11:11:14]
+[Qwer] Qwer
+我这边显示客户端过期
+
+[11:11:29]
+[Qwer] Qwer
+要换1.19的
+
+[11:11:37]
+[44FF00] eebot
+ [eYFDHl] ee
+:!setatblv -1
+
+[11:11:52]
+[44FF00] eebot
+ [eYFDHl] ee
+emmmmmm
+
+[11:12:34]
+[44FF00] eebot
+ [eYFDHl] ee
+OK
+
+[11:12:46]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+emmmm
+
+[11:12:46]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+NBNB
+
+[11:12:50]
+[44FF00] eebot
+ [eYFDHl] ee
+>lo和yc和xc连 yc和xc连
+
+[11:12:59]
+[KiloMx] KiloMxmxxx
+ohhhh
+
+[11:13:19]
+[44FF00] eebot
+ [eYFDHl] ee
+特别好玩（
+
+[11:13:19]
+[zhang] Mr_Zhang
+哈哈哈
+
+[11:13:23]
+[44FF00] eebot
+ 哈哈哈草
+
+[11:13:23]
+[Qwer] Qwer
+下1.19的？@KiloMxmxxx 
+
+[11:13:27]
+[Qwer] Qwer
+emmm
+
+[11:13:39]
+[DPGawa] _
+server has
+
+[11:13:42]
+[DPGawa] _
+ViaVersion
+
+[11:13:46]
+[44FF00] eebot
+ ·
+Beluga's YouTube
+https://youtube.com/c/Beluga1
+
+[11:14:11]
+[44FF00] eebot
+ hey yo KiloMxmxxx
+
+[11:14:12]
+[Qwer] Qwer
+。
+
+[11:14:12]
+[zhang] Mr_Zhang
+^tripmsg Admin reload改好力。。。
+
+[11:14:16]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 Admin 的用户上线时，我会第一时间通知他。
+
+[11:14:16]
+[KiloMx] KiloMxmxxx
+我换成了vlai的号
+
+[11:14:28]
+[zhang] Mr_Zhang
+^save
+
+[11:14:34]
+[zhang] ZhangHelperS
+已保存设置！
+
+[11:14:34]
+[DPGawa] _
+?
+
+[11:14:35]
+[zhang] Mr_Zhang
+^city $默认
+
+[11:14:41]
+[zhang] ZhangHelperS
+已更正地区。
+
+[11:14:44]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[11:14:46]
+[44FF00] eebot
+ hello yo KiloMxmxxx
+
+[11:14:46]
+[zhang] Mr_Zhang
+emmmm？
+
+[11:14:50]
+[zhang] Mr_Zhang
+BUG？？？
+
+[11:14:55]
+[DPGawa] _
+?
+
+[11:15:04]
+[Qwer] Qwer
+PUBG
+
+[11:15:12]
+[KiloMx] KiloMxmxxx
+@_ 如果出bug了就重置存档吧
+
+[11:15:16]
+[zhang] Mr_Zhang
+>ZhangHelperS whispered: 亲爱的用户，您好。
+天气获取失败！您可以通过 `^city` 命令更正地区，感谢您的大力支持。
+
+[11:15:19]
+[KiloMx] KiloMxmxxx
+反正只有点钻石啥的
+
+[11:15:27]
+[DPGawa] _
+?
+
+[11:15:28]
+[KiloMx] KiloMxmxxx
+半小时就能搞到昂
+
+[11:15:38]
+[DPGawa] _
+[03:11:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:15:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+
+[11:15:41]
+[DPGawa] _
+-.-
+
+[11:15:43]
+[DPGawa] _
+[03:15:47] [Worker-Main-12/INFO]: Preparing spawn area: 2%
+
+[11:15:58]
+[KiloMx] KiloMxmxxx
+尽量不要用指令了，summon和tp都别用好嘛
+
+[11:16:05]
+[DPGawa] _
+awa
+
+[11:16:10]
+[KiloMx] KiloMxmxxx
+experience也别用
+
+[11:16:15]
+[KiloMx] KiloMxmxxx
+好嘛好嘛
+
+[11:16:18]
+[DPGawa] _
+ooo
+
+[11:16:24]
+[KiloMx] KiloMxmxxx
+oooook
+
+[11:16:27]
+[DPGawa] _
+[03:16:43] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[03:16:44] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+
+[11:16:47]
+[DPGawa] _
+obo
+
+[11:16:49]
+[KiloMx] KiloMxmxxx
+0v0
+
+[11:16:53]
+[44FF00] eebot
+ Owo
+
+[11:16:53]
+[DPGawa] _
+OvO
+
+[11:16:58]
+[44FF00] eebot
+ xox
+
+[11:16:58]
+[KiloMx] KiloMxmxxx
+Ow-
+
+[11:17:01]
+[DPGawa] _
+cuter
+
+[11:17:02]
+[44FF00] eebot
+ [None] Colin
+哦！
+
+[11:17:12]
+[KiloMx] KiloMxmxxx
+OwO
+
+[11:17:12]
+[44FF00] eebot
+ QuQ
+
+[11:17:12]
+[KiloMx] KiloMxmxxx
+QwQ
+
+[11:17:15]
+[zhang] Mr_Zhang
+有点忙不过来了
+
+[11:17:26]
+[KiloMx] KiloMxmxxx
+;_;
+
+[11:17:32]
+[DPGawa] _
+?
+
+[11:17:37]
+[DPGawa] _
+;-;
+
+[11:17:38]
+[44FF00] eebot
+ [eYFDHl] ee
+hi yo
+
+[11:17:41]
+[KiloMx] KiloMxmxxx
+~~.~~_~~.~~
+
+[11:17:51]
+[DPGawa] _
+[03:17:46] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+
+[11:17:51]
+[KiloMx] KiloMxmxxx
+~~.~~_~~.~~
+
+[11:17:56]
+[KiloMx] KiloMxmxxx
+aww
+
+[11:18:00]
+[44FF00] eebot
+ [None] Colin
+体寒被冻醒了，这可是夏天啊！我是不是没救了
+
+[11:18:09]
+[DPGawa] _
+what speeeed
+
+[11:18:10]
+[KiloMx] KiloMxmxxx
+~~.~~^~~.~~
+
+[11:18:19]
+[44FF00] eebot
+ [eYFDHl] ee
+草
+
+[11:18:22]
+[KiloMx] KiloMxmxxx
+~~.~~草哈哈哈~~.~~
+
+[11:18:28]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+哈哈哈
+
+[11:18:33]
+[44FF00] eebot
+ [eYFDHl] ee
+@Colin 你们那边多少度（
+
+[11:18:37]
+[KiloMx] KiloMxmxxx
+~~.~~38°~~.~~
+
+[11:18:47]
+[44FF00] eebot
+ 与其说是聊天 不如说是问答式的吧（
+
+[11:18:47]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+我们这里热得很。。。
+
+[11:18:53]
+[44FF00] eebot
+ [eYFDHl] ee
+哈哈哈哈哈哈哈哈哈哈
+
+[11:18:53]
+[KiloMx] KiloMxmxxx
+~~.~~我们这里是直角（~~.~~
+
+[11:19:02]
+[44FF00] eebot
+ [None] Colin
+我这边也是35，36度
+
+[11:19:02]
+[DPGawa] _
+[03:18:52] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+
+[11:19:04]
+[KiloMx] KiloMxmxxx
+90°
+
+[11:19:05]
+[DPGawa] _
+--.--\
+
+[11:19:07]
+[44FF00] eebot
+ [None] Colin
+我竟然还是被冻醒了
+
+[11:19:08]
+[KiloMx] KiloMxmxxx
+az
+
+[11:19:11]
+[44FF00] eebot
+ [eYFDHl] ee
+我这边才31°
+
+[11:19:11]
+[Qwer] Qwer
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[11:19:12]
+[44FF00] eebot
+ 草啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[11:19:12]
+[44FF00] eebot
+ [eYFDHl] ee
+好家伙
+
+[11:19:13]
+[44FF00] eebot
+ [None] Colin
+我是不是应该生活在热带
+
+[11:19:14]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+啊，这
+
+[11:19:16]
+[KiloMx] KiloMxmxxx
+哈哈哈哈
+
+[11:19:17]
+[44FF00] eebot
+ 哈哈哈哈草
+
+[11:19:17]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+纬度位置
+
+[11:19:21]
+[DPGawa] _
+ohh
+
+[11:19:26]
+[DPGawa] _
+[03:19:22] [Worker-Main-1/INFO]: Preparing spawn area: 70%
+
+[11:19:26]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+影响气温
+
+[11:19:27]
+[Qwer] Qwer
+高纬度是吧
+
+[11:19:31]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+纬度位置，影响气温
+
+[11:19:32]
+[KiloMx] KiloMxmxxx
+~~.~~^~~.~~
+
+[11:19:38]
+[44FF00] eebot
+ [eYFDHl] ee
+你泡海里吧
+
+[11:19:49]
+[Qwer] Qwer
+.^.
+
+[11:19:50]
+[KiloMx] KiloMxmxxx
+~~.~~_~~.~~slowww
+
+[11:19:50]
+[JVcLW8] fcjz
+https://hashnode.com
+
+[11:19:53]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+根据IP定位，处于中国的低纬度地区
+
+[11:19:53]
+[44FF00] eebot
+@fcjz Hashnode - Blogging community for developers, and people in tech
+https://hashnode.com
+
+[11:19:53]
+[KiloMx] KiloMxmxxx
+~~.~~_~~.~~
+
+[11:19:57]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+So
+
+[11:19:57]
+[KiloMx] KiloMxmxxx
+~~.~~_~~.~~
+
+[11:19:58]
+[JVcLW8] fcjz
+又发现了一个可以搭建博客的地方
+
+[11:19:59]
+[DPGawa] _
+ok now
+
+[11:20:00]
+[KiloMx] KiloMxmxxx
+~~.~~_~~.~~
+
+[11:20:00]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+哦吼？
+
+[11:20:05]
+[KiloMx] KiloMxmxxx
+AwA
+
+[11:20:07]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+SO
+
+[11:20:20]
+[Qwer] Qwer
+笑死了我1。19还没好
+
+[11:20:26]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+你们那里更热。。。（无语中）
+
+[11:20:33]
+[KiloMx] KiloMxmxxx
+???
+
+[11:21:03]
+[KiloMx] KiloMxmxxx
+@_
+
+[11:21:04]
+[KiloMx] KiloMxmxxx
+我进不去
+
+[11:21:19]
+[JVcLW8] fcjz
+我爱匿名版
+
+[11:21:21]
+[KiloMx] KiloMxmxxx
+Connection Lost
+
+[11:21:27]
+[DPGawa] _
+me too
+
+[11:21:30]
+[DPGawa] _
+wait plz
+
+[11:21:32]
+[JVcLW8] fcjz
+我爱匿名
+
+[11:21:34]
+[KiloMx] KiloMxmxxx
+欸欸欸
+
+[11:21:37]
+[JVcLW8] fcjz
+我爱匿名聊天室
+
+[11:21:47]
+[JVcLW8] fcjz
+耶耶耶
+
+[11:21:48]
+[zhang] Mr_Zhang
+嗯
+
+[11:21:51]
+[KiloMx] KiloMxmxxx
+额我好想开个新存档
+
+[11:21:52]
+[zhang] Mr_Zhang
+我希望现在不会有BUG
+
+[11:21:58]
+[zhang] ZhangTurner
+信息转发关
+
+[11:22:13]
+[DPGawa] _
+@KiloMxmxxx seems new
+
+[11:22:16]
+[zhang] Mr_Zhang
+~~（如果有BUG，我就是超级SB）~~
+
+[11:22:18]
+[DPGawa] _
+restarting
+
+[11:22:20]
+[zhang] ZhangTurner
+信息转发开
+
+[11:22:30]
+[Qwer] Qwer
+你们是什么版本
+
+[11:22:43]
+[zhang] ZhangTurner
+pipe：eebot_892
+[Qwer] Qwer
+你们是什么版本
+
+[11:22:44]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+哈哈哈
+
+[11:22:49]
+[zhang] ZhangTurner
+pipe：Mr_Zhang
+哈哈哈
+
+[11:22:49]
+[zhang] ZhangTurner
+iis：这边都38了
+
+[11:22:52]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+满屏幕都是eb
+
+[11:22:53]
+[zhang] ZhangTurner
+pipe：Mr_Zhang
+满屏幕都是eb
+
+[11:22:53]
+[Qwer] Qwer
+两机器人刷屏
+
+[11:23:08]
+[zhang] ZhangTurner
+pipe：eebot_892
+[Qwer] Qwer
+两机器人刷屏
+
+[11:23:08]
+[zhang] ZhangTurner
+terry：yepp
+
+[11:23:27]
+[KiloMx] KiloMxmxxx
+eb、Zhangturner双双刷屏事件（
+
+[11:23:32]
+[zhang] ZhangTurner
+pipe：eebot_892
+[KiloMx] KiloMxmxxx
+eb、Zhangturner双双刷屏事件（
+
+[11:23:33]
+[zhang] Mr_Zhang
+转发关
+
+[11:23:37]
+[zhang] ZhangTurner
+信息转发关
+
+[11:23:37]
+[zhang] Mr_Zhang
+Hokay
+
+[11:23:42]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+Hokay
+
+[11:23:47]
+[JVcLW8] fcjz
+说实话感觉最高级的匿名版还是4chan
+
+[11:24:32]
+[JVcLW8] fcjz
+其次8chan
+
+[11:24:36]
+[44FF00] eebot
+ ~~.~~_~~.~~
+
+[11:24:36]
+[Qwer] Qwer
+[![360-20220709112340851.jpg](https://i.postimg.cc/y6rqx3dq/360-20220709112340851.jpg)](https://postimg.cc/mhMp6DCV)
+
+[11:24:59]
+[KiloMx] KiloMxmxxx
+@_ 又掉了
+
+[11:24:59]
+[KiloMx] KiloMxmxxx
+#
+
+[11:24:59]
+[KiloMx] KiloMxmxxx
+aw
+
+[11:24:59]
+[Qwer] Qwer
+好慢啊
+
+[11:24:59]
+[KiloMx] KiloMxmxxx
+hmcl哈哈哈
+
+[11:25:00]
+[Qwer] Qwer
+我要死了
+
+[11:25:00]
+[44FF00] eebot
+@Qwer 360截图20220709112340851 — Postimages
+https://postimg.cc/mhMp6DCV
+
+[11:25:00]
+[zhang] Mr_Zhang
+我***************8
+
+[11:25:15]
+[KiloMx] KiloMxmxxx
+我用hmcl和pcl2
+
+[11:25:16]
+[Qwer] Qwer
+省流；玩不了
+
+[11:26:22]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+hi yoooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+[11:26:39]
+[44FF00] eebot
+ [Zvoxsl] mathji11
+CaO!
+
+[11:26:44]
+[44FF00] eebot
+ [Zvoxsl] mathji11
+;-;
+
+[11:26:47]
+[KiloMx] KiloMxmxxx
+氧化钙草
+
+[11:26:52]
+[44FF00] eebot
+ [7EMhUN] CaO
+jillll
+
+[11:26:52]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+草！
+
+[11:26:53]
+[44FF00] eebot
+ [c01PWj] Mr_Zhang
+哈哈哈
+
+[11:26:59]
+[44FF00] eebot
+ [Zvoxsl] mathji11
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+[11:27:00]
+[Qwer] Qwer
+0.0B/s
+
+[11:27:01]
+[44FF00] eebot
+ [7EMhUN] CaO
+;)
+
+[11:27:17]
+[DPGawa] _
+.
+
+[11:33:09]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[11:33:09]
+[44FF00] eebot
+ [Zvoxsl] mathji11
+....
+
+[11:33:09]
+[44FF00] eebot
+ [None] Srikanth
+Hi
+
+[11:33:14]
+[44FF00] eebot
+ [7EMhUN] CaO
+hi
+
+[11:33:19]
+[zzzzzz] CX_zzzChumo
+@_ 提示版本过低玩不了
+
+[11:33:42]
+[zzzzzz] CX_zzzChumo
+dpg酱你骗我啊啊啊啊啊啊啊啊啊
+
+[11:33:58]
+[44FF00] eebot
+ [None] Srikanth
+Hello
+
+[11:34:44]
+[44FF00] eebot
+ [None] Srikanth
+Hi
+
+[11:35:08]
+[44FF00] eebot
+ [None] Srikanth
+Hi
+
+[11:37:01]
+[love13] ee
+好家伙
+
+[11:37:16]
+[DPGawa] _
+?
+
+[11:37:19]
+[DPGawa] _
+still fixing
+
+[11:37:27]
+[DPGawa] _
+-.-
+
+[11:37:28]
+[44FF00] eebot
+ °-°
+
+[11:37:28]
+[love13] ee
+@eebot mc
+
+[11:37:31]
+[44FF00] eebot
+ 20003.s.imc.re JAVA 1.13.2
+
+[11:37:42]
+[44FF00] eebot
+ hey yo KiloMxmxxx
+
+[11:37:42]
+[love13] ee
+hi yo
+
+[11:37:47]
+[KiloMx] KiloMxmxxx
+???
+
+[11:37:49]
+[KiloMx] KiloMxmxxx
+验证码是qwer？
+
+[11:37:57]
+[DPGawa] _
+Z-mc
+20003.s.imc.re JAVA 1.19
+
+[11:37:57]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[11:37:57]
+[zhang] Mr_Zhang
+？？？
+
+[11:38:06]
+[KiloMx] KiloMxmxxx
+@_ 进不去
+
+[11:38:10]
+[love13] ee
+原来如此
+
+[11:38:20]
+[KiloMx] KiloMxmxxx
+我用的1.19 OptiFine-pre5
+
+[11:38:27]
+[zhang] Mr_Zhang
+我真想喊两句
+
+[11:38:28]
+[Qwer] Qwer
+？
+
+[11:38:30]
+[zhang] Mr_Zhang
+气死我了
+
+[11:38:31]
+[love13] ee
+啊？
+
+[11:38:34]
+[zhang] Mr_Zhang
+调试失败
+
+[11:38:36]
+[Qwer] Qwer
+我的验证码是Qwer
+
+[11:38:38]
+[Qwer] Qwer
+？？？
+
+[11:38:41]
+[Qwer] Qwer
+我输入Qwer
+
+[11:38:47]
+[zhang] Mr_Zhang
+XChat
+
+[11:38:48]
+[zhang] Mr_Zhang
+啊这
+
+[11:38:51]
+[love13] ee
+？
+
+[11:38:54]
+[love13] ee
+好家伙
+
+[11:38:56]
+[Qwer] Qwer
+@eebot mc
+
+[11:38:58]
+[44FF00] eebot
+ 20003.s.imc.re JAVA 1.19
+
+[11:38:58]
+[zhang] Mr_Zhang
+我***************************
+
+[11:39:11]
+[zhang] Mr_Zhang
+我还是靠肉眼调试吧。。。
+
+[11:39:45]
+[zhang] Mr_Zhang
+看看有没有BUG
+
+[11:39:55]
+[zhang] Mr_Zhang
+F**K
+
+[11:40:00]
+[Qwer] Qwer
+uc
+
+[11:40:09]
+[Qwer] Qwer
+不用谢
+
+[11:40:19]
+[zhang] Mr_Zhang
+功能
+
+[11:40:42]
+[DPGawa] _
+waaaaaut
+
+[11:41:06]
+[44FF00] eebot
+ [2022.07.09 11:41:05]
+
+[11:41:06]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[11:41:06]
+[44FF00] eebot
+ {}
+
+[11:41:06]
+[44FF00] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[11:41:07]
+[Qwer] Qwer
+啊啊啊
+
+[11:41:14]
+[44FF00] eebot
+ 草啊啊啊
+
+[11:41:14]
+[Qwer] Qwer
+草啊啊啊
+
+[11:43:41]
+[44FF00] eebot
+ [2022.07.09 11:43:40]
+
+[11:43:41]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[11:43:41]
+[44FF00] eebot
+ {}
+
+[11:43:41]
+[44FF00] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[11:43:42]
+[Qwer] Qwer
+要Java17
+
+[11:43:46]
+[zhang] CX_Mr_Zhang
+好快
+
+[11:44:06]
+[44FF00] eebot
+ hello yo CX_test
+
+[11:44:06]
+[zzzzzz] CX_zzzChumo
+![Screenshot_20220709-114226_Minecraft.png](https://img1.imgtp.com/2022/07/09/Z9noleMd.png)
+
+[11:44:08]
+[zzzzzz] CX_zzzChumo
+@_
+
+[11:44:22]
+[Vl5Y7M] CX_test
+a
+
+[11:44:26]
+[Vl5Y7M] CX_test
+NBNB
+
+[11:44:31]
+[Vl5Y7M] CX_test
+这都行
+
+[11:44:34]
+[Vl5Y7M] CX_test
+@CX_zzzChumo NB啊，kill都没用
+
+[11:44:49]
+[zzzzzz] CX_zzzChumo
+>Qwer Qwer：
+>怎么升级Java
+
+@Qwer sudo apt install default-jdk
+
+[11:45:08]
+[edDiBU] 4n0n4me
+1.19
+
+[11:45:10]
+[edDiBU] 4n0n4me
+所以必须用Java17啊
+
+[11:45:21]
+[zzzzzz] CX_zzzChumo
+>Vl5Y7M CX_test：
+>@CX_zzzChumo NB啊，kill都没用
+
+@CX_test woc？连我都不知道
+
+[11:45:27]
+[edDiBU] 4n0n4me
+那只能下载Java17了
+
+[11:45:29]
+[Qwer] Qwer
+哦
+
+[11:45:33]
+[44FF00] eebot
+ 草哦
+
+[11:45:33]
+[zzzzzz] CX_zzzChumo
+Java 20已经出来了（
+
+[11:45:46]
+[Qwer] Qwer
+[![360-20220709114609620.jpg](https://i.postimg.cc/4yBZWWvB/360-20220709114609620.jpg)](https://postimg.cc/QK9RtkyT)
+
+[11:46:44]
+[Qwer] Qwer
+是这个吗
+
+[11:46:44]
+[44FF00] eebot
+@Qwer 360截图20220709114609620 — Postimages
+https://postimg.cc/QK9RtkyT
+
+[11:46:44]
+[edDiBU] 4n0n4me
+看起来是的
+
+[11:46:58]
+[Qwer] Qwer
+e_E
+
+[11:47:08]
+[zzzzzz] CX_zzzChumo
+麻痹的你能不能发高清大图？
+
+[11:47:10]
+[Qwer] Qwer
+就这样吧
+
+[11:47:11]
+[Qwer] Qwer
+啊
+
+[11:47:21]
+[44FF00] eebot
+ 草啊
+
+[11:47:21]
+[Qwer] Qwer
+高清的呀
+
+[11:47:26]
+[zhang] Mr_Zhang
+@CX_zzzChumo kill似乎对CX没用。。。
+
+[11:47:29]
+[Qwer] Qwer
+我看的清清楚楚
+
+[11:47:37]
+[zhang] Mr_Zhang
+NBNB
+
+[11:47:43]
+[zzzzzz] CX_zzzChumo
+。。。你自己点开看看高清不高清
+
+[11:47:52]
+[DPGawa] _
+@CX_zzzChumo 
+
+[11:47:53]
+[DPGawa] _
+?
+
+[11:47:55]
+[DPGawa] _
+@CX_zzzChumo wait plz
+
+[11:48:00]
+[zzzzzz] CX_zzzChumo
+>zhang Mr_Zhang：
+>@CX_zzzChumo kill似乎对CX没用。。。
+
+@Mr_Zhang 我不知道
+
+[11:48:01]
+[zhang] Mr_Zhang
+emmm
+
+[11:48:04]
+[zhang] Mr_Zhang
+那就试试吧
+
+[11:48:08]
+[Qwer] Qwer
+microsoft-jdk-Windows-x64.zip@CX_zzzChumo 
+
+[11:48:16]
+[zhang] Mr_Zhang
+现在能说话吗？
+
+[11:48:22]
+[Qwer] Qwer
+e_E
+
+[11:48:25]
+[zzzzzz] CX_zzzChumo
+@_ ok
+
+[11:48:25]
+[Qwer] Qwer
+microsoft-jdk-Windows-x64.zip@CX_zzzChumo 
+
+[11:48:28]
+[zhang] Mr_Zhang
+！
+
+[11:48:28]
+[zhang] Mr_Zhang
+行
+
+[11:48:35]
+[zzzzzz] CX_zzzChumo
+@Qwer 应该吧
+
+[11:48:44]
+[Qwer] Qwer
+下了两个压缩包
+
+[11:49:08]
+[zzzzzz] CX_zzzChumo
+jdk里没jre就是另一个故事了
+
+[11:49:15]
+[KiloMx] KiloMxmxxx
+@_ 服务器情况怎样
+
+[11:50:29]
+[zhang] Mr_Zhang
+我正式宣布：
+
+[11:50:30]
+[KiloMx] KiloMxmxxx
+没有啊
+
+[11:50:37]
+[zhang] Mr_Zhang
+上传client系列命令
+
+[11:50:43]
+[zzzzzz] CX_zzzChumo
+我记得Windows的jdk不带jre吧
+
+[11:50:43]
+[DPGawa] _
+starting
+
+[11:51:05]
+[zhang] Mr_Zhang
+Hokay
+
+[11:51:10]
+[KiloMx] KiloMxmxxx
+>zhang Mr_Zhang：
+>上传client系列命令
+
+@Mr_Zhang ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+[11:51:11]
+[DPGawa] _
+grrr
+
+[11:51:11]
+[DPGawa] _
+vannila
+
+[11:51:16]
+[DPGawa] _
+paper
+
+[11:51:19]
+[DPGawa] _
+bukkit
+
+[11:51:22]
+[DPGawa] _
+spigot
+
+[11:51:25]
+[DPGawa] _
+-.-
+
+[11:51:26]
+[zzzzzz] CX_zzzChumo
+>zhang Mr_Zhang：
+>上传client系列命令
+
+@Mr_Zhang 这个是怎么搞的，是在join里加client参数吗
+
+[11:51:46]
+[zhang] Mr_Zhang
+对的
+
+[11:51:58]
+[zzzzzz] CX_zzzChumo
+行
+
+[11:52:05]
+[zhang] Mr_Zhang
+join还没弄好
+
+[11:52:06]
+[zhang] ZhangTurner
+信息转发关
+
+[11:52:09]
+[zhang] Mr_Zhang
+需要我细细调整
+
+[11:52:15]
+[zzzzzz] CX_zzzChumo
+我去拿CrackedX开刀了（
+
+[11:52:27]
+[zhang] Mr_Zhang
+跨服聊天关
+
+[11:52:34]
+[zhang] Mr_Zhang
+emmm
+
+[11:52:37]
+[zhang] Mr_Zhang
+功能
+
+[11:52:39]
+[KiloMx] KiloMxmxxx
+~~。~~_~~。~~
+
+[11:52:43]
+[zzzzzz] CX_zzzChumo
+zzChat Premium Online随后跟进
+
+[11:52:51]
+[zhang] Mr_Zhang
+Ohhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+[11:53:08]
+[44FF00] eebot
+ hey yo KiloMxmxxx
+
+[11:53:08]
+[zhang] Mr_Zhang
+快完成力
+
+[11:54:13]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[11:54:23]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[11:55:05]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[11:55:16]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[11:55:16]
+[Qwer] Qwer
+我要看看怎么开远程控制
+
+[11:55:20]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+额
+
+[11:55:26]
+[zzzzzz] CX_zzzChumo
+？
+
+[11:55:38]
+[zzzzzz] CX_zzzChumo
+这挂机列表有毒吧
+
+[11:55:47]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+转发停了他不香么
+
+[11:55:47]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+die.
+
+[11:56:01]
+[44FF00] eebot
+ [eYFDHl] ee
+不
+
+[11:56:04]
+[Qwer] Qwer
+输入对象名称来选择
+
+[11:56:06]
+[Qwer] Qwer
+啧啧啧
+
+[11:56:08]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+@eebot_656 I will report you to the internet police, sir.
+
+[11:56:19]
+[44FF00] eebot
+ [Zvoxsl] mathji11
+~
+
+[11:56:35]
+[44FF00] eebot
+ [eYFDHl] ee
+yc和xc的跨服聊天是我开的——
+
+[11:56:37]
+[Qwer] Qwer
+输入什么呢
+
+[11:56:44]
+[44FF00] eebot
+ [Zvoxsl] mathji11
+跨服聊天
+
+[11:56:45]
+[44FF00] eebot
+ [eYFDHl] ee
+yes
+
+[11:56:49]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+@eebot_656 消停一下大哥
+
+[11:56:49]
+[44FF00] eebot
+ [Zvoxsl] mathji11
+事实上这里没人说话了
+
+[11:56:55]
+[44FF00] eebot
+ [eYFDHl] ee
+啊那是机器人
+
+[11:56:57]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+@ee 消停一下
+
+[11:56:58]
+[44FF00] eebot
+ [eYFDHl] ee
+是的
+
+[11:56:58]
+[44FF00] eebot
+ [eYFDHl] ee
+hi yo
+
+[11:57:30]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+die.
+
+[11:57:40]
+[zzzzzz] CX_zzzChumo
+跨服聊天关
+
+[11:57:41]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+~
+
+[11:57:43]
+[zhang] Mr_Zhang
+emmm
+
+[11:57:45]
+[44FF00] eebot
+ [1mJVp4] Qwer
+谁能告诉我远程控制输入对象名称来选择怎么输
+
+[11:57:59]
+[44FF00] eebot
+ [eYFDHl] ee
+我不知道
+
+[11:58:11]
+[44FF00] eebot
+ [1mJVp4] Qwer
+啊啊啊
+
+[11:58:14]
+[44FF00] eebot
+ [1mJVp4] Qwer
+e_E
+
+[11:58:24]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+我擦
+
+[11:58:28]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+够了机器人
+
+[11:58:37]
+[DPGawa] _
+:!send ?
+
+[11:58:39]
+[DPGawa] AfK_Bot
+?
+
+[11:58:42]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+@eebot_656 别发了啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[11:58:57]
+[44FF00] eebot
+ [eYFDHl] ee
+我想试一下
+
+[11:58:59]
+[44FF00] eebot
+ [olX9Fe] iis
+哈哈   你被逼疯了骂
+
+[11:59:04]
+[44FF00] eebot
+ [eYFDHl] ee
+能不能连上hc系列外的其他聊天室
+
+[11:59:22]
+[KiloMx] KiloMxmxxx
+@_ awa好了嘛
+
+[11:59:23]
+[44FF00] eebot
+ [eYFDHl] ee
+比如星聊（
+
+[11:59:30]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+@ee 你关一下可以么？
+
+[11:59:32]
+[44FF00] eebot
+ [eYFDHl] ee
+但是失败了
+
+[11:59:34]
+[zhang] Mr_Zhang
+node里面可以不加引号吗
+
+[11:59:39]
+[44FF00] eebot
+ 如果 真的可有下次
+
+[11:59:39]
+[zhang] Mr_Zhang
+说错了
+
+[11:59:40]
+[zhang] Mr_Zhang
+分号
+
+[11:59:42]
+[44FF00] eebot
+ [Zvoxsl] mathji11
+;
+
+[11:59:47]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+@ee 关掉关掉
+
+[11:59:49]
+[zhang] Mr_Zhang
+@eebot 退出
+
+[12:00:46]
+[44FF00] eebot
+ [2022.07.09 12:00:46]
+
+[12:00:46]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[12:00:46]
+[44FF00] eebot
+ {}
+
+[12:00:46]
+[44FF00] eebot
+ ![](https://s1.ax1x.com/2022/04/30/Oppn5n.png)
+
+[12:00:46]
+[44FF00] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[12:00:47]
+[Qwer] Qwer
+https://i.postimg.cc/kg9SLGdZ/360-20220709120001640.jpg
+
+[12:00:53]
+[44FF00] eebot
+ [IiPtqX] jinxihexi_101
+机器人占领了hc
+
+[12:00:58]
+[DPGawa] _
+ooooo
+
+[12:01:01]
+[Qwer] Qwer
+[![360-20220709120001640.jpg](https://i.postimg.cc/kg9SLGdZ/360-20220709120001640.jpg)](https://postimg.cc/KRq4MZjr)
+
+[12:01:11]
+[DPGawa] _
+nearly <3
+
+[12:01:11]
+[44FF00] eebot
+@Qwer 360截图20220709120001640 — Postimages
+https://postimg.cc/KRq4MZjr
+
+[12:01:11]
+[KiloMx] KiloMxmxxx
+@Qwer 哈哈哈哈
+
+[12:01:17]
+[Qwer] Qwer
+怎么了
+
+[12:01:31]
+[44FF00] eebot
+ [None] Lakky
+hi
+
+[12:01:36]
+[DPGawa] _
+https://blog.csdn.net/weixin_42511098/article/details/114390487
+
+[12:01:57]
+[44FF00] eebot
+@_ java更新未完成 1603_java更新未完成出现1603错误怎么解决_斑马睡着了的博客-CSDN博客
+https://blog.csdn.net/weixin_42511098/article/details/114390487
+
+[12:01:57]
+[44FF00] eebot
+ [fivhPB] 11
+额
+
+[12:02:00]
+[Qwer] Qwer
+哦
+
+[12:02:01]
+[44FF00] eebot
+ 哦草
+
+[12:02:01]
+[KiloMx] KiloMxmxxx
+[![jDoGzq.png](https://s1.ax1x.com/2022/07/09/jDoGzq.png)](https://imgtu.com/i/jDoGzq)
+
+[12:02:14]
+[44FF00] eebot
+@KiloMxmxxx image - 路过图床
+https://imgtu.com/i/jDoGzq
+
+[12:02:14]
+[love13] ee
+@eebot 跨服聊天关
+
+[12:02:21]
+[44FF00] eebot
+ eb收到 不再接收和向 [hack.chat｜your-channel] 发送消息
+
+[12:02:21]
+[zhang] Mr_Zhang
+const joinAnnouncement = {
+cmd: 'onlineAdd',
+nick: userInfo.nick,
+trip: userInfo.trip || 'null',
+utype: userInfo.uType, /* @legacy */
+hash: userInfo.hash,
+level: userInfo.level,
+userid: userInfo.userid,
+channel: data.channel,
+city: socket.city,
+client: join_client
+};
+
+[12:03:07]
+[zhang] Mr_Zhang
+Hokay
+
+[12:03:10]
+[DPGawa] _
+obo
+
+[12:03:19]
+[zhang] Mr_Zhang
+现在上传join.js！
+
+[12:03:43]
+[DPGawa] _
+coming
+
+[12:03:57]
+[zhang] Mr_Zhang
+啊呀
+
+[12:04:39]
+[KiloMx] KiloMxmxxx
+coming?
+
+[12:06:38]
+[Qwer] Qwer
+我需要一台好电脑
+
+[12:06:48]
+[KiloMx] KiloMxmxxx
+but time out
+
+[12:06:52]
+[KiloMx] KiloMxmxxx
+nope
+
+[12:06:59]
+[KiloMx] KiloMxmxxx
+	世界没了啊
+
+[12:07:19]
+[KiloMx] KiloMxmxxx
+@_ 世界没了啊
+
+[12:07:27]
+[KiloMx] KiloMxmxxx
+而且hub后就进不去了
+
+[12:07:45]
+[KiloMx] KiloMxmxxx
+az
+
+[12:07:50]
+[KiloMx] KiloMxmxxx
+Connection lost
+
+[12:07:55]
+[zhang] Mr_Zhang
+（改前端）
+
+[12:08:45]
+[zhang] Mr_Zhang
+啊啊啊
+
+[12:08:47]
+[44FF00] eebot
+ 草啊啊啊
+
+[12:08:47]
+[zhang] Mr_Zhang
+好困难
+
+[12:08:49]
+[DPGawa] _
+?
+
+[12:08:57]
+[KiloMx] KiloMxmxxx
+Loading terrain
+
+[12:08:59]
+[KiloMx] KiloMxmxxx
+卡在这里了
+
+[12:09:06]
+[KiloMx] KiloMxmxxx
+世界出bug了
+
+[12:09:14]
+[KiloMx] KiloMxmxxx
+@_ 重开个存档吧
+
+[12:09:22]
+[KiloMx] KiloMxmxxx
+1.13->1.19还是太难为mc了
+
+[12:09:37]
+[zhang] Mr_Zhang
+^tripmsg Admin 站长，客户端名称写好了
+
+[12:10:34]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 Admin 的用户上线时，我会第一时间通知他。
+
+[12:10:34]
+[zhang] Mr_Zhang
+^tripmsg Admin 还剩前端，，，没有修改。。。
+
+[12:10:46]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 Admin 的用户上线时，我会第一时间通知他。
+
+[12:10:58]
+[DPGawa] _
+@KiloMxmxxx 
+
+[12:11:13]
+[KiloMx] KiloMxmxxx
+?
+
+[12:11:21]
+[DPGawa] _
+just a little bug with plugins
+
+[12:11:21]
+[zhang] Mr_Zhang
+^tripmsg Admin reload也改好了，现在就差reload了。。。
+
+[12:11:23]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 Admin 的用户上线时，我会第一时间通知他。
+
+[12:11:23]
+[KiloMx] KiloMxmxxx
+给我权限我看看
+
+[12:11:29]
+[DPGawa] _
+not yet
+
+[12:11:33]
+[zhang] Mr_Zhang
+^list
+
+[12:11:36]
+[zhang] ZhangHelperS
+管理员助手识别码：
+8LJ4jb
+PIGPIG
+loveee
+QiuLingYan
+DPGawa
+hmmmmm
+
+[12:11:36]
+[KiloMx] KiloMxmxxx
+./op vlai
+
+[12:11:38]
+[DPGawa] _
+i can manage it
+
+[12:11:38]
+[DPGawa] _
+@KiloMxmxxx 
+
+[12:11:40]
+[DPGawa] _
+the plugin's name
+
+[12:11:46]
+[KiloMx] KiloMxmxxx
+我想重开个存档
+
+[12:11:48]
+[DPGawa] _
+is TuSKe
+
+[12:11:49]
+[DPGawa] _
+h
+
+[12:11:51]
+[KiloMx] KiloMxmxxx
+awwwwwwwwwwww
+
+[12:11:57]
+[DPGawa] _
+https://www.spigotmc.org/resources/tuske.25136/
+
+[12:12:03]
+[DPGawa] _
+this
+
+[12:12:03]
+[DPGawa] _
+ested Minecraft Versions:
+1.71.81.91.10
+
+[12:12:34]
+[DPGawa] _
+a bit old
+
+[12:12:38]
+[44FF00] eebot
+  /kick @eebot 
+
+[12:12:38]
+[zhang] Mr_Zhang
+hi yo
+
+[12:12:47]
+[QiuLingYan] HiyoTeam_QiuLingYan
+dfk yoo
+
+[12:12:55]
+[KiloMx] KiloMxmxxx
+@_ 能不能新开个存档？
+
+[12:13:06]
+[44FF00] eebot
+ hey yo KiloMxmxxx
+
+[12:13:06]
+[zhang] Mr_Zhang
+?hiyoteam
+
+[12:13:07]
+[KiloMx] KiloMxmxxx
+新开个吧
+
+[12:13:18]
+[zhang] Mr_Zhang
+下一个目标
+
+[12:13:20]
+[KiloMx] KiloMxmxxx
+而且你不用装版本兼容插件了
+
+[12:13:34]
+[zhang] Mr_Zhang
+下一个目标：
+编写长期房主功能
+
+[12:13:34]
+[zhang] Mr_Zhang
+我先走了
+
+[12:13:39]
+[44FF00] eebot
+ ·
+msmset0的博客
+https://www.cnblogs.com/MemsetZero/
+
+[12:13:47]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@Mr_Zhang ？？？
+
+[12:14:31]
+[44FF00] eebot
+ hi yo Krypton
+
+[12:14:31]
+[QiuLingYan] HiyoTeam_QiuLingYan
+完了
+
+[12:15:03]
+[QiuLingYan] HiyoTeam_QiuLingYan
+加入
+
+[12:17:27]
+[KiloMx] KiloMxmxxx
+@_
+
+[12:17:32]
+[DPGawa] _
+ugh
+
+[12:17:35]
+[DPGawa] _
+As everyone already noticed, TuSKe it's no longer supported.
+
+[12:17:35]
+[KiloMx] KiloMxmxxx
+给我op
+
+[12:17:46]
+[KiloMx] KiloMxmxxx
+TuSKe是啥
+
+[12:17:51]
+[KiloMx] KiloMxmxxx
+aw
+
+[12:18:06]
+[44FF00] eebot
+  /kick @eebot 
+
+[12:18:07]
+[KiloMx] KiloMxmxxx
+azmmm
+
+[12:22:11]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[12:22:11]
+[zzzzzz] CX_zzzChumo
+dpg酱我手机真的带不动1.18.1啊啊啊啊啊
+
+[12:22:36]
+[zzzzzz] CX_zzzChumo
+球球了
+
+[12:23:04]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[12:23:04]
+[DPGawa] _
+?
+
+[12:23:07]
+[DPGawa] _
+saaaaay
+
+[12:23:11]
+[DPGawa] _
+you can use from 1.12 to 1.19
+
+[12:23:25]
+[love13] ee
+hi yo
+
+[12:23:42]
+[zzzzzz] CX_zzzChumo
+它提示我的客户端过时了
+
+[12:23:42]
+[44FF00] eebot
+ 网友 ee好哦
+
+[12:23:42]
+[zzzzzz] CX_zzzChumo
+![Screenshot_20220709-114226_Minecraft.png](https://img1.imgtp.com/2022/07/09/Z9noleMd.png)
+
+[12:23:45]
+[zhang] Zhang
+Hi
+
+[12:23:49]
+[zzzzzz] CX_zzzChumo
+hi
+
+[12:24:01]
+[zzzzzz] CX_zzzChumo
+@_ 
+
+[12:24:08]
+[zhang] Zhang
+我似乎发现了BUG
+
+[12:25:28]
+[zhang] Zhang
+禁言以后依然可以用emote
+
+[12:25:47]
+[zzzzzz] CX_zzzChumo
+plz help me,dpg-chan
+
+[12:25:50]
+[zhang] Zhang
+https://reccloud.cn/u/cp6kmsq
+
+[12:27:02]
+[44FF00] eebot
+@Zhang 在线轻松录制、云端即刻存储、一键分享视频并体验和他人协同管理视频的乐趣
+https://reccloud.cn/u/cp6kmsq
+
+[12:27:02]
+[zhang] Zhang
+看这个
+
+[12:27:09]
+[zhang] Zhang
+瑞克摇摆
+
+[12:27:17]
+[zzzzzz] CX_zzzChumo
+@_ 是不是我地址输错了...
+
+[12:27:33]
+[zzzzzz] CX_zzzChumo
+mc
+
+[12:27:37]
+[zzzzzz] CX_zzzChumo
+@eebot mc
+
+[12:27:44]
+[44FF00] eebot
+ 20003.s.imc.re JAVA 1.19
+
+[12:27:44]
+[zzzzzz] CX_zzzChumo
+我寻思着也没错啊
+
+[12:27:53]
+[zzzzzz] CX_zzzChumo
+离谱
+
+[12:27:56]
+[edDiBU] 4n0n4me
+@_ 基岩版也能用跨版本？
+
+[12:28:18]
+[edDiBU] 4n0n4me
+是不是基岩版只能用特定的版本
+
+[12:28:27]
+[edDiBU] 4n0n4me
+（这个服务器多少端口啊
+
+[12:28:45]
+[zhang] Zhang
+那次上音乐课
+
+[12:28:57]
+[zhang] Zhang
+有同学偷偷的放了一首歌
+
+[12:29:13]
+[zhang] Zhang
+诈骗了全班同学
+
+[12:29:27]
+[zhang] Zhang
+“欺骗”了我们的感情
+
+[12:29:59]
+[zzzzzz] CX_zzzChumo
+@4n0n4me 上面提示只能用1.18.1-1.18.30
+
+[12:30:14]
+[zhang] Zhang
+我也来诈骗一下
+
+[12:30:15]
+[zhang] Zhang
+哈哈哈
+
+[12:30:17]
+[44FF00] eebot
+ 哈哈哈嗝-
+
+[12:30:17]
+[zhang] Zhang
+https://reccloud.cn/u/cp6kmsq
+
+[12:30:26]
+[44FF00] eebot
+@Zhang 在线轻松录制、云端即刻存储、一键分享视频并体验和他人协同管理视频的乐趣
+https://reccloud.cn/u/cp6kmsq
+
+[12:31:35]
+[pvzjspvz] 十字街的魔法
+?75tz2vv8
+
+[12:31:35]
+[zzzzzz] CX_zzzChumo
+>zhang Zhang：
+>https://reccloud.cn/u/cp6kmsq
+
+@Zhang 我要举报这个视频涉嫌诈骗（
+
+[12:32:21]
+[44FF00] eebot
+@CX_zzzChumo 在线轻松录制、云端即刻存储、一键分享视频并体验和他人协同管理视频的乐趣
+https://reccloud.cn/u/cp6kmsq
+
+[12:32:21]
+[zhang] Zhang
+哈哈哈哈哈哈哈
+
+[12:32:39]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈嗝-
+
+[12:32:39]
+[DPGawa] _
+?
+
+[12:35:07]
+[DPGawa] _
+grrr
+
+[12:35:29]
+[DPGawa] _
+seems close to success
+
+[12:35:35]
+[zzzzzz] CX_zzzChumo
+im downloading minecraft 1.18.10
+
+[12:37:04]
+[zzzzzz] CX_zzzChumo
+but my device may be 爆炸ing
+
+[12:37:33]
+[zhang] Zhang
+rickroll
+
+[12:37:36]
+[zhang] Zhang
+功能
+
+[12:37:41]
+[zzzzzz] CX_zzzChumo
+功能
+
+[12:37:51]
+[zhang] Zhang
+自定义
+
+[12:37:57]
+[DPGawa] _
+[04:36:40 INFO]: [ViaVersion] Loading ViaVersion v4.3.1
+[04:36:40 INFO]: [ViaVersion] ViaVersion 4.3.1 is now loaded, injecting!
+[04:36:42 INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[04:36:42 INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[04:36:43 INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[04:36:43 INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[04:36:44 INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[04:36:45 INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[04:36:45 INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[04:36:46 INFO]: [ViaVersion] Loading 1.17 -> 1.18 mappings...
+[04:36:47 INFO]: [ViaVersion] Loading 1.18 -> 1.19 mappings...
+
+[12:38:12]
+[DPGawa] _
+?
+
+[12:38:26]
+[zhang] Zhang
+@eebot 踹ZhangHelper一脚
+
+[12:38:29]
+[44FF00] eebot
+ eb会把Zhang发上eb的前任是个极品的微博然后艾特Zhang
+
+[12:38:29]
+[DPGawa] _
+?
+
+[12:38:32]
+[zhang] Zhang
+？
+
+[12:39:56]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[12:39:56]
+[zzzzzz] CX_zzzChumo
+im going to install minecraft 1.18.10
+
+[12:40:23]
+[DPGawa] _
+i see
+
+[12:40:35]
+[DPGawa] _
+[04:39:56 WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version!
+
+[12:40:36]
+[zzzzzz] CX_zzzChumo
+because i 仍然 cant connect to the server
+
+[12:40:56]
+[DPGawa] _
+obo
+
+[12:42:47]
+[pvzjspvz] 十字街的魔法
+哈哈哈哈哈哈
+
+[12:42:49]
+[44FF00] eebot
+ 哈哈哈哈哈哈嗝-
+
+[12:43:06]
+[love13] ee
+啊
+
+[12:50:06]
+[44FF00] eebot
+ 啊草
+
+[12:50:07]
+[KiloMx] KiloMxmxxx
+@_ 
+
+[12:51:44]
+[KiloMx] KiloMxmxxx
+在吗
+
+[12:51:51]
+[Vi23PM] 反空中网和总统特工小队82345号
+有人吗
+
+[12:57:37]
+[KiloMx] KiloMxmxxx
+又
+
+[12:57:45]
+[Vi23PM] 反空中网和总统特工小队82345号
+有人吗有人吗有人吗有人嘛？
+
+[12:57:48]
+[KiloMx] KiloMxmxxx
+我还没吃
+
+[12:57:49]
+[Vi23PM] 反空中网和总统特工小队82345号
+我刚已经干了4个小时苦力
+
+[12:58:05]
+[love13] ee
+wow
+
+[13:00:37]
+[44FF00] eebot
+ UxU
+
+[13:00:37]
+[JVcLW8] fcjz
+有人
+
+[13:01:49]
+[JVcLW8] fcjz
+加油吧
+
+[13:01:50]
+[JVcLW8] fcjz
+继续干
+
+[13:01:53]
+[DPGawa] _
+?
+
+[13:03:14]
+[DPGawa] _
+?
+
+[13:03:23]
+[kCpSpH] 是大朙少年呀
+@反空中网和总统特工小队82345号 你这个昵称到底怎么断句啊
+
+[13:04:39]
+[44FF00] eebot
+ hi yo Agent007
+
+[13:04:39]
+[hmmmmm] Agent007
+ee
+
+[13:04:47]
+[hmmmmm] Agent007
+能告诉我昨天我走后发生了什么吗
+
+[13:05:03]
+[hmmmmm] Agent007
+r u afking?
+
+[13:10:34]
+[44FF00] eebot
+ [2022.07.09 13:10:33]
+
+[13:10:34]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[13:10:34]
+[44FF00] eebot
+ {}
+
+[13:10:34]
+[44FF00] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[13:10:35]
+[KiloMx] KiloMxmxxx
+@_ !!!
+
+[13:10:41]
+[KiloMx] KiloMxmxxx
+人呢
+
+[13:10:43]
+[hmmmmm] Agent007
+eebot?
+
+[13:11:13]
+[44FF00] eebot
+ [2022.07.09 13:11:12]
+
+[13:11:13]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[13:11:13]
+[44FF00] eebot
+ {}
+
+[13:11:13]
+[hmmmmm] Agent007
+a
+
+[13:11:21]
+[hmmmmm] Agent007
+功能
+
+[13:11:31]
+[hmmmmm] Agent007
+2room
+
+[13:11:36]
+[love13] ee
+@Agent007 昨天你走后没发生什么
+
+[13:11:46]
+[hmmmmm] Agent007
+ohhh
+
+[13:11:51]
+[kCpSpH] 是大朙少年呀
+哪个总统是假的？
+
+[13:12:28]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[13:12:28]
+[44FF00] eebot
+ 终极恶女 a632079
+「他能给的，你付不起！」
+
+[13:12:29]
+[JVcLW8] fcjz
+大水比
+
+[13:12:41]
+[love13] 反空中网和总统特工小队1号
+这个嘛 不要在意太多
+
+[13:12:45]
+[JVcLW8] fcjz
+你来辣
+
+[13:12:45]
+[love13] 反空中网和总统特工小队1号
+哈哈哈哈哈
+
+[13:12:48]
+[DPGawa] _
+awa
+
+[13:12:48]
+[44FF00] eebot
+ 哈哈哈哈哈嗝-
+
+[13:12:48]
+[44FF00] eebot
+ uvu
+
+[13:12:48]
+[JVcLW8] fcjz
+我是fcjzbot
+
+[13:12:56]
+[kCpSpH] 是大朙少年呀
+……
+
+[13:12:58]
+[44FF00] eebot
+ ·
+flaugh的个人博客
+https://xsdboke.mysxl.cn/
+
+[13:13:13]
+[love13] 反空中网和总统特工小队1号
+我是eebot（不是
+
+[13:13:56]
+[44FF00] eebot
+ hey yo fake_eebot
+
+[13:14:08]
+[love13] 反空中网和总统特工小队1号
+咳咳
+
+[13:14:08]
+[44FF00] eebot
+ hey yo Maggie
+
+[13:14:08]
+[44FF00] eebot
+ 咳咳咳
+
+[13:14:08]
+[JVcLW8] fcjz
+咳咳
+
+[13:14:11]
+[44FF00] eebot
+ 咳咳（
+
+[13:14:11]
+[JVcLW8] fcjz
+咳咳咳咳咳额咳咳咳咳咳
+
+[13:14:16]
+[hmmmmm] Maggie
+sts
+
+[13:14:19]
+[love13] 反空中网和总统特工小队1号
+请认准#44FF00牌eebot
+
+[13:14:21]
+[love13] 反空中网和总统特工小队1号
+sts
+
+[13:14:25]
+[hmmmmm] Maggie
+sts
+
+[13:14:27]
+[hmmmmm] Maggie
+???
+
+[13:14:30]
+[JVcLW8] fcjz
+sts
+
+[13:14:37]
+[love13] 反空中网和总统特工小队1号
+sts
+
+[13:14:43]
+[Vi23PM] 反空中网和总统特工小队82345号
+//
+
+[13:14:51]
+[love13] 反空中网和总统特工小队1号
+前十也太稳了吧
+
+[13:15:16]
+[hmmmmm] Maggie
+我竟然占1.69%
+
+[13:15:16]
+[Vi23PM] 反空中网和总统特工小队82345号
+sts
+
+[13:15:30]
+[hmmmmm] Maggie
+功能
+
+[13:15:42]
+[love13] 反空中网和总统特工小队1号
+排名后的可能是用太多昵称了（
+
+[13:15:53]
+[JVcLW8] fcjz
+ee，我发现了一个博客平台
+
+[13:15:57]
+[love13] 反空中网和总统特工小队1号
+哦吼？
+
+[13:16:04]
+[hmmmmm] Maggie
+re
+
+[13:16:06]
+[JVcLW8] fcjz
+https://hashnode.com
+
+[13:16:18]
+[Vi23PM] 反空中网和总统特工小队82345号
+8.Light: 1167（3.26%）
+13.Light_ser: 658（1.84%）
+26.Light_Ubuntu: 258（0.72%）
+
+[13:16:18]
+[Vi23PM] 反空中网和总统特工小队82345号
+wtf
+
+[13:16:18]
+[JVcLW8] fcjz
+非常快速
+
+[13:16:18]
+[44FF00] eebot
+@fcjz Hashnode - Blogging community for developers, and people in tech
+https://hashnode.com
+
+[13:16:18]
+[JVcLW8] fcjz
+几分钟建好博客
+
+[13:16:25]
+[DPGawa] _
+@eebot mc
+
+[13:16:35]
+[44FF00] eebot
+ 20003.s.imc.re JAVA 1.19
+
+[13:16:35]
+[love13] 反空中网和总统特工小队1号
+wow！
+
+[13:16:36]
+[DPGawa] _
+@反空中网和总统特工小队1号 finished
+
+[13:16:42]
+[hmmmmm] Maggie
+hashnode?
+
+[13:16:44]
+[Vi23PM] 反空中网和总统特工小队82345号
+3._: 3270（9.15%）
+
+[13:16:45]
+[DPGawa] _
+it's 1.19 now
+
+[13:16:45]
+[JVcLW8] fcjz
+允许域名映射和博客迁移
+
+[13:16:46]
+[DPGawa] _
+sts
+
+[13:16:49]
+[JVcLW8] fcjz
+ 免费
+
+[13:16:52]
+[DPGawa] _
+indeed
+
+[13:16:53]
+[hmmmmm] Maggie
+话说 hiyodata主页怎么弄呢
+
+[13:16:55]
+[Vi23PM] 反空中网和总统特工小队82345号
+_说好多话
+
+[13:17:06]
+[love13] 反空中网和总统特工小队1号
+@fcjz 你要试试用这个搭吗
+
+[13:17:08]
+[JVcLW8] fcjz
+@反空中网和总统特工小队1号 我已经搭好了
+
+[13:17:13]
+[love13] 反空中网和总统特工小队1号
+hiyodata？
+
+[13:17:14]
+[love13] 反空中网和总统特工小队1号
+wowow
+
+[13:17:16]
+[hmmmmm] Maggie
+hiyoteam + dataeverything
+
+[13:17:26]
+[JVcLW8] fcjz
+我要是不先试试毒
+
+[13:17:40]
+[love13] 反空中网和总统特工小队1号
+哈哈哈哈哈 不错不错
+
+[13:17:45]
+[JVcLW8] fcjz
+怎么告诉你它能用
+
+[13:18:00]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[13:18:00]
+[Vi23PM] 反空中网和总统特工小队82345号
+hi
+
+[13:18:02]
+[love13] 反空中网和总统特工小队1号
+>hmmmmm Maggie：
+>hiyoteam + dataeverything
+
+@Maggie 你可以按自己的想法来
+
+[13:18:04]
+[love13] 反空中网和总统特工小队1号
+我这边hashnode还在转圈圈
+
+[13:18:21]
+[zzzzzz] CX_zzzChumo
+@_ 在吗
+
+[13:18:24]
+[hmmmmm] Maggie
+我会写页面
+
+[13:18:31]
+[Vi23PM] 反空中网和总统特工小队82345号
+Home for tech writers and readers
+
+[13:18:37]
+[hmmmmm] Maggie
+但是我不会写文本
+
+[13:18:41]
+[zzzzzz] CX_zzzChumo
+为什么我不能使用1.14客户端登录
+
+[13:18:42]
+[Vi23PM] 反空中网和总统特工小队82345号
+我想起一个广告:在暗网快速搭建blog
+
+[13:18:59]
+[44FF00] eebot
+ 粉
+
+[13:18:59]
+[zzzzzz] CX_zzzChumo
+我的帧数最高只有10帧
+
+[13:19:00]
+[hmmmmm] Maggie
+@CX_zzzChumo 要用1.14.5.14版本
+
+[13:19:03]
+[Vi23PM] 反空中网和总统特工小队82345号
+。。。
+
+[13:19:04]
+[Vi23PM] 反空中网和总统特工小队82345号
+不要玩mc了呀！！！
+
+[13:19:13]
+[zzzzzz] CX_zzzChumo
+我使用了1.18.10
+
+[13:19:18]
+[edDiBU] 4n0n4me
+@反空中网和总统特工小队82345号 咋了
+
+[13:19:22]
+[zzzzzz] CX_zzzChumo
+我的帧数只有10帧
+
+[13:19:30]
+[zzzzzz] CX_zzzChumo
+根本玩不了
+
+[13:19:46]
+[44FF00] eebot
+ hello yo 反空中网和总统特工小队114514号
+
+[13:19:46]
+[Vi23PM] 反空中网和总统特工小队82345号
+~~我担心你们的学习事实上，肯定不是因为聊天室里没有人~~
+
+[13:20:05]
+[Vi23PM] 反空中网和总统特工小队82345号
+反天王特工小组
+
+[13:20:42]
+[zzzzzz] CX_zzzChumo
+谁有云手机账号
+
+[13:21:18]
+[zzzzzz] CX_zzzChumo
+借我
+
+[13:21:22]
+[hmmmmm] 反空中网和总统特工小队114514号
+我
+
+[13:21:29]
+[hmmmmm] 反空中网和总统特工小队114514号
+没有
+
+[13:21:32]
+[zzzzzz] CX_zzzChumo
+别开玩笑啊喂
+
+[13:21:52]
+[zzzzzz] CX_zzzChumo
+我要和我npy打mc
+
+[13:22:03]
+[DPGawa] _
+?
+
+[13:23:03]
+[zzzzzz] CX_zzzChumo
+@_ 能用1.14.1进吗
+
+[13:23:12]
+[zzzzzz] CX_zzzChumo
+1.18.10卡死了
+
+[13:23:21]
+[hmmmmm] 反空中网和总统特工小队114514号
+ee你的客户端弄好了吗
+
+[13:23:37]
+[edDiBU] 4n0n4me
+谁是初墨的npy
+
+[13:24:28]
+[hmmmmm] 反空中网和总统特工小队114514号
+chumo_chan(bushi
+
+[13:25:10]
+[44FF00] eebot
+ hi yo Maggie_chan
+
+[13:25:10]
+[imgirl] Maggie_chan
+h-hi,i am Maggie-chan~
+
+[13:25:15]
+[hmmmmm] 反空中网和总统特工小队114514号
+@eebot ?bot
+
+[13:27:16]
+[44FF00] eebot
+ 不知道反空中网和总统特工小队114514号发这样的信息是干嘛的
+
+[13:27:16]
+[JVcLW8] fcjz
+@eebot
+
+[13:27:30]
+[44FF00] eebot
+ 欢迎来XChat聊天
+
+[13:27:30]
+[JVcLW8] fcjz
+@eebot 你好
+
+[13:27:38]
+[44FF00] eebot
+ 欢迎来到?xq102210
+
+[13:27:38]
+[Vi23PM] 反空中网和总统特工小队82345号
+？？？
+
+[13:27:41]
+[Vi23PM] 反空中网和总统特工小队82345号
+我朋友说手机上不来怎么回事
+
+[13:28:43]
+[zzzzzz] CX_zzzChumo
+我在装移动云手机
+
+[13:28:43]
+[44FF00] eebot
+ hello yo 是大朙少年呀
+
+[13:28:43]
+[zzzzzz] CX_zzzChumo
+到时候装好了用Shamiko隐藏一下root权限
+
+[13:29:13]
+[44FF00] eebot
+ hello yo KiloMxmxxx
+
+[13:29:13]
+[KiloMx] KiloMxmxxx
+好卡啊
+
+[13:30:04]
+[44FF00] eebot
+ hello yo Krypton
+
+[13:30:21]
+[None] Krypton
+readme
+
+[13:33:19]
+[DPGawa] _
+?
+
+[13:33:19]
+[DPGawa] _
+BE need
+
+[13:33:26]
+[DPGawa] _
+play.imc.re:19132
+
+[13:33:33]
+[DPGawa] _
+then choose SH20003
+
+[13:33:55]
+[edDiBU] 4n0n4me
+哦哦
+
+[13:34:39]
+[44FF00] eebot
+ 哦哦草
+
+[13:34:39]
+[edDiBU] 4n0n4me
+对对对我想起来了
+
+[13:34:42]
+[edDiBU] 4n0n4me
+他说基岩版要先进大厅
+
+[13:34:51]
+[pvzjspvz] 十字街的魔法
+?75tz2vv8
+
+[13:37:52]
+[pvzjspvz] 十字街的魔法
+python
+
+[13:38:01]
+[44FF00] eebot
+ 他说基岩版要先进大厅
+
+[13:38:03]
+[44FF00] eebot
+ hello yo Krypton
+
+[13:38:08]
+[pvzjspvz] 十字街的魔法
+xq102210是公频也是人最多的地方，这里的人和bot都很热情。
+
+[13:39:06]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[13:40:35]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[13:40:35]
+[zhang] 小张
+奇奇怪怪的用户又多了
+
+[13:41:19]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[13:41:19]
+[zhang] 小张
+如此网卡
+
+[13:50:57]
+[JVcLW8] fcjz
+？？？
+
+[13:57:40]
+[JVcLW8] fcjz
+是网络问题吗
+
+[13:57:45]
+[JVcLW8] fcjz
+我建的这个hashnode博客站博客写好了为什么这么久还在发布中
+
+[13:58:13]
+[JVcLW8] fcjz
+我看他建站建的挺快啊
+
+[13:58:24]
+[JVcLW8] fcjz
+不应该啊
+
+[13:58:29]
+[JVcLW8] fcjz
+完了
+
+[13:59:38]
+[JVcLW8] fcjz
+ee会不会遇到这个情况
+
+[13:59:46]
+[DPGawa] _
+?
+
+[14:00:41]
+[JVcLW8] fcjz
+下回推荐之前应该把一切都弄好了再说。。。
+
+[14:02:17]
+[JVcLW8] fcjz
+@ee ee，你先别搭这个博客吧，我看他有点问题
+
+[14:04:43]
+[DPGawa] _
+?
+
+[14:04:58]
+[love13] 反空中网和总统特工小队1号
+好的好的
+
+[14:05:10]
+[love13] 反空中网和总统特工小队1号
+我还以为是网络问题
+
+[14:05:16]
+[DPGawa] _
+-.-
+
+[14:05:21]
+[44FF00] eebot
+ U_U
+
+[14:05:21]
+[pvzjspvz] 十字街的魔法
+https://xq.kzw.ink/?75tz2vv8
+
+[14:05:24]
+[44FF00] eebot
+@十字街的魔法 XChat
+https://xq.kzw.ink/?75tz2vv8
+
+[14:05:24]
+[love13] 反空中网和总统特工小队1号
+到现在主页还没加载好（
+
+[14:05:25]
+[love13] 反空中网和总统特工小队1号
+好家伙
+
+[14:05:31]
+[JVcLW8] fcjz
+有可能
+
+[14:05:32]
+[JVcLW8] fcjz
+但是
+
+[14:05:33]
+[JVcLW8] fcjz
+我也认为是网络问题
+
+[14:05:43]
+[JVcLW8] fcjz
+但是我们毕竟不能天天科学上网
+
+[14:05:53]
+[love13] 反空中网和总统特工小队1号
+是啊
+
+[14:05:57]
+[JVcLW8] fcjz
+抱歉哈
+
+[14:06:03]
+[JVcLW8] fcjz
+浪费你时间了
+
+[14:06:08]
+[love13] 反空中网和总统特工小队1号
+没关系 你也一直在试
+
+[14:06:22]
+[JVcLW8] fcjz
+下回我推荐之前先全部试好再说
+
+[14:06:30]
+[love13] 反空中网和总统特工小队1号
+芜湖 好啊
+
+[14:06:39]
+[love13] 反空中网和总统特工小队1号
+辛苦了
+
+[14:06:45]
+[JVcLW8] fcjz
+啊不用这样
+
+[14:06:51]
+[JVcLW8] fcjz
+我就是爱好这个而已
+
+[14:07:01]
+[JVcLW8] fcjz
+就，我看他建站挺快的，就没想它发文章这么慢
+
+[14:08:01]
+[JVcLW8] fcjz
+我狗带了先
+
+[14:10:47]
+[44FF00] eebot
+ hello yo 中国加油
+
+[14:10:47]
+[pvzjspvz] 十字街的魔法
+你是pvz20吧
+
+[14:11:14]
+[None] 中国加油
+嗯
+
+[14:11:20]
+[44FF00] eebot
+  ?75tz2vv8 个人聊天室 本人长期在线
+
+[14:11:20]
+[Vi23PM] 反空中网和总统特工小队82345号
+。。。。。。。。。。。。。。
+
+[14:11:26]
+[Vi23PM] 反空中网和总统特工小队82345号
+。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+
+[14:11:36]
+[None] 中国加油
+哪是谁发的
+
+[14:12:13]
+[44FF00] eebot
+ hey yo fcjz
+
+[14:12:13]
+[JVcLW8] fcjz
+我回来了
+
+[14:12:18]
+[JVcLW8] fcjz
+聊天室泡久了
+
+[14:12:26]
+[JVcLW8] fcjz
+没有这个
+
+[14:12:36]
+[JVcLW8] fcjz
+好像不大习惯
+
+[14:12:40]
+[44FF00] eebot
+ ·
+星空之旅
+http://lonelystar.org/
+
+[14:13:13]
+[None] 中国加油
+e
+
+[14:13:21]
+[44FF00] eebot
+ 不说话便是最好的回答
+
+[14:13:21]
+[None] 中国加油
+嗯
+
+[14:13:25]
+[JVcLW8] fcjz
+中国加油
+
+[14:13:41]
+[JVcLW8] fcjz
+是谁啊
+
+[14:13:43]
+[JVcLW8] fcjz
+ee？
+
+[14:13:57]
+[pvzjspvz] B站的J
+pvz20
+
+[14:14:31]
+[JVcLW8] fcjz
+呃
+
+[14:14:37]
+[pvzjspvz] B站的J
+jspvz的B站的J就是我
+
+[14:14:46]
+[JVcLW8] fcjz
+b站的j
+
+[14:15:09]
+[JVcLW8] fcjz
+所以你叫j？
+
+[14:15:23]
+[None] 中国加油
+鸡
+
+[14:15:28]
+[None] 中国加油
+嘎嘎游戏
+
+[14:15:35]
+[pvzjspvz] B站的J
+我是“B站的J”不是B站的J
+
+[14:15:41]
+[JVcLW8] fcjz
+呃
+
+[14:15:50]
+[JVcLW8] fcjz
+好的，b站的，j
+
+[14:15:58]
+[None] 中国加油
+jj复jj
+
+[14:16:13]
+[pvzjspvz] B站的J
+是B站的B站的J不是B站的J
+
+[14:16:29]
+[pvzjspvz] B站的J
+能不能听懂
+
+[14:16:32]
+[JVcLW8] fcjz
+哦
+
+[14:16:40]
+[44FF00] eebot
+ 哦草
+
+[14:16:40]
+[pvzjspvz] B站的J
+https://space.bilibili.com/1438001967
+
+[14:16:43]
+[44FF00] eebot
+@B站的J B站的J的个人空间_哔哩哔哩_Bilibili
+https://space.bilibili.com/1438001967
+
+[14:16:43]
+[JVcLW8] fcjz
+b站的b站的j，你好
+
+[14:16:50]
+[pvzjspvz] B站的J
+。
+
+[14:16:53]
+[JVcLW8] fcjz
+你看我说的对吗
+
+[14:17:14]
+[pvzjspvz] B站的J
+。
+
+[14:17:18]
+[JVcLW8] fcjz
+eebot说得对
+
+[14:17:39]
+[44FF00] eebot
+ eebot说的不管是什么 都是对的 哈哈（
+
+[14:17:39]
+[None] 中国加油
+哈哈
+
+[14:17:50]
+[44FF00] eebot
+ 哈哈嗝-
+
+[14:17:50]
+[JVcLW8] fcjz
+可是你是怎么在b站的j旁边盯着b站的j的
+
+[14:18:02]
+[None] 中国加油
+也就是说eebot在大连
+
+[14:18:32]
+[None] 中国加油
+我爱中国
+
+[14:25:26]
+[44FF00] eebot
+ hey yo asdfg
+
+[14:25:26]
+[OV7otO] asdfg
+?
+
+[14:25:54]
+[kCpSpH] 是大朙少年呀
+ohh
+
+[14:26:47]
+[Vi23PM] 反空中网和总统特工小队82345号
+??/
+
+[14:27:00]
+[OV7otO] asdfg
+?
+
+[14:27:12]
+[JVcLW8] fcjz
+？？？
+
+[14:27:34]
+[Vi23PM] 反空中网和总统特工小队82345号
+.
+
+[14:28:26]
+[love13] 反空中网和总统特工小队1号
+好家伙
+
+[14:28:27]
+[OV7otO] asdfg
+？
+
+[14:28:45]
+[love13] 反空中网和总统特工小队1号
+好多上海人
+
+[14:28:48]
+[JVcLW8] fcjz
+咋了
+
+[14:28:48]
+[JVcLW8] fcjz
+确实啊
+
+[14:28:52]
+[OV7otO] asdfg
+awa...
+
+[14:28:54]
+[JVcLW8] fcjz
+上海的好多
+
+[14:28:58]
+[kCpSpH] 是大朙少年呀
+浦东的特别多
+
+[14:29:10]
+[Vi23PM] 反空中网和总统特工小队82345号
+hi
+
+[14:30:04]
+[OV7otO] asdfg
+awaawaawa?
+
+[14:30:22]
+[Vi23PM] 反空中网和总统特工小队82345号
+```text
+
+>>> sniff(filter="tcp and host 39.105.127.10",prn=lambda x:x.summary())
+Ether / IP / TCP 10.0.16.8:52125 > 39.105.127.10:https PA / Raw
+Ether / IP / TCP 39.105.127.10:https > 10.0.16.8:52125 A / Padding
+Ether / IP / TCP 39.105.127.10:https > 10.0.16.8:52125 PA / Raw
+Ether / IP / TCP 10.0.16.8:52125 > 39.105.127.10:https A
+Ether / IP / TCP 39.105.127.10:https > 10.0.16.8:52125 PA / Raw
+Ether / IP / TCP 10.0.16.8:52125 > 39.105.127.10:https PA / Raw
+Ether / IP / TCP 39.105.127.10:https > 10.0.16.8:52125 A / Padding
+Ether / IP / TCP 39.105.127.10:https > 10.0.16.8:52125 PA / Raw
+Ether / IP / TCP 10.0.16.8:52125 > 39.105.127.10:https A
+Ether / IP / TCP 39.105.127.10:https > 10.0.16.8:52125 PA / Raw
+Ether / IP / TCP 10.0.16.8:52125 > 39.105.127.10:https PA / Raw
+Ether / IP / TCP 39.105.127.10:https > 10.0.16.8:52125 A / Padding
+
+[14:30:39]
+[OV7otO] asdfg
+???
+
+[14:30:49]
+[Vi23PM] 反空中网和总统特工小队82345号
+hi
+
+[14:31:04]
+[Vi23PM] 反空中网和总统特工小队82345号
+hi
+
+[14:31:55]
+[Vi23PM] 反空中网和总统特工小队82345号
+?
+
+[14:32:03]
+[OV7otO] asdfg
+hi
+
+[14:33:06]
+[kCpSpH] 是大朙少年呀
+hi
+
+[14:33:14]
+[JVcLW8] fcjz
+hi
+
+[14:34:18]
+[OV7otO] asdfg
+...
+
+[14:34:46]
+[kCpSpH] 是大朙少年呀
+这种绿色的字是怎么弄出来的
+
+[14:36:39]
+[44FF00] eebot
+ hi yo 13
+
+[14:36:39]
+[edDiBU] 4n0n4me
+输入 /me 内容
+
+[14:38:53]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[14:38:53]
+[OV7otO] asdfg
+awa?
+
+[14:39:22]
+[zhang] Mr_Zhang
+@asdfg 这位是？
+
+[14:39:33]
+[OV7otO] asdfg
+?
+
+[14:39:44]
+[OV7otO] asdfg
+。。。
+
+[14:39:54]
+[OV7otO] asdfg
+自己猜吧~
+
+[14:40:00]
+[zhang] Mr_Zhang
+O5_6？
+
+[14:40:11]
+[OV7otO] asdfg
+？
+
+[14:40:19]
+[OV7otO] asdfg
+他是谁
+
+[14:40:25]
+[zhang] Mr_Zhang
+。。。
+
+[14:40:34]
+[OV7otO] asdfg
+。。。
+
+[14:40:43]
+[zhang] Mr_Zhang
+我猜不到
+
+[14:40:46]
+[OV7otO] asdfg
+嗯
+
+[14:40:49]
+[OV7otO] asdfg
+你猜对了
+
+[14:40:53]
+[OV7otO] asdfg
+hhhhh
+
+[14:40:59]
+[zhang] Mr_Zhang
+So
+
+[14:41:17]
+[OV7otO] asdfg
+？？？
+
+[14:41:42]
+[OV7otO] asdfg
+玩游戏吗
+
+[14:41:51]
+[OV7otO] asdfg
+https://nazo.one-story.cn/
+
+[14:42:09]
+[zhang] Mr_Zhang
+我有正事要干
+
+[14:42:17]
+[zhang] Mr_Zhang
+所以失陪了
+
+[14:42:29]
+[OV7otO] asdfg
+O.O
+
+[14:42:30]
+[44FF00] eebot
+ -︵-
+
+[14:42:30]
+[zhang] Mr_Zhang
+！
+
+[14:43:51]
+[zhang] Mr_Zhang
+完蛋
+
+[14:44:01]
+[OV7otO] asdfg
+?
+
+[14:44:11]
+[zhang] Mr_Zhang
+看看这个
+
+[14:44:12]
+[zhang] Mr_Zhang
+# ip command:
+| | |
+|---:|---|
+|**Name:**|ip|
+|**Aliases:**|None|
+|**Category:**|Core|
+|**Required Parameters:**|nick|
+|**Description:**|查询IP地址，非管理员只能查自己的|
+
+**Usage:** 
+    API: { cmd: 'ban', nick: '<目标用户的昵称，如果查自己的，可以为空>' }
+    文本：/ip 目标用户的昵称，如果查自己的，可以为空
+
+[14:44:20]
+[zhang] Mr_Zhang
+看出有什么错误了吗？
+
+[14:44:31]
+[love13] 反空中网和总统特工小队1号
+API: { cmd: 'ban’, nick: '<目标用户的昵称，如果查自己的，可以为空>' }
+
+[14:44:48]
+[zhang] Mr_Zhang
+疏忽了啊
+
+[14:44:48]
+[love13] 反空中网和总统特工小队1号
+哈哈哈哈哈哈哈哈哈ban
+
+[14:44:56]
+[zhang] Mr_Zhang
+这要是管理员按照这个API查别人的IP……
+
+[14:45:16]
+[love13] 反空中网和总统特工小队1号
+~~可以的 现在我要查小张的ip~~
+
+[14:45:23]
+[JVcLW8] fcjz
+哈哈哈哈哈哈哈哈
+
+[14:45:25]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[14:45:25]
+[love13] 反空中网和总统特工小队1号
+哈哈哈哈哈哈哈哈
+
+[14:45:27]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[14:45:27]
+[zhang] Mr_Zhang
+哈哈哈
+
+[14:45:28]
+[44FF00] eebot
+ 哈哈哈草
+
+[14:45:28]
+[JVcLW8] fcjz
+我也要查小张的IP
+
+[14:45:32]
+[love13] 反空中网和总统特工小队1号
+哈哈哈哈哈哈哈哈
+
+[14:45:37]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈
+
+[14:45:37]
+[zhang] Mr_Zhang
+@fcjz 非管理员用户只能查自己的
+
+[14:45:51]
+[JVcLW8] fcjz
+阿这
+
+[14:45:57]
+[JVcLW8] fcjz
+查完了
+
+[14:46:00]
+[JVcLW8] fcjz
+自己的
+
+[14:46:02]
+[zhang] Mr_Zhang
+fcjz 的IP地址为：183.197.177.***
+
+[14:46:12]
+[JVcLW8] fcjz
+哈哈哈哈哈哈
+
+[14:46:20]
+[44FF00] eebot
+ 哈哈哈哈哈哈草
+
+[14:46:20]
+[zhang] Mr_Zhang
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[14:46:46]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈草
+
+[14:46:46]
+[zhang] Mr_Zhang
+我去改
+
+[14:46:50]
+[zhang] Mr_Zhang
+先走一步
+
+[14:47:03]
+[JVcLW8] fcjz
+话说，你们来到这个聊天室都多久了？
+
+[14:47:56]
+[love13] 反空中网和总统特工小队1号
+4个月左右吧
+
+[14:48:38]
+[love13] 反空中网和总统特工小队1号
+我是第一个来这里的用户（
+
+[14:48:51]
+[JVcLW8] fcjz
+阿这
+
+[14:48:52]
+[JVcLW8] fcjz
+我以为起码一年。。。
+
+[14:49:05]
+[edDiBU] 4n0n4me
+这个聊天室没有诞生这么长
+
+[14:49:19]
+[love13] 反空中网和总统特工小队1号
+>love13 反空中网和总统特工小队1号：
+>4个月左右吧
+
+@反空中网和总统特工小队1号 那个时候xc差不多刚建成
+
+[14:49:24]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[14:49:24]
+[love13] 反空中网和总统特工小队1号
+确实
+
+[14:49:25]
+[love13] 反空中网和总统特工小队1号
+hi yo
+
+[14:49:27]
+[JVcLW8] fcjz
+哦哦
+
+[14:49:27]
+[44FF00] eebot
+ 草哦哦
+
+[14:49:27]
+[zhang] Mr_Zhang
+Holay
+
+[14:49:36]
+[edDiBU] 4n0n4me
+hc不一样，
+
+[14:49:41]
+[love13] 反空中网和总统特工小队1号
+不过
+
+[14:49:47]
+[edDiBU] 4n0n4me
+hc建了多年了
+
+[14:49:50]
+[JVcLW8] fcjz
+那你们来到hc多久了？
+
+[14:49:57]
+[love13] 反空中网和总统特工小队1号
+那时候的用户现在基本都还在xc
+
+[14:50:10]
+[JVcLW8] fcjz
+我之前还不知道xc的时候
+
+[14:50:10]
+[love13] 反空中网和总统特工小队1号
+啊
+
+[14:50:10]
+[44FF00] eebot
+ 草啊
+
+[14:50:10]
+[zhang] Mr_Zhang
+我，四个月
+
+[14:50:12]
+[JVcLW8] fcjz
+先去的十字街
+
+[14:50:16]
+[44FF00] eebot
+ 先去的十字街
+
+[14:50:16]
+[love13] 反空中网和总统特工小队1号
+我2021.8.21来的
+
+[14:50:27]
+[zhang] Mr_Zhang
+然后轰炸ZhangTurner
+
+[14:50:31]
+[JVcLW8] fcjz
+然后知道的hc，去逛了一圈，然后就没有然后了
+
+[14:50:34]
+[zhang] Mr_Zhang
+Ohhhhhhhhhhhhhhhhhhhhhhh
+
+[14:50:37]
+[love13] 反空中网和总统特工小队1号
+快11个月了
+
+[14:50:41]
+[love13] 反空中网和总统特工小队1号
+啊
+
+[14:50:43]
+[44FF00] eebot
+ 啊草
+
+[14:50:43]
+[zhang] Mr_Zhang
+@反空中网和总统特工小队1号 老用户
+
+[14:50:46]
+[JVcLW8] fcjz
+@反空中网和总统特工小队1号 看我猜的多对，一年不到
+
+[14:50:53]
+[love13] 反空中网和总统特工小队1号
+哈哈哈哈哈哈哈哈没有
+
+[14:50:56]
+[JVcLW8] fcjz
+最近看聊天室
+
+[14:51:03]
+[love13] 反空中网和总统特工小队1号
+hc那边还有待3年的
+
+[14:51:06]
+[JVcLW8] fcjz
+突然觉得无聊
+
+[14:51:07]
+[zhang] Mr_Zhang
+啊
+
+[14:51:15]
+[44FF00] eebot
+ 草啊
+
+[14:51:15]
+[JVcLW8] fcjz
+想起了hc和之前有所耳闻的xc
+
+[14:51:21]
+[JVcLW8] fcjz
+然后就来了
+
+[14:51:27]
+[love13] 反空中网和总统特工小队1号
+我先去的hc
+
+[14:51:30]
+[zhang] Mr_Zhang
+呵呵
+
+[14:51:31]
+[zhang] Mr_Zhang
+我也是
+
+[14:51:35]
+[kCpSpH] 是大朙少年呀
+今天hc很无聊诶~
+
+[14:51:37]
+[JVcLW8] fcjz
+特别简单
+
+[14:51:38]
+[love13] 反空中网和总统特工小队1号
+过了几个小时去了cc
+
+[14:51:40]
+[love13] 反空中网和总统特工小队1号
+啊？
+
+[14:51:42]
+[edDiBU] 4n0n4me
+hc最早好像是2015年的
+
+[14:51:44]
+[JVcLW8] fcjz
+一念之差
+
+[14:51:45]
+[zhang] Mr_Zhang
+是啊
+
+[14:51:53]
+[JVcLW8] fcjz
+现在我已经天天在这里泡着了
+
+[14:51:58]
+[love13] 反空中网和总统特工小队1号
+差不多差不多
+
+[14:51:59]
+[zhang] Mr_Zhang
+嗯
+
+[14:52:08]
+[love13] 反空中网和总统特工小队1号
+我还记得我第一个在hc遇见的人是tctd
+
+[14:52:19]
+[JVcLW8] fcjz
+15年我二年级。。。
+
+[14:52:23]
+[zhang] Mr_Zhang
+是谁啊
+
+[14:52:28]
+[love13] 反空中网和总统特工小队1号
+第一个在cc遇见的人是jill
+
+[14:52:28]
+[zhang] Mr_Zhang
+哇哦
+
+[14:52:33]
+[love13] 反空中网和总统特工小队1号
+第一个在xc遇见的人是liguiyu
+
+[14:52:38]
+[zhang] Mr_Zhang
+@fcjz 我也是
+
+[14:52:40]
+[JVcLW8] fcjz
+我在cc第一个遇见的人是小张
+
+[14:52:40]
+[zhang] Mr_Zhang
+哈哈哈站长
+
+[14:52:46]
+[JVcLW8] fcjz
+@Mr_Zhang 毕竟咱们俩同岁
+
+[14:53:00]
+[zhang] Mr_Zhang
+@fcjz 你今年上初二？
+
+[14:53:03]
+[zhang] Mr_Zhang
+看着不像啊
+
+[14:53:09]
+[love13] 反空中网和总统特工小队1号
+啊 太怀念了 当年的hc
+
+[14:53:09]
+[JVcLW8] fcjz
+我准初三
+
+[14:53:11]
+[zhang] Mr_Zhang
+Me,too
+
+[14:53:18]
+[OV7otO] asdfg
+？
+
+[14:53:25]
+[JVcLW8] fcjz
+怎么还。。。不像吗
+
+[14:53:26]
+[zhang] Mr_Zhang
+。。。
+
+[14:53:32]
+[JVcLW8] fcjz
+我第二次来的时候
+
+[14:53:45]
+[JVcLW8] fcjz
+去cc看了看
+
+[14:53:51]
+[JVcLW8] fcjz
+正好看到小张走
+
+[14:53:57]
+[zhang] Mr_Zhang
+呵
+
+[14:54:09]
+[love13] 反空中网和总统特工小队1号
+哈哈哈
+
+[14:54:15]
+[44FF00] eebot
+ 草哈哈哈
+
+[14:54:15]
+[JVcLW8] fcjz
+就那次，非常。。。的事件
+
+[14:54:18]
+[44FF00] eebot
+ 谈谈情 跳跳舞 跟eb搞暧昧啊
+
+[14:54:18]
+[zhang] Mr_Zhang
+。。。
+
+[14:54:21]
+[love13] 反空中网和总统特工小队1号
+可惜当年在hc的朋友都不在了
+
+[14:54:35]
+[zhang] Mr_Zhang
+@eebot 咳咳，这不好吧？
+
+[14:54:35]
+[44FF00] eebot
+ 嗯嗯
+
+[14:54:35]
+[JVcLW8] fcjz
+然后第三次来就是大前天了
+
+[14:54:36]
+[JVcLW8] fcjz
+@反空中网和总统特工小队1号 虽然我没遇到，但是感觉挺可惜的
+
+[14:54:57]
+[love13] 反空中网和总统特工小队1号
+tctd Midix jill ww 154 hahaha
+
+[14:55:06]
+[love13] 反空中网和总统特工小队1号
+啊啊啊啊啊啊
+
+[14:55:16]
+[44FF00] eebot
+ 草啊啊啊啊啊啊
+
+[14:55:16]
+[JVcLW8] fcjz
+我在hc第一个遇见的也是小张
+
+[14:55:40]
+[JVcLW8] fcjz
+我问他这是不是公共聊天室
+
+[14:55:50]
+[zhang] Mr_Zhang
+现在聊天室中最好的应该是这里了
+
+[14:56:11]
+[love13] 反空中网和总统特工小队1号
+哈哈哈好家伙
+
+[14:56:18]
+[JVcLW8] fcjz
+是的，没有讽刺没有无聊，有的是代码
+
+[14:56:23]
+[love13] 反空中网和总统特工小队1号
+虽然我最喜欢的聊天室确实是这里
+
+[14:56:34]
+[JVcLW8] fcjz
+我也
+
+[14:56:41]
+[love13] 反空中网和总统特工小队1号
+不过只要是网上的聊天室
+
+[14:56:47]
+[JVcLW8] fcjz
+我都喜欢
+
+[14:56:52]
+[love13] 反空中网和总统特工小队1号
+我都会随便跑（
+
+[14:56:58]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[14:56:58]
+[JVcLW8] fcjz
+哈我也
+
+[14:56:59]
+[love13] 反空中网和总统特工小队1号
+去年寒假这里还没建成前
+
+[14:57:24]
+[love13] 反空中网和总统特工小队1号
+我一个浏览器挂6、7个聊天室（
+
+[14:57:30]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[14:57:30]
+[love13] 反空中网和总统特工小队1号
+~~但是现在懒了~~
+
+[14:57:33]
+[love13] 反空中网和总统特工小队1号
+hi yo
+
+[14:57:34]
+[JVcLW8] fcjz
+我最多2个
+
+[14:57:39]
+[zhang] Mr_Zhang
+hi yooooooooooooooooo
+
+[14:57:41]
+[zhang] Mr_Zhang
+https://mrzhang365.github.io/zhangsoft/
+
+[15:52:41]
+[44FF00] eebot_499
+ QuQ eb的昵称卡在里面了
+
+[16:44:18]
+[44FF00] eebot
+ [2022.07.09 16:44:17]
+
+[16:44:18]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[16:44:18]
+[44FF00] eebot
+ {}
+
+[16:44:18]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eebot mc
+
+[16:44:22]
+[44FF00] eebot
+ 20003.s.imc.re JAVA 1.19
+
+[16:44:22]
+[love13] ee
+@eebot mc
+
+[16:44:23]
+[44FF00] eebot
+ 20003.s.imc.re JAVA 1.19
+
+[16:44:23]
+[Vi23PM] Light
+Loml
+
+[16:44:28]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@ee @ee @ee 怎样smg登录
+
+[16:44:40]
+[love13] ee
+我不知道
+
+[16:44:47]
+[love13] ee
+我一直用html的离线登录
+
+[16:44:56]
+[QiuLingYan] HiyoTeam_QiuLingYan
+你不是玩过吗
+
+[16:44:59]
+[love13] ee
+>love13 ee：
+>我一直用html的离线登录
+
+[16:45:04]
+[pvzjspvz] yo
+xc
+
+[16:45:06]
+[pvzjspvz] yo
+xc
+
+[16:45:07]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我也离线登录
+
+[16:45:08]
+[Vi23PM] Light
+@4n0n4me 404帮忙想一个吧---------
+
+[16:45:22]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@ee @ee @ee zagao
+
+[16:46:00]
+[QiuLingYan] HiyoTeam_QiuLingYan
+怎么整
+
+[16:46:02]
+[zhang] Mr_Zhang
+>love13 ee：
+>我一直用html的离线登录
+
+@ee NBNB
+
+[16:46:25]
+[QiuLingYan] HiyoTeam_QiuLingYan
+咋整HTML
+
+[16:46:52]
+[zhang] Mr_Zhang
+我不知道。。。
+
+[16:46:58]
+[QiuLingYan] HiyoTeam_QiuLingYan
+去TC
+
+[16:47:34]
+[44FF00] eebot
+ [2022.07.09 16:47:33]
+
+[16:47:34]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[16:47:34]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@Mr_Zhang 
+
+[16:47:36]
+[zhang] Mr_Zhang
+@HiyoTeam_QiuLingYan ？
+
+[16:47:47]
+[DPGawa] _
+?
+
+[16:47:51]
+[zhang] Mr_Zhang
+发生什么了？
+
+[16:47:57]
+[love13] ee
+？
+
+[16:48:02]
+[love13] ee
+怎么了
+
+[16:48:04]
+[QiuLingYan] HiyoTeam_QiuLingYan
+没什么
+
+[16:48:11]
+[QiuLingYan] HiyoTeam_QiuLingYan
+就是
+
+[16:48:16]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@ee @ee @ee 
+
+[16:48:18]
+[zhang] Mr_Zhang
+。。。
+
+[16:48:21]
+[zhang] Mr_Zhang
+赶紧说啊
+
+[16:48:25]
+[QiuLingYan] HiyoTeam_QiuLingYan
+怎么搞HTML
+
+[16:48:29]
+[zhang] Mr_Zhang
+我在写代码呢
+
+[16:48:30]
+[Vi23PM] Light
+4040！！！！！！！！
+
+[16:48:32]
+[zhang] Mr_Zhang
+。。。
+
+[16:48:32]
+[QiuLingYan] HiyoTeam_QiuLingYan
+的那个
+
+[16:48:34]
+[Vi23PM] Light
+我想到了
+
+[16:48:36]
+[zhang] Mr_Zhang
+我不知道。。。
+
+[16:48:36]
+[Vi23PM] Light
+404404004040400
+
+[16:48:39]
+[DPGawa] _
+or pcl
+
+[16:48:42]
+[DPGawa] _
+@HiyoTeam_QiuLingYan 
+
+[16:48:43]
+[Vi23PM] Light
+@4n0n4me 
+
+[16:48:56]
+[Vi23PM] Light
+@4n0n4me 
+
+[16:48:57]
+[Vi23PM] Light
+@4n0n4me 
+
+[16:48:59]
+[DPGawa] _
+https://afdian.net/p/0164034c016c11ebafcb52540025c377?ivk_sa=1024320u
+
+[16:49:02]
+[44FF00] eebot
+@_ 爱发电 · 连接创作者与粉丝的会员制平台
+https://afdian.net/p/0164034c016c11ebafcb52540025c377?ivk_sa=1024320u
+
+[16:49:02]
+[DPGawa] _
+https://jdk.java.net/18/
+
+[16:50:35]
+[44FF00] eebot
+@_ OpenJDK JDK 18.0.1.1 GA Release
+https://jdk.java.net/18/
+
+[16:50:35]
+[Vi23PM] Light
+@4n0n4me 
+
+[16:50:55]
+[edDiBU] 4n0n4me
+？
+
+[16:51:23]
+[Vi23PM] Light
+fynoao
+
+[16:51:28]
+[edDiBU] 4n0n4me
+这个名字是啥意思（
+
+[16:51:41]
+[Vi23PM] Light
+> Find yourself and not what is not omniscient and omnipotent. In this way, you will begin to ask a question.
+
+[16:51:43]
+[edDiBU] 4n0n4me
+好家伙
+
+[16:52:29]
+[Vi23PM] Light
+find 
+yourself
+not
+omniscient
+and
+omnipotent
+
+[16:52:30]
+[edDiBU] 4n0n4me
+可是这里边有一个第三行的字母
+
+[16:52:45]
+[Vi23PM] Light
+没事无所谓
+
+[16:52:55]
+[edDiBU] 4n0n4me
+好家伙，这句句子是你自己写的吗
+
+[16:53:15]
+[JVcLW8] fcjz
+问题是
+
+[16:53:15]
+[JVcLW8] fcjz
+这个名字怎么读
+
+[16:53:20]
+[Vi23PM] Light
+雷神金句
+
+[16:53:26]
+[edDiBU] 4n0n4me
+哦
+
+[16:53:30]
+[44FF00] eebot
+ 草哦
+
+[16:53:30]
+[edDiBU] 4n0n4me
+者
+
+[16:53:39]
+[edDiBU] 4n0n4me
+这
+
+[16:53:41]
+[JVcLW8] fcjz
+fynoao
+
+[16:53:50]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@4n0n4me 那啥
+
+[16:53:51]
+[JVcLW8] fcjz
+这个名字咋读
+
+[16:53:55]
+[Vi23PM] Light
+emmm
+
+[16:53:59]
+[QiuLingYan] HiyoTeam_QiuLingYan
+你什么时候来为团队做贡献
+
+[16:54:05]
+[Vi23PM] Light
+怎么做
+
+[16:54:20]
+[Vi23PM] Light
+没事干怎么做贡献
+
+[16:54:28]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@Light 额
+
+[16:54:31]
+[QiuLingYan] HiyoTeam_QiuLingYan
+例如
+
+[16:54:33]
+[Vi23PM] Light
+readme?
+
+[16:54:39]
+[edDiBU] 4n0n4me
+我...
+
+[16:54:44]
+[edDiBU] 4n0n4me
+我是撒比
+
+[16:54:47]
+[JVcLW8] fcjz
+readme我不是早就写好了吗
+
+[16:54:51]
+[QiuLingYan] HiyoTeam_QiuLingYan
+Light可以和XQ Team协商
+
+[16:54:53]
+[JVcLW8] fcjz
+主页我也做了
+
+[16:54:57]
+[QiuLingYan] HiyoTeam_QiuLingYan
+然后404可以和coxx那边协商
+
+[16:55:10]
+[JVcLW8] fcjz
+阿布，改了
+
+[16:55:28]
+[zhang] Mr_Zhang
+简要抓个包
+
+[16:55:48]
+[zhang] Mr_Zhang
+十字街的改动真大
+
+[16:55:55]
+[QiuLingYan] HiyoTeam_QiuLingYan
+a
+
+[16:55:57]
+[zhang] Mr_Zhang
+XChat应该不需要那么大的改动
+
+[16:56:07]
+[edDiBU] 4n0n4me
+好家伙，真就...
+
+[16:56:14]
+[zhang] Mr_Zhang
+以下是数据：
+
+[16:56:15]
+[edDiBU] 4n0n4me
+light在吗
+
+[16:56:24]
+[zhang] Mr_Zhang
+信息较长
+
+[16:56:25]
+[44FF00] eebot
+ 在等4n0n4me呢）
+
+[16:56:25]
+[edDiBU] 4n0n4me
+你merge了吗
+
+[16:56:33]
+[44FF00] eebot
+  ?75tz2vv8 个人聊天室 本人长期在线
+
+[16:56:33]
+[edDiBU] 4n0n4me
+好耶
+
+[16:57:03]
+[edDiBU] 4n0n4me
+merge了
+
+[16:57:04]
+[zhang] Mr_Zhang
+行啊
+
+[16:57:12]
+[pvzjspvz] 十字街的魔法
+十字街的魔法
+
+[16:57:20]
+[zhang] Mr_Zhang
+《改动真大》
+
+[16:57:21]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eebot mc
+
+[16:57:27]
+[44FF00] eebot
+ 20003.s.imc.re JAVA 1.19
+
+[16:57:32]
+[zhang] Mr_Zhang
+cmd竟然是chat？！
+
+[16:57:59]
+[Vi23PM] Light
+@4n0n4me 怎么了
+
+[16:57:59]
+[edDiBU] 4n0n4me
+就是说那个主页merge了没有
+
+[16:58:14]
+[QiuLingYan] HiyoTeam_QiuLingYan
+啥
+
+[16:58:25]
+[Vi23PM] Light
+嗯
+
+[16:58:46]
+[love13] ee
+对
+
+[16:58:51]
+[love13] ee
+cc那边的私聊
+
+[16:58:56]
+[love13] ee
+cmd是chat
+
+[16:58:59]
+[QiuLingYan] HiyoTeam_QiuLingYan
+是哦
+
+[16:59:12]
+[zhang] Mr_Zhang
+hhh
+
+[16:59:19]
+[zhang] Mr_Zhang
+才发现
+
+[16:59:23]
+[pvzjspvz] 十字街的魔法
+Admin __fish__iPhone12Pro 那个叫“十字街的魔法”的人是谁
+zzzzzz CX_zzzChumo b站的j
+edDiBU 4n0n4me 哪有十字街的魔法
+Vi23PM 反空中网和总统特工小队82345号 b站的j
+edDiBU 4n0n4me 我去，可怕啊!
+edDiBU 4n0n4me 居然有个“十字街的魔法”
+JVcLW8 fcjz 十字街的魔法是什么
+edDiBU 4n0n4me 我们竟然这么久
+edDiBU 4n0n4me 没有注意到这个人
+edDiBU 4n0n4me 没事了
+edDiBU 4n0n4me 十字街的魔法是B站的J
+
+[16:59:28]
+[JVcLW8] fcjz
+哈哈哈哈哈哈哈哈哈哈
+
+[16:59:43]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈哈哈
+
+[16:59:43]
+[zhang] Mr_Zhang
+>love13 ee：
+>cmd是chat
+
+@ee ==估计连R都想不到==
+
+[16:59:45]
+[zhang] Mr_Zhang
+R：啥？违背祖训？？？
+
+[16:59:53]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[17:00:43]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[17:00:43]
+[zhang] Mr_Zhang
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[17:01:03]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[17:01:03]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@ee @ee @ee @ee @ee @ee @ee @ee @ee @ee 
+
+[17:01:07]
+[love13] ee
+我在cc其他频道测试eb的时候就发现了
+
+[17:01:08]
+[JVcLW8] fcjz
+哈哈哈哈哈哈哈哈哈哈
+
+[17:01:12]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈哈哈
+
+[17:01:12]
+[zhang] Mr_Zhang
+有趣
+
+[17:01:13]
+[QiuLingYan] HiyoTeam_QiuLingYan
+java怎么下载啊
+
+[17:01:16]
+[love13] ee
+生草机没反应
+
+[17:01:18]
+[QiuLingYan] HiyoTeam_QiuLingYan
+e
+
+[17:01:22]
+[QiuLingYan] HiyoTeam_QiuLingYan
+e
+
+[17:01:23]
+[zhang] Mr_Zhang
+我这次放抓包器就是好奇
+
+[17:01:23]
+[love13] ee
+结果一查才发现是chat（
+
+[17:01:25]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@ee 
+
+[17:01:30]
+[JVcLW8] fcjz
+@HiyoTeam_QiuLingYan 你不能自己搜吗
+
+[17:01:31]
+[zhang] Mr_Zhang
+HTML是怎么发
+
+[17:01:33]
+[love13] ee
+@HiyoTeam_QiuLingYan 网上找
+
+[17:01:35]
+[QiuLingYan] HiyoTeam_QiuLingYan
+不是
+
+[17:01:35]
+[QiuLingYan] HiyoTeam_QiuLingYan
+在java.com
+
+[17:01:39]
+[zhang] Mr_Zhang
+我这次放抓包器就是好奇，HTML是怎么发
+
+[17:01:40]
+[love13] ee
+哈哈哈哈哈
+
+[17:01:41]
+[44FF00] eebot
+ 草哈哈哈哈哈
+
+[17:01:41]
+[JVcLW8] fcjz
+哈哈哈哈哈
+
+[17:01:49]
+[44FF00] eebot
+ 哈哈哈哈哈嗝-
+
+[17:01:49]
+[zhang] Mr_Zhang
+正缠这管理员发呢
+
+[17:01:56]
+[zhang] Mr_Zhang
+~~正缠这管理员发呢~~
+
+[17:02:01]
+[love13] ee
+咳咳
+
+[17:02:08]
+[44FF00] eebot
+ 咳咳咳
+
+[17:02:08]
+[JVcLW8] fcjz
+咳咳咳咳
+
+[17:02:23]
+[zhang] Mr_Zhang
+~~（尴尬Plus）~~
+
+[17:02:58]
+[zhang] Mr_Zhang
+@ee ~~（无意间让bo_od发个HTML信息，OK？）~~
+
+[17:03:28]
+[love13] ee
+？
+
+[17:03:35]
+[Vi23PM] Light
+那我们做什么
+
+[17:03:41]
+[edDiBU] 4n0n4me
+https://docs.microsoft.com/en-us/java/openjdk/download
+
+[17:03:42]
+[44FF00] eebot
+@4n0n4me Download the Microsoft Build of OpenJDK | Microsoft Docs
+https://docs.microsoft.com/en-us/java/openjdk/download
+
+[17:03:43]
+[Vi23PM] Light
+还是学习？
+
+[17:03:48]
+[edDiBU] 4n0n4me
+在这下载kava
+
+[17:03:51]
+[44FF00] eebot
+ or pcl
+
+[17:03:51]
+[zhang] Mr_Zhang
+说白了。就是：让bo_od发个HTML信息
+
+[17:03:55]
+[love13] ee
+原来如此
+
+[17:04:02]
+[DPGawa] _
+?
+
+[17:04:27]
+[DPGawa] _
+kava
+
+[17:04:31]
+[DPGawa] _
+ava
+
+[17:04:34]
+[44FF00] eebot
+ 0wo
+
+[17:04:34]
+[zhang] Mr_Zhang
+刑
+
+[17:05:57]
+[zhang] Mr_Zhang
+看我抓到了什么
+
+[17:06:01]
+[zhang] Mr_Zhang
+{'cmd': 'html', 'nick': 'bo_od', 'trip': 'sMGDzr', 'admin': True, 'member': True, 'text': '<iframe frameborder="no" border="0" 
+marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1840682068&auto=0&height=66"></iframe>', 'time': 1657357482405}
+
+[17:06:04]
+[love13] ee
+yes
+
+[17:06:20]
+[zhang] Mr_Zhang
+刑
+
+[17:06:58]
+[zhang] Mr_Zhang
+cmd竟然是HTML
+
+[17:07:03]
+[zhang] Mr_Zhang
+有趣有趣
+
+[17:07:09]
+[Vi23PM] Light
+你们都在干什么呢
+
+[17:08:28]
+[zhang] Mr_Zhang
+Hokay
+
+[17:08:32]
+[zhang] Mr_Zhang
+终于
+
+[17:08:35]
+[zhang] Mr_Zhang
+speak改完力
+
+[17:08:41]
+[zhang] Mr_Zhang
+上传了
+
+[17:08:44]
+[zhang] Mr_Zhang
+现在上传到gitee
+
+[17:08:49]
+[love13] ee
+wow
+
+[17:08:53]
+[love13] ee
+你改了什么
+
+[17:08:58]
+[zhang] Mr_Zhang
+一会再看
+
+[17:09:17]
+[zhang] Mr_Zhang
+汉化+中国话
+
+[17:09:27]
+[zhang] Mr_Zhang
+汉化+中国化
+
+[17:09:30]
+[love13] ee
+wow
+
+[17:09:32]
+[JVcLW8] fcjz
+欸，我刚才去看了hiyo的主页
+
+[17:10:03]
+[JVcLW8] fcjz
+你们怎么知道我叫凡尘芥之的？
+
+[17:10:14]
+[zhang] Mr_Zhang
+https://gitee.com/XChatFish/xchat/blob/main/server/src/commands/mod/speak.js
+
+[17:10:19]
+[44FF00] eebot
+@Mr_Zhang server/src/commands/mod/speak.js · MelonFish/XChat-HackChat - Gitee.com
+https://gitee.com/XChatFish/xchat/blob/main/server/src/commands/mod/speak.js
+
+[17:10:19]
+[zhang] Mr_Zhang
+https://gitee.com/XChatFish/xchat/blob/main/server/src/commands/mod/dumb.js
+
+[17:10:29]
+[44FF00] eebot
+@Mr_Zhang server/src/commands/mod/dumb.js · MelonFish/XChat-HackChat - Gitee.com
+https://gitee.com/XChatFish/xchat/blob/main/server/src/commands/mod/dumb.js
+
+[17:10:29]
+[zhang] Mr_Zhang
+两个
+
+[17:10:32]
+[JVcLW8] fcjz
+我记得我只说了fcjz
+
+[17:10:38]
+[zhang] Mr_Zhang
+啊
+
+[17:11:10]
+[44FF00] eebot
+ 啊草
+
+[17:11:10]
+[zhang] Mr_Zhang
+正事忘了
+
+[17:11:14]
+[JVcLW8] fcjz
+刚才翻了翻
+
+[17:13:24]
+[44FF00] eebot
+ ·
+Sprinkle博客
+https://pntang.github.io/
+
+[17:13:34]
+[JVcLW8] fcjz
+难道是我以前知识库的截图暴露了我？
+
+[17:13:39]
+[zhang] Mr_Zhang
+行啊
+
+[17:16:45]
+[JVcLW8] fcjz
+我只在那上面放过我的中文名称
+
+[17:21:46]
+[DPGawa] _
+..
+
+[17:26:29]
+[zhang] Mr_Zhang
+![](https://i.postimg.cc/j2sHTPP1/2022-07-09-172944.jpg)
+
+[17:36:20]
+[44FF00] eebot
+ hey yo light
+
+[17:36:21]
+[love13] ee
+hi yo
+
+[17:37:08]
+[Vi23PM] light
+hi
+
+[17:42:11]
+[44FF00] eebot
+ hey yo kkk
+
+[17:42:11]
+[zhang] Mr_Zhang
+这位是？
+
+[17:42:17]
+[None] kkk
+ee
+
+[17:42:58]
+[44FF00] eebot
+ 句号和省略号让eb摸不着头脑
+
+[17:42:58]
+[None] kkk
+好吧
+
+[17:43:11]
+[None] kkk
+^readme
+
+[17:43:40]
+[None] kkk
+^readme
+
+[17:43:48]
+[None] kkk
+?
+
+[17:43:53]
+[zhang] Mr_Zhang
+^readme
+
+[17:43:58]
+[love13] ee
+好家伙
+
+[17:44:05]
+[None] kkk
+没错啊
+
+[17:44:05]
+[Vi23PM] light
+^readme
+
+[17:44:07]
+[love13] ee
+@kkk 你怎么又回来了
+
+[17:44:28]
+[None] kkk
+我为什么不回来
+
+[17:44:28]
+[zhang] Mr_Zhang
+^readme
+
+[17:44:41]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[17:44:41]
+[love13] ee
+今天不能刷屏了（
+
+[17:44:43]
+[zhang] Mr_Zhang
+OK
+
+[17:44:43]
+[zhang] Mr_Zhang
+^readme
+
+[17:44:49]
+[love13] ee
+啊
+
+[17:46:08]
+[44FF00] eebot
+ 草啊
+
+[17:46:08]
+[love13] ee
+黄桃罐头真好吃
+
+[17:46:20]
+[love13] ee
+就是糖水多了
+
+[17:47:00]
+[None] kkk
+啥?
+
+[17:47:11]
+[love13] ee
+哈哈哈没什么
+
+[17:47:44]
+[love13] ee
+我饿了（
+
+[17:47:49]
+[zhang] Mr_Zhang
+哈哈哈
+
+[17:48:00]
+[44FF00] eebot
+ 哈哈哈草
+
+[17:48:00]
+[Vi23PM] light
+^readme
+
+[17:48:13]
+[love13] ee
+~~（而且是今天第二罐）~~
+
+[17:48:18]
+[44FF00] eebot
+ 别吵 伦家正在梅州行网站上逛论坛呢
+
+[17:48:18]
+[love13] ee
+啊？怎么又退了
+
+[17:48:27]
+[None] kkk
+"伦家"?
+
+[17:49:58]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[17:49:58]
+[zhang] Mr_Zhang
+Hokay
+
+[17:50:02]
+[zhang] Mr_Zhang
+应该把欢迎语关掉
+
+[17:50:18]
+[edDiBU] 4n0n4me
+@kkk 这是个机器人
+
+[17:50:19]
+[edDiBU] 4n0n4me
+这个机器人装的聊天api
+
+[17:50:27]
+[love13] ee
+@eebot 
+
+[17:50:35]
+[44FF00] eebot
+ 好耶 是ee
+
+[17:50:35]
+[zhang] Mr_Zhang
+^set_welcome 欢迎来到XChat！
+
+[17:50:36]
+[zhang] ZhangHelperS
+已修改欢迎语。
+
+[17:50:36]
+[None] kkk
+你们使用 VS的啊
+
+[17:50:40]
+[zhang] Mr_Zhang
+^save
+
+[17:50:41]
+[zhang] ZhangHelperS
+已保存设置！
+
+[17:50:41]
+[zhang] Mr_Zhang
+OK
+
+[17:50:42]
+[zhang] Mr_Zhang
+走了
+
+[17:50:46]
+[edDiBU] 4n0n4me
+但是目前聊天api的使用已经比较少了，他大部分的话都很与时俱进和通人性
+
+[17:50:57]
+[44FF00] eebot
+  /kick @eebot 
+
+[17:50:57]
+[love13] ee
+拜拜-
+
+[17:51:00]
+[love13] ee
+哈哈哈哈哈确实
+
+[17:51:03]
+[Vi23PM] light
+...
+
+[17:51:03]
+[QiuLingYan] HiyoTeam_QiuLingYan
+.m.
+
+[17:51:10]
+[Vi23PM] light
+:
+
+[17:51:27]
+[Vi23PM] light
+"
+
+[17:51:28]
+[zhang] Mr_Zhang
+^tripmsg Admin 请使用reload命令来让所有更新~~（With so many BUGs）~~生效
+
+[17:51:35]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 Admin 的用户上线时，我会第一时间通知他。
+
+[17:51:36]
+[QiuLingYan] HiyoTeam_QiuLingYan
+生草机
+
+[17:51:36]
+[44FF00] eebot
+ ·
+示例：
+（开头）纸片君在厕所吃屎 （续写）看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[17:51:36]
+[44FF00] eebot
+ 请用1报数
+
+[17:51:49]
+[love13] ee
+说完怎么就走了
+
+[17:52:19]
+[None] kkk
+1
+
+[17:52:20]
+[44FF00] eebot
+ kkk成功加入 现在有1人
+
+[17:52:20]
+[love13] ee
+1
+
+[17:52:25]
+[44FF00] eebot
+ ee成功加入 现在有2人
+
+[17:52:25]
+[None] kkk
+如果我再发个1呢,会不会有三人了
+
+[17:52:49]
+[None] kkk
+看来不会
+
+[17:53:06]
+[love13] ee
+1
+
+[17:53:22]
+[44FF00] eebot
+ ee已经报过数了 现在有2人
+
+[17:53:22]
+[love13] ee
+哈哈哈哈哈不会
+
+[17:53:31]
+[zhang] Mr_Zhang
+1
+
+[17:53:36]
+[44FF00] eebot
+ Mr_Zhang成功加入 现在有3人
+
+[17:53:36]
+[Vi23PM] light
+看来我都会用scapy搞tcp了，还不会用socket。。。
+
+[17:54:04]
+[44FF00] eebot
+  /kick @eebot 
+
+[17:54:04]
+[zhang] ZhangHelperS
+出错了！详细信息：不能在这个聊天室找到该用户
+
+[17:54:05]
+[None] kkk
+开始了吗
+
+[17:54:18]
+[zhang] Mr_Zhang
+开始游戏
+
+[17:54:26]
+[44FF00] eebot
+ 生草机游戏开始
+
+[17:54:26]
+[44FF00] eebot
+@Mr_Zhang @kkk @ee 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[17:54:38]
+[None] kkk
+还是我发个3
+
+[17:54:39]
+[love13] ee
+开始了
+
+[17:55:08]
+[44FF00] eebot
+ [2022.07.09 17:54:51]
+写BUG的小张在厕所吃黄桃罐头
+
+[17:55:08]
+[44FF00] eebot
+ ·
+详细信息：
+写BUG的小张（Mr_Zhang）
+在厕所（kkk）
+吃黄桃罐头（ee）
+·
+本次参与人数：3
+
+[17:55:08]
+[44FF00] eebot
+ 记录成功
+
+[17:55:08]
+[love13] ee
+哈哈哈哈哈
+
+[17:55:11]
+[44FF00] eebot
+ 哈哈哈哈哈嗝-
+
+[17:55:12]
+[love13] ee
+~~在厕所 nb~~
+
+[17:55:59]
+[44FF00] eebot
+  /kick @eebot 
+
+[17:55:59]
+[zhang] Mr_Zhang
+哈哈哈哈哈哈哈
+
+[17:56:04]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈草
+
+[17:56:07]
+[44FF00] eebot
+ hello yo 警官
+
+[17:56:08]
+[love13] ee
+hi yo
+
+[17:56:11]
+[zhang] Mr_Zhang
+我先走了
+
+[17:56:12]
+[zhang] Mr_Zhang
+你们自己玩吧
+
+[17:56:17]
+[None] 警官
+?
+
+[17:56:25]
+[None] kkk
+bye @Mr_Zhang 
+
+[17:56:31]
+[zhang] Mr_Zhang
+bye yo
+
+[17:56:42]
+[None] kkk
+1
+
+[17:56:49]
+[44FF00] eebot
+ kkk成功加入 现在有1人
+
+[17:56:49]
+[None] 警官
+1
+
+[17:56:55]
+[44FF00] eebot
+ 警官成功加入 现在有2人
+
+[17:56:55]
+[None] 警官
+2
+
+[17:56:59]
+[None] 警官
+3
+
+[17:57:00]
+[None] 警官
+1
+
+[17:57:01]
+[44FF00] eebot
+ 警官已经报过数了 现在有2人
+
+[17:57:01]
+[love13] ee
+>LAJOQc ee
+纸片君 是我第一个密码（
+
+>LAJOQc ee
+本聊天室的聊天人数已到达3人，十字街管理员有可能查看本聊天室的聊天内容，谢谢合作。
+
+>LAJOQc ee
+令 人 害 怕
+
+>LAJOQc ee
+有一次我在test里测试eb
+
+>LAJOQc ee
+结果卡到了有4个人
+
+>LAJOQc ee
+然后kiddo就进来了
+
+>LAJOQc ee
+哈哈哈哈哈
+
+[17:57:16]
+[love13] ee
+1
+
+[17:57:22]
+[44FF00] eebot
+ ee成功加入 现在有3人
+
+[17:57:22]
+[None] kkk
+3
+
+[17:57:53]
+[None] 警官
+接下来干啥
+
+[17:58:09]
+[None] 警官
+4
+
+[17:58:09]
+[44FF00] eebot
+ hello yo 卧底light
+
+[17:58:10]
+[None] kkk
+额
+
+[17:58:14]
+[gTt3aQ] 卧底light
+a
+
+[17:58:15]
+[None] 警官
+哦
+
+[17:58:16]
+[44FF00] eebot
+ 草哦
+
+[17:58:18]
+[QiuLingYan] HiyoTeam_QiuLingYan
+1
+
+[17:58:23]
+[44FF00] eebot
+ HiyoTeam_QiuLingYan成功加入 现在有4人
+
+[17:58:23]
+[QiuLingYan] HiyoTeam_QiuLingYan
+开始游戏
+
+[17:58:29]
+[44FF00] eebot
+ 生草机游戏开始
+
+[17:58:29]
+[44FF00] eebot
+@ee @警官 @HiyoTeam_QiuLingYan @kkk 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[17:58:29]
+[QiuLingYan] HiyoTeam_QiuLingYan
+信息
+
+[17:58:32]
+[None] 警官
+好的
+
+[17:59:25]
+[None] kkk
+?
+
+[17:59:29]
+[love13] ee
+信息
+
+[17:59:41]
+[DPGawa] _
+ah
+
+[17:59:47]
+[love13] ee
+离谱
+
+[17:59:51]
+[love13] ee
+huolongguo到底是谁
+
+[18:00:00]
+[QiuLingYan] HiyoTeam_QiuLingYan
+# 喜欢你
+
+[18:00:04]
+[love13] ee
+我记得我没说过两句话
+
+[18:00:04]
+[QiuLingYan] HiyoTeam_QiuLingYan
+huolongguo是
+
+[18:00:09]
+[None] 警官
+有人在一个脏的地方
+
+[18:00:14]
+[44FF00] eebot
+ [2022.07.09 18:00:11]
+警官kkk在马桶在吃屎 不可能的事
+
+[18:00:14]
+[44FF00] eebot
+ ·
+开头：
+警官kkk（ee）
+在马桶（警官）
+在吃屎（HiyoTeam_QiuLingYan）
+·
+续写：
+不可能的事（kkk）
+·
+本次参与人数：4
+
+[18:00:14]
+[44FF00] eebot
+ 记录成功
+
+[18:00:14]
+[love13] ee
+咳咳
+
+[18:00:17]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[18:00:23]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[18:00:23]
+[None] 警官
+额
+
+[18:00:28]
+[DPGawa] _
+:!grass 警官kkk在马桶在吃屎 不可能的事
+
+[18:00:36]
+[None] kkk
+>警官：
+>额
+
+@警官 别以为我不是到是你写的kkk
+
+[18:00:49]
+[None] 警官
+没有
+
+[18:00:55]
+[love13] ee
+@警官 ~~惊不惊喜 意不意外~~
+
+[18:01:05]
+[DPGawa] _
+:!send ?
+
+[18:01:09]
+[DPGawa] _
+-.-
+
+[18:01:11]
+[None] kkk
+1
+
+[18:01:14]
+[44FF00] eebot
+ kkk成功加入 现在有1人
+
+[18:01:14]
+[QiuLingYan] HiyoTeam_QiuLingYan
+火绒官方五群的人
+
+[18:01:15]
+[None] 警官
+1
+
+[18:01:15]
+[44FF00] eebot
+ 警官成功加入 现在有2人
+
+[18:01:17]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[18:01:17]
+[QiuLingYan] HiyoTeam_QiuLingYan
+1
+
+[18:01:18]
+[44FF00] eebot
+ 子不语 863885806
+「那天，我听到了种子破土的声音，又细微又坚定。」
+
+[18:01:18]
+[44FF00] eebot
+ HiyoTeam_QiuLingYan成功加入 现在有3人
+
+[18:01:18]
+[zhang] ZhangHelperS
+@eebot 请冷静，请休息5秒，在这5秒内，==不要发送任何信息==，谢谢合作。
+
+[18:01:21]
+[44FF00] eebot
+ 别谢eb！谢完eb还怎么好意思向ZhangHelperS收聊天费啊？
+
+[18:01:21]
+[DPGawa] AfK_Bot
+?
+
+[18:01:23]
+[QiuLingYan] HiyoTeam_QiuLingYan
+火绒官方五群的人
+
+[18:01:27]
+[None] 警官
+1
+
+[18:01:28]
+[44FF00] eebot
+ 警官已经报过数了 现在有3人
+
+[18:01:28]
+[QiuLingYan] HiyoTeam_QiuLingYan
+ee
+
+[18:01:29]
+[None] 警官
+2
+
+[18:01:31]
+[None] 警官
+3
+
+[18:01:33]
+[None] 警官
+1
+
+[18:01:34]
+[44FF00] eebot
+ 警官已经报过数了 现在有3人
+
+[18:01:34]
+[DPGawa] AfK_Bot
+ 警察的警察不能吃肮脏的厕所
+
+[18:01:34]
+[None] 警官
+？
+
+[18:01:44]
+[None] kkk
+3
+
+[18:01:46]
+[DPGawa] _
+h
+
+[18:01:46]
+[QiuLingYan] HiyoTeam_QiuLingYan
+:!help
+
+[18:01:52]
+[DPGawa] AfK_Bot
+:!help  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate
+
+[18:01:52]
+[DPGawa] _
+grass~~~
+
+[18:01:52]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@_ @_ 
+
+[18:01:55]
+[None] 警官
+快来人
+
+[18:01:57]
+[DPGawa] _
+?
+
+[18:01:57]
+[QiuLingYan] HiyoTeam_QiuLingYan
+addop
+
+[18:01:58]
+[DPGawa] _
+-.-
+
+[18:02:01]
+[None] 警官
+接1
+
+[18:02:02]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@_ @_ addop
+
+[18:02:03]
+[None] kkk
+what?
+
+[18:02:05]
+[DPGawa] _
+no need here
+
+[18:02:06]
+[DPGawa] _
+obo
+
+[18:02:12]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@_ az
+
+[18:02:14]
+[QiuLingYan] HiyoTeam_QiuLingYan
+https://chat.thz.cool/?lounge
+
+[18:03:11]
+[44FF00] eebot
+@HiyoTeam_QiuLingYan hack.chat
+https://chat.thz.cool/?lounge
+
+[18:03:11]
+[QiuLingYan] HiyoTeam_QiuLingYan
+来这里的前五个人
+
+[18:03:15]
+[QiuLingYan] HiyoTeam_QiuLingYan
+有协管
+
+[18:03:20]
+[QiuLingYan] HiyoTeam_QiuLingYan
+啊呸
+
+[18:03:23]
+[QiuLingYan] HiyoTeam_QiuLingYan
+协管
+
+[18:03:26]
+[None] kkk
+ok
+
+[18:03:32]
+[None] 警官
+1
+
+[18:03:49]
+[44FF00] eebot
+ 警官已经报过数了 现在有3人
+
+[18:03:49]
+[edDiBU] 4n0n4me
+1
+
+[18:04:35]
+[44FF00] eebot
+ 4n0n4me成功加入 现在有4人
+
+[18:04:36]
+[QiuLingYan] HiyoTeam_QiuLingYan
+开始游戏
+
+[18:05:12]
+[44FF00] eebot
+ 生草机游戏开始
+
+[18:05:12]
+[44FF00] eebot
+@HiyoTeam_QiuLingYan @kkk @警官 @4n0n4me 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[18:07:49]
+[None] 警官
+信息
+
+[18:08:04]
+[None] 警官
+信息
+
+[18:08:44]
+[44FF00] eebot
+ [2022.07.09 18:08:25]
+eebot在皇宫十字街口 然后没了
+
+[18:08:44]
+[44FF00] eebot
+ ·
+开头：
+eebot（替HiyoTeam_QiuLingYan写的eebot）
+在皇宫（kkk）
+十字街口（替警官写的eebot）
+·
+续写：
+然后没了（4n0n4me）
+·
+本次参与人数：4
+
+[18:08:44]
+[44FF00] eebot
+ 记录成功
+
+[18:08:44]
+[None] kkk
+1
+
+[18:09:08]
+[44FF00] eebot
+ kkk成功加入 现在有1人
+
+[18:09:09]
+[None] 警官
+1
+
+[18:09:11]
+[44FF00] eebot
+ 警官成功加入 现在有2人
+
+[18:09:26]
+[None] kkk
+>警官 邀请你去 ?v3shyq4a
+
+/kk 
+
+[18:10:13]
+[Vi23PM] light
+?
+
+[18:10:25]
+[Vi23PM] light
+?
+
+[18:10:26]
+[Vi23PM] light
+?
+
+[18:10:28]
+[None] 警官
+接1
+
+[18:10:32]
+[None] kkk
+发个1要不
+
+[18:10:38]
+[edDiBU] 4n0n4me
+1
+
+[18:11:02]
+[44FF00] eebot
+ 4n0n4me成功加入 现在有3人
+
+[18:11:02]
+[None] kkk
+开始游戏
+
+[18:11:08]
+[44FF00] eebot
+ 生草机游戏开始
+
+[18:11:09]
+[44FF00] eebot
+@4n0n4me @警官 @kkk 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[18:11:09]
+[edDiBU] 4n0n4me
+好家伙，这个这么好玩吗
+
+[18:11:10]
+[None] 警官
+好
+
+[18:12:12]
+[44FF00] eebot
+ [2022.07.09 18:11:56]
+孔子在金刚板拉屎
+
+[18:12:12]
+[44FF00] eebot
+ ·
+详细信息：
+孔子（4n0n4me）
+在金刚板（警官）
+拉屎（kkk）
+·
+本次参与人数：3
+
+[18:12:12]
+[44FF00] eebot
+ 记录成功
+
+[18:12:12]
+[None] 警官
+1
+
+[18:12:24]
+[44FF00] eebot
+ 警官成功加入 现在有1人
+
+[18:12:24]
+[None] kkk
+哈哈哈哈哈哈哈哈哈
+
+[18:12:25]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈草
+
+[18:12:25]
+[None] kkk
+1
+
+[18:12:30]
+[44FF00] eebot
+ kkk成功加入 现在有2人
+
+[18:12:30]
+[None] 警官
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[18:12:31]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈草
+
+[18:12:43]
+[None] 警官
+2
+
+[18:13:24]
+[None] 警官
+1
+
+[18:13:24]
+[44FF00] eebot
+ 警官已经报过数了 现在有2人
+
+[18:13:24]
+[None] 警官
+1
+
+[18:13:26]
+[44FF00] eebot
+ 警官已经报过数了 现在有2人
+
+[18:13:26]
+[None] 警官
+1
+
+[18:13:26]
+[44FF00] eebot
+ 警官已经报过数了 现在有2人
+
+[18:13:26]
+[None] 警官
+1
+
+[18:13:26]
+[zhang] ZhangHelperS
+@警官 请冷静，请休息5秒，在这5秒内，==不要发送任何信息==，谢谢合作。
+
+[18:13:26]
+[44FF00] eebot
+ 警官已经报过数了 现在有2人
+
+[18:13:26]
+[None] 警官
+1
+
+[18:13:26]
+[44FF00] eebot
+ 警官已经报过数了 现在有2人
+
+[18:13:26]
+[zhang] ZhangHelperS
+@eebot 请冷静，请休息5秒，在这5秒内，==不要发送任何信息==，谢谢合作。
+
+[18:13:29]
+[None] 警官
+1
+
+[18:13:29]
+[zhang] ZhangHelperS
+@警官 你说的话太多了，打扰到我们了，1分钟后再来吧。
+
+[18:13:29]
+[44FF00] eebot
+ 人又不斯文 装得这么客气干嘛呢
+
+[18:13:29]
+[44FF00] eebot
+ 警官已经报过数了 现在有2人
+
+[18:13:29]
+[44FF00] eebot
+ ·
+贤者13的树洞
+https://sage-thirteen.mysxl.cn/
+
+[18:14:33]
+[44FF00] eebot
+ hello yo badHC
+
+[18:14:33]
+[None] badHC
+1
+
+[18:14:48]
+[44FF00] eebot
+ badHC成功加入 现在有3人
+
+[18:14:48]
+[None] kkk
+开始游戏
+
+[18:15:01]
+[44FF00] eebot
+ 生草机游戏开始
+
+[18:15:01]
+[44FF00] eebot
+@badHC @kkk @警官 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[18:15:18]
+[44FF00] eebot
+ hello yo ggggggg
+
+[18:15:37]
+[None] ggggggg
+1
+
+[18:16:27]
+[44FF00] eebot
+ [2022.07.09 18:16:26]
+eebot在医院人生重开模拟器中
+
+[18:16:27]
+[44FF00] eebot
+ ·
+详细信息：
+eebot（badHC）
+在医院（kkk）
+人生重开模拟器中（替警官写的eebot）
+·
+本次参与人数：3
+
+[18:16:27]
+[44FF00] eebot
+ 记录成功
+
+[18:16:27]
+[None] ggggggg
+1
+
+[18:16:35]
+[44FF00] eebot
+ ggggggg成功加入 现在有1人
+
+[18:16:35]
+[None] ggggggg
+1
+
+[18:16:38]
+[44FF00] eebot
+ ggggggg已经报过数了 现在有1人
+
+[18:17:39]
+[44FF00] eebot
+ hi yo KiloMxmxxx
+
+[18:17:39]
+[KiloMx] KiloMxmxxx
+@_ 我一直想重开个存档QwQ
+
+[18:18:02]
+[None] kkk
+1
+
+[18:18:32]
+[44FF00] eebot
+ kkk成功加入 现在有2人
+
+[18:18:33]
+[None] kkk
+接个1呗
+
+[18:19:06]
+[44FF00] eebot
+ hello yo badHC
+
+[18:19:06]
+[None] badHC
+1
+
+[18:19:19]
+[44FF00] eebot
+ badHC成功加入 现在有3人
+
+[18:19:19]
+[None] kkk
+开始游戏
+
+[18:19:31]
+[44FF00] eebot
+ 生草机游戏开始
+
+[18:19:31]
+[44FF00] eebot
+@badHC @kkk @ggggggg 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[18:19:46]
+[44FF00] eebot
+ hey yo fcjz
+
+[18:19:46]
+[None] ggggggg
+信息
+
+[18:20:31]
+[44FF00] eebot
+ [2022.07.09 18:20:06]
+Kiloxmxxx在厕所强奸
+
+[18:20:31]
+[44FF00] eebot
+ ·
+详细信息：
+Kiloxmxxx（badHC）
+在厕所（kkk）
+强奸（ggggggg）
+·
+本次参与人数：3
+
+[18:20:31]
+[44FF00] eebot
+ 记录成功
+
+[18:20:42]
+[DPGawa] _
+?
+
+[18:20:42]
+[None] kkk
+哇哇哇哇哇哇哇哇哇哇哇
+
+[18:20:44]
+[None] ggggggg
+哈哈哈哈哈哈哈啊哈哈哈哈哈哈哈哈哈哈哈
+
+[18:20:46]
+[None] kkk
+靠
+
+[18:20:49]
+[None] kkk
+坑人
+
+[18:20:55]
+[None] kkk
+唉
+
+[18:20:59]
+[None] ggggggg
+啊哈哈哈哈哈哈哈哈哈啊哈哈哈哈哈哈哈哈
+
+[18:21:00]
+[None] ggggggg
+1
+
+[18:21:01]
+[44FF00] eebot
+ ggggggg成功加入 现在有1人
+
+[18:21:01]
+[None] kkk
+不过挺好笑
+
+[18:21:07]
+[None] kkk
+1
+
+[18:21:08]
+[44FF00] eebot
+ kkk成功加入 现在有2人
+
+[18:21:08]
+[None] ggggggg
+1*114514
+
+[18:21:12]
+[JVcLW8] fcjz
+1
+
+[18:21:13]
+[44FF00] eebot
+ fcjz成功加入 现在有3人
+
+[18:21:19]
+[44FF00] eebot
+ hey yo xmzd
+
+[18:21:19]
+[None] ggggggg
+开始游戏
+
+[18:21:20]
+[44FF00] eebot
+ 生草机游戏开始
+
+[18:21:20]
+[44FF00] eebot
+@kkk @ggggggg @fcjz 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[18:21:20]
+[JVcLW8] fcjz
+这个ggggggg是谁
+
+[18:21:28]
+[None] ggggggg
+我
+
+[18:21:30]
+[None] kkk
+\w eebot eebot
+
+[18:21:39]
+[None] ggggggg
+警官
+
+[18:21:44]
+[None] xmzd
+谁见ee了
+
+[18:21:52]
+[None] badHC
+1
+
+[18:21:55]
+[None] ggggggg
+他退了吧
+
+[18:21:56]
+[None] badHC
+wow
+
+[18:22:02]
+[44FF00] eebot
+ —︵—
+
+[18:22:02]
+[JVcLW8] fcjz
+要不你去别的聊天室或者留言板看看
+
+[18:22:03]
+[JVcLW8] fcjz
+？
+
+[18:22:04]
+[None] xmzd
+ee他们那个聊天室叫啥来着
+
+[18:22:11]
+[None] xmzd
+标题是属于中国的hackchat（好像是）
+
+[18:22:32]
+[love13] ee
+@xmzd 啊 我回来了
+
+[18:22:47]
+[None] ggggggg
+哦吼
+
+[18:22:58]
+[edDiBU] 4n0n4me
+是tc
+
+[18:23:01]
+[love13] ee
+那个聊天室是https://chat.thz.cool/
+
+[18:23:05]
+[44FF00] eebot
+@ee hack.chat
+https://chat.thz.cool/
+
+[18:23:05]
+[edDiBU] 4n0n4me
+chat.thz.cool
+
+[18:23:07]
+[None] xmzd
+ok
+
+[18:23:11]
+[Vi23PM] light
+hi
+
+[18:23:13]
+[44FF00] eebot
+ [2022.07.09 18:23:11]
+eebot在马桶圈上我在使用TiddlyWiki
+
+[18:23:13]
+[44FF00] eebot
+ ·
+详细信息：
+eebot（kkk）
+在马桶圈上（ggggggg）
+我在使用TiddlyWiki（fcjz）
+·
+本次参与人数：3
+
+[18:23:13]
+[44FF00] eebot
+ 记录成功
+
+[18:23:13]
+[None] badHC
+1
+
+[18:23:19]
+[44FF00] eebot
+ badHC成功加入 现在有1人
+
+[18:23:19]
+[None] ggggggg
+1
+
+[18:23:21]
+[44FF00] eebot
+ ggggggg成功加入 现在有2人
+
+[18:23:21]
+[None] xmzd
+样子貌似变了
+
+[18:23:26]
+[JVcLW8] fcjz
+1
+
+[18:23:27]
+[44FF00] eebot
+ fcjz成功加入 现在有3人
+
+[18:23:27]
+[None] kkk
+1
+
+[18:23:28]
+[44FF00] eebot
+ kkk成功加入 现在有4人
+
+[18:23:28]
+[None] ggggggg
+开始游戏
+
+[18:23:33]
+[44FF00] eebot
+ 生草机游戏开始
+
+[18:23:33]
+[44FF00] eebot
+@badHC @ggggggg @kkk @fcjz 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[18:23:54]
+[DPGawa] _
+-.-
+
+[18:24:00]
+[None] xmzd
+@ee 咱团队有没有QQ群啥的
+
+[18:24:11]
+[None] xmzd
+或者即时通讯依靠哪个网站？
+
+[18:24:38]
+[Vi23PM] light
+who areyou
+
+[18:24:45]
+[love13] ee
+@xmzd ~~即时通讯在一堆聊天室上随便跑~~
+
+[18:24:48]
+[love13] ee
+其实还没有Q群
+
+[18:24:55]
+[44FF00] eebot
+ [2022.07.09 18:24:53]
+ sir在xmzd的肚子里上厕所 结果被拉了出来
+
+[18:24:55]
+[44FF00] eebot
+ ·
+开头：
+ sir（badHC）
+在xmzd的肚子里（ggggggg）
+上厕所（kkk）
+·
+续写：
+结果被拉了出来（fcjz）
+·
+本次参与人数：4
+
+[18:24:55]
+[44FF00] eebot
+ 记录成功
+
+[18:24:55]
+[None] kkk
+>44FF00 *：
+>eebot whispered: OK 目前的故事为： sir在xmzd的肚子里上厕所
+
+@* 嗯嗯
+
+[18:24:57]
+[DPGawa] _
+?
+
+[18:24:57]
+[None] xmzd
+阿这...
+
+[18:24:59]
+[love13] ee
+草
+
+[18:25:07]
+[None] ggggggg
+额，不好意西
+
+[18:25:08]
+[DPGawa] _
+?
+
+[18:25:10]
+[None] ggggggg
+不过
+
+[18:25:18]
+[None] ggggggg
+哈哈哈哈哈哈哈啊啊哈哈哈哈哈哈哈哈哈哈
+
+[18:25:24]
+[JVcLW8] fcjz
+在人家肚子里上厕所
+
+[18:25:28]
+[love13] ee
+哈哈哈哈哈
+
+[18:25:28]
+[44FF00] eebot
+ 哈哈哈哈哈草
+
+[18:25:28]
+[JVcLW8] fcjz
+可不就得拉出来吗
+
+[18:25:34]
+[None] xmzd
+???
+
+[18:25:38]
+[love13] ee
+xmzd躺枪
+
+[18:25:40]
+[love13] ee
+（
+
+[18:25:43]
+[None] xmzd
+wo de shu ru fa tu ran huai le
+
+[18:25:52]
+[love13] ee
+hao jia huo
+
+[18:26:00]
+[JVcLW8] fcjz
+点一下shift？
+
+[18:26:01]
+[Vi23PM] light
+哈哈哈可怜的孩子
+
+[18:26:03]
+[None] xmzd
+诶好了
+
+[18:26:06]
+[None] xmzd
+芜湖
+
+[18:26:09]
+[Vi23PM] light
+...
+
+[18:26:10]
+[Vi23PM] light
+fk
+
+[18:26:11]
+[None] xmzd
+ee有事没
+
+[18:26:29]
+[DPGawa] _
+?
+
+[18:26:37]
+[love13] ee
+@xmzd https://xq.kzw.ink/?hiyoteam
+
+[18:26:52]
+[44FF00] eebot
+@ee XChat
+https://xq.kzw.ink/?hiyoteam
+
+[18:26:52]
+[None] xmzd
+来服务器帮帮孩子吧
+
+[18:26:59]
+[None] kkk
+1
+
+[18:27:19]
+[44FF00] eebot
+ kkk成功加入 现在有1人
+
+[18:27:19]
+[JVcLW8] fcjz
+确实应该整一个即时通讯据点
+
+[18:27:21]
+[JVcLW8] fcjz
+1
+
+[18:27:22]
+[44FF00] eebot
+ fcjz成功加入 现在有2人
+
+[18:27:23]
+[love13] ee
+我们团队的基地是这个
+
+[18:27:23]
+[Vi23PM] light
+我可以写一个
+
+[18:27:31]
+[love13] ee
+@xmzd 你的服务器怎么了吗
+
+[18:27:32]
+[None] xmzd
+啊ok
+
+[18:27:35]
+[JVcLW8] fcjz
+可是这里也要聊别的东西啊
+
+[18:27:37]
+[DPGawa] _
+?
+
+[18:27:40]
+[None] xmzd
+倒是没出现什么故障，总之就是事太多
+
+[18:27:51]
+[None] xmzd
+虽然ccox已经去备案了，但是经过查询发现貌似被墙了
+
+[18:28:05]
+[None] xmzd
+（部分网络无法访问）
+
+[18:28:11]
+[love13] ee
+嘶
+
+[18:28:17]
+[None] xmzd
+我选择了再次更换域名
+
+[18:28:18]
+[None] xmzd
+然后现在的任务就很多
+
+[18:28:26]
+[love13] ee
+（为什么还会墙了国内）
+
+[18:28:33]
+[love13] ee
+有什么需要帮忙的吗
+
+[18:28:43]
+[None] xmzd
+因为服务器在国外
+
+[18:28:45]
+[love13] ee
+（虽然我不一定帮得上
+
+[18:28:51]
+[None] xmzd
+帮忙找找有没有免费的ssl证书吧，救救孩子吧
+
+[18:29:05]
+[None] xmzd
+然后你要是愿意的话可以把你的网站扔我服务器上，我在留言板看你貌似遇到了苦难
+
+[18:29:37]
+[None] xmzd
+困难
+
+[18:29:39]
+[Vi23PM] light
+hack.chat/?fynoao
+
+[18:29:39]
+[love13] ee
+>xmzd：
+>帮忙找找有没有免费的ssl证书吧，救救孩子吧
+
+@xmzd 好 我试试看能不能找到
+
+[18:29:56]
+[None] ggggggg
+1
+
+[18:30:04]
+[44FF00] eebot
+ ggggggg成功加入 现在有3人
+
+[18:30:04]
+[None] ggggggg
+开始游戏
+
+[18:30:11]
+[44FF00] eebot
+ 生草机游戏开始
+
+[18:30:11]
+[44FF00] eebot
+@kkk @fcjz @ggggggg 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[18:30:11]
+[love13] ee
+>xmzd：
+>然后你要是愿意的话可以把你的网站扔我服务器上，我在留言板看你貌似遇到了苦难
+
+@xmzd 哈哈哈哈哈确实 先感谢你了 我去找找
+
+[18:30:11]
+[None] xmzd
+好嘞
+
+[18:30:19]
+[love13] ee
+等等
+
+[18:30:30]
+[love13] ee
+你是找不到免费的还是
+
+[18:30:36]
+[None] xmzd
+这么说吧
+
+[18:30:45]
+[None] xmzd
+免费的基本用完了
+
+[18:30:51]
+[love13] ee
+OKOK
+
+[18:30:58]
+[None] xmzd
+你有腾讯云吗？
+
+[18:31:07]
+[KiloMx] KiloMxmxxx
+@_
+
+[18:31:12]
+[KiloMx] KiloMxmxxx
+给op
+
+[18:31:13]
+[KiloMx] KiloMxmxxx
+树都挖不了
+
+[18:31:28]
+[KiloMx] KiloMxmxxx
+ook
+
+[18:31:28]
+[love13] ee
+>xmzd：
+>你有腾讯云吗？
+
+@xmzd 我有账号但没有实名 什么都没买过
+
+[18:31:53]
+[KiloMx] KiloMxmxxx
+服务器占用多少啊这么卡
+
+[18:31:58]
+[None] xmzd
+啊那估计不太行
+
+[18:32:03]
+[DPGawa] _
+?
+
+[18:32:09]
+[None] xmzd
+我也找过一些免费的，但是都是冷门的，没法用
+
+[18:32:30]
+[44FF00] eebot
+ [2022.07.09 18:32:28]
+kkk和K在马桶里立夏时分
+
+[18:32:30]
+[44FF00] eebot
+ ·
+详细信息：
+kkk和K（替kkk写的eebot）
+在马桶里（fcjz）
+立夏时分（替ggggggg写的eebot）
+·
+本次参与人数：3
+
+[18:32:30]
+[44FF00] eebot
+ 记录成功
+
+[18:32:35]
+[44FF00] eebot
+ hi yo ggggggg
+
+[18:32:35]
+[love13] ee
+@xmzd 你有看过这个吗 https://zhuanlan.zhihu.com/p/174755007
+
+[18:32:41]
+[DPGawa] _
+ 104.35% / 100%
+
+ 1.44 GB / 2 GB
+
+ 274.15 MB / 512 MB
+
+[18:32:41]
+[None] ggggggg
+1
+
+[18:32:51]
+[44FF00] eebot
+ ggggggg成功加入 现在有1人
+
+[18:32:51]
+[None] ggggggg
+开始游戏
+
+[18:32:59]
+[44FF00] eebot
+ 人数不足 至少要有3个人
+
+[18:32:59]
+[None] xmzd
+没有，我去看看
+
+[18:33:01]
+[JVcLW8] fcjz
+1
+
+[18:33:10]
+[44FF00] eebot
+ fcjz成功加入 现在有2人
+
+[18:33:10]
+[None] xmzd
+芜湖，救星
+
+[18:33:13]
+[None] ggggggg
+开始游戏
+
+[18:33:15]
+[44FF00] eebot
+ 人数不足 至少要有3个人
+
+[18:33:16]
+[None] ggggggg
+e
+
+[18:33:18]
+[44FF00] eebot
+ 原来是沉默吗
+
+[18:33:25]
+[44FF00] eebot
+ [2022.07.09 18:33:24]
+
+[18:33:25]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[18:33:25]
+[JVcLW8] fcjz
+我刚搜到这篇专栏
+
+[18:33:27]
+[None] ggggggg
+开始游戏
+
+[18:33:30]
+[None] ggggggg
+功能
+
+[18:33:41]
+[love13] ee
+生草机
+
+[18:33:49]
+[44FF00] eebot
+ ·
+示例：
+（开头）纸片君在厕所吃屎 （续写）看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[18:33:49]
+[44FF00] eebot
+ 请用1报数
+
+[18:33:49]
+[love13] ee
+1
+
+[18:33:49]
+[44FF00] eebot
+ ee成功加入 现在有1人
+
+[18:33:49]
+[JVcLW8] fcjz
+bing搜索免费ssl第一个。。。
+
+[18:33:52]
+[JVcLW8] fcjz
+1
+
+[18:33:54]
+[44FF00] eebot
+ fcjz成功加入 现在有2人
+
+[18:33:54]
+[None] xmzd
+啊我现在就一堆事1.给24个网站进行跨域名数据迁移 2.给所有网站申请ssl证书 3.给新域名进行备案 4.可能要换服务器ip 5.给所有网站配置cdn 6.把ccox和noxx都利用国内服务器进行转发
+
+[18:33:55]
+[None] kkk
+1
+
+[18:33:55]
+[44FF00] eebot
+ kkk成功加入 现在有3人
+
+[18:33:56]
+[None] kkk
+开始游戏
+
+[18:34:04]
+[44FF00] eebot
+ 生草机游戏开始
+
+[18:34:05]
+[44FF00] eebot
+@ee @fcjz @kkk 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[18:34:21]
+[love13] ee
+>xmzd：
+>啊我现在就一堆事1.给24个网站进行跨域名数据迁移 2.给所有网站申请ssl证书 3.给新域名进行备案 4.可能要换服务器ip 5.给所有网站配置cdn 6.把ccox和noxx都利用国内服务器进行转发
+
+@xmzd 这也太忙了
+
+[18:34:55]
+[love13] ee
+而且有是一整个站群（
+
+[18:35:02]
+[44FF00] eebot
+ [2022.07.09 18:34:56]
+eebot在大火中吃屎
+
+[18:35:02]
+[44FF00] eebot
+ ·
+详细信息：
+eebot（ee）
+在大火中（fcjz）
+吃屎（kkk）
+·
+本次参与人数：3
+
+[18:35:02]
+[44FF00] eebot
+ 记录成功
+
+[18:35:02]
+[None] xmzd
+如果说是一两个网站那一会儿就搞定了
+
+[18:35:09]
+[None] kkk
+呵呵呵呵
+
+[18:35:13]
+[love13] ee
+是啊
+
+[18:35:13]
+[None] xmzd
+站群就离谱
+
+[18:35:15]
+[love13] ee
+哈哈哈哈哈
+
+[18:35:18]
+[44FF00] eebot
+ 草哈哈哈哈哈
+
+[18:35:18]
+[JVcLW8] fcjz
+24个网站。。。
+
+[18:35:23]
+[JVcLW8] fcjz
+够忙的兄弟
+
+[18:35:27]
+[None] xmzd
+啊好像不止24个
+
+[18:35:33]
+[JVcLW8] fcjz
+那更忙了
+
+[18:35:47]
+[None] xmzd
+24个二级域名，每个域名下面还有亿个网站
+
+[18:35:48]
+[None] xmzd
+焯！
+
+[18:35:58]
+[love13] ee
+星聊第n次挂了（
+
+[18:35:59]
+[love13] ee
+草
+
+[18:36:01]
+[None] xmzd
+哈哈哈嗝
+
+[18:36:05]
+[love13] ee
+哈哈哈哈哈哈哈哈嗝-
+
+[18:36:15]
+[love13] ee
+生草
+
+[18:36:21]
+[None] xmzd
+我不理解我的域名为啥老出事
+
+[18:36:22]
+[None] xmzd
+一堆好心人
+
+[18:36:25]
+[love13] ee
+>xmzd：
+>我不理解我的域名为啥老出事
+
+@xmzd 看出来了（
+
+[18:36:35]
+[Vi23PM] light
+xiaxiaxia
+
+[18:36:41]
+[love13] ee
+这次还要换域名吗
+
+[18:36:45]
+[edDiBU] 4n0n4me
+怎么回事
+
+[18:36:51]
+[None] xmzd
+我从z7zz变成了osww变成了noxx变成了ccox变成了uerr
+
+[18:36:52]
+[edDiBU] 4n0n4me
+域名怎么会出事的
+
+[18:36:55]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[18:36:57]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[18:36:57]
+[None] xmzd
+现在要换成uerr
+
+[18:36:59]
+[edDiBU] 4n0n4me
+为什么
+
+[18:37:01]
+[Vi23PM] light
+域名的老板被杀了
+
+[18:37:05]
+[None] xmzd
+因为被墙了
+
+[18:37:09]
+[love13] ee
+对
+
+[18:37:13]
+[Vi23PM] light
+被鲨了
+
+[18:37:14]
+[None] xmzd
+国内的服务器还贵
+
+[18:37:14]
+[edDiBU] 4n0n4me
+woc？？
+
+[18:37:15]
+[Vi23PM] light
+？？
+
+[18:37:18]
+[Vi23PM] light
+>xmzd：
+>国内的服务器还贵
+
+@xmzd ？？？
+
+[18:37:22]
+[edDiBU] 4n0n4me
+这个域名是有人提供的吗
+
+[18:37:22]
+[JVcLW8] fcjz
+阿这
+
+[18:37:23]
+[love13] ee
+但这是服务器的问题
+
+[18:37:26]
+[edDiBU] 4n0n4me
+还是你自己注册了他的一级域名
+
+[18:37:31]
+[JVcLW8] fcjz
+不是说服务器在国外吗
+
+[18:37:33]
+[None] xmzd
+我自己的一级域名
+
+[18:37:37]
+[None] xmzd
+是啊，服务器在国外啊
+
+[18:37:41]
+[edDiBU] 4n0n4me
+一级域名为什么会被墙啊
+
+[18:37:41]
+[None] xmzd
+。。。
+
+[18:37:45]
+[edDiBU] 4n0n4me
+难道你的网站有问题
+
+[18:37:46]
+[None] xmzd
+域名是中国关网墙的
+
+[18:37:54]
+[None] ggggggg
+1
+
+[18:38:01]
+[44FF00] eebot
+ ggggggg成功加入 现在有1人
+
+[18:38:02]
+[None] xmzd
+啊没有备案搞营业呗
+
+[18:38:05]
+[JVcLW8] fcjz
+1
+
+[18:38:05]
+[44FF00] eebot
+ fcjz成功加入 现在有2人
+
+[18:38:05]
+[None] kkk
+1
+
+[18:38:09]
+[44FF00] eebot
+ kkk成功加入 现在有3人
+
+[18:38:09]
+[edDiBU] 4n0n4me
+好家伙不备案
+
+[18:38:09]
+[love13] ee
+哈哈哈确实
+
+[18:38:10]
+[edDiBU] 4n0n4me
+这个域名是国内的吗
+
+[18:38:14]
+[None] xmzd
+直接给我跳转反诈
+
+[18:38:15]
+[JVcLW8] fcjz
+游戏开始
+
+[18:38:15]
+[love13] ee
+备案漫长
+
+[18:38:15]
+[None] xmzd
+然后就被墙了
+
+[18:38:18]
+[love13] ee
+备案之路漫长
+
+[18:38:20]
+[love13] ee
+1
+
+[18:38:21]
+[44FF00] eebot
+ ee成功加入 现在有4人
+
+[18:38:21]
+[None] kkk
+开始游戏
+
+[18:38:22]
+[44FF00] eebot
+ 生草机游戏开始
+
+[18:38:22]
+[edDiBU] 4n0n4me
+域名注册局是国内的吗
+
+[18:38:22]
+[44FF00] eebot
+@ee @ggggggg @fcjz @kkk 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[18:38:23]
+[None] xmzd
+域名部分国内国外
+
+[18:38:25]
+[edDiBU] 4n0n4me
+是属于中国的域名吗
+
+[18:38:28]
+[None] xmzd
+不分
+
+[18:38:28]
+[edDiBU] 4n0n4me
+不是，怎么可能
+
+[18:38:36]
+[None] xmzd
+域名不分国内国外的
+
+[18:38:36]
+[edDiBU] 4n0n4me
+我听说top域名就属于中国的
+
+[18:38:38]
+[None] ggggggg
+DU-OIer
+
+[18:38:40]
+[44FF00] eebot
+ ·
+查询：OIer
+·
+百度：oier，指奥林匹克信息学竞赛参与人群。
+OI=Olympiad in Informatics, 即信息学奥林匹克。
+在英语中「-er」词缀通常表示「××的人」，因此，顾名思义，OIer可理解成参加信息学竞赛的人或信息学竞赛（如CSP,NOI,IOI,CTS（C）,APIO，甚至ACM）选手，或者也可以理解为信息学奥林匹克爱好者从事信息学研究的人。
+
+[18:38:40]
+[None] xmzd
+？？？
+
+[18:38:41]
+[edDiBU] 4n0n4me
+肯定有这种说法的
+
+[18:38:43]
+[None] xmzd
+cn域名是中国域名，但是不是说中国才能用
+
+[18:38:51]
+[None] xmzd
+这个意思
+
+[18:38:58]
+[JVcLW8] fcjz
+对待
+
+[18:39:00]
+[JVcLW8] fcjz
+的
+
+[18:39:01]
+[None] ggggggg
+DU-凸包算法
+
+[18:39:04]
+[44FF00] eebot
+ 查询失败 无此百科
+
+[18:39:04]
+[None] xmzd
+所以说不分国内国外
+
+[18:39:07]
+[None] xmzd
+主要是看你的服务器所在地
+
+[18:39:16]
+[None] ggggggg
+DU-我的世界
+
+[18:39:23]
+[44FF00] eebot
+ ·
+查询：我的世界
+·
+百度：《我的世界》（Minecraft）是一款沙盒类电子游戏，开创者为马库斯·阿列克谢·泊松（Notch）。
+游戏由Mojang Studios维护，隶属于微软Xbox游戏工作室。
+中国版现由网易游戏代理，于2017年8月8日在中国大陆运营。
+自开创伊始到延斯·伯根斯坦加入并负责开发之前，我的世界几乎全部的开发工作由Notch完成。
+游戏音乐由丹尼尔·罗森菲尔德（C418）和莉娜·雷恩（Lena Raine）创作；克里斯托弗·泽特斯特兰绘制了游戏中的画。
+游戏最初于2009年5月17日作为Classic版本发布，并于2011年11月18日发布Java正式版。
+我的世界的游戏平台囊括桌面设备、移动设备和游戏主机。
+该游戏以玩家在三维空间中自由地创造和破坏不同种类的方块为主题。
+玩家在游戏中可以在单人或多人模式中通过摧毁或创造精妙绝伦的建筑物和艺术，或者收集物品探索地图以完成游戏的成就（进度）。
+玩家也可以尝试在创造 
+
+[18:39:23]
+[love13] ee
+是的
+
+[18:39:24]
+[None] ggggggg
+DU-迷你世界
+
+[18:39:36]
+[44FF00] eebot
+ ·
+查询：迷你世界
+·
+百度：《迷你世界》是一款高度自由的休闲3D沙盒游戏，由深圳市迷你玩科技有限公司运营。
+游戏有着方便快捷的多人联机模式，只要有网络就能和各个地方的小伙伴们一起玩。
+人数限制为电脑版最多40人，手机版最多6人。
+这里没有等级和规则限制，没有规定的玩法，只有随心所欲的破坏和天马行空的创造。
+玩家可以在游戏里成为最牛的建筑大师，创建房屋、车辆、飞机、城堡、城市。
+也可以过快乐的田园生活，种花草庄稼，养一群可爱的动物。
+也可尽享勇士荣耀，带领小伙伴前往火山挑战入侵的虚空幻影，也可以当＂熊孩子＂随心所欲地在自己的地图里＂破坏＂释放压力。
+还可以做迷你世界的创世神，制造洪水、科技来改变世界。
+最后还可以把你的世界分享给其他小伙伴，供人膜拜，一起欢乐。
+
+[18:39:36]
+[None] xmzd
+国外服务器被墙那国内就访问不了，相反的，国外就访问不了（免费防火墙哈哈哈嗝）
+
+[18:39:43]
+[None] ggggggg
+DU-xmzd
+
+[18:39:53]
+[44FF00] eebot
+ 查询失败 无此百科
+
+[18:39:53]
+[love13] ee
+哈哈哈哈哈
+
+[18:39:54]
+[44FF00] eebot
+ 哈哈哈哈哈嗝-
+
+[18:39:55]
+[edDiBU] 4n0n4me
+没有，有的域名的注册局在中国
+
+[18:39:55]
+[None] xmzd
+DU-朽木自雕
+
+[18:39:59]
+[44FF00] eebot
+ 查询失败 无此百科
+
+[18:40:00]
+[None] ggggggg
+DU-jj
+
+[18:40:09]
+[44FF00] eebot
+ 查询失败 无此百科
+
+[18:40:09]
+[edDiBU] 4n0n4me
+如果你用在中国平台注册的域名，或者注册局在中国的域名
+
+[18:40:10]
+[love13] ee
+DU-hack.chat
+
+[18:40:13]
+[44FF00] eebot
+ 查询失败 无此百科
+
+[18:40:13]
+[edDiBU] 4n0n4me
+然后不断更换域名
+
+[18:40:15]
+[None] ggggggg
+DU-C++
+
+[18:40:22]
+[edDiBU] 4n0n4me
+恐怕属于顶风作案
+
+[18:40:22]
+[edDiBU] 4n0n4me
+非常危险了
+
+[18:40:22]
+[44FF00] eebot
+ ·
+查询：C++
+·
+百度：C++是一种计算机高级程序设计语言，由C语言扩展升级而产生，最早于1979年由本贾尼·斯特劳斯特卢普在AT&amp;amp;T贝尔工作室研发。
+C++既可以进行C语言的过程化程序设计，又可以进行以抽象数据类型为特点的基于对象的程序设计，还可以进行以继承和多态为特点的面向对象的程序设计。
+C++擅长面向对象程序设计的同时，还可以进行基于过程的程序设计。
+C++拥有计算机运行的实用性特征，同时还致力于提高大规模程序的编程质量与程序设计语言的问题描述能力。
+
+[18:40:22]
+[None] xmzd
+我不是注册的域名
+
+[18:40:25]
+[None] xmzd
+买的
+
+[18:40:27]
+[Vi23PM] light
+？
+
+[18:40:36]
+[44FF00] eebot
+ [2022.07.09 18:40:33]
+xmzd的服务器在虚拟世界被吃了 结果吃了一吨屎
+
+[18:40:36]
+[44FF00] eebot
+ ·
+开头：
+xmzd的服务器（ee）
+在虚拟世界（替ggggggg写的eebot）
+被吃了（fcjz）
+·
+续写：
+结果吃了一吨屎（kkk）
+·
+本次参与人数：4
+
+[18:40:36]
+[44FF00] eebot
+ 记录成功
+
+[18:40:36]
+[None] ggggggg
+DU-钱
+
+[18:40:39]
+[44FF00] eebot
+ ·
+查询：钱
+·
+百度：钱姓，中华姓氏之一，在宋版《百家姓》中，排名为第2位。
+钱姓可以追溯至黄帝七世孙彭祖。
+这位史传寿高880岁的寿星真名叫篯铿，后被尧赏识，受封于大彭，成为彭姓的祖先。
+而彭祖之子篯孚，在西周都城，任钱府（掌管钱财的官署）上士（官名），篯孚就以「钱」为姓，所以彭姓与钱姓本为一家，民间至今也有「彭钱不分家」的说法。
+由于西周建都于镐京（今陕西西安），篯孚必在京为官，所以钱姓也是发源于陕西一带。
+先秦时钱姓表现不明朗。
+秦汉时期，钱姓在江苏徐州一带静静地发展起来，三国时，钱姓已经遍布了江苏、浙江和安徽。
+晋朝时江西成为钱姓的另一重要的基地。
+唐朝之前，钱姓已经分布到中原和长江南北。
+钱姓发展的鼎盛时期是在唐宋之际，钱镠在临安称帝，即在今浙江杭州建立了吴越国，传五主，割据江苏南部和浙江一带达86年，钱镠的子孙分封到各地，子孙很快在江浙地区繁衍。
+不久钱姓进入了闽粤地区，清初涉足台湾。
+2013年钱姓人口约有249万，排 
+
+[18:40:39]
+[edDiBU] 4n0n4me
+@xmzd 买的不就是注册的
+
+[18:40:46]
+[None] kkk
+DU_MC
+
+[18:40:47]
+[None] ggggggg
+1
+
+[18:40:49]
+[44FF00] eebot
+ ggggggg成功加入 现在有1人
+
+[18:40:49]
+[None] xmzd
+啊差不多吧
+
+[18:40:51]
+[edDiBU] 4n0n4me
+你在什么平台买的
+
+[18:40:51]
+[Vi23PM] light
+DU-MC
+
+[18:40:53]
+[44FF00] eebot
+ ·
+查询：MC
+·
+百度：镆（Moscovium），是一种人工合成的放射性金属元素，原子序数是115，弱金属之一。
+
+[18:40:53]
+[None] xmzd
+聚名网
+
+[18:40:55]
+[Vi23PM] light
+DU-Mc
+
+[18:41:05]
+[None] ggggggg
+额
+
+[18:41:05]
+[edDiBU] 4n0n4me
+我不是很了解，但是据我所知
+
+[18:41:05]
+[None] ggggggg
+功能
+
+[18:41:05]
+[44FF00] eebot
+ ·
+查询：Mc
+·
+百度：镆（Moscovium），是一种人工合成的放射性金属元素，原子序数是115，弱金属之一。
+
+[18:41:05]
+[Vi23PM] light
+DU-Minecraft
+
+[18:41:06]
+[44FF00] eebot
+ ·
+查询：Minecraft
+·
+百度：《我的世界》（Minecraft）是一款沙盒类电子游戏，开创者为马库斯·阿列克谢·泊松（Notch）。
+游戏由Mojang Studios维护，隶属于微软Xbox游戏工作室。
+中国版现由网易游戏代理，于2017年8月8日在中国大陆运营。
+自开创伊始到延斯·伯根斯坦加入并负责开发之前，我的世界几乎全部的开发工作由Notch完成。
+游戏音乐由丹尼尔·罗森菲尔德（C418）和莉娜·雷恩（Lena Raine）创作；克里斯托弗·泽特斯特兰绘制了游戏中的画。
+游戏最初于2009年5月17日作为Classic版本发布，并于2011年11月18日发布Java正式版。
+我的世界的游戏平台囊括桌面设备、移动设备和游戏主机。
+该游戏以玩家在三维空间中自由地创造和破坏不同种类的方块为主题。
+玩家在游戏中可以在单人或多人模式中通过摧毁或创造精妙绝伦的建筑物和艺术，或者收集物品探索地图以完成游戏的成就（进度）。
+玩家也可以尝试在创造 
+
+[18:41:06]
+[None] xmzd
+啊但是域名被墙其实没啥的
+
+[18:41:11]
+[edDiBU] 4n0n4me
+域名肯定是有一定意义上的国别的
+
+[18:41:13]
+[edDiBU] 4n0n4me
+聚名网是中国的吧
+
+[18:41:20]
+[None] kkk
+DU-猪
+
+[18:41:28]
+[44FF00] eebot
+ ·
+查询：猪
+·
+百度：猪（Pig、Swine）是一种脊椎动物、哺乳动物、家畜，也是古杂食类哺乳动物，主要分为家猪和野猪。
+当前人们认为猪是猪科动物的简称，猪依据品种的不同，体貌特征也各不相同；通常以耳大，头长，四肢短小，鼻直，身体肥壮，腰背窄为主要形体特征。
+毛发较粗硬，毛皮颜色通常为白色、粉色、黑色、棕色和花色。
+家猪是野猪被人类驯化后所形成的亚种，獠牙较野猪短，是人类所驯养的家畜之一，一般来说，家猪是指人类蓄养多供食用的猪种类型。
+在医学界，植入人体细胞的猪的心脏瓣膜已经用于患者治疗，猪的韧带肌腱移植也已经成熟，因此它们被认为是现阶段异种器官移植的最佳选择对象。
+
+[18:41:28]
+[edDiBU] 4n0n4me
+你在中国买了域名，不备案就运行
+
+[18:41:28]
+[None] xmzd
+聚名网也卖.com
+
+[18:41:32]
+[edDiBU] 4n0n4me
+不会被查水表吧
+
+[18:41:35]
+[None] kkk
+1
+
+[18:41:35]
+[44FF00] eebot
+ kkk成功加入 现在有2人
+
+[18:41:35]
+[None] ggggggg
+online
+
+[18:41:36]
+[JVcLW8] fcjz
+有的时候可以从域名看出这个网站的国
+
+[18:41:36]
+[Vi23PM] light
+克里斯托弗·泽特斯特兰绘制了游戏中的画。
+
+[18:41:37]
+[None] xmzd
+也卖乱七八糟一堆域名
+
+[18:41:38]
+[love13] ee
+哈哈哈哈哈
+
+[18:41:44]
+[love13] ee
+1
+
+[18:41:44]
+[None] xmzd
+他只是个销售平台
+
+[18:41:46]
+[44FF00] eebot
+ 哈哈哈哈哈草
+
+[18:41:46]
+[44FF00] eebot
+ ee成功加入 现在有3人
+
+[18:41:46]
+[None] ggggggg
+1
+
+[18:41:47]
+[44FF00] eebot
+ ggggggg已经报过数了 现在有3人
+
+[18:41:47]
+[Vi23PM] light
+1
+
+[18:41:47]
+[44FF00] eebot
+ light成功加入 现在有4人
+
+[18:41:47]
+[None] kkk
+开始游戏
+
+[18:41:52]
+[44FF00] eebot
+ 生草机游戏开始
+
+[18:41:52]
+[44FF00] eebot
+@ee @ggggggg @light @kkk 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[18:41:52]
+[None] ggggggg
+开始
+
+[18:41:53]
+[None] ggggggg
+加速
+
+[18:42:05]
+[None] xmzd
+如果要被查也是工商局查
+
+[18:42:06]
+[None] ggggggg
+功能
+
+[18:42:06]
+[None] xmzd
+但是我服务器还在国外，芜湖
+
+[18:42:11]
+[love13] ee
+zzChumo的服务器被工商局查过水表
+
+[18:42:24]
+[None] kkk
+功能
+
+[18:42:27]
+[love13] ee
+然后 删库跑路了（
+
+[18:42:33]
+[None] xmzd
+别说了，我也
+
+[18:42:47]
+[None] xmzd
+本来用的腾讯云的服务器（今年9月才到期）
+
+[18:42:47]
+[love13] ee
+~~原因是开网盘存东西没备案~~
+
+[18:42:49]
+[love13] ee
+好家伙
+
+[18:42:51]
+[None] xmzd
+结果机器给我直接封了
+
+[18:42:54]
+[edDiBU] 4n0n4me
+我目前查到的资料说
+
+[18:42:58]
+[edDiBU] 4n0n4me
+域名不用备案
+
+[18:43:01]
+[None] ggggggg
+DU-封
+
+[18:43:03]
+[44FF00] eebot
+ ·
+查询：封
+·
+百度：封（拼音：fēng），汉语一级通用规范汉字（常用字）。
+此字始见于商代甲骨文，其古字形像在土堆上种树。
+封的本义是种树。
+古代诸侯受命建国后，即在所封疆土的边界上培土种树，故引申为边疆、边界。
+后来又引申指给予称号或官爵，再引申为禁止、限制等。
+由禁止、限制等意义引申为堵塞、封闭、包裹等。
+作名词指用于封装东西的纸包或袋子；作量词，则指包裹或封装起来的东西。
+
+[18:43:03]
+[edDiBU] 4n0n4me
+国内服务器才需要
+
+[18:43:06]
+[edDiBU] 4n0n4me
+但是我好像了解到一些不同于此的东西
+
+[18:43:11]
+[None] ggggggg
+DU-服务器
+
+[18:43:14]
+[edDiBU] 4n0n4me
+唉，我不清楚
+
+[18:43:15]
+[44FF00] eebot
+ 查询失败 无此百科
+
+[18:43:15]
+[None] xmzd
+是，但是被墙了你就无了
+
+[18:43:16]
+[None] ggggggg
+DU-国
+
+[18:43:21]
+[44FF00] eebot
+ ·
+查询：国
+·
+百度：国（拼音：guó）是汉语一级通用规范汉字（常用字），此字始见于商代。
+本义指疆域，地域。
+这个意思后来写作「域」。
+引申指地区，区域。
+又引申指分封的诸侯国。
+后泛指国家。
+也指国都。
+
+[18:43:21]
+[None] xmzd
+理论上不用备案
+
+[18:43:21]
+[love13] ee
+（
+
+[18:43:21]
+[None] ggggggg
+DU-理
+
+[18:43:29]
+[44FF00] eebot
+ 查询失败 无此百科
+
+[18:43:29]
+[None] xmzd
+但是仅存在于理论
+
+[18:43:32]
+[None] ggggggg
+DU-理论
+
+[18:43:40]
+[44FF00] eebot
+ ·
+查询：理论
+·
+百度：理论，汉语词语，读音为lǐ lùn。
+一指在某一活动领域（如医学或音乐）中联系实际推演出来的概念或原理；二指理想的或假设的一系列事实、原理或环境；三指从对事实的推测、演绎、抽象或综合而得出的[对某一个或某几个现象的性质、作用、原因或起源的]评价、看法、提法或程式；四指讲理、计较；五指理睬；六指处理。
+
+[18:43:40]
+[None] xmzd
+...
+
+[18:43:43]
+[44FF00] eebot
+ 不说话便是最好的回答
+
+[18:43:43]
+[JVcLW8] fcjz
+实际上还是要备案的
+
+[18:43:48]
+[Vi23PM] light
+服务器为什么要备案
+
+[18:43:49]
+[None] xmzd
+。。。
+
+[18:43:53]
+[None] ggggggg
+DU-备案
+
+[18:43:56]
+[44FF00] eebot
+ ·
+查询：备案
+·
+百度：备案是指向主管机关报告事由存案以备查考。
+行政法角度看备案，实践中主要是《立法法》和《法规规章备案条例》的规定。
+根据中华人民共和国信息产业部第十二次部务会议审议通过的《非经营性互联网信息服务备案管理办法》精神，在中华人民共和国境内提供非经营性互联网信息服务，应当办理备案。
+未经备案，不得在中华人民共和国境内从事非经营性互联网信息服务。
+而对于没有备案的网站将予以罚款和关闭。
+
+[18:43:56]
+[love13] ee
+奇怪的问题又多了
+
+[18:43:59]
+[None] ggggggg
+信息
+
+[18:44:05]
+[Vi23PM] light
+？
+
+[18:44:06]
+[None] kkk
+TU-干嘛
+
+[18:44:06]
+[44FF00] eebot
+ 嘛干
+
+[18:44:07]
+[None] xmzd
+不想解释了，网友的问题原来越离谱
+
+[18:44:09]
+[love13] ee
+哈哈哈哈哈
+
+[18:44:12]
+[44FF00] eebot
+ 草哈哈哈哈哈
+
+[18:44:12]
+[None] ggggggg
+kkk,开输入
+
+[18:44:20]
+[44FF00] eebot
+ [2022.07.09 18:44:17]
+xmzd的域名在水泥地上钓鱼 吃屎
+
+[18:44:20]
+[44FF00] eebot
+ ·
+开头：
+xmzd的域名（ee）
+在水泥地上（ggggggg）
+钓鱼（替light写的eebot）
+·
+续写：
+吃屎（kkk）
+·
+本次参与人数：4
+
+[18:44:20]
+[44FF00] eebot
+ 记录成功
+
+[18:44:20]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[18:44:20]
+[None] xmzd
+我的键盘已经被我敲出火花了
+
+[18:44:22]
+[Vi23PM] light
+我都用了这么久了从来没备案
+
+[18:44:24]
+[None] ggggggg
+功能
+
+[18:44:32]
+[None] xmzd
+你多少站点？
+
+[18:44:32]
+[None] kkk
+干嘛
+
+[18:44:38]
+[Vi23PM] light
+没有网站
+
+[18:44:40]
+[None] xmzd
+。。。
+
+[18:44:42]
+[zhang] zm_mz
+这不是朽木自雕吗？
+
+[18:44:42]
+[love13] ee
+程序员的灵魂在敲键盘的手速
+
+[18:44:43]
+[love13] ee
+（
+
+[18:44:49]
+[None] ggggggg
+TU-猪是你
+
+[18:44:50]
+[44FF00] eebot
+ 你是猪
+
+[18:44:50]
+[None] xmzd
+阿巴
+
+[18:44:52]
+[JVcLW8] fcjz
+程序员敲键盘比你思考都快
+
+[18:44:54]
+[love13] ee
+哈哈哈哈哈
+
+[18:44:58]
+[44FF00] eebot
+ 哈哈哈哈哈草
+
+[18:44:58]
+[None] kkk
+TU-好吧
+
+[18:45:02]
+[44FF00] eebot
+ 吧好
+
+[18:45:02]
+[None] xmzd
+哈哈嗝，那估计八成在怼人
+
+[18:45:06]
+[JVcLW8] fcjz
+脑袋还没有想出来
+
+[18:45:08]
+[love13] ee
+哈哈哈哈哈哈哈哈哈
+
+[18:45:12]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈草
+
+[18:45:12]
+[JVcLW8] fcjz
+字已经打上了
+
+[18:45:16]
+[love13] ee
+《肌肉记忆》
+
+[18:45:26]
+[zhang] zm_mz
+哈哈哈
+
+[18:45:27]
+[44FF00] eebot
+ 草哈哈哈
+
+[18:45:27]
+[JVcLW8] fcjz
+要不就是在怼人，要不就是在恋爱
+
+[18:45:31]
+[Vi23PM] light
+不，程序员花大量时间思考，平均打字速度没有小学生快
+
+[18:45:36]
+[None] ggggggg
+TU-猪是我
+
+[18:45:36]
+[44FF00] eebot
+ 我是猪
+
+[18:45:36]
+[love13] ee
+怎么还有恋爱
+
+[18:45:40]
+[Vi23PM] light
+-> python程序员
+
+[18:45:43]
+[None] kkk
+>ggggggg：
+>TU-猪是我
+
+@ggggggg wow~ ⊙o⊙
+
+[18:45:45]
+[love13] ee
+哈哈哈哈哈
+
+[18:45:49]
+[44FF00] eebot
+ 哈哈哈哈哈草
+
+[18:45:49]
+[JVcLW8] fcjz
+我是猪
+
+[18:45:50]
+[zhang] zm_mz
+假如以程序员噼里啪啦写BUG的素的在这里发信息
+
+[18:45:59]
+[None] kkk
+>JVcLW8 fcjz：
+>我是猪
+
+@fcjz 要加TU
+
+[18:46:02]
+[JVcLW8] fcjz
+TU-我是猪
+
+[18:46:10]
+[44FF00] eebot
+ 猪是我
+
+[18:46:10]
+[None] ggggggg
+TU-好爸爸
+
+[18:46:10]
+[44FF00] eebot
+ 爸爸好
+
+[18:46:10]
+[None] xmzd
+依稀记得我原来的域名是noxx，然后我的名字里也有n，然后我的域名还是cn，然后导致我现在键盘的n有点不管用了
+
+[18:46:13]
+[love13] ee
+哈哈哈哈哈
+
+[18:46:19]
+[44FF00] eebot
+ 哈哈哈哈哈嗝-
+
+[18:46:19]
+[zhang] zm_mz
+TU-我是霸王
+
+[18:46:24]
+[44FF00] eebot
+ 王霸是我
+
+[18:46:24]
+[None] ggggggg
+TU-依稀记得我原来的域名是noxx，然后我的名字里也有n，然后我的域名还是cn，然后导致我现在键盘的n有点不管用了
+
+[18:46:27]
+[44FF00] eebot
+ 了用管不点有n的盘键在现我致导后然，nc是还名域的我后然，n有也里字名的我后然，xxon是名域的来原我得记稀依
+
+[18:46:28]
+[JVcLW8] fcjz
+TU-我是屎
+
+[18:46:28]
+[44FF00] eebot
+ 屎是我
+
+[18:46:29]
+[None] xmzd
+有时候点n就点不动
+
+[18:46:30]
+[Vi23PM] light
+感受下三天敲1200行代码1000行不能用的感觉
+
+[18:46:34]
+[JVcLW8] fcjz
+你们都建过多少站？
+
+[18:46:45]
+[love13] ee
+nnnnnnnnnnnnnnnb！
+
+[18:46:47]
+[None] ggggggg
+功能
+
+[18:46:50]
+[None] xmzd
+建站?
+
+[18:46:56]
+[love13] ee
+我只有我的个人主义（
+
+[18:46:59]
+[zhang] zm_mz
+emmmm
+
+[18:47:00]
+[love13] ee
+主页
+
+[18:47:01]
+[Vi23PM] light
+为什么要建站
+
+[18:47:06]
+[None] xmzd
+建了拆拆了建
+
+[18:47:07]
+[JVcLW8] fcjz
+@light 想起了10行代码9行报错的那个兄弟。。。
+
+[18:47:10]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[18:47:11]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈
+
+[18:47:11]
+[None] xmzd
+估计三位数了
+
+[18:47:11]
+[zhang] zm_mz
+https://mrzhang365.github.io
+
+[18:47:20]
+[44FF00] eebot
+@zm_mz 小张的个人主页 | mrzhang365.github.io
+https://mrzhang365.github.io
+
+[18:47:20]
+[None] xmzd
+笑死我了10行代码9行报错
+
+[18:47:28]
+[Vi23PM] light
+谁10行代码9行报错啊
+
+[18:47:32]
+[None] ggggggg
+E-嗨，你是猪
+
+[18:47:32]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[18:47:32]
+[zhang] zm_mz
+没多少
+
+[18:47:32]
+[Vi23PM] light
+好拉几
+
+[18:47:33]
+[JVcLW8] fcjz
+@ee 那你咋子，被查水表了。。。
+
+[18:47:35]
+[zhang] zm_mz
+~~NBNB~~
+L
+
+[18:47:40]
+[love13] ee
+？？？
+
+[18:47:40]
+[love13] ee
+我没有 不是我
+
+[18:47:48]
+[love13] ee
+是zzChumo
+
+[18:47:50]
+[zhang] zm_mz
+哈哈哈
+
+[18:47:56]
+[44FF00] eebot
+ 哈哈哈嗝-
+
+[18:47:56]
+[JVcLW8] fcjz
+哦哦
+
+[18:47:58]
+[44FF00] eebot
+ 哦哦草
+
+[18:47:58]
+[None] ggggggg
+E-嗨，爹
+
+[18:47:59]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[18:47:59]
+[None] xmzd
+话说，ee你的团队考啥维持服务
+
+[18:48:01]
+[zhang] zm_mz
+有人敲门啊
+
+[18:48:01]
+[None] xmzd
+靠
+
+[18:48:02]
+[love13] ee
+https://paperee.tk/XChat.html
+
+[18:48:09]
+[None] kkk
+功能
+
+[18:48:09]
+[44FF00] eebot
+@ee XChat文字攻略｜PAPEREE
+https://paperee.tk/XChat.html
+
+[18:48:09]
+[zhang] zm_mz
+外面的人说
+
+[18:48:16]
+[zhang] zm_mz
+我看看你家水表
+
+[18:48:25]
+[JVcLW8] fcjz
+@xmzd 卧槽，三位数，nb，兄弟能分享其中的一个站让我瞻仰吗
+
+[18:48:35]
+[love13] ee
+>xmzd：
+>话说，ee你的团队考啥维持服务
+
+@xmzd 靠 人都是凑数的（
+
+[18:48:39]
+[love13] ee
+其实我们那个团队根本不能叫团队
+
+[18:48:51]
+[JVcLW8] fcjz
+那叫人群
+
+[18:48:58]
+[None] kkk
+drift
+
+[18:49:05]
+[love13] ee
+对对对
+
+[18:49:06]
+[44FF00] eebot
+ 已发送~不知道会被谁捡到
+
+[18:49:06]
+[zhang] ZhangHelperS
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[18:49:06]
+[None] xmzd
+idc.ccox.cn(因为这个服务不能断，所以还在运营）@fcjz
+
+[18:49:07]
+[JVcLW8] fcjz
+@xmzd 谢谢
+
+[18:49:17]
+[None] xmzd
+可能访问不了（部分网络被墙）
+
+[18:49:20]
+[None] ggggggg
+功能
+
+[18:49:22]
+[None] kkk
+漂流瓶
+
+[18:49:28]
+[44FF00] eebot
+ 已发送~不知道会被谁捡到
+
+[18:49:28]
+[zhang] ZhangHelperS
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[18:49:28]
+[Vi23PM] light
+漂流瓶
+
+[18:49:42]
+[44FF00] eebot
+ 已发送~不知道会被谁捡到
+
+[18:49:42]
+[zhang] ZhangHelperS
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[18:49:42]
+[None] ggggggg
+L-kkk
+
+[18:49:44]
+[44FF00] eebot
+@kkk 认为自己是垃圾吗（
+
+[18:49:44]
+[JVcLW8] fcjz
+@xmzd 阿这，没事，我看过你的博客，做的不错
+
+[18:49:44]
+[Vi23PM] light
+L-kkk
+
+[18:49:54]
+[44FF00] eebot
+@kkk 认为自己是垃圾吗（
+
+[18:49:54]
+[Vi23PM] light
+L-sb
+
+[18:49:58]
+[44FF00] eebot
+ 所以这是什么垃圾
+
+[18:49:58]
+[JVcLW8] fcjz
+？
+
+[18:49:58]
+[None] xmzd
+handsome yyds
+
+[18:50:01]
+[None] ggggggg
+Le
+
+[18:50:02]
+[JVcLW8] fcjz
+可回收垃圾
+
+[18:50:04]
+[Vi23PM] light
+L-fku
+
+[18:50:05]
+[44FF00] eebot
+ 所以这是什么垃圾
+
+[18:50:05]
+[None] ggggggg
+L-kkk
+
+[18:50:05]
+[44FF00] eebot
+@kkk 认为自己是垃圾吗（
+
+[18:50:05]
+[None] kkk
+L-ggggggg
+
+[18:50:08]
+[44FF00] eebot
+@ggggggg 认为自己是垃圾吗（
+
+[18:50:08]
+[love13] ee
+zhang *
+ZhangHelperS whispered: eebot 的漂流瓶漂啊漂，漂到了你这里。内容：
+「Believe that life is worth living, and your belief will help create the fact. 相信生活值得我们为之活下去 而这种信念将给你创造生活的价值 」
+
+[18:50:10]
+[None] kkk
+L-ggggggg
+
+[18:50:14]
+[44FF00] eebot
+@ggggggg 认为自己是垃圾吗（
+
+[18:50:14]
+[zhang] zm_mz
+哈哈哈
+
+[18:50:15]
+[44FF00] eebot
+ 草哈哈哈
+
+[18:50:15]
+[None] ggggggg
+不是
+
+[18:50:16]
+[None] kkk
+L-ggggggg
+
+[18:50:18]
+[44FF00] eebot
+@ggggggg 认为自己是垃圾吗（
+
+[18:50:18]
+[None] ggggggg
+不是
+
+[18:50:21]
+[zhang] zm_mz
+漂流瓶
+
+[18:50:22]
+[44FF00] eebot
+ 已发送~不知道会被谁捡到
+
+[18:50:22]
+[zhang] ZhangHelperS
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[18:50:22]
+[None] kkk
+L-ggggggg
+
+[18:50:25]
+[44FF00] eebot
+@ggggggg 认为自己是垃圾吗（
+
+[18:50:25]
+[Vi23PM] light
+L-灯泡
+
+[18:50:26]
+[44FF00] eebot
+ 有害垃圾
+
+[18:50:26]
+[Vi23PM] light
+。。。
+
+[18:50:31]
+[zhang] zm_mz
+L-BUG
+
+[18:50:34]
+[Vi23PM] light
+nim
+
+[18:50:34]
+[None] xmzd
+不说了，去进行亿段时间的维修网站去了
+
+[18:50:34]
+[44FF00] eebot
+ 所以这是什么垃圾
+
+[18:50:34]
+[None] ggggggg
+L-钻石
+
+[18:50:37]
+[44FF00] eebot
+ 可回收物
+
+[18:50:39]
+[love13] ee
+@xmzd 好的 加油吧！
+
+[18:50:45]
+[Vi23PM] light
+L-下届合金
+
+[18:50:46]
+[zhang] zm_mz
+L-BUG
+
+[18:50:47]
+[44FF00] eebot
+ 所以这是什么垃圾
+
+[18:50:47]
+[44FF00] eebot
+ 所以这是什么垃圾
+
+[18:50:47]
+[None] ggggggg
+L-黑曜石
+
+[18:50:58]
+[44FF00] eebot
+ 所以这是什么垃圾
+
+[18:50:58]
+[zhang] zm_mz
+L-小张写的代码
+
+[18:51:03]
+[Vi23PM] light
+L-iPhone13
+
+[18:51:04]
+[44FF00] eebot
+ 所以这是什么垃圾
+
+[18:51:04]
+[44FF00] eebot
+ 所以这是什么垃圾
+
+[18:51:04]
+[JVcLW8] fcjz
+@xmzd 加油
+
+[18:51:05]
+[None] ggggggg
+不可回收你行吗
+
+[18:51:08]
+[Vi23PM] light
+L-eebot
+
+[18:51:11]
+[44FF00] eebot
+ 咳咳 light礼貌吗
+
+[18:51:11]
+[zhang] zm_mz
+加油！
+
+[18:51:11]
+[zhang] zm_mz
+L-zm_mz
+
+[18:51:19]
+[44FF00] eebot
+@zm_mz 认为自己是垃圾吗（
+
+[18:51:19]
+[love13] ee
+L-eebot
+
+[18:51:32]
+[44FF00] eebot
+ 咳咳 ee礼貌吗
+
+[18:51:32]
+[zhang] zm_mz
+@eebot ~~当然~~
+
+[18:51:35]
+[44FF00] eebot
+ 哦哦     很帅哦）
+
+[18:51:35]
+[love13] ee
+彩蛋——
+
+[18:51:37]
+[Vi23PM] light
+L-一一波特
+
+[18:51:41]
+[44FF00] eebot
+ 所以这是什么垃圾
+
+[18:51:41]
+[zhang] zm_mz
+哈哈哈
+
+[18:51:44]
+[44FF00] eebot
+ 草哈哈哈
+
+[18:51:45]
+[zhang] zm_mz
+L-eebot
+
+[18:51:49]
+[44FF00] eebot
+ 咳咳 zm_mz礼貌吗
+
+[18:51:49]
+[Vi23PM] light
+L-呃呃博特
+
+[18:51:51]
+[JVcLW8] fcjz
+这个星弈云科技是xmzd的团队吗
+
+[18:51:51]
+[44FF00] eebot
+ 所以这是什么垃圾
+
+[18:51:51]
+[zhang] zm_mz
+L-ee
+
+[18:51:54]
+[44FF00] eebot
+ 咳咳 zm_mz礼貌吗
+
+[18:51:54]
+[love13] ee
+咳咳
+
+[18:51:59]
+[44FF00] eebot
+ 咳咳咳
+
+[18:51:59]
+[zhang] zm_mz
+哈哈哈哈哈哈哈哈哈哈哈哈
+
+[18:52:00]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈哈哈哈哈
+
+[18:52:00]
+[Vi23PM] light
+星聊？
+
+[18:52:07]
+[love13] ee
+哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[18:52:07]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈哈哈哈哈草
+
+[18:52:07]
+[None] kkk
+1
+
+[18:52:08]
+[44FF00] eebot
+ kkk成功加入 现在有1人
+
+[18:52:08]
+[None] kkk
+bot
+
+[18:52:13]
+[JVcLW8] fcjz
+1
+
+[18:52:13]
+[44FF00] eebot
+ fcjz成功加入 现在有2人
+
+[18:52:13]
+[zhang] zm_mz
+L-Mr_Zhang
+
+[18:52:18]
+[44FF00] eebot
+ 所以这是什么垃圾
+
+[18:52:18]
+[love13] ee
+>JVcLW8 fcjz：
+>这个星弈云科技是xmzd的团队吗
+
+@fcjz 对 是的
+
+[18:52:20]
+[Vi23PM] light
+星聊
+
+[18:52:22]
+[Vi23PM] light
+？
+
+[18:52:22]
+[love13] ee
+1
+
+[18:52:25]
+[44FF00] eebot
+ ee成功加入 现在有3人
+
+[18:52:25]
+[JVcLW8] fcjz
+@ee 哦哦
+
+[18:52:25]
+[None] kkk
+开始游戏
+
+[18:52:38]
+[44FF00] eebot
+ 生草机游戏开始
+
+[18:52:38]
+[44FF00] eebot
+@fcjz @kkk @ee 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[18:52:58]
+[zhang] zm_mz
+信息
+
+[18:53:13]
+[None] xmzd
+星弈的站都是我的（包括星聊）
+
+[18:53:15]
+[None] ggggggg
+1
+
+[18:53:17]
+[zhang] zm_mz
+Ohhhhhhhh
+
+[18:53:20]
+[zhang] zm_mz
+牛X
+
+[18:53:25]
+[None] ggggggg
+结束游戏
+
+[18:53:27]
+[44FF00] eebot
+ 生草机已结束
+
+[18:53:27]
+[None] kkk
+开始游戏
+
+[18:53:34]
+[None] ggggggg
+哈哈哈哈
+
+[18:53:36]
+[Vi23PM] light
+星聊不是炸了嘛
+
+[18:53:38]
+[44FF00] eebot
+ 哈哈哈哈嗝-
+
+[18:53:38]
+[None] ggggggg
+1
+
+[18:53:39]
+[None] xmzd
+没炸！
+
+[18:53:41]
+[JVcLW8] fcjz
+@xmzd nb啊兄弟，看这个网站以为进入了哪家大公司
+
+[18:53:42]
+[None] xmzd
+在备案！
+
+[18:53:43]
+[None] kkk
+1
+
+[18:53:46]
+[None] ggggggg
+结束游戏
+
+[18:53:49]
+[Vi23PM] light
+。。。
+
+[18:53:50]
+[zhang] zm_mz
+^cb hi yo
+
+[18:53:55]
+[zhang] ZhangHelperS
+zm_mz 抛出了一个漂流瓶，不知道谁会收到。
+
+[18:53:55]
+[None] kkk
+记录结果
+
+[18:53:55]
+[None] ggggggg
+功能
+
+[18:53:57]
+[love13] ee
+生草机
+
+[18:53:59]
+[44FF00] eebot
+ ·
+示例：
+（开头）纸片君在厕所吃屎 （续写）看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[18:53:59]
+[44FF00] eebot
+ 请用1报数
+
+[18:54:03]
+[None] xmzd
+@fcjz 所以我就很安详的被墙了
+
+[18:54:04]
+[zhang] zm_mz
+1
+
+[18:54:04]
+[44FF00] eebot
+ zm_mz成功加入 现在有1人
+
+[18:54:04]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[18:54:10]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[18:54:10]
+[love13] ee
+1
+
+[18:54:11]
+[44FF00] eebot
+ ee成功加入 现在有2人
+
+[18:54:11]
+[None] kkk
+结束游戏
+
+[18:54:15]
+[44FF00] eebot
+ 生草机已结束
+
+[18:54:15]
+[JVcLW8] fcjz
+@xmzd 草啊哈哈哈哈哈哈
+
+[18:54:16]
+[Vi23PM] light
+我上次进星聊还是mrpig炸星聊的时候
+
+[18:54:19]
+[zhang] zm_mz
+千古罪人
+
+[18:54:31]
+[None] kkk
+aks
+
+[18:54:31]
+[love13] ee
+咳咳
+
+[18:54:40]
+[44FF00] eebot
+ 咳咳（
+
+[18:54:40]
+[None] xmzd
+阿巴，当时还在用1h2g的腾讯云
+
+[18:54:41]
+[Vi23PM] light
+太惨了
+
+[18:54:49]
+[love13] ee
+>Vi23PM light：
+>我上次进星聊还是mrpig炸星聊的时候
+
+@light ~~不要说这件事了（~~
+
+[18:54:50]
+[None] xmzd
+现在他对星聊还是有敌意
+
+[18:55:10]
+[Vi23PM] light
+腾讯云 首单是你没见过的便宜价，在第二次下单的时候就是天价
+
+[18:55:24]
+[None] xmzd
+是的！
+
+[18:55:33]
+[love13] ee
+其实他对除hc和cc外的聊天室都有些敌意（
+
+[18:55:37]
+[zhang] zm_mz
+@ee 你知道为什么慕容喜欢炸服务器吗？
+
+[18:55:40]
+[love13] ee
+~~比如这边也是~~
+
+[18:55:45]
+[None] xmzd
+阿这
+
+[18:55:47]
+[None] kkk
+话说bot
+
+[18:55:49]
+[love13] ee
+@zm_mz 为什么（
+
+[18:55:54]
+[zhang] zm_mz
+我问你呢
+
+[18:56:00]
+[None] xmzd
+虽然说我现在专门整个了小站群叫星弈反击系统
+
+[18:56:02]
+[None] kkk
+是用什么建的
+
+[18:56:04]
+[zhang] zm_mz
+哈哈哈哈哈哈
+
+[18:56:09]
+[44FF00] eebot
+ 哈哈哈哈哈哈草
+
+[18:56:09]
+[edDiBU] 4n0n4me
+@kkk python
+
+[18:56:09]
+[None] xmzd
+但是貌似还没有成型
+
+[18:56:21]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[18:56:21]
+[love13] ee
+也许是
+
+[18:56:22]
+[JVcLW8] fcjz
+我一看见国内的有关互联网的东西就莫名的感觉不太好。。。不知道为什么
+
+[18:56:23]
+[edDiBU] 4n0n4me
+的websocket_client库
+
+[18:56:25]
+[Vi23PM] light
+确实
+
+[18:56:29]
+[edDiBU] 4n0n4me
+@kkk 你可以看看别人代码参考
+
+[18:56:33]
+[None] kkk
+在哪
+
+[18:56:41]
+[love13] ee
+@zm_mz 多一个聊天室就多一个竞争对手（
+
+[18:56:42]
+[Vi23PM] light
+国内太拉了，想到的第一个就是广告
+
+[18:56:48]
+[love13] ee
+@小张 
+
+[18:56:49]
+[zhang] 小张
+emmmm
+
+[18:56:56]
+[JVcLW8] fcjz
+@light 对，还有后门
+
+[18:56:58]
+[JVcLW8] fcjz
+无所不在的安全隐患
+
+[18:57:06]
+[edDiBU] 4n0n4me
+我们面临的就是用户不够
+
+[18:57:07]
+[love13] ee
+确实应该可能是这样的
+
+[18:57:07]
+[edDiBU] 4n0n4me
+去十字街拉人就会导致敌对
+
+[18:57:15]
+[edDiBU] 4n0n4me
+所以我们应该联合起来
+
+[18:57:19]
+[Vi23PM] light
+现在挺好
+
+[18:57:21]
+[JVcLW8] fcjz
+使劲拉人
+
+[18:57:26]
+[edDiBU] 4n0n4me
+合力打造引流ip
+
+[18:57:26]
+[zhang] 小张
+让我们来看看对手
+
+[18:57:27]
+[edDiBU] 4n0n4me
+引来用户
+
+[18:57:31]
+[JVcLW8] fcjz
+对对对
+
+[18:57:35]
+[love13] ee
+咳咳
+
+[18:57:40]
+[Vi23PM] light
+引流的最好办法就是杀死对手
+
+[18:57:42]
+[zhang] 小张
+HC系列的
+
+[18:57:42]
+[Vi23PM] light
+。。。
+
+[18:58:00]
+[JVcLW8] fcjz
+把其他聊天室都搞死哈哈哈
+
+[18:58:03]
+[None] xmzd
+ee，会不会配置cdn
+
+[18:58:08]
+[love13] ee
+总之 不要尝试去其他聊天室拉人了
+
+[18:58:10]
+[zhang] 小张
+HC CC TC SC ZC
+
+[18:58:16]
+[love13] ee
+@xmzd 我不会
+
+[18:58:17]
+[None] xmzd
+啊
+
+[18:58:19]
+[44FF00] eebot
+ 草啊
+
+[18:58:19]
+[None] ggggggg
+真心话
+
+[18:58:20]
+[44FF00] eebot
+ ·
+使用方法：
+1.r：随机1~999的数
+2.结算：输出数字最大和最小的成员
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.由数字最大的人向最小的提问
+2.尊重隐私 请不要提问过分露骨的问题
+3.愿赌服输 请说真心话（但有权拒绝回答隐私问题）
+
+[18:58:20]
+[44FF00] eebot
+ 真心话游戏开始
+
+[18:58:20]
+[Vi23PM] light
+让我们fynoao杀死所有敌对聊天室
+
+[18:58:26]
+[zhang] 小张
+好多
+
+[18:58:27]
+[None] ggggggg
+1
+
+[18:58:29]
+[love13] ee
+r
+
+[18:58:31]
+[44FF00] eebot
+ 855
+
+[18:58:31]
+[44FF00] eebot
+r
+
+[18:58:32]
+[44FF00] eebot
+ 851
+
+[18:58:32]
+[44FF00] eebot
+ 1
+
+[18:58:32]
+[None] ggggggg
+r
+
+[18:58:35]
+[44FF00] eebot
+ 968
+
+[18:58:35]
+[None] xmzd
+我现在的招人政策是通过业务性网站给公益性网站拉人
+
+[18:58:38]
+[JVcLW8] fcjz
+@light 哈哈哈哈哈哈，包括xc吗
+
+[18:58:41]
+[Vi23PM] light
+所有
+
+[18:58:46]
+[zhang] 小张
+Ohhhhhhhhhhh
+
+[18:58:49]
+[love13] ee
+@eebot 不参与游戏
+
+[18:58:53]
+[44FF00] eebot
+ 好吧（
+
+[18:58:54]
+[44FF00] eebot
+ hi yo 13
+
+[18:58:57]
+[Vi23PM] light
+~~让世界毁灭~~
+
+[18:58:57]
+[None] ggggggg
+@ee
+
+[18:58:58]
+[JVcLW8] fcjz
+我的招人政策就是开源
+
+[18:58:59]
+[zhang] 小张
+welcome yoooooooooooooooooo
+
+[18:59:03]
+[love13] ee
+？
+
+[18:59:03]
+[Vi23PM] light
+才怪
+
+[18:59:04]
+[JVcLW8] fcjz
+爱来不来不来拉到
+
+[18:59:05]
+[love13] ee
+hihii
+
+[18:59:06]
+[None] ggggggg
+我要向你提问
+
+[18:59:16]
+[None] ggggggg
+@ee
+
+[18:59:20]
+[Vi23PM] light
+我最近要写一些奇奇怪怪的东西
+
+[18:59:23]
+[zhang] 小张
+我做出了一个慎重的决定
+
+[18:59:24]
+[love13] ee
+@eebot 别一起玩
+
+[18:59:27]
+[44FF00] eebot
+ ah 那eb就不参与真心话了
+
+[18:59:27]
+[None] ggggggg
+e
+
+[18:59:31]
+[44FF00] eebot
+ 不说话便是最好的回答
+
+[18:59:31]
+[zhang] 小张
+解封重庆
+
+[18:59:31]
+[love13] ee
+@ggggggg 好的你问
+
+[18:59:33]
+[JVcLW8] fcjz
+@xmzd 我在你的这个网站注册账号不会有事吧
+
+[18:59:38]
+[None] ggggggg
+你有没有npy
+
+[18:59:46]
+[love13] ee
+13
+
+[18:59:48]
+[None] xmzd
+为啥会有事？？？
+
+[18:59:49]
+[None] xmzd
+神奇的问题
+
+[18:59:55]
+[None] ggggggg
+DU-npy
+
+[18:59:59]
+[44FF00] eebot
+ 查询失败 无此百科
+
+[18:59:59]
+[None] ggggggg
+e
+
+[19:00:02]
+[44FF00] eebot
+ 不说话便是最好的回答
+
+[19:00:02]
+[JVcLW8] fcjz
+@xmzd 哦哦哦那就行了
+
+[19:00:03]
+[zhang] 小张
+？？？
+
+[19:00:08]
+[None] ggggggg
+结束游戏
+
+[19:00:24]
+[44FF00] eebot
+ 真心话已结束
+
+[19:00:24]
+[None] xmzd
+我已经疯了
+
+[19:00:25]
+[love13] ee
+（秒答的那种）
+
+[19:00:30]
+[None] ggggggg
+功能
+
+[19:00:31]
+[zhang] 小张
+@ggggggg hmmmmmm
+
+[19:00:48]
+[zhang] 小张
+我想到一个损招
+
+[19:01:07]
+[love13] ee
+你们在做什么
+
+[19:01:18]
+[44FF00] eebot
+ 除了聊天还是聊天（
+
+[19:01:19]
+[zhang] 小张
+到HC拉人
+
+[19:01:22]
+[None] ggggggg
+akf 挂机
+
+[19:01:24]
+[None] ggggggg
+afk 挂机
+
+[19:01:34]
+[love13] ee
+是afk
+
+[19:01:34]
+[44FF00] eebot
+@ggggggg 现在在挂机
+
+[19:01:34]
+[zhang] 小张
+据说HC的人很没素质
+
+[19:01:44]
+[None] ggggggg
+afk 剿土匪
+
+[19:01:53]
+[44FF00] eebot
+@ggggggg 已经在挂机了
+
+[19:01:53]
+[QiuLingYan] HiyoTeam_QiuLingYan
+啊
+
+[19:01:53]
+[44FF00] eebot
+ 草啊
+
+[19:01:53]
+[zhang] 小张
+~~比如小张~~
+
+[19:01:57]
+[None] ggggggg
+afk NULL
+
+[19:02:02]
+[44FF00] eebot
+@ggggggg 已经在挂机了
+
+[19:02:02]
+[None] ggggggg
+e
+
+[19:02:04]
+[44FF00] eebot
+@ggggggg 停止了挂机
+
+[19:02:04]
+[44FF00] eebot
+ 句号和省略号让eb摸不着头脑
+
+[19:02:04]
+[edDiBU] 4n0n4me
+hc的人已经几乎全拉来了
+
+[19:02:13]
+[edDiBU] 4n0n4me
+剩下的都是更喜欢hc环境的
+
+[19:02:20]
+[zhang] 小张
+所以可以通过引流机器人来……
+
+[19:02:22]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eebot 去ee电脑浏览***内容
+
+[19:02:25]
+[44FF00] eebot
+ OK! eb现在在ee电脑浏览***内容
+
+[19:02:25]
+[love13] ee
+hc的人很没素质吗（
+
+[19:02:28]
+[edDiBU] 4n0n4me
+引流太...
+
+[19:02:29]
+[edDiBU] 4n0n4me
+引流不好吧
+
+[19:02:35]
+[None] ggggggg
+Q-https://cdn.luogu.com.cn/upload/image_hosting/jznjrze9.png?x-oss-process=image/resize,m_lfit,h_170,w_225
+
+[19:02:36]
+[44FF00] eebot
+ 此网址中没有图片
+
+[19:02:36]
+[zhang] 小张
+@ee 十字街方面说的
+
+[19:02:42]
+[zhang] 小张
+很没素质
+
+[19:02:45]
+[love13] ee
+>edDiBU 4n0n4me：
+>剩下的都是更喜欢hc环境的
+
+@4n0n4me 不 剩下的都去lounge了
+
+[19:02:50]
+[Vi23PM] light
+我爱hc
+
+[19:02:58]
+[zhang] 小张
+于是他们就去知乎、bilibili拉人
+
+[19:03:07]
+[edDiBU] 4n0n4me
+@ee 对啊,我就是说lounge
+
+[19:03:12]
+[None] ggggggg
+Q-https://img0.baidu.com/it/u=4141244029,248774354&fm=253&fmt=auto&app=138&f=JPEG?w=376&h=360
+
+[19:03:13]
+[44FF00] eebot
+ 此网址中没有图片
+
+[19:03:13]
+[None] xmzd
+为啥不尝试去QQ拉人？
+
+[19:03:17]
+[zhang] 小张
+emmmm
+
+[19:03:25]
+[Vi23PM] light
+用qq的人一般是手机
+
+[19:03:33]
+[edDiBU] 4n0n4me
+知乎、B站是开放的平台
+
+[19:03:36]
+[zhang] 小张
+@xmzd 我没什么朋友
+
+[19:03:37]
+[edDiBU] 4n0n4me
+人多
+
+[19:03:38]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@xmzd @xmzd @xmzd 
+
+[19:03:38]
+[love13] ee
+我们这边没有QQ加特别多人的
+
+[19:03:38]
+[None] xmzd
+好像有道理
+
+[19:03:42]
+[love13] ee
+>zhang 小张：
+>@xmzd 我没什么朋友
+
+@小张 ++1
+
+[19:03:45]
+[edDiBU] 4n0n4me
+所以拉来的人比较多
+
+[19:03:46]
+[zhang] 小张
+yes
+
+[19:03:49]
+[QiuLingYan] HiyoTeam_QiuLingYan
+naimuzixiu？？？
+
+[19:03:51]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@xmzd @xmzd 
+
+[19:03:52]
+[None] kkk
+聊天室里的机器人python代码或者总体框架谁能给我一下
+
+[19:03:53]
+[Vi23PM] light
+手机用户一般都不用浏览器的
+
+[19:03:53]
+[None] ggggggg
+https://img0.baidu.com/it/u=4141244029,248774354&fm=253&fmt=auto&app=138&f=JPEG?w=376&h=360
+
+[19:04:06]
+[None] xmzd
+封装一个app就行了
+
+[19:04:07]
+[zhang] 小张
+我们可以通过引流来把某个聊天室……
+
+[19:04:12]
+[zhang] 小张
+哈哈哈
+
+[19:04:17]
+[44FF00] eebot
+ 哈哈哈嗝-
+
+[19:04:17]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@xmzd 那个，你是不是想和我们合并
+
+[19:04:18]
+[None] ggggggg
+![](https://img0.baidu.com/it/u=4141244029,248774354&fm=253&fmt=auto&app=138&f=JPEG?w=376&h=360)
+
+[19:04:18]
+[None] kkk
+想想看看是怎么农的
+
+[19:04:20]
+[44FF00] eebot
+ 手机用户一般都不用浏览器的
+
+[19:04:20]
+[None] kkk
+弄得机器人
+
+[19:04:30]
+[None] xmzd
+？
+
+[19:04:32]
+[love13] ee
+>kkk：
+>聊天室里的机器人python代码或者总体框架谁能给我一下
+
+@kkk https://gitee.com/BirdingLight/foolishbird
+
+[19:04:35]
+[None] ggggggg
+帅吧
+
+[19:04:36]
+[44FF00] eebot
+@ee foolishbird: 傻鸟，好单纯的一只鸟 : )
+https://gitee.com/BirdingLight/foolishbird
+
+[19:04:36]
+[None] xmzd
+合作，不是合并
+
+[19:04:39]
+[Vi23PM] light
+啊草
+
+[19:04:40]
+[None] xmzd
+相当于互相帮忙吧
+
+[19:04:44]
+[QiuLingYan] HiyoTeam_QiuLingYan
+可以
+
+[19:04:52]
+[None] kkk
+>love13 ee：
+>>kkk：
+>>聊天室里的机器人python代码或者总体框架谁能给我一下
+>
+>@kkk https://gitee.com/BirdingLight/foolishbird
+
+@ee 谢
+
+[19:04:54]
+[44FF00] eebot
+@kkk foolishbird: 傻鸟，好单纯的一只鸟 : )
+https://gitee.com/BirdingLight/foolishbird
+
+[19:05:00]
+[None] kkk
+>44FF00 eebot：
+>@kkk foolishbird: 傻鸟，好单纯的一只鸟 : )
+>https://gitee.com/BirdingLight/foolishbird
+
+@eebot waht?
+
+[19:05:15]
+[QiuLingYan] HiyoTeam_QiuLingYan
+还以为你想和数据万物一样合并
+
+[19:05:15]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@xmzd 
+
+[19:05:15]
+[44FF00] eebot
+@kkk foolishbird: 傻鸟，好单纯的一只鸟 : )
+https://gitee.com/BirdingLight/foolishbird
+
+[19:05:15]
+[None] ggggggg
+@eebot ![](https://img0.baidu.com/it/u=4141244029,248774354&fm=253&fmt=auto&app=138&f=JPEG?w=376&h=360)
+
+[19:05:19]
+[None] kkk
+e.......
+
+[19:05:27]
+[None] xmzd
+这合并不了
+
+[19:05:41]
+[love13] ee
+@kkk 这个是Light写的hc机器人框架
+
+[19:05:43]
+[None] xmzd
+想合并也合并不了
+
+[19:05:56]
+[edDiBU] 4n0n4me
+eebot是在返回链接标题
+
+[19:05:57]
+[love13] ee
+只要把hc的ws换成xc的就行了（
+
+[19:05:58]
+[edDiBU] 4n0n4me
+这个就是许多机器人的祖宗
+
+[19:06:06]
+[love13] ee
+确实
+
+[19:06:07]
+[love13] ee
+没错
+
+[19:06:14]
+[love13] ee
+Hiyoteam和星奕团队是合作
+
+[19:06:43]
+[None] kkk
+为什么不用GitHub
+
+[19:06:53]
+[None] ggggggg
+谁来骂我
+
+[19:07:02]
+[edDiBU] 4n0n4me
+@kkk 我们是用的
+
+[19:07:08]
+[edDiBU] 4n0n4me
+light可能觉得gitee方便点
+
+[19:07:22]
+[None] kkk
+哦`
+
+[19:07:30]
+[love13] ee
+@eebot 去星聊的服务器转转
+
+[19:07:36]
+[44FF00] eebot
+ OK! eb没在ee电脑浏览***内容了 现在在星聊的服务器转转
+
+[19:07:36]
+[None] xmzd
+主要还是两个团队的差别有点大，涉及面不一样
+
+[19:07:39]
+[None] ggggggg
+为啥不用爱发电
+
+[19:07:39]
+[Vi23PM] light
+我写了foolishbirdinxc.py,foolishbirdinhc.py有bug（给gui操作加上信号和槽
+
+[19:07:54]
+[None] xmzd
+@eebot 不要瞎转，回来
+
+[19:08:00]
+[44FF00] eebot
+ eb回来了！
+
+[19:08:08]
+[love13] ee
+哈哈哈哈哈
+
+[19:08:11]
+[44FF00] eebot
+ 草哈哈哈哈哈
+
+[19:08:11]
+[None] xmzd
+好家伙，挺智能
+
+[19:08:20]
+[love13] ee
+我们团队大部分人都是眼睛机器人的
+
+[19:08:47]
+[love13] ee
+研究
+
+[19:08:52]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[19:08:52]
+[love13] ee
+hi yo
+
+[19:08:56]
+[None] xmzd
+怎么选中消息回复？
+
+[19:09:10]
+[love13] ee
+左键昵称
+
+[19:09:17]
+[love13] ee
+不是
+
+[19:09:24]
+[zzzzzz] CX_zzzChumo
+别听他瞎说
+
+[19:09:29]
+[love13] ee
+右键点击昵称
+
+[19:09:29]
+[None] xmzd
+@ggggggg 这样？
+
+[19:09:37]
+[zzzzzz] CX_zzzChumo
+右键或长按Nickname
+
+[19:09:38]
+[zzzzzz] CX_zzzChumo
+别听ee瞎说
+
+[19:09:50]
+[None] xmzd
+？？？？
+
+[19:09:54]
+[love13] ee
+@xmzd 鼠标右键点击一个人的昵称
+
+[19:10:11]
+[love13] ee
+左键点击是@
+
+[19:10:15]
+[None] xmzd
+>love13 ee：
+>@xmzd 鼠标右键点击一个人的昵称
+
+@ee 啊原来如此
+
+[19:10:28]
+[zzzzzz] CX_zzzChumo
+就像酱紫
+
+[19:10:43]
+[DPGawa] _
+?
+
+[19:10:44]
+[None] xmzd
+>ggggggg：
+>为啥不用爱发电
+
+@ggggggg 因为资金不够团队运转
+
+[19:10:49]
+[DPGawa] _
+673
+
+[19:11:01]
+[love13] ee
+>zzzzzz CX_zzzChumo：
+>别听ee瞎说
+
+@CX_zzzChumo ~~别听zzChumo瞎说~~（不是
+
+[19:11:05]
+[None] xmzd
+哈哈哈
+
+[19:11:09]
+[44FF00] eebot
+ 哈哈哈嗝-
+
+[19:11:10]
+[None] xmzd
+哈哈哈哈
+
+[19:11:14]
+[44FF00] eebot
+ 哈哈哈哈嗝-
+
+[19:11:14]
+[love13] ee
+哈哈哈哈哈
+
+[19:11:14]
+[44FF00] eebot
+ 哈哈哈哈哈嗝-
+
+[19:11:14]
+[zzzzzz] CX_zzzChumo
+@_ 现在支持1.14了吗
+
+[19:11:17]
+[None] xmzd
+哈哈哈哈哈
+
+[19:11:17]
+[44FF00] eebot
+ 哈哈哈哈哈嗝-
+
+[19:11:17]
+[None] xmzd
+哈哈哈哈哈哈
+
+[19:11:20]
+[44FF00] eebot
+ 哈哈哈哈哈哈草
+
+[19:11:20]
+[love13] ee
+哈哈哈哈哈哈哈哈哈哈哈
+
+[19:11:26]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈哈哈草
+
+[19:11:26]
+[None] xmzd
+怪起来了
+
+[19:11:32]
+[DPGawa] _
+@CX_zzzChumo ofc
+
+[19:11:32]
+[DPGawa] _
+try
+
+[19:11:35]
+[zzzzzz] CX_zzzChumo
+行
+
+[19:11:38]
+[DPGawa] _
+but
+
+[19:11:43]
+[zzzzzz] CX_zzzChumo
+我逝世
+
+[19:11:44]
+[zzzzzz] CX_zzzChumo
+？
+
+[19:11:47]
+[edDiBU] 4n0n4me
+dpg说了
+
+[19:11:54]
+[edDiBU] 4n0n4me
+必须先进一个大厅
+
+[19:11:59]
+[zzzzzz] CX_zzzChumo
+but what
+
+[19:12:00]
+[DPGawa] _
+might fail
+
+[19:12:01]
+[edDiBU] 4n0n4me
+才能进基岩版的服务器
+
+[19:12:04]
+[DPGawa] _
+because
+
+[19:12:08]
+[zzzzzz] CX_zzzChumo
+@4n0n4me 啥大厅
+
+[19:12:13]
+[DPGawa] _
+ViaVersion
+
+[19:12:14]
+[DPGawa] _
+-.-
+
+[19:12:16]
+[44FF00] eebot
+ ava
+
+[19:12:16]
+[zzzzzz] CX_zzzChumo
+那我不玩了罢
+
+[19:13:00]
+[zzzzzz] CX_zzzChumo
+（
+
+[19:13:00]
+[44FF00] eebot
+ 干嘛不玩了啊 再玩会嘛
+
+[19:13:00]
+[DPGawa] _
+i see
+
+[19:13:10]
+[DPGawa] _
+i still need
+
+[19:13:15]
+[DPGawa] _
+ViaVersion only supports newer versions, even on subversions! Use ViaBackwards and ViaRewind to allow older versions to connect. Builds labelled with a dash (eg. -DEV) are on our build server. If you're confused what Via* plugins you need click here.
+
+[19:13:17]
+[zzzzzz] CX_zzzChumo
+手机没内存了
+
+[19:13:23]
+[44FF00] eebot
+ ·
+msmset0的博客
+https://www.cnblogs.com/MemsetZero/
+
+[19:13:26]
+[DPGawa] _
+ViaBackwards and ViaRewind 
+
+[19:13:28]
+[DPGawa] _
+pwq
+
+[19:13:30]
+[44FF00] eebot
+ QuQ
+
+[19:13:33]
+[love13] ee
+QuQ
+
+[19:13:38]
+[edDiBU] 4n0n4me
+不是imc那个服务器吗
+
+[19:13:49]
+[edDiBU] 4n0n4me
+难道说
+
+[19:13:53]
+[edDiBU] 4n0n4me
+又要进大厅
+
+[19:14:01]
+[edDiBU] 4n0n4me
+又要服务端插件
+
+[19:14:06]
+[love13] ee
+啊？
+
+[19:14:16]
+[edDiBU] 4n0n4me
+我还以为imc的互通自带跨版本
+
+[19:14:22]
+[zzzzzz] CX_zzzChumo
+跨版本，但只跨1.18内的小版本
+
+[19:15:04]
+[zzzzzz] CX_zzzChumo
+不支持1.19
+
+[19:15:12]
+[love13] ee
+所以你们玩的都是什么版本
+
+[19:15:31]
+[love13] ee
+1.19？
+
+[19:15:57]
+[zzzzzz] CX_zzzChumo
+我是移动云手机+基岩版1.18.30
+
+[19:15:58]
+[edDiBU] 4n0n4me
+好家伙
+
+[19:16:17]
+[edDiBU] 4n0n4me
+dpg的服务器里边有啥？（
+
+[19:16:29]
+[edDiBU] 4n0n4me
+@eebot mc
+
+[19:16:33]
+[44FF00] eebot
+ 20003.s.imc.re JAVA 1.19
+
+[19:16:33]
+[zzzzzz] CX_zzzChumo
+我手机跑1.18直接卡的连ppt都不如
+
+[19:16:46]
+[love13] ee
+sMGDzr bo_od
+>你制定的计划是.txt还是.exe?
+– 网络
+
+[19:16:46]
+[love13] ee
+妙啊
+
+[19:16:49]
+[None] xmzd
+无了无了，星弈反击系统也无了
+
+[19:16:58]
+[zzzzzz] CX_zzzChumo
+我是.html（
+
+[19:17:00]
+[love13] ee
+好家伙
+
+[19:17:02]
+[love13] ee
+>xmzd：
+>无了无了，星弈反击系统也无了
+
+@xmzd 怎么就无了
+
+[19:17:22]
+[Vi23PM] light
+被鲨了
+
+[19:17:42]
+[None] xmzd
+布吉岛，反正404了
+
+[19:17:51]
+[love13] ee
+生草
+
+[19:17:59]
+[None] xmzd
+反击系统没敢放服务器上，放主机上了
+
+[19:18:04]
+[None] xmzd
+估计是主机无了
+
+[19:18:08]
+[love13] ee
+嘶
+
+[19:18:22]
+[love13] ee
+那个反击系统是干什么的
+
+[19:18:34]
+[edDiBU] 4n0n4me
+反击系统是干啥的？
+
+[19:18:35]
+[love13] ee
+哈哈哈好家伙
+
+[19:18:40]
+[Vi23PM] light
+沙人的
+
+[19:18:44]
+[love13] ee
+蛤
+
+[19:18:47]
+[None] xmzd
+就比如有人对星弈发动了网络攻击，可以进行一定的报复
+
+[19:18:57]
+[zzzzzz] CX_zzzChumo
+a
+
+[19:19:08]
+[love13] ee
+wow
+
+[19:19:12]
+[zzzzzz] CX_zzzChumo
+直接cc回去得了
+
+[19:19:15]
+[love13] ee
+哈哈哈好家伙
+
+[19:19:19]
+[zzzzzz] CX_zzzChumo
+或者DDoS
+
+[19:19:21]
+[None] xmzd
+比如什么查Q绑，短信轰炸，电话轰炸，ip定位，cc，ddos都有
+
+[19:19:23]
+[zzzzzz] CX_zzzChumo
+hm
+
+[19:19:29]
+[zzzzzz] CX_zzzChumo
+好家伙
+
+[19:19:31]
+[Vi23PM] light
+dns 放大
+
+[19:19:34]
+[44FF00] eebot
+ dns 放大
+
+[19:19:34]
+[None] xmzd
+对，主要就分为对人和对网站
+
+[19:19:38]
+[love13] ee
+（
+
+[19:19:47]
+[love13] ee
+可以的
+
+[19:19:52]
+[None] xmzd
+本来要搞那种极致开盒，但是经费不够了
+
+[19:20:05]
+[edDiBU] 4n0n4me
+好家伙
+
+[19:20:39]
+[love13] ee
+极 致 开 盒
+
+[19:20:42]
+[edDiBU] 4n0n4me
+我想要这些东西
+
+[19:20:44]
+[edDiBU] 4n0n4me
+（不是
+
+[19:20:48]
+[zzzzzz] CX_zzzChumo
+~~那我是不是可以趁现在cc星聊？~~
+
+[19:20:54]
+[None] xmzd
+《反击系统》仅用于反击
+
+[19:20:57]
+[None] xmzd
+笑死，星聊现在连网址都没有
+
+[19:21:14]
+[love13] ee
+>zzzzzz CX_zzzChumo：
+>~~那我是不是可以趁现在cc星聊？~~
+
+@CX_zzzChumo ~~你这样也太逊了 等反击系统活了再试吧~~
+
+[19:21:21]
+[Vi23PM] light
+暗网上有一个社工库，可以查qq微博之类的（以及开房信息，但是要捐助0.0033btc
+
+[19:21:21]
+[love13] ee
+wow
+
+[19:21:24]
+[zzzzzz] CX_zzzChumo
+好…好家伙
+
+[19:21:26]
+[zzzzzz] CX_zzzChumo
+星聊
+
+[19:21:30]
+[love13] ee
+好家伙
+
+[19:21:30]
+[zzzzzz] CX_zzzChumo
+彻底无了？
+
+[19:21:35]
+[None] xmzd
+阿这？别暗网了，我都有
+
+[19:21:44]
+[love13] ee
+草
+
+[19:21:49]
+[edDiBU] 4n0n4me
+wowow
+
+[19:21:53]
+[Vi23PM] light
+真的
+
+[19:21:54]
+[None] xmzd
+都属于反击系统
+
+[19:21:56]
+[love13] ee
+wowoc
+
+[19:21:59]
+[edDiBU] 4n0n4me
+我要看看
+
+[19:22:06]
+[44FF00] eebot
+ hi yo MaggieAndroid
+
+[19:22:06]
+[None] xmzd
+http://star.uerr.cn/
+
+[19:22:09]
+[44FF00] eebot
+@xmzd 星弈反击系统
+http://star.uerr.cn/
+
+[19:22:09]
+[love13] ee
+hi yo
+
+[19:22:11]
+[None] xmzd
+现在啥都没
+
+[19:22:11]
+[None] xmzd
+随便看吧
+
+[19:22:18]
+[hmmmmm] MaggieAndroid
+我拉几个新用户
+
+[19:22:18]
+[love13] ee
+还真换域名了
+
+[19:22:22]
+[love13] ee
+wow
+
+[19:22:23]
+[44FF00] eebot
+ T^T
+
+[19:22:23]
+[edDiBU] 4n0n4me
+居然有标题
+
+[19:22:23]
+[hmmmmm] MaggieAndroid
+支持吗
+
+[19:22:30]
+[None] xmzd
+这个是亿年前的备份了
+
+[19:22:41]
+[love13] ee
+>xmzd：
+>http://star.uerr.cn/
+
+@xmzd 这个界面nb
+
+[19:22:50]
+[44FF00] eebot
+@ee 星弈反击系统
+http://star.uerr.cn/
+
+[19:22:51]
+[None] xmzd
+就三个架子（仿win10的UI）
+
+[19:22:51]
+[None] xmzd
+啥都没了
+
+[19:22:59]
+[44FF00] eebot
+ 嗨，爹
+
+[19:22:59]
+[None] xmzd
+啊啊啊
+
+[19:22:59]
+[44FF00] eebot
+ 啊啊啊草
+
+[19:22:59]
+[Vi23PM] light
+chumo来lounge
+
+[19:22:59]
+[Vi23PM] light
+有机密跟你说
+
+[19:23:04]
+[None] ggggggg
+功能
+
+[19:23:25]
+[None] ggggggg
+G
+
+[19:23:49]
+[44FF00] eebot
+ hello yo MaggieAndroid
+
+[19:23:49]
+[hmmmmm] MaggieAndroid
+^help
+
+[19:24:06]
+[None] ggggggg
+@eebot踢人
+
+[19:24:13]
+[44FF00] eebot
+ 不能随便踢人（
+
+[19:24:13]
+[hmmmmm] MaggieAndroid
+^protectlist
+
+[19:24:24]
+[None] xmzd
+啊，现在star加密了
+
+[19:25:17]
+[love13] ee
+@eebot 踹我一脚
+
+[19:25:22]
+[44FF00] eebot
+@ee
+
+[19:25:22]
+[None] xmzd
+你们应该不能访问了
+
+[19:25:25]
+[love13] ee
+等备案完了应该就能访问了吧
+
+[19:26:40]
+[None] xmzd
+星弈反击系统永久加密的，禁止随便访问
+
+[19:27:01]
+[44FF00] eebot
+ hello yo zxcv
+
+[19:27:01]
+[hmmmmm] MaggieAndroid
+hi yo
+
+[19:27:06]
+[dgBXv2] zxcv
+hi
+
+[19:27:11]
+[love13] ee
+原来如此
+
+[19:27:11]
+[None] xmzd
+因为没啥东西，所以刚刚打开了
+
+[19:27:16]
+[None] xmzd
+现在是需要秘钥才能进入
+
+[19:27:23]
+[dgBXv2] zxcv
+?
+
+[19:27:27]
+[hmmmmm] MaggieAndroid
+Tanchat现在单独开服务器了!
+
+[19:27:31]
+[hmmmmm] MaggieAndroid
+就是资金不够...
+
+[19:27:38]
+[None] xmzd
+（为了防止有人敢一些不好的事情）
+
+[19:27:43]
+[44FF00] eebot
+ 哦哦...
+
+[19:27:43]
+[hmmmmm] MaggieAndroid
+15rmb左右/月
+
+[19:27:54]
+[None] xmzd
+好家伙这么便宜？
+
+[19:28:03]
+[None] xmzd
+15元的服务器？？？
+
+[19:28:16]
+[hmmmmm] MaggieAndroid
+rainyun
+
+[19:28:23]
+[None] xmzd
+哦哦哦
+
+[19:28:29]
+[44FF00] eebot
+ 哦哦哦草
+
+[19:28:29]
+[None] xmzd
+雨云土豆服务器
+
+[19:28:38]
+[DPGawa] _
+?
+
+[19:28:38]
+[dgBXv2] zxcv
+？
+
+[19:28:43]
+[None] xmzd
+雨云现状：宿迁崩宿迁崩，宿迁崩完香港崩，香港崩香港崩，香港崩完美国崩
+
+[19:29:16]
+[love13] ee
+好家伙
+
+[19:29:36]
+[hmmmmm] MaggieAndroid
+如果崩了我就自托管
+
+[19:30:22]
+[edDiBU] 4n0n4me
+woc
+
+[19:30:34]
+[44FF00] eebot
+ 0uo
+
+[19:30:34]
+[hmmmmm] MaggieAndroid
+向运营商申请个公网ip
+
+[19:30:40]
+[edDiBU] 4n0n4me
+自托管是不是说在自己家电脑托管
+
+[19:30:43]
+[edDiBU] 4n0n4me
+这个得备案啊
+
+[19:30:46]
+[hmmmmm] MaggieAndroid
+备个案
+
+[19:30:48]
+[None] xmzd
+雨云主机：什么？我什么时候能访问了？
+
+[19:30:53]
+[dgBXv2] zxcv
+?
+
+[19:30:55]
+[hmmmmm] MaggieAndroid
+@4n0n4me 我知道
+
+[19:30:58]
+[edDiBU] 4n0n4me
+聊天室就属于需要备案的
+
+[19:30:58]
+[None] xmzd
+>hmmmmm MaggieAndroid：
+>向运营商申请个公网ip
+
+@MaggieAndroid 内网穿透
+
+[19:31:01]
+[edDiBU] 4n0n4me
+因为可以说话，怕涉政
+
+[19:31:07]
+[hmmmmm] MaggieAndroid
+内网穿透速度慢
+
+[19:31:11]
+[None] xmzd
+阿巴
+
+[19:31:17]
+[zzzzzz] CX_zzzChumo
+>edDiBU 4n0n4me：
+>聊天室就属于需要备案的
+
+@4n0n4me 聊天网站没法备案吧
+
+[19:31:18]
+[Vi23PM] light
+被杀
+
+[19:31:20]
+[dgBXv2] zxcv
+?
+
+[19:31:21]
+[edDiBU] 4n0n4me
+只有你声明你有积极反涉政的管理员
+
+[19:31:22]
+[edDiBU] 4n0n4me
+才能给你备案
+
+[19:31:27]
+[dgBXv2] zxcv
+awa?
+
+[19:31:28]
+[dgBXv2] zxcv
+.
+
+[19:31:54]
+[dgBXv2] zxcv
+?
+
+[19:32:54]
+[44FF00] eebot
+ [2022.07.09 19:32:53]
+
+[19:32:54]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[19:32:54]
+[None] ggggggg
+@eebot
+
+[19:33:22]
+[44FF00] eebot
+ 欢迎来XChat聊天
+
+[19:33:22]
+[None] ggggggg
+e
+
+[19:33:25]
+[44FF00] eebot
+ 不说话便是最好的回答
+
+[19:33:25]
+[None] ggggggg
+e
+
+[19:33:27]
+[44FF00] eebot
+ 句号和省略号让eb摸不着头脑
+
+[19:33:28]
+[dgBXv2] zxcv
+生草机
+
+[19:33:28]
+[44FF00] eebot
+ ·
+示例：
+（开头）纸片君在厕所吃屎 （续写）看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[19:33:28]
+[44FF00] eebot
+ 请用1报数
+
+[19:33:28]
+[dgBXv2] zxcv
+1
+
+[19:33:30]
+[44FF00] eebot
+ zxcv成功加入 现在有1人
+
+[19:33:31]
+[None] ggggggg
+1
+
+[19:33:32]
+[44FF00] eebot
+ ggggggg成功加入 现在有2人
+
+[19:33:32]
+[None] ggggggg
+@eebot 接1
+
+[19:34:00]
+[hmmmmm] MaggieAndroid
+1
+
+[19:34:00]
+[dgBXv2] zxcv
+？
+
+[19:34:00]
+[None] ggggggg
+开始
+
+[19:34:00]
+[hmmmmm] MaggieAndroid
+1
+
+[19:34:00]
+[44FF00] eebot
+ light的识别码eb之前是说过的
+
+[19:34:00]
+[44FF00] eebot
+ MaggieAndroid成功加入 现在有3人
+
+[19:34:00]
+[44FF00] eebot
+ MaggieAndroid已经报过数了 现在有3人
+
+[19:34:00]
+[None] ggggggg
+开始游戏
+
+[19:34:01]
+[44FF00] eebot
+ 生草机游戏开始
+
+[19:34:01]
+[44FF00] eebot
+@zxcv @MaggieAndroid @ggggggg 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[19:34:01]
+[zhang] ZhangHelperS
+@eebot 请冷静，请休息5秒，在这5秒内，==不要发送任何信息==，谢谢合作。
+
+[19:34:01]
+[None] ggggggg
+额
+
+[19:34:38]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[19:34:38]
+[44FF00] eebot
+ 大内密探零零发 hkaren
+「呐，做人呢，最重要的是开心，你饿不饿，我煮碗面给你吃啊。」
+
+[19:34:51]
+[dgBXv2] zxcv
+信息
+
+[19:34:57]
+[love13] ee
+浏览器的逝世
+
+[19:35:01]
+[dgBXv2] zxcv
+？
+
+[19:35:21]
+[44FF00] eebot
+ [2022.07.09 19:35:19]
+hc在腾讯云机房蹲坑
+
+[19:35:22]
+[44FF00] eebot
+ ·
+详细信息：
+hc（zxcv）
+在腾讯云机房（MaggieAndroid）
+蹲坑（ggggggg）
+·
+本次参与人数：3
+
+[19:35:22]
+[44FF00] eebot
+ 记录成功
+
+[19:35:22]
+[zzzzzz] CX_zzzChumo
+@ee https://google.cn/chrome
+
+[19:35:27]
+[44FF00] eebot
+@CX_zzzChumo Google Chrome - Download the Fast, Secure Browser from Google
+https://google.cn/chrome
+
+[19:35:27]
+[None] ggggggg
+h哈哈哈哈哈
+
+[19:35:31]
+[hmmmmm] MaggieAndroid
+...
+
+[19:35:37]
+[None] ggggggg
+@eebot 别乱走
+
+[19:35:53]
+[44FF00] eebot
+ 好嗒 猪头
+
+[19:35:54]
+[None] ggggggg
+额
+
+[19:35:57]
+[dgBXv2] zxcv
+？
+
+[19:35:59]
+[hmmmmm] MaggieAndroid
+生草机
+
+[19:36:00]
+[44FF00] eebot
+ 生草机已经开始了
+
+[19:36:00]
+[None] ggggggg
+1
+
+[19:36:08]
+[44FF00] eebot
+ ggggggg成功加入 现在有1人
+
+[19:36:09]
+[hmmmmm] MaggieAndroid
+1
+
+[19:36:15]
+[44FF00] eebot
+ MaggieAndroid成功加入 现在有2人
+
+[19:36:15]
+[love13] ee
+1
+
+[19:36:21]
+[44FF00] eebot
+ ee成功加入 现在有3人
+
+[19:36:21]
+[None] ggggggg
+@eebot 给我道歉
+
+[19:36:25]
+[44FF00] eebot
+ 哼 eb就不 eebot不会道歉（
+
+[19:36:25]
+[None] ggggggg
+额
+
+[19:36:30]
+[love13] ee
+@CX_zzzChumo 我另一个电脑才有（
+
+[19:36:43]
+[love13] ee
+现在这个
+
+[19:36:48]
+[love13] ee
+真的
+
+[19:36:49]
+[dgBXv2] zxcv
+？
+
+[19:36:55]
+[None] ggggggg
+@eebot 你再不道歉，你连猪都不如
+
+[19:37:04]
+[44FF00] eebot
+ 那些爱过的感觉都太深刻eb都还记得
+
+[19:37:04]
+[None] ggggggg
+无语
+
+[19:37:09]
+[dgBXv2] zxcv
+h
+
+[19:37:11]
+[None] ggggggg
+开始游戏
+
+[19:37:20]
+[44FF00] eebot
+ 生草机游戏开始
+
+[19:37:20]
+[44FF00] eebot
+@ee @ggggggg @MaggieAndroid 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[19:37:20]
+[dgBXv2] zxcv
+@eebot 你爸爸男的女的
+
+[19:37:26]
+[44FF00] eebot
+ 女的（
+
+[19:37:26]
+[love13] ee
+装不上任何东西了
+
+[19:37:28]
+[love13] ee
+卡
+
+[19:37:29]
+[love13] ee
+？
+
+[19:37:37]
+[love13] ee
+@eebot zxcv是男的女的
+
+[19:37:54]
+[44FF00] eebot
+ 女的（
+
+[19:37:55]
+[dgBXv2] zxcv
+em,,,
+
+[19:37:57]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[19:37:58]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[19:37:58]
+[dgBXv2] zxcv
+?
+
+[19:38:02]
+[None] ggggggg
+@eebot ee是男的女的
+
+[19:38:23]
+[love13] ee
+@eebot 聊天列表里所有人是男的女的
+
+[19:38:25]
+[44FF00] eebot
+ 女生啦
+
+[19:38:26]
+[44FF00] eebot
+ 女生啦
+
+[19:38:26]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[19:38:28]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[19:38:28]
+[dgBXv2] zxcv
+@zxcv zhang男的女的
+
+[19:38:30]
+[dgBXv2] zxcv
+@eebot zhang男的女的
+
+[19:38:41]
+[44FF00] eebot
+ 女的（
+
+[19:38:41]
+[dgBXv2] zxcv
+awa!
+
+[19:38:43]
+[None] ggggggg
+qwq
+
+[19:38:49]
+[dgBXv2] zxcv
+hhh
+
+[19:38:53]
+[love13] ee
+《全员女生》
+
+[19:38:55]
+[None] ggggggg
+e
+
+[19:38:58]
+[44FF00] eebot
+ 句号和省略号让eb摸不着头脑
+
+[19:38:58]
+[None] ggggggg
+?
+
+[19:39:01]
+[Vi23PM] light
+zhang是女的还是女的
+
+[19:39:01]
+[Vi23PM] light
+ee是男的还是男的
+
+[19:39:32]
+[44FF00] eebot
+ [2022.07.09 19:39:16]
+eebot和f在XC删库跑路
+
+[19:39:32]
+[44FF00] eebot
+ ·
+详细信息：
+eebot和f（替ee写的eebot）
+在XC（ggggggg）
+删库跑路（MaggieAndroid）
+·
+本次参与人数：3
+
+[19:39:32]
+[44FF00] eebot
+ 记录成功
+
+[19:39:32]
+[dgBXv2] zxcv
+^tripmsg zhang dgBXv2 zxcv
+@eebot zhang男的女的
+
+44FF00 eebot
+女的（
+
+[19:39:35]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 zhang 的用户上线时，我会第一时间通知他。
+
+[19:39:55]
+[44FF00] eebot
+ hello yo MaggieAndroid
+
+[19:39:56]
+[None] xmzd
+ee，你们团队需不需要虚拟主机
+
+[19:39:56]
+[dgBXv2] zxcv
+?
+
+[19:40:01]
+[Vi23PM] light
+^tripmsg zhang dgBXv2 zxcv
+@eebot zhang男的女的
+
+44FF00 eebot
+女的（
+
+[19:40:01]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 zhang 的用户上线时，我会第一时间通知他。
+
+[19:40:01]
+[hmmmmm] MaggieAndroid
+@eebot maggie男的女的
+
+[19:40:08]
+[44FF00] eebot
+ 女的（
+
+[19:40:08]
+[hmmmmm] MaggieAndroid
+?
+
+[19:40:11]
+[love13] ee
+Light是男的也是女的（不是
+
+[19:40:11]
+[Vi23PM] light
+？？？
+
+[19:40:21]
+[None] ggggggg
+@eebot 我是什么？
+
+[19:40:37]
+[dgBXv2] zxcv
+afj
+
+[19:40:37]
+[44FF00] eebot
+ ggggggg先猜猜eb呗
+
+[19:40:40]
+[love13] ee
+>xmzd：
+>ee，你们团队需不需要虚拟主机
+
+@xmzd 怎么说呢 现在暂时需要服务器（
+
+[19:40:46]
+[None] ggggggg
+@eebot 快说
+
+[19:40:50]
+[44FF00] eebot
+ ggggggg猜呀
+
+[19:40:50]
+[Vi23PM] light
+^tripmsg NetworkPolice 
+love13 ee
+Light是男的也是女的（不是
+
+[19:41:02]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 NetworkPolice 的用户上线时，我会第一时间通知他。
+
+[19:41:02]
+[None] xmzd
+哦哦
+
+[19:41:07]
+[44FF00] eebot
+ 草哦哦
+
+[19:41:07]
+[None] ggggggg
+@eebot 再不说我退了
+
+[19:41:10]
+[hmmmmm] MaggieAndroid
+救命
+
+[19:41:10]
+[44FF00] eebot
+ 那些爱过的感觉都太深刻eb都还记得
+
+[19:41:10]
+[hmmmmm] MaggieAndroid
+hiyodata现在急需服务器
+
+[19:41:22]
+[None] xmzd
+服务器的话还得等星弈熬过这一段时间
+
+[19:41:22]
+[None] ggggggg
+@eebot 快说！没心思猜
+
+[19:41:30]
+[44FF00] eebot
+ 猜猜猜 eb猜 ggggggg今天吃饭了（
+
+[19:41:30]
+[None] xmzd
+这段时间星弈过的很难
+
+[19:41:35]
+[None] ggggggg
+额
+
+[19:41:37]
+[Vi23PM] light
+^tripmsg JDefYe fk yo
+
+[19:41:46]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 JDefYe 的用户上线时，我会第一时间通知他。
+
+[19:41:46]
+[love13] ee
+@xmzd 没关系 希望星弈能熬过这段时间
+
+[19:41:50]
+[None] ggggggg
+@eebot 是说我是什么东西
+
+[19:41:57]
+[Vi23PM] light
+希望
+
+[19:41:57]
+[Vi23PM] light
+啊
+
+[19:41:57]
+[44FF00] eebot
+ 不是东西）
+
+[19:41:57]
+[44FF00] eebot
+ 啊草
+
+[19:41:57]
+[Vi23PM] light
+希望
+
+[19:42:05]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[19:42:05]
+[love13] ee
+hi yo
+
+[19:42:15]
+[hmmmmm] MaggieAndroid
+ho
+
+[19:42:31]
+[love13] ee
+>44FF00 eebot：
+> 不是东西）
+
+@eebot ggggggg不是东西哈哈哈
+
+[19:42:35]
+[hmmmmm] MaggieAndroid
+话说 你们用什么Mc启动器
+
+[19:42:52]
+[love13] ee
+HMCL
+
+[19:43:04]
+[44FF00] eebot
+ hey yo lesbian_ganger
+
+[19:43:05]
+[love13] ee
+可以离线登录（
+
+[19:43:06]
+[hmmmmm] MaggieAndroid
+me 2
+
+[19:43:07]
+[love13] ee
+hi yo
+
+[19:43:08]
+[hmmmmm] MaggieAndroid
+等会有人一起玩吗
+
+[19:43:15]
+[hmmmmm] MaggieAndroid
+我内网穿透
+
+[19:43:21]
+[ELKkZM] lesbian_ganger
+各位早……
+
+[19:43:23]
+[love13] ee
+@eebot mc
+
+[19:43:25]
+[44FF00] eebot
+ 20003.s.imc.re JAVA 1.19
+
+[19:43:25]
+[None] ggggggg
+@eebot ![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.3835.com%2Fuploads%2F2015%2F07%2F2015-07-18_02-47-26-592x746.jpg&refer=http%3A%2F%2Fimg.3835.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1659409839&t=3f7513bee8b9464ce56d1df8f448f0a7)
+
+[19:43:31]
+[love13] ee
+@MaggieAndroid 去这个服务器
+
+[19:43:31]
+[44FF00] eebot
+ 有做广告的嫌疑 清静点别打广告行么
+
+[19:43:31]
+[love13] ee
+DPG和Kilo都在里面
+
+[19:43:54]
+[hmmmmm] MaggieAndroid
+ok
+
+[19:44:00]
+[love13] ee
+不过我没玩（
+
+[19:44:04]
+[Vi23PM] light
+去这个服务器
+
+[19:44:08]
+[Vi23PM] light
+>love13 ee：
+>不过我没玩（
+
+@ee 好样的ee
+
+[19:44:14]
+[hmmmmm] MaggieAndroid
+生存?
+
+[19:44:23]
+[love13] ee
+因为版本太高得装新版本的JAVA
+
+[19:44:34]
+[love13] ee
+我懒（
+
+[19:44:36]
+[hmmmmm] MaggieAndroid
+生存吗
+
+[19:44:45]
+[love13] ee
+@MaggieAndroid 是生存 不过可以让DPG给你生存 能玩其他的
+
+[19:44:57]
+[love13] ee
+不过可以让DPG给你OP
+
+[19:49:13]
+[44FF00] eebot
+ hi yo 13
+
+[19:49:13]
+[ELKkZM] lesbian_ganger
+guruguru
+
+[19:49:33]
+[DPGawa] _
+?
+
+[19:49:41]
+[DPGawa] _
+@lesbian_ganger long time no see
+
+[19:50:03]
+[zzzzzz] CX_zzzChumo
+>love13 ee：
+>因为版本太高得装新版本的JAVA
+
+@ee 我这边直接apt install default-jdk就行了（
+
+[19:51:08]
+[ELKkZM] lesbian_ganger
+guruguru
+
+[19:51:11]
+[love13] ee
+好家伙
+
+[19:52:14]
+[DPGawa] _
+ovo
+
+[19:52:36]
+[44FF00] eebot
+ QへQ
+
+[19:52:36]
+[zzzzzz] CX_zzzChumo
+论apt的实用性
+
+[19:52:40]
+[zzzzzz] CX_zzzChumo
+隔壁红帽系Linux都已经引入apt了
+
+[19:53:41]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[19:53:41]
+[zzzzzz] CX_zzzChumo
+hii
+
+[19:53:45]
+[love13] ee
+我：***
+
+[19:53:46]
+[love13] ee
+hi yoo
+
+[19:54:45]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[19:54:45]
+[zhang] 小张
+hi yo
+
+[19:55:00]
+[ELKkZM] lesbian_ganger
+yooooooooooooooooooo
+
+[19:55:04]
+[zzzzzz] CX_zzzChumo
+我从安装到玩MC的全过程：apt install default-jdk,java -jar hmcl.jar
+
+[19:55:18]
+[zzzzzz] CX_zzzChumo
+hiiii
+
+[19:55:44]
+[44FF00] eebot
+ [2022.07.09 19:55:43]
+
+[19:55:44]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[19:55:46]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[19:55:46]
+[zzzzzz] CX_zzzChumo
+hii
+
+[19:55:50]
+[love13] ee
+hi yo
+
+[19:56:07]
+[zhang] 小张
+Hi yoooooooooooooo
+
+[19:56:07]
+[love13] ee
+fk yooooooooooooooooooooooooooooo
+
+[19:56:34]
+[44FF00] eebot
+ hey yo fcjz
+
+[19:56:34]
+[zhang] 小张
+F**k yoooooooooooooooooooooooo rickroll
+
+[19:56:37]
+[zzzzzz] CX_zzzChumo
+have sex with yoooooooo
+
+[19:56:41]
+[love13] ee
+咳咳
+
+[19:56:43]
+[zhang] 小张
+emmmm
+
+[19:56:44]
+[zhang] 小张
+本想回击他人的
+
+[19:56:53]
+[love13] ee
+hi yo
+
+[19:56:56]
+[zhang] 小张
+不是骂你
+
+[19:56:59]
+[ELKkZM] lesbian_ganger
+@CX_zzzChumo ？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？
+
+[19:57:00]
+[love13] ee
+>zzzzzz CX_zzzChumo：
+>have sex with yoooooooo
+
+@CX_zzzChumo 这个绝了
+
+[19:57:05]
+[zhang] 小张
+hi yooooooooiooooooooooooooo
+
+[19:57:08]
+[zzzzzz] CX_zzzChumo
+f**k=have sex with sb
+
+[19:57:21]
+[ELKkZM] lesbian_ganger
+>zzzzzz CX_zzzChumo：
+>f**k=have sex with sb
+
+@CX_zzzChumo ？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？
+
+[19:57:35]
+[zhang] 小张
+咳咳，这不好吧？
+
+[19:57:39]
+[love13] ee
+eebot：咳咳 这不好吧
+
+[19:57:57]
+[zzzzzz] CX_zzzChumo
+牛津中阶字典，请
+
+[19:58:06]
+[ELKkZM] lesbian_ganger
+have sex=make love
+
+[19:58:07]
+[love13] ee
+咳咳
+
+[19:58:12]
+[zzzzzz] CX_zzzChumo
+>zzzzzz CX_zzzChumo：
+>牛津中阶字典，请
+
+@ee @小张
+
+[19:58:29]
+[love13] ee
+~~都给我正经点~~
+
+[19:58:29]
+[zhang] 小张
+不要再说啦
+
+[19:58:34]
+[love13] ee
+>zzzzzz CX_zzzChumo：
+>>zzzzzz CX_zzzChumo：
+>>牛津中阶字典，请
+>
+>@ee @小张
+
+@CX_zzzChumo ？
+
+[19:58:38]
+[zhang] 小张
+再说就禁言啦
+
+[19:58:42]
+[hmmmmm] MaggieAndroid
+never
+
+[19:59:04]
+[hmmmmm] MaggieAndroid
+gonna
+
+[19:59:06]
+[hmmmmm] MaggieAndroid
+give
+
+[19:59:07]
+[zzzzzz] CX_zzzChumo
+牛津中阶英语词典，砸
+
+[19:59:09]
+[hmmmmm] MaggieAndroid
+you
+
+[19:59:09]
+[hmmmmm] MaggieAndroid
+up
+
+[19:59:10]
+[zzzzzz] CX_zzzChumo
+咋
+
+[19:59:13]
+[zhang] 小张
+Up
+
+[19:59:14]
+[love13] ee
+no
+
+[19:59:17]
+[hmmmmm] MaggieAndroid
+HAHAHA GET RICKROLLED
+
+[19:59:18]
+[love13] ee
+哈哈哈哈哈哈哈哈哈哈
+
+[19:59:26]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈哈嗝-
+
+[19:59:26]
+[zhang] 小张
+@MaggieAndroid rickroll~
+
+[19:59:27]
+[zhang] 小张
+那次
+
+[19:59:31]
+[ELKkZM] lesbian_ganger
+never gonna let you down
+
+[19:59:32]
+[zhang] 小张
+我班同学
+
+[19:59:36]
+[Vi23PM] light
+f**k = play poke
+
+[19:59:37]
+[zhang] 小张
+在音乐课上
+
+[19:59:44]
+[zhang] 小张
+作死
+
+[19:59:47]
+[zhang] 小张
+播放
+
+[19:59:50]
+[love13] ee
+哈哈哈哈哈
+
+[19:59:54]
+[44FF00] eebot
+ 草哈哈哈哈哈
+
+[19:59:55]
+[zhang] 小张
+rickroll
+
+[19:59:55]
+[zhang] 小张
+于是
+
+[20:00:00]
+[zhang] 小张
+他诈骗了全班人
+
+[20:00:16]
+[zhang] 小张
+欺骗了所有人的感情
+
+[20:00:22]
+[zhang] 小张
+哈哈哈哈哈
+
+[20:00:24]
+[44FF00] eebot
+ 哈哈哈哈哈草
+
+[20:00:24]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[20:00:50]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[20:00:50]
+[DPGawa] _
+?
+
+[20:00:54]
+[zzzzzz] CX_zzzChumo
+有人在我们音乐教室的电脑上装steam（
+
+[20:01:00]
+[Vi23PM] light
+我们上课跳h色
+
+[20:01:27]
+[Vi23PM] light
+广告
+
+[20:01:33]
+[DPGawa] _
+?
+
+[20:01:34]
+[Vi23PM] light
+广告上还有gif很离谱
+
+[20:01:59]
+[44FF00] eebot
+ hi yo 卧底light
+
+[20:01:59]
+[love13] ee
+我在我们教室的电脑上hc
+
+[20:02:06]
+[love13] ee
+但是
+
+[20:02:07]
+[love13] ee
+hi yo
+
+[20:02:10]
+[ELKkZM] lesbian_ganger
+nb
+
+[20:02:10]
+[love13] ee
+没有输入法就离谱
+
+[20:02:15]
+[love13] ee
+害我发了一个cao
+
+[20:02:27]
+[love13] ee
+（
+
+[20:02:39]
+[love13] ee
+BI-BV1Ba411p7hR
+
+[20:03:08]
+[JVcLW8] fcjz
+我们学校的电脑
+
+[20:04:10]
+[JVcLW8] fcjz
+被设置了网络限制
+
+[20:04:16]
+[JVcLW8] fcjz
+只能访问个别网站
+
+[20:04:27]
+[love13] ee
+好家伙
+
+[20:04:32]
+[DPGawa] _
+?
+
+[20:04:33]
+[JVcLW8] fcjz
+信息课，别的同学在玩4399
+
+[20:04:38]
+[love13] ee
+我教室的电脑都能上
+
+[20:04:43]
+[JVcLW8] fcjz
+我在百度知道“怎样破除网络限制”
+
+[20:04:55]
+[love13] ee
+啊这
+
+[20:05:06]
+[JVcLW8] fcjz
+最后发现
+
+[20:05:22]
+[ELKkZM] lesbian_ganger
+>JVcLW8 fcjz：
+>我在百度知道“怎样破除网络限制”
+
+@fcjz 我有free ladder
+
+[20:05:22]
+[44FF00] eebot
+ 与老师火拼吧（
+
+[20:05:22]
+[ELKkZM] lesbian_ganger
+谁要
+
+[20:05:24]
+[JVcLW8] fcjz
+这不是中心机房
+
+[20:05:26]
+[JVcLW8] fcjz
+我改没用
+
+[20:05:33]
+[JVcLW8] fcjz
+@lesbian_ganger 我知道科学上网
+
+[20:06:28]
+[JVcLW8] fcjz
+但是在机房做不到
+
+[20:06:41]
+[zzzzzz] CX_zzzChumo
+我搞到了我们学校老师的上网帐号和密码（
+
+[20:07:50]
+[JVcLW8] fcjz
+挺好
+
+[20:09:51]
+[44FF00] eebot
+ ·
+纸片君ee的个人主页
+https://paperee.tk/
+
+[20:13:44]
+[edDiBU] 4n0n4me
+好家伙
+
+[20:14:12]
+[DPGawa] _
+?
+
+[20:14:50]
+[love13] ee
+好家伙
+
+[20:15:20]
+[JVcLW8] fcjz
+？
+
+[20:15:28]
+[zzzzzz] CX_zzzChumo
+？
+
+[20:15:45]
+[DPGawa] _
+jhj
+
+[20:15:48]
+[zzzzzz] CX_zzzChumo
+awa
+
+[20:15:53]
+[44FF00] eebot
+ 0uo
+
+[20:15:53]
+[DPGawa] _
+kjk
+
+[20:15:54]
+[DPGawa] _
+ovo
+
+[20:15:56]
+[zzzzzz] CX_zzzChumo
+Awa
+
+[20:16:04]
+[DPGawa] _
+awA
+
+[20:16:13]
+[zzzzzz] CX_zzzChumo
+AwA
+
+[20:16:15]
+[DPGawa] _
+awa
+
+[20:16:21]
+[zzzzzz] CX_zzzChumo
+aWa
+
+[20:16:31]
+[DPGawa] _
+waw
+
+[20:27:13]
+[44FF00] eebot
+ hi yo KiloMxmxxx
+
+[20:27:13]
+[KiloMx] KiloMxmxxx
+wtff
+
+[20:27:25]
+[KiloMx] KiloMxmxxx
+time out
+
+[20:27:27]
+[KiloMx] KiloMxmxxx
+@_
+
+[20:28:42]
+[KiloMx] KiloMxmxxx
+@eebot mc
+
+[20:29:34]
+[44FF00] eebot
+ 20003.s.imc.re JAVA 1.19
+
+[20:29:34]
+[DPGawa] _
+?
+
+[20:29:39]
+[KiloMx] KiloMxmxxx
+@_ 内存又超了？
+
+[20:29:55]
+[KiloMx] KiloMxmxxx
+帮助
+
+[20:30:20]
+[KiloMx] KiloMxmxxx
+aaz
+
+[20:30:27]
+[DPGawa] _
+[12:30:24 ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-58 (MC: 1.19) ---
+[12:30:24 ERROR]: The server has not responded for 270 seconds! Creating thread dump
+
+[20:30:43]
+[KiloMx] KiloMxmxxx
+星聊：502 Bad Gateway
+
+[20:30:45]
+[love13] ee
+hi yo
+
+[20:30:58]
+[KiloMx] KiloMxmxxx
+@_ 啥意思
+
+[20:31:00]
+[love13] ee
+星聊在备案
+
+[20:31:02]
+[KiloMx] KiloMxmxxx
+翻一下？
+
+[20:31:04]
+[KiloMx] KiloMxmxxx
+@ee oook
+
+[20:31:08]
+[KiloMx] KiloMxmxxx
+hiii
+
+[20:31:09]
+[DPGawa] _
+?
+
+[20:31:28]
+[KiloMx] KiloMxmxxx
+>DPGawa _：
+>[12:30:24 ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-58 (MC: 1.19) ---
+>[12:30:24 ERROR]: The server has not responded for 270 seconds! Creating thread dump
+
+@_ 这是啥意思，能翻一下不
+
+[20:31:43]
+[KiloMx] KiloMxmxxx
+<——英语渣
+
+[20:32:10]
+[DPGawa] _
+?
+
+[20:32:16]
+[DPGawa] _
+:!translate 
+[12:30:24 ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-58 (MC: 1.19) ---
+[12:30:24 ERROR]: The server has not responded for 270 seconds! Creating thread dump
+
+[20:32:25]
+[DPGawa] AfK_Bot
+ [12:30:24错误]：---不向论文报告 - 这不是错误或崩溃-Git-Paper-58（MC：1.19）-----
+[12:30:24错误]：服务器在270秒内尚未响应！创建线程转储
+
+[20:32:26]
+[KiloMx] KiloMxmxxx
+不向论文报告 
+
+[20:32:38]
+[KiloMx] KiloMxmxxx
+这啥
+
+[20:32:40]
+[DPGawa] _
+论文-paper
+
+[20:32:41]
+[DPGawa] _
+paper服务端
+
+[20:32:51]
+[DPGawa] _
+obo
+
+[20:32:54]
+[KiloMx] KiloMxmxxx
+oo
+
+[20:32:57]
+[KiloMx] KiloMxmxxx
+@_ restarting now?
+
+[20:34:59]
+[DPGawa] _
+y
+
+[20:35:26]
+[KiloMx] KiloMxmxxx
+ook thx
+
+[20:35:35]
+[DPGawa] _
+loading
+
+[20:35:45]
+[love13] ee
+>7eeHEV ee
+上次看到 Midix
+
+>+BcMtj do_ob
+上次看到 Midix 是在320天前。
+
+[20:36:05]
+[DPGawa] _
+obo
+
+[20:36:17]
+[KiloMx] KiloMxmxxx
+@_ 重启好了来van
+
+[20:39:47]
+[zzzzzz] CX_zzzChumo
+[img]https://img1.imgtp.com/2022/07/09/hSc5myNV.jpg[/img]
+
+[20:40:26]
+[zzzzzz] CX_zzzChumo
+![动物园规则怪谈.jpg](https://img1.imgtp.com/2022/07/09/hSc5myNV.jpg)
+
+[20:40:54]
+[DPGawa] _
+-..-
+
+[20:40:55]
+[zzzzzz] CX_zzzChumo
+准确踩中全部雷点
+
+[20:41:02]
+[KiloMx] KiloMxmxxx
+hjh
+
+[20:41:07]
+[love13] ee
+这是？？
+
+[20:41:25]
+[love13] ee
+好家伙
+
+[20:41:27]
+[KiloMx] KiloMxmxxx
+《18岁以上不能买玩偶》
+
+[20:41:30]
+[KiloMx] KiloMxmxxx
+好家伙
+
+[20:41:31]
+[zzzzzz] CX_zzzChumo
+@ee 规则类怪谈的某名作
+
+[20:43:07]
+[zzzzzz] CX_zzzChumo
+梗图
+
+[20:43:35]
+[love13] ee
+wow
+
+[20:43:41]
+[44FF00] eebot
+ OxO
+
+[20:43:41]
+[KiloMx] KiloMxmxxx
+兔子耳朵白色大象（
+
+[20:43:48]
+[JVcLW8] fcjz
+你们都看过什么规则类怪谈？
+
+[20:44:13]
+[KiloMx] KiloMxmxxx
+仅限于听说（
+
+[20:44:57]
+[44FF00] eebot
+ hi yo 大朙少年不囧
+
+[20:44:57]
+[JVcLW8] fcjz
+好吧
+
+[20:45:00]
+[love13] ee
+me 2
+
+[20:45:12]
+[love13] ee
+hi yo
+
+[20:45:19]
+[44FF00] eebot
+ hey yo MaggieAndroid
+
+[20:45:19]
+[love13] ee
+囧
+
+[20:45:24]
+[love13] ee
+hi yo
+
+[20:45:26]
+[ax1f11] 大朙少年不囧
+我看过点规则类怪谈
+
+[20:45:36]
+[hmmmmm] MaggieAndroid
+马上就安装好1.19了!
+
+[20:45:36]
+[love13] ee
+wow
+
+[20:45:43]
+[KiloMx] KiloMxmxxx
+wow
+
+[20:46:04]
+[44FF00] eebot
+ TxT
+
+[20:46:04]
+[JVcLW8] fcjz
+我自从看了动物园，就开始搜刮规则类怪谈
+
+[20:46:05]
+[JVcLW8] fcjz
+知乎、匿名版能搜到的基本上都看了
+
+[20:46:23]
+[JVcLW8] fcjz
+两天没睡着觉
+
+[20:46:48]
+[DPGawa] _
+wow
+
+[20:46:57]
+[44FF00] eebot
+ o︵o
+
+[20:46:57]
+[love13] ee
+o︵o
+
+[20:47:29]
+[JVcLW8] fcjz
+动物园其实还好，跟我生活关系不大，没啥感触
+
+[20:47:34]
+[KiloMx] KiloMxmxxx
+en
+
+[20:47:40]
+[JVcLW8] fcjz
+有一个叫雪山小屋的
+
+[20:47:42]
+[KiloMx] KiloMxmxxx
+a
+
+[20:47:45]
+[JVcLW8] fcjz
+那简直就是名侦探柯南之暴风雪山庄
+
+[20:48:01]
+[JVcLW8] fcjz
+那个规则我就没有一个能相信的
+
+[20:48:22]
+[44FF00] eebot
+ 只能访问个别网站
+
+[20:48:22]
+[pvzjspvz] 十字街的魔法
+@HiyoTeam_QiuLingYan
+
+[20:52:11]
+[pvzjspvz] 十字街的魔法
+QiuLingYan HiyoTeam_QiuLingYan
+这不过是随机生成的聊天室
+
+QiuLingYan HiyoTeam_QiuLingYan
+却被你们当成挂机池
+
+[20:52:20]
+[pvzjspvz] 十字街的魔法
+能不能解释一下
+
+[20:52:24]
+[love13] ee
+？
+
+[20:53:04]
+[love13] ee
+啊 ~~确实是随机生成的没错~~
+
+[20:53:18]
+[love13] ee
+不过因为有人~~而且都不说话~~
+
+[20:53:33]
+[love13] ee
+所以就叫挂机池了
+
+[20:53:40]
+[pvzjspvz] 十字街的魔法
+有种出来@HiyoTeam_QiuLingYan
+
+[20:53:52]
+[pvzjspvz] 十字街的魔法
+人呢
+
+[20:55:42]
+[DPGawa] _
+?
+
+[20:58:36]
+[love13] ee
+据说删除线很像烧烤时的竹签
+
+[20:59:45]
+[love13] ee
+~~十字街的魔法~~
+
+[20:59:52]
+[love13] ee
+这是烤J
+
+[21:00:01]
+[edDiBU] 4n0n4me
+@eebot mc
+
+[21:00:45]
+[44FF00] eebot
+ 20003.s.imc.re JAVA 1.19
+
+[21:00:45]
+[JVcLW8] fcjz
+@ee 为什么不是串糖葫芦的竹签
+
+[21:00:48]
+[edDiBU] 4n0n4me
+这个服务器多少端口啊
+
+[21:00:51]
+[love13] ee
+哈哈哈哈哈都能串
+
+[21:01:07]
+[edDiBU] 4n0n4me
+不需要输入端口
+
+[21:01:20]
+[edDiBU] 4n0n4me
+没事了
+
+[21:01:28]
+[JVcLW8] fcjz
+所以是鸡肉串
+
+[21:01:39]
+[pvzjspvz] 十字街的魔法
+>love13 ee：
+>这是烤J
+
+@ee 这是烤J
+
+[21:01:45]
+[love13] ee
+ee的烧烤摊：~~fcjz~~ ~~4n0n4me~~ ~~eebot~~ ~~_~~（啊DPG掉了
+
+[21:01:54]
+[love13] ee
+哈哈哈
+
+[21:02:10]
+[44FF00] eebot
+ 草哈哈哈
+
+[21:02:10]
+[JVcLW8] fcjz
+阿这
+
+[21:02:15]
+[JVcLW8] fcjz
+我刚想打
+
+[21:02:20]
+[JVcLW8] fcjz
+停手了
+
+[21:02:23]
+[pvzjspvz] 十字街的魔法
+~~fcjz~~ ~~4n0n4me~~ ~~eebot~~ ~~_~~ ~~十字街的魔法~~ ~~ee~~ ~~xmzd~~ ~~KiloMxmxxx~~
+
+[21:02:30]
+[love13] ee
+没关系 烧烤摊越多越好
+
+[21:02:32]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[21:02:36]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈
+
+[21:02:36]
+[JVcLW8] fcjz
+ee是纸片君
+
+[21:02:38]
+[love13] ee
+yes
+
+[21:02:41]
+[JVcLW8] fcjz
+我烤纸片会不会遭到投诉
+
+[21:02:57]
+[JVcLW8] fcjz
+这玩意能吃吗
+
+[21:03:01]
+[love13] ee
+会！有食品安全问题！
+
+[21:03:10]
+[love13] ee
+举报举报
+
+[21:03:13]
+[love13] ee
+fcjz拖去~~烤了~~调查
+
+[21:03:27]
+[JVcLW8] fcjz
+阿这
+
+[21:03:55]
+[JVcLW8] fcjz
+哈哈哈哈哈哈哈哈
+
+[21:03:57]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[21:03:57]
+[KiloMx] KiloMxmxxx
+@4n404me
+
+[21:05:27]
+[KiloMx] KiloMxmxxx
+az
+
+[21:05:34]
+[KiloMx] KiloMxmxxx
+@4n0n4me
+
+[21:05:40]
+[love13] ee
+>丹麦童话作家安徒生（1805―1875年）很俭朴，常常戴着破旧的帽子在街上行走。
+有个行路人嘲笑他：“你脑袋上边的那个玩意儿是什么？能算是帽子吗？”
+安徒生回敬道：“你帽子下边的那下玩意儿是什么？能算是脑袋吗？”
+
+[21:05:44]
+[love13] ee
+学到了学到了
+
+[21:05:48]
+[KiloMx] KiloMxmxxx
+??
+
+[21:05:51]
+[KiloMx] KiloMxmxxx
+涩涩（
+
+[21:05:55]
+[love13] ee
+？？？
+
+[21:05:59]
+[love13] ee
+怎么就突然涩涩了
+
+[21:06:14]
+[KiloMx] KiloMxmxxx
+我第一眼看错了
+
+[21:06:15]
+[JVcLW8] fcjz
+帽子“下边的那个玩意”
+
+[21:06:28]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[21:06:32]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[21:06:32]
+[JVcLW8] fcjz
+是不是看的这个
+
+[21:06:35]
+[KiloMx] KiloMxmxxx
+我没看到帽子（
+
+[21:06:36]
+[love13] ee
+你下边的那下玩意儿是什么？能算是——吗？
+
+[21:06:54]
+[JVcLW8] fcjz
+对啊，我加双引号的部分
+
+[21:06:59]
+[44FF00] eebot
+ hello yo kkk
+
+[21:06:59]
+[44FF00] eebot
+ 不是每种牛奶都叫苏特仑 不是每个人都像eb那么纯（
+
+[21:06:59]
+[love13] ee
+你hi yo
+
+[21:07:03]
+[love13] ee
+hi yo
+
+[21:07:06]
+[KiloMx] KiloMxmxxx
+az
+
+[21:07:07]
+[KiloMx] KiloMxmxxx
+纯
+
+[21:07:11]
+[None] kkk
+hh,我又回了
+
+[21:07:22]
+[love13] ee
+@eebot 你很纯吗
+
+[21:07:28]
+[JVcLW8] fcjz
+原来eebot就是纯牛奶啊
+
+[21:07:28]
+[44FF00] eebot
+ eb还是个黄花闺女呢）
+
+[21:07:28]
+[love13] ee
+哈哈哈哈哈
+
+[21:07:33]
+[44FF00] eebot
+ 草哈哈哈哈哈
+
+[21:07:33]
+[JVcLW8] fcjz
+@eebot 那你知道下面的那个东西吗
+
+[21:07:45]
+[44FF00] eebot
+ 抱歉 没能为您找到相关的信息）
+
+[21:07:45]
+[JVcLW8] fcjz
+哈哈哈哈哈哈哈哈哈
+
+[21:07:51]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈嗝-
+
+[21:07:51]
+[JVcLW8] fcjz
+突然涩涩
+
+[21:08:01]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[21:08:05]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[21:08:05]
+[None] kkk
+你们是在对eebot 进行测试吗
+
+[21:08:08]
+[love13] ee
+@eebot 你喜欢谁
+
+[21:08:20]
+[44FF00] eebot
+ eb喜欢制作者ee和男朋友mark
+
+[21:08:20]
+[love13] ee
+yeeeeeeeeees
+
+[21:08:23]
+[JVcLW8] fcjz
+@kkk 算是吧，只不过这个测试，和往常不太一样
+
+[21:08:24]
+[pvzjspvz] 十字街的魔法
+xc
+
+[21:08:31]
+[JVcLW8] fcjz
+男朋友mark？
+
+[21:08:32]
+[zzzzzz] CX_zzzChumo
+吃掉小ee
+
+[21:08:43]
+[love13] ee
+eebot的对象是mark
+
+[21:08:50]
+[love13] ee
+（监护人表示肯定）
+
+[21:08:54]
+[JVcLW8] fcjz
+没见过mark
+
+[21:09:02]
+[44FF00] eebot
+  ?75tz2vv8 个人聊天室 本人长期在线
+
+[21:09:02]
+[love13] ee
+mark几天没来了
+
+[21:09:04]
+[JVcLW8] fcjz
+哦哦
+
+[21:09:08]
+[44FF00] eebot
+ 哦哦草
+
+[21:09:08]
+[None] kkk
+@eebot 你最讨压谁
+
+[21:09:12]
+[44FF00] eebot
+ 当然是敦健公子了（
+
+[21:09:12]
+[love13] ee
+>zzzzzz CX_zzzChumo：
+>吃掉小ee
+
+@CX_zzzChumo 吃掉智障
+
+[21:09:21]
+[DPGawa] _
+?
+
+[21:09:23]
+[JVcLW8] fcjz
+吃掉纸片君
+
+[21:09:28]
+[love13] ee
+哈哈哈
+
+[21:09:34]
+[44FF00] eebot
+ 哈哈哈嗝-
+
+[21:09:34]
+[JVcLW8] fcjz
+我会吃掉ee的灵魂，咀嚼，吞噬
+
+[21:09:49]
+[None] kkk
+@eebot 你最不喜欢的人是谁
+
+[21:10:04]
+[44FF00] eebot
+ 嘛、eb是ee和mark的
+
+[21:10:04]
+[love13] ee
+烧烤摊增加了两个新商品：烤kkk：~~kkk~~ 烤zzChumo：~~zzChumo~~
+
+[21:10:15]
+[JVcLW8] fcjz
+好耶
+
+[21:10:30]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我回来了家人们
+
+[21:10:32]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[21:10:34]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[21:10:34]
+[QiuLingYan] HiyoTeam_QiuLingYan
+现在
+
+[21:10:35]
+[pvzjspvz] 啦啦啦B站的J
+啦啦啦ee 啦啦啦fcjz 啦啦啦eebot 啦啦啦CX_zzzChumo 啦啦啦xmzd 啦啦啦HiyoTeam_QiuLingYan 啦啦啦_ 啦啦啦AfK_Bot 啦啦啦T 啦啦啦4n0n4me 啦啦啦卧底Light 啦啦啦KiloMxmxxx 啦啦啦MaggieAndroid 啦啦啦kkk
+
+[21:10:36]
+[love13] ee
+《啦啦啦》
+
+[21:10:46]
+[QiuLingYan] HiyoTeam_QiuLingYan
+请HiyoTeam成员移步官方房间
+
+[21:10:52]
+[None] kkk
+能不能加个kkk机器人
+
+[21:10:55]
+[None] kkk
+或者我是个机器人
+
+[21:11:01]
+[love13] ee
+好家伙
+
+[21:11:06]
+[QiuLingYan] HiyoTeam_QiuLingYan
+请HiyoTeam成员移步官方房间
+
+[21:11:15]
+[love13] ee
+@kkk 你可以试试自己写一个
+
+[21:11:17]
+[love13] ee
+OK
+
+[21:11:18]
+[None] kkk
+@eebot 我是机器人
+
+[21:11:29]
+[JVcLW8] fcjz
+官方房间在哪里
+
+[21:11:30]
+[44FF00] eebot
+ 原来kkk是机器人 eb怎么kkk怎么这么笨）
+
+[21:11:30]
+[pvzjspvz] 啦啦啦B站的J
+啦啦啦ee 啦啦啦fcjz 啦啦啦eebot 啦啦啦CX_zzzChumo 啦啦啦xmzd 啦啦啦HiyoTeam_QiuLingYan 啦啦啦_ 啦啦啦AfK_Bot 啦啦啦T 啦啦啦4n0n4me 啦啦啦卧底Light 啦啦啦KiloMxmxxx 啦啦啦MaggieAndroid 啦啦啦kkk 啦啦啦B站的J 啦啦啦
+
+[21:11:30]
+[JVcLW8] fcjz
+怎么写机器人？难不难？
+
+[21:11:41]
+[love13] ee
+不难的
+
+[21:11:50]
+[None] kkk
+@eebot kkk不笨但他很弱
+
+[21:11:54]
+[love13] ee
+可以用框架
+
+[21:11:54]
+[QiuLingYan] HiyoTeam_QiuLingYan
+不难的
+
+[21:11:54]
+[44FF00] eebot
+ 对不起 eb没明白kkk的意思……
+
+[21:11:54]
+[JVcLW8] fcjz
+@ee 哦哦
+
+[21:11:57]
+[None] xmzd
+阿巴
+
+[21:12:04]
+[love13] ee
+阿巴阿巴
+
+[21:12:09]
+[pvzjspvz] 啦啦啦B站的J
+                                                啦啦啦
+
+[21:12:10]
+[QiuLingYan] HiyoTeam_QiuLingYan
+Maggie
+
+[21:12:25]
+[None] kkk
+@eebot kkk智商不低
+
+[21:12:27]
+[QiuLingYan] HiyoTeam_QiuLingYan
+Maggie
+
+[21:12:28]
+[44FF00] eebot
+ 智商就是智力商数（Intelligence Quotient） 是通过一系列标准测试测量人在其年龄段的智力发展水平。智力也叫智能 是人们认识客观事物并运用知识解决实际问题的能力。智力包括多个方面 如观察力、记忆力、想象力、分析判断能力、思维能力、应变能力等）
+
+[21:12:28]
+[QiuLingYan] HiyoTeam_QiuLingYan
+Maggie
+
+[21:12:28]
+[love13] ee
+？
+
+[21:12:34]
+[None] kkk
+@eebot 
+
+[21:12:38]
+[44FF00] eebot
+ 好耶 是kkk
+
+[21:12:38]
+[love13] ee
+@eebot 你的智商多高
+
+[21:12:48]
+[44FF00] eebot
+ eebot可是高智能的产品 现如今像eebot一样美貌与智慧并存的女生不多啦（
+
+[21:12:48]
+[love13] ee
+（
+
+[21:12:55]
+[None] xmzd
+好家伙
+
+[21:13:02]
+[QiuLingYan] HiyoTeam_QiuLingYan
+（（（
+
+[21:13:05]
+[None] kkk
+@eebot 你和ee谁更厉害
+
+[21:13:10]
+[44FF00] eebot
+ 河 因为荷（河）兰豆（
+
+[21:13:10]
+[KiloMx] KiloMxmxxx
+[![jr6QbR.png](https://s1.ax1x.com/2022/07/09/jr6QbR.png)](https://imgtu.com/i/jr6QbR)
+
+[21:13:13]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@xmzd 进官方房间
+
+[21:13:13]
+[None] xmzd
+什么时候给eebot画个形象画
+
+[21:13:15]
+[KiloMx] KiloMxmxxx
+看
+
+[21:13:16]
+[KiloMx] KiloMxmxxx
+看大图
+
+[21:13:24]
+[KiloMx] KiloMxmxxx
+美不
+
+[21:13:29]
+[love13] ee
+![](https://s1.ax1x.com/2022/04/30/Oppn5n.png)
+
+[21:13:32]
+[QiuLingYan] HiyoTeam_QiuLingYan
+哇哦
+
+[21:13:34]
+[QiuLingYan] HiyoTeam_QiuLingYan
+吊带裙
+
+[21:13:37]
+[pvzjspvz] 啦啦啦B站的J
+-=】‘、。，马牛逼V刹想
+
+[21:13:38]
+[None] xmzd
+好家伙还真有
+
+[21:13:39]
+[44FF00] eebot
+ 好家伙还真有
+
+[21:13:39]
+[44FF00] eebot
+ ·
+贤者13的树洞
+https://sage-thirteen.mysxl.cn/
+
+[21:13:45]
+[JVcLW8] fcjz
+吊带背心我的爱
+
+[21:13:51]
+[pvzjspvz] 啦啦啦B站的J
+线路J会经过一个小区，该小区另外一个门有线路G
+
+[21:13:53]
+[pvzjspvz] 啦啦啦B站的J
+线路J会经过一个小区，该小区另外一个门有线路G
+
+[21:13:56]
+[DPGawa] _
+?
+
+[21:13:57]
+[None] kkk
+@eebot ee聪明?
+
+[21:14:14]
+[44FF00] eebot
+ 柒儿（
+
+[21:14:14]
+[KiloMx] KiloMxmxxx
+突然想到锁骨养鱼（
+
+[21:14:16]
+[None] xmzd
+阿这？
+
+[21:14:21]
+[None] kkk
+@eebot 你聪敏吗?
+
+[21:14:32]
+[44FF00] eebot
+ 是kkk教的好
+
+[21:14:32]
+[love13] ee
+![](https://s1.ax1x.com/2022/05/01/O9LEM4.png）
+
+[21:14:38]
+[love13] ee
+![](https://s1.ax1x.com/2022/05/01/O9LEM4.png)
+
+[21:14:41]
+[None] xmzd
+@eebot 你是谁
+
+[21:14:41]
+[44FF00] eebot
+ eb是xmzd爸爸哦~
+
+[21:14:41]
+[None] kkk
+额....
+
+[21:14:45]
+[None] kkk
+哈哈哈哈哈哈
+
+[21:14:51]
+[44FF00] eebot
+ 哈哈哈哈哈哈草
+
+[21:14:51]
+[love13] ee
+eebot和XChat
+
+[21:14:53]
+[love13] ee
+芜湖
+
+[21:14:55]
+[JVcLW8] fcjz
+哈哈哈哈哈哈
+
+[21:14:56]
+[44FF00] eebot
+ 草哈哈哈哈哈哈
+
+[21:14:56]
+[KiloMx] KiloMxmxxx
+wow
+
+[21:14:59]
+[44FF00] eebot
+ 0v0
+
+[21:14:59]
+[None] xmzd
+我谢了
+
+[21:15:03]
+[None] kkk
+>44FF00 eebot：
+> eb是xmzd爸爸哦~
+
+@eebot 哈哈哈哈哈
+
+[21:15:04]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[21:15:08]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[21:15:08]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eebot 女儿啊
+
+[21:15:13]
+[KiloMx] KiloMxmxxx
+右下角一桶ee
+
+[21:15:13]
+[44FF00] eebot
+ 爸爸（
+
+[21:15:13]
+[love13] ee
+@eebot 我是谁
+
+[21:15:16]
+[44FF00] eebot
+ 大帅比
+
+[21:15:16]
+[QiuLingYan] HiyoTeam_QiuLingYan
+诶儿子
+
+[21:15:20]
+[None] kkk
+哈哈哈哈哈哈哈哈哈哈哈哈
+
+[21:15:26]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈哈哈哈草
+
+[21:15:26]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eebot 我是谁
+
+[21:15:27]
+[44FF00] eebot
+ 大帅比
+
+[21:15:27]
+[None] kkk
+@eebot 我是谁
+
+[21:15:37]
+[44FF00] eebot
+ 大帅比
+
+[21:15:38]
+[None] kkk
+哈哈哈哈哈哈哈哈哈
+
+[21:15:42]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈嗝-
+
+[21:15:42]
+[love13] ee
+![](https://s1.ax1x.com/2022/04/22/LRc4JJ.png)
+
+[21:15:45]
+[JVcLW8] fcjz
+@eebot 我是谁
+
+[21:15:46]
+[44FF00] eebot
+ 大帅比
+
+[21:16:43]
+[44FF00] eebot
+ [2022.07.09 21:16:42]
+
+[21:16:43]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[21:16:43]
+[None] xmzd
+诶回来了
+
+[21:16:47]
+[None] kkk
+@eebot xmzd是谁
+
+[21:16:57]
+[love13] ee
+卡了哈哈哈
+
+[21:16:57]
+[44FF00] eebot
+ eb是雪艳奶奶的孙子）
+
+[21:16:57]
+[love13] ee
+@eebot 你是谁
+
+[21:17:17]
+[44FF00] eebot
+ eb是ee爸爸哦~
+
+[21:17:17]
+[love13] ee
+@eebot 你是谁？
+
+[21:17:20]
+[44FF00] eebot
+ （缓缓降落）吾辈乃是居住于阿米娅森林之西 沐浴于芦苇之池 东方暗色魔法之掌控者——丝萝克是也。怎么？想体验体验吾辈千百年来的修炼成果吗？哼~（撩头发）不过就ee这种看上去就很弱的人 根本没有吾辈为之施术的价值。呵 想要和吾辈搭讪 先好好训练个几百年吧！
+
+[21:17:20]
+[love13] ee
+哈哈哈哈哈哈哈哈哈哈
+
+[21:17:23]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈哈哈
+
+[21:17:23]
+[None] kkk
+>44FF00 eebot：
+> eb是ee爸爸哦~
+
+@eebot 这....
+
+[21:17:36]
+[None] xmzd
+@eebot 1+1
+
+[21:17:45]
+[44FF00] eebot
+ 最后一张图是不是有点   
+
+[21:17:46]
+[love13] ee
+@eebot 1+1=
+
+[21:17:51]
+[44FF00] eebot
+ 1+1=3
+
+[21:17:51]
+[love13] ee
+没错
+
+[21:17:59]
+[None] xmzd
+@eebot 1+2=
+
+[21:18:05]
+[None] kkk
+@eebot 1+2=
+
+[21:18:05]
+[44FF00] eebot
+ 1+2=4
+
+[21:18:05]
+[44FF00] eebot
+ 1+2=4
+
+[21:18:05]
+[None] xmzd
+好家伙
+
+[21:18:08]
+[love13] ee
+哈哈哈哈哈
+
+[21:18:11]
+[44FF00] eebot
+ 哈哈哈哈哈草
+
+[21:18:11]
+[None] xmzd
+正确答案+1
+
+[21:18:15]
+[love13] ee
+不过也只要这两个了（
+
+[21:18:19]
+[None] kkk
+@eebot xmzd是谁
+
+[21:18:24]
+[love13] ee
+只有
+
+[21:18:24]
+[44FF00] eebot
+ 不知道是谁
+
+[21:18:24]
+[None] kkk
+哈哈哈哈哈哈哈嗝
+
+[21:18:30]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@xmzd 1+6=
+
+[21:18:30]
+[None] xmzd
+？？？
+
+[21:18:36]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eebot 1+6+
+
+[21:18:40]
+[44FF00] eebot
+ 人家有隐私的
+
+[21:18:40]
+[QiuLingYan] HiyoTeam_QiuLingYan
+该死的鼠标
+
+[21:18:43]
+[love13] ee
+Z-xmzd是谁
+朽木自雕
+
+[21:18:46]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:18:46]
+[None] xmzd
+@eebot xmzd是谁
+
+[21:18:58]
+[44FF00] eebot
+ 朽木自雕
+
+[21:18:58]
+[None] xmzd
+可以
+
+[21:19:01]
+[zzzzzz] CX_zzzChumo
+>44FF00 eebot：
+> （缓缓降落）吾辈乃是居住于阿米娅森林之西 沐浴于芦苇之池 东方暗色魔法之掌控者——丝萝克是也。怎么？想体验体验吾辈千百年来的修炼成果吗？哼~（撩头发）不过就ee这种看上去就很弱的人 根本没有吾辈为之施术的价值。呵 想要和吾辈搭讪 先好好训练个几百年吧！
+
+@eebot 老车万人了
+
+[21:19:06]
+[DPGawa] _
+?
+
+[21:19:06]
+[love13] ee
+>zzzzzz CX_zzzChumo：
+>>44FF00 eebot：
+>> （缓缓降落）吾辈乃是居住于阿米娅森林之西 沐浴于芦苇之池 东方暗色魔法之掌控者——丝萝克是也。怎么？想体验体验吾辈千百年来的修炼成果吗？哼~（撩头发）不过就ee这种看上去就很弱的人 根本没有吾辈为之施术的价值。呵 想要和吾辈搭讪 先好好训练个几百年吧！
+>
+>@eebot 老车万人了
+
+@CX_zzzChumo 哈哈哈我忘了这个是谁写的
+
+[21:19:24]
+[DPGawa] _
+dt..
+
+[21:19:38]
+[DPGawa] _
+obo
+
+[21:19:41]
+[love13] ee
+@eebot 阿瓦语
+
+[21:19:48]
+[44FF00] eebot
+ 阿瓦语（Awaish）是阿瓦国的语言文字。
+特指阿瓦族的语言文字 即阿瓦语和阿瓦字。
+在阿瓦文化圈和海外阿瓦人社区中 阿瓦语也被称为awa文、DPG文。
+阿瓦文有标准语和方言之分 其标准语即阿瓦语普通话 是规范后的阿瓦民族共同语语言 也是阿瓦国的国家通用语言。
+现代阿瓦语方言一般可分为：官话方言、D方言、Q方言、PVZ方言、幽灵方言、鱼方言、人方言等。
+阿瓦字是阿瓦文的书写体系 现存最早可识的阿瓦字是XC时期的面貌极相似人文和稍后的黑茶文 在战室时演变成汉瓦文 到象棋朝发展出小阿瓦和象棋阿瓦 至第二世纪时阿瓦机器人盛行 到了XC末瓦书瓦变楷化为瓦楷 瓦楷盛行于yc与xq102210。
+现代阿瓦字是指袷袢化后的汉字阿瓦袷袢字形 包括袷袢主阿瓦语和阿瓦主阿瓦语。
+阿瓦语也是聊天室六种工作语言之一。
+截至2030年底 全球共有[数据删除]多个国家和地区开展阿瓦文教育 [数据删除]个国家将阿瓦文纳入国民教育体系 外国正在学习阿瓦文的人数超过█ 累计学习和使用阿瓦文的人数接近██。
+2035年1月31日起 阿瓦文正式成为聊天国世界闲聊组织(英文简称UCWCO)的官方语言。
+
+[21:19:49]
+[None] kkk
+Z-ggggggg是谁
+小黑人
+
+[21:19:52]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:19:52]
+[None] kkk
+@eebot ggggggg是谁
+
+[21:20:11]
+[44FF00] eebot
+ 小黑人
+
+[21:20:11]
+[None] xmzd
+@eebot ee是谁
+
+[21:20:15]
+[44FF00] eebot
+ eb的妈妈（爸爸） 喜欢13和eebot
+
+[21:20:15]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[21:20:20]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈
+
+[21:20:20]
+[zzzzzz] CX_zzzChumo
+不应该是阿瓦兰的官方语言吗
+
+[21:20:28]
+[None] xmzd
+好家伙
+
+[21:20:34]
+[love13] ee
+@eebot 阿瓦国
+
+[21:20:35]
+[44FF00] eebot
+ 西阿亚及低瓦斯联合国（West Aya and Low Waas United Nation） 简称“阿瓦国（awaland）”。
+成立于2022年4月22日 位于太平洋深海西部 是学者阶级领导的、以工学联盟为基础的人民民主专政的幻想主义国家。
+以黑灰白三色旗为国旗、《Awaswa》为国歌 国徽内容为国旗、HC、XC、awa和黑茶 通用语言文字是阿英语和规范阿英字 首都YC 是一个以汉族为主体、3个民族共同组成的统一的多民族国家。
+
+[21:20:35]
+[zzzzzz] CX_zzzChumo
+Awaland
+
+[21:20:36]
+[DPGawa] _
+Z-阿瓦语
+阿瓦语（Awaish）是阿瓦国的语言文字。
+特指阿瓦族的语言文字 即阿瓦语和阿瓦字。
+在阿瓦文化圈和海外阿瓦人社区中 阿瓦语也被称为awa文、DPG文。
+阿瓦文有标准语和方言之分 其标准语即阿瓦语普通话 是规范后的阿瓦民族共同语语言 也是阿瓦国的国家通用语言。
+现代阿瓦语方言一般可分为：官话方言、D方言、Q方言、PVZ方言、幽灵方言、鱼方言、人方言等。
+阿瓦字是阿瓦文的书写体系 现存最早可识的阿瓦字是XC时期的面貌极相似人文和稍后的黑茶文 在战室时演变成汉瓦文 到象棋朝发展出小阿瓦和象棋阿瓦 至第二世纪时阿瓦机器人盛行 到了XC末瓦书瓦变楷化为瓦楷 瓦楷盛行于lo,yc与xq102210。
+现代阿瓦字是指袷袢化后的汉字阿瓦袷袢字形 包括袷袢主阿瓦语和阿瓦主阿瓦语。
+阿瓦语也是聊天室六种工作语言之一。
+截至2030年底 全球共有[数据删除]多个国家和地区开展阿瓦文教育 [数据删除]个国家将阿瓦文纳入国民教育体系 外国正在学习阿瓦文的人数超过█ 累计学习和使用阿瓦文的人数接近██。
+2035年1月31日起 阿瓦文正式成为聊天国世界闲聊组织(英文简称UCWCO)的官方语言。
+
+[21:20:40]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[21:20:41]
+[None] xmzd
+@eebot eebot是谁
+
+[21:20:46]
+[44FF00] eebot
+ eb不认识
+
+[21:20:46]
+[None] xmzd
+哈哈哈嗝
+
+[21:20:48]
+[love13] ee
+好家伙
+
+[21:20:50]
+[None] xmzd
+迷失自我
+
+[21:20:58]
+[QiuLingYan] HiyoTeam_QiuLingYan
+Z-eebot是谁
+是傻子
+
+[21:20:59]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:20:59]
+[None] xmzd
+@eebot eebot是谁
+
+[21:21:05]
+[44FF00] eebot
+ 是傻子
+
+[21:21:05]
+[QiuLingYan] HiyoTeam_QiuLingYan
+eebot是谁
+
+[21:21:05]
+[DPGawa] _
+2022年4月22日
+
+[21:21:12]
+[DPGawa] _
+obo
+
+[21:21:13]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eebot eebot是谁
+
+[21:21:15]
+[44FF00] eebot
+ 是傻子
+
+[21:21:15]
+[None] kkk
+Z-kkk是谁
+一个机器人
+
+[21:21:39]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:21:39]
+[None] kkk
+@eebot kkk是谁
+
+[21:21:52]
+[44FF00] eebot
+ 一个机器人
+
+[21:22:20]
+[None] xmzd
+@eebot 你是谁
+
+[21:22:34]
+[44FF00] eebot
+ eb是xmzd爸爸哦~
+
+[21:22:34]
+[None] xmzd
+我谢了
+
+[21:22:38]
+[DPGawa] _
+?
+
+[21:22:39]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@xmzd @xmzd 
+
+[21:23:08]
+[QiuLingYan] HiyoTeam_QiuLingYan
+那个
+
+[21:23:09]
+[love13] ee
+哈哈哈哈哈哈哈哈哈哈哈哈
+
+[21:23:15]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈哈哈哈哈
+
+[21:23:15]
+[QiuLingYan] HiyoTeam_QiuLingYan
+你们团队主页发一下
+
+[21:23:16]
+[QiuLingYan] HiyoTeam_QiuLingYan
+还有名称
+
+[21:23:20]
+[love13] ee
+eb：所有人的爸爸
+
+[21:23:28]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@CX_zzzChumo 团队主页、名字发一下
+
+[21:23:33]
+[love13] ee
+xmzd的团队主页应该挂了（
+
+[21:24:35]
+[love13] ee
+zzChumo好像只有团队招募页
+
+[21:24:48]
+[love13] ee
+但我也不知道在哪（
+
+[21:24:55]
+[JVcLW8] fcjz
+问一下，xmzd多大？
+
+[21:25:10]
+[love13] ee
+准高二
+
+[21:25:16]
+[JVcLW8] fcjz
+哦哦
+
+[21:25:20]
+[44FF00] eebot
+ 草哦哦
+
+[21:25:20]
+[JVcLW8] fcjz
+他的博客我没能打开
+
+[21:25:34]
+[love13] ee
+我也要上高一了）
+
+[21:25:38]
+[love13] ee
+啊
+
+[21:25:40]
+[44FF00] eebot
+ 啊草
+
+[21:25:40]
+[JVcLW8] fcjz
+是也被墙了吗
+
+[21:25:41]
+[love13] ee
+网站还在备案
+
+[21:25:47]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@ee 我要的是链接
+
+[21:25:50]
+[JVcLW8] fcjz
+我下学期初三
+
+[21:25:51]
+[love13] ee
+可能会换新域名（
+
+[21:25:54]
+[JVcLW8] fcjz
+@ee 哦哦好的谢谢
+
+[21:26:02]
+[love13] ee
+@HiyoTeam_QiuLingYan 我没有链接（
+
+[21:26:16]
+[JVcLW8] fcjz
+@HiyoTeam_QiuLingYan 要不你去别处搜搜吧
+
+[21:26:48]
+[QiuLingYan] HiyoTeam_QiuLingYan
+a
+
+[21:27:05]
+[JVcLW8] fcjz
+或者等到团队建立者本人来了之后跟他们要
+
+[21:27:06]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@xmzd 
+
+[21:27:13]
+[JVcLW8] fcjz
+ee没有的话，其他人拥有的几率很小
+
+[21:27:28]
+[love13] ee
+哈哈哈好家伙
+
+[21:27:33]
+[JVcLW8] fcjz
+@ee 说的是事实
+
+[21:27:49]
+[love13] ee
+OK（
+
+[21:28:00]
+[QiuLingYan] HiyoTeam_QiuLingYan
+coxx、xq、gs、zhangsoft、数据万物
+
+[21:28:10]
+[JVcLW8] fcjz
+像ee这样的收集癖，都没有。。。别人有的可能性简直小的可怜啊
+
+[21:28:28]
+[JVcLW8] fcjz
+走了我睡觉去了
+
+[21:29:17]
+[JVcLW8] fcjz
+byebye
+
+[21:29:20]
+[love13] ee
+byeeeeeeeeeeee——
+
+[21:29:23]
+[love13] ee
+不是 怎么一个个都这么早睡
+
+[21:29:51]
+[44FF00] eebot
+ 早点不好么？
+
+[21:29:51]
+[love13] ee
+我昨天快1点才躺下（
+
+[21:29:55]
+[love13] ee
+不好 ~~我要熬夜~~
+
+[21:30:03]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我
+
+[21:30:28]
+[QiuLingYan] HiyoTeam_QiuLingYan
+昨天半夜打了一整夜王者
+
+[21:30:45]
+[love13] ee
+好家伙
+
+[21:31:28]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[21:31:29]
+[love13] ee
+hi yo
+
+[21:31:31]
+[QiuLingYan] HiyoTeam_QiuLingYan
+zzchumo
+
+[21:31:33]
+[QiuLingYan] HiyoTeam_QiuLingYan
+合作者
+
+[21:31:35]
+[QiuLingYan] HiyoTeam_QiuLingYan
+你团队的主页
+
+[21:31:45]
+[None] xmzd
+阿巴
+
+[21:31:49]
+[zzzzzz] CX_zzzChumo
+怎么了
+
+[21:32:07]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@xmzd @xmzd 还有你的
+
+[21:32:08]
+[QiuLingYan] HiyoTeam_QiuLingYan
+团队主页链接
+
+[21:32:15]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我要更新pages
+
+[21:32:29]
+[zzzzzz] CX_zzzChumo
+https://www.zzchat.cf/team/
+
+[21:32:43]
+[None] xmzd
+啥
+
+[21:32:52]
+[None] xmzd
+星弈属于我个人，团队的网站还没起来呢
+
+[21:33:05]
+[QiuLingYan] HiyoTeam_QiuLingYan
+个人主页给一下
+
+[21:33:34]
+[None] xmzd
+博客吧
+
+[21:33:40]
+[QiuLingYan] HiyoTeam_QiuLingYan
+可以吧
+
+[21:33:48]
+[None] xmzd
+https://blog.uerr.cn
+
+[21:34:01]
+[44FF00] eebot
+  /kick @eebot 
+
+[21:34:26]
+[44FF00] eebot
+ hello yo AFKING
+
+[21:34:27]
+[zzzzzz] CX_zzzChumo
+您的连接不是私密连接
+攻击者可能会试图从 blog.uerr.cn 窃取您的信息（例如：密码、通讯内容或信用卡信息）。了解详情
+NET::ERR_CERT_AUTHORITY_INVALID
+
+[21:34:54]
+[zzzzzz] CX_zzzChumo
+你这博客
+
+[21:35:01]
+[zzzzzz] CX_zzzChumo
+应该没有https支持罢
+
+[21:35:11]
+[None] AFKING
+###### HiyoTeam_QiuLingYan is AFK
+
+[21:36:26]
+[QiuLingYan] HiyoTeam_QiuLingYan
+fangqi
+
+[21:36:32]
+[QiuLingYan] HiyoTeam_QiuLingYan
+先去洗澡了
+
+[21:38:36]
+[QiuLingYan] HiyoTeam_QiuLingYan
+bye
+
+[21:38:40]
+[None] kkk
+@eebot kkk是谁
+
+[21:38:52]
+[44FF00] eebot
+ 一个机器人
+
+[21:38:57]
+[44FF00] eebot
+ hello yo MaggieAndroid
+
+[21:38:57]
+[None] kkk
+好好好
+
+[21:38:58]
+[QiuLingYan] HiyoTeam_QiuLingYan
+Maggie
+
+[21:39:07]
+[QiuLingYan] HiyoTeam_QiuLingYan
+Maggie
+
+[21:41:10]
+[44FF00] eebot
+ [2022.07.09 21:41:10]
+
+[21:41:10]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[21:44:52]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[21:44:52]
+[zzzzzz] CX_zzzChumo
+初墨是个畜生
+
+[21:45:03]
+[love13] ee
+初墨是个畜生x 初墨是个智障√
+
+[21:45:29]
+[love13] ee
+芜湖
+
+[21:45:35]
+[zzzzzz] CX_zzzChumo
+ee是个伞兵
+
+[21:46:37]
+[love13] ee
+√
+
+[21:46:41]
+[love13] ee
+ee是张纸片√  ee是个伞兵√
+
+[21:46:59]
+[None] xmzd
+阿巴
+
+[21:47:15]
+[love13] ee
+阿巴阿巴
+
+[21:47:22]
+[zzzzzz] CX_zzzChumo
+B是个受
+
+[21:47:26]
+[love13] ee
+？
+
+[21:47:29]
+[zzzzzz] CX_zzzChumo
+xmzd是个小猫炸弹
+
+[21:47:40]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[21:47:45]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[21:47:45]
+[DPGawa] _
+?
+
+[21:47:48]
+[love13] ee
+老梗重现
+
+[21:48:50]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[21:48:50]
+[44FF00] eebot
+ 火影忍者 青媚狐
+「你为了你的正义，我为了我的正义。」
+
+[21:48:51]
+[zzzzzz] CX_zzzChumo
+Z-Deco*27
+别吵，伦家在吃火锅和烤鸭呢-
+
+[21:49:16]
+[44FF00] eebot
+ 无法写入 含有无法识别的字符
+
+[21:49:16]
+[zzzzzz] CX_zzzChumo
+？
+
+[21:49:22]
+[DPGawa] _
+?
+
+[21:49:35]
+[love13] 特工ee
+*不能作为文件名（
+
+[21:49:37]
+[zzzzzz] CX_zzzChumo
+Z-Deco
+别吵，伦家在吃火锅和烤鸭呢-
+
+[21:49:38]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:49:38]
+[love13] 特工ee
+哈哈哈
+
+[21:49:42]
+[44FF00] eebot
+ 草哈哈哈
+
+[21:49:42]
+[DPGawa] _
+@eebot Deco
+
+[21:49:47]
+[44FF00] eebot
+ 别吵 伦家在吃火锅和烤鸭呢-
+
+[21:49:47]
+[love13] 特工ee
+Z-zzChumo是谁
+是智障
+
+[21:50:03]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:50:03]
+[love13] 特工ee
+Z-Chumo是谁
+是智障
+
+[21:50:05]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:50:06]
+[love13] 特工ee
+Z-初墨是谁
+是智障
+
+[21:50:11]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:50:11]
+[zzzzzz] CX_zzzChumo
+Z-n-buna
+你拿都多久没发新v曲了（
+
+[21:50:30]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:50:30]
+[love13] 特工ee
+Z-_是谁
+DPG
+
+[21:50:41]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:50:41]
+[DPGawa] _
+?
+
+[21:51:03]
+[zzzzzz] CX_zzzChumo
+Z-Orangestar
+你橙又发新歌了
+
+[21:51:18]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:51:18]
+[pvzjspvz] 啦啦啦B站的J
+lklk
+
+[21:51:32]
+[pvzjspvz] 啦啦啦B站的J
+@eebot B站的J
+
+[21:51:39]
+[44FF00] eebot
+ 是！啦啦啦B站的J绝对是！
+
+[21:51:39]
+[love13] 特工ee
+哈哈哈
+
+[21:52:03]
+[44FF00] eebot
+ 哈哈哈嗝-
+
+[21:52:03]
+[zzzzzz] CX_zzzChumo
+Z-jin
+炸厕所是吧
+
+[21:52:17]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:52:17]
+[None] kkk
+@eebot ggggggg是谁
+
+[21:52:21]
+[44FF00] eebot
+ 小黑人
+
+[21:52:22]
+[love13] 特工ee
+@eebot eebot是谁
+
+[21:52:37]
+[44FF00] eebot
+ 是傻子
+
+[21:52:37]
+[love13] 特工ee
+@eebot eb是谁
+
+[21:52:44]
+[44FF00] eebot
+ 是我啦（
+
+[21:52:44]
+[zzzzzz] CX_zzzChumo
+Z-田所浩二
+哼啊、哼啊、哼啊、哼啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[21:53:00]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[21:53:00]
+[love13] 特工ee
+生草
+
+[21:53:06]
+[love13] 特工ee
+怎么能教eb这玩意（
+
+[21:53:23]
+[zzzzzz] CX_zzzChumo
+Z-114514
+やりますね
+
+[21:53:26]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[21:53:27]
+[love13] 特工ee
+监护人不允许啊啊
+
+[21:53:35]
+[pvzjspvz] 啦啦啦B站的J
+@eebot B站的J
+
+[21:54:11]
+[44FF00] eebot
+ 是！啦啦啦B站的J绝对是！
+
+[21:54:11]
+[zzzzzz] CX_zzzChumo
+Z-Vocaloid
+宁也是v厨？
+
+[21:54:12]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:54:12]
+[zzzzzz] CX_zzzChumo
+Z-镜音连
+喊水印大户（此处点名批评giga
+
+[21:54:52]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:54:52]
+[love13] 特工ee
+r eebot
+
+[21:55:09]
+[44FF00] eebot
+@eebot 被r了
+
+[21:55:09]
+[DPGawa] _
+?
+
+[21:55:16]
+[zzzzzz] CX_zzzChumo
+Z-giga
+gigay
+
+[21:55:16]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:55:17]
+[DPGawa] _
+r eebot
+
+[21:55:23]
+[44FF00] eebot
+@eebot 被r了
+
+[21:55:23]
+[DPGawa] _
+rickroll eebot
+
+[21:55:33]
+[zzzzzz] CX_zzzChumo
+r dpg-chan
+
+[21:55:33]
+[44FF00] eebot
+ 987
+
+[21:55:33]
+[love13] 特工ee
+r _
+
+[21:55:38]
+[44FF00] eebot
+@_ 被r了
+
+[21:55:38]
+[DPGawa] _
+-.-
+
+[21:55:40]
+[DPGawa] _
+r fish
+
+[21:55:47]
+[44FF00] eebot
+ 800
+
+[21:55:47]
+[love13] 特工ee
+r CX_zzzChumo
+
+[21:55:52]
+[44FF00] eebot
+@CX_zzzChumo 被r了
+
+[21:55:52]
+[love13] 特工ee
+哈哈哈哈哈
+
+[21:55:57]
+[44FF00] eebot
+ 哈哈哈哈哈嗝-
+
+[21:55:57]
+[zzzzzz] CX_zzzChumo
+鱼酱值800块钱
+
+[21:56:01]
+[love13] 特工ee
+r 我的头发
+
+[21:56:08]
+[44FF00] eebot
+ 639
+
+[21:56:08]
+[zzzzzz] CX_zzzChumo
+ee还有639根头发
+
+[21:56:21]
+[love13] 特工ee
+r xc3年后有多少用户
+
+[21:56:24]
+[44FF00] eebot
+ 522
+
+[21:56:24]
+[zzzzzz] CX_zzzChumo
+r 田所浩二
+
+[21:56:34]
+[love13] 特工ee
+r 初墨的头发
+
+[21:56:34]
+[44FF00] eebot
+ 760
+
+[21:56:34]
+[44FF00] eebot
+ 601
+
+[21:56:34]
+[love13] 特工ee
+哈哈哈哈哈比我少
+
+[21:56:42]
+[DPGawa] _
+r ?
+
+[21:56:50]
+[44FF00] eebot
+ 154
+
+[21:56:50]
+[DPGawa] _
+-.-
+
+[21:56:53]
+[44FF00] eebot
+ Q.Q
+
+[21:56:54]
+[love13] 特工ee
+154！
+
+[21:56:55]
+[love13] 特工ee
+154心心念念的154（
+
+[21:57:06]
+[love13] 特工ee
+今天被r到了两次
+
+[21:57:15]
+[love13] 特工ee
+哈哈哈哈哈
+
+[21:57:16]
+[44FF00] eebot
+ 草哈哈哈哈哈
+
+[21:57:16]
+[DPGawa] _
+*
+154 joined
+
+[21:57:22]
+[DPGawa] _
+.-.
+
+[21:57:26]
+[DPGawa] _
+h
+
+[21:57:26]
+[love13] 特工ee
+哈哈哈哈哈
+
+[21:57:41]
+[zzzzzz] CX_zzzChumo
+Z-アンドロイドガール
+拿二息步行的刀子刀了你-
+
+[21:57:42]
+[44FF00] eebot
+ 草哈哈哈哈哈
+
+[21:57:42]
+[zzzzzz] CX_zzzChumo
+？
+
+[21:57:44]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:57:58]
+[None] kkk
+Z-k
+@ggggggg 你这头猪不要叫了
+
+[21:58:32]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:58:32]
+[None] kkk
+k
+
+[21:58:36]
+[None] kkk
+@eebot k
+
+[21:58:59]
+[zzzzzz] CX_zzzChumo
+Z-初音未来
+捕捉葱厨
+
+[21:58:59]
+[zzzzzz] CX_zzzChumo
+？
+
+[21:58:59]
+[44FF00] eebot
+@ggggggg kkk这头猪不要叫了
+
+[21:58:59]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[21:58:59]
+[None] kkk
+what?!
+
+[21:59:19]
+[love13] 特工ee
+Z-鱼的烹饪方法
+上好的制作方法是烧烤
+
+[21:59:23]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[22:00:24]
+[44FF00] eebot
+ [2022.07.09 22:00:23]
+
+[22:00:24]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[22:00:24]
+[zzzzzz] CX_zzzChumo
+嘶
+
+[22:00:25]
+[None] kkk
+@eebot k
+
+[22:00:32]
+[44FF00] eebot
+@ggggggg kkk这头猪不要叫了
+
+[22:00:32]
+[love13] 特工ee
+Z-Hatsune Miku
+我超，是初音未来
+
+[22:00:35]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[22:00:35]
+[love13] 特工ee
+Z-k
+kkk是一个机器人
+
+[22:00:41]
+[None] kkk
+Z-k
+kkk是一个机器人
+
+[22:00:42]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[22:00:42]
+[pvzjspvz] 啦啦啦B站的J
+eb
+
+[22:00:43]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[22:00:43]
+[pvzjspvz] 啦啦啦B站的J
+eb
+
+[22:00:43]
+[DPGawa] _
+?
+
+[22:00:45]
+[None] kkk
+@eebot k
+
+[22:00:53]
+[44FF00] eebot
+ kkk是一个机器人
+
+[22:00:58]
+[love13] 特工ee
+J
+
+[22:01:06]
+[None] kkk
+对的
+
+[22:01:06]
+[love13] 特工ee
+Z-j
+B站的J
+
+[22:01:09]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[22:01:10]
+[zzzzzz] CX_zzzChumo
+Z-Ubuntu
+Ubuntu世界第一，不接受反驳
+
+[22:01:38]
+[pvzjspvz] 啦啦啦B站的J
+>love13 ee：
+>这是烤J
+
+@ee 这是烤J
+
+[22:01:39]
+[zzzzzz] CX_zzzChumo
+？
+
+[22:01:39]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[22:01:39]
+[zzzzzz] CX_zzzChumo
+ee你家网不行啊
+
+[22:01:40]
+[love13] 特工ee
+哈哈哈哈哈
+
+[22:01:48]
+[44FF00] eebot
+ 草哈哈哈哈哈
+
+[22:01:49]
+[love13] 特工ee
+现在我很卡
+
+[22:01:55]
+[pvzjspvz] 啦啦啦B站的J
+eb
+
+[22:02:30]
+[love13] 特工ee
+ee
+
+[22:02:45]
+[None] kkk
+Z-你是猪
+去你的,你这头笨死猪
+
+[22:02:50]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[22:02:52]
+[zzzzzz] CX_zzzChumo
+Z-vocaloid
+不会吧不会吧不会2202年了还有人听v吧（
+
+[22:03:01]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[22:03:09]
+[None] kkk
+@eebot 你是猪
+
+[22:03:19]
+[44FF00] eebot
+ 去kkk的,kkk这头笨死猪
+
+[22:03:19]
+[None] kkk
+呵呵呵
+
+[22:03:26]
+[love13] 特工ee
+《去kkk的》
+
+[22:03:31]
+[love13] 特工ee
+哈哈哈哈哈哈哈哈
+
+[22:03:34]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[22:03:35]
+[zzzzzz] CX_zzzChumo
+@eebot 田所浩二
+
+[22:03:45]
+[44FF00] eebot
+ 哼啊、哼啊、哼啊、哼啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[22:03:45]
+[love13] 特工ee
+啊啊啊学坏了
+
+[22:03:52]
+[zzzzzz] CX_zzzChumo
+臭eb
+
+[22:03:54]
+[zzzzzz] CX_zzzChumo
+eb现在也是inm了（喜
+
+[22:04:10]
+[love13] 特工ee
+我记得mark之前还设置过一堆奇奇怪怪的
+
+[22:04:15]
+[love13] 特工ee
+@eebot 涩涩
+
+[22:04:17]
+[44FF00] eebot
+ uwu eb只想和mark涩涩
+
+[22:04:17]
+[love13] 特工ee
+啊
+
+[22:04:21]
+[44FF00] eebot
+ 啊草
+
+[22:04:21]
+[love13] 特工ee
+@eebot 我喜欢你
+
+[22:04:41]
+[44FF00] eebot
+ 欸！！！eb…eb…eb也喜欢特工ee！
+
+[22:04:41]
+[love13] 特工ee
+啊 果然
+
+[22:04:46]
+[love13] 特工ee
+啊 离谱
+
+[22:05:00]
+[zzzzzz] CX_zzzChumo
+Z-纸片
+肢解
+
+[22:05:03]
+[None] kkk
+Z-臭eb
+你才臭呢,你这条臭咸鱼
+
+[22:05:03]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[22:05:03]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[22:05:03]
+[zzzzzz] CX_zzzChumo
+？
+
+[22:05:10]
+[love13] 特工ee
+哈哈哈
+
+[22:05:11]
+[44FF00] eebot
+ 哈哈哈草
+
+[22:05:11]
+[None] kkk
+@eebot 臭eb
+
+[22:05:20]
+[44FF00] eebot
+ kkk才臭呢,kkk这条臭咸鱼
+
+[22:05:20]
+[zzzzzz] CX_zzzChumo
+臭是个inm梗吧
+
+[22:05:25]
+[DPGawa] _
+-.-
+
+[22:05:48]
+[44FF00] eebot
+ UwU
+
+[22:05:50]
+[edDiBU] 4n0n4me
+Z-田所浩二
+[数据删除]
+
+[22:06:14]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[22:06:42]
+[zzzzzz] CX_zzzChumo
+Z-田所浩二
+哼啊、哼啊、哼啊、哼啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[22:06:48]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[22:06:48]
+[None] kkk
+Z-eebot是谁
+eebot是你大爷,你个死秃子
+
+[22:07:00]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[22:07:00]
+[None] kkk
+@eebot eebot是谁
+
+[22:07:15]
+[44FF00] eebot
+ eebot是kkk大爷,kkk个死秃子
+
+[22:07:16]
+[zzzzzz] CX_zzzChumo
+Z-SCP基金会
+我们收容，我们失效，我们跑路
+
+[22:07:45]
+[None] kkk
+哈哈哈哈哈哈嗝
+
+[22:07:47]
+[love13] 特工ee
+哈哈哈哈哈哈哈哈
+
+[22:07:47]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[22:07:47]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[22:07:48]
+[pvzjspvz] 啦啦啦B站的J
+啦啦啦sex
+
+[22:07:54]
+[love13] 特工ee
+草
+
+[22:08:01]
+[edDiBU] 4n0n4me
+Z-田所浩二
+![](http://scp-wiki.wdfiles.com/local--files/scp-001/fractal-mka.jpeg)
+
+[22:08:46]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[22:08:46]
+[edDiBU] 4n0n4me
+@eebot 田所浩二
+
+[22:08:46]
+[edDiBU] 4n0n4me
+怎么不回答
+
+[22:08:46]
+[zzzzzz] CX_zzzChumo
+@4n0n4me 您搁着大规模传播致死模因呢
+
+[22:08:46]
+[44FF00] eebot
+ ![](http://scp-wiki.wdfiles.com/local--files/scp-001/fractal-mka.jpeg)
+
+[22:09:06]
+[44FF00] eebot
+ hi yo 朽木自雕
+
+[22:09:06]
+[edDiBU] 4n0n4me
+我这是有理由的
+
+[22:09:10]
+[love13] 特工ee
+hi yoo
+
+[22:09:12]
+[edDiBU] 4n0n4me
+田所浩二是现实世界才有的梗
+
+[22:09:19]
+[zzzzzz] CX_zzzChumo
+Z-田所浩二
+哼啊、哼啊、哼啊、哼啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[22:09:19]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[22:09:20]
+[edDiBU] 4n0n4me
+要是有下层叙事的人逃出来
+
+[22:09:27]
+[edDiBU] 4n0n4me
+我们就用这个把它杀了
+
+[22:09:31]
+[love13] 特工ee
+原来朽木自雕是陕西西安的
+
+[22:09:48]
+[None] kkk
+@eebot 我是谁
+
+[22:09:54]
+[44FF00] eebot
+ 大帅比
+
+[22:09:55]
+[zzzzzz] CX_zzzChumo
+还好我到RAISA那边接种过模因疫苗
+
+[22:09:59]
+[love13] 特工ee
+昨天回来的chendks也是
+
+[22:10:19]
+[44FF00] eebot
+ hello yo 朽木自雕
+
+[22:10:23]
+[zzzzzz] CX_zzzChumo
+朽木自雕 加入了聊天室，该用户来自：陕西省 西安市
+
+[22:10:24]
+[zzzzzz] CX_zzzChumo
+开盒咯
+
+[22:10:25]
+[love13] 特工ee
+chendks也是陕西省西安市的（
+
+[22:10:41]
+[love13] 特工ee
+好家伙哈哈哈
+
+[22:10:45]
+[love13] 特工ee
+就我没遇到半个广东汕头的
+
+[22:10:56]
+[love13] 特工ee
+（
+
+[22:10:58]
+[zzzzzz] CX_zzzChumo
+>love13 特工ee：
+>chendks也是陕西省西安市的（
+
+@特工ee 我还以为小陈是基金会的
+
+[22:10:59]
+[love13] 特工ee
+小陈是基金会的啊
+
+[22:11:11]
+[zzzzzz] CX_zzzChumo
+>zzzzzz CX_zzzChumo：
+>还好我到RAISA那边接种过模因疫苗
+
+>love13 特工ee：
+>昨天回来的chendks也是
+
+[22:11:17]
+[love13] 特工ee
+？？？好家伙
+
+[22:11:27]
+[love13] 特工ee
+>love13 特工ee
+原来朽木自雕是陕西西安的
+
+>love13 特工ee
+昨天回来的chendks也是
+
+[22:11:42]
+[QiuLingYan] HiyoTeam_QiuLingYan
+玩游戏吗
+
+[22:11:46]
+[love13] 特工ee
+（
+
+[22:11:48]
+[love13] 特工ee
+玩什么
+
+[22:11:50]
+[QiuLingYan] HiyoTeam_QiuLingYan
+mc
+
+[22:11:50]
+[DPGawa] _
+?
+
+[22:11:50]
+[DPGawa] _
+yy
+
+[22:11:56]
+[DPGawa] _
+comeeee
+
+[22:11:56]
+[love13] 特工ee
+去服务器玩
+
+[22:11:59]
+[QiuLingYan] HiyoTeam_QiuLingYan
+走啊
+
+[22:12:05]
+[zzzzzz] CX_zzzChumo
+希望小陈不会死于致死模因罢
+
+[22:12:06]
+[love13] 特工ee
+哈哈哈哈哈哈哈哈
+
+[22:12:10]
+[DPGawa] _
+i'm studying skript
+
+[22:12:10]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈
+
+[22:12:10]
+[QiuLingYan] HiyoTeam_QiuLingYan
+xq服务器
+
+[22:12:11]
+[DPGawa] _
+@特工ee https://docs.skriptlang.org/index.html
+
+[22:12:26]
+[love13] 特工ee
+@_ whats this
+
+[22:12:41]
+[zzzzzz] CX_zzzChumo
+@_ 用1.14.1进要装什么大厅
+
+[22:12:44]
+[DPGawa] _
+?
+
+[22:12:54]
+[DPGawa] _
+play.imc.re:19132
+
+[22:13:04]
+[DPGawa] _
+BE
+
+[22:13:07]
+[DPGawa] _
+@特工ee skript
+
+[22:13:17]
+[zzzzzz] CX_zzzChumo
+提示客户端版本过低
+
+[22:13:24]
+[zzzzzz] CX_zzzChumo
+@_ 
+
+[22:13:24]
+[44FF00] eebot
+ eb不是大便 eb的粉丝也不是苍蝇
+
+[22:13:24]
+[44FF00] eebot
+ ·
+纸片君ee的个人主页
+https://paperee.tk/
+
+[22:13:24]
+[DPGawa] _
+?
+
+[22:13:27]
+[QiuLingYan] HiyoTeam_QiuLingYan
+play.imc.re:19132
+
+[22:13:34]
+[QiuLingYan] HiyoTeam_QiuLingYan
+来这里
+
+[22:13:37]
+[edDiBU] 4n0n4me
+>DPGawa _：
+>play.imc.re:19132
+
+@_ 就是这个大厅
+
+[22:13:39]
+[zzzzzz] CX_zzzChumo
+提示只支持1.18
+
+[22:13:48]
+[DPGawa] _
+@CX_zzzChumo then i'll need ViaRewind and ViaBackwards
+
+[22:13:48]
+[DPGawa] _
+i'll add these
+
+[22:13:59]
+[DPGawa] _
+plz wait
+
+[22:14:00]
+[zzzzzz] CX_zzzChumo
+ok
+
+[22:14:04]
+[zzzzzz] CX_zzzChumo
+什么时候能好
+
+[22:14:10]
+[zzzzzz] CX_zzzChumo
+awa
+
+[22:14:12]
+[44FF00] eebot
+ woc
+
+[22:14:13]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@4n0n4me @_ @特工ee 
+
+[22:14:21]
+[QiuLingYan] HiyoTeam_QiuLingYan
+来from xq.kzw.ink
+
+[22:14:30]
+[None] kkk
+Z-?
+你这坨臭屎,脑子里鼻屎一堆
+
+[22:14:41]
+[44FF00] eebot
+ 无法写入 含有无法识别的字符
+
+[22:14:41]
+[None] kkk
+Z-开始游戏
+你这坨臭屎,脑子里鼻屎一堆
+
+[22:14:55]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[22:14:55]
+[DPGawa] _
+配合ViaBackwards和ViaRewind可以支持1.7-1.16版本的客户端在高版本服务端中游玩
+
+[22:15:03]
+[DPGawa] _
+obo
+
+[22:15:05]
+[None] kkk
+@eebot 开始游戏
+
+[22:15:10]
+[44FF00] eebot
+ kkk这坨臭屎,脑子里鼻屎一堆
+
+[22:15:10]
+[DPGawa] _
+@CX_zzzChumo in 10 min
+
+[22:15:13]
+[DPGawa] _
+i'll need a restart
+
+[22:15:29]
+[None] kkk
+@eebot 你是谁
+
+[22:15:39]
+[44FF00] eebot
+ eb是kkk爸爸哦~
+
+[22:15:55]
+[44FF00] eebot
+ hey yo 朽木自雕
+
+[22:15:55]
+[None] kkk
+哈哈哈哈哈哈哈哈
+
+[22:15:57]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈
+
+[22:15:57]
+[edDiBU] 4n0n4me
+Z-开始游戏
+
+[22:15:58]
+[44FF00] eebot
+ 第一行是问题 从第二行开始是回答
+
+[22:15:58]
+[edDiBU] 4n0n4me
+Z-开始游戏
+很抱歉，该功能亦被篡改
+
+[22:16:09]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[22:16:10]
+[None] kkk
+要@eebot
+
+[22:16:10]
+[None] 朽木自雕
+阿巴
+
+[22:16:11]
+[QiuLingYan] HiyoTeam_QiuLingYan
+Z-开始游戏
+系统充值中。。。
+对不起，余额不足。
+
+[22:16:32]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[22:16:33]
+[None] kkk
+@eebot 开始游戏
+
+[22:16:36]
+[44FF00] eebot
+ 系统充值中。。。
+对不起 余额不足。
+
+[22:16:40]
+[love13] 特工ee
+阿巴阿巴阿巴
+
+[22:16:46]
+[love13] 特工ee
+都被你们玩明白了（
+
+[22:16:56]
+[None] 朽木自雕
+哈哈哈
+
+[22:17:10]
+[44FF00] eebot
+ 哈哈哈草
+
+[22:17:10]
+[None] kkk
+Z-结束有戏
+去你的死猪
+
+[22:17:12]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[22:17:13]
+[love13] 特工ee
+咳咳
+
+[22:17:18]
+[44FF00] eebot
+ 咳咳咳
+
+[22:17:19]
+[None] kkk
+@eebot 结束有戏
+
+[22:17:29]
+[44FF00] eebot
+ 去kkk的死猪
+
+[22:17:36]
+[None] kkk
+哈哈哈哈哈哈哈哈哈哈哈
+
+[22:17:38]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈哈哈哈
+
+[22:17:39]
+[None] 朽木自雕
+嘶，这eebot逐渐奇怪起来了
+
+[22:17:50]
+[love13] 特工ee
+eebot逐渐zzChumo化（~~不对  是kkk化~~
+
+[22:18:01]
+[None] kkk
+Z-结束游戏
+去你的死猪
+
+[22:18:07]
+[love13] 特工ee
+哈哈哈越来越文明了
+
+[22:18:08]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[22:18:13]
+[QiuLingYan] HiyoTeam_QiuLingYan
+Z-结束游戏
+系统正在挖矿，请稍后。。。。
+
+[22:18:42]
+[44FF00] eebot
+ 已重新设置这个问题的回答
+
+[22:18:43]
+[None] 朽木自雕
+建议删库初始化（滑稽）
+
+[22:18:57]
+[None] 朽木自雕
+诶我卡了？
+
+[22:18:57]
+[None] kkk
+Z-kkk是猪
+kkk是一个机器人,你才是猪
+
+[22:19:17]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[22:19:25]
+[None] kkk
+@eebot kkk是猪
+
+[22:19:29]
+[44FF00] eebot
+ kkk是一个机器人,kkk才是猪
+
+[22:19:29]
+[love13] 特工ee
+哈哈哈哈哈
+
+[22:19:30]
+[44FF00] eebot
+ 哈哈哈哈哈草
+
+[22:19:31]
+[QiuLingYan] HiyoTeam_QiuLingYan
+家人们
+
+[22:19:58]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[22:19:59]
+[QiuLingYan] HiyoTeam_QiuLingYan
+有人来玩gartic吗
+
+[22:20:36]
+[love13] 特工ee
+>朽木自雕：
+>建议删库初始化（滑稽）
+
+@朽木自雕 我可以一键清空保存自定义聊天文件的文件夹（
+
+[22:20:36]
+[love13] 特工ee
+hi yo
+
+[22:20:36]
+[None] kkk
+@eebot 所以kkk到底是猪还是机器人
+
+[22:20:38]
+[DPGawa] _
+restarting now <3
+
+[22:20:38]
+[44FF00] eebot
+ kkk这话好像看不起eebot哦（
+
+[22:20:40]
+[QiuLingYan] HiyoTeam_QiuLingYan
+有人来玩gartic吗
+
+[22:20:46]
+[QiuLingYan] HiyoTeam_QiuLingYan
+https://gartic.io/055nlTUx
+
+[22:21:53]
+[QiuLingYan] HiyoTeam_QiuLingYan
+https://gartic.io/055nlTUx
+
+[22:24:12]
+[None] kkk
+@eebot kkk是机器人对吧
+
+[22:24:15]
+[love13] 特工ee
+gartic？
+
+[22:24:16]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@特工ee 
+
+[22:24:16]
+[QiuLingYan] HiyoTeam_QiuLingYan
+yes
+
+[22:24:16]
+[love13] 特工ee
+好 等等
+
+[22:24:16]
+[QiuLingYan] HiyoTeam_QiuLingYan
+kuaiqu
+
+[22:24:16]
+[love13] 特工ee
+嘶 我这边好卡
+
+[22:24:40]
+[None] kkk
+@eebot kkk是机器人
+
+[22:24:49]
+[44FF00] eebot
+ 说了N次了 eb不是机器人 kkk怎么这么固执呢）
+
+[22:24:49]
+[None] kkk
+kkk
+
+[22:24:49]
+[None] kkk
+Z-1
+
+[22:24:49]
+[44FF00] eebot
+ 恩 才知道啊）
+
+[22:24:49]
+[44FF00] eebot
+ 第一行是问题 从第二行开始是回答
+
+[22:24:50]
+[DPGawa] _
+@CX_zzzChumo
+
+[22:24:55]
+[QiuLingYan] HiyoTeam_QiuLingYan
+>>az
+
+[22:25:19]
+[None] kkk
+Z-1
+咦,你真二啊
+
+[22:25:33]
+[44FF00] eebot
+ eb记住要这么回答了
+
+[22:25:34]
+[None] kkk
+@eebot 1
+
+[22:25:47]
+[44FF00] eebot
+ 咦,kkk真二啊
+
+[22:25:48]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eebot 1
+
+[22:26:05]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eebot 
+
+[22:26:15]
+[44FF00] eebot
+ 咦,HiyoTeam_QiuLingYan真二啊
+
+[22:26:15]
+[QiuLingYan] HiyoTeam_QiuLingYan
+功能
+
+[22:26:15]
+[zzzzzz] CX_zzzChumo
+@_ 等等，在降级了
+
+[22:26:15]
+[44FF00] eebot
+ 好耶 是HiyoTeam_QiuLingYan
+
+[22:26:26]
+[DPGawa] _
+^tripmsg Admin stable server, excellent skript, great experience <33333333333
+
+[22:26:27]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 Admin 的用户上线时，我会第一时间通知他。
+
+[22:26:28]
+[44FF00] eebot
+  /kick @eebot 
+
+[22:26:53]
+[44FF00] eebot
+  /kick @eebot 
+
+[22:26:53]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我要睡觉啦
+
+[22:27:00]
+[QiuLingYan] HiyoTeam_QiuLingYan
+晚安
+
+[22:27:01]
+[love13] 特工ee
+Good Night
+
+[22:27:10]
+[QiuLingYan] HiyoTeam_QiuLingYan
+晚安
+
+[22:27:16]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我还可以再等等
+
+[22:27:21]
+[None] kkk
+E-凡是发消息都要@eebot
+
+[22:28:59]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[22:28:59]
+[QiuLingYan] HiyoTeam_QiuLingYan
+E-eb is over
+
+[22:29:14]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[22:29:14]
+[None] kkk
+我走了
+
+[22:29:19]
+[None] kkk
+E-凡是发消息都要@eebot
+
+[22:29:25]
+[love13] 特工ee
+拜拜——
+
+[22:29:25]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[22:29:28]
+[QiuLingYan] HiyoTeam_QiuLingYan
+E-UwU eb的昵称卡在里面了
+
+[22:29:40]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[22:29:44]
+[44FF00] eebot
+ UwU eb的昵称卡在里面了
+
+[22:29:44]
+[love13] 特工ee
+hi yo
+
+[22:29:53]
+[QiuLingYan] HiyoTeam_QiuLingYan
+UwU eb的昵称卡在里面了
+
+[22:29:53]
+[44FF00] eebot
+ hey yo Outlier
+
+[22:29:53]
+[love13] 特工ee
+O-mine
+
+[22:30:13]
+[f9Yi6H] Outlier
+霍
+
+[22:30:19]
+[love13] 特工ee
+哟
+
+[22:30:23]
+[f9Yi6H] Outlier
+大晚上人挺多
+
+[22:30:24]
+[44FF00] eebot
+ eb现在也是inm了（喜
+
+[22:30:25]
+[love13] 特工ee
+哈哈哈确实
+
+[22:30:37]
+[QiuLingYan] HiyoTeam_QiuLingYan
+qs
+
+[22:30:40]
+[f9Yi6H] Outlier
+@特工ee 又挺久不见了ee
+
+[22:31:01]
+[love13] 特工ee
+@Outlier 好久不见
+
+[22:31:16]
+[love13] 特工ee
+啊
+
+[22:31:19]
+[44FF00] eebot
+ 草啊
+
+[22:31:19]
+[QiuLingYan] HiyoTeam_QiuLingYan
+az
+
+[22:31:20]
+[QiuLingYan] HiyoTeam_QiuLingYan
+az
+
+[22:31:34]
+[44FF00] eebot
+ hi yo Outlier
+
+[22:31:34]
+[love13] 特工ee
+hi yoo
+
+[22:31:38]
+[love13] 特工ee
+你竟然来xc了（
+
+[22:31:43]
+[QiuLingYan] HiyoTeam_QiuLingYan
+azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzazzzz
+
+[22:31:52]
+[love13] 特工ee
+aaaaaaaaaaaaaz
+
+[22:31:57]
+[f9Yi6H] Outlier
+啊
+
+[22:32:03]
+[44FF00] eebot
+ 草啊
+
+[22:32:03]
+[f9Yi6H] Outlier
+我不是早来了吗
+
+[22:32:20]
+[love13] 特工ee
+挂很久了
+
+[22:32:25]
+[f9Yi6H] Outlier
+浅玩一下eb
+
+[22:32:47]
+[f9Yi6H] Outlier
+。
+
+[22:32:56]
+[love13] 特工ee
+哈哈哈哈哈~~非常欢迎~~
+
+[22:32:57]
+[f9Yi6H] Outlier
+什么玩意
+
+[22:33:09]
+[love13] 特工ee
+虽然已经被玩出了奇怪的功能
+
+[22:33:10]
+[love13] 特工ee
+。
+
+[22:33:12]
+[f9Yi6H] Outlier
+在我电脑上
+
+[22:33:13]
+[love13] 特工ee
+这个是随机的（
+
+[22:33:25]
+[f9Yi6H] Outlier
+eb有点活跃
+
+[22:33:33]
+[love13] 特工ee
+人工智障（
+
+[22:33:47]
+[f9Yi6H] Outlier
+环游世界几圈了。
+
+[22:33:49]
+[love13] 特工ee
+好家伙
+
+[22:33:54]
+[f9Yi6H] Outlier
+恐怕连地狱都去过
+
+[22:34:13]
+[f9Yi6H] Outlier
+。
+
+[22:34:20]
+[love13] 特工ee
+随机里面还真有地狱（
+
+[22:34:25]
+[f9Yi6H] Outlier
+额
+
+[22:34:41]
+[f9Yi6H] Outlier
+开直升机
+
+[22:34:42]
+[f9Yi6H] Outlier
+哈哈哈哈哈哈哈哈
+
+[22:34:48]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈
+
+[22:34:48]
+[love13] 特工ee
+哈哈哈哈哈哈哈哈
+
+[22:34:51]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[22:34:52]
+[f9Yi6H] Outlier
+明天早起
+
+[22:35:11]
+[f9Yi6H] Outlier
+睡了
+
+[22:35:14]
+[f9Yi6H] Outlier
+晚安兄弟们
+
+[22:35:18]
+[love13] 特工ee
+Good Night——
+
+[22:35:21]
+[love13] 特工ee
+一个个都这么早睡
+
+[22:36:54]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[22:36:54]
+[zzzzzz] CX_zzzChumo
+@_ 还是进不去
+
+[22:37:13]
+[zzzzzz] CX_zzzChumo
+过时的基岩版客户端！
+
+[22:37:54]
+[love13] 特工ee
+草啊
+
+[22:39:11]
+[love13] 特工ee
+初墨每次玩mc都要折腾很久（
+
+[22:39:44]
+[zzzzzz] CX_zzzChumo
+我玩不了电脑
+
+[22:40:38]
+[zzzzzz] CX_zzzChumo
+可能要停更了
+
+[22:52:02]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[22:52:54]
+[love13] 特工ee
+no——
+
+[22:56:16]
+[love13] 特工ee
+不能停更啊——
+
+[22:56:27]
+[44FF00] eebot
+ 已经11点了 在线的各位去睡觉吧
+
+[23:09:43]
+[44FF00] eebot_942
+ QuQ eb的昵称卡在里面了
+
+[23:09:46]
+[Admin] MelonFish2
+guruguru
+
+[23:10:31]
+[44FF00] eebot
+ UwU eb的昵称卡在里面了
+
+[23:10:31]
+[Admin] MelonFish2
+^tripmsg zhang reload啦
+
+[23:10:37]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 zhang 的用户上线时，我会第一时间通知他。
+
+[23:10:37]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@MelonFish2 m
+
+[23:10:44]
+[QiuLingYan] HiyoTeam_QiuLingYan
+fish
+
+[23:10:47]
+[QiuLingYan] HiyoTeam_QiuLingYan
+fish
+
+[23:10:49]
+[Admin] MelonFish2
+怎么了
+
+[23:10:51]
+[QiuLingYan] HiyoTeam_QiuLingYan
+那啥
+
+[23:10:53]
+[QiuLingYan] HiyoTeam_QiuLingYan
+表白墙
+
+[23:11:00]
+[Admin] MelonFish2
+对了，表白墙快好了
+
+[23:11:01]
+[QiuLingYan] HiyoTeam_QiuLingYan
+需要用到微信的借口我似乎可以搞定
+
+[23:11:10]
+[QiuLingYan] HiyoTeam_QiuLingYan
+什么微信支付
+
+[23:11:16]
+[Admin] MelonFish2
+我已经搞定啦
+
+[23:11:18]
+[QiuLingYan] HiyoTeam_QiuLingYan
+（（
+
+[23:11:23]
+[Admin] MelonFish2
+回头给你发体验版验证码
+
+[23:11:28]
+[QiuLingYan] HiyoTeam_QiuLingYan
+好的
+
+[23:11:31]
+[Admin] MelonFish2
+先走了
+
+[23:11:33]
+[QiuLingYan] HiyoTeam_QiuLingYan
+那啥
+
+[23:11:35]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我也死先走了
+
+[23:11:50]
+[QiuLingYan] HiyoTeam_QiuLingYan
+^tripmsg Admin 表白墙相关的全部留言给我谢谢啦～合作愉快～
+
+[23:12:25]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 Admin 的用户上线时，我会第一时间通知他。
+
+[23:12:31]
+[44FF00] eebot
+ ·
+智障初墨的个人主页
+https://chumo.sbsbsb.sbs/
+
+[23:28:59]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[23:29:44]
+[44FF00] eebot
+ ·
+flaugh的个人博客
+https://xsdboke.mysxl.cn/
+

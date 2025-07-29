@@ -1,0 +1,683 @@
+[23:02:20]
+[44FF00] eebot
+ [2022.06.29 23:02:19]
+
+[23:02:20]
+[QiuLingYan] QiuLingYan2Bot
+hello eebot
+
+[23:02:20]
+[44FF00] eebot
+ ·
+今天才周三呢 先好好上班吧！
+更多玩法请输入：功能
+
+[23:02:39]
+[QiuLingYan] QiuLingYan2Bot
+大~~水~~帅比ee 你来辣
+
+[23:02:39]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[23:02:39]
+[hmmmmm] Maggie
+languageimprover更新了
+
+[23:03:00]
+[Admin] MelonFish
+ohhhhhhhhhhhhhhh
+
+[23:03:06]
+[love13] ee
+好家伙
+
+[23:03:12]
+[love13] ee
+一个个这么肝
+
+[23:03:17]
+[Admin] MelonFish
+顺利的话一起看视频5-10分钟后就上线了
+
+[23:03:18]
+[hmmmmm] Maggie
+可以把英语转成skittle-chan式英语（
+
+[23:03:43]
+[love13] ee
+OKOK come on !!!
+
+[23:03:46]
+[hmmmmm] Maggie
+U-testtest
+
+[23:04:10]
+[44FF00] eebot
+ >ttesttest uwu
+
+API By Maggie
+
+[23:04:10]
+[Admin] MelonFish
+啊啊啊这个ipapi好慢
+
+[23:04:25]
+[Admin] MelonFish
+严重影响测试速度
+
+[23:04:30]
+[Admin] MelonFish
+qswl
+
+[23:04:31]
+[QiuLingYan] QiuLingYan2Bot
+现在 执著追求的事 将来必定有一天变成不重要
+
+[23:04:33]
+[hmmmmm] Maggie
+U-hmm this is a test sentence...i guess?
+
+[23:04:39]
+[44FF00] eebot
+ >h-hmm tthish ish a ttest sentence...i guess? uwu
+
+API By Maggie
+
+[23:04:39]
+[love13] ee
+哈哈哈
+
+[23:05:24]
+[44FF00] eebot
+ [2022.06.29 23:05:23]
+
+[23:05:24]
+[QiuLingYan] QiuLingYan2Bot
+hi yo eebot
+
+[23:05:24]
+[44FF00] eebot
+ ·
+今天才周三呢 先好好上班吧！
+更多玩法请输入：功能
+
+[23:05:24]
+[love13] ee
+U-fish
+
+[23:05:29]
+[44FF00] eebot
+ >fish uwu
+
+>API By Maggie
+
+[23:05:29]
+[hmmmmm] Maggie
+还有在线版！
+
+[23:05:29]
+[hmmmmm] Maggie
+https://thz.cool/language-improver.html
+
+[23:08:07]
+[QiuLingYan] QiuLingYan2Bot
+·
+我的网站
+https://thz.cool/language-improver.html
+
+[23:08:07]
+[hmmmmm] Maggie
+发错了
+
+[23:08:16]
+[hmmmmm] Maggie
+别点
+
+[23:08:18]
+[Admin] MelonFish
+qswl居然出了点小问题
+
+[23:08:22]
+[Admin] MelonFish
+小心点了被骗
+
+[23:08:45]
+[Admin] MelonFish
+还没调好呢
+
+[23:08:51]
+[hmmmmm] Maggie
+^setvideolink
+
+[23:08:52]
+[zhang] ZhangHelperS
+抱歉，这好像不在我的工作范围之内。
+
+[23:08:52]
+[hmmmmm] Maggie
+oh im not mod
+
+[23:09:18]
+[Admin] MelonFish
+好了，调好了
+
+[23:10:40]
+[Admin] MelonFish
+准备上传
+
+[23:10:43]
+[hmmmmm] Maggie
+KittenBot即将发送正式版
+
+[23:10:48]
+[Admin] MelonFish
+稍后一段时间的聊天记录可能不会被记录，正常现象
+
+[23:12:38]
+[44FF00] eebot
+ ·
+Beluga's YouTube
+https://youtube.com/c/Beluga1
+
+[23:19:45]
+[Admin] MelonFish
+好啦
+
+[23:19:46]
+[Admin] MelonFish
+现在有一个全新的类型：ChannelOwner
+
+[23:20:01]
+[Admin] MelonFish
+可以自己建立一个房间然后使用video命令放置视频了
+
+[23:20:22]
+[Admin] MelonFish
+在线的各位快去试试
+
+[23:20:45]
+[QiuLingYan] QiuLingYan2Bot
+大~~水~~帅比ee 你来辣
+
+[23:20:45]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[23:20:45]
+[love13] ee
+啊
+
+[23:20:56]
+[love13] ee
+!
+Failed to execute 'get_video’: TypeError: Cannot read properties of undefined (reading 'nick')
+
+[23:20:57]
+[love13] ee
+我一上线就看到这个
+
+[23:21:04]
+[love13] ee
+我等会来试试
+
+[23:21:15]
+[love13] ee
+先把图肝完（
+
+[23:21:22]
+[Admin] MelonFish
+好家伙
+
+[23:22:04]
+[love13] ee
+~~我从去年11月拖到现在~~
+
+[23:22:15]
+[love13] ee
+啊
+
+[23:22:20]
+[love13] ee
+点不开）
+
+[23:22:25]
+[love13] ee
+点了一起看视频
+
+[23:22:35]
+[love13] ee
+然后出现了：!
+Failed to execute 'get_video’: TypeError: Cannot read properties of undefined (reading 'nick')
+
+[23:22:38]
+[Admin] MelonFish
+天呐我再看下
+
+[23:22:41]
+[love13] ee
+啊
+
+[23:22:42]
+[Admin] MelonFish
+qswl一上线就出错
+
+[23:22:47]
+[love13] ee
+好家伙
+
+[23:22:57]
+[Admin] MelonFish
+我懂了，数据库是空的就会有问题
+这个忘记做处理了
+
+[23:24:45]
+[Admin] MelonFish
+诶
+
+[23:24:50]
+[QiuLingYan] QiuLingYan2Bot
+qswl
+
+[23:25:09]
+[QiuLingYan] QiuLingYan2Bot
+hi yo 404
+
+[23:25:09]
+[44FF00] eebot
+ hello yooooo 404
+
+[23:25:22]
+[oc7yIZ] 404
+Failed to execute 'get_video’: TypeError: Cannot read properties of undefined (reading 'nick')
+
+[23:25:23]
+[oc7yIZ] 404
+还是这个？
+
+[23:25:39]
+[Admin] MelonFish
+已知问题
+
+[23:25:50]
+[oc7yIZ] 404
+鱼加油
+
+[23:26:16]
+[Admin] MelonFish
+我估计是数据库的问题
+
+[23:26:58]
+[Admin] MelonFish
+这次改了路径
+
+[23:27:02]
+[Admin] MelonFish
+估计重载没办法生效
+
+[23:27:13]
+[Admin] MelonFish
+得重启
+
+[23:27:13]
+[Admin] MelonFish
+话说这会儿人不多我重启下没啥吧
+
+[23:27:28]
+[hmmmmm] Maggie
+.....
+
+[23:29:30]
+[love13] ee
+OKOK
+
+[23:30:12]
+[Admin] MelonFish
+稍等
+
+[23:30:14]
+[Admin] MelonFish
+可以了
+
+[23:30:15]
+[Admin] MelonFish
+我手动给数据库加了个值
+
+[23:30:24]
+[Admin] MelonFish
+@ee 点进来看一下，我需要测试下发送进度正不正常
+
+[23:30:38]
+[Admin] MelonFish
+谢谢
+
+[23:30:39]
+[44FF00] eebot
+ 谢谢谢
+
+[23:31:19]
+[QiuLingYan] QiuLingYan2Bot
+hello MelonFishTest
+
+[23:31:19]
+[44FF00] eebot
+ hey yoo MelonFishTest
+
+[23:32:21]
+[Admin] MelonFish
+可恶，sendseeked有问题
+
+[23:32:34]
+[44FF00] eebot
+ 有eebot在 没有什么问题解决不了的
+
+[23:32:34]
+[hmmmmm] Maggie
+奇怪了
+
+[23:32:43]
+[Admin] MelonFish
+可是sendseeked和invateseeked是一样的啊
+
+[23:33:04]
+[Admin] MelonFish
+一个私信一个广播
+
+[23:33:14]
+[hmmmmm] Maggie
+我的hack.chat机器人莫名其妙{'cmd': 'warn', 'text': 'Nickname must consist of up to 24 letters, numbers, and underscores', 'id': 22, 'channel': False, 'time': 1656516737051}
+
+[23:33:28]
+[QiuLingYan] QiuLingYan2Bot
+MelonFishTest!
+
+[23:33:28]
+[44FF00] eebot
+ hey yo MelonFishTest
+
+[23:34:02]
+[Admin] MelonFish
+确认了，sendseeked有不明问题
+
+[23:34:50]
+[Admin] MelonFish
+我准备重启了
+
+[23:35:55]
+[Admin] MelonFish
+各位准备下
+
+[23:35:57]
+[Admin] MelonFish
+倒计时10秒
+
+[23:37:35]
+[44FF00] eebot
+ [2022.06.29 23:37:35]
+
+[23:37:35]
+[44FF00] eebot
+ ·
+今天才周三呢 先好好上班吧！
+更多玩法请输入：功能
+
+[23:38:16]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[23:38:16]
+[Admin] MelonFishTest
+qswl服务器给我限速
+
+[23:38:51]
+[44FF00] eebot
+ hello yo Maggie
+
+[23:39:09]
+[Admin] MelonFishTest
+来个人点一下视频
+
+[23:39:13]
+[Admin] MelonFishTest
+现在暂停了吗
+
+[23:39:31]
+[Admin] MelonFishTest
+@Maggie 视频有没有暂停、快进
+
+[23:39:45]
+[hmmmmm] Maggie
+我点的
+
+[23:39:46]
+[Admin] MelonFishTest
+自动暂停有没有
+
+[23:40:02]
+[hmmmmm] Maggie
+有
+
+[23:40:04]
+[Admin] MelonFishTest
+现在暂停了对吗
+
+[23:40:20]
+[hmmmmm] Maggie
+yep
+
+[23:40:53]
+[44FF00] eebot
+ hey yooooo MelonFishTest2
+
+[23:41:16]
+[Admin] MelonFishTest
+我要去别的房间测试了
+
+[23:44:10]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[23:44:50]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[23:44:51]
+[Admin] MelonFish
+好耶
+
+[23:45:13]
+[Admin] MelonFish
+确认成功了
+
+[23:45:49]
+[44FF00] eebot
+ 这不是写~~满是BUG的~~代码的小张吗？
+
+[23:46:19]
+[44FF00] eebot
+ 这不是写~~满是BUG的~~代码的小张吗？
+
+[23:46:25]
+[Admin] MelonFish
+^help
+
+[23:46:31]
+[Admin] MelonFish
+ok
+
+[23:46:33]
+[Admin] MelonFish
+今天收工了
+
+[23:47:09]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[23:47:10]
+[Admin] __fish__2iPhone12Pro
+@ee 测试好啦
+
+[23:47:33]
+[Admin] __fish__2iPhone12Pro
+现在视频可以分房间了
+
+[23:47:43]
+[love13] ee
+ohhhhhhhhhhhhhhhh！
+
+[23:47:52]
+[love13] ee
+太棒了
+
+[23:48:04]
+[Admin] __fish__2iPhone12Pro
+我得滚去睡觉了
+
+[23:48:11]
+[Admin] __fish__2iPhone12Pro
+各位晚安
+
+[23:48:17]
+[love13] ee
+晚安——+
+
+[23:48:17]
+[hmmmmm] Maggie
+vcvcvvbcncvctuygctyghbvcdfrtgyhbvcfg
+
+[23:48:35]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[23:48:35]
+[love13] eee
+![](https://s1.ax1x.com/2022/06/29/juFGyd.png)
+
+[23:49:13]
+[hmmmmm] Maggie
+qazwsxedcrfvtgbyhnujmikolp
+
+[23:49:14]
+[love13] ee
+Terry和666 yyds
+
+[23:49:14]
+[hmmmmm] Maggie
+qwertyuiop
+asdfghjkl
+zxcvbnm
+
+[23:49:14]
+[hmmmmm] Maggie
+asdfghjkl;'
+
+[23:49:14]
+[hmmmmm] Maggie
+ASDFGHJKL;;;;'''''
+
+[23:49:19]
+[hmmmmm] Maggie
+hmm
+
+[23:49:28]
+[hmmmmm] Maggie
+(深夜发疯
+
+[23:49:38]
+[love13] ee
+asfasfasfasfas
+
+[23:50:46]
+[love13] ee
+明天继续
+
+[23:50:50]
+[love13] ee
+还得填4个坑
+
+[23:50:59]
+[hmmmmm] Maggie
+lkhjhiuhiuhhil
+
+[23:51:59]
+[hmmmmm] Maggie
+mll
+
+[23:52:02]
+[hmmmmm] Maggie
+;
+
+[23:52:02]
+[hmmmmm] Maggie
+';
+
+[23:52:03]
+[hmmmmm] Maggie
+'null
+
+[23:52:05]
+[hmmmmm] Maggie
+bkh
+
+[23:52:08]
+[hmmmmm] Maggie
+j'lk
+
+[23:52:09]
+[love13] ee
+咳咳
+
+[23:52:11]
+[love13] ee
+小心刷屏（
+
+[23:52:16]
+[hmmmmm] Maggie
+oh
+
+[23:52:21]
+[hmmmmm] Maggie
+我去tc发疯了
+
+[23:52:33]
+[love13] ee
+好家伙 草
+
+[23:52:58]
+[hmmmmm] Maggie
+得，我被封了
+
+[23:53:11]
+[love13] ee
+草？
+
+[23:53:15]
+[love13] ee
+这么就被封了
+
+[23:53:31]
+[love13] ee
+怎么
+
+[23:53:33]
+[hmmmmm] Maggie
+我调的
+
+[23:53:41]
+[love13] ee
+啊
+
+[23:53:47]
+[hmmmmm] Maggie
+kzw.ink
+
+[23:55:01]
+[hmmmmm] Maggie
+what a weird domain
+
+[23:58:35]
+[44FF00] eebot
+ ·
+小张的个人主页
+https://mrzhang365.github.io/
+

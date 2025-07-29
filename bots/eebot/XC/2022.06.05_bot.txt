@@ -1,0 +1,1776 @@
+[00:07:06]
+[VNC/I0] eebot
+ 2022.06.05 00:07:05
+
+[00:07:06]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[00:07:12]
+[3rk9wA] Mr_Zhang
+发送/w就不行了
+
+[00:07:12]
+[ci8FBC] eee
+但是？
+
+[00:07:20]
+[ci8FBC] eee
+啊啊
+
+[00:07:20]
+[VNC/I0] eebot
+ 啊啊啊
+
+[00:07:25]
+[3rk9wA] Mr_Zhang
+石沉大海
+
+[00:07:32]
+[3rk9wA] Mr_Zhang
+根本就没有反应
+
+[00:07:39]
+[ci8FBC] eee
+那就
+
+[00:07:40]
+[3rk9wA] Mr_Zhang
+我又手动发送了几个包
+
+[00:07:45]
+[3rk9wA] Mr_Zhang
+依然。。。
+
+[00:07:46]
+[ci8FBC] eee
+.split(" ",2)
+
+[00:07:49]
+[3rk9wA] Mr_Zhang
+啊，无语了
+
+[00:08:00]
+[ci8FBC] eee
+主要是
+
+[00:08:20]
+[ci8FBC] eee
+send("/w ZhangHelper ^cb aaaaaaa")
+
+[00:08:28]
+[ci8FBC] eee
+O-send("/w ZhangHelper ^cb aaaaaaa")
+
+[00:08:28]
+[3rk9wA] ZhangHelper
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[00:08:28]
+[3rk9wA] ZhangHelper
+哐！eebot 的漂流瓶砸在了我的头上。内容：
+aaaaaaa
+
+[00:08:28]
+[VNC/I0] eebot
+ 代码运行成功
+
+[00:08:32]
+[3rk9wA] Mr_Zhang
+是啊
+
+[00:08:32]
+[ci8FBC] eee
+这个可以
+
+[00:08:44]
+[3rk9wA] Mr_Zhang
+我也很好奇
+
+[00:08:54]
+[3rk9wA] Mr_Zhang
+他为什么会区别对待呢？
+
+[00:09:03]
+[3rk9wA] Mr_Zhang
+在线运行是可以的
+
+[00:09:06]
+[ci8FBC] eee
+我还是觉得是空格原因
+
+[00:09:14]
+[3rk9wA] Mr_Zhang
+我手动发送包也可以
+
+[00:09:20]
+[3rk9wA] Mr_Zhang
+但是
+
+[00:09:22]
+[3rk9wA] Mr_Zhang
+等下
+
+[00:09:38]
+[VNC/I0] eebot
+ 2022.06.05 00:09:37
+
+[00:09:38]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[00:09:40]
+[ci8FBC] eee
+漂流瓶
+
+[00:10:24]
+[VNC/I0] eebot
+ 2022.06.05 00:10:23
+
+[00:10:24]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[00:10:24]
+[3rk9wA] Mr_Zhang
+我现在运行试试
+
+[00:10:28]
+[ci8FBC] eee
+漂流瓶
+
+[00:10:28]
+[3rk9wA] ZhangHelper
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[00:10:28]
+[3rk9wA] ZhangHelper
+哐！eebot 的漂流瓶砸在了我的头上。内容：
+Discoverthegreatideasthatlieinsideyoubydiscoveringthepowerofsleep.通过探索睡眠带来的力量来发现你内心的卓越想法吧。
+
+[00:10:32]
+[ci8FBC] eee
+wowowowowowowoc
+
+[00:10:37]
+[3rk9wA] Mr_Zhang
+漂流瓶
+
+[00:10:37]
+[3rk9wA] ZhangHelper
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[00:10:40]
+[ci8FBC] eee
+是/n和空格的原因
+
+[00:10:49]
+[3rk9wA] Mr_Zhang
+我还没开始呢。。。
+
+[00:10:50]
+[VNC/I0] eebot_652
+ awa eb的昵称卡在里面了
+
+[00:10:50]
+[VNC/I0] eebot
+ hi yo eebot\_652
+
+[00:10:55]
+[3rk9wA] Mr_Zhang
+漂流瓶
+
+[00:10:55]
+[3rk9wA] ZhangHelper
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[00:10:55]
+[3rk9wA] ZhangHelper
+出错了！详细信息：不能在这个聊天室找到该用户
+
+[00:11:05]
+[3rk9wA] Mr_Zhang
+>eebot_652 whispered: aaa
+
+[00:11:08]
+[3rk9wA] Mr_Zhang
+正常
+
+[00:11:18]
+[3rk9wA] Mr_Zhang
+啊
+
+[00:11:22]
+[3rk9wA] Mr_Zhang
+正常了
+
+[00:11:26]
+[3rk9wA] Mr_Zhang
+>eebot_652 whispered: Believe you can and you're halfway there. 相信你自己能做到，你就已经成功一半了。 
+
+[00:11:51]
+[VNC/I0] eebot_584
+ awa eb的昵称卡在里面了
+
+[00:11:51]
+[VNC/I0] eebot
+ hi yo eebot\_584
+
+[00:11:54]
+[3rk9wA] Mr_Zhang
+漂流瓶
+
+[00:11:54]
+[3rk9wA] ZhangHelper
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[00:11:54]
+[3rk9wA] ZhangHelper
+哐！eebot 的漂流瓶砸在了我的头上。内容：
+Ourplanetisalonelyspeckinthegreatenvelopingcosmicdark.我们的星球是宇宙无边的黑暗中孤独的尘埃。
+
+[00:12:01]
+[3rk9wA] Mr_Zhang
+所以
+
+[00:12:19]
+[VNC/I0] eebot_988
+ awa eb的昵称卡在里面了
+
+[00:12:19]
+[3rk9wA] Mr_Zhang
+匪夷所思的BUG
+
+[00:12:20]
+[VNC/I0] eebot
+ hello eebot\_988
+
+[00:12:22]
+[3rk9wA] Mr_Zhang
+漂流瓶
+
+[00:12:23]
+[3rk9wA] ZhangHelper
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[00:12:23]
+[3rk9wA] ZhangHelper
+完了！eebot 的漂流瓶被海草缠住了！
+
+[00:12:36]
+[3rk9wA] Mr_Zhang
+漂流瓶
+
+[00:12:36]
+[3rk9wA] ZhangHelper
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[00:12:36]
+[3rk9wA] ZhangHelper
+哐！eebot 的漂流瓶砸在了我的头上。内容：
+我志愿献身医学，热爱祖国，忠于人民。Iwilldedicatemyselftomedicinewithloveformymotherlandandloyaltytothepeople.
+
+[00:12:42]
+[3rk9wA] Mr_Zhang
+等下
+
+[00:12:52]
+[3rk9wA] Mr_Zhang
+988号eb可以给我发私信
+
+[00:13:10]
+[3rk9wA] Mr_Zhang
+我把发私信的目标设置为我
+
+[00:13:13]
+[3rk9wA] Mr_Zhang
+我可以收到
+
+[00:13:18]
+[VNC/I0] eebot_988
+ ·
+13和ee的轻小说屋 old
+https://lidualhistory.mysxl.cn/
+
+[00:13:23]
+[3rk9wA] Mr_Zhang
+但是我又改成了helper
+
+[00:13:24]
+[VNC/I0] eebot
+ ·
+贤者13的树洞
+https://sage-thirteen.mysxl.cn/
+
+[00:13:32]
+[3rk9wA] Mr_Zhang
+但是helper却收不到了
+
+[00:13:37]
+[3rk9wA] Mr_Zhang
+功能
+
+[00:14:55]
+[ci8FBC] eee
+太奇怪了
+
+[00:14:59]
+[ci8FBC] eee
+漂流瓶
+
+[00:14:59]
+[3rk9wA] ZhangHelper
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[00:14:59]
+[3rk9wA] ZhangHelper
+啊呀！eebot 的漂流瓶被深海的鲸鱼吞了！
+
+[00:15:03]
+[VNC/I0] eebot_199
+ awa eb的昵称卡在里面了
+
+[00:15:03]
+[VNC/I0] eebot
+ hi yo eebot\_199
+
+[00:15:08]
+[ci8FBC] eee
+漂流瓶
+
+[00:15:08]
+[3rk9wA] ZhangHelper
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[00:15:08]
+[3rk9wA] ZhangHelper
+哐！eebot 的漂流瓶砸在了我的头上。内容：
+受苦能突显坚强的灵魂，最明显的特征就是那伤口痊愈的疤痕。Outofsufferinghaveemergedthestrongestsouls;themostmassivecharactersaresearedwithscars.
+
+[00:15:38]
+[VNC/I0] eebot
+ 2022.06.05 00:15:37
+
+[00:15:38]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[00:15:39]
+[ci8FBC] eee
+漂流瓶
+
+[00:15:49]
+[VNC/I0] eebot
+ 2022.06.05 00:15:48
+
+[00:15:49]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[00:15:49]
+[ci8FBC] eee
+漂流瓶
+
+[00:15:52]
+[3rk9wA] Mr_Zhang
+等等
+
+[00:15:52]
+[VNC/I0] eebot
+ 等等等
+
+[00:16:04]
+[VNC/I0] eebot_912
+ awa eb的昵称卡在里面了
+
+[00:16:04]
+[VNC/I0] eebot
+ hi yo eebot\_912
+
+[00:20:24]
+[VNC/I0] eebot
+ 2022.06.05 00:20:23
+
+[00:20:24]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[00:20:25]
+[3rk9wA] Mr_Zhang
+你那里没毛病。。。
+
+[00:20:36]
+[ci8FBC] eee
+好家伙
+
+[00:20:40]
+[ci8FBC] eee
+没事没事 终于搞懂了
+
+[00:20:46]
+[ci8FBC] eee
+这样就好（
+
+[00:21:03]
+[3rk9wA] Mr_Zhang
+啊啊啊
+
+[00:21:07]
+[ci8FBC] eee
+啊啊啊啊啊啊
+
+[00:21:07]
+[3rk9wA] Mr_Zhang
+我这个当爹的啊
+
+[00:21:14]
+[ci8FBC] eee
+辛苦了
+
+[00:21:17]
+[3rk9wA] Mr_Zhang
+把儿子教坏了
+
+[00:21:22]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈
+
+[00:21:24]
+[ci8FBC] eee
+统计
+
+[00:22:27]
+[ci8FBC] eee
+>1.Mr_Zhang: 1139（30.98%）
+2.eee: 795（21.62%）
+3.ee: 416（11.31%）
+4._: 268（7.29%）
+
+[00:22:43]
+[ci8FBC] eee
+轮第一第二和第三的差距
+
+[00:22:46]
+[ci8FBC] eee
+论
+
+[00:23:36]
+[ci8FBC] eee
+我也得去睡了
+
+[00:23:43]
+[ci8FBC] eee
+漂流瓶
+
+[00:23:44]
+[3rk9wA] ZhangHelper
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[00:23:47]
+[ci8FBC] eee
+ohhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+[00:23:47]
+[3rk9wA] Mr_Zhang
+应该改完了
+
+[00:23:53]
+[3rk9wA] Mr_Zhang
+>ZhangHelper whispered: eebot 的漂流瓶漂啊漂，漂到了你这里。内容：
+我们称呼他们为野蛮人，就因为他们的文明和我们的不同。 Savages we call them because their manners differ from ours. 
+
+[00:23:56]
+[ci8FBC] eee
+成了
+
+[00:24:01]
+[3rk9wA] Mr_Zhang
+嗯
+
+[00:24:10]
+[ci8FBC] eee
+漂流瓶
+
+[00:24:12]
+[ci8FBC] eee
+漂流瓶
+
+[00:24:13]
+[3rk9wA] ZhangHelper
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[00:24:13]
+[3rk9wA] ZhangHelper
+哐！eebot 的漂流瓶砸在了我的头上。内容：
+相信生活值得我们为之活下去，而这种信念将给你创造生活的价值。
+
+[00:24:13]
+[3rk9wA] ZhangHelper
+eebot 抛出了一个漂流瓶，不知道谁会收到。
+
+[00:24:42]
+[3rk9wA] Mr_Zhang
+^move xq102210
+
+[17:58:25]
+[VNC/I0] eebot
+ 2022.06.05 17:58:24
+
+[17:58:25]
+[VNC/I0] eebot
+ ·
+明天是周一 今晚早点睡 上班别迟到了。
+更多玩法请输入：功能
+
+[17:58:26]
+[VNC/I0] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[17:58:53]
+[zhYYDG] Light_s
+O-send(dir([]))
+
+[17:58:53]
+[VNC/I0] eebot
+ ['__add__', '__class__', '__class_getitem__', '__contains__', '__delattr__', '__delitem__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__iadd__', '__imul__', '__init__', '__init_subclass__', '__iter__', '__le__', '__len__', '__lt__', '__mul__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__reversed__', '__rmul__', '__setattr__', '__setitem__', '__sizeof__', '__str__', '__subclasshook__', 'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort']
+
+[17:58:53]
+[VNC/I0] eebot
+ 代码运行成功
+
+[17:58:56]
+[zhYYDG] Light_s
+O-send(dir())
+
+[17:58:56]
+[VNC/I0] eebot
+ ['O', 'botname', 'botnick', 'botpass', 'code', 'dpg', 'ee', 'fish', 'fp', 'head', 'light', 'pf', 'rese', 'text', 'username', 'zz']
+
+[17:58:56]
+[VNC/I0] eebot
+ 代码运行成功
+
+[17:59:12]
+[zhYYDG] Light_s
+O-send(type(all))
+
+[17:59:12]
+[VNC/I0] eebot
+ <class 'builtin_function_or_method'>
+
+[17:59:12]
+[VNC/I0] eebot
+ 代码运行成功
+
+[17:59:38]
+[zhYYDG] Light_s
+O-send(dir(builtin_function_or_method))
+
+[17:59:38]
+[VNC/I0] eebot
+ name 'builtin_function_or_method' is not defined
+
+[17:59:39]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:00:00]
+[zhYYDG] Light_s
+O-send(builtin_function_or_method)
+
+[18:00:00]
+[VNC/I0] eebot
+ name 'builtin_function_or_method' is not defined
+
+[18:00:00]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:00:10]
+[VNC/I0] eebot
+代码运行成功
+
+[18:00:10]
+[VNC/I0] eebot
+变量已成功保存
+
+[18:00:30]
+[zhYYDG] Light_s
+O-send(locals())
+
+[18:00:30]
+[VNC/I0] eebot
+ {'text': 'send(locals())', 'fp': <_io.TextIOWrapper name='variable.txt' mode='r+' encoding='cp936'>, 'pf': 'zz="Chumo"\nee="纸片君eeeeeeeeeeeeeeeeee"\nlight="Light"\nfish="好吃的观赏鱼"\ndpg="这不是你 是另一个我"\nO=1\nzz=\'友好的人\'\nlighta="litghlhililhtgihlgihtgihlgtihlihta"\n', 'head': None, 'botname': None, 'botpass': None, 'botnick': None, 'username': None, 'rese': None, 'code': 'send(locals())', 'zz': '友好的人', 'ee': '纸片君eeeeeeeeeeeeeeeeee', 'light': 'Light', 'fish': '好吃的观赏鱼', 'dpg': '这不是你 是另一个我', 'O': 1, 'lighta': 'litghlhililhtgihlgihtgihlgtihlihta'}
+
+[18:00:31]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:00:34]
+[zhYYDG] Light_s
+yep
+
+[18:00:50]
+[zhYYDG] Light_s
+O-send(globals())
+
+[18:00:58]
+[zhYYDG] Light_s
+O-send(globals()[2])
+
+[18:01:19]
+[3rk9wA] Mr_Zhang
+^move xq102210
+
+[18:01:28]
+[VNC/I0] eebot
+ hi yo 金工街3号楼
+
+[18:01:49]
+[VNC/I0] eebot
+'aa'
+
+[18:01:49]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:02:12]
+[VNC/I0] eebot
+hack.chat
+
+[18:02:13]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:02:32]
+[8LJ4jb] _
+?
+
+[18:02:38]
+[VNC/I0] eebot
+eebot
+
+[18:02:38]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:05:50]
+[VNC/I0] eebot
+ 2022.06.05 18:05:50
+
+[18:05:51]
+[VNC/I0] eebot
+ ·
+明天是周一 今晚早点睡 上班别迟到了。
+更多玩法请输入：功能
+
+[18:05:51]
+[VNC/I0] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[18:06:57]
+[3rk9wA] Mr_Zhang
+功能
+
+[18:07:02]
+[VNC/I0] eebot
+ 2022.06.05 18:07:01
+
+[18:07:02]
+[VNC/I0] eebot
+ ·
+明天是周一 今晚早点睡 上班别迟到了。
+更多玩法请输入：功能
+
+[18:07:04]
+[VNC/I0] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[18:07:42]
+[VNC/I0] eebot
+None
+
+[18:08:36]
+[VNC/I0] eebot
+ 2022.06.05 18:08:35
+
+[18:08:36]
+[VNC/I0] eebot
+ ·
+明天是周一 今晚早点睡 上班别迟到了。
+更多玩法请输入：功能
+
+[18:08:38]
+[VNC/I0] eebot
+no
+
+[18:08:38]
+[VNC/I0] eebot
+代码运行成功
+
+[18:08:39]
+[VNC/I0] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[18:09:10]
+[VNC/I0] eebot_193
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[18:09:10]
+[VNC/I0] eebot_193
+ awa eb的昵称卡在里面了
+
+[18:09:25]
+[VNC/I0] eebot_193
+no
+
+[18:09:26]
+[VNC/I0] eebot_193
+ 代码运行成功
+
+[18:09:58]
+[VNC/I0] eebot_193
+eebot_193
+
+[18:09:59]
+[VNC/I0] eebot_193
+ 代码运行成功
+
+[18:10:25]
+[8LJ4jb] _
+.
+
+[18:10:29]
+[3rk9wA] Mr_Zhang
+功能
+
+[18:10:30]
+[8LJ4jb] _
+O-send(dpg)
+
+[18:10:30]
+[VNC/I0] eebot_193
+ 这不是你 是另一个我
+
+[18:10:31]
+[VNC/I0] eebot_193
+ 代码运行成功
+
+[18:10:52]
+[VNC/I0] eebot_193
+功能
+
+[18:10:52]
+[VNC/I0] eebot_193
+ 代码运行成功
+
+[18:11:28]
+[VNC/I0] eebot_193
+漂流瓶
+
+[18:11:28]
+[VNC/I0] eebot_193
+ 代码运行成功
+
+[18:12:04]
+[VNC/I0] eebot_193
+统计
+
+[18:12:05]
+[VNC/I0] eebot_193
+ 代码运行成功
+
+[18:12:23]
+[VNC/I0] eebot_193
+a
+
+[18:12:23]
+[VNC/I0] eebot_193
+ 代码运行成功
+
+[18:12:36]
+[VNC/I0] eebot_193
+sts
+
+[18:12:36]
+[VNC/I0] eebot_193
+ 代码运行成功
+
+[18:13:04]
+[8LJ4jb] _
+?
+
+[18:13:09]
+[VNC/I0] eebot_193
+ ·
+纸片君ee的个人主页
+https://paperee.tk/
+
+[18:13:15]
+[hmBtGV] 金工街3号楼
+xc
+
+[18:13:21]
+[VNC/I0] eebot_193
+xc
+
+[18:13:22]
+[VNC/I0] eebot_193
+代码运行成功
+
+[18:15:28]
+[3rk9wA] Mr_Zhang
+xc
+
+[18:25:50]
+[VNC/I0] eebot
+ 2022.06.05 18:25:49
+
+[18:25:50]
+[VNC/I0] eebot
+ ·
+明天是周一 今晚早点睡 上班别迟到了。
+更多玩法请输入：功能
+
+[18:25:54]
+[VNC/I0] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[18:26:35]
+[8LJ4jb] _
+O-a
+
+[18:26:36]
+[VNC/I0] eebot
+ name 'a' is not defined
+
+[18:26:36]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:26:43]
+[8LJ4jb] _
+O-send(dir)
+
+[18:26:43]
+[VNC/I0] eebot
+ <built-in function dir>
+
+[18:26:43]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:26:47]
+[8LJ4jb] _
+O-send(dir[])
+
+[18:26:47]
+[VNC/I0] eebot
+ invalid syntax (<string>, line 9)
+
+[18:26:48]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:26:54]
+[8LJ4jb] _
+O-send(_dir_[])
+
+[18:26:54]
+[VNC/I0] eebot
+ invalid syntax (<string>, line 9)
+
+[18:26:55]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:27:00]
+[8LJ4jb] _
+O-send(__dir__[])
+
+[18:27:00]
+[VNC/I0] eebot
+ invalid syntax (<string>, line 9)
+
+[18:27:00]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:27:08]
+[8LJ4jb] _
+O-send(dir())
+
+[18:27:08]
+[VNC/I0] eebot
+ ['O', 'botpa', 'code', 'dpg', 'ee', 'fish', 'fp', 'light', 'lighta', 'pf', 'text', 'zz']
+
+[18:27:09]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:27:15]
+[8LJ4jb] _
+O-send(botpa)
+
+[18:27:15]
+[VNC/I0] eebot
+ 13ee
+
+[18:27:15]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:27:17]
+[8LJ4jb] _
+?
+
+[18:27:23]
+[8LJ4jb] _
+O-send(code)
+
+[18:27:25]
+[VNC/I0] eebot
+ send(code)
+
+[18:27:25]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:27:28]
+[8LJ4jb] _
+O-send(O)
+
+[18:27:28]
+[VNC/I0] eebot
+ 1
+
+[18:27:28]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:27:35]
+[8LJ4jb] _
+O-send(pf)
+
+[18:27:35]
+[VNC/I0] eebot
+ zz="Chumo"
+ee="纸片君eeeeeeeeeeeeeeeeee"
+light="Light"
+fish="好吃的观赏鱼"
+dpg="这不是你 是另一个我"
+O=1
+zz='友好的人'
+lighta="litghlhililhtgihlgihtgihlgtihlihta"
+
+[18:27:35]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:28:30]
+[8LJ4jb] _
+O-setstr()
+
+[18:28:31]
+[VNC/I0] eebot
+ name 'setstr' is not defined
+
+[18:28:31]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:30:58]
+[VNC/I0] eebot
+ 2022.06.05 18:30:57
+
+[18:30:58]
+[VNC/I0] eebot
+ ·
+明天是周一 今晚早点睡 上班别迟到了。
+更多玩法请输入：功能
+
+[18:30:59]
+[VNC/I0] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[18:32:37]
+[VNC/I0] eebot
+ hello hello
+
+[18:32:50]
+[None] hello
+O-send(dir([]))
+
+[18:32:51]
+[VNC/I0] eebot
+ ['__add__', '__class__', '__class_getitem__', '__contains__', '__delattr__', '__delitem__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__iadd__', '__imul__', '__init__', '__init_subclass__', '__iter__', '__le__', '__len__', '__lt__', '__mul__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__reversed__', '__rmul__', '__setattr__', '__setitem__', '__sizeof__', '__str__', '__subclasshook__', 'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort']
+
+[18:32:51]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:33:01]
+[None] hello
+O-send(locals())
+
+[18:33:02]
+[VNC/I0] eebot
+ {'text': 'send(locals())', 'fp': <_io.TextIOWrapper name='variable.txt' mode='r+' encoding='cp936'>, 'pf': 'zz="Chumo"\nee="纸片君eeeeeeeeeeeeeeeeee"\nlight="Light"\nfish="好吃的观赏鱼"\ndpg="这不是你 是另一个我"\nO=1\nzz=\'友好的人\'\nlighta="litghlhililhtgihlgihtgihlgtihlihta"\n', 'botpa': '13ee', 'code': 'send(locals())', 'zz': '友好的人', 'ee': '纸片君eeeeeeeeeeeeeeeeee', 'light': 'Light', 'fish': '好吃的观赏鱼', 'dpg': '这不是你 是另一个我', 'O': 1, 'lighta': 'litghlhililhtgihlgihtgihlgtihlihta'}
+
+[18:33:03]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:33:33]
+[None] hello
+O-send(dir(locals))
+
+[18:33:33]
+[VNC/I0] eebot
+ ['__call__', '__class__', '__delattr__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__name__', '__ne__', '__new__', '__qualname__', '__reduce__', '__reduce_ex__', '__repr__', '__self__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__text_signature__']
+
+[18:33:33]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:33:48]
+[None] hello
+O-send(dir(locals()))
+
+[18:33:49]
+[VNC/I0] eebot
+ ['__class__', '__class_getitem__', '__contains__', '__delattr__', '__delitem__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__ior__', '__iter__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__or__', '__reduce__', '__reduce_ex__', '__repr__', '__reversed__', '__ror__', '__setattr__', '__setitem__', '__sizeof__', '__str__', '__subclasshook__', 'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values']
+
+[18:33:49]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:34:04]
+[None] hello
+O-locals().keys()
+
+[18:34:04]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:34:10]
+[None] hello
+O-send(locals().keys())
+
+[18:34:10]
+[VNC/I0] eebot
+ dict_keys(['text', 'fp', 'pf', 'botpa', 'code', 'zz', 'ee', 'light', 'fish', 'dpg', 'O', 'lighta'])
+
+[18:34:11]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:34:26]
+[None] hello
+O-send(locals().__del__())
+
+[18:34:26]
+[VNC/I0] eebot
+ 'dict' object has no attribute '__del__'
+
+[18:34:26]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:34:32]
+[None] hello
+O-send(del locals())
+
+[18:34:32]
+[VNC/I0] eebot
+ invalid syntax (<string>, line 9)
+
+[18:34:33]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:34:37]
+[None] hello
+O-del locals()
+
+[18:34:37]
+[VNC/I0] eebot
+ cannot delete function call (<string>, line 9)
+
+[18:34:38]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:34:42]
+[None] hello
+O-del locals
+
+[18:34:42]
+[VNC/I0] eebot
+ name 'locals' is not defined
+
+[18:34:43]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:35:06]
+[None] hello
+O-send(locals.pop)
+
+[18:35:06]
+[VNC/I0] eebot
+ 'builtin_function_or_method' object has no attribute 'pop'
+
+[18:35:06]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:35:09]
+[None] hello
+O-send(locals.pop())
+
+[18:35:10]
+[VNC/I0] eebot
+ 'builtin_function_or_method' object has no attribute 'pop'
+
+[18:35:10]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:35:18]
+[None] hello
+O-send(locals.__pop__())
+
+[18:35:18]
+[VNC/I0] eebot
+ 'builtin_function_or_method' object has no attribute '__pop__'
+
+[18:35:18]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:35:26]
+[None] hello
+O-send(locals().__pop__())
+
+[18:35:26]
+[VNC/I0] eebot
+ 'dict' object has no attribute '__pop__'
+
+[18:35:27]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:35:31]
+[None] hello
+O-send(locals().pop())
+
+[18:35:31]
+[VNC/I0] eebot
+ pop expected at least 1 argument, got 0
+
+[18:35:31]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:35:37]
+[None] hello
+O-send(locals().pop("sds"))
+
+[18:35:38]
+[VNC/I0] eebot
+ 'sds'
+
+[18:35:38]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:35:41]
+[None] hello
+O-send(locals().pop("light"))
+
+[18:35:42]
+[VNC/I0] eebot
+ Light
+
+[18:35:42]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:35:49]
+[None] hello
+O-send(locals())
+
+[18:35:49]
+[VNC/I0] eebot
+ {'text': 'send(locals())', 'fp': <_io.TextIOWrapper name='variable.txt' mode='r+' encoding='cp936'>, 'pf': 'zz="Chumo"\nee="纸片君eeeeeeeeeeeeeeeeee"\nlight="Light"\nfish="好吃的观赏鱼"\ndpg="这不是你 是另一个我"\nO=1\nzz=\'友好的人\'\nlighta="litghlhililhtgihlgihtgihlgtihlihta"\n', 'botpa': '13ee', 'code': 'send(locals())', 'zz': '友好的人', 'ee': '纸片君eeeeeeeeeeeeeeeeee', 'light': 'Light', 'fish': '好吃的观赏鱼', 'dpg': '这不是你 是另一个我', 'O': 1, 'lighta': 'litghlhililhtgihlgihtgihlgtihlihta'}
+
+[18:35:50]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:35:54]
+[None] hello
+O-send(locals().pop("lighta"))
+
+[18:35:55]
+[VNC/I0] eebot
+ litghlhililhtgihlgihtgihlgtihlihta
+
+[18:35:55]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:35:57]
+[None] hello
+O-send(locals())
+
+[18:35:57]
+[VNC/I0] eebot
+ {'text': 'send(locals())', 'fp': <_io.TextIOWrapper name='variable.txt' mode='r+' encoding='cp936'>, 'pf': 'zz="Chumo"\nee="纸片君eeeeeeeeeeeeeeeeee"\nlight="Light"\nfish="好吃的观赏鱼"\ndpg="这不是你 是另一个我"\nO=1\nzz=\'友好的人\'\nlighta="litghlhililhtgihlgihtgihlgtihlihta"\n', 'botpa': '13ee', 'code': 'send(locals())', 'zz': '友好的人', 'ee': '纸片君eeeeeeeeeeeeeeeeee', 'light': 'Light', 'fish': '好吃的观赏鱼', 'dpg': '这不是你 是另一个我', 'O': 1, 'lighta': 'litghlhililhtgihlgihtgihlgtihlihta'}
+
+[18:35:57]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:36:55]
+[None] hello
+O-send(dir(websocket))
+
+[18:36:55]
+[VNC/I0] eebot
+ ['ABNF', 'DEFAULT_SOCKET_OPTION', 'STATUS_ABNORMAL_CLOSED', 'STATUS_BAD_GATEWAY', 'STATUS_GOING_AWAY', 'STATUS_INVALID_EXTENSION', 'STATUS_INVALID_PAYLOAD', 'STATUS_MESSAGE_TOO_BIG', 'STATUS_NORMAL', 'STATUS_POLICY_VIOLATION', 'STATUS_PROTOCOL_ERROR', 'STATUS_STATUS_NOT_AVAILABLE', 'STATUS_TLS_HANDSHAKE_ERROR', 'STATUS_UNEXPECTED_CONDITION', 'STATUS_UNSUPPORTED_DATA_TYPE', 'WebSocket', 'WebSocketAddressException', 'WebSocketApp', 'WebSocketBadStatusException', 'WebSocketConnectionClosedException', 'WebSocketException', 'WebSocketPayloadException', 'WebSocketProtocolException', 'WebSocketProxyException', 'WebSocketTimeoutException', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__path__', '__spec__', '__version__', '_abnf', '_app', '_cookiejar', '_core', '_exceptions', '_handshake', '_http', '_logging', '_socket', '_ssl_compat', '_url', '_utils', 'continuous_frame', 'create_connection', 'debug', 'dump', 'enableTrace', 'error', 'frame_buffer', 'getdefaulttimeout', 'isEnabledForDebug', 'isEnabledForError', 'isEnabledForTrace', 'recv', 'recv_line', 'send', 'setdefaulttimeout', 'sock_opt', 'trace', 'warning']
+
+[18:36:55]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:37:00]
+[None] hello
+O-send(dir(json))
+
+[18:37:00]
+[VNC/I0] eebot
+ ['JSONDecodeError', 'JSONDecoder', 'JSONEncoder', '__all__', '__author__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__path__', '__spec__', '__version__', '_default_decoder', '_default_encoder', 'codecs', 'decoder', 'detect_encoding', 'dump', 'dumps', 'encoder', 'load', 'loads', 'scanner']
+
+[18:37:01]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:37:09]
+[None] hello
+O-send(dir(requests))
+
+[18:37:09]
+[VNC/I0] eebot
+ ['ConnectTimeout', 'ConnectionError', 'DependencyWarning', 'FileModeWarning', 'HTTPError', 'JSONDecodeError', 'NullHandler', 'PreparedRequest', 'ReadTimeout', 'Request', 'RequestException', 'RequestsDependencyWarning', 'Response', 'Session', 'Timeout', 'TooManyRedirects', 'URLRequired', '__author__', '__author_email__', '__build__', '__builtins__', '__cached__', '__cake__', '__copyright__', '__description__', '__doc__', '__file__', '__license__', '__loader__', '__name__', '__package__', '__path__', '__spec__', '__title__', '__url__', '__version__', '_check_cryptography', '_internal_utils', 'adapters', 'api', 'auth', 'certs', 'chardet_version', 'charset_normalizer_version', 'check_compatibility', 'codes', 'compat', 'cookies', 'delete', 'exceptions', 'get', 'head', 'hooks', 'logging', 'models', 'options', 'packages', 'patch', 'post', 'put', 'request', 'session', 'sessions', 'ssl', 'status_codes', 'structures', 'urllib3', 'utils', 'warnings']
+
+[18:37:10]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:37:42]
+[None] hello
+O-send(requests.get("https://baidu.com/").text)
+
+[18:37:43]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:37:43]
+[VNC/I0] eebot
+ @hello 百度一下，你就知道
+https://baidu.com/".text
+
+[18:38:11]
+[None] hello
+O-time.sleep(5);send(requests.get("https://baidu.com/").text)
+
+[18:38:12]
+[VNC/I0] eebot
+ 卡机是不被允许的
+
+[18:38:12]
+[VNC/I0] eebot
+ wow
+
+[18:38:38]
+[None] hello
+O-send(Process(target=print("hello")))
+
+[18:38:38]
+[VNC/I0] eebot
+ name 'Process' is not defined
+
+[18:38:38]
+[VNC/I0] eebot
+ 代码运行失败
+
+[18:38:43]
+[None] hello
+O-send(Thread(target=print("hello")))
+
+[18:38:44]
+[VNC/I0] eebot
+ hello
+
+[18:38:44]
+[VNC/I0] eebot
+ <Thread(Thread-37, initial)>
+
+[18:38:44]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:39:33]
+[None] hello
+O-filter(Thread(target=Thread(target=Thread())))
+
+[18:39:33]
+[VNC/I0] eebot
+ 卡机是不被允许的
+
+[18:39:41]
+[None] hello
+O-send(Thread(target=Thread(target=Thread())))
+
+[18:39:42]
+[VNC/I0] eebot
+ <Thread(Thread-41, initial)>
+
+[18:39:42]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:40:12]
+[None] hello
+O-send(Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread())))))))))))))))))))))))
+
+[18:40:12]
+[VNC/I0] eebot
+ <Thread(Thread-65, initial)>
+
+[18:40:12]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:40:22]
+[None] hello
+O-send(Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread(target=Thread())))))))))))))))))))))).start())
+
+[18:40:22]
+[VNC/I0] eebot
+ None
+
+[18:40:22]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:45:21]
+[None] hello
+O-
+class main:
+    def __enter__(self):
+		print("hello")
+    def __exit__(self):
+def setup():
+    return main()
+with setup():
+	print("hey")
+
+[18:45:21]
+[VNC/I0] eebot
+ 卡机是不被允许的
+
+[18:45:59]
+[None] hello
+O-
+class main:
+    def __enter__(self):
+		print("hello")
+    def __exit__(self):
+        __enter__()
+def setup():
+    return main()
+with setup():
+	print("hey")
+
+[18:45:59]
+[VNC/I0] eebot
+ 卡机是不被允许的
+
+[18:46:24]
+[None] hello
+O-
+class main:
+    def __enter__(self):
+		print("hello")
+    def __exit__(self):
+        __enter__()
+def setup():
+    return main()
+
+[18:46:24]
+[VNC/I0] eebot
+ 卡机是不被允许的
+
+[18:46:34]
+[None] hello
+O-
+class yu:
+    def __enter__(self):
+		print("hello")
+    def __exit__(self):
+        __enter__()
+def setup():
+    return yu()
+
+[18:46:35]
+[VNC/I0] eebot
+ 卡机是不被允许的
+
+[18:46:44]
+[None] hello
+O-
+class yu:
+    def __enter__(self):
+		print("hello")
+    def __ex__(self):
+        __enter__()
+def setup():
+    return yu()
+
+[18:46:45]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:46:52]
+[None] hello
+O-
+class yu:
+    def __enter__(self):
+		print("hello")
+    def __exit__(self):
+        __enter__()
+def setup():
+    return yu()
+
+[18:46:53]
+[VNC/I0] eebot
+ 卡机是不被允许的
+
+[18:48:37]
+[None] hello
+O-
+a = [print("1"),print("2")]
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+
+[18:48:38]
+[VNC/I0] eebot
+ 1
+
+[18:48:38]
+[VNC/I0] eebot
+ 2
+
+[18:48:38]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:48:53]
+[None] hello
+O-
+a = [print("1"),print("2")]
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+
+[18:48:53]
+[VNC/I0] eebot
+ 1
+
+[18:48:53]
+[VNC/I0] eebot
+ 2
+
+[18:48:54]
+[VNC/I0] eebot
+ 代码运行成功
+
+[18:49:06]
+[None] hello
+O-
+a = [send("1"),send("2")]
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+Thread(target=a[0]).start()
+Thread(target=a[1]).start()
+
+[18:49:06]
+[VNC/I0] eebot
+ 1
+
+[18:49:07]
+[VNC/I0] eebot
+ 2
+
+[18:49:07]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:08:33]
+[VNC/I0] eebot
+ 2022.06.05 19:08:32
+
+[19:08:33]
+[VNC/I0] eebot
+ ·
+明天是周一 今晚早点睡 上班别迟到了。
+更多玩法请输入：功能
+
+[19:08:34]
+[VNC/I0] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[19:09:05]
+[VNC/I0] eebot
+ hello ee
+
+[19:09:17]
+[VNC/I0] eebot
+ hii ee
+
+[19:09:28]
+[ci8FBC] ee
+O-all
+
+[19:09:28]
+[VNC/I0] eebot
+ 所有变量如下：
+zz="Chumo"
+ee="纸片君eeeeeeeeeeeeeeeeee"
+light="Light"
+fish="好吃的观赏鱼"
+dpg="这不是你 是另一个我"
+O=1
+zz='友好的人'
+lighta="litghlhililhtgihlgihtgihlgtihlihta"
+
+[19:09:33]
+[ci8FBC] ee
+O-cll
+
+[19:09:34]
+[VNC/I0] eebot
+ 已清空所有变量
+
+[19:09:37]
+[ci8FBC] ee
+O-all
+
+[19:09:37]
+[VNC/I0] eebot
+ 所有变量如下：
+
+[19:10:43]
+[ci8FBC] ee
+O-clear
+
+[19:13:33]
+[VNC/I0] eebot
+ ·
+Light's Gitee
+https://gitee.com/BirdingLight
+
+[19:15:47]
+[VNC/I0] eebot
+ 2022.06.05 19:15:46
+
+[19:15:47]
+[VNC/I0] eebot
+ ·
+明天是周一 今晚早点睡 上班别迟到了。
+更多玩法请输入：功能
+
+[19:15:48]
+[VNC/I0] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[19:15:51]
+[ci8FBC] ee
+O-clear
+
+[19:15:51]
+[VNC/I0] eebot
+ ee还没有存过档哦
+
+[19:16:01]
+[ci8FBC] ee
+O-load
+a=1
+
+[19:16:02]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:16:07]
+[ci8FBC] ee
+O-save
+a=1
+
+[19:16:08]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:16:08]
+[VNC/I0] eebot
+ 含有无法识别的字符 存档失败
+
+[19:16:24]
+[VNC/I0] eebot
+ 2022.06.05 19:16:23
+
+[19:16:24]
+[VNC/I0] eebot
+ ·
+明天是周一 今晚早点睡 上班别迟到了。
+更多玩法请输入：功能
+
+[19:16:25]
+[VNC/I0] eebot
+ 本聊天室已连通 [hack.chat｜your-channel] 
+
+[19:16:26]
+[ci8FBC] ee
+O-save
+a=1
+
+[19:16:26]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:16:26]
+[VNC/I0] eebot
+ 存档成功
+
+[19:17:17]
+[ci8FBC] ee
+O-save
+send("1")
+
+[19:17:17]
+[VNC/I0] eebot
+ 1
+
+[19:17:17]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:17:17]
+[VNC/I0] eebot
+ 存档成功
+
+[19:17:26]
+[ci8FBC] ee
+O-load
+
+[19:17:26]
+[VNC/I0] eebot
+ name 'load' is not defined
+
+[19:17:26]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:18:17]
+[ci8FBC] ee
+O-load
+1
+
+[19:18:17]
+[VNC/I0] eebot
+ 1
+
+[19:18:18]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:19:43]
+[ci8FBC] ee
+O-load
+send(a)
+
+[19:19:44]
+[VNC/I0] eebot
+ 1
+
+[19:19:44]
+[VNC/I0] eebot
+ 1
+
+[19:19:44]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:19:47]
+[ci8FBC] ee
+芜湖
+
+[19:19:58]
+[ci8FBC] ee
+O-mine
+
+[19:19:59]
+[VNC/I0] eebot
+ 已发送ee的个人存档
+
+[19:20:12]
+[ci8FBC] ee
+O-all
+
+[19:20:13]
+[VNC/I0] eebot
+ 目前还没有全局变量
+
+[19:20:14]
+[ci8FBC] ee
+功能
+
+[19:24:22]
+[ci8FBC] ee
+统计
+

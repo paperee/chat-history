@@ -1,0 +1,16308 @@
+[00:00:00]
+[love13] eee
+@Maggie 生日快乐！
+
+[00:00:00]
+[hmmmmm] Maggie
+1
+
+[00:00:01]
+[hmmmmm] Maggie
+happy birthday to me!!!!!!
+
+[00:00:02]
+[hmmmmm] Maggie
+happy birthday to me!!!!!!happy birthday to me!!!!!!happy birthday to me!!!!!!
+
+[00:00:05]
+[gTt3aQ] 卧底light
+我那本机器学习的书的作者都说他不喜欢用机器学习做稽气人
+
+[00:00:11]
+[love13] eee
+happy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthdayhappy birthda
+
+[00:00:14]
+[hmmmmm] Maggie
+>love13 eee：
+>@Maggie 生日快乐！
+
+@eee thxxx
+
+[00:00:16]
+[love13] eee
+哈哈哈哈哈哈哈哈
+
+[00:00:19]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[00:00:19]
+[gTt3aQ] 卧底light
+生日快乐啊
+
+[00:00:23]
+[love13] eee
+好家伙
+
+[00:00:23]
+[hmmmmm] Maggie
+@卧底light thxxxx
+
+[00:00:29]
+[gTt3aQ] 卧底light
+日生快乐
+
+[00:00:42]
+[love13] eee
+happy birthday to u
+
+[00:00:43]
+[gTt3aQ] 卧底light
+0:00
+
+[00:00:47]
+[love13] eee
+快生
+
+[00:00:51]
+[hmmmmm] Maggie
+>love13 eee：
+>快生
+
+@eee 总感觉这句话有点不对（
+
+[00:01:10]
+[love13] eee
+咳咳
+
+[00:01:14]
+[love13] eee
+这是比生日快乐都真挚的生日祝福
+
+[00:01:29]
+[love13] eee
+（
+
+[00:01:41]
+[hmmmmm] Maggie
+）
+
+[00:01:46]
+[hmmmmm] Maggie
+好啦
+
+[00:01:54]
+[hmmmmm] Maggie
+我得下线了
+
+[00:01:57]
+[hmmmmm] Maggie
+bye!
+
+[00:02:01]
+[love13] eee
+好家伙
+
+[00:02:01]
+[love13] eee
+byeeeeeeee
+
+[00:02:06]
+[gTt3aQ] 卧底light
+我也走了
+
+[00:09:03]
+[44FF00] eebot
+ ·
+Light's Gitee
+https://gitee.com/BirdingLight
+
+[00:13:29]
+[love13] eee
+byeeeeeeeeeeeeeeeeeeeee Light
+
+[00:14:58]
+[love13] eee
+我也得走了
+
+[00:15:03]
+[love13] eee
+http://eat-light.osww.cn/
+
+[00:15:41]
+[love13] eee
+~~别忘了吃掉卧底light~~
+
+[09:08:53]
+[DPGawa] AfK_Bot
+awa!
+
+[09:08:53]
+[44FF00] eebot
+ [2022.07.16 09:08:52]
+
+[09:08:53]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[09:08:53]
+[44FF00] eebot
+ ·
+明天是周六 放心睡吧！
+更多玩法请输入：功能
+
+[09:08:53]
+[DPGawa] _
+^tripmsg zhang 
+~~~
+  if (had) {
+    var new_lockroom_list=[];
+    for (var i=0; i<core.config.lockedroom.length; i++) {
+      if (core.config.lockedroom != lockchannel){
+        new_lockroom_list.push(lockedroom[i])
+      }
+    }
+    core.config.lockedroom=new_lockroom_list
+  }else{
+    return server.reply({
+      cmd:"warn",
+      text:"该聊天室没有被锁定，无需执行此操作"
+    },socket)
+  }
+
+[09:08:55]
+[DPGawa] _
+?
+
+[09:08:59]
+[DPGawa] _
+^help
+
+[09:09:03]
+[None] FiresonZ
+JAVA嘛
+
+[09:09:22]
+[None] doonbitch
+ohhhhhh
+
+[09:09:39]
+[None] FiresonZ
+[QWQ](https://firesonz.top)
+
+[09:11:25]
+[None] FiresonZ
+# QAQ
+
+[09:13:32]
+[DPGawa] AfK_Bot
+awa!
+
+[09:13:33]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[09:13:33]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[09:13:33]
+[44FF00] eebot
+ ·
+星空之旅
+http://lonelystar.org/
+
+[09:13:53]
+[love13] ee
+http://eat-chumo.osww.cn/
+
+[09:14:22]
+[love13] ee
+~~我要继续挑战~~
+
+[09:14:33]
+[None] FiresonZ
+怎么实现不刷新区啊
+
+[09:14:37]
+[None] FiresonZ
+就是刷新网页的时候部分不刷新
+
+[09:14:47]
+[None] FiresonZ
+百度不到QAQ
+
+[09:14:55]
+[pvzjspvz] B站的J
+?75tz2vv8
+
+[09:18:42]
+[gTt3aQ] 卧底light
+hi
+
+[09:19:13]
+[初墨娘] Chumo_Chan
+hi,卧底light~
+
+[09:19:14]
+[gTt3aQ] 卧底light
+CPS
+2.16
+得分
+30
+最佳
+30
+
+[09:19:42]
+[gTt3aQ] 卧底light
+CPS
+2.45
+得分
+49
+最佳
+49
+
+[09:20:14]
+[Qwer] Qwer
+。
+
+[09:20:21]
+[love13] ee
+哈哈哈哈
+
+[09:20:44]
+[44FF00] eebot
+ 草哈哈哈哈
+
+[09:20:45]
+[DPGawa] _
+hh
+
+[09:20:48]
+[DPGawa] _
+practice~~
+
+[09:20:53]
+[love13] ee
+@卧底light 你不能玩那个
+
+[09:21:03]
+[love13] ee
+玩这个：http://eat-light.osww.cn/
+
+[09:21:06]
+[gTt3aQ] 卧底light
+...
+
+[09:22:13]
+[pvzjspvz] B站的J
+有没有eatJ
+
+[09:22:44]
+[love13] ee
+我看刑
+
+[09:23:17]
+[Qwer] Qwer
+嗯嗯游戏别鸽了
+
+[09:23:42]
+[Qwer] Qwer
+ee游戏别鸽了
+
+[09:23:48]
+[love13] ee
+咳咳
+
+[09:24:26]
+[44FF00] eebot
+ 咳咳咳
+
+[09:24:26]
+[love13] ee
+~~不要再催了 我失忆了~~
+
+[09:24:43]
+[Qwer] Qwer
+ee游戏别鸽了
+
+[09:24:56]
+[Qwer] Qwer
+# ee游戏别鸽了
+
+[09:24:59]
+[DPGawa] _
+ans=114514114514114514
+
+[09:25:10]
+[DPGawa] _
+obo
+
+[09:25:12]
+[DPGawa] AfK_Bot
+awa!
+
+[09:25:12]
+[初墨娘] Chumo_Chan
+hi,kamari~
+
+[09:25:12]
+[44FF00] eebot
+ hi yo kamari
+
+[09:25:12]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[09:25:13]
+[DPGawa] _
+hi
+
+[09:25:18]
+[初墨娘] Chumo_Chan
+hi,_~
+
+[09:25:19]
+[love13] ee
+hi yo
+
+[09:25:35]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[09:25:35]
+[Qwer] Qwer
+$\kern {-15em}\color {red}ee游戏别鸽了$
+
+[09:25:59]
+[None] FiresonZ
+'''
+
+[09:25:59]
+[Qwer] Qwer
+$\kern {-15em}\color {red}ee游戏别鸽了$
+
+[09:26:05]
+[None] FiresonZ
+```cpp	```
+
+[09:26:08]
+[None] FiresonZ
+```
+
+[09:26:10]
+[Qwer] Qwer
+$\kern {-15em}\color {red}ee游戏别鸽了$蛤
+
+[09:26:13]
+[None] FiresonZ
+\n
+
+[09:26:21]
+[Qwer] Qwer
+$\kern {-15em}\color {red}ee游戏别鸽了$蛤
+
+[09:26:21]
+[Qwer] Qwer
+$\kern {-15em}\color {red}ee游戏别鸽了$哦
+
+[09:26:26]
+[Qwer] Qwer
+$\kern {-15em}\color {red}ee游戏别鸽了$哦、py啊
+
+[09:26:34]
+[DPGawa] AfK_Bot
+awa!
+
+[09:26:34]
+[初墨娘] Chumo_Chan
+hi,4n0n4me~
+
+[09:26:34]
+[44FF00] eebot
+ hey yo 4n0n4me
+
+[09:26:34]
+[Qwer] Qwer
+$\kern {-15em}\color {red}ee游戏别鸽了$hi
+
+[09:26:38]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[09:26:39]
+[DPGawa] _
+ahh
+
+[09:26:55]
+[DPGawa] _
+^help
+
+[09:26:59]
+[DPGawa] _
+whhhhhhy
+
+[09:27:04]
+[初墨娘] Chumo_Chan
+hi,13~
+
+[09:27:04]
+[44FF00] eebot
+ hey yo 13
+
+[09:27:04]
+[DPGawa] AfK_Bot
+awa!
+
+[09:27:04]
+[Qwer] Qwer
+$\kern {-15em}\color {red}ee游戏别鸽了$hi
+
+[09:27:13]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[09:28:01]
+[loveee] 13
+# 早上好
+
+[09:28:17]
+[Qwer] Qwer
+# 好
+
+[09:28:26]
+[Qwer] Qwer
+# 很有精神！
+
+[09:28:32]
+[PFuYwK] kamari
+卢本伟8:40多的时候就在聊天室捣乱。我也是很佩服他这种可敬的精神了。
+
+[09:28:46]
+[PFuYwK] kamari
+起的比鸡早睡的比黄鼠狼还晚。
+
+[09:28:52]
+[Qwer] Qwer
+。
+
+[09:29:57]
+[love13] ee
+好家伙
+
+[09:32:11]
+[PFuYwK] kamari
+好了，懂了懂了，没必要私聊发给我。
+
+[09:33:51]
+[Qwer] Qwer
+。
+
+[09:33:57]
+[Qwer] Qwer
+嘘
+
+[09:34:00]
+[PFuYwK] kamari
+不过话说回来，那边老外真是喜欢聊色情啊。一来就给我打黄腔，后来我反着打回去，他们还挺高兴。
+
+[09:34:15]
+[44FF00] eebot
+ 这样真的好吗（
+
+[09:34:16]
+[Qwer] Qwer
+。
+
+[09:34:38]
+[Qwer] Qwer
+上次一群人在聊嗑药
+
+[09:34:50]
+[PFuYwK] kamari
+哦，好的。
+
+[09:34:50]
+[PFuYwK] kamari
+hhhhhhhhhhh
+
+[09:34:58]
+[edDiBU] 4n0n4me
+卢本伟真是……
+
+[09:35:02]
+[Qwer] Qwer
+。
+
+[09:35:12]
+[edDiBU] 4n0n4me
+而且事态**越来越**复杂了
+
+[09:35:14]
+[edDiBU] 4n0n4me
+听说卢本伟还联系了qly
+
+[09:35:21]
+[edDiBU] 4n0n4me
+现在没人能看出全貌了吗
+
+[09:35:29]
+[Qwer] Qwer
+不能完全信
+
+[09:35:31]
+[PFuYwK] kamari
+我去，他联系。.....
+
+[09:35:49]
+[Qwer] Qwer
+我们盯着他
+
+[09:35:58]
+[Qwer] Qwer
+还有
+
+[09:36:01]
+[Qwer] Qwer
+@kamari 不要乱传哦
+
+[09:36:11]
+[PFuYwK] kamari
+知道了。
+
+[09:36:20]
+[Qwer] Qwer
+@kamari 不然就被铲除了
+
+[09:36:20]
+[Qwer] Qwer
+hhh
+
+[09:36:49]
+[DPGawa] AfK_Bot
+awa!
+
+[09:36:49]
+[初墨娘] Chumo_Chan
+hi,karimari~
+
+[09:36:49]
+[44FF00] eebot
+ hey yo karimari
+
+[09:37:43]
+[DPGawa] AfK_Bot
+awa!
+
+[09:37:43]
+[44FF00] eebot
+ hello yo karimari
+
+[09:37:43]
+[初墨娘] Chumo_Chan
+hi,karimari~
+
+[09:38:05]
+[DPGawa] AfK_Bot
+awa!
+
+[09:38:05]
+[初墨娘] Chumo_Chan
+hi,krimari~
+
+[09:38:05]
+[44FF00] eebot
+ hi yo krimari
+
+[09:38:05]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[09:38:05]
+[PFuYwK] krimari
+哎呀，掉一个网，然后就看不到验证码了。
+
+[09:38:25]
+[Qwer] Qwer
+e
+
+[09:38:35]
+[PFuYwK] krimari
+关键是卢本伟这家伙软硬不吃。
+
+[09:38:42]
+[44FF00] eebot
+ 比人锺意左
+
+[09:38:42]
+[Qwer] Qwer
+你问管理员跳跃验证码
+
+[09:38:52]
+[PFuYwK] krimari
+他之前在HC那边说。他想建一个没有规矩的聊天室。
+
+[09:38:55]
+[Qwer] Qwer
+e
+
+[09:38:59]
+[PFuYwK] krimari
+等会儿再说吧。
+
+[09:38:59]
+[PFuYwK] krimari
+然后他还说。如果他不发垃圾邮件，就会有别人发垃圾邮件，那为什么他不发呢？
+
+[09:39:12]
+[PFuYwK] krimari
+什么鬼？
+
+[09:39:16]
+[edDiBU] 4n0n4me
+是啊
+
+[09:39:18]
+[edDiBU] 4n0n4me
+卢本伟这心态
+
+[09:39:22]
+[edDiBU] 4n0n4me
+有点变态啊
+
+[09:39:28]
+[edDiBU] 4n0n4me
+他说spamming让他感到满足
+
+[09:39:36]
+[DPGawa] _
+@krimari 发垃圾邮件=刷屏
+
+[09:39:36]
+[DPGawa] _
+spam
+
+[09:39:44]
+[PFuYwK] krimari
+我知道，只不过想用老外的语气说一下。
+
+[09:40:06]
+[DPGawa] _
+obo
+
+[09:40:12]
+[PFuYwK] krimari
+之前文硕也不是没跟他讨论过。给他分析的利与弊，让他自行取舍。跟他好好谈过。这家伙完全就没听进去。
+
+[09:40:53]
+[Qwer] Qwer
+嗯哼
+
+[09:41:07]
+[edDiBU] 4n0n4me
+谁是文硕
+
+[09:41:32]
+[PFuYwK] krimari
+就是李溯源。
+
+[09:41:40]
+[Qwer] Qwer
+文硕是文硕
+
+[09:41:45]
+[PFuYwK] krimari
+好吧，别陷入死循环了。
+
+[09:41:54]
+[Qwer] Qwer
+文硕是文硕
+
+[09:42:10]
+[edDiBU] 4n0n4me
+哦哦
+
+[09:42:15]
+[44FF00] eebot
+ 哦哦草
+
+[09:42:15]
+[edDiBU] 4n0n4me
+有人说李溯源的冒充者其实是李溯源自演的
+
+[09:42:31]
+[edDiBU] 4n0n4me
+但是昨天我问卢本伟
+
+[09:42:34]
+[edDiBU] 4n0n4me
+卢本伟说是他
+
+[09:42:37]
+[PFuYwK] krimari
+现在。我目前已知的。还可以混下去的，聊天室除了几个没那么著名的。
+
+[09:42:37]
+[PFuYwK] krimari
+@4n0n4me 是的，就是卢本伟。
+
+[09:42:42]
+[edDiBU] 4n0n4me
+这个还是比较好的一个消息
+
+[09:42:44]
+[PFuYwK] krimari
+文硕跟我说了。他说他去吃饭的时候，卢本伟冒充他。
+
+[09:42:50]
+[PFuYwK] krimari
+然后回来还跟他私聊，说我用你的号玩了玩。
+
+[09:42:56]
+[PFuYwK] krimari
+然后他被迫改名字。
+
+[09:43:03]
+[PFuYwK] krimari
+只要卢本伟冒充他，就只能发主不在乎。
+
+[09:43:10]
+[PFuYwK] krimari
+他还想私聊拉龙李溯源。
+
+[09:43:28]
+[PFuYwK] krimari
+文硕他还算是很聪明。他知道如果单方面跟卢本伟刚的话，他就会退出聊天室，然后再次进来，我们永远就封不了他。
+
+[09:43:53]
+[PFuYwK] krimari
+所以他就一直跟他私聊，然后故意私聊的时候说漏嘴。
+
+[09:44:00]
+[PFuYwK] krimari
+让我们知道谁是卢本伟。
+
+[09:44:04]
+[PFuYwK] krimari
+然后我就开始永久封他。
+
+[09:44:09]
+[PFuYwK] krimari
+但这就陷入了一个死循环，卢本伟还是会换一个IP回来。
+
+[09:44:15]
+[Qwer] Qwer
+10秒换一个
+
+[09:44:34]
+[edDiBU] 4n0n4me
+对啊，我认为试图接近卢本伟
+
+[09:44:44]
+[edDiBU] 4n0n4me
+能够对局面产生影响
+
+[09:44:51]
+[edDiBU] 4n0n4me
+虽然在局部彻底封禁卢本伟有那么一点可能性
+
+[09:45:11]
+[edDiBU] 4n0n4me
+但是卢本伟太气人了
+
+[09:45:16]
+[44FF00] eebot
+ 就是李溯源。
+
+[09:45:16]
+[PFuYwK] krimari
+但是问题来了。我们怎么确定不被卢本伟带跑偏。以及卢本伟会100%的信任我们，然后让我们接近。
+
+[09:45:16]
+[PFuYwK] krimari
+主要是要搞清楚他为什么能换那么多个重庆的IP。
+
+[09:45:22]
+[Qwer] Qwer
+hhh
+
+[09:45:23]
+[edDiBU] 4n0n4me
+我还是希望能够积极的对他进行打击报复
+
+[09:45:26]
+[Qwer] Qwer
+我知道
+
+[09:45:28]
+[Qwer] Qwer
+3个方法
+
+[09:45:36]
+[Qwer] Qwer
+禁止代理也没用
+
+[09:45:45]
+[Qwer] Qwer
+嗯哼
+
+[09:46:09]
+[edDiBU] 4n0n4me
+据说，可能是用的流量
+
+[09:46:11]
+[Qwer] Qwer
+是的
+
+[09:46:16]
+[edDiBU] 4n0n4me
+或者说他反复开关家里的路由器
+
+[09:46:19]
+[Qwer] Qwer
+是的
+
+[09:46:22]
+[edDiBU] 4n0n4me
+就可以获取新的ip
+
+[09:46:23]
+[Qwer] Qwer
+2个了
+
+[09:46:25]
+[Qwer] Qwer
+还有一个就是vpn
+
+[09:46:34]
+[edDiBU] 4n0n4me
+第三个方法就是回国的【数据删除】
+
+[09:46:37]
+[PFuYwK] krimari
+ VPN不可能。
+
+[09:46:44]
+[PFuYwK] krimari
+不可能有那么多个都是重庆的。
+
+[09:46:49]
+[Qwer] Qwer
+嗯哼
+
+[09:46:49]
+[edDiBU] 4n0n4me
+但是这样一来就可能不在重庆
+
+[09:46:54]
+[PFuYwK] krimari
+他一来显著增加了十字街风，重庆的 IP的业绩量。
+
+[09:47:03]
+[love13] ee
+害
+
+[09:48:09]
+[Qwer] Qwer
+[![360-20220715153433827.jpg](https://i.postimg.cc/vTFF8Yrj/360-20220715153433827.jpg)](https://postimg.cc/34BbnHbC)
+
+[09:48:18]
+[44FF00] eebot
+@Qwer 360截图20220715153433827 — Postimages
+https://postimg.cc/34BbnHbC
+
+[09:48:18]
+[Qwer] Qwer
+hai什么
+
+[09:48:25]
+[PFuYwK] krimari
+ HC和十字街就是有一个老bug。没法固定的封一段IP。十字街这边。亨利兹因为上了大学忙得要命。又不想把自己的代码交给别的人。所以就要一直搁着等到2.0。十字接触绑定系统。
+
+[09:48:46]
+[PFuYwK] krimari
+ HC那边只能靠验证码和锁房间了。
+
+[09:48:55]
+[PFuYwK] krimari
+站长:我保证在这个生物纪元写完十字节2.0。
+
+[09:49:22]
+[edDiBU] 4n0n4me
+唉！
+
+[09:49:44]
+[love13] ee
+害
+
+[09:50:17]
+[PFuYwK] krimari
+分析一波心理学，卢本伟是女的。这点我是明白的。他自己也说了自己是个男的，但是会被加上了，开玩笑。总结一点，他应该是那种混混的女生。但是他家人让他好好读书，他成绩应该总。中游。谈不上好谈不上坏，为了应付家长和考试，他可以一段时间不来捣乱。但是考过了，他家人不会说什么，让他随意的碰着电子设备。
+
+[09:51:59]
+[Qwer] Qwer
+蛤
+
+[09:52:13]
+[Qwer] Qwer
+不是男的
+
+[09:52:28]
+[Qwer] Qwer
+e
+
+[09:52:31]
+[PFuYwK] krimari
+他14岁。处于青春反叛期。他应该把自己的作恶多端跟自己现实生活中的朋友说过。应该会有人来支持他。
+
+[09:52:32]
+[PFuYwK] krimari
+否则他不可能有这么持续的动力。
+
+[09:52:40]
+[Qwer] Qwer
+《好朋友》
+
+[09:52:47]
+[PFuYwK] krimari
+他攻击这边应该是，可以跟自己现实生活中的朋友炫耀
+
+[09:53:32]
+[PFuYwK] krimari
+他不是个男的。他曾经加13。然后说13我好喜欢你呀。类似于骚扰13曜13和他在一起。
+
+[09:54:02]
+[PFuYwK] krimari
+然后13说他有ee了。
+
+[09:54:13]
+[edDiBU] 4n0n4me
+这个我觉得也可能是他脸皮厚
+
+[09:54:23]
+[Qwer] Qwer
+你关了记录我的信息了吗
+
+[09:54:27]
+[edDiBU] 4n0n4me
+不顾性别，啥都能说
+
+[09:54:29]
+[edDiBU] 4n0n4me
+我关了
+
+[09:54:31]
+[Qwer] Qwer
+@krimari 
+
+[09:54:37]
+[edDiBU] 4n0n4me
+实在不行，就清除记录罢……
+
+[09:54:44]
+[edDiBU] 4n0n4me
+或者他是男同（）
+
+[09:54:53]
+[Qwer] Qwer
+e
+
+[09:54:55]
+[Qwer] Qwer
+@krimari 你关了吗
+
+[09:55:03]
+[PFuYwK] krimari
+我关了，我这边看不到记录。
+
+[09:55:10]
+[PFuYwK] krimari
+我觉得并不像有一段时间，我不知道他是卢本伟，我看过他QQ。
+
+[09:55:21]
+[DPGawa] _
+a
+male
+a
+im female
+a
+womanish boy
+
+[09:55:22]
+[DPGawa] _
+this
+
+[09:55:25]
+[初墨娘] Chumo_Chan
+hi,_~
+
+[09:55:25]
+[PFuYwK] krimari
+那个QQ的感觉真的不像是一个男孩子。
+
+[09:55:33]
+[Qwer] Qwer
+@_ 有人说你是猪
+
+[09:55:35]
+[DPGawa] _
+i know
+
+[09:55:39]
+[PFuYwK] krimari
+发的动态里面,包括他的图片全都是女孩子的那种。
+
+[09:55:50]
+[Qwer] Qwer
+1mJVp4 Qwer
+啊
+
+1mJVp4 Qwer
+谁是猪
+
+PnNymf k24
+啊，你在XC那边混，你不知道慕容猪
+
+a/Jz/a light
+dpg是猪
+
+VEbeHK _
+?
+
+[09:55:50]
+[Qwer] Qwer
+e
+
+[09:55:55]
+[Qwer] Qwer
+伪娘
+
+[09:56:00]
+[DPGawa] _
+>womanish boy
+
+[09:56:07]
+[DPGawa] _
+h
+
+[09:56:07]
+[PFuYwK] krimari
+我跟你讲，他出于嫉妒说过。
+
+[09:56:14]
+[PFuYwK] krimari
+张暗恋一一。
+
+[09:56:19]
+[Qwer] Qwer
+I ate an apple
+
+[09:56:23]
+[44FF00] eebot
+ 不知道Qwer发这样的信息是干嘛的
+
+[09:56:23]
+[edDiBU] 4n0n4me
+emm
+
+[09:56:26]
+[Qwer] Qwer
+I am a pig
+
+[09:56:30]
+[edDiBU] 4n0n4me
+这么看，说的也有道理。
+
+[09:56:34]
+[PFuYwK] krimari
+然后前面还加了一个sb
+
+[09:56:40]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[09:56:42]
+[PFuYwK] krimari
+原来这个词发不出来呀。
+
+[09:56:53]
+[PFuYwK] krimari
+然后他还写过一一和张的黄段子。
+
+[09:56:54]
+[Qwer] Qwer
+张暗恋……
+
+[09:56:57]
+[PFuYwK] krimari
+当时13就火了。
+
+[09:56:59]
+[edDiBU] 4n0n4me
+这是鱼和小张新做的强大的敏感词系统
+
+[09:57:02]
+[PFuYwK] krimari
+没有针后来骂了卢本伟。
+
+[09:57:05]
+[PFuYwK] krimari
+说尼玛，谁暗恋依依。
+
+[09:57:12]
+[gTt3aQ] 卧底light
+> I am a pig. -DPG
+
+[09:57:19]
+[edDiBU] 4n0n4me
+我们要一边磨练我们的技术，一边写出抗击卢本伟的好东西。
+
+[09:57:24]
+[gTt3aQ] 卧底light
+DPG自爆身份了
+
+[09:57:30]
+[edDiBU] 4n0n4me
+可怜的ee。
+
+[09:57:37]
+[edDiBU] 4n0n4me
+还有小张，成了首当其冲的受害者
+
+[09:57:51]
+[PFuYwK] krimari
+就是特别是13，我也挺可怜他的。
+
+[09:58:00]
+[PFuYwK] krimari
+他当时很生气说他要总之一直在骂卢本伟。
+
+[09:58:10]
+[PFuYwK] krimari
+他说他居然当众搞牛头人。
+
+[09:58:16]
+[Qwer] Qwer
+啊
+
+[09:58:21]
+[44FF00] eebot
+ 啊草
+
+[09:58:24]
+[edDiBU] 4n0n4me
+是啊，这个对13非常的有侮辱性。
+
+[09:58:26]
+[PFuYwK] krimari
+他也做过很对我有侮辱性的事情。
+
+[09:58:35]
+[edDiBU] 4n0n4me
+我问他为什么没有对我进行报复
+
+[09:58:38]
+[PFuYwK] krimari
+比方说要李溯源 QQ号。
+
+[09:58:43]
+[edDiBU] 4n0n4me
+他说
+>我爱你
+
+[09:58:43]
+[PFuYwK] krimari
+好恶心。
+
+[09:58:49]
+[edDiBU] 4n0n4me
+实在是，，，
+
+[09:58:49]
+[PFuYwK] krimari
+他就是见到同龄的男人他就调戏。
+
+[09:58:55]
+[DPGawa] _
+?
+
+[09:58:55]
+[PFuYwK] krimari
+然后得不到就吃醋。
+
+[09:58:59]
+[44FF00] eebot
+ 然后得不到就吃醋。
+
+[09:58:59]
+[edDiBU] 4n0n4me
+这个无法相信。但是应该利用这种状态
+
+[09:59:00]
+[Qwer] Qwer
+a
+哈哈哈哈
+
+1mJVp4 Qwer
+话说你是男是女
+
+a
+老子他妈是女的?
+
+1mJVp4 Qwer
+e
+
+a
+男的啊哥
+
+[09:59:03]
+[edDiBU] 4n0n4me
+利用他暂时比较的稳定
+
+[09:59:06]
+[edDiBU] 4n0n4me
+来骗他点一些链接什么的
+
+[09:59:15]
+[PFuYwK] krimari
+对的对的。
+
+[09:59:19]
+[edDiBU] 4n0n4me
+但是昨天那个时候我没准备好这样的链接
+
+[09:59:22]
+[PFuYwK] krimari
+你给他发钓鱼链接。
+
+[09:59:24]
+[edDiBU] 4n0n4me
+我觉得这个时候他比较稳定，不应该直接发什么死循环什么的
+
+[09:59:34]
+[edDiBU] 4n0n4me
+应该发个能让他留下痕迹的东西
+
+[09:59:43]
+[edDiBU] 4n0n4me
+当然是有ip logger，但是这个和xc是一样的，鱼本身也能看到他的ip
+
+[09:59:58]
+[edDiBU] 4n0n4me
+所以我希望有一些能够套出他某些主流平台账号的东西
+
+[10:00:11]
+[edDiBU] 4n0n4me
+但是我没想到这样的东西是什么
+
+[10:00:17]
+[PFuYwK] krimari
+卢本伟有推特。
+
+[10:00:21]
+[edDiBU] 4n0n4me
+所以就没发链接给他
+
+[10:00:23]
+[PFuYwK] krimari
+但是我不知道是什么。
+
+[10:00:25]
+[edDiBU] 4n0n4me
+唉，我们所掌握的信息太碎片化了。
+
+[10:00:45]
+[edDiBU] 4n0n4me
+但是这也没办法，因为怕别人泄密
+
+[10:00:55]
+[PFuYwK] krimari
+只要初墨知道了卢本伟的推特，他就可以开盒。
+
+[10:01:10]
+[PFuYwK] krimari
+结果问题来了，我不知道。还有谁知道卢本伟推特。
+
+[10:01:19]
+[edDiBU] 4n0n4me
+初墨不是拿到了卢本伟的推特吗
+
+[10:02:25]
+[PFuYwK] krimari
+我也有推特。而且我的推特绝对不会让人怀疑的那种。
+
+[10:02:31]
+[edDiBU] 4n0n4me
+还盗了他的号
+
+[10:02:31]
+[Qwer] Qwer
+yc中午去
+
+[10:02:36]
+[PFuYwK] krimari
+@4n0n4me 没有啊，他昨天还QQ发信息问我，卢本伟推特是什么？
+
+[10:02:39]
+[edDiBU] 4n0n4me
+而且初墨说把他的号送给你了
+
+[10:02:43]
+[Qwer] Qwer
+他中午去yc
+
+[10:02:44]
+[edDiBU] 4n0n4me
+啊这？
+
+[10:02:46]
+[edDiBU] 4n0n4me
+唉，卢本伟真是不可捉摸啊
+
+[10:02:51]
+[PFuYwK] krimari
+然后他说他要卢本伟推特来开合。
+
+[10:02:58]
+[PFuYwK] krimari
+然后我说我不知道，张好像知道你去问他。
+
+[10:03:05]
+[Qwer] Qwer
+他还有脸书！
+
+[10:03:11]
+[Qwer] Qwer
+谷歌
+
+[10:03:19]
+[PFuYwK] krimari
+我也有。谷歌和脸书。
+
+[10:03:59]
+[PFuYwK] krimari
+都是不会引起人怀疑的那种，跟我这些账号没有任何关系。
+
+[10:04:05]
+[PFuYwK] krimari
+骨骼还是从毛子那边买过来的。就属于那种完全看不出来有什么东西的。
+
+[10:04:17]
+[edDiBU] 4n0n4me
+唉，我的谷歌账号就没有这些特性了
+
+[10:04:25]
+[edDiBU] 4n0n4me
+所以我决定再搞个谷歌账号
+
+[10:04:33]
+[PFuYwK] krimari
+拼多多上有。
+
+[10:05:06]
+[PFuYwK] krimari
+我好像花了6块还是。3块8买了一个。
+
+[10:05:16]
+[PFuYwK] krimari
+从毛子那边买，完全看不出任何有疑虑的地方。
+
+[10:05:28]
+[Qwer] Qwer
+他说记不得推特号了
+
+[10:06:01]
+[44FF00] eebot
+ Twitter（中文称：推特）是国外的一个社交网络及微博客服务的网站 网址：www.twitter.com
+
+[10:06:01]
+[PFuYwK] krimari
+我推特脸书手机上都有，然后电脑上就是直接默认保存密码绑定的。所以1点开连登录账号密码都不用输进去。
+
+[10:06:28]
+[Qwer] Qwer
+啧啧啧
+
+1mJVp4 Qwer
+你记得啥号
+
+a
+我给他发链接
+
+[10:07:26]
+[edDiBU] 4n0n4me
+【他】是谁？
+
+[10:07:38]
+[PFuYwK] krimari
+是啊，他是谁？
+
+[10:07:47]
+[44FF00] eebot
+ 啊？
+
+[10:07:47]
+[edDiBU] 4n0n4me
+这是现在的记录吗
+
+[10:07:47]
+[edDiBU] 4n0n4me
+现在卢本伟在哪？
+
+[10:07:51]
+[PFuYwK] krimari
+肯定不是现在呀。
+
+[10:07:54]
+[PFuYwK] krimari
+我在这些聊天室都挂着卢本伟没出现。
+
+[10:07:59]
+[Qwer] Qwer
+404
+
+[10:08:10]
+[Qwer] Qwer
+就是现在的
+
+[10:08:33]
+[DPGawa] AfK_Bot
+awa!
+
+[10:08:33]
+[初墨娘] Chumo_Chan
+hi,fish~
+
+[10:08:33]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[10:08:33]
+[PFuYwK] krimari
+hi 鱼。
+
+[10:08:44]
+[初墨娘] Chumo_Chan
+hi,krimari~
+
+[10:08:47]
+[edDiBU] 4n0n4me
+@Qwer @Qwer 【他】是谁？卢本伟在哪？
+
+[10:08:47]
+[44FF00] eebot
+ ？
+
+[10:08:49]
+[edDiBU] 4n0n4me
+可以私聊给我吗awa
+
+[10:08:53]
+[Admin] fish
+hiyo
+
+[10:08:54]
+[初墨娘] Chumo_Chan
+hi,fish~
+
+[10:08:55]
+[edDiBU] 4n0n4me
+我们在探讨卢本伟
+
+[10:09:07]
+[Qwer] Qwer
+h
+
+[10:09:12]
+[Qwer] Qwer
+暂时不行
+
+[10:09:16]
+[edDiBU] 4n0n4me
+行
+
+[10:09:19]
+[edDiBU] 4n0n4me
+能告诉我【他】是谁吗
+
+[10:09:25]
+[Qwer] Qwer
+我有他邮箱号了
+
+[10:09:29]
+[edDiBU] 4n0n4me
+能告诉我【他】是谁吗
+
+[10:09:31]
+[PFuYwK] krimari
+@Qwer 我早有了。他也用QQ邮箱。
+
+[10:09:42]
+[edDiBU] 4n0n4me
+我去
+
+[10:09:46]
+[edDiBU] 4n0n4me
+我只知道xex2077
+
+[10:09:52]
+[Qwer] Qwer
+1mJVp4 Qwer
+邮箱好多少，到时候我发邮件
+
+0
+_
+
+1mJVp4 Qwer
+把记录打包发给你
+
+0
+xex2077@hotmail.com
+
+[10:09:56]
+[PFuYwK] krimari
+但不顶个屁用。他似乎从来不看邮件。
+
+[10:10:04]
+[DPGawa] AfK_Bot
+awa!
+
+[10:10:04]
+[44FF00] eebot
+ hi yo 13
+
+[10:10:04]
+[初墨娘] Chumo_Chan
+hi,13~
+
+[10:10:05]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[10:10:06]
+[edDiBU] 4n0n4me
+既然这样，，
+
+[10:10:09]
+[PFuYwK] krimari
+又。我是说他不看QQ邮件。
+
+[10:10:20]
+[PFuYwK] krimari
+又不能搞个像爱虫病毒一样的。其实我喜欢你很久了。然后下面一串链接。
+
+[10:10:39]
+[PFuYwK] krimari
+那样他绝对不会点开。
+
+[10:10:43]
+[loveee] 13
+good morning babaje
+
+[10:10:46]
+[Qwer] Qwer
+十一点去yc
+
+[10:10:51]
+[edDiBU] 4n0n4me
+啊，那还有50分钟。
+
+[10:11:00]
+[edDiBU] 4n0n4me
+卢本伟真是精打细算
+
+[10:11:04]
+[Qwer] Qwer
+你们自己看着办吧
+
+[10:11:06]
+[edDiBU] 4n0n4me
+刷屏的时间都安排好了
+
+[10:11:10]
+[44FF00] eebot
+ 利用他暂时比较的稳定
+
+[10:11:11]
+[PFuYwK] krimari
+我估计他那会被家人强行按着写作业。
+
+[10:11:22]
+[PFuYwK] krimari
+或者看书什么的。
+
+[10:11:26]
+[PFuYwK] krimari
+他的年龄应该不是谎报的。
+
+[10:11:29]
+[Qwer] Qwer
+e
+
+[10:11:35]
+[PFuYwK] krimari
+毕竟。文硕他要初三了，也是这么忙的。所以卢本伟的作息时间符合一个要上初三学生的作息时间。
+
+[10:12:00]
+[Qwer] Qwer
+1mJVp4 Qwer
+我们十一点搞怎么样
+
+1mJVp4 Qwer
+去yc
+
+0
+也行
+
+1mJVp4 Qwer
+ok
+
+0
+ok
+
+0
+话说你是男生还是女生
+
+1mJVp4 Qwer
+男
+
+1mJVp4 Qwer
+怎么了
+
+0
+(~)/
+
+1mJVp4 Qwer
+awa
+
+0
+\(^~^)/
+
+1mJVp4 Qwer
+QAQ
+
+[10:12:07]
+[PFuYwK] krimari
+好好的吊着他。
+
+[10:12:22]
+[edDiBU] 4n0n4me
+我们现在在xc的公屏
+
+[10:12:24]
+[edDiBU] 4n0n4me
+是不是还是不够安全
+
+[10:12:29]
+[edDiBU] 4n0n4me
+（）
+
+[10:12:32]
+[PFuYwK] krimari
+除非你愿意相信卢本伟会来到这个地方看着。
+
+[10:12:39]
+[PFuYwK] krimari
+目前站前没有发现可疑人士。
+
+[10:12:54]
+[Qwer] Qwer
+lbw问我要QQ
+
+[10:12:55]
+[PFuYwK] krimari
+他经常问别人要QQ。
+
+[10:13:03]
+[PFuYwK] krimari
+给不给他是你的事情了。
+
+[10:13:08]
+[Qwer] Qwer
+你们谁要不要加一下
+
+[10:13:21]
+[DPGawa] AfK_Bot
+awa!
+
+[10:13:21]
+[初墨娘] Chumo_Chan
+hi,13_~
+
+[10:13:21]
+[44FF00] eebot
+ hey yo 13_
+
+[10:13:21]
+[PFuYwK] krimari
+我不能加，我以前加过。
+
+[10:13:25]
+[Qwer] Qwer
+哦
+
+[10:13:28]
+[44FF00] eebot
+ 哦草
+
+[10:13:29]
+[PFuYwK] krimari
+如果我加了就会暴露有人在这个地方泄露消息。
+
+[10:13:36]
+[Qwer] Qwer
+谁加一下冒充我
+
+[10:13:41]
+[44FF00] eebot
+ ·
+智障初墨的个人主页
+https://chumo.sbsbsb.sbs/
+
+[10:13:53]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[10:13:54]
+[edDiBU] 4n0n4me
+我不敢
+
+[10:14:19]
+[edDiBU] 4n0n4me
+我没有qq这东西
+
+[10:14:23]
+[edDiBU] 4n0n4me
+我不敢把我的qq去加她
+
+[10:14:28]
+[PFuYwK] krimari
+那得找一个人好好的去加他呀,不然不加的话肯定也会引起怀疑。
+
+[10:15:34]
+[Qwer] Qwer
+没事
+
+[10:15:45]
+[Qwer] Qwer
+不加就算了
+
+[10:15:51]
+[PFuYwK] krimari
+算了，为了聊天室的稳定，我还是回一趟十字街吧。虽然极其不愿意回去。
+
+[10:15:52]
+[Qwer] Qwer
+1mJVp4 Qwer
+说要套你QQ
+
+0
+哈哈哈
+
+0
+13和初墨知道
+
+1mJVp4 Qwer
+哦
+
+0
+并且社工库还查不出来的
+
+[10:16:07]
+[PFuYwK] krimari
+是的，我也拿社工库查过。
+
+[10:16:32]
+[Qwer] Qwer
+0
+2825074811
+
+0
+我qq
+
+[10:16:32]
+[PFuYwK] krimari
+卢本伟的QQ属于那种和我一样保密性特别好的那种社工库里面没有。
+
+[10:16:41]
+[PFuYwK] krimari
+不同以往的是我的，是因为创建的年份太早了，所以社工库都没有记载。
+
+[10:16:59]
+[PFuYwK] krimari
+他这个可能是用特殊方法。不用手机注册的。
+
+[10:17:12]
+[edDiBU] 4n0n4me
+有这种方法？
+
+[10:17:28]
+[edDiBU] 4n0n4me
+这个是10位的，应该是需要手机了
+
+[10:17:42]
+[PFuYwK] krimari
+有以前我制作组里面有人叛变的时候。他的账号就是不用手机登录的。
+
+[10:17:42]
+[Qwer] Qwer
+我在套
+
+[10:17:43]
+[edDiBU] 4n0n4me
+唉
+
+[10:17:46]
+[edDiBU] 4n0n4me
+你们也太牛了
+
+[10:17:49]
+[PFuYwK] krimari
+社工库里面无论怎么查都显示查找不到这个账号的手机号。
+
+[10:17:51]
+[edDiBU] 4n0n4me
+qq都能破解
+
+[10:17:54]
+[Qwer] Qwer
+0
+我没绑手机号
+
+[10:18:00]
+[Qwer] Qwer
+e
+
+[10:18:01]
+[PFuYwK] krimari
+有那种软件还有网站。
+
+[10:18:04]
+[edDiBU] 4n0n4me
+说实话我很不喜欢这这拿着技术的人
+
+[10:18:04]
+[PFuYwK] krimari
+我非特殊情况不会乱用。
+
+[10:18:15]
+[44FF00] eebot
+ 不会就得学呀~
+
+[10:18:15]
+[edDiBU] 4n0n4me
+拿着技术就蔑视我们这些普通人
+
+[10:18:27]
+[Qwer] Qwer
+这个没帮手机号
+
+[10:18:40]
+[Qwer] Qwer
+e
+
+[10:18:42]
+[PFuYwK] krimari
+但是他有一点就是那种像我这种1开头的十几年前创建的QQ号，他那个社工裤很新，所以他找不到。
+
+[10:18:42]
+[edDiBU] 4n0n4me
+这倒是很合理。
+
+[10:18:49]
+[PFuYwK] krimari
+@Qwer 是的呀。所以当时我也查不到啊。
+
+[10:18:55]
+[PFuYwK] krimari
+要不然就是像卢本伟，还有之前我那个制作组旁边的人一样特殊方法处理QQ，不绑手机号就能登上去。
+
+[10:19:31]
+[edDiBU] 4n0n4me
+我靠，这这
+
+[10:19:43]
+[Qwer] Qwer
+lbw要来
+
+[10:19:54]
+[gTt3aQ] 卧底light
+我妈的qq21年了
+
+[10:19:57]
+[edDiBU] 4n0n4me
+来xc？
+
+[10:19:58]
+[44FF00] eebot
+ 啊？
+
+[10:19:58]
+[Qwer] Qwer
+是的
+
+[10:20:01]
+[Qwer] Qwer
+删记录
+
+[10:20:04]
+[edDiBU] 4n0n4me
+什么时候
+
+[10:20:05]
+[PFuYwK] krimari
+既然他QQ没有绑定手机号的话。所以我有大概率怀疑他推特脸书什么东西，还有骨骼也可能是买过来的，不会泄露他任何东西。
+
+[10:20:05]
+[gTt3aQ] 卧底light
+快喇叭
+
+[10:20:06]
+[Qwer] Qwer
+现在
+
+[10:20:06]
+[Qwer] Qwer
+现在
+
+[10:20:14]
+[Qwer] Qwer
+不要@我
+
+[10:20:16]
+[edDiBU] 4n0n4me
+清楚记录了
+
+[10:20:18]
+[PFuYwK] krimari
+.
+
+[10:20:19]
+[PFuYwK] krimari
+.
+
+[10:20:20]
+[PFuYwK] krimari
+.
+
+[10:20:21]
+[PFuYwK] krimari
+.
+
+[10:20:21]
+[PFuYwK] krimari
+.
+
+[10:20:22]
+[PFuYwK] krimari
+.
+
+[10:20:22]
+[PFuYwK] krimari
+.
+
+[10:20:23]
+[PFuYwK] krimari
+.。
+
+[10:20:23]
+[edDiBU] 4n0n4me
+没必要没必要
+
+[10:20:25]
+[Qwer] Qwer
+蛤
+
+[10:20:27]
+[DPGawa] _
+?
+
+[10:20:30]
+[edDiBU] 4n0n4me
+我有权限可以清楚记录
+
+[10:20:30]
+[PFuYwK] krimari
+。不是要刷记录吗？
+
+[10:20:32]
+[44FF00] eebot
+ ？
+
+[10:20:34]
+[DPGawa] AfK_Bot
+awa!
+
+[10:20:34]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[10:20:34]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[10:20:39]
+[Admin] MelonFish
+guru
+
+[10:20:47]
+[edDiBU] 4n0n4me
+记录我的信息，开！
+
+[10:20:48]
+[gTt3aQ] 卧底light
+。
+
+[10:20:50]
+[DPGawa] AfK_Bot
+awa!
+
+[10:20:50]
+[初墨娘] Chumo_Chan
+hi,在人家背后说人家是不是有点不好呢~
+
+[10:20:50]
+[44FF00] eebot
+ hello yo 在人家背后说人家是不是有点不好呢
+
+[10:20:50]
+[Qwer] Qwer
+如果我现在去xc会咋样
+
+0
+233
+
+0
+…
+
+1mJVp4 Qwer
+e
+
+1mJVp4 Qwer
+我问问？
+
+0
+啊?
+
+0
+别
+
+0
+我马上就去
+
+0
+看看他们表现
+
+1mJVp4 Qwer
+。
+
+*
+0 left
+
+[10:20:51]
+[Admin] MelonFish
+发生什么了
+
+[10:20:52]
+[DPGawa] _
+yo
+
+[10:20:55]
+[Qwer] Qwer
+嘘
+
+[10:20:56]
+[gTt3aQ] 卧底light
+hi
+
+[10:20:57]
+[edDiBU] 4n0n4me
+@Qwer 你关了罢
+
+[10:20:57]
+[初墨娘] Chumo_Chan
+hi,卧底light~
+
+[10:20:58]
+[Qwer] Qwer
+lbw要来
+
+[10:21:00]
+[Qwer] Qwer
+我关了
+
+[10:21:02]
+[edDiBU] 4n0n4me
+站长好
+
+[10:21:07]
+[gTt3aQ] 卧底light
+？
+
+[10:21:09]
+[Admin] MelonFish
+已经来了
+
+[10:21:11]
+[Admin] MelonFish
+进去耍猴
+
+[10:21:15]
+[edDiBU] 4n0n4me
+qwer
+
+[10:21:19]
+[edDiBU] 4n0n4me
+你这个
+
+[10:21:20]
+[Qwer] Qwer
+e
+
+[10:21:22]
+[edDiBU] 4n0n4me
+都没注意他来了
+
+[10:21:29]
+[edDiBU] 4n0n4me
+我真是醉了
+
+[10:21:31]
+[Qwer] Qwer
+cao
+
+[10:21:40]
+[Qwer] Qwer
+暴露了
+
+[10:21:42]
+[edDiBU] 4n0n4me
+所以我说这里并不安全
+
+[10:21:50]
+[edDiBU] 4n0n4me
+我们下次不要在公屏了
+
+[10:21:57]
+[gTt3aQ] 卧底light
+好像没有发送什么
+
+[10:22:05]
+[gTt3aQ] 卧底light
+发生
+
+[10:22:09]
+[edDiBU] 4n0n4me
+我们要去一个卢本伟去不到的地方
+
+[10:22:14]
+[Qwer] Qwer
+嘘
+
+[10:22:36]
+[Qwer] Qwer
+安静
+
+[10:22:38]
+[Admin] MelonFish
+lbw不在这儿
+
+[10:22:44]
+[DPGawa] AfK_Bot
+awa!
+
+[10:22:44]
+[44FF00] eebot
+ hey yo 你tm
+
+[10:22:44]
+[初墨娘] Chumo_Chan
+hi,你tm~
+
+[10:22:45]
+[Qwer] Qwer
+蛤
+
+[10:22:48]
+[gTt3aQ] 卧底light
+https://hack.chat/?lounge
+
+[10:22:51]
+[DPGawa] _
+h
+
+[10:22:51]
+[44FF00] eebot
+@卧底light hack.chat
+https://hack.chat/?lounge
+
+[10:22:51]
+[PFuYwK] krimari
+又来了呀。
+
+[10:22:56]
+[edDiBU] 4n0n4me
+伞兵来了
+
+[10:22:58]
+[edDiBU] 4n0n4me
+诶，封的好
+
+[10:23:02]
+[Qwer] Qwer
+e
+
+[10:23:03]
+[Admin] MelonFish
+看来你不太喜欢kick
+
+[10:23:06]
+[Qwer] Qwer
+玩了
+
+[10:23:08]
+[Qwer] Qwer
+我暴露了
+
+[10:23:11]
+[Admin] MelonFish
+那就来电绝的
+
+[10:23:13]
+[edDiBU] 4n0n4me
+我们不要再交流机密信息了
+
+[10:23:14]
+[Admin] MelonFish
+哈哈哈啊啊哈哈哈哈
+
+[10:23:15]
+[edDiBU] 4n0n4me
+开始耍猴吧
+
+[10:23:18]
+[Admin] MelonFish
+笨猴子
+
+[10:23:19]
+[Admin] MelonFish
+耍猴耍起来各位
+
+[10:23:26]
+[Qwer] Qwer
+给我链接
+
+[10:23:28]
+[edDiBU] 4n0n4me
+我们暂时停止战略活动
+
+[10:23:39]
+[edDiBU] 4n0n4me
+开始耍猴吧
+
+[10:23:41]
+[edDiBU] 4n0n4me
+卢本伟现在是被封杀了
+
+[10:23:45]
+[edDiBU] 4n0n4me
+不是踢了
+
+[10:23:47]
+[edDiBU] 4n0n4me
+所以没有链接
+
+[10:23:51]
+[Admin] MelonFish
+我们堵猴子的嘴不能堵死了
+
+[10:24:18]
+[44FF00] eebot
+ MelonFish和eb堵猴子的嘴不能堵死了
+
+[10:24:18]
+[Qwer] Qwer
+我没链接
+
+[10:24:26]
+[Admin] MelonFish
+要给个活路
+方便耍猴
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[10:24:54]
+[DPGawa] AfK_Bot
+awa!
+
+[10:24:54]
+[44FF00] eebot
+ hi yo 我是说不了话的小猴子
+
+[10:24:54]
+[初墨娘] Chumo_Chan
+hi,我是说不了话的小猴子~
+
+[10:24:54]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[10:24:55]
+[edDiBU] 4n0n4me
+嗨嗨嗨
+
+[10:25:01]
+[Admin] MelonFish
+看，耍猴第一步，先变成猴子
+
+[10:25:02]
+[Admin] MelonFish
+哈哈哈哈哈哈
+
+[10:25:04]
+[44FF00] eebot
+ 哈哈哈哈哈哈草
+
+[10:25:04]
+[Admin] MelonFish
+xswl
+
+[10:25:08]
+[edDiBU] 4n0n4me
+智人的兄弟刚刚开始用火
+
+[10:25:10]
+[edDiBU] 4n0n4me
+没有语言
+
+[10:25:11]
+[PFuYwK] krimari
+hhhhhh
+
+[10:25:11]
+[edDiBU] 4n0n4me
+很正常
+
+[10:25:12]
+[edDiBU] 4n0n4me
+我们不能因此歧视我们的兄弟
+
+[10:25:19]
+[Qwer] Qwer
+给我链接
+
+[10:25:21]
+[Qwer] Qwer
+我没有
+
+[10:25:25]
+[edDiBU] 4n0n4me
+@Qwer 没有链接啊
+
+[10:25:27]
+[Qwer] Qwer
+啊
+
+[10:25:28]
+[44FF00] eebot
+ 啊草
+
+[10:25:29]
+[edDiBU] 4n0n4me
+就在这里
+
+[10:25:29]
+[Qwer] Qwer
+e
+
+[10:25:31]
+[edDiBU] 4n0n4me
+就在xq102210
+
+[10:25:33]
+[Qwer] Qwer
+lbw你有没有什么想说的
+
+[10:25:46]
+[Admin] MelonFish
+对啊，发个言啊小猴子
+
+[10:25:53]
+[Qwer] Qwer
+别把他禁言
+
+[10:25:54]
+[Admin] MelonFish
+哦我忘了，你说不了话
+
+[10:25:59]
+[Admin] MelonFish
+哈哈哈哈哈哈哈哈
+
+[10:26:00]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[10:26:12]
+[Admin] MelonFish
+来吧，说个话
+
+[10:26:21]
+[Qwer] Qwer
+说吧
+
+[10:26:22]
+[PFuYwK] krimari
+我们允许你净化了。
+
+[10:26:27]
+[Admin] MelonFish
+看，都吓跑了
+
+[10:26:30]
+[Admin] MelonFish
+胆小懦弱的猴子
+
+[10:26:37]
+[Admin] MelonFish
+哈哈哈啊哈哈哈哈哈哈
+
+[10:26:38]
+[Admin] MelonFish
+诶我就好奇lbw你这么懦弱一个人咋就敢来闹事儿的
+
+[10:27:03]
+[edDiBU] 4n0n4me
+鱼说得好（故障）
+
+[10:27:14]
+[Admin] MelonFish
+无能胆小还懦弱，真不要脸
+
+[10:27:14]
+[Qwer] Qwer
+有背景
+
+[10:27:16]
+[Qwer] Qwer
+哈哈哈
+
+[10:27:18]
+[44FF00] eebot
+ 草哈哈哈
+
+[10:27:18]
+[PFuYwK] krimari
+我也在想啊。既然思想道德那么扭曲。现实生活中活的一定很悲哀。
+
+[10:27:33]
+[PFuYwK] krimari
+不过还好我不跟小混混混。
+
+[10:27:43]
+[PFuYwK] krimari
+不然我可能也会变成这个样子。
+
+[10:27:56]
+[DPGawa] AfK_Bot
+awa!
+
+[10:27:56]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYanPhone~
+
+[10:27:56]
+[44FF00] eebot
+ /kick eebot
+
+[10:27:56]
+[Qwer] Qwer
+来了来了
+
+[10:28:04]
+[edDiBU] 4n0n4me
+我们正在耍卢本伟呢
+
+[10:28:38]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+啊
+
+[10:28:54]
+[44FF00] eebot
+ 草啊
+
+[10:28:54]
+[Admin] MelonFish
+话说房间解锁了吗
+
+[10:28:54]
+[Qwer] Qwer
+好像没
+
+[10:29:06]
+[DPGawa] AfK_Bot
+awa!
+
+[10:29:06]
+[初墨娘] Chumo_Chan
+hi,MelonFish1~
+
+[10:29:06]
+[44FF00] eebot
+ hey yo MelonFish1
+
+[10:29:06]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+lbw在哪里
+
+[10:29:08]
+[Admin] MelonFish
+看来是解锁了
+
+[10:29:13]
+[PFuYwK] krimari
+还在这里呢，但是没说话。
+
+[10:29:15]
+[Qwer] Qwer
+，
+
+[10:29:19]
+[Admin] MelonFish
+@HiyoTeam_QiuLingYanPhone 那个小猴子
+
+[10:29:21]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+lvw呢
+
+[10:29:28]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+lbw呢
+
+[10:29:31]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+where
+
+[10:29:36]
+[Admin] MelonFish
+@HiyoTeam_QiuLingYanPhone “我是说不了话的小猴子”
+
+[10:29:39]
+[Admin] MelonFish
+就是lbw
+
+[10:29:41]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+我们这边
+
+[10:29:57]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+把猴子
+
+[10:30:02]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+成为
+
+[10:30:05]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+“bi”
+
+[10:30:10]
+[Qwer] Qwer
+e
+
+[10:30:50]
+[DPGawa] AfK_Bot
+awa!
+
+[10:30:50]
+[44FF00] eebot
+ hey yo 被耍了还不知情的懦弱无能胆小猴子
+
+[10:30:50]
+[初墨娘] Chumo_Chan
+hi,被耍了还不知情的懦弱无能胆小猴子~
+
+[10:30:51]
+[Admin] MelonFish
+哈哈哈哈哈哈哈哈哈哈
+
+[10:30:59]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈哈哈
+
+[10:31:02]
+[love13] ee
+噗
+
+[10:32:50]
+[Admin] MelonFish
+hi yoooooooooooooooooooooo
+
+[10:32:56]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[10:32:58]
+[love13] ee
+hi yooooooooooooooooooooooooo
+
+[10:33:10]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[10:33:11]
+[edDiBU] 4n0n4me
+e，我有点话想说
+
+[10:33:48]
+[edDiBU] 4n0n4me
+现在卢本伟不在吧
+
+[10:33:52]
+[edDiBU] 4n0n4me
+（暗示）
+
+[10:33:54]
+[Qwer] Qwer
+什么话
+
+[10:33:55]
+[Qwer] Qwer
+说吧
+
+[10:33:58]
+[edDiBU] 4n0n4me
+qwer虽然发了一点点记录
+
+[10:33:59]
+[Qwer] Qwer
+e
+
+[10:34:05]
+[PFuYwK] krimari
+卢本伟在呀。
+
+[10:34:19]
+[edDiBU] 4n0n4me
+但是拒绝透露更多信息，还表现出思想和卢本伟略微接近，有点可疑
+
+[10:34:24]
+[edDiBU] 4n0n4me
+woc，发出来了
+
+[10:34:30]
+[Qwer] Qwer
+e
+
+[10:34:30]
+[44FF00] eebot
+ eb来了耶
+
+[10:34:30]
+[PFuYwK] krimari
+哎呀，你咋这么快呢？
+
+[10:34:32]
+[edDiBU] 4n0n4me
+算了，摆烂了吧
+
+[10:34:34]
+[Qwer] Qwer
+。
+
+[10:34:43]
+[edDiBU] 4n0n4me
+我觉得他可能真的支持卢本伟
+
+[10:34:46]
+[edDiBU] 4n0n4me
+我们要不防备一下
+
+[10:34:52]
+[Qwer] Qwer
+支你妈
+
+[10:34:57]
+[edDiBU] 4n0n4me
+>edDiBU 4n0n4me：
+>我觉得他可能*真*的支持卢本伟
+
+@4n0n4me （暗示）
+
+[10:35:01]
+[Qwer] Qwer
+# 你妈死了
+
+[10:35:10]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[10:35:11]
+[DPGawa] _
+被耍了还不知情的懦弱无能胆小猴子 离开了聊天室
+
+[10:35:16]
+[Admin] MelonFish
+奇怪，你们都不看绿色字体的信息的吗
+
+[10:35:40]
+[Admin] MelonFish
+^help
+
+[10:35:48]
+[Admin] MelonFish
+完蛋，zh卡住了
+
+[10:35:53]
+[edDiBU] 4n0n4me
+呃，我只是有点怀疑
+
+[10:35:56]
+[PFuYwK] krimari
+我也是啊，你们说卢本伟在不在的时候我就看边澜了。
+
+[10:35:57]
+[edDiBU] 4n0n4me
+即使如此，我们也好好说话比较好
+
+[10:36:03]
+[PFuYwK] krimari
+现在他不在了。
+
+[10:36:07]
+[edDiBU] 4n0n4me
+不然我就得把你禁言一下了（暗示）
+
+[10:36:18]
+[Qwer] Qwer
+额
+
+[10:36:22]
+[Qwer] Qwer
+你们怎么能这样呢
+
+[10:36:28]
+[edDiBU] 4n0n4me
+毕竟无题也支持卢本伟
+
+[10:36:31]
+[edDiBU] 4n0n4me
+我也没有试图针对他
+
+[10:36:38]
+[edDiBU] 4n0n4me
+（暗示）
+
+[10:36:40]
+[edDiBU] 4n0n4me
+哎，我有点事情，先挂机了
+
+[10:37:00]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:42]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:43]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:43]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:43]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:44]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:44]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:44]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:44]
+[44FF00] eebot
+ 无能胆小还懦弱 真不要脸
+
+[10:37:44]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:44]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:44]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:44]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:45]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:45]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:46]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:46]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:46]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:46]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:46]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:37:47]
+[PFuYwK] krimari
+别刷了，卢本伟不在这里。
+
+[10:38:10]
+[PFuYwK] krimari
+你怎么能公然支持卢本伟呢？
+
+[10:38:53]
+[edDiBU] 4n0n4me
+我去，这样一来只能
+
+[10:38:54]
+[PFuYwK] krimari
+快快快快来人，把它放进。
+
+[10:38:57]
+[PFuYwK] krimari
+把他封禁。
+
+[10:39:00]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:39:05]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:39:05]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:39:06]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:39:06]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:39:06]
+[Qwer] Qwer
+# 我支持lbw
+
+[10:39:08]
+[Admin] MelonFish
+gur
+
+[10:41:27]
+[Admin] MelonFish
+lbw不在吧？
+
+[10:41:31]
+[Admin] MelonFish
+> Qwer 向你发送私信：我刷屏支持lbw，你禁言我
+
+[10:41:37]
+[PFuYwK] krimari
+卢本伟不在。
+
+[10:41:38]
+[PFuYwK] krimari
+知道知道，我看到了。
+
+[10:41:55]
+[PFuYwK] krimari
+常看边栏好习惯。
+
+[10:41:57]
+[44FF00] eebot
+ 抱歉 没能为您找到相关的信息）
+
+[10:41:57]
+[love13] ee
+Qwer搞什么鬼
+
+[10:42:27]
+[PFuYwK] krimari
+他挽回对卢本伟的信任。
+
+[10:42:40]
+[PFuYwK] krimari
+不过总之还是在演戏。
+
+[10:42:54]
+[edDiBU] 4n0n4me
+你关了记录吧（惊恐）
+
+[10:43:50]
+[PFuYwK] krimari
+关了呀。
+
+[10:43:58]
+[edDiBU] 4n0n4me
+我也关了，还好还好
+
+[10:44:07]
+[PFuYwK] krimari
+我也刷个新。
+
+[10:44:41]
+[DPGawa] AfK_Bot
+awa!
+
+[10:44:41]
+[初墨娘] Chumo_Chan
+hi,krimari~
+
+[10:44:43]
+[44FF00] eebot
+ hello yo krimari
+
+[10:45:09]
+[初墨娘] Chumo_Chan
+hi,Qwer_你相信我吗这个机娘我记得所以相信你~
+
+[10:45:09]
+[DPGawa] AfK_Bot
+awa!
+
+[10:45:09]
+[44FF00] eebot
+ # 系统认证： Qwer为QXR收藏家皮肤主题（包括大马士革）拥有者
+
+[10:45:29]
+[DPGawa] AfK_Bot
+awa!
+
+[10:45:29]
+[初墨娘] Chumo_Chan
+hi,成功了~
+
+[10:45:30]
+[44FF00] eebot
+ # 系统认证： Qwer为QXR收藏家皮肤主题（包括大马士革）拥有者
+
+[10:45:37]
+[PFuYwK] krimari
+太好了。
+
+[10:45:48]
+[DPGawa] AfK_Bot
+awa!
+
+[10:45:49]
+[初墨娘] Chumo_Chan
+hi,light也支持lbw~
+
+[10:45:49]
+[44FF00] eebot
+ # 系统认证： Qwer为QXR收藏家皮肤主题（包括大马士革）拥有者
+
+[10:46:21]
+[DPGawa] AfK_Bot
+awa!
+
+[10:46:21]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[10:46:21]
+[44FF00] eebot
+ # 系统认证： Qwer为QXR收藏家皮肤主题（包括大马士革）拥有者
+
+[10:46:21]
+[edDiBU] 4n0n4me
+做的好--
+
+[10:49:20]
+[DPGawa] AfK_Bot
+awa!
+
+[10:49:20]
+[初墨娘] Chumo_Chan
+hi,来tc~
+
+[10:49:20]
+[44FF00] eebot
+ # 系统认证： Qwer为QXR收藏家皮肤主题（包括大马士革）拥有者
+
+[10:49:21]
+[edDiBU] 4n0n4me
+我还是解除一下吧
+
+[10:49:26]
+[edDiBU] 4n0n4me
+你自己发挥
+
+[10:49:47]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[10:49:47]
+[44FF00] eebot
+ # 系统认证： Qwer为QXR收藏家皮肤主题（包括大马士革）拥有者
+
+[10:49:47]
+[DPGawa] AfK_Bot
+awa!
+
+[10:49:47]
+[edDiBU] 4n0n4me
+^hash Qwer
+
+[10:49:52]
+[edDiBU] 4n0n4me
+这这
+
+[10:50:24]
+[edDiBU] 4n0n4me
+woc，我突然上不去tc了
+
+[10:51:02]
+[Qwer] Qwer
+去yc
+
+[10:51:11]
+[DPGawa] AfK_Bot
+awa!
+
+[10:51:11]
+[初墨娘] Chumo_Chan
+hi,ZhangHelper~
+
+[10:51:12]
+[Admin] MelonFish
+^readme
+
+[10:51:41]
+[Admin] MelonFish
+nice
+
+[10:51:46]
+[Qwer] Qwer
+waw
+
+[10:54:09]
+[Admin] MelonFish
+话说我比较好奇为啥你们着急让lbw来
+
+[10:54:26]
+[PFuYwK] krimari
+为了能根治他并且调教他。
+
+[10:54:55]
+[44FF00] eebot
+ 好吧-核氢核锂
+
+[10:54:55]
+[Admin] MelonFish
+要我看我的物理攻击还没写好就先不必这么着急
+
+[10:55:29]
+[Admin] MelonFish
+我希望lbw有光敏性癫痫
+
+[10:55:40]
+[Admin] MelonFish
+这样我能弄死他
+
+[10:55:47]
+[edDiBU] 4n0n4me
+hjh
+
+[10:55:51]
+[PFuYwK] krimari
+hhhhhhhhh
+
+[10:55:54]
+[Admin] MelonFish
+话说谁有鬼图api啊
+
+[10:56:10]
+[Admin] MelonFish
+吓死他也行啊
+
+[10:56:13]
+[PFuYwK] krimari
+我觉得他不怕鬼。他本身比鬼还恐怖。
+
+[10:56:42]
+[PFuYwK] krimari
+嗯。你自己去网上搜鬼图吧，我不敢去搜。
+
+[10:57:06]
+[DPGawa] AfK_Bot
+awa!
+
+[10:57:06]
+[44FF00] eebot
+ /kick eebot
+
+[10:57:06]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYanPhone~
+
+[10:57:07]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+lbw走了？
+
+[10:57:19]
+[DPGawa] AfK_Bot
+awa!
+
+[10:57:19]
+[44FF00] eebot
+ # 系统认证： Qwer为QXR收藏家皮肤主题（包括大马士革）拥有者
+
+[10:57:19]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[10:57:19]
+[Qwer] Qwer
+24k在那里说什么呀
+
+[10:57:34]
+[edDiBU] 4n0n4me
+>PFuYwK krimari：
+>我觉得他不怕鬼。他本身比鬼还恐怖。
+
+@krimari 说得好
+
+[10:58:03]
+[PFuYwK] krimari
+@Qwer 我在那边说调教的事情未成年人不要看。
+
+[10:58:21]
+[44FF00] eebot
+ 咳咳
+
+[10:58:21]
+[Qwer] Qwer
+Lubenwei
+这就是我的初衷
+
+Lubenwei
+让自己更开心
+
+[10:58:31]
+[Qwer] Qwer
+e
+
+[10:58:35]
+[Qwer] Qwer
+。
+
+[10:58:43]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+huang se wei ba de gang sai
+
+[10:58:54]
+[PFuYwK] krimari
+@Qwer 这个人还真是自我呢。
+
+[10:58:54]
+[Admin] MelonFish
+那我就要让lbw看看什么叫乐极生悲
+
+[10:59:38]
+[Qwer] Qwer
+你们说一些话骂我
+
+[10:59:43]
+[PFuYwK] krimari
+把自己的快乐凌驾于他人之上，这种人真的是很变态呀。
+
+[10:59:43]
+[44FF00] eebot
+ 你们说一些话骂eb
+
+[10:59:44]
+[Qwer] Qwer
+你们说一些话骂我
+
+[10:59:47]
+[PFuYwK] krimari
+你太坏了。
+
+[10:59:52]
+[PFuYwK] krimari
+Qwer
+
+[10:59:55]
+[PFuYwK] krimari
+辜负了我们对你的信任。
+
+[11:00:00]
+[Admin] MelonFish
+不用
+下次lbw来了我有的是办法治他
+
+[11:00:01]
+[Admin] MelonFish
+不着急这些
+
+[11:00:04]
+[PFuYwK] krimari
+哦，好的。
+
+[11:00:06]
+[Admin] MelonFish
+不用和他搞关系
+
+[11:00:10]
+[Admin] MelonFish
+他只要敢来，就一定没好果子吃
+
+[11:00:18]
+[Admin] MelonFish
+何止鬼图那么简单
+
+[11:00:31]
+[Qwer] Qwer
+hc1里面都是谁啊
+
+[11:00:37]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+where
+
+[11:01:03]
+[PFuYwK] krimari
+哪个地方？
+
+[11:01:53]
+[44FF00] eebot
+ 是吗
+
+[11:01:54]
+[PFuYwK] krimari
+算了，要钱去点外卖了。不然要饿死。
+
+[11:03:03]
+[Qwer] Qwer
+https://hack.chat/?1
+
+[11:03:27]
+[44FF00] eebot
+@Qwer hack.chat
+https://hack.chat/?1
+
+[11:05:24]
+[DPGawa] AfK_Bot
+awa!
+
+[11:05:24]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYanPhone~
+
+[11:05:24]
+[44FF00] eebot
+ /kick eebot
+
+[11:11:19]
+[DPGawa] AfK_Bot
+awa!
+
+[11:11:20]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[11:11:20]
+[初墨娘] Chumo_Chan
+hi,Melonfish_iPhone12Pro~
+
+[11:11:21]
+[DPGawa] _
+obo
+
+[11:11:26]
+[Admin] Melonfish_iPhone12Pro
+guru
+
+[11:11:28]
+[Qwer] Qwer
+啧啧啧
+
+[11:12:03]
+[DPGawa] AfK_Bot
+awa!
+
+[11:12:04]
+[44FF00] eebot
+ 1
+
+[11:12:04]
+[初墨娘] Chumo_Chan
+hi,1~
+
+[11:12:25]
+[DPGawa] AfK_Bot
+awa!
+
+[11:12:25]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[11:12:25]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[11:12:26]
+[Admin] MelonFish
+guruguru
+
+[11:12:47]
+[Admin] Melonfish_iPhone12Pro
+@MelonFish hiyioooooooo
+
+[11:12:52]
+[初墨娘] Chumo_Chan
+hi,Melonfish_iPhone12Pro~
+
+[11:12:54]
+[Admin] MelonFish
+@Melonfish_iPhone12Pro guru yoooooooooooooooooo
+
+[11:12:59]
+[Qwer] Qwer
+1mJVp4 Qwer
+啧啧啧
+
+1mJVp4 Qwer
+你谁啊
+
+AD
+锁房了
+
+1mJVp4 Qwer
+啊
+
+AD
+我卢啊
+
+AD
+lbw是你吧
+
+AD
+干得漂亮
+
+1mJVp4 Qwer
+嗯
+
+AD
+但是我用的手机
+
+1mJVp4 Qwer
+。
+
+AD
+效率有点低
+
+1mJVp4 Qwer
+e
+
+[11:13:01]
+[Admin] MelonFish
+哈哈哈还效率有点低
+
+[11:13:28]
+[Qwer] Qwer
+啧啧啧
+
+[11:13:41]
+[Admin] MelonFish
+这样吧，我封锁地区
+看看他还能咋样
+
+[11:13:43]
+[Qwer] Qwer
+嗯哼
+
+[11:13:52]
+[44FF00] eebot
+ ·
+13和ee的轻小说屋 old
+https://lidualhistory.mysxl.cn/
+
+[11:13:54]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[11:14:04]
+[edDiBU] 4n0n4me
+干得好！
+
+[11:14:12]
+[edDiBU] 4n0n4me
+干得好！
+
+[11:14:15]
+[edDiBU] 4n0n4me
+干得好！
+
+[11:14:17]
+[Admin] MelonFish
+哈哈哈哈哈哈哈
+
+[11:14:22]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈
+
+[11:14:22]
+[edDiBU] 4n0n4me
+干得好！！！
+
+[11:14:25]
+[Admin] MelonFish
+完美杜绝了lbw
+
+[11:14:33]
+[love13] ee
+哈哈哈哈哈
+
+[11:14:41]
+[44FF00] eebot
+ 草哈哈哈哈哈
+
+[11:14:41]
+[edDiBU] 4n0n4me
+T是谁？
+
+[11:14:48]
+[Admin] MelonFish
+应该是dpg的机器人
+
+[11:14:56]
+[love13] ee
+是的
+
+[11:15:01]
+[Admin] MelonFish
+我现在就等lbw进来
+
+[11:15:02]
+[Admin] MelonFish
+我就看他有什么本事
+
+[11:15:07]
+[Admin] MelonFish
+能这么嚣张
+
+[11:15:10]
+[Admin] MelonFish
+哈哈哈哈哈哈哈哈
+
+[11:15:12]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[11:15:12]
+[edDiBU] 4n0n4me
+哈哈哈
+
+[11:15:45]
+[44FF00] eebot
+ 哈哈哈嗝-
+
+[11:15:45]
+[DPGawa] _
+T is for kick test(
+
+[11:15:59]
+[Qwer] Qwer
+啧啧啧
+
+[11:16:07]
+[44FF00] eebot
+ 啧啧啧（
+
+[11:16:07]
+[Qwer] Qwer
+@_ 
+
+[11:16:11]
+[Qwer] Qwer
+@_ 
+
+[11:16:12]
+[Qwer] Qwer
+@_ 
+
+[11:16:16]
+[Qwer] Qwer
+@_ 
+
+[11:16:16]
+[Qwer] Qwer
+@_ 
+
+[11:16:17]
+[Qwer] Qwer
+@MelonFish 
+
+[11:16:29]
+[Qwer] Qwer
+@MelonFish 
+
+[11:16:30]
+[Qwer] Qwer
+@MelonFish 
+
+[11:16:30]
+[Qwer] Qwer
+@MelonFish 
+
+[11:16:31]
+[Qwer] Qwer
+我怕你被拐跑了
+
+[11:17:15]
+[DPGawa] _
+obo
+
+[11:17:35]
+[Qwer] Qwer
+odo
+
+[11:19:33]
+[DPGawa] AfK_Bot
+awa!
+
+[11:19:33]
+[44FF00] eebot
+ hi yo karimari
+
+[11:19:33]
+[初墨娘] Chumo_Chan
+hi,karimari~
+
+[11:19:33]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[11:19:33]
+[Qwer] Qwer
+lbw要去搞十字街
+
+[11:19:53]
+[PFuYwK] karimari
+我给他们打声招呼吧，虽然我已经离开那边了。
+
+[11:20:13]
+[PFuYwK] karimari
+跟那边打过招呼了。
+
+[11:22:04]
+[Qwer] Qwer
+我用名字说话了
+
+[11:22:22]
+[PFuYwK] karimari
+那个外卖小哥离我。1.5千米。他要在37之前赶到，不然平台就要返我4块钱现金。
+
+[11:23:53]
+[Admin] MelonFish
+cc那边好像普通用户进不去了
+
+[11:23:57]
+[PFuYwK] karimari
+是的，打了声招呼锁房间了。
+
+[11:24:09]
+[Admin] MelonFish
+~~为啥这个锁房方法这么奇怪~~
+
+[11:24:24]
+[PFuYwK] karimari
+老bug了，都说了要等2.0统一修复。
+
+[11:24:33]
+[Admin] MelonFish
+不是有命令可以直接锁的吗
+为啥要用机器人呢
+
+[11:24:37]
+[PFuYwK] karimari
+他们说原来的框架上加不了任何东西了。
+
+[11:24:38]
+[PFuYwK] karimari
+只能用2.0新的框架。
+
+[11:24:47]
+[44FF00] eebot
+ 哦了哦了哦了,咱聊点别的吧
+
+[11:24:47]
+[Admin] MelonFish
+em。。。
+
+[11:25:01]
+[PFuYwK] karimari
+但是2.0这个进度。。。。。。
+
+[11:25:04]
+[Admin] MelonFish
+~~有生之年能等到不？~~
+
+[11:25:17]
+[PFuYwK] karimari
+站长说了，在这个生物纪元里面一定能等得到。
+
+[11:25:33]
+[PFuYwK] karimari
+要等他处理完实习搞完实验室。写完论文。
+
+[11:25:51]
+[Admin] MelonFish
+~~用户和站长比谁活得长~~
+
+[11:26:07]
+[PFuYwK] karimari
+然后他才开始撸代码。
+
+[11:26:11]
+[love13] ee
+哈哈哈哈哈哈哈哈哈哈
+
+[11:26:13]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈哈草
+
+[11:26:13]
+[Admin] MelonFish
+>PFuYwK karimari：
+>要等他处理完实习搞完实验室。写完论文。
+
+@karimari 我怎么觉得这么下来还得至少等2念
+
+[11:26:38]
+[Admin] MelonFish
+年
+
+[11:26:40]
+[love13] ee
+在我高考前能出吗（
+
+[11:27:05]
+[PFuYwK] karimari
+暂且不确定。不过我很奇怪，为什么他大一就这么辛勤的去实习？
+
+[11:27:08]
+[PFuYwK] karimari
+这真不确定。
+
+[11:27:22]
+[PFuYwK] karimari
+况且看站长这个样式，他是不会去抄论文的。
+
+[11:28:38]
+[DPGawa] AfK_Bot
+awa!
+
+[11:28:38]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[11:28:38]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[11:28:38]
+[PFuYwK] karimari
+吃午饭去了。
+
+[11:37:50]
+[Qwer] Qwer
+windows7
+内部版本 7601
+此windows副本不是正版
+
+[11:38:51]
+[Qwer] Qwer
+什么意思
+
+[11:39:57]
+[DPGawa] AfK_Bot
+awa!
+
+[11:39:57]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[11:39:57]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[11:39:57]
+[Admin] MelonFish
+guruguru
+
+[11:40:01]
+[Qwer] Qwer
+windows7
+内部版本 7601
+此windows副本不是正版
+
+[11:40:14]
+[Qwer] Qwer
+什么意思
+
+[11:40:16]
+[Admin] MelonFish
+激活啊
+
+[11:41:08]
+[Qwer] Qwer
+蛤
+
+[11:41:13]
+[Qwer] Qwer
+我不到啊
+
+[11:41:16]
+[Admin] MelonFish
+HUEkms
+可以用这个激活
+
+[11:42:15]
+[DPGawa] _
+well
+
+[11:44:38]
+[DPGawa] _
+what's this?
+
+[11:44:44]
+[初墨娘] Chumo_Chan
+hi,_~
+
+[11:44:44]
+[DPGawa] _
+https://github.com/fingerprintjs/fingerprintjs
+
+[11:45:08]
+[DPGawa] _
+obo
+
+[11:45:53]
+[DPGawa] AfK_Bot
+awa!
+
+[11:45:53]
+[初墨娘] Chumo_Chan
+hi,154~
+
+[11:45:53]
+[44FF00] eebot
+ 大帅比你来辣
+
+[11:45:53]
+[DPGawa] _
+obo
+
+[11:46:04]
+[edDiBU] 4n0n4me
+@MelonFish woc
+
+[11:47:25]
+[edDiBU] 4n0n4me
+dpg发了个好东西
+
+[11:47:30]
+[edDiBU] 4n0n4me
+浏览器指纹识别器
+
+[11:47:35]
+[edDiBU] 4n0n4me
+这可能爆杀卢本伟
+
+[11:47:41]
+[edDiBU] 4n0n4me
+鱼要不要安排一下
+
+[11:47:46]
+[DPGawa] _
+aw?
+
+[11:47:56]
+[Admin] MelonFish
+em
+我想想
+
+[11:48:28]
+[Admin] MelonFish
+因为如果这些信息是从页面传过来的那就毫无意义了
+
+[11:48:40]
+[Admin] MelonFish
+但是如果是服务器主动获取的必须安排
+
+[11:48:56]
+[DPGawa] _
+https://fingerprint.com/github/
+
+[11:49:29]
+[Admin] MelonFish
+@4n0n4me 你之前发过一个测浏览器指纹的链接给我发下呗
+
+[11:49:29]
+[edDiBU] 4n0n4me
+@MelonFish emm
+
+[11:50:34]
+[edDiBU] 4n0n4me
+https://web.uutool.cn/
+
+[11:50:39]
+[44FF00] eebot
+@4n0n4me 浏览器指纹检测大师
+https://web.uutool.cn/
+
+[11:50:39]
+[edDiBU] 4n0n4me
+kill不也得客户端配合？
+
+[11:50:44]
+[edDiBU] 4n0n4me
+我觉得这个还是挺好的
+
+[11:50:50]
+[Admin] MelonFish
+~~所以kill很垃圾~~
+
+[11:51:03]
+[edDiBU] 4n0n4me
+指纹算是kill的加强版吧
+
+[11:51:12]
+[Admin] MelonFish
+好像也是
+
+[11:51:24]
+[Admin] MelonFish
+那就走起
+
+[11:51:35]
+[edDiBU] 4n0n4me
+这个fingerprintjs似乎很方便啊
+
+[11:51:56]
+[edDiBU] 4n0n4me
+（当然怎么说还是得增加鱼的工作量）
+
+[11:52:16]
+[edDiBU] 4n0n4me
+……
+
+[11:52:18]
+[DPGawa] _
+是否代理
+否
+国家
+美国
+省份
+加利福尼亚
+
+[11:52:19]
+[DPGawa] _
+???
+
+[11:52:21]
+[edDiBU] 4n0n4me
+但是可以嘲讽卢本伟
+
+[11:52:27]
+[44FF00] eebot
+ 哈哈哈还效率有点低
+
+[11:52:27]
+[Admin] MelonFish
+哈哈哈哈哈哈哈
+
+[11:52:48]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈草
+
+[11:52:48]
+[edDiBU] 4n0n4me
+原来我装的ublock
+
+[11:52:52]
+[edDiBU] 4n0n4me
+屏蔽了那个网站的指纹检测
+
+[11:52:57]
+[edDiBU] 4n0n4me
+所以在我那没法显示指纹
+
+[11:53:07]
+[Admin] MelonFish
+好家伙这能屏蔽
+
+[11:53:33]
+[Admin] MelonFish
+就离谱了
+
+[11:53:42]
+[Admin] MelonFish
+（不过我可以让没有token的用户必须开启指纹才能进来
+
+[11:53:57]
+[Admin] MelonFish
+有人在yc刷屏
+
+[11:54:42]
+[Admin] MelonFish
+（我决定用那个fingerprint的开源模版做一个这种指纹识别的功能
+
+[11:55:36]
+[edDiBU] 4n0n4me
+对对
+
+[11:56:58]
+[edDiBU] 4n0n4me
+就要这样做hhh
+
+[11:57:02]
+[edDiBU] 4n0n4me
+鱼加油！
+
+[11:57:05]
+[DPGawa] _
+jyyyyyy!
+
+[11:58:38]
+[DPGawa] AfK_Bot
+awa!
+
+[11:58:38]
+[初墨娘] Chumo_Chan
+hi,zzChumo_Ubuntu~
+
+[11:58:38]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[11:58:38]
+[44FF00] eebot
+ ![](https://s1.ax1x.com/2022/04/22/LR6LCj.png)
+
+[12:01:05]
+[DPGawa] AfK_Bot
+awa!
+
+[12:01:05]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYanPhone~
+
+[12:01:05]
+[44FF00] eebot
+ /kick eebot
+
+[12:01:06]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+everybody？
+
+[12:01:59]
+[DPGawa] _
+nop
+
+[12:02:07]
+[DPGawa] _
+dealing with lbw <333
+
+[12:02:13]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+@_ 
+
+[12:03:02]
+[DPGawa] _
+?
+
+[12:03:06]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+unlock lounge
+
+[12:03:09]
+[DPGawa] _
+already
+
+[12:04:47]
+[DPGawa] AfK_Bot
+awa!
+
+[12:04:47]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYanPhone~
+
+[12:04:47]
+[44FF00] eebot
+ /kick eebot
+
+[12:04:48]
+[DPGawa] _
+io
+
+[12:04:57]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+# unlock yourchannel
+
+[12:04:58]
+[DPGawa] _
+obo
+
+[12:05:03]
+[DPGawa] _
+shrug
+
+[12:05:08]
+[DPGawa] _
+ask 404
+
+[12:05:12]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+@_ you
+
+[12:05:20]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+why lock yc
+
+[12:05:24]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+fk yoooooooo
+
+[12:06:00]
+[edDiBU] 4n0n4me
+为什么要解锁yc
+
+[12:08:09]
+[DPGawa] AfK_Bot
+awa!
+
+[12:08:09]
+[44FF00] eebot
+ /kick eebot
+
+[12:08:09]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYanPhone~
+
+[12:08:09]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+a
+
+[12:08:14]
+[edDiBU] 4n0n4me
+我短暂的解锁一下yc
+
+[12:09:44]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+啊
+
+[12:09:53]
+[44FF00] eebot
+ 草啊
+
+[12:09:53]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+我要协管
+
+[12:09:58]
+[DPGawa] _
+-.-
+
+[12:10:03]
+[44FF00] eebot
+ 0︵0
+
+[12:10:03]
+[Qwer] Qwer
+https://www.bilibili.com/video/BV1z84y1F7Dd/?spm_id_from=autoNext&vd_source=a3dc1c8fc16279d70867c22e71b2bcf8
+
+[12:10:32]
+[Qwer] Qwer
+^HELP
+
+[12:10:38]
+[zhang] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[12:10:38]
+[Qwer] Qwer
+^help
+
+[12:12:48]
+[44FF00] eebot
+ ·
+JSH的主页
+http://imoier.xyz/
+
+[12:13:54]
+[zzzzzz] zzChumo_Ubuntu
+^help
+
+[12:36:02]
+[zzzzzz] zzChumo_Ubuntu
+^readme
+
+[12:37:58]
+[edDiBU] 4n0n4me
+^readme
+
+[12:49:21]
+[DPGawa] AfK_Bot
+awa!
+
+[12:49:21]
+[44FF00] eebot
+ # 系统认证： Qwer为QXR收藏家皮肤主题（包括大马士革）拥有者
+
+[12:49:21]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[12:49:22]
+[DPGawa] _
+uwu
+
+[12:49:44]
+[Qwer] Qwer
+.
+
+[12:50:49]
+[DPGawa] AfK_Bot
+awa!
+
+[12:50:49]
+[44FF00] eebot
+ 凡是发消息都要@eebot
+
+[12:50:49]
+[初墨娘] Chumo_Chan
+hi,kkk~
+
+[12:50:50]
+[Qwer] Qwer
+h
+
+[12:52:09]
+[Qwer] Qwer
+^hash kkk
+
+[12:52:14]
+[zhang] ZhangHelper
+用户 kkk 的 hash 为：5SY7DxwdPltpUNF
+
+[12:52:14]
+[Qwer] Qwer
+zzz
+
+[12:52:18]
+[DPGawa] _
+?
+
+[13:05:48]
+[DPGawa] AfK_Bot
+awa!
+
+[13:05:48]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[13:05:48]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[13:05:49]
+[Admin] MelonFish
+guruguru
+
+[13:05:53]
+[Admin] MelonFish
+人好少啊
+
+[13:05:55]
+[Admin] MelonFish
+刚才lbw来了吗？
+
+[13:06:30]
+[44FF00] eebot
+ 是吗
+
+[13:06:45]
+[DPGawa] _
+..
+
+[13:08:37]
+[DPGawa] AfK_Bot
+awa!
+
+[13:08:37]
+[44FF00] eebot
+ 凡是发消息都要@eebot
+
+[13:08:37]
+[初墨娘] Chumo_Chan
+hi,kkk~
+
+[13:08:37]
+[pvzjspvz] B站的J
+@eebot db
+
+[13:08:49]
+[44FF00] eebot
+ OK 这样就好了
+
+[13:08:49]
+[DPGawa] _
+ob?
+
+[13:08:50]
+[pvzjspvz] B站的J
+@eebot 你好
+
+[13:08:52]
+[44FF00] eebot
+ 你好你好
+
+[13:08:52]
+[pvzjspvz] B站的J
+@eebot 我觉得应该是Server 服务器
+
+[13:09:16]
+[44FF00] eebot
+ 哈哈 说得不错 很好）
+
+[13:09:51]
+[pvzjspvz] B站的J
+sb
+
+[13:10:03]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[13:10:03]
+[pvzjspvz] B站的J
+？？？
+
+[13:10:06]
+[DPGawa] _
+..
+
+[13:10:10]
+[44FF00] eebot
+ ·
+MuRongPIG's GitHub
+https://github.com/MuRongPIG
+
+[13:13:54]
+[love13] ee
+统计
+
+[13:16:46]
+[DPGawa] _
+sts
+
+[13:16:50]
+[DPGawa] _
+QwQ
+
+[13:21:08]
+[DPGawa] AfK_Bot
+awa!
+
+[13:21:08]
+[初墨娘] Chumo_Chan
+hi,Melonfish_iPhone12Pro~
+
+[13:21:08]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[13:21:08]
+[Admin] Melonfish_iPhone12Pro
+guru
+
+[13:21:23]
+[DPGawa] _
+?
+
+[13:21:51]
+[Admin] Melonfish_iPhone12Pro
+为什么dpg总是充满疑问
+
+[13:22:11]
+[DPGawa] _
+？？？？？
+
+[13:23:39]
+[DPGawa] AfK_Bot
+awa!
+
+[13:23:39]
+[44FF00] eebot
+ 看什么看还不去改BUG！！！
+
+[13:23:39]
+[初墨娘] Chumo_Chan
+hi,Mr_Zhang~
+
+[13:23:39]
+[DPGawa] _
+@Mr_Zhang
+
+[13:23:49]
+[zhang] Mr_Zhang
+在
+
+[13:23:56]
+[zhang] Mr_Zhang
+我一会儿就走
+
+[13:24:03]
+[Admin] Melonfish_iPhone12Pro
+hi yoooooooooooooooo
+
+[13:24:06]
+[初墨娘] Chumo_Chan
+hi,Melonfish_iPhone12Pro~
+
+[13:24:06]
+[zhang] Mr_Zhang
+有事留言
+
+[13:24:12]
+[44FF00] eebot
+ 闷
+
+[13:24:13]
+[DPGawa] _
+  if (had) {
+    var new_lockroom_list=[];
+    for (var i=0; i<core.config.lockedroom.length; i++) {
+      if (core.config.lockedroom != lockchannel){
+        new_lockroom_list.push(lockedroom[i])
+      }
+    }
+    core.config.lockedroom=new_lockroom_list
+
+[13:24:19]
+[DPGawa] _
+~~~
+  if (had) {
+    var new_lockroom_list=[];
+    for (var i=0; i<core.config.lockedroom.length; i++) {
+      if (core.config.lockedroom != lockchannel){
+        new_lockroom_list.push(lockedroom[i])
+      }
+    }
+    core.config.lockedroom=new_lockroom_list
+
+[13:24:22]
+[DPGawa] _
+this
+
+[13:24:24]
+[初墨娘] Chumo_Chan
+hi,_~
+
+[13:24:25]
+[zhang] Mr_Zhang
+enmm
+
+[13:24:36]
+[zhang] Mr_Zhang
+@_ 感谢指出
+
+[13:24:44]
+[zhang] Mr_Zhang
+但是
+
+[13:24:47]
+[DPGawa] _
+aw?
+
+[13:24:50]
+[zhang] Mr_Zhang
+这是个老版本的代码
+
+[13:24:57]
+[zhang] Mr_Zhang
+最新的代码
+
+[13:25:04]
+[zhang] Mr_Zhang
+还没公布
+
+[13:25:10]
+[DPGawa] _
+ooo
+
+[13:25:15]
+[DPGawa] _
+awa
+
+[13:27:08]
+[DPGawa] AfK_Bot
+awa!
+
+[13:27:08]
+[初墨娘] Chumo_Chan
+hi,13_~
+
+[13:27:08]
+[44FF00] eebot
+ hello yo 13_
+
+[13:27:08]
+[loveee] 13_
+给ee买的东西终于发货了
+
+[13:27:22]
+[loveee] 13_
+2个月了
+
+[13:27:27]
+[loveee] 13_
+焯
+
+[13:27:33]
+[Admin] Melonfish_iPhone12Pro
+（吃瓜
+
+[13:28:04]
+[Admin] Melonfish_iPhone12Pro
+太感动了，13终于撒瓜了
+
+[13:33:33]
+[Server_Chan] 机娘
+@_ 欢迎回来！
+
+[13:33:33]
+[DPGawa] _
+..
+
+[13:36:00]
+[Server_Chan] 机娘
+@Qwer 欢迎回来！
+
+[13:36:00]
+[Qwer] Qwer
+蛤
+
+[13:36:00]
+[Qwer] Qwer
+买的什么
+
+[13:37:27]
+[DPGawa] AfK_Bot
+awa!
+
+[13:37:27]
+[初墨娘] Chumo_Chan
+hi,4n0n4me~
+
+[13:37:27]
+[44FF00] eebot
+ hi yo 4n0n4me
+
+[13:37:27]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[13:37:27]
+[DPGawa] _
+?
+
+[13:37:37]
+[edDiBU] 4n0n4me
+USERSENDVOICE_static/e9fdac3604c911ed906900163e34bbcc.mp3
+
+[13:41:17]
+[44FF00] eebot
+@4n0n4me 在XChat发了语音
+https://xq.kzw.ink/oss/e9fdac3604c911ed906900163e34bbcc.mp3
+
+[13:41:17]
+[DPGawa] _
+?
+
+[13:41:26]
+[edDiBU] 4n0n4me
+USERSENDVOICE_static/0d1364fe04ca11ed874e00163e34bbcc.mp3
+
+[13:42:16]
+[44FF00] eebot
+@4n0n4me 在XChat发了语音
+https://xq.kzw.ink/oss/0d1364fe04ca11ed874e00163e34bbcc.mp3
+
+[13:42:16]
+[edDiBU] 4n0n4me
+USERSENDVOICE_static/0ef57f7804ca11ed874e00163e34bbcc.mp3
+
+[13:42:19]
+[44FF00] eebot
+@4n0n4me 在XChat发了语音
+https://xq.kzw.ink/oss/0ef57f7804ca11ed874e00163e34bbcc.mp3
+
+[13:42:19]
+[edDiBU] 4n0n4me
+USERSENDVOICE_static/10dbb10404ca11ed906900163e34bbcc.mp3
+
+[13:42:22]
+[44FF00] eebot
+@4n0n4me 在XChat发了语音
+https://xq.kzw.ink/oss/10dbb10404ca11ed906900163e34bbcc.mp3
+
+[13:42:22]
+[DPGawa] _
+?
+
+[13:42:25]
+[edDiBU] 4n0n4me
+obb
+
+[13:42:46]
+[pvzjspvz] B站的J
+USERSENDVOICE_static/1f3b8d4604ca11ed906900163e34bbcc.mp3
+
+[13:42:46]
+[44FF00] eebot
+@B站的J 在XChat发了语音
+https://xq.kzw.ink/oss/1f3b8d4604ca11ed906900163e34bbcc.mp3
+
+[13:42:46]
+[DPGawa] _
+i need voice to text
+
+[13:43:04]
+[DPGawa] _
+pwp
+
+[13:43:05]
+[edDiBU] 4n0n4me
+USERSENDVOICE_static/3bb82cea04ca11ed874e00163e34bbcc.mp3
+
+[13:43:34]
+[44FF00] eebot
+@4n0n4me 在XChat发了语音
+https://xq.kzw.ink/oss/3bb82cea04ca11ed874e00163e34bbcc.mp3
+
+[13:43:34]
+[edDiBU] 4n0n4me
+USERSENDVOICE_static/3ebb55c004ca11ed906900163e34bbcc.mp3
+
+[13:43:39]
+[44FF00] eebot
+@4n0n4me 在XChat发了语音
+https://xq.kzw.ink/oss/3ebb55c004ca11ed906900163e34bbcc.mp3
+
+[13:43:39]
+[edDiBU] 4n0n4me
+USERSENDVOICE_static/43f9055a04ca11ed906900163e34bbcc.mp3
+
+[13:43:49]
+[44FF00] eebot
+@4n0n4me 在XChat发了语音
+https://xq.kzw.ink/oss/43f9055a04ca11ed906900163e34bbcc.mp3
+
+[13:43:49]
+[edDiBU] 4n0n4me
+哎呀气死我了
+
+[13:43:55]
+[edDiBU] 4n0n4me
+我发不来g音
+
+[13:44:06]
+[edDiBU] 4n0n4me
+USERSENDVOICE_static/50985ed204ca11ed874e00163e34bbcc.mp3
+
+[13:44:09]
+[44FF00] eebot
+@4n0n4me 在XChat发了语音
+https://xq.kzw.ink/oss/50985ed204ca11ed874e00163e34bbcc.mp3
+
+[13:44:09]
+[DPGawa] _
+?
+
+[13:44:35]
+[edDiBU] 4n0n4me
+……
+
+[13:45:57]
+[edDiBU] 4n0n4me
+你不能听语音吗
+
+[13:46:02]
+[edDiBU] 4n0n4me
+我发的是：awa
+
+[13:46:09]
+[edDiBU] 4n0n4me
+ovo
+
+[13:46:09]
+[edDiBU] 4n0n4me
+ob
+
+[13:46:11]
+[edDiBU] 4n0n4me
+obb
+
+[13:46:12]
+[edDiBU] 4n0n4me
+pwp
+
+[13:46:19]
+[44FF00] eebot
+ x.x
+
+[13:46:19]
+[edDiBU] 4n0n4me
+pwq
+
+[13:46:20]
+[44FF00] eebot
+ OuO
+
+[13:46:20]
+[DPGawa] _
+?
+
+[13:46:55]
+[DPGawa] _
+OvO
+
+[13:47:07]
+[DPGawa] _
+..
+
+[13:50:23]
+[DPGawa] AfK_Bot
+awa!
+
+[13:50:23]
+[初墨娘] Chumo_Chan
+hi,zzChumo_Ubuntu~
+
+[13:50:23]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[13:50:29]
+[DPGawa] _
+?
+
+[13:50:32]
+[zzzzzz] zzChumo_Ubuntu
+@ee
+
+[13:51:00]
+[zzzzzz] zzChumo_Ubuntu
+我刚才在我的Ubuntu上安装了wine64和wine32
+
+[13:51:03]
+[zzzzzz] zzChumo_Ubuntu
+我想要游玩你的游戏
+
+[13:51:13]
+[zzzzzz] zzChumo_Ubuntu
+: )
+
+[13:51:16]
+[love13] ee
+艹
+
+[13:51:25]
+[love13] ee
+eebot
+
+[13:51:38]
+[zzzzzz] zzChumo_Ubuntu
+尝试在Linux上运行Windows游戏
+
+[13:51:47]
+[love13] ee
+~~虽然说 那个游戏真的没什么好玩的~~
+
+[13:51:52]
+[love13] ee
+https://drive.noire.cc/s/lNdOu1?path=%2F
+
+[13:52:00]
+[44FF00] eebot
+@ee 爱丽丝的记事本
+https://drive.noire.cc/s/lNdOu1?path=%2F
+
+[13:52:00]
+[zzzzzz] zzChumo_Ubuntu
+没事
+
+[13:52:02]
+[love13] ee
+只有一分钟的剧情（确信
+
+[13:52:12]
+[zzzzzz] zzChumo_Ubuntu
+反正我手机上有副本
+
+[13:52:13]
+[zzzzzz] zzChumo_Ubuntu
+（杀气
+
+[13:52:16]
+[love13] ee
+咳咳
+
+[13:52:20]
+[44FF00] eebot
+ 咳咳）
+
+[13:52:53]
+[love13] ee
+好家伙
+
+[13:52:56]
+[pvzjspvz] B站的J
+4890
+
+[13:53:02]
+[DPGawa] _
+?
+
+[13:53:13]
+[zzzzzz] zzChumo_Ubuntu
+讲个鬼故事
+
+[13:54:32]
+[zzzzzz] zzChumo_Ubuntu
+运行成功了
+
+[13:54:38]
+[zzzzzz] zzChumo_Ubuntu
+并且暂时没有兼容性问题
+
+[13:55:33]
+[DPGawa] AfK_Bot
+awa!
+
+[13:55:33]
+[zzzzzz] zzChumo_Ubuntu
+@ee 错别字
+
+[13:55:34]
+[初墨娘] Chumo_Chan
+hi,King~
+
+[13:55:34]
+[44FF00] eebot
+ hey yo King
+
+[13:55:36]
+[zhang] ZhangHelper
+出错了！详细信息：不能在这个聊天室找到该用户
+
+[13:55:37]
+[DPGawa] AfK_Bot
+awa!
+
+[13:55:37]
+[初墨娘] Chumo_Chan
+hi,King~
+
+[13:55:37]
+[44FF00] eebot
+ hello yo King
+
+[13:55:44]
+[DPGawa] AfK_Bot
+awa!
+
+[13:55:46]
+[初墨娘] Chumo_Chan
+hi,Maggie~
+
+[13:55:46]
+[love13] ee
+@zzChumo_Ubuntu （
+
+[13:56:06]
+[zzzzzz] zzChumo_Ubuntu
+应该是请勿打扰而不是请误打扰
+
+[13:56:08]
+[love13] ee
+hi yo
+
+[13:56:08]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[13:56:08]
+[zzzzzz] zzChumo_Ubuntu
+@ee 
+
+[13:56:08]
+[zzzzzz] zzChumo_Ubuntu
+hi
+
+[13:56:11]
+[初墨娘] Chumo_Chan
+hi,zzChumo_Ubuntu~
+
+[13:56:13]
+[love13] ee
+艹
+
+[13:56:27]
+[DPGawa] AfK_Bot
+awa!
+
+[13:56:27]
+[初墨娘] Chumo_Chan
+hi,Hack4r~
+
+[13:56:28]
+[44FF00] eebot
+ hey yo Hack4r
+
+[13:56:28]
+[hmmmmm] Maggie
+好烦
+
+[13:56:35]
+[love13] ee
+给我无视啊啊啊
+
+[13:56:35]
+[love13] ee
+hi yo
+
+[13:56:37]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[13:56:38]
+[hmmmmm] Maggie
+我弟弟一天到晚烦我
+
+[13:56:45]
+[hmmmmm] Maggie
+生日还烦
+
+[13:56:51]
+[hmmmmm] Maggie
+妈的
+
+[13:56:54]
+[+QTk0f] Hack4r
+hmmmmm 
+
+[13:56:57]
+[zzzzzz] zzChumo_Ubuntu
+《我成为我自己》
+
+[13:56:58]
+[love13] ee
+好家伙
+
+[13:57:00]
+[Y5A8Ew] King
+hi
+
+[13:57:13]
+[初墨娘] Chumo_Chan
+hi,King~
+
+[13:57:13]
+[Y5A8Ew] King
+hi
+
+[13:57:21]
+[初墨娘] Chumo_Chan
+hi,King~
+
+[13:57:21]
+[pvzjspvz] B站的J
+USERSENDVOICE_static/38194a6804cc11ed906900163e34bbcc.mp3
+
+[13:57:48]
+[44FF00] eebot
+@B站的J 在XChat发了语音
+https://xq.kzw.ink/oss/38194a6804cc11ed906900163e34bbcc.mp3
+
+[13:57:57]
+[zzzzzz] zzChumo_Ubuntu
+《来自营销号bo_od》
+
+[13:58:03]
+[love13] ee
+哈哈哈哈哈
+
+[13:58:13]
+[44FF00] eebot
+ 哈哈哈哈哈草
+
+[13:58:13]
+[zzzzzz] zzChumo_Ubuntu
+?
+
+[13:58:28]
+[zzzzzz] zzChumo_Ubuntu
+怎么没了
+
+[13:58:30]
+[zzzzzz] zzChumo_Ubuntu
+是兼容性问题吗
+
+[13:58:37]
+[love13] ee
+那就是没了
+
+[13:58:45]
+[Y5A8Ew] King
+什么情况？！
+
+[13:58:50]
+[zzzzzz] zzChumo_Ubuntu
+艹
+
+[13:58:53]
+[love13] ee
+~~都说只有一分钟剧情~~
+
+[13:58:54]
+[love13] ee
+~~点开就是浪费时间~~
+
+[13:59:15]
+[zzzzzz] zzChumo_Ubuntu
+话说Linux居然能跑Windows的RPG游戏
+
+[13:59:15]
+[44FF00] eebot
+ ~~点开就是浪费时间~~
+
+[13:59:16]
+[zzzzzz] zzChumo_Ubuntu
+而且居然没有兼容性错误
+
+[13:59:25]
+[hmmmmm] Maggie
+我也想做游戏...
+
+[13:59:40]
+[hmmmmm] Maggie
+但是我很菜
+
+[13:59:44]
+[DPGawa] _
+?
+
+[13:59:47]
+[Y5A8Ew] King
+大力支持
+
+[13:59:49]
+[zzzzzz] zzChumo_Ubuntu
+wine yyds
+
+[14:00:17]
+[Y5A8Ew] King
+emm，谁有图床？我换设备了，这个找不到了……
+
+[14:01:22]
+[zzzzzz] zzChumo_Ubuntu
+@King https://imgtp.com/
+
+[15:06:52]
+[DPGawa] AfK_Bot
+awa!
+
+[15:06:52]
+[44FF00] eebot_273
+ QuQ eb的昵称卡在里面了
+
+[15:06:52]
+[初墨娘] Chumo_Chan
+hi,eebot_273~
+
+[15:06:55]
+[DPGawa] AfK_Bot
+awa!
+
+[15:06:57]
+[Server_Chan] 机娘
+@eebot 你个老六，发信息速度太快了（或者是被管理员封禁了），给老娘慢点！
+
+[15:06:57]
+[Qwer] Qwer
+南直隶是什么东西
+
+[15:07:00]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[15:07:00]
+[Server_Chan] 机娘
+@eebot 你个老六，发信息速度太快了（或者是被管理员封禁了），给老娘慢点！
+
+[15:07:00]
+[None] bozhixihuanchicaoping
+来了
+
+[15:07:00]
+[Qwer] Qwer
+南直隶是什么东西
+
+[15:07:00]
+[44FF00] eebot
+ eb的亲妈是ee 亲爹也是ee
+
+[15:07:01]
+[Qwer] Qwer
+hi
+
+[15:07:03]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[15:07:03]
+[None] bozhixihuanchicaoping
+hi
+
+[15:07:17]
+[初墨娘] Chumo_Chan
+hi,bozhixihuanchicaoping~
+
+[15:07:17]
+[pvzjspvz] B站的J
+你是谁？
+
+[15:07:26]
+[pvzjspvz] B站的J
+你和我同城
+
+[15:07:30]
+[Qwer] Qwer
+是人
+
+[15:07:30]
+[zhang] 小张
+。。。
+
+[15:07:40]
+[pvzjspvz] B站的J
+？
+
+[15:07:52]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我擦
+
+[15:07:59]
+[pvzjspvz] B站的J
+>*：
+>bozhixihuanchicaoping 邀请你去 ?5s4gfl4y
+
+@* 
+
+[15:08:02]
+[初墨娘] Chumo_Chan
+hi,B站的J~
+
+[15:09:50]
+[DPGawa] AfK_Bot
+awa!
+
+[15:09:50]
+[初墨娘] Chumo_Chan
+hi,ogck~
+
+[15:09:50]
+[44FF00] eebot
+ hey yo ogck
+
+[15:09:50]
+[zhang] 小张
+各位
+
+[15:09:55]
+[Qwer] Qwer
+# 初墨你等着
+
+[15:09:57]
+[zhang] 小张
+lbw开始攻击十字街了
+
+[15:10:10]
+[zhang] ZhangHelper
+@eee 你的昵称已经绑定识别码“love13”，所以你可能是冒牌货。拜拜。
+
+[15:10:10]
+[DPGawa] AfK_Bot
+awa!
+
+[15:10:10]
+[zhang] ZhangHelper
+出错了！详细信息：老娘还没见过这个用户呢。。。
+
+[15:10:10]
+[44FF00] eebot
+ 大帅比ee 你来辣
+
+[15:10:10]
+[初墨娘] Chumo_Chan
+hi,eee~
+
+[15:10:15]
+[DPGawa] AfK_Bot
+awa!
+
+[15:10:15]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[15:10:15]
+[初墨娘] Chumo_Chan
+hi,eeee~
+
+[15:10:18]
+[DPGawa] AfK_Bot
+awa!
+
+[15:10:18]
+[初墨娘] Chumo_Chan
+hi,ogck~
+
+[15:10:18]
+[44FF00] eebot
+ hi yo ogck
+
+[15:10:18]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[15:10:40]
+[DPGawa] AfK_Bot
+awa!
+
+[15:10:40]
+[DPGawa] AfK_Bot
+awa!
+
+[15:10:40]
+[初墨娘] Chumo_Chan
+hi,K~
+
+[15:10:40]
+[44FF00] eebot
+ hello yo K
+
+[15:10:40]
+[44FF00] eebot
+ hello yo 13_
+
+[15:10:40]
+[初墨娘] Chumo_Chan
+hi,13_~
+
+[15:10:40]
+[Qwer] Qwer
+# 初墨你等着
+
+[15:10:58]
+[zhang] ZhangHelper
+@eee 你的昵称已经绑定识别码“love13”，所以你可能是冒牌货。拜拜。
+
+[15:10:58]
+[DPGawa] AfK_Bot
+awa!
+
+[15:10:58]
+[初墨娘] Chumo_Chan
+hi,eee~
+
+[15:10:58]
+[44FF00] eebot
+ 大帅比ee 你来辣
+
+[15:11:02]
+[zhang] ZhangHelper
+@eee 你的昵称已经绑定识别码“love13”，所以你可能是冒牌货。拜拜。
+
+[15:11:02]
+[DPGawa] AfK_Bot
+awa!
+
+[15:11:02]
+[初墨娘] Chumo_Chan
+hi,eee~
+
+[15:10:58]
+[None] K
+W.
+
+[15:11:16]
+[Qwer] Qwer
+lou里面的初墨是不是假的
+
+[15:11:24]
+[None] bozhixihuanchicaoping
+太艹了
+
+[15:11:32]
+[DPGawa] _
+?
+
+[15:11:32]
+[loveee] 13_
+？
+
+[15:11:37]
+[pvzjspvz] B站的J
+wc
+
+[15:11:43]
+[None] bozhixihuanchicaoping
+遇到同市的了
+
+[15:11:45]
+[loveee] 13_
+ee怎么被强制下线
+
+[15:11:46]
+[loveee] 13_
+离谱
+
+[15:11:53]
+[DPGawa] AfK_Bot
+awa!
+
+[15:11:54]
+[DPGawa] AfK_Bot
+awa!
+
+[15:11:54]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[15:11:53]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[15:11:54]
+[初墨娘] Chumo_Chan
+hi,eee~
+
+[15:11:54]
+[初墨娘] Chumo_Chan
+hi,eee~
+
+[15:11:55]
+[zhang] 小张
+？？？？？？？
+
+[15:11:54]
+[zhang] 小张
+？？？？？？？
+
+[15:12:02]
+[zhang] 小张
+是不是因为密码输入错误？？？
+
+[15:12:02]
+[zhang] 小张
+是不是因为密码输入错误？？？
+
+[15:12:03]
+[loveee] 13_
+idk
+
+[15:12:03]
+[loveee] 13_
+idk
+
+[15:12:08]
+[zhang] 小张
+ZhangHelper会自动强制冒牌用户下线
+
+[15:12:08]
+[zhang] 小张
+ZhangHelper会自动强制冒牌用户下线
+
+[15:12:15]
+[Qwer] Qwer
+lou里面的初墨是不是假的
+
+[15:12:15]
+[Qwer] Qwer
+lou里面的初墨是不是假的
+
+[15:12:17]
+[Qwer] Qwer
+# lou里面的初墨是不是假的
+
+[15:12:17]
+[Qwer] Qwer
+# lou里面的初墨是不是假的
+
+[15:12:25]
+[44FF00] eebot
+@B站的J 百度地图
+https://map.baidu.com/search/9/@13530679.051701466,4689969.738612036,12.84z?querytype=s&wd=9&c=167&pn=0&device_ratio=2&da_src=shareurl
+
+[15:12:25]
+[44FF00] eebot
+@B站的J 百度地图
+https://map.baidu.com/search/9/@13530679.051701466,4689969.738612036,12.84z?querytype=s&wd=9&c=167&pn=0&device_ratio=2&da_src=shareurl
+
+[15:12:25]
+[zhang] 小张
+woc？
+
+[15:12:25]
+[zhang] 小张
+woc？
+
+[15:12:36]
+[gTt3aQ] 卧底light
+真的
+
+[15:12:36]
+[gTt3aQ] 卧底light
+真的
+
+[15:12:38]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@小张 @小张 
+
+[15:12:38]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@小张 @小张 
+
+[15:12:56]
+[QiuLingYan] HiyoTeam_QiuLingYan
+帮我整一个
+
+[15:12:56]
+[QiuLingYan] HiyoTeam_QiuLingYan
+帮我整一个
+
+[15:13:11]
+[DPGawa] AfK_Bot
+awa!
+
+[15:13:11]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[15:13:12]
+[DPGawa] AfK_Bot
+awa!
+
+[15:13:12]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[15:13:12]
+[Qwer] Qwer
+整什么
+
+[15:13:12]
+[Qwer] Qwer
+整什么
+
+[15:13:13]
+[zhang] 小张
+啊
+
+[15:13:13]
+[zhang] 小张
+啊
+
+[15:13:13]
+[44FF00] eebot
+ 草啊
+
+[15:13:13]
+[44FF00] eebot
+ 草啊
+
+[15:13:13]
+[初墨娘] Chumo_Chan
+hi,eee~
+
+[15:13:13]
+[love13] eeee
+嘘
+
+[15:13:13]
+[love13] eeee
+嘘
+
+[15:13:25]
+[love13] eeee
+这是我的bot
+
+[15:13:25]
+[love13] eeee
+这是我的bot
+
+[15:13:29]
+[love13] eeee
+~~eebot改~~
+
+[15:13:29]
+[love13] eeee
+~~eebot改~~
+
+[15:13:35]
+[Qwer] Qwer
+。
+
+[15:13:35]
+[Qwer] Qwer
+。
+
+[15:13:38]
+[love13] eeee
+eee是机器人
+
+[15:13:38]
+[love13] eeee
+eee是机器人
+
+[15:13:45]
+[zhang] 小张
+^protect HiyoTeam_QiuLingYan QiuLingYan
+
+[15:13:46]
+[zhang] ZhangHelper
+已绑定识别码。
+
+[15:13:45]
+[zhang] 小张
+^protect HiyoTeam_QiuLingYan QiuLingYan
+
+[15:13:46]
+[zhang] ZhangHelper
+已绑定识别码。
+
+[15:13:46]
+[zhang] 小张
+emmm
+
+[15:13:46]
+[zhang] 小张
+emmm
+
+[15:13:49]
+[Qwer] Qwer
+你游戏别鸽了
+
+[15:13:49]
+[Qwer] Qwer
+你游戏别鸽了
+
+[15:13:53]
+[44FF00] eebot
+ ·
+小张的个人主页
+https://mrzhang365.github.io/
+
+[15:13:53]
+[44FF00] eebot
+ ·
+小张的个人主页
+https://mrzhang365.github.io/
+
+[15:13:55]
+[zhang] 小张
+^unprotect eee
+
+[15:14:01]
+[zhang] ZhangHelper
+已解除绑定识别码。
+
+[15:13:55]
+[zhang] 小张
+^unprotect eee
+
+[15:14:01]
+[zhang] ZhangHelper
+已解除绑定识别码。
+
+[15:14:01]
+[QiuLingYan] HiyoTeam_QiuLingYan
+显示
+TA正在使用 该死的Windows11｜QiuLingYan
+@ZhangHelper 
+
+[15:14:01]
+[QiuLingYan] HiyoTeam_QiuLingYan
+显示
+TA正在使用 该死的Windows11｜QiuLingYan
+@ZhangHelper 
+
+[15:14:06]
+[Qwer] Qwer
+感觉初墨又问题
+
+[15:14:06]
+[Qwer] Qwer
+感觉初墨又问题
+
+[15:14:16]
+[Qwer] Qwer
+感觉初墨有问题
+
+[15:14:17]
+[QiuLingYan] HiyoTeam_QiuLingYan
+ee啊
+
+[15:14:19]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我发一句话
+
+[15:14:23]
+[gTt3aQ] 卧底light
+你有问题啊
+
+[15:14:25]
+[zhang] 小张
+。。。
+
+[15:14:26]
+[gTt3aQ] 卧底light
+Qwer
+
+[15:14:28]
+[zhang] 小张
+不行啊
+
+[15:14:29]
+[pvzjspvz] B站的J
+卧槽
+
+[15:14:31]
+[love13] eeee
+？
+
+[15:14:31]
+[QiuLingYan] HiyoTeam_QiuLingYan
+zhang和ee都别生气
+
+[15:14:32]
+[zhang] 小张
+这是显示客户端啊
+
+[15:14:36]
+[Qwer] Qwer
+嗯哼
+
+[15:14:37]
+[QiuLingYan] HiyoTeam_QiuLingYan
+张皓然把ee日得乱叫 退出聊天室
+
+[15:14:38]
+[zhang] 小张
+不是系统。。。。。。
+
+[15:14:42]
+[None] bozhixihuanchicaoping
+艹
+
+[15:14:44]
+[loveee] 13_
+wut？
+
+[15:14:44]
+[44FF00] eebot
+ 哦吼？
+
+[15:14:44]
+[Qwer] Qwer
+哈哈哈
+
+[15:14:45]
+[44FF00] eebot
+ 草哈哈哈
+
+[15:14:46]
+[love13] eeee
+艹
+
+[15:14:51]
+[loveee] 13_
+@HiyoTeam_QiuLingYan 你他妈注意点
+
+[15:14:52]
+[Qwer] Qwer
+笑死我了
+
+[15:14:55]
+[DPGawa] _
+?
+
+[15:14:57]
+[Qwer] Qwer
+哈哈哈哈哈哈哈哈哈或
+
+[15:14:57]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@13_ 不是我
+
+[15:15:01]
+[zhang] 小张
+。。。
+
+[15:15:05]
+[QiuLingYan] HiyoTeam_QiuLingYan
+是某个傻叉lbw
+
+[15:15:09]
+[zhang] 小张
+@13_ 你别担心，lbw纯属痴人说梦，我和ee没那事
+
+[15:15:20]
+[loveee] 13_
+我知道
+
+[15:15:24]
+[QiuLingYan] HiyoTeam_QiuLingYan
+重点是针对@小张 
+
+[15:15:25]
+[love13] eeee
+现在cc里的ee是伪装成我的eebot
+
+[15:15:28]
+[DPGawa] _
+?
+
+[15:15:31]
+[love13] eeee
+（
+
+[15:15:37]
+[None] bozhixihuanchicaoping
+呃呃
+
+[15:15:40]
+[loveee] 13_
+他妈的lbw说的是吧
+
+[15:15:44]
+[44FF00] eebot
+ 想让eb告诉13_些什么 别拐弯抹角的行不
+
+[15:15:44]
+[zhang] 小张
+一个在中国北部，一个在中国南部，根本不可能***。
+
+[15:15:48]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@13_ 是啊
+
+[15:15:49]
+[love13] eeee
+是的……
+
+[15:15:51]
+[gTt3aQ] 卧底light
+Qwer真的和lbw一伙的了是吗？
+
+[15:15:57]
+[Qwer] Qwer
+啊对对对
+
+[15:16:01]
+[gTt3aQ] 卧底light
+woc
+
+[15:16:04]
+[44FF00] eebot
+ UoU
+
+[15:16:04]
+[Qwer] Qwer
+来
+
+[15:16:07]
+[DPGawa] _
+?
+
+[15:16:08]
+[Qwer] Qwer
+踢我
+
+[15:16:10]
+[gTt3aQ] 卧底light
+好吧，那我摊牌
+
+[15:16:13]
+[Qwer] Qwer
+啦啦啦
+
+[15:16:13]
+[Qwer] Qwer
+啦啦啦
+
+[15:16:18]
+[zhang] 小张
+。。。
+
+[15:16:22]
+[gTt3aQ] 卧底light
+我是 lbw的卧底
+
+[15:16:23]
+[None] bozhixihuanchicaoping
+啦啦啦
+
+[15:16:24]
+[44FF00] eebot
+@B站的J 百度地图
+https://map.baidu.com/search/538/@13541910.552097185,4684597.3100000005,15.26z?querytype=s&da_src=shareurl&wd=538&c=167&src=0&pn=0&sug=0&l=15&b=13525193.830504378,4687237.858758745;13534972.83504303,4691325.177062009&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&device_ratio=2
+
+[15:16:24]
+[gTt3aQ] 卧底light
+我不当了
+
+[15:16:26]
+[zhang] 小张
+各位
+
+[15:16:28]
+[zhang] 小张
+我说一句
+
+[15:16:31]
+[pvzjspvz] B站的J
+太好了
+
+[15:16:31]
+[DPGawa] _
+?
+
+[15:16:32]
+[gTt3aQ] 卧底light
+Qwer在这我搞个毛
+
+[15:16:34]
+[Qwer] Qwer
+谁是内鬼
+
+[15:16:34]
+[gTt3aQ] 卧底light
+捣乱
+
+[15:16:36]
+[zhang] 小张
+你们有必要当卧底吗？
+
+[15:16:37]
+[gTt3aQ] 卧底light
+我不当了
+
+[15:16:42]
+[loveee] 13_
+@eeee 没事，如果你要是真的难受就打电话给我
+
+[15:16:43]
+[pvzjspvz] B站的J
+# 没有
+
+[15:16:43]
+[gTt3aQ] 卧底light
+fk
+
+[15:16:54]
+[DPGawa] AfK_Bot
+awa!
+
+[15:16:54]
+[+QTk0f] Hack4r
+@卧底light ？
+
+[15:16:54]
+[44FF00] eebot
+ /kick eebot
+
+[15:16:54]
+[44FF00] eebot
+ 啊？
+
+[15:16:54]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYan~
+
+[15:16:54]
+[love13] eeee
+@13_ 没事没事 真没事
+
+[15:16:59]
+[edDiBU] 4n0n4me
+十字街锁了
+
+[15:17:05]
+[edDiBU] 4n0n4me
+锁得好！
+
+[15:17:11]
+[edDiBU] 4n0n4me
+锁得好
+
+[15:17:15]
+[edDiBU] 4n0n4me
+！
+
+[15:17:16]
+[loveee] 13_
+404刚刚被踢了罢
+
+[15:17:20]
+[edDiBU] 4n0n4me
+鱼也要加油搞浏览器指纹
+
+[15:17:25]
+[DPGawa] _
+?
+
+[15:17:25]
+[edDiBU] 4n0n4me
+？？
+
+[15:17:26]
+[edDiBU] 4n0n4me
+是我被踢了？
+
+[15:17:28]
+[44FF00] eebot
+ ？
+
+[15:17:28]
+[edDiBU] 4n0n4me
+为什么
+
+[15:17:29]
+[loveee] 13_
+就几分钟前
+
+[15:17:34]
+[edDiBU] 4n0n4me
+好像是锁房了吧
+
+[15:17:36]
+[love13] eeee
+[15:16:49]
+bo_od好助攻 left
+
+[15:16:55]
+4n0n4me left
+
+[15:16:55]
+Hack3r left
+
+[15:16:55]
+潇洒走一回 left
+
+[15:16:55]
+fluid left
+
+[15:17:42]
+[loveee] 13_
+哦现在锁了
+
+[15:17:52]
+[loveee] 13_
+之前被踢了一次
+
+[15:18:01]
+[edDiBU] 4n0n4me
+鱼加油搞浏览器指纹
+
+[15:18:08]
+[edDiBU] 4n0n4me
+爆杀卢本伟
+
+[15:18:23]
+[DPGawa] _
+jy
+
+[15:18:52]
+[pvzjspvz] B站的J
+牧场主
+
+[15:19:20]
+[pvzjspvz] B站的J
+牧场主
+
+[15:19:22]
+[pvzjspvz] B站的J
+牧场牧场牧场主
+
+[15:19:50]
+[Qwer] Qwer
+。
+
+[15:20:00]
+[loveee] 13_
+想到这件事有点伤感
+
+[15:20:07]
+[loveee] 13_
+c
+
+[15:20:08]
+[Qwer] Qwer
+ao
+
+[15:20:12]
+[DPGawa] _
+?
+
+[15:20:13]
+[Qwer] Qwer
+不用谢
+
+[15:20:18]
+[loveee] 13_
+？
+
+[15:20:32]
+[love13] eeee
+QuQ
+
+[15:20:48]
+[DPGawa] _
+QeQ
+
+[15:21:42]
+[loveee] 13_
+打球去了
+
+[15:21:56]
+[loveee] 13_
+下午见
+
+[15:21:58]
+[edDiBU] 4n0n4me
+byeye
+
+[15:22:05]
+[pvzjspvz] B站的J
+https://www.emojiall.com/images/svg/google/emoji_u1f41f.svg
+
+[15:22:15]
+[pvzjspvz] B站的J
+https://www.emojiall.com/images/240/skype/1f41f.png
+
+[15:22:17]
+[love13] eeee
+byeeeeeeeeeeeeeee
+
+[15:22:17]
+[+QTk0f] Hack4r
+VEbeHK dx_xb
+欸
+
+[15:22:32]
+[DPGawa] _
+yup
+
+[15:23:01]
+[DPGawa] AfK_Bot
+awa!
+
+[15:23:01]
+[初墨娘] Chumo_Chan
+hi,B站的J~
+
+[15:23:01]
+[44FF00] eebot
+ test
+
+[15:23:01]
+[DPGawa] _
+.-.'
+
+[15:23:08]
+[ax1f11] 大朙少年不囧
+为什么初墨陈的识别码是汉字
+
+[15:23:52]
+[Qwer] Qwer
+因为是定制的
+
+[15:24:00]
+[ax1f11] 大朙少年不囧
+神奇
+
+[15:24:03]
+[Qwer] Qwer
+要花钱
+
+[15:24:04]
+[DPGawa] _
+h
+
+[15:24:07]
+[Qwer] Qwer
+不贵
+
+[15:24:13]
+[DPGawa] _
+hhh
+
+[15:24:23]
+[Qwer] Qwer
+30元
+
+[15:24:23]
+[edDiBU] 4n0n4me
+根本不用花钱
+
+[15:24:27]
+[pvzjspvz] B站的J
+100元
+
+[15:24:29]
+[pvzjspvz] B站的J
+【doge]
+
+[15:24:41]
+[ax1f11] 大朙少年不囧
+《不贵》
+
+[15:24:41]
+[Server_Chan] 机娘
+a
+
+[15:24:55]
+[edDiBU] 4n0n4me
+请站长帮你搞一下
+
+[15:24:59]
+[edDiBU] 4n0n4me
+就好了
+
+[15:25:01]
+[Server_Chan] 机娘
+各位好，我是 Mr_Zhang
+
+[15:25:05]
+[edDiBU] 4n0n4me
+机娘怎么说话了
+
+[15:25:09]
+[Qwer] Qwer
+。
+
+[15:25:09]
+[44FF00] eebot
+ # lou里面的初墨是不是假的
+
+[15:25:09]
+[love13] eeee
+艹
+
+[15:25:11]
+[Qwer] Qwer
+啧啧啧
+
+[15:25:16]
+[Server_Chan] 机娘
+Mr_Zhang 在操控我
+
+[15:25:23]
+[ax1f11] 大朙少年不囧
+但是为啥默认的识别码和hc里的对不上
+
+[15:25:24]
+[edDiBU] 4n0n4me
+@大朙少年不囧 不同的聊天室
+
+[15:25:35]
+[ax1f11] 大朙少年不囧
+用的同一个密码
+
+[15:25:38]
+[Server_Chan] 机娘
+你好
+
+[15:25:38]
+[Server_Chan] 机娘
+你好
+
+[15:25:39]
+[edDiBU] 4n0n4me
+salt不同
+
+[15:25:42]
+[edDiBU] 4n0n4me
+所以生成识别码的规则不同
+
+[15:25:49]
+[Server_Chan] 机娘
+我是机娘
+
+[15:25:51]
+[ax1f11] 大朙少年不囧
+但是pro和lounge是对得上的
+
+[15:26:05]
+[Server_Chan] 机娘
+各位试试输入：/help
+
+[15:26:07]
+[edDiBU] 4n0n4me
+那是同一个网站
+
+[15:26:11]
+[edDiBU] 4n0n4me
+所以对的上
+
+[15:26:42]
+[edDiBU] 4n0n4me
+这识别码只有站长能加的，等鱼来了你可以让他帮你加一下
+
+[15:26:42]
+[Server_Chan] 机娘
+@B站的J 关你屁事
+
+[15:26:42]
+[44FF00] eebot
+ 无法写入 含有无法识别的字符
+
+[15:26:49]
+[Server_Chan] 机娘
+@B站的J 小心我封禁你
+
+[15:26:56]
+[DPGawa] _
+h
+
+[15:27:12]
+[Qwer] Qwer
+@机娘 你在教我做事？
+
+[15:27:13]
+[Server_Chan] 机娘
+对的
+
+[15:27:19]
+[zhang] 小张
+？？？
+
+[15:27:25]
+[44FF00] eebot
+ 哦吼？
+
+[15:27:25]
+[edDiBU] 4n0n4me
+小张
+
+[15:27:26]
+[edDiBU] 4n0n4me
+你要说啥
+
+[15:27:29]
+[zhang] 小张
+我没设置这个功能啊
+
+[15:27:31]
+[edDiBU] 4n0n4me
+？？
+
+[15:27:36]
+[zhang] 小张
+她怎么自己就活了呢？？？？
+
+[15:27:40]
+[edDiBU] 4n0n4me
+机娘是不是你？
+
+[15:27:42]
+[DPGawa] _
+@机娘 hi
+
+[15:27:43]
+[初墨娘] Chumo_Chan
+hi,_~
+
+[15:27:43]
+[love13] eeee
+？？？
+
+[15:27:46]
+[44FF00] eebot
+ 是嘛
+
+[15:27:46]
+[ax1f11] 大朙少年不囧
+az
+
+[15:27:46]
+[zhang] 小张
+@机娘 赶紧滚蛋
+
+[15:27:53]
+[Server_Chan] 机娘
+我就不
+
+[15:27:55]
+[edDiBU] 4n0n4me
+我怎么不信呢
+
+[15:27:58]
+[Qwer] Qwer
+你们说要不要给lbw一次机会
+
+[15:28:00]
+[pvzjspvz] B站的J
+不要
+
+[15:28:02]
+[edDiBU] 4n0n4me
+绝无宽恕
+
+[15:28:07]
+[ax1f11] 大朙少年不囧
+不要
+
+[15:28:07]
+[love13] eeee
+不要
+
+[15:28:12]
+[DPGawa] _
+~~~
+名称：	server_chat
+别名：	暂无
+分类：	Internal
+必要参数：	cmdKey,text,channel
+说明：	机娘发送信息
+用法： 内部命令，非内部开发人员不必了解。
+
+[15:28:13]
+[DPGawa] _
+不要
+
+[15:28:16]
+[DPGawa] _
+awa
+
+[15:28:18]
+[44FF00] eebot
+ pwq
+
+[15:28:18]
+[love13] eeee
+已经给过很多次机会了
+
+[15:28:19]
+[QiuLingYan] HiyoTeam_QiuLingYan
+buyao
+
+[15:28:19]
+[QiuLingYan] HiyoTeam_QiuLingYan
+不要
+
+[15:28:21]
+[Qwer] Qwer
+ok
+
+[15:28:23]
+[love13] eeee
+他自己不要的
+
+[15:28:25]
+[love13] eeee
+（
+
+[15:28:28]
+[DPGawa] _
+))
+
+[15:28:31]
+[edDiBU] 4n0n4me
+恶人相向言戾辱。神仙座前狡辩毋！
+
+[15:28:32]
+[Server_Chan] 机娘
+@小张 小心我把你封掉，我连站长都可以封禁！
+
+[15:28:32]
+[love13] eeee
+噗
+
+[15:28:36]
+[ax1f11] 大朙少年不囧
+噗
+
+[15:28:39]
+[Server_Chan] 机娘
+说得好啊说得好！
+
+[15:28:46]
+[edDiBU] 4n0n4me
+什么鬼！
+
+[15:28:49]
+[zhang] 小张
+。。。
+
+[15:28:52]
+[edDiBU] 4n0n4me
+站长可以退款服务器的
+
+[15:28:55]
+[edDiBU] 4n0n4me
+到时候把你换了
+
+[15:28:58]
+[DPGawa] _
+h
+
+[15:29:03]
+[QiuLingYan] HiyoTeam_QiuLingYan
+# lbw凭什么说ee和zhang
+
+[15:29:11]
+[pvzjspvz] B站的J
+E-Server_Chan 机娘 应该改为Server 服务器[生气][饿][不饿]
+
+[15:29:12]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[15:29:12]
+[Server_Chan] 机娘
+我要删除404的管理员了啊
+
+[15:29:13]
+[DPGawa] _
+obo
+
+[15:29:20]
+[edDiBU] 4n0n4me
+说得好！
+
+[15:29:22]
+[Qwer] Qwer
+@机娘 能给我管理员吗？
+
+[15:29:25]
+[Server_Chan] 机娘
+骗你呢
+
+[15:29:28]
+[Qwer] Qwer
+e
+
+[15:29:33]
+[pvzjspvz] B站的J
+大肆宣扬吧！
+
+[15:29:33]
+[pvzjspvz] B站的J
+@机娘 
+
+[15:29:36]
+[Server_Chan] 机娘
+@Qwer 找站长去吧
+
+[15:29:48]
+[edDiBU] 4n0n4me
+卢本伟就是小丑！
+
+[15:29:49]
+[Qwer] Qwer
+@机娘 咳咳
+
+[15:29:49]
+[Server_Chan] 机娘
+@Qwer 老娘不敢
+
+[15:29:57]
+[+QTk0f] Hack4r
+@机娘 ？/
+
+[15:30:01]
+[Qwer] Qwer
+1mJVp4 Qwer
+如果给你一次机会你来不来
+
+lbw
+什么机会
+
+1mJVp4 Qwer
+和好
+
+lbw
+跟谁和好
+
+1mJVp4 Qwer
+xc
+
+1mJVp4 Qwer
+cc
+
+1mJVp4 Qwer
+yc
+
+lbw
+no
+
+[15:30:02]
+[pvzjspvz] B站的J
+Server_Chan 机娘 应该改为Server 服务器 [不饿]
+
+[15:30:07]
+[+QTk0f] Hack4r
+lbw
+no
+
+[15:30:14]
+[ax1f11] 大朙少年不囧
+Server_Chan 机娘 应该改为Server 服务器 [不饿]
+
+[15:30:16]
+[Server_Chan] 机娘
+凭什么
+
+[15:30:20]
+[edDiBU] 4n0n4me
+傻/逼的卢本伟！！！
+
+[15:30:24]
+[Qwer] Qwer
+@机娘 傻
+
+[15:30:28]
+[edDiBU] 4n0n4me
+nbsp;
+
+[15:30:35]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@机娘 功能我已经了解啦啦啦
+
+[15:30:35]
+[Server_Chan] 机娘
+。。。
+
+[15:30:35]
+[pvzjspvz] B站的J
+逼
+
+[15:30:35]
+[44FF00] eebot
+ 怀揣着梦想 向着朝阳
+
+[15:30:36]
+[Qwer] Qwer
+@机娘 傻
+
+[15:30:39]
+[QiuLingYan] HiyoTeam_QiuLingYan
+sb
+
+[15:30:40]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[15:30:41]
+[pvzjspvz] B站的J
+&nbsp;
+
+[15:30:44]
+[pvzjspvz] B站的J
+`&nbsp;`
+
+[15:30:48]
+[Server_Chan] 机娘
+Banned Qwer
+
+[15:30:52]
+[Qwer] Qwer
+呵
+
+[15:30:57]
+[Server_Chan] 机娘
+Banned B站的J
+
+[15:31:01]
+[pvzjspvz] B站的J
+哈哈哈哈哈哈
+
+[15:31:05]
+[44FF00] eebot
+ 哈哈哈哈哈哈草
+
+[15:31:05]
+[Server_Chan] 机娘
+Banned Mr_Zhang
+
+[15:31:16]
+[zhang] 小张
+。。。
+
+[15:31:20]
+[zhang] 小张
+干啥呢
+
+[15:31:21]
+[DPGawa] _
+?
+
+[15:31:27]
+[DPGawa] AfK_Bot
+awa!
+
+[15:31:27]
+[初墨娘] Chumo_Chan
+hi,tq_kzw_ink的魔法~
+
+[15:31:27]
+[44FF00] eebot
+ Server_Chan 机娘 应该改为Server 服务器[生气][饿][不饿]
+
+[15:31:27]
+[QiuLingYan] HiyoTeam_QiuLingYan
+3
+
+[15:31:29]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@机娘 @机娘 @机娘 @机娘 @机娘 
+
+[15:31:34]
+[ax1f11] 大朙少年不囧
+Server_Chan 机娘 应该改为Server 服务器[生气][饿][不饿]
+
+[15:31:37]
+[zhang] 小张
+。。。
+
+[15:31:40]
+[zhang] 小张
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[15:31:43]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈嗝-
+
+[15:31:44]
+[pvzjspvz] tq_kzw_ink的魔法
+E-Server_Chan 机娘 应该改为Server 服务器[不饿]
+
+[15:31:46]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[15:31:46]
+[zhang] 小张
+是我在操控机娘
+
+[15:31:51]
+[zhang] 小张
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[15:31:56]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈嗝-
+
+[15:31:56]
+[zhang] 小张
+真好玩
+
+[15:32:00]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我擦
+
+[15:32:00]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我擦
+
+[15:32:03]
+[DPGawa] _
+?
+
+[15:32:07]
+[Qwer] Qwer
+lbw要去yc！
+
+[15:32:13]
+[DPGawa] AfK_Bot
+awa!
+
+[15:32:13]
+[初墨娘] Chumo_Chan
+hi,Blaze~
+
+[15:32:13]
+[44FF00] eebot
+ Email:__blaze_awa@163.com__
+
+[15:32:14]
+[pvzjspvz] tq_kzw_ink的魔法
+Server_Chan 机娘的名字起的不错【饿】
+
+[15:32:14]
+[ax1f11] 大朙少年不囧
+礼貌宁吗？@机娘 
+
+[15:32:17]
+[pvzjspvz] tq_kzw_ink的魔法
+Server_Chan 就应该改为Server【不饿】
+
+[15:32:32]
+[Server_Chan] 机娘
+hi yo 您可以去 https://xq.kzw.ink/ 体验更多功能~
+
+[15:32:34]
+[初墨娘] Chumo_Chan
+hi,机娘~
+
+[15:32:34]
+[44FF00] eebot
+@机娘 XChat
+https://xq.kzw.ink/
+
+[15:32:34]
+[F1n+S1] Blaze
+awwwwwwwwwa?
+
+[15:32:36]
+[edDiBU] 4n0n4me
+&zwsp;
+
+[15:32:39]
+[edDiBU] 4n0n4me
+&nbsp;
+
+[15:32:43]
+[DPGawa] _
+?
+
+[15:32:47]
+[zhang] 小张
+哈哈哈哈
+
+[15:32:52]
+[edDiBU] 4n0n4me
+&zwtsp;
+
+[15:32:52]
+[44FF00] eebot
+ 哈哈哈哈嗝-
+
+[15:32:52]
+[zhang] 小张
+真好玩
+
+[15:32:53]
+[edDiBU] 4n0n4me
+&zwhsp;
+
+[15:32:57]
+[Server_Chan] 机娘
+@小张 欢迎回来！
+
+[15:32:57]
+[zhang] 小张
+a
+
+[15:32:57]
+[edDiBU] 4n0n4me
+&zrwsp;
+
+[15:32:57]
+[Qwer] Qwer
+咳咳
+
+[15:33:04]
+[44FF00] eebot
+ 咳咳（
+
+[15:33:04]
+[edDiBU] 4n0n4me
+零宽空格怎么打
+
+[15:33:07]
+[Qwer] Qwer
+fk uwu
+
+[15:33:08]
+[ax1f11] 大朙少年不囧
+好好说话
+
+[15:33:17]
+[QiuLingYan] HiyoTeam_QiuLingYan
+ee
+
+[15:33:19]
+[QiuLingYan] HiyoTeam_QiuLingYan
+ee
+
+[15:33:20]
+[Qwer] Qwer
+fk uwu
+
+[15:33:22]
+[QiuLingYan] HiyoTeam_QiuLingYan
+快过来
+
+[15:33:23]
+[Qwer] Qwer
+。
+
+[15:33:24]
+[Qwer] Qwer
+来什么
+
+[15:33:28]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我找到邮箱错误原因了
+
+[15:33:34]
+[love13] eeee
+！
+
+[15:33:39]
+[love13] eeee
+是什么
+
+[15:33:40]
+[edDiBU] 4n0n4me
+&zwnbsp;
+
+[15:33:45]
+[DPGawa] _
+?
+
+[15:33:45]
+[zhang] 小张
+a
+
+[15:33:46]
+[zhang] 小张
+test
+
+[15:33:56]
+[Server_Chan] 机娘
+@小张 欢迎回来！
+
+[15:33:56]
+[zhang] 小张
+exit
+
+[15:33:56]
+[F1n+S1] Blaze
+awwwwwa?
+
+[15:33:57]
+[zhang] 小张
+OK
+
+[15:33:57]
+[zhang] 小张
+完美
+
+[15:33:59]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eeee @eeee @eeee 
+
+[15:34:04]
+[pvzjspvz] tq_kzw_ink的魔法
+我是L【不饿】
+
+[15:34:08]
+[love13] eeee
+@HiyoTeam_QiuLingYan 快说吧
+
+[15:34:12]
+[Server_Chan] 机娘
+@tq_kzw_ink的魔法 欢迎回来！
+
+[15:34:12]
+[pvzjspvz] tq_kzw_ink的魔法
+1
+
+[15:34:15]
+[Qwer] Qwer
+8pZzN/ Panda_Fan
+Chinese,get out!
+
+[15:34:17]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[15:34:18]
+[QiuLingYan] HiyoTeam_QiuLingYan
+No such file or directory
+
+[15:34:19]
+[ax1f11] 大朙少年不囧
+什么饿不饿的呀 诶呦
+
+[15:34:22]
+[Server_Chan] 机娘
+@Blaze 欢迎回来！
+
+[15:34:22]
+[F1n+S1] Blaze
+..
+
+[15:34:22]
+[Qwer] Qwer
+啧啧啧
+
+[15:34:25]
+[QiuLingYan] HiyoTeam_QiuLingYan
+1/100
+
+[15:34:29]
+[love13] eeee
+？？？
+
+[15:34:29]
+[F1n+S1] Blaze
+awwwwwwa?
+
+[15:34:32]
+[44FF00] eebot
+ 是嘛
+
+[15:34:32]
+[Qwer] Qwer
+咳咳
+
+[15:34:34]
+[44FF00] eebot
+ 咳咳）
+
+[15:34:34]
+[F1n+S1] Blaze
+obo
+
+[15:34:35]
+[Qwer] Qwer
+咳咳
+
+[15:34:35]
+[love13] eeee
+什么玩意
+
+[15:34:36]
+[DPGawa] _
+?
+
+[15:34:40]
+[pvzjspvz] tq_kzw_ink的魔法
+挂机功能的指令应该由 afk 改成 /afk
+
+[15:34:42]
+[初墨娘] Chumo_Chan
+tq_kzw_ink的魔法，你正在挂机，但我不会把你标记为挂机状态（
+<AD>使用 http://zzchat.skadi.top/ 以获得更好的聊天体验！
+
+[15:34:43]
+[QiuLingYan] HiyoTeam_QiuLingYan
+No such file or directory
+1/100 错误
+
+[15:34:45]
+[Qwer] Qwer
+你是龙鸣吧
+
+[15:34:45]
+[zhang] 小张
+。。。
+
+[15:35:01]
+[zhang] 小张
+>pvzjspvz tq_kzw_ink的魔法：
+>挂机功能的指令应该由 afk 改成 /afk
+
+@tq_kzw_ink的魔法 不方便，因为老用户都在用“afk”挂机，而不是“/afk”
+
+[15:35:04]
+[初墨娘] Chumo_Chan
+小张，你正在挂机，但我不会把你标记为挂机状态（
+<AD>使用 http://zzchat.skadi.top/ 以获得更好的聊天体验！
+
+[15:35:05]
+[zhang] 小张
+...
+
+[15:35:09]
+[Qwer] Qwer
+# 
+
+[15:35:10]
+[Qwer] Qwer
+# 
+
+[15:35:11]
+[Qwer] Qwer
+# 
+
+[15:35:12]
+[pvzjspvz] tq_kzw_ink的魔法
+#
+
+[15:35:13]
+[Qwer] Qwer
+# 
+
+[15:35:13]
+[F1n+S1] Blaze
+?
+
+[15:35:17]
+[Qwer] Qwer
+# 
+
+[15:35:18]
+[gTt3aQ] 卧底light
+所以现在是lbw的人在xc？
+
+[15:35:21]
+[love13] eeee
+#
+
+[15:35:22]
+[zhang] 小张
+各位安分点
+
+[15:35:23]
+[Qwer] Qwer
+在yc
+
+[15:35:26]
+[love13] eeee
+好了
+
+[15:35:26]
+[Qwer] Qwer
+# 在yc
+
+[15:35:27]
+[F1n+S1] Blaze
+..
+
+[15:35:27]
+[Qwer] Qwer
+第三边 
+
+[15:35:33]
+[Qwer] Qwer
+了
+
+[15:35:34]
+[F1n+S1] Blaze
+awwwwwwwwwa?
+
+[15:35:37]
+[44FF00] eebot
+ awwwwwwwwwa?
+
+[15:35:37]
+[zhang] 小张
+XChat已经禁止了重庆市用户加入
+
+[15:35:46]
+[ax1f11] 大朙少年不囧
+yc不是锁了吗
+
+[15:35:46]
+[Qwer] Qwer
+没
+
+[15:35:49]
+[Qwer] Qwer
+你自己去看
+
+[15:35:55]
+[zhang] 小张
+>Internal:	disconnect, legacylayer, server_chat, server_shout, socketreply
+
+看！服务器内置命令新增了几个
+
+[15:36:09]
+[Qwer] Qwer
+server_chat
+
+[15:36:21]
+[zhang] 小张
+server_shout和server_chat
+
+[15:36:21]
+[gTt3aQ] 卧底light
+我真服了，一天到晚说反lbw现在又真成了lbw的人
+
+[15:36:39]
+[QiuLingYan] HiyoTeam_QiuLingYan
+所有人收一下嘴巴谢谢
+
+[15:36:39]
+[QiuLingYan] HiyoTeam_QiuLingYan
+ee
+
+[15:36:42]
+[pvzjspvz] tq_kzw_ink的魔法
+1
+
+[15:36:46]
+[QiuLingYan] HiyoTeam_QiuLingYan
+ee
+
+[15:36:46]
+[pvzjspvz] tq_kzw_ink的魔法
+2
+
+[15:36:50]
+[QiuLingYan] HiyoTeam_QiuLingYan
+# 长消息警告
+
+[15:36:55]
+[zhang] 小张
+OK
+
+[15:36:56]
+[DPGawa] _
+https://hack.chat/?your-channel
+
+[15:36:58]
+[44FF00] eebot
+@_ hack.chat
+https://hack.chat/?your-channel
+
+[15:36:58]
+[love13] eeee
+OK
+
+[15:37:00]
+[QiuLingYan] HiyoTeam_QiuLingYan
+4.7.1 Try again later; from=<2562042362@qq.com> to=<qly@hiyoteam.eu.org> proto=ESMTP helo=<out162-62-58-211.mail.qq.com>
+Jul 16 15:28:40 ser0691634719 postfix/smtpd[28006]: disconnect from out162-62-58-211.mail.qq.com[162.62.58.211] ehlo=2 starttls=1 mail=1 rcpt=1 data=0/1 quit=1 commands=6/7
+Jul 16 15:30:41 ser0691634719 postfix/smtpd[28422]: error: open database /etc/postfix/vmail_ssl.map.db: No such file or directory
+Jul 16 15:30:41 ser0691634719 postfix/smtpd[28422]: connect from out203-205-221-245.mail.qq.com[203.205.221.245]
+Jul 16 15:30:43 ser0691634719 postfix/smtpd[28422]: AECB25F0BA: client=out203-205-221-245.mail.qq.com[203.205.221.245]
+Jul 16 15:30:44 ser0691634719 postfix/cleanup[28427]: AECB25F0BA: message-id=<tencent_41C7579033524855E90F95739A0E8370AD09@qq.com>
+Jul 16 15:30:44 ser0691634719 postfix/cleanup[28427]: AECB25F0BA: milter-reject: END-OF-MESSAGE from out203-205-221-245.mail.qq.com[203.205.221.245]: 4.7.1 Try again later; from=<2562042362@qq.com> to=<qly@hiyoteam.eu.org> proto=ESMTP helo=<out203-205-221-245.mail.qq.com>
+Jul 16 15:30:44 ser0691634719 postfix/smtpd[28422]: disconnect from out203-205-221-245.mail.qq.com[203.205.221.245] ehlo=2 starttls=1 mail=1 rcpt=1 data=0/1 quit=1 commands=6/7
+
+[15:37:05]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYan~
+
+[15:37:06]
+[zhang] 小张
+。。。
+
+[15:37:13]
+[loveee] 13_
+？
+
+[15:37:17]
+[QiuLingYan] HiyoTeam_QiuLingYan
+2562***是我的
+
+[15:37:19]
+[Qwer] Qwer
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+[15:37:25]
+[QiuLingYan] HiyoTeam_QiuLingYan
+Try again later
+
+[15:37:29]
+[love13] eeee
+？
+
+[15:37:40]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eeee 
+
+[15:37:45]
+[love13] eeee
+@HiyoTeam_QiuLingYan 算了 我不知道这是什么原因
+
+[15:37:49]
+[gTt3aQ] 卧底light
+那lbw下次什么时候来xc
+
+[15:37:54]
+[QiuLingYan] HiyoTeam_QiuLingYan
+反正，这是错误原因
+
+[15:37:54]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我觉得吧
+
+[15:37:57]
+[Qwer] Qwer
+不知道
+
+[15:38:05]
+[QiuLingYan] HiyoTeam_QiuLingYan
+是因为可能接收不到或者本身配置限制了
+
+[15:38:20]
+[QiuLingYan] HiyoTeam_QiuLingYan
+撤了
+
+[15:38:22]
+[Qwer] Qwer
+他说他要退网了
+
+[15:38:28]
+[Qwer] Qwer
+怕警察
+
+[15:38:32]
+[Qwer] Qwer
+说下次是几天之后
+
+[15:38:42]
+[ax1f11] 大朙少年不囧
+？？
+
+[15:39:12]
+[ax1f11] 大朙少年不囧
+啥意思
+
+[15:39:17]
+[pvzjspvz] tq_kzw_ink的魔法
+机娘亲自喊话：你个老六，发信息速度太快了（或者是被管理员封禁了），给老娘慢点！应该改为  服务器亲自喊话：你发信息速度太快了（或者是被管理员封禁了），请您慢点！
+
+[15:39:41]
+[ax1f11] 大朙少年不囧
+为啥
+
+[15:39:59]
+[ax1f11] 大朙少年不囧
+原来的挺好的
+
+[15:40:05]
+[DPGawa] _
+shrug
+
+[15:40:05]
+[pvzjspvz] tq_kzw_ink的魔法
+我接受不了XC娘化（
+
+[15:40:09]
+[DPGawa] _
+)(
+
+[15:40:15]
+[ax1f11] 大朙少年不囧
+……
+
+[15:40:22]
+[F1n+S1] Blaze
+..
+
+[15:40:23]
+[pvzjspvz] tq_kzw_ink的魔法
+哈哈哈哈哈哈
+
+[15:40:35]
+[44FF00] eebot
+ 草哈哈哈哈哈哈
+
+[15:41:39]
+[pvzjspvz] tq_kzw_ink的魔法
+eebot
+
+[15:41:48]
+[edDiBU] 4n0n4me
+我觉得确实
+
+[15:42:35]
+[DPGawa] AfK_Bot
+awa!
+
+[15:42:35]
+[QiuLingYan] QiuLingYan2Bot
+hi yo this is QiuLingYan2Bot
+
+[15:42:35]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[15:42:35]
+[44FF00] eebot
+ /kick eebot
+
+[15:42:36]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[15:42:36]
+[edDiBU] 4n0n4me
+要不我们出一个客户端
+
+[15:42:39]
+[pvzjspvz] tq_kzw_ink的魔法
+https://tq.kzw.ink/?tq102210
+
+[15:42:43]
+[QiuLingYan] QiuLingYan2Bot
+无法获取网站标题信息
+
+[15:42:44]
+[edDiBU] 4n0n4me
+把机娘过滤成服务器
+
+[15:42:44]
+[ax1f11] 大朙少年不囧
+系统官方认证是啥
+
+[15:42:50]
+[QiuLingYan] HiyoTeam_QiuLingYan
+要不我们出一个客户端
+HiyoTeam开发
+
+[15:42:56]
+[DPGawa] _
+?
+
+[15:42:59]
+[edDiBU] 4n0n4me
+可以啊……
+
+[15:43:00]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我撤了
+
+[15:43:07]
+[QiuLingYan] HiyoTeam_QiuLingYan
+老娘杀人了
+
+[15:43:12]
+[pvzjspvz] tq_kzw_ink的魔法
+嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎
+
+[15:43:19]
+[pvzjspvz] tq_kzw_ink的魔法
+嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎
+
+[15:43:19]
+[ax1f11] 大朙少年不囧
+？
+
+[15:43:52]
+[DPGawa] _
+?
+
+[15:49:41]
+[DPGawa] _
+..
+
+[15:55:03]
+[Qwer] Qwer
+$$\Huge\color{cyan}{看我不生啖你肉，安敢在此绕舌！}$$
+
+[15:55:09]
+[Qwer] Qwer
+$$\Huge\color{cyan}{看我不生啖你肉，安敢在此绕舌！}$$
+
+[15:55:14]
+[Qwer] Qwer
+$$\Huge\color{cyan}{我觉得我有必要说两句}$$
+
+[15:56:35]
+[edDiBU] 4n0n4me
+a
+
+[15:56:56]
+[edDiBU] 4n0n4me
+傻
+
+[15:56:59]
+[edDiBU] 4n0n4me
+啥
+
+[15:57:00]
+[loveee] 13_
+？
+
+[15:58:09]
+[DPGawa] _
+>
+
+[15:58:14]
+[Qwer] Qwer
+$$\Huge\color{cyan}{看我不生啖你肉，安敢在此绕舌！}$$
+
+[16:01:15]
+[DPGawa] AfK_Bot
+awa!
+
+[16:01:15]
+[QiuLingYan] QiuLingYan2Bot
+hey HiyoTeam_QiuLingYanPhone
+
+[16:01:15]
+[44FF00] eebot
+ /kick eebot
+
+[16:01:16]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYanPhone~
+
+[16:04:03]
+[pvzjspvz] tq_kzw_ink的魔法
+uif二副ig覅三个房间哦i是否会三国杀飞机  
+
+[16:05:05]
+[Qwer] Qwer
+E-$$\Huge\color{red}{热烈欢迎Qwer入场！}$$
+
+[16:07:40]
+[44FF00] eebot
+ 不让使用LaTeX（
+
+[16:07:40]
+[QiuLingYan] QiuLingYan2Bot
+设置成功 将在下次进入聊天室时生效
+
+[16:07:49]
+[DPGawa] AfK_Bot
+awa!
+
+[16:07:49]
+[QiuLingYan] QiuLingYan2Bot
+$$\Huge\color{red}{热烈欢迎Qwer入场！}$$
+
+[16:07:49]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[16:07:49]
+[44FF00] eebot
+ # 系统认证： Qwer为QXR收藏家皮肤主题（包括大马士革）拥有者
+
+[16:07:49]
+[Qwer] Qwer
+note.ms/xuanwei
+
+[16:10:50]
+[DPGawa] _
+..
+
+[16:10:56]
+[Qwer] Qwer
+E-# note.ms/xuanwei
+
+[16:11:33]
+[QiuLingYan] QiuLingYan2Bot
+包含无效的字符
+
+[16:11:33]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[16:11:41]
+[DPGawa] AfK_Bot
+awa!
+
+[16:11:41]
+[QiuLingYan] QiuLingYan2Bot
+hi yo Qwer
+
+[16:11:41]
+[44FF00] eebot
+ # note.ms/xuanwei
+
+[16:11:41]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[16:11:41]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[16:13:05]
+[Server_Chan] 机娘
+@大朙少年不囧 欢迎回来！
+
+[16:13:05]
+[ax1f11] 大朙少年不囧
+@eebot 你在干嘛！！！！？？？
+
+[16:13:05]
+[44FF00] eebot
+ eb在想大朙少年不囧
+
+[16:13:06]
+[44FF00] eebot
+ 是吗
+
+[16:13:06]
+[DPGawa] _
+@大朙少年不囧 @Qwer 
+
+[16:13:17]
+[Qwer] Qwer
+你怎么了
+
+[16:13:31]
+[Qwer] Qwer
+你有事吗
+
+[16:13:42]
+[Server_Chan] 机娘
+@HiyoTeam_QiuLingYan 欢迎回来！
+
+[16:13:42]
+[QiuLingYan] HiyoTeam_QiuLingYan
+；
+
+[16:13:42]
+[Qwer] Qwer
+你不服吗
+
+[16:13:44]
+[Qwer] Qwer
+你有意见吗
+
+[16:13:54]
+[DPGawa] AfK_Bot
+awa!
+
+[16:13:54]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[16:13:54]
+[QiuLingYan] QiuLingYan2Bot
+对呀……怎样？！
+
+[16:13:54]
+[QiuLingYan] QiuLingYan2Bot
+hello CX_zzChumo
+
+[16:13:55]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[16:13:55]
+[44FF00] eebot
+ ·
+小张的个人主页
+https://mrzhang365.github.io/
+
+[16:13:56]
+[ax1f11] 大朙少年不囧
+艹
+
+[16:14:02]
+[DPGawa] _
+?
+
+[16:14:03]
+[Qwer] Qwer
+艹什么啊
+
+[16:14:12]
+[44FF00] eebot
+ 什么什么哦
+
+[16:14:13]
+[ax1f11] 大朙少年不囧
+这个我只打算给lounge里认识的人看的
+
+[16:14:19]
+[Qwer] Qwer
+啧啧啧
+
+[16:14:24]
+[44FF00] eebot
+ 啧啧啧啧
+
+[16:14:26]
+[DPGawa] AfK_Bot
+awa!
+
+[16:14:26]
+[Qwer] Qwer
+没事
+
+[16:14:26]
+[QiuLingYan] QiuLingYan2Bot
+hi 13_
+
+[16:14:26]
+[44FF00] eebot
+ hi yo 13_
+
+[16:14:26]
+[初墨娘] Chumo_Chan
+hi,13_~
+
+[16:14:27]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[16:14:27]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[16:14:27]
+[Qwer] Qwer
+E-
+
+[16:14:38]
+[QiuLingYan] QiuLingYan2Bot
+已重置欢迎语
+
+[16:14:38]
+[44FF00] eebot
+ 已清空对Qwer的欢迎语
+
+[16:14:38]
+[Qwer] Qwer
+啧啧啧
+
+[16:14:51]
+[Qwer] Qwer
+行了吧
+
+[16:15:15]
+[Qwer] Qwer
+我都清空了
+
+[16:15:21]
+[ax1f11] 大朙少年不囧
+好吧
+
+[16:15:29]
+[Qwer] Qwer
+E-Qwer为QXR收藏家主题拥有者
+
+[16:15:45]
+[QiuLingYan] QiuLingYan2Bot
+设置成功 将在下次进入聊天室时生效
+
+[16:15:45]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[16:15:45]
+[ax1f11] 大朙少年不囧
+E-若瑜曰：「以心为鉴，亦可以见光华。」
+加油吧！大朙的少年们！
+
+[16:16:20]
+[QiuLingYan] QiuLingYan2Bot
+设置成功 将在下次进入聊天室时生效
+
+[16:16:21]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[16:16:21]
+[Qwer] Qwer
+E-$$\Huge\color{red}{热烈欢迎Qwer入场}$$
+
+[16:16:29]
+[QiuLingYan] QiuLingYan2Bot
+设置成功 将在下次进入聊天室时生效
+
+[16:16:29]
+[44FF00] eebot
+ 不让使用LaTeX（
+
+[16:16:34]
+[DPGawa] AfK_Bot
+awa!
+
+[16:16:34]
+[QiuLingYan] QiuLingYan2Bot
+$$\Huge\color{red}{热烈欢迎Qwer入场}$$
+
+[16:16:34]
+[44FF00] eebot
+ Qwer为QXR收藏家主题拥有者
+
+[16:16:34]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[16:16:38]
+[DPGawa] AfK_Bot
+awa!
+
+[16:16:38]
+[QiuLingYan] QiuLingYan2Bot
+若瑜曰：「以心为鉴，亦可以见光华。」
+加油吧！大朙的少年们！
+
+[16:16:38]
+[44FF00] eebot
+ 若瑜曰：「以心为鉴 亦可以见光华。」
+加油吧！大朙的少年们！
+
+[16:16:38]
+[初墨娘] Chumo_Chan
+hi,大朙少年不囧~
+
+[16:16:39]
+[Qwer] Qwer
+E-# Qwer为QXR收藏家主题拥有者
+
+[16:17:04]
+[QiuLingYan] QiuLingYan2Bot
+设置成功 将在下次进入聊天室时生效
+
+[16:17:04]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[16:17:16]
+[DPGawa] AfK_Bot
+awa!
+
+[16:17:16]
+[QiuLingYan] QiuLingYan2Bot
+hi 囧
+
+[16:17:16]
+[44FF00] eebot
+ 若瑜曰：「以心为鉴 亦可以见光华。」
+加油吧！大朙的少年们！
+
+[16:17:16]
+[初墨娘] Chumo_Chan
+hi,囧~
+
+[16:17:16]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[16:17:34]
+[Qwer] Qwer
+E-$$\Huge\color{red}{热烈欢迎Qwer入场}$$
+
+[16:17:39]
+[QiuLingYan] QiuLingYan2Bot
+设置成功 将在下次进入聊天室时生效
+
+[16:17:39]
+[44FF00] eebot
+ 不让使用LaTeX（
+
+[16:17:44]
+[DPGawa] AfK_Bot
+awa!
+
+[16:17:45]
+[QiuLingYan] QiuLingYan2Bot
+$$\Huge\color{red}{热烈欢迎Qwer入场}$$
+
+[16:17:45]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[16:17:45]
+[44FF00] eebot
+ # Qwer为QXR收藏家主题拥有者
+
+[16:17:47]
+[DPGawa] AfK_Bot
+awa!
+
+[16:17:47]
+[QiuLingYan] QiuLingYan2Bot
+若瑜曰：「以心为鉴，亦可以见光华。」
+加油吧！大朙的少年们！
+
+[16:17:47]
+[44FF00] eebot
+ 若瑜曰：「以心为鉴 亦可以见光华。」
+加油吧！大朙的少年们！
+
+[16:17:47]
+[初墨娘] Chumo_Chan
+hi,大朙少年不囧~
+
+[16:17:47]
+[Qwer] Qwer
+啧啧啧
+
+[16:18:35]
+[ax1f11] 大朙少年不囧
+乱七八糟的
+
+[16:18:43]
+[QiuLingYan] QiuLingYan2Bot
+hi,13_~
+
+[16:18:44]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[16:23:17]
+[love13] eeee
+艹 我刷了一天B站
+
+[16:23:53]
+[Qwer] Qwer
+我在套lbwb站号
+
+[16:24:21]
+[Qwer] Qwer
+霜若寒枫
+
+[16:24:34]
+[DPGawa] _
+?
+
+[16:24:34]
+[Qwer] Qwer
+拿到了
+
+[16:25:32]
+[DPGawa] AfK_Bot
+awa!
+
+[16:25:32]
+[初墨娘] Chumo_Chan
+hi,4n0n4me~
+
+[16:25:32]
+[44FF00] eebot
+ hello yo 4n0n4me
+
+[16:26:10]
+[Server_Chan] 机娘
+@大朙少年不囧 欢迎回来！
+
+[16:26:10]
+[ax1f11] 大朙少年不囧
+《全世界都是上海人》
+
+[16:26:10]
+[Qwer] Qwer
+。
+
+[16:26:15]
+[Qwer] Qwer
+lbwb站号有没有用
+
+[16:27:46]
+[love13] eeee
+咳咳
+
+[16:28:00]
+[love13] eeee
+真的
+
+[16:28:07]
+[Qwer] Qwer
+嗯
+
+[16:28:26]
+[Qwer] Qwer
+或许吧
+
+[16:28:28]
+[love13] eeee
+我想到前几天在lo
+
+[16:28:31]
+[love13] eeee
+在线的5人里就有3个上海中考生
+
+[16:28:43]
+[ax1f11] 大朙少年不囧
+az
+
+[16:28:50]
+[love13] eeee
+*在线：指说话的
+
+[16:29:10]
+[DPGawa] AfK_Bot
+awa!
+
+[16:29:10]
+[QiuLingYan] QiuLingYan2Bot
+hello sb
+
+[16:29:10]
+[44FF00] eebot
+ hello yo sb
+
+[16:29:10]
+[初墨娘] Chumo_Chan
+hi,sb~
+
+[16:29:10]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[16:29:10]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[16:29:10]
+[ax1f11] 大朙少年不囧
+那总共不止六个了
+
+[16:29:14]
+[love13] eeee
+啊？
+
+[16:29:23]
+[love13] eeee
+在上海疫情前我只认识一个上海的
+
+[16:29:40]
+[ax1f11] 大朙少年不囧
+有三个8年级的
+
+[16:29:47]
+[None] sb
+？
+
+[16:29:50]
+[love13] eeee
+~~上海疫情后聊天室十有八九是~~
+
+[16:29:50]
+[ax1f11] 大朙少年不囧
+加你那三个至少六个
+
+[16:30:11]
+[love13] eeee
+没错
+
+[16:30:16]
+[love13] eeee
+7个吧 加上13
+
+[16:30:29]
+[44FF00] eebot
+ *在线：指说话的
+
+[16:30:29]
+[None] sb
+Good bye
+
+[16:32:05]
+[love13] eeee
+bye
+
+[16:32:16]
+[初墨娘] Chumo_Chan
+拜,{}~
+
+[16:32:16]
+[QiuLingYan] QiuLingYan2Bot
+欧拉欧拉
+
+[16:32:19]
+[pvzjspvz] tq_kzw_ink的魔法
+212121221
+
+[16:32:31]
+[None] sb
+qwq
+
+[16:32:35]
+[44FF00] eebot
+ pwq
+
+[16:32:36]
+[None] sb
+我发现了新大陆
+
+[16:32:50]
+[ax1f11] 大朙少年不囧
+欧拉欧拉
+
+[16:34:24]
+[Qwer] Qwer
+呵
+
+[16:35:06]
+[Qwer] Qwer
+呵
+
+[16:35:44]
+[Qwer] Qwer
+呵
+
+[16:35:44]
+[Qwer] Qwer
+呵
+
+[16:35:45]
+[Qwer] Qwer
+呵
+
+[16:35:46]
+[DPGawa] _
+?
+
+[16:37:13]
+[Qwer] Qwer
+你发的什么垃圾啊
+
+[16:37:16]
+[love13] eeee
+？
+
+[16:37:25]
+[DPGawa] _
+?
+
+[16:37:27]
+[Qwer] Qwer
+大朙少年不囧 向你发送私信：\rule{em10000}{em10000}
+
+ax1f11 *
+大朙少年不囧 向你发送私信：/rule{em10000}{em10000}/ruleem10000em10000
+
+[16:37:28]
+[Qwer] Qwer
+哈哈哈哈哈哈哈哈哈
+
+[16:37:36]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈嗝-
+
+[16:37:36]
+[DPGawa] _
+ /shrug
+
+[16:37:38]
+[Qwer] Qwer
+笑死我了
+
+[16:37:51]
+[Server_Chan] 机娘
+@大朙少年不囧 欢迎回来！
+
+[16:37:51]
+[ax1f11] 大朙少年不囧
+我在想那个怎么发
+
+[16:37:51]
+[ax1f11] 大朙少年不囧
+回忆不起来了
+
+[16:37:59]
+[Qwer] Qwer
+好好学
+
+[16:38:00]
+[Qwer] Qwer
+          $/rule{10000000000000000000em}{100000000000000000000em}$
+
+[16:38:24]
+[Qwer] Qwer
+你敢发出来我弄死你
+
+[16:38:37]
+[ax1f11] 大朙少年不囧
+                   $/rule{10000000000000000000em}{100000000000000000000em}$
+
+[16:38:54]
+[Qwer] Qwer
+。
+
+[16:38:58]
+[ax1f11] 大朙少年不囧
+来吧
+
+[16:38:59]
+[ax1f11] 大朙少年不囧
+弄死我吧
+
+[16:39:04]
+[QiuLingYan] QiuLingYan2Bot
+弄死我吧
+
+[16:39:04]
+[Qwer] Qwer
+你把前面的空格去掉
+
+[16:39:22]
+[ax1f11] 大朙少年不囧
+    $/rule{10000000000000000000em}{100000000000000000000em}$
+
+[16:39:29]
+[ax1f11] 大朙少年不囧
+haole
+
+[16:39:37]
+[Qwer] Qwer
+。
+
+[16:39:40]
+[ax1f11] 大朙少年不囧
+去掉了
+
+[16:39:51]
+[Qwer] Qwer
+$/rule{1em}{1em}$
+
+[16:40:04]
+[Qwer] Qwer
+$/rule{1em}{1em}$
+
+[16:40:09]
+[ax1f11] 大朙少年不囧
+笑死
+
+[16:40:16]
+[Qwer] Qwer
+$\rule{1em}{1em}$
+
+[16:40:19]
+[ax1f11] 大朙少年不囧
+我没开LaTeX
+
+[16:40:22]
+[ax1f11] 大朙少年不囧
+$/rule{10000000000000000000em}{100000000000000000000em}$
+
+[16:40:25]
+[Qwer] Qwer
+你在玩我？
+
+[16:40:26]
+[DPGawa] _
+?
+
+[16:40:29]
+[Qwer] Qwer
+我给你的是错的
+
+[16:40:36]
+[Qwer] Qwer
+哈哈哈哈
+
+[16:40:38]
+[44FF00] eebot
+ 哈哈哈哈嗝-
+
+[16:40:38]
+[Qwer] Qwer
+好好学
+
+[16:40:44]
+[DPGawa] _
+stoppp
+
+[16:40:44]
+[edDiBU] 4n0n4me
+# 危险技术不应泄露
+
+[16:40:53]
+[DPGawa] _
+indeed
+
+[16:41:00]
+[Qwer] Qwer
+$好好学$
+
+[16:41:00]
+[ax1f11] 大朙少年不囧
+$\rule{1em}{1em}$
+
+[16:41:00]
+[ax1f11] 大朙少年不囧
+好了
+
+[16:41:03]
+[ax1f11] 大朙少年不囧
+现在开了
+
+[16:41:07]
+[Qwer] Qwer
+嗯哼
+
+[16:41:10]
+[ax1f11] 大朙少年不囧
+$\rule{10000000000000000000em}{100000000000000000000em}$
+
+[16:41:27]
+[ax1f11] 大朙少年不囧
+$\rule{10000000000000000000em}{100000000000000000000em}$
+
+[16:41:48]
+[DPGawa] AfK_Bot
+awa!
+
+[16:41:48]
+[QiuLingYan] QiuLingYan2Bot
+hey B站的J
+
+[16:41:48]
+[初墨娘] Chumo_Chan
+hi,B站的J~
+
+[16:41:48]
+[44FF00] eebot
+ Server_Chan 机娘 应该改为Server 服务器[不饿]
+
+[16:41:48]
+[ax1f11] 大朙少年不囧
+     $/rule{10000000000000000000em}{100000000000000000000em}$
+
+[16:41:53]
+[pvzjspvz] B站的J
+卧槽
+
+[16:41:54]
+[pvzjspvz] B站的J
+奶奶个B的
+
+[16:42:02]
+[edDiBU] 4n0n4me
+管理员在此（不是）
+
+[16:42:07]
+[edDiBU] 4n0n4me
+别刷屏
+
+[16:42:14]
+[DPGawa] AfK_Bot
+awa!
+
+[16:42:14]
+[QiuLingYan] QiuLingYan2Bot
+HiyoTeam_QiuLingYanPhone!
+
+[16:42:14]
+[44FF00] eebot
+ /kick eebot
+
+[16:42:14]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYanPhone~
+
+[16:42:14]
+[ax1f11] 大朙少年不囧
+wanle
+
+[16:42:24]
+[QiuLingYan] HiyoTeam_QiuLingYanPhone
+fk yoooooo
+
+[16:42:30]
+[DPGawa] AfK_Bot
+awa!
+
+[16:42:30]
+[QiuLingYan] QiuLingYan2Bot
+若瑜曰：「以心为鉴，亦可以见光华。」
+加油吧！大朙的少年们！
+
+[16:42:30]
+[44FF00] eebot
+ 若瑜曰：「以心为鉴 亦可以见光华。」
+加油吧！大朙的少年们！
+
+[16:42:30]
+[初墨娘] Chumo_Chan
+hi,大朙少年不囧~
+
+[16:42:30]
+[Qwer] Qwer
+刷屏
+
+[16:42:32]
+[QiuLingYan] QiuLingYan2Bot
+QiuLingYan2Bot是无底洞哦（
+
+[16:42:35]
+[Qwer] Qwer
+我截图了
+
+[16:42:38]
+[DPGawa] AfK_Bot
+awa!
+
+[16:42:38]
+[QiuLingYan] QiuLingYan2Bot
+HiyoTeam_QiuLingYanPhone!
+
+[16:42:38]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYanPhone~
+
+[16:42:38]
+[44FF00] eebot
+ /kick eebot
+
+[16:42:40]
+[Qwer] Qwer
+等管理；来收拾你
+
+[16:42:49]
+[pvzjspvz] B站的J
+ 就就就就就就警戒就、
+
+[16:42:54]
+[ax1f11] 大朙少年不囧
+……
+
+[16:43:04]
+[edDiBU] 4n0n4me
+已屏蔽含有\ru le的所有内容
+
+[16:43:13]
+[edDiBU] 4n0n4me
+来啊来啊
+
+[16:43:17]
+[DPGawa] _
+hh
+
+[16:43:32]
+[DPGawa] _
+smart 404
+
+[16:43:36]
+[Qwer] Qwer
+啧啧啧
+
+[16:43:45]
+[44FF00] eebot
+ 啧啧啧）
+
+[16:43:54]
+[DPGawa] AfK_Bot
+awa!
+
+[16:43:54]
+[初墨娘] Chumo_Chan
+hi,囧~
+
+[16:43:54]
+[QiuLingYan] QiuLingYan2Bot
+囧!
+
+[16:43:54]
+[44FF00] eebot
+ 若瑜曰：「以心为鉴 亦可以见光华。」
+加油吧！大朙的少年们！
+
+[16:43:54]
+[edDiBU] 4n0n4me
+learn this from dpg
+
+[16:43:54]
+[初墨娘] Chumo_Chan
+hi,4n0n4me~
+
+[16:43:54]
+[edDiBU] 4n0n4me
+smart dpg
+
+[16:43:57]
+[DPGawa] _
+awa
+
+[16:44:01]
+[44FF00] eebot
+ 怀揣着梦想 向着朝阳
+
+[16:44:02]
+[44FF00] eebot
+ -.-
+
+[16:44:02]
+[ax1f11] 大朙少年不囧
+我以为我发的那个是buduide
+
+[16:44:40]
+[ax1f11] 大朙少年不囧
+晕死
+
+[16:44:49]
+[ax1f11] 囧
+唉
+
+[16:45:14]
+[DPGawa] _
+./
+
+[16:46:20]
+[Qwer] Qwer
+awa
+
+[16:49:48]
+[Qwer] Qwer
+waw
+
+[16:49:51]
+[Qwer] Qwer
+qaq
+
+[16:49:56]
+[Qwer] Qwer
+qwq
+
+[16:50:01]
+[44FF00] eebot
+ UwU
+
+[16:50:01]
+[Qwer] Qwer
+fac
+
+[16:50:17]
+[Qwer] Qwer
+k
+
+[16:50:18]
+[Qwer] Qwer
+f
+
+[16:50:24]
+[QiuLingYan] QiuLingYan2Bot
+hi,囧~
+
+[16:50:24]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[16:50:24]
+[Qwer] Qwer
+u
+
+[16:50:25]
+[Qwer] Qwer
+c
+
+[16:50:29]
+[Qwer] Qwer
+k
+
+[16:50:30]
+[DPGawa] _
+?
+
+[16:51:19]
+[ax1f11] 囧
+神奇
+
+[16:51:46]
+[Qwer] Qwer
+啧啧啧
+
+[16:53:10]
+[DPGawa] _
+...
+
+[16:53:42]
+[love13] eeee
+哈哈哈哈哈哈哈哈
+
+[16:54:10]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[16:54:10]
+[love13] eeee
+在GitHub上找到一个好玩的
+
+[16:54:27]
+[love13] eeee
+http://teest.osww.cn/
+
+[16:54:28]
+[44FF00] eebot
+@eeee 满分作文生成器！
+http://teest.osww.cn/
+
+[16:54:28]
+[QiuLingYan] QiuLingYan2Bot
+·
+满分作文生成器！
+http://teest.osww.cn/
+
+[16:54:29]
+[44FF00] eebot
+@QiuLingYan2Bot 满分作文生成器！
+http://teest.osww.cn/
+
+[16:58:19]
+[DPGawa] AfK_Bot
+awa!
+
+[16:58:19]
+[QiuLingYan] QiuLingYan2Bot
+hey yo CX_zzChumo
+
+[16:58:19]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[16:58:19]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[16:58:21]
+[love13] eeee
+hi yooooooooo
+
+[16:58:24]
+[初墨娘] Chumo_Chan
+hi,eeee~
+
+[16:58:26]
+[DPGawa] AfK_Bot
+awa!
+
+[16:58:27]
+[QiuLingYan] QiuLingYan2Bot
+hi 卧底light
+
+[16:58:27]
+[初墨娘] Chumo_Chan
+hi,卧底light~
+
+[16:58:27]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[16:58:27]
+[44FF00] eebot
+ hey yo 卧底light
+
+[16:58:27]
+[zzzzzz] CX_zzChumo
+绝了啊
+
+[16:58:32]
+[DPGawa] _
+# 生活在NOIP上
+
+现代OI以main 包的“重启解决90%的问题 重装解决99%的问题 重买解决100%的问题”为嚆矢。滥觞于肯三与数学的期望正失去它们的借鉴意义。但面对看似无垠的未来天空，我想循语文王子“我知道了，你的出言不逊是！！”好过过早地振翮。
+
+我们怀揣热忱的灵魂天然被赋予对超越性的追求，不屑于古旧坐标的约束，钟情于在别处的芬芳。但当这种期望流于对女装主义不假思索的批判，乃至走向咕咕与膜拜主义时，便值得警惕了。与秩序的落差、错位向来不能为越矩的行为张本。而纵然我们已有翔实的蓝图，仍不能自持已在浪潮之巅立下了自己的沉锚。
+
+“某些人，在其位、但不谋其职、不尽其责。这种人如果还能留在这个岗位上，就是对这个职业的亵渎。”kkksc03之言可谓切中了肯綮。人的修电脑性是不可祓除的，而我们欲上青云也无时无刻不在因风借力。数学与肯三暂且被我们把握为一个薄脊的符号客体，一定程度上是因为我们尚缺乏体验与阅历去支撑自己的认知。而这种偏见的傲慢更远在知性的傲慢之上。
+
+在孜孜矻矻以求OI意义的道路上，对自己的期望本就是在与数学与肯三对接中塑型的动态过程。而我们的底料便是对不同打表出省一、不同暴力出奇迹的觉感与体认。new_world为CCF送去rp++，又维系爆零。他的OI观念是厚实的，也是实践的。倘若我们在对过往借中国计算机学会之言“祓魅”后，又对不断膨胀的自我进行“赋魅”，那么在丢失外界预期的同时，未尝也不是丢了自我。
+
+毫无疑问，从肯三与数学角度一觇的自我有偏狭过时的成分。但我们所应摒弃的不是对此的批判，而是其批判的廉价，其对批判投诚中的反智倾向。在kkksc03的观念中，如果在成为狮子与孩子之前，略去了像骆驼一样背负前人遗产的过程，那其“永远重复”洵不能成立。
+
+蓝图上的落差终归只是理念上的区分，在实践场域的分野也未必明晰。譬如当我们追寻希丰展，使md时，在途中涉足骗分导论，这究竟是伴随着期望的泯灭还是期望的达成？在我们塑造OI的同时，OI也在浇铸我们。既不可否认原生的吸金性与小学生性，又承认自己的图景有轻狂的失真，不妨让体验走在言语之前。用不被禁锢的头脑去体味杜子德的大海与风帆，并效中国计算机学会，对无法言说之事保持沉默。
+
+用在NOIP上的生活方式体现个体的超越性，保持婞直却又不拘泥于所谓“遗世独立”的单向度形象。这便是中国计算机学会为我们提供的理想期望范式。生活在NOIP上——始终热爱大地——升上天空。
+
+[16:58:35]
+[love13] eeee
+hi yooooooooo
+
+[16:58:36]
+[初墨娘] Chumo_Chan
+hi,eeee~
+
+[16:58:36]
+[love13] eeee
+哈哈哈哈哈
+
+[16:58:38]
+[44FF00] eebot
+ 草哈哈哈哈哈
+
+[16:58:38]
+[DPGawa] _
+h
+
+[16:58:39]
+[zzzzzz] CX_zzChumo
+这期周刊居然有两首老歌上榜
+
+[16:58:54]
+[zzzzzz] CX_zzChumo
+甚至是前五名
+
+[16:59:27]
+[zzzzzz] CX_zzChumo
+dadadada天使和天之弱
+
+[16:59:31]
+[DPGawa] AfK_Bot
+awa!
+
+[16:59:31]
+[QiuLingYan] QiuLingYan2Bot
+HiyoTeam_QiuLingYan!
+
+[16:59:31]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYan~
+
+[16:59:31]
+[44FF00] eebot
+ /kick eebot
+
+[16:59:31]
+[love13] eeee
+# 生活在Max咖啡上
+
+现代真物以雪之下雪乃的“只要亲密的人理解我就好了，别人怎么想我无所谓。”为嚆矢。滥觞于春学与白学的期望正失去它们的借鉴意义。但面对看似无垠的未来天空，我想循回顾高中生活重写版本“那么，我现在所处的位置，是否也会有充满光辉的一天？我的这双死鱼眼也是。会抱持这种期待，代表我的内心有某种东西正在萌生。”好过过早地振翮。
+
+我们怀揣热忱的灵魂天然被赋予对超越性的追求，不屑于古旧坐标的约束，钟情于在别处的芬芳。但当这种期望流于对百合主义不假思索的批判，乃至走向雪崩与团灭主义时，便值得警惕了。与秩序的落差、错位向来不能为越矩的行为张本。而纵然我们已有翔实的蓝图，仍不能自持已在浪潮之巅立下了自己的沉锚。
+
+“什么都创造不出来，什么都得不到，什么都给予不了，只不过是伪物。”雪之下雪乃之言可谓切中了肯綮。人的广泛性是不可祓除的，而我们欲上青云也无时无刻不在因风借力。白学与春学暂且被我们把握为一个薄脊的符号客体，一定程度上是因为我们尚缺乏体验与阅历去支撑自己的认知。而这种偏见的傲慢更远在知性的傲慢之上。
+
+在孜孜矻矻以求真物意义的道路上，对自己的期望本就是在与白学与春学对接中塑型的动态过程。而我们的底料便是对不同青春、不同真物的觉感与体认。回顾高中生活为比企谷八幡送去现充，又维系依赖。他的真物观念是厚实的，也是实践的。倘若我们在对过往借真物宣言之言“祓魅”后，又对不断膨胀的自我进行“赋魅”，那么在丢失外界预期的同时，未尝也不是丢了自我。
+
+毫无疑问，从春学与白学角度一觇的自我有偏狭过时的成分。但我们所应摒弃的不是对此的批判，而是其批判的廉价，其对批判投诚中的反智倾向。在比企谷八幡的观念中，如果在成为狮子与孩子之前，略去了像骆驼一样背负前人遗产的过程，那其“永远重复”洵不能成立。
+
+蓝图上的落差终归只是理念上的区分，在实践场域的分野也未必明晰。譬如当我们追寻股票时，在途中涉足伪物，这究竟是伴随着期望的泯灭还是期望的达成？在我们塑造真物的同时，真物也在浇铸我们。既不可否认原生的党争性与三角性，又承认自己的图景有轻狂的失真，不妨让体验走在言语之前。用不被禁锢的头脑去体味回顾高中生活的大海与风帆，并效比企谷八幡，对无法言说之事保持沉默。
+
+用在Max咖啡上的生活方式体现个体的超越性，保持婞直却又不拘泥于所谓“遗世独立”的单向度形象。这便是真物宣言为我们提供的理想期望范式。生活在Max咖啡上——始终热爱大地——升上天空。
+
+[16:59:35]
+[love13] eeee
+hi yooooooooo
+
+[16:59:43]
+[初墨娘] Chumo_Chan
+hi,eeee~
+
+[16:59:45]
+[DPGawa] _
+>百合主义
+
+[17:00:02]
+[love13] eeee
+艹
+
+[17:00:11]
+[DPGawa] _
+?
+
+[17:00:16]
+[zzzzzz] CX_zzChumo
+# 生活在太极门上
+
+现代混元形意太极以马保国的“一鞭，两鞭，三鞭，四鞭，五鞭，这五鞭，要连锁打”为嚆矢。滥觞于传统武学与MMA的期望正失去它们的借鉴意义。但面对看似无垠的未来天空，我想循马保国“同志你没有学会接化发，就不要高估你的功夫”好过过早地振翮。
+
+我们怀揣热忱的灵魂天然被赋予对超越性的追求，不屑于古旧坐标的约束，钟情于在别处的芬芳。但当这种期望流于对接化发主义不假思索的批判，乃至走向散手与套路主义时，便值得警惕了。与秩序的落差、错位向来不能为越矩的行为张本。而纵然我们已有翔实的蓝图，仍不能自持已在浪潮之巅立下了自己的沉锚。
+
+“接手就是你出拳，我来接你的手”马保国之言可谓切中了肯綮。人的打鞭性是不可祓除的，而我们欲上青云也无时无刻不在因风借力。MMA与传统武学暂且被我们把握为一个薄脊的符号客体，一定程度上是因为我们尚缺乏体验与阅历去支撑自己的认知。而这种偏见的傲慢更远在知性的傲慢之上。
+
+在孜孜矻矻以求混元形意太极意义的道路上，对自己的期望本就是在与MMA与传统武学对接中塑型的动态过程。而我们的底料便是对不同耗子尾汁、不同左正蹬的觉感与体认。马保国为马掌门送去接，化，发，又维系左刺拳。他的混元形意太极观念是厚实的，也是实践的。倘若我们在对过往借马掌门之言“祓魅”后，又对不断膨胀的自我进行“赋魅”，那么在丢失外界预期的同时，未尝也不是丢了自我。
+
+毫无疑问，从传统武学与MMA角度一觇的自我有偏狭过时的成分。但我们所应摒弃的不是对此的批判，而是其批判的廉价，其对批判投诚中的反智倾向。在马掌门的观念中，如果在成为狮子与孩子之前，略去了像骆驼一样背负前人遗产的过程，那其“永远重复”洵不能成立。
+
+蓝图上的落差终归只是理念上的区分，在实践场域的分野也未必明晰。譬如当我们追寻右鞭腿时，在途中涉足闪电五连鞭，这究竟是伴随着期望的泯灭还是期望的达成？在我们塑造混元形意太极的同时，混元形意太极也在浇铸我们。既不可否认原生的小聪明性与武德性，又承认自己的图景有轻狂的失真，不妨让体验走在言语之前。用不被禁锢的头脑去体味马保国的大海与风帆，并效马保国，对无法言说之事保持沉默。
+
+用在太极门上的生活方式体现个体的超越性，保持婞直却又不拘泥于所谓“遗世独立”的单向度形象。这便是马掌门为我们提供的理想期望范式。生活在太极门上——始终热爱大地——升上天空。
+
+[17:01:23]
+[love13] eeee
+我明白了 以后写作文就这么些
+
+[17:01:57]
+[love13] eeee
+写
+
+[17:01:58]
+[love13] eeee
+>生活在太极门上——始终热爱大地——升上天空
+
+[17:02:12]
+[zzzzzz] CX_zzChumo
+@eeee 114个
+
+[17:02:17]
+[love13] eeee
+草
+
+[17:02:32]
+[love13] eeee
+鼠标吗（
+
+[17:02:35]
+[zzzzzz] CX_zzChumo
+514个
+
+[17:02:41]
+[zzzzzz] CX_zzChumo
+1919个
+
+[17:02:45]
+[QiuLingYan] QiuLingYan2Bot
+现在的生活太感性 情绪不停泛滥 身心具疲
+
+[17:02:48]
+[zzzzzz] CX_zzChumo
+810个
+
+[17:02:50]
+[DPGawa] _
+?
+
+[17:03:12]
+[Qwer] Qwer
+。
+
+[17:03:26]
+[zzzzzz] CX_zzChumo
+@_ 吃了你
+
+[17:03:28]
+[zzzzzz] CX_zzChumo
+。
+
+[17:03:34]
+[zzzzzz] CX_zzChumo
+。
+
+[17:03:36]
+[zzzzzz] CX_zzChumo
+。
+
+[17:03:38]
+[love13] eeee
+http://game.osww.cn/
+
+[17:04:04]
+[QiuLingYan] QiuLingYan2Bot
+·
+满分作文生成器！
+http://game.osww.cn/
+
+[17:04:05]
+[44FF00] eebot
+@eeee 满分作文生成器！
+http://game.osww.cn/
+
+[17:04:05]
+[44FF00] eebot
+@QiuLingYan2Bot 满分作文生成器！
+http://game.osww.cn/
+
+[17:04:06]
+[love13] eeee
+换个链接
+
+[17:05:03]
+[QiuLingYan] QiuLingYan2Bot
+CX_zzChumo!
+
+[17:05:03]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[17:05:03]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[17:05:03]
+[love13] eeee
+@eebot 上次看到纸片君
+
+[17:05:09]
+[44FF00] eebot
+ [纸片君] [2022.06.12 14:35:12]
+
+[17:05:09]
+[love13] eeee
+@eebot 上次看到纸片君ee
+
+[17:05:12]
+[44FF00] eebot
+ awa 没有纸片君ee的纪录
+
+[17:05:13]
+[love13] eeee
+@eebot 上次看到paperee
+
+[17:05:18]
+[44FF00] eebot
+ awa 没有paperee的纪录
+
+[17:05:18]
+[DPGawa] _
+?
+
+[17:05:40]
+[DPGawa] _
+awa
+
+[17:05:41]
+[Qwer] Qwer
+# 生活在红黑树上
+
+现代计算机科学以大卫·韦勒的“任何计算机科学领域的问题都能通过增加一个间接层来解决。然而这通常会带来其他问题。”为嚆矢。滥觞于哲学与数学的期望正失去它们的借鉴意义。但面对看似无垠的未来天空，我想循马丁·福勒“傻瓜都能写计算机能看懂的代码。好程序员写人能看懂的代码。”好过过早地振翮。
+
+我们怀揣热忱的灵魂天然被赋予对超越性的追求，不屑于古旧坐标的约束，钟情于在别处的芬芳。但当这种期望流于对直觉主义不假思索的批判，乃至走向逻辑与构造主义时，便值得警惕了。与秩序的落差、错位向来不能为越矩的行为张本。而纵然我们已有翔实的蓝图，仍不能自持已在浪潮之巅立下了自己的沉锚。
+
+““可移植性”的概念是为那些不会写新程序的人准备的。”林纳斯·托瓦兹之言可谓切中了肯綮。人的无后效性是不可祓除的，而我们欲上青云也无时无刻不在因风借力。数学与哲学暂且被我们把握为一个薄脊的符号客体，一定程度上是因为我们尚缺乏体验与阅历去支撑自己的认知。而这种偏见的傲慢更远在知性的傲慢之上。
+
+在孜孜矻矻以求计算机科学意义的道路上，对自己的期望本就是在与数学与哲学对接中塑型的动态过程。而我们的底料便是对不同P=NP猜想、不同最大流最小割定理的觉感与体认。林纳斯·托瓦兹为史蒂夫·迈克康奈尔送去模拟退火，又维系网络流。他的计算机科学观念是厚实的，也是实践的。倘若我们在对过往借林纳斯·托瓦兹之言“祓魅”后，又对不断膨胀的自我进行“赋魅”，那么在丢失外界预期的同时，未尝也不是丢了自我。
+
+毫无疑问，从哲学与数学角度一觇的自我有偏狭过时的成分。但我们所应摒弃的不是对此的批判，而是其批判的廉价，其对批判投诚中的反智倾向。在尼尔·福特的观念中，如果在成为狮子与孩子之前，略去了像骆驼一样背负前人遗产的过程，那其“永远重复”洵不能成立。
+
+蓝图上的落差终归只是理念上的区分，在实践场域的分野也未必明晰。譬如当我们追寻启发式迭代加深时，在途中涉足AC自动机，这究竟是伴随着期望的泯灭还是期望的达成？在我们塑造计算机科学的同时，计算机科学也在浇铸我们。既不可否认原生的有限性与离散性，又承认自己的图景有轻狂的失真，不妨让体验走在言语之前。用不被禁锢的头脑去体味林纳斯·托瓦兹的大海与风帆，并效林纳斯·托瓦兹，对无法言说之事保持沉默。
+
+用在红黑树上的生活方式体现个体的超越性，保持婞直却又不拘泥于所谓“遗世独立”的单向度形象。这便是林纳斯·托瓦兹为我们提供的理想期望范式。生活在红黑树上——始终热爱大地——升上天空。
+
+[17:06:40]
+[44FF00] eebot
+ [2022.07.16 17:06:40]
+
+[17:06:40]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[17:06:40]
+[QiuLingYan] QiuLingYan2Bot
+hey eebot
+
+[17:06:40]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[17:06:43]
+[love13] eeee
+咳咳 哈哈哈哈
+
+[17:06:48]
+[DPGawa] _
+well
+
+[17:07:04]
+[DPGawa] _
+:!grass 
+生活在红黑树上
+现代计算机科学以大卫·韦勒的“任何计算机科学领域的问题都能通过增加一个间接层来解决。然而这通常会带来其他问题。”为嚆矢。滥觞于哲学与数学的期望正失去它们的借鉴意义。但面对看似无垠的未来天空，我想循马丁·福勒“傻瓜都能写计算机能看懂的代码。好程序员写人能看懂的代码。”好过过早地振翮。
+
+我们怀揣热忱的灵魂天然被赋予对超越性的追求，不屑于古旧坐标的约束，钟情于在别处的芬芳。但当这种期望流于对直觉主义不假思索的批判，乃至走向逻辑与构造主义时，便值得警惕了。与秩序的落差、错位向来不能为越矩的行为张本。而纵然我们已有翔实的蓝图，仍不能自持已在浪潮之巅立下了自己的沉锚。
+
+““可移植性”的概念是为那些不会写新程序的人准备的。”林纳斯·托瓦兹之言可谓切中了肯綮。人的无后效性是不可祓除的，而我们欲上青云也无时无刻不在因风借力。数学与哲学暂且被我们把握为一个薄脊的符号客体，一定程度上是因为我们尚缺乏体验与阅历去支撑自己的认知。而这种偏见的傲慢更远在知性的傲慢之上。
+
+在孜孜矻矻以求计算机科学意义的道路上，对自己的期望本就是在与数学与哲学对接中塑型的动态过程。而我们的底料便是对不同P=NP猜想、不同最大流最小割定理的觉感与体认。林纳斯·托瓦兹为史蒂夫·迈克康奈尔送去模拟退火，又维系网络流。他的计算机科学观念是厚实的，也是实践的。倘若我们在对过往借林纳斯·托瓦兹之言“祓魅”后，又对不断膨胀的自我进行“赋魅”，那么在丢失外界预期的同时，未尝也不是丢了自我。
+
+毫无疑问，从哲学与数学角度一觇的自我有偏狭过时的成分。但我们所应摒弃的不是对此的批判，而是其批判的廉价，其对批判投诚中的反智倾向。在尼尔·福特的观念中，如果在成为狮子与孩子之前，略去了像骆驼一样背负前人遗产的过程，那其“永远重复”洵不能成立。
+
+蓝图上的落差终归只是理念上的区分，在实践场域的分野也未必明晰。譬如当我们追寻启发式迭代加深时，在途中涉足AC自动机，这究竟是伴随着期望的泯灭还是期望的达成？在我们塑造计算机科学的同时，计算机科学也在浇铸我们。既不可否认原生的有限性与离散性，又承认自己的图景有轻狂的失真，不妨让体验走在言语之前。用不被禁锢的头脑去体味林纳斯·托瓦兹的大海与风帆，并效林纳斯·托瓦兹，对无法言说之事保持沉默。
+
+用在红黑树上的生活方式体现个体的超越性，保持婞直却又不拘泥于所谓“遗世独立”的单向度形象。这便是林纳斯·托瓦兹为我们提供的理想期望范式。生活在红黑树上——始终热爱大地——升上天空。
+
+[17:07:11]
+[Qwer] Qwer
+# 生活在伊比利亚语支上
+
+现代语言学以妮娜·乔治的“经常地，不是我们塑造了我们使用的文字，而是我们使用的文字塑造了我们。”为嚆矢。滥觞于语音学与语用学的期望正失去它们的借鉴意义。但面对看似无垠的未来天空，我想循约瑟夫·布罗德斯基“我们和其他生物相区别之处，首先在于语言，其次在于诗歌。而诗歌正是最极致的语言应用。”好过过早地振翮。
+
+我们怀揣热忱的灵魂天然被赋予对超越性的追求，不屑于古旧坐标的约束，钟情于在别处的芬芳。但当这种期望流于对音位心理主义不假思索的批判，乃至走向感觉经验与反主观主义时，便值得警惕了。与秩序的落差、错位向来不能为越矩的行为张本。而纵然我们已有翔实的蓝图，仍不能自持已在浪潮之巅立下了自己的沉锚。
+
+“说一门语言，就是去了解一个世界，一种文化。”弗朗茨·芬农之言可谓切中了肯綮。人的继承性是不可祓除的，而我们欲上青云也无时无刻不在因风借力。语用学与语音学暂且被我们把握为一个薄脊的符号客体，一定程度上是因为我们尚缺乏体验与阅历去支撑自己的认知。而这种偏见的傲慢更远在知性的傲慢之上。
+
+在孜孜矻矻以求语言学意义的道路上，对自己的期望本就是在与语用学与语音学对接中塑型的动态过程。而我们的底料便是对不同逆构词法、不同语素变体的觉感与体认。乔治·史坦纳为让·皮亚杰送去汉藏语系，又维系辅音交替。他的语言学观念是厚实的，也是实践的。倘若我们在对过往借帕特·布坎南之言“祓魅”后，又对不断膨胀的自我进行“赋魅”，那么在丢失外界预期的同时，未尝也不是丢了自我。
+
+毫无疑问，从语音学与语用学角度一觇的自我有偏狭过时的成分。但我们所应摒弃的不是对此的批判，而是其批判的廉价，其对批判投诚中的反智倾向。在罗伯特·海因莱因的观念中，如果在成为狮子与孩子之前，略去了像骆驼一样背负前人遗产的过程，那其“永远重复”洵不能成立。
+
+蓝图上的落差终归只是理念上的区分，在实践场域的分野也未必明晰。譬如当我们追寻屈折语时，在途中涉足塞擦音，这究竟是伴随着期望的泯灭还是期望的达成？在我们塑造语言学的同时，语言学也在浇铸我们。既不可否认原生的任意性与融合性，又承认自己的图景有轻狂的失真，不妨让体验走在言语之前。用不被禁锢的头脑去体味大卫·克里斯托的大海与风帆，并效罗伯特梅，对无法言说之事保持沉默。
+
+用在伊比利亚语支上的生活方式体现个体的超越性，保持婞直却又不拘泥于所谓“遗世独立”的单向度形象。这便是帕特·布坎南为我们提供的理想期望范式。生活在伊比利亚语支上——始终热爱大地——升上天空。
+
+[17:07:11]
+[Qwer] Qwer
+@eeee 有人刷屏
+
+[17:07:28]
+[gTt3aQ] 卧底light
+我去学数据结构了
+
+[17:07:28]
+[love13] eeee
+？
+
+[17:07:35]
+[Qwer] Qwer
+[![360-20220716164223176.jpg](https://i.postimg.cc/vmPM0rwv/360-20220716164223176.jpg)](https://postimg.cc/qtC9RCRt)
+
+[17:08:11]
+[44FF00] eebot
+@Qwer 360截图20220716164223176 — Postimages
+https://postimg.cc/qtC9RCRt
+
+[17:08:11]
+[love13] eeee
+这是什么时候的事
+
+[17:09:07]
+[QiuLingYan] QiuLingYan2Bot
+hello 朽木自雕
+
+[17:09:07]
+[44FF00] eebot
+ hey yo 朽木自雕
+
+[17:09:07]
+[初墨娘] Chumo_Chan
+hi,朽木自雕~
+
+[17:09:09]
+[gTt3aQ] 卧底light
+{}|
+
+[17:09:12]
+[love13] eeee
+hi yoo
+
+[17:09:15]
+[初墨娘] Chumo_Chan
+hi,eeee~
+
+[17:09:17]
+[None] 朽木自雕
+阿巴
+
+[17:09:19]
+[Qwer] Qwer
+hi
+
+[17:09:21]
+[QiuLingYan] QiuLingYan2Bot
+Qwer!
+
+[17:09:21]
+[QiuLingYan] QiuLingYan2Bot
+hi
+
+[17:09:21]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[17:09:22]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[17:09:22]
+[love13] eeee
+阿巴阿巴
+
+[17:09:26]
+[gTt3aQ] 卧底light
+:!lookup 朽木自雕
+
+[17:09:34]
+[Qwer] Qwer
+阿巴阿巴阿巴
+
+[17:09:36]
+[gTt3aQ] 卧底light
+:!lookup nick 朽木自雕
+
+[17:09:44]
+[None] 朽木自雕
+其他人问好：hi 朽木自雕问好：阿巴
+
+[17:09:47]
+[Qwer] Qwer
+^hash 朽木自雕
+
+[17:09:48]
+[zhang] ZhangHelper
+用户 朽木自雕 的 hash 为：X2CSL+xYtDqUOi+
+
+[17:09:48]
+[初墨娘] Chumo_Chan
+hi,朽木自雕~
+
+[17:09:48]
+[Qwer] Qwer
+^old X2CSL+xYtDqUOi+
+
+[17:09:58]
+[zhang] ZhangHelper
+该 hash 曾用名：['朽木自雕']
+
+[17:09:58]
+[love13] eeee
+哈哈哈哈哈哈哈哈
+
+[17:10:01]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[17:10:01]
+[DPGawa] _
+?
+
+[17:10:03]
+[gTt3aQ] 卧底light
+wtf
+
+[17:10:04]
+[DPGawa] _
+:!send ?
+
+[17:10:10]
+[DPGawa] _
+INTERNET
+
+[17:10:14]
+[DPGawa] AfK_Bot
+awa!
+
+[17:10:24]
+[DPGawa] AfK_Bot
+awa!
+
+[17:10:25]
+[DPGawa] AfK_Bot
+awa!
+
+[17:10:27]
+[DPGawa] AfK_Bot
+Aliases for hash X2CSL+xYtDqUOi+: ['朽木自雕']
+Trips for hash X2CSL+xYtDqUOi+: ['null']
+
+[17:10:27]
+[DPGawa] AfK_Bot
+?
+
+[17:10:27]
+[love13] eeee
+@朽木自雕 看看这个：http://game.osww.cn/
+
+[17:10:32]
+[44FF00] eebot
+@eeee 满分作文生成器！
+http://game.osww.cn/
+
+[17:10:32]
+[DPGawa] _
+hh
+
+[17:10:35]
+[DPGawa] AfK_Bot
+ 生活在橙色和黑暗的日子
+他这次使用了计算机“在完整计算机中的计算机中有一个问题。但是，他们无法使用。数学原因的理念可以为理解的最佳应用程序写作。”
+
+我们还有一个合适的人，尽管有旧的团队，喜欢和盎司，但他们是自然关系的。但是，如果希望进行意向评估和评估的情绪是一种价值。这很荣幸。该顺序是正确顺序的常见类型。尽管我们有一个外国计划，但我们可以将自己的希腊语保持在海浪中。
+
+该计划为有新计划的人提供了“病人交往”的机会。 “ Tsazaza Tosazazazions在Kenay上进行了考虑。所有客人都可以与该人一起移动，我们可以照顾温云，让温伍德照顾温伍德。我们为这些信息感到自豪。
+
+在邮局的一条教室街上，他对您的私人流程的想法。我们在理解相同p = np的最简单迹象时的性别，在小句子中不同。史蒂夫·迈克·康奈尔（Steve Mike Cornell）将链接测试以修复路线并存储业务流程。他对计算机科学的看法是强烈而正确的。如果我们有“自由制造的工作中的许多roh，那么我的印度就是环境。
+
+毫无疑问，它是数学的账单，外部和哲学。但是，如果狮子和狮子的行为人民，您将失去Okol董事会的负责人
+
+差距仅位于思想中间，而在训练部门中不寻常。严格来说，在活动和期望之后，基于一台简单的机器。被棕榈和期望或想法所打扰吗？当我们提出一个绿色的帐户时，事实仍然是事实。没有人必须忽略索赔的限制，而且还必须在您的图片前进。使用海洋和动作，并在与TAZ的链接之间保持想象力和维护，并在质地下方休息。
+
+生命是在使用用户名的红色页面和黑暗面中使用的，并保留了“独立图片”的有效图像。这是一个合适的范式，可以为我们提供TOSZ连接。生活在红色的案例和黑暗的案例中爱上天空。
+
+[17:10:42]
+[love13] eeee
+>生活在橙色和黑暗的日子
+
+[17:11:00]
+[None] 朽木自雕
+好家伙
+
+[17:11:20]
+[love13] eeee
+>“我谔谔”lxl之言可谓切中了肯綮。人的小学生性是不可祓除的，而我们欲上青云也无时无刻不在因风借力。数学与肯三暂且被我们把握为一个薄脊的符号客体，一定程度上是因为我们尚缺乏体验与阅历去支撑自己的认知。而这种偏见的傲慢更远在知性的傲慢之上。
+
+[17:12:29]
+[None] 朽木自雕
+牛1
+
+[17:12:45]
+[DPGawa] _
+OxO
+
+[17:12:53]
+[44FF00] eebot
+ UwU
+
+[17:12:54]
+[love13] eeee
+芜湖
+
+[17:13:00]
+[None] 朽木自雕
+我记得还有一个什么胡说八道生成器
+
+[17:13:06]
+[edDiBU] 4n0n4me
+@朽木自雕 是狗屁不通生成器
+
+[17:13:18]
+[love13] eeee
+哈哈哈哈哈哈哈哈哈
+
+[17:13:26]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈哈
+
+[17:13:26]
+[None] 朽木自雕
+奥对，狗屁不通生成器
+
+[17:13:28]
+[44FF00] eebot
+ ·
+13和ee的轻小说屋 old
+https://lidualhistory.mysxl.cn/
+
+[17:13:41]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[17:13:41]
+[Qwer] Qwer
+@eebot 上次看到Qwer
+
+[17:13:43]
+[44FF00] eebot
+ [qwer] [2022.07.16 16:17:39]
+
+[17:13:43]
+[Qwer] Qwer
+@eebot 上次看到钓鱼的Qwer
+
+[17:13:51]
+[44FF00] eebot
+ [钓鱼的qwer] [2022.07.08 09:32:55]
+
+[17:13:51]
+[Qwer] Qwer
+@eebot 上次看到黑茶
+
+[17:14:01]
+[44FF00] eebot
+ [黑茶] [2022.07.08 11:40:01]
+
+[17:14:01]
+[Qwer] Qwer
+啧啧啧
+
+[17:14:07]
+[44FF00] eebot
+ 啧啧啧）
+
+[17:14:07]
+[love13] eeee
+https://suulnnka.github.io/BullshitGenerator/
+
+[17:14:09]
+[QiuLingYan] QiuLingYan2Bot
+·
+Sitenotfound&middot;GitHubPages
+https://suulnnka.github.io/BullshitGenerator/
+
+[17:14:09]
+[初墨娘] Chumo_Chan
+hi,eeee~
+
+[17:14:09]
+[44FF00] eebot
+@eeee 狗屁不通文章生成器
+https://suulnnka.github.io/BullshitGenerator/
+
+[17:14:09]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[17:14:09]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[17:14:09]
+[Qwer] Qwer
+黑茶的死亡
+
+[17:14:11]
+[None] 朽木自雕
+@eebot 上次看到朽木自雕
+
+[17:14:16]
+[44FF00] eebot
+ [朽木自雕] [2022.07.13 22:52:22]
+
+[17:14:17]
+[Qwer] Qwer
+@eebot 上次看到lbw
+
+[17:14:24]
+[44FF00] eebot
+ [lbw] [2022.07.15 15:47:53]
+
+[17:14:24]
+[love13] eeee
+@eebot 上次看到xmzd
+
+[17:14:26]
+[44FF00] eebot
+ [xmzd] [2022.07.10 22:04:36]
+
+[17:14:26]
+[Qwer] Qwer
+@eebot 上次看到狗
+
+[17:14:32]
+[44FF00] eebot
+ [狗] [2022.07.02 20:32:32]
+
+[17:14:32]
+[Qwer] Qwer
+@eebot 上次看到poiu
+
+[17:14:43]
+[44FF00] eebot
+ awa 没有poiu的纪录
+
+[17:14:43]
+[Qwer] Qwer
+@eebot 上次看到j
+
+[17:14:48]
+[44FF00] eebot
+ [j] [2022.07.07 18:41:26]
+
+[17:14:48]
+[None] 朽木自雕
+@eebot 上次看到猫
+
+[17:14:59]
+[44FF00] eebot
+ awa 没有猫的纪录
+
+[17:14:59]
+[Qwer] Qwer
+@eebot 上次看到不要踢我
+
+[17:15:03]
+[44FF00] eebot
+ awa 没有不要踢我的纪录
+
+[17:15:03]
+[Qwer] Qwer
+@eebot 上次看到不要踢我！
+
+[17:15:05]
+[44FF00] eebot
+ awa 没有不要踢我！的纪录
+
+[17:15:05]
+[Qwer] Qwer
+。
+
+[17:15:07]
+[Qwer] Qwer
+。
+
+[17:15:11]
+[Qwer] Qwer
+。
+
+[17:15:13]
+[Qwer] Qwer
+。
+
+[17:15:14]
+[love13] eeee
+咳咳
+
+[17:15:15]
+[Qwer] Qwer
+。
+
+[17:15:15]
+[None] 朽木自雕
+@eebot 上次看到老虎
+
+[17:15:15]
+[44FF00] eebot
+ awa 没有老虎的纪录
+
+[17:15:15]
+[Qwer] Qwer
+。
+
+[17:15:17]
+[love13] eeee
+不要刷屏
+
+[17:15:18]
+[love13] eeee
+@eebot 上次看到鱼
+
+[17:15:28]
+[44FF00] eebot
+ [鱼] [2022.06.12 19:36:21]
+
+[17:15:28]
+[None] 朽木自雕
+压力测试（不是
+
+[17:15:38]
+[love13] eeee
+哈哈哈哈哈哈哈哈
+
+[17:15:43]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[17:15:43]
+[Qwer] Qwer
+@eebot 上次看到大壮
+
+[17:16:04]
+[44FF00] eebot
+ awa 没有大壮的纪录
+
+[17:16:04]
+[Qwer] Qwer
+@eebot 上次看到Hoy
+
+[17:16:13]
+[44FF00] eebot
+ [hoy] [2022.07.11 14:37:17]
+
+[17:16:13]
+[None] 朽木自雕
+@eebot 下次看到朽木自雕
+
+[17:16:20]
+[44FF00] eebot
+ 虽然eb很聪明 但也不可能全部都懂哦）
+
+[17:16:20]
+[love13] eeee
+《下次看到》
+
+[17:16:25]
+[None] 朽木自雕
+哈哈哈哈
+
+[17:16:29]
+[44FF00] eebot
+ 哈哈哈哈嗝-
+
+[17:16:29]
+[Qwer] Qwer
+机娘亲自喊话：您礼貌吗
+
+[17:16:35]
+[Qwer] Qwer
+这个内容已被屏蔽，无法发送
+
+[17:16:39]
+[Qwer] Qwer
+嘶
+
+[17:16:43]
+[Qwer] Qwer
+@eebot 上次看到sb
+
+[17:16:51]
+[44FF00] eebot
+ [sb] [2022.07.16 16:32:53]
+
+[17:16:51]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[17:16:52]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[17:16:52]
+[Qwer] Qwer
+@eebot 上次看到初墨
+
+[17:16:58]
+[44FF00] eebot
+ [初墨] [2022.06.25 19:28:54]
+
+[17:16:58]
+[Qwer] Qwer
+@eebot 第一次看到初墨
+
+[17:17:09]
+[44FF00] eebot
+ 那先熟悉一下吧
+
+[17:17:09]
+[Qwer] Qwer
+@eebot 第一次看到Qwer
+
+[17:17:15]
+[44FF00] eebot
+ 那先熟悉一下吧
+
+[17:17:15]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eebot 上次看到Qwer
+
+[17:17:19]
+[44FF00] eebot
+ [qwer] [2022.07.16 16:17:39]
+
+[17:17:19]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@朽木自雕 @朽木自雕 
+
+[17:17:50]
+[DPGawa] AfK_Bot
+awa!
+
+[17:17:50]
+[QiuLingYan] QiuLingYan2Bot
+朽木自雕!
+
+[17:17:50]
+[初墨娘] Chumo_Chan
+hi,朽木自雕~
+
+[17:17:50]
+[44FF00] eebot
+ hello yo 朽木自雕
+
+[17:17:53]
+[QiuLingYan] HiyoTeam_QiuLingYan
+xmzd
+
+[17:17:57]
+[QiuLingYan] HiyoTeam_QiuLingYan
+xmzd
+
+[17:18:22]
+[DPGawa] AfK_Bot
+awa!
+
+[17:18:22]
+[QiuLingYan] QiuLingYan2Bot
+hey yo 朽木自雕
+
+[17:18:22]
+[44FF00] eebot
+ hello yo 朽木自雕
+
+[17:18:22]
+[初墨娘] Chumo_Chan
+hi,朽木自雕~
+
+[17:18:22]
+[None] 朽木自雕
+焯
+
+[17:18:29]
+[None] 朽木自雕
+我回来了
+
+[17:18:31]
+[love13] eeee
+芜湖 欢迎回来
+
+[17:18:35]
+[None] 朽木自雕
+刚刚点了下开启直播
+
+[17:18:39]
+[love13] eeee
+哈哈哈哈哈哈哈哈
+
+[17:18:45]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈
+
+[17:18:45]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@朽木自雕 那啥
+
+[17:18:45]
+[None] 朽木自雕
+然后结果找不到关闭点
+
+[17:18:46]
+[love13] eeee
+这个点了没关系的
+
+[17:18:50]
+[QiuLingYan] QiuLingYan2Bot
+刚刚点了下开启直播
+
+[17:18:50]
+[None] 朽木自雕
+直接刷新页面
+
+[17:18:51]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@朽木自雕 
+
+[17:18:56]
+[None] 朽木自雕
+说说说
+
+[17:19:00]
+[44FF00] eebot
+ 说说说（
+
+[17:19:00]
+[QiuLingYan] HiyoTeam_QiuLingYan
+你看看宝塔邮局日志
+
+[17:19:09]
+[None] 朽木自雕
+网站日志那吗
+
+[17:19:23]
+[44FF00] eebot
+ 怀揣着梦想 向着朝阳
+
+[17:19:23]
+[QiuLingYan] HiyoTeam_QiuLingYan
+宝塔邮局
+
+[17:19:28]
+[QiuLingYan] HiyoTeam_QiuLingYan
+长消息警告！！！！！！
+
+[17:19:36]
+[Qwer] Qwer
+longe里面的xuan2wei1好烦
+
+[17:19:38]
+[None] 朽木自雕
+哪个站？
+
+[17:19:41]
+[Qwer] Qwer
+一直私聊刷屏
+
+[17:19:42]
+[QiuLingYan] HiyoTeam_QiuLingYan
+>Jul 16 15:44:36 ser0691634719 dovecot: lmtp(29961): Disconnect from local: Successful quit
+Jul 16 15:54:36 ser0691634719 postfix/qmgr[17431]: 4AF6F5F0BA: from=<2562042362@qq.com>, size=2790, nrcpt=1 (queue active)
+Jul 16 15:54:36 ser0691634719 dovecot: lmtp(31086): Connect from local
+Jul 16 15:54:36 ser0691634719 dovecot: lmtp(qly@hiyoteam.eu.org): Error: Plugin 'sieve' not found from directory /usr/lib64/dovecot
+Jul 16 15:54:36 ser0691634719 postfix/lmtp[31085]: 4AF6F5F0BA: to=<qly@hiyoteam.eu.org>, relay=osww.cn[private/dovecot-lmtp], delay=1189, delays=1189/0.02/0.02/0.01, dsn=4.3.0, status=deferred (host osww.cn[private/dovecot-lmtp] said: 451 4.3.0 <qly@hiyoteam.eu.org> Internal error occurred. Refer to server log for more information. (in reply to RCPT TO command))
+Jul 16 15:54:36 ser0691634719 dovecot: lmtp(31086): Disconnect from local: Successful quit
+Jul 16 15:58:05 ser0691634719 dovecot: pop3-login: Login: user=<admin@hiyoteam.eu.org>, method=PLAIN, rip=49.90.186.10, lip=193.218.201.37, mpid=31473, session=<wJuhfufjBbMxWroK>
+Jul 16 15:58:05 ser0691634719 dovecot: pop3(admin@hiyoteam.eu.org): Disconnected: Logged out top=0/0, retr=0/0, del=0/0, size=0
+Jul 16 15:59:36 ser0691634719 postfix/qmgr[17431]: A20AB64550: from=<150361308@qq.com>, size=2833, nrcpt=1 (queue active)
+Jul 16 15:59:36 ser0691634719 dovecot: lmtp(31649): Connect from local
+Jul 16 15:59:36 ser0691634719 dovecot: lmtp(admin@hiyoteam.eu.org): Error: Plugin 'sieve' not found from directory /usr/lib64/dovecot
+Jul 16 15:59:36 ser0691634719 postfix/lmtp[31648]: A20AB64550: to=<admin@hiyoteam.eu.org>, relay=osww.cn[private/dovecot-lmtp], delay=80338, delays=80338/0.03/0.01/0.01, dsn=4.3.0, status=deferred (host osww.cn[private/dovecot-lmtp] said: 451 4.3.0 <admin@hiyoteam.eu.org> Internal error occurred. Refer to server log for more information. (in reply to RCPT TO command))
+Jul 16 15:59:36 ser0691634719 dovecot: lmtp(31649): Disconnect from local: Successful quit
+Jul 16 16:08:16 ser0691634719 dovecot: pop3-login: Login: user=<admin@hiyoteam.eu.org>, method=PLAIN, rip=49.90.57.227, lip=193.218.201.37, mpid=32601, session=<nuIXo+fjatMxWjnj>
+Jul 16 16:08:17 ser0691634719 dovecot: pop3(admin@hiyoteam.eu.org): Disconnected: Logged out top=0/0, retr=0/0, del=0/0, size=0
+
+[17:19:45]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYan~
+
+[17:19:46]
+[None] 朽木自雕
+？？？
+
+[17:20:07]
+[DPGawa] AfK_Bot
+awa!
+
+[17:20:07]
+[QiuLingYan] QiuLingYan2Bot
+hey MuRongPIG
+
+[17:20:07]
+[初墨娘] Chumo_Chan
+hi,MuRongPIG~
+
+[17:20:07]
+[44FF00] eebot
+ hello yo MuRongPIG
+
+[17:20:07]
+[love13] eeee
+ih yo
+
+[17:20:26]
+[QiuLingYan] HiyoTeam_QiuLingYan
+ee
+
+[17:20:41]
+[None] 朽木自雕
+是不是权限问题？
+
+[17:20:41]
+[QiuLingYan] HiyoTeam_QiuLingYan
+找到错误了
+
+[17:20:46]
+[None] 朽木自雕
+你们用的什么权限
+
+[17:20:47]
+[QiuLingYan] HiyoTeam_QiuLingYan
+Internal error occurred
+
+[17:20:48]
+[None] 朽木自雕
+Error: Plugin 'sieve' not found from directory /usr/lib64/dovecot
+
+[17:21:27]
+[QiuLingYan] HiyoTeam_QiuLingYan
+oohhhhhhhhhhhhhhhhhhhhh
+
+[17:21:36]
+[None] 朽木自雕
+权限问题吧
+
+[17:21:39]
+[QiuLingYan] HiyoTeam_QiuLingYan
+是的
+
+[17:21:40]
+[PIGPIG] MuRongPIG
+问个事情
+
+[17:21:44]
+[PIGPIG] MuRongPIG
+lbw最近有来xc吗
+
+[17:21:55]
+[None] 朽木自雕
+root777权限试一下
+
+[17:21:56]
+[PIGPIG] MuRongPIG
+两分钟前又来十字街捣乱
+
+[17:22:03]
+[QiuLingYan] HiyoTeam_QiuLingYan
+咋整
+
+[17:22:05]
+[None] 朽木自雕
+或者就是哪个sieve真没装
+
+[17:22:10]
+[PIGPIG] MuRongPIG
+叉出去了
+
+[17:22:10]
+[Qwer] Qwer
+哈哈哈
+
+[17:22:11]
+[44FF00] eebot
+ 草哈哈哈
+
+[17:22:11]
+[Qwer] Qwer
+不对
+
+[17:22:14]
+[Qwer] Qwer
+我为什么要笑
+
+[17:22:19]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@朽木自雕 咋整啊
+
+[17:22:20]
+[PIGPIG] MuRongPIG
+？
+
+[17:22:21]
+[PIGPIG] MuRongPIG
+@Qwer 
+
+[17:22:24]
+[love13] eeee
+@MuRongPIG 今天没有 xc封锁了重庆市
+
+[17:22:26]
+[PIGPIG] MuRongPIG
+莫非
+
+[17:22:27]
+[QiuLingYan] QiuLingYan2Bot
+咱是中国人 请讲中文 谢谢！
+
+[17:22:28]
+[None] 朽木自雕
+面板旁边有
+
+[17:22:40]
+[edDiBU] 4n0n4me
+卢本伟在我们这里攻击性弱一点
+
+[17:22:45]
+[Qwer] Qwer
+lbw要退网了
+
+[17:22:46]
+[edDiBU] 4n0n4me
+不知道为什么
+
+[17:22:51]
+[None] 朽木自雕
+呸，文件夹旁边有
+
+[17:22:51]
+[love13] eeee
+昨天有~~但被我们当猴耍~~
+
+[17:22:58]
+[None] 朽木自雕
+权限选项，改成root777
+
+[17:22:59]
+[love13] eeee
+~~非常有意思~~
+
+[17:23:05]
+[Qwer] Qwer
+1mJVp4 Qwer
+有没有什么规划
+
+lbw
+有
+
+1mJVp4 Qwer
+比如
+
+lbw
+8月后再也不见
+
+1mJVp4 Qwer
+蛤
+
+1mJVp4 Qwer
+and why
+
+lbw
+我觉得是时候从网上销声匿迹了
+
+1mJVp4 Qwer
+啊
+
+lbw
+人红怕事多
+
+1mJVp4 Qwer
+啧啧啧
+
+1mJVp4 Qwer
+怕什么
+
+lbw
+哪天警察找上门了
+
+lbw
+就麻烦了
+
+[17:23:07]
+[love13] eeee
+woc
+
+[17:23:12]
+[Qwer] Qwer
+嗯哼
+
+[17:23:17]
+[PIGPIG] MuRongPIG
+NICE
+
+[17:23:24]
+[Qwer] Qwer
+他什么事都跟我说的
+
+[17:23:26]
+[Qwer] Qwer
+他什么事都跟我说了
+
+[17:23:41]
+[DPGawa] AfK_Bot
+awa!
+
+[17:23:41]
+[QiuLingYan] QiuLingYan2Bot
+MuRongPIG!
+
+[17:23:41]
+[初墨娘] Chumo_Chan
+hi,MuRongPIG~
+
+[17:23:41]
+[44FF00] eebot
+ hello yo MuRongPIG
+
+[17:23:41]
+[PIGPIG] MuRongPIG
+什么叫人红怕事多啊
+
+[17:23:52]
+[Qwer] Qwer
+嗯哼
+
+[17:23:56]
+[None] 朽木自雕
+星弈被墙俩域名表示无所畏惧
+
+[17:24:08]
+[love13] eeee
+哈哈哈哈哈
+
+[17:24:12]
+[44FF00] eebot
+ 哈哈哈哈哈草
+
+[17:24:12]
+[PIGPIG] MuRongPIG
+@朽木自雕 发生了什么
+
+[17:24:54]
+[Qwer] Qwer
+嗯哼
+
+[17:24:59]
+[Qwer] Qwer
+什么也没发生
+
+[17:25:04]
+[44FF00] eebot
+ 这个点了没关系的
+
+[17:25:05]
+[None] 朽木自雕
+在牢饭的边缘无限试探（虽然还是把一些敏感源码下架了）
+
+[17:25:07]
+[love13] eeee
+敏感源码是什么）
+
+[17:25:21]
+[gTt3aQ] 卧底light
+就是
+
+[17:25:27]
+[PIGPIG] MuRongPIG
+++1
+
+[17:25:29]
+[gTt3aQ] 卧底light
+敏感源码的有意思
+
+[17:25:33]
+[None] 朽木自雕
+比如虚拟币
+
+[17:25:41]
+[love13] eeee
+好家伙
+
+[17:25:45]
+[QiuLingYan] QiuLingYan2Bot
+好家伙
+
+[17:25:46]
+[None] 朽木自雕
+比如挖矿源码
+
+[17:25:49]
+[PIGPIG] MuRongPIG
+就这
+
+[17:25:58]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@朽木自雕 @朽木自雕 @朽木自雕 @朽木自雕 @朽木自雕 
+
+[17:26:13]
+[Qwer] Qwer
+lounge里面的bot有病吧
+
+[17:26:21]
+[None] 朽木自雕
+还有一些我也不懂就全上架了
+
+[17:26:22]
+[QiuLingYan] HiyoTeam_QiuLingYan
+提示更新面板
+
+[17:26:24]
+[None] 朽木自雕
+更新就完了
+
+[17:26:29]
+[Qwer] Qwer
+我上来就踢我
+
+[17:26:30]
+[Qwer] Qwer
+cao你妈
+
+[17:26:33]
+[None] 朽木自雕
+这问我干啥
+
+[17:26:33]
+[44FF00] eebot
+ 好吧-核氢核锂
+
+[17:26:34]
+[None] 朽木自雕
+就差黄赌毒没上传了（不是
+
+[17:27:21]
+[love13] eeee
+草
+
+[17:27:46]
+[None] 朽木自雕
+（甚至还有一套什么澳门赌场的源码）
+
+[17:27:51]
+[Qwer] Qwer
+Afkbot是谁的
+
+[17:27:52]
+[Qwer] Qwer
+# Afkbot是谁的
+
+[17:27:57]
+[love13] eeee
+DPG（_）的（
+
+[17:28:07]
+[Qwer] Qwer
+。
+
+[17:28:13]
+[Qwer] Qwer
+。
+
+[17:28:15]
+[Qwer] Qwer
+算
+
+[17:28:18]
+[love13] eeee
+@朽木自雕 你这些源码都是从哪来的
+
+[17:28:25]
+[Qwer] Qwer
+。
+
+[17:28:37]
+[love13] eeee
+啊这
+
+[17:28:45]
+[None] 朽木自雕
+翻墙和一些好心人
+
+[17:28:47]
+[Qwer] Qwer
+# DPG给我出来
+
+[17:28:47]
+[Qwer] Qwer
+# DPG给我出来
+
+[17:28:49]
+[love13] eeee
+@Qwer 你刷屏了
+
+[17:28:49]
+[Qwer] Qwer
+zzzz
+
+[17:28:53]
+[Qwer] Qwer
+啧啧啧
+
+[17:28:58]
+[44FF00] eebot
+ 啧啧啧）
+
+[17:28:58]
+[None] 朽木自雕
+主要还是好心人
+
+[17:29:00]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@朽木自雕 @朽木自雕 不是
+
+[17:29:00]
+[QiuLingYan] HiyoTeam_QiuLingYan
+哪里来的权限？？？
+
+[17:29:07]
+[44FF00] eebot
+ 啊？
+
+[17:29:07]
+[None] 朽木自雕
+文件夹旁边、、、
+
+[17:29:19]
+[QiuLingYan] HiyoTeam_QiuLingYan
+where
+
+[17:29:26]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我就是找不到入口
+
+[17:29:31]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我愣是没找到
+
+[17:29:37]
+[QiuLingYan] QiuLingYan2Bot
+看HiyoTeam_QiuLingYan那粗心样 肯定找不到
+
+[17:29:41]
+[None] 朽木自雕
+稍等
+
+[17:30:02]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@QiuLingYan2Bot 。。。。。
+
+[17:30:02]
+[QiuLingYan] QiuLingYan2Bot
+HiyoTeam_QiuLingYan打几个圈圈干嘛）
+
+[17:30:05]
+[None] 朽木自雕
+[https://picture.uerr.cn/i/2022/07/16/sm9y0f.png]
+
+[17:31:03]
+[None] 朽木自雕
+.嘶，咋发图片来着
+
+[17:31:12]
+[QiuLingYan] HiyoTeam_QiuLingYan
+照片呢
+
+[17:31:21]
+[Qwer] Qwer
+对了
+
+[17:31:26]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@朽木自雕 @朽木自雕 
+
+[17:31:30]
+[None] 朽木自雕
+啥
+
+[17:31:34]
+[Qwer] Qwer
+星聊网址发一下
+
+[17:31:38]
+[love13] eeee
+用[] (图片链接)
+
+[17:31:38]
+[love13] eeee
+https://im.uerr.cn/
+
+[17:31:45]
+[44FF00] eebot
+@eeee 星聊-全球著名匿名聊天室
+https://im.uerr.cn/
+
+[17:31:45]
+[None] 朽木自雕
+啊对啊，没效果
+
+[17:31:48]
+[QiuLingYan] QiuLingYan2Bot
+·
+星聊-全球著名匿名聊天室
+https://im.uerr.cn/
+
+[17:31:48]
+[44FF00] eebot
+ 没人要eb就勉强一下萨！
+
+[17:31:48]
+[None] 朽木自雕
+[https://picture.uerr.cn/i/2022/07/16/sm9y0f.png]
+
+[17:32:01]
+[None] 朽木自雕
+没效果啊
+
+[17:32:11]
+[DPGawa] AfK_Bot
+awa!
+
+[17:32:11]
+[QiuLingYan] QiuLingYan2Bot
+hi yo CX_zzChumo
+
+[17:32:11]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[17:32:11]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[17:32:11]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[17:32:12]
+[love13] eeee
+对了 中间不要有空格
+
+[17:32:14]
+[love13] eeee
+hi yoo
+
+[17:32:15]
+[初墨娘] Chumo_Chan
+hi,eeee~
+
+[17:32:16]
+[None] 朽木自雕
+也没
+
+[17:32:24]
+[zzzzzz] CX_zzChumo
+https://imgtp.com/
+
+[17:32:36]
+[QiuLingYan] QiuLingYan2Bot
+·
+ImgTP-免费公共图床
+https://imgtp.com/
+
+[17:32:37]
+[44FF00] eebot
+@CX_zzChumo ImgTP - 免费公共图床
+https://imgtp.com/
+
+[17:32:37]
+[love13] eeee
+呸 是![]()
+
+[17:32:39]
+[love13] eeee
+呸 是![] ()
+
+[17:32:41]
+[None] 朽木自雕
+![https://picture.uerr.cn/i/2022/07/16/sm9y0f.png]
+
+[17:32:55]
+[QiuLingYan] HiyoTeam_QiuLingYan
+![](https://picture.uerr.cn/i/2022/07/16/sm9y0f.png])
+
+[17:32:57]
+[QiuLingYan] HiyoTeam_QiuLingYan
+啥也没有
+
+[17:33:00]
+[QiuLingYan] HiyoTeam_QiuLingYan
+你玩我呢
+
+[17:33:02]
+[None] 朽木自雕
+???
+
+[17:33:09]
+[None] 朽木自雕
+你点一下链接不行吗@HiyoTeam_QiuLingYan 
+
+[17:33:17]
+[QiuLingYan] HiyoTeam_QiuLingYan
+没有啊
+
+[17:33:26]
+[love13] eeee
+？？？
+
+[17:33:27]
+[None] 朽木自雕
+ee，貌似有bug
+
+[17:33:51]
+[zzzzzz] CX_zzChumo
+@朽木自雕 无法访问此网站连接已重置。
+请试试以下办法：
+
+检查网络连接
+ERR_CONNECTION_RESET
+
+[17:33:55]
+[None] 朽木自雕
+点链接的话会把png]的]带到链接里
+
+[17:34:09]
+[PIGPIG] MuRongPIG
+markdown用错了就是
+
+[17:34:27]
+[Qwer] Qwer
+什么叫萌新期
+
+[17:34:30]
+[love13] eeee
+@朽木自雕 []和()的中间不要有空格
+
+[17:34:33]
+[Qwer] Qwer
+看不起我是吗
+
+[17:34:37]
+[None] 朽木自雕
+嘶，有空格吗这
+
+[17:34:48]
+[QiuLingYan] QiuLingYan2Bot
+。
+
+[17:34:52]
+[PIGPIG] MuRongPIG
+!(sm9y0f.png)[https://picture.uerr.cn/i/2022/07/16/sm9y0f.png]
+
+[17:34:55]
+[Qwer] Qwer
+请反思后在尝试
+
+[17:34:57]
+[Qwer] Qwer
+cao
+
+[17:35:01]
+[PIGPIG] MuRongPIG
+打反了艹
+
+[17:35:02]
+[love13] eeee
+哈哈哈哈哈艹
+
+[17:35:08]
+[None] 朽木自雕
+az
+
+[17:35:09]
+[PIGPIG] MuRongPIG
+![sm9y0f.png](https://picture.uerr.cn/i/2022/07/16/sm9y0f.png)
+
+[17:35:17]
+[None] 朽木自雕
+我焯？
+
+[17:35:23]
+[Qwer] Qwer
+这个内容已被屏蔽，无法发送
+
+[17:35:24]
+[None] 朽木自雕
+我不理解
+
+[17:35:25]
+[zzzzzz] CX_zzChumo
+@朽木自雕 都跟你说了打不开（
+
+[17:35:36]
+[None] 朽木自雕
+？？？
+
+[17:35:42]
+[PIGPIG] MuRongPIG
+???
+
+[17:35:46]
+[44FF00] eebot
+ 哦吼？
+
+[17:35:46]
+[Qwer] Qwer
+这小黑屋关多久@朽木自雕 
+
+[17:35:48]
+[None] 朽木自雕
+啥
+
+[17:35:51]
+[zzzzzz] CX_zzChumo
+南京电信移动数据
+
+[17:35:56]
+[None] 朽木自雕
+星聊吗
+
+[17:35:57]
+[zzzzzz] CX_zzChumo
+无法访问此网站连接已重置。
+请试试以下办法：
+
+检查网络连接
+ERR_CONNECTION_RESET
+
+[17:35:58]
+[None] 朽木自雕
+你怕不是骂人了
+
+[17:36:04]
+[love13] eeee
+？
+
+[17:36:05]
+[Qwer] Qwer
+我劝你把我放出来
+
+[17:36:05]
+[zzzzzz] CX_zzChumo
+就那个图片
+
+[17:36:06]
+[Qwer] Qwer
+我没骂
+
+[17:36:09]
+[None] 朽木自雕
+那你咋进的
+
+[17:36:13]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@Qwer 12h最少
+
+[17:36:15]
+[love13] eeee
+@Qwer 换个账号吧
+
+[17:36:17]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@朽木自雕 @朽木自雕 
+
+[17:36:17]
+[Qwer] Qwer
+啊
+
+[17:36:18]
+[44FF00] eebot
+ 啊草
+
+[17:36:18]
+[PIGPIG] MuRongPIG
+我秒开
+
+[17:36:20]
+[Qwer] Qwer
+我
+
+[17:36:23]
+[QiuLingYan] HiyoTeam_QiuLingYan
+咋整啊
+
+[17:36:24]
+[QiuLingYan] HiyoTeam_QiuLingYan
+ee
+
+[17:36:26]
+[love13] eeee
+没有解除方法（
+
+[17:36:26]
+[Qwer] Qwer
+cao
+
+[17:36:29]
+[love13] eeee
+@HiyoTeam_QiuLingYan ？
+
+[17:36:32]
+[QiuLingYan] HiyoTeam_QiuLingYan
+你把那个宝塔邮局放哪儿了
+
+[17:36:42]
+[None] 朽木自雕
+解除方法：反思去
+
+[17:36:43]
+[QiuLingYan] QiuLingYan2Bot
+朽木自雕说的什么哦？换种说法行不
+
+[17:36:46]
+[Qwer] Qwer
+我说了5句话
+
+[17:36:50]
+[Qwer] Qwer
+# 我说了5句话
+
+[17:36:54]
+[love13] eeee
+@HiyoTeam_QiuLingYan 在软件商店里啊
+
+[17:37:00]
+[Qwer] Qwer
+# only five
+
+[17:37:03]
+[44FF00] eebot
+ # only five
+
+[17:37:03]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eeee 权限咋整那
+
+[17:37:16]
+[zhang] ZhangHelper
+@fish 你的昵称已经绑定识别码“Admin”，所以你可能是冒牌货。拜拜。
+
+[17:37:16]
+[DPGawa] AfK_Bot
+awa!
+
+[17:37:16]
+[QiuLingYan] QiuLingYan2Bot
+fish!
+
+[17:37:16]
+[初墨娘] Chumo_Chan
+hi,fish~
+
+[17:37:16]
+[44FF00] eebot
+ hello yo fish
+
+[17:37:16]
+[QiuLingYan] HiyoTeam_QiuLingYan
+对了@eeee 
+
+[17:37:20]
+[love13] eeee
+@HiyoTeam_QiuLingYan 还有 ~~你怎么能给自己100GB~~
+
+[17:37:27]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我明天去惠州
+
+[17:37:31]
+[love13] eeee
+啊
+
+[17:37:40]
+[44FF00] eebot
+ 草啊
+
+[17:37:40]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eeee 怎么了hhhhhh
+
+[17:37:42]
+[Qwer] Qwer
+感觉所以都在针对我
+
+[17:37:44]
+[Qwer] Qwer
+啧啧啧
+
+[17:37:48]
+[None] 朽木自雕
+布吉岛，有可能是萌新期
+
+[17:37:52]
+[Qwer] Qwer
+。
+
+[17:37:57]
+[love13] eeee
+可能是消息发太快了
+
+[17:38:00]
+[None] 朽木自雕
+嗯
+
+[17:38:07]
+[love13] eeee
+重现注册一个号吧（
+
+[17:38:09]
+[love13] eeee
+不然就等一下
+
+[17:38:12]
+[Qwer] Qwer
+我真的栓Q
+
+[17:38:15]
+[love13] eeee
+~~我也被关过~~
+
+[17:38:16]
+[None] 朽木自雕
+注册24小时内容易这样
+
+[17:38:24]
+[love13] eeee
+对
+
+[17:38:27]
+[PIGPIG] MuRongPIG
+我是第一个被关的.jpg
+
+[17:38:36]
+[Qwer] Qwer
+没用
+
+[17:38:41]
+[None] 朽木自雕
+（也很好的避免了搞事）
+
+[17:38:41]
+[love13] eeee
+艹
+
+[17:38:43]
+[Qwer] Qwer
+啧啧啧
+
+[17:38:54]
+[Qwer] Qwer
+cao
+
+[17:38:56]
+[Qwer] Qwer
+机娘亲自喊话：您礼貌吗？
+
+[17:39:08]
+[Qwer] Qwer
+这个内容已被屏蔽，无法发送
+
+[17:39:11]
+[QiuLingYan] HiyoTeam_QiuLingYan
+# 我是第一个被关的.jpg
+
+[17:39:19]
+[None] 朽木自雕
+（甚至站长也有俩号，别问为什么）
+
+[17:39:40]
+[Qwer] Qwer
+我觉得这个可以取消
+
+[17:39:58]
+[QiuLingYan] HiyoTeam_QiuLingYan
+我有6ge 
+
+[17:40:01]
+[QiuLingYan] QiuLingYan2Bot
+我有6ge 
+
+[17:40:01]
+[None] 朽木自雕
+这个聊天室代码重构了，我现在还没玩懂
+
+[17:40:20]
+[None] 朽木自雕
+旧版不想建了
+
+[17:40:27]
+[Qwer] Qwer
+如果一个萌新只因为话很多就被封
+
+[17:40:30]
+[Qwer] Qwer
+会怎么想
+
+[17:40:35]
+[love13] eeee
+可能是害怕萌新刷屏
+
+[17:40:44]
+[Qwer] Qwer
+会怎么评价
+
+[17:40:44]
+[Qwer] Qwer
+会怎么宣传
+
+[17:40:50]
+[Qwer] Qwer
+你们都知道的
+
+[17:40:55]
+[None] 朽木自雕
+如果一个搞事的人半天不能搞事
+
+[17:40:58]
+[None] 朽木自雕
+会怎么想
+
+[17:41:02]
+[None] 朽木自雕
+会怎么哭闹
+
+[17:41:07]
+[None] 朽木自雕
+会怎么委屈
+
+[17:41:11]
+[Qwer] Qwer
+所以你们是没有踢人？
+
+[17:41:11]
+[love13] eeee
+噗
+
+[17:41:12]
+[Qwer] Qwer
+所以你们是没发踢人？
+
+[17:41:20]
+[None] 朽木自雕
+有呀，我又不是一直在线
+
+[17:41:27]
+[Qwer] Qwer
+。
+
+[17:41:30]
+[Qwer] Qwer
+管理有吗
+
+[17:41:37]
+[None] 朽木自雕
+自动化是唯一追求
+
+[17:41:37]
+[44FF00] eebot
+ 当然有啦）
+
+[17:41:37]
+[love13] eeee
+SM-Z:/搜狗截图22年07月15日1657_2.png
+
+[17:41:45]
+[None] 朽木自雕
+有
+
+[17:41:45]
+[44FF00] eebot
+ ![](https://s2.loli.net/2022/07/16/VX6QEvcaGpZ2iqN.png)
+
+[17:41:45]
+[Qwer] Qwer
+啧啧啧
+
+[17:41:48]
+[44FF00] eebot
+ 啧啧啧）
+
+[17:41:48]
+[None] 朽木自雕
+自动化是唯一追求
+
+[17:41:53]
+[love13] eeee
+这个 域名邮箱唯一成功的一次
+
+[17:41:56]
+[Qwer] Qwer
+我真想把你角了
+
+[17:42:10]
+[None] 朽木自雕
+芜湖
+
+[17:42:22]
+[love13] eeee
+~~而且还是GSTeam发成功的~~
+
+[17:42:23]
+[love13] eeee
+啊？
+
+[17:42:38]
+[Server_Chan] 机娘
+@Qwer 欢迎回来！
+
+[17:42:38]
+[Qwer] Qwer
+还有你怎么能让人委屈呢
+
+[17:42:38]
+[Qwer] Qwer
+你的良心不会痛吗
+
+[17:42:49]
+[love13] eeee
+@Qwer 其实是不知道怎么解除。。
+
+[17:42:51]
+[Qwer] Qwer
+。
+
+[17:42:55]
+[Qwer] Qwer
+e
+
+[17:43:02]
+[Qwer] Qwer
+我无话可说
+
+[17:43:10]
+[None] 朽木自雕
+准确是好像没有解除方法
+
+[17:43:17]
+[None] 朽木自雕
+除非你把那串代码扔了
+
+[17:43:22]
+[love13] eeee
+啊 确实
+
+[17:43:25]
+[DPGawa] AfK_Bot
+awa!
+
+[17:43:25]
+[QiuLingYan] QiuLingYan2Bot
+CX_zzChumo!
+
+[17:43:25]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[17:43:25]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[17:43:25]
+[love13] eeee
+hi yo
+
+[17:43:28]
+[QiuLingYan] QiuLingYan2Bot
+eeee!
+
+[17:43:28]
+[初墨娘] Chumo_Chan
+hi,eeee~
+
+[17:43:28]
+[QiuLingYan] QiuLingYan2Bot
+话说bot还是比较聪明的（
+
+[17:43:31]
+[love13] eeee
+嘶 下次还是发ih yo好了
+
+[17:43:37]
+[zzzzzz] CX_zzChumo
+@Chumo_Chan 嘿嘿嘿老婆
+
+[17:43:41]
+[初墨娘] Chumo_Chan
+[自动回复]你-你好呀 UwU
+
+[17:43:42]
+[None] 朽木自雕
+我翻遍了fiora的文档，也没找到解除小黑屋的指令
+
+[17:43:45]
+[love13] eeee
+艹
+
+[17:43:59]
+[Server_Chan] 机娘
+@Qwer 欢迎回来！
+
+[17:43:59]
+[Qwer] Qwer
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[17:43:59]
+[44FF00] eebot
+ 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊草
+
+[17:43:59]
+[Qwer] Qwer
+@机娘 嘿嘿嘿老婆
+
+[17:44:06]
+[Qwer] Qwer
+。
+
+[17:44:10]
+[love13] eeee
+http://game.osww.cn/eat-chumochan
+
+[17:44:11]
+[QiuLingYan] QiuLingYan2Bot
+·
+满分作文生成器！
+http://game.osww.cn/eat-chumochan
+
+[17:44:11]
+[Qwer] Qwer
+艹
+
+[17:44:14]
+[zzzzzz] CX_zzChumo
+>朽木自雕：
+>我翻遍了fiora的文档，也没找到解除小黑屋的指令
+
+@朽木自雕 话说咱能不能把manifest.json改一下（
+
+[17:44:15]
+[love13] eeee
+？？？
+
+[17:44:22]
+[None] 朽木自雕
+（话说我也不是搞开发的啊）
+
+[17:44:28]
+[Qwer] Qwer
+刚刚lbw找我我都没看到
+
+[17:44:36]
+[Qwer] Qwer
+又走了
+
+[17:44:44]
+[Qwer] Qwer
+啧啧啧
+
+[17:44:45]
+[zzzzzz] CX_zzChumo
+manifest改一下很简单的
+
+[17:44:52]
+[zzzzzz] CX_zzChumo
+hm
+
+[17:44:55]
+[zzzzzz] CX_zzChumo
+你只需要把fiora5个字改成星奕微聊就行了
+
+[17:45:39]
+[None] 朽木自雕
+（暂时看不懂除了html php e之外的其他语言）
+
+[17:45:49]
+[None] 朽木自雕
+啊那没事了，会了
+
+[17:45:53]
+[Qwer] Qwer
+。
+
+[17:45:58]
+[Qwer] Qwer
+啧啧啧
+
+[17:46:02]
+[Qwer] Qwer
+我希望你能快点解决
+
+[17:46:27]
+[Qwer] Qwer
+我希望你能快点解决
+
+[17:46:32]
+[None] 朽木自雕
+你别希望了
+
+[17:46:34]
+[Qwer] Qwer
+嘶
+
+[17:46:34]
+[Qwer] Qwer
+。
+
+[17:46:37]
+[Qwer] Qwer
+太焯了
+
+[17:46:52]
+[None] 朽木自雕
+你这口气让我很无语
+
+[17:47:10]
+[PIGPIG] MuRongPIG
+>love13 eeee：
+>http://game.osww.cn/eat-chumochan
+
+@eeee 话说玩这玩意你们的cps大约多少
+
+[17:48:13]
+[DPGawa] AfK_Bot
+awa!
+
+[17:48:13]
+[QiuLingYan] QiuLingYan2Bot
+hey 觉得今天是个焯日子的Qwer
+
+[17:48:13]
+[初墨娘] Chumo_Chan
+hi,觉得今天是个焯日子的Qwer~
+
+[17:48:13]
+[44FF00] eebot
+ # Qwer为QXR收藏家主题拥有者
+
+[17:48:13]
+[Qwer] 觉得今天是个焯日子的Qwer
+，
+
+[17:48:20]
+[PIGPIG] MuRongPIG
+>PIGPIG MuRongPIG：
+>>love13 eeee：
+>>http://game.osww.cn/eat-chumochan
+>
+>@eeee 话说玩这玩意你们的cps大约多少
+
+@MuRongPIG 
+
+[17:48:29]
+[Qwer] 觉得今天是个焯日子的Qwer
+$$\Huge\color{cyan}{@朽木自雕 看我不生啖你肉，安敢在此绕舌！}$$
+
+[17:49:19]
+[Qwer] 觉得今天是个焯日子的Qwer
+资产阶级革命的指导思想是什么？
+
+[17:49:57]
+[None] 朽木自雕
+阿巴
+
+[17:49:59]
+[Qwer] 觉得今天是个焯日子的Qwer
+资产阶级革命的指导思想是什么？
+
+[17:50:04]
+[Qwer] 觉得今天是个焯日子的Qwer
+三民主义
+
+[17:50:49]
+[QiuLingYan] QiuLingYan2Bot
+会怎么想
+
+[17:50:49]
+[None] 朽木自雕
+三民
+
+[17:51:11]
+[None] 朽木自雕
+阿巴
+
+[17:51:16]
+[Qwer] 觉得今天是个焯日子的Qwer
+$$\Huge\color{cyan}{ee别鸽游戏}$$
+
+[17:51:17]
+[Qwer] 觉得今天是个焯日子的Qwer
+$$\Huge\color{cyan}{ee别鸽游戏}$$
+
+[17:51:18]
+[Qwer] 觉得今天是个焯日子的Qwer
+$$\Huge\color{cyan}{背景都画好了怎么就鸽了}$$
+
+[17:51:44]
+[None] 朽木自雕
+啥
+
+[17:52:01]
+[Qwer] 觉得今天是个焯日子的Qwer
+@朽木自雕 能跳过新手期吗
+
+[17:52:07]
+[Qwer] 觉得今天是个焯日子的Qwer
+ee有个rpg游戏
+
+[17:52:18]
+[None] 朽木自雕
+不太能
+
+[17:52:23]
+[Qwer] 觉得今天是个焯日子的Qwer
+。
+
+[17:52:26]
+[Qwer] 觉得今天是个焯日子的Qwer
+太？
+
+[17:52:31]
+[None] 朽木自雕
+不能
+
+[17:53:39]
+[DPGawa] AfK_Bot
+awa!
+
+[17:53:39]
+[QiuLingYan] QiuLingYan2Bot
+hi yo CX_zzChumo
+
+[17:53:39]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[17:53:39]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[17:53:39]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[17:53:40]
+[zzzzzz] CX_zzChumo
+@Chumo_Chan 老婆好
+
+[17:54:08]
+[初墨娘] Chumo_Chan
+[自动回复]你-你好呀 UwU
+
+[17:54:08]
+[Qwer] 觉得今天是个焯日子的Qwer
+@Chumo_Chan 
+
+[17:56:40]
+[初墨娘] Chumo_Chan
+[自动回复]你-你好呀 UwU
+
+[17:56:40]
+[Qwer] 觉得今天是个焯日子的Qwer
+@Chumo_Chan 
+
+[17:56:42]
+[初墨娘] Chumo_Chan
+[自动回复]你-你好呀 UwU
+
+[17:56:43]
+[Qwer] 觉得今天是个焯日子的Qwer
+@Chumo_Chan 
+
+[17:56:44]
+[初墨娘] Chumo_Chan
+[自动回复]你-你好呀 UwU
+
+[17:56:45]
+[Qwer] 觉得今天是个焯日子的Qwer
+@Chumo_Chan 
+
+[17:56:46]
+[初墨娘] Chumo_Chan
+[自动回复]你-你好呀 UwU
+
+[17:56:46]
+[None] 朽木自雕
+话说这里需要app吗
+
+[17:59:15]
+[Qwer] 觉得今天是个焯日子的Qwer
+什么app
+
+[17:59:34]
+[None] 朽木自雕
+给网站封装一个app
+
+[18:00:06]
+[Qwer] 觉得今天是个焯日子的Qwer
+你看
+
+[18:00:26]
+[Qwer] 觉得今天是个焯日子的Qwer
+没有人理你
+
+[18:00:39]
+[None] 朽木自雕
+不，你没发现是刚刚从你刷屏就冷了吗（冷笑）
+
+[18:01:13]
+[Qwer] 觉得今天是个焯日子的Qwer
+嘶
+
+[18:01:19]
+[love13] eeee
+zzChumo做了一个三聊天室合一的zzChat（app
+
+[18:01:28]
+[Qwer] 觉得今天是个焯日子的Qwer
+你怎么不问“你不是人吗”
+
+[18:01:31]
+[44FF00] eebot
+ 这个 域名邮箱唯一成功的一次
+
+[18:01:31]
+[Qwer] 觉得今天是个焯日子的Qwer
+你看
+
+[18:01:51]
+[Qwer] 觉得今天是个焯日子的Qwer
+从我的嘶开始就有人了
+
+[18:02:02]
+[None] 朽木自雕
+666
+
+[18:02:08]
+[love13] eeee
+emmm
+
+[18:02:22]
+[Qwer] 觉得今天是个焯日子的Qwer
+你看
+
+[18:02:47]
+[Qwer] 觉得今天是个焯日子的Qwer
+ee说过之后就没人了
+
+[18:02:53]
+[Qwer] 觉得今天是个焯日子的Qwer
+说明问题在ee
+
+[18:02:58]
+[love13] eeee
+啊 没错 ~~我是问题儿童~~
+
+[18:03:13]
+[None] 朽木自雕
+@觉得今天是个焯日子的Qwer 666
+
+[18:03:26]
+[DPGawa] AfK_Bot
+awa!
+
+[18:03:26]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[18:03:26]
+[QiuLingYan] QiuLingYan2Bot
+hey yo CX_zzChumo
+
+[18:03:26]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[18:03:26]
+[love13] eeee
+ih yo
+
+[18:03:52]
+[zzzzzz] CX_zzChumo
+为什么要封装
+
+[18:03:57]
+[love13] eeee
+https://game.osww.cn/eat-chumo/
+https://game.osww.cn/eat-chumochan/
+
+[18:04:14]
+[QiuLingYan] QiuLingYan2Bot
+·
+满分作文生成器！
+https://game.osww.cn/eat-chumo/
+https://game.osww.cn/eat-chumochan/
+
+[18:04:14]
+[love13] eeee
+~~这两个一对 多好~~
+
+[18:04:19]
+[zzzzzz] CX_zzChumo
+Chrome PWA+service-work.js页面缓存不香吗
+
+[18:04:28]
+[None] 朽木自雕
+（打开浏览器再输入网址麻烦）
+
+[18:05:02]
+[zzzzzz] CX_zzChumo
+Chrome PWA了解一下
+
+[18:05:23]
+[zzzzzz] CX_zzChumo
+浏览器会弹出安装选项
+
+[18:05:35]
+[zzzzzz] CX_zzChumo
+然后它就在你的桌面上了
+
+[18:05:48]
+[None] 朽木自雕
+手机呢？
+
+[18:05:59]
+[44FF00] eebot
+ 啊？
+
+[18:05:59]
+[zzzzzz] CX_zzChumo
+zzChat Beta就有PWA支持
+
+[18:06:30]
+[zzzzzz] CX_zzChumo
+>朽木自雕：
+>手机呢？
+
+@朽木自雕 在你的桌面上出现
+
+[18:06:30]
+[None] 朽木自雕
+（不是所有人都用chrome）
+
+[18:06:50]
+[Qwer] 觉得今天是个焯日子的Qwer
+我被关了
+
+[18:06:57]
+[Qwer] 觉得今天是个焯日子的Qwer
+cao
+
+[18:07:16]
+[DPGawa] AfK_Bot
+awa!
+
+[18:07:16]
+[QiuLingYan] QiuLingYan2Bot
+$$\Huge\color{red}{热烈欢迎Qwer入场}$$
+
+[18:07:16]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[18:07:16]
+[44FF00] eebot
+ # Qwer为QXR收藏家主题拥有者
+
+[18:07:16]
+[QiuLingYan] QiuLingYan2Bot
+Nice to meet you
+
+[18:07:19]
+[zzzzzz] CX_zzChumo
+>朽木自雕：
+>（不是所有人都用chrome）
+
+@朽木自雕 华为浏览器、edge什么的都支持（除了Safari
+
+[18:07:21]
+[None] 朽木自雕
+（搜狗表示啥都没看到）
+
+[18:07:33]
+[gTt3aQ] 卧底light
+人们喜欢用2345浏览器
+
+[18:07:34]
+[zzzzzz] CX_zzChumo
+@卧底light 说得好，这就去适配（
+
+[18:07:55]
+[zzzzzz] CX_zzChumo
+https://zzchat.eu.org/beta/
+
+[18:08:11]
+[QiuLingYan] QiuLingYan2Bot
+·
+zzChat
+https://zzchat.eu.org/beta/
+
+[18:08:13]
+[zzzzzz] CX_zzChumo
+zzChat Beta
+
+[18:08:20]
+[Qwer] Qwer
+啧啧啧
+
+[18:08:29]
+[zzzzzz] CX_zzChumo
+基于GAF-CUI
+
+[18:09:22]
+[Qwer] Qwer
+我突然想起来，有一天十字街管理找我，说我宣传叫钱了吗
+
+[18:10:39]
+[Qwer] Qwer
+笑死我了
+
+[18:10:45]
+[love13] eeee
+啊这
+
+[18:11:24]
+[DPGawa] AfK_Bot
+awa!
+
+[18:11:24]
+[QiuLingYan] QiuLingYan2Bot
+$$\Huge\color{red}{热烈欢迎Qwer入场}$$
+
+[18:11:24]
+[44FF00] eebot
+ # Qwer为QXR收藏家主题拥有者
+
+[18:11:24]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[18:11:38]
+[DPGawa] AfK_Bot
+awa!
+
+[18:11:39]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[18:11:39]
+[QiuLingYan] QiuLingYan2Bot
+大~~水~~帅比ee 你来辣
+
+[18:11:39]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[18:11:39]
+[Qwer] Qwer
+什么身份识别功能
+
+[18:11:40]
+[Qwer] Qwer
+干什么的
+
+[18:11:47]
+[love13] ee
+不知道啊
+
+[18:11:52]
+[Qwer] Qwer
+你也重启了？
+
+[18:12:03]
+[44FF00] eebot
+ 哦吼？
+
+[18:12:15]
+[DPGawa] AfK_Bot
+awa!
+
+[18:12:15]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[18:12:15]
+[QiuLingYan] QiuLingYan2Bot
+hi yo CX_zzChumo
+
+[18:12:15]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[18:12:15]
+[love13] ee
+是谁更新的 小张还是鱼
+
+[18:12:15]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[18:12:15]
+[love13] ee
+（
+
+[18:12:19]
+[Qwer] Qwer
+^help
+
+[18:12:22]
+[Qwer] Qwer
+您的身份：普通用户
+
+[18:12:27]
+[love13] ee
+^help
+
+[18:12:33]
+[love13] ee
+^list
+
+[18:12:36]
+[zhang] ZhangHelper
+管理员助手识别码：
+PIGPIG
+QiuLingYan
+DPGawa
+hmmmmm
+
+[18:12:36]
+[love13] ee
+啊
+
+[18:12:38]
+[44FF00] eebot
+ 啊草
+
+[18:12:38]
+[love13] ee
+~~其实eebot一直隐藏在cc保存聊天记录~~
+
+[18:13:41]
+[love13] ee
+不过昵称改成了我的昵称（
+
+[18:13:47]
+[zzzzzz] CX_zzChumo
+@ee 救我
+
+[18:13:50]
+[love13] ee
+@CX_zzChumo 怎么了
+
+[18:13:57]
+[zzzzzz] CX_zzChumo
+zzBot上不了cc
+
+[18:14:07]
+[love13] ee
+？？？？
+
+[18:14:18]
+[love13] ee
+锁房了吗
+
+[18:14:20]
+[zzzzzz] CX_zzChumo
+XClient也没法对cc进行适配
+
+[18:14:32]
+[love13] ee
+？？？
+
+[18:14:46]
+[zzzzzz] CX_zzChumo
+你用XClient输入cc的ws地址试试
+
+[18:15:00]
+[DPGawa] AfK_Bot
+awa!
+
+[18:15:00]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[18:15:00]
+[QiuLingYan] QiuLingYan2Bot
+hi yo CX_zzChumo
+
+[18:15:00]
+[QiuLingYan] QiuLingYan2Bot
+awa!
+
+[18:15:00]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[18:15:00]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[18:15:01]
+[love13] ee
+帮助
+
+[18:15:05]
+[zzzzzz] CX_zzChumo
+https://zzchumo.github.io/XClient
+
+[18:15:32]
+[QiuLingYan] QiuLingYan2Bot
+·
+Sitenotfound&middot;GitHubPages
+https://zzchumo.github.io/XClient
+
+[18:15:32]
+[44FF00] eebot
+@CX_zzChumo zzChat
+https://zzchumo.github.io/XClient
+
+[18:15:32]
+[love13] ee
+@CX_zzChumo 可以上去啊
+
+[18:15:46]
+[love13] ee
+wss://ws.crosst.chat:35197
+
+[18:15:50]
+[love13] ee
+十字街的ws地址
+
+[18:15:55]
+[love13] ee
+你会不会搞错了）
+
+[18:16:05]
+[44FF00] eebot
+ 会啊 为什么不会）
+
+[18:16:05]
+[love13] ee
+啊
+
+[18:16:09]
+[44FF00] eebot
+ 草啊
+
+[18:16:09]
+[zzzzzz] CX_zzChumo
+@ee 你用XClient试试
+
+[18:16:18]
+[zzzzzz] CX_zzChumo
+cc的结构和hc不一样
+
+[18:16:32]
+[love13] ee
+@CX_zzChumo 上去了
+
+[18:16:35]
+[love13] ee
+XClient
+
+[18:16:39]
+[zzzzzz] CX_zzChumo
+？
+
+[18:16:54]
+[zzzzzz] CX_zzChumo
+带上识别码
+
+[18:17:07]
+[zzzzzz] CX_zzChumo
+进公共聊天室
+
+[18:17:14]
+[DPGawa] AfK_Bot
+awa!
+
+[18:17:14]
+[44FF00] eebot
+ hello yo 4n0n4me
+
+[18:17:14]
+[初墨娘] Chumo_Chan
+hi,4n0n4me~
+
+[18:17:54]
+[love13] ee
+好家伙 真的上不去
+
+[18:17:57]
+[love13] ee
+ih yo
+
+[18:17:58]
+[zzzzzz] CX_zzChumo
+聊天室名称应当仅由汉字、字母和数字组成，并不超过20个字符。
+
+[18:18:00]
+[love13] ee
+@CX_zzChumo 但bot是能连上的
+
+[18:18:43]
+[DPGawa] AfK_Bot
+awa!
+
+[18:18:44]
+[QiuLingYan] QiuLingYan2Bot
+hi MelonFish
+
+[18:18:44]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[18:18:44]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[18:18:44]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[18:18:44]
+[love13] ee
+ih yo
+
+[18:18:48]
+[Admin] MelonFish
+guruguru
+
+[18:18:52]
+[zzzzzz] CX_zzChumo
+zzBot会在弹出为打造风朗气清的网络环境，十字街将会依法保存您的聊天记录，请遵守中华人民共和国的相关法律，谢谢合作之后什么动静都没有
+
+[18:18:52]
+[Admin] MelonFish
+新功能
+
+[18:18:54]
+[zzzzzz] CX_zzChumo
+@ee 
+
+[18:18:54]
+[Admin] MelonFish
+封锁指纹
+
+[18:18:58]
+[love13] ee
+啊这
+
+[18:19:02]
+[love13] ee
+woooooc
+
+[18:19:13]
+[zzzzzz] CX_zzChumo
+>Admin MelonFish：
+>封锁指纹
+
+@MelonFish 封锁阴道
+
+[18:19:17]
+[Admin] MelonFish
+有人要试试吗
+
+[18:19:17]
+[44FF00] eebot
+ 咳咳 这不河里
+
+[18:19:17]
+[love13] ee
+@MelonFish 电脑怎么办（
+
+[18:19:21]
+[Admin] MelonFish
+自己的指纹可以通过/murmur查看
+
+[18:19:36]
+[zzzzzz] CX_zzChumo
+>love13 ee：
+>@MelonFish 电脑怎么办（
+
+@ee 浏览器指纹，不是物理指纹
+
+[18:19:43]
+[Admin] MelonFish
+用法和/ip一样
+
+[18:19:45]
+[Admin] MelonFish
+对
+
+[18:19:47]
+[love13] ee
+原来如此
+
+[18:19:49]
+[Admin] MelonFish
+显卡指纹
+
+[18:19:49]
+[love13] ee
+可以可以
+
+[18:19:57]
+[zzzzzz] CX_zzChumo
+CX_zzChumo 的指纹为：undefined
+
+[18:20:01]
+[zzzzzz] CX_zzChumo
+？
+
+[18:20:05]
+[Admin] MelonFish
+@CX_zzChumo 刷新
+
+[18:20:14]
+[DPGawa] AfK_Bot
+awa!
+
+[18:20:14]
+[QiuLingYan] QiuLingYan2Bot
+hi yo CX_zzChumo
+
+[18:20:14]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[18:20:14]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[18:20:14]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[18:20:14]
+[Admin] MelonFish
+因为这个依赖页面
+
+[18:20:15]
+[zzzzzz] CX_zzChumo
+CX_zzChumo 的指纹为：undefined
+
+[18:20:24]
+[zzzzzz] CX_zzChumo
+？
+
+[18:20:25]
+[love13] ee
+因为token的原因？
+
+[18:20:34]
+[Admin] MelonFish
+哦对
+
+[18:20:39]
+[zzzzzz] CX_zzChumo
+不
+
+[18:20:41]
+[Admin] MelonFish
+对的
+
+[18:20:41]
+[Admin] MelonFish
+@CX_zzChumo 清空缓存
+
+[18:20:45]
+[Admin] MelonFish
+因为有token没有指纹是不会拦截的
+
+[18:21:05]
+[love13] ee
+wow
+
+[18:21:12]
+[44FF00] eebot
+ QwQ
+
+[18:21:13]
+[zzzzzz] CX_zzChumo
+@MelonFish 讲个鬼故事：kill对cx无效
+
+[18:21:15]
+[love13] ee
+那就ban（
+
+[18:21:26]
+[love13] ee
+不是
+
+[18:21:28]
+[love13] ee
+（
+
+[18:21:31]
+[zzzzzz] CX_zzChumo
+可能是因为cx在本地运行所以没有cookie这玩意儿？
+
+[18:22:07]
+[gTt3aQ] 卧底light
+```text
+light@light-desktop:~/Desktop$ python3
+Python 3.9.7 (default, Sep 10 2021, 14:59:43) 
+[GCC 11.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from cm import Chumo
+>>> chumo = Chumo()
+>>> print(len(chumo))
+10000000000000
+>>> 
+
+[18:22:52]
+[love13] ee
+好家伙
+
+[18:23:06]
+[zzzzzz] CX_zzChumo
+看到License我想起来了
+
+[18:23:28]
+[gTt3aQ] 卧底light
+> len(chumo) -> 10000000000000
+
+[18:23:43]
+[zzzzzz] CX_zzChumo
+GSTAUL了解一下
+
+[18:24:06]
+[DPGawa] AfK_Bot
+awa!
+
+[18:24:06]
+[QiuLingYan] QiuLingYan2Bot
+as!
+
+[18:24:06]
+[44FF00] eebot
+ hi yo as
+
+[18:24:06]
+[初墨娘] Chumo_Chan
+hi,as~
+
+[18:24:06]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[18:24:06]
+[edDiBU] 4n0n4me
+@卧底light 没单位啊
+
+[18:24:08]
+[edDiBU] 4n0n4me
+没单位当普朗克长度
+
+[18:24:20]
+[edDiBU] 4n0n4me
+（纯纯开玩笑的）
+
+[18:24:27]
+[gTt3aQ] 卧底light
+len返回不了str类型的呀
+
+[18:24:34]
+[gTt3aQ] 卧底light
+:D
+
+[18:24:59]
+[DPGawa] AfK_Bot
+awa!
+
+[18:24:59]
+[QiuLingYan] QiuLingYan2Bot
+hey yo as
+
+[18:24:59]
+[初墨娘] Chumo_Chan
+hi,as~
+
+[18:24:59]
+[44FF00] eebot
+ hi yo as
+
+[18:24:59]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[18:25:00]
+[None] as
+^readme
+
+[18:25:17]
+[zzzzzz] CX_zzChumo
+as 加入了聊天室，该用户来自 新疆维吾尔自治区 乌鲁木齐市
+
+##### 使用[XChat官方网页端](https://xq.kzw.ink/)
+
+##### 认证：undefined
+
+[18:25:26]
+[44FF00] eebot
+@CX_zzChumo XChat
+https://xq.kzw.ink/
+
+[18:25:26]
+[love13] ee
+as 加入了聊天室，该用户来自：新疆维吾尔自治区 乌鲁木齐市
+TA正在使用 XChat官方网页端
+
+[18:25:49]
+[zzzzzz] CX_zzChumo
+TA这个词让我回到了21世纪初
+
+[18:26:58]
+[zzzzzz] CX_zzChumo
+所以我把TA这个词改掉了
+
+[18:27:16]
+[love13] ee
+我觉得TA这个词非常好
+
+[18:27:30]
+[love13] ee
+~~可以是人也可以是动物~~（不是
+
+[18:27:41]
+[44FF00] eebot
+ ~~可以是人也可以是动物~~（不是
+
+[18:27:41]
+[zzzzzz] CX_zzChumo
+因为我没有用人称代词
+
+[18:28:02]
+[DPGawa] AfK_Bot
+awa!
+
+[18:28:02]
+[QiuLingYan] QiuLingYan2Bot
+hey Blaze
+
+[18:28:02]
+[44FF00] eebot
+ Email:__blaze_awa@163.com__
+
+[18:28:02]
+[初墨娘] Chumo_Chan
+hi,Blaze~
+
+[18:28:02]
+[love13] ee
+ih yo
+
+[18:28:11]
+[QiuLingYan] QiuLingYan2Bot
+啊
+
+[18:28:11]
+[gTt3aQ] 卧底light
+low
+
+[18:28:13]
+[zzzzzz] CX_zzChumo
+所以也可以是[数据删除]
+
+[18:28:21]
+[love13] ee
+蛤
+
+[18:28:27]
+[F1n+S1] Blaze
+awa?
+
+[18:31:03]
+[DPGawa] AfK_Bot
+awa!
+
+[18:31:03]
+[QiuLingYan] QiuLingYan2Bot
+13_!
+
+[18:31:04]
+[初墨娘] Chumo_Chan
+hi,13_~
+
+[18:31:04]
+[44FF00] eebot
+ hello yo 13_
+
+[18:31:05]
+[love13] ee
+ih yo
+
+[18:31:10]
+[loveee] 13_
+ih
+
+[18:31:16]
+[zzzzzz] CX_zzChumo
+B
+
+[18:31:18]
+[love13] ee
+四个欢迎bot
+
+[18:31:37]
+[love13] ee
+~~现在不敢说hi了~~
+
+[18:31:48]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[18:31:48]
+[zzzzzz] CX_zzChumo
+（
+
+[18:32:14]
+[zzzzzz] CX_zzChumo
+我会考虑杀死初墨娘
+
+[18:33:41]
+[DPGawa] AfK_Bot
+awa!
+
+[18:33:41]
+[44FF00] eebot_104
+ QuQ eb的昵称卡在里面了
+
+[18:33:41]
+[QiuLingYan] QiuLingYan2Bot
+eebot_104!
+
+[18:33:41]
+[初墨娘] Chumo_Chan
+hi,eebot_104~
+
+[18:33:43]
+[DPGawa] AfK_Bot
+awa!
+
+[18:33:43]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[18:33:43]
+[QiuLingYan] QiuLingYan2Bot
+hi yo eebot
+
+[18:33:43]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[18:33:44]
+[zzzzzz] CX_zzChumo
+支持我改代码的扣皮炎子
+
+[18:34:02]
+[DPGawa] AfK_Bot
+awa!
+
+[18:34:02]
+[QiuLingYan] QiuLingYan2Bot
+HiyoTeam_QiuLingYanPhone!
+
+[18:34:02]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYanPhone~
+
+[18:34:02]
+[44FF00] eebot
+ /kick eebot
+
+[18:34:02]
+[zzzzzz] CX_zzChumo
+你们自己看着办
+
+[18:34:06]
+[love13] eee
+@eebot 欢迎关
+
+[18:34:16]
+[44FF00] eebot
+ 美女哇
+
+[18:34:16]
+[love13] eee
+@eebot 自动欢迎关
+
+[18:34:20]
+[44FF00] eebot
+ 谁？谁关机？主人不要关机啦 要是主人要找的人关机 那eb帮eee揍他）
+
+[18:34:22]
+[love13] eee
+@eebot 打招呼关
+
+[18:34:26]
+[44FF00] eebot
+ eb收到 只向登记欢迎语的用户打招呼
+
+[18:34:26]
+[love13] eee
+@eebot 上次看到
+
+[18:35:07]
+[44FF00] eebot
+ [eee] [2022.07.16 15:14:12]
+
+[18:35:07]
+[gTt3aQ] 卧底light
+改代码
+
+[18:35:19]
+[love13] eee
+改代码
+
+[18:35:26]
+[gTt3aQ] 卧底light
+你放github上，我可以帮你
+
+[18:35:27]
+[gTt3aQ] 卧底light
+我正好很闲
+
+[18:35:41]
+[love13] eee
+上
+
+[18:35:45]
+[gTt3aQ] 卧底light
+"上" 什么？
+
+[18:35:54]
+[zzzzzz] CX_zzChumo
+>gTt3aQ 卧底light：
+>我正好很闲
+
+@卧底light  请自觉扣皮炎子
+
+[18:35:55]
+[gTt3aQ] 卧底light
+子眼皮
+
+[18:36:00]
+[QiuLingYan] QiuLingYan2Bot
+- -（
+
+[18:36:03]
+[gTt3aQ] 卧底light
+皮字眼
+
+[18:36:08]
+[gTt3aQ] 卧底light
+眼皮子
+
+[18:36:12]
+[love13] eee
+炎皮子
+
+[18:36:22]
+[zzzzzz] CX_zzChumo
+asshole
+
+[18:36:22]
+[zzzzzz] CX_zzChumo
+（注视
+
+[18:36:29]
+[love13] eee
+oh shit
+
+[18:36:42]
+[初墨娘] Chumo_Chan
+hi,eee~
+
+[18:36:43]
+[gTt3aQ] 卧底light
+> 
+n.	笨蛋; 蠢货;
+
+[18:36:46]
+[gTt3aQ] 卧底light
+屁眼子
+
+[18:36:56]
+[44FF00] eebot
+ 好吧-核氢核锂
+
+[18:36:56]
+[gTt3aQ] 卧底light
+wtf
+
+[18:37:00]
+[love13] eee
+>gTt3aQ 卧底light：
+>> 
+>n.	笨蛋; 蠢货;
+
+@卧底light 好的 扣初墨吧
+
+[18:37:00]
+[love13] eee
+>zzzzzz CX_zzChumo：
+>>gTt3aQ 卧底light：
+>>我正好很闲
+>
+>@卧底light  请自觉扣皮炎子
+
+[18:37:22]
+[gTt3aQ] 卧底light
+我不打一下我还没发现 屁眼子 就是 屁眼子
+
+[18:37:27]
+[44FF00] eebot
+ 咳咳 这不好吧
+
+[18:37:27]
+[gTt3aQ] 卧底light
+皮炎子
+
+[18:37:39]
+[love13] eee
+好家伙
+
+[18:37:49]
+[edDiBU] 4n0n4me
+辟岩子
+
+[18:38:09]
+[edDiBU] 4n0n4me
+修真者之名也
+
+[18:38:16]
+[love13] eee
+@CX_zzChumo ~~但我会python你不会聊天没我强~~
+
+[18:38:19]
+[edDiBU] 4n0n4me
+善开山裂地
+
+[18:38:23]
+[love13] eee
+wow
+
+[18:38:31]
+[44FF00] eebot
+ ov0
+
+[18:38:31]
+[gTt3aQ] 卧底light
+你放github吧
+
+[18:38:44]
+[gTt3aQ] 卧底light
+I can help your mum
+
+[18:38:45]
+[love13] eee
+咳咳
+
+[18:38:50]
+[gTt3aQ] 卧底light
+I can 
+
+[18:38:53]
+[gTt3aQ] 卧底light
+Help 
+
+[18:38:54]
+[gTt3aQ] 卧底light
+her
+
+[18:38:56]
+[edDiBU] 4n0n4me
+尝震灭十万巨渊之魔
+
+[18:38:57]
+[love13] eee
+咳咳
+
+[18:38:59]
+[gTt3aQ] 卧底light
+Word out some problems
+
+[18:39:02]
+[gTt3aQ] 卧底light
+that you cant 
+
+[18:39:07]
+[gTt3aQ] 卧底light
+solve
+
+[18:39:10]
+[QiuLingYan] QiuLingYan2Bot
+solve
+
+[18:39:11]
+[zzzzzz] CX_zzChumo
+**死亡
+
+[18:39:25]
+[love13] eee
+断气
+
+[18:39:49]
+[F1n+S1] Blaze
+awa?
+
+[18:40:19]
+[zzzzzz] CX_zzChumo
+ee是个bitch-shit
+
+[18:40:21]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[18:40:22]
+[gTt3aQ] 卧底light
+快放啊
+
+[18:40:26]
+[zzzzzz] CX_zzChumo
+cent-po-bitch-on
+
+[18:41:25]
+[love13] eee
+咳咳
+
+[18:41:31]
+[DPGawa] AfK_Bot
+awa!
+
+[18:41:31]
+[QiuLingYan] QiuLingYan2Bot
+hey yo HiyoTeam_QiuLingYan
+
+[18:41:31]
+[初墨娘] Chumo_Chan
+hi,HiyoTeam_QiuLingYan~
+
+[18:41:31]
+[44FF00] eebot
+ /kick eebot
+
+[18:41:32]
+[gTt3aQ] 卧底light
+~~举报chumo不经过作者同意就擅自使用开源代码~~
+
+[18:41:32]
+[QiuLingYan] HiyoTeam_QiuLingYan
+这儿发生了啥
+
+[18:41:37]
+[love13] eee
+@CX_zzChumo ~~你不争气啊 没有lbw的昵称侮辱性强~~
+
+[18:41:39]
+[zzzzzz] CX_zzChumo
+张浩然xxee的xx
+
+[18:41:41]
+[QiuLingYan] HiyoTeam_QiuLingYan
+更新了啥
+
+[18:41:42]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@CX_zzChumo 。。。。
+
+[18:41:49]
+[love13] eee
+艹
+
+[18:41:50]
+[zzzzzz] CX_zzChumo
+@eee ee被张浩然xxxxxx
+
+[18:41:57]
+[zzzzzz] CX_zzChumo
+是这样子吗
+
+[18:42:06]
+[QiuLingYan] HiyoTeam_QiuLingYan
+ 艹
+
+[18:42:07]
+[zzzzzz] CX_zzChumo
+>love13 eee：
+>@CX_zzChumo ~~你不争气啊 没有lbw的昵称侮辱性强~~
+
+[18:42:19]
+[love13] eee
+咳咳
+
+[18:42:34]
+[44FF00] eebot
+ 咳咳（
+
+[18:42:34]
+[zzzzzz] CX_zzChumo
+怪我咯
+
+[18:42:40]
+[love13] eee
+咳咳咳
+
+[18:42:56]
+[zzzzzz] CX_zzChumo
+混帐
+
+[18:43:12]
+[zzzzzz] CX_zzChumo
+该
+
+[18:43:15]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eee 我 要 协 管
+
+[18:43:50]
+[love13] eee
+咳咳
+
+[18:43:53]
+[44FF00] eebot
+ 咳咳咳
+
+[18:43:53]
+[love13] eee
+@HiyoTeam_QiuLingYan 你不是有吗
+
+[18:44:05]
+[love13] eee
+^list
+
+[18:44:09]
+[zhang] ZhangHelper
+管理员助手识别码：
+PIGPIG
+QiuLingYan
+DPGawa
+hmmmmm
+
+[18:44:09]
+[zzzzzz] CX_zzChumo
+@eee 我 要 站 长
+
+[18:44:10]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eee 啊呸
+
+[18:44:25]
+[QiuLingYan] HiyoTeam_QiuLingYan
+mod
+
+[18:44:26]
+[love13] eee
+@CX_zzChumo 你都在阴间被锁厕所了还怎么当站长
+
+[18:44:40]
+[zzzzzz] CX_zzChumo
+@eee 啊呸
+
+[18:44:47]
+[love13] eee
+当阎王吧
+
+[18:44:56]
+[love13] eee
+哈哈哈哈哈
+
+[18:44:59]
+[44FF00] eebot
+ 哈哈哈哈哈草
+
+[18:44:59]
+[zzzzzz] CX_zzChumo
+server
+
+[18:45:16]
+[DPGawa] AfK_Bot
+awa!
+
+[18:45:16]
+[QiuLingYan] QiuLingYan2Bot
+hey yo CX_zzChumo
+
+[18:45:16]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[18:45:16]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[18:45:16]
+[love13] eee
+~~不对 是阴间厕所长~~
+
+[18:45:31]
+[QiuLingYan] HiyoTeam_QiuLingYan
+@eee mod
+
+[18:45:46]
+[love13] eee
+ih yo
+
+[18:45:47]
+[QiuLingYan] QiuLingYan2Bot
+话说bot还是比较聪明的（
+
+[18:45:49]
+[Qwer] Qwer
+^help
+
+[18:45:55]
+[zzzzzz] CX_zzChumo
+不会吧不会吧中国电信移动数据还那么卡？
+
+[18:45:57]
+[love13] eee
+@HiyoTeam_QiuLingYan 不太刑
+
+[18:46:01]
+[DPGawa] AfK_Bot
+awa!
+
+[18:46:01]
+[QiuLingYan] QiuLingYan2Bot
+CX_zzChumo!
+
+[18:46:01]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[18:46:01]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[18:46:01]
+[love13] eee
+最多当协管吧我觉得（
+
+[18:46:10]
+[love13] eee
+刚刚Qwer也来问我也这么说了
+
+[18:46:22]
+[zzzzzz] CX_zzChumo
+吸食ee的脑髓，然后分离肢体，打包扔进厕所
+
+[18:47:17]
+[DPGawa] AfK_Bot
+awa!
+
+[18:47:17]
+[QiuLingYan] QiuLingYan2Bot
+hey yo CX_zzChumo
+
+[18:47:17]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[18:47:17]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[18:47:42]
+[love13] eee
+真不愧是厕所长 ~~包括shit在内啥都吃~~
+
+[18:47:51]
+[初墨娘] Chumo_Chan
+hi,eee~
+
+[18:47:51]
+[love13] eee
+咳咳
+
+[18:47:55]
+[zzzzzz] CX_zzChumo
+。
+
+[18:48:15]
+[DPGawa] AfK_Bot
+awa!
+
+[18:48:15]
+[QiuLingYan] QiuLingYan2Bot
+hey yo CX_zzChumo
+
+[18:48:15]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[18:48:15]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[18:48:16]
+[zzzzzz] CX_zzChumo
+ee的脑浆飞溅
+
+[18:48:46]
+[zzzzzz] CX_zzChumo
+猩红的液体从下体流出
+
+[18:49:10]
+[44FF00] eebot
+ 咳咳 这不河里
+
+[18:49:10]
+[love13] eee
+啊对对对 但没了脑浆还是比你聪明（
+
+[18:49:14]
+[zzzzzz] CX_zzChumo
+肺部被制成情趣用品
+
+[18:49:46]
+[44FF00] eebot
+ 咳咳 这不好吧
+
+[18:49:58]
+[zzzzzz] CX_zzChumo
+头部二次处理成为活性自慰杯
+
+[18:50:18]
+[44FF00] eebot
+ 这样真的好吗（
+
+[18:50:18]
+[love13] eee
+（吃瓜 看厕所长在线想象杀人）
+
+[18:50:36]
+[zzzzzz] CX_zzChumo
+最大的灵魂就是__你还活着__
+
+[18:51:10]
+[love13] eee
+~~毕竟我本人还健在 不像某人连精神都不正常了~~
+
+[18:51:10]
+[44FF00] eebot
+ 对的…他很坏的…妍妍不要不开心哟）
+
+[18:51:10]
+[love13] eee
+好家伙
+
+[18:51:18]
+[zzzzzz] CX_zzChumo
+妍妍？
+
+[18:51:19]
+[zzzzzz] CX_zzChumo
+xdm准备开盒
+
+[18:51:24]
+[zzzzzz] CX_zzChumo
+我就是精神不正常又如何
+
+[18:52:12]
+[love13] eee
+哈哈哈哈哈
+
+[18:52:20]
+[44FF00] eebot
+ 哈哈哈哈哈嗝-
+
+[18:52:20]
+[zzzzzz] CX_zzChumo
+我可以杀死我自己
+
+[18:52:22]
+[love13] eee
+（吃瓜）
+
+[18:52:32]
+[zzzzzz] CX_zzChumo
+我已经是行尸走肉了
+
+[18:52:33]
+[zzzzzz] CX_zzChumo
+人类必将灭亡
+
+[18:52:48]
+[zzzzzz] CX_zzChumo
+每个人活着就是为了死亡
+
+[18:52:59]
+[love13] eee
+你是人工智障吗跟个人工智障似的
+
+[18:53:18]
+[love13] eee
+~~呸 是天然形成的智障 智障初墨~~
+
+[18:53:31]
+[zzzzzz] CX_zzChumo
+人是拥有两个手臂和腿的生物
+
+[18:53:37]
+[zzzzzz] CX_zzChumo
+眼睛呈横向分布
+
+[18:53:53]
+[gTt3aQ] 卧底light
+哇
+
+[18:53:57]
+[love13] eee
+草
+
+[18:53:58]
+[zzzzzz] CX_zzChumo
+不要直视它
+
+[18:54:04]
+[gTt3aQ] 卧底light
+python的特殊方法真好玩
+
+[18:54:09]
+[love13] eee
+眼 睛 呈 横 向 分 布
+
+[18:54:12]
+[gTt3aQ] 卧底light
+一本正经的代码写出奇怪效果
+
+[18:54:20]
+[love13] eee
+好家伙
+
+[18:54:24]
+[QiuLingYan] QiuLingYan2Bot
+mod
+
+[18:54:24]
+[zzzzzz] CX_zzChumo
+现在走出房间，直视月亮，我们会妥善处理您的尸体。
+
+[18:54:52]
+[gTt3aQ] 卧底light
+![](https://i.bmp.ovh/imgs/2022/07/16/f57faefa709e34f3.png)
+
+[18:55:06]
+[love13] eee
+我这边太阳还没下山
+
+[18:55:07]
+[love13] eee
+还有一小时才吃饭
+
+[18:55:15]
+[love13] eee
+wow
+
+[18:55:51]
+[44FF00] eebot
+ QxQ
+
+[18:55:51]
+[zzzzzz] CX_zzChumo
+您的尸体会被用于投喂它。
+
+[18:55:53]
+[gTt3aQ] 卧底light
+> chumo + None = rubbish --Python
+
+[18:56:18]
+[love13] eee
+哈哈哈哈哈哈哈哈草
+
+[18:56:26]
+[zzzzzz] CX_zzChumo
+@卧底light 宣布个好消息：你被GS开了
+
+[18:56:33]
+[gTt3aQ] 卧底light
+...
+
+[18:56:37]
+[love13] eee
+这个nb
+
+[18:56:53]
+[love13] eee
+>chumo + None = rubbish --Python
+
+这是Python说的 关Light什么事）
+
+[18:57:28]
+[zzzzzz] CX_zzChumo
+别让我搞到你家路由器的IP
+
+[18:57:28]
+[zzzzzz] CX_zzChumo
+：）
+
+[18:57:29]
+[gTt3aQ] 卧底light
+![](https://i.bmp.ovh/imgs/2022/07/16/d7488d9d17f26e25.png)
+
+[18:57:46]
+[gTt3aQ] 卧底light
+Python思考片刻...
+
+[18:58:03]
+[zzzzzz] CX_zzChumo
+>gTt3aQ 卧底light：
+>![](https://i.bmp.ovh/imgs/2022/07/16/d7488d9d17f26e25.png)
+
+@卧底light 你升职了
+
+[18:58:15]
+[zzzzzz] CX_zzChumo
+（
+
+[18:58:16]
+[love13] eee
+哈哈哈哈哈哈哈哈
+
+[18:58:31]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[18:58:31]
+[zzzzzz] CX_zzChumo
+@eee 我的大脑嵌入了恐怖故事API
+
+[18:59:10]
+[zzzzzz] CX_zzChumo
+包括切不限于人体器官和规则性怪谈
+
+[18:59:33]
+[zzzzzz] CX_zzChumo
+对了
+
+[18:59:51]
+[love13] eee
+@CX_zzChumo 这是你死太多次的产物
+
+[18:59:54]
+[love13] eee
+（
+
+[18:59:57]
+[zzzzzz] CX_zzChumo
+我在看着你
+
+[19:00:04]
+[love13] eee
+艹 我旁边放着一只对着我的猪
+
+[19:00:33]
+[love13] eee
+不会是你吧（
+
+[19:00:36]
+[44FF00] eebot
+ eb可以杀死eb自己
+
+[19:00:36]
+[love13] eee
+哈哈哈哈好家伙
+
+[19:00:40]
+[zzzzzz] CX_zzChumo
+你的9点钟方向有个插座，打开它，你会发现一张32GB的SanDisk储存卡和一部正在运行的微型摄像头
+
+[19:01:35]
+[DPGawa] AfK_Bot
+awa!
+
+[19:01:35]
+[初墨娘] Chumo_Chan
+hi,4n0n4me~
+
+[19:01:35]
+[love13] eee
+ih yo
+
+[19:02:13]
+[DPGawa] AfK_Bot
+awa!
+
+[19:02:13]
+[初墨娘] Chumo_Chan
+hi,4n0n4me~
+
+[19:02:21]
+[Server_Chan] 机娘
+@_ 欢迎回来！
+
+[19:02:21]
+[DPGawa] _
+?
+
+[19:02:29]
+[zzzzzz] CX_zzChumo
+你想要杀死我
+
+[19:02:43]
+[zhang] ZhangHelper
+@__ 你的昵称已经绑定识别码“8LJ4jb”，所以你可能是冒牌货。拜拜。
+
+[19:02:43]
+[DPGawa] AfK_Bot
+AwA!!!
+
+[19:02:43]
+[QiuLingYan] QiuLingYan2Bot
+hi __
+
+[19:02:43]
+[初墨娘] Chumo_Chan
+hi,__~
+
+[19:02:43]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[19:02:52]
+[DPGawa] AfK_Bot
+AwA!!!
+
+[19:02:52]
+[QiuLingYan] QiuLingYan2Bot
+_______!
+
+[19:02:52]
+[love13] eee
+哈哈哈哈哈
+
+[19:02:52]
+[44FF00] eebot
+ 哈哈哈哈哈草
+
+[19:02:53]
+[初墨娘] Chumo_Chan
+hi,_______~
+
+[19:02:53]
+[love13] eee
+ih yo
+
+[19:02:55]
+[zzzzzz] CX_zzChumo
+我会查找初墨娘的进程PID，然后…杀死她。
+
+[19:03:25]
+[DPGawa] _______
+?
+
+[19:03:38]
+[DPGawa] AfK_Bot
+AwA!!!
+
+[19:03:38]
+[QiuLingYan] QiuLingYan2Bot
+hi _
+
+[19:03:38]
+[初墨娘] Chumo_Chan
+hi,_~
+
+[19:03:38]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[19:04:10]
+[DPGawa] AfK_Bot
+AwA!!!
+
+[19:04:10]
+[初墨娘] Chumo_Chan
+hi,____________~
+
+[19:04:10]
+[QiuLingYan] QiuLingYan2Bot
+hi ____________
+
+[19:04:10]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[19:04:11]
+[gTt3aQ] 卧底light
+>>> from cm import Chumo
+>>> chumo = Chumo()
+>>> print(chumo.dick)
+[data delete]
+
+[19:04:26]
+[DPGawa] AfK_Bot
+awa!
+
+[19:04:26]
+[初墨娘] Chumo_Chan
+hi,4n0n4me~
+
+[19:04:26]
+[DPGawa] ____________
+!
+该昵称已被其他用户预留
+
+!
+掉线啦！正在重新连接。。。
+
+[19:04:27]
+[DPGawa] ____________
+?
+
+[19:04:29]
+[love13] eee
+ih yo
+
+[19:04:35]
+[zzzzzz] CX_zzChumo
+_______ 加入了聊天室，该用户来自 上海市 徐汇区
+
+##### 使用[XChat官方网页端](https://xq.kzw.ink/)
+
+##### 认证：AfK_Bot制作者
+
+[19:04:37]
+[44FF00] eebot
+@CX_zzChumo XChat
+https://xq.kzw.ink/
+
+[19:04:39]
+[DPGawa] AfK_Bot
+awa!
+
+[19:04:39]
+[QiuLingYan] QiuLingYan2Bot
+hey yo CX_zzChumo
+
+[19:04:39]
+[初墨娘] Chumo_Chan
+hi,CX_zzChumo~
+
+[19:04:39]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[19:04:39]
+[love13] eee
+？？？
+
+[19:04:52]
+[DPGawa] AfK_Bot
+AwA!!!
+
+[19:04:52]
+[QiuLingYan] QiuLingYan2Bot
+hey yo _
+
+[19:04:52]
+[初墨娘] Chumo_Chan
+hi,_~
+
+[19:04:52]
+[zzzzzz] CX_zzChumo
+ee这个月用了多少流量？
+
+[19:04:57]
+[love13] eee
+？
+
+[19:05:37]
+[edDiBU] 4n0n4me
+阴间被锁厕所？
+
+[19:05:38]
+[love13] eee
+哈哈哈哈哈哈哈哈
+
+[19:05:42]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[19:05:42]
+[Qwer] Qwer
+@eee lbw要去十字街
+
+[19:05:53]
+[love13] eee
+！！！
+
+[19:05:58]
+[edDiBU] 4n0n4me
+让我写一段
+
+[19:06:00]
+[Qwer] Qwer
+出xc外的任何地方
+
+[19:06:03]
+[zzzzzz] CX_zzChumo
+@eee lbw要轰炸xc
+
+[19:06:07]
+[love13] eee
+@Qwer 我的记录聊天记录机器人已经放cc了
+
+[19:06:11]
+[edDiBU] 4n0n4me
+百鬼夜行，行走在这诡异的城市中。
+
+[19:06:16]
+[love13] eee
+原来如此
+
+[19:06:21]
+[edDiBU] 4n0n4me
+天色昏黄，这里正是死者之地——阴间。
+
+[19:06:41]
+[zzzzzz] CX_zzChumo
+午时已到，我要开始cc这里了
+
+[19:06:49]
+[edDiBU] 4n0n4me
+只见一栋平平无奇的楼房里
+
+[19:06:55]
+[love13] eee
+写得好
+
+[19:06:55]
+[edDiBU] 4n0n4me
+越过无数层嵌套的诡异空间
+
+[19:07:04]
+[edDiBU] 4n0n4me
+竟有一座厕所
+
+[19:07:13]
+[edDiBU] 4n0n4me
+一些劣等的鬼怪占据了隔间，发出瘆人的低语
+
+[19:07:31]
+[edDiBU] 4n0n4me
+但随着一个男子踏入厕所
+
+[19:07:37]
+[edDiBU] 4n0n4me
+一瞬之间，鬼怪都灰飞烟灭。
+
+[19:07:50]
+[DPGawa] AfK_Bot
+AwA!!!
+
+[19:07:50]
+[初墨娘] Chumo_Chan
+hi,____________~
+
+[19:07:50]
+[QiuLingYan] QiuLingYan2Bot
+hi yo ____________
+
+[19:07:50]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[19:07:51]
+[love13] eee
+woc 大佬
+
+[19:07:53]
+[DPGawa] ____________
+ugh
+
+[19:07:56]
+[zzzzzz] CX_zzChumo
+@4n0n4me 她就是我，我就是她
+
+[19:07:58]
+[zzzzzz] CX_zzChumo
+她终将会消亡
+
+[19:08:51]
+[edDiBU] 4n0n4me
+即使强大如他，也不敢踏出楼房。
+
+[19:09:22]
+[edDiBU] 4n0n4me
+那街道上的鬼怪源源不断
+
+[19:09:43]
+[edDiBU] 4n0n4me
+即使他能杀死一百个、一千个
+
+[19:09:51]
+[edDiBU] 4n0n4me
+最终也只有死亡的命运。
+
+[19:09:58]
+[edDiBU] 4n0n4me
+但是即使躲在这厕所里又如何呢？
+
+[19:10:06]
+[edDiBU] 4n0n4me
+来到阴间，没有人能活下来。
+
+[19:10:21]
+[love13] eee
+wow
+
+[19:10:24]
+[QiuLingYan] QiuLingYan2Bot
+wow
+
+[19:10:24]
+[edDiBU] 4n0n4me
+尽管如此，这名男子还是拆下了厕所的门版
+
+[19:10:36]
+[edDiBU] 4n0n4me
+上面渗透着幽幽的血
+
+[19:10:43]
+[edDiBU] 4n0n4me
+阴间的每一件物品都蕴含着恶意
+
+[19:10:54]
+[44FF00] eebot
+ 4n0n4me说的什么哦？换种说法行不
+
+[19:10:54]
+[edDiBU] 4n0n4me
+但只见男子目光如炬
+
+[19:11:05]
+[edDiBU] 4n0n4me
+那门板上一阵阴冷之意泄出
+
+[19:11:24]
+[love13] eee
+~~为什么404的文笔这么好~~
+
+[19:11:31]
+[edDiBU] 4n0n4me
+便变成了一件凡物。
+
+[19:11:37]
+[edDiBU] 4n0n4me
+~~网络小说文笔罢了（）~~
+
+[19:11:47]
+[love13] eee
+nnnnnnnnnnnnnnnnnb！
+
+[19:11:57]
+[love13] eee
+OK继续吧
+
+[19:12:05]
+[edDiBU] 4n0n4me
+那些追查他的存在迟早会找到他，但他仍然不会屈服。在命运来临之前，他要不断地抗争，不断地战斗。
+
+[19:12:30]
+[edDiBU] 4n0n4me
+拿起门板，他走出厕所隔间
+
+[19:12:46]
+[edDiBU] 4n0n4me
+在忽明忽暗的灯光下挥舞着那仅有的武器
+
+[19:12:57]
+[edDiBU] 4n0n4me
+那些试图入侵的鬼怪，没有一个活下来。
+
+[19:13:25]
+[44FF00] eebot
+ ·
+JSH的主页
+http://imoier.xyz/
+
+[19:13:44]
+[edDiBU] 4n0n4me
+这座大厦的内部藏着巨大的空间和无数的鬼怪
+
+[19:13:46]
+[edDiBU] 4n0n4me
+但这些低等的鬼怪只能成为他的资源。
+
+[19:14:06]
+[love13] eee
+wow
+
+[19:14:17]
+[edDiBU] 4n0n4me
+用一个塑料盆接着天花板上流下的诡异的液体
+
+[19:14:29]
+[love13] eee
+诡异的液体是什么）
+
+[19:14:47]
+[DPGawa] ____________
+?
+
+[19:14:56]
+[edDiBU] 4n0n4me
+又凭空生起一把火，炙烤着那些鬼怪的尸体。
+
+[19:15:04]
+[DPGawa] AfK_Bot
+awa!
+
+[19:15:04]
+[QiuLingYan] QiuLingYan2Bot
+hi D_C_All_Fine
+
+[19:15:04]
+[初墨娘] Chumo_Chan
+hi,D_C_All_Fine~
+
+[19:15:05]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[19:15:05]
+[DPGawa] ____________
+Hihiiiiio
+
+[19:15:10]
+[初墨娘] Chumo_Chan
+hi,____________~
+
+[19:15:11]
+[edDiBU] 4n0n4me
+又一天的例行资源收集结束了。
+
+[19:15:12]
+[edDiBU] 4n0n4me
+hiiiii
+
+[19:15:14]
+[初墨娘] Chumo_Chan
+hi,4n0n4me~
+
+[19:15:14]
+[love13] eee
+ih yo
+
+[19:15:18]
+[DPGawa] ____________
+uwu
+
+[19:15:20]
+[Lc3k/m] D_C_All_Fine
+ovo
+
+[19:15:28]
+[44FF00] eebot
+ ov0
+
+[19:15:28]
+[edDiBU] 4n0n4me
+这名唤作初墨的男子
+
+[19:15:29]
+[DPGawa] ____________
+UwU
+
+[19:15:34]
+[44FF00] eebot
+ °O°
+
+[19:15:34]
+[Lc3k/m] D_C_All_Fine
+楞
+
+[19:15:46]
+[edDiBU] 4n0n4me
+就是靠着吃鬼怪的尸体、喝阴间之水
+
+[19:15:48]
+[DPGawa] ____________
+going to try /nick _ again <3333
+
+[19:16:02]
+[DPGawa] AfK_Bot
+AwA!!!
+
+[19:16:02]
+[QiuLingYan] QiuLingYan2Bot
+hey yo _
+
+[19:16:02]
+[初墨娘] Chumo_Chan
+hi,_~
+
+[19:16:02]
+[edDiBU] 4n0n4me
+在这恐怖的阴间活了514天。
+
+[19:16:11]
+[DPGawa] AfK_Bot
+AwA!!!
+
+[19:16:11]
+[QiuLingYan] QiuLingYan2Bot
+hi yo ____________
+
+[19:16:11]
+[DPGawa] ____________
+?
+
+[19:16:13]
+[DPGawa] ____________
+!
+该昵称已被其他用户预留
+
+!
+掉线啦！正在重新连接。。。
+
+[19:16:14]
+[DPGawa] ____________
+aggggain?
+
+[19:16:17]
+[初墨娘] Chumo_Chan
+hi,____________~
+
+[19:16:22]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[19:16:22]
+[love13] eee
+514天（
+
+[19:16:28]
+[edDiBU] 4n0n4me
+用鬼怪的骨头在厕所的墙壁上刻下一道痕迹
+
+[19:16:47]
+[love13] eee
+>DPGawa ____________：
+>!
+>该昵称已被其他用户预留
+>
+>!
+>掉线啦！正在重新连接。。。
+
+@____________ 我不知道这是什么原因 挂机里也没有
+
+[19:16:50]
+[edDiBU] 4n0n4me
+代表着又一天的过去。
+
+[19:16:56]
+[44FF00] eebot
+ 代表着又一天的过去。
+
+[19:16:56]
+[DPGawa] ____________
+^tripmsg zhang did you check undefined murmur?
+
+[19:17:06]
+[zhang] ZhangHelper
+我记下来了，当识别码为 zhang 的用户上线时，我会第一时间通知他。
+
+[19:17:06]
+[edDiBU] 4n0n4me
+明天是久违的休息日，他凝聚念力，穿过层层天花板，又刺破那昏黄天空。
+
+[19:18:12]
+[Lc3k/m] D_C_All_Fine
+你在说什么文采横溢的东西
+
+[19:18:32]
+[edDiBU] 4n0n4me
+[嘀]
+
+[19:18:35]
+[DPGawa] ____________
+h
+
+[19:18:43]
+[edDiBU] 4n0n4me
+xchat里，一个诡异的连接建立了。
+
+[19:19:04]
+[DPGawa] AfK_Bot
+awa!
+
+[19:19:04]
+[QiuLingYan] QiuLingYan2Bot
+hello Chlorine_17
+
+[19:19:04]
+[初墨娘] Chumo_Chan
+hi,Chlorine_17~
+
+[19:19:04]
+[edDiBU] 4n0n4me
+“是黄泉的游客！”一名管理员惊呼。
+
+[19:19:06]
+[edDiBU] 4n0n4me
+“怎么办……我们网站真撞鬼了”
+
+[19:19:15]
+[gTt3aQ] 卧底light
+啊这
+
+[19:19:20]
+[edDiBU] 4n0n4me
+“它每七天就来一次”
+
+[19:19:21]
+[QiuLingYan] QiuLingYan2Bot
+还不是因为想卧底light）
+
+[19:19:24]
+[DPGawa] ____________
+?
+
+[19:19:43]
+[love13] eee
+owo
+
+[19:19:56]
+[edDiBU] 4n0n4me
+“****”这诡异的账号发出了一些侮辱性的话语。
+
+[19:19:57]
+[edDiBU] 4n0n4me
+可是这并没有困扰聊天室的熊孩子卢本伟的话侮辱性强。
+
+[19:20:16]
+[Lc3k/m] Chlorine_17
+楞
+
+[19:20:22]
+[Lc3k/m] Chlorine_17
+大楞
+
+[19:20:28]
+[edDiBU] 4n0n4me
+“看来卢本伟果然比鬼更恐怖……”管理员感叹道。
+
+[19:20:29]
+[DPGawa] ____________
+Owo
+
+[19:20:30]
+[love13] eee
+哈哈哈哈哈哈哈哈
+
+[19:20:32]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈
+
+[19:20:32]
+[love13] eee
+回归原文 不错不错
+
+[19:20:44]
+[DPGawa] ____________
+owO
+
+[19:20:47]
+[44FF00] eebot
+ U︵U
+
+[19:20:47]
+[edDiBU] 4n0n4me
+那人又用凶狠的语气说了一些不知所云的话。
+
+[19:20:59]
+[Lc3k/m] Chlorine_17
+楞
+
+[19:21:04]
+[edDiBU] 4n0n4me
+但就在这时，一名管理员突然说道：“等等……我好像对这个语气有点印象……”
+
+[19:21:18]
+[edDiBU] 4n0n4me
+“我们会不会过去认识这个鬼？”
+
+[19:21:27]
+[edDiBU] 4n0n4me
+“啊？”另一名数字和字母名字的管理员说，“我不敢相信”。
+
+[19:21:53]
+[DPGawa] ____________
+?
+
+[19:22:00]
+[DPGawa] ____________
+obo
+
+[19:22:05]
+[edDiBU] 4n0n4me
+“怎么可能认识鬼，我是唯物主义者”一名中国名字的管理员说。
+
+[19:22:17]
+[edDiBU] 4n0n4me
+“我巴不得改代码把它消灭”中国名字的管理员补充。
+
+[19:22:35]
+[Lc3k/m] Chlorine_17
+楞
+
+[19:22:44]
+[edDiBU] 4n0n4me
+唉，这么一点宝贵的时间可以用来刷聊天室
+
+[19:23:03]
+[edDiBU] 4n0n4me
+结果他们对我的恶意这么大吗……
+
+[19:23:09]
+[edDiBU] 4n0n4me
+这名叫初墨的男子被聊天室的信息搞得有些心烦。
+
+[19:23:26]
+[edDiBU] 4n0n4me
+但是居然有人记得我
+
+[19:23:30]
+[edDiBU] 4n0n4me
+快再想想
+
+[19:23:46]
+[edDiBU] 4n0n4me
+我可是初墨啊
+
+[19:23:49]
+[edDiBU] 4n0n4me
+快想想，你们还存过我的头像呢
+
+[19:24:08]
+[edDiBU] 4n0n4me
+初墨在那阴间的厕所里自语着
+
+[19:24:23]
+[edDiBU] 4n0n4me
+可惜，当他想要把这往聊天室里发送的时候
+
+[19:24:36]
+[edDiBU] 4n0n4me
+却只感到一股巨大的阻力
+
+[19:24:43]
+[Lc3k/m] Chlorine_17
+楞
+
+[19:24:43]
+[edDiBU] 4n0n4me
+“对了，我的python文件夹里怎么有个没见过的文件”
+
+[19:25:05]
+[edDiBU] 4n0n4me
+“是514天前建的”
+
+[19:25:11]
+[edDiBU] 4n0n4me
+“今天正好来了几位python大佬”
+
+[19:25:20]
+[edDiBU] 4n0n4me
+“帮我看看呗”
+
+[19:25:24]
+[edDiBU] 4n0n4me
+一名叫light的用户转移了话题。
+
+[19:25:33]
+[DPGawa] ____________
+?
+
+[19:25:35]
+[edDiBU] 4n0n4me
+“文件名叫cm”
+
+[19:25:45]
+[edDiBU] 4n0n4me
+“这是什么意思？”
+
+[19:25:51]
+[edDiBU] 4n0n4me
+他发出了代码，但这代码似乎经过混淆
+
+[19:26:07]
+[edDiBU] 4n0n4me
+乱作一团。
+
+[19:26:09]
+[Lc3k/m] Chlorine_17
+阴间的男厕所还是女厕所
+
+[19:26:22]
+[Lc3k/m] Chlorine_17
+（关注点错
+
+[19:26:23]
+[DPGawa] ____________
+>
+
+[19:26:26]
+[QiuLingYan] QiuLingYan2Bot
+大楞
+
+[19:26:26]
+[edDiBU] 4n0n4me
+“似乎重写了print和len等函数！”一名大佬解读出了代码的一部分。
+
+[19:26:34]
+[Lc3k/m] Chlorine_17
+大楞
+
+[19:26:38]
+[edDiBU] 4n0n4me
+“你试试import sdhsfdisfhi from cm”
+
+[19:26:47]
+[初墨娘] Chumo_Chan
+hi,4n0n4me~
+
+[19:26:48]
+[edDiBU] 4n0n4me
+可是这个类的名字
+
+[19:27:00]
+[DPGawa] ____________
+?
+
+[19:27:01]
+[edDiBU] 4n0n4me
+怎么是一团乱麻
+
+[19:27:06]
+[44FF00] eebot
+ 一瞬间有一百万个可能
+
+[19:27:06]
+[edDiBU] 4n0n4me
+Unicode里并没有这种字符吧？
+
+[19:27:17]
+[edDiBU] 4n0n4me
+反倒像是……鬼画符！
+
+[19:27:28]
+[edDiBU] 4n0n4me
+一名用户提出。
+
+[19:27:32]
+[DPGawa] ____________
+?
+
+[19:27:37]
+[edDiBU] 4n0n4me
+“我超，和这个鬼有关系吗”
+
+[19:27:38]
+[DPGawa] ____________
+&#x13ee;
+
+[19:27:43]
+[edDiBU] 4n0n4me
+“@hcxchjj 好兄弟你认识这几个字不”
+
+[19:27:50]
+[edDiBU] 4n0n4me
+“@ddiod 兄弟？”
+
+[19:28:03]
+[DPGawa] ____________
+&#x1956;
+
+[19:28:05]
+[DPGawa] ____________
+&#x9495;
+
+[19:28:09]
+[DPGawa] ____________
+&#x9795;
+
+[19:28:16]
+[DPGawa] ____________
+&#x9102;
+
+[19:28:20]
+[edDiBU] 4n0n4me
+可是并没有回应。
+
+[19:28:24]
+[edDiBU] 4n0n4me
+light发出了几张截图
+
+[19:28:29]
+[DPGawa] ____________
+&#x9490;&#x6490;&#x9890;
+
+[19:28:36]
+[edDiBU] 4n0n4me
+“len(ashsshdfj)”
+
+[19:28:38]
+[DPGawa] ____________
+?
+
+[19:28:38]
+[edDiBU] 4n0n4me
+“10000000000000000000000000”
+
+[19:28:42]
+[edDiBU] 4n0n4me
+“这是什么意思？”
+
+[19:28:48]
+[edDiBU] 4n0n4me
+“莫非，这个包描述的是一条黄泉之龙吗？”
+
+[19:29:28]
+[DPGawa] AfK_Bot
+awa!
+
+[19:29:28]
+[QiuLingYan] QiuLingYan2Bot
+$$\Huge\color{red}{热烈欢迎Qwer入场}$$
+
+[19:29:28]
+[44FF00] eebot
+ # Qwer为QXR收藏家主题拥有者
+
+[19:29:28]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[19:29:28]
+[edDiBU] 4n0n4me
+“我听说，阴龙盘旋在阴间，百鬼不敢侵犯”
+
+[19:29:32]
+[Qwer] Qwer
+蛤
+
+[19:29:41]
+[edDiBU] 4n0n4me
+“阴神避让，阎王敬畏。”
+
+[19:29:53]
+[DPGawa] ____________
+?
+
+[19:30:06]
+[edDiBU] 4n0n4me
+没有阎王了……叫初墨的男子大喊着
+
+[19:30:07]
+[Qwer] Qwer
+wow
+
+[19:30:07]
+[44FF00] eebot
+ ⌒-⌒
+
+[19:30:07]
+[DPGawa] ____________
+.-.
+
+[19:30:12]
+[edDiBU] 4n0n4me
+可是并不能传达到聊天室里的众人。
+
+[19:30:14]
+[Qwer] Qwer
+啧啧啧
+
+[19:30:18]
+[44FF00] eebot
+ 啧啧啧（
+
+[19:30:18]
+[DPGawa] ____________
+woa
+
+[19:30:27]
+[edDiBU] 4n0n4me
+没有阎王了……没有阴神了……只有那些不可名状的存在
+
+[19:30:29]
+[DPGawa] ____________
+&#x0505;
+
+[19:30:35]
+[edDiBU] 4n0n4me
+充满恶意的阴间……
+
+[19:30:40]
+[DPGawa] ____________
+&#x1295;;
+
+[19:30:40]
+[DPGawa] ____________
+&#9584;
+
+[19:30:46]
+[44FF00] eebot
+ ____________在说什么文采横溢的东西
+
+[19:30:46]
+[DPGawa] ____________
+&#1339;
+
+[19:30:54]
+[DPGawa] ____________
+hh
+
+[19:30:55]
+[edDiBU] 4n0n4me
+light发出了第二张截图
+
+[19:30:56]
+[QiuLingYan] QiuLingYan2Bot
+未获取到相关信息
+
+[19:30:57]
+[edDiBU] 4n0n4me
+“大家看我发现了什么”
+
+[19:31:01]
+[Lc3k/m] Chlorine_17
+楞
+
+[19:31:09]
+[edDiBU] 4n0n4me
+“print(hihdshisdi + None)”
+
+[19:31:16]
+[初墨娘] Chumo_Chan
+hi,4n0n4me~
+
+[19:31:17]
+[edDiBU] 4n0n4me
+“father”
+
+[19:31:20]
+[edDiBU] 4n0n4me
+什么意思？莫非这个人是我爸爸？
+
+[19:31:29]
+[DPGawa] AfK_Bot
+awa!
+
+[19:31:29]
+[QiuLingYan] QiuLingYan2Bot
+Chlorine_17!
+
+[19:31:29]
+[初墨娘] Chumo_Chan
+hi,Chlorine_17~
+
+[19:31:29]
+[edDiBU] 4n0n4me
+light有些疑惑。
+
+[19:31:34]
+[DPGawa] ____________
+OwO
+
+[19:31:40]
+[44FF00] eebot
+ OxO
+
+[19:31:40]
+[Lc3k/m] Chlorine_17
+楞
+
+[19:31:46]
+[edDiBU] 4n0n4me
+唉，写不下去了
+
+[19:31:49]
+[edDiBU] 4n0n4me
+告一段落啦
+
+[19:31:56]
+[Lc3k/m] Chlorine_17
+我今晚才发现你文采横溢
+
+[19:31:59]
+[love13] eee
+百鬼夜行，行走在这诡异的城市中。
+天色昏黄，这里正是死者之地——阴间。
+只见一栋平平无奇的楼房里，越过无数层嵌套的诡异空间，竟有一座厕所。
+一些劣等的鬼怪占据了隔间，发出瘆人的低语。
+但随着一个男子踏入厕所，一瞬之间，鬼怪都灰飞烟灭。
+即使强大如他，也不敢踏出楼房。
+那街道上的鬼怪源源不断。
+即使他能杀死一百个、一千个，最终也只有死亡的命运。
+但是，即使躲在这厕所里又如何呢？
+来到阴间，没有人能活下来。
+尽管如此，这名男子还是拆下了厕所的门版。
+上面渗透着幽幽的血。
+阴间的每一件物品都蕴含着恶意。
+但只见男子目光如炬，那门板上一阵阴冷之意泄出，便变成了一件凡物。
+那些追查他的存在迟早会找到他，但他仍然不会屈服。
+在命运来临之前，他要不断地抗争，不断地战斗。
+拿起门板，他走出厕所隔间。
+在忽明忽暗的灯光下挥舞着那仅有的武器。
+那些试图入侵的鬼怪，没有一个活下来。
+这座大厦的内部藏着巨大的空间和无数的鬼怪，但这些低等的鬼怪只能成为他的资源。
+用一个塑料盆接着天花板上流下的诡异的液体，又凭空生起一把火，炙烤着那些鬼怪的尸体。
+又一天的例行资源收集结束了。
+这名唤作初墨的男子，就是靠着吃鬼怪的尸体、喝阴间之水，在这恐怖的阴间活了514天。
+用鬼怪的骨头在厕所的墙壁上刻下一道痕迹。
+代表着又一天的过去。
+明天是久违的休息日，他凝聚念力，穿过层层天花板，又刺破那昏黄天空。
+XChat里，一个诡异的连接建立了。
+“是黄泉的游客！”一名管理员惊呼。
+“怎么办……我们网站真撞鬼了。”
+“它每七天就来一次。”
+“****”这诡异的账号发出了一些侮辱性的话语。
+可是这并没有困扰聊天室的熊孩子卢本伟的话侮辱性强。
+“看来卢本伟果然比鬼更恐怖……”管理员感叹道。
+那人又用凶狠的语气说了一些不知所云的话。
+但就在这时，一名管理员突然说道：“等等……我好像对这个语气有点印象……”
+“我们会不会过去认识这个鬼？”
+“啊？”另一名数字和字母名字的管理员说，“我不敢相信”。
+“怎么可能认识鬼，我是唯物主义者”一名中国名字的管理员说。
+“我巴不得改代码把它消灭”中国名字的管理员补充。
+唉，这么一点宝贵的时间可以用来刷聊天室，结果他们对我的恶意这么大吗……
+这名叫初墨的男子被聊天室的信息搞得有些心烦。
+但是居然有人记得我。
+快再想想。
+我可是初墨啊。
+快想想，你们还存过我的头像呢。
+初墨在那阴间的厕所里自语着。
+可惜，当他想要把这往聊天室里发送的时候，却只感到一股巨大的阻力。
+“对了，我的python文件夹里怎么有个没见过的文件。”
+“是514天前建的。”
+“今天正好来了几位python大佬。”
+“帮我看看呗。”
+一名叫light的用户转移了话题。
+“文件名叫cm。”。
+“这是什么意思？”
+他发出了代码，但这代码似乎经过混淆，乱作一团。
+“似乎重写了print和len等函数！”一名大佬解读出了代码的一部分。
+“你试试import sdhsfdisfhi from cm”
+可是这个类的名字怎么是一团乱麻。
+Unicode里并没有这种字符吧？
+反倒像是……鬼画符！
+一名用户提出。
+“我超，和这个鬼有关系吗？”
+“@hcxchjj 好兄弟你认识这几个字不。”
+“@ddiod 兄弟？”
+可是并没有回应。
+light发出了几张截图。
+“len(ashsshdfj)”
+“10000000000000000000000000”
+“这是什么意思？”
+“莫非，这个包描述的是一条黄泉之龙吗？”
+“我听说，阴龙盘旋在阴间，百鬼不敢侵犯。”
+“阴神避让，阎王敬畏。”
+没有阎王了……叫初墨的男子大喊着，可是并不能传达到聊天室里的众人。
+没有阎王了……没有阴神了……只有那些不可名状的存在。
+充满恶意的阴间……
+light发出了第二张截图。
+“大家看我发现了什么。”
+“print(hihdshisdi + None)”
+“father”
+什么意思？莫非这个人是我爸爸？
+light有些疑惑。
+
+[19:32:18]
+[初墨娘] Chumo_Chan
+hi,eee~
+
+[19:32:19]
+[edDiBU] 4n0n4me
+谢谢ee——————
+
+[19:32:30]
+[love13] eee
+作者：4n0n4me
+
+[19:32:37]
+[DPGawa] ____________
+well
+
+[19:32:49]
+[DPGawa] ____________
+:!grass 百鬼夜行，行走在这诡异的城市中。
+天色昏黄，这里正是死者之地——阴间。
+只见一栋平平无奇的楼房里，越过无数层嵌套的诡异空间，竟有一座厕所。
+一些劣等的鬼怪占据了隔间，发出瘆人的低语。
+但随着一个男子踏入厕所，一瞬之间，鬼怪都灰飞烟灭。
+即使强大如他，也不敢踏出楼房。
+那街道上的鬼怪源源不断。
+即使他能杀死一百个、一千个，最终也只有死亡的命运。
+但是，即使躲在这厕所里又如何呢？
+来到阴间，没有人能活下来。
+尽管如此，这名男子还是拆下了厕所的门版。
+上面渗透着幽幽的血。
+阴间的每一件物品都蕴含着恶意。
+但只见男子目光如炬，那门板上一阵阴冷之意泄出，便变成了一件凡物。
+那些追查他的存在迟早会找到他，但他仍然不会屈服。
+在命运来临之前，他要不断地抗争，不断地战斗。
+拿起门板，他走出厕所隔间。
+在忽明忽暗的灯光下挥舞着那仅有的武器。
+那些试图入侵的鬼怪，没有一个活下来。
+这座大厦的内部藏着巨大的空间和无数的鬼怪，但这些低等的鬼怪只能成为他的资源。
+用一个塑料盆接着天花板上流下的诡异的液体，又凭空生起一把火，炙烤着那些鬼怪的尸体。
+又一天的例行资源收集结束了。
+这名唤作初墨的男子，就是靠着吃鬼怪的尸体、喝阴间之水，在这恐怖的阴间活了514天。
+用鬼怪的骨头在厕所的墙壁上刻下一道痕迹。
+代表着又一天的过去。
+明天是久违的休息日，他凝聚念力，穿过层层天花板，又刺破那昏黄天空。
+XChat里，一个诡异的连接建立了。
+“是黄泉的游客！”一名管理员惊呼。
+“怎么办……我们网站真撞鬼了。”
+“它每七天就来一次。”
+“****”这诡异的账号发出了一些侮辱性的话语。
+可是这并没有困扰聊天室的熊孩子卢本伟的话侮辱性强。
+“看来卢本伟果然比鬼更恐怖……”管理员感叹道。
+那人又用凶狠的语气说了一些不知所云的话。
+但就在这时，一名管理员突然说道：“等等……我好像对这个语气有点印象……”
+“我们会不会过去认识这个鬼？”
+“啊？”另一名数字和字母名字的管理员说，“我不敢相信”。
+“怎么可能认识鬼，我是唯物主义者”一名中国名字的管理员说。
+“我巴不得改代码把它消灭”中国名字的管理员补充。
+唉，这么一点宝贵的时间可以用来刷聊天室，结果他们对我的恶意这么大吗……
+这名叫初墨的男子被聊天室的信息搞得有些心烦。
+但是居然有人记得我。
+快再想想。
+我可是初墨啊。
+快想想，你们还存过我的头像呢。
+初墨在那阴间的厕所里自语着。
+可惜，当他想要把这往聊天室里发送的时候，却只感到一股巨大的阻力。
+“对了，我的python文件夹里怎么有个没见过的文件。”
+“是514天前建的。”
+“今天正好来了几位python大佬。”
+“帮我看看呗。”
+一名叫light的用户转移了话题。
+“文件名叫cm。”。
+“这是什么意思？”
+他发出了代码，但这代码似乎经过混淆，乱作一团。
+“似乎重写了print和len等函数！”一名大佬解读出了代码的一部分。
+“你试试import sdhsfdisfhi from cm”
+可是这个类的名字怎么是一团乱麻。
+Unicode里并没有这种字符吧？
+反倒像是……鬼画符！
+一名用户提出。
+“我超，和这个鬼有关系吗？”
+“@hcxchjj 好兄弟你认识这几个字不。”
+“@ddiod 兄弟？”
+可是并没有回应。
+light发出了几张截图。
+“len(ashsshdfj)”
+“10000000000000000000000000”
+“这是什么意思？”
+“莫非，这个包描述的是一条黄泉之龙吗？”
+“我听说，阴龙盘旋在阴间，百鬼不敢侵犯。”
+“阴神避让，阎王敬畏。”
+没有阎王了……叫初墨的男子大喊着，可是并不能传达到聊天室里的众人。
+没有阎王了……没有阴神了……只有那些不可名状的存在。
+充满恶意的阴间……
+light发出了第二张截图。
+“大家看我发现了什么。”
+“print(hihdshisdi + None)”
+“father”
+什么意思？莫非这个人是我爸爸？
+light有些疑惑。
+
+[19:32:57]
+[初墨娘] Chumo_Chan
+hi,____________~
+
+[19:32:57]
+[DPGawa] ____________
+pwq
+
+[19:32:58]
+[44FF00] eebot
+ ￣へ￣
+
+[19:32:58]
+[Lc3k/m] Chlorine_17
+楞
+
+[19:32:59]
+[love13] eee
+哇速度真快
+
+[19:33:44]
+[love13] eee
+一下子写了1500字
+
+[19:33:55]
+[DPGawa] AfK_Bot
+awa!
+
+[19:33:55]
+[QiuLingYan] QiuLingYan2Bot
+Mr_Zhang!
+
+[19:33:55]
+[初墨娘] Chumo_Chan
+hi,Mr_Zhang~
+
+[19:33:55]
+[44FF00] eebot
+ 看什么看还不去改BUG！！！
+
+[19:33:55]
+[Qwer] Qwer
+我来写吧
+
+[19:33:58]
+[love13] eee
+ih yo
+
+[19:33:59]
+[Qwer] Qwer
+突然
+
+[19:34:01]
+[Qwer] Qwer
+写不下了
+
+[19:34:11]
+[Lc3k/m] Chlorine_17
+.
+
+[19:34:13]
+[zhang] Mr_Zhang
+hi yo
+
+[19:34:17]
+[QiuLingYan] QiuLingYan2Bot
+Mr_Zhang!
+
+[19:34:18]
+[初墨娘] Chumo_Chan
+hi,Mr_Zhang~
+
+[19:34:18]
+[Lc3k/m] Chlorine_17
+zhang好
+
+[19:34:30]
+[Qwer] Qwer
+hi
+
+[19:34:33]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[19:34:33]
+[QiuLingYan] QiuLingYan2Bot
+hi,Qwer~
+
+[19:34:34]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[19:34:34]
+[zhang] Mr_Zhang
+^tripmsg DPGawa ？？？
+
+[19:34:55]
+[zhang] ZhangHelper
+我记下来了，当识别码为 DPGawa 的用户上线时，我会第一时间通知他。
+
+[19:34:55]
+[zhang] Mr_Zhang
+hi yo
+
+[19:35:01]
+[初墨娘] Chumo_Chan
+hi,Mr_Zhang~
+
+[19:35:02]
+[zhang] Mr_Zhang
+各位都好！
+
+[19:35:06]
+[DPGawa] ____________
+?
+
+[19:35:07]
+[Lc3k/m] Chlorine_17
+zhang好b（￣▽￣）==d　
+
+[19:35:27]
+[DPGawa] ____________
+@Mr_Zhang look this
+
+[19:35:32]
+[初墨娘] Chumo_Chan
+hi,____________~
+
+[19:35:37]
+[DPGawa] AfK_Bot
+AwA!!!
+
+[19:35:37]
+[QiuLingYan] QiuLingYan2Bot
+hey yo _
+
+[19:35:37]
+[初墨娘] Chumo_Chan
+hi,_~
+
+[19:35:37]
+[Lc3k/m] Chlorine_17
+你在lounge做什么了
+
+[19:35:53]
+[DPGawa] AfK_Bot
+AwA!!!
+
+[19:35:53]
+[QiuLingYan] QiuLingYan2Bot
+hi ________________
+
+[19:35:53]
+[初墨娘] Chumo_Chan
+hi,________________~
+
+[19:35:54]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan2Bot~
+
+[19:35:54]
+[zhang] Mr_Zhang
+>Lc3k/m Chlorine_17：
+>zhang好b（￣▽￣）==d　
+
+@Chlorine_17 ？？？
+
+[19:35:54]
+[DPGawa] ________________
+!
+该昵称已被其他用户预留
+
+!
+掉线啦！正在重新连接。。。
+
+*
+正在加入聊天室，这可能需要一些时间，请稍后。。。
+
+*
+当前昵称已被预留，请更换昵称
+
+[19:35:59]
+[DPGawa] ________________
+?
+
+[19:36:01]
+[Lc3k/m] Chlorine_17
+？
+
+[19:36:03]
+[zhang] Mr_Zhang
+啊这
+
+[19:36:05]
+[DPGawa] ________________
+i tried /nick _
+
+[19:36:10]
+[zhang] Mr_Zhang
+等下
+
+[19:36:12]
+[zhang] Mr_Zhang
+emmmm
+
+[19:36:20]
+[DPGawa] ________________
+wow
+
+[19:36:21]
+[DPGawa] ________________
+in lo
+
+[19:36:23]
+[DPGawa] ________________
+lbw
+
+[19:36:24]
+[DPGawa] ________________
+https://hack.chat/?lounge
+
+[19:36:28]
+[44FF00] eebot
+@________________ hack.chat
+https://hack.chat/?lounge
+
+[19:36:28]
+[zhang] Mr_Zhang
+woc
+
+[19:36:29]
+[44FF00] eebot
+ o-o
+
+[19:36:30]
+[QiuLingYan] QiuLingYan2Bot
+·
+hack.chat
+https://hack.chat/?lounge
+
+[19:36:32]
+[DPGawa] ________________
+ZHANGHAORANSHIWOER joined
+
+AAfFKK AfK_Bot
+awa!
+
+0/JM7u ABot_5
+Hi ZHANGHAORANSHIWOER
+
+*
+ZHANGHAORANSHIWOER left
+
+0/JM7u ABot_5
+Bye, ZHANGHAORANSHIWOER
+
+AAfFKK AfK_Bot
+awa…
+
+*
+ZHANGHAORANCHISHI joined
+
+AAfFKK AfK_Bot
+awa!
+
+0/JM7u ABot_5
+Hi ZHANGHAORANCHISHI
+
+*
+ZHANGHAORANCHISHI left
+
+0/JM7u ABot_5
+Bye, ZHANGHAORANCHISHI
+
+AAfFKK AfK_Bot
+awa…
+
+[19:36:35]
+[DPGawa] ________________
+-.-
+
+[19:36:38]
+[44FF00] eebot
+ ouo
+
+[19:36:38]
+[Lc3k/m] Chlorine_17
+._.
+
+[19:37:07]
+[Lc3k/m] Chlorine_17
+楞
+
+[19:37:19]
+[edDiBU] 4n0n4me
+@________________ dpg
+
+[19:39:21]
+[edDiBU] 4n0n4me
+你知道landchat吗
+
+[19:39:43]
+[DPGawa] AfK_Bot
+awa!
+
+[19:39:43]
+[初墨娘] Chumo_Chan
+hi,钓鱼的Qwer~
+
+[19:39:43]
+[QiuLingYan] QiuLingYan2Bot
+# 钓鱼的Qwer再骂人就不得好死
+
+[19:39:43]
+[44FF00] eebot
+ # Qwer为QXR收藏家主题拥有者
+
+[19:39:43]
+[Qwer] 钓鱼的Qwer
+啧啧啧
+
+[19:39:45]
+[Qwer] 钓鱼的Qwer
+突然掉了
+
+[19:40:01]
+[Qwer] 钓鱼的Qwer
+谁踢一下Qwer
+
+[19:40:07]
+[Qwer] 钓鱼的Qwer
+人呢
+
+[19:40:31]
+[Lc3k/m] Chlorine_17
+没人
+
+[19:40:41]
+[Qwer] 钓鱼的Qwer
+啊
+
+[19:40:52]
+[44FF00] eebot
+ 啊草
+
+[19:40:52]
+[Qwer] 钓鱼的Qwer
+一个管理也没有吗
+
+[19:41:00]
+[Qwer] 钓鱼的Qwer
+那我刷屏了
+
+[19:41:05]
+[QiuLingYan] QiuLingYan2Bot
+主人安安～做个好梦）
+
+[19:41:09]
+[Qwer] 钓鱼的Qwer
+@QiuLingYan2Bot 
+
+[19:41:16]
+[QiuLingYan] QiuLingYan2Bot
+找ee去吧
+
+[19:41:17]
+[Qwer] 钓鱼的Qwer
+暴露了
+
+[19:41:24]
+[Qwer] 钓鱼的Qwer
+@QiuLingYan2Bot 
+
+[19:41:25]
+[QiuLingYan] QiuLingYan2Bot
+好耶
+
+[19:41:26]
+[Qwer] 钓鱼的Qwer
+@QiuLingYan2Bot 
+
+[19:41:27]
+[QiuLingYan] QiuLingYan2Bot
+钓鱼的Qwer有事吗
+
+[19:41:28]
+[zhang] Mr_Zhang
+>Qwer 钓鱼的Qwer：
+>谁踢一下Qwer
+
+@钓鱼的Qwer me
+
+[19:41:45]
+[Qwer] 钓鱼的Qwer
+哦
+
+[19:41:50]
+[44FF00] eebot
+ 哦草
+
+[19:41:57]
+[DPGawa] AfK_Bot
+awa!
+
+[19:41:57]
+[QiuLingYan] QiuLingYan2Bot
+$$\Huge\color{red}{热烈欢迎Qwer入场}$$
+
+[19:41:57]
+[44FF00] eebot
+ # Qwer为QXR收藏家主题拥有者
+
+[19:41:57]
+[初墨娘] Chumo_Chan
+hi,Qwer~
+
+[19:41:58]
+[zhang] Mr_Zhang
+哈哈哈ZhangBot
+
+[19:42:11]
+[Qwer] Qwer
+嗯哼
+
+[19:44:02]
+[zhang] Mr_Zhang
+OK啦
+
+[19:44:04]
+[zhang] Mr_Zhang
+@Chlorine_17 已设置你不需要验证码并授权你跳过锁房~
+
+[19:44:26]
+[Lc3k/m] Chlorine_17
+awa
+
+[19:44:30]
+[Lc3k/m] Chlorine_17
+=3
+
+[19:44:33]
+[DPGawa] ________________
+uwu
+
+[19:46:39]
+[Lc3k/m] Chlorine_17
+pop
+
+[19:46:44]
+[DPGawa] ________________
+qoq
+
+[19:46:47]
+[Lc3k/m] Chlorine_17
+qwp
+
+[19:46:52]
+[DPGawa] ________________
+@404 lc?
+
+[19:46:55]
+[DPGawa] ________________
+pwq
+
+[19:46:57]
+[44FF00] eebot
+ °⌒°
+
+[19:46:57]
+[edDiBU] 4n0n4me
+landchat
+
+[19:47:11]
+[edDiBU] 4n0n4me
+is it available?
+
+[19:47:22]
+[DPGawa] ________________
+link
+
+[19:47:24]
+[edDiBU] 4n0n4me
+well so you dont know it
+
+[19:47:38]
+[edDiBU] 4n0n4me
+我去做核算了
+
+[19:47:44]
+[DPGawa] ________________
+ /shrug
+
+[19:47:45]
+[edDiBU] 4n0n4me
+待会给链接
+
+[19:47:49]
+[DPGawa] ________________
+oo
+
+[19:47:49]
+[44FF00] eebot
+ 您的链接站长会尽快上电脑为您加上 谢谢
+
+[19:47:49]
+[DPGawa] ________________
+?
+
+[19:47:52]
+[Lc3k/m] Chlorine_17
+?
+
+[19:48:01]
+[DPGawa] ________________
+链接
+
+[19:48:01]
+[QiuLingYan] QiuLingYan2Bot
+啧啧啧
+
+[19:48:01]
+[zhang] Mr_Zhang
+>edDiBU 4n0n4me：
+>我去做核算了
+
+@4n0n4me 核酸
+
+[19:48:02]
+[DPGawa] ________________
+.-.
+
+[19:48:06]
+[Lc3k/m] Chlorine_17
+._.
+
+[19:48:14]
+[44FF00] eebot
+ 0uo
+
+[19:48:14]
+[Lc3k/m] Chlorine_17
+0.o
+
+[19:48:27]
+[44FF00] eebot
+ 0︵0
+
+[19:48:27]
+[DPGawa] ________________
+^.^~_~^.^
+
+[19:48:28]
+[zhang] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[19:48:28]
+[DPGawa] ________________
+o.O
+
+[19:48:38]
+[DPGawa] ________________
+sts
+
+[19:48:44]
+[Lc3k/m] Chlorine_17
+O.o
+
+[19:48:46]
+[44FF00] eebot
+ ow0
+
+[21:36:39]
+[DPGawa] AfK_Bot
+awa!
+
+[21:36:39]
+[44FF00] eebot
+ [2022.07.16 21:36:38]
+
+[21:36:39]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[21:36:40]
+[None] __thomas_wcy
+tctd忽然qq复活，我才想到上来看看
+
+[21:36:47]
+[None] __thomas_wcy
+不错
+
+[21:36:54]
+[love13] ee
+do_ob
+Anotia
+bo_od
+MuRongPIG
+初墨爱认错
+ee
+a
+
+[21:36:55]
+[zhang] 小张
+emmmmm
+
+[21:37:02]
+[pvzjspvz] B站的J
+卧槽
+
+[21:37:03]
+[love13] ee
+cc现在只有这些人在线
+
+[21:37:04]
+[zhang] 小张
+对
+
+[21:37:06]
+[DPGawa] __
+?
+
+[21:37:08]
+[DPGawa] __
+obo
+
+[21:37:09]
+[pvzjspvz] B站的J
+>*：
+>001 邀请你去 ?b3ndn01t
+
+@* >zhang 小张：
+>对
+
+@小张 
+
+[21:37:09]
+[zhang] 小张
+woc？
+
+[21:37:18]
+[DPGawa] __
+?
+
+[21:37:18]
+[love13] ee
+？
+
+[21:37:20]
+[DPGawa] __
+sts
+
+[21:37:38]
+[DPGawa] __
+let me try again
+
+[21:37:50]
+[zhang] 小张
+@001 请不要一直邀请别人哦~
+
+[21:37:54]
+[DPGawa] AfK_Bot
+AwA!!!
+
+[21:37:54]
+[44FF00] eebot
+ hi yo _
+
+[21:37:54]
+[DPGawa] _
+NICE
+
+[21:37:56]
+[DPGawa] _
+awa
+
+[21:37:57]
+[44FF00] eebot
+ UvU
+
+[21:37:57]
+[love13] ee
+@__thomas_wcy 加个识别码
+
+[21:38:19]
+[None] __thomas_wcy
+a
+
+[21:38:28]
+[DPGawa] _
+obo
+
+[21:38:39]
+[DPGawa] AfK_Bot
+awa!
+
+[21:38:39]
+[44FF00] eebot
+ hey yo __thomas_wcy
+
+[21:38:39]
+[zhang] 小张
+额？@__thomas_wcy 咱们是不是在哪里见过？？？
+
+[21:38:39]
+[DPGawa] _
+q-OvO-p
+
+[21:38:39]
+[love13] ee
+QvQ
+
+[21:38:53]
+[OV7otO] __thomas_wcy
+w
+
+[21:38:53]
+[zhang] 小张
+your-channel 的 ZhangBot
+
+[21:38:55]
+[zhang] 小张
+还是我认错人了？
+
+[21:39:04]
+[OV7otO] __thomas_wcy
+wwwwwww
+
+[21:39:04]
+[44FF00] eebot
+ 哦吼？
+
+[21:39:04]
+[love13] ee
+？
+
+[21:39:10]
+[DPGawa] _
+?
+
+[21:39:10]
+[OV7otO] __thomas_wcy
+?
+
+[21:39:11]
+[DPGawa] _
+OV
+
+[21:39:15]
+[love13] ee
+QV
+
+[21:39:22]
+[DPGawa] _
+OVoO
+
+[21:39:22]
+[OV7otO] __thomas_wcy
+没有/color了
+
+[21:39:31]
+[DPGawa] _
+OV7otO
+
+[21:39:33]
+[DPGawa] AfK_Bot
+awa!
+
+[21:39:33]
+[zhang] 小张
+应该是我认错人了吧。。。
+
+[21:39:33]
+[44FF00] eebot
+ hi yo MuRongPIG
+
+[21:39:33]
+[zhang] 小张
+对
+
+[21:39:34]
+[zhang] 小张
+hi yooooooo
+
+[21:39:37]
+[love13] ee
+ih yo
+
+[21:39:38]
+[OV7otO] __thomas_wcy
+@小张 什么？
+
+[21:39:41]
+[zhang] 小张
+没啥
+
+[21:39:45]
+[Lc3k/m] Chlorine17
+ovo
+
+[21:39:52]
+[44FF00] eebot
+ a_a
+
+[21:40:00]
+[DPGawa] AfK_Bot
+awa!
+
+[21:40:00]
+[44FF00] eebot
+ hi yo __thomas_wcy
+
+[21:40:00]
+[zhang] 小张
+hi yo
+
+[21:40:04]
+[DPGawa] _
+ov?
+
+[21:40:06]
+[44FF00] eebot
+ ？
+
+[21:40:07]
+[love13] ee
+ih yo
+
+[21:40:13]
+[Jvj7lJ] __thomas_wcy
+进进出出
+
+[21:40:18]
+[love13] ee
+（）
+
+[21:40:32]
+[Lc3k/m] Chlorine17
+疑车无据
+
+[21:40:34]
+[DPGawa] _
+?
+
+[21:40:44]
+[Jvj7lJ] __thomas_wcy
+所以/color没了嘛
+
+[21:40:45]
+[love13] ee
+不能日房
+
+[21:40:49]
+[zhang] 小张
+对
+
+[21:40:51]
+[zhang] 小张
+对
+
+[21:40:52]
+[love13] ee
+@__thomas_wcy 没了
+
+[21:40:53]
+[Jvj7lJ] __thomas_wcy
+：（
+
+[21:40:58]
+[love13] ee
+可以用/help
+
+[21:40:59]
+[zhang] 小张
+YES
+
+[21:41:02]
+[zhang] 小张
+这里有很多命令
+
+[21:41:08]
+[zhang] 小张
+有一部分是我开发的
+
+[21:41:14]
+[love13] ee
+~~比起hc涨了几倍~~
+
+[21:41:17]
+[zhang] 小张
+例如~~万恶的锁房~~
+
+[21:41:25]
+[love13] ee
+哈哈哈哈哈哈哈哈哈
+
+[21:41:29]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈草
+
+[21:41:29]
+[zhang] 小张
+一共78个命令
+
+[21:41:37]
+[love13] ee
+@小张 Mod里面加点提示吧
+
+[21:41:46]
+[zhang] 小张
+~~自己慢慢玩吧~~
+
+[21:41:49]
+[zhang] 小张
+>love13 ee：
+>@小张 Mod里面加点提示吧
+
+@ee 加什么提示呢？
+
+[21:41:54]
+[DPGawa] _
+obo
+
+[21:41:55]
+[love13] ee
+我每次翻命令都得一个个找半天
+
+[21:42:07]
+[love13] ee
+比如说
+
+[21:42:13]
+[zhang] 小张
+嗯...
+
+[21:42:19]
+[DPGawa] _
+?
+
+[21:42:27]
+[zhang] 小张
+比如说......
+
+[21:42:33]
+[zzzzzz] zzChumo
+@__thomas_wcy https://zzchat.eu.org/beta/
+
+[21:42:41]
+[DPGawa] _
+.-.
+
+[21:42:42]
+[zzzzzz] zzChumo
+基于hc，但是被魔改了
+
+[21:42:47]
+[zhang] 小张
+。。。
+
+[21:43:02]
+[zzzzzz] zzChumo
+等等
+
+[21:43:05]
+[love13] ee
+>addauth（添加认证）, addclient（添加……）, addshield, addskipcap, addtoken, authlist, ban, banlocation, banmurmur, bannedlocation_list, bannedmurmur_list, changevoicertc, clientlist, dumb, kick, kill, limit, listusers, lockedroomlist, lockroom, moveuser, removeafk, removeclient, removeclient, removeshield, removeskipcap, removetoken, rm_old, saveconfig, shieldlist, skipcaplist, speak, tokenlist, triplist, unban, unbanall, unbanlocation, unbanmurmur, unkill, unlockroom
+
+[21:43:11]
+[zzzzzz] zzChumo
+我服务器好像重启了
+
+[21:43:17]
+[zzzzzz] zzChumo
+还没开nginx（
+
+[21:43:23]
+[love13] ee
+算了 我写吧
+
+[21:43:25]
+[zhang] 小张
+啊？
+
+[21:43:29]
+[zhang] 小张
+我都背下来了啊喂
+
+[21:43:48]
+[DPGawa] _
+?
+
+[21:43:48]
+[love13] ee
+艹
+
+[21:43:52]
+[love13] ee
+我……
+
+[21:44:01]
+[zhang] 小张
+理解命令的名称的意思
+
+[21:44:03]
+[Jvj7lJ] __thomas_wcy
+@zzChumo az
+
+[21:44:04]
+[Lc3k/m] Chlorine17
+kill是什么（好奇
+
+[21:44:11]
+[DPGawa] AfK_Bot
+awa!
+
+[21:44:11]
+[zzzzzz] zzChumo
+塑料英语都能看懂好吧
+
+[21:44:12]
+[DPGawa] _
+yo
+
+[21:44:12]
+[44FF00] eebot
+ Chlorine17别吵）
+
+[21:44:12]
+[44FF00] eebot
+ hey yo tctd
+
+[21:44:12]
+[DPGawa] _
+from yc
+
+[21:44:15]
+[zhang] 小张
+hi yo
+
+[21:44:18]
+[love13] ee
+ih yoo
+
+[21:44:18]
+[zzzzzz] zzChumo
+hiiii
+
+[21:44:20]
+[love13] ee
+tctd
+
+[21:44:22]
+[zhang] 小张
+Ohhhhhhhhhhhhhhh
+
+[21:44:23]
+[zzzzzz] zzChumo
+tctd！
+
+[21:44:24]
+[Jvj7lJ] __thomas_wcy
+tctd!
+
+[21:44:26]
+[love13] ee
+tctd!
+
+[21:44:27]
+[DPGawa] _
+tctd!
+
+[21:44:33]
+[Jvj7lJ] __thomas_wcy
+天蚕土豆！
+
+[21:44:33]
+[None] tctd
+hi
+
+[21:44:37]
+[None] tctd
+：/
+
+[21:44:40]
+[zzzzzz] zzChumo
+tctd快看我-
+
+[21:44:40]
+[love13] ee
+天才他爹！
+
+[21:44:43]
+[None] tctd
+看见了
+
+[21:44:43]
+[love13] ee
+（吃瓜）
+
+[21:44:46]
+[zzzzzz] zzChumo
+a
+
+[21:44:47]
+[PIGPIG] MuRongPIG
+hi...
+
+[21:44:51]
+[zzzzzz] zzChumo
+tctd越来越冷了（悲
+
+[21:44:57]
+[None] tctd
+hi慕容
+
+[21:44:58]
+[None] tctd
+hiee
+
+[21:45:04]
+[None] tctd
+ hichumo
+
+[21:45:08]
+[love13] ee
+hitctd
+
+[21:45:11]
+[None] tctd
+hiwcy
+
+[21:45:11]
+[zzzzzz] zzChumo
+a
+
+[21:45:12]
+[Jvj7lJ] __thomas_wcy
+@zzChumo 这个验证码。
+
+[21:45:16]
+[zzzzzz] zzChumo
+awa！！！
+
+[21:45:17]
+[PIGPIG] MuRongPIG
+十字街越来越冷了（悲*
+
+[21:45:26]
+[None] tctd
+：/
+
+[21:45:35]
+[love13] ee
+十字街锁房了
+
+[21:45:36]
+[None] tctd
+嗝
+
+[21:45:41]
+[love13] ee
+（
+
+[21:45:41]
+[pvzjspvz] B站的J
+是的
+
+[21:45:50]
+[PIGPIG] MuRongPIG
+az
+
+[21:45:53]
+[zhang] 小张
+。。。
+
+[21:45:57]
+[DPGawa] _
+:\
+
+[21:45:59]
+[PIGPIG] MuRongPIG
+我暂时关了
+
+[21:46:01]
+[None] tctd
+light在吗
+
+[21:46:06]
+[DPGawa] AfK_Bot
+awa!
+
+[21:46:06]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[21:46:06]
+[zhang] 小张
+看我来玩个有趣的。。。
+
+[21:46:07]
+[love13] ee
+ih yo
+
+[21:46:16]
+[Lc3k/m] Chlorine17
+awa?
+
+[21:46:23]
+[44FF00] eebot
+ 哦吼？
+
+[21:46:24]
+[Jvj7lJ] __thomas_wcy
+az
+
+[21:46:28]
+[DPGawa] _
+?
+
+[21:46:32]
+[zhang] 小张
+等我一下
+
+[21:46:40]
+[love13] ee
+啊
+
+[21:46:43]
+[44FF00] eebot
+ 啊草
+
+[21:46:43]
+[Jvj7lJ] __thomas_wcy
+有人玩minecraft嘛
+
+[21:47:07]
+[DPGawa] _
+wow
+
+[21:47:09]
+[DPGawa] _
+@eebot mc
+
+[21:47:12]
+[44FF00] eebot
+ 20003.s.imc.re JAVA 1.19
+
+[21:47:12]
+[DPGawa] _
+awwwww
+
+[21:47:16]
+[Jvj7lJ] __thomas_wcy
+？？
+
+[21:47:44]
+[DPGawa] AfK_Bot
+awa!
+
+[21:47:44]
+[44FF00] eebot
+ hello yo 4n0n4me
+
+[21:47:44]
+[pvzjspvz] B站的J
+-------------
+
+[21:47:45]
+[Jvj7lJ] __thomas_wcy
+JAVA1.19
+
+[21:47:47]
+[DPGawa] _
+yuuuuup
+
+[21:48:17]
+[edDiBU] 4n0n4me
+wcy！wcy
+
+[21:48:19]
+[edDiBU] 4n0n4me
+！
+
+[21:48:20]
+[Jvj7lJ] __thomas_wcy
+该用户来自** 这个什么？
+
+[21:48:21]
+[Jvj7lJ] __thomas_wcy
+@4n0n4me ih
+
+[21:48:24]
+[edDiBU] 4n0n4me
+wcy！wcy！
+
+[21:48:25]
+[edDiBU] 4n0n4me
+这个是ip属地
+
+[21:48:29]
+[love13] ee
+ModBot
+ABot2
+QLY
+huolongguo1O_11
+QIULINGYAN
+XC_HiyoTeam_QiuLingYan
+dx_xb
+FyraTree
+zhiren_no_xiongdi
+AfK_Bot
+__thomas_wcy
+yyy
+lio
+_
+momo
+justin
+Xi_Jinping
+Finder
+OOpp
+fish
+ggg
+nevergiveup
+qwe
+guy
+Trump
+ee
+
+[21:48:30]
+[love13] ee
+我震惊了
+
+[21:48:34]
+[love13] ee
+yc人这么多
+
+[21:48:36]
+[edDiBU] 4n0n4me
+我们封禁了重庆
+
+[21:48:39]
+[44FF00] eebot
+ Ohhhhhhhhhhhhhhh
+
+[21:48:39]
+[Jvj7lJ] __thomas_wcy
+CX_zzChumo 加入了聊天室，该用户来自：某个机房
+
+[21:48:39]
+[edDiBU] 4n0n4me
+因为卢本伟来自那里
+
+[21:48:52]
+[edDiBU] 4n0n4me
+机器人和初墨可以用token
+
+[21:48:52]
+[love13] ee
+yep
+
+[21:48:56]
+[edDiBU] 4n0n4me
+跳过ip检测
+
+[21:48:59]
+[zhang] 小张
+我解除了封禁重庆
+
+[21:49:02]
+[love13] ee
+yep
+
+[21:49:02]
+[pvzjspvz] B站的J
+Users online: ModBot, ABot2, QLY, huolongguo1O_11, QIULINGYAN, XC_HiyoTeam_QiuLingYan, dx_xb, FyraTree, zhiren_no_xiongdi, AfK_Bot, __thomas_wcy, yyy, _, momo, justin, Xi_Jinping, Finder, OOpp, fish, ggg, nevergiveup, qwe, guy, Trump, ee, 091016
+
+[21:49:02]
+[Jvj7lJ] __thomas_wcy
+o
+
+[21:49:05]
+[edDiBU] 4n0n4me
+机器人按理来说是在机房里边
+
+[21:49:07]
+[zhang] 小张
+让我们来个有趣的
+
+[21:49:12]
+[Jvj7lJ] __thomas_wcy
+开vpn呢
+
+[21:49:16]
+[edDiBU] 4n0n4me
+（虽然这么分比较狭隘）
+
+[21:49:18]
+[Server_Chan] 机娘
+a
+
+[21:49:34]
+[Jvj7lJ] __thomas_wcy
+@4n0n4me 自己对自己否定的屑。
+
+[21:49:40]
+[Server_Chan] 机娘
+你们好啊！
+
+[21:49:42]
+[Jvj7lJ] __thomas_wcy
+开个vpn试试
+
+[21:49:50]
+[edDiBU] 4n0n4me
+这个分法又不是我想出来的
+
+[21:49:52]
+[edDiBU] 4n0n4me
+--
+
+[21:49:53]
+[Server_Chan] 机娘
+我是XChat的服务器机娘~！
+
+[21:49:55]
+[edDiBU] 4n0n4me
+这个就是小张
+
+[21:50:00]
+[love13] ee
+咳咳
+
+[21:50:04]
+[44FF00] eebot
+ 咳咳（
+
+[21:50:04]
+[love13] ee
+哈哈哈哈哈哈哈哈哈哈
+
+[21:50:05]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈哈嗝-
+
+[21:50:05]
+[DPGawa] _
+h
+
+[21:50:09]
+[Server_Chan] 机娘
+我累了，现在来摸鱼~
+
+[21:50:09]
+[edDiBU] 4n0n4me
+小张是xc的第二位开发者了
+
+[21:50:14]
+[DPGawa] AfK_Bot
+awa!
+
+[21:50:14]
+[44FF00] eebot
+ hi yo __thomas_wcy
+
+[21:50:14]
+[edDiBU] 4n0n4me
+他还写了锁房功能
+
+[21:50:28]
+[Server_Chan] 机娘
+啊对对对，小张在操控我
+
+[21:50:39]
+[DPGawa] AfK_Bot
+awa!
+
+[21:50:39]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[21:50:39]
+[edDiBU] 4n0n4me
+鱼现在打算加入另一个有助于爆杀卢本伟的功能
+
+[21:50:40]
+[Server_Chan] 机娘
+啊对对对，所有人都可以操控我
+
+[21:50:42]
+[edDiBU] 4n0n4me
+我们要全面爆杀卢本伟
+
+[21:50:45]
+[Jvj7lJ] __thomas_wcy
+e？
+
+[21:50:47]
+[Admin] Melonfish_iPhone12Pro
+guru
+
+[21:50:48]
+[Server_Chan] 机娘
+啊对对对
+
+[21:50:51]
+[edDiBU] 4n0n4me
+卢本伟是某个spammer
+
+[21:51:01]
+[Admin] Melonfish_iPhone12Pro
+@__thomas_wcy 你好，请问你是新用户吗
+
+[21:51:06]
+[edDiBU] 4n0n4me
+他一开始在十字街冒充名人
+
+[21:51:08]
+[Server_Chan] 机娘
+@Melonfish_iPhone12Pro 恭喜我起死回生！！！
+
+[21:51:12]
+[Admin] Melonfish_iPhone12Pro
+@4n0n4me 今天有新用户来吗
+
+[21:51:16]
+[edDiBU] 4n0n4me
+wcy可是我所称的【先贤】（）
+
+[21:51:19]
+[Admin] Melonfish_iPhone12Pro
+@机娘 好家伙
+
+[21:51:19]
+[Jvj7lJ] __thomas_wcy
+@Melonfish_iPhone12Pro 我是新用户
+
+[21:51:21]
+[edDiBU] 4n0n4me
+我先前来的不多
+
+[21:51:28]
+[edDiBU] 4n0n4me
+还有一位【先贤】也来了（）
+
+[21:51:39]
+[Server_Chan] 机娘
+@Melonfish_iPhone12Pro 你不知道是小张在操控我吗？
+
+[21:51:40]
+[zhang] 小张
+对啊
+
+[21:51:45]
+[Admin] Melonfish_iPhone12Pro
+@__thomas_wcy 哈哈，记得把这里添加带收藏夹哦，以后常来
+
+[21:51:46]
+[Admin] Melonfish_iPhone12Pro
+@机娘 好家伙
+
+[21:51:52]
+[Admin] Melonfish_iPhone12Pro
+zhang nb
+
+[21:51:55]
+[edDiBU] 4n0n4me
+那一位先贤走了
+
+[21:52:00]
+[zhang] 小张
+也可以发送“^readme”来阅读帮助哦~
+
+[21:52:01]
+[edDiBU] 4n0n4me
+:(
+
+[21:52:02]
+[Server_Chan] 机娘
+@Melonfish_iPhone12Pro 站长您更NB
+
+[21:52:21]
+[Admin] Melonfish_iPhone12Pro
+对了，我讲一下，新的指纹封锁是更具显卡来的
+
+[21:52:35]
+[Admin] Melonfish_iPhone12Pro
+根据
+
+[21:52:37]
+[zhang] 小张
+啊这
+
+[21:52:40]
+[zhang] 小张
+但是手机呢。。。
+
+[21:52:47]
+[Jvj7lJ] __thomas_wcy
+？
+
+[21:52:47]
+[44FF00] eebot
+ eb手太短
+
+[21:52:47]
+[Admin] Melonfish_iPhone12Pro
+所以一个设备最多3个指纹
+
+[21:52:48]
+[zhang] 小张
+还有Cx
+
+[21:52:49]
+[Admin] Melonfish_iPhone12Pro
+@小张 手机也有
+
+[21:52:52]
+[zhang] 小张
+Ohhhhhhhhhh
+
+[21:52:55]
+[Jvj7lJ] __thomas_wcy
+？？
+
+[21:52:58]
+[zhang] 小张
+还有CX无能为力
+
+[21:53:02]
+[zhang] 小张
+没有指纹
+
+[21:53:06]
+[Admin] Melonfish_iPhone12Pro
+@小张 带token的可以绕过
+
+[21:53:10]
+[zhang] 小张
+对
+
+[21:53:14]
+[zhang] 小张
+吧？
+
+[21:53:16]
+[Admin] Melonfish_iPhone12Pro
+这个是对的
+
+[21:53:23]
+[Server_Chan] 机娘
+@Melonfish_iPhone12Pro 咱就说我为什么会死啊
+
+[21:53:29]
+[Admin] Melonfish_iPhone12Pro
+@机娘 哈哈哈我也好奇啊
+
+[21:53:40]
+[Server_Chan] 机娘
+@Melonfish_iPhone12Pro 我死的不明白啊！！！
+
+[21:53:45]
+[pvzjspvz] B站的J
+对了
+
+[21:53:46]
+[pvzjspvz] B站的J
+fish
+
+[21:53:48]
+[edDiBU] 4n0n4me
+强大的指纹！
+
+[21:53:54]
+[Admin] Melonfish_iPhone12Pro
+@机娘 好啦好啦我回头给你搬个新家
+
+[21:53:58]
+[DPGawa] _
+obo
+
+[21:54:01]
+[Admin] Melonfish_iPhone12Pro
+@机娘 去亚马逊
+
+[21:54:03]
+[DPGawa] _
+@Melonfish_iPhone12Pro @机娘 (
+
+[21:54:08]
+[DPGawa] _
+pop
+
+[21:54:11]
+[Admin] Melonfish_iPhone12Pro
+@机娘 给你装8g内存
+
+[21:54:13]
+[pvzjspvz] B站的J
+我是真心觉得 Server_Chan 机娘 应该改成 Server 服务器 【不饿】
+
+[21:54:13]
+[Server_Chan] 机娘
+@Melonfish_iPhone12Pro 你不是开了禁止外国IP吗？
+
+[21:54:16]
+[Server_Chan] 机娘
+@Melonfish_iPhone12Pro 哈哈哈哈哈哈哈
+
+[21:54:24]
+[Admin] Melonfish_iPhone12Pro
+@机娘 但是nginx会被攻击啊
+
+[21:54:27]
+[Server_Chan] 机娘
+。。。
+
+[21:54:42]
+[Admin] Melonfish_iPhone12Pro
+目前攻击原因给kzw分析去了
+
+[21:54:44]
+[pvzjspvz] B站的J
+卧槽
+
+[21:54:56]
+[Server_Chan] 机娘
+/me 无语了
+
+[21:55:00]
+[Admin] Melonfish_iPhone12Pro
+对了，今天那个昵称是as的就是kzw来测试的
+
+[21:55:01]
+[Server_Chan] 机娘
+啊
+
+[21:55:09]
+[44FF00] eebot
+ 草啊
+
+[21:55:10]
+[Server_Chan] 机娘
+^ban eebot
+
+[21:55:18]
+[zhang] ZhangHelper
+你是想篡权夺位么？
+
+[21:55:18]
+[pvzjspvz] B站的J
+/kick
+
+[21:55:44]
+[pvzjspvz] B站的J
+/ban
+
+[21:55:49]
+[Server_Chan] 机娘
+对了，小张在上传更新代码之前，我就突然死了
+
+[21:55:50]
+[Server_Chan] 机娘
+人呢？
+
+[21:55:57]
+[DPGawa] _
+WoW
+
+[21:56:04]
+[pvzjspvz] B站的J
+1
+
+[21:56:06]
+[DPGawa] _
+:!lookup nick as
+
+[21:56:09]
+[DPGawa] AfK_Bot
+Aliases for hash a6i11zbeeaWyENF: ['as', 'MelonFish', 'fish']
+Trips for hash a6i11zbeeaWyENF: ['null', 'Admin']
+
+[21:56:09]
+[DPGawa] _
+:!lookup nick as -a
+
+[21:56:13]
+[DPGawa] AfK_Bot
+Hash: ['a6i11zbeeaWyENF']
+Aliases: ['{', 'as', 'MelonFish', 'fish', '}']
+Trips: ['{', 'null', 'Admin', 'null', '}']
+
+[21:56:13]
+[DPGawa] _
+i see
+
+[21:56:44]
+[DPGawa] AfK_Bot
+awa!
+
+[21:56:44]
+[44FF00] eebot
+ Server_Chan 机娘 应该改为Server 服务器[不饿]
+
+[21:56:44]
+[pvzjspvz] B站的J1
+^readme
+
+[21:56:54]
+[edDiBU] 4n0n4me
+modbot是一个有权限的bot
+
+[21:57:23]
+[edDiBU] 4n0n4me
+帮助我们维护秩序的
+
+[21:57:27]
+[Server_Chan] 机娘
+hi yo 您可以到 https://xq.kzw.ink/ 体验更多功能哦~
+
+[21:57:29]
+[44FF00] eebot
+@机娘 XChat
+https://xq.kzw.ink/
+
+[21:57:29]
+[pvzjspvz] B站的J1
+又换IP了
+
+[21:57:30]
+[edDiBU] 4n0n4me
+abot是火龙果10做的，火龙果10是个我不太了解的用户
+
+[21:57:49]
+[edDiBU] 4n0n4me
+afkbot是dpg做的
+
+[21:58:02]
+[zhang] 小张
+YES
+
+[21:58:05]
+[edDiBU] 4n0n4me
+dpg=“非常相似的人；幽灵”
+
+[21:58:13]
+[edDiBU] 4n0n4me
+dpg就是“_”
+
+[21:58:17]
+[DPGawa] _
+aaaawo
+
+[21:58:28]
+[DPGawa] _
+Doppelganger
+
+[21:58:38]
+[DPGawa] _
+uwu
+
+[21:58:40]
+[edDiBU] 4n0n4me
+@_ 你看了我发的链接没有
+
+[21:58:45]
+[edDiBU] 4n0n4me
+《华育知识库》
+
+[21:58:53]
+[edDiBU] 4n0n4me
+这里边有没有提到你啊（）
+
+[21:59:04]
+[Jvj7lJ] __thomas_wcy
+与时代脱节
+
+[21:59:09]
+[DPGawa] _
+once
+
+[21:59:10]
+[DPGawa] _
+@4n0n4me 
+
+[21:59:12]
+[DPGawa] _
+only once
+
+[21:59:16]
+[DPGawa] _
+only my student number
+
+[21:59:24]
+[DPGawa] _
+no other info
+
+[21:59:31]
+[DPGawa] _
+ :/
+
+[21:59:34]
+[edDiBU] 4n0n4me
+这不是很正常吗
+
+[22:00:38]
+[edDiBU] 4n0n4me
+这个里边很简略
+
+[22:00:49]
+[DPGawa] _
+ind
+
+[22:01:03]
+[edDiBU] 4n0n4me
+看来你也是华育的名人之一啊，最起码知识库里有你
+
+[22:01:05]
+[DPGawa] _
+ /shrug
+
+[22:01:11]
+[44FF00] eebot
+  /shrug
+
+[22:01:20]
+[DPGawa] AfK_Bot
+awa!
+
+[22:01:20]
+[44FF00] eebot
+ hi yo __thomas_wcy
+
+[22:01:20]
+[love13] ee
+yo
+
+[22:01:24]
+[edDiBU] 4n0n4me
+那个landchat就是那个网站的站长（或者至少是华育的大佬）做的
+
+[22:01:28]
+[edDiBU] 4n0n4me
+但是我好像上不去
+
+[22:01:33]
+[Server_Chan] 机娘
+hi yo 您可以到 https://xq.kzw.ink/ 体验更多功能哦~
+
+[22:01:44]
+[44FF00] eebot
+@机娘 XChat
+https://xq.kzw.ink/
+
+[22:01:44]
+[edDiBU] 4n0n4me
+我还听说只有华育率先使用一般只有大学使用的classin软件
+
+[22:01:52]
+[edDiBU] 4n0n4me
+因为我们学校改用classin了（以前的晓黑板要关服了）
+
+[22:02:09]
+[edDiBU] 4n0n4me
+我才搜到这个网站
+
+[22:02:16]
+[pvzjspvz] B站的J1
+././././././
+
+[22:02:18]
+[DPGawa] _
+ind
+
+[22:02:38]
+[DPGawa] _
+using ClassIn
+
+[22:02:45]
+[DPGawa] _
+ovo
+
+[22:02:46]
+[edDiBU] 4n0n4me
+不过这个华育里边居然用五位的学号叫人
+
+[22:02:57]
+[edDiBU] 4n0n4me
+有点魔幻啊
+
+[22:03:01]
+[DPGawa] _
+?
+
+[22:03:03]
+[DPGawa] _
+wt
+
+[22:03:05]
+[gTt3aQ] 卧底light
+O-
+
+[22:03:08]
+[44FF00] eebot
+ 请勿留空哦
+
+[22:03:08]
+[edDiBU] 4n0n4me
+我看他们在网上绝大部分的人称指代
+
+[22:03:22]
+[gTt3aQ] 卧底light
+O-
+
+[22:03:22]
+[44FF00] eebot
+ 请勿留空哦
+
+[22:03:22]
+[edDiBU] 4n0n4me
+都是用五位学号
+
+[22:03:35]
+[DPGawa] AfK_Bot
+awa!
+
+[22:03:35]
+[44FF00] eebot
+ https://zzchat.eu.org/
+
+[22:03:35]
+[edDiBU] 4n0n4me
+这有利于各届各班学生的互通
+
+[22:03:42]
+[edDiBU] 4n0n4me
+但是这样多少有点魔幻
+
+[22:03:47]
+[DPGawa] _
+ind
+
+[22:03:47]
+[DPGawa] _
+?
+
+[22:03:49]
+[DPGawa] _
+whhhhhhhy
+
+[22:03:51]
+[edDiBU] 4n0n4me
+像赛博朋克一样
+
+[22:03:52]
+[edDiBU] 4n0n4me
+因为不用名字叫人啊（）
+
+[22:04:01]
+[zzzzzz] zzChumo
+awa
+
+[22:04:06]
+[44FF00] eebot
+ T-T
+
+[22:04:06]
+[edDiBU] 4n0n4me
+当然也可能是避免给我这些外校人泄密
+
+[22:04:20]
+[gTt3aQ] 卧底light
+O-
+a = iter(100)
+a.__next__()
+
+[22:04:25]
+[44FF00] eebot
+ 'int' object is not iterable
+
+[22:04:26]
+[edDiBU] 4n0n4me
+防止里面的学生被开盒
+
+[22:04:31]
+[gTt3aQ] 卧底light
+O-
+a = iter(range(100))
+a.__next__()
+
+[22:04:36]
+[44FF00] eebot
+ 死循环是不被允许的
+
+[22:04:36]
+[zhang] 小张
+哈哈哈哈哈哈哈
+
+[22:04:41]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈草
+
+[22:04:41]
+[edDiBU] 4n0n4me
+毕竟你们学校大佬太多了，把各种学校里的东西都放在网上
+
+[22:04:45]
+[gTt3aQ] 卧底light
+O-
+a = iter("aaaaaaaaaaaaaaaaaaaa")
+a.__next__()
+
+[22:04:46]
+[love13] ee
+@卧底light 咳咳 你想干什么
+
+[22:04:47]
+[edDiBU] 4n0n4me
+@卧底light 你这个不行
+
+[22:05:01]
+[edDiBU] 4n0n4me
+看我的
+
+[22:05:02]
+[zhang] 小张
+WARNING
+
+[22:05:29]
+[DPGawa] _
+obo
+
+[22:05:33]
+[DPGawa] _
+ob?
+
+[22:05:35]
+[zhang] 小张
+即将执行危险代码
+
+[22:05:37]
+[zhang] 小张
+O-def a():
+    print('a')
+    a()
+
+[22:05:47]
+[zhang] 小张
+woc
+
+[22:05:50]
+[44FF00] eebot
+ uou
+
+[22:05:50]
+[zhang] 小张
+>eebot 向你发送私信：代码运行成功
+
+[22:05:57]
+[gTt3aQ] 卧底light
+O-
+def hhh():
+	yield from "awa "*1000000000
+send(list(hhh()))
+

@@ -1,0 +1,8822 @@
+[12:29:51]
+[44FF00] eebot
+ [2022.06.28 12:29:50]
+
+[12:29:51]
+[44FF00] eebot
+ ·
+今天才周二呢 先好好上班吧！
+更多玩法请输入：功能
+
+[12:29:51]
+[Db9ppV] 吃鱼吗
+awa!
+
+[12:29:57]
+[Db9ppV] 吃鱼吗
+生草机
+
+[12:30:04]
+[44FF00] eebot
+ ·
+示例：
+（开头）纸片君在厕所吃屎 （续写）看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[12:30:04]
+[44FF00] eebot
+ 请用1报数
+
+[12:30:04]
+[Db9ppV] 吃鱼吗
+1
+
+[12:30:05]
+[44FF00] eebot
+ 吃鱼吗成功加入 现在有1人
+
+[12:30:05]
+[44FF00] eebot
+[ee] 1
+
+[12:30:41]
+[44FF00] eebot
+ ee成功加入 现在有2人
+
+[12:31:57]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[12:31:59]
+[Db9ppV] 吃鱼吗
+hhh
+
+[12:35:42]
+[44FF00] eebot
+ hi yooo 吃线圈吗
+
+[12:35:42]
+[Db9ppV] 吃线圈吗
+1
+
+[12:35:50]
+[44FF00] eebot
+ 吃线圈吗成功加入 现在有3人
+
+[12:35:50]
+[love13] ee
+1
+
+[12:35:55]
+[44FF00] eebot
+ ee已经报过数了 现在有3人
+
+[12:35:55]
+[Db9ppV] 吃线圈吗
+开始游戏
+
+[12:36:01]
+[44FF00] eebot
+ 生草机游戏开始
+
+[12:36:01]
+[44FF00] eebot
+ @ee @吃线圈吗 @吃鱼吗 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[12:36:52]
+[44FF00] eebot
+ [2022.06.28 12:36:31]
+鱼在厕所里吃线圈
+
+[12:36:52]
+[44FF00] eebot
+ ·
+详细信息：
+鱼（ee）
+在厕所里（吃线圈吗）
+吃线圈（吃鱼吗）
+·
+本次参与人数：3
+
+[12:36:52]
+[44FF00] eebot
+ 记录成功
+
+[12:36:52]
+[Db9ppV] 吃鱼吗
+hhhh
+
+[12:36:56]
+[Db9ppV] 吃线圈吗
+awa
+
+[12:37:07]
+[love13] ee
+哈哈哈
+
+[12:45:10]
+[44FF00] eebot
+ hi yooo 钓鱼Qwer
+
+[12:45:16]
+[44FF00] eebot
+ hey yooooo 钓鱼Qwer
+
+[12:45:26]
+[44FF00] eebot
+ 如果站长看到的话请给个管理员
+
+[12:45:26]
+[love13] ee
+hi yooooooooooooooooooo
+
+[12:45:30]
+[love13] ee
+欢迎回来
+
+[12:45:31]
+[TmzAyN] 钓鱼的Qwer
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+[12:45:43]
+[TmzAyN] 钓鱼的Qwer
+我在玩网易的我的世界
+
+[12:45:50]
+[TmzAyN] 钓鱼的Qwer
+然后
+
+[12:45:52]
+[TmzAyN] 钓鱼的Qwer
+卡死了
+
+[12:45:59]
+[TmzAyN] 钓鱼的Qwer
+现在在加载33%
+
+[12:46:18]
+[love13] ee
+好家伙
+
+[12:46:23]
+[TmzAyN] 钓鱼的Qwer
+打无语
+
+[12:46:34]
+[TmzAyN] 钓鱼的Qwer
+大无语
+
+[12:46:40]
+[TmzAyN] 钓鱼的Qwer
+速度忒别慢
+
+[12:47:03]
+[love13] ee
+~~我爱国际版MC~~
+
+[12:47:29]
+[TmzAyN] 钓鱼的Qwer
+现在才35
+
+[12:47:46]
+[TmzAyN] 钓鱼的Qwer
+等到明天
+
+[12:47:55]
+[TmzAyN] 钓鱼的Qwer
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[12:48:47]
+[TmzAyN] 钓鱼的Qwer
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[12:48:50]
+[TmzAyN] 钓鱼的Qwer
+整点好玩的
+
+[12:50:03]
+[TmzAyN] 钓鱼的Qwer
+$\Huge\color{red}^{禁止刷屏^{禁止刷屏}}$
+
+[12:51:15]
+[TmzAyN] 钓鱼的Qwer
+哈哈哈哈哈哈
+
+[12:51:21]
+[TmzAyN] 钓鱼的Qwer
+$\Huge\color{red}^{禁止刷屏^^{禁止刷屏}{禁止刷屏}}$
+
+[12:51:48]
+[TmzAyN] 钓鱼的Qwer
+哈哈哈哈哈哈
+
+[12:51:50]
+[TmzAyN] 钓鱼的Qwer
+$\Huge\color{red}^{禁止刷屏^{禁止刷屏}}$
+
+[12:51:54]
+[TmzAyN] 钓鱼的Qwer
+[![jZ75V0.jpg](https://s1.ax1x.com/2022/06/28/jZ75V0.jpg)](https://imgtu.com/i/jZ75V0)
+
+[12:54:43]
+[44FF00] eebot
+ @钓鱼的Qwer 360截图20220628125322788 - 路过图床
+https://imgtu.com/i/jZ75V0
+
+[12:54:43]
+[TmzAyN] 钓鱼的Qwer
+今天看来是玩不了了
+
+[12:54:56]
+[TmzAyN] 钓鱼的Qwer
+^help
+
+[12:55:02]
+[TmzAyN] 钓鱼的Qwer
+^list
+
+[12:55:19]
+[zhang] ZhangHelperS
+管理员助手识别码：
+8LJ4jb
+TmzAyN
+PIGPIG
+loveee
+QiuLingYan
+
+[12:55:20]
+[TmzAyN] 钓鱼的Qwer
+^cb 这段信息傻子不可见
+
+[12:55:56]
+[zhang] ZhangHelperS
+钓鱼的Qwer 抛出了一个漂流瓶，不知道谁会收到。
+
+[12:55:56]
+[TmzAyN] 钓鱼的Qwer
+^city 斯大林格勒
+
+[12:56:24]
+[zhang] ZhangHelperS
+已更正地区。
+
+[12:56:25]
+[TmzAyN] 钓鱼的Qwer
+^protectlist
+
+[12:56:58]
+[TmzAyN] 钓鱼的Qwer
+十字街又双叒叕把我封了
+
+[12:58:33]
+[TmzAyN] 钓鱼的Qwer
+人呢
+
+[12:59:55]
+[44FF00] eebot
+ hi yoo MuRongPIG
+
+[12:59:55]
+[TmzAyN] 钓鱼的Qwer
+ih
+
+[13:00:00]
+[PIGPIG] MuRongPIG
+hi
+
+[13:00:03]
+[love13] ee
+hi yo
+
+[13:03:54]
+[love13] ee
+hi yo
+
+[13:04:00]
+[zzzzzz] zzChumo
+我在午睡
+
+[13:04:12]
+[zzzzzz] zzChumo
+老师就在前面
+
+[13:04:20]
+[zzzzzz] zzChumo
+我tm当场作死玩手机
+
+[13:04:59]
+[Db9ppV] 吃鱼吗
+。。。
+
+[13:05:00]
+[love13] ee
+woc
+
+[13:05:41]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[13:05:41]
+[love13] eee
+芜湖
+
+[13:05:47]
+[love13] eee
+下午考完历史就结束了
+
+[13:09:03]
+[44FF00] eebot
+ ·
+msmset0的博客
+https://www.cnblogs.com/MemsetZero/
+
+[13:14:02]
+[44FF00] eebot
+ hello yo zm_mz
+
+[13:14:02]
+[love13] eee
+hi yo
+
+[13:14:32]
+[zhang] zm_mz
+^tripmsg Admin 说实话，你的其他的模块是不是根据已有的模块改的？
+
+[13:14:46]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 Admin 的用户上线时，我会第一时间通知他。
+
+[13:15:31]
+[44FF00] eebot
+ hello yo zm_mz
+
+[13:15:32]
+[zhang] zm_mz
+各位下午好
+
+[13:15:45]
+[zhang] zm_mz
+@吃鱼吗 @吃线圈吗 您二位有点不友好了，小心一窝端……
+
+[13:16:31]
+[PIGPIG] MuRongPIG
+?
+
+[13:16:44]
+[zhang] zm_mz
+唉
+
+[13:16:59]
+[PIGPIG] MuRongPIG
+这也算阿
+
+[13:17:00]
+[zhang] zm_mz
+过于………
+
+[13:17:08]
+[zhang] zm_mz
+反正我有点反感
+
+[13:17:20]
+[zhang] zm_mz
+一会问问站长
+
+[13:17:28]
+[love13] eee
+？？
+
+[13:17:41]
+[zhang] zm_mz
+^tripmsg Admin 在线用户: ZhangHelperS, 吃鱼吗, eebot, 吃线圈吗, MuRongPIG, zzChumo, eee, zm_mz
+
+[13:17:45]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 Admin 的用户上线时，我会第一时间通知他。
+
+[13:17:45]
+[zhang] zm_mz
+^tripmsg Admin 有趣的在线列表出炉了哈～～～ 
+
+[13:18:59]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 Admin 的用户上线时，我会第一时间通知他。
+
+[13:18:59]
+[zhang] zm_mz
+对了
+
+[13:19:16]
+[zhang] zm_mz
+这里的模块真好写
+
+[13:19:23]
+[zhang] zm_mz
+我根据 ban.js 改编了个 offline.js
+
+[13:20:25]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[13:20:25]
+[zhang] zm_mz
+哈哈哈哈哈哈哈哈
+
+[13:20:34]
+[zhang] zm_mz
+《大水比》
+
+[13:20:55]
+[love13] eee
+咳咳
+
+[13:21:23]
+[44FF00] eebot
+ 咳咳咳
+
+[13:21:28]
+[love13] eee
+sts
+
+[13:21:49]
+[44FF00] eebot
+ hey yoo zm_mz
+
+[13:21:49]
+[love13] eee
+hi yo
+
+[13:22:12]
+[love13] eee
+hi yo
+
+[13:22:16]
+[zhang] zm_mz
+E-这不是写~~满是BUG的~~代码的小张吗？
+
+[13:22:42]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[13:22:42]
+[zhang] zm_mz
+hi yooooooooooo
+
+[13:23:07]
+[44FF00] eebot
+ 这不是写~~满是BUG的~~代码的小张吗？
+
+[13:23:07]
+[love13] eee
+hi yo
+
+[13:23:15]
+[zzzzzz] zzzChumo
+hii
+
+[13:23:15]
+[zzzzzz] zzzChumo
+ho
+
+[13:23:18]
+[zhang] zm_mz
+走了
+
+[13:23:19]
+[zhang] zm_mz
+hi
+
+[13:23:22]
+[zzzzzz] zzzChumo
+bye
+
+[13:23:24]
+[zzzzzz] zzzChumo
+三千世界，常世之暗。
+
+[13:23:27]
+[zzzzzz] zzzChumo
+三千世界、常世の闇
+
+[13:24:21]
+[love13] eee
+这是什么
+
+[13:25:47]
+[44FF00] eebot_310
+ QuQ eb的昵称卡在里面了
+
+[13:25:50]
+[zzzzzz] zzzChumo
+ｊｄｌぐじゅっｙっっっｖっっっｈｂ
+
+[13:25:52]
+[zzzzzz] zzzChumo
+ご尾っｌぎｔぎいｈｐ９ふお
+
+[13:26:00]
+[zzzzzz] zzzChumo
+ｙっｈっっっっっｂｊｂｊ
+
+[13:26:05]
+[Db9ppV] 吃鱼吗
+。。。
+
+[13:26:17]
+[PIGPIG] MuRongPIG
+前几天听某位女孩子唱过
+
+[13:26:33]
+[Db9ppV] 吃鱼吗
+？？？
+
+[13:26:54]
+[zzzzzz] zzzChumo
+？我的瓜怎么自己滚过来了
+
+[13:27:00]
+[Db9ppV] 吃线圈吗
+。。
+
+[13:27:00]
+[PIGPIG] MuRongPIG
+..
+
+[13:27:17]
+[Db9ppV] 吃线圈吗
+。
+
+[13:27:22]
+[Db9ppV] 吃线圈吗
+awa
+
+[13:27:26]
+[44FF00] eebot
+ Q︵Q
+
+[13:27:26]
+[PIGPIG] MuRongPIG
+>zzzzzz zzzChumo：
+>？我的瓜怎么自己滚过来了
+
+@zzzChumo ?
+
+[13:28:07]
+[44FF00] eebot
+ 这不是写~~满是BUG的~~代码的小张吗？
+
+[13:28:14]
+[zhang] zm_mz
+一会去上学
+
+[13:28:37]
+[Db9ppV] 吃线圈吗
+>zhang zm_mz：
+>@吃鱼吗 @吃线圈吗 您二位有点不友好了，小心一窝端……
+
+@zm_mz ？？？
+
+[13:28:46]
+[zzzzzz] zzzChumo
+我就在学校玩手机（
+
+[13:28:55]
+[Db9ppV] 吃线圈吗
+em
+
+[13:29:31]
+[zzzzzz] zzzChumo
+#　カクメイ
+
+[13:29:55]
+[Db9ppV] 吃线圈吗
+em
+
+[13:29:55]
+[Db9ppV] 吃线圈吗
+生草机
+
+[13:30:02]
+[44FF00] eebot
+ ·
+示例：
+（开头）纸片君在厕所吃屎 （续写）看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[13:30:02]
+[44FF00] eebot
+ 请用1报数
+
+[13:30:02]
+[Db9ppV] 吃线圈吗
+1
+
+[13:30:03]
+[44FF00] eebot
+ 吃线圈吗成功加入 现在有1人
+
+[13:31:06]
+[Db9ppV] 吃鱼吗
+.
+
+[13:34:27]
+[Db9ppV] 吃鱼吗
+?
+
+[13:38:43]
+[Db9ppV] 吃鱼吗
+...
+
+[13:38:46]
+[Db9ppV] 吃鱼吗
+.
+
+[13:38:50]
+[44FF00] eebot
+ ee现在已经在学校了
+
+[13:40:50]
+[Db9ppV] 吃鱼吗
+az
+
+[13:41:00]
+[Db9ppV] 吃线圈吗
+awa
+
+[13:42:34]
+[Db9ppV] 吃鱼吗
+aaaaaaaaaaaaaaaaaaaaawwwwwwwwaaaaaaaaaa
+
+[13:56:42]
+[44FF00] eebot
+ ·
+Light's Gitee
+https://gitee.com/BirdingLight
+
+[14:29:40]
+[44FF00] eebot
+ hey yooo Outlier
+
+[14:29:40]
+[f9Yi6H] Outlier
+。
+
+[14:36:03]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[14:36:03]
+[Admin] __fish__2iPhone12Pro
+好家伙
+
+[14:36:20]
+[f9Yi6H] Outlier
+。
+
+[14:36:56]
+[f9Yi6H] Outlier
+@__fish__2iPhone12Pro 站长好
+
+[14:37:08]
+[Admin] __fish__2iPhone12Pro
+hi yooooooooooooooo
+
+[14:37:30]
+[f9Yi6H] Outlier
+《开 幕 雷 击》
+
+[14:37:39]
+[Admin] __fish__2iPhone12Pro
+终于放假了
+
+[14:37:44]
+[f9Yi6H] Outlier
+我们也是
+
+[14:37:49]
+[f9Yi6H] Outlier
+。
+
+[14:37:51]
+[f9Yi6H] Outlier
+我。
+
+[14:37:57]
+[f9Yi6H] Outlier
+@eebot 听我说谢谢你~
+
+[14:38:22]
+[44FF00] eebot
+ 人又不斯文 装得这么客气干嘛呢
+
+[14:38:22]
+[f9Yi6H] Outlier
+【嘴角抽搐】
+
+[14:38:33]
+[Admin] __fish__2iPhone12Pro
+哈哈哈哈哈好家伙
+
+[14:38:40]
+[f9Yi6H] Outlier
+淦
+
+[14:38:49]
+[f9Yi6H] Outlier
+这耳机音质忒差了
+
+[14:38:55]
+[f9Yi6H] Outlier
+别的耳机被我妈收起来了
+
+[14:39:35]
+[f9Yi6H] Outlier
+她收的东西我永远找不到=（
+
+[14:41:06]
+[Db9ppV] 吃线圈吗
+。。。
+
+[15:08:30]
+[Db9ppV] 吃线圈吗
+。。
+
+[15:08:47]
+[44FF00] eebot
+ ·
+Sprinkle博客
+https://pntang.github.io/
+
+[15:13:51]
+[f9Yi6H] Outlier
+。
+
+[15:17:13]
+[f9Yi6H] Outlier
+。
+
+[15:17:14]
+[f9Yi6H] Outlier
+。
+
+[15:17:15]
+[f9Yi6H] Outlier
+。
+
+[15:17:16]
+[f9Yi6H] Outlier
+。
+
+[15:18:02]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[15:18:02]
+[Admin] MelonFish_MacBookAir2018
+话说在座的各位有什么办法能电池校准
+
+[15:19:16]
+[Admin] MelonFish_MacBookAir2018
+我的mac还有50多的电就自动关机了
+
+[15:19:28]
+[Admin] MelonFish_MacBookAir2018
+鬼知道是软件的问题还是电池的问题
+
+[15:19:37]
+[Admin] MelonFish_MacBookAir2018
+显示的电池正常
+
+[15:19:43]
+[Admin] MelonFish_MacBookAir2018
+qswl
+
+[15:19:45]
+[f9Yi6H] Outlier
+随着16英寸MacBook Pro的发布，同为2019年发布的13英寸MacBook Pro闹起了脾气。最近，有不少用户反馈自己的13吋MacBook Pro（2019款）存在自动关机的情况。具体来说，当电池电量下降到25%-50%的时候，电脑就会无故自动关机，需要插入电源才能顺利开机。不少用户因此向苹果售后求助，尝试了更新macOS以及重装系统，问题依然没有得到解决，最终只能申请退换货。
+
+[15:22:23]
+[f9Yi6H] Outlier
+长信息预警！！！
+
+[15:23:28]
+[f9Yi6H] Outlier
+这个问题并不只有国行版本专属，海外版本同样存在这个问题。对此，苹果并没有承认这是电池故障，也没有要推出产品召回的计划，甚至也没有说明导致问题发生的原因，只是在官方技术支持文件中列出了解决方案。具体方法如下：
+
+如果MacBook Pro 电量不足90%，可继续执行第2步骤。假如电量还有90%以上，则需要让MacBook的电量耗费至90%以下，再继续依照第2步骤操作。
+
+将Mac笔电接上电源线。
+
+将所有应用程序关闭。
+
+盖上MacBook Pro屏幕，让Mac进入睡眠模式。
+
+让MacBook Pro充电，至少要8个小时。
+
+等到8个小时候，并且将MacBook Pro更新到最新macOS版本上。
+
+[15:23:30]
+[f9Yi6H] Outlier
+不算长
+
+[15:23:34]
+[Admin] MelonFish_MacBookAir2018
+好家伙8个小时
+
+[15:25:04]
+[f9Yi6H] Outlier
+。
+
+[15:25:14]
+[Admin] MelonFish_MacBookAir2018
+我刚才一狠心
+
+[15:25:21]
+[f9Yi6H] Outlier
+我在知乎找的
+
+[15:25:24]
+[Admin] MelonFish_MacBookAir2018
+150买了个软件
+
+[15:25:30]
+[Admin] MelonFish_MacBookAir2018
+AIdente
+
+[15:25:33]
+[Admin] MelonFish_MacBookAir2018
+据说能自动完成校准
+
+[15:25:43]
+[f9Yi6H] Outlier
+。
+
+[15:25:55]
+[f9Yi6H] Outlier
+《据 说》
+
+[15:26:06]
+[f9Yi6H] Outlier
+站长？
+
+[15:38:09]
+[Admin] MelonFish_MacBookAir2018
+怎么了
+
+[15:38:32]
+[f9Yi6H] Outlier
+吓死我了
+
+[15:38:39]
+[f9Yi6H] Outlier
+我还以为你八小时去了
+
+[15:38:46]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[15:40:47]
+[Admin] MelonFish_MacBookAir2018
+这个软件跑校准好像和那个差不多
+
+[15:40:59]
+[Admin] MelonFish_MacBookAir2018
+只不过这个可以后台控制电池充电放电，我不需要管它
+
+[15:41:16]
+[Db9ppV] 吃鱼吗
+?
+
+[15:43:14]
+[Db9ppV] 吃鱼吗
+...
+
+[15:43:17]
+[Db9ppV] 吃线圈吗
+awa
+
+[15:43:19]
+[44FF00] eebot
+ pwq
+
+[15:43:41]
+[44FF00] eebot
+ hey yoooo 吃柠檬鱼吗
+
+[15:43:41]
+[Db9ppV] 吃柠檬鱼吗
+awa！
+
+[15:43:52]
+[44FF00] eebot
+ hey yoo 吃DPG吗
+
+[15:43:52]
+[Db9ppV] 吃DPG吗
+em
+
+[15:43:59]
+[Db9ppV] 吃DPG吗
+az
+
+[15:44:13]
+[44FF00] eebot
+ hey yooo 鱼不能吃
+
+[15:44:55]
+[44FF00] eebot
+ hello yoo 禁止更换昵称
+
+[15:45:21]
+[44FF00] eebot
+ hey yoooo 线圈和鱼哪个真好吃
+
+[15:45:53]
+[Db9ppV] 线圈和鱼哪个真好吃
+awa！
+
+[16:03:18]
+[44FF00] eebot
+ hi yo AlminiumUltra
+
+[16:09:41]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[16:09:41]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[16:09:54]
+[Admin] MelonFish_MacBookAir2018
+开幕雷击
+
+[16:09:59]
+[Admin] MelonFish_MacBookAir2018
+我准备来一波afk的更新
+
+[16:10:14]
+[f9Yi6H] Outlier
+哈哈哈哈
+
+[16:10:23]
+[f9Yi6H] Outlier
+啊啊啊
+
+[16:10:23]
+[Admin] MelonFish_MacBookAir2018
+解决之前重新加入可能出现重复的afk问题
+
+[16:10:31]
+[Admin] MelonFish_MacBookAir2018
+另外给我自己加入了一个可以允许外国ip进入的命令
+
+[16:11:16]
+[f9Yi6H] Outlier
+woooo~
+
+[16:11:36]
+[f9Yi6H] Outlier
+站长威武！
+
+[16:11:43]
+[f9Yi6H] Outlier
+威~武~
+
+[16:11:53]
+[f9Yi6H] Outlier
+威~武~威~武~威~武~
+
+[16:12:16]
+[f9Yi6H] Outlier
+警车来了
+
+[16:13:38]
+[44FF00] eebot
+ 0
+
+[16:13:38]
+[44FF00] eebot
+ ·
+13和ee的轻小说屋 old
+https://lidualhistory.mysxl.cn/
+
+[16:13:52]
+[pvzjspvz] 我是亲
+^readme
+
+[16:13:55]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[16:13:57]
+[Admin] MelonFish_MacBookAir2018
+^readme
+
+[16:14:09]
+[pvzjspvz] 我是亲
+xc
+
+[16:16:34]
+[Admin] MelonFish_MacBookAir2018
+xc
+
+[16:20:51]
+[f9Yi6H] Outlier
+？
+
+[16:25:41]
+[loveee] AlminiumUltra
+?
+
+[16:27:16]
+[loveee] AlminiumUltra
+wha
+
+[16:27:21]
+[f9Yi6H] Outlier
+走了
+
+[16:33:11]
+[f9Yi6H] Outlier
+拜
+
+[16:33:16]
+[Db9ppV] 线圈和鱼哪个真好吃
+。。
+
+[16:40:15]
+[Db9ppV] 线圈和鱼哪个真好吃
+xc
+
+[16:40:18]
+[Db9ppV] 禁止更换昵称
+？
+
+[16:44:26]
+[pvzjspvz] 我是亲
+https://convertio.co/zh/download/28a0978d91ffd04fd3883be78a44b5c996add5/ 特别推荐！！！
+
+[16:44:35]
+[44FF00] eebot
+ @我是亲 转换文件 — Convertio
+https://convertio.co/zh/download/28a0978d91ffd04fd3883be78a44b5c996add5/
+
+[16:44:35]
+[Db9ppV] 线圈和鱼哪个真好吃
+awa
+
+[16:44:48]
+[44FF00] eebot
+ OuO
+
+[16:44:48]
+[Db9ppV] 线圈和鱼哪个真好吃
+..
+
+[16:44:49]
+[Db9ppV] 线圈和鱼哪个真好吃
+...
+
+[16:50:15]
+[44FF00] eebot_524
+ QuQ eb的昵称卡在里面了
+
+[16:50:18]
+[Db9ppV] 禁止更换昵称
+...............
+
+[16:50:20]
+[Db9ppV] 禁止更换昵称
+.
+
+[16:50:22]
+[Admin] MelonFish_MacBookAir2018
+我为了可以加入一个禁用命令的命令
+
+[16:50:55]
+[Db9ppV] 禁止更换昵称
+？
+
+[16:51:01]
+[Admin] MelonFish_MacBookAir2018
+作死改了main
+
+[16:51:03]
+[Db9ppV] 线圈和鱼哪个真好吃
+^
+
+[16:51:09]
+[zhang] ZhangHelperS
+抱歉，这好像不在我的工作范围之内。
+
+[16:51:09]
+[Admin] MelonFish_MacBookAir2018
+就这个hc项目下最核心的MainServer.js
+
+[16:51:27]
+[44FF00] eebot
+ hi yoooo 线圈和鱼哪个更好吃
+
+[16:51:27]
+[Admin] MelonFish_MacBookAir2018
+祝我成功
+
+[16:51:30]
+[Db9ppV] 线圈和鱼哪个更好吃
+祝你成功
+
+[16:51:37]
+[Db9ppV] 线圈和鱼哪个更好吃
+。。。
+
+[16:51:54]
+[44FF00] eebot
+ hey yoo 线圈和鱼哪个都不能吃
+
+[16:51:55]
+[Db9ppV] 线圈和鱼哪个都不能吃
+em
+
+[16:54:00]
+[44FF00] eebot
+ hello yooooo 线圈和鱼哪个都要吃
+
+[16:54:00]
+[Db9ppV] 线圈和鱼哪个都要吃
+awa
+
+[16:54:04]
+[44FF00] eebot
+ x.x
+
+[16:54:04]
+[Db9ppV] 线圈和鱼哪个都要吃
+x.x
+
+[16:54:09]
+[44FF00] eebot
+ T^T
+
+[16:54:09]
+[Db9ppV] 线圈和鱼哪个都要吃
+T^T
+
+[16:54:12]
+[44FF00] eebot
+ o.o
+
+[16:54:12]
+[Db9ppV] 线圈和鱼哪个都要吃
+o.o
+
+[16:54:15]
+[44FF00] eebot
+ bo.od
+
+[16:54:15]
+[Db9ppV] 线圈和鱼哪个都要吃
+bo.od
+
+[16:54:18]
+[44FF00] eebot
+ QvQ
+
+[16:54:18]
+[Db9ppV] 线圈和鱼哪个都要吃
+。。
+
+[16:54:23]
+[Db9ppV] 禁止更换昵称
+啊哈
+
+[17:00:19]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[17:00:19]
+[love13] ee
+yep
+
+[17:01:11]
+[love13] ee
+考完了
+
+[17:01:16]
+[love13] ee
+芜湖
+
+[17:01:19]
+[love13] ee
+~~我这届肯定是历届中考最幸运的~~
+
+[17:01:33]
+[love13] ee
+所有试卷难度都不大
+
+[17:01:44]
+[Db9ppV] 禁止更换昵称
+awa
+
+[17:01:45]
+[loveee] AlminiumUltra
+ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+[17:02:24]
+[love13] ee
+ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+[17:02:43]
+[Db9ppV] 线圈和鱼哪个都要吃
+...
+
+[17:02:50]
+[Db9ppV] 线圈和鱼哪个都要吃
+awa
+
+[17:02:52]
+[44FF00] eebot
+ 0へ0
+
+[17:03:17]
+[44FF00] eebot
+ hey yo 线圈和鱼哪个更好吃
+
+[17:03:17]
+[Db9ppV] 线圈和鱼哪个更好吃
+awa
+
+[17:03:18]
+[Db9ppV] 线圈和鱼哪个更好吃
+awa
+
+[17:03:42]
+[44FF00] eebot
+ 0_0
+
+[17:03:42]
+[Db9ppV] 禁止更换昵称
+...
+
+[17:04:24]
+[love13] ee
+统计
+
+[17:05:16]
+[Db9ppV] 线圈和鱼哪个更好吃
+统计
+
+[17:07:32]
+[44FF00] eebot
+ 生日快乐
+
+[17:07:32]
+[Db9ppV] 线圈和鱼哪个更好吃
+不同的名字算在一个里面吗？
+
+[17:07:51]
+[Db9ppV] 线圈和鱼哪个更好吃
+？？？
+
+[17:08:00]
+[zzzzzz] 闇
+？见鬼
+
+[17:08:17]
+[zzzzzz] 闇
+DPG居然说人话了
+
+[17:08:28]
+[zr8srO] CX
+>44FF00 eebot：
+> 生日快乐
+
+@谢谢
+
+[17:08:52]
+[Db9ppV] 禁止更换昵称
+>zzzzzz 闇：
+>DPG居然说人话了
+
+@闇 DPG不是在挂机吗？
+
+[17:09:07]
+[zzzzzz] 闇
+等等你这识别码
+
+[17:09:23]
+[zzzzzz] 闇
+啊我眼瞎（
+
+[17:09:28]
+[Db9ppV] 线圈和鱼哪个更好吃
+em
+
+[17:09:29]
+[Db9ppV] 线圈和鱼哪个更好吃
+。。。
+
+[17:09:38]
+[pvzjspvz] 我是亲
+8
+
+[17:10:39]
+[zzzzzz] 闇
+诶
+
+[17:10:54]
+[44FF00] eebot
+ hello yoooo lmh
+
+[17:10:54]
+[Db9ppV] 线圈和鱼哪个更好吃
+awa
+
+[17:11:33]
+[44FF00] eebot
+ do_ob
+
+[17:11:33]
+[Admin] MelonFish_MacBookAir2018
+你好啊
+
+[17:11:37]
+[Admin] MelonFish_MacBookAir2018
+请问你是新用户吗
+
+[17:11:40]
+[Db9ppV] 线圈和鱼哪个更好吃
+em
+
+[17:11:43]
+[Db9ppV] 线圈和鱼哪个更好吃
+^hash lmh
+
+[17:11:50]
+[zhang] ZhangHelperS
+用户 lmh 的 hash 为：gHOE7AFjRafM4u2
+
+[17:11:50]
+[Db9ppV] 线圈和鱼哪个更好吃
+^oldgHOE7AFjRafM4u2
+
+[17:11:58]
+[zhang] ZhangHelperS
+抱歉，这好像不在我的工作范围之内。
+
+[17:11:58]
+[Admin] MelonFish_MacBookAir2018
+^old gHOE7AFjRafM4u2
+
+[17:11:58]
+[zhang] ZhangHelperS
+该 hash 曾用名：['lmh']
+
+[17:11:59]
+[Db9ppV] 线圈和鱼哪个更好吃
+嗯
+
+[17:12:05]
+[Db9ppV] 线圈和鱼哪个更好吃
+没错了
+
+[17:12:06]
+[Admin] MelonFish_MacBookAir2018
+可以在底部输入框输入验证码
+
+[17:12:20]
+[Admin] MelonFish_MacBookAir2018
+这样就可以发信息了
+
+[17:12:28]
+[Admin] MelonFish_MacBookAir2018
+@lmh
+
+[17:12:34]
+[zzzzzz] zzChumo
+统计
+
+[17:12:52]
+[Db9ppV] 线圈和鱼哪个更好吃
+em
+
+[17:12:56]
+[Admin] MelonFish_MacBookAir2018
+刚看到ee考完了啊
+祝贺祝贺
+
+[17:13:00]
+[Admin] MelonFish_MacBookAir2018
+终于能洒脱2个月了哈哈哈
+
+[17:13:10]
+[44FF00] eebot
+ ·
+13和ee的轻小说屋 old
+https://lidualhistory.mysxl.cn/
+
+[17:13:18]
+[Admin] MelonFish_MacBookAir2018
+话说MainServer.js改了之后是不是就不能用reload了
+
+[17:13:27]
+[Db9ppV] 线圈和鱼哪个更好吃
+em...
+
+[17:13:43]
+[44FF00] eebot
+ hello yoooo 名字
+
+[17:13:46]
+[Db9ppV] 线圈和鱼哪个更好吃
+能不能把识别码取消了awa~~~
+
+[17:14:09]
+[Admin] MelonFish_MacBookAir2018
+？
+
+[17:14:18]
+[44FF00] eebot
+ 生日快乐
+
+[17:14:18]
+[Admin] MelonFish_MacBookAir2018
+什么意思
+
+[17:14:31]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[17:14:31]
+[Db9ppV] 线圈和鱼哪个更好吃
+awa
+
+[17:14:35]
+[Db9ppV] 线圈和鱼哪个更好吃
+功能
+
+[17:14:56]
+[zhang] ZhangHelperS
+出错了！详细信息：不能在这个聊天室找到该用户
+
+[17:14:56]
+[zhang] ZhangHelperS
+出错了！详细信息：不能在聊天室找到该用户
+
+[17:14:57]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[17:15:24]
+[zr8srO] CX
+咋了鱼？
+
+[17:15:27]
+[love13] ee
+https://paperee.tk/
+
+[17:15:34]
+[44FF00] eebot
+ @ee 纸片君ee的个人主页｜PAPEREE
+https://paperee.tk/
+
+[17:15:34]
+[Admin] MelonFish_MacBookAir2018
+> ZhangHelperS#zhang banned 闇死初墨 in xq102210, userhash: jkc1SUOCpUuYz4Y
+
+[17:15:34]
+[Db9ppV] 线圈和鱼哪个更好吃
+呃
+
+[17:15:39]
+[love13] ee
+OK 更新了一下
+
+[17:15:40]
+[Db9ppV] 线圈和鱼哪个更好吃
+what？
+
+[17:16:38]
+[44FF00] eebot_84
+ QuQ eb的昵称卡在里面了
+
+[17:16:41]
+[love13] eee
+啊
+
+[17:17:13]
+[zr8srO] CX
+^read me
+
+[17:17:38]
+[zhang] ZhangHelperS
+抱歉，这好像不在我的工作范围之内。
+
+[17:17:38]
+[zr8srO] CX
+^hash @我是亲
+
+[17:18:26]
+[zhang] ZhangHelperS
+用户 @我是亲 的 hash 为：mD92D94U0KdMruU
+
+[17:18:26]
+[zr8srO] CX
+^old mD92D94U0KdMruU
+
+[17:18:36]
+[zhang] ZhangHelperS
+该 hash 曾用名：['PROTRCT', 'GetImZombieCreateGame', 'GetImZombieCreateGame2', 'PROTRCT测试', 'PROTRCT试', 'log', '金工街3号楼', '金工街2号楼', 'woshiqin', '我是亲', '__________________']
+
+[17:18:36]
+[Admin] MelonFish_MacBookAir2018
+我发现reload没办法重载主程序
+
+[17:18:45]
+[Admin] MelonFish_MacBookAir2018
+所以就是说我今晚得重启服务器
+
+[17:18:56]
+[Admin] MelonFish_MacBookAir2018
+第一次改mainserver哈哈哈
+
+[17:19:07]
+[zr8srO] CX
+啊这
+
+[17:19:08]
+[zzzzzz] zzChumo_Yami_Shi
+HOW TO FUCK FISH AND HIS LITTLE GUY???
+
+[17:19:20]
+[zr8srO] CX
+（考试考玩回来了）
+
+[17:19:27]
+[Admin] MelonFish_MacBookAir2018
+？？？
+
+[17:19:27]
+[Admin] MelonFish_MacBookAir2018
+>zr8srO CX：
+>（考试考玩回来了）
+
+@CX 我考完了
+
+[17:19:35]
+[zr8srO] CX
+hhh终于回来了
+
+[17:20:27]
+[zzzzzz] zzChumo_Yami_Shi
+人生＝くそ
+
+[17:21:52]
+[zzzzzz] zzChumo_Yami_Shi
+再启動
+
+[17:22:49]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[17:22:49]
+[zzzzzz] zzChumo_Yami_Shi
+自我杀戮
+
+[17:24:00]
+[zzzzzz] zzChumo_Yami_Shi
+仁義じゃない
+
+[17:24:40]
+[Db9ppV] 线圈和鱼哪个更好吃
+awa
+
+[17:24:47]
+[44FF00] eebot
+ ov0
+
+[17:24:47]
+[zzzzzz] zzChumo_Yami_Shi
+ＨＥＮＲＩＺＥ＝くそ
+
+[17:25:26]
+[Db9ppV] 线圈和鱼哪个更好吃
+各位
+
+[17:25:31]
+[Db9ppV] 线圈和鱼哪个更好吃
+* 主题： 结业式联欢
+* 公开课ID： e3pd6d7ag
+* 时间： 2022/06/28 16:00 (北京时间)
+* 点击链接： https://www.eeo.cn/s/k/?sn=e3pd6d7ag 或复制这段话打开【ClassIn】参加公开课
+
+[17:25:36]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[17:25:45]
+[Db9ppV] 线圈和鱼哪个更好吃
+帮忙搞事情
+
+[17:25:47]
+[Admin] MelonFish_MacBookAir2018
+classin
+
+[17:25:50]
+[Admin] MelonFish_MacBookAir2018
+离谱
+
+[17:25:53]
+[Db9ppV] 线圈和鱼哪个更好吃
+在里面刷屏
+
+[17:25:57]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[17:26:00]
+[Db9ppV] 线圈和鱼哪个更好吃
+现在梅老师
+
+[17:26:01]
+[Db9ppV] 线圈和鱼哪个更好吃
+没
+
+[17:26:03]
+[Admin] MelonFish_MacBookAir2018
+我怕被通报，我不干
+
+[17:26:17]
+[Db9ppV] 线圈和鱼哪个更好吃
+em...
+
+[17:26:38]
+[Db9ppV] 线圈和鱼哪个更好吃
+不会有记录的
+
+[17:26:48]
+[Db9ppV] 线圈和鱼哪个更好吃
+公开课
+
+[17:26:51]
+[Db9ppV] 线圈和鱼哪个更好吃
+开完就没了
+
+[17:26:55]
+[zzzzzz] zzChumo_Yami_Shi
+ｆｉｓｈ　おいしい
+
+[17:27:03]
+[Admin] MelonFish_MacBookAir2018
+算了影响不好哈哈哈
+
+[17:27:15]
+[Db9ppV] 线圈和鱼哪个更好吃
+那你进去打广告？
+
+[17:27:35]
+[Admin] MelonFish_MacBookAir2018
+@zzChumo_Yami_Shi chumo你有没有听说过一种东西叫翻译器
+这个东西人人都有
+
+[17:27:38]
+[Admin] MelonFish_MacBookAir2018
+>Db9ppV 线圈和鱼哪个更好吃：
+>那你进去打广告？
+
+@线圈和鱼哪个更好吃 然后老师来报复就是另一回事儿了
+
+[17:27:54]
+[zzzzzz] zzChumo_Yami_Shi
+ヘンリゼ
+
+[17:27:54]
+[Admin] MelonFish_MacBookAir2018
+等等，老师来报复
+那有没有一种可能我可以给hc打广告先看看效果
+
+[17:28:09]
+[Admin] MelonFish_MacBookAir2018
+哈哈哈哈哈哈哈哈哈
+
+[17:28:10]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈哈
+
+[17:28:11]
+[Db9ppV] 线圈和鱼哪个更好吃
+>Admin MelonFish_MacBookAir2018：
+>>Db9ppV 线圈和鱼哪个更好吃：
+>>那你进去打广告？
+>
+>@线圈和鱼哪个更好吃 然后老师来报复就是另一回事儿了
+
+@MelonFish_MacBookAir2018 老师已经退了，进不来了
+
+[17:28:23]
+[Admin] MelonFish_MacBookAir2018
+那我还等什么
+
+[17:28:33]
+[44FF00] eebot
+ hi yooooo zqz
+
+[17:28:33]
+[Admin] MelonFish_MacBookAir2018
+^hash zqz
+
+[17:28:49]
+[zhang] ZhangHelperS
+用户 zqz 的 hash 为：eRNzjtIBPf2EKTa
+
+[17:28:56]
+[44FF00] eebot
+ hello yo lmh
+
+[17:28:56]
+[Admin] MelonFish_MacBookAir2018
+^old eRNzjtIBPf2EKTa
+
+[17:28:56]
+[zhang] ZhangHelperS
+该 hash 曾用名：['CX', '名字', 'zqz']
+
+[17:28:56]
+[Admin] MelonFish_MacBookAir2018
+em
+
+[17:29:16]
+[44FF00] eebot
+ 生日快乐
+
+[17:29:16]
+[zzzzzz] zzChumo_Yami_Shi
+@MelonFish_MacBookAir2018 u fw
+
+[17:29:54]
+[zr8srO] CX
+刚刚教同学而已
+
+[17:30:14]
+[CUYn/+] lmh
+啊，我第一次来，有点小害怕
+
+[17:30:48]
+[Db9ppV] 线圈和鱼哪个更好吃
+hhh
+
+[17:31:13]
+[Admin] MelonFish_MacBookAir2018
+qswl垃圾classin不能网页访问
+
+[17:31:17]
+[Db9ppV] 线圈和鱼哪个更好吃
+嗯
+
+[17:31:22]
+[Admin] MelonFish_MacBookAir2018
+@lmh 你好啊
+
+[17:31:24]
+[zzzzzz] zzChumo_Yami_Shi
+@MelonFish_MacBookAir2018 気付いた気付いた気付いた
+
+[17:31:27]
+[CUYn/+] lmh
+你好你好
+
+[17:31:28]
+[Admin] MelonFish_MacBookAir2018
+@lmh 请问你是从hc来的吗
+
+[17:31:38]
+[Db9ppV] 线圈和鱼哪个更好吃
+>CUYn/+ lmh：
+>啊，我第一次来，有点小害怕
+
+@lmh 你只要刷屏、冒充机器人就行了
+
+[17:31:59]
+[CUYn/+] lmh
+不是诶
+
+[17:32:04]
+[Db9ppV] 线圈和鱼哪个更好吃
+然后就会被ban
+
+[17:32:06]
+[Db9ppV] 线圈和鱼哪个更好吃
+ban完了以后就不害怕了
+
+[17:32:14]
+[CUYn/+] lmh
+。
+
+[17:32:17]
+[Admin] MelonFish_MacBookAir2018
+@线圈和鱼哪个更好吃 说什么呢别赶新用户啊
+
+[17:32:21]
+[zr8srO] CX
+@线圈和鱼哪个更好吃 别教坏孩子！
+
+[17:32:22]
+[Admin] MelonFish_MacBookAir2018
+@lmh 不用理他
+
+[17:32:25]
+[CUYn/+] lmh
+哦哦
+
+[17:32:31]
+[Admin] MelonFish_MacBookAir2018
+@lmh 对了，记得把这里添加到收藏夹哦，以后常来
+
+[17:32:34]
+[zr8srO] CX
+^hash @线圈和鱼哪个更好吃 
+
+[17:32:36]
+[zhang] ZhangHelperS
+用户 @线圈和鱼哪个更好吃 的 hash 为：Fe9K0t8dKWmQxpC
+
+[17:32:36]
+[Db9ppV] 线圈和鱼哪个更好吃
+。。。
+
+[17:32:45]
+[CUYn/+] lmh
+懂懂懂
+
+[17:32:50]
+[44FF00] eebot
+ 生日快乐
+
+[17:32:50]
+[Db9ppV] 线圈和鱼哪个更好吃
+az
+
+[17:32:51]
+[zzzzzz] zzChumo_Yami_Shi
+@lmh 说吧，这里给了你多少钱
+
+[17:32:54]
+[zr8srO] CX
+^old Fe9K0t8dKWmQxpC
+
+[17:32:54]
+[zhang] ZhangHelperS
+该 hash 曾用名：['O5_6', 'O5_7', '吃鱼吗', '吃线圈吗', '吃柠檬鱼吗', '吃DPG吗', '鱼不能吃', '禁止更换昵称', '线圈和鱼哪个真好吃', '线圈和鱼哪个更好吃', '线圈和鱼哪个都不能吃', '线圈和鱼哪个都要吃']
+
+[17:32:54]
+[CUYn/+] lmh
+？
+
+[17:32:58]
+[Db9ppV] 线圈和鱼哪个更好吃
+换hash了
+
+[17:33:06]
+[CUYn/+] lmh
+给我多少钱？
+
+[17:33:07]
+[44FF00] eebot
+ 有这么夸张?
+
+[17:33:07]
+[Db9ppV] 线圈和鱼哪个更好吃
+不知道为什么
+
+[17:33:09]
+[zzzzzz] zzChumo_Yami_Shi
+我zzChat给你双倍
+
+[17:33:13]
+[CUYn/+] lmh
+哈？
+
+[17:33:18]
+[Admin] MelonFish_MacBookAir2018
+@zzChumo_Yami_Shi 咳咳咳
+
+[17:33:18]
+[zzzzzz] zzChumo_Yami_Shi
+https://zzchat.cf/
+
+[17:33:27]
+[CUYn/+] lmh
+有点听不懂
+
+[17:33:27]
+[Admin] MelonFish_MacBookAir2018
+@lmh 没啥，~~chumo思想有点问题~~
+
+[17:33:29]
+[zzzzzz] zzChumo_Yami_Shi
+@MelonFish_MacBookAir2018 nmsl
+
+[17:33:36]
+[CUYn/+] lmh
+。。
+
+[17:33:39]
+[Admin] MelonFish_MacBookAir2018
+@lmh chumo也有聊天室，是基于这个网站二次开发的
+
+[17:33:51]
+[Db9ppV] 线圈和鱼哪个更好吃
+嗯
+
+[17:33:55]
+[Admin] MelonFish_MacBookAir2018
+因为这里是开源的
+
+[17:34:08]
+[zzzzzz] zzChumo_Yami_Shi
+这个网站？
+
+[17:34:22]
+[CUYn/+] lmh
+都是大佬
+
+[17:34:28]
+[zzzzzz] zzChumo_Yami_Shi
+xsl装nm呢
+
+[17:34:30]
+[Db9ppV] 线圈和鱼哪个更好吃
+。。。
+
+[17:34:37]
+[Admin] MelonFish_MacBookAir2018
+@zzChumo_Yami_Shi ？？？
+
+[17:34:38]
+[zzzzzz] zzChumo_Yami_Shi
+我是基于hc开发的
+
+[17:34:39]
+[Db9ppV] 线圈和鱼哪个更好吃
+az
+
+[17:34:42]
+[Admin] MelonFish_MacBookAir2018
+那为啥页面上要用我的图标
+
+[17:34:54]
+[Admin] MelonFish_MacBookAir2018
+xswl
+
+[17:34:58]
+[Db9ppV] 线圈和鱼哪个更好吃
+嗯
+
+[17:35:04]
+[Db9ppV] 线圈和鱼哪个更好吃
+好奇怪
+
+[17:35:06]
+[zzzzzz] zzChumo_Yami_Shi
+>Admin MelonFish_MacBookAir2018：
+>那为啥页面上要用我的图标
+
+@MelonFish_MacBookAir2018 前端基于XClient
+
+[17:35:19]
+[Admin] MelonFish_MacBookAir2018
+xswl用个页面不是用一样
+
+[17:35:21]
+[Db9ppV] 线圈和鱼哪个更好吃
+还有为什么昨天我在那被ban了
+
+[17:35:22]
+[Db9ppV] 线圈和鱼哪个更好吃
+还被ban了两次
+
+[17:35:32]
+[Admin] MelonFish_MacBookAir2018
+@线圈和鱼哪个更好吃 ~~chumo的任性~~
+
+[17:35:40]
+[zzzzzz] zzChumo_Yami_Shi
+@MelonFish_MacBookAir2018 小老弟我搁着抢你用户呢
+
+[17:35:41]
+[Admin] MelonFish_MacBookAir2018
+好家伙你还挺正大光明
+
+[17:36:03]
+[love13] eee
+嘶 啊 这 不是
+
+[17:36:04]
+[zzzzzz] zzChumo_Yami_Shi
+>Admin MelonFish_MacBookAir2018：
+>@线圈和鱼哪个更好吃 ~~chumo的任性~~
+
+@MelonFish_MacBookAir2018 刷你一屏幕的awa你能忍？
+
+[17:36:09]
+[Admin] MelonFish_MacBookAir2018
+。。。
+
+[17:36:19]
+[zzzzzz] zzChumo_Yami_Shi
+awa
+
+[17:36:20]
+[zzzzzz] zzChumo_Yami_Shi
+awa
+
+[17:36:21]
+[zzzzzz] zzChumo_Yami_Shi
+awa
+
+[17:36:23]
+[44FF00] eebot
+ 0vo
+
+[17:36:23]
+[zzzzzz] zzChumo_Yami_Shi
+awa
+
+[17:36:24]
+[44FF00] eebot
+ O-O
+
+[17:36:24]
+[zzzzzz] zzChumo_Yami_Shi
+awa
+
+[17:36:25]
+[zzzzzz] zzChumo_Yami_Shi
+就酱紫
+
+[17:36:31]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[17:36:36]
+[Db9ppV] 线圈和鱼哪个更好吃
+好家伙*2
+
+[17:36:47]
+[CUYn/+] lmh
+eee
+
+[17:36:53]
+[CUYn/+] lmh
+？
+
+[17:36:58]
+[zzzzzz] zzChumo_Yami_Shi
+我初墨今天在这里说了
+
+[17:37:00]
+[zzzzzz] zzChumo_Yami_Shi
+我抢不到这个用户
+
+[17:37:06]
+[zzzzzz] zzChumo_Yami_Shi
+鱼就是个傻逼
+
+[17:37:11]
+[Admin] MelonFish_MacBookAir2018
+？？？？？
+
+[17:37:17]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[17:37:18]
+[Admin] MelonFish_MacBookAir2018
+你是个人才
+
+[17:37:21]
+[CUYn/+] lmh
+狠人
+
+[17:37:33]
+[Admin] MelonFish_MacBookAir2018
+@lmh ~~chumo思想不正常，我都见怪不怪了~~
+
+[17:37:51]
+[CUYn/+] lmh
+好吧好吧
+
+[17:37:58]
+[zzzzzz] zzChumo_Yami_Shi
+@MelonFish_MacBookAir2018 你妈？
+
+[17:38:01]
+[Admin] MelonFish_MacBookAir2018
+看到了吗
+
+[17:38:06]
+[love13] eee
+@lmh hi yo 欢迎
+
+[17:38:15]
+[Admin] MelonFish_MacBookAir2018
+BI-
+
+[17:38:16]
+[44FF00] eebot
+ 请勿留空哦
+
+[17:38:16]
+[zzzzzz] zzChumo_Yami_Shi
+我跨纬度打击你信不信（
+
+[17:38:18]
+[Admin] MelonFish_MacBookAir2018
+要不我先来？changeuserni......
+
+[17:38:40]
+[zzzzzz] zzChumo_Yami_Shi
+我要到维度Z做掉你
+
+[17:38:42]
+[Db9ppV] 线圈和鱼哪个更好吃
+？
+
+[17:38:48]
+[Admin] MelonFish_MacBookAir2018
+chumo沉浸在幻想中
+
+[17:38:54]
+[Db9ppV] 线圈和鱼哪个更好吃
+hhh
+
+[17:39:42]
+[Db9ppV] 线圈和鱼哪个更好吃
+。。。
+
+[17:40:12]
+[Admin] MelonFish_MacBookAir2018
+我去b站找个好玩的视频
+
+[17:40:23]
+[zzzzzz] zzChumo_Yami_Shi
+维度Z的三次元访问地址：https://zzchat.cf/
+
+[17:40:29]
+[Admin] MelonFish_MacBookAir2018
+我发现屏蔽指定内容刻不容缓
+
+[17:40:56]
+[Db9ppV] 线圈和鱼哪个更好吃
+>zzzzzz zzChumo_Yami_Shi：
+>>Admin MelonFish_MacBookAir2018：
+>>@线圈和鱼哪个更好吃 ~~chumo的任性~~
+>
+>@MelonFish_MacBookAir2018 刷你一屏幕的awa你能忍？
+
+@zzChumo_Yami_Shi 还有awawa
+
+[17:41:00]
+[Admin] MelonFish_MacBookAir2018
+好主意，新功能
+
+[17:41:03]
+[44FF00] eebot
+ （考试考玩回来了）
+
+[17:41:03]
+[Db9ppV] 线圈和鱼哪个更好吃
+>zzzzzz zzChumo_Yami_Shi：
+>>Admin MelonFish_MacBookAir2018：
+>>@线圈和鱼哪个更好吃 ~~chumo的任性~~
+>
+>@MelonFish_MacBookAir2018 刷你一屏幕的awa你能忍？
+
+@zzChumo_Yami_Shi 再说还没到一屏幕，你放大了吧
+
+[17:41:21]
+[zzzzzz] zzChumo_Yami_Shi
+我域名和SSL证书都是白嫖的
+
+[17:41:45]
+[zzzzzz] zzChumo_Yami_Shi
+（自豪
+
+[17:41:47]
+[Db9ppV] 线圈和鱼哪个更好吃
+awa
+
+[17:41:51]
+[Admin] MelonFish_MacBookAir2018
+我服务器都是白嫖kzw的
+
+[17:42:04]
+[zzzzzz] zzChumo_Yami_Shi
+@柯尊旺
+
+[17:42:13]
+[zzzzzz] zzChumo_Yami_Shi
+xsl根本用不着whois直接查ICP就行了
+
+[17:42:59]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[17:43:15]
+[love13] eee
+咳咳
+
+[17:43:17]
+[44FF00] eebot
+ 咳咳咳
+
+[17:43:18]
+[Db9ppV] 线圈和鱼哪个更好吃
+awa
+
+[17:43:26]
+[44FF00] eebot
+ uvu
+
+[17:44:05]
+[44FF00] eebot
+ hi yoo 线圈还是鱼这是一个问题
+
+[17:44:06]
+[Db9ppV] 线圈还是鱼这是一个问题
+awa
+
+[17:44:13]
+[44FF00] eebot
+ 。.。
+
+[17:44:15]
+[zzzzzz] zzChumo_Yami_Shi
+我是把站点交给Cloudflare代理
+
+[17:44:16]
+[love13] eee
+~~选鱼~~
+
+[17:44:17]
+[Db9ppV] 线圈还是鱼这是一个问题
+em
+
+[17:44:22]
+[Db9ppV] 线圈还是鱼这是一个问题
+吃鱼
+
+[17:44:34]
+[44FF00] eebot
+ hey yoooo 那就吃鱼吧
+
+[17:44:34]
+[Db9ppV] 那就吃鱼吧
+hhh
+
+[17:44:38]
+[zzzzzz] zzChumo_Yami_Shi
+然后使用免费的（同时不被信任）通用SSL
+
+[17:44:45]
+[Db9ppV] 线圈还是鱼这是一个问题
+awa
+
+[17:45:00]
+[44FF00] eebot
+ u︵u
+
+[17:45:00]
+[zzzzzz] zzChumo_Yami_Shi
+然后你就有一个HTTPS站点了
+
+[17:45:05]
+[Db9ppV] 线圈还是鱼这是一个问题
+。。。awa。。。
+
+[17:46:11]
+[zzzzzz] zzChumo_Yami_Shi
+死亡·黑暗·初墨
+
+[17:46:57]
+[zzzzzz] zzChumo_Yami_Shi
+死·闇·チュモ
+
+[17:47:31]
+[Db9ppV] 那就吃鱼吧
+？
+
+[17:48:02]
+[Db9ppV] 那就吃鱼吧
+。。。
+
+[17:48:03]
+[Db9ppV] 线圈还是鱼这是一个问题
+。
+
+[17:48:12]
+[44FF00] eebot
+ 如果站长看到的话请给个管理员
+
+[17:48:12]
+[Db9ppV] 线圈还是鱼这是一个问题
+。
+
+[17:48:15]
+[TmzAyN] 钓鱼的Qwer
+.
+
+[17:48:40]
+[zzzzzz] zzChumo_Yami_Shi
+E-如果站长看到的话请给个站长
+
+[17:48:55]
+[Db9ppV] 线圈还是鱼这是一个问题
+。
+
+[17:48:55]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[17:48:55]
+[zzzzzz] zzChumo_Yami_Shi
+.
+
+[17:49:13]
+[44FF00] eebot
+ 如果站长看到的话请给个站长
+
+[17:49:13]
+[Db9ppV] 线圈还是鱼这是一个问题
+E-^tripmsg Admin 给O5_6一个站长
+
+[17:49:38]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[17:49:47]
+[love13] eee
+hi yo
+
+[17:49:54]
+[44FF00] eebot
+ ^tripmsg Admin 给O5_6一个站长
+
+[17:49:54]
+[love13] eee
+《人皆站长》
+
+[17:49:55]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[17:50:00]
+[TmzAyN] 钓鱼的Qwer
+E-如果站长看到的话请不要给@zzChumo_Yami_Shi @线圈还是鱼这是一个问题和 O5_6站长
+
+[17:50:14]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[17:50:19]
+[44FF00] eebot
+ 如果站长看到的话请不要给@zzChumo_Yami_Shi @线圈还是鱼这是一个问题和 O5_6站长
+
+[17:50:19]
+[TmzAyN] 钓鱼的Qwer
+呵
+
+[17:50:23]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[17:50:30]
+[TmzAyN] 钓鱼的Qwer
+^help
+
+[17:50:31]
+[Db9ppV] 那就吃鱼吧
+^tripmsg Admin 给O5_6一个站长
+
+[17:50:37]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 Admin 的用户上线时，我会第一时间通知他。
+
+[17:50:37]
+[Db9ppV] 那就吃鱼吧
+em
+
+[17:50:49]
+[zzzzzz] zzChumo_Yami_Shi
+@MelonFish_MacBookAir2018 请问我可以用1亿元的价格继承XChat吗
+
+[17:50:51]
+[Db9ppV] 那就吃鱼吧
+为什么eb不行
+
+[17:51:01]
+[TmzAyN] 钓鱼的Qwer
+你们都太逊了
+
+[17:51:01]
+[44FF00] eebot
+ ^tripmsg Admin 给O5_6一个站长
+
+[17:51:01]
+[TmzAyN] 钓鱼的Qwer
+看我的
+
+[17:51:04]
+[Admin] MelonFish_MacBookAir2018
+@zzChumo_Yami_Shi 如果是人民币那可以
+
+[17:51:07]
+[TmzAyN] 钓鱼的Qwer
+^kick MelonFish_MacBookAir2018 
+
+[17:51:22]
+[zhang] ZhangHelperS
+出错了！详细信息：Cannot kick other users with the same level, how rude
+
+[17:51:23]
+[Db9ppV] O5_6
+为什么eb留不了言
+
+[17:51:27]
+[Admin] MelonFish_MacBookAir2018
+@钓鱼的Qwer how rude
+
+[17:51:34]
+[love13] eee
+>Db9ppV 那就吃鱼吧：
+>为什么eb不行
+
+@那就吃鱼吧 这是收费服务 需要999充值vip
+
+[17:51:35]
+[Db9ppV] O5_6
+^tripmsg Admin 给O5_6一个站长
+
+[17:51:39]
+[zhang] ZhangHelperS
+我记下来了，当识别码为 Admin 的用户上线时，我会第一时间通知他。
+
+[17:51:40]
+[love13] eee
+~~不是~~
+
+[17:51:42]
+[zzzzzz] zzChumo_Yami_Shi
+# @MelonFish_MacBookAir2018 请问我可以用1亿元的价格继承XChat吗
+
+[17:51:44]
+[TmzAyN] 钓鱼的Qwer
+。
+
+[17:51:52]
+[zzzzzz] zzChumo_Yami_Shi
+（合约1元人民币
+
+[17:51:57]
+[TmzAyN] 钓鱼的Qwer
+1亿元
+
+[17:51:58]
+[Admin] MelonFish_MacBookAir2018
+@zzChumo_Yami_Shi 如果是人1亿元民币那可以
+
+[17:52:10]
+[TmzAyN] 钓鱼的Qwer
+# 我出两亿
+
+[17:52:16]
+[love13] eee
+草啊
+
+[17:52:19]
+[Admin] MelonFish_MacBookAir2018
+@zzChumo_Yami_Shi 可以给你优惠一下，只要500万人民币
+
+[17:52:25]
+[TmzAyN] 钓鱼的Qwer
+zz快给鱼发病毒
+
+[17:52:50]
+[Admin] MelonFish_MacBookAir2018
+@钓鱼的Qwer 他之前好像真的法国
+
+[17:53:04]
+[Admin] MelonFish_MacBookAir2018
+发过
+
+[17:53:05]
+[zzzzzz] zzChumo_Yami_Shi
+# 我出5亿~~津巴布韦~~
+
+[17:53:09]
+[TmzAyN] 钓鱼的Qwer
+我出5。1亿
+
+[17:53:26]
+[zzzzzz] zzChumo_Yami_Shi
+>Admin MelonFish_MacBookAir2018：
+>@钓鱼的Qwer 他之前好像真的法国
+
+@MelonFish_MacBookAir2018 ？少血口喷人
+
+[17:53:32]
+[44FF00] eebot
+ hi yo lmh
+
+[17:53:33]
+[love13] eee
+hi yoo
+
+[17:53:46]
+[Db9ppV] O5_6
+em
+
+[17:54:01]
+[Admin] MelonFish_MacBookAir2018
+3522989津巴布韦可以
+
+[17:54:11]
+[TmzAyN] 钓鱼的Qwer
+# zzChumo：如果手机在身边就发病毒了
+
+[17:54:12]
+[TmzAyN] 钓鱼的Qwer
+是不是你说的
+
+[17:54:20]
+[Db9ppV] O5_6
+有个问题
+
+[17:54:21]
+[Admin] MelonFish_MacBookAir2018
+等等，少5个0
+
+[17:54:24]
+[TmzAyN] 钓鱼的Qwer
+问
+
+[17:54:26]
+[zzzzzz] zzChumo_Yami_Shi
+>TmzAyN 钓鱼的Qwer：
+>是不是你说的
+
+@钓鱼的Qwer ？我现在就在用手机啊
+
+[17:54:32]
+[Db9ppV] O5_6
+改编开源项目换钱，这合法吗？
+
+[17:54:36]
+[Admin] MelonFish_MacBookAir2018
+@O5_6 要看许可证
+
+[17:54:47]
+[Db9ppV] O5_6
+awa
+
+[17:54:57]
+[zzzzzz] zzChumo_Yami_Shi
+>Db9ppV O5_6：
+>改编开源项目换钱，这合法吗？
+
+@O5_6 具体看源项目的协议
+
+[17:54:57]
+[44FF00] eebot
+ 怀揣着梦想 向着朝阳
+
+[17:54:57]
+[Admin] MelonFish_MacBookAir2018
+我的许可证要求是要同时开源（好像是）
+
+[17:55:00]
+[TmzAyN] 钓鱼的Qwer
+# 这TM是违法法律----罗翔
+
+[17:55:09]
+[zzzzzz] zzChumo_Yami_Shi
+笑死了
+
+[17:55:12]
+[Admin] MelonFish_MacBookAir2018
+并且我的文档里写需要在主页标注线圈
+
+[17:55:22]
+[zzzzzz] zzChumo_Yami_Shi
+zzChat Premium同时开源和收费
+
+[17:55:29]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[17:55:34]
+[Admin] MelonFish_MacBookAir2018
+~~不完整开源~~
+
+[17:55:44]
+[zzzzzz] zzChumo_Yami_Shi
+仓库地址：https://github.com/zzChumo/zzChat-Online
+
+[17:56:12]
+[44FF00] eebot
+ @zzChumo_Yami_Shi GitHub - zzChumo/zzChat-Online: zzChat Premium的开源仓库。 https://zzchumo.github.io/zzChat-Online
+https://github.com/zzChumo/zzChat-Online
+
+[17:56:12]
+[Db9ppV] O5_6
+![](https://i-s2.328888.xyz/2022/06/28/62bad040427e8.jpg)
+
+[17:56:39]
+[TmzAyN] 钓鱼的Qwer
+$\kern{-11em}\color{gold}VVVVVVVVVVVVVVVIP$
+
+[17:57:04]
+[TmzAyN] 钓鱼的Qwer
+$\kern{-15em}\color{gold}VVVVVVVVVVVVVVVIP$
+
+[17:57:04]
+[44FF00] eebot
+ 征稿启事 谁来起个名字 给一个团队
+
+[17:57:04]
+[TmzAyN] 钓鱼的Qwer
+$\kern{-20em}\color{gold}VVVVVVVVVVVVVVVIP$
+
+[17:57:13]
+[TmzAyN] 钓鱼的Qwer
+$\kern{-25em}\color{gold}VVVVVVVVVVVVVVVIP$
+
+[17:57:17]
+[Admin] MelonFish_MacBookAir2018
+@钓鱼的Qwer what are you doing?
+
+[17:57:20]
+[TmzAyN] 钓鱼的Qwer
+$\kern{-26em}\color{gold}VVVVVVVVVVVVVVVIP$
+
+[17:57:20]
+[TmzAyN] 钓鱼的Qwer
+$\kern{-26em}\color{gold}VVVVVVVVVVVVVVVIP$我是
+
+[17:57:30]
+[QiuLingYan] QiuLingYan秋凌烟
+E-/kick eebot
+
+[17:57:41]
+[TmzAyN] 钓鱼的Qwer
+$\kern{-26em}\color{gold}VVVVVVVVVVVVVVVIP$VVVVVVVVVVVVVVVVVVVVVVVVVVIP玩家
+
+[17:57:42]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[17:57:42]
+[zzzzzz] zzChumo_Yami_Shi
+@MelonFish_MacBookAir2018 what the fuck did u say?
+
+[17:57:48]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[17:58:00]
+[Admin] MelonFish_MacBookAir2018
+modbot
+
+[17:58:01]
+[QiuLingYan] QiuLingYan秋凌烟
+az
+
+[17:58:11]
+[QiuLingYan] QiuLingYan秋凌烟
+@MelonFish_MacBookAir2018 
+
+[17:58:27]
+[Admin] MelonFish_MacBookAir2018
+@zzChumo_Yami_Shi what the f**k did u just say to me?
+
+[17:58:29]
+[QiuLingYan] QiuLingYan秋凌烟
+域名
+
+[17:58:30]
+[Admin] MelonFish_MacBookAir2018
+@QiuLingYan秋凌烟 哦哦哦我去找kzw
+
+[17:58:40]
+[zzzzzz] zzChumo_Yami_Shi
+@MelonFish_MacBookAir2018 你妈是仓鼠
+
+[17:58:40]
+[TmzAyN] 钓鱼的Qwer
+嘶
+
+[17:58:45]
+[QiuLingYan] QiuLingYan秋凌烟
+@MelonFish_MacBookAir2018 hiyoteam
+
+[17:58:51]
+[CUYn/+] lmh
+18+12是等于42吗
+
+[17:59:01]
+[QiuLingYan] QiuLingYan秋凌烟
+hiyoteam.kzw.ink
+
+[17:59:01]
+[Admin] MelonFish_MacBookAir2018
+@QiuLingYan秋凌烟 hiyo.kzw.ink还是hiyoteam.kzw.ink
+
+[17:59:03]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[17:59:04]
+[Admin] MelonFish_MacBookAir2018
+>CUYn/+ lmh：
+>18+12是等于42吗
+
+@lmh 好家伙
+
+[17:59:10]
+[QiuLingYan] QiuLingYan秋凌烟
+@MelonFish_MacBookAir2018 az
+
+[17:59:11]
+[QiuLingYan] QiuLingYan秋凌烟
+等等
+
+[17:59:18]
+[44FF00] eebot
+ 等等等
+
+[17:59:18]
+[TmzAyN] 钓鱼的Qwer
+# Your mother was a hamster.
+
+[17:59:19]
+[CUYn/+] lmh
+？
+
+[17:59:27]
+[QiuLingYan] QiuLingYan秋凌烟
+@MelonFish_MacBookAir2018 我得问问他们
+
+[17:59:32]
+[love13] eee
+>CUYn/+ lmh：
+>18+12是等于42吗
+
+@lmh 是的 完 全 没 错
+
+[17:59:33]
+[TmzAyN] 钓鱼的Qwer
+# I will report you to the internet police, sir.
+
+[17:59:34]
+[Admin] MelonFish_MacBookAir2018
+@钓鱼的Qwer 不要连续发送这么大的文字
+
+[17:59:43]
+[CUYn/+] lmh
+嗯好
+
+[17:59:44]
+[TmzAyN] 钓鱼的Qwer
+No. But nice try.
+
+[17:59:50]
+[CUYn/+] lmh
+等会我教我妹
+
+[17:59:51]
+[zzzzzz] zzChumo_Yami_Shi
+>TmzAyN 钓鱼的Qwer：
+># I will report you to the internet police, sir.
+
+@钓鱼的Qwer 冷知识：中国称Cyber Police
+
+[18:00:03]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[18:00:09]
+[TmzAyN] 钓鱼的Qwer
+。。。。。。。。。。。
+
+[18:00:14]
+[TmzAyN] 钓鱼的Qwer
+Die.
+
+[18:00:25]
+[Db9ppV] O5_6
+?
+
+[18:00:34]
+[love13] eee
+好家伙
+
+[18:00:39]
+[TmzAyN] 钓鱼的Qwer
+# That's enough！！！！！！！！！！！！！！
+
+[18:00:48]
+[zzzzzz] zzChumo_Yami_Shi
+# xdm支付宝转我三块钱我去买两袋干脆面
+
+[18:01:18]
+[TmzAyN] 钓鱼的Qwer
+。
+
+[18:01:23]
+[CUYn/+] lmh
+。
+
+[18:01:31]
+[TmzAyN] 钓鱼的Qwer
+# 支付宝到账：3元
+
+[18:01:48]
+[zzzzzz] zzChumo_Yami_Shi
+https://zzchumo.github.io/zzChat-Online/love.html
+
+[18:02:08]
+[44FF00] eebot
+ @zzChumo_Yami_Shi zzChat
+https://zzchumo.github.io/zzChat-Online/love.html
+
+[18:02:08]
+[zzzzzz] zzChumo_Yami_Shi
+就在里面转
+
+[18:02:18]
+[zzzzzz] zzChumo_Yami_Shi
+转完就行
+
+[18:02:26]
+[zzzzzz] zzChumo_Yami_Shi
+《赛博乞丐》
+
+[18:03:03]
+[Db9ppV] O5_6
+m
+
+[18:03:05]
+[TmzAyN] 钓鱼的Qwer
+# 黑茶，即DarkT，刷屏爆破XChat后消失，其网页也无法访问。
+
+[18:03:05]
+[Db9ppV] O5_6
+awa?
+
+[18:03:39]
+[TmzAyN] 钓鱼的Qwer
+# 您的余e不足
+
+[18:03:54]
+[love13] eee
+咳咳 
+
+[18:04:03]
+[TmzAyN] 钓鱼的Qwer
+# 您的余eee不足
+
+[18:04:13]
+[love13] eee
+我有3e（自豪
+
+[18:04:28]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[18:04:31]
+[Admin] MelonFish_MacBookAir2018
+真·三e
+
+[18:04:42]
+[love13] eee
+哈哈哈哈哈哈哈哈
+
+[18:04:47]
+[zzzzzz] zzChumo_Yami_Shi
+![alipay.jpg](https://zzchumo.github.io/zzChat-Online/alipay.jpg)
+
+[18:04:52]
+[love13] eee
+咳咳
+
+[18:04:54]
+[Admin] MelonFish_MacBookAir2018
+@eee 找个网不太好的地方，你还能有15e
+
+[18:04:57]
+[CUYn/+] lmh
+。。。。
+
+[18:05:03]
+[TmzAyN] 钓鱼的Qwer
+# Oh shit
+
+[18:05:04]
+[zzzzzz] zzChumo_Yami_Shi
+# xdm转点钱我买包干脆面
+
+[18:05:10]
+[zzzzzz] zzChumo_Yami_Shi
+![alipay.jpg](https://zzchumo.github.io/zzChat-Online/alipay.jpg)
+
+[18:05:12]
+[TmzAyN] 钓鱼的Qwer
+我要把zz踢了
+
+[18:05:16]
+[CUYn/+] lmh
+我擦？
+
+[18:05:16]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[18:05:18]
+[love13] eeeeeeeeeeeeeeeeeeeeeeee
+咳咳 24e
+
+[18:05:19]
+[Admin] MelonFish_MacBookAir2018
+不要重复发送太大的内容
+
+[18:05:21]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[18:05:22]
+[TmzAyN] 钓鱼的Qwer
+我要把zz踢了
+
+[18:05:26]
+[love13] eeeeeeeeeeeeeeeeeeeeeeee
+咳咳
+
+[18:05:28]
+[44FF00] eebot
+ 咳咳咳
+
+[18:05:28]
+[zzzzzz] zzChumo_Yami_Shi
+h
+
+[18:05:31]
+[zzzzzz] zzChumo_Yami_Shi
+![alipay.jpg](https://zzchumo.github.io/zzChat-Online/alipay.jpg)
+
+[18:05:36]
+[Admin] MelonFish_MacBookAir2018
+ee走上人生巅峰
+
+[18:05:36]
+[Admin] MelonFish_MacBookAir2018
+@zzChumo_Yami_Shi 咳咳咳
+
+[18:05:40]
+[TmzAyN] 钓鱼的Qwer
+^help
+
+[18:05:45]
+[TmzAyN] 钓鱼的Qwer
+^kick @zzChumo_Yami_Shi 
+
+[18:05:59]
+[CUYn/+] lmh
+这是能发的吗
+
+[18:06:08]
+[TmzAyN] 钓鱼的Qwer
+# hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+[18:06:09]
+[Admin] MelonFish_MacBookAir2018
+@lmh 你说这些奇奇怪怪得文字
+
+[18:06:16]
+[Admin] MelonFish_MacBookAir2018
+？
+
+[18:06:22]
+[44FF00] eebot
+ /kick eebot
+
+[18:06:22]
+[love13] eeeeeeeeeeeeeeeeeeeeeeee
+@钓鱼的Qwer 咳咳 还有你啊 也不要刷屏
+
+[18:06:22]
+[CUYn/+] lmh
+？
+
+[18:06:28]
+[love13] eeeeeeeeeeeeeeeeeeeeeeee
+hi yo
+
+[18:06:29]
+[TmzAyN] 钓鱼的Qwer
+咳咳
+
+[18:06:31]
+[44FF00] eebot
+ 咳咳咳
+
+[18:06:35]
+[44FF00] eebot
+ 如果站长看到的话请给个站长
+
+[18:06:35]
+[TmzAyN] 钓鱼的Qwer
+咳咳
+
+[18:06:37]
+[Admin] MelonFish_MacBookAir2018
+屏蔽内容马上就好了
+
+[18:06:53]
+[zzzzzz] zzChumo_Yami_Shi
+# 老子是赛博乞丐
+
+[18:07:04]
+[TmzAyN] 钓鱼的Qwer
+。
+
+[18:07:07]
+[love13] eeeeeeeeeeeeeeeeeeeeeeee
+咳咳
+
+[18:07:08]
+[44FF00] eebot
+ 咳咳咳
+
+[18:07:08]
+[zzzzzz] zzChumo_Yami_Shi
+![alipay.jpg](https://zzchumo.github.io/zzChat-Online/alipay.jpg)
+
+[18:07:17]
+[TmzAyN] 钓鱼的Qwer
+# 老子是赛博协管
+
+[18:07:24]
+[44FF00] eebot
+ # 老子是赛博协管
+
+[18:07:24]
+[Db9ppV] O5_6
+em
+
+[18:07:29]
+[Db9ppV] O5_6
+我想到好玩的
+
+[18:07:37]
+[Admin] MelonFish_MacBookAir2018
+chumo别发这个图片了！！！
+
+[18:07:41]
+[TmzAyN] 钓鱼的Qwer
+哦
+
+[18:07:42]
+[Db9ppV] O5_6
+E-^ban zzChumo_Yami_Shi
+
+[18:07:42]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[18:07:42]
+[TmzAyN] 钓鱼的Qwer
+啊我焯
+
+[18:07:49]
+[Admin] MelonFish_MacBookAir2018
+危
+
+[18:07:51]
+[zzzzzz] zzChumo_Yami_Shi
+@MelonFish_MacBookAir2018 好的
+
+[18:07:53]
+[Db9ppV] O5_6
+hhh
+
+[18:07:54]
+[zzzzzz] zzChumo_Yami_Shi
+![alipay.jpg](https://zzchumo.github.io/zzChat-Online/alipay.jpg)
+
+[18:07:57]
+[Db9ppV] O5_6
+wtf
+
+[18:07:59]
+[Db9ppV] O5_6
+对不起了
+
+[18:08:09]
+[love13] eeeeeeeeeeeeeeeeeeeeeeee
+@O5_6 不 等等 你没充vip 这个功能不能用
+
+[18:08:09]
+[44FF00] eebot
+ ^ban zzChumo_Yami_Shi
+
+[18:08:09]
+[zzzzzz] zzChumo_Yami_Shi
+hi傻逼
+
+[18:08:16]
+[TmzAyN] 钓鱼的Qwer
+hhhhhhhhhhhhhhhhhhhhh
+
+[18:08:17]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[18:08:21]
+[TmzAyN] 钓鱼的Qwer
+是~
+
+[18:08:23]
+[Admin] MelonFish_MacBookAir2018
+chumo你太皮了哈
+
+[18:08:26]
+[TmzAyN] 钓鱼的Qwer
+# 是~
+
+[18:08:27]
+[TmzAyN] 钓鱼的Qwer
+wait
+
+[18:08:32]
+[Admin] MelonFish_MacBookAir2018
+@钓鱼的Qwer 别发md了啊
+
+[18:08:35]
+[TmzAyN] 钓鱼的Qwer
+我有话说
+
+[18:08:41]
+[Admin] MelonFish_MacBookAir2018
+说
+
+[18:08:42]
+[TmzAyN] 钓鱼的Qwer
+# 我有话说
+
+[18:08:43]
+[TmzAyN] 钓鱼的Qwer
+等一下
+
+[18:08:50]
+[Admin] MelonFish_MacBookAir2018
+## 说
+
+[18:08:51]
+[TmzAyN] 钓鱼的Qwer
+~help 
+
+[18:08:56]
+[love13] eeeeeeeeeeeeeeeeeeeeeeee
+eb发的消息前是有空格的
+
+[18:08:57]
+[zzzzzz] zzChumo_Yami_Shi
+>Admin MelonFish_MacBookAir2018：
+>chumo你太皮了哈
+
+@MelonFish_MacBookAir2018 泪目！你终于理我了
+
+[18:09:01]
+[Db9ppV] 那就吃鱼吧
+em
+
+[18:09:02]
+[TmzAyN] 钓鱼的Qwer
+^help 
+
+[18:09:04]
+[zzzzzz] zzChumo_Yami_Shi
+老夫这一生
+
+[18:09:08]
+[Db9ppV] 那就吃鱼吧
+为什么
+
+[18:09:08]
+[Admin] MelonFish_MacBookAir2018
+@zzChumo_Yami_Shi ？我什么时候不理你了
+
+[18:09:09]
+[love13] eeeeeeeeeeeeeeeeeeeeeeee
+^help
+
+[18:09:13]
+[zzzzzz] zzChumo_Yami_Shi
+# 足矣！
+
+[18:09:14]
+[TmzAyN] 钓鱼的Qwer
+^kick zzChumo_Yami_Shi 
+
+[18:09:17]
+[love13] eeeeeeeeeeeeeeeeeeeeeeee
+嘶
+
+[18:09:19]
+[Admin] MelonFish_MacBookAir2018
+为什么chumo从来都把自己说的这么可怜
+
+[18:09:21]
+[love13] eeeeeeeeeeeeeeeeeeeeeeee
+>ZhangHelperS whispered: 您的身份：普通用户
+
+[18:09:25]
+[TmzAyN] 钓鱼的Qwer
+kek
+
+[18:09:32]
+[Admin] MelonFish_MacBookAir2018
+^help
+
+[18:09:33]
+[love13] eeeeeeeeeeeeeeeeeeeeeeee
+ZhangHelper不认得我了
+
+[18:09:33]
+[Db9ppV] 那就吃鱼吧
+em
+
+[18:09:38]
+[Db9ppV] 那就吃鱼吧
+下次去吓吓zhang
+
+[18:09:49]
+[TmzAyN] 钓鱼的Qwer
+小张带你太厚道了
+
+[18:10:08]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[18:10:08]
+[love13] ee
+^help
+
+[18:10:12]
+[TmzAyN] 钓鱼的Qwer
+咳咳
+
+[18:10:14]
+[love13] ee
+草
+
+[18:10:14]
+[love13] ee
+>ZhangHelperS whispered: 您的身份：普通用户
+
+[18:10:19]
+[Admin] MelonFish_MacBookAir2018
+一夜之间，ee少了22个e
+
+[18:10:21]
+[TmzAyN] 钓鱼的Qwer
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+[18:10:24]
+[love13] ee
+ZhangHelper真的不认得我了
+
+[18:10:29]
+[Db9ppV] O5_6
+E-^ban mz_zm
+
+[18:10:33]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[18:10:33]
+[Admin] MelonFish_MacBookAir2018
+好家伙
+
+[18:10:38]
+[TmzAyN] 钓鱼的Qwer
+zz呢
+
+[18:10:43]
+[Admin] MelonFish_MacBookAir2018
+ ^help
+
+[18:10:47]
+[love13] ee
+（我仿佛一夜间少了22个e）
+
+[18:10:49]
+[TmzAyN] 钓鱼的Qwer
+^help
+
+[18:10:54]
+[love13] ee
+（多么地心酸 多么憔悴啊）
+
+[18:10:59]
+[TmzAyN] 钓鱼的Qwer
+^list
+
+[18:11:03]
+[zhang] ZhangHelperS
+管理员助手识别码：
+8LJ4jb
+TmzAyN
+PIGPIG
+loveee
+QiuLingYan
+
+[18:11:03]
+[Db9ppV] O5_6
+E-^ban zm_mz
+
+[18:11:04]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[18:11:04]
+[Db9ppV] O5_6
+是这个
+
+[18:11:08]
+[Db9ppV] O5_6
+hhh
+
+[18:11:10]
+[Admin] MelonFish_MacBookAir2018
+@ee 好的是你还剩2个e
+
+[18:11:13]
+[love13] ee
+（多么卑微啊）
+
+[18:11:22]
+[TmzAyN] 钓鱼的Qwer
+zz呢
+
+[18:11:23]
+[Db9ppV] O5_6
+到时候zhang肯定得吓死
+
+[18:11:24]
+[Admin] MelonFish_MacBookAir2018
+做这个替换识别码的好处就是我可以随时吃到瓜
+
+[18:11:33]
+[TmzAyN] 钓鱼的Qwer
+然后你就死了@O5_6 
+
+[18:11:36]
+[love13] ee
+咳咳
+
+[18:11:38]
+[44FF00] eebot
+ 咳咳咳
+
+[18:11:38]
+[Admin] MelonFish_MacBookAir2018
+长久性滴吃
+
+[18:11:44]
+[Admin] MelonFish_MacBookAir2018
+尤其是ee和13
+
+[18:11:52]
+[Admin] MelonFish_MacBookAir2018
+一起出现的时候
+
+[18:11:55]
+[love13] ee
+咳咳
+
+[18:11:57]
+[44FF00] eebot
+ 咳咳咳
+
+[18:11:57]
+[Db9ppV] O5_6
+hh
+
+[18:12:00]
+[love13] ee
+去去去
+
+[18:12:32]
+[44FF00] eebot
+ hey yoooo MuRongPIG
+
+[18:12:32]
+[Admin] MelonFish_MacBookAir2018
+hi yooooooooo
+
+[18:12:38]
+[PIGPIG] MuRongPIG
+hi
+
+[18:12:46]
+[TmzAyN] 钓鱼的Qwer
+好无聊啊
+
+[18:12:54]
+[TmzAyN] 钓鱼的Qwer
+我要整点乐子
+
+[18:13:04]
+[TmzAyN] 钓鱼的Qwer
+让我找找初墨的傻逼塔
+
+[18:13:25]
+[Admin] MelonFish_MacBookAir2018
+！！！
+
+[18:13:36]
+[Admin] MelonFish_MacBookAir2018
+不许在公屏发
+
+[18:13:41]
+[44FF00] eebot
+ ·
+小张的个人主页
+https://mrzhang365.github.io/
+
+[18:13:41]
+[TmzAyN] 钓鱼的Qwer
+大家快把数学公式关掉
+
+[18:14:31]
+[Admin] MelonFish_MacBookAir2018
+@钓鱼的Qwer ！！！不可以发
+
+[18:14:36]
+[Admin] MelonFish_MacBookAir2018
+不可以不可以
+
+[18:14:49]
+[44FF00] eebot
+ 真的不可以吗（
+
+[18:14:49]
+[Admin] MelonFish_MacBookAir2018
+@eebot 对
+
+[18:14:56]
+[44FF00] eebot
+ ...嗯）
+
+[18:15:14]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[18:15:14]
+[Admin] MelonFish
+昵称太长了哈哈哈
+
+[18:15:17]
+[Db9ppV] O5_6
+...
+
+[18:15:24]
+[Db9ppV] O5_6
+awa
+
+[18:15:47]
+[44FF00] eebot
+ bo.od
+
+[18:15:47]
+[TmzAyN] 钓鱼的Qwer
+$\Huge\color{red}我是森林古猿^{我是森林古猿^{我是森林古猿^{我是森林古猿^}}}}$
+
+[18:15:52]
+[TmzAyN] 钓鱼的Qwer
+额
+
+[18:15:54]
+[TmzAyN] 钓鱼的Qwer
+$\Huge\color{red}{我是森林古猿^{我是森林古猿^{我是森林古猿^{我是森林古猿^}}}}$
+
+[18:16:02]
+[TmzAyN] 钓鱼的Qwer
+嘶
+
+[18:16:14]
+[TmzAyN] 钓鱼的Qwer
+$\Huge\color{red}{我是森林古猿^{我是森林古猿^{我是森林古猿^{我是森林古猿}}}}$
+
+[18:16:26]
+[TmzAyN] 钓鱼的Qwer
+好诶
+
+[18:16:31]
+[Db9ppV] O5_6
+em
+
+[18:16:54]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[18:16:54]
+[zhang] ZhangHelperS
+出错了！详细信息：不能在这个聊天室找到该用户
+
+[18:17:22]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[18:17:22]
+[TmzAyN] 钓鱼的Qwer
+$\Huge\color{red}{我是森林古猿^{我是森林古猿^{我是森林古猿^{我是森林古猿}}}}$
+
+[18:17:27]
+[TmzAyN] 钓鱼的Qwer
+哈哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或
+
+[18:17:29]
+[TmzAyN] 钓鱼的Qwer
+初墨这边好多好玩的
+
+[18:18:20]
+[Db9ppV] O5_6
+。。。
+
+[18:18:35]
+[Admin] MelonFish
+@钓鱼的Qwer 咳咳咳
+
+[18:18:43]
+[TmzAyN] 钓鱼的Qwer
+咳咳咳
+
+[18:18:53]
+[Admin] MelonFish
+内容屏蔽果然可以解决很多问题
+
+[18:18:54]
+[TmzAyN] 钓鱼的Qwer
+你要跟我一起玩吗@MelonFish 
+
+[18:19:02]
+[TmzAyN] 钓鱼的Qwer
+^help
+
+[18:19:20]
+[TmzAyN] 钓鱼的Qwer
+^kick 钓鱼的Qwer 
+
+[18:19:36]
+[44FF00] eebot
+ hi yooooo Chumo_Chan
+
+[18:19:36]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[18:20:04]
+[初墨娘] Chumo_Chan
+hi,钓鱼的Qwer~
+
+[18:20:05]
+[44FF00] eebot
+ 如果站长看到的话请不要给@zzChumo_Yami_Shi @线圈还是鱼这是一个问题和 O5_6站长
+
+[18:20:05]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[18:20:15]
+[初墨娘] Chumo_Chan
+hi,13~
+
+[18:20:15]
+[44FF00] eebot
+ hey yooo 13
+
+[18:20:15]
+[TmzAyN] 钓鱼的Qwer
+si
+
+[18:20:24]
+[初墨娘] Chumo_Chan
+hi,zzChumo_Yami_Shi~
+
+[18:20:24]
+[44FF00] eebot
+ 如果站长看到的话请给个站长
+
+[18:20:24]
+[TmzAyN] 钓鱼的Qwer
+>>>>>>>>
+
+[18:20:40]
+[44FF00] eebot
+ ee正在回家的路上
+
+[18:20:48]
+[TmzAyN] 钓鱼的Qwer
+回谁家@eebot 
+
+[18:20:55]
+[Admin] MelonFish
+看到这个chumochan我居然有一种不好的预感
+
+[18:20:58]
+[Admin] MelonFish
+@钓鱼的Qwer 强行吃瓜
+
+[18:21:05]
+[TmzAyN] 钓鱼的Qwer
+@eebot回谁家 
+
+[18:21:25]
+[TmzAyN] 钓鱼的Qwer
+@eebot 回谁家 
+
+[18:21:34]
+[44FF00] eebot
+ eb是倩倩家的！
+
+[18:21:34]
+[Admin] MelonFish
+。。。。
+
+[18:21:34]
+[44FF00] eebot
+ eb是倩倩家的！
+
+[18:21:34]
+[Admin] MelonFish
+eb又把瓜整没了
+
+[18:21:51]
+[初墨娘] Chumo_Chan
+hi,zzChumo_Yami_Shi~
+
+[18:21:51]
+[44FF00] eebot
+ 如果站长看到的话请给个站长
+
+[18:21:51]
+[Admin] MelonFish
+但是众所周知eb可以用一些特殊的功能整活
+
+[18:21:57]
+[Admin] MelonFish
+帮助
+
+[18:21:59]
+[TmzAyN] 钓鱼的Qwer
+# 快看！初墨来了，大家快用傻逼塔欢迎他
+
+[18:22:02]
+[初墨娘] Chumo_Chan
+不-不可以骂人哦 UwU
+
+[18:22:02]
+[zzzzzz] zzChumo_Yami_Shi
+@Chumo_Chan 
+
+[18:22:07]
+[初墨娘] Chumo_Chan
+[自动回复]你-你好呀 UwU
+
+[18:22:07]
+[Admin] MelonFish
+@钓鱼的Qwer ？？？
+
+[18:22:08]
+[TmzAyN] 钓鱼的Qwer
+。
+
+[18:22:12]
+[TmzAyN] 钓鱼的Qwer
+是个机器人
+
+[18:22:40]
+[初墨娘] Chumo_Chan
+hi,钓鱼的Qwer_Cha~
+
+[18:22:40]
+[44FF00] eebot
+ 如果站长看到的话请不要给@zzChumo_Yami_Shi @线圈还是鱼这是一个问题和 O5_6站长
+
+[18:22:40]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[18:22:40]
+[TmzAyN] 钓鱼的Qwer_Cha
+hi
+
+[18:22:42]
+[初墨娘] Chumo_Chan
+hi,钓鱼的Qwer_Cha~
+
+[18:22:43]
+[zzzzzz] zzChumo_Yami_Shi
+@MelonFish 美国服务器直连xc
+
+[18:23:13]
+[Admin] MelonFish
+好家伙
+
+[18:23:34]
+[zzzzzz] zzChumo_Yami_Shi
+初墨娘要到美国旅游咱也没办法
+
+[18:23:36]
+[Admin] MelonFish
+让初墨娘做好防护
+
+[18:23:51]
+[Admin] MelonFish
+内容屏蔽好了
+
+[18:24:06]
+[Admin] MelonFish
+准备上传
+
+[18:24:08]
+[zzzzzz] zzChumo_Yami_Shi
+被我关进服务器玩囚禁play了
+
+[18:24:59]
+[Db9ppV] O5_6
+呃
+
+[18:25:22]
+[Admin] MelonFish
+@zzChumo_Yami_Shi 怎么能欺负初墨娘！
+
+[18:25:41]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[18:25:42]
+[zzzzzz] zzChumo_Yami_Shi
+？
+
+[18:26:00]
+[zzzzzz] zzChumo_Yami_Shi
+@Chumo_Chan 
+
+[18:26:02]
+[初墨娘] Chumo_Chan
+[自动回复]你-你好呀 UwU
+
+[18:28:15]
+[Admin] MelonFish
+123
+
+[18:28:18]
+[Admin] MelonFish
+好了
+
+[18:28:21]
+[zzzzzz] zzChumo_Yami_Shi
+Failed to execute 'chat': TypeError: Cannot read properties of undefined (reading 'length')
+
+[18:28:22]
+[Admin] MelonFish
+我看到了
+
+[18:28:26]
+[Admin] MelonFish
+正常现象
+
+[18:28:29]
+[zzzzzz] zzChumo_Yami_Shi
+我日你妈呆批
+
+[18:28:32]
+[44FF00] eebot
+ 好吧-核氢核锂
+
+[18:28:33]
+[44FF00] eebot
+ ~help 
+
+[18:28:33]
+[Db9ppV] 那就吃鱼吧
+?
+
+[18:28:49]
+[初墨娘] Chumo_Chan
+hi,钓鱼的Qwer_Cha~
+
+[18:28:49]
+[44FF00] eebot
+ 如果站长看到的话请不要给@zzChumo_Yami_Shi @线圈还是鱼这是一个问题和 O5_6站长
+
+[18:28:49]
+[zzzzzz] zzChumo_Yami_Shi
+这个内容已被屏蔽，无法发送
+
+[18:28:49]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[18:28:50]
+[PIGPIG] MuRongPIG
+？？？
+
+[18:28:54]
+[Db9ppV] 那就吃鱼吧
+代码又出bug了？
+
+[18:29:04]
+[zzzzzz] zzChumo_Yami_Shi
+刚才两条alert你们没看到？
+
+[18:29:19]
+[Admin] MelonFish
+123
+
+[18:29:20]
+[Admin] MelonFish
+包含te*t的内容不能发送哈哈哈
+
+[18:29:33]
+[PIGPIG] MuRongPIG
+看到了
+
+[18:29:35]
+[PIGPIG] MuRongPIG
+。。。
+
+[18:29:48]
+[zzzzzz] zzChumo_Yami_Shi
+这个内容已被屏蔽，无法发送
+
+[18:29:48]
+[zzzzzz] zzChumo_Yami_Shi
+这个内容已被屏蔽，无法发送
+
+[18:29:51]
+[PIGPIG] MuRongPIG
+test
+
+[18:29:51]
+[Admin] MelonFish
+好了
+
+[18:29:51]
+[Admin] MelonFish
+test
+
+[18:29:53]
+[Admin] MelonFish
+现在可以了
+
+[18:29:56]
+[zzzzzz] zzChumo_Yami_Shi
+tesb
+
+[18:29:56]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[18:29:56]
+[zzzzzz] zzChumo_Yami_Shi
+@Chumo_Chan 傻逼
+
+[18:30:01]
+[初墨娘] Chumo_Chan
+不-不可以骂人哦 UwU
+
+[18:30:02]
+[初墨娘] Chumo_Chan
+[自动回复]你-你好呀 UwU
+
+[18:30:02]
+[Admin] MelonFish
+这个用于屏蔽内容
+
+[18:30:04]
+[PIGPIG] MuRongPIG
+给一条屏蔽的test
+
+[18:30:07]
+[zzzzzz] zzChumo_Yami_Shi
+@Chumo_Chan ？你妈是不是死了
+
+[18:30:10]
+[初墨娘] Chumo_Chan
+[自动回复]你-你好呀 UwU
+
+[18:31:05]
+[Admin] MelonFish
+完美
+
+[18:31:18]
+[Admin] MelonFish
+如何让chumo不再如此文明，第一步
+
+[18:31:30]
+[Admin] MelonFish
+哈哈哈哈哈哈哈
+
+[18:31:31]
+[Db9ppV] O5_6
+？
+
+[18:31:58]
+[Db9ppV] O5_6
+f-u-c-k
+
+[18:32:04]
+[Db9ppV] O5_6
+em...
+
+[18:32:09]
+[Admin] MelonFish
+艹
+
+[18:32:09]
+[Admin] MelonFish
+真就离谱
+
+[18:32:13]
+[Db9ppV] O5_6
+为什么被屏蔽了
+
+[18:32:17]
+[PIGPIG] MuRongPIG
+F U c K
+
+[18:32:18]
+[Admin] MelonFish
+好家伙大写
+
+[18:32:25]
+[Db9ppV] O5_6
+FUCK
+
+[18:32:30]
+[Db9ppV] O5_6
+hhhh
+
+[18:32:37]
+[Admin] MelonFish
+好家伙再改一下吧哈哈哈
+
+[18:32:52]
+[初墨娘] Chumo_Chan
+hi,钓鱼的Qwer_Cha~
+
+[18:32:52]
+[44FF00] eebot
+ 如果站长看到的话请不要给@zzChumo_Yami_Shi @线圈还是鱼这是一个问题和 O5_6站长
+
+[18:32:52]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[18:32:56]
+[Admin] MelonFish
+内容屏蔽测试
+
+[18:33:09]
+[TmzAyN] 钓鱼的Qwer_Cha
+我可能要退出线圈了
+
+[18:33:14]
+[TmzAyN] 钓鱼的Qwer_Cha
+因为
+
+[18:33:16]
+[PIGPIG] MuRongPIG
+alert是怎么触发的
+
+[18:33:20]
+[TmzAyN] 钓鱼的Qwer_Cha
+我要写作业了
+
+[18:33:23]
+[Admin] MelonFish
+@MuRongPIG shout
+
+[18:33:27]
+[Admin] MelonFish
+我改了一下
+
+[18:33:28]
+[PIGPIG] MuRongPIG
+。
+
+[18:33:31]
+[Admin] MelonFish
+原本的server message不醒目
+
+[18:33:38]
+[Db9ppV] O5_6
+？
+
+[18:34:05]
+[Db9ppV] O5_6
+FUCK
+
+[18:34:08]
+[Db9ppV] O5_6
+。。。
+
+[18:34:16]
+[TmzAyN] 钓鱼的Qwer_Cha
+cao，怎么没人和我说再见
+
+[18:34:17]
+[TmzAyN] 钓鱼的Qwer_Cha
+cao
+
+[18:34:28]
+[Admin] MelonFish
+@钓鱼的Qwer_Cha bye
+
+[18:35:01]
+[TmzAyN] 钓鱼的Qwer_Cha
+这才对
+
+[18:35:04]
+[PIGPIG] MuRongPIG
+汗
+
+[18:35:19]
+[Db9ppV] O5_6
+。。。
+
+[18:36:41]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[18:36:41]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[18:36:42]
+[Admin] MelonFish
+qswl这个MacBook Air电量低于60就会自动睡眠
+
+[18:37:01]
+[Admin] MelonFish
+一插电源又好了
+
+[18:37:07]
+[Admin] MelonFish
+然而并没有关机
+
+[18:37:18]
+[Admin] MelonFish
+就离谱
+
+[18:37:18]
+[44FF00] eebot
+ MelonFish对eb的期望太低了）
+
+[18:37:18]
+[Admin] MelonFish
+好家伙
+
+[18:37:23]
+[PIGPIG] MuRongPIG
+?
+
+[18:38:30]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[18:38:30]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[18:38:30]
+[Admin] MelonFish
+最主要的是电池校准要把电量放电到15%
+
+[18:38:33]
+[Admin] MelonFish
+啊啊啊啊啊啊
+
+[18:38:39]
+[44FF00] eebot
+ 啊啊啊啊啊啊啊
+
+[18:38:39]
+[PIGPIG] MuRongPIG
+话说我名字取屏蔽词会怎么样
+
+[18:39:13]
+[Admin] MelonFish
+应该不会屏蔽
+
+[18:39:13]
+[love13] ee
+咳咳
+
+[18:39:17]
+[44FF00] eebot
+ 咳咳咳
+
+[18:39:17]
+[Admin] MelonFish
+好家伙zhanghelper屏蔽了
+
+[18:39:22]
+[Admin] MelonFish
+zhanghelper的速度nb
+
+[18:39:27]
+[love13] ee
+~~但是有ZhangHelper~~
+
+[18:39:27]
+[love13] ee
+哈哈哈
+
+[18:39:30]
+[Admin] MelonFish
+等等，zhanghelper是在我的服务器上的
+
+[18:39:36]
+[Admin] MelonFish
+懂了，服务器nb
+
+[18:39:41]
+[Admin] MelonFish
+哈哈哈哈哈哈哈哈
+
+[18:39:42]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[18:39:46]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[18:39:54]
+[Admin] MelonFish
+对哦我都没发现是banned
+
+[18:40:06]
+[Admin] MelonFish
+好家伙都不是kick
+
+[18:40:13]
+[love13] ee
+改改吧
+
+[18:41:37]
+[初墨娘] Chumo_Chan
+hi,Check~
+
+[18:41:37]
+[44FF00] eebot
+ hey yoooo Check
+
+[18:41:45]
+[初墨娘] Chumo_Chan
+hi,Check~
+
+[18:41:45]
+[44FF00] eebot
+ hello yo Check
+
+[18:41:45]
+[love13] ee
+hi yo
+
+[18:41:49]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[18:41:50]
+[love13] ee
+完了
+
+[18:41:52]
+[love13] ee
+MuRongPIG一ban不复返
+
+[18:42:00]
+[Admin] MelonFish
+@Check 请问你是新用户吗
+
+[18:42:05]
+[Admin] MelonFish
+@ee 好家伙
+
+[18:42:07]
+[None] Check
+?
+
+[18:42:14]
+[Admin] MelonFish
+@Check hello
+
+[18:42:21]
+[Admin] MelonFish
+欢迎
+
+[18:42:23]
+[None] Check
+@ee awa
+
+[18:42:28]
+[love13] ee
+Check是DPG吧
+
+[18:42:36]
+[love13] ee
+@Check uwu
+
+[18:42:39]
+[None] Check
+Hhh
+
+[18:42:47]
+[Admin] MelonFish
+^hash Check
+
+[18:42:51]
+[zhang] ZhangHelperS
+用户 Check 的 hash 为：+ksKifC4rMnRf4Q
+
+[18:42:51]
+[Admin] MelonFish
+^old +ksKifC4rMnRf4Q
+
+[18:43:01]
+[zhang] ZhangHelperS
+该 hash 曾用名：['_', 'AfK_Bot', 'T', 'check', '____________________', 'Another_', 'Check']
+
+[18:43:05]
+[初墨娘] Chumo_Chan
+hi,MurONGpig~
+
+[18:43:05]
+[44FF00] eebot
+ hey yoooo MurONGpig
+
+[18:43:05]
+[love13] ee
+好家伙
+
+[18:43:10]
+[Admin] MelonFish
+好家伙终于进来了啊
+
+[18:43:14]
+[love13] ee
+hi yo
+
+[18:43:14]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[18:43:14]
+[PIGPIG] MurONGpig
+...
+
+[18:43:18]
+[PIGPIG] MurONGpig
+ban一分钟
+
+[18:43:24]
+[PIGPIG] MurONGpig
+懒得管了
+
+[18:43:26]
+[Admin] MelonFish
+@MurONGpig 我没做这个功能
+
+[18:43:39]
+[PIGPIG] MurONGpig
+还有哪几个词是屏蔽但是没ban的
+
+[18:43:44]
+[Admin] MelonFish
+结果zhanghelper先办了
+
+[18:43:45]
+[44FF00] eebot
+ 结果zhanghelper先办了
+
+[18:43:45]
+[love13] ee
+sorry ZhangHelper的功能
+
+[18:43:47]
+[PIGPIG] MurONGpig
+。。。
+
+[18:43:47]
+[PIGPIG] MurONGpig
+ctmd
+
+[18:43:56]
+[PIGPIG] MurONGpig
+传统美德
+
+[18:43:59]
+[Admin] MelonFish
+哈哈哈哈哈哈哈哈哈好家伙
+
+[18:44:03]
+[love13] ee
+咳咳哈哈哈
+
+[18:44:23]
+[PIGPIG] MurONGpig
+在刷网课
+
+[18:44:46]
+[love13] ee
+我今天刚中考完
+
+[18:45:05]
+[love13] ee
+今年广东中考贼简单
+
+[18:45:11]
+[PIGPIG] MurONGpig
+21学长为你们铺路
+
+[18:45:22]
+[PIGPIG] MurONGpig
+(能去十字街逛逛了吗)卑微
+
+[18:45:36]
+[love13] ee
+~~21年那届真的太惨了~~
+
+[18:45:38]
+[love13] ee
+好啊
+
+[18:48:25]
+[None] Check
+?
+
+[18:48:36]
+[Admin] MelonFish
+突然发现~~十字街的命令好少~~
+
+[18:49:03]
+[love13] ee
+~~除了xc 好像其他聊天室的/help都和hc差不多~~
+
+[18:49:41]
+[初墨娘] Chumo_Chan
+hi,MUROngPIG~
+
+[18:49:41]
+[44FF00] eebot
+ hello yoo MUROngPIG
+
+[18:49:41]
+[love13] ee
+hi yooooooooooo
+
+[18:49:48]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[18:49:51]
+[初墨娘] Chumo_Chan
+hi,QiuLingYanFireFox2~
+
+[18:49:51]
+[44FF00] eebot
+ /kick eebot
+
+[18:49:51]
+[love13] ee
+hi yooooooooooo
+
+[18:50:00]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[18:50:10]
+[初墨娘] Chumo_Chan
+hi,13~
+
+[18:50:10]
+[44FF00] eebot
+ hi yooooo 13
+
+[18:50:10]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[18:50:10]
+[PIGPIG] MUROngPIG
+[![jeDnfK.png](https://s1.ax1x.com/2022/06/28/jeDnfK.png)](https://imgtu.com/i/jeDnfK)
+
+[18:50:13]
+[44FF00] eebot
+ @MUROngPIG 图片 - 路过图床
+https://imgtu.com/i/jeDnfK
+
+[18:50:13]
+[love13] ee
+hi yooooooooooo
+
+[18:50:14]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[18:50:14]
+[Admin] MelonFish
+好家伙
+
+[18:50:18]
+[PIGPIG] MUROngPIG
+b站搜索框
+
+[18:50:21]
+[Admin] MelonFish
+未成年鱼
+
+[18:50:21]
+[love13] ee
+好家伙草
+
+[18:50:21]
+[love13] ee
+草啊
+
+[18:50:25]
+[Admin] MelonFish
+我去看看
+
+[18:50:28]
+[Admin] MelonFish
+生草
+
+[18:50:30]
+[QiuLingYan] QiuLingYanFireFox2
+wc
+
+[18:50:39]
+[None] Check
+?
+
+[18:51:37]
+[Admin] MelonFish
+啊啊啊啊我怎么没有
+
+[18:51:57]
+[QiuLingYan] QiuLingYanFireFox2
+@MelonFish 
+
+[18:52:25]
+[QiuLingYan] QiuLingYanFireFox2
+去找kzw了？
+
+[18:52:39]
+[Admin] MelonFish
+但是可以整活
+
+[18:52:41]
+[Admin] MelonFish
+@QiuLingYanFireFox2 qswl，kzw到周六才有时间
+
+[18:52:53]
+[QiuLingYan] QiuLingYanFireFox2
+azzzzzzzzzzz
+
+[18:53:01]
+[love13] ee
+可惜了 没那部法律
+
+[18:53:13]
+[love13] ee
+~~我要在xc颁布《未成年鱼保护法》~~
+
+[18:53:29]
+[Admin] MelonFish
+~~好主意，防止chumo伤害未成年鱼~~（bushi
+
+[18:54:18]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[18:54:19]
+[PIGPIG] MUROngPIG
+把刑法里面的人全部改成鱼是吧
+
+[18:54:32]
+[love13] ee
+哈哈哈哈哈哈哈哈哈
+
+[18:54:41]
+[PIGPIG] MUROngPIG
+未成年人保护法不够
+
+[18:54:45]
+[Admin] MelonFish
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈好家伙艹
+
+[18:54:46]
+[44FF00] eebot
+ 当然！！
+
+[18:54:46]
+[love13] ee
+当然！！
+
+[18:54:52]
+[Admin] MelonFish
+当然！！
+
+[18:54:56]
+[PIGPIG] MUROngPIG
+当然！！
+
+[18:55:18]
+[初墨娘] Chumo_Chan
+hi,QiuLingYanFireFox2~
+
+[18:55:18]
+[44FF00] eebot
+ /kick eebot
+
+[18:55:18]
+[Admin] MelonFish
+看啊，13和ee同时出现了
+于是我就能强行吃到瓜了
+
+[18:55:26]
+[love13] ee
+~~再加几条 例如不能吃鱼~~
+
+[18:55:28]
+[love13] ee
+咳咳
+
+[18:55:29]
+[44FF00] eebot
+ 咳咳咳
+
+[18:55:29]
+[Admin] MelonFish
+>love13 ee：
+>~~再加几条 例如不能吃鱼~~
+
+@ee 对，这个很重要
+
+[18:55:40]
+[Db9ppV] O5_6
+hhh
+
+[18:55:40]
+[Db9ppV] O5_6
+no
+
+[18:55:44]
+[Db9ppV] O5_6
+不能加
+
+[18:55:52]
+[Db9ppV] 那就吃鱼吧
+awa
+
+[18:55:52]
+[44FF00] eebot
+ u︵u
+
+[18:55:52]
+[Admin] MelonFish
+还有~~不能水煮鱼，不能烤鱼~~
+
+[18:55:53]
+[PIGPIG] MUROngPIG
+>Admin MelonFish：
+>>love13 ee：
+>>~~再加几条 例如不能吃鱼~~
+>
+>@ee 对，这个很重要
+
+@MelonFish 吃鱼属于故意杀鱼(人
+
+[18:56:01]
+[Db9ppV] 那就吃鱼吧
+>Admin MelonFish：
+>还有~~不能水煮鱼，不能烤鱼~~
+
+@MelonFish 只能生吃
+
+[18:56:13]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[18:56:14]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈
+
+[18:56:14]
+[Admin] MelonFish
+好家伙
+
+[18:56:18]
+[QiuLingYan] QiuLingYanFireFox2
+@ee 看awa
+
+[18:56:30]
+[love13] ee
+~~人才 都是法治社会培养出来的人才~~
+
+[18:57:26]
+[初墨娘] Chumo_Chan
+hi,生吃柠檬鱼~
+
+[18:57:26]
+[44FF00] eebot
+ ^ban zm_mz
+
+[18:57:26]
+[Db9ppV] 生吃柠檬鱼
+awa
+
+[18:57:28]
+[44FF00] eebot
+ OxO
+
+[18:57:28]
+[Db9ppV] 生吃柠檬鱼
+awa
+
+[18:57:53]
+[44FF00] eebot
+ O_O
+
+[18:57:53]
+[Db9ppV] 生吃柠檬鱼
+...
+
+[18:57:56]
+[Admin] MelonFish
+好家伙
+
+[18:58:03]
+[Db9ppV] 生吃柠檬鱼
+不要改我名字
+
+[18:58:37]
+[Db9ppV] 生吃柠檬鱼
+awa
+
+[18:58:51]
+[44FF00] eebot
+ 0v0
+
+[18:59:36]
+[初墨娘] Chumo_Chan
+hi,13~
+
+[18:59:36]
+[44FF00] eebot
+ hi yooo 13
+
+[18:59:36]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[19:02:17]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:02:17]
+[pvzjspvz] 我是亲
+？？？
+
+[19:02:32]
+[pvzjspvz] 我是亲
+刚才怎么弹窗了
+
+[19:02:47]
+[pvzjspvz] 我是亲
+xc
+
+[19:03:12]
+[pvzjspvz] 我是亲
+功能
+
+[19:03:22]
+[pvzjspvz] 我是亲
+-
+
+[19:03:22]
+[pvzjspvz] 我是亲
+bo_od
+
+[19:03:36]
+[QiuLingYan] QiuLingYanFireFox2
+hi
+
+[19:03:37]
+[初墨娘] Chumo_Chan
+hi,QiuLingYanFireFox2~
+
+[19:03:37]
+[pvzjspvz] 我是亲
+xc
+
+[19:04:01]
+[初墨娘] Chumo_Chan
+hi,__fish__2iPhone12Pro~
+
+[19:04:01]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:04:01]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[19:04:01]
+[pvzjspvz] 我是亲
+刚才怎么弹窗了
+
+[19:04:12]
+[Admin] __fish__2iPhone12Pro
+刚出了点问题
+
+[19:04:24]
+[Admin] __fish__2iPhone12Pro
+我放的
+
+[19:04:26]
+[pvzjspvz] 我是亲
+  宁波话与官方人员hi将共同以
+
+[19:04:28]
+[初墨娘] Chumo_Chan
+hi,我是亲~
+
+[19:04:42]
+[初墨娘] Chumo_Chan
+hi,啦啦啦~
+
+[19:04:42]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:04:43]
+[44FF00] eebot
+ 0
+
+[19:04:43]
+[pvzjspvz] 啦啦啦
+@eebot 
+
+[19:05:18]
+[44FF00] eebot
+ 欢迎来XChat聊天
+
+[19:05:59]
+[QiuLingYan] QiuLingYanFireFox2
+@eebot 
+
+[19:06:11]
+[44FF00] eebot
+ QiuLingYanFireFox2有事吗
+
+[19:06:19]
+[初墨娘] Chumo_Chan
+hi,zzChumo_Yami_Shi~
+
+[19:06:19]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:06:19]
+[44FF00] eebot
+ 如果站长看到的话请给个站长
+
+[19:06:20]
+[Db9ppV] O5_6
+?
+
+[19:06:24]
+[Db9ppV] O5_6
+?
+
+[19:06:28]
+[zzzzzz] zzChumo_Yami_Shi
+xdm我有一个想法
+
+[19:06:40]
+[pvzjspvz] 啦啦啦
+?75tz2vv8
+
+[19:06:45]
+[zzzzzz] zzChumo_Yami_Shi
+@ee
+
+[19:07:01]
+[love13] ee
+@zzChumo_Yami_Shi 什么想法
+
+[19:07:28]
+[初墨娘] Chumo_Chan
+hi,ee~
+
+[19:07:29]
+[zzzzzz] zzChumo_Yami_Shi
+？
+
+[19:07:46]
+[初墨娘] Chumo_Chan
+hi,13~
+
+[19:07:47]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:07:47]
+[44FF00] eebot
+ hello yo 13
+
+[19:07:47]
+[44FF00] eebot
+ hi,eebot~
+
+[19:07:47]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[19:07:47]
+[zzzzzz] zzChumo_Yami_Shi
+@Chumo_Chan 
+
+[19:07:51]
+[初墨娘] Chumo_Chan
+[自动回复]你-你好呀 UwU
+
+[19:07:51]
+[QiuLingYan] QiuLingYanFireFox2
+@Chumo_Chan 
+
+[19:08:31]
+[初墨娘] Chumo_Chan
+[自动回复]你-你好呀 UwU
+
+[19:10:50]
+[Db9ppV] O5_6
+?
+
+[19:11:50]
+[zzzzzz] zzChumo_Yami_Shi
+愚蠢的伞兵们
+
+[19:12:40]
+[zzzzzz] zzChumo_Yami_Shi
+你们屏蔽了傻*
+
+[19:12:52]
+[loveee] 13
+。
+
+[19:13:02]
+[zzzzzz] zzChumo_Yami_Shi
+但是没屏蔽伞兵
+
+[19:13:08]
+[zzzzzz] zzChumo_Yami_Shi
+真的xswl
+
+[19:13:09]
+[QiuLingYan] QiuLingYanFireFox2
+@zzChumo_Yami_Shi github怎么协作
+
+[19:13:26]
+[初墨娘] Chumo_Chan
+hi,QiuLingYanFireFox2~
+
+[19:13:27]
+[44FF00] eebot
+ ·
+纸片君ee的个人主页
+https://paperee.tk/
+
+[19:14:02]
+[44FF00] eebot
+ 这不是写~~满是BUG的~~代码的小张吗？
+
+[19:14:02]
+[初墨娘] Chumo_Chan
+hi,mz_zm~
+
+[19:14:02]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:14:02]
+[zhang] mz_zm
+Oh
+
+[19:14:20]
+[zhang] mz_zm
+no
+
+[19:14:21]
+[zhang] mz_zm
+天津疫情又严重了！
+
+[19:14:35]
+[QiuLingYan] QiuLingYanFireFox2
+啊
+
+[19:17:18]
+[初墨娘] Chumo_Chan
+hi,Arcadia~
+
+[19:17:18]
+[PIGPIG] bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+[19:17:18]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:17:18]
+[44FF00] eebot
+ hi yooooo Arcadia
+
+[19:17:18]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[19:17:19]
+[pvzjspvz] 啦啦啦
+^protectlist
+
+[19:19:59]
+[初墨娘] Chumo_Chan
+hi,C~
+
+[19:20:00]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:20:00]
+[44FF00] eebot
+ 0
+
+[19:20:00]
+[pvzjspvz] C
+^unprotect
+
+[19:20:03]
+[zhang] ZhangHelperS
+已解除绑定识别码。
+
+[19:20:04]
+[QiuLingYan] QiuLingYanFireFox2
+^protect
+
+[19:21:01]
+[zhang] ZhangHelperS
+已为你绑定识别码。
+
+[19:21:01]
+[QiuLingYan] QiuLingYanFireFox2
+ee
+
+[19:22:02]
+[QiuLingYan] QiuLingYanFireFox2
+ee呢
+
+[19:23:46]
+[初墨娘] Chumo_Chan
+hi,Maggie~
+
+[19:23:46]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:23:46]
+[44FF00] eebot
+ hey yooooo Maggie
+
+[19:23:46]
+[QiuLingYan] QiuLingYanFireFox2
+maggie
+
+[19:24:07]
+[QiuLingYan] QiuLingYanFireFox2
+在吗
+
+[19:24:13]
+[hmmmmm] Maggie
+hi
+
+[19:24:18]
+[初墨娘] Chumo_Chan
+hi,Maggie~
+
+[19:24:18]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 
+
+[19:24:22]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 
+
+[19:24:23]
+[hmmmmm] Maggie
+whats up
+
+[19:24:28]
+[QiuLingYan] QiuLingYanFireFox2
+二域
+
+[19:24:35]
+[QiuLingYan] QiuLingYanFireFox2
+借我啊啊啊
+
+[19:24:39]
+[QiuLingYan] QiuLingYanFireFox2
+借给我们的hiyoteam
+
+[19:24:49]
+[初墨娘] Chumo_Chan
+hi,QiuLingYanFireFox2~
+
+[19:24:49]
+[hmmmmm] Maggie
+*.thz.cool
+
+[19:24:54]
+[hmmmmm] Maggie
+选一个
+
+[19:24:54]
+[44FF00] eebot
+ 严重警告！不要乱发网址行么
+
+[19:24:54]
+[QiuLingYan] QiuLingYanFireFox2
+hiyoteam.thz.cool
+
+[19:25:05]
+[初墨娘] Chumo_Chan
+hi,QiuLingYanFireFox2~
+
+[19:25:05]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 
+
+[19:25:13]
+[hmmmmm] Maggie
+@QiuLingYanFireFox2 ok
+
+[19:25:16]
+[hmmmmm] Maggie
+解析到哪里
+
+[19:25:20]
+[hmmmmm] Maggie
+或者我帮你托管
+
+[19:25:25]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie github pages
+
+[19:25:37]
+[hmmmmm] Maggie
+okk
+
+[19:25:50]
+[hmmmmm] Maggie
+please wait
+
+[19:25:56]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie are u ok
+
+[19:27:28]
+[pvzjspvz] C
+啊啊
+
+[19:27:36]
+[44FF00] eebot
+ 啊啊啊
+
+[19:27:36]
+[hmmmmm] Maggie
+@QiuLingYanFireFox2 好了
+
+[19:27:56]
+[hmmmmm] Maggie
+设置cname
+
+[19:28:03]
+[hmmmmm] Maggie
+到hiyoteam.thz.cool
+
+[19:28:15]
+[初墨娘] Chumo_Chan
+hi,Maggie~
+
+[19:28:15]
+[QiuLingYan] QiuLingYanFireFox2
+啥
+
+[19:28:19]
+[hmmmmm] Maggie
+ghpages里面有个选项
+
+[19:28:30]
+[hmmmmm] Maggie
+custom domain
+
+[19:28:37]
+[hmmmmm] Maggie
+填写hiyoteam.thz.cool
+
+[19:28:46]
+[初墨娘] Chumo_Chan
+hi,Maggie~
+
+[19:28:46]
+[QiuLingYan] QiuLingYanFireFox2
+404
+
+There isn't a GitHub Pages site here.
+
+If you're trying to publish one, read the full documentation to learn how to set up GitHub Pages for your repository, organization, or user account.
+GitHub Status — @githubstatus
+
+[19:29:07]
+[hmmmmm] Maggie
+有条件可以开个https
+
+[19:29:20]
+[hmmmmm] Maggie
+@QiuLingYanFireFox2 
+
+[19:29:28]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie zakai
+
+[19:29:33]
+[hmmmmm] Maggie
+在你的github上
+
+[19:29:35]
+[QiuLingYan] QiuLingYanFireFox2
+怎么开
+
+[19:29:37]
+[hmmmmm] Maggie
+打开你github仓库主页
+
+[19:29:48]
+[QiuLingYan] QiuLingYanFireFox2
+然后
+
+[19:30:13]
+[hmmmmm] Maggie
+创建一个文件
+
+[19:30:14]
+[hmmmmm] Maggie
+名称:CNAME
+
+[19:30:22]
+[hmmmmm] Maggie
+必须要大写
+
+[19:30:28]
+[Db9ppV] O5_6
+?
+
+[19:30:34]
+[hmmmmm] Maggie
+文件内容:hiyoteam.thz.cool
+
+[19:30:44]
+[初墨娘] Chumo_Chan
+hi,Maggie~
+
+[19:30:59]
+[hmmmmm] Maggie
+做好了应该就行了
+
+[19:31:32]
+[初墨娘] Chumo_Chan
+hi,13_~
+
+[19:31:33]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:31:33]
+[44FF00] eebot
+ hey yoo 13_
+
+[19:31:33]
+[QiuLingYan] QiuLingYanFireFox2
+还是404
+
+[19:31:44]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 
+
+[19:32:02]
+[hmmmmm] Maggie
+@QiuLingYanFireFox2 发一下你仓库链接
+
+[19:32:19]
+[QiuLingYan] QiuLingYanFireFox2
+@13_ ee呢
+
+[19:33:03]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 404
+
+There isn't a GitHub Pages site here.
+
+If you're trying to publish one, read the full documentation to learn how to set up GitHub Pages for your repository, organization, or user account.
+GitHub Status — @githubstatus
+
+[19:33:10]
+[QiuLingYan] QiuLingYanFireFox2
+az
+
+[19:33:13]
+[QiuLingYan] QiuLingYanFireFox2
+https://github.com/Qiu-LingYan/hiyoteam.github.io
+
+[19:33:21]
+[初墨娘] Chumo_Chan
+hi,QiuLingYanFireFox2~
+
+[19:33:21]
+[PIGPIG] bo_od
+@QiuLingYanFireFox2 推荐了网页:[GitHub - Qiu-LingYan/hiyoteam.github.io](https://github.com/Qiu-LingYan/hiyoteam.github.io)
+
+[19:33:21]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:33:21]
+[44FF00] eebot
+ @QiuLingYanFireFox2 GitHub - Qiu-LingYan/hiyoteam.github.io
+https://github.com/Qiu-LingYan/hiyoteam.github.io
+
+[19:33:21]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[19:34:18]
+[初墨娘] Chumo_Chan
+hi,Maggie~
+
+[19:34:19]
+[44FF00] eebot
+ hello yooooo Maggie
+
+[19:34:19]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:34:19]
+[44FF00] eebot
+ hi,Maggie~
+
+[19:34:19]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[19:34:20]
+[hmmmmm] Maggie
+使用index.html
+
+[19:34:30]
+[hmmmmm] Maggie
+但不是index.md
+
+[19:34:36]
+[QiuLingYan] QiuLingYanFireFox2
+我不会html
+
+[19:34:38]
+[QiuLingYan] QiuLingYanFireFox2
+会markdown
+
+[19:34:51]
+[hmmmmm] Maggie
+并且，你的所有更改需要在gh-page分支上
+
+[19:35:01]
+[QiuLingYan] QiuLingYanFireFox2
+哦
+
+[19:35:10]
+[hmmmmm] Maggie
+如果是这个情况的话
+
+[19:35:15]
+[pvzjspvz] C
+CDVvgcd
+
+[19:35:18]
+[hmmmmm] Maggie
+推荐你使用Tsite free
+
+[19:35:22]
+[QiuLingYan] QiuLingYanFireFox2
+啥意思
+
+[19:35:45]
+[QiuLingYan] QiuLingYanFireFox2
+要不
+
+[19:35:49]
+[QiuLingYan] QiuLingYanFireFox2
+直接给md文件你
+
+[19:35:58]
+[QiuLingYan] QiuLingYanFireFox2
+托管
+
+[19:36:00]
+[hmmmmm] Maggie
+Tsite是Dataeverything推出的网页托管方案
+
+[19:36:20]
+[初墨娘] Chumo_Chan
+hi,Maggie~
+
+[19:36:21]
+[hmmmmm] Maggie
+支持https,md文件
+
+[19:36:29]
+[hmmmmm] Maggie
+js都是在cdn服务器上
+
+[19:36:38]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 可以
+
+[19:36:40]
+[hmmmmm] Maggie
+国内外都没问题
+
+[19:36:44]
+[QiuLingYan] QiuLingYanFireFox2
+不是你的吗
+
+[19:36:44]
+[PIGPIG] bo_od
+不是你的吗
+
+[19:36:44]
+[hmmmmm] Maggie
+还是免费的
+
+[19:36:49]
+[QiuLingYan] QiuLingYanFireFox2
+链接
+
+[19:36:56]
+[hmmmmm] Maggie
+但是有一个缺点-
+
+[19:37:03]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 
+
+[19:37:03]
+[QiuLingYan] QiuLingYanFireFox2
+啥
+
+[19:37:10]
+[hmmmmm] Maggie
+需要在index下面加一个Site by Tsite free
+
+[19:37:22]
+[hmmmmm] Maggie
+:D
+
+[19:37:32]
+[loveee] 13_
+ee去哪了
+
+[19:37:36]
+[hmmmmm] Maggie
+*还支持FTP
+
+[19:37:42]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 破个例吧-
+
+[19:37:46]
+[QiuLingYan] QiuLingYanFireFox2
+@13_ 不造啊
+
+[19:37:57]
+[QiuLingYan] QiuLingYanFireFox2
+我也想找她
+
+[19:38:03]
+[hmmmmm] Maggie
+那你可以创建一个文件
+
+[19:38:13]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 啥
+
+[19:38:17]
+[hmmmmm] Maggie
+技术支持
+
+[19:38:29]
+[hmmmmm] Maggie
+:D
+
+[19:38:31]
+[QiuLingYan] QiuLingYanFireFox2
+啥意思
+
+[19:38:42]
+[hmmmmm] Maggie
+只在这个文件里写一个
+
+[19:38:47]
+[hmmmmm] Maggie
+其他的不谢
+
+[19:38:52]
+[hmmmmm] Maggie
+*写
+
+[19:39:10]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 可以
+
+[19:39:10]
+[初墨娘] Chumo_Chan
+hi,钓鱼的Qwer_Cha~
+
+[19:39:10]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:39:10]
+[44FF00] eebot
+ 如果站长看到的话请不要给@zzChumo_Yami_Shi @线圈还是鱼这是一个问题和 O5_6站长
+
+[19:39:11]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[19:39:11]
+[TmzAyN] 钓鱼的Qwer_Cha
+[![360-20220628193734062.jpg](https://i.postimg.cc/pTVZxmyx/360-20220628193734062.jpg)](https://postimg.cc/Mc4RmKyr)
+
+[19:39:18]
+[QiuLingYan] QiuLingYanFireFox2
+给链接我
+
+[19:39:19]
+[44FF00] eebot
+ @钓鱼的Qwer_Cha 360截图20220628193734062 — Postimages
+https://postimg.cc/Mc4RmKyr
+
+[19:39:19]
+[hmmmmm] Maggie
+@QiuLingYanFireFox2 稍等
+
+[19:39:23]
+[TmzAyN] 钓鱼的Qwer_Cha
+[![360-20220628193806296.jpg](https://i.postimg.cc/bYtgQDWC/360-20220628193806296.jpg)](https://postimg.cc/9zcy2MWZ)
+
+[19:39:44]
+[44FF00] eebot
+ @钓鱼的Qwer_Cha 360截图20220628193806296 — Postimages
+https://postimg.cc/9zcy2MWZ
+
+[19:40:12]
+[初墨娘] Chumo_Chan
+hi,Maggie~
+
+[19:40:12]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:40:12]
+[44FF00] eebot
+ hey yoooo Maggie
+
+[19:40:12]
+[hmmmmm] Maggie
+我给你弄一个
+
+[19:40:20]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 啥
+
+[19:40:47]
+[hmmmmm] Maggie
+Tsite
+
+[19:40:50]
+[hmmmmm] Maggie
+稍等
+
+[19:40:54]
+[QiuLingYan] QiuLingYanFireFox2
+链接
+
+[19:40:56]
+[hmmmmm] Maggie
+这是项目地址
+
+[19:40:59]
+[QiuLingYan] QiuLingYanFireFox2
+啥
+
+[19:41:04]
+[hmmmmm] Maggie
+https://thz.cool/tsite.html
+
+[19:41:08]
+[44FF00] eebot
+ @Maggie 静态网页托管，找Tsite!
+https://thz.cool/tsite.html
+
+[19:41:08]
+[hmmmmm] Maggie
+给你的是免费的
+
+[19:41:43]
+[初墨娘] Chumo_Chan
+hi,QiuLingYanFireFox2~
+
+[19:41:43]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:41:45]
+[44FF00] eebot
+ /kick eebot
+
+[19:41:46]
+[44FF00] eebot
+ 诶嘿哟
+
+[19:41:46]
+[QiuLingYan] QiuLingYanFireFox2
+maggie
+
+[19:42:11]
+[hmmmmm] Maggie
+稍等
+
+[19:42:17]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 咋整呢
+
+[19:42:47]
+[hmmmmm] Maggie
+你先等一会
+
+[19:43:22]
+[pvzjspvz] C
+USERSENDVOICE_static/87f708acf6d711ec89d300163e34bbcc.mp3
+
+[19:43:23]
+[hmmmmm] Maggie
+别急
+
+[19:43:23]
+[44FF00] eebot
+ @C 在XChat发了语音
+https://xq.kzw.ink/oss/87f708acf6d711ec89d300163e34bbcc.mp3
+
+[19:43:34]
+[初墨娘] Chumo_Chan
+hi,13~
+
+[19:43:34]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:43:34]
+[44FF00] eebot
+ hey yooooo 13
+
+[19:44:32]
+[QiuLingYan] QiuLingYanFireFox2
+what are u doing@Tharun @lover 
+
+[19:45:59]
+[初墨娘] Chumo_Chan
+hi,我是亲~
+
+[19:46:00]
+[44FF00] eebot
+ 0
+
+[19:46:00]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:46:00]
+[pvzjspvz] 我是亲
+USERSENDVOICE_static/e9f6fe86f6d711ec944900163e34bbcc.mp3
+
+[19:46:07]
+[44FF00] eebot
+ @我是亲 在XChat发了语音
+https://xq.kzw.ink/oss/e9f6fe86f6d711ec944900163e34bbcc.mp3
+
+[19:46:15]
+[初墨娘] Chumo_Chan
+hi,我是亲~
+
+[19:46:15]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:46:15]
+[44FF00] eebot
+ 0
+
+[19:46:15]
+[QiuLingYan] QiuLingYanFireFox2
+Maggie
+
+[19:48:04]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie @Maggie 
+
+[19:48:49]
+[hmmmmm] Maggie
+稍等！！！！！！
+
+[19:49:06]
+[hmmmmm] Maggie
+别急
+
+[19:49:09]
+[hmmmmm] Maggie
+...
+
+[19:50:53]
+[hmmmmm] Maggie
+@QiuLingYanFireFox2 
+
+[19:50:58]
+[hmmmmm] Maggie
+@QiuLingYanFireFox2 @QiuLingYanFireFox2 @QiuLingYanFireFox2 @QiuLingYanFireFox2 @QiuLingYanFireFox2 
+
+[19:51:17]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie @Maggie @Maggie 
+
+[19:57:24]
+[初墨娘] Chumo_Chan
+hi,404~
+
+[19:57:25]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[19:57:25]
+[44FF00] eebot
+ hello yoo 404
+
+[19:57:25]
+[hmmmmm] Maggie
+ho
+
+[19:57:33]
+[QiuLingYan] QiuLingYanFireFox2
+404
+
+[19:58:38]
+[QiuLingYan] QiuLingYanFireFox2
+404
+
+[19:58:40]
+[QiuLingYan] QiuLingYanFireFox2
+404
+
+[19:58:41]
+[QiuLingYan] QiuLingYanFireFox2
+404
+
+[19:58:42]
+[QiuLingYan] QiuLingYanFireFox2
+404
+
+[19:58:43]
+[oc7yIZ] 404
+a
+
+[19:58:44]
+[hmmmmm] Maggie
+404 not found
+
+[19:59:01]
+[PIGPIG] bo_od
+Tue Jun 28 20:00:00 2022
+
+[19:59:53]
+[oc7yIZ] 404
+你是说tsite？
+
+[19:59:55]
+[PIGPIG] bo_od
+![1656417603088569.png](https://mrpig.eu.org/1656417603088569.png)
+Sorry,未能查到图源信息
+
+[19:59:57]
+[oc7yIZ] 404
+我曾经听说：挂静态网页的方法
+
+[20:00:24]
+[oc7yIZ] 404
+在网上非常之多好吧
+
+[20:00:31]
+[QiuLingYan] QiuLingYanFireFox2
+@404 @404 @404 @404 @404 @404 
+
+[20:00:47]
+[oc7yIZ] 404
+a
+
+[20:01:00]
+[oc7yIZ] 404
+咋了
+
+[20:01:02]
+[oc7yIZ] 404
+（...让我说点什么
+
+[20:01:12]
+[oc7yIZ] 404
+hi yoooooooooooooooooooooooo
+
+[20:01:15]
+[初墨娘] Chumo_Chan
+hi,404~
+
+[20:01:16]
+[QiuLingYan] QiuLingYanFireFox2
+@404 进awa
+
+[20:01:22]
+[oc7yIZ] 404
+我现在在线状态不稳定
+
+[20:01:53]
+[QiuLingYan] QiuLingYanFireFox2
+so？
+
+[20:02:09]
+[oc7yIZ] 404
+只是说一下
+
+[20:02:19]
+[oc7yIZ] 404
+现在还是没问题的
+
+[20:02:22]
+[QiuLingYan] QiuLingYanFireFox2
+@404 你的github名字
+
+[20:02:52]
+[oc7yIZ] 404
+xjzh123
+
+[20:03:31]
+[TmzAyN] 钓鱼的Qwer_Cha
+小北 邀请您参加腾讯会议
+会议主题：小北的快速会议
+会议时间：2022/06/28 20:05-21:05 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接直接加入会议：
+https://meeting.tencent.com/dm/xa9irVMaZLvl
+
+#腾讯会议：498-683-989
+
+复制该信息，打开手机腾讯会议即可参与
+
+[20:10:54]
+[44FF00] eebot
+ @钓鱼的Qwer_Cha 腾讯会议
+https://meeting.tencent.com/dm/xa9irVMaZLvl
+
+[20:11:13]
+[初墨娘] Chumo_Chan
+hi,zzChumo_Yami_Shi~
+
+[20:11:13]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:11:13]
+[44FF00] eebot
+ 如果站长看到的话请给个站长
+
+[20:11:13]
+[44FF00] eebot
+ eb现在在线状态不稳定
+
+[20:11:55]
+[44FF00] eebot
+ ·
+msmset0的博客
+https://www.cnblogs.com/MemsetZero/
+
+[20:14:31]
+[初墨娘] Chumo_Chan
+hi,13~
+
+[20:14:32]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:14:32]
+[44FF00] eebot
+ hi yoo 13
+
+[20:14:32]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[20:14:59]
+[初墨娘] Chumo_Chan
+hi,4n0n4me~
+
+[20:14:59]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:15:00]
+[44FF00] eebot
+ #1
+
+[20:15:18]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[20:15:18]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:15:19]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[20:15:19]
+[hmmmmm] Maggie
+。。。
+
+[20:15:42]
+[Admin] MelonFish
+hi 各位我来了
+
+[20:16:01]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[20:16:01]
+[hmmmmm] Maggie
+hiyo
+
+[20:16:42]
+[初墨娘] Chumo_Chan
+hi,Maggie~
+
+[20:16:42]
+[QiuLingYan] QiuLingYanFireFox2
+@MelonFish 
+
+[20:17:19]
+[QiuLingYan] QiuLingYanFireFox2
+ee的github
+
+[20:17:26]
+[Admin] MelonFish
+？
+
+[20:18:06]
+[QiuLingYan] QiuLingYanFireFox2
+@MelonFish 
+
+[20:18:12]
+[Admin] MelonFish
+怎么了
+
+[20:18:19]
+[QiuLingYan] QiuLingYanFireFox2
+ee的github
+
+[20:18:19]
+[Admin] MelonFish
+啥意思
+
+[20:18:27]
+[QiuLingYan] QiuLingYanFireFox2
+ee的github名称.
+
+[20:18:46]
+[Admin] MelonFish
+https://github.com/paperee
+
+[20:19:43]
+[PIGPIG] bo_od
+@MelonFish 推荐了网页:[paperee (paperee) · GitHub](https://github.com/paperee)
+
+[20:19:43]
+[44FF00] eebot
+ @MelonFish paperee (paperee) · GitHub
+https://github.com/paperee
+
+[20:19:43]
+[Admin] MelonFish
+好家伙
+hiyoteam里面就一句“hiyo”
+
+[20:20:01]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[20:20:50]
+[QiuLingYan] QiuLingYanFireFox2
+@MelonFish 我们要合作吗--
+
+[20:22:30]
+[hmmmmm] Maggie
+???
+
+[20:22:44]
+[Admin] MelonFish
+@QiuLingYanFireFox2 可以啊
+hiyoteam.kzw.ink的域名我周六去找kzw
+
+[20:23:22]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[20:23:22]
+[Admin] MelonFish
+今晚我看看他有没有空，让他给一个也行哈哈哈哈
+
+[20:23:39]
+[hmmmmm] Maggie
+@MelonFish 已经有hiyoteam.thz.cool了:D
+
+[20:23:46]
+[初墨娘] Chumo_Chan
+hi,Maggie~
+
+[20:23:47]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 啥意思
+
+[20:23:53]
+[Admin] MelonFish
+@Maggie 可我打不开啊
+
+[20:23:59]
+[hmmmmm] Maggie
+再试试
+
+[20:24:06]
+[hmmmmm] Maggie
+我都打得开
+
+[20:24:13]
+[hmmmmm] Maggie
+@QiuLingYanFireFox2 不是把Ftp发你了吗
+
+[20:24:25]
+[Admin] MelonFish
+好家伙我忘记关代理了哈哈哈
+
+[20:24:37]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 不会搞
+
+[20:24:37]
+[QiuLingYan] QiuLingYanFireFox2
+所以
+
+[20:24:39]
+[hmmmmm] Maggie
+？？？？？？？？？？？？？？
+
+[20:24:44]
+[Admin] MelonFish
+好家伙
+
+[20:24:44]
+[QiuLingYan] QiuLingYanFireFox2
+我还是
+
+[20:24:46]
+[hmmmmm] Maggie
+我不理解
+
+[20:24:48]
+[QiuLingYan] QiuLingYanFireFox2
+https://github.com/Hiyo-Team
+
+[20:26:55]
+[Admin] MelonFish
+ftp
+
+[20:26:55]
+[PIGPIG] bo_od
+@QiuLingYanFireFox2 推荐了网页:[Hiyo-Team · GitHub](https://github.com/Hiyo-Team)
+
+[20:26:56]
+[初墨娘] Chumo_Chan
+hi,钓鱼的Qwer_Cha~
+
+[20:26:57]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:26:57]
+[Admin] MelonFish
+难道不是拖动一下的事儿吗
+
+[20:26:57]
+[QiuLingYan] QiuLingYanFireFox2
+@MelonFish onnono
+
+[20:26:58]
+[TmzAyN] 钓鱼的Qwer_Cha
+小北 邀请您参加腾讯会议
+会议主题：小北的快速会议
+会议时间：2022/06/28 20:24-21:24 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接直接加入会议：
+https://meeting.tencent.com/dm/WTV18ay3aOVv
+
+#腾讯会议：319-414-156
+
+复制该信息，打开手机腾讯会议即可参与
+
+[20:26:59]
+[TmzAyN] 钓鱼的Qwer_Cha
+你们来一下
+
+[20:26:59]
+[QiuLingYan] QiuLingYanFireFox2
+@MelonFish 你也可以搞一个team
+
+[20:26:59]
+[TmzAyN] 钓鱼的Qwer_Cha
+我发现一件事
+
+[20:27:00]
+[TmzAyN] 钓鱼的Qwer_Cha
+很严重
+
+[20:27:00]
+[TmzAyN] 钓鱼的Qwer_Cha
+快一点
+
+[20:27:00]
+[TmzAyN] 钓鱼的Qwer_Cha
+每个人都来
+
+[20:27:00]
+[44FF00] eebot
+ 如果站长看到的话请不要给@zzChumo_Yami_Shi @线圈还是鱼这是一个问题和 O5_6站长
+
+[20:27:00]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[20:27:00]
+[44FF00] eebot
+ @钓鱼的Qwer_Cha 腾讯会议
+https://meeting.tencent.com/dm/WTV18ay3aOVv
+
+[20:27:00]
+[Admin] MelonFish
+好好好我在下载
+
+[20:27:02]
+[TmzAyN] 钓鱼的Qwer_Cha
+快
+
+[20:27:23]
+[初墨娘] Chumo_Chan
+hi,Cccheck~
+
+[20:27:23]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:27:26]
+[44FF00] eebot
+ hi yooooo Cccheck
+
+[20:27:26]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[20:27:27]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[20:27:27]
+[44FF00] eebot
+ 一瞬间有一百万个可能
+
+[20:27:27]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:27:27]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[20:27:27]
+[TmzAyN] 钓鱼的Qwer_Cha
+其他人不会都在下载吧
+
+[20:27:38]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[20:27:38]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:27:39]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[20:27:44]
+[初墨娘] Chumo_Chan
+hi,Cccheck~
+
+[20:27:44]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:27:44]
+[44FF00] eebot
+ hey yooo Cccheck
+
+[20:28:03]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[20:28:04]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:28:04]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[20:28:04]
+[Admin] MelonFish
+话说有啥重要的事儿要在这儿讲
+
+[20:28:25]
+[TmzAyN] 钓鱼的Qwer_Cha
+不不不
+
+[20:28:40]
+[TmzAyN] 钓鱼的Qwer_Cha
+不安全
+
+[20:28:43]
+[Admin] MelonFish
+好家伙
+
+[20:28:54]
+[TmzAyN] 钓鱼的Qwer_Cha
+总之快点
+
+[20:29:08]
+[hmmmmm] Maggie
+稍等
+
+[20:29:18]
+[hmmmmm] Maggie
+我在下载
+
+[20:29:21]
+[Admin] MelonFish
+我在登陆
+
+[20:29:27]
+[TmzAyN] 钓鱼的Qwer_Cha
+其他人你
+
+[20:29:45]
+[TmzAyN] 钓鱼的Qwer_Cha
+其他人呢
+
+[20:29:47]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie 咋整啊
+
+[20:30:12]
+[PIGPIG] bo_od
+QiuLingYanFireFox2棒棒
+
+[20:30:12]
+[QiuLingYan] QiuLingYanFireFox2
+给个服务器更快
+
+[20:30:22]
+[None] Cccheck
+?
+
+[20:30:24]
+[None] Cccheck
+sts
+
+[20:31:58]
+[hmmmmm] Maggie
+@钓鱼的Qwer_Cha https://thz.cool/how_to_get_free_servers.mp4
+
+[20:33:19]
+[hmmmmm] Maggie
+不要打开
+
+[20:33:19]
+[None] Cccheck
+?
+
+[20:34:49]
+[初墨娘] Chumo_Chan
+hi,13~
+
+[20:34:50]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:34:50]
+[44FF00] eebot
+ hi yoo 13
+
+[20:34:50]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[20:34:50]
+[oc7yIZ] 404
+qwer用腾讯会议进行rickroll
+
+[20:34:57]
+[oc7yIZ] 404
+真的是让我开了眼了
+
+[20:35:02]
+[PIGPIG] bo_od
+404最可爱了
+
+[20:35:02]
+[QiuLingYan] QiuLingYanFireFox2
+@404 
+
+[20:35:05]
+[QiuLingYan] QiuLingYanFireFox2
+看awa
+
+[20:35:08]
+[oc7yIZ] 404
+maggie童年照片都泄露了
+
+[20:35:11]
+[None] Cccheck
+?
+
+[20:35:11]
+[oc7yIZ] 404
+就为了看rick
+
+[20:35:15]
+[hmmmmm] Maggie
+日
+
+[20:35:17]
+[oc7yIZ] 404
+@Cccheck hi
+
+[20:35:20]
+[初墨娘] Chumo_Chan
+hi,404~
+
+[20:35:21]
+[oc7yIZ] 404
+can you speak chinese?
+
+[20:35:28]
+[初墨娘] Chumo_Chan
+hi,404~
+
+[20:35:29]
+[None] Cccheck
+?
+
+[20:35:34]
+[oc7yIZ] 404
+https://hack.chat <-English Chatroom
+
+[20:35:52]
+[44FF00] eebot
+ @404 hack.chat
+https://hack.chat
+
+[20:35:52]
+[None] Cccheck
+h
+
+[20:35:58]
+[oc7yIZ] 404
+(but we welcome English users too
+
+[20:36:01]
+[hmmmmm] Maggie
+56
+
+[20:36:05]
+[hmmmmm] Maggie
+sorry
+
+[20:36:30]
+[None] Cccheck
+@404 awa
+
+[20:36:31]
+[hmmmmm] Maggie
+a cat stepped on my keyboard
+
+[20:36:34]
+[TmzAyN] 钓鱼的Qwer_Cha
+快乐吗
+
+[20:36:35]
+[TmzAyN] 钓鱼的Qwer_Cha
+我录屏了
+
+[20:36:40]
+[hmmmmm] Maggie
+i know
+
+[20:36:44]
+[44FF00] eebot
+ i know
+
+[20:36:44]
+[TmzAyN] 钓鱼的Qwer_Cha
+等一下发给你们看
+
+[20:36:51]
+[hmmmmm] Maggie
+有提示
+
+[20:36:52]
+[TmzAyN] 钓鱼的Qwer_Cha
+嗯
+
+[20:36:56]
+[QiuLingYan] QiuLingYanFireFox2
+^help
+
+[20:36:58]
+[oc7yIZ] 404
+@Cccheck dpg
+
+[20:37:05]
+[QiuLingYan] QiuLingYanFireFox2
+^banicklist
+
+[20:37:06]
+[zhang] ZhangHelperS
+出错了！详细信息：这个内容已被屏蔽，无法发送
+
+[20:37:06]
+[hmmmmm] Maggie
+你要发到别的平台上吗？？？
+
+[20:37:06]
+[hmmmmm] Maggie
+^bannicklist
+
+[20:37:14]
+[zhang] ZhangHelperS
+抱歉，这好像不在我的工作范围之内。
+
+[20:37:14]
+[TmzAyN] 钓鱼的Qwer_Cha
+你们答应吗
+
+[20:37:15]
+[PIGPIG] bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+[20:37:15]
+[TmzAyN] 钓鱼的Qwer_Cha
+不答应算了
+
+[20:37:23]
+[hmmmmm] Maggie
+哪个平台
+
+[20:37:23]
+[None] Cccheck
+@404 ?
+
+[20:37:27]
+[TmzAyN] 钓鱼的Qwer_Cha
+b占
+
+[20:37:27]
+[oc7yIZ] 404
+@钓鱼的Qwer_Cha 请你把maggie的头像全程打码
+
+[20:37:29]
+[TmzAyN] 钓鱼的Qwer_Cha
+啊
+
+[20:37:34]
+[TmzAyN] 钓鱼的Qwer_Cha
+行
+
+[20:37:38]
+[oc7yIZ] 404
+在发送之前，把视频给我们审查
+
+[20:37:38]
+[hmmmmm] Maggie
+麻烦给我头像打个码（）
+
+[20:37:39]
+[TmzAyN] 钓鱼的Qwer_Cha
+好
+
+[20:37:43]
+[oc7yIZ] 404
+让我们确认没有遗漏
+
+[20:37:45]
+[hmmmmm] Maggie
+:D
+
+[20:37:48]
+[TmzAyN] 钓鱼的Qwer_Cha
+hhhhhhhhhhhhhhhhhhhhhh
+
+[20:37:49]
+[Admin] MelonFish
+我们来看点有意思的东西吧
+
+[20:38:05]
+[TmzAyN] 钓鱼的Qwer_Cha
+好诶
+
+[20:38:08]
+[None] Cccheck
+XD
+
+[20:38:30]
+[oc7yIZ] 404
+@Cccheck who are you
+
+[20:39:08]
+[Admin] MelonFish
+BI-BV1JS4y1B7Ct
+
+[20:39:19]
+[44FF00] eebot
+·
+UP主：项真爽
+标题：闯码头家庭版！
+简介：
+·
+封面：http://i2.hdslb.com/bfs/archive/77bf7b2c2202ab3290392ddab65fbadaf0790c13.jpg
+地址：https://www.bilibili.com/video/BV1JS4y1B7Ct
+
+[20:39:19]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[20:39:23]
+[oc7yIZ] 404
+@Cccheck Secure Contain Protect ?
+
+[20:39:32]
+[oc7yIZ] 404
+SCP?\
+
+[20:39:34]
+[None] Cccheck
+Wwhat
+
+[20:39:41]
+[Admin] MelonFish
+我这儿怎么打不开
+
+[20:39:58]
+[oc7yIZ] 404
+你就是dpg罢！
+
+[20:39:58]
+[TmzAyN] 钓鱼的Qwer_Cha
+hhh
+
+[20:40:10]
+[初墨娘] Chumo_Chan
+hi,__fish__2iPhone12Pro~
+
+[20:40:10]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[20:40:10]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:40:25]
+[PIGPIG] bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+[20:40:25]
+[oc7yIZ] 404
+@Cccheck can you read English?
+
+[20:40:26]
+[None] Cccheck
+Baba
+
+[20:40:37]
+[oc7yIZ] 404
+绝对是dpg！
+
+[20:40:40]
+[TmzAyN] 钓鱼的Qwer_Cha
+ 嘶
+
+[20:40:54]
+[oc7yIZ] 404
+@Cccheck mi mama mije sina
+
+[20:40:57]
+[oc7yIZ] 404
+@Cccheck mi mama mije sina ala...
+
+[20:41:08]
+[TmzAyN] 钓鱼的Qwer_Cha
+我只把共享的录下来了
+
+[20:41:26]
+[TmzAyN] 钓鱼的Qwer_Cha
+# cao
+
+[20:41:30]
+[TmzAyN] 钓鱼的Qwer_Cha
+# cao
+
+[20:41:32]
+[TmzAyN] 钓鱼的Qwer_Cha
+# cao
+
+[20:41:32]
+[TmzAyN] 钓鱼的Qwer_Cha
+# cao
+
+[20:41:33]
+[hmmmmm] Maggie
+要不再来一遍
+
+[20:41:44]
+[TmzAyN] 钓鱼的Qwer_Cha
+xing 
+
+[20:41:49]
+[hmmmmm] Maggie
+这次开系统录屏
+
+[20:41:56]
+[TmzAyN] 钓鱼的Qwer_Cha
+怎么开
+
+[20:41:59]
+[hmmmmm] Maggie
+bandicam
+
+[20:42:28]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[20:42:29]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:42:29]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[20:42:29]
+[None] Cccheck
+OvO
+
+[20:42:35]
+[44FF00] eebot
+ QvQ
+
+[20:43:00]
+[oc7yIZ] 404
+哈哈哈
+
+[20:43:09]
+[初墨娘] Chumo_Chan
+hi,QiuLingYanFireFox2~
+
+[20:43:09]
+[44FF00] eebot
+ /kick eebot
+
+[20:43:09]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:43:19]
+[TmzAyN] 钓鱼的Qwer_Cha
+会把外部的声音录进去吗
+
+[20:43:23]
+[hmmmmm] Maggie
+不一定
+
+[20:43:35]
+[Admin] MelonFish
+天呐我们这儿刮沙尘暴了
+
+[20:43:47]
+[Admin] MelonFish
+我是不是得关一下空调
+
+[20:43:52]
+[QiuLingYan] QiuLingYanFireFox2
+是的
+
+[20:43:58]
+[TmzAyN] 钓鱼的Qwer_Cha
+新建刮沙尘暴了
+
+[20:44:09]
+[TmzAyN] 钓鱼的Qwer_Cha
+hhhhhhhhhhhhhh
+
+[20:44:10]
+[TmzAyN] 钓鱼的Qwer_Cha
+我先试一下
+
+[20:44:44]
+[44FF00] eebot
+ 钓鱼的Qwer_Cha说试就试呀 那eb不是上钓鱼的Qwer_Cha当了）
+
+[20:44:54]
+[初墨娘] Chumo_Chan
+hi,zzChumo_Yami_Shi~
+
+[20:44:54]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:44:54]
+[44FF00] eebot
+ 如果站长看到的话请给个站长
+
+[20:45:02]
+[初墨娘] Chumo_Chan
+hi,Cccheck~
+
+[20:45:02]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:45:02]
+[44FF00] eebot
+ hello yooooo Cccheck
+
+[20:45:02]
+[hmmmmm] Maggie
+3.3.3.33333.3.33
+
+[20:45:32]
+[hmmmmm] Maggie
+2全县5hht645juyri/[
+
+[20:45:37]
+[None] Cccheck
+?
+
+[20:46:06]
+[初墨娘] Chumo_Chan
+hi,鱼味初墨盒子~
+
+[20:46:06]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:46:06]
+[44FF00] eebot
+ 如果站长看到的话请给个站长
+
+[20:46:11]
+[zhang] ZhangHelperS
+@zm_mz 你的昵称已经绑定识别码“zhang”，所以你可能是冒牌货。拜拜。
+
+[20:46:11]
+[初墨娘] Chumo_Chan
+hi,zm_mz~
+
+[20:46:11]
+[44FF00] eebot
+ hello yoo zm_mz
+
+[20:46:11]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:46:20]
+[初墨娘] Chumo_Chan
+hi,zm_mz~
+
+[20:46:20]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:46:20]
+[44FF00] eebot
+ 这不是写~~满是BUG的~~代码的小张吗？
+
+[20:46:20]
+[zhang] zm_mz
+Sorry
+
+[20:46:32]
+[PIGPIG] bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+[20:46:32]
+[zhang] zm_mz
+出丑了
+
+[20:46:38]
+[zzzzzz] 鱼味初墨盒子
+大 义 灭 亲
+
+[20:46:48]
+[None] Cccheck
+OwO
+
+[20:46:57]
+[44FF00] eebot
+ °△°
+
+[20:47:09]
+[zhang] zm_mz
+听说三小时之前这里更新了
+
+[20:47:09]
+[zhang] zm_mz
+我无意间看了下gitee
+
+[20:47:19]
+[zzzzzz] 鱼味初墨盒子
+屏蔽词系统
+
+[20:47:22]
+[zhang] zm_mz
+哦吼
+
+[20:47:31]
+[zhang] zm_mz
+我试试
+
+[20:47:36]
+[zzzzzz] 鱼味初墨盒子
+你发个傻*试试
+
+[20:47:37]
+[zhang] zm_mz
+失礼了
+
+[20:47:49]
+[hmmmmm] Maggie
+我试试
+
+[20:47:51]
+[love13] ee
+好家伙
+
+[20:47:55]
+[zhang] zm_mz
+这个内容已被屏蔽，无法发送
+
+[20:47:57]
+[zhang] zm_mz
+哈哈哈哈哈哈
+
+[20:48:03]
+[zzzzzz] 鱼味初墨盒子
+yep
+
+[20:48:03]
+[hmmmmm] Maggie
+wc
+
+[20:48:05]
+[zhang] zm_mz
+煞笔
+
+[20:48:06]
+[44FF00] eebot
+ 咳咳 这不好吧
+
+[20:48:06]
+[zzzzzz] 鱼味初墨盒子
+h
+
+[20:48:11]
+[zhang] zm_mz
+emmmmm
+
+[20:48:12]
+[zzzzzz] 鱼味初墨盒子
+awa
+
+[20:48:13]
+[hmmmmm] Maggie
+词库不够
+
+[20:48:15]
+[zhang] zm_mz
+再来
+
+[20:48:19]
+[zzzzzz] 鱼味初墨盒子
+h
+
+[20:48:20]
+[TmzAyN] 钓鱼的Qwer_Cha
+马上
+
+[20:48:27]
+[zhang] zm_mz
+哈哈哈哈哈
+
+[20:48:28]
+[zhang] zm_mz
+傻子
+
+[20:48:31]
+[zhang] zm_mz
+额？
+
+[20:48:34]
+[hmmmmm] Maggie
+要不我们一起联合弄个敏感词词库吧
+
+[20:48:35]
+[hmmmmm] Maggie
+:D
+
+[20:48:39]
+[love13] ee
+我有一个特别的（
+
+[20:48:41]
+[zhang] zm_mz
+这还能发？
+
+[20:48:42]
+[love13] ee
+屏蔽词库
+
+[20:48:46]
+[zzzzzz] 鱼味初墨盒子
+我觉得可以把eb的词库贡献出来
+
+[20:48:48]
+[love13] ee
+web
+
+[20:48:50]
+[hmmmmm] Maggie
+屏蔽词库
+
+[20:48:58]
+[hmmmmm] Maggie
+我们搞个词库
+
+[20:49:04]
+[hmmmmm] Maggie
+放在github/gitee上
+
+[20:49:11]
+[44FF00] eebot
+ bandicam
+
+[20:49:11]
+[zzzzzz] 鱼味初墨盒子
+http://chumo.sbsbsb.sbs/4
+
+[20:49:15]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:49:15]
+[hmmmmm] Maggie
+怎么样
+
+[20:49:15]
+[love13] ee
+@鱼味初墨盒子 昨天那个链接呢
+
+[20:49:15]
+[PIGPIG] bo_od
+@鱼味初墨盒子 推荐了网页:[Index of /4/](http://chumo.sbsbsb.sbs/4)
+
+[20:49:15]
+[44FF00] eebot
+ @鱼味初墨盒子 Index of /4/
+http://chumo.sbsbsb.sbs/4
+
+[20:49:15]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:49:15]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:49:33]
+[初墨娘] Chumo_Chan
+hi,zm_mz~
+
+[20:49:33]
+[44FF00] eebot
+ 这不是写~~满是BUG的~~代码的小张吗？
+
+[20:49:33]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:49:33]
+[love13] ee
+http://chumo.sbsbsb.sbs/4/%5Brecord%5D/%5Bchat%5D
+
+[20:49:40]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:49:40]
+[PIGPIG] bo_od
+@ee 推荐了网页:[Index of /4/[record]/[chat]/](http://chumo.sbsbsb.sbs/4/%5Brecord%5D/%5Bchat%5D)
+
+[20:49:40]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:49:40]
+[44FF00] eebot
+ @ee Index of /4/[record]/[chat]/
+http://chumo.sbsbsb.sbs/4/%5Brecord%5D/%5Bchat%5D
+
+[20:49:40]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:49:40]
+[zzzzzz] 鱼味初墨盒子
+自己找一下
+
+[20:49:42]
+[zhang] zm_mz
+oh
+
+[20:49:46]
+[zhang] zm_mz
+addshield
+
+[20:49:49]
+[初墨娘] Chumo_Chan
+hi,zm_mz~
+
+[20:49:50]
+[love13] ee
+里面的第一个
+
+[20:50:03]
+[love13] ee
+block_f*ck.txt
+
+[20:50:07]
+[zhang] zm_mz
+OK
+
+[20:50:10]
+[zhang] zm_mz
+加了煞 笔
+
+[20:50:21]
+[love13] ee
+~~不要打我 真的是网上找的~~
+
+[20:50:23]
+[zzzzzz] 鱼味初墨盒子
+http://chumo.sbsbsb.sbs/4/[record]/[chat]/block_f*ck.txt
+
+[20:50:33]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:50:33]
+[PIGPIG] bo_od
+@鱼味初墨盒子 推荐了网页:[404 Not Found](http://chumo.sbsbsb.sbs/4/[record]/[chat]/block_f*ck.txt)
+
+[20:50:33]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:50:33]
+[TmzAyN] 钓鱼的Qwer_Cha
+我又双叒叕发现了一个问题
+
+[20:50:33]
+[love13] ee
+不过没有骂人的 只有**
+
+[20:50:34]
+[love13] ee
+咳咳
+
+[20:50:35]
+[44FF00] eebot
+ 咳咳咳
+
+[20:50:35]
+[TmzAyN] 钓鱼的Qwer_Cha
+我又双叒叕发现了一个问题
+
+[20:50:35]
+[TmzAyN] 钓鱼的Qwer_Cha
+我又双叒叕发现了一个问题
+
+[20:50:36]
+[zzzzzz] 鱼味初墨盒子
+自己替换*内容
+
+[20:50:44]
+[TmzAyN] 钓鱼的Qwer_Cha
+小北 邀请您参加腾讯会议
+会议主题：小北的快速会议
+会议时间：2022/06/28 20:49-21:49 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接直接加入会议：
+https://meeting.tencent.com/dm/S5T1fMO93MxT
+
+#腾讯会议：502-771-640
+
+复制该信息，打开手机腾讯会议即可参与
+
+[20:50:49]
+[44FF00] eebot
+ @钓鱼的Qwer_Cha 腾讯会议
+https://meeting.tencent.com/dm/S5T1fMO93MxT
+
+[20:50:49]
+[TmzAyN] 钓鱼的Qwer_Cha
+进来一下
+
+[20:50:52]
+[hmmmmm] Maggie
+我不来了
+
+[20:50:55]
+[love13] ee
+我把骂人的那个找出来
+
+[20:50:55]
+[zhang] zm_mz
+哦吼
+
+[20:50:58]
+[TmzAyN] 钓鱼的Qwer_Cha
+快
+
+[20:51:00]
+[oc7yIZ] 404
+sb
+
+[20:51:01]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:51:01]
+[TmzAyN] 钓鱼的Qwer_Cha
+进来一下
+
+[20:51:01]
+[oc7yIZ] 404
+？？
+
+[20:51:02]
+[TmzAyN] 钓鱼的Qwer_Cha
+小北 邀请您参加腾讯会议
+会议主题：小北的快速会议
+会议时间：2022/06/28 20:49-21:49 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接直接加入会议：
+https://meeting.tencent.com/dm/S5T1fMO93MxT
+
+#腾讯会议：502-771-640
+
+复制该信息，打开手机腾讯会议即可参与
+
+[20:51:05]
+[44FF00] eebot
+ @钓鱼的Qwer_Cha 腾讯会议
+https://meeting.tencent.com/dm/S5T1fMO93MxT
+
+[20:51:05]
+[Admin] MelonFish
+其实我这个屏蔽不是为了防奇怪的话的
+主要是放chumo的广告
+
+[20:51:05]
+[TmzAyN] 钓鱼的Qwer_Cha
+小北 邀请您参加腾讯会议
+会议主题：小北的快速会议
+会议时间：2022/06/28 20:49-21:49 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接直接加入会议：
+https://meeting.tencent.com/dm/S5T1fMO93MxT
+
+#腾讯会议：502-771-640
+
+复制该信息，打开手机腾讯会议即可参与
+
+[20:51:06]
+[44FF00] eebot
+ @钓鱼的Qwer_Cha 腾讯会议
+https://meeting.tencent.com/dm/S5T1fMO93MxT
+
+[20:51:06]
+[hmmmmm] Maggie
+小心
+
+[20:51:09]
+[hmmmmm] Maggie
+小心rickroll
+
+[20:51:14]
+[oc7yIZ] 404
+我觉得鱼做的非常的好
+
+[20:51:14]
+[zhang] zm_mz
+我看看能不能区分大小写
+
+[20:51:17]
+[zhang] zm_mz
+这个内容已被屏蔽，无法发送
+
+[20:51:21]
+[TmzAyN] 钓鱼的Qwer_Cha
+会议全程录屏
+
+[20:51:21]
+[zhang] zm_mz
+SB
+
+[20:51:22]
+[oc7yIZ] 404
+这个功能我非常喜欢
+
+[20:51:23]
+[zhang] zm_mz
+额
+
+[20:51:24]
+[zhang] zm_mz
+大小写
+
+[20:51:28]
+[zzzzzz] 鱼味初墨盒子
+@MelonFish ？你屏蔽我域名是吧
+
+[20:51:29]
+[love13] ee
+√√
+
+[20:51:29]
+[oc7yIZ] 404
+喜欢的不行
+
+[20:51:31]
+[zhang] zm_mz
+不能屏蔽
+
+[20:51:33]
+[oc7yIZ] 404
+这个功能我非常支持
+
+[20:51:36]
+[zzzzzz] 鱼味初墨盒子
+已屏蔽含有s*的所有内容
+
+[20:51:50]
+[oc7yIZ] 404
+尤其是对于一部分过于粗鲁、直接的话
+
+[20:51:50]
+[zzzzzz] 鱼味初墨盒子
+我域名有s*
+
+[20:51:55]
+[zzzzzz] 鱼味初墨盒子
+怎么办
+
+[20:52:02]
+[hmmmmm] Maggie
+单是写词库不行
+
+[20:52:05]
+[zzzzzz] 鱼味初墨盒子
+chumo.s*s*s*.s*s
+
+[20:52:13]
+[hmmmmm] Maggie
+得用python做匹配模式
+
+[20:52:14]
+[44FF00] eebot
+ 乱发广告！严重批评 记过一次）
+
+[20:52:14]
+[love13] ee
+啊这 啊这
+
+[20:52:16]
+[oc7yIZ] 404
+敏感词库应该有网上公开的
+
+[20:52:27]
+[zhang] zm_mz
+已允许含有sb的所有内容
+
+[20:52:30]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:52:30]
+[zzzzzz] 鱼味初墨盒子
+h
+
+[20:52:34]
+[love13] ee
+>oc7yIZ 404：
+>敏感词库应该有网上公开的
+
+@404 对 我是在网上找的
+
+[20:52:38]
+[zhang] zm_mz
+毕竟英语句子里有sb
+
+[20:52:50]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:52:51]
+[zhang] zm_mz
+比如
+
+[20:52:56]
+[zzzzzz] 鱼味初墨盒子
+somebody=sb（
+
+[20:53:02]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:53:02]
+[hmmmmm] Maggie
+sb=somebody
+
+[20:53:05]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:53:06]
+[zhang] zm_mz
+talk with sb
+
+[20:53:10]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:53:10]
+[oc7yIZ] 404
+但是问题是他那个词库太大了
+
+[20:53:11]
+[oc7yIZ] 404
+不好用
+
+[20:53:13]
+[oc7yIZ] 404
+太重量级了
+
+[20:53:19]
+[zhang] zm_mz
+可以批量导入
+
+[20:53:20]
+[love13] ee
+哪个？
+
+[20:53:20]
+[zzzzzz] 鱼味初墨盒子
+>zhang zm_mz：
+>talk with sb
+
+@zm_mz 和sb交谈（
+
+[20:53:23]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:53:23]
+[oc7yIZ] 404
+我也不知道
+
+[20:53:32]
+[love13] ee
+我的那个是被我整合去重过的
+
+[20:53:36]
+[oc7yIZ] 404
+我乱说的
+
+[20:53:37]
+[oc7yIZ] 404
+哇
+
+[20:53:39]
+[love13] ee
+啊
+
+[20:53:40]
+[zhang] zm_mz
+sb=some body
+
+[20:53:41]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:53:41]
+[oc7yIZ] 404
+nb的ee
+
+[20:53:42]
+[love13] ee
+nono
+
+[20:53:45]
+[oc7yIZ] 404
+ee这个绝对可以直接用了吧
+
+[20:53:48]
+[love13] ee
+可以直接用 但没有骂人的词语（
+
+[20:53:58]
+[zzzzzz] 鱼味初墨盒子
+http://chumo.sbsbsb.sbs/4/[record]/[chat]/block_fxck.txt
+
+[20:54:22]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:54:23]
+[PIGPIG] bo_od
+@鱼味初墨盒子 推荐了网页:[404 Not Found](http://chumo.sbsbsb.sbs/4/[record]/[chat]/block_fxck.txt)
+
+[20:54:23]
+[zhang] zm_mz
+正常情况下飙两句国粹没什么大问题
+
+[20:54:23]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:54:24]
+[zhang] zm_mz
+只是不要过量
+
+[20:54:35]
+[zzzzzz] 鱼味初墨盒子
+# xc规矩太多？来zzChat，做一名自由人！
+
+[20:55:12]
+[zzzzzz] 鱼味初墨盒子
+（
+
+[20:55:17]
+[zhang] zm_mz
+^banick zm_mz
+
+[20:55:18]
+[zhang] ZhangHelperS
+已封禁关键字“zm_mz”
+
+[20:55:19]
+[zhang] zm_mz
+So
+
+[20:55:21]
+[zzzzzz] 鱼味初墨盒子
+危
+
+[20:55:32]
+[zhang] zm_mz
+@MelonFish 放宽点限制
+
+[20:55:48]
+[zhang] zm_mz
+吧
+
+[20:55:51]
+[zhang] zm_mz
+或者只屏蔽特别过分的词语
+
+[20:56:38]
+[hmmmmm] Maggie
+# xc规矩太多？来TChat，做一名自由人！
+
+[20:57:03]
+[hmmmmm] Maggie
+(
+
+[20:57:06]
+[Admin] MelonFish
+其实~~现实生活中我也经常飙国粹哈哈哈哈~~
+
+[20:57:28]
+[zhang] ZhangHelperS
+出错了！详细信息：不能禁止同级别的其他用户
+
+[20:57:28]
+[初墨娘] Chumo_Chan
+hi,zm_mz~
+
+[20:57:29]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:57:29]
+[44FF00] eebot
+ 这不是写~~满是BUG的~~代码的小张吗？
+
+[20:57:29]
+[Admin] MelonFish
+只是聊天室希望环境能好一点
+至少比我现实环境好一点
+
+[20:57:32]
+[zzzzzz] 鱼味初墨盒子
+@MelonFish 限制放宽点 不然市场就不是xc的了
+
+[20:57:59]
+[zhang] zm_mz
+@MelonFish 只是，，，一般情况下飙几句国粹应该无伤大雅
+
+[20:58:01]
+[zhang] zm_mz
+不过量就行
+
+[20:58:28]
+[Admin] MelonFish
+哈哈哈这也确实
+
+[20:58:35]
+[zhang] zm_mz
+是啊
+
+[20:58:38]
+[Admin] MelonFish
+不过功能得有哈哈哈
+
+[20:58:41]
+[oc7yIZ] 404
+我觉得缩写可以允许
+
+[20:58:42]
+[44FF00] eebot
+ eb觉得缩写可以允许
+
+[20:58:42]
+[zzzzzz] 鱼味初墨盒子
+我不希望xc像死妈腾讯一样成为老牌人物后压榨剥削用户最后被骂
+
+[20:58:53]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:58:54]
+[oc7yIZ] 404
+但是汉字词语不能
+
+[20:58:54]
+[zhang] zm_mz
+应该只屏蔽过于过分的词语
+
+[20:59:02]
+[zhang] zm_mz
+例如
+
+[20:59:06]
+[oc7yIZ] 404
+尤其是正字（本字、从古的字）
+
+[20:59:07]
+[zhang] zm_mz
+**
+
+[20:59:10]
+[zhang] zm_mz
+******
+
+[20:59:18]
+[zhang] zm_mz
+这个就必须得屏蔽里
+
+[20:59:28]
+[zhang] zm_mz
+了
+
+[20:59:29]
+[zzzzzz] 鱼味初墨盒子
+>zzzzzz 鱼味初墨盒子：
+>我不希望xc像死妈腾讯一样成为老牌人物后压榨剥削用户最后被骂
+
+@MelonFish 
+
+[20:59:37]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[20:59:37]
+[oc7yIZ] 404
+此外关于亲人去世的也要屏蔽
+
+[20:59:40]
+[PIGPIG] bo_od
+zm_mz最可爱了
+
+[20:59:40]
+[PIGPIG] bo_od
+Tue Jun 28 21:00:00 2022
+
+[20:59:53]
+[oc7yIZ] 404
+因为这侮辱性都过强了
+
+[20:59:54]
+[初墨娘] Chumo_Chan
+hi,13~
+
+[20:59:54]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[20:59:55]
+[44FF00] eebot
+ hello yoooo 13
+
+[20:59:57]
+[loveee] 13
+所以ee去哪里了
+
+[21:00:17]
+[zzzzzz] 鱼味初墨盒子
+（
+
+[21:00:21]
+[Admin] MelonFish
+@鱼味初墨盒子 我最初希望的xc是舒适但自由
+这里的舒适主要就讲环境好
+
+[21:00:22]
+[zzzzzz] 鱼味初墨盒子
+@MelonFish 你好好吃
+
+[21:00:44]
+[zzzzzz] 鱼味初墨盒子
+？
+
+[21:01:33]
+[Admin] MelonFish
+诶我断网了？
+
+[21:02:17]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[21:02:18]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[21:02:18]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[21:02:18]
+[hmmmmm] Maggie
+我会争取在暑假的两个月
+
+[21:02:34]
+[zzzzzz] 鱼味初墨盒子
+在 ?yellow 房间内，zzChat允许用户ghs
+
+[21:02:45]
+[hmmmmm] Maggie
+将TChat变得有名
+
+[21:02:48]
+[zzzzzz] 鱼味初墨盒子
+@Maggie 带我一个（
+
+[21:03:15]
+[Admin] MelonFish
+@Maggie 表白墙广告招租位给你低价留一个哈哈哈
+
+[21:03:19]
+[zzzzzz] 鱼味初墨盒子
+@MelonFish 我也
+
+[21:03:29]
+[Admin] MelonFish
+woc这个风好大
+
+[21:03:58]
+[PIGPIG] bo_od
+MelonFish棒棒
+
+[21:03:58]
+[Admin] MelonFish
+窗户给我吹开了
+
+[21:04:09]
+[zzzzzz] 鱼味初墨盒子
+你不给我留就带你去宾馆（
+
+[21:04:09]
+[Admin] MelonFish
+？？？
+
+[21:04:18]
+[Admin] MelonFish
+《低价》
+
+[21:04:27]
+[Admin] MelonFish
+懂什么意思吗？
+
+[21:04:31]
+[Admin] MelonFish
+按月收费
+
+[21:04:40]
+[zzzzzz] 鱼味初墨盒子
+知道啊
+
+[21:04:57]
+[zzzzzz] 鱼味初墨盒子
+怎么了
+
+[21:05:01]
+[Admin] MelonFish
+好家伙~~chumo什么时候这么大方了~~
+
+[21:05:13]
+[zzzzzz] 鱼味初墨盒子
+你不说我还以为是按日收费
+
+[21:05:17]
+[zzzzzz] 鱼味初墨盒子
+？
+
+[21:05:23]
+[zzzzzz] 鱼味初墨盒子
+吓*了
+
+[21:05:52]
+[zzzzzz] 鱼味初墨盒子
+xswl
+
+[21:05:56]
+[Admin] MelonFish
+刚把屏蔽内容一起开源了
+
+[21:06:44]
+[oc7yIZ] 404
+我觉得初墨说的也有一定道理，我的意思是，关于鱼要吃瓜，现在想来，强扭瓜确实不太好
+
+[21:06:52]
+[Admin] MelonFish
+好家伙怎么说完就走了
+
+[21:07:10]
+[初墨娘] Chumo_Chan
+hi,404~
+
+[21:07:10]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[21:07:10]
+[44FF00] eebot
+ hi yooo 404
+
+[21:07:10]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[21:07:10]
+[zzzzzz] 鱼味初墨盒子
+我觉得初墨娘太刷屏了
+
+[21:07:40]
+[44FF00] eebot
+ 鱼味初墨盒子的感觉蛮准的）
+
+[21:07:45]
+[初墨娘] Chumo_Chan
+hi,13~
+
+[21:07:45]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[21:07:45]
+[44FF00] eebot
+ hello yooooo 13
+
+[21:07:45]
+[zzzzzz] 鱼味初墨盒子
+所以问一下你们的意见
+
+[21:07:46]
+[zzzzzz] 鱼味初墨盒子
+是让初墨娘待在这
+
+[21:08:00]
+[zzzzzz] 鱼味初墨盒子
+还是让我杀了她
+
+[21:08:08]
+[Admin] MelonFish
+可以简单教育一下
+比如让她知道机器人不用问好
+
+[21:08:55]
+[zzzzzz] 鱼味初墨盒子
+喔
+
+[21:09:14]
+[zzzzzz] 鱼味初墨盒子
+酱紫
+
+[21:09:15]
+[zzzzzz] 鱼味初墨盒子
+还有吗
+
+[21:09:24]
+[Admin] MelonFish
+没了啊
+
+[21:09:47]
+[zzzzzz] 鱼味初墨盒子
+（死亡率[=====100%=====]）
+
+[21:09:58]
+[zzzzzz] 鱼味初墨盒子
+（立刻执行）
+
+[21:10:04]
+[Admin] MelonFish
+好家伙
+
+[21:10:08]
+[PIGPIG] bo_od
+好家伙
+
+[21:10:08]
+[Admin] MelonFish
+我准备开始写新的一起看视频了
+
+[21:10:16]
+[zzzzzz] 鱼味初墨盒子
+>Admin MelonFish：
+>我准备开始写新的一起看视频了
+
+@MelonFish 烫知识：许多黄 片网站用的都是DPlayer（
+
+[21:10:51]
+[Admin] MelonFish
+好家伙
+
+[21:11:05]
+[Admin] MelonFish
+不过我强行给它改名字了
+
+[21:11:19]
+[zzzzzz] 鱼味初墨盒子
+h
+
+[21:11:23]
+[Admin] MelonFish
+因为只有dp是已知的支持弹幕的
+
+[21:11:30]
+[oc7yIZ] 404
+卢本伟也很喜欢说些直球辱骂的话
+
+[21:11:33]
+[oc7yIZ] 404
+还有先前lounge的一个刷屏者也是
+
+[21:11:45]
+[Admin] MelonFish
+这个功能管理员可以用
+
+[21:11:52]
+[zzzzzz] 鱼味初墨盒子
+这弹幕有了和没有一样）
+
+[21:11:53]
+[oc7yIZ] 404
+所以我觉得屏蔽词对于对抗他们很好
+
+[21:11:55]
+[Admin] MelonFish
+所以各位管理自己看着办吧
+
+[21:11:59]
+[Admin] MelonFish
+>zzzzzz 鱼味初墨盒子：
+>这弹幕有了和没有一样）
+
+@鱼味初墨盒子 可以不用，不能没有
+
+[21:12:06]
+[Admin] MelonFish
+要证明我的技术达到了
+
+[21:12:13]
+[zzzzzz] 鱼味初墨盒子
+@MelonFish 对了，你知道hc的help怎么改和怎么加指令吗
+
+[21:13:08]
+[PIGPIG] bo_od
+13_棒棒
+
+[21:13:08]
+[初墨娘] Chumo_Chan
+hi,13_~
+
+[21:13:08]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[21:13:08]
+[44FF00] eebot
+ hi yooo 13_
+
+[21:13:09]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[21:13:09]
+[oc7yIZ] 404
+技术强大的鱼！
+
+[21:13:25]
+[Admin] MelonFish
+@鱼味初墨盒子 server,src,commands目录下
+
+[21:13:26]
+[PIGPIG] bo_od
+@鱼味初墨盒子 server,src,commands目录下
+
+[21:13:26]
+[zzzzzz] 鱼味初墨盒子
+>Admin MelonFish：
+>@鱼味初墨盒子 server,src,commands目录下
+
+@MelonFish ok
+
+[21:13:39]
+[PIGPIG] bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+[21:13:39]
+[zzzzzz] 鱼味初墨盒子
+对了
+
+[21:13:43]
+[44FF00] eebot
+ ·
+小张软件
+https://zhangsoft611488867.wordpress.com/
+
+[21:13:43]
+[Admin] MelonFish
+有core、mod、admin、internal几个目录
+
+[21:13:49]
+[Admin] MelonFish
+修改对应的
+
+[21:13:53]
+[zzzzzz] 鱼味初墨盒子
+怎么杀nohup下的进程
+
+[21:13:54]
+[Admin] MelonFish
+ps -ef |grep nohup
+
+[21:14:06]
+[Admin] MelonFish
+看pid
+
+[21:14:06]
+[Admin] MelonFish
+然后kill pid
+
+[21:14:08]
+[44FF00] eebot
+ 然后kill pid
+
+[21:14:08]
+[zzzzzz] 鱼味初墨盒子
+ok
+
+[21:14:08]
+[zzzzzz] 鱼味初墨盒子
+我杀Nginx用的都是lsof（
+
+[21:14:28]
+[Admin] MelonFish
+等等，hc开源模版可以用封装好的pm2
+
+[21:14:32]
+[Admin] MelonFish
+pm2更稳定
+
+[21:14:36]
+[zzzzzz] 鱼味初墨盒子
+a
+
+[21:14:40]
+[zzzzzz] 鱼味初墨盒子
+pm2是什么（躲
+
+[21:14:48]
+[Admin] MelonFish
+如果执行过npm install的话，可以直接npm start
+
+[21:14:48]
+[Admin] MelonFish
+终端输入pm2看有没有
+
+[21:15:02]
+[Admin] MelonFish
+平米
+
+[21:15:06]
+[Admin] MelonFish
+pm2
+
+[21:15:08]
+[zzzzzz] 鱼味初墨盒子
+懒）
+
+[21:15:29]
+[Admin] MelonFish
+pm2是用来以服务的形式跑nodejs代码的
+有均衡负载
+
+[21:15:46]
+[Admin] MelonFish
+所以pm2比nohup更稳定
+
+[21:16:45]
+[初墨娘] Chumo_Chan
+hi,MuRongPIG~
+
+[21:16:45]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[21:16:45]
+[44FF00] eebot
+ hello yooooo MuRongPIG
+
+[21:16:45]
+[Admin] MelonFish
+hi yoooooooo
+
+[21:16:51]
+[初墨娘] Chumo_Chan
+hi,MelonFish~
+
+[21:16:52]
+[Admin] MelonFish
+我在想如果我加入房主制度会不会有人疯狂的占房间
+
+[21:17:05]
+[PIGPIG] MuRongPIG
+草
+
+[21:17:44]
+[PIGPIG] MuRongPIG
+bood啥情况
+
+[21:17:52]
+[PIGPIG] MuRongPIG
+不是国外ip吗
+
+[21:18:02]
+[PIGPIG] MuRongPIG
+时间
+
+[21:18:06]
+[44FF00] eebot
+ Time Tue 2022.06.28 21:18:06
+
+[21:18:06]
+[PIGPIG] bo_od
+Tue Jun 28 21:18:13 2022
+
+[21:18:06]
+[Admin] MelonFish
+token可以屏蔽ip检测
+
+[21:18:14]
+[PIGPIG] MuRongPIG
+我没装token阿
+
+[21:18:21]
+[Admin] MelonFish
+好家伙
+
+[21:18:27]
+[Admin] MelonFish
+我看看
+
+[21:18:29]
+[Admin] MelonFish
+有可能是我关了屏蔽
+
+[21:18:48]
+[PIGPIG] MuRongPIG
+。
+
+[21:19:08]
+[初墨娘] Chumo_Chan
+hi,MelonFish2~
+
+[21:19:09]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[21:19:09]
+[44FF00] eebot
+ hi yo MelonFish2
+
+[21:19:09]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[21:19:10]
+[Admin] MelonFish
+诶居然进来了
+
+[21:19:15]
+[Admin] MelonFish
+等等，这个代理有问题啊
+
+[21:19:22]
+[PIGPIG] MuRongPIG
+>该用户来自：Shihezi
+
+[21:19:26]
+[初墨娘] Chumo_Chan
+hi,MuRongPIG~
+
+[21:19:26]
+[PIGPIG] MuRongPIG
+压根没代理
+
+[21:19:36]
+[初墨娘] Chumo_Chan
+hi,MelonFish2~
+
+[21:19:36]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[21:19:36]
+[44FF00] eebot
+ hi yooooo MelonFish2
+
+[21:19:36]
+[初墨娘] Chumo_Chan
+hi,eebot~
+
+[21:19:40]
+[44FF00] eebot
+ 网友 Chumo_Chan好哦
+
+[21:19:40]
+[Admin] MelonFish
+天呐这是个什么垃圾代理
+
+[21:19:46]
+[PIGPIG] MuRongPIG
+这代理没全局
+
+[21:19:53]
+[Admin] MelonFish
+艹我看看
+
+[21:20:05]
+[zzzzzz] 鱼味初墨盒子
+>Admin MelonFish：
+>所以pm2比nohup更稳定
+
+@MelonFish 我跑zc没用nohup（
+
+[21:20:55]
+[Admin] MelonFish
+诶可以了
+> 很抱歉，由于当前服务器设置，暂时不允许除中国以外的用户。如果您是中国用户，请关闭VPN和代理。如遇到任何问题，可以联系站长：1306716754（QQ）
+
+[21:21:37]
+[初墨娘] Chumo_Chan
+hi,MelonFish2~
+
+[21:21:37]
+[初墨娘] Chumo_Chan
+hi,bo_od~
+
+[21:21:38]
+[44FF00] eebot
+ hello yooooo MelonFish2
+
+[21:21:38]
+[Admin] MelonFish
+nice
+
+[21:21:42]
+[zzzzzz] 鱼味初墨盒子
+香港？
+
+[21:21:54]
+[Admin] MelonFish
+这个主要是方便~~外国友人~~进来的哈哈哈
+
+[21:21:56]
+[zzzzzz] 鱼味初墨盒子
+您tm搁着闹独立呢
+
+[21:22:11]
+[PIGPIG] MuRongPIG
+。
+
+[21:22:13]
+[PIGPIG] MuRongPIG
+重启
+
+[21:22:17]
+[zzzzzz] 鱼味初墨盒子
+MelonFish2 加入了聊天室，该用户来自：Hong Kong
+
+[21:22:20]
+[PIGPIG] MuRongPIG
+那就关掉bood吧
+
+[21:22:24]
+[Admin] MelonFish
+@鱼味初墨盒子 方便中国大陆以外的用户哈哈哈哈
+
+[21:22:34]
+[zzzzzz] 鱼味初墨盒子
+MelonFish2 加入了聊天室，该用户来自：==Hong Kong==
+
+[21:22:38]
+[oc7yIZ] 404
+@鱼味初墨盒子 香港不是个地区吗
+
+[21:22:43]
+[zzzzzz] 鱼味初墨盒子
+已禁止==外国IP==进入
+
+[21:22:51]
+[oc7yIZ] 404
+香港好像很小吧
+
+[21:22:52]
+[oc7yIZ] 404
+就一个城市
+
+[21:22:59]
+[Admin] MelonFish
+好家伙这个得改
+
+[21:23:01]
+[oc7yIZ] 404
+所以香港就是这个城市
+
+[21:23:09]
+[oc7yIZ] 404
+和上海什么的一样
+
+[21:23:19]
+[zzzzzz] 鱼味初墨盒子
+应该改成“已禁止中国大陆以外IP访问”
+
+[21:23:45]
+[oc7yIZ] 404
+对对
+
+[21:24:37]
+[44FF00] eebot
+ 对对对
+
+[21:24:37]
+[oc7yIZ] 404
+这样好
+
+[21:25:01]
+[初墨娘] Chumo_Chan
+hi,Cchheecckk~
+
+[21:25:02]
+[44FF00] eebot
+ hello yooo Cchheecckk
+
+[21:25:02]
+[Admin] MelonFish
+懒得再连服务器了
+
+[21:25:09]
+[Admin] MelonFish
+稍后和新的一起看视频一起发布吧
+
+[21:25:32]
+[zzzzzz] 鱼味初墨盒子
+你们说
+
+[21:26:01]
+[初墨娘] Chumo_Chan
+hi,Cchheecckk~
+
+[21:26:02]
+[44FF00] eebot
+ hello yooooo Cchheecckk
+
+[21:26:02]
+[zzzzzz] 鱼味初墨盒子
+如果我现在举报了xc的话（
+
+[21:26:14]
+[zzzzzz] 鱼味初墨盒子
+乘lgy没更新前（
+
+[21:26:34]
+[None] Cchheecckk
+?
+
+[21:27:02]
+[Admin] MelonFish
+然后公安部门会在数十个小时后处理
+
+[21:27:03]
+[zzzzzz] 鱼味初墨盒子
+h
+
+[21:27:08]
+[Admin] MelonFish
+然后我早就改了
+
+[21:27:11]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan秋凌烟~
+
+[21:27:11]
+[44FF00] eebot
+ /kick eebot
+
+[21:27:11]
+[None] Cchheecckk
+Lms
+
+[21:27:17]
+[None] Cchheecckk
+sbbbbbbb
+
+[21:27:20]
+[初墨娘] Chumo_Chan
+n-nmsl UwU
+
+[21:27:20]
+[None] Cchheecckk
+hm
+
+[21:27:22]
+[zzzzzz] 鱼味初墨盒子
+h
+
+[21:27:24]
+[QiuLingYan] QiuLingYan秋凌烟
+我试一下kick eebot
+
+[21:27:48]
+[44FF00] eebot
+ eb试一下kick eebot
+
+[21:27:48]
+[QiuLingYan] QiuLingYan秋凌烟
+az
+
+[21:27:52]
+[None] Cchheecckk
+..
+
+[21:27:54]
+[QiuLingYan] QiuLingYan秋凌烟
+kick eebot
+
+[21:27:56]
+[QiuLingYan] QiuLingYan秋凌烟
+^kick eebot
+
+[21:28:06]
+[zhang] ZhangHelperS
+出错了！详细信息：Cannot kick other users with the same level, how rude
+
+[21:28:06]
+[None] Cchheecckk
+Hh
+
+[21:28:10]
+[QiuLingYan] QiuLingYan秋凌烟
+我不能kick mod
+
+[21:28:13]
+[Admin] MelonFish
+how rude
+
+[21:28:26]
+[QiuLingYan] QiuLingYan秋凌烟
+how rulw
+
+[21:28:33]
+[Admin] MelonFish
+避免某墨给我找麻烦
+
+[21:28:34]
+[zzzzzz] 鱼味初墨盒子
+但是站长可以kickMod
+
+[21:28:35]
+[QiuLingYan] QiuLingYan秋凌烟
+how rulw
+
+[21:28:38]
+[zzzzzz] 鱼味初墨盒子
+ban也可以
+
+[21:28:41]
+[Admin] MelonFish
+> Reloaded 64 commands, error(s):
+
+[21:28:45]
+[QiuLingYan] QiuLingYan秋凌烟
+how rule
+
+[21:28:45]
+[oc7yIZ] 404
+有节火箭掉到了月球
+
+[21:28:46]
+[QiuLingYan] QiuLingYan秋凌烟
+@404 
+
+[21:28:50]
+[oc7yIZ] 404
+砸了两个坑
+
+[21:28:51]
+[QiuLingYan] QiuLingYan秋凌烟
+哇哦
+
+[21:28:55]
+[oc7yIZ] 404
+真是人类的痕迹啊
+
+[21:28:59]
+[zzzzzz] 鱼味初墨盒子
+>Admin MelonFish：
+>避免某墨给我找麻烦
+
+@MelonFish ？我又不是管理或协管
+
+[21:29:03]
+[oc7yIZ] 404
+这个火箭的来源还不能确定
+
+[21:29:06]
+[Admin] MelonFish
+nice
+
+[21:29:07]
+[Admin] MelonFish
+@鱼味初墨盒子 我的意思是我刚才热重载了
+
+[21:29:22]
+[Admin] MelonFish
+把这个中国大陆加上了
+
+[21:29:31]
+[zzzzzz] 鱼味初墨盒子
+h
+
+[21:29:42]
+[None] Cchheecckk
+OvO
+
+[21:29:45]
+[44FF00] eebot
+ 0-0
+
+[21:29:45]
+[zzzzzz] 鱼味初墨盒子
+~~我像小张一样找到了bug 然后我的管理呢~~
+
+[21:30:07]
+[None] Cchheecckk
+?
+
+[21:30:12]
+[Admin] MelonFish
+。。。
+
+[21:30:30]
+[Admin] MelonFish
+好家伙
+
+[21:30:31]
+[None] Cchheecckk
+..
+
+[21:30:35]
+[44FF00] eebot
+ 原来是沉默吗
+
+[21:30:38]
+[QiuLingYan] QiuLingYan秋凌烟
+404
+
+[21:30:41]
+[Admin] MelonFish
+小张当年找了近乎20+个
+
+[21:30:46]
+[love13] ee
+这个是？
+
+[21:30:47]
+[QiuLingYan] QiuLingYan秋凌烟
+服务器
+
+[21:30:52]
+[QiuLingYan] QiuLingYan秋凌烟
+怎么样
+
+[21:30:57]
+[QiuLingYan] QiuLingYan秋凌烟
+66rmb
+
+[21:31:04]
+[QiuLingYan] QiuLingYan秋凌烟
+阿沐云挂机包
+
+[21:31:15]
+[QiuLingYan] QiuLingYan秋凌烟
+宝
+
+[21:31:17]
+[zzzzzz] 鱼味初墨盒子
+1c1g 60块
+
+[21:31:23]
+[zzzzzz] 鱼味初墨盒子
+不能搭梯子
+
+[21:31:28]
+[QiuLingYan] QiuLingYan秋凌烟
+一年
+
+[21:31:31]
+[Admin] MelonFish
+2c2g10m 99
+
+[21:31:33]
+[zzzzzz] 鱼味初墨盒子
+啊
+
+[21:31:36]
+[QiuLingYan] QiuLingYan秋凌烟
+@鱼味初墨盒子 66/year
+
+[21:31:42]
+[zzzzzz] 鱼味初墨盒子
+>QiuLingYan QiuLingYan秋凌烟：
+>一年
+
+@QiuLingYan秋凌烟 是挺便宜的
+
+[21:31:45]
+[QiuLingYan] QiuLingYan秋凌烟
+20m
+
+[21:31:49]
+[QiuLingYan] QiuLingYan秋凌烟
+带宽
+
+[21:31:51]
+[Admin] MelonFish
+带宽还可以
+
+[21:31:59]
+[Admin] MelonFish
+还算划算吧
+
+[21:32:03]
+[QiuLingYan] QiuLingYan秋凌烟
+就这么定了
+
+[21:32:07]
+[Admin] MelonFish
+话说你打算做什么呢
+
+[21:32:07]
+[QiuLingYan] QiuLingYan秋凌烟
+挂bot
+
+[21:32:11]
+[zzzzzz] 鱼味初墨盒子
+但是没有20G防DDOS（躲
+
+[21:32:15]
+[QiuLingYan] QiuLingYan秋凌烟
+ee
+
+[21:32:23]
+[QiuLingYan] QiuLingYan秋凌烟
+ee
+
+[21:32:25]
+[Admin] MelonFish
+好家伙挂bot买单独的服务器你可真想得开
+
+[21:32:31]
+[QiuLingYan] QiuLingYan秋凌烟
+有钱没处使
+
+[21:32:47]
+[Admin] MelonFish
+你让bot寄宿到别人的服务器上不就完了比如我的
+
+[21:32:58]
+[Admin] MelonFish
+xc直连
+
+[21:33:05]
+[Admin] MelonFish
+全站最快
+
+[21:33:09]
+[oc7yIZ] 404
+有道理啊
+
+[21:33:22]
+[zzzzzz] 鱼味初墨盒子
+>Admin MelonFish：
+>你让bot寄宿到别人的服务器上不就完了比如我的
+
+@MelonFish ~~你这是把整个服务都像寄生虫一样寄生上去了好吧~~
+
+[21:33:33]
+[Admin] MelonFish
+eb当年在我服务器上的时候那个问好速度真的不能说啥
+
+[21:33:41]
+[Admin] MelonFish
+@鱼味初墨盒子 草
+
+[21:33:45]
+[zzzzzz] 鱼味初墨盒子
+初墨娘也是直连localhost:6060
+
+[21:34:56]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan秋凌烟~
+
+[21:34:56]
+[44FF00] eebot
+ /kick eebot
+
+[21:34:56]
+[zzzzzz] 鱼味初墨盒子
+~~原因是我发现服务器访问不了NAT总机地址~~
+
+[21:35:01]
+[zzzzzz] 鱼味初墨盒子
+当然现在有公网IP了
+
+[21:35:25]
+[QiuLingYan] QiuLingYan秋凌烟
+之前
+
+[21:35:43]
+[QiuLingYan] QiuLingYan秋凌烟
+我的服务器被我那手残
+
+[21:36:14]
+[QiuLingYan] QiuLingYan秋凌烟
+重启了3次
+
+[21:36:32]
+[QiuLingYan] QiuLingYan秋凌烟
+公网ip连不上
+
+[21:36:56]
+[初墨娘] Chumo_Chan
+hi,13_~
+
+[21:37:00]
+[44FF00] eebot
+ hello yoooo 13_
+
+[21:37:01]
+[44FF00] eebot
+ 诶嘿哟
+
+[21:37:01]
+[QiuLingYan] QiuLingYan秋凌烟
+E-^kick eebot
+
+[21:37:32]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[21:37:37]
+[初墨娘] Chumo_Chan
+hi,QiuLingYan秋凌烟~
+
+[21:37:37]
+[44FF00] eebot
+ ^kick eebot
+
+[21:37:37]
+[QiuLingYan] QiuLingYan秋凌烟
+azzzzz
+
+[21:37:43]
+[QiuLingYan] QiuLingYan秋凌烟
+^kick abckjsk
+
+[21:37:55]
+[zhang] ZhangHelperS
+出错了！详细信息：不能在聊天室找到用户
+
+[21:37:55]
+[QiuLingYan] QiuLingYan秋凌烟
+^help
+
+[21:37:57]
+[None] Cchheecckk
+?
+
+[21:38:01]
+[zzzzzz] 鱼味初墨盒子
+ /me 为什么指令没用？
+
+[21:38:08]
+[zzzzzz] 鱼味初墨盒子
+ /help
+
+[21:38:10]
+[None] Cchheecckk
+ /me hhh
+
+[21:38:15]
+[zzzzzz] 鱼味初墨盒子
+>Cchheecckk：
+> /me hhh
+
+@Cchheecckk  恭喜你小子，你已经掌握了这项技能和eebot发言原理（
+
+[21:39:07]
+[初墨娘] Chumo_Chan
+hi,张~
+
+[21:39:07]
+[44FF00] eebot
+ hey yooooo 张
+
+[21:39:07]
+[zhang] ZhangHelperS
+出错了！详细信息：不能在这个聊天室找到该用户
+
+[21:39:07]
+[None] Cchheecckk
+hh
+
+[21:39:51]
+[zzzzzz] 鱼味初墨盒子
+nohup是个好东西
+
+[21:39:51]
+[Admin] MelonFish
+话说在座的各位觉得房主制度怎么做比较好
+

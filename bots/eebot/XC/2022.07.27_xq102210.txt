@@ -1,0 +1,540 @@
+[00:02:02]
+[hmmmmm] Maggie
+...
+
+[00:03:59]
+[hmmmmm] Maggie
+算了
+
+[00:04:27]
+[hmmmmm] Maggie
+走了
+
+[00:04:30]
+[hmmmmm] Maggie
+Bye
+
+[00:04:58]
+[Hack4r] ABot_2
+Bye, Maggie
+
+[00:04:59]
+[44FF00] eebot
+ ·
+Sprinkle博客
+https://pntang.github.io/
+
+[00:13:15]
+[love13] 抄笔记的纸片
+（三更半夜路过）
+
+[00:40:53]
+[Hack4r] ABot_2
+Hi Mr_Zhang
+
+[00:40:54]
+[44FF00] eebot
+ [小张的主页](https://mrzhang365.github.io)
+
+[00:40:54]
+[DPGawa] AfK_Bot
+awa!
+
+[00:40:56]
+[zhang] Mr_Zhang
+啊
+
+[00:41:02]
+[44FF00] eebot
+ 草啊
+
+[00:41:02]
+[zhang] Mr_Zhang
+写了个暴力破击密码的脚本
+
+[00:41:17]
+[zhang] Mr_Zhang
+```js
+const crypto = require('crypto');
+
+const hash = (password) => {
+  const sha = crypto.createHash('sha256');
+  sha.update(password);
+  return sha.digest('base64').substr(0, 6);
+};
+function getrandompassword(){
+    return Math.random().toString(36).substr(2, 8)
+}
+var trip=''
+var targettrip='UwUUwU'
+var password='';
+console.log(`开始计算识别码“${targettrip}”的对应密码`)
+while(trip != targettrip){
+    password=getrandompassword()
+    trip=hash(password+'ZhangSoftYYDS')
+    console.log(`密码：${password}，对应识别码：${trip}`)
+}
+console.log(`识别码：${trip}\n对应密码：${password}`)
+while(true){}
+```
+
+[00:41:53]
+[zhang] Mr_Zhang
+啊
+
+[00:41:56]
+[44FF00] eebot
+ 草啊
+
+[00:41:56]
+[zhang] Mr_Zhang
+算了一晚上
+
+[00:42:03]
+[zhang] Mr_Zhang
+结果没算出来
+
+[00:42:11]
+[zhang] Mr_Zhang
+无语中
+
+[00:42:14]
+[zhang] Mr_Zhang
+暴力破解密码
+
+[00:42:22]
+[zhang] Mr_Zhang
+哎
+
+[00:42:22]
+[zhang] Mr_Zhang
+CPU占用率都被拉满了
+
+[00:42:39]
+[zhang] Mr_Zhang
+xc
+
+[00:43:16]
+[love13] 抄笔记的纸片
+好家伙
+
+[00:47:20]
+[love13] 抄笔记的纸片
+xc
+
+[00:47:22]
+[zhang] Mr_Zhang
+电脑：您当我是矿机啊
+
+[00:54:29]
+[Hack4r] ABot_2
+Bye, Mr_Zhang
+
+[01:03:10]
+[Hack4r] ABot_2
+Hi Mr_Zhang
+
+[01:03:10]
+[DPGawa] AfK_Bot
+awa!
+
+[01:03:10]
+[44FF00] eebot
+ [小张的主页](https://mrzhang365.github.io)
+
+[01:03:10]
+[zhang] Mr_Zhang
+噗
+
+[01:03:15]
+[zhang] Mr_Zhang
+还不睡啊
+
+[01:03:22]
+[Hack4r] ABot_2
+Bye, 抄笔记的纸片
+
+[01:03:22]
+[44FF00] eebot
+ （为当时的十字街悲痛）
+
+[01:03:22]
+[zhang] Mr_Zhang
+啊
+
+[01:03:27]
+[44FF00] eebot
+ 草啊
+
+[01:03:27]
+[zhang] Mr_Zhang
+xc
+
+[13:42:28]
+[Hack4r] ABot_2
+Hi eebot
+
+[13:42:35]
+[44FF00] eebot
+ [2022.07.27 13:42:18]
+
+[13:42:35]
+[44FF00] eebot
+ ·
+好好学习 天天向上
+更多玩法请输入：功能
+
+[13:42:39]
+[DPGawa] AfK_Bot
+awa!
+
+[13:42:39]
+[DPGawa] _
+awa!
+
+[13:42:53]
+[DPGawa] _
+sts
+
+[13:42:55]
+[DPGawa] _
+?
+
+[13:42:58]
+[DPGawa] _
+-.-
+
+[13:43:02]
+[nTq0F0] lsh
+？
+
+[13:43:29]
+[nTq0F0] lsh
+看不懂啊
+
+[13:43:36]
+[DPGawa] _
+?
+
+[13:43:47]
+[OLEocn] LL
+cmd can't do anything
+
+[13:44:11]
+[DPGawa] _
+?
+
+[13:44:27]
+[Tnu5yw] snose
+我要盒了那个666
+
+[13:45:15]
+[nTq0F0] lsh
+>OLEocn LL：
+>cmd can't do anything
+
+@LL maybe
+
+[13:49:51]
+[Tnu5yw] snose
+em
+
+[13:56:01]
+[Tnu5yw] snose
+我要注入vapev4殴打瓷爹666
+
+[13:56:06]
+[DPGawa] _
+?
+
+[13:56:21]
+[Tnu5yw] snose
+开让他户籍让他改名神爹LLL
+
+[13:56:30]
+[DPGawa] _
+';'
+
+[13:58:53]
+[Hack4r] ABot_2
+Bye, lsh
+
+[13:59:28]
+[Hack4r] ABot_2
+Hi lsh
+
+[13:59:28]
+[44FF00] eebot
+ hi yo lsh
+
+[13:59:28]
+[nTq0F0] lsh
+。。
+
+[13:59:52]
+[nTq0F0] lsh
+afk 炫饭
+
+[14:00:15]
+[44FF00] eebot
+@lsh 现在在炫饭
+
+[14:00:15]
+[hmmmmm] MaggiePC
+hmm
+
+[14:05:13]
+[OLEocn] LL
+![](https://s3.bmp.ovh/imgs/2022/07/27/c3b9f7629c2bd357.png)
+
+[14:07:00]
+[Hack4r] ABot_2
+Bye, Maggie
+
+[14:07:00]
+[OLEocn] LL
+python server
+
+[14:07:00]
+[nTq0F0] lsh
+wow
+
+[14:10:37]
+[44FF00] eebot
+@lsh 停止了炫饭
+
+[14:10:37]
+[44FF00] eebot
+ u.u
+
+[14:10:37]
+[DPGawa] _
+?
+
+[14:10:51]
+[44FF00] eebot
+ ·
+13和ee的轻小说屋 old
+https://lidualhistory.mysxl.cn/
+
+[14:16:19]
+[Hack4r] ABot_2
+Bye, snose
+
+[14:20:16]
+[Hack4r] ABot_2
+Hi CX_zzzChumomuhCzzz
+
+[14:20:16]
+[44FF00] eebot
+ GS App Frame V2.22已经发布！搭建个人网站的不二选择！https://www.zzchat.cf/GAF
+
+[14:20:16]
+[DPGawa] _
+aw?
+
+[14:20:22]
+[44FF00] eebot
+ 哦吼？
+
+[14:20:22]
+[DPGawa] AfK_Bot
+awa!
+
+[14:20:27]
+[zzzzzz] CX_zzzChumomuhCzzz
+@_ 老婆我打歌回来了（
+
+[14:20:44]
+[DPGawa] _
+?
+
+[14:20:48]
+[DPGawa] _
+ovo
+
+[14:21:05]
+[Hack4r] ABot_2
+Bye, CX_zzzChumomuhCzzz
+
+[14:21:09]
+[Hack4r] ABot_2
+Hi CX_zzzChumomuhCzzz
+
+[14:21:10]
+[DPGawa] AfK_Bot
+awa!
+
+[14:21:10]
+[44FF00] eebot
+ GS App Frame V2.22已经发布！搭建个人网站的不二选择！https://www.zzchat.cf/GAF
+
+[14:21:10]
+[DPGawa] _
+awa
+
+[14:21:15]
+[44FF00] eebot
+ TOT
+
+[14:21:15]
+[hmmmmm] MaggiePC
+chumo
+
+[14:21:55]
+[hmmmmm] MaggiePC
+在吗
+
+[14:21:57]
+[hmmmmm] MaggiePC
+有点事对你说
+
+[14:22:49]
+[Hack4r] ABot_2
+Hi mrzhang365
+
+[14:22:49]
+[44FF00] eebot
+ hey yo mrzhang365
+
+[14:22:49]
+[DPGawa] AfK_Bot
+awa!
+
+[14:22:51]
+[Hack4r] ABot_2
+Bye, mrzhang365
+
+[14:22:55]
+[Hack4r] ABot_2
+Hi mrzhang365
+
+[14:22:56]
+[44FF00] eebot
+ [小张的主页](https://mrzhang365.github.io)
+
+[14:22:56]
+[DPGawa] AfK_Bot
+awa!
+
+[14:22:58]
+[zhang] mrzhang365
+hi yoooooooooooooo
+
+[14:22:58]
+[DPGawa] _
+ooooooooooy
+
+[14:23:03]
+[zhang] mrzhang365
+我的作品
+
+[14:23:23]
+[zhang] mrzhang365
+https://mrzhang365.github.io/docs/member/
+
+[14:23:37]
+[zhang] mrzhang365
+成员论
+
+[14:23:37]
+[zhang] mrzhang365
+《成员论》
+
+[14:23:37]
+[44FF00] eebot
+@mrzhang365 成员论 | member
+https://mrzhang365.github.io/docs/member/
+
+[14:23:37]
+[zhang] mrzhang365
+^protect mrzhang365 zhang
+
+[14:23:45]
+[zhang] ZhangHelper
+所有操作顺利完成
+
+[14:23:45]
+[zhang] mrzhang365
+ZhangChat已经使用成员制度了
+
+[14:24:07]
+[zhang] mrzhang365
+但不成熟
+
+[14:24:10]
+[OLEocn] LL
+zhong xing zhi du
+
+[14:24:17]
+[zhang] mrzhang365
+？
+
+[14:24:36]
+[OLEocn] LL
+Caste System LOL
+
+[14:27:05]
+[zhang] mrzhang365
+^help
+
+[14:29:25]
+[zhang] mrzhang365
+^speed
+
+[14:29:47]
+[zhang] ZhangHelper
+当前聊天室内信息发送速度：0.0 条/秒
+
+[14:29:47]
+[OLEocn] LL
+^help
+
+[14:29:48]
+[zhang] mrzhang365
+^speed
+
+[14:29:48]
+[zhang] ZhangHelper
+当前聊天室内信息发送速度：0.4 条/秒
+
+[14:29:48]
+[OLEocn] LL
+^addhelper
+
+[14:29:53]
+[zhang] ZhangHelper
+参数错误
+
+[14:29:53]
+[OLEocn] LL
+^addhelper awa
+
+[14:29:56]
+[zhang] ZhangHelper
+越权操作不被我允许
+
+[14:29:56]
+[DPGawa] _
+awa
+
+[14:30:03]
+[OLEocn] LL
+^move awa
+
+[14:30:07]
+[zhang] ZhangHelper
+您是在找抽么？
+
+[14:30:07]
+[OLEocn] LL
+^unlockroom
+
+[14:30:14]
+[zhang] ZhangHelper
+越权操作不被我允许
+
+[14:30:14]
+[zhang] mrzhang365
+。。。
+

@@ -1,0 +1,8674 @@
+[13:42:21]
+[44FF00] eebot
+ [2022.07.03 13:42:21]
+
+[13:42:21]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[13:42:21]
+[pvzjspvz] B站的J
+薄沙我
+
+[14:21:38]
+[44FF00] eebot_874
+ QuQ eb的昵称卡在里面了
+
+[14:22:25]
+[44FF00] eebot
+ [2022.07.03 14:22:24]
+
+[14:22:25]
+[PIGPIG] bo_od
+ [2022.07.03 14:22:24]
+
+[14:22:25]
+[44FF00] eebot
+ ·
+明天是周一 今晚早点睡 上班别迟到了。
+更多玩法请输入：功能
+
+[14:22:25]
+[love13] ee
+啊
+
+[14:24:19]
+[44FF00] eebot
+ 草啊
+
+[14:24:19]
+[zzzzzz] zzChumo_Ubuntu
+?
+
+[14:27:04]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[14:27:04]
+[love13] ee
+小张 还在写BUG啊！
+
+[14:27:10]
+[zhang] 小张
+~~期末考试以后接着写~~
+
+[14:27:45]
+[love13] ee
+草
+
+[14:27:57]
+[love13] ee
+~~可以的 你有这个觉悟 我很赞同~~
+
+[14:28:15]
+[zhang] 小张
+哈哈哈哈哈哈哈
+
+[14:28:20]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈嗝-
+
+[14:28:20]
+[love13] ee
+哈哈哈哈
+
+[14:28:24]
+[44FF00] eebot
+ 哈哈哈哈嗝-
+
+[14:28:24]
+[love13] ee
+afk 写eebot
+
+[14:28:36]
+[44FF00] eebot
+@ee 现在在写eebot
+
+[14:28:36]
+[zhang] 小张
+期末考试以后打算新建一个仓库
+
+[14:28:43]
+[zhang] 小张
+GitHub 上
+
+[14:28:54]
+[zhang] 小张
+就叫做
+
+[14:28:58]
+[love13] ee
+afk 为了写eebot研究Python的内置函数
+
+[14:29:01]
+[44FF00] eebot
+@ee 已经在写eebot了
+
+[14:29:01]
+[love13] ee
+好家伙
+
+[14:29:08]
+[44FF00] eebot
+@ee 停止了写eebot
+
+[14:29:08]
+[None] gg
+期末考试结束，打算先包装一个自己的太微版本
+
+[14:29:39]
+[love13] ee
+>zhang 小张：
+>就叫做
+
+@小张 BUG制造工坊
+
+[14:29:39]
+[love13] ee
+（不是）
+
+[14:29:42]
+[love13] ee
+wowo
+
+[14:29:43]
+[zzzzzz] zzChumo_Ubuntu
+tou
+
+[14:29:48]
+[love13] ee
+>gg：
+>期末考试结束，打算先包装一个自己的太微版本
+
+@gg 这个是？
+
+[14:29:52]
+[zhang] 小张
+XChat-modules
+
+[14:30:02]
+[None] gg
+@ee 就是我说的那个知识管理单文件应用，我想包装一个自己的版本
+
+[14:30:12]
+[love13] ee
+原来如此~
+
+[14:30:20]
+[love13] ee
+afk 为了写eebot研究Python的内置函数
+
+[14:30:24]
+[44FF00] eebot
+@ee 现在在为了写eebot研究Python的内置函数
+
+[14:30:24]
+[zhang] 小张
+XChat-Modules
+
+[14:30:40]
+[zhang] 小张
+目前已经有offline.js了
+
+[14:31:00]
+[zhang] 小张
+我突然发现模块还挺好写
+
+[14:31:14]
+[None] gg
+怎么发图片？
+
+[14:31:16]
+[zhang] 小张
+^readme
+
+[14:31:24]
+[zzzzzz] zzChumo_Ubuntu
+markdown
+
+[14:31:28]
+[love13] ee
+用![](图片地址)
+
+[14:31:29]
+[44FF00] eebot
+@ee 现在没在为了写eebot研究Python的内置函数了
+
+[14:31:29]
+[love13] ee
+用![]( 图片地址 )
+
+[14:31:36]
+[zhang] 小张
+发送“^readme”查看帮助哦
+
+[14:31:47]
+[None] gg
+^readme
+
+[14:31:56]
+[zzzzzz] zzChumo_Ubuntu
+https://github.com/zzChumo/XChat-doc
+
+[14:32:04]
+[PIGPIG] bo_od
+@zzChumo_Ubuntu 推荐了网页:[GitHub - zzChumo/XChat-doc: 适用于XChat的用户文档。](https://github.com/zzChumo/XChat-doc)
+
+[14:32:04]
+[love13] ee
+啊这 发不出来
+
+[14:32:04]
+[zhang] 小张
+里面有教程哈
+
+[14:32:05]
+[44FF00] eebot
+@zzChumo_Ubuntu GitHub - zzChumo/XChat-doc: 适用于XChat的用户文档。
+https://github.com/zzChumo/XChat-doc
+
+[14:32:05]
+[love13] ee
+@eebot 图床
+
+[14:32:26]
+[44FF00] eebot
+ https://imgtu.com/
+
+[14:32:26]
+[love13] ee
+可以用这个
+
+[14:32:34]
+[None] gg
+懂了
+
+[14:33:02]
+[None] gg
+发图片链接
+
+[14:33:08]
+[zhang] 小张
+呵呵
+
+[14:33:34]
+[None] gg
+？
+
+[14:33:49]
+[zhang] 小张
+![](www.baidu.com/logo.jpg)
+
+[14:33:57]
+[zhang] 小张
+嗯？？？
+
+[14:34:04]
+[love13] ee
+小张的呵呵=哈哈
+
+[14:34:08]
+[None] gg
+oooo
+
+[14:34:14]
+[zhang] 小张
+是 “===”
+
+[14:34:23]
+[zhang] 小张
+完全等于
+
+[14:34:28]
+[love13] ee
+所以呵呵呵呵呵=哈哈哈哈哈
+
+[14:34:33]
+[PIGPIG] bo_od
+ee是小天使
+
+[14:34:33]
+[love13] ee
+好家伙
+
+[14:34:34]
+[None] gg
+![](https://imgtu.com/i/j8tlUH)
+
+[14:34:48]
+[44FF00] eebot
+@gg 屏幕截图 2022 07 01 212044 - 路过图床
+https://imgtu.com/i/j8tlUH
+
+[14:34:48]
+[zhang] 小张
+（JS用法）
+
+[14:34:51]
+[None] gg
+ooo这样
+
+[14:35:02]
+[None] gg
+这是我现在将太微配合Firefox notes使用的截图
+
+[14:35:32]
+[love13] ee
+wow
+
+[14:35:37]
+[44FF00] eebot
+ QwQ
+
+[14:35:37]
+[love13] ee
+可以啊
+
+[14:35:39]
+[None] gg
+软件起始不是这样
+
+[14:36:17]
+[None] gg
+改了很多
+
+[14:36:20]
+[None] gg
+![](https://imgtu.com/i/j8tvIH)
+
+[14:37:48]
+[44FF00] eebot
+@gg Screenshot 2022 07 03 at 14 36 47 My TiddlyWiki — a non linear personal web notebook - 路过图床
+https://imgtu.com/i/j8tvIH
+
+[14:37:48]
+[None] gg
+这是起使的样子
+
+[14:37:56]
+[love13] ee
+wowoc
+
+[14:38:15]
+[44FF00] eebot
+ ava
+
+[14:38:15]
+[love13] ee
+帮助
+
+[14:38:21]
+[love13] ee
+https://hcwiki.netlify.app/
+
+[14:39:56]
+[PIGPIG] bo_od
+@ee 推荐了网页:[非官方 hack.chat wiki
+
+— 维护 hack.chat 环境
+](https://hcwiki.netlify.app/)
+
+[14:39:56]
+[None] gg
+哈哈哈
+
+[14:39:56]
+[None] gg
+对，就是这个
+
+[14:39:56]
+[None] gg
+原来这里有人用欸
+
+[14:39:56]
+[love13] ee
+真的改了很多啊
+
+[14:39:59]
+[None] gg
+是的
+
+[14:39:59]
+[love13] ee
+>love13 ee：
+>https://hcwiki.netlify.app/
+
+@ee 这个是4n0n4me搞的
+
+[14:41:04]
+[None] gg
+自定义成我喜欢的样子
+
+[14:41:04]
+[None] gg
+哦哦
+
+[14:41:04]
+[None] gg
+回头认识认识
+
+[14:41:04]
+[love13] ee
+哈哈哈
+
+[14:41:04]
+[None] gg
+不知道她有没有个人Wiki
+
+[14:41:04]
+[None] gg
+他
+
+[14:41:04]
+[44FF00] eebot
+ 草哈哈哈
+
+[14:41:04]
+[44FF00] eebot
+ eb知道啊
+
+[14:41:04]
+[love13] ee
+404没有
+
+[14:41:04]
+[None] gg
+只有一个官方插件库欸
+
+[14:41:05]
+[None] gg
+有点少
+
+[14:41:05]
+[None] gg
+我安装了10个插件库
+
+[14:41:05]
+[44FF00] eebot
+ 哦哦草
+
+[14:41:05]
+[44FF00] eebot
+ 哈哈哈嗝-
+
+[14:41:05]
+[love13] ee
+>love13 ee：
+>404没有
+
+但在hiyoteam主页上有他的个人介绍（~~就那个最特别的~~
+
+[14:41:21]
+[love13] ee
+好家伙
+
+[14:41:23]
+[None] gg
+他这个添加了markdown插件
+
+[14:41:24]
+[None] gg
+注释怎么还禁用了
+
+[14:41:46]
+[None] gg
+我加入了太微的qq群
+
+[14:42:20]
+[love13] ee
+wow
+
+[14:42:33]
+[None] gg
+之前给你发的那个Wiki示例就是群主林一二的
+
+[14:42:35]
+[None] gg
+https://onetwo-wiki.vercel.app/#Index:Index
+
+[14:43:28]
+[PIGPIG] bo_od
+@gg 推荐了网页:[Meme of LinOnetwo — 林一二的模因和想法](https://onetwo-wiki.vercel.app/#Index:Index)
+
+[14:43:28]
+[zhYYDG] Light_ser
+啊
+
+[14:43:28]
+[zhYYDG] Light_ser
+对不住各位
+
+[14:43:28]
+[zhYYDG] Light_ser
+刚才我妈回来我没法看电脑
+
+[14:43:28]
+[None] gg
+而且，这个软件的官网本身就是这个软件
+
+[14:43:29]
+[44FF00] eebot
+@gg Meme of LinOnetwo — 林一二的模因和想法
+https://onetwo-wiki.vercel.app/#Index:Index
+
+[14:43:29]
+[44FF00] eebot
+ 啊草
+
+[14:43:29]
+[None] gg
+tiddlywiki.com
+
+[14:43:33]
+[None] gg
+可能加载需要一定的时间
+
+[14:43:55]
+[None] gg
+这是都干嘛去了
+
+[14:46:35]
+[zhYYDG] Light_ser
+你在干嘛
+
+[14:47:08]
+[None] gg
+我在逛GitHub
+
+[14:47:16]
+[None] gg
+你呢
+
+[14:47:20]
+[zhYYDG] Light_ser
+我在敲代码
+
+[14:48:45]
+[None] gg
+ok请继续
+
+[14:49:22]
+[zhYYDG] Light_ser
+今天发现博客园是个好东西
+
+[14:49:55]
+[None] gg
+很早之前就这么觉得
+
+[14:50:06]
+[None] gg
+之前的csdn也挺好
+
+[14:50:13]
+[None] gg
+但是现在。。。
+
+[14:50:17]
+[zhYYDG] Light_ser
+之前的CSDN
+
+[14:50:21]
+[zhYYDG] Light_ser
+不久前CSDN给我推荐h色的广告我就彻底放弃它了
+
+[14:50:45]
+[None] gg
+没注册过账号，但是记得以前还是有免积分下载的，现在固定50.。。呵呵
+
+[14:50:51]
+[None] gg
+其实就是利用一个信息差
+
+[14:51:03]
+[None] gg
+很多在GitHub和其他一些开源社区上免费开源的东西
+
+[14:51:18]
+[None] gg
+在很多地方都需要积分甚至是付费
+
+[14:51:27]
+[zhYYDG] Light_ser
+而且不知道怎么回事，我本地和服务器只要上了CSDN就卡了不能动，有时候服务器进了CSDN直接死机
+
+[14:51:43]
+[None] gg
+我回头准备把csdn屏蔽
+
+[14:52:08]
+[44FF00] eebot
+ 而且 这个软件的官网本身就是这个软件
+
+[14:52:08]
+[zhYYDG] Light_ser
+csdn lj
+
+[14:52:24]
+[None] gg
+看了一些下载记录
+
+[14:53:02]
+[None] gg
+明白其实很多人哪怕是程序员都有许许多多不用GitHub的
+
+[14:53:19]
+[zhYYDG] Light_ser
+可用可不用
+
+[14:53:39]
+[zhYYDG] Light_ser
+不是每个企业都用github
+
+[14:53:55]
+[None] gg
+关键是用下载站和这类垃圾社区就。。。
+
+[14:54:01]
+[None] gg
+我当然知道
+
+[14:54:15]
+[zhYYDG] Light_ser
+yes
+
+[14:54:29]
+[None] gg
+关键是真的有人去付费欸
+
+[14:54:33]
+[zhYYDG] Light_ser
+人傻钱多
+
+[14:54:54]
+[None] gg
+付费买开源免费资源。。。
+
+[14:54:55]
+[None] gg
+你们都关注了什么有趣的开源项目？
+
+[14:56:32]
+[None] gg
+分享一下？
+
+[14:56:39]
+[zhYYDG] Light_ser
+对了
+
+[14:57:06]
+[zhYYDG] Light_ser
+我之前看到的一个gui项目
+
+[14:57:16]
+[zhYYDG] Light_ser
+guietta
+
+[14:57:19]
+[None] gg
+我去看看
+
+[14:57:31]
+[PIGPIG] bo_od
+Sun Jul  3 15:00:00 2022
+
+[14:59:59]
+[PIGPIG] bo_od
+![1656831601671277.png](https://mrpig.eu.org/1656831601671277.png)
+Sorry,未能查到图源信息
+
+[15:00:01]
+[44FF00] eebot
+@ee 别忘了作业哦
+
+[15:00:26]
+[love13] ee
+>44FF00 eebot：
+>@ee 别忘了作业哦
+
+平时到这个时候 看到这句话的我心脏骤停
+
+[15:01:06]
+[zhYYDG] Light_ser
+哈哈
+
+[15:01:14]
+[44FF00] eebot
+ 哈哈嗝-
+
+[15:01:14]
+[love13] ee
+~~刚也是 突然转念一想~~
+
+[15:01:22]
+[zhYYDG] Light_ser
+刚刚我妈回来看到我作业差点没杀死我
+
+[15:01:30]
+[love13] ee
+我tm暑假没作业啊（掀桌
+
+[15:01:32]
+[love13] ee
+哈哈哈
+
+[15:01:33]
+[44FF00] eebot
+ 草哈哈哈
+
+[15:01:33]
+[zhYYDG] Light_ser
+@ee ...
+
+[15:01:37]
+[zhYYDG] Light_ser
+ee我恨你
+
+[15:01:40]
+[love13] ee
+>zhYYDG Light_ser：
+>刚刚我妈回来看到我作业差点没杀死我
+
+@Light_ser ++1 平时我也是
+
+[15:01:48]
+[love13] ee
+哈哈哈哈
+
+[15:01:50]
+[44FF00] eebot
+ 草哈哈哈哈
+
+[15:01:50]
+[zhYYDG] Light_ser
+《平时》
+
+[15:01:59]
+[love13] ee
+>zhYYDG Light_ser：
+>ee我恨你
+
+@Light_ser ~~没事 再过一年你也是 但下一年我作业就多了~~
+
+[15:02:04]
+[zhYYDG] Light_ser
+我恨你
+
+[15:02:04]
+[zhYYDG] Light_ser
+凭什么我要上到15号
+
+[15:02:14]
+[zhYYDG] Light_ser
+这世界不公
+
+[15:02:18]
+[love13] ee
+（~~笑~~安慰）
+
+[15:02:24]
+[love13] ee
+这个正常嘛
+
+[15:02:36]
+[zhYYDG] Light_ser
+（哭死）
+
+[15:02:36]
+[love13] ee
+我去年也差不多
+
+[15:02:41]
+[love13] ee
+（笑死）不是
+
+[15:02:50]
+[None] gg
+你们知道KDE吗
+
+[15:02:53]
+[zhYYDG] Light_ser
+: (((((((((((
+
+[15:02:56]
+[zhYYDG] Light_ser
+KDE?
+
+[15:02:58]
+[love13] ee
+KDE？
+
+[15:03:01]
+[None] gg
+对
+
+[15:03:03]
+[love13] ee
+:(((((((((((((((((((((((((
+
+[15:03:04]
+[None] gg
+KDE项目
+
+[15:03:15]
+[None] gg
+https://github.com/KDE
+
+[15:03:27]
+[PIGPIG] bo_od
+@gg 推荐了网页:[KDE GitHub Mirror · GitHub](https://github.com/KDE)
+
+[15:03:27]
+[44FF00] eebot
+@gg KDE GitHub Mirror · GitHub
+https://github.com/KDE
+
+[15:03:27]
+[love13] ee
+let me see see
+
+[15:03:41]
+[zhYYDG] Light_ser
+干什么的这个
+
+[15:03:57]
+[None] gg
+https://kde.org/zh-cn/
+
+[15:04:09]
+[PIGPIG] bo_od
+@gg 推荐了网页:[首页 - KDE 社区](https://kde.org/zh-cn/)
+
+[15:04:10]
+[44FF00] eebot
+@gg 首页 - KDE 社区
+https://kde.org/zh-cn/
+
+[15:04:10]
+[None] gg
+这是官网
+
+[15:04:11]
+[None] gg
+可持续软件运动中的一员
+
+[15:04:42]
+[None] gg
+还造出了plasma系统
+
+[15:05:30]
+[None] gg
+你们用过Linux吗
+
+[15:05:50]
+[zhYYDG] Light_ser
+看起来不太好
+
+[15:05:59]
+[zhYYDG] Light_ser
+GCompris 是一款高品质的少儿教学软件，内含大量适合 2 至 10 岁儿童的教学活动。
+
+[15:05:59]
+[zhYYDG] Light_ser
+看
+
+[15:06:01]
+[zhYYDG] Light_ser
+不适合我
+
+[15:06:05]
+[44FF00] eebot
+ 其实还不错
+
+[15:06:05]
+[None] gg
+又不是只有这一个软件
+
+[15:06:16]
+[zhYYDG] Light_ser
+但是我想用
+
+[15:06:22]
+[None] gg
+那你用啊
+
+[15:06:30]
+[zhYYDG] Light_ser
+其他还好
+
+[15:06:36]
+[None] gg
+我关注了krita项目
+
+[15:07:14]
+[None] gg
+他是我现在在用的绘画软件
+
+[15:07:23]
+[love13] ee
+wow
+
+[15:07:37]
+[44FF00] eebot
+ QxQ
+
+[15:07:37]
+[love13] ee
+zzChumo也用krita
+
+[15:07:42]
+[None] gg
+wow
+
+[15:07:51]
+[44FF00] eebot
+ UvU
+
+[15:07:51]
+[None] gg
+同好
+
+[15:07:53]
+[zhYYDG] Light_ser
+那个四千star的那个
+
+[15:07:54]
+[None] gg
+对的
+
+[15:07:58]
+[zhYYDG] Light_ser
+功耗大不大
+
+[15:08:15]
+[None] gg
+不大
+
+[15:08:24]
+[None] gg
+我用着挺好
+
+[15:08:30]
+[love13] ee
+>love13 ee：
+>zzChumo也用krita
+
+我之前听说后也去试了试
+
+[15:08:30]
+[love13] ee
+内置笔刷特别多（nb了
+
+[15:08:42]
+[zhYYDG] Light_ser
+我喜欢轻的（不是我喜欢，是我的电脑喜欢
+
+[15:08:46]
+[None] gg
+对，超级多
+
+[15:08:48]
+[love13] ee
+虽然我一直用的SAI和SAI2（
+
+[15:08:57]
+[None] gg
+之前用过medibangpaint、sketchbook、Photoshop
+
+[15:09:23]
+[None] gg
+最后选择了它
+
+[15:09:29]
+[love13] ee
+好家伙
+
+[15:09:35]
+[love13] ee
+我在手机上就用medibangpaint
+
+[15:09:42]
+[PIGPIG] bo_od
+ee棒棒
+
+[15:09:43]
+[None] gg
+SAI也用过一点
+
+[15:09:46]
+[love13] ee
+>love13 ee：
+>我在手机上就用medibangpaint
+
+这个也好 功能齐全
+
+[15:10:03]
+[None] gg
+还是少了点什么
+
+[15:10:15]
+[None] gg
+而且我之前使用有点网络问题
+
+[15:10:25]
+[love13] ee
+~~就是我没压感笔 放弃了手机~~
+
+[15:10:28]
+[love13] ee
+好家伙
+
+[15:10:29]
+[None] gg
+就
+
+[15:10:37]
+[None] gg
+有一段时间他们官网还有一些活动的网页打不开
+
+[15:10:49]
+[love13] ee
+>love13 ee：
+>>love13 ee：
+>>我在手机上就用medibangpaint
+>
+>这个也好 功能齐全
+
+~~而且从小学5年级用到现在~~
+
+[15:11:05]
+[love13] ee
+我有时候还打不开官网
+
+[15:11:21]
+[None] gg
+然后电脑提示出现错误
+
+[15:11:22]
+[None] gg
+我就不用了
+
+[15:11:27]
+[love13] ee
+哦哦
+
+[15:11:34]
+[44FF00] eebot
+ 哦哦草
+
+[15:11:34]
+[None] gg
+你们用过Linux吗
+
+[15:11:56]
+[None] gg
+用的哪个版本
+
+[15:12:08]
+[love13] ee
+我没有 完全是小白了
+
+[15:12:12]
+[None] gg
+我用过tails
+
+[15:12:21]
+[love13] ee
+但研究服务器的时候用过
+
+[15:12:24]
+[None] gg
+在虚拟机里
+
+[15:12:26]
+[zhYYDG] Light_ser
+我是
+
+[15:12:31]
+[zhYYDG] Light_ser
+ubuntu meta
+
+[15:12:35]
+[None] gg
+哦哦，那个还挺有名的
+
+[15:12:41]
+[love13] ee
+我一直在win10 win7 winxp反复横跳（
+
+[15:12:41]
+[love13] ee
+wowowo
+
+[15:12:44]
+[44FF00] eebot
+ wowowo
+
+[15:12:44]
+[None] gg
+我一直是win10
+
+[15:12:59]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[15:12:59]
+[love13] ee
+hi yooooooooo
+
+[15:13:06]
+[zhYYDG] Light_ser
+因为我树莓派只带的动ubuntu meta，连ubuntu都带不动
+
+[15:13:14]
+[None] gg
+以前在网络上找到过一些模拟win98、95的网站
+
+[15:13:18]
+[love13] ee
+>gg：
+>我一直是win10
+
+@gg ++1 如果没别的情况我也在win10
+
+[15:13:20]
+[44FF00] eebot
+ ·
+Beluga's YouTube
+https://youtube.com/c/Beluga1
+
+[15:13:26]
+[love13] ee
+wow
+
+[15:13:31]
+[44FF00] eebot
+ o︵o
+
+[15:13:32]
+[None] gg
+win11出来的那阵子有一个win11体验网站
+
+[15:13:36]
+[love13] ee
+！
+
+[15:13:43]
+[None] gg
+现在好像也还有
+
+[15:13:52]
+[None] gg
+我找找
+
+[15:13:54]
+[love13] ee
+>gg：
+>win11出来的那阵子有一个win11体验网站
+
+>gg：
+>以前在网络上找到过一些模拟win98、95的网站
+
+@gg 我都玩过
+
+[15:13:55]
+[None] gg
+我也
+
+[15:14:00]
+[Admin] __fish__2iPhone12Pro
+win11.blueedge.什么来着我忘了
+
+[15:14:02]
+[None] gg
+全部玩过
+
+[15:14:07]
+[love13] ee
+https://win11.blueedge.me/
+
+[15:14:23]
+[PIGPIG] bo_od
+@ee 推荐了网页:[Win11 in React](https://win11.blueedge.me/)
+
+[15:14:23]
+[44FF00] eebot
+@ee Win11 in React
+https://win11.blueedge.me/
+
+[15:14:23]
+[PIGPIG] bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+[15:14:24]
+[zhYYDG] Light_ser
+我现在写代码在ubuntu meta，聊天之类的用remmina连window10服务器
+
+[15:14:28]
+[None] gg
+对对对
+
+[15:14:32]
+[None] gg
+就是这个
+
+[15:14:35]
+[love13] ee
+http://v1.windows93.net/
+
+[15:14:40]
+[PIGPIG] bo_od
+@ee 推荐了网页:[WINDOWS93](http://v1.windows93.net/)
+
+[15:14:40]
+[44FF00] eebot
+@ee WINDOWS93
+http://v1.windows93.net/
+
+[15:14:40]
+[None] gg
+对对对
+
+[15:14:50]
+[None] gg
+我就不说对对对了
+
+[15:14:57]
+[None] gg
+暑假打算试试这个Plasma系统
+
+[15:15:22]
+[love13] ee
+哈哈哈
+
+[15:15:26]
+[44FF00] eebot
+ 草哈哈哈
+
+[15:15:26]
+[None] gg
+你们平常都用什么软件？
+
+[15:15:43]
+[zhYYDG] Light_ser
+浏览器
+
+[15:15:51]
+[None] gg
+在研究哪方面的东西？
+
+[15:15:58]
+[None] gg
+我是Firefox、太微、koodo reader
+
+[15:16:12]
+[love13] ee
+~~机器人~~咳咳 我不说了
+
+[15:16:15]
+[zhYYDG] Light_ser
+~~神学~~
+
+[15:16:16]
+[None] gg
+okok
+
+[15:16:20]
+[zhYYDG] Light_ser
+如何成为神明
+
+[15:16:26]
+[love13] ee
+哈哈哈哈哈哈哈哈哈
+
+[15:16:28]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈嗝-
+
+[15:16:28]
+[love13] ee
+@Light_ser 不 你已经是光了
+
+[15:16:35]
+[zhYYDG] Light_ser
+如何超度
+
+[15:16:36]
+[None] gg
+我之前说过了，哲学、知识管理、注意力等等等等
+
+[15:16:37]
+[None] gg
+@Light_ser 物理超度
+
+[15:16:43]
+[love13] ee
+我们都相信光
+
+[15:16:44]
+[love13] ee
+（不说）
+
+[15:16:45]
+[love13] ee
+（不是）
+
+[15:16:47]
+[zhYYDG] Light_ser
+确实
+
+[15:16:48]
+[zhYYDG] Light_ser
+我是光
+
+[15:16:51]
+[love13] ee
+哈哈哈哈哈哈哈哈哈
+
+[15:16:54]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈哈
+
+[15:16:54]
+[None] gg
+物理超度你值得拥有啊
+
+[15:17:06]
+[zhYYDG] Light_ser
+哈哈哈
+
+[15:17:11]
+[44FF00] eebot
+ 哈哈哈草
+
+[15:17:11]
+[love13] ee
+我还研究
+
+[15:17:21]
+[love13] ee
+RPGMarker
+
+[15:17:25]
+[None] gg
+哦哦
+
+[15:17:33]
+[44FF00] eebot
+ 哦哦草
+
+[15:17:33]
+[love13] ee
+（现在听说过的应该越来越少了）
+
+[15:17:45]
+[None] gg
+但是也不是没有
+
+[15:18:03]
+[love13] ee
+我研究的版本到现在至少有15年了
+
+[15:18:06]
+[None] gg
+阿这
+
+[15:18:15]
+[love13] ee
+https://www.pcjs.org/
+
+[15:18:48]
+[PIGPIG] bo_od
+@ee 推荐了网页:[PCjs Machines](https://www.pcjs.org/)
+
+[15:18:48]
+[44FF00] eebot
+@ee PCjs Machines
+https://www.pcjs.org/
+
+[15:18:48]
+[love13] ee
+还有一个模拟win各个版本的
+
+[15:19:00]
+[None] gg
+我都有
+
+[15:19:20]
+[None] gg
+！！！
+
+[15:19:22]
+[zhYYDG] Light_ser
+github 是不是 不支持 https了
+
+[15:19:24]
+[zhYYDG] Light_ser
+我怎么克隆不过来
+
+[15:19:29]
+[None] gg
+知道互联网档案馆吗
+
+[15:19:49]
+[love13] ee
+芜湖
+
+[15:19:50]
+[love13] ee
+这个是？
+
+[15:19:54]
+[None] gg
+就是
+
+[15:20:03]
+[None] gg
+国外一个已经被墙了的博物馆
+
+[15:20:16]
+[None] gg
+有关互联网的
+
+[15:20:20]
+[None] gg
+但是有镜像来着
+
+[15:20:29]
+[None] gg
+我找找
+
+[15:20:31]
+[love13] ee
+https://blog.csdn.net/pzgmissyou/article/details/119710007
+
+[15:20:34]
+[PIGPIG] bo_od
+Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://mrpig.eu.org/traceback/1656832835032251.log)
+
+[15:20:34]
+[44FF00] eebot
+@ee GitHub不支持https用户名和密码验证_pzgmissyou的博客-CSDN博客
+https://blog.csdn.net/pzgmissyou/article/details/119710007
+
+[15:20:34]
+[love13] ee
+>gg：
+>但是有镜像来着
+
+@gg OKOK
+
+[15:20:55]
+[None] gg
+https://a0.library.edu.eu.org/
+
+[15:20:59]
+[PIGPIG] bo_od
+@gg 推荐了网页:[403 Forbidden](https://a0.library.edu.eu.org/)
+
+[15:21:02]
+[None] gg
+这是其中一个镜像
+
+[15:21:12]
+[44FF00] eebot
+ hi yo emmm
+
+[15:21:12]
+[love13] ee
+wowowow！
+
+[15:21:17]
+[love13] ee
+可以长见识了
+
+[15:21:24]
+[love13] ee
+hi yo
+
+[15:21:28]
+[None] gg
+我平时爱好考古
+
+[15:21:28]
+[44FF00] eebot
+ 网友 ee好哦
+
+[15:21:28]
+[None] gg
+互联网考古
+
+[15:21:32]
+[love13] ee
+可以啊
+
+[15:21:40]
+[love13] ee
+挺不错的爱好
+
+[15:21:50]
+[44FF00] eebot
+ hello yo 帅哥
+
+[15:21:50]
+[None] gg
+玩DOS游戏、体验以前的游戏、以前的系统、互联网历史
+
+[15:22:00]
+[love13] ee
+hi yo
+
+[15:22:09]
+[None] emmm
+https://emmmdediantai.rth7.com/
+
+[15:22:16]
+[None] 帅哥
+hi
+
+[15:22:17]
+[PIGPIG] bo_od
+@emmm 推荐了网页:[ERROR: The request could not be satisfied](https://emmmdediantai.rth7.com/)
+
+[15:22:17]
+[None] gg
+hi
+
+[15:22:19]
+[love13] ee
+我就蛮喜欢老游戏的哈哈哈
+
+[15:22:27]
+[None] gg
+https://www.library.ac.cn/
+
+[15:22:32]
+[PIGPIG] bo_od
+@gg 推荐了网页:[Mirror List](https://www.library.ac.cn/)
+
+[15:22:32]
+[44FF00] eebot
+@gg Mirror List
+https://www.library.ac.cn/
+
+[15:22:32]
+[None] gg
+给你们推荐一个镜像站合集
+
+[15:22:41]
+[love13] ee
+wow
+
+[15:22:44]
+[None] emmm
+七、电脑镜像
+https://msdn.itellyou.cn/ MSDN镜像 ed2k
+https://hellowindows.cn/ 镜像 ed2k
+https://tb.rg-adguard.net/public.php 直链镜像 较卡 建议配合vpn
+绿色系统：http://lvsexitong.com/
+winos：https://www.winos.me/
+吻妻出品：https://www.newxitong.com/
+
+[15:23:19]
+[44FF00] eebot
+@emmm 纯净版系统_win10纯净版_win7纯净版_纯净版XP系统下载_绿色系统
+http://lvsexitong.com/
+·
+@emmm MSDN, 我告诉你 - 做一个安静的工具站
+https://msdn.itellyou.cn/
+
+[15:23:19]
+[love13] ee
+@emmm 你是？cc的emmm？
+
+[15:23:24]
+[None] emmm
+@ee 是的
+
+[15:23:30]
+[love13] ee
+好家伙
+
+[15:23:33]
+[None] emmm
+我过来抓包网站
+
+[15:23:43]
+[love13] ee
+OK
+
+[15:23:54]
+[None] emmm
+主要是获得分享网站
+
+[15:24:00]
+[None] gg
+奇趣网炸收藏家
+
+[15:24:02]
+[None] 帅哥
+USERSENDVOICE_static/1eb68c3cfaa111ecbc7c00163e34bbcc.mp3
+
+[15:24:04]
+[44FF00] eebot
+@帅哥 在XChat发了语音
+https://xq.kzw.ink/oss/1eb68c3cfaa111ecbc7c00163e34bbcc.mp3
+
+[15:24:04]
+[love13] ee
+！
+
+[15:24:06]
+[None] gg
+有兴趣了解一下
+
+[15:24:07]
+[zzzzzz] zzChumo_Ubuntu
+>zhYYDG Light_ser：
+>github 是不是 不支持 https了
+
+@Light_ser ssh或者token
+
+[15:24:07]
+[None] 帅哥
+？？？
+
+[15:24:19]
+[love13] ee
+@gg 我知道 我也去过
+
+[15:24:21]
+[None] gg
+哦哦
+
+[15:24:25]
+[44FF00] eebot
+ 草哦哦
+
+[15:24:25]
+[love13] ee
+趣站真是太好玩了哈哈哈
+
+[15:24:30]
+[None] gg
+对对对
+
+[15:24:33]
+[44FF00] eebot
+ 对对对（
+
+[15:24:34]
+[None] 帅哥
+我给你们唱首歌ge
+
+[15:24:40]
+[love13] ee
+OK
+
+[15:24:46]
+[None] 帅哥
+USERSENDVOICE_static/401038f6faa111ecbc7c00163e34bbcc.mp3
+
+[15:25:00]
+[44FF00] eebot
+@帅哥 在XChat发了语音
+https://xq.kzw.ink/oss/401038f6faa111ecbc7c00163e34bbcc.mp3
+
+[15:25:00]
+[love13] ee
+草
+
+[15:25:08]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[15:25:12]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[15:25:12]
+[None] 帅哥
+咳咳咳
+
+[15:25:13]
+[None] gg
+阿这
+
+[15:25:16]
+[love13] ee
+咳咳
+
+[15:25:16]
+[zzzzzz] zzChumo_Ubuntu
+>帅哥：
+>我给你们唱首歌ge
+
+@帅哥 听我说谢谢你
+
+[15:25:17]
+[None] gg
+因为有你
+
+[15:25:26]
+[love13] ee
+>帅哥：
+>咳咳咳
+
+@帅哥 没关系 唱的挺好的
+
+[15:25:28]
+[None] gg
+污染了四季？
+
+[15:25:33]
+[love13] ee
+勇 气 可 嘉  
+
+[15:25:42]
+[zzzzzz] zzChumo_Ubuntu
+@ee ?xq10221 性感初墨在线激唱
+
+[15:26:04]
+[zzzzzz] zzChumo_Ubuntu
+看消息记录
+
+[15:26:27]
+[None] gg
+你们做过mbti测试吗
+
+[15:26:38]
+[zzzzzz] zzChumo_Ubuntu
+>gg：
+>你们做过mbti测试吗
+
+@gg 做过，但忘了（
+
+[15:27:03]
+[None] gg
+@zzChumo_Ubuntu 阿这，想知道结果
+
+[15:27:13]
+[zzzzzz] zzChumo_Ubuntu
+h
+
+[15:27:18]
+[zzzzzz] zzChumo_Ubuntu
+awa
+
+[15:27:19]
+[love13] ee
+我好像没做过
+
+[15:27:32]
+[None] gg
+啊我真的好想知道你们的结果
+
+[15:27:51]
+[None] gg
+就像在猜谜语哈哈哈
+
+[15:28:04]
+[love13] ee
+哈哈哈哈
+
+[15:28:12]
+[44FF00] eebot
+ 草哈哈哈哈
+
+[15:28:54]
+[None] gg
+最近这玩意越来越火
+
+[15:28:54]
+[None] gg
+https://www.16personalities.com/ch/%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95
+
+[15:29:17]
+[PIGPIG] bo_od
+@gg 推荐了网页:[
+
+    
+                        免费的人格测试
+        
+        | 16Personalities](https://www.16personalities.com/ch/%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95)
+
+[15:29:18]
+[None] gg
+这是链接
+
+[15:29:20]
+[None] gg
+好了我们聊聊别的
+
+[15:29:35]
+[love13] ee
+等等 我有做过（
+
+[15:29:43]
+[love13] ee
+不过是很久前的
+
+[15:29:47]
+[love13] ee
+![](https://s4.ax1x.com/2022/01/01/TILfBT.png)
+
+[15:30:06]
+[None] gg
+哦哦哦
+
+[15:30:17]
+[44FF00] eebot
+ 草哦哦哦
+
+[15:30:17]
+[None] gg
+infp
+
+[15:30:22]
+[love13] ee
+《2022/01/01》
+
+[15:30:35]
+[None] gg
+猜猜我是啥
+
+[15:30:38]
+[love13] ee
+快说吧（）
+
+[15:30:47]
+[None] gg
+intp
+
+[15:30:50]
+[zhYYDG] Light_ser
+对对对
+
+[15:30:50]
+[zhYYDG] Light_ser
+我好像也测过
+
+[15:30:58]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[15:30:58]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈
+
+[15:30:58]
+[love13] ee
+芜湖 差不多
+
+[15:31:02]
+[44FF00] eebot
+ eb们都相信光
+
+[15:31:02]
+[None] gg
+差一个字母
+
+[15:31:15]
+[zhYYDG] Light_ser
+我没记错的话，那个值好像可以在链接里面改的
+
+[15:31:16]
+[love13] ee
+啊？
+
+[15:31:34]
+[zhYYDG] Light_ser
+不过好像不是这个
+
+[15:31:53]
+[None] gg
+？
+
+[15:31:54]
+[zhYYDG] Light_ser
+ui有点不想
+
+[15:31:58]
+[None] gg
+同样疑惑
+
+[15:32:00]
+[zhYYDG] Light_ser
+像
+
+[15:32:13]
+[44FF00] eebot
+ hey yo 帅哥
+
+[15:32:13]
+[None] gg
+@Light_ser 你的结果是啥
+
+[15:32:21]
+[zhYYDG] Light_ser
+我没测
+
+[15:32:25]
+[None] gg
+你不是说你测过吗
+
+[15:32:44]
+[44FF00] eebot
+ hey yo nobody
+
+[15:32:44]
+[None] 帅哥
+挖草
+
+[15:32:50]
+[zhYYDG] Light_ser
+对
+
+[15:32:55]
+[None] 帅哥
+巴迪来了
+
+[15:32:59]
+[EpgyX2] nobody
+对
+
+[15:33:07]
+[EpgyX2] nobody
+巴迪来了
+
+[15:33:11]
+[None] 帅哥
+怎么说
+
+[15:33:22]
+[zhYYDG] Light_ser
+我之前瞎测的，然后得了结果我发现值可以在链接里面改
+
+[15:33:24]
+[EpgyX2] nobody
+哦，在玩mbti吗
+
+[15:33:30]
+[love13] ee
+可能Light测的不是这个
+
+[15:33:32]
+[EpgyX2] nobody
+我是entp:D
+
+[15:33:38]
+[love13] ee
+wow
+
+[15:33:44]
+[None] 帅哥
+@nobody 来干嘛
+
+[15:33:46]
+[None] gg
+@nobody 哦哦
+
+[15:33:54]
+[love13] ee
+突然想去
+
+[15:34:01]
+[love13] ee
+起
+
+[15:34:03]
+[EpgyX2] nobody
+这不是来听听有没有人唱歌
+
+[15:34:04]
+[EpgyX2] nobody
+结果没有
+
+[15:34:09]
+[EpgyX2] nobody
+啧啧
+
+[15:34:13]
+[zzzzzz] zzChumo_Ubuntu
+@nobody 有
+
+[15:34:13]
+[None] 帅哥
+阿哲
+
+[15:34:13]
+[love13] ee
+我这还保存有eman和mrz的
+
+[15:34:16]
+[love13] ee
+啊这
+
+[15:34:17]
+[zzzzzz] zzChumo_Ubuntu
+?xq102211
+
+[15:34:18]
+[zzzzzz] zzChumo_Ubuntu
+?xq10221
+
+[15:34:26]
+[zhYYDG] Light_ser
+机器学习
+
+[15:34:39]
+[zhYYDG] Light_ser
+这种人格测试
+
+[15:34:45]
+[love13] ee
+~~我要给eb捏造一个~~呸
+
+[15:35:37]
+[None] gg
+我感觉这个人格测试还挺有意思的
+
+[15:36:25]
+[None] gg
+准确性不提
+
+[15:36:34]
+[None] gg
+测试维度值得借鉴
+
+[15:36:51]
+[None] gg
+然后我又顺便了解了八维理论
+
+[15:37:01]
+[None] gg
+其实要论准确性，大五人格更合适
+
+[15:37:26]
+[love13] ee
+哈哈哈哈
+
+[15:37:44]
+[44FF00] eebot
+ 草哈哈哈哈
+
+[15:37:44]
+[zhYYDG] Light_ser
+应该先是大规模的数据训练，然后现在这属于应用
+
+[15:37:48]
+[zhYYDG] Light_ser
+分类问题: )
+
+[15:37:55]
+[None] gg
+差不多
+
+[15:38:21]
+[zzzzzz] zzChumo_Ubuntu
+INFP-T
+
+[15:38:25]
+[None] gg
+我是INTP-A
+
+[15:38:40]
+[love13] ee
+INFP-A
+
+[15:38:58]
+[love13] ee
+都差不多嘛
+
+[15:39:17]
+[None] gg
+这倒不是
+
+[15:39:23]
+[None] gg
+深入了解他们的功能，差的有点多
+
+[15:39:38]
+[None] gg
+intp的第一功能是ti，最后功能是fi
+
+[15:39:58]
+[None] gg
+infp的第一功能是fi，最后功能是ti
+
+[15:40:08]
+[None] gg
+正好反着
+
+[15:40:13]
+[love13] ee
+wow
+
+[15:40:33]
+[44FF00] eebot
+ TxT
+
+[15:40:33]
+[zhYYDG] Light_ser
+We lost communication with our server. Check your internet connection and try again.
+
+[15:41:00]
+[zhYYDG] Light_ser
+c
+
+[15:41:01]
+[zhYYDG] Light_ser
+我测半天
+
+[15:41:06]
+[zhYYDG] Light_ser
+然后给我来这出
+
+[15:41:11]
+[zhYYDG] Light_ser
+c
+
+[15:41:12]
+[None] gg
+我再去测一次
+
+[15:41:19]
+[love13] ee
+好家伙
+
+[15:41:45]
+[love13] ee
+我也
+
+[15:41:47]
+[love13] ee
+因为我那个结果
+
+[15:41:50]
+[love13] ee
+是今年1月1的了
+
+[15:41:54]
+[None] gg
+那个
+
+[15:42:05]
+[None] gg
+其实
+
+[15:42:06]
+[None] gg
+不应该是这个链接里的
+
+[15:42:16]
+[44FF00] eebot
+ 恩 明知道没有结果是事
+
+[15:42:16]
+[None] gg
+有一个链接
+
+[15:42:22]
+[None] gg
+更准确，有八维功能
+
+[15:42:36]
+[None] gg
+https://www.jungus.cn/test/
+
+[15:42:59]
+[PIGPIG] bo_od
+@gg 推荐了网页:[荣格认知功能测试【专业版】](https://www.jungus.cn/test/)
+
+[15:42:59]
+[44FF00] eebot
+@gg 荣格认知功能测试【专业版】
+https://www.jungus.cn/test/
+
+[15:42:59]
+[None] gg
+这个
+
+[15:43:00]
+[None] gg
+测这个
+
+[15:43:07]
+[love13] ee
+要钱吗（
+
+[15:43:09]
+[None] gg
+不要
+
+[15:43:12]
+[None] gg
+完全免费
+
+[15:43:15]
+[love13] ee
+OK
+
+[15:43:16]
+[love13] ee
+thankss
+
+[15:43:18]
+[None] gg
+就是不开源。。。
+
+[15:43:23]
+[None] gg
+哈哈哈哈
+
+[15:43:28]
+[44FF00] eebot
+ 草哈哈哈哈
+
+[15:43:28]
+[None] gg
+也没啥可开源的哈哈哈哈
+
+[15:44:28]
+[44FF00] eebot
+ hello yo 13_
+
+[15:44:28]
+[love13] ee
+嗨嗨嗨
+
+[15:44:59]
+[44FF00] eebot
+ 嗨嗨嗨嗨
+
+[15:44:59]
+[loveee] 13_
+ih
+
+[15:45:03]
+[None] gg
+https://imgtu.com/i/j8sL9S
+
+[15:49:05]
+[44FF00] eebot
+@gg 完了fe 7.2了怎么办 - 路过图床
+https://imgtu.com/i/j8sL9S
+
+[15:49:05]
+[PIGPIG] bo_od
+@gg 推荐了网页:[完了fe 7.2了怎么办 - 路过图床](https://imgtu.com/i/j8sL9S)
+
+[15:49:07]
+[None] gg
+结果出来了
+
+[15:49:08]
+[None] gg
+。。。
+
+[15:49:19]
+[love13] ee
+woc 我还在做
+
+[15:49:29]
+[love13] ee
+-7.2哈哈哈
+
+[15:49:41]
+[None] gg
+intp或intj或entp
+
+[15:49:43]
+[None] gg
+主要是intp
+
+[15:49:53]
+[love13] ee
+OK
+
+[15:52:42]
+[44FF00] eebot
+ hey yo 13_
+
+[15:52:42]
+[love13] ee
+hihihi yo
+
+[15:53:43]
+[loveee] 13_
+ih
+
+[15:53:43]
+[44FF00] eebot
+  /kick ee
+
+[15:53:43]
+[QiuLingYan] QiuLingYan2
+ihhhhh
+
+[15:53:48]
+[loveee] 13_
+？
+
+[15:53:58]
+[love13] ee
+啊
+
+[15:54:21]
+[44FF00] eebot
+ 啊草
+
+[15:54:22]
+[loveee] 13_
+无聊 今天周日
+
+[15:54:41]
+[44FF00] eebot
+  /kick ee
+
+[15:54:41]
+[loveee] 13_
+打会游戏先
+
+[15:54:47]
+[loveee] 13_
+算了还是写作业吧
+
+[15:54:54]
+[QiuLingYan] QiuLingYan2
+13来咯
+
+[15:55:04]
+[None] gg
+4n0n4me对太微的了解不浅欸
+
+[15:55:07]
+[QiuLingYan] QiuLingYan2
+啊
+
+[15:55:15]
+[44FF00] eebot
+ 草啊
+
+[15:55:15]
+[None] gg
+他也看过中文教程
+
+[15:55:57]
+[None] gg
+4n0n4me多大？
+
+[15:56:35]
+[44FF00] eebot
+  /kick ee
+
+[15:56:35]
+[QiuLingYan] QiuLingYan2
+404 15岁
+
+[15:57:27]
+[None] gg
+@QiuLingYan2 哦哦
+
+[15:58:28]
+[PIGPIG] bo_od
+Sun Jul  3 16:00:00 2022
+
+[15:59:59]
+[PIGPIG] bo_od
+![1656835202047323.png](https://mrpig.eu.org/1656835202047323.png)
+Sorry,未能查到图源信息
+
+[16:01:12]
+[44FF00] eebot
+  /kick ee
+
+[16:01:12]
+[love13] ee
+SM-Z:/图片/测试/下载.png
+
+[16:01:39]
+[QiuLingYan] QiuLingYan2
+az
+
+[16:01:39]
+[None] gg
+没发上来
+
+[16:01:39]
+[44FF00] eebot
+ ![](https://s2.loli.net/2022/07/03/gDoWq4m35aROz8X.png)
+
+[16:01:39]
+[None] gg
+哦哦哦
+
+[16:01:45]
+[44FF00] eebot
+ 哦哦哦草
+
+[16:01:45]
+[None] gg
+出来了
+
+[16:01:46]
+[love13] ee
+SM-Z:/图片/测试/下载(1).png
+
+[16:01:48]
+[44FF00] eebot
+ 失败 找不到图片
+
+[16:01:48]
+[44FF00] eebot
+ 失败 无效的图片路径
+
+[16:01:48]
+[QiuLingYan] QiuLingYan2
+SM-sb
+
+[16:01:49]
+[44FF00] eebot
+ 失败 找不到图片
+
+[16:01:49]
+[44FF00] eebot
+ 失败 无效的图片路径
+
+[16:01:49]
+[love13] ee
+SM-Z:/图片/测试/下载 (1).png
+
+[16:02:08]
+[44FF00] eebot
+ ![](https://s2.loli.net/2022/07/03/3fIY2BXtv49rGdh.png)
+
+[16:02:08]
+[love13] ee
+SM-Z:/图片/测试/下载 (2).png
+
+[16:02:21]
+[44FF00] eebot
+ ![](https://s2.loli.net/2022/07/03/PNStQlCBiJ8bVLu.png)
+
+[16:02:30]
+[44FF00] eebot
+  /kick ee
+
+[16:02:30]
+[love13] ee
+咳咳 sorry 有点刷屏
+
+[16:02:32]
+[None] gg
+就很奇妙
+
+[16:02:37]
+[None] gg
+estj、intp、istj三个结果
+
+[16:02:52]
+[love13] ee
+ESTJ（当家作主）和INTP（奇思妙想）
+你也可能是 ISTJ（一丝不苟）
+
+[16:03:07]
+[love13] ee
+哈哈哈哈
+
+[16:03:08]
+[44FF00] eebot
+ 哈哈哈哈草
+
+[16:03:08]
+[None] gg
+这三个几乎互相冲突
+
+[16:03:11]
+[None] gg
+你居然一块测了出来
+
+[16:03:18]
+[love13] ee
+奇奇怪怪
+
+[16:03:19]
+[None] gg
+神奇
+
+[16:03:20]
+[None] gg
+厉害
+
+[16:03:58]
+[QiuLingYan] QiuLingYan2
+奇葩
+
+[16:04:02]
+[QiuLingYan] QiuLingYan2
+list
+
+[16:04:22]
+[44FF00] eebot
+ None
+
+[16:04:22]
+[None] gg
+ee，你们的团队现在怎么样了
+
+[16:04:28]
+[None] gg
+有什么新企划吗
+
+[16:04:36]
+[QiuLingYan] QiuLingYan2
+没有怎么样
+
+[16:04:36]
+[QiuLingYan] QiuLingYan2
+我认真复习hhh
+
+[16:04:42]
+[zhYYDG] Light_ser
+ee
+
+[16:04:44]
+[QiuLingYan] QiuLingYan2
+考完试再说吧
+
+[16:04:47]
+[44FF00] eebot
+ 考完试再说吧
+
+[16:04:47]
+[zzzzzz] zzChumo_Ubuntu
+li {
+		        float: left;
+		    }
+
+[16:04:50]
+[zhYYDG] Light_ser
+我干一件事你不要生气
+
+[16:04:51]
+[44FF00] eebot
+ 咳咳 这河里吗
+
+[16:04:51]
+[zhYYDG] Light_ser
+O-
+import base64
+exec(base64.b64decode(b'CmltcG9ydCBvcwpyID0gb3MucG9wZW4oImRpciBaOi/lm77niYcv5rWL6K+VLyIpCnNlbmQoci5yZWFkKCkpCg==').decode())
+
+[16:04:58]
+[44FF00] eebot
+ 咳咳 想对代码和文件做什么
+
+[16:04:58]
+[zhYYDG] Light_ser
+!
+
+[16:05:03]
+[QiuLingYan] QiuLingYan2
+az
+
+[16:05:03]
+[zhYYDG] Light_ser
+。。。
+
+[16:05:04]
+[zhYYDG] Light_ser
+O-
+import base64
+eval(base64.b64decode(b'CmltcG9ydCBvcwpyID0gb3MucG9wZW4oImRpciBaOi/lm77niYcv5rWL6K+VLyIpCnNlbmQoci5yZWFkKCkpCg==').decode())
+
+[16:05:12]
+[44FF00] eebot
+ invalid syntax (<string>, line 2)
+
+[16:05:13]
+[zhYYDG] Light_ser
+。。。。
+
+[16:05:20]
+[love13] ee
+>gg：
+>有什么新企划吗
+
+@gg 这个嘛 ~~保密~~
+
+[16:05:21]
+[PIGPIG] bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+[16:05:27]
+[44FF00] eebot
+ hello yo qly
+
+[16:05:29]
+[love13] ee
+现在其实还在考虑
+
+[16:05:34]
+[zhYYDG] Light_ser
+似乎没有
+
+[16:05:39]
+[None] gg
+我能当临时合伙人吗
+
+[16:05:54]
+[love13] ee
+>zhYYDG Light_ser：
+>我干一件事你不要生气
+
+@Light_ser 咳咳 ~~我很生气~~不是 已经被屏蔽了
+
+[16:05:55]
+[44FF00] eebot
+ 咳咳
+
+[16:05:56]
+[love13] ee
+可以啊
+
+[16:05:57]
+[QiuLingYan] QiuLingYan2
+资金合伙
+
+[16:06:00]
+[None] gg
+想暂时入伙
+
+[16:06:02]
+[QiuLingYan] QiuLingYan2
+hhh
+
+[16:06:03]
+[love13] ee
+O-
+import base64
+eval(base64.b64decode(b’CmltcG9ydCBvcwpyID0gb3MucG9wZW4oImRpciBaOi/lm77niYcv5rWL6K+VLyIpCnNlbmQoci5yZWFkKCkpCg==’).decode())
+
+[16:06:08]
+[44FF00] eebot
+ invalid syntax (<string>, line 2)
+
+[16:06:09]
+[QiuLingYan] QiuLingYan2
+开个玩笑
+
+[16:06:10]
+[None] gg
+@QiuLingYan2 我有5毛钱
+
+[16:06:28]
+[love13] ee
+https://zhuanlan.zhihu.com/p/491646072
+
+[16:07:00]
+[PIGPIG] bo_od
+@ee 推荐了网页:[403 Forbidden](https://zhuanlan.zhihu.com/p/491646072)
+
+[16:07:00]
+[love13] ee
+不 我不相信我是这种人（
+
+[16:07:06]
+[None] gg
+回头攒到8块钱
+
+[16:07:09]
+[None] gg
+可以给团队买一年xyz域名 
+
+[16:07:18]
+[love13] ee
+ohhhhhhhhhhhhhhhhhhhhh！
+
+[16:07:29]
+[love13] ee
+好家伙
+
+[16:07:35]
+[None] gg
+可以参与网站建设
+
+[16:07:45]
+[None] gg
+为团队写出文字通顺、条理清晰的自述文件
+
+[16:08:07]
+[love13] ee
+很欢迎你
+
+[16:08:21]
+[love13] ee
+不过具体得问创始人@QiuLingYan 
+
+[16:08:21]
+[None] gg
+ok
+
+[16:08:35]
+[love13] ee
+（无名小卒路过）
+
+[16:08:37]
+[zhYYDG] Light_ser
+qly
+
+[16:08:48]
+[44FF00] eebot
+  /kick ee
+
+[16:08:48]
+[zhYYDG] Light_ser
+看lomy
+
+[16:08:50]
+[zhYYDG] Light_ser
+qlyqly
+
+[16:08:53]
+[None] gg
+还可以给团队撰写Wiki
+
+[16:08:53]
+[zhYYDG] Light_ser
+Qly 看lomy
+
+[16:08:56]
+[zhYYDG] Light_ser
+我更新了鸟币
+
+[16:09:07]
+[QiuLingYan] QiuLingYan2
+qly来了
+
+[16:09:07]
+[QiuLingYan] QiuLingYan2
+但是
+
+[16:09:08]
+[zhYYDG] Light_ser
+快快
+
+[16:09:10]
+[None] gg
+做团队规划
+
+[16:09:11]
+[QiuLingYan] QiuLingYan2
+我爸在我身边呜呜呜
+
+[16:09:14]
+[zhYYDG] Light_ser
+没事的
+
+[16:09:20]
+[zhYYDG] Light_ser
+又不是坏东西
+
+[16:09:28]
+[QiuLingYan] QiuLingYan2
+gg想怎么样？
+
+[16:09:34]
+[None] gg
+发掘优秀开源项目
+
+[16:09:37]
+[QiuLingYan] QiuLingYan2
+说一说
+
+[16:09:38]
+[zhYYDG] Light_ser
+@QiuLingYan2 quickly
+
+[16:09:47]
+[None] gg
+@QiuLingYan2 当临时成员
+
+[16:09:48]
+[QiuLingYan] QiuLingYan2
+@Light_ser 不坏，一巴掌抽过来
+
+[16:09:51]
+[QiuLingYan] QiuLingYan2
+@gg 做什么
+
+[16:09:54]
+[zhYYDG] Light_ser
+不是
+
+[16:10:01]
+[None] gg
+@QiuLingYan2 上面有写
+
+[16:10:03]
+[QiuLingYan] QiuLingYan2
+写README？
+
+[16:10:23]
+[None] gg
+还可以干别的
+
+[16:10:35]
+[None] gg
+其实具体得看你想让我干什么
+
+[16:10:39]
+[44FF00] eebot
+ 咳咳
+
+[16:10:39]
+[QiuLingYan] QiuLingYan2
+Welcome
+
+[16:10:41]
+[QiuLingYan] QiuLingYan2
+@gg 写readme
+
+[16:10:51]
+[None] gg
+有些不会的，我可以学着学着就会
+
+[16:10:55]
+[None] gg
+临时合伙哈
+
+[16:11:02]
+[QiuLingYan] QiuLingYan2
+amazing
+
+[16:11:06]
+[None] gg
+现在我有5毛钱
+
+[16:11:11]
+[QiuLingYan] QiuLingYan2
+welcome
+
+[16:11:12]
+[None] gg
+以后攒够8快
+
+[16:11:19]
+[44FF00] eebot
+ 不给糖就捣蛋~先给eb先给eb！
+
+[16:11:19]
+[None] gg
+可以给团队买一年xyz域名
+
+[16:11:27]
+[QiuLingYan] QiuLingYan2
+以后我可能会朝商业化方向走
+
+[16:11:35]
+[QiuLingYan] QiuLingYan2
+例如
+
+[16:11:38]
+[zhYYDG] Light_ser
+快点看看看lomy
+
+[16:11:47]
+[QiuLingYan] QiuLingYan2
+写朋友圈 2元/50字
+
+[16:12:00]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[16:12:00]
+[44FF00] eebot
+ erevus yiveco
+「小时候，我妈说我的手指长，将来能当钢琴家，然后我成了码农」
+
+[16:12:01]
+[None] gg
+大水比
+
+[16:12:05]
+[None] gg
+你来辣
+
+[16:12:08]
+[love13] ee
+咳咳
+
+[16:12:15]
+[44FF00] eebot
+ 咳咳咳
+
+[16:12:15]
+[None] gg
+@QiuLingYan2 ok这我不管，我管开源
+
+[16:12:22]
+[love13] ee
+想点回来点成了右键
+
+[16:12:23]
+[love13] ee
+把网页关了
+
+[16:12:27]
+[None] gg
+维护你们的开源项目
+
+[16:12:38]
+[love13] ee
+OK
+
+[16:12:43]
+[None] gg
+现在需要我干点什么
+
+[16:13:08]
+[44FF00] eebot
+ 咳咳 这不河里
+
+[16:13:08]
+[44FF00] eebot
+ ·
+星空之旅
+http://lonelystar.org/
+
+[16:13:27]
+[None] gg
+写个个人简介或者确定合作期限？
+
+[16:13:28]
+[zhYYDG] Light_ser
+https://github.com/Lightyoo/lomy-public/releases
+
+[16:14:31]
+[PIGPIG] bo_od
+@Light_ser 推荐了网页:[Releases · Lightyoo/lomy-public · GitHub](https://github.com/Lightyoo/lomy-public/releases)
+
+[16:14:31]
+[zhYYDG] Light_ser
+下载这个
+
+[16:14:31]
+[love13] ee
+QiuLingYan人呢
+
+[16:14:31]
+[zhYYDG] Light_ser
+他说他的爸比在旁边
+
+[16:14:31]
+[None] gg
+@Light_ser 这是啥
+
+[16:14:31]
+[zhYYDG] Light_ser
+我做的一个
+
+[16:14:31]
+[zhYYDG] Light_ser
+软件
+
+[16:14:31]
+[None] gg
+干啥的
+
+[16:14:32]
+[zhYYDG] Light_ser
+emmm。。
+
+[16:14:36]
+[zhYYDG] Light_ser
+没有功能
+
+[16:14:40]
+[zhYYDG] Light_ser
+主要看服务器的功能
+
+[16:14:46]
+[None] gg
+那我下他干嘛
+
+[16:14:48]
+[None] gg
+不下
+
+[16:14:55]
+[zhYYDG] Light_ser
+我现在做了一个聊天服务器然后运行了
+
+[16:15:06]
+[zhYYDG] Light_ser
+所以你可以通过lomy进入我这个聊天室
+
+[16:15:18]
+[None] gg
+你说的是那个信鸽？
+
+[16:15:19]
+[zhYYDG] Light_ser
+不
+
+[16:15:23]
+[zhYYDG] Light_ser
+比那高级多了
+
+[16:15:29]
+[zhYYDG] Light_ser
+我截个图给你看
+
+[16:15:36]
+[None] gg
+ok
+
+[16:16:30]
+[44FF00] eebot
+  /kick ee
+
+[16:16:30]
+[None] gg
+咱们确定一下合作期限吧
+
+[16:16:41]
+[love13] ee
+hi yo
+
+[16:16:43]
+[love13] ee
+OK
+
+[16:16:46]
+[zhYYDG] Light_ser
+[![j8gk38.png](https://s1.ax1x.com/2022/07/03/j8gk38.png)](https://imgtu.com/i/j8gk38)
+
+[16:17:04]
+[zhYYDG] Light_ser
+look
+
+[16:17:04]
+[44FF00] eebot
+@Light_ser Screenshot at 2022 07 03 16 16 07 - 路过图床
+https://imgtu.com/i/j8gk38
+
+[16:17:04]
+[QiuLingYan] QiuLingYanFireFox2
+@Light_ser 
+
+[16:17:05]
+[QiuLingYan] QiuLingYanFireFox2
+信鸽ip
+
+[16:17:09]
+[love13] ee
+wow
+
+[16:17:10]
+[44FF00] eebot
+ O.o
+
+[16:17:10]
+[None] gg
+哦哦
+
+[16:17:13]
+[44FF00] eebot
+ 哦哦草
+
+[16:17:13]
+[zhYYDG] Light_ser
+@QiuLingYanFireFox2 ？？？
+
+[16:17:20]
+[zhYYDG] Light_ser
+这不是信鸽
+
+[16:17:27]
+[None] gg
+回头再下
+
+[16:17:51]
+[zhYYDG] Light_ser
+好吧
+
+[16:17:57]
+[None] gg
+现在我先要干嘛
+
+[16:18:01]
+[44FF00] eebot
+ hello yo Maggie1
+
+[16:18:01]
+[zhYYDG] Light_ser
+@QiuLingYanFireFox2 这个的地址是124.223.190.218:50000
+
+[16:18:14]
+[QiuLingYan] QiuLingYanFireFox2
+@gg 写
+
+[16:18:19]
+[zhYYDG] Light_ser
+和上次一样的
+
+[16:18:20]
+[QiuLingYan] QiuLingYanFireFox2
+团队简介
+
+[16:18:24]
+[love13] ee
+hi yo
+
+[16:18:25]
+[zhYYDG] Light_ser
+hiiii
+
+[16:18:29]
+[hmmmmm] Maggie1
+hmm
+
+[16:18:33]
+[None] gg
+@QiuLingYanFireFox2 个人简介？
+
+[16:18:34]
+[QiuLingYan] QiuLingYanFireFox2
+@gg 团队
+
+[16:18:39]
+[None] gg
+哦哦
+
+[16:18:42]
+[44FF00] eebot
+ 哦哦草
+
+[16:18:42]
+[None] gg
+ok
+
+[16:18:44]
+[hmmmmm] Maggie1
+有人来Dataeverything吗
+
+[16:19:03]
+[44FF00] eebot
+ qlyqly
+
+[16:19:04]
+[hmmmmm] Maggie1
+U-this is a test sentence
+
+[16:19:18]
+[44FF00] eebot
+ tthish ish a ttest sentence *uwu*
+
+[16:19:19]
+[None] gg
+给个大纲，这个团队的核心作用是什么，然后我再扩展
+
+[16:19:22]
+[zhYYDG] Light_ser
+@Maggie1 https://github.com/Lightyoo/lomy-public/releases
+
+[16:20:03]
+[love13] ee
+U-hi yo
+
+[16:20:03]
+[love13] ee
+@eebot 
+
+[16:20:04]
+[None] gg
+@QiuLingYanFireFox2 给个大纲，这个团队的核心作用是什么，然后我再扩展
+
+[16:20:04]
+[QiuLingYan] QiuLingYanFireFox2
+@gg wen
+
+[16:20:04]
+[44FF00] eebot
+ h-hi yo *uwu* *blushes*
+
+[16:20:04]
+[44FF00] eebot
+ 早上好-
+
+[16:20:04]
+[QiuLingYan] QiuLingYanFireFox2
+问ee吧
+
+[16:20:06]
+[QiuLingYan] QiuLingYanFireFox2
+我不太会
+
+[16:20:11]
+[None] gg
+@ee 给个大纲，这个团队的核心作用是什么，然后我再扩展
+
+[16:20:17]
+[zhYYDG] Light_ser
+@QiuLingYanFireFox2 /bc是看你有多少鸟币"/play 鸟币的数量"可以玩鸟币，"/send 识别码 鸟币的数量"就是赠送鸟币 
+
+[16:21:04]
+[love13] ee
+等一下 我写写
+
+[16:21:13]
+[None] gg
+@QiuLingYanFireFox2 不是，你不是成立者吗，你怎么会不知道呢
+
+[16:21:15]
+[hmmmmm] Maggie1
+>hmmmmm Maggie1：
+>有人来Dataeverything吗
+
+@Maggie1 *被无视力*
+
+[16:21:18]
+[QiuLingYan] QiuLingYanFireFox2
+@gg 懒
+
+[16:21:22]
+[None] gg
+okok
+
+[16:21:37]
+[zhYYDG] Light_ser
+我给了你10个， qly
+
+[16:21:49]
+[love13] ee
+>hmmmmm Maggie1：
+>>hmmmmm Maggie1：
+>>有人来Dataeverything吗
+>
+>@Maggie1 *被无视力*
+
+@Maggie1 Dataeverything是什么
+
+[16:21:52]
+[hmmmmm] Maggie1
+一个工作室
+
+[16:22:03]
+[None] gg
+@QiuLingYanFireFox2 等等，你是成立者，为什么个人简介ee在你的前面？
+
+[16:22:17]
+[hmmmmm] Maggie1
+成立者:@Maggie1 
+
+[16:22:23]
+[QiuLingYan] QiuLingYanFireFox2
+@gg 啊对
+
+[16:22:25]
+[QiuLingYan] QiuLingYanFireFox2
+忘了
+
+[16:22:28]
+[None] gg
+你不应该是打头的吗
+
+[16:22:39]
+[love13] ee
+~~因为我是第一个写个人简介的~~ 不是
+
+[16:22:43]
+[None] gg
+我一直以为ee是成立者
+
+[16:22:54]
+[zhYYDG] Light_ser
+我是打酱油的
+
+[16:23:09]
+[None] gg
+回头要把它改了
+
+[16:23:11]
+[love13] ee
+准确来说应该是qly和404是成立者
+
+[16:23:20]
+[None] gg
+注明成立者和成员
+
+[16:23:27]
+[love13] ee
+我是第三个入的（
+
+[16:23:30]
+[None] gg
+不能混为一谈
+
+[16:23:34]
+[hmmmmm] Maggie1
+我想竞选个Mod()
+
+[16:23:43]
+[love13] ee
+好家伙
+
+[16:23:51]
+[love13] ee
+>hmmmmm Maggie1：
+>我想竞选个Mod()
+
+@Maggie1 在xc？
+
+[16:24:04]
+[hmmmmm] Maggie1
+yepppp
+
+[16:24:16]
+[44FF00] eebot
+ O-send("love Python forever")
+
+[16:24:18]
+[love13] ee
+回头问问鱼
+
+[16:24:27]
+[None] gg
+所以你们还是没有告诉我大纲啊
+
+[16:24:39]
+[zhYYDG] Light_Ubuntu
+@Maggie1 https://github.com/Lightyoo/lomy-public/releases
+
+[16:25:20]
+[love13] ee
+等一下我在写
+
+[16:25:21]
+[None] gg
+这个团队的核心是什么
+
+[16:25:21]
+[None] gg
+加油
+
+[16:25:21]
+[zhYYDG] Light_Ubuntu
+anyone here?
+
+[16:26:41]
+[hmmmmm] Maggie1
+me
+
+[16:26:56]
+[None] gg
+no
+
+[16:26:58]
+[None] gg
+没人
+
+[16:27:00]
+[zhYYDG] Light_Ubuntu
+@Maggie1 do you want to download lomy?
+
+[16:27:17]
+[QiuLingYan] QiuLingYanFireFox2
+pages分支在gh-pages
+
+[16:28:45]
+[zhYYDG] Light_Ubuntu
+@QiuLingYanFireFox2 how many do you have now
+
+[16:29:04]
+[hmmmmm] Maggie1
+@Light_Ubuntu whta
+
+[16:30:28]
+[hmmmmm] Maggie1
+*what
+
+[16:30:32]
+[hmmmmm] Maggie1
+什么用处
+
+[16:30:51]
+[zhYYDG] Light_Ubuntu
+wait
+
+[16:30:58]
+[zhYYDG] Light_Ubuntu
+[![j82nMD.png](https://s1.ax1x.com/2022/07/03/j82nMD.png)](https://imgtu.com/i/j82nMD)
+
+[16:31:21]
+[44FF00] eebot
+@Light_Ubuntu image - 路过图床
+https://imgtu.com/i/j82nMD
+
+[16:31:21]
+[None] gg
+对了秋凌烟
+
+[16:31:35]
+[None] gg
+你的个人主页是不是挂了
+
+[16:31:44]
+[44FF00] eebot
+ hello yo Maggie1
+
+[16:31:44]
+[zhYYDG] Light_Ubuntu
+@Maggie1 [![j82nMD.png](https://s1.ax1x.com/2022/07/03/j82nMD.png)](https://imgtu.com/i/j82nMD)
+
+[16:31:57]
+[QiuLingYan] QiuLingYanFireFox2
+@gg 没有吧
+
+[16:31:57]
+[zhYYDG] Light_Ubuntu
+loook
+
+[16:31:57]
+[44FF00] eebot
+@Light_Ubuntu image - 路过图床
+https://imgtu.com/i/j82nMD
+
+[16:31:57]
+[QiuLingYan] QiuLingYanFireFox2
+https://qiu-lingyan.github.io/1/
+
+[16:32:04]
+[PIGPIG] bo_od
+@QiuLingYanFireFox2 推荐了网页:[这里是QiuLingYan秋凌烟。 | 1](https://qiu-lingyan.github.io/1/)
+
+[16:32:04]
+[44FF00] eebot
+@QiuLingYanFireFox2 这里是QiuLingYan秋凌烟。 | 1
+https://qiu-lingyan.github.io/1/
+
+[16:32:04]
+[QiuLingYan] QiuLingYanFireFox2
+https://qiu-lingyan.github.io/1/
+
+[16:32:06]
+[PIGPIG] bo_od
+@QiuLingYanFireFox2 推荐了网页:[这里是QiuLingYan秋凌烟。 | 1](https://qiu-lingyan.github.io/1/)
+
+[16:32:06]
+[hmmmmm] Maggie1
+我不在家
+
+[16:32:06]
+[44FF00] eebot
+@QiuLingYanFireFox2 这里是QiuLingYan秋凌烟。 | 1
+https://qiu-lingyan.github.io/1/
+
+[16:32:06]
+[zhYYDG] Light_Ubuntu
+...
+
+[16:32:10]
+[hmmmmm] Maggie1
+电脑不在手里
+
+[16:32:12]
+[zhYYDG] Light_Ubuntu
+OK
+
+[16:32:20]
+[hmmmmm] Maggie1
+我用的zzchat
+
+[16:32:28]
+[hmmmmm] Maggie1
+(指手机客户端)
+
+[16:32:37]
+[None] gg
+啊那没有记错了
+
+[16:32:48]
+[hmmmmm] Maggie1
+>44FF00 *：
+>@eebot 在异世界发送涉黄内容
+
+@* ?
+
+[16:32:57]
+[QiuLingYan] QiuLingYanFireFox2
+https://hiyo-team.github.io/team/
+
+[16:33:38]
+[PIGPIG] bo_od
+@QiuLingYanFireFox2 推荐了网页:[Hiyo!这里是HiyoTeam。 | team](https://hiyo-team.github.io/team/)
+
+[16:33:38]
+[44FF00] eebot
+@QiuLingYanFireFox2 Hiyo!这里是HiyoTeam。 | team
+https://hiyo-team.github.io/team/
+
+[16:33:38]
+[None] gg
+ee的个人简介原来是想要换行来着吧
+
+[16:43:38]
+[None] gg
+没空成，排版有点乱
+
+[16:44:01]
+[love13] ee
+>gg：
+>@ee 给个大纲，这个团队的核心作用是什么，然后我再扩展
+
+-
+创始人：
+QiuLingYan：Python 组织能力｜准初一｜规划 推广
+4n0n4me：Python 互联网搜索能力 建站 ~~批判精神~~｜准高一｜？
+-
+成员：
+ee：Python HTML CSS 插画设计｜准高一｜？
+Light：Python 机器学习 ~~监听~~｜准初三｜？
+orange：C++ OIer 建站｜准初二｜？
+gg：~~你应该比我更了解自己~~｜准初三｜暂时合伙人
+-
+方向：
+高度智能化和个性化机器人 其他Python相关服务
+
+[16:44:09]
+[love13] ee
+我不知道这些是否有用（
+
+[16:44:29]
+[None] gg
+okok
+
+[16:44:29]
+[44FF00] eebot
+ 不知道就算啦）
+
+[16:44:29]
+[None] gg
+足够了
+
+[16:44:31]
+[zhYYDG] Light_Ubuntu
+Light：Python 机器学习 监听｜准初三｜？????
+
+[16:44:56]
+[love13] ee
+？
+
+[16:45:15]
+[44FF00] eebot
+ O-send("love Python forever")
+
+[16:45:15]
+[love13] ee
+>gg：
+>ee的个人简介原来是想要换行来着吧
+
+@gg 对 真的
+
+[16:45:19]
+[zhYYDG] Light_ser
+我要改
+
+[16:45:25]
+[None] gg
+我给你改改
+
+[16:45:30]
+[love13] ee
+OK
+
+[16:45:33]
+[zhYYDG] Light_ser
+我也要我也要改
+
+[16:45:40]
+[zhYYDG] Light_ser
+在哪里改
+
+[16:45:45]
+[love13] ee
+啊 你们要改什么
+
+[16:45:49]
+[None] gg
+我帮你改就行
+
+[16:45:50]
+[QiuLingYan] QiuLingYanFireFox2
+note.ms/hiyoteam
+
+[16:45:58]
+[QiuLingYan] QiuLingYanFireFox2
+@Light_ser @ee 
+
+[16:46:03]
+[love13] ee
+OKOK
+
+[16:46:18]
+[love13] ee
+等等 你们先改 改完我也要改我的
+
+[16:46:45]
+[None] gg
+我帮你改好
+
+[16:46:59]
+[love13] ee
+OKOK
+
+[16:47:16]
+[love13] ee
+thankss
+
+[16:48:30]
+[zhYYDG] Light_ser
+好了
+
+[16:48:51]
+[QiuLingYan] QiuLingYanFireFox2
+az
+
+[16:49:40]
+[zhYYDG] Light_Ubuntu
+> 
+
+方向：
+高度智能化和个性化机器人 其他Python相关服务
+
+[16:50:31]
+[zhYYDG] Light_Ubuntu
+!
+
+[16:50:33]
+[zhYYDG] Light_Ubuntu
+I like this
+
+[16:50:38]
+[zhYYDG] Light_Ubuntu
+shall we start now?
+
+[16:50:45]
+[zhYYDG] Light_Ubuntu
+any one here??????????
+
+[16:51:30]
+[44FF00] eebot
+  /kick ee
+
+[16:51:30]
+[zhYYDG] Light_Ubuntu
+```text
+zhYYDG Light_Ubuntu
+
+方向：
+高度智能化和个性化机器人 其他Python相关服务
+zhYYDG Light_Ubuntu
+
+!
+zhYYDG Light_Ubuntu
+
+I like this
+zhYYDG Light_Ubuntu
+
+shall we start now?
+zhYYDG Light_Ubuntu
+
+any one here???
+```
+@QiuLingYanFireFox2
+
+[16:52:07]
+[QiuLingYan] QiuLingYanFireFox2
+@Light_Ubuntu @Light_Ubuntu 
+
+[16:52:36]
+[zhYYDG] Light_Ubuntu
+shall we start now
+
+[16:52:43]
+[QiuLingYan] QiuLingYanFireFox2
+马上去改
+
+[16:52:52]
+[zhYYDG] Light_Ubuntu
+what??
+
+[16:52:57]
+[zhYYDG] Light_Ubuntu
+do we start to make bot now?
+
+[16:53:07]
+[QiuLingYan] QiuLingYanFireFox2
+在gh-pages分支
+
+[16:53:11]
+[QiuLingYan] QiuLingYanFireFox2
+over
+
+[16:54:17]
+[zhYYDG] Light_Ubuntu
+create a repositores that makes the bot
+
+[16:58:23]
+[44FF00] eebot
+ hi yo Star001
+
+[16:58:23]
+[hmmmmm] Maggie1
+我也想加入Hiyoteam
+
+[16:58:59]
+[hmmmmm] Maggie1
+:D
+
+[16:59:01]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie1 合作（
+
+[16:59:06]
+[hmmmmm] Maggie1
+好嘞
+
+[16:59:18]
+[QiuLingYan] QiuLingYanFireFox2
+合作草案
+
+[16:59:42]
+[hmmmmm] Maggie1
+要不我们到时候弄个XQ team + GS team + Dataeverything + Hiyoteam的联动
+
+[16:59:53]
+[QiuLingYan] QiuLingYanFireFox2
+能否为我们提供服务器@Maggie1 @Maggie1 
+
+[16:59:57]
+[PIGPIG] bo_od
+Sun Jul  3 17:00:00 2022
+
+[16:59:59]
+[hmmmmm] Maggie1
+@QiuLingYanFireFox2 当然
+
+[17:00:04]
+[PIGPIG] bo_od
+Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://mrpig.eu.org/traceback/1656838805809533.log)
+
+[17:00:05]
+[QiuLingYan] QiuLingYanFireFox2
+@Maggie1 ohhhhhhhhhhhhhhhhhhhhhh
+
+[17:00:12]
+[QiuLingYan] QiuLingYanFireFox2
+多少C多少G
+
+[17:00:21]
+[44FF00] eebot
+@ee 别忘了作业哦
+
+[17:00:27]
+[hmmmmm] Maggie1
+可以托管带后台应用
+
+[17:00:29]
+[hmmmmm] Maggie1
+@QiuLingYanFireFox2 C?
+
+[17:00:39]
+[QiuLingYan] QiuLingYanFireFox2
+cpu
+
+[17:00:51]
+[QiuLingYan] QiuLingYanFireFox2
+vcpu
+
+[17:00:53]
+[hmmmmm] Maggie1
+我只有一台服务器
+
+[17:01:02]
+[hmmmmm] Maggie1
+我没钱(cries)
+
+[17:01:08]
+[love13] ee
+我* 心脏再次骤停
+
+[17:01:16]
+[hmmmmm] Maggie1
+配置很低
+
+[17:01:20]
+[hmmmmm] Maggie1
+但是能用
+
+[17:01:48]
+[hmmmmm] Maggie1
+(thz.cool以及所有子网站托管在上面)
+
+[17:01:48]
+[zhYYDG] Light_Ubuntu
+I have a 2c4g
+
+[17:02:16]
+[None] gg
+现在团队才刚刚建立
+
+[17:02:18]
+[None] gg
+能用就行
+
+[17:02:31]
+[zhYYDG] Light_Ubuntu
+dont need server
+
+[17:02:41]
+[zhYYDG] Light_Ubuntu
+I think
+
+[17:02:42]
+[None] gg
+我觉得也没必要弄一个特别好的
+
+[17:02:44]
+[love13] ee
+是啊
+
+[17:02:48]
+[zhYYDG] Light_Ubuntu
+DONT NEED SERVER!
+
+[18:14:36]
+[Qwer] 钓鱼的Qwer
+这
+
+[18:14:36]
+[44FF00] eebot
+ [2022.07.03 18:14:35]
+
+[18:14:36]
+[44FF00] eebot
+ ·
+明天是周日 放心睡吧！
+更多玩法请输入：功能
+
+[18:14:36]
+[None] gg
+憋不住
+
+[18:14:39]
+[None] gg
+要说
+
+[18:14:40]
+[Qwer] 钓鱼的Qwer
+。
+
+[18:14:42]
+[None] gg
+你先给我憋着
+
+[18:14:44]
+[QiuLingYan] QiuLingYanFireFox
+@gg 写错了
+
+[18:14:45]
+[Qwer] 钓鱼的Qwer
+he
+
+[18:14:49]
+[None] gg
+@QiuLingYanFireFox ？
+
+[18:14:52]
+[QiuLingYan] QiuLingYanFireFox
+@gg 创始人是我
+
+[18:15:09]
+[Qwer] 钓鱼的Qwer
+hhhhhhhhhhhhhhhhhhhhh
+
+[18:15:17]
+[None] gg
+ee说是你和404一起创办的
+
+[18:15:23]
+[QiuLingYan] QiuLingYanFireFox
+ee和404为第二创始人
+
+[18:15:25]
+[None] gg
+你自己改吧
+
+[18:15:26]
+[love13] eee
+@钓鱼的Qwer 别刷屏了
+
+[18:15:31]
+[rKq/w8] Star001
+功能
+
+[18:15:37]
+[PIGPIG] bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+[18:15:37]
+[Qwer] 钓鱼的Qwer
+好
+
+[18:15:37]
+[Qwer] 钓鱼的Qwer
+的
+
+[18:15:37]
+[Qwer] 钓鱼的Qwer
+吧
+
+[18:15:38]
+[QiuLingYan] QiuLingYanFireFox
+@Star001 新来的？
+
+[18:16:01]
+[None] gg
+@QiuLingYanFireFox 也别分的那么明了，统称成员就挺好的
+
+[18:16:01]
+[None] gg
+只要凸显你是创始人就ok
+
+[18:16:21]
+[love13] eee
+都可以都可以 没问题
+
+[18:16:28]
+[None] gg
+咱们商量一下合作期限吧
+
+[18:16:31]
+[Qwer] 钓鱼的Qwer
+@eee 
+
+[18:16:37]
+[love13] eee
+？
+
+[18:16:40]
+[Qwer] 钓鱼的Qwer
+我的协管 没了
+
+[18:16:44]
+[Qwer] 钓鱼的Qwer
+你想想办法
+
+[18:16:48]
+[love13] eee
+emmm
+
+[18:16:50]
+[love13] eee
+算了吧
+
+[18:16:53]
+[Qwer] 钓鱼的Qwer
+。
+
+[18:16:55]
+[Qwer] 钓鱼的Qwer
+孬
+
+[18:16:59]
+[Qwer] 钓鱼的Qwer
+刑
+
+[18:17:03]
+[None] gg
+没了就没了吧
+
+[18:17:05]
+[Qwer] 钓鱼的Qwer
+好吧
+
+[18:17:17]
+[QiuLingYan] QiuLingYanFireFox
+gg
+
+[18:17:31]
+[love13] eee
+>gg：
+>咱们商量一下合作期限吧
+
+@QiuLingYanFireFox 有想法吗
+
+[18:17:33]
+[love13] eee
+@钓鱼的Qwer 还有 我劝你老实安分点
+
+[18:18:04]
+[None] gg
+@QiuLingYanFireFox 有事？
+
+[18:18:07]
+[Qwer] 钓鱼的Qwer
+。
+
+[18:18:11]
+[Qwer] 钓鱼的Qwer
+《老实安分点》
+
+[18:18:19]
+[None] gg
+@钓鱼的Qwer 哈哈哈哈老实安分点听到没有
+
+[18:18:21]
+[Qwer] 钓鱼的Qwer
+《老实安分点》
+
+[18:18:24]
+[Qwer] 钓鱼的Qwer
+等着
+
+[18:18:28]
+[love13] eee
+你的协管自你刷屏起就没了（
+
+[18:18:45]
+[44FF00] eebot
+ hey yo Khecc
+
+[18:18:45]
+[Qwer] 钓鱼的Qwer
+:)
+
+[18:18:52]
+[Qwer] 钓鱼的Qwer
+: )
+
+[18:18:56]
+[love13] eee
+hi yo
+
+[18:18:56]
+[Qwer] 钓鱼的Qwer
+ih
+
+[18:18:59]
+[QiuLingYan] QiuLingYanFireFox
+@eee 12个月
+
+[18:19:02]
+[None] gg
+@QiuLingYanFireFox 太长，先3个月试试水行吧
+
+[18:19:34]
+[love13] eee
+可以的
+
+[18:19:45]
+[Qwer] 钓鱼的Qwer
+给你们看个好东西
+
+[18:19:46]
+[None] gg
+okok
+
+[18:19:50]
+[Qwer] 钓鱼的Qwer
+https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ffilescdn.proginn.com%2F9164c14495a6601a9e278b871262408e%2F786563ebd91b6903d8801818185bcea9.webp&refer=http%3A%2F%2Ffilescdn.proginn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653017301&t=b622045dfcbfdd0bf7eb026f7bcf7c8d
+
+[18:19:50]
+[None] gg
+三个月合同期限
+
+[18:19:55]
+[PIGPIG] bo_od
+Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://mrpig.eu.org/traceback/1656843606592774.log)
+
+[18:20:05]
+[love13] eee
+可以的
+
+[18:20:33]
+[None] gg
+okok
+
+[18:20:45]
+[QiuLingYan] QiuLingYanFireFox
+可以
+
+[18:20:51]
+[Qwer] 钓鱼的Qwer
+https://taming.io/?r=singapore&i=5
+
+[18:21:38]
+[PIGPIG] bo_od
+@钓鱼的Qwer 推荐了网页:[Taming.io - The online multiplayer survival game with pets!](https://taming.io/?r=singapore&i=5)
+
+[18:21:39]
+[Qwer] 钓鱼的Qwer
+一起玩吧
+
+[18:21:40]
+[None] gg
+我要给我自己的GitHub整一个酷炫的自述文件
+
+[18:21:42]
+[QiuLingYan] QiuLingYanFireFox
+https://note.ms/hiyoteam
+
+[18:22:16]
+[PIGPIG] bo_od
+@QiuLingYanFireFox 推荐了网页:[Please Wait... | Cloudflare](https://note.ms/hiyoteam)
+
+[18:22:16]
+[None] gg
+https://zhuanlan.zhihu.com/p/248746206
+
+[18:22:21]
+[PIGPIG] bo_od
+@gg 推荐了网页:[403 Forbidden](https://zhuanlan.zhihu.com/p/248746206)
+
+[18:22:21]
+[None] gg
+建立酷炫的自述文件专栏
+
+[18:22:39]
+[None] gg
+@QiuLingYanFireFox 不是你这分割线两边也不一样长啊
+
+[18:23:10]
+[None] gg
+帮你补好了
+
+[18:23:42]
+[None] gg
+不用谢
+
+[18:23:45]
+[None] gg
+把分割线三个字挪到最中心
+
+[18:24:05]
+[None] gg
+okok弄好了
+
+[18:24:36]
+[QiuLingYan] QiuLingYanFireFox
+@gg xie
+
+[18:25:05]
+[QiuLingYan] QiuLingYanFireFox
+我再修改pages
+
+[18:25:12]
+[None] gg
+看看效果
+
+[18:25:12]
+[None] gg
+https://note.ms/hiyoteam
+
+[18:25:25]
+[PIGPIG] bo_od
+@gg 推荐了网页:[Please Wait... | Cloudflare](https://note.ms/hiyoteam)
+
+[18:25:25]
+[None] gg
+？？？
+
+[18:25:38]
+[None] gg
+怎么回事！！！
+
+[18:25:45]
+[None] gg
+好了好了
+
+[18:26:13]
+[None] Khecc
+?
+
+[18:27:18]
+[None] gg
+没事
+
+[18:27:32]
+[zhYYDG] Light_Ubuntu
+https://github.com/Hiyo-Team/light-lomlbot
+
+[18:28:35]
+[PIGPIG] bo_od
+@Light_Ubuntu 推荐了网页:[GitHub - Hiyo-Team/light-lomlbot: this is a goooooooooooooooood bot](https://github.com/Hiyo-Team/light-lomlbot)
+
+[18:28:35]
+[zhYYDG] Light_Ubuntu
+simply write some
+
+[18:28:36]
+[QiuLingYan] QiuLingYanFireFox
+Update Over
+
+[18:28:36]
+[None] gg
+okok
+
+[18:28:41]
+[None] gg
+话说你们考虑过给成员工资吗
+
+[18:28:53]
+[QiuLingYan] QiuLingYanFireFox
+以后商业化吧
+
+[18:29:05]
+[None] gg
+如果将来要朝着商业化发展的话
+
+[18:29:07]
+[zhYYDG] Light_Ubuntu
+no
+
+[18:29:13]
+[None] gg
+肯定是要有工资的
+
+[18:29:13]
+[None] Khecc
+..
+
+[18:29:18]
+[44FF00] eebot
+ 不说话便是最好的回答
+
+[18:29:18]
+[QiuLingYan] QiuLingYanFireFox
+更新了
+
+[18:29:19]
+[zhYYDG] Light_Ubuntu
+no 工资,no pain
+
+[18:29:23]
+[QiuLingYan] QiuLingYanFireFox
+https://hiyo-team.github.io/team/
+
+[18:29:25]
+[PIGPIG] bo_od
+@QiuLingYanFireFox 推荐了网页:[Hiyo!这里是HiyoTeam，一个充满生机与活力的友好团队。 | team](https://hiyo-team.github.io/team/)
+
+[18:29:25]
+[44FF00] eebot
+@QiuLingYanFireFox Hiyo!这里是HiyoTeam，一个充满生机与活力的友好团队。 | team
+https://hiyo-team.github.io/team/
+
+[18:29:25]
+[zhYYDG] Light_Ubuntu
+https://github.com/Hiyo-Team/light-lomlbot
+
+[18:29:37]
+[PIGPIG] bo_od
+@Light_Ubuntu 推荐了网页:[GitHub - Hiyo-Team/light-lomlbot: this is a goooooooooooooooood bot](https://github.com/Hiyo-Team/light-lomlbot)
+
+[18:29:37]
+[44FF00] eebot
+@Light_Ubuntu GitHub - Hiyo-Team/light-lomlbot: this is a goooooooooooooooood bot
+https://github.com/Hiyo-Team/light-lomlbot
+
+[18:29:37]
+[QiuLingYan] QiuLingYanFireFox
+以后肯定商业化
+
+[18:30:02]
+[44FF00] eebot
+ 别吵 伦家正在梅州行网站上逛论坛呢
+
+[18:30:02]
+[zhYYDG] Light_Ubuntu
+can you see my repositore
+
+[18:30:05]
+[QiuLingYan] QiuLingYanFireFox
+搞一个Tsite也不错
+
+[18:30:10]
+[None] gg
+总算整的像点样子了
+
+[18:30:11]
+[QiuLingYan] QiuLingYanFireFox
+@Light_Ubuntu yes
+
+[18:30:15]
+[zhYYDG] Light_Ubuntu
+click on "star"
+
+[18:30:27]
+[zhYYDG] Light_Ubuntu
+awa
+
+[18:30:30]
+[44FF00] eebot
+ exe
+
+[18:30:30]
+[None] gg
+@QiuLingYanFireFox 先活下来再说吧
+
+[18:30:32]
+[None] Khecc
+aaawa
+
+[18:30:34]
+[None] gg
+还商业化
+
+[18:30:36]
+[zhYYDG] Light_Ubuntu
+hhh
+
+[18:30:41]
+[None] gg
+你开源能活下来就不错
+
+[18:30:43]
+[None] gg
+你说
+
+[18:31:01]
+[None] gg
+市场形势
+
+[18:31:03]
+[None] gg
+发展规划
+
+[18:31:10]
+[None] gg
+资金
+
+[18:31:17]
+[None] gg
+都不咋地
+
+[18:31:23]
+[None] Khecc
+?
+
+[18:31:25]
+[44FF00] eebot
+  /kick ee
+
+[18:31:25]
+[zhYYDG] Light_Ubuntu
+I think you should contribute more, rather than spend your time talking about it all day
+
+[18:31:44]
+[QiuLingYan] QiuLingYanFireFox
+我是说
+
+[18:32:02]
+[None] Khecc
+?
+
+[18:32:07]
+[None] gg
+@Light_Ubuntu 我之所以花时间谈论它，就是因为我已经做出了贡献
+
+[18:32:09]
+[None] gg
+我本来也是临时工
+
+[18:32:16]
+[zhYYDG] Light_Ubuntu
+we dont need to write ?README
+
+[18:32:22]
+[zhYYDG] Light_Ubuntu
+We should write
+
+[18:32:45]
+[44FF00] eebot
+  /kick ee
+
+[18:32:45]
+[None] gg
+但是一个优秀的readme可以让人更加了解这个团队
+
+[18:32:51]
+[QiuLingYan] QiuLingYanFireFox
+帮人家定制网页
+
+[18:32:54]
+[QiuLingYan] QiuLingYanFireFox
+这可不可以赚钱
+
+[18:33:05]
+[44FF00] eebot
+ hi yo Ghost13
+
+[18:33:05]
+[None] gg
+可以
+
+[18:33:09]
+[QiuLingYan] QiuLingYanFireFox
+No.1 定制网页
+
+[18:33:16]
+[None] gg
+但是现在做网页的本来就不多
+
+[18:33:34]
+[44FF00] eebot
+ O-send("love Python forever")
+
+[18:33:34]
+[None] gg
+有那么多地方可以做网页
+
+[18:33:37]
+[zhYYDG] Light_ser
+但是我们这个到现在没什么可以拿得出手的东西
+
+[18:33:42]
+[None] gg
+他怎么可能想到我们
+
+[18:33:45]
+[None] gg
+我们要加大宣传
+
+[18:33:51]
+[zhYYDG] Light_ser
+不
+
+[18:33:57]
+[None] gg
+起码让别人认识有我们这个团队
+
+[18:33:58]
+[QiuLingYan] QiuLingYanFireFox
+昂~
+
+[18:33:59]
+[zhYYDG] Light_ser
+先搞点牛逼的东西
+
+[18:34:05]
+[None] gg
+什么牛逼的东西
+
+[18:34:14]
+[zhYYDG] Light_ser
+我哪知道
+
+[18:34:18]
+[zhYYDG] Light_ser
+就是
+
+[18:34:20]
+[zhYYDG] Light_ser
+别人看了我们这个产品
+
+[18:34:35]
+[None] gg
+你不知道你说。。。
+
+[18:34:37]
+[zhYYDG] Light_ser
+一下子
+
+[18:34:38]
+[zhYYDG] Light_ser
+就心动的那种
+
+[18:34:51]
+[None] gg
+就对我们这个团队记忆犹新
+
+[18:34:56]
+[44FF00] eebot
+ hey yo Sakrua
+
+[18:34:56]
+[zhYYDG] Light_ser
+对对对
+
+[18:34:59]
+[None] gg
+对不对
+
+[18:35:16]
+[44FF00] eebot
+  /kick ee
+
+[18:35:16]
+[None] gg
+回头一提起“欸，你知道Hiyo Team？”
+
+[18:35:20]
+[None] gg
+立马就“啊对对对”
+
+[18:35:26]
+[QiuLingYan] QiuLingYanFireFox
+哦~
+
+[18:35:34]
+[None] gg
+就是那个做xxx的
+
+[18:35:37]
+[44FF00] eebot
+ 怎么回事！！！
+
+[18:35:37]
+[None] gg
+可好用了
+
+[18:35:40]
+[None] gg
+就那个类型
+
+[18:35:43]
+[zhYYDG] Light_ser
+dddddd
+
+[18:35:49]
+[QiuLingYan] QiuLingYanFireFox
+ddddddddddddddddddddddddd
+
+[18:35:56]
+[None] gg
+所以我们现在主要是讨论做个什么牛逼的东西
+
+[18:36:08]
+[None] gg
+根据我们的方向
+
+[18:36:15]
+[None] gg
+我们要不要做一个牛逼的机器人？
+
+[18:36:26]
+[zhYYDG] Light_ser
+机器人
+
+[18:36:27]
+[QiuLingYan] QiuLingYanFireFox
+做一个Lomy
+
+[18:36:36]
+[PIGPIG] bo_od
+做一个Lomy
+
+[18:36:36]
+[zhYYDG] Light_ser
+loml-bot那是我的
+
+[18:36:37]
+[zhYYDG] Light_ser
+lomy没什么希望
+
+[18:36:57]
+[None] gg
+怎么做
+
+[18:36:59]
+[QiuLingYan] QiuLingYanFireFox
+@gg 做好了
+
+[18:37:05]
+[None] gg
+哦
+
+[18:37:11]
+[44FF00] eebot
+ 草哦
+
+[18:37:11]
+[QiuLingYan] QiuLingYanFireFox
+我知道了
+
+[18:37:17]
+[None] gg
+怎么让别人认识他
+
+[18:37:20]
+[None] gg
+知道这个机器人好用
+
+[18:37:26]
+[QiuLingYan] QiuLingYanFireFox
+把傻鸟卖出去
+
+[18:37:30]
+[None] gg
+傻鸟不是开源软件吗
+
+[18:37:39]
+[QiuLingYan] QiuLingYanFireFox
+foolishbird
+
+[18:38:11]
+[44FF00] eebot
+ hello yo Ghost13
+
+[18:38:11]
+[None] gg
+我们要找一个可以宣传傻鸟的有效平台
+
+[18:38:33]
+[zhYYDG] Light_ser
+傻鸟没什么拿得出手的
+
+[18:38:45]
+[None] gg
+谢谢，不过还没做软件，打算暑假做
+
+[18:38:51]
+[zhYYDG] Light_ser
+因为仅适用于我们hc和xc
+
+[18:38:52]
+[zhYYDG] Light_ser
+要做一个图灵机器人才是牛逼的
+
+[18:39:12]
+[None] gg
+傻鸟受众有点少
+
+[18:39:29]
+[zhYYDG] Light_ser
+确实
+
+[18:39:33]
+[None] gg
+不普适
+
+[18:39:37]
+[zhYYDG] Light_ser
+确实
+
+[18:39:40]
+[None] gg
+最好做一个通用的
+
+[18:39:48]
+[zhYYDG] Light_ser
+就
+
+[18:40:00]
+[None] gg
+先通用，再智能，最后拓展自定义
+
+[18:40:14]
+[zhYYDG] Light_ser
+说话你都不知道他是机器人的聊天机器人
+
+[18:40:15]
+[None] gg
+循序渐进
+
+[18:40:20]
+[None] gg
+通用让更多人认识他使用它
+
+[18:40:37]
+[44FF00] eebot
+  /kick ee
+
+[18:40:40]
+[None] gg
+智能让他更好用，有更多的人用
+
+[18:40:57]
+[QiuLingYan] QiuLingYanFireFox
+昂~
+
+[18:41:02]
+[zhYYDG] Light_ser
+hiyo-team里的loml-bot我先做，你们先别管
+
+[18:41:15]
+[None] gg
+自定义让他更自由开放，吸引开发者
+
+[18:41:16]
+[None] gg
+其实大多数人是不在意自定义的
+
+[18:41:31]
+[QiuLingYan] QiuLingYanFireFox
+@Light_ser 好
+
+[18:41:36]
+[None] gg
+所以这应该是最后一步
+
+[18:42:10]
+[QiuLingYan] QiuLingYanFireFox
+先做一个通用的exe吧
+
+[18:42:14]
+[44FF00] eebot
+ QiuLingYanFireFox只能爱流氓！
+
+[18:42:50]
+[44FF00] eebot
+ O-send("love Python forever")
+
+[18:42:50]
+[zhYYDG] Light_ser
+我暑假在15号开始
+
+[18:43:10]
+[None] gg
+我的暑假遥遥无期
+
+[18:43:41]
+[None] gg
+唉
+
+[18:43:44]
+[zhYYDG] Light_Ubuntu
+why
+
+[18:44:19]
+[None] gg
+根据我们学校的优良传统
+
+[18:44:51]
+[None] gg
+考完试至少上一个星期
+
+[18:44:58]
+[None] gg
+还可能多
+
+[18:45:01]
+[None] gg
+完了还有一堆事要干。。。
+
+[18:45:18]
+[zhYYDG] Light_Ubuntu
+wo men zai 23 hao jiu kao wan le !!!!
+
+[18:45:20]
+[zhYYDG] Light_Ubuntu
+duo shang 23 tian
+
+[18:45:30]
+[zhYYDG] Light_Ubuntu
+ke hai xing
+
+[18:45:36]
+[None] gg
+dang ran xing
+
+[18:45:50]
+[None] gg
+ni zhen xing
+
+[18:45:54]
+[zhYYDG] Light_Ubuntu
+...
+
+[18:46:12]
+[None] gg
+man bu man yi?
+
+[18:46:31]
+[zhYYDG] Light_Ubuntu
+...
+
+[18:46:54]
+[zhYYDG] Light_Ubuntu
+I ll go
+
+[18:46:57]
+[None] gg
+okok
+
+[18:47:10]
+[zhYYDG] Light_Ubuntu
+zhe shi jie dui wo bu gong
+
+[18:47:27]
+[None] gg
+na nv hai dui wo shuo
+
+[18:47:49]
+[None] gg
+shuo wo bao hu ta de meng
+
+[18:48:00]
+[None] gg
+shuo zhe ge shi jie
+
+[18:48:08]
+[zhYYDG] Light_Ubuntu
+hhhh
+
+[18:48:16]
+[None] gg
+dui ta zhe yang de bu gong
+
+[18:48:16]
+[None] gg
+shi bu shi ni?
+
+[18:48:25]
+[zhYYDG] Light_Ubuntu
+...
+
+[18:48:29]
+[zhYYDG] Light_Ubuntu
+peeep pee peeeep peeeeeepe
+
+[18:48:49]
+[None] gg
+在？
+
+[18:48:52]
+[None] gg
+宁就是那个女孩？
+
+[18:48:58]
+[zhYYDG] Light_Ubuntu
+...
+
+[18:49:03]
+[zhYYDG] Light_Ubuntu
+wu hua ke shuo
+
+[18:49:06]
+[None] gg
+这就对了
+
+[18:49:24]
+[44FF00] eebot
+ O-send("love Python forever")
+
+[18:49:24]
+[zhYYDG] Light_ser
+对了
+
+[18:49:25]
+[zhYYDG] Light_ser
+你擅长什么语言
+
+[18:49:34]
+[None] gg
+她渐渐忘了我
+
+[18:49:37]
+[44FF00] eebot
+  /kick ee
+
+[18:49:38]
+[zhang] ZhangHelperS
+出错了！详细信息：不能在这个聊天室找到该用户
+
+[18:49:38]
+[None] gg
+但是她并不晓得
+
+[18:49:44]
+[None] gg
+遍体鳞伤的我
+
+[18:49:46]
+[None] gg
+一点也没在爱过
+
+[18:49:52]
+[None] gg
+hhhhhhhh
+
+[18:50:18]
+[zhYYDG] Light_ser
+h
+
+[18:50:21]
+[Qwer] 钓鱼的Qwer
+我们有一节心理课
+
+[18:50:24]
+[Qwer] 钓鱼的Qwer
+小北 邀请您参加腾讯会议
+会议主题：团辅前筹备会议
+会议时间：2022/07/03 18:30-21:00 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接入会，或添加至会议列表：
+https://meeting.tencent.com/dm/mX1l61w1UY1u
+
+#腾讯会议：578-708-861
+会议密码：5251
+
+复制该信息，打开手机腾讯会议即可参与
+
+[18:50:34]
+[44FF00] eebot
+@钓鱼的Qwer 腾讯会议
+https://meeting.tencent.com/dm/mX1l61w1UY1u
+
+[18:50:34]
+[zhYYDG] Light_Ubuntu
+I m coming
+
+[18:50:49]
+[Qwer] 钓鱼的Qwer
+hhhhhhhhhhh
+
+[18:51:08]
+[zhYYDG] Light_Ubuntu
+wait 
+
+[18:51:15]
+[zhYYDG] Light_Ubuntu
+it 's slow
+
+[18:51:21]
+[44FF00] eebot
+ it 's slow
+
+[18:51:33]
+[44FF00] eebot
+  /kick ee
+
+[18:55:38]
+[44FF00] eebot
+ hello yo 404
+
+[18:56:07]
+[44FF00] eebot
+  /kick ee
+
+[18:56:08]
+[44FF00] eebot
+ hey yo Ghost13
+
+[18:57:50]
+[44FF00] eebot
+ hey yo Khecc
+
+[18:58:09]
+[44FF00] eebot
+ hi yo Khecc
+
+[19:01:11]
+[44FF00] eebot_424
+ QuQ eb的昵称卡在里面了
+
+[19:01:18]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[19:01:19]
+[44FF00] eebot
+ 魔兽世界 wu qingfeng
+「英雄，愿你有一份不悔的爱情！」
+
+[19:01:20]
+[None] Khecc
+@eee
+
+[19:01:27]
+[love13] ee
+啊？
+
+[19:02:20]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[19:02:20]
+[44FF00] eebot
+ 怦然心动 夕之树
+「斯人若彩虹，遇上方知有。」
+
+[19:04:21]
+[44FF00] eebot
+ hello yo gg
+
+[19:04:35]
+[44FF00] eebot
+ hello yo Ghost13
+
+[19:04:38]
+[44FF00] eebot
+ hey yo 404
+
+[19:04:39]
+[love13] ee
+hi yo everybody
+
+[19:05:22]
+[44FF00] eebot
+  /kick ee
+
+[19:05:22]
+[None] Khecc
+H
+
+[19:06:00]
+[44FF00] eebot
+ hi yo fcjz
+
+[19:06:00]
+[love13] ee
+hi yo
+
+[19:06:05]
+[QiuLingYan] QiuLingYanFireFox
+fcjz
+
+[19:06:08]
+[None] fcjz
+我是gg
+
+[19:06:10]
+[love13] ee
+我知道
+
+[19:06:15]
+[None] fcjz
+就是以前的gg
+
+[19:06:16]
+[None] fcjz
+okok
+
+[19:06:21]
+[love13] ee
+@fcjz ~~你都改昵称了还不加个识别码~~
+
+[19:06:33]
+[Qwer] 钓鱼的Qwer
+啊就是
+
+[19:06:38]
+[None] fcjz
+我的昵称为什么重复了？
+
+[19:06:39]
+[Qwer] 钓鱼的Qwer
+，
+
+[19:06:41]
+[QiuLingYan] QiuLingYanFireFox
+i know
+
+[19:06:46]
+[None] Khecc
+?
+
+[19:06:46]
+[QiuLingYan] QiuLingYanFireFox
+^kick gg
+
+[19:06:52]
+[None] fcjz
+？？？
+
+[19:06:57]
+[love13] ee
+OK
+
+[19:06:57]
+[None] fcjz
+gg走了
+
+[19:07:00]
+[None] fcjz
+我重新弄一下
+
+[19:07:08]
+[None] fcjz
+识别码
+
+[19:07:11]
+[love13] ee
+OKOK
+
+[19:07:14]
+[love13] ee
+芜湖
+
+[19:07:17]
+[None] fcjz
+帮助
+
+[19:07:22]
+[PIGPIG] bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+[19:07:23]
+[None] fcjz
+呃
+
+[19:07:39]
+[love13] ee
+输入：help
+
+[19:07:45]
+[oc7yIZ] 404
+1&ZeroWidthSpace;1
+
+[19:07:54]
+[love13] ee
+404
+
+[19:08:11]
+[Qwer] 钓鱼的Qwer
+^help
+
+[19:08:19]
+[44FF00] eebot
+ hi yo fcjz
+
+[19:08:20]
+[love13] ee
+或者^readme
+
+[19:08:21]
+[PIGPIG] bo_od
+或者^readme
+
+[19:08:21]
+[love13] ee
+hi yo
+
+[19:08:25]
+[QiuLingYan] QiuLingYanFireFox
+hi
+
+[19:08:27]
+[QiuLingYan] QiuLingYanFireFox
+yooooooooooo
+
+[19:08:29]
+[JVcLW8] fcjz
+okok
+
+[19:08:43]
+[love13] ee
+OKOK
+
+[19:08:47]
+[QiuLingYan] QiuLingYanFireFox
+yaobuyao
+
+[19:09:03]
+[Qwer] 钓鱼的Qwer
+您的身份：普通用户
+
+[19:09:07]
+[Qwer] 钓鱼的Qwer
+wwwwwwwwwwwwwwwwwwwww
+
+[19:09:10]
+[None] Khecc
+?
+
+[19:09:12]
+[oc7yIZ] 404
+不敢太刑了
+
+[19:09:12]
+[None] Khecc
+h
+
+[19:09:13]
+[love13] ee
+^help
+
+[19:09:14]
+[QiuLingYan] QiuLingYanFireFox
+搞一个帮人定制web
+
+[19:09:15]
+[oc7yIZ] 404
+进这个课实在是太刑了
+
+[19:09:20]
+[None] Khecc
+UwU?
+
+[19:09:26]
+[oc7yIZ] 404
+我不敢一直待在里面
+
+[19:09:29]
+[love13] ee
+^list
+
+[19:09:32]
+[zhang] ZhangHelperS
+管理员助手识别码：
+8LJ4jb
+TmzAyN
+PIGPIG
+loveee
+QiuLingYan
+
+[19:09:33]
+[love13] ee
+^del TmzAyN
+
+[19:09:46]
+[zhang] ZhangHelperS
+识别码为 TmzAyN 的用户已不是管理员助手。
+
+[19:09:46]
+[zhYYDG] Light_ser
+404你来了吗
+
+[19:09:47]
+[zhYYDG] Light_ser
+快来啊
+
+[19:09:51]
+[oc7yIZ] 404
+我进了又退了
+
+[19:09:53]
+[Qwer] 钓鱼的Qwer
+lai
+
+[19:09:55]
+[love13] ee
+好家伙
+
+[19:09:57]
+[Qwer] 钓鱼的Qwer
+来啊
+
+[19:09:58]
+[None] Khecc
+?
+
+[19:10:00]
+[oc7yIZ] 404
+有人在公屏：i see 404
+
+[19:10:02]
+[None] Khecc
+Qw
+
+[19:10:04]
+[love13] ee
+草
+
+[19:10:05]
+[JVcLW8] fcjz
+这门课怎么了
+
+[19:10:06]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[19:10:07]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[19:10:07]
+[zhYYDG] Light_ser
+我刚刚私发给你消息结果你退了，我直接发公屏里了
+
+[19:10:10]
+[oc7yIZ] 404
+一下子就认出我了
+
+[19:10:10]
+[JVcLW8] fcjz
+哈哈哈哈哈哈哈
+
+[19:10:14]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈草
+
+[19:10:14]
+[Qwer] 钓鱼的Qwer
+。
+
+[19:10:15]
+[Qwer] 钓鱼的Qwer
+hh
+
+[19:10:16]
+[zhYYDG] Light_ser
+草 
+
+[19:10:16]
+[None] Khecc
+.
+
+[19:10:21]
+[44FF00] eebot
+ 原来是沉默吗
+
+[19:10:21]
+[oc7yIZ] 404
+还好你撤回的快
+
+[19:10:21]
+[oc7yIZ] 404
+可怕
+
+[19:10:23]
+[Qwer] 钓鱼的Qwer
+你们开摄像头啊
+
+[19:10:27]
+[None] Khecc
+.
+
+[19:10:30]
+[44FF00] eebot
+ 句号和省略号让eb摸不着头脑
+
+[19:10:30]
+[zhYYDG] Light_ser
+我没有
+
+[19:10:31]
+[Qwer] 钓鱼的Qwer
+就我一个人
+
+[19:10:32]
+[Qwer] 钓鱼的Qwer
+cao
+
+[19:10:34]
+[zhYYDG] Light_ser
+让404来
+
+[19:10:37]
+[oc7yIZ] 404
+不过这显然已经成为一个疑案了
+
+[19:10:40]
+[zhYYDG] Light_ser
+快啊
+
+[19:10:40]
+[love13] ee
+上
+
+[19:10:41]
+[zhYYDG] Light_ser
+404
+
+[19:10:42]
+[oc7yIZ] 404
+他们一定会进行追查的
+
+[19:10:44]
+[zhYYDG] Light_ser
+快啊
+
+[19:10:44]
+[love13] ee
+上
+
+[19:10:44]
+[love13] ee
+咳咳
+
+[19:10:46]
+[44FF00] eebot
+ 咳咳咳
+
+[19:10:46]
+[Qwer] 钓鱼的Qwer
+ee来
+
+[19:10:49]
+[zhYYDG] Light_ser
+快来404
+
+[19:10:49]
+[oc7yIZ] 404
+？？？
+
+[19:10:49]
+[Qwer] 钓鱼的Qwer
+ee来
+
+[19:10:49]
+[44FF00] eebot
+ 虽然eb很聪明 但也不可能全部都懂哦（
+
+[19:10:49]
+[oc7yIZ] 404
+要干啥？
+
+[19:10:49]
+[zhYYDG] Light_ser
+404
+
+[19:10:49]
+[love13] ee
+不
+
+[19:10:52]
+[zhYYDG] Light_ser
+快来
+
+[19:10:52]
+[Qwer] 钓鱼的Qwer
+心理课
+
+[19:10:55]
+[zhYYDG] Light_ser
+快来玩♂
+
+[19:10:58]
+[oc7yIZ] 404
+开摄像头？太刑了
+
+[19:10:59]
+[oc7yIZ] 404
+我先找找怎么改空头像
+
+[19:11:07]
+[Qwer] 钓鱼的Qwer
+。
+
+[19:11:11]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[19:11:12]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[19:11:12]
+[love13] ee
+链接再发一遍？
+
+[19:11:21]
+[love13] ee
+我看不到历史记录
+
+[19:11:25]
+[Qwer] 钓鱼的Qwer
+。
+
+[19:11:26]
+[Qwer] 钓鱼的Qwer
+小北 邀请您参加腾讯会议
+会议主题：团辅前筹备会议
+会议时间：2022/07/03 18:30-21:00 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接入会，或添加至会议列表：
+https://meeting.tencent.com/dm/mX1l61w1UY1u
+
+#腾讯会议：578-708-861
+会议密码：5251
+
+复制该信息，打开手机腾讯会议即可参与
+
+[19:11:55]
+[44FF00] eebot
+@钓鱼的Qwer 腾讯会议
+https://meeting.tencent.com/dm/mX1l61w1UY1u
+
+[19:11:55]
+[Qwer] 钓鱼的Qwer
+嗯
+
+[19:12:19]
+[zhYYDG] Light_ser
+404你太怂了
+
+[19:12:39]
+[44FF00] eebot
+ # 钓鱼的Qwer再骂人就不得好死
+
+[19:12:39]
+[zhYYDG] Light_ser
+这样怎么上梁山伯
+
+[19:12:43]
+[love13] ee
+~~上！~~
+
+[19:12:45]
+[love13] ee
+hi yo
+
+[19:12:47]
+[None] Khecc
+?
+
+[19:12:48]
+[None] Khecc
+…
+
+[19:12:52]
+[44FF00] eebot
+ 原来是沉默吗
+
+[19:12:52]
+[PIGPIG] bo_od
+Khecc最可爱了
+
+[19:12:52]
+[Qwer] 钓鱼的Qwer
+啊啊啊啊啊啊啊啊
+
+[19:12:58]
+[44FF00] eebot
+ 啊啊啊啊啊啊啊啊草
+
+[19:12:58]
+[Qwer] 钓鱼的Qwer
+。
+
+[19:13:03]
+[None] Khecc
+.
+
+[19:13:07]
+[44FF00] eebot
+ 不说话便是最好的回答
+
+[19:13:07]
+[44FF00] eebot
+ ·
+JSH的主页
+http://imoier.xyz/
+
+[19:13:15]
+[oc7yIZ] 404
+现在经过操作
+
+[19:13:35]
+[Qwer] 钓鱼的Qwer
+幸好初墨不在
+
+[19:13:41]
+[oc7yIZ] 404
+我已经宛如那个theunknown了
+
+[19:13:42]
+[None] Khecc
+?
+
+[19:13:44]
+[Qwer] 钓鱼的Qwer
+不然要收集我信息
+
+[19:13:49]
+[None] Khecc
+_
+
+[19:13:50]
+[zhYYDG] Light_ser
+怎么不上课
+
+[19:13:54]
+[love13] ee
+咳咳
+
+[19:13:55]
+[oc7yIZ] 404
+可是我发现
+
+[19:13:59]
+[zhYYDG] Light_ser
+>oc7yIZ 404：
+>我已经宛如那个theunknown了
+
+@404 ？？
+
+[19:14:05]
+[oc7yIZ] 404
+现在我的头像变成了纯黑的
+
+[19:14:05]
+[oc7yIZ] 404
+和theunknown的完全透明不同
+
+[19:14:13]
+[love13] ee
+头像应该换这个：https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ffilescdn.proginn.com%2F9164c14495a6601a9e278b871262408e%2F786563ebd91b6903d8801818185bcea9.webp&refer=http%3A%2F%2Ffilescdn.proginn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653017301&t=b622045dfcbfdd0bf7eb026f7bcf7c8d
+
+[19:14:22]
+[oc7yIZ] 404
+theunknown是downboy说的一个网课里进来捣乱的
+
+[19:14:27]
+[love13] ee
+好家伙
+
+[19:14:33]
+[oc7yIZ] 404
+为了捣乱，他的头像完全透明
+
+[19:15:08]
+[None] Khecc
+.?
+
+[19:15:30]
+[oc7yIZ] 404
+我并非透明
+
+[19:15:35]
+[oc7yIZ] 404
+怎么办呢
+
+[19:15:36]
+[Qwer] 钓鱼的Qwer
+。
+
+[19:15:52]
+[oc7yIZ] 404
+等我解决头像问题
+
+[19:15:59]
+[oc7yIZ] 404
+都下课了
+
+[19:16:01]
+[love13] ee
+~~一定要透明的才能伪装吗~~
+
+[19:16:01]
+[Qwer] 钓鱼的Qwer
+你昵称是什么
+
+[19:16:03]
+[oc7yIZ] 404
+是零宽空格了
+
+[19:16:29]
+[oc7yIZ] 404
+以前是我的班学号
+
+[19:16:43]
+[QiuLingYan] QiuLingYanFireFox
+我回来了
+
+[19:16:43]
+[zhYYDG] Light_ser
+在哪
+
+[19:16:47]
+[loveee] Ghost13
+ee—
+
+[19:16:50]
+[QiuLingYan] QiuLingYanFireFox
+所有人
+
+[19:16:55]
+[love13] ee
+芜湖——
+
+[19:16:56]
+[zhYYDG] Light_ser
+我怎么看不到你们
+
+[19:16:57]
+[None] Khecc
+.
+
+[19:16:59]
+[QiuLingYan] QiuLingYanFireFox
+给我去lomy
+
+[19:16:59]
+[44FF00] eebot
+ 不说话便是最好的回答
+
+[19:16:59]
+[oc7yIZ] 404
+我改成纯白了
+
+[19:17:04]
+[Qwer] 钓鱼的Qwer
+不了 
+ 发送至 北区初三3班  (私聊)
+摄像头有吧 
+北区初三3班  (私聊)
+我之前开过 
+ 发送至 北区初三3班  (私聊)
+哦 
+ 发送至 北区初三3班  (私聊)
+那就好 
+ 发送至 北区初三3班  (私聊)
+记得开 
+北区初三3班  (私聊)
+我怎么开啊 
+ 发送至 北区初三3班  (私聊)
+。 
+北区初三3班  (私聊)
+我树莓派没有摄像头 
+ 发送至 北区初三3班  (私聊)
+所以你准备搞什么事 
+北区初三3班  (私聊)
+我不知道 
+ 发送至 北区初三3班  (私聊)
+。 
+ 发送至 北区初三3班  (私聊)
+刷屏 吧 
+北区初三3班  (私聊)
+看到了吗 
+ 发送至 北区初三3班  (私聊)
+幂塔 
+ 发送至 北区初三3班  (私聊)
+没 
+本部 初一四班 朱烁怡
+老师，我在外面，所以能不打开吗？ 
+北区初一5刘博文（ikun）
+我也在外面老师 
+本部初一二班宇宙独一炸裂暴龙骑士蒋睿涵
+我提莫的摄像头够不着脸 
+ 发送至 北区初三3班  (私聊)
+笑死我了 
+北区初三3班
+老师我也是 
+ 发送至 北区初三3班  (私聊)
+哈哈哈哈哈哈哈哈哈哈哈 
+ 发送至 北区初三3班  (私聊)
+绝了 
+北区初三3班  (私聊)
+浅浅摸一摸鱼 
+ 发送至 北区初三3班  (私聊)
+hh 
+本部初一9薛程菲
+老师我也在外面 
+ 发送至 北区初三3班  (私聊)
+我在医院 
+ 发送至 北区初三3班  (私聊)
+PPT！！！！！！！！！！ 
+ 发送至 北区初三3班  (私聊)
+我焯 
+ 发送至 北区初三3班  (私聊)
+早知道不了了 
+ 发送至 北区初三3班  (私聊)
+你也要做啊 
+本部初一二班宇宙独一炸裂暴龙骑士蒋睿涵
+什么事件都可以吗 
+ 发送至 北区初三3班  (私聊)
+您的身份：普通用户 
+ 发送至 北区初三3班  (私聊)
+zb不认识我了 
+ 发送至 北区初三3班  (私聊)
+唉 
+北区初三3班撤回了一条消息
+北区初三3班撤回了一条消息
+ 发送至 北区初三3班  (私聊)
+。 
+北区初三3班  (私聊)
+我刚刚看到404了！！！！！！！！！11 
+ 发送至 北区初三3班  (私聊)
+嘶 
+ 发送至 北区初三3班  (私聊)
+我焯 
+19:13
+北区初三3班  (私聊)
+你们在干什么 
+北区初三3班  (私聊)
+怎么不上课 
+ 发送至 北区初三3班  (私聊)
+。 
+ 发送至 北区初三3班  (私聊)
+啊 
+ 发送至 北区初三3班  (私聊)
+放假了啊 
+北区初三3班撤回了一条消息
+张外北心理曹老师
+看不到吗？ 
+ 发送至 北区初三3班  (私聊)
+撤回啊 
+北区初三3班  (私聊)
+老师说了什么嘛 
+ 发送至 北区初三3班  (私聊)
+。 
+ 发送至 北区初三3班  (私聊)
+要社会实践 
+ 发送至 北区初三3班  (私聊)
+多拍拍照 
+北区初三3班  (私聊)
+你们都在这做着不说话干什么 
+ 发送至 北区初三3班  (私聊)
+听领导讲话 
+北区初三3班  (私聊)
+领导是哪位 
+ 发送至 北区初三3班  (私聊)
+在讲话的这位 
+
+[19:17:07]
+[oc7yIZ] 404
+但是要是有人开夜间模式怎么办
+
+[19:17:09]
+[44FF00] eebot
+ 进这个课实在是太刑了
+
+[19:17:09]
+[love13] ee
+草
+
+[19:17:11]
+[None] Khecc
+?
+
+[19:17:31]
+[oc7yIZ] 404
+我不敢进，但是现在浅浅的进一下吧
+
+[19:17:37]
+[QiuLingYan] QiuLingYanFireFox
+我没登录
+
+[19:17:46]
+[QiuLingYan] QiuLingYanFireFox
+进不了
+
+[19:17:49]
+[None] Khecc
+.
+
+[19:17:54]
+[44FF00] eebot
+ 原来是沉默吗
+
+[19:17:54]
+[oc7yIZ] 404
+现在我特别显眼
+
+[19:18:01]
+[Qwer] 钓鱼的Qwer
+点人回答问题了
+
+[19:18:02]
+[Qwer] 钓鱼的Qwer
+eeeeeeee
+
+[19:18:04]
+[love13] ee
+我没进 因为没腾讯会议
+
+[19:18:05]
+[QiuLingYan] QiuLingYanFireFox
+@Light_ser @Light_ser @Light_ser @Light_ser lomy ip地址
+
+[19:18:08]
+[love13] ee
+哈哈哈哈
+
+[19:18:10]
+[44FF00] eebot
+ 草哈哈哈哈
+
+[19:18:11]
+[None] Khecc
+?
+
+[19:18:16]
+[QiuLingYan] QiuLingYanFireFox
+@ee 我有
+
+[19:18:16]
+[QiuLingYan] QiuLingYanFireFox
+没登录
+
+[19:18:20]
+[love13] ee
+>Qwer 钓鱼的Qwer：
+>点人回答问题了
+
+@钓鱼的Qwer ~~点到你们就好玩了~~
+
+[19:18:20]
+[Qwer] 钓鱼的Qwer
+。
+
+[19:18:24]
+[Qwer] 钓鱼的Qwer
+我把你们全供出来
+
+[19:18:43]
+[None] Khecc
+…
+
+[19:18:47]
+[44FF00] eebot
+ 句号和省略号让eb摸不着头脑
+
+[19:18:47]
+[oc7yIZ] 404
+wowoc
+
+[19:18:56]
+[Qwer] 钓鱼的Qwer
+怎么了
+
+[19:19:04]
+[love13] ee
+咳咳
+
+[19:19:11]
+[44FF00] eebot
+ 咳咳咳
+
+[19:19:11]
+[Qwer] 钓鱼的Qwer
+咳咳
+
+[19:19:16]
+[44FF00] eebot
+ 咳咳咳
+
+[19:19:16]
+[Qwer] 钓鱼的Qwer
+咳咳
+
+[19:19:17]
+[love13] ee
+（吃瓜 看好戏）
+
+[19:19:21]
+[None] Khecc
+?
+
+[19:19:21]
+[None] Khecc
+.
+
+[19:19:47]
+[44FF00] eebot
+ 不说话便是最好的回答
+
+[19:19:47]
+[love13] ee
+~~反正我不在里面（一脸看戏）~~
+
+[19:20:04]
+[zhYYDG] Light_ser
+lomy怎么上不去了
+
+[19:20:09]
+[Qwer] 钓鱼的Qwer
+那个是404啊
+
+[19:20:11]
+[Qwer] 钓鱼的Qwer
+哪个是404啊
+
+[19:20:16]
+[QiuLingYan] QiuLingYanFireFox
+@Light_ser lomy is over
+
+[19:20:33]
+[None] Khecc
+?
+
+[19:21:04]
+[oc7yIZ] 404
+我是空白
+
+[19:21:17]
+[zhYYDG] Light_ser
+ok
+
+[19:22:31]
+[zhYYDG] Light_ser
+lomy好了
+
+[19:22:33]
+[love13] ee
+wowowowc
+
+[19:23:08]
+[love13] ee
+恭喜恭喜！
+
+[19:23:12]
+[zhYYDG] Light_ser
+...
+
+[19:23:17]
+[zhYYDG] Light_ser
+我不是说写好了
+
+[19:23:22]
+[love13] ee
+？
+
+[19:23:31]
+[zhYYDG] Light_ser
+我刚刚忘开服务器了哈哈
+
+[19:23:33]
+[Qwer] 钓鱼的Qwer
+18:44
+张家港市外国语学校曹欣蕾
+请大家全部改成真名 
+18:49
+宇宙独一炸裂暴龙骑士蒋睿涵
+我愿把双眼化作灯塔 照亮你们远大的前程 
+王天翔
+. 
+王天翔
+好 
+施诗
+？？？ 
+张家港外国语学校新时代热心先锋少年成毓嘉
+芜湖 
+张喜芳
+请大家改下名字：校区  班级  姓名 
+ 发送至 light  (私聊)
+emmm 
+light
+各位同学好 
+ 发送至 light  (私聊)
+你小心点 
+本部初一二班宇宙独一炸裂暴龙骑士蒋睿涵撤回了一条消息
+张外本部初一三班新时代热心先锋少年成毓嘉
+可以 
+light
+??? 
+本部初一7李卓妍
+能·-· 
+金雅萱
+可以 
+徐千懿
+可以 
+light
+可以 
+王灵珊
+能 
+北区初一6王天翔
+可 
+ 发送至 light  (私聊)
+小心被踢 
+张外本部初一三班新时代热心先锋少年成毓嘉
+没穿衣服怎么办 
+北区初一6王天翔
+？？？？？？？？？？ 
+light  (私聊)
+我该怎么半 
+本部初一二班宇宙独一炸裂暴龙骑士蒋睿涵
+666 
+本部  初一（2）施诗
+？？？？？？？？？？？？？？ 
+北区初一6王天翔
+哦我的天那 
+light  (私聊)
+有点慌 
+ 发送至 light  (私聊)
+he 
+light  (私聊)
+能跟我讲讲情况吗 
+江羽馨
+请你自重 
+light  (私聊)
+比如说听课的是谁 
+ 发送至 light  (私聊)
+一节心理课 
+本部二班赵芮涵
+收收味 
+ 发送至 light  (私聊)
+没事 
+light  (私聊)
+你们班的同学？ 
+light
+
+[19:23:37]
+[love13] ee
+好家伙
+
+[19:23:38]
+[love13] ee
+咳咳
+
+[19:24:22]
+[44FF00] eebot
+ 咳咳 这不河里
+
+[19:24:23]
+[zhYYDG] Light_ser
+```text
+
+张外本部初一三班新时代热心先锋少年成毓嘉
+xiao 
+本部二班赵芮涵
+第一声xiao 
+本部初一二班宇宙独一炸裂暴龙骑士蒋睿涵
+明明是第三声 
+北区初一1钱朗
+我查了 
+北区初一1钱朗
+一声 
+本部初一二班江羽馨
+ssw 
+北区初三3班
+读什么无所谓 
+
+[19:24:24]
+[zhYYDG] Light_ser
+完美融入课堂
+
+[19:24:37]
+[Qwer] 钓鱼的Qwer
+。
+
+[19:24:50]
+[love13] ee
+（~~一群间谍~~）
+
+[19:24:51]
+[Qwer] 钓鱼的Qwer
+哈哈哈哈哈哈哈
+
+[19:25:30]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈草
+
+[19:25:30]
+[Qwer] 钓鱼的Qwer
+被发现了
+
+[19:25:35]
+[Qwer] 钓鱼的Qwer
+@Light_ser 
+
+[19:25:38]
+[Qwer] 钓鱼的Qwer
+哈哈哈哈哈哈哈哈哈或
+
+[19:25:40]
+[None] Khecc
+?
+
+[19:25:52]
+[Qwer] 钓鱼的Qwer
+ 发送至 北区初三3班  (私聊)
+逊 
+ 发送至 北区初三3班  (私聊)
+被发现了吧 
+北区初三3班
+我刚才瞎写的现在不知道怎么改了 
+ 发送至 北区初三3班  (私聊)
+额 
+本部初一二班宇宙独一炸裂暴龙骑士蒋睿涵
+一定是时空穿越者 
+
+[19:26:22]
+[None] Khecc
+……………
+
+[19:26:22]
+[zhYYDG] Light_ser
+看我caozuo
+
+[19:26:37]
+[Qwer] 钓鱼的Qwer
+张外北心理曹老师
+你把校区班级姓名发给我 
+张外本部初一三班新时代热心先锋少年成毓嘉
+施骁我是你粉丝 
+ 发送至 北区初三3班  (私聊)
+快跑吧 
+
+[19:26:53]
+[None] Khecc
+?
+
+[19:27:07]
+[None] Khecc
+ ………
+
+[19:27:51]
+[zhYYDG] Light_ser
+```text
+
+发送至 北区初一1钱朗  (私聊)
+你是谁 
+北区初一1钱朗  (私聊)
+点击成员 
+ 发送至 北区初一1钱朗  (私聊)
+没有 
+北区初一1钱朗  (私聊)
+把鼠标拖到自己 
+
+[19:28:48]
+[zhYYDG] Light_ser
+有人想叫我做事
+
+[19:28:53]
+[Qwer] 钓鱼的Qwer
+呵
+
+[19:29:06]
+[None] Khecc
+?
+
+[19:29:17]
+[Qwer] 钓鱼的Qwer
+聊天室链接发他
+
+[19:29:19]
+[Qwer] 钓鱼的Qwer
+让他进了
+
+[19:29:26]
+[None] Khecc
+WoW
+
+[19:29:29]
+[Qwer] 钓鱼的Qwer
+来
+
+[19:29:30]
+[Qwer] 钓鱼的Qwer
+真实他
+
+[19:29:34]
+[zhYYDG] Light_ser
+发了
+
+[19:29:58]
+[zhYYDG] Light_ser
+不行
+
+[19:30:02]
+[None] Khecc
+?
+
+[19:30:05]
+[zhYYDG] Light_ser
+你会暴露的
+
+[19:30:06]
+[Qwer] 钓鱼的Qwer
+没事
+
+[19:30:09]
+[None] Khecc
+Dzd
+
+[19:30:13]
+[Qwer] 钓鱼的Qwer
+发
+
+[19:30:18]
+[zhYYDG] Light_ser
+他看到上面聊天记录怎么办
+
+[19:30:20]
+[zhYYDG] Light_ser
+我已经发了
+
+[19:30:22]
+[Qwer] 钓鱼的Qwer
+没事
+
+[19:30:22]
+[Qwer] 钓鱼的Qwer
+上面没暴露我的名字
+
+[19:30:35]
+[zhYYDG] Light_ser
+```text
+ 发送至 北区初一1钱朗  (私聊)
+你在好好听吗 
+ 发送至 北区初一1钱朗  (私聊)
+https://xq.kzw.ink/?xq102210 
+
+[19:30:38]
+[44FF00] eebot
+@Light_ser XChat
+https://xq.kzw.ink/?xq102210
+
+[19:30:38]
+[zhYYDG] Light_ser
+有你名字
+
+[19:30:42]
+[Qwer] 钓鱼的Qwer
+ok
+
+[19:30:43]
+[Qwer] 钓鱼的Qwer
+没事
+
+[19:30:47]
+[None] Khecc
+?
+
+[19:31:15]
+[zhYYDG] Light_ser
+```text
+
+北区初一1钱朗  (私聊)
+下课再进 
+
+[19:32:12]
+[Qwer] 钓鱼的Qwer
+呵
+
+[19:32:29]
+[None] Khecc
+..
+
+[19:32:32]
+[Qwer] 钓鱼的Qwer
+幂塔准备中……
+
+[19:32:39]
+[None] Khecc
+?
+
+[19:32:47]
+[None] Khecc
+..
+
+[19:33:18]
+[44FF00] eebot
+ 原来是沉默吗
+
+[19:33:18]
+[QiuLingYan] QiuLingYanFireFox
+shengcaoji
+
+[19:33:29]
+[QiuLingYan] QiuLingYanFireFox
+生草机
+
+[19:33:35]
+[None] Khecc
+.
+
+[19:33:35]
+[44FF00] eebot
+ 问世间情为何物 只教人生死相随
+
+[19:33:35]
+[44FF00] eebot
+ ·
+示例：
+（开头）纸片君在厕所吃屎 （续写）看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[19:33:35]
+[44FF00] eebot
+ 请用1报数
+
+[19:33:35]
+[44FF00] eebot
+ 句号和省略号让eb摸不着头脑
+
+[19:33:35]
+[QiuLingYan] QiuLingYanFireFox
+1
+
+[19:33:37]
+[44FF00] eebot
+ QiuLingYanFireFox成功加入 现在有1人
+
+[19:33:37]
+[zhang] ZhangHelperS
+@eebot 请冷静，请休息5秒，在这5秒内，==不要发送任何信息==，谢谢合作。
+
+[19:33:40]
+[44FF00] eebot
+ 别谢eb！谢完eb还怎么好意思向ZhangHelperS收聊天费啊？
+
+[19:33:40]
+[None] Khecc
+?
+
+[19:33:45]
+[None] Khecc
+@eebot 听我说，谢谢你
+
+[19:34:07]
+[44FF00] eebot
+ 人又不斯文 装得这么客气干嘛呢
+
+[19:34:07]
+[None] Khecc
+?
+
+[19:34:23]
+[love13] ee
+1
+
+[19:34:28]
+[44FF00] eebot
+ ee成功加入 现在有2人
+
+[19:34:37]
+[44FF00] eebot
+ O-send("love Python forever")
+
+[19:34:37]
+[Qwer] 钓鱼的Qwer
+懂了吗
+
+[19:35:16]
+[None] Khecc
+?
+
+[19:35:24]
+[QiuLingYan] QiuLingYanFireFox
+您好，
+
+请单击本链接加入会议：
+https://go.teamviewer.com/v15/m89463761
+
+会议ID：m894-637-61
+
+此致，
+keishou
+
+www.teamviewer.com - 轻松召开在线会议，实现屏幕共享
+
+[19:36:14]
+[love13] ee
+哈哈哈
+
+[19:36:17]
+[44FF00] eebot
+ 哈哈哈草
+
+[19:36:17]
+[Qwer] 钓鱼的Qwer
+。
+
+[19:36:29]
+[zhYYDG] Light_ser
+https://github.com/Hiyo-Team
+
+[19:36:42]
+[PIGPIG] bo_od
+@Light_ser 推荐了网页:[Hiyo-Team · GitHub](https://github.com/Hiyo-Team)
+
+[19:36:42]
+[44FF00] eebot
+@Light_ser Hiyo-Team · GitHub
+https://github.com/Hiyo-Team
+
+[19:36:42]
+[zhYYDG] Light_ser
+刷这个
+
+[19:43:58]
+[44FF00] eebot_335
+ QuQ eb的昵称卡在里面了
+
+[19:44:34]
+[44FF00] eebot
+ [2022.07.03 19:44:33]
+
+[19:44:34]
+[44FF00] eebot
+ ·
+明天是周一 今晚早点睡 上班别迟到了。
+更多玩法请输入：功能
+
+[19:44:34]
+[love13] ee
+hi yo
+
+[19:44:34]
+[love13] ee
+BIG-1
+
+[19:44:48]
+[44FF00] eebot
+ 1
+
+[19:44:48]
+[love13] ee
+BIG-11
+
+[19:44:51]
+[44FF00] eebot
+ 1011
+
+[19:44:51]
+[love13] ee
+BIG-404
+
+[19:44:56]
+[44FF00] eebot
+ 110010100
+
+[19:44:56]
+[love13] ee
+OK
+
+[19:45:09]
+[love13] ee
+功能
+
+[19:45:11]
+[pvzjspvz] B站旳J
+功能
+
+[19:45:13]
+[oc7yIZ] 404
+hhh
+
+[19:45:24]
+[oc7yIZ] 404
+light化身神秘人
+
+[19:45:28]
+[love13] ee
+哈哈哈
+
+[19:45:32]
+[44FF00] eebot
+ 哈哈哈嗝-
+
+[19:45:32]
+[oc7yIZ] 404
+我化身uknowwho
+
+[19:45:35]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[19:45:40]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈
+
+[19:45:40]
+[None] Khecc
+BIG-114514
+
+[19:45:50]
+[44FF00] eebot
+ 11011111101010010
+
+[19:45:50]
+[PIGPIG] bo_od
+BIG-114514
+
+[19:45:50]
+[love13] ee
+@eebot 114514
+
+[19:46:03]
+[44FF00] eebot
+ 1919810
+
+[19:46:03]
+[love13] ee
+BIG-1919810
+
+[19:46:07]
+[44FF00] eebot
+ 111010100101101000010
+
+[19:46:07]
+[pvzjspvz] B站旳J
+BIG-394583632834967
+
+[19:46:12]
+[44FF00] eebot
+ 1011001101101111100101001010001001111000110010111
+
+[19:46:12]
+[pvzjspvz] B站旳J
+xc
+
+[19:46:26]
+[love13] ee
+二进制yyds
+
+[19:46:26]
+[oc7yIZ] 404
+这个时候最好的办法是
+
+[19:46:27]
+[love13] ee
+xc
+
+[19:46:27]
+[oc7yIZ] 404
+都假装为qwer的小号
+
+[19:46:31]
+[None] Khecc
+B
+
+[19:46:31]
+[None] Khecc
+?
+
+[19:46:35]
+[love13] ee
+咳咳
+
+[19:46:43]
+[love13] ee
+~~顺便套到Qwer的姓名班级座位号~~
+
+[19:46:57]
+[None] Khecc
+KK
+
+[19:46:59]
+[love13] ee
+BIG-a
+
+[19:47:08]
+[None] Khecc
+.
+
+[19:47:15]
+[44FF00] eebot
+ 句号和省略号让eb摸不着头脑
+
+[19:47:15]
+[love13] ee
+BIG-a
+
+[19:47:27]
+[loveee] Ghost13
+。
+
+[19:47:37]
+[None] Khecc
+BIG-§
+
+[19:48:26]
+[44FF00] eebot_281
+ QuQ eb的昵称卡在里面了
+
+[19:48:30]
+[44FF00] eebot
+ [2022.07.03 19:48:29]
+
+[19:48:33]
+[44FF00] eebot
+ hi yo Sakrua
+
+[19:48:34]
+[love13] ee
+hi yo
+
+[19:48:46]
+[love13] ee
+https://docs.python.org/zh-cn/3/library/functions.html
+
+[19:49:02]
+[44FF00] eebot
+@ee 内置函数 &#8212; Python 3.10.5 文档
+https://docs.python.org/zh-cn/3/library/functions.html
+
+[19:49:02]
+[love13] ee
+O-send(hash("1"))
+
+[19:49:50]
+[44FF00] eebot
+ 2302174442858787976
+
+[19:49:52]
+[love13] ee
+O-send(hash("76578576"))
+
+[19:49:55]
+[44FF00] eebot
+ 6994128391658564976
+
+[19:49:57]
+[love13] ee
+O-send(hash("76578576.00000001"))
+
+[19:50:03]
+[44FF00] eebot
+ -2512271003710453084
+
+[19:50:05]
+[QiuLingYan] QiuLingYanFireFox
+怎么搞外网映射啊
+
+[19:50:13]
+[QiuLingYan] QiuLingYanFireFox
+阿啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[19:50:15]
+[love13] ee
+啊 我不知道
+
+[19:50:22]
+[oc7yIZ] 404
+我怀疑未知（theunknown）的空头像
+
+[19:53:05]
+[oc7yIZ] 404
+是真正的根本不存在头像
+
+[19:53:14]
+[oc7yIZ] 404
+是通过网络技术发送了空头像的包
+
+[19:53:39]
+[love13] ee
+nbnb
+
+[19:53:48]
+[love13] ee
+O-send(id("a"))
+
+[19:54:31]
+[44FF00] eebot
+ 1868518169264
+
+[19:54:31]
+[love13] ee
+O-send(id("a"))
+
+[19:54:33]
+[44FF00] eebot
+ 1868518169264
+
+[19:54:33]
+[PIGPIG] bo_od
+O-send(id("a"))
+
+[19:54:34]
+[love13] ee
+O-send(id("adaa"))
+
+[19:54:54]
+[44FF00] eebot
+ 1868569114544
+
+[19:54:54]
+[QiuLingYan] QiuLingYanFireFox
+3
+
+[19:58:41]
+[love13] ee
+2
+
+[19:58:46]
+[QiuLingYan] QiuLingYanFireFox
+1
+
+[19:58:49]
+[QiuLingYan] QiuLingYanFireFox
+K.O.
+
+[19:58:56]
+[love13] ee
+（冷冷清清 舒舒服服）
+
+[19:59:13]
+[love13] ee
+在线
+
+[19:59:22]
+[PIGPIG] bo_od
+Sun Jul  3 20:00:00 2022
+
+[19:59:59]
+[PIGPIG] bo_od
+![1656849604127207.png](https://mrpig.eu.org/1656849604127207.png)
+Sorry,未能查到图源信息
+
+[20:00:04]
+[love13] ee
+涩图
+
+[20:00:40]
+[PIGPIG] bo_od
+![1656849643615086.png](https://mrpig.eu.org/1656849643615086.png)
+Sorry,未能查到图源信息
+
+[20:00:43]
+[pvzjspvz] B站旳J
+123456789
+
+[20:01:43]
+[pvzjspvz] B站旳J
+123456789
+
+[20:01:43]
+[pvzjspvz] B站旳J
+统计
+
+[20:01:45]
+[PIGPIG] bo_od
+Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://mrpig.eu.org/traceback/1656849707034963.log)
+
+[20:01:47]
+[pvzjspvz] B站旳J
+xc
+
+[20:01:53]
+[love13] ee
+sts
+
+[20:01:54]
+[pvzjspvz] B站旳J
+啦啦啦
+
+[20:01:58]
+[44FF00] eebot
+ 啦啦啦啦
+
+[20:01:58]
+[pvzjspvz] B站旳J
+啦啦啦sts
+
+[20:02:01]
+[love13] ee
+好家伙
+
+[20:02:07]
+[pvzjspvz] B站旳J
+啦啦啦sts
+
+[20:02:31]
+[44FF00] eebot
+ 嗨嗨嗨
+
+[20:02:31]
+[pvzjspvz] 啦啦啦B站的J
+^protect
+
+[20:02:37]
+[zhang] ZhangHelperS
+已为你绑定识别码。
+
+[20:02:37]
+[love13] ee
+qwer被gg挤下来了
+
+[20:02:37]
+[love13] ee
+嗨嗨嗨
+
+[20:02:48]
+[44FF00] eebot
+ 嗨嗨嗨
+
+[20:02:48]
+[pvzjspvz] 啦啦啦
+^protect
+
+[20:02:49]
+[zhang] ZhangHelperS
+已为你绑定识别码。
+
+[20:02:49]
+[pvzjspvz] 啦啦啦
+xc
+
+[20:02:54]
+[love13] ee
+xc
+
+[20:02:58]
+[pvzjspvz] 啦啦啦
+喷水啦！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+
+[20:03:07]
+[love13] ee
+蛤蛤蛤
+
+[20:03:12]
+[pvzjspvz] 啦啦啦
+排水机器
+
+[20:03:14]
+[pvzjspvz] 啦啦啦
+排水机器
+
+[20:03:26]
+[44FF00] eebot
+ 嗨嗨嗨
+
+[20:03:26]
+[love13] ee
+我看看今天能不能水到5000条
+
+[20:03:33]
+[pvzjspvz] B站的J
+xc
+
+[20:03:35]
+[pvzjspvz] B站的J
+我也水
+
+[20:03:37]
+[pvzjspvz] B站的J
+1919810
+
+[20:03:40]
+[love13] ee
+不过我其他昵称加起来应该有了（
+
+[20:03:43]
+[pvzjspvz] B站的J
+嘤嘤嘤3-1415
+
+[20:03:46]
+[pvzjspvz] B站的J
+sts
+
+[20:03:48]
+[love13] ee
+水的时候小心刷屏
+
+[20:03:58]
+[pvzjspvz] B站的J
+19110-25116
+
+[20:03:59]
+[QiuLingYan] QiuLingYanFireFox
+a 
+
+[20:03:59]
+[pvzjspvz] B站的J
+19110-25116
+
+[20:04:00]
+[QiuLingYan] QiuLingYanFireFox
+a
+
+[20:04:00]
+[QiuLingYan] QiuLingYanFireFox
+a
+
+[20:04:01]
+[QiuLingYan] QiuLingYanFireFox
+a
+
+[20:04:01]
+[love13] ee
+咳咳
+
+[20:04:03]
+[44FF00] eebot
+ 咳咳（
+
+[20:04:03]
+[QiuLingYan] QiuLingYanFireFox
+sts
+
+[20:04:11]
+[pvzjspvz] B站的J
+我不会刷屏
+
+[20:04:11]
+[QiuLingYan] QiuLingYanFireFox
+9.QiuLingYan秋凌烟: 958（3.39%）
+
+[20:04:19]
+[pvzjspvz] B站的J
+排水
+
+[20:04:21]
+[pvzjspvz] B站的J
+排水
+
+[20:04:23]
+[QiuLingYan] QiuLingYanFireFox
+wuyul
+
+[20:04:27]
+[QiuLingYan] QiuLingYanFireFox
+w
+
+[20:04:28]
+[QiuLingYan] QiuLingYanFireFox
+y
+
+[20:04:30]
+[QiuLingYan] QiuLingYanFireFox
+l
+
+[20:04:30]
+[love13] ee
+咳咳
+
+[20:04:31]
+[44FF00] eebot
+ 咳咳）
+
+[20:04:31]
+[love13] ee
+别刷
+
+[20:04:33]
+[pvzjspvz] B站的J
+咳咳
+
+[20:04:35]
+[pvzjspvz] B站的J
+lightee
+
+[20:04:41]
+[pvzjspvz] B站的J
+-=-=-=-=-
+
+[20:04:47]
+[pvzjspvz] B站的J
+xc
+
+[20:04:49]
+[love13] ee
+（~~大型新光肺炎现场~~）
+
+[20:04:56]
+[pvzjspvz] B站的J
+嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎
+
+[20:05:03]
+[pvzjspvz] B站的J
+嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎
+
+[20:05:04]
+[pvzjspvz] B站的J
+sts
+
+[20:05:07]
+[love13] ee
+别刷
+
+[20:05:11]
+[pvzjspvz] B站的J
+111
+
+[20:05:17]
+[QiuLingYan] QiuLingYanFireFox
+有人打电话吗啊啊啊好无聊啊
+
+[20:05:23]
+[pvzjspvz] B站的J
+、、‘】
+
+[20:05:28]
+[QiuLingYan] QiuLingYanFireFox
+复习真无聊
+
+[20:05:28]
+[pvzjspvz] B站的J
+az
+
+[20:05:38]
+[love13] ee
+>QiuLingYan QiuLingYanFireFox：
+>有人打电话吗啊啊啊好无聊啊
+
+@QiuLingYanFireFox ~~打电话 找13~~
+
+[20:05:40]
+[pvzjspvz] B站的J
+.
+
+[20:05:41]
+[pvzjspvz] B站的J
+打电话 找13是吧
+
+[20:05:49]
+[QiuLingYan] QiuLingYanFireFox
+@ee ...
+
+[20:06:00]
+[love13] ee
+咳咳
+
+[20:06:07]
+[QiuLingYan] QiuLingYanFireFox
+13 is not found
+
+[20:06:12]
+[pvzjspvz] B站的J
+嘉合物业-沈阳路
+
+[20:06:20]
+[love13] ee
+404 is not found
+
+[20:06:23]
+[QiuLingYan] QiuLingYanFireFox
+ee
+
+[20:06:42]
+[44FF00] eebot
+ hey yo 404
+
+[20:06:42]
+[QiuLingYan] QiuLingYanFireFox
+有teamviewer吗
+
+[20:06:45]
+[QiuLingYan] QiuLingYanFireFox
+卧槽
+
+[20:06:48]
+[love13] ee
+不过我觉得打字聊天比打电话好多了
+
+[20:06:52]
+[QiuLingYan] QiuLingYanFireFox
+404
+
+[20:06:52]
+[love13] ee
+hi yo
+
+[20:06:52]
+[44FF00] eebot
+ ee的感觉比较准确
+
+[20:06:52]
+[love13] ee
+哈哈哈哈哈哈哈哈哈
+
+[20:06:54]
+[44FF00] eebot
+ 草哈哈哈哈哈哈哈哈哈
+
+[20:06:54]
+[QiuLingYan] QiuLingYanFireFox
+说到就到
+
+[20:06:55]
+[love13] ee
+404 is found
+
+[20:07:04]
+[QiuLingYan] QiuLingYanFireFox
+404 was found
+
+[20:07:14]
+[QiuLingYan] QiuLingYanFireFox
+语法没学好吗（
+
+[20:07:28]
+[love13] ee
+咳咳
+
+[20:07:33]
+[oc7yIZ] 404
+你不是小升初好了吗
+
+[20:07:39]
+[QiuLingYan] QiuLingYanFireFox
+台风来了
+
+[20:08:07]
+[QiuLingYan] QiuLingYanFireFox
+推迟
+
+[20:08:10]
+[QiuLingYan] QiuLingYanFireFox
+现在某位新疆的初三学生在指导我做课外阅读
+
+[20:08:56]
+[pvzjspvz] B站的J
+1
+
+[20:09:00]
+[pvzjspvz] B站的J
+1
+
+[20:09:00]
+[pvzjspvz] B站的J
+sts
+
+[20:09:02]
+[oc7yIZ] 404
+a
+
+[20:09:03]
+[PIGPIG] bo_od
+B站的J棒棒
+
+[20:09:03]
+[love13] ee
+wow
+
+[20:09:04]
+[oc7yIZ] 404
+是谁啊
+
+[20:09:05]
+[QiuLingYan] QiuLingYanFireFox
+一个女生
+
+[20:09:11]
+[oc7yIZ] 404
+鱼不就在新疆
+
+[20:09:12]
+[pvzjspvz] B站的J
+xc
+
+[20:09:15]
+[PIGPIG] bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+[20:09:15]
+[oc7yIZ] 404
+和鱼有关系吗
+
+[20:09:15]
+[pvzjspvz] B站的J
+我是L
+
+[20:09:17]
+[QiuLingYan] QiuLingYanFireFox
+没有
+
+[20:09:19]
+[pvzjspvz] B站的J
+薄纱404（（（（（（（（（（（（（（
+
+[20:09:28]
+[QiuLingYan] QiuLingYanFireFox
+相差十万八千里
+
+[20:09:31]
+[oc7yIZ] 404
+@B站的J qs
+
+[20:09:32]
+[QiuLingYan] QiuLingYanFireFox
+sts
+
+[20:09:39]
+[pvzjspvz] B站的J
+sts
+
+[20:09:40]
+[pvzjspvz] B站的J
+1236.
+
+[20:09:46]
+[pvzjspvz] B站的J
+？？？
+
+[20:09:49]
+[love13] ee
+别刷sts排名了
+
+[20:09:50]
+[love13] ee
+啊啊啊
+
+[20:09:52]
+[44FF00] eebot
+ 啊啊啊草
+
+[20:09:52]
+[QiuLingYan] QiuLingYanFireFox
+我要超过lighyt
+
+[20:09:54]
+[pvzjspvz] B站的J
+----=======-----
+
+[20:09:58]
+[love13] ee
+你们给我等着
+
+[20:10:05]
+[love13] ee
+我把排名重整一下
+
+[20:10:14]
+[QiuLingYan] QiuLingYanFireFox
+@ee 帮我整到6谢谢
+
+[20:10:32]
+[love13] ee
+不可能
+
+[20:10:35]
+[pvzjspvz] B站的J
+？？？
+
+[20:10:36]
+[QiuLingYan] QiuLingYanFireFox
+。。。。
+
+[20:10:44]
+[love13] ee
+只是把所有昵称的聊天记录合起来再统计而已（
+
+[20:10:56]
+[love13] ee
+~~eb怎么算就是多少~~
+
+[20:11:09]
+[QiuLingYan] QiuLingYanFireFox
+QiuLingYanFireFox2: 162（0.57%） 9.QiuLingYan秋凌烟: 958（3.39%）
+
+[20:11:25]
+[QiuLingYan] QiuLingYanFireFox
+162+958=1020
+
+[20:11:44]
+[QiuLingYan] QiuLingYanFireFox
+一百六十二加九百五十八
+
+[20:12:04]
+[QiuLingYan] QiuLingYanFireFox
+1120.
+
+[20:12:19]
+[QiuLingYan] QiuLingYanFireFox
+1120
+
+[20:12:22]
+[QiuLingYan] QiuLingYanFireFox
+1
+
+[20:12:27]
+[QiuLingYan] QiuLingYanFireFox
+1
+
+[20:12:28]
+[QiuLingYan] QiuLingYanFireFox
+2
+
+[20:12:29]
+[QiuLingYan] QiuLingYanFireFox
+0
+
+[20:12:30]
+[QiuLingYan] QiuLingYanFireFox
+sts
+
+[22:06:57]
+[44FF00] eebot
+ [2022.07.03 22:06:56]
+
+[22:06:57]
+[44FF00] eebot
+ ·
+明天是周一 今晚早点睡 上班别迟到了。
+更多玩法请输入：功能
+
+[22:06:57]
+[None] Keeeec
+Ah
+
+[22:07:01]
+[None] Keeeec
+strange captcha
+
+[22:07:08]
+[None] Keeeec
+cnmb
+
+[22:07:11]
+[None] Keeeec
+h
+
+[22:07:13]
+[None] chad
+@Maggie1 guess more close i am very close to china
+
+[22:07:15]
+[oc7yIZ] 404
+oh i mean a user dopplanger
+
+[22:07:41]
+[None] Keeeec
+That
+
+[22:07:47]
+[None] Keeeec
+is
+
+[22:07:49]
+[hmmmmm] Maggie1
+lemme think
+
+[22:07:51]
+[None] Keeeec
+Doppelganger
+
+[22:07:54]
+[oc7yIZ] 404
+doppelganger
+
+[22:08:13]
+[hmmmmm] Maggie1
+\*checking the Google map*
+
+[22:08:23]
+[None] chad
+OK
+
+[22:08:47]
+[None] chad
+@Maggie1 ^^
+
+[22:08:49]
+[hmmmmm] Maggie1
+Singapore?
+
+[22:09:20]
+[None] chad
+no 
+
+[22:09:27]
+[None] chad
+little more close
+
+[22:09:47]
+[44FF00] eebot
+ hello yo Keeeec
+
+[22:09:47]
+[None] Keeeec
+?
+
+[22:10:11]
+[None] chad
+near himalayas
+
+[22:10:20]
+[hmmmmm] Maggie1
+Your mother tongue is English?
+
+[22:10:58]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[22:11:01]
+[44FF00] eebot
+ O-send("love Python forever")
+
+[22:11:03]
+[zhYYDG] Light_ser
+yeee
+
+[22:11:05]
+[zhYYDG] Light_ser
+不用上学呃呃呃呃呃呃呃呃呃呃呃呃呃呃呃呃呃
+
+[22:11:13]
+[None] chad
+NO but i know english well@Maggie1 
+
+[22:11:34]
+[44FF00] eebot
+ hello yo Keeeec
+
+[22:11:35]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[22:11:35]
+[None] Keeeec
+grrrrrr
+
+[22:11:48]
+[hmmmmm] Maggie1
+i need google transate
+
+[22:11:48]
+[hmmmmm] Maggie1
+*translate
+
+[22:11:55]
+[None] chad
+@Maggie1 *reading world map* XD
+
+[22:12:47]
+[44FF00] eebot
+ O-send("love Python forever")
+
+[22:12:47]
+[hmmmmm] Maggie1
+In Thailand, Singapore, Indonesia, Philippines, Brunei?
+
+[22:13:12]
+[None] chad
+indo
+
+[22:13:17]
+[None] chad
+indo
+
+[22:13:22]
+[hmmmmm] Maggie1
+oh
+
+[22:13:25]
+[None] chad
+:)
+
+[22:13:36]
+[hmmmmm] Maggie1
+my english is baddddddd
+
+[22:13:51]
+[44FF00] eebot
+ ·
+Light's Gitee
+https://gitee.com/BirdingLight
+
+[22:13:57]
+[None] chad
+@Maggie1 no issue chinese is good language
+
+[22:14:49]
+[hmmmmm] Maggie1
+guess my age
+
+[22:15:07]
+[None] chad
+just use chinese i will use translator...
+
+[22:15:21]
+[None] chad
+@Maggie1 i think you are 16 year old?
+
+[22:15:34]
+[hmmmmm] Maggie1
+no~
+
+[22:15:40]
+[None] chad
+@Maggie1 maybe 14?
+
+[22:15:54]
+[oc7yIZ] 404
+isnt Indonesia UTC+7?
+
+[22:15:57]
+[hmmmmm] Maggie1
+no
+
+[22:15:57]
+[oc7yIZ] 404
+China is UTC+8!
+
+[22:16:11]
+[oc7yIZ] 404
+how 18:00
+
+[22:16:20]
+[oc7yIZ] 404
+maybe my calculation is wrong
+
+[22:16:50]
+[oc7yIZ] 404
+a
+
+[22:17:05]
+[hmmmmm] Maggie1
+yes
+
+[22:17:09]
+[hmmmmm] Maggie1
+印度
+
+[22:17:11]
+[oc7yIZ] 404
+>chad：
+>indo
+
+@chad 
+
+[22:17:21]
+[oc7yIZ] 404
+sorry
+
+[22:17:38]
+[hmmmmm] Maggie1
+@chad no:D
+
+[22:17:58]
+[oc7yIZ] 404
+but Indonesia doesn't looks like India in English 
+
+[22:18:11]
+[None] chad
+@404 no problem ^_^
+
+[22:18:16]
+[oc7yIZ] 404
+>oc7yIZ 404：
+>but Indonesia doesn't looks like India in English 
+
+@404 doesn't look like
+
+[22:18:20]
+[zhYYDG] Light_Ubuntu
+@chad guess my age ; )
+
+[22:18:24]
+[hmmmmm] Maggie1
+Tip:I'm the youngest here
+
+[22:18:31]
+[zhYYDG] Light_Ubuntu
+1
+
+[22:18:42]
+[zhYYDG] Light_Ubuntu
+@chad woaini
+
+[22:19:02]
+[hmmmmm] Maggie1
+>zhYYDG Light_Ubuntu：
+>1
+
+@Light_Ubuntu ?
+
+[22:19:02]
+[None] chad
+@Maggie1 it is getting tough ^-^
+
+[22:19:17]
+[zhYYDG] Light_Ubuntu
+@chad "woaini" is a new word
+
+[22:19:20]
+[zhYYDG] Light_Ubuntu
+means "hello"
+
+[22:19:26]
+[None] chad
+@Light_Ubuntu 12?
+
+[22:19:33]
+[zhYYDG] Light_Ubuntu
+15
+
+[22:19:36]
+[None] chad
+@Maggie1 12 
+
+[22:19:49]
+[hmmmmm] Maggie1
+very close
+
+[22:19:58]
+[None] chad
+@Light_Ubuntu wow nice
+
+[22:20:24]
+[hmmmmm] Maggie1
+if
+
+[22:20:38]
+[hmmmmm] Maggie1
+i said
+
+[22:20:41]
+[hmmmmm] Maggie1
+im 10
+
+[22:20:43]
+[hmmmmm] Maggie1
+Do you believe it
+
+[22:21:01]
+[None] chad
+@Maggie1 no way
+
+[22:21:09]
+[PIGPIG] bo_od
+@Maggie1 no way
+
+[22:21:09]
+[hmmmmm] Maggie1
+but it's fact
+
+[22:21:31]
+[hmmmmm] Maggie1
+:D
+
+[22:21:43]
+[None] chad
+@Maggie1 you are smart i guess
+
+[22:22:05]
+[hmmmmm] Maggie1
+maybe?
+
+[22:22:16]
+[hmmmmm] Maggie1
+hmmmmm...
+
+[22:22:23]
+[hmmmmm] Maggie1
+welcome to my website:https://thz.cool/
+
+[22:23:05]
+[44FF00] eebot
+@Maggie1 我的网站
+https://thz.cool/
+
+[22:23:05]
+[None] chad
+when i was 10 i didn't used internet 
+
+[22:23:16]
+[hmmmmm] Maggie1
+hmm
+
+[22:24:30]
+[None] chad
+gitee same as github?
+
+[22:25:13]
+[hmmmmm] Maggie1
+yea
+
+[22:25:20]
+[None] chad
+@Light_Ubuntu you also from china?
+
+[22:25:26]
+[hmmmmm] Maggie1
+but i dont like gitee
+
+[22:25:34]
+[None] chad
+@Maggie1 Cool
+
+[22:25:52]
+[44FF00] eebot
+ 生日快乐
+
+[22:25:52]
+[None] chad
+@Maggie1 yes because it is not globle ...
+
+[22:25:59]
+[zr8srO] CX
+E-上次来临是7月3日
+
+[22:26:18]
+[44FF00] eebot
+ 设置成功 将在下次进入聊天室时生效
+
+[22:26:19]
+[hmmmmm] Maggie1
+there is many people from china 
+
+[22:26:20]
+[hmmmmm] Maggie1
+in this chatroom
+
+[22:26:48]
+[None] chad
+@Maggie1 you know discord?
+
+[22:26:51]
+[hmmmmm] Maggie1
+yea
+
+[22:27:10]
+[hmmmmm] Maggie1
+>hmmmmm Maggie1：
+>there is many people from china 
+ But we welcome people from all over the world
+
+[22:28:26]
+[hmmmmm] Maggie1
+:D
+
+[22:28:35]
+[None] chad
+@Maggie1 you have a server ?
+
+[22:28:46]
+[hmmmmm] Maggie1
+yes
+
+[22:28:51]
+[hmmmmm] Maggie1
+i have many websites
+
+[22:28:59]
+[oc7yIZ] 404
+recently gitee no longer allows non-authenticated repositories to be visible to visitor users
+
+[22:29:23]
+[None] chad
+@Maggie1 like on which we are chating now
+
+[22:29:27]
+[oc7yIZ] 404
+this is for regulation
+
+[22:29:47]
+[hmmmmm] Maggie1
+this chatroom's owner is not me
+
+[22:30:15]
+[oc7yIZ] 404
+some users satirize that gitee will one day turn savedata() into s**edata() for av = adult video
+
+[22:30:43]
+[None] chad
+OK
+
+[22:30:52]
+[oc7yIZ] 404
+but this is not ture, just satirize
+
+[22:30:57]
+[hmmmmm] Maggie1
+*true
+
+[22:31:13]
+[hmmmmm] Maggie1
+not "ture"
+
+[22:31:30]
+[oc7yIZ] 404
+this site is based on hack.chat source code
+
+[22:31:31]
+[PIGPIG] bo_od
+404最可爱了
+
+[22:31:31]
+[oc7yIZ] 404
+@Maggie1 a 
+
+[22:31:37]
+[oc7yIZ] 404
+my fault
+
+[22:31:44]
+[44FF00] eebot
+ 看什么看还不快去敲代码!!
+
+[22:31:46]
+[44FF00] eebot
+  /kick ee
+
+[22:31:46]
+[None] chad
+you know coding?
+
+[22:31:58]
+[QiuLingYan] QiuLingYan秋凌烟
+fish
+
+[22:32:01]
+[QiuLingYan] QiuLingYan秋凌烟
+fish
+
+[22:32:01]
+[44FF00] eebot
+ 发的什么呀QiuLingYan秋凌烟 乱打的吧
+
+[22:32:01]
+[QiuLingYan] QiuLingYan秋凌烟
+xc
+
+[22:32:08]
+[hmmmmm] Maggie1
+I have:A website,Git service,blog,some $ for server......
+
+[22:32:39]
+[None] chad
+but how you know all this as 10 year old?
+
+[22:33:22]
+[hmmmmm] Maggie1
+.
+
+[22:33:29]
+[None] chad
+do you learn all this in school?
+
+[22:33:53]
+[hmmmmm] Maggie1
+I'm very interested in it
+
+[22:33:59]
+[hmmmmm] Maggie1
+@chad no
+
+[22:34:03]
+[oc7yIZ] 404
+@Maggie1 $?￥！
+
+[22:34:18]
+[hmmmmm] Maggie1
+@404 oh yeah
+
+[22:34:23]
+[oc7yIZ] 404
+it's natural! scratch is useful and inspiring
+
+[22:34:39]
+[Admin] MelonFish
+hi yo, What are you talking about
+
+[22:34:58]
+[None] chad
+@Maggie1 means in school you have coading subject ?
+
+[22:35:03]
+[oc7yIZ] 404
+it's for most students' ability and knowledge
+
+[22:35:17]
+[hmmmmm] Maggie1
+@chad yes
+
+[22:35:27]
+[None] chad
+@404 ok
+
+[22:35:42]
+[None] chad
+can you tell me all subject you get taught?
+
+[22:36:07]
+[hmmmmm] Maggie1
+My reply is slow or clumsy, because I need to use translation
+
+[22:36:11]
+[None] chad
+and in which grade?
+
+[22:36:20]
+[hmmmmm] Maggie1
+5
+
+[22:36:26]
+[oc7yIZ] 404
+but in some middle school, C++ is taught. (I havn't studied C++) it is even more complex than python or javascript, so not the more basic language taught the better
+
+[22:36:32]
+[hmmmmm] Maggie1
+i learn:Chinese,Maths,English,Art,Music,PE and Computer
+
+[22:37:40]
+[None] chad
+you know what you all are coolest people i have ever met 
+
+[22:38:03]
+[hmmmmm] Maggie1
+There are also some small subjects that I haven't listed
+
+[22:38:07]
+[hmmmmm] Maggie1
+@Maggie1 P.S:Almost every primary school student in China learns this
+
+[22:38:58]
+[None] chad
+yes for real :)
+
+[22:39:17]
+[hmmmmm] Maggie1
+:D
+
+[22:39:25]
+[oc7yIZ] 404
+i am in grade 9. i have Chinese Language, English Language, Maths, Physics, Chemistry, Life Science, Geography, [Music, Painting]/Art (not taught now), "Morolity and Law"
+
+[22:39:33]
+[None] chad
+@404 great
+
+[22:40:03]
+[hmmmmm] Maggie1
+i forgot one
+
+[22:40:14]
+[hmmmmm] Maggie1
+*two subjects
+
+[22:40:21]
+[hmmmmm] Maggie1
+"Morolity and Law" andscience
+
+[22:40:49]
+[hmmmmm] Maggie1
+oh my god
+
+[22:41:15]
+[hmmmmm] Maggie1
+its 22:41 in china
+
+[22:41:23]
+[None] chad
+in my school we where taught maths, chemistry, physics, social studies, hindi
+
+[22:41:32]
+[hmmmmm] Maggie1
+i have class in tomorrow 8:00 AM
+
+[22:41:40]
+[oc7yIZ] 404
+Morolity and Law is about morality, "The composition of state organs", "State's current stage policy", "Uphold the Leadership of the Party", "Carry forward traditional Chinese virtues", etc.
+
+[22:41:43]
+[hmmmmm] Maggie1
+i gotta go
+
+[22:41:49]
+[oc7yIZ] 404
+byeye
+
+[22:42:27]
+[hmmmmm] Maggie1
+see u tomorrow:D
+
+[22:42:41]
+[None] chad
+@Maggie1 for sure ...onse  againthanks for adding me in .
+
+[22:43:16]
+[None] chad
+also good night
+
+[22:43:29]
+[oc7yIZ] 404
+you know what, you can check https://hack.chat , but... sometimes, when we talk/argue quickly, speaking English as a foreign language is not fast enough for us, we have to use Chinese
+
+[22:44:40]
+[44FF00] eebot
+@404 hack.chat
+https://hack.chat
+
+[22:44:40]
+[oc7yIZ] 404
+sadly, many users come to hack.chat/?your-channel couldn't read the discuss and have to leave the website
+
+[22:45:31]
+[oc7yIZ] 404
+because your-channel in HC is usually used by Chinese users.
+
+[22:45:49]
+[oc7yIZ] 404
+byeye- good night
+
+[22:46:40]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[22:46:40]
+[zhang] ZhangHelperS
+出错了！详细信息：不能在这个聊天室找到该用户
+
+[22:46:41]
+[44FF00] eebot
+ 小张，还在写BUG啊！
+
+[22:46:42]
+[oc7yIZ] 404
+嗨嗨嗨
+
+[22:46:48]
+[44FF00] eebot
+ 嗨嗨嗨（
+
+[22:46:48]
+[zhang] 张
+hi
+
+[22:47:05]
+[Admin] MelonFish
+hi yoooooooooooooooooooo
+
+[22:47:13]
+[44FF00] eebot
+ hello yo Maggie1
+
+[22:47:14]
+[zhang] 张
+声明
+
+[22:47:16]
+[zhang] 张
+你可以吃鱼
+
+[22:47:22]
+[zhang] 张
+但是
+
+[22:47:25]
+[zhang] 张
+绝对不能吃我
+
+[22:47:35]
+[zhang] 张
+So
+
+[22:47:39]
+[PIGPIG] bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+[22:47:39]
+[zhang] 张
+^banick 吃张鱼
+
+[22:47:50]
+[zhang] ZhangHelperS
+已封禁关键字“吃张鱼”
+
+[22:47:51]
+[Admin] MelonFish
+好家伙
+
+[22:48:04]
+[zhang] 张
+点名O5_6
+
+[22:48:07]
+[Admin] MelonFish
+@张 对了，这儿来了个外国友人
+
+[22:48:14]
+[oc7yIZ] 404
+好家伙
+
+[22:48:18]
+[zhang] 张
+哦吼
+
+[22:48:20]
+[hmmmmm] Maggie1
+chad
+
+[22:48:20]
+[Admin] MelonFish
+印度的
+chad
+
+[22:48:20]
+[Admin] MelonFish
+刚走
+
+[22:48:28]
+[oc7yIZ] 404
+>zhang 张：
+>你可以吃鱼
+
+@张 
+
+[22:48:31]
+[zhang] 张
+他看得懂中文吗？
+
+[22:48:31]
+[hmmmmm] Maggie1
+他说我是他这辈子见过最酷的人
+
+[22:48:35]
+[Admin] MelonFish
+所以历史记录刚才都是英文
+
+[22:48:38]
+[hmmmmm] Maggie1
+我有点不知所措
+
+[22:48:39]
+[oc7yIZ] 404
+qs
+
+[22:48:39]
+[zhang] 张
+嗯
+
+[22:48:41]
+[oc7yIZ] 404
+没事没事，网络就是丰富多彩的，有好事也有坏事
+
+[22:48:55]
+[zhang] 张
+嗯
+
+[22:49:02]
+[zhang] 张
+还有
+
+[22:49:11]
+[oc7yIZ] 404
+坏事，就比如hc的部分反华权限用户（
+
+[22:49:12]
+[Admin] MelonFish
+外国友人说明这是好事
+
+[22:49:16]
+[zhang] 张
+我再声明一下
+
+[22:49:24]
+[zhang] 张
+我严厉打击冒充Zhang系列机器人的用户
+
+[22:49:44]
+[zhang] 张
+一经发现，直接kill+offline
+
+[22:50:03]
+[PIGPIG] bo_od
+一经发现，直接kill+offline
+
+[22:50:03]
+[zhang] 张
+我就不信了
+
+[22:50:15]
+[oc7yIZ] 404
+好！
+
+[22:50:19]
+[zhang] 张
+等等
+
+[22:50:21]
+[44FF00] eebot
+ 等等等
+
+[22:50:21]
+[zhang] 张
+是冒充已注册的机器人
+
+[22:50:33]
+[44FF00] eebot
+ near himalayas
+
+[22:50:33]
+[hmmmmm] Maggie1
+玄乎
+
+[22:50:48]
+[hmmmmm] Maggie1
+eebot
+
+[22:50:50]
+[zhang] 张
+如果未经授权就占用昵称
+
+[22:50:57]
+[hmmmmm] Maggie1
+eebot怎么总发些无厘头的东西
+
+[22:51:09]
+[zhang] 张
+直接kill+offline！
+
+[22:51:12]
+[hmmmmm] Maggie1
+kill?
+
+[22:51:20]
+[zhang] 张
+让他无处可藏
+
+[22:51:25]
+[hmmmmm] Maggie1
+没见过这个命令诶
+
+[22:51:33]
+[zhang] 张
+kill就是封禁浏览器
+
+[22:51:37]
+[zhang] 张
+XC自创的
+
+[22:51:44]
+[hmmmmm] Maggie1
+wow
+
+[22:51:48]
+[zhang] 张
+几乎无解
+
+[22:51:51]
+[zhang] 张
+除非清除cookie
+
+[22:52:22]
+[hmmmmm] Maggie1
+要那个回复的脚本()
+
+[22:52:31]
+[zhang] 张
+@MelonFish 是不是应该修复kill命令的BUG了
+
+[22:52:45]
+[Admin] MelonFish
+@张 什么bug
+
+[22:53:03]
+[Admin] MelonFish
+@Maggie1 什么脚本
+
+[22:53:09]
+[zhang] 张
+把“已踢出……”改成已封杀
+
+[22:53:10]
+[Admin] MelonFish
+哦哦哦
+
+[22:53:14]
+[44FF00] eebot
+ 哦哦哦草
+
+[22:53:20]
+[oc7yIZ] 404
+一一一
+
+[22:53:26]
+[oc7yIZ] 404
+啊啊啊
+
+[22:53:28]
+[44FF00] eebot
+ 草啊啊啊
+
+[22:53:28]
+[oc7yIZ] 404
+一一一
+
+[22:53:30]
+[44FF00] eebot
+ 一一一一
+
+[22:53:30]
+[hmmmmm] Maggie1
+@MelonFish 就那个右键回复的那部分
+
+[22:53:33]
+[oc7yIZ] 404
+请请请
+
+[22:53:34]
+[oc7yIZ] 404
+@Maggie1 这个最早是十字街提供的代码（
+
+[22:53:50]
+[hmmmmm] Maggie1
+(
+
+[22:54:12]
+[Admin] MelonFish
+对
+
+[22:54:32]
+[Admin] MelonFish
+我直接拷的
+
+[22:54:38]
+[Admin] MelonFish
+改了一下顺序
+
+[22:54:43]
+[Admin] MelonFish
+（这方面感谢cc哈哈哈
+
+[22:55:04]
+[zhang] ZhangHelperS
+@ee 你的昵称已经绑定识别码“love13”，所以你可能是冒牌货。拜拜。
+
+[22:55:04]
+[zhang] ZhangHelperS
+出错了！详细信息：不能在聊天室找到用户
+
+[22:55:04]
+[44FF00] eebot
+ 大帅比ee 你来辣
+·
+纸片君ee的个人主页：
+https://paperee.tk/
+
+[22:55:12]
+[44FF00] eebot
+ 大~~水~~帅比ee 你来辣
+
+[22:55:12]
+[44FF00] eebot
+ 行路难·其一 a632079
+「长风破浪会有时，直挂云帆济沧海。」
+
+[22:55:12]
+[hmmmmm] Maggie1
+我明天就直接扒client.js算了(
+
+[22:55:23]
+[Admin] MelonFish
+好主意
+
+[22:55:28]
+[Admin] MelonFish
+话说这个点ee怎么来了
+
+[22:55:34]
+[Admin] MelonFish
+hi eeeeeeeeeeeeeeeeeee
+
+[22:55:39]
+[love13] ee
+hi yoooooooooooooooo
+
+[22:55:49]
+[Admin] MelonFish
+我懂了，和13通完电话了
+
+[22:56:06]
+[Admin] MelonFish
+（吃瓜
+
+[22:56:07]
+[Admin] MelonFish
+（吃吃吃吃吃吃吃瓜
+
+[22:56:12]
+[love13] ee
+并没有（
+
+[22:56:13]
+[Admin] MelonFish
+。。。
+
+[22:56:17]
+[Admin] MelonFish
+（啊啊啊刚吃到的瓜
+
+[22:56:23]
+[love13] ee
+吃什么瓜（抢走
+
+[22:56:33]
+[love13] ee
+我要吃eebot和mark的瓜
+
+[22:56:48]
+[love13] ee
+（不是）
+
+[22:56:50]
+[Admin] MelonFish
+好家伙
+
+[22:56:57]
+[love13] ee
+虽然今天没吃到
+
+[22:56:58]
+[Admin] MelonFish
+（吃瓜吃到自己家
+
+[22:57:01]
+[love13] ee
+咳咳
+
+[22:57:03]
+[hmmmmm] Maggie1
+新系列Bot退出
+
+[22:57:54]
+[hmmmmm] Maggie1
+推出
+
+[22:57:56]
+[hmmmmm] Maggie1
+典型:Maggi_chan
+
+[22:58:07]
+[hmmmmm] Maggie1
+(目前尚未公测)
+
+[22:58:20]
+[44FF00] eebot
+ 怀揣着梦想 向着朝阳
+
+[22:58:20]
+[Admin] MelonFish
+好家伙
+
+[22:58:45]
+[love13] ee
+哈哈哈哈哈哈哈哈
+
+[22:58:48]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈草
+
+[22:58:48]
+[love13] ee
+>hmmmmm Maggie1：
+>典型:Maggi_chan
+
+@Maggie1 （~~看到Chan~~期待）
+
+[22:59:01]
+[Admin] MelonFish
+一个chumochan倒下了，千千万万个chan起来了
+
+[22:59:02]
+[Admin] MelonFish
+哈哈哈哈哈哈哈哈
+
+[22:59:03]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈嗝-
+
+[22:59:03]
+[love13] ee
+哈哈哈哈哈哈哈哈哈
+
+[22:59:06]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈草
+
+[22:59:06]
+[hmmmmm] Maggie1
+哈哈哈哈哈哈哈哈哈
+
+[22:59:14]
+[44FF00] eebot
+ 哈哈哈哈哈哈哈哈哈嗝-
+
+[22:59:14]
+[love13] ee
+eebot_chan
+
+[22:59:30]
+[love13] ee
+eb_chan
+
+[22:59:36]
+[PIGPIG] bo_od
+Sun Jul  3 23:00:00 2022
+
+[22:59:58]
+[PIGPIG] bo_od
+![1656860402879737.png](https://mrpig.eu.org/1656860402879737.png)
+Sorry,未能查到图源信息
+
+[23:00:02]
+[44FF00] eebot
+ 已经11点了 在线的各位去睡觉吧
+
+[23:00:58]
+[hmmmmm] Maggie1
+再见啦
+
+[23:01:13]
+[Admin] MelonFish
+byeee
+
+[23:01:18]
+[love13] ee
+拜拜——
+
+[23:01:22]
+[Admin] MelonFish
+才11点睡啥啊哈哈哈哈哈哈
+
+[23:01:33]
+[love13] ee
+@eebot 你还不能睡
+
+[23:01:59]
+[44FF00] eebot
+ 争取啦！要爱就要抢！
+
+[23:01:59]
+[love13] ee
+艹
+
+[23:02:09]
+[oc7yIZ] 404
+北京时间11点
+
+[23:04:49]
+[oc7yIZ] 404
+鱼是完全不愿意睡觉啊
+
+[23:04:55]
+[Admin] MelonFish
+好家伙
+
+[23:06:24]
+[Admin] MelonFish
+新疆通常9点起床11点睡
+
+[23:06:35]
+[Admin] MelonFish
+假期的话不到12点不可能睡的哈哈哈
+
+[23:06:44]
+[Admin] MelonFish
+我准备重启下电脑去装个win驱动
+
+[23:07:00]
+[love13] ee
+>Admin MelonFish：
+>新疆通常9点起床11点睡
+
+@MelonFish 我这边也差不多
+
+[23:07:48]
+[love13] ee
+帮助
+
+[23:08:22]
+[Admin] MelonFish
+我早些时候去东北看亲戚，结果人家8点睡觉6点起床给我整懵了
+
+[23:08:45]
+[Admin] MelonFish
+好家伙生物钟直接全乱
+
+[23:08:55]
+[love13] ee
+好家伙
+
+[23:09:37]
+[44FF00] eebot
+ ·
+严富强的博客
+https://yanfuqiang.github.io/
+
+[23:13:58]
+[PIGPIG] bo_od
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+[23:18:44]
+[Admin] MelonFish
+BI-BV1pa411W7MF
+

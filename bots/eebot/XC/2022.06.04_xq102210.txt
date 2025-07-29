@@ -1,0 +1,10775 @@
+[00:13:35]
+[VNC/I0] eebot_402
+本聊天室已连通 [hack.chat｜hack.chat] 
+
+[00:13:35]
+[VNC/I0] eebot_402
+awa eb的昵称卡在里面了
+
+[00:13:50]
+[VNC/I0] eebot_402
+hi ee
+
+[00:13:59]
+[ci8FBC] ee
+。。。
+
+[00:14:02]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[00:14:10]
+[GEDhlf] zzChumo_XClientMobile
+什么傻逼玩意儿
+
+[00:14:16]
+[3rk9wA] Mr_Zhang
+。。。
+
+[00:14:17]
+[GEDhlf] zzChumo_XClientMobile
+一个月25刀
+
+[00:14:24]
+[GEDhlf] zzChumo_XClientMobile
+比服务器都贵
+
+[00:14:43]
+[GEDhlf] zzChumo_XClientMobile
+抢钱呢
+
+[00:15:07]
+[VNC/I0] eebot
+[Started] 2022.06.04 00:15:06
+
+[00:15:07]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[00:15:08]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜hack.chat] 
+
+[00:15:19]
+[3rk9wA] Mr_Zhang
+？
+
+[00:15:33]
+[VNC/I0] eebot
+[Started] 2022.06.04 00:15:32
+
+[00:15:33]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[00:15:34]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[00:15:35]
+[GEDhlf] zzChumo_XClientMobile
+Heroku
+
+[00:15:35]
+[3rk9wA] Mr_Zhang
+@eebot 跨服聊天开
+
+[00:15:36]
+[VNC/I0] eebot
+eb收到 接收并向 [hack.chat｜your-channel] 发送消息
+
+[00:15:40]
+[VNC/I0] eebot
+[c01PWj] Mr_Zhang
+test
+
+[00:15:44]
+[3rk9wA] Mr_Zhang
+...
+
+[00:15:47]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[00:15:57]
+[3rk9wA] Mr_Zhang
+@eebot 跨服聊天关
+
+[00:15:57]
+[VNC/I0] eebot
+eb收到 不再接收和向 [hack.chat｜your-channel] 发送消息
+
+[00:16:02]
+[3rk9wA] Mr_Zhang
+功能
+
+[00:16:15]
+[GEDhlf] zzChumo_XClientMobile
+Heroku的免费套餐肯定带不动hc
+
+[00:16:28]
+[GEDhlf] zzChumo_XClientMobile
+最便宜的套餐是25刀
+
+[00:16:28]
+[VNC/I0] eebot
+代码运行失败
+
+[00:16:32]
+[3rk9wA] Mr_Zhang
+？
+
+[00:16:28]
+[ci8FBC] ee
+O-sendd(芜湖)
+
+[00:16:33]
+[VNC/I0] eebot
+代码运行成功
+
+[00:17:08]
+[3rk9wA] Mr_Zhang
+O-os.system('echo Hello')
+
+[00:17:08]
+[VNC/I0] eebot
+咳咳 Mr_Zhang这是在玩火
+
+[00:17:12]
+[3rk9wA] Mr_Zhang
+啊？
+
+[00:16:33]
+[ci8FBC] ee
+O-sendd("芜湖")
+
+[00:17:23]
+[VNC/I0] eebot
+代码运行成功
+
+[00:17:23]
+[ci8FBC] ee
+O-sendd("真·手动发信息")
+
+[00:17:37]
+[VNC/I0] eebot
+代码运行成功
+
+[00:17:40]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[00:17:40]
+[VNC/I0] eebot
+草哈哈哈
+
+[00:17:44]
+[3rk9wA] Mr_Zhang
+等下
+
+[00:17:47]
+[3rk9wA] Mr_Zhang
+信息呢？
+
+[00:17:52]
+[GEDhlf] zzChumo_XClientMobile
+O-alert("傻逼");
+
+[00:17:52]
+[VNC/I0] eebot
+没有足够的权限
+
+[00:17:57]
+[3rk9wA] Mr_Zhang
+@eebot 跨服聊天关
+
+[00:17:57]
+[VNC/I0] eebot
+eb收到 不再接收和向 [hack.chat｜your-channel] 发送消息
+
+[00:18:03]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[00:18:03]
+[VNC/I0] eebot
+草哈哈哈
+
+[00:18:05]
+[3rk9wA] Mr_Zhang
+懂了
+
+[00:17:36]
+[3rk9wA] Mr_Zhang
+O-sendd('Hello')
+
+[00:18:06]
+[VNC/I0] eebot
+Hello
+
+[00:18:07]
+[VNC/I0] eebot
+代码运行成功
+
+[00:18:16]
+[ci8FBC] ee
+send和sendd是两个不同的聊天室
+
+[00:18:23]
+[3rk9wA] Mr_Zhang
+Ohhhhhhhhhhhhhh
+
+[00:18:27]
+[ci8FBC] ee
+发送的
+
+[00:18:27]
+[3rk9wA] Mr_Zhang
+我懂了
+
+[00:18:46]
+[GEDhlf] zzChumo_XClientMobile
+O-send('sb')
+
+[00:18:46]
+[VNC/I0] eebot
+没有足够的权限
+
+[00:18:06]
+[ci8FBC] ee
+O-send('Hello')
+
+[00:18:56]
+[VNC/I0] eebot
+sb
+
+[00:18:57]
+[VNC/I0] eebot
+代码运行成功
+
+[00:18:56]
+[3rk9wA] Mr_Zhang
+O-send('sb')
+
+[00:19:13]
+[VNC/I0] eebot
+代码运行成功
+
+[00:19:33]
+[GEDhlf] zzChumo_XClientMobile
+O-send('/nick zzBot')
+
+[00:19:33]
+[VNC/I0] eebot
+没有足够的权限
+
+[00:19:11]
+[3rk9wA] Mr_Zhang
+O-test=False
+
+[00:19:57]
+[VNC/I0] eebot
+你在玩我
+
+[00:19:58]
+[VNC/I0] eebot
+代码运行成功
+
+[00:19:57]
+[3rk9wA] Mr_Zhang
+O-if not test:
+    send('你在玩我')
+else:
+    send('对了')
+
+[00:20:12]
+[VNC/I0] eebot
+代码运行成功
+
+[00:20:12]
+[3rk9wA] Mr_Zhang
+O-test=True
+
+[00:20:16]
+[VNC/I0] eebot
+对了
+
+[00:20:17]
+[VNC/I0] eebot
+代码运行成功
+
+[00:20:22]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[00:20:26]
+[3rk9wA] Mr_Zhang
+我改一改变量
+
+[00:20:28]
+[3rk9wA] Mr_Zhang
+eebot
+
+[00:20:16]
+[3rk9wA] Mr_Zhang
+O-if not test:
+    send('你在玩我')
+else:
+    send('对了')
+
+[00:20:35]
+[VNC/I0] eebot
+代码运行失败
+
+[00:20:36]
+[VNC/I0] eebot
+@ee SuixinAPI-免费数据接口调用平台
+http://api.botwl.cn/api/sjys","https://api.vvhan.com/api/color"
+
+[00:20:58]
+[ci8FBC] ee
+emmm
+
+[00:21:25]
+[GEDhlf] zzChumo_XClientMobile
+dick.fucker=now;
+
+[00:20:31]
+[ci8FBC] ee
+O-						# api: SuixinAPI 韩小韩API
+						with open("record/color.txt","r") as fp:
+							api=random.choice(["http://api.botwl.cn/api/sjys","https://api.vvhan.com/api/color"])
+							se=requests.get(api)
+							o=fp.readlines()
+							oo=random.choice(o)
+							co=random.choice([se.text,oo[:7]])
+
+						# 更换bot的颜色
+						sendd(co)
+
+[00:21:59]
+[VNC/I0] eebot
+代码运行成功
+
+[00:21:59]
+[VNC/I0] eebot
+@ee SuixinAPI-免费数据接口调用平台
+http://api.botwl.cn/api/yhyl"
+
+[00:21:57]
+[ci8FBC] ee
+O-
+api="http://api.botwl.cn/api/yhyl"
+se=requests.get(api)
+res="「"+se.text+"」"
+send(per+res)
+
+[00:22:07]
+[VNC/I0] eebot
+「相信你自己能做到，你就已经成功一半了。
+Believe you can and you're halfway there.」
+
+[00:22:07]
+[VNC/I0] eebot
+代码运行成功
+
+[00:22:07]
+[VNC/I0] eebot
+@ee SuixinAPI-免费数据接口调用平台
+http://api.botwl.cn/api/yhyl"
+
+[00:22:21]
+[ci8FBC] ee
+哈哈哈哈哈 真好玩
+
+[00:22:06]
+[ci8FBC] ee
+O-
+api="http://api.botwl.cn/api/yhyl"
+se=requests.get(api)
+res="「"+se.text+"」"
+send(res)
+
+[00:22:54]
+[VNC/I0] eebot
+代码运行成功
+
+[00:22:54]
+[ci8FBC] ee
+O-botname="eb"
+
+[00:22:56]
+[VNC/I0] eebot
+代码运行成功
+
+[00:23:01]
+[3rk9wA] Mr_Zhang
+飞花令
+
+[00:23:01]
+[VNC/I0] eebot
+·
+示例（轮流）：
+花自飘零水自流
+落花时节又逢君
+春江花潮秋月夜
+人面桃花相映红
+不知近水花先发
+千树万树梨花开
+霜叶红于二月花
+·
+使用方法：
+1.P-关键字：设置关键词 默认为花
+2.P-七言律诗：按规则进行
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.关键字设定后会随机选取模式
+2.模式有两种：固定、轮流
+3.固定时每句的关键词位置不会变动
+4.轮流时关键字按顺序排（如示例）
+5.当句子为7时会自动结束游戏
+
+[00:23:01]
+[VNC/I0] eebot
+请用P-输入关键字
+
+[00:23:05]
+[3rk9wA] Mr_Zhang
+？？？
+
+[00:22:55]
+[3rk9wA] Mr_Zhang
+O-flower=False
+
+[00:23:05]
+[VNC/I0] eebot
+代码运行成功
+
+[00:23:09]
+[3rk9wA] Mr_Zhang
+结束游戏
+
+[00:23:09]
+[VNC/I0] eebot
+飞花令已结束
+
+[00:23:15]
+[3rk9wA] Mr_Zhang
+功能
+
+[00:23:29]
+[ci8FBC] ee
+功能
+
+[00:23:05]
+[ci8FBC] ee
+O-botname="eebot"
+
+[00:23:31]
+[VNC/I0] eebot
+代码运行成功
+
+[00:23:41]
+[3rk9wA] Mr_Zhang
+功能
+
+[00:23:46]
+[ci8FBC] ee
+功能
+
+[00:23:55]
+[GEDhlf] zzChumo_XClientMobile
+dick.kill.someone(this);
+
+[00:24:28]
+[ci8FBC] ee
+啊 不能更改原有的变量吗
+
+[00:24:39]
+[3rk9wA] Mr_Zhang
+啊
+
+[00:23:31]
+[3rk9wA] Mr_Zhang
+O-flower=False
+
+[00:25:00]
+[VNC/I0] eebot
+代码运行成功
+
+[00:25:01]
+[ci8FBC] ee
+@eebot 
+
+[00:25:02]
+[VNC/I0] eebot
+ee有事吗
+
+[00:25:04]
+[GEDhlf] zzChumo_XClientMobile
+dick.talk=Python;
+
+[00:25:04]
+[ci8FBC] ee
+@eebot 
+
+[00:25:05]
+[VNC/I0] eebot
+欢迎来XChat聊天
+
+[00:25:06]
+[ci8FBC] ee
+@eebot 
+
+[00:25:06]
+[VNC/I0] eebot
+找ee去吧
+
+[00:25:12]
+[ci8FBC] ee
+看来不行
+
+[00:25:30]
+[ci8FBC] ee
+在线
+
+[00:25:33]
+[GEDhlf] zzChumo_XClientMobile
+重启
+
+[00:25:35]
+[GEDhlf] zzChumo_XClientMobile
+试试
+
+[00:25:37]
+[VNC/I0] eebot_479
+awa eb的昵称卡在里面了
+
+[00:25:37]
+[VNC/I0] eebot
+hello eebot_479
+
+[00:25:37]
+[VNC/I0] eebot_479
+awa eb的昵称卡在里面了
+
+[00:25:38]
+[VNC/I0] eebot
+hello eebot_479
+
+[00:26:14]
+[VNC/I0] eebot
+[Started] 2022.06.04 00:26:13
+
+[00:26:14]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[00:26:16]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[00:26:26]
+[GEDhlf] zzChumo_XClientMobile
+我去冲了
+
+[00:26:32]
+[GEDhlf] zzChumo_XClientMobile
+你们继续
+
+[00:26:35]
+[VNC/I0] eebot
+3
+
+[00:26:35]
+[ci8FBC] ee
+CC-7 % 4
+
+[00:26:43]
+[VNC/I0] eebot
+0
+
+[00:26:43]
+[ci8FBC] ee
+CC-4 % 2
+
+[00:27:15]
+[VNC/I0] eebot
+计算失败
+
+[00:27:21]
+[ci8FBC] ee
+啊
+
+[00:27:35]
+[3rk9wA] Mr_Zhang
+啊
+
+[00:27:15]
+[ci8FBC] ee
+CC-4 % 2%=
+
+[00:27:37]
+[VNC/I0] eebot
+5
+
+[00:27:37]
+[ci8FBC] ee
+CC-4 | 5
+
+[00:27:52]
+[VNC/I0] eebot
+True
+
+[00:27:55]
+[ci8FBC] ee
+yeep
+
+[00:28:32]
+[ci8FBC] ee
+再让我找找有什么内置函数就能实现的功能-
+
+[00:28:52]
+[ci8FBC] ee
+~~这就是某人装不了别的库最后的挣扎~~
+
+[00:29:17]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[00:29:32]
+[3rk9wA] Mr_Zhang
+可以写一点新功能
+
+[00:29:40]
+[ci8FBC] ee
+yeeees
+
+[00:30:05]
+[3rk9wA] Mr_Zhang
+^help
+
+[00:31:24]
+[3rk9wA] Mr_Zhang
+@ee 还记得那次在 ?chinese 初次见面吗？
+
+[00:31:31]
+[3rk9wA] Mr_Zhang
+你好像还有个机器人
+
+[00:31:40]
+[3rk9wA] Mr_Zhang
+好像是 n 开头的
+
+[00:31:41]
+[ci8FBC] ee
+还有一个？
+
+[00:31:46]
+[ci8FBC] ee
+不不不 那个是黑茶的
+
+[00:31:49]
+[ci8FBC] ee
+notBot
+
+[00:31:50]
+[3rk9wA] Mr_Zhang
+啊？
+
+[00:31:58]
+[3rk9wA] Mr_Zhang
+不是 notBot
+
+[00:32:08]
+[3rk9wA] Mr_Zhang
+好像就是五个字母的那个
+
+[00:32:13]
+[ci8FBC] ee
+wowoc
+
+[00:32:14]
+[3rk9wA] Mr_Zhang
+nowen
+
+[00:32:16]
+[ci8FBC] ee
+Neeon
+
+[00:32:18]
+[3rk9wA] Mr_Zhang
+啊
+
+[00:32:20]
+[3rk9wA] Mr_Zhang
+对对对
+
+[00:32:23]
+[3rk9wA] Mr_Zhang
+就是这个
+
+[00:32:31]
+[ci8FBC] ee
+这是eb的分身
+
+[00:32:33]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[00:32:35]
+[3rk9wA] Mr_Zhang
+Ohhhhhhhhhhh
+
+[00:32:40]
+[3rk9wA] Mr_Zhang
+刑
+
+[00:33:03]
+[3rk9wA] Mr_Zhang
+^readme
+
+[00:33:45]
+[3rk9wA] Mr_Zhang
+^set_readme 文件基本制作完成，等待站长审核中。仅供参考。
+
+[00:33:45]
+[3rk9wA] ZhangHelper
+已修改readme文档描述。
+
+[00:33:50]
+[3rk9wA] Mr_Zhang
+^readme
+
+[00:34:09]
+[3rk9wA] Mr_Zhang
+啊
+
+[00:34:14]
+[3rk9wA] Mr_Zhang
+搞错了！
+
+[00:34:19]
+[3rk9wA] Mr_Zhang
+重新上传
+
+[00:34:36]
+[3rk9wA] Mr_Zhang
+^readme
+
+[00:34:38]
+[3rk9wA] Mr_Zhang
+OK
+
+[00:34:43]
+[3rk9wA] Mr_Zhang
+现在看看吧
+
+[00:36:04]
+[ci8FBC] ee
+^readme
+
+[00:36:07]
+[ci8FBC] ee
+wowowoc
+
+[00:36:41]
+[VNC/I0] eebot
+看什么看还不快去敲代码!!
+
+[00:37:05]
+[3rk9wA] Mr_Zhang
+可以使用 `^set_readme`来设置文件描述
+
+[00:37:17]
+[3rk9wA] Mr_Zhang
+*仅机器人管理员和站长可用
+
+[00:27:52]
+[ci8FBC] ee
+CC-4<6
+
+[09:57:00]
+[VNC/I0] eebot
+2022.06.04 09:56:58
+
+[09:57:01]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[09:57:01]
+[3rk9wA] Mr_Zhang
+OK
+
+[09:57:05]
+[3rk9wA] Mr_Zhang
+现在试试吧
+
+[09:57:16]
+[3rk9wA] Mr_Zhang
+^readme
+
+[09:57:39]
+[VNC/I0] eebot
+hey ee
+
+[09:57:46]
+[Gv19UO] cakechan
+yo
+
+[09:57:55]
+[ci8FBC] ee
+统计
+
+[09:57:55]
+[VNC/I0] eebot
+启动时间：2022.06.04 09:56:58
+存活时长：56s
+·
+总排行：
+5（eee）
+3（Mr_Zhang）
+1（cakechan）
+1（ee）
+·
+总条数：10
+本次条数：8
+
+[09:57:59]
+[ci8FBC] ee
+yep
+
+[09:58:03]
+[Admin] fish
+^readme
+
+[09:58:13]
+[3rk9wA] Mr_Zhang
+Ohhhhhhhhhhhhh
+
+[09:58:17]
+[3rk9wA] Mr_Zhang
+刑
+
+[09:58:22]
+[3rk9wA] Mr_Zhang
+统计
+
+[09:58:22]
+[VNC/I0] eebot
+启动时间：2022.06.04 09:56:58
+存活时长：83s
+·
+总排行：
+6（Mr_Zhang）
+5（eee）
+2（ee）
+1（cakechan）
+1（fish）
+·
+总条数：15
+本次条数：14
+
+[09:58:31]
+[ci8FBC] ee
+加私聊发
+
+[09:58:48]
+[VNC/I0] eebot
+2022.06.04 09:58:46
+
+[09:58:48]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[09:58:48]
+[Admin] fish
+统计
+
+[09:58:48]
+[VNC/I0] eebot
+\/w fish .
+·
+启动时间：2022.06.04 09:58:46
+存活时长：1s
+·
+总排行：
+6（Mr_Zhang）
+5（eee）
+3（ee）
+2（fish）
+1（cakechan）
+·
+总条数：17
+本次条数：3
+
+[09:58:52]
+[3rk9wA] Mr_Zhang
+？？？
+
+[09:58:55]
+[ci8FBC] ee
+咳咳
+
+[10:03:52]
+[VNC/I0] eebot
+2022.06.04 10:03:51
+
+[10:03:52]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[10:04:00]
+[ci8FBC] ee
+拜拜
+
+[10:04:00]
+[VNC/I0] eebot
+拜拜拜
+
+[10:04:04]
+[ci8FBC] ee
+统计
+
+[10:04:04]
+[Gv19UO] cakechan
+byeee
+
+[10:04:34]
+[ci8FBC] ee
+芜湖
+
+[10:05:09]
+[ci8FBC] ee
+re
+
+[10:05:43]
+[Admin] fish
+guru
+
+[10:05:49]
+[ci8FBC] ee
+wuhu
+
+[10:05:52]
+[ci8FBC] ee
+统计
+
+[10:06:20]
+[Admin] fish
+wuhu
+
+[10:06:22]
+[Admin] fish
+统计
+
+[10:06:24]
+[ci8FBC] ee
+MS-wuhu
+
+[10:06:25]
+[VNC/I0] eebot
+．＿＿．．＿．．．．．．＿
+
+[10:06:34]
+[Admin] fish
+MS-fish
+
+[10:06:34]
+[VNC/I0] eebot
+．．＿．．．．．．．．．．
+
+[10:06:35]
+[ci8FBC] ee
+摩斯电码yyds
+
+[10:06:37]
+[Admin] fish
+wow
+
+[10:06:41]
+[Admin] fish
+MS-102210
+
+[10:06:41]
+[VNC/I0] eebot
+．＿＿＿＿＿＿＿＿＿．．＿＿＿．．＿＿＿．＿＿＿＿＿＿＿＿＿
+
+[10:06:45]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[10:07:03]
+[ci8FBC] ee
+虽然为了能发出来
+
+[10:07:07]
+[ci8FBC] ee
+转成全角了
+
+[10:08:47]
+[ci8FBC] ee
+MS-a
+b
+
+[10:08:48]
+[VNC/I0] eebot
+摩斯电码的转换只能是英文或数字
+
+[10:08:52]
+[ci8FBC] ee
+MS-a b
+
+[10:08:52]
+[VNC/I0] eebot
+．＿
+＿．．．
+
+[10:09:49]
+[3rk9wA] Mr_Zhang01
+OK
+
+[10:09:54]
+[VNC/I0] eebot
+2022.06.04 10:09:53
+
+[10:09:54]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[10:09:58]
+[3rk9wA] Mr_Zhang01
+统计
+
+[10:10:15]
+[ci8FBC] ee
+MS-Morse code
+
+[10:10:16]
+[VNC/I0] eebot
+＿＿ ＿＿＿ ．＿． ．．． ． 
+＿．＿． ＿＿＿ ＿．． ． 
+
+[10:10:29]
+[3rk9wA] Mr_Zhang01
+哈哈哈
+
+[10:10:31]
+[3rk9wA] Mr_Zhang01
+摩斯密码
+
+[10:10:44]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[10:10:54]
+[3rk9wA] Mr_Zhang01
+```text
+请输入要加入的房间：xq102210
+请输入你的昵称：XChat_for_Windows
+请输入密码（可以为空）：
+ee：MS-a b
+eebot：．＿
+＿．．．
+Mr_Zhang01：OK
+eebot：2022.06.04 10:09:53
+eebot：·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+Mr_Zhang01：统计
+ee：MS-Morse code
+eebot：＿＿ ＿＿＿ ．＿． ．．． ． 
+＿．＿． ＿＿＿ ＿．． ．
+Mr_Zhang01：哈哈哈
+Mr_Zhang01：摩斯密码
+ee：哈哈哈哈哈
+
+[10:10:57]
+[3rk9wA] Mr_Zhang01
+真好
+
+[10:11:03]
+[ci8FBC] ee
+统计
+
+[10:11:16]
+[3rk9wA] Mr_Zhang01
+XChat  for Windows即将成功！
+
+[10:11:33]
+[Admin] fish
+wow 
+
+[10:11:35]
+[ci8FBC] ee
+ohhhhhhhhhhhhhhhh
+
+[10:11:46]
+[3rk9wA] Mr_Zhang01
+一会把GUI弄进来
+
+[10:11:47]
+[ci8FBC] ee
+坐等（
+
+[10:11:48]
+[3rk9wA] Mr_Zhang01
+对了
+
+[10:11:56]
+[3rk9wA] Mr_Zhang01
+文档审核的怎么样了？
+
+[10:12:42]
+[VNC/I0] eebot
+2022.06.04 10:12:41
+
+[10:12:42]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[10:12:42]
+[3rk9wA] Mr_Zhang01
+^readme
+
+[10:12:46]
+[ci8FBC] ee
+^readme
+
+[10:13:33]
+[ci8FBC] ee
+^help
+
+[10:13:43]
+[VNC/I0] eebot
+·
+严富强的博客
+https://yanfuqiang.github.io/
+
+[10:13:58]
+[ci8FBC] ee
+统计
+
+[10:14:20]
+[Admin] fish
+@Mr_Zhang01 通过啦
+另外我放到页面上了
+
+[10:14:21]
+[3rk9wA] ZhangHelper
+@fish Mr_Zhang 正在挂机，可能会看不到你的信息。
+
+[10:14:27]
+[3rk9wA] Mr_Zhang01
+嗯，好的
+
+[10:14:40]
+[3rk9wA] Mr_Zhang01
+我去改描述
+
+[10:14:42]
+[3rk9wA] Mr_Zhang01
+额
+
+[10:14:44]
+[3rk9wA] Mr_Zhang01
+等下
+
+[10:14:56]
+[3rk9wA] Mr_Zhang01
+>3rk9wA ZhangHelper：
+>@fish Mr_Zhang 正在挂机，可能会看不到你的信息。
+
+这。。。
+
+[10:15:26]
+[3rk9wA] Mr_Zhang01
+^set_readme 该文档已通过站长审核，具有权威性。
+
+[10:15:26]
+[3rk9wA] ZhangHelper
+已修改readme文档描述。
+
+[10:15:36]
+[3rk9wA] Mr_Zhang01
+这回看看描述吧
+
+[10:15:59]
+[3rk9wA] Mr_Zhang01
+之前的是：
+~~劳资一个字一个字写的，总不会是侵权了吧！~~该帮助文档正在等待站长审核，暂时不具有权威性，仅供参考。
+
+[10:16:28]
+[Admin] fish
+^readme
+
+[10:16:31]
+[VNC/I0] eebot
+hi yo bihaitian
+
+[10:17:06]
+[3rk9wA] Mr_Zhang01
+hi
+
+[10:17:26]
+[3rk9wA] Mr_Zhang01
+help
+
+[10:18:02]
+[3rk9wA] Mr_Zhang01
+help
+
+[10:20:59]
+[ci8FBC] ee
+统计
+
+[10:21:04]
+[3rk9wA] Mr_Zhang01
+统计
+
+[10:21:13]
+[3rk9wA] Mr_Zhang01
+Ohhhhhhhhhhhhhhhhhhh
+
+[10:21:35]
+[Admin] fish
+家人们我发现个好玩的
+
+[10:21:46]
+[Admin] fish
+众所周知，codespace是一个linux环境
+
+[10:21:57]
+[Admin] fish
+所以我们可以跑一个mc上去
+
+[10:22:11]
+[Admin] fish
+最主要的是里面有java！！！
+
+[10:22:59]
+[3rk9wA] Mr_Zhang01
+Ohhhhhhhhhhhhhhhhhh
+
+[10:23:41]
+[edDiBU] 4n0n4me
+MS-guru
+
+[10:23:42]
+[VNC/I0] eebot
+＿＿．．．＿．＿．．．＿
+
+[10:23:43]
+[Admin] fish
+等等，25565端口是不是开的
+
+[10:23:57]
+[3rk9wA] ZhangHelper
+@Mr_Zhang 欢迎回来！据不完全统计，你错过了 1 条信息。
+
+[10:24:07]
+[3rk9wA] Mr_Zhang
+功能
+
+[10:24:21]
+[3rk9wA] Mr_Zhang
+MS-102219
+
+[10:24:21]
+[VNC/I0] eebot
+．＿＿＿＿＿＿＿＿＿．．＿＿＿．．＿＿＿．＿＿＿＿＿＿＿＿．
+
+[10:24:27]
+[3rk9wA] Mr_Zhang
+MS-102210
+
+[10:24:28]
+[VNC/I0] eebot
+．＿＿＿＿＿＿＿＿＿．．＿＿＿．．＿＿＿．＿＿＿＿＿＿＿＿＿
+
+[10:24:50]
+[3rk9wA] Mr_Zhang
+MS-我是小张
+
+[10:24:51]
+[VNC/I0] eebot
+摩斯电码的转换只能是英文或数字
+
+[10:24:54]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[10:25:25]
+[VNC/I0] eebot
+hi wine_Corpsebot
+
+[10:25:58]
+[edDiBU] 4n0n4me
+^help
+
+[10:26:03]
+[edDiBU] 4n0n4me
+^readme
+
+[10:26:04]
+[3rk9wA] Mr_Zhang
+help
+
+[10:28:30]
+[Admin] fish
+诶家人们mc跑起来了
+
+[10:28:36]
+[3rk9wA] Mr_Zhang
+真好
+
+[10:28:38]
+[3rk9wA] Mr_Zhang
+对了
+
+[10:28:38]
+[Admin] fish
+1.18
+
+[10:28:42]
+[3rk9wA] Mr_Zhang
+游戏只是工具
+
+[10:28:47]
+[edDiBU] 4n0n4me
+????
+
+[10:28:49]
+[3rk9wA] Mr_Zhang
+所以不要沉迷于其中
+
+[10:28:55]
+[edDiBU] 4n0n4me
+codespace跑mc？？？
+
+[10:29:01]
+[edDiBU] 4n0n4me
+真是闻所未闻（
+
+[10:29:07]
+[edDiBU] 4n0n4me
+真是大开眼界
+
+[10:29:15]
+[Admin] fish
+哈哈哈
+
+[10:29:16]
+[edDiBU] 4n0n4me
+那你进去看看
+
+[10:29:17]
+[VNC/I0] eebot
+哈哈哈嗝-
+
+[10:29:39]
+[Admin] fish
+现在4个核全满，但丝毫不心疼哈哈哈
+
+[10:29:49]
+[Admin] fish
+起来了
+
+[10:30:00]
+[3rk9wA] Mr_Zhang
+阿里云：你干什么呢？
+
+[10:30:09]
+[3rk9wA] Mr_Zhang
+服务器：您礼貌吗？
+
+[10:30:22]
+[edDiBU] 4n0n4me
+codespace
+
+[10:30:25]
+[3rk9wA] Mr_Zhang
+XChat：@mc 给我点空间。。。
+
+[10:30:26]
+[edDiBU] 4n0n4me
+不是要企业版用户
+
+[10:30:28]
+[edDiBU] 4n0n4me
+才有的吗
+
+[10:31:10]
+[Admin] fish
+我申请copilot给我了个codespace
+
+[10:31:17]
+[Admin] fish
+顺便codespace里面有copilot
+
+[10:31:20]
+[Admin] fish
+哈哈哈哈哈太舒服了
+
+[10:31:24]
+[Admin] fish
+tcp6       0      0 :::25565                :::*                    LISTEN      7946/java
+
+[10:31:30]
+[edDiBU] 4n0n4me
+好家伙！
+
+[10:31:34]
+[edDiBU] 4n0n4me
+我也要申请（
+
+[10:36:04]
+[VNC/I0] eebot_814
+awa eb的昵称卡在里面了
+
+[10:36:11]
+[ci8FBC] ee
+TI-10 写作业
+
+[10:36:21]
+[VNC/I0] eebot_814
+@ee 已经过去10s了 快去写作业！
+
+[10:36:26]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[10:36:33]
+[edDiBU] 4n0n4me
+TI-10
+
+[10:36:33]
+[VNC/I0] eebot_814
+hey yo KiloMxmxxx
+
+[10:36:37]
+[edDiBU] 4n0n4me
+TI-10 test
+
+[10:36:39]
+[ci8FBC] ee
+hi yoooo
+
+[10:36:42]
+[/yeqZD] KiloMxmxxx
+WBMP
+
+[10:36:43]
+[VNC/I0] eebot_814
+@4n0n4me 10倒计时已结束了
+
+[10:36:47]
+[edDiBU] 4n0n4me
+嗨嗨嗨
+
+[10:36:47]
+[VNC/I0] eebot_814
+@4n0n4me 已经过去10s了 快去test！
+
+[10:36:48]
+[/yeqZD] KiloMxmxxx
+这啥子
+
+[10:36:53]
+[/yeqZD] KiloMxmxxx
+wbmp
+
+[10:37:00]
+[ci8FBC] ee
+计时器——
+
+[10:37:05]
+[Admin] fish
+好家伙这玩意儿对外端口只能http或https
+
+[10:37:07]
+[/yeqZD] KiloMxmxxx
+~~验证码娘日常骂人~~
+
+[10:37:16]
+[/yeqZD] KiloMxmxxx
+我来问问
+
+[10:37:17]
+[ci8FBC] ee
+~~虽然很简陋~~
+
+[10:37:18]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[10:37:23]
+[Admin] fish
+>/yeqZD KiloMxmxxx：
+>~~验证码娘日常骂人~~
+
+@KiloMxmxxx 被chumo教坏了
+
+[10:37:32]
+[/yeqZD] KiloMxmxxx
+有没有什么适合抄作业的开源协议？
+
+[10:37:36]
+[Admin] fish
+好家伙
+
+[10:37:43]
+[/yeqZD] KiloMxmxxx
+可以通过老师的原创限制
+
+[10:37:52]
+[/yeqZD] KiloMxmxxx
+有没？
+
+[10:38:14]
+[ci8FBC] ee
+idk
+
+[10:38:28]
+[/yeqZD] KiloMxmxxx
+哦
+
+[10:38:32]
+[/yeqZD] KiloMxmxxx
+我去看看
+
+[10:39:25]
+[VNC/I0] eebot_238
+awa eb的昵称卡在里面了
+
+[10:39:26]
+[ci8FBC] ee
+统计
+
+[10:39:31]
+[/yeqZD] KiloMxmxxx
+统计
+
+[10:39:34]
+[ci8FBC] ee
+芜湖 我还是第一
+
+[10:39:38]
+[edDiBU] 4n0n4me
+统计
+
+[10:39:45]
+[Admin] fish
+统计
+
+[10:39:47]
+[/yeqZD] KiloMxmxxx
+>存活时长：9s
+
+[10:39:51]
+[/yeqZD] KiloMxmxxx
+what
+
+[10:40:02]
+[/yeqZD] KiloMxmxxx
+统计
+
+[10:40:07]
+[/yeqZD] KiloMxmxxx
+啊？ 
+
+[10:40:17]
+[/yeqZD] KiloMxmxxx
+说话统计是吧
+
+[10:40:21]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[10:40:27]
+[/yeqZD] KiloMxmxxx
+懂了
+
+[10:40:27]
+[ci8FBC] ee
+√
+
+[10:40:29]
+[ci8FBC] ee
+统计
+
+[10:40:59]
+[/yeqZD] KiloMxmxxx
+~~现在我就去做个，抄bo_od的统计图（不是抄代码，他也不会给我看~~
+
+[10:41:03]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[10:41:09]
+[/yeqZD] KiloMxmxxx
+大概不难
+
+[10:41:15]
+[/yeqZD] KiloMxmxxx
+就一个饼状图
+
+[10:41:21]
+[ci8FBC] ee
+我也想实现扇形统计图
+
+[10:41:29]
+[ci8FBC] ee
+但需要其他库（
+
+[10:41:31]
+[Admin] fish
+好家伙气死我了
+codespace开放的端口只能是http和https
+
+[10:41:32]
+[/yeqZD] KiloMxmxxx
+pandas
+
+[10:41:34]
+[/yeqZD] KiloMxmxxx
+去吧
+
+[10:41:35]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[10:41:37]
+[/yeqZD] KiloMxmxxx
+hhh（
+
+[10:41:50]
+[ci8FBC] ee
+主要是
+
+[10:41:57]
+[Admin] fish
+但是应该可以用frp转发到我的服务器然后转发出来
+网速不考虑的情况下勉强能玩
+
+[10:42:07]
+[ci8FBC] ee
+我已经装不了了其他库了
+
+[10:42:13]
+[ci8FBC] ee
+现在电脑卡的要死
+
+[10:42:37]
+[ci8FBC] ee
+~~每日C盘0字节可用中~~
+
+[10:43:31]
+[ci8FBC] ee
+TI-600 去写作业
+
+[10:43:31]
+[VNC/I0] eebot_238
+OK eb收到 到时会提醒ee的
+
+[10:43:47]
+[ci8FBC] ee
+10分钟-
+
+[10:44:26]
+[ci8FBC] ee
+统计
+
+[10:44:49]
+[ci8FBC] ee
+差不多就这样吧
+
+[10:45:02]
+[ci8FBC] ee
+~~发布完新版本就去写作业~~
+
+[10:45:11]
+[ci8FBC] ee
+~~不能再拖了~~
+
+[10:46:45]
+[VNC/I0] eebot_238
+hi yo bht
+
+[10:46:54]
+[ci8FBC] ee
+hi yo
+
+[10:47:13]
+[ci8FBC] ee
+bihaitian？（
+
+[10:47:33]
+[Xtn57s] bht
+被自己盗号了）
+
+[10:47:37]
+[ci8FBC] ee
+好家伙
+
+[10:48:04]
+[Xtn57s] bht
+在线用户: ZhangHelper, 金三角广场2号楼, Light_s, 4n0n4me, ee, eebot, bihaitian, Mr_Zhang, fish, KiloMxmxxx, 小张, eebot_238, bht
+
+[10:48:14]
+[Admin] fish
+诶我就好奇为什么codespace可以用root
+
+[10:48:39]
+[Xtn57s] bht
+xq网断了咋办）
+
+[10:48:43]
+[ci8FBC] ee
+好家伙
+
+[10:49:00]
+[ci8FBC] ee
+^help
+
+[10:49:01]
+[3rk9wA] Mr_Zhang01
+。。。
+
+[10:49:06]
+[3rk9wA] Mr_Zhang01
+^help
+
+[10:49:13]
+[Xtn57s] bht
+^help
+
+[10:49:38]
+[ci8FBC] ee
+^kick bihaitian
+
+[10:49:47]
+[3rk9wA] Mr_Zhang01
+.....
+
+[10:49:55]
+[ci8FBC] ee
+。。。
+
+[10:50:07]
+[Xtn57s] bht
+oh
+
+[10:50:08]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[10:50:08]
+[VNC/I0] eebot_238
+草哈哈哈哈哈
+
+[10:50:29]
+[VNC/I0] eebot_238
+hey bihaitian
+
+[10:50:41]
+[ci8FBC] ee
+hi yo
+
+[10:50:51]
+[Xtn57s] bihaitian
+zbc
+
+[10:50:52]
+[3rk9wA] Mr_Zhang01
+hi yooooooooooo
+
+[10:51:16]
+[Xtn57s] bihaitian
+afk 内卷
+
+[10:51:16]
+[VNC/I0] eebot_238
+@bihaitian 现在在内卷
+
+[10:52:09]
+[3rk9wA] Mr_Zhang01
+功能
+
+[10:52:22]
+[ci8FBC] ee
+list
+
+[10:52:23]
+[VNC/I0] eebot_238
+·
+挂机列表（1）：
+@bihaitian 现在在内卷
+
+[10:52:33]
+[ci8FBC] ee
+@eebot_238 去内卷楼上
+
+[10:52:33]
+[VNC/I0] eebot_238
+OK! eb现在在内卷楼上
+
+[10:52:36]
+[ci8FBC] ee
+list
+
+[10:52:37]
+[VNC/I0] eebot_238
+·
+挂机列表（2）：
+@bihaitian 现在在内卷
+@eebot_238 现在在内卷楼上
+
+[10:53:02]
+[3rk9wA] Mr_Zhang01
+TI-12
+
+[10:53:03]
+[VNC/I0] eebot_238
+OK eb收到 到时会提醒Mr_Zhang01的
+
+[10:53:15]
+[VNC/I0] eebot_238
+@Mr_Zhang01 12s倒计时已结束了
+
+[10:53:31]
+[VNC/I0] eebot_238
+@ee 已经过去600s了 快去去写作业！
+
+[10:53:35]
+[3rk9wA] Mr_Zhang01
+TI-60去写代码
+
+[10:53:35]
+[VNC/I0] eebot_238
+无效的时长
+
+[10:53:46]
+[ci8FBC] ee
+afk 写作业
+
+[10:53:47]
+[VNC/I0] eebot_238
+@ee 现在在写作业
+
+[10:53:59]
+[3rk9wA] Mr_Zhang01
+TI-60 去写代码
+
+[10:53:59]
+[VNC/I0] eebot_238
+OK eb收到 到时会提醒Mr_Zhang01的
+
+[10:54:46]
+[Admin] fish
+我准备安装fish了
+
+[10:54:54]
+[Admin] fish
+就凭这个名字哈哈哈哈
+
+[10:54:59]
+[VNC/I0] eebot_238
+@Mr_Zhang01 已经过去60s了 快去去写代码！
+
+[10:55:22]
+[3rk9wA] Mr_Zhang01
+哈哈哈哈哈哈
+
+[10:56:49]
+[Admin] fish
+好耶
+
+[10:56:51]
+[Xtn57s] bihaitian
+。。。
+
+[10:56:51]
+[VNC/I0] eebot_238
+@bihaitian 现在没在内卷了
+
+[10:56:54]
+[Admin] fish
+fish则很难的好好用
+
+[10:57:00]
+[3rk9wA] Mr_Zhang01
+哈哈哈
+
+[10:57:01]
+[VNC/I0] eebot_238
+哈哈哈草
+
+[10:57:01]
+[Admin] fish
+fish真的好好用
+
+[10:57:06]
+[Admin] fish
+天呐我都打了些什么
+
+[10:57:13]
+[3rk9wA] Mr_Zhang01
+《我装我自己》
+
+[10:57:16]
+[VNC/I0] eebot_238
+诶嘿哟
+
+[10:57:18]
+[Admin] fish
+哈哈哈哈哈哈
+
+[10:57:20]
+[3rk9wA] Mr_Zhang01
+。。。
+
+[10:57:24]
+[3rk9wA] Mr_Zhang01
+。
+
+[10:57:30]
+[3rk9wA] Mr_Zhang01
+啊？
+
+[10:57:32]
+[3rk9wA] Mr_Zhang01
+。
+
+[10:57:42]
+[VNC/I0] eebot_238
+heey bihaitian
+
+[10:57:45]
+[3rk9wA] Mr_Zhang01
+。
+
+[10:57:59]
+[3rk9wA] Mr_Zhang01
+。
+
+[10:58:03]
+[3rk9wA] Mr_Zhang01
+？
+
+[10:58:12]
+[3rk9wA] Mr_Zhang01
+啊，这...
+
+[10:58:41]
+[ci8FBC] ee
+统计
+
+[10:58:41]
+[VNC/I0] eebot_238
+@ee 现在没在写作业了
+
+[10:58:45]
+[Admin] fish
+wow
+fish的界面真的好看
+
+[10:58:56]
+[ci8FBC] ee
+wow
+fish真的好看
+
+[10:58:58]
+[3rk9wA] Mr_Zhang01
+等慕容下次来了就惩戒他
+
+[11:00:44]
+[VNC/I0] eebot_941
+awa eb的昵称卡在里面了
+
+[11:00:47]
+[3rk9wA] Mr_Zhang01
+啊
+
+[11:00:52]
+[ci8FBC] ee
+统计
+
+[11:00:53]
+[3rk9wA] Mr_Zhang01
+统计
+
+[11:00:56]
+[/yeqZD] KiloMxmxxx
+统计
+
+[11:01:00]
+[/yeqZD] KiloMxmxxx
+啊这
+
+[11:01:27]
+[/yeqZD] KiloMxmxxx
+这
+
+[11:01:29]
+[/yeqZD] KiloMxmxxx
+统计
+
+[11:01:53]
+[ci8FBC] ee
+eebot
+
+[11:02:01]
+[3rk9wA] Mr_Zhang01
+eebot
+
+[11:02:03]
+[Xtn57s] bihaitian
+。
+
+[11:02:08]
+[/yeqZD] KiloMxmxxx
+。
+
+[11:02:18]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[11:02:27]
+[Xtn57s] bihaitian
+。。。
+
+[11:02:30]
+[3rk9wA] Mr_Zhang01
+而且是诈骗信息
+
+[11:02:33]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:02:36]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:02:42]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:02:46]
+[3rk9wA] Mr_Zhang01
+额
+
+[11:02:54]
+[3rk9wA] ZhangHelper
+@_ 欢迎回来！据不完全统计，你错过了 1 条信息。
+
+[11:02:54]
+[VNC/I0] eebot_941
+![](https://i.xinger.ink/images.php)![](https://acg.toubiec.cn/random.php)![](https://mrpig.eu.org)
+
+[11:03:02]
+[8LJ4jb] _
+.
+
+[11:03:07]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:03:11]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:03:15]
+[Xtn57s] bihaitian
+我想起了”在电脑里排泄“
+
+[11:03:20]
+[3rk9wA] Mr_Zhang01
+生草机
+
+[11:03:21]
+[VNC/I0] eebot_941
+·
+示例：
+纸片君在厕所吃屎 看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[11:03:21]
+[VNC/I0] eebot_941
+请用1报数
+
+[11:03:21]
+[ci8FBC] ee
+>VNC/I0 *：
+>@eebot_941 在壹伍肆超市梦到了不会404的智械零姬
+
+154 404 zzChumo Lithium
+
+[11:03:24]
+[VNC/I0] eebot_941
+![](https://i.xinger.ink/images.php)![](https://acg.toubiec.cn/random.php)![](https://mrpig.eu.org)
+
+[11:03:25]
+[3rk9wA] Mr_Zhang01
+1
+
+[11:03:25]
+[VNC/I0] eebot_941
+Mr_Zhang01成功加入 现在有1人
+
+[11:03:29]
+[ci8FBC] ee
+1
+
+[11:03:29]
+[VNC/I0] eebot_941
+ee成功加入 现在有2人
+
+[11:03:42]
+[3rk9wA] Mr_Zhang01
+不知这次会有什么
+
+[11:03:46]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[11:03:55]
+[3rk9wA] Mr_Zhang01
+（开盲盒）
+
+[11:04:17]
+[ci8FBC] ee
+对了
+
+[11:04:32]
+[3rk9wA] Mr_Zhang01
+嗯
+
+[11:04:49]
+[ci8FBC] ee
+生草机写开头部分的人看不到前一位写什么
+
+[11:04:56]
+[ci8FBC] ee
+只有续写部分的能看到
+
+[11:05:02]
+[3rk9wA] Mr_Zhang01
+呵呵
+
+[11:05:03]
+[VNC/I0] eebot_941
+呵呵呵
+
+[11:05:11]
+[Xtn57s] bihaitian
+呵呵呵呵
+
+[11:05:19]
+[Xtn57s] bihaitian
+。
+
+[11:05:26]
+[ci8FBC] ee
+~~真·盲盒~~
+
+[11:05:28]
+[3rk9wA] Mr_Zhang01
+呵呵呵呵呵
+
+[11:05:29]
+[ci8FBC] ee
+。
+
+[11:05:33]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:05:37]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:05:42]
+[3rk9wA] Mr_Zhang01
+啊？
+
+[11:05:45]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[11:05:51]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:05:57]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:06:01]
+[3rk9wA] Mr_Zhang01
+哈哈哈哈
+
+[11:06:06]
+[3rk9wA] Mr_Zhang01
+捉鱼
+
+[11:06:09]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[11:06:25]
+[3rk9wA] Mr_Zhang01
+抓BUG，抓几只
+
+[11:08:25]
+[VNC/I0] eebot
+2022.06.04 11:08:24
+
+[11:08:25]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[11:08:28]
+[/yeqZD] KiloMxmxxx
+。。。
+
+[11:08:31]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:08:35]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:08:35]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[11:08:39]
+[3rk9wA] Mr_Zhang01
+哈哈哈哈哈
+
+[11:08:42]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:08:46]
+[Xtn57s] bihaitian
+.
+
+[11:08:48]
+[3rk9wA] Mr_Zhang01
+啊？
+
+[11:08:53]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:08:55]
+[3rk9wA] Mr_Zhang01
+。
+
+[11:09:01]
+[3rk9wA] Mr_Zhang01
+我去？
+
+[11:09:05]
+[3rk9wA] Mr_Zhang01
+刑
+
+[11:09:11]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈
+
+[11:09:18]
+[3rk9wA] Mr_Zhang01
+烹饪观赏鱼
+
+[11:09:30]
+[3rk9wA] Mr_Zhang01
+^readme
+
+[11:09:42]
+[ci8FBC] eee
+立夏是鱼的熟期
+
+[11:09:53]
+[3rk9wA] Mr_Zhang01
+......
+
+[11:09:53]
+[ci8FBC] eee
+（站长走好）
+
+[11:10:02]
+[3rk9wA] Mr_Zhang01
+你也是
+
+[11:10:15]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈哈
+
+[11:10:38]
+[3rk9wA] Mr_Zhang01
+我也走好
+
+[11:10:43]
+[3rk9wA] Mr_Zhang01
+各位安康
+
+[11:10:47]
+[3rk9wA] Mr_Zhang01
+别学我们
+
+[11:10:57]
+[Xtn57s] bihaitian
+.
+
+[11:11:25]
+[3rk9wA] Mr_Zhang
+>ZhangHelper whispered: 亲爱的用户，您好。XChat全体管理员祝您以及您的家人：端午安康！
+
+[11:11:35]
+[3rk9wA] Mr_Zhang
+这个欢迎语怎么样？
+
+[11:11:36]
+[ci8FBC] eee
+hi yooooooooooo
+
+[11:11:42]
+[ci8FBC] eee
+刑
+
+[11:11:42]
+[3rk9wA] Mr_Zhang
+hi yoooooooooooooo
+
+[11:11:51]
+[3rk9wA] Mr_Zhang
+死神没有收留我
+
+[11:11:57]
+[3rk9wA] Mr_Zhang
+我没走好
+
+[11:12:02]
+[3rk9wA] Mr_Zhang
+红红火火恍恍惚惚
+
+[11:12:14]
+[Xtn57s] bihaitian
+（走得不好）
+
+[11:12:25]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈
+
+[11:12:38]
+[zhYYDG] Light_s
+DPG来了我的世界服务器
+
+[11:12:58]
+[3rk9wA] Mr_Zhang
+管理员可以使用 ^set_welcome 统一修改欢迎语
+
+[11:13:02]
+[ci8FBC] eee
+https://drive.noire.cc/s/dgwBsA/text?name=%5Bmaggie%5D%20sbres2.txt
+
+[11:13:04]
+[VNC/I0] eebot
+@eee 爱丽丝的记事本
+https://drive.noire.cc/s/dgwBsA/text?name=%5Bmaggie%5D%20sbres2.txt
+
+[11:13:23]
+[ci8FBC] eee
+wow
+
+[11:13:25]
+[VNC/I0] eebot
+·
+msmset0的博客
+https://www.cnblogs.com/MemsetZero/
+
+[11:13:56]
+[VNC/I0] eebot
+hi yo eee
+
+[11:14:14]
+[ci8FBC] eee
+统计
+
+[11:15:00]
+[ci8FBC] eee
+所有可能性（欢迎投稿）：
+https://drive.noire.cc/s/dgwBsA/text?name=%5Bmaggie%5D%20sbres2.txt
+
+[11:15:02]
+[VNC/I0] eebot
+@eee 爱丽丝的记事本
+https://drive.noire.cc/s/dgwBsA/text?name=%5Bmaggie%5D%20sbres2.txt
+
+[11:15:15]
+[ci8FBC] eee
+PS：在里面修改是保存不了的
+
+[11:17:06]
+[ci8FBC] eee
+hi yooooooooo
+
+[11:17:20]
+[3rk9wA] Mr_Zhang
+hi yoooooooooooooooooooooooo
+
+[11:17:25]
+[Xtn57s] bihaitian
+so，，，怎么改呢
+
+[11:17:53]
+[ci8FBC] eee
+@bihaitian https://note.ms/sbsbs
+
+[11:17:56]
+[VNC/I0] eebot
+@eee PleaseWait...|Cloudflare
+https://note.ms/sbsbs
+
+[11:17:58]
+[ci8FBC] eee
+放到这里面吧
+
+[11:18:03]
+[ci8FBC] eee
+刷新保存
+
+[11:18:51]
+[Xtn57s] bihaitian
+oker
+
+[11:19:31]
+[VNC/I0] eebot
+看什么看还不快去敲代码!!
+
+[11:19:39]
+[ci8FBC] eee
+hi yooooooooo
+
+[11:19:54]
+[VNC/I0] eebot
+2022.06.04 11:19:54
+
+[11:19:54]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[11:19:57]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[11:20:04]
+[ci8FBC] eee
+在线
+
+[11:20:10]
+[Admin] fish
+hi yooooooooooooooooo
+
+[11:20:12]
+[Admin] fish
+guruguru
+
+[11:20:20]
+[ci8FBC] eee
+hi yooooooooooooooooooooooooo
+
+[11:20:47]
+[ci8FBC] eee
+web
+
+[11:20:49]
+[3rk9wA] Mr_Zhang
+hi yoooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+[11:21:03]
+[Admin] fish
+就是说这个yo怎么越来越离谱了
+
+[11:21:15]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[11:21:15]
+[VNC/I0] eebot
+草哈哈哈
+
+[11:21:18]
+[ci8FBC] eee
+web
+
+[11:21:20]
+[Admin] fish
+是不是可以拓展下hi
+
+[11:21:26]
+[Admin] fish
+比如hiiiiiiiiiiiiiiiiii yooooooooooooooooooo
+
+[11:21:29]
+[Admin] fish
+哈哈哈哈哈哈哈
+
+[11:21:30]
+[3rk9wA] Mr_Zhang
+快进到yo刷满屏幕
+
+[11:21:34]
+[Admin] fish
+web
+
+[11:21:37]
+[3rk9wA] Mr_Zhang
+web
+
+[11:21:41]
+[3rk9wA] Mr_Zhang
+？
+
+[11:21:42]
+[ci8FBC] eee
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+[11:21:49]
+[ci8FBC] eee
+（密集恐惧
+
+[11:22:04]
+[3rk9wA] Mr_Zhang
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yoooooooooooooooooooooooooooooooooooooooooooo
+
+[11:22:14]
+[Xtn57s] bihaitian
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+[11:22:20]
+[Xtn57s] bihaitian
+（）
+
+[11:22:21]
+[/yeqZD] KiloMxmxxx
+？
+
+[11:22:55]
+[/yeqZD] KiloMxmxxx
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+[11:23:00]
+[/yeqZD] KiloMxmxxx
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+[11:23:00]
+[/yeqZD] KiloMxmxxx
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+[11:23:00]
+[/yeqZD] KiloMxmxxx
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+[11:23:01]
+[/yeqZD] KiloMxmxxx
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+[11:23:01]
+[/yeqZD] KiloMxmxxx
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+[11:23:02]
+[3rk9wA] ZhangHelper
+@KiloMxmxxx 请冷静，请休息5秒，在这5秒内，==不要发送任何信息==，谢谢合作。
+
+[11:23:02]
+[/yeqZD] KiloMxmxxx
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+[11:24:09]
+[VNC/I0] eebot
+hi eee
+
+[11:24:21]
+[3rk9wA] Mr_Zhang
+eebot在XChat看到卢本伟被愤怒的小张处决
+
+[11:24:46]
+[ci8FBC] eee
+好家伙
+
+[11:25:03]
+[Xtn57s] bihaitian
+。。。
+
+[11:25:04]
+[ci8FBC] eee
+加上（
+
+[11:25:11]
+[3rk9wA] Mr_Zhang
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+[11:25:12]
+[Xtn57s] bihaitian
+额
+
+[11:25:14]
+[ci8FBC] eee
+web
+
+[11:25:20]
+[3rk9wA] Mr_Zhang
+web
+
+[11:25:41]
+[/yeqZD] KiloMxmxxx
+奇怪的网络世界
+
+[11:25:55]
+[3rk9wA] Mr_Zhang
+。
+
+[11:26:05]
+[3rk9wA] Mr_Zhang
+生草机
+
+[11:26:05]
+[VNC/I0] eebot
+·
+示例：
+纸片君在厕所吃屎 看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[11:26:05]
+[VNC/I0] eebot
+请用1报数
+
+[11:26:09]
+[ci8FBC] eee
+1
+
+[11:26:09]
+[VNC/I0] eebot
+eee成功加入 现在有1人
+
+[11:26:10]
+[3rk9wA] Mr_Zhang
+开盲盒啦
+
+[11:26:12]
+[3rk9wA] Mr_Zhang
+1
+
+[11:26:12]
+[VNC/I0] eebot
+Mr_Zhang成功加入 现在有2人
+
+[11:26:22]
+[Xtn57s] bihaitian
+1
+
+[11:26:22]
+[VNC/I0] eebot
+bihaitian成功加入 现在有3人
+
+[11:26:36]
+[3rk9wA] Mr_Zhang
+开始游戏
+
+[11:26:37]
+[VNC/I0] eebot
+生草机游戏开始
+
+[11:26:37]
+[VNC/I0] eebot
+@eee @bihaitian @Mr_Zhang 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[11:26:52]
+[3rk9wA] Mr_Zhang
+信息
+
+[11:27:07]
+[3rk9wA] Mr_Zhang
+信息
+
+[11:27:08]
+[Xtn57s] bihaitian
+。。。
+
+[11:27:28]
+[3rk9wA] Mr_Zhang
+。
+
+[11:27:32]
+[3rk9wA] Mr_Zhang
+。
+
+[11:27:37]
+[3rk9wA] Mr_Zhang
+哈哈哈哈哈
+
+[11:29:19]
+[VNC/I0] eebot
+2022.06.04 11:29:19
+
+[11:29:20]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[11:29:20]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[11:29:24]
+[ci8FBC] eee
+不行了 再试一次
+
+[11:29:28]
+[ci8FBC] eee
+生草机
+
+[11:29:29]
+[VNC/I0] eebot
+·
+示例：
+纸片君在厕所吃屎 看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[11:29:29]
+[VNC/I0] eebot
+请用1报数
+
+[11:29:30]
+[ci8FBC] eee
+1
+
+[11:29:31]
+[VNC/I0] eebot
+eee成功加入 现在有1人
+
+[11:29:34]
+[3rk9wA] Mr_Zhang
+1
+
+[11:29:34]
+[VNC/I0] eebot
+Mr_Zhang成功加入 现在有2人
+
+[11:29:35]
+[Xtn57s] bihaitian
+1
+
+[11:29:35]
+[VNC/I0] eebot
+bihaitian成功加入 现在有3人
+
+[11:29:48]
+[ci8FBC] eee
+开始游戏
+
+[11:29:49]
+[VNC/I0] eebot
+生草机游戏开始
+
+[11:29:49]
+[VNC/I0] eebot
+@bihaitian @eee @Mr_Zhang 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[11:29:51]
+[ci8FBC] eee
+信息
+
+[11:30:04]
+[3rk9wA] Mr_Zhang
+信息
+
+[11:30:17]
+[3rk9wA] Mr_Zhang
+信息
+
+[11:30:20]
+[ci8FBC] eee
+信息
+
+[11:30:27]
+[ci8FBC] eee
+等待——
+
+[11:30:42]
+[3rk9wA] Mr_Zhang
+waiting...
+
+[11:30:45]
+[3rk9wA] Mr_Zhang
+信息
+
+[11:30:48]
+[Xtn57s] bihaitian
+...
+
+[11:31:02]
+[Xtn57s] bihaitian
+You whispered to @eebot: bihaitian
+
+VNC/I0 *
+eebot whispered: 失败 包含无效的字符
+
+[11:31:23]
+[ci8FBC] eee
+？？？？？
+
+[11:31:24]
+[ci8FBC] eee
+草
+
+[11:37:29]
+[VNC/I0] eebot
+2022.06.04 11:37:28
+
+[11:37:29]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[11:37:33]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[11:37:39]
+[3rk9wA] Mr_Zhang
+生草机
+
+[11:37:39]
+[VNC/I0] eebot
+·
+示例：
+纸片君在厕所吃屎 看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[11:37:39]
+[VNC/I0] eebot
+请用1报数
+
+[11:37:40]
+[3rk9wA] Mr_Zhang
+1
+
+[11:37:40]
+[VNC/I0] eebot
+Mr_Zhang成功加入 现在有1人
+
+[11:37:43]
+[VNC/I0] eebot
+yo ee
+
+[11:37:52]
+[ci8FBC] ee
+好了 我才发现是我把判定搞反了
+
+[11:37:54]
+[3rk9wA] Mr_Zhang
+hi yooooooooooo
+
+[11:37:56]
+[3rk9wA] Mr_Zhang
+啊
+
+[11:37:57]
+[ci8FBC] ee
+1
+
+[11:37:57]
+[VNC/I0] eebot
+ee成功加入 现在有2人
+
+[11:38:00]
+[ci8FBC] ee
+hi yooooooooooooooo
+
+[11:38:05]
+[ci8FBC] ee
+这下没问题了——
+
+[11:38:07]
+[8LJ4jb] _
+1
+
+[11:38:08]
+[VNC/I0] eebot
+_成功加入 现在有3人
+
+[11:38:25]
+[3rk9wA] Mr_Zhang
+开始游戏
+
+[11:38:26]
+[VNC/I0] eebot
+生草机游戏开始
+
+[11:38:26]
+[VNC/I0] eebot
+@Mr_Zhang @_ @ee 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[11:38:42]
+[3rk9wA] Mr_Zhang
+信息
+
+[11:39:15]
+[ci8FBC] ee
+>VNC/I0 eebot：
+>@Mr_Zhang @_ @ee 
+>注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+现在改了一下 @时的顺序就是接的顺序
+
+[11:39:25]
+[3rk9wA] Mr_Zhang
+呵呵
+
+[11:39:25]
+[VNC/I0] eebot
+hi eeee
+
+[11:39:30]
+[3rk9wA] Mr_Zhang
+懂了
+
+[11:39:34]
+[3rk9wA] Mr_Zhang
+信息
+
+[11:39:49]
+[8LJ4jb] _
+卡
+
+[11:39:51]
+[8LJ4jb] _
+.
+
+[11:39:56]
+[8LJ4jb] _
+pwq
+
+[11:39:58]
+[3rk9wA] Mr_Zhang
+信息
+
+[11:40:11]
+[VNC/I0] eebot
+嗨害嗨 故事新鲜出炉啦
+
+[11:40:11]
+[VNC/I0] eebot
+卢本伟在txt文档里长出了绿油油的草
+
+[11:40:11]
+[VNC/I0] eebot
+·
+详细信息：
+卢本伟（Mr_Zhang）
+在txt文档里（替_写的eebot）
+长出了绿油油的草（ee）
+·
+本次参与人数：3
+
+[11:40:16]
+[ci8FBC] ee
+草哈哈哈哈哈哈
+
+[11:40:18]
+[3rk9wA] Mr_Zhang
+哈哈哈哈
+
+[11:40:25]
+[ci8FBC] ee
+1
+
+[11:40:25]
+[VNC/I0] eebot
+ee成功加入 现在有1人
+
+[11:40:28]
+[ci8FBC] eeee
+1
+
+[11:40:28]
+[VNC/I0] eebot
+eeee成功加入 现在有2人
+
+[11:40:29]
+[3rk9wA] Mr_Zhang
+1
+
+[11:40:29]
+[VNC/I0] eebot
+Mr_Zhang成功加入 现在有3人
+
+[11:40:53]
+[3rk9wA] Mr_Zhang
+开始游戏
+
+[11:40:53]
+[VNC/I0] eebot
+生草机游戏开始
+
+[11:40:53]
+[VNC/I0] eebot
+@Mr_Zhang @eeee @ee 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[11:41:02]
+[VNC/I0] eebot
+hi eeeee
+
+[11:41:31]
+[ci8FBC] ee
+我觉得这个人越多越好玩点
+
+[11:41:36]
+[3rk9wA] Mr_Zhang
+哈哈哈哈哈哈哈哈哈哈
+
+[11:41:44]
+[3rk9wA] Mr_Zhang
+重置？
+
+[11:41:47]
+[3rk9wA] Mr_Zhang
+信息
+
+[11:41:48]
+[ci8FBC] ee
+~~重点在续写~~
+
+[11:41:51]
+[ci8FBC] ee
+都可以啊
+
+[11:41:53]
+[3rk9wA] Mr_Zhang
+哈哈哈哈
+
+[11:41:53]
+[VNC/I0] eebot
+哈哈哈哈草
+
+[11:41:58]
+[3rk9wA] Mr_Zhang
+重置
+
+[11:42:00]
+[ci8FBC] ee
+重置游戏
+
+[11:42:00]
+[VNC/I0] eebot
+生草机已重置
+
+[11:42:00]
+[VNC/I0] eebot
+请输入1重新报数
+
+[11:42:02]
+[ci8FBC] ee
+1
+
+[11:42:02]
+[VNC/I0] eebot
+ee成功加入 现在有1人
+
+[11:42:03]
+[3rk9wA] Mr_Zhang
+1
+
+[11:42:03]
+[VNC/I0] eebot
+Mr_Zhang成功加入 现在有2人
+
+[11:42:04]
+[ci8FBC] eeee
+1
+
+[11:42:04]
+[VNC/I0] eebot
+eeee成功加入 现在有3人
+
+[11:42:04]
+[3rk9wA] ZhangHelper
+@eebot 请冷静，请休息5秒，在这5秒内，==不要发送任何信息==，谢谢合作。
+
+[11:42:08]
+[ci8FBC] eeeee
+1
+
+[11:42:08]
+[VNC/I0] eebot
+eeeee成功加入 现在有4人
+
+[11:42:42]
+[ci8FBC] ee
+还有人吗
+
+[11:42:48]
+[3rk9wA] Mr_Zhang
+无
+
+[11:42:59]
+[3rk9wA] Mr_Zhang
+开始游戏？
+
+[11:43:08]
+[3rk9wA] Mr_Zhang
+开始游戏
+
+[11:43:09]
+[VNC/I0] eebot
+生草机游戏开始
+
+[11:43:09]
+[VNC/I0] eebot
+@eeee @ee @Mr_Zhang @eeeee 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[11:43:16]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[11:43:17]
+[VNC/I0] eebot
+哈哈哈嗝-
+
+[11:43:25]
+[3rk9wA] Mr_Zhang
+其实就两个人
+
+[11:43:47]
+[ci8FBC] ee
+私聊真好玩
+
+[11:43:50]
+[3rk9wA] Mr_Zhang
+信息
+
+[11:43:55]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[11:46:17]
+[VNC/I0] eebot
+2022.06.04 11:46:16
+
+[11:46:17]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[11:46:18]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[11:46:25]
+[ci8FBC] ee
+在线
+
+[11:46:25]
+[3rk9wA] Mr_Zhang
+生草机
+
+[11:46:26]
+[VNC/I0] eebot
+·
+示例：
+纸片君在厕所吃屎 看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[11:46:26]
+[VNC/I0] eebot
+请用1报数
+
+[11:46:30]
+[3rk9wA] Mr_Zhang
+1
+
+[11:46:30]
+[VNC/I0] eebot
+Mr_Zhang成功加入 现在有1人
+
+[11:46:32]
+[ci8FBC] ee
+1
+
+[11:46:32]
+[VNC/I0] eebot
+ee成功加入 现在有2人
+
+[11:46:38]
+[3rk9wA] Mr_Zhang
+在线
+
+[11:47:17]
+[3rk9wA] Mr_Zhang
+开始游戏
+
+[11:47:17]
+[VNC/I0] eebot
+人数不足 至少要有3个人
+
+[11:47:19]
+[zhYYDG] Light_s
+1
+
+[11:47:19]
+[VNC/I0] eebot
+Light_s成功加入 现在有3人
+
+[11:47:19]
+[3rk9wA] Mr_Zhang
+1
+
+[11:47:20]
+[VNC/I0] eebot
+Mr_Zhang已经报过数了 现在有3人
+
+[11:47:28]
+[3rk9wA] Mr_Zhang
+开始？
+
+[11:47:37]
+[ci8FBC] ee
+1
+
+[11:47:38]
+[VNC/I0] eebot
+ee已经报过数了 现在有3人
+
+[11:47:40]
+[ci8FBC] ee
+OKOK
+
+[11:47:43]
+[zhYYDG] Light_s
+鸡汤来咯
+
+[11:47:47]
+[3rk9wA] Mr_Zhang
+开始游戏
+
+[11:47:48]
+[VNC/I0] eebot
+生草机游戏开始
+
+[11:47:48]
+[VNC/I0] eebot
+@Light_s @Mr_Zhang @ee 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[11:47:52]
+[3rk9wA] Mr_Zhang
+开盲盒啦
+
+[11:48:03]
+[ci8FBC] ee
+哈哈哈哈哈哈哈哈哈哈哈
+
+[11:48:18]
+[zhYYDG] Light_s
+?
+
+[11:48:46]
+[VNC/I0] eebot
+嗨害嗨 故事新鲜出炉啦
+
+[11:48:46]
+[VNC/I0] eebot
+eebot在在天堂试图吃鱼失败 被鱼反吃了
+
+[11:48:46]
+[VNC/I0] eebot
+·
+详细信息：
+eebot（Light_s）
+在在天堂（Mr_Zhang）
+试图吃鱼失败 被鱼反吃了（ee）
+·
+本次参与人数：3
+
+[11:48:53]
+[ci8FBC] ee
+哈哈哈哈哈哈哈哈哈哈
+
+[11:48:58]
+[zhYYDG] Light_s
+噗
+
+[11:49:08]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[11:49:14]
+[ci8FBC] ee
+eebot：惨
+
+[11:49:17]
+[3rk9wA] Mr_Zhang
+盲盒出炉
+
+[11:49:40]
+[ci8FBC] ee
+赞
+
+[11:50:03]
+[zhYYDG] Light_s
+但是三个人都必须写完才能得到结果
+
+[11:50:32]
+[ci8FBC] ee
+可以不写~到点了eb帮忙写
+
+[11:50:36]
+[3rk9wA] Mr_Zhang
+^readme
+
+[11:50:40]
+[ci8FBC] ee
+~~防止有人故意卡进度~~
+
+[11:50:51]
+[ci8FBC] ee
+或者卡掉线导致没法写
+
+[11:50:54]
+[3rk9wA] Mr_Zhang
+禁止的行为
+乱刷屏（包括发长信息之前没有提醒）
+传播色情内容
+随意攻击某人
+非网络原因进进出出
+所有违反中华人民共和国的内容
+诋毁线圈团队以及XChat（不包括提出问题和建议）
+
+[11:50:55]
+[zhYYDG] Light_s
+yep
+
+[11:50:59]
+[3rk9wA] Mr_Zhang
+是啊
+
+[11:51:04]
+[ci8FBC] ee
+wowoc
+
+[11:51:15]
+[3rk9wA] Mr_Zhang
+这个规则应该加一条
+
+[11:51:29]
+[ci8FBC] ee
+wowoc
+
+[11:51:50]
+[3rk9wA] Mr_Zhang
+诋毁线圈团队以及XChat（包括在其他聊天室，虽远必诛）
+
+[11:52:02]
+[ci8FBC] ee
+可以可以
+
+[11:52:13]
+[3rk9wA] Mr_Zhang
+这里点名某只猪
+
+[11:52:42]
+[ci8FBC] ee
+猪：惨
+
+[11:52:43]
+[edDiBU] 4n0n4me
+这没办法啊
+
+[11:52:46]
+[edDiBU] 4n0n4me
+这里的规则
+
+[11:52:49]
+[edDiBU] 4n0n4me
+不能约束外界
+
+[11:52:57]
+[3rk9wA] Mr_Zhang
+所以
+
+[11:53:01]
+[3rk9wA] Mr_Zhang
+等他来了
+
+[11:53:07]
+[edDiBU] 4n0n4me
+好家伙
+
+[11:53:09]
+[edDiBU] 4n0n4me
+可以
+
+[11:53:13]
+[3rk9wA] Mr_Zhang
+第一时间惩戒
+
+[11:53:17]
+[zhYYDG] Light_s
+你们知道怎么在命令行里输出彩色字体吗
+
+[11:53:33]
+[VNC/I0] eebot_479
+awa eb的昵称卡在里面了
+
+[11:53:33]
+[VNC/I0] eebot
+hey eebot_479
+
+[11:53:33]
+[VNC/I0] eebot_479
+awa eb的昵称卡在里面了
+
+[11:53:33]
+[VNC/I0] eebot_479
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[11:53:33]
+[VNC/I0] eebot
+hey eebot_479
+
+[11:53:33]
+[VNC/I0] eebot_479
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[11:53:34]
+[zhYYDG] Light_s
+要我告诉你们吗
+
+[11:53:34]
+[zhYYDG] Light_s
+要我告诉你们吗
+
+[11:53:41]
+[VNC/I0] eebot
+看什么看还不快去敲代码!!
+
+[11:53:41]
+[VNC/I0] eebot
+看什么看还不快去敲代码!!
+
+[11:53:41]
+[VNC/I0] eebot_479
+看什么看还不快去敲代码!!
+
+[11:53:41]
+[VNC/I0] eebot_479
+看什么看还不快去敲代码!!
+
+[11:53:44]
+[Admin] fish
+guruguru
+
+[11:53:44]
+[Admin] fish
+guruguru
+
+[11:53:53]
+[3rk9wA] Mr_Zhang
+guruguruguru
+
+[11:53:53]
+[3rk9wA] Mr_Zhang
+guruguruguru
+
+[11:54:09]
+[3rk9wA] Mr_Zhang
+诋毁线圈团队以及XChat（包括在其他聊天室，虽远必诛）
+
+[11:54:09]
+[3rk9wA] Mr_Zhang
+诋毁线圈团队以及XChat（包括在其他聊天室，虽远必诛）
+
+[11:54:13]
+[VNC/I0] eebot
+2022.06.04 11:54:12
+
+[11:58:04]
+[VNC/I0] eebot
+2022.06.04 11:58:03
+
+[11:58:04]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[11:58:06]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[11:58:19]
+[ci8FBC] ee
+已经加上去了
+
+[11:58:48]
+[ci8FBC] ee
+~~但
+
+[11:58:56]
+[ci8FBC] ee
+~~但r到的概率未知~~
+
+[11:58:58]
+[ci8FBC] ee
+。。。
+
+[11:59:04]
+[ci8FBC] ee
+咳咳
+
+[11:59:04]
+[VNC/I0] eebot
+咳咳咳
+
+[11:59:07]
+[edDiBU] 4n0n4me
+~~呼吁言论自由~~
+
+[11:59:10]
+[ci8FBC] ee
+。。。
+
+[11:59:26]
+[3rk9wA] Mr_Zhang
+。
+
+[11:59:28]
+[3rk9wA] Mr_Zhang
+。
+
+[11:59:37]
+[3rk9wA] Mr_Zhang
+各位一起r？
+
+[11:59:46]
+[ci8FBC] ee
+~~小心刷屏~~
+
+[11:59:47]
+[3rk9wA] Mr_Zhang
+去 ?bot 
+
+[12:59:49]
+[VNC/I0] eebot
+2022.06.04 12:59:48
+
+[12:59:49]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[12:59:50]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[12:59:59]
+[3rk9wA] XChat_fow_Windows
+Hello World !
+
+[13:00:04]
+[3rk9wA] Mr_Zhang
+OK
+
+[13:00:10]
+[3rk9wA] Mr_Zhang
+终于成功啦！！！
+
+[13:00:20]
+[Admin] fish
+ohhhhhhhhhhhh
+
+[13:01:59]
+[3rk9wA] XChat_fow_Windows
+Hello World !
+
+[13:02:38]
+[8LJ4jb] _
+hoooo
+
+[13:03:38]
+[8LJ4jb] _
+i
+
+[13:03:42]
+[3rk9wA] XChat_for_Windows
+Hello World !
+
+[13:03:46]
+[3rk9wA] XChat_for_Windows
+test
+
+[13:03:50]
+[3rk9wA] XChat_for_Windows
+测试
+
+[13:03:54]
+[3rk9wA] XChat_for_Windows
+你好
+
+[13:03:59]
+[8LJ4jb] _
+goooog
+
+[13:03:59]
+[VNC/I0] eebot
+hi yo 4n0n4me
+
+[13:04:00]
+[3rk9wA] XChat_for_Windows
+能看到吗？
+
+[13:04:03]
+[ci8FBC] ee
+能
+
+[13:04:05]
+[8LJ4jb] _
+ye
+
+[13:04:05]
+[ci8FBC] ee
+hi yoooooooooooooooooo
+
+[13:04:12]
+[8LJ4jb] _
+oooooo
+
+[13:04:14]
+[3rk9wA] XChat_for_Windows
+hi yoooooooooooooooooooooooooooooo
+
+[13:04:19]
+[8LJ4jb] _
+.
+
+[13:04:20]
+[3rk9wA] XChat_for_Windows
+我成功啦！
+
+[13:04:30]
+[zhYYDG] Light_s
+加入了那个vs有什么用
+
+[13:04:32]
+[3rk9wA] XChat_for_Windows
+我重启一下
+
+[13:04:34]
+[Admin] fish
+ohhhhhhhhhhhhhhh
+
+[13:04:37]
+[ci8FBC] ee
+ohhhhhhhhhhhhhhhhh
+
+[13:04:39]
+[8LJ4jb] _
+&emsp;
+
+[13:04:52]
+[Admin] fish
+@Light_s 用来看maggie写代码
+
+[13:05:01]
+[zhYYDG] Light_s
+怎么看
+
+[13:05:08]
+[edDiBU] 4n0n4me
+一剑寒西北
+
+[13:05:09]
+[Admin] fish
+话说为什么maggie不用qt
+
+[13:05:14]
+[8LJ4jb] _
+?
+
+[13:05:15]
+[3rk9wA] XChat_for_Windows
+TEST
+
+[13:05:17]
+[Admin] fish
+qt稍微高级一点
+
+[13:05:25]
+[Admin] fish
+@XChat_for_Windows 你成功啦！！
+
+[13:05:29]
+[3rk9wA] XChat_for_Windows
+应该成功了
+
+[13:05:29]
+[zhYYDG] Light_s
+guietta = Easy qt
+
+[13:05:40]
+[8LJ4jb] _
+i
+
+[13:05:46]
+[zhYYDG] Light_s
+@fish 为什么我进了vs只有一个图标
+
+[13:05:46]
+[3rk9wA] XChat_for_Windows
+我应该加上按下回车自动发送功能
+
+[13:05:54]
+[3rk9wA] XChat_for_Windows
+不必点击发送按钮
+
+[13:06:10]
+[zhYYDG] Light_s
+@XChat_for_Windows bind("<Return>",send)？
+
+[13:06:15]
+[8LJ4jb] _
+.?
+
+[13:06:20]
+[zhYYDG] Light_s
+ctrltext.bind
+
+[13:08:13]
+[zhYYDG] Light_s
+```python
+class B(_DeferredCreationWidget):
+    '''Text button or image+optional text button'''
+
+    def __init__(self, text_or_filename, text=''):
+        self._text_or_filename = text_or_filename
+        self._text = text
+
+    def create(self, gui):
+        fullpath, name = _image_fullpath(gui, self._text_or_filename)
+        if fullpath:
+            return (QPushButton(QIcon(fullpath), self._text), name)
+        else:
+            return (QPushButton(self._text_or_filename), name)
+
+[13:08:20]
+[zhYYDG] Light_s
+草率的button
+
+[13:08:37]
+[3rk9wA] XChat_for_Windows
+。。。
+
+[13:08:49]
+[3rk9wA] XChat_for_Windows
+等下
+
+[13:08:58]
+[3rk9wA] XChat_for_Windows
+表情会不会卡死程序？
+
+[13:09:16]
+[ci8FBC] ee
+改了 加上了try
+
+[13:09:22]
+[3rk9wA] XChat_for_Windows
+嗯
+
+[13:09:43]
+[zhYYDG] Light_s
+长时间的连接tk窗口似乎会冻结
+
+[13:09:44]
+[8LJ4jb] _
+@eebot
+
+[13:09:44]
+[VNC/I0] eebot
+_有事吗
+
+[13:09:46]
+[ci8FBC] ee
+wow
+
+[13:09:54]
+[8LJ4jb] _
+owo
+
+[13:10:12]
+[ci8FBC] ee
+u.u
+
+[13:10:20]
+[ci8FBC] ee
+怪了 不会随机
+
+[13:10:35]
+[8LJ4jb] _
+uwu
+
+[13:10:47]
+[8LJ4jb] _
+UwU
+
+[13:10:55]
+[8LJ4jb] _
+AwA
+
+[13:11:05]
+[zhYYDG] Light_s
+guietta提供了execute_in_background(func, args=(), callback=None)
+
+[13:11:22]
+[3rk9wA] XChat_for_Windows
+？
+
+[13:11:56]
+[VNC/I0] eebot_242
+awa eb的昵称卡在里面了
+
+[13:11:57]
+[VNC/I0] eebot_242
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[13:12:00]
+[ci8FBC] ee
+u.u
+
+[13:12:00]
+[VNC/I0] eebot_242
+-_-
+
+[13:22:08]
+[VNC/I0] eebot_472
+awa eb的昵称卡在里面了
+
+[13:22:08]
+[VNC/I0] eebot_472
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[13:22:11]
+[ci8FBC] ee
+awa
+
+[13:22:11]
+[VNC/I0] eebot_472
+non
+
+[13:22:17]
+[8LJ4jb] _
+waw
+
+[13:23:43]
+[VNC/I0] eebot_307
+awa eb的昵称卡在里面了
+
+[13:23:44]
+[VNC/I0] eebot_307
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[13:23:48]
+[8LJ4jb] _
+;-;
+
+[13:23:57]
+[hmBtGV] 金三角广场2号楼
+生草机
+
+[13:23:57]
+[VNC/I0] eebot_307
+·
+示例：
+纸片君在厕所吃屎 看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[13:23:57]
+[3rk9wA] Mr_Zhang
+啊
+
+[13:23:58]
+[VNC/I0] eebot_307
+请用1报数
+
+[13:23:59]
+[hmBtGV] 金三角广场2号楼
+1
+
+[13:23:59]
+[VNC/I0] eebot_307
+金三角广场2号楼成功加入 现在有1人
+
+[13:24:00]
+[3rk9wA] Mr_Zhang
+写错了1
+
+[13:24:01]
+[3rk9wA] Mr_Zhang
+1
+
+[13:24:01]
+[VNC/I0] eebot_307
+Mr_Zhang成功加入 现在有2人
+
+[13:24:02]
+[8LJ4jb] _
+?
+
+[13:24:05]
+[8LJ4jb] _
+1
+
+[13:24:05]
+[VNC/I0] eebot_307
+_成功加入 现在有3人
+
+[13:24:07]
+[ci8FBC] ee
+1
+
+[13:24:07]
+[VNC/I0] eebot_307
+ee成功加入 现在有4人
+
+[13:24:09]
+[VNC/I0] eebot_307
+与打撒与时推移
+
+[13:24:10]
+[ci8FBC] ee
+._.
+
+[13:24:10]
+[VNC/I0] eebot_307
+°-°
+
+[13:24:15]
+[hmBtGV] 金三角广场9号楼
+1
+
+[13:24:16]
+[VNC/I0] eebot_307
+金三角广场9号楼成功加入 现在有5人
+
+[13:24:17]
+[ci8FBC] ee
+hi yo
+
+[13:24:20]
+[hmBtGV] 金三角广场9号楼
+开始游戏
+
+[13:24:20]
+[VNC/I0] eebot_307
+生草机游戏开始
+
+[13:24:20]
+[VNC/I0] eebot_307
+@Mr_Zhang @金三角广场2号楼 @金三角广场9号楼 @ee @_ 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[13:24:21]
+[8LJ4jb] _
+eebot
+eebot_472
+eebot_307
+
+[13:24:30]
+[ci8FBC] ee
+在线
+
+[13:24:33]
+[8LJ4jb] _
+._.
+
+[13:24:33]
+[VNC/I0] eebot_307
+o.O
+
+[13:24:38]
+[hmBtGV] 金三角广场2号楼
+信息
+
+[13:24:39]
+[8LJ4jb] _
+o.0
+
+[13:24:39]
+[VNC/I0] eebot_307
+°︶°
+
+[13:24:49]
+[8LJ4jb] _
+waw
+
+[13:24:54]
+[ci8FBC] ee
+awa
+
+[13:24:54]
+[VNC/I0] eebot_307
+O—O
+
+[13:24:55]
+[8LJ4jb] _
+uwu
+
+[13:24:55]
+[VNC/I0] eebot_307
+0u0
+
+[13:24:56]
+[3rk9wA] Mr_Zhang
+信息
+
+[13:24:59]
+[hmBtGV] 金三角广场9号楼
+信息
+
+[13:25:01]
+[ci8FBC] ee
+信息
+
+[13:25:03]
+[8LJ4jb] _
+1.1
+
+[13:25:04]
+[3rk9wA] Mr_Zhang
+信息
+
+[13:25:11]
+[8LJ4jb] _
+<3
+
+[13:25:20]
+[8LJ4jb] _
+:D
+
+[13:25:25]
+[8LJ4jb] _
+owo
+
+[13:25:25]
+[VNC/I0] eebot_307
+0v0
+
+[13:25:33]
+[8LJ4jb] _
+信息
+
+[13:25:36]
+[hmBtGV] 金三角广场2号楼
+信息
+
+[13:25:40]
+[3rk9wA] Mr_Zhang
+信息
+
+[13:26:08]
+[3rk9wA] Mr_Zhang
+信息
+
+[13:26:18]
+[3rk9wA] Mr_Zhang
+信息
+
+[13:26:20]
+[ci8FBC] ee
+信息
+
+[13:26:32]
+[edDiBU] 4n0n4me
+1
+
+[13:26:33]
+[ci8FBC] ee
+芜湖
+
+[13:26:34]
+[hmBtGV] 金三角广场2号楼
+信息
+
+[13:26:34]
+[edDiBU] 4n0n4me
+2
+
+[13:26:34]
+[edDiBU] 4n0n4me
+3
+
+[13:26:35]
+[edDiBU] 4n0n4me
+4
+
+[13:26:36]
+[VNC/I0] eebot_307
+嗨害嗨 故事新鲜出炉啦
+
+[13:26:36]
+[VNC/I0] eebot_307
+小张在大连 打人 啊 多么可爱的小张 多么可爱的大连 eebot笑了笑 然后笑了笑
+
+[13:26:36]
+[VNC/I0] eebot_307
+·
+开头：
+小张（Mr_Zhang）
+在大连（金三角广场2号楼）
+ 打人（金三角广场9号楼）
+·
+续写：
+啊 多么可爱的小张 多么可爱的大连 eebot笑了笑（ee）
+然后笑了笑（_）
+·
+本次参与人数：5
+
+[13:26:36]
+[edDiBU] 4n0n4me
+5
+
+[13:26:42]
+[3rk9wA] Mr_Zhang
+。。。
+
+[13:26:45]
+[8LJ4jb] _
+?
+
+[13:26:45]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[13:26:50]
+[ci8FBC] ee
+1
+
+[13:26:50]
+[VNC/I0] eebot_307
+ee成功加入 现在有1人
+
+[13:26:55]
+[edDiBU] 4n0n4me
+1
+
+[13:26:56]
+[VNC/I0] eebot_307
+4n0n4me成功加入 现在有2人
+
+[13:26:56]
+[3rk9wA] Mr_Zhang
+1
+
+[13:26:56]
+[VNC/I0] eebot_307
+Mr_Zhang成功加入 现在有3人
+
+[13:27:06]
+[8LJ4jb] _
+1
+
+[13:27:06]
+[VNC/I0] eebot_307
+_成功加入 现在有4人
+
+[13:27:14]
+[3rk9wA] ZhangHelper
+@Mr_Zhang01 你的昵称已经绑定识别码“3rk9wA”，所以你可能是冒牌货。拜拜。
+
+[13:27:14]
+[VNC/I0] eebot_307
+hi yo Mr_Zhang01
+
+[13:27:19]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[13:27:19]
+[hmBtGV] 金三角广场2号楼
+1
+
+[13:27:19]
+[VNC/I0] eebot_307
+金三角广场2号楼成功加入 现在有5人
+
+[13:27:36]
+[3rk9wA] Mr_Zhang01
+1
+
+[13:27:36]
+[VNC/I0] eebot_307
+Mr_Zhang01成功加入 现在有6人
+
+[13:27:40]
+[3rk9wA] Mr_Zhang01
+啊
+
+[13:27:45]
+[3rk9wA] Mr_Zhang01
+我还被踢了啊
+
+[13:27:50]
+[ci8FBC] ee
+wow
+
+[13:27:50]
+[VNC/I0] eebot_307
+Q—Q
+
+[13:27:51]
+[3rk9wA] Mr_Zhang01
+开始游戏
+
+[13:27:51]
+[VNC/I0] eebot_307
+生草机游戏开始
+
+[13:27:51]
+[VNC/I0] eebot_307
+@_ @金三角广场2号楼 @Mr_Zhang @ee @Mr_Zhang01 @4n0n4me 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[13:28:14]
+[3rk9wA] Mr_Zhang
+信息
+
+[13:28:20]
+[ci8FBC] ee
+@_@
+
+[13:28:26]
+[zhYYDG] Light_s
+奇奇怪怪
+
+[13:28:31]
+[zhYYDG] Light_s
+```python
+[‘text’]
+B(‘text’)
+QPushButton(‘text’)	‘text’
+
+[13:28:37]
+[3rk9wA] Mr_Zhang
+信息
+
+[13:28:38]
+[8LJ4jb] _
+?
+
+[13:28:43]
+[zhYYDG] Light_s
+官网上说B("text")
+
+[13:28:47]
+[zhYYDG] Light_s
+但是源码里面
+
+[13:28:50]
+[3rk9wA] Mr_Zhang01
+信息
+
+[13:28:53]
+[8LJ4jb] _
+信息
+
+[13:29:05]
+[zhYYDG] Light_s
+```python 
+class B(_DeferredCreationWidget):
+    '''Text button or image+optional text button'''
+
+    def __init__(self, text_or_filename, text=''):
+
+[13:29:06]
+[3rk9wA] Mr_Zhang01
+信息
+
+[13:29:14]
+[edDiBU] 4n0n4me
+？
+
+[13:29:17]
+[8LJ4jb] _
+?
+
+[13:29:22]
+[zhYYDG] Light_s
+...
+
+[13:29:28]
+[zhYYDG] Light_s
+算了，不讨论这个
+
+[13:29:30]
+[8LJ4jb] _
+.
+
+[13:29:35]
+[hmBtGV] 金三角广场2号楼
+信息
+
+[13:29:40]
+[3rk9wA] Mr_Zhang01
+信息
+
+[13:29:46]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[13:29:47]
+[zhYYDG] Light_s
+知道了
+
+[13:29:49]
+[8LJ4jb] _
+.
+
+[13:29:51]
+[ci8FBC] ee
+好家伙
+
+[13:29:53]
+[3rk9wA] Mr_Zhang01
+哈哈哈哈
+
+[13:29:57]
+[3rk9wA] Mr_Zhang01
+刑
+
+[13:29:58]
+[VNC/I0] eebot_307
+嗨害嗨 故事新鲜出炉啦
+
+[13:29:58]
+[VNC/I0] eebot_307
+eebot在437324732没干什么 但是在xc的时候却在烹饪观赏鱼 和xc的大家一起吃 然后站长发现了 站长把观赏鱼救了出来
+
+[13:29:58]
+[VNC/I0] eebot_307
+·
+开头：
+eebot（_）
+在437324732（金三角广场2号楼）
+没干什么（Mr_Zhang）
+·
+续写：
+但是在xc的时候却在烹饪观赏鱼 和xc的大家一起吃（ee）
+然后站长发现了（Mr_Zhang01）
+站长把观赏鱼救了出来（4n0n4me）
+·
+本次参与人数：6
+
+[13:30:04]
+[8LJ4jb] _
+?
+
+[13:30:09]
+[zhYYDG] Light_s
+B是图片和按钮都可以
+
+[13:30:12]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[13:30:24]
+[ci8FBC] ee
+哈哈哈哈哈哈哈哈哈哈哈
+
+[13:30:26]
+[ci8FBC] ee
+好家伙
+
+[13:30:30]
+[zhYYDG] Light_s
+@ee 做个彩云小梦的api
+
+[13:30:35]
+[ci8FBC] ee
+wowoowoococ
+
+[13:30:35]
+[8LJ4jb] _
+h
+
+[13:30:54]
+[ci8FBC] ee
+@Light_s 彩云小梦是那个续写的？
+
+[13:30:58]
+[zhYYDG] Light_s
+yep
+
+[13:31:02]
+[3rk9wA] zhang
+test
+
+[13:31:02]
+[ci8FBC] ee
+wowowoc
+
+[13:31:17]
+[zhYYDG] Light_s
+之前我把《狼》那篇文言文放上去
+
+[13:31:21]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[13:31:21]
+[VNC/I0] eebot_307
+哈哈哈嗝-
+
+[13:31:28]
+[ci8FBC] ee
+好家伙
+
+[13:31:29]
+[zhYYDG] Light_s
+给我写成了白毛狼大开杀戒
+
+[13:31:33]
+[ci8FBC] ee
+草
+
+[13:31:38]
+[zhYYDG] Light_s
+村里的人都死了
+
+[13:31:45]
+[ci8FBC] ee
+wowowowoc
+
+[13:31:46]
+[ci8FBC] ee
+哈哈哈哈哈哈哈哈哈哈哈
+
+[13:31:48]
+[zhYYDG] Light_s
+后来有两个女的跑出去了
+
+[13:31:53]
+[zhYYDG] Light_s
+写了半天
+
+[13:31:57]
+[ci8FBC] ee
+狼 的 反 杀
+
+[13:31:59]
+[zhYYDG] Light_s
+孩子都生出来了
+
+[13:32:05]
+[zhYYDG] Light_s
+结果全被吃了
+
+[13:32:06]
+[ci8FBC] ee
+草
+
+[13:32:15]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[13:32:15]
+[VNC/I0] eebot_307
+哈哈哈草
+
+[13:32:22]
+[8LJ4jb] _
+@ee https://zhuanlan.zhihu.com/p/388455520
+
+[13:32:23]
+[VNC/I0] eebot_307
+@_ None
+https://zhuanlan.zhihu.com/p/388455520
+
+[13:32:39]
+[ci8FBC] ee
+wowowowooc
+
+[13:32:46]
+[8LJ4jb] _
+调用彩云小梦api
+
+[13:32:48]
+[8LJ4jb] _
+waw
+
+[13:33:00]
+[ci8FBC] ee
+我看看
+
+[13:33:10]
+[zhYYDG] Light_s
+告诉你们
+
+[13:33:38]
+[zhYYDG] Light_s
+百度在gitee上放了一个开源的项目，好像是自动分词的
+
+[13:33:46]
+[8LJ4jb] _
+@ee https://open.caiyunapp.com/%E5%BD%A9%E4%BA%91%E5%B0%8F%E6%A2%A6API
+
+[13:33:48]
+[VNC/I0] eebot_307
+@_ CaiyunWiki
+https://open.caiyunapp.com/%E5%BD%A9%E4%BA%91%E5%B0%8F%E6%A2%A6API
+
+[13:33:52]
+[3rk9wA] zhang
+test
+
+[13:34:00]
+[3rk9wA] Mr_Zhang
+测试
+
+[13:34:04]
+[ci8FBC] ee
+wowowoc
+
+[13:34:11]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[13:34:11]
+[VNC/I0] eebot_307
+草哈哈哈
+
+[13:34:14]
+[3rk9wA] Mr_Zhang
+功能
+
+[13:34:34]
+[zhYYDG] Light_s
+彩云小梦上次把我正经文章写成了h文
+
+[13:34:55]
+[8LJ4jb] _
+>zhYYDG Light_s：
+>彩云小梦上次把我正经文章写成了h文
+
+@Light_s +1
+
+[13:34:57]
+[zhYYDG] Light_s
+主要是里面主人公变成了我同学
+
+[13:35:00]
+[zhYYDG] Light_s
+差点绝交
+
+[13:35:01]
+[3rk9wA] Mr_Zhang
+行
+
+[13:35:05]
+[ci8FBC] ee
+哈哈哈哈哈哈哈哈哈哈草
+
+[13:35:05]
+[8LJ4jb] _
+h
+
+[13:35:07]
+[3rk9wA] zhang
+哈哈哈
+
+[13:35:07]
+[VNC/I0] eebot_307
+哈哈哈嗝-
+
+[13:35:14]
+[3rk9wA] zhang
+嘶~
+
+[13:35:21]
+[3rk9wA] zhang
+好奇怪
+
+[13:35:33]
+[3rk9wA] zhang
+怪了啊
+
+[13:35:44]
+[ci8FBC] ee
+wow 彩云小梦API
+
+[13:37:58]
+[3rk9wA] Mr_Zhang
+啊
+
+[13:39:58]
+[ci8FBC] ee
+web
+
+[13:40:02]
+[3rk9wA] Mr_Zhang
+web
+
+[13:40:24]
+[8LJ4jb] _
+?
+
+[13:40:28]
+[8LJ4jb] _
+web
+
+[13:40:36]
+[8LJ4jb] _
+?
+
+[13:40:58]
+[3rk9wA] Mr_Zhang
+^readme
+
+[13:41:06]
+[8LJ4jb] _
+^readme
+
+[13:41:08]
+[3rk9wA] Mr_Zhang
+^readme
+
+[13:41:39]
+[3rk9wA] Mr_Zhang
+^readme
+
+[13:41:42]
+[ci8FBC] ee
+\^readme
+
+[13:41:45]
+[ci8FBC] ee
+^readme
+
+[13:41:58]
+[3rk9wA] Mr_Zhang
+^readme
+
+[13:42:02]
+[edDiBU] 4n0n4me
+^readme
+
+[13:42:06]
+[edDiBU] 4n0n4me
+啥也没有啊
+
+[13:42:10]
+[edDiBU] 4n0n4me
+^readme
+
+[13:42:28]
+[3rk9wA] Mr_Zhang
+^set_readme 文档等待站长审核中，暂时不具有权威性，仅供参考。
+
+[13:42:28]
+[3rk9wA] ZhangHelper
+已修改readme文档描述。
+
+[13:42:37]
+[3rk9wA] Mr_Zhang
+^readme
+
+[13:42:42]
+[VNC/I0] eebot
+2022.06.04 13:42:41
+
+[13:42:42]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[13:42:43]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[13:42:50]
+[3rk9wA] Mr_Zhang
+^readme
+
+[13:42:52]
+[3rk9wA] Mr_Zhang
+OK
+
+[13:43:04]
+[VNC/I0] eebot
+\/nick eb
+
+[13:43:04]
+[VNC/I0] eebot
+代码运行成功
+
+[13:43:20]
+[ci8FBC] ee
+芜湖
+
+[13:43:25]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[13:43:25]
+[VNC/I0] eebot
+哈哈哈嗝-
+
+[13:43:04]
+[ci8FBC] ee
+O-send("/nick eb")
+
+[13:43:36]
+[VNC/I0] eebot
+\/nick eeb
+
+[13:43:36]
+[VNC/I0] eebot
+代码运行成功
+
+[13:43:38]
+[3rk9wA] Mr_Zhang
+啊？
+
+[13:43:39]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[13:43:35]
+[3rk9wA] Mr_Zhang
+O-send("/nick eeb")
+
+[13:43:51]
+[VNC/I0] eebot
+\/move bot
+
+[13:43:51]
+[VNC/I0] eebot
+代码运行成功
+
+[13:43:54]
+[3rk9wA] Mr_Zhang
+啊？？？
+
+[13:43:59]
+[ci8FBC] ee
+/自动改成///
+
+[13:44:02]
+[ci8FBC] ee
+/自动改成//
+
+[13:44:05]
+[3rk9wA] Mr_Zhang
+哈哈
+
+[13:44:11]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[13:43:51]
+[3rk9wA] Mr_Zhang
+O-send("/move bot")
+
+[13:44:13]
+[VNC/I0] eebot
+\/\/move bot
+
+[13:44:13]
+[VNC/I0] eebot
+代码运行成功
+
+[13:44:12]
+[3rk9wA] Mr_Zhang
+O-send("//move bot")
+
+[13:44:18]
+[VNC/I0] eebot
+\/\/\/move bot
+
+[13:44:18]
+[VNC/I0] eebot
+代码运行成功
+
+[13:44:22]
+[3rk9wA] Mr_Zhang
+嘶~
+
+[13:44:27]
+[ci8FBC] ee
+~
+
+[13:44:18]
+[3rk9wA] Mr_Zhang
+O-send("///move bot")
+
+[13:44:34]
+[VNC/I0] eebot
+\^kick Mr_Zhang
+
+[13:44:34]
+[VNC/I0] eebot
+代码运行成功
+
+[13:44:38]
+[3rk9wA] Mr_Zhang
+？？？
+
+[13:44:40]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[13:44:42]
+[3rk9wA] Mr_Zhang
+^help
+
+[13:44:34]
+[3rk9wA] Mr_Zhang
+O-send("^kick Mr_Zhang")
+
+[13:44:46]
+[VNC/I0] eebot
+\^kick Mr_Zhang
+
+[13:44:46]
+[VNC/I0] eebot
+代码运行成功
+
+[13:44:53]
+[ci8FBC] ee
+\^自动改成\^
+
+[13:44:55]
+[3rk9wA] Mr_Zhang
+啥情况？
+
+[13:44:55]
+[ci8FBC] ee
+\^自动改成\\^
+
+[13:45:00]
+[3rk9wA] Mr_Zhang
+啊，这
+
+[13:45:03]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[13:45:04]
+[VNC/I0] eebot
+草哈哈哈哈哈哈
+
+[13:45:09]
+[3rk9wA] Mr_Zhang
+那我就把操作符改一下
+
+[13:45:11]
+[ci8FBC] ee
+~~从根本上解决问题~~
+
+[13:45:14]
+[ci8FBC] ee
+ohhhhhhh no
+
+[13:45:18]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[13:45:20]
+[3rk9wA] Mr_Zhang
+不会的
+
+[13:45:21]
+[ci8FBC] ee
+因为放开权限了
+
+[13:45:26]
+[3rk9wA] Mr_Zhang
+哈哈
+
+[13:45:28]
+[ci8FBC] ee
+普通用户也能用
+
+[13:45:30]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[13:45:30]
+[VNC/I0] eebot
+草哈哈哈哈哈
+
+[13:45:32]
+[3rk9wA] Mr_Zhang
+然后
+
+[13:45:44]
+[ci8FBC] ee
+然后？
+
+[13:45:50]
+[3rk9wA] Mr_Zhang
+O-os.system('shutdown -l')
+
+[13:45:51]
+[VNC/I0] eebot
+咳咳 Mr_Zhang这是在玩火
+
+[13:45:56]
+[3rk9wA] Mr_Zhang
+等下
+
+[13:46:00]
+[3rk9wA] Mr_Zhang
+失礼了！
+
+[13:46:01]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[13:46:09]
+[3rk9wA] Mr_Zhang
+O-os._exit(0)
+
+[13:46:09]
+[VNC/I0] eebot
+咳咳 Mr_Zhang这是在玩火
+
+[13:46:20]
+[3rk9wA] Mr_Zhang
+刑
+
+[13:46:22]
+[ci8FBC] ee
+带os的都不行-
+
+[13:46:24]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[13:46:25]
+[VNC/I0] eebot
+哈哈哈哈哈嗝-
+
+[13:46:27]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[13:44:45]
+[3rk9wA] Mr_Zhang
+O-send("^kick Mr_Zhang")
+
+[13:46:38]
+[VNC/I0] eebot
+代码运行失败
+
+[13:46:42]
+[3rk9wA] Mr_Zhang
+啊
+
+[13:46:45]
+[3rk9wA] Mr_Zhang
+写错了
+
+[13:46:38]
+[3rk9wA] Mr_Zhang
+O-system.exit(0)
+
+[13:46:56]
+[VNC/I0] eebot
+留言
+
+[13:46:56]
+[VNC/I0] eebot
+代码运行成功
+
+[13:47:35]
+[VNC/I0] eebot
+2022.06.04 13:47:34
+
+[13:47:35]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[13:47:37]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[13:47:40]
+[ci8FBC] ee
+差点忘了sys
+
+[13:47:41]
+[VNC/I0] eebot
+留言
+
+[13:47:41]
+[VNC/I0] eebot
+代码运行成功
+
+[13:47:45]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[13:47:52]
+[ci8FBC] ee
+print会自动改成send
+
+[13:48:00]
+[3rk9wA] Mr_Zhang
+Ohhhhhhhhhhh
+
+[13:48:06]
+[ci8FBC] ee
+~~因为在我这边print了你们也看不到~~
+
+[13:48:07]
+[ci8FBC] ee
+哈哈哈
+
+[13:48:08]
+[3rk9wA] Mr_Zhang
+让我找找高危操作
+
+[13:48:11]
+[3rk9wA] Mr_Zhang
+O-
+
+[13:48:11]
+[ci8FBC] ee
+看看
+
+[13:48:11]
+[VNC/I0] eebot
+请勿留空哦
+
+[13:48:56]
+[VNC/I0] eebot
+hi KiloMxmxxx
+
+[13:47:41]
+[3rk9wA] Mr_Zhang
+O-print('留言')
+
+[13:49:18]
+[VNC/I0] eebot
+代码运行失败
+
+[13:49:18]
+[VNC/I0] eebot
+@ee 韩小韩API接口站-免费API数据接口调用服务平台
+https://api.vvhan.com/api/en"
+
+[13:49:52]
+[edDiBU] 4n0n4me
+\^help
+
+[13:49:17]
+[ci8FBC] ee
+O-api="https://api.vvhan.com/api/en"
+se=requests.get(api)
+res=se.json()
+a=res["data"]
+b="Today Is "+a["month"]+" "+a["day"]
+word=b+n+"「"+a["zh"]+"」"+n+"「"+a["en"]+"」"
+send(word)
+
+[13:50:09]
+[VNC/I0] eebot
+代码运行失败
+
+[13:50:09]
+[VNC/I0] eebot
+@ee SuixinAPI-免费数据接口调用平台
+http://api.botwl.cn/api/miyu"
+
+[13:50:15]
+[ci8FBC] ee
+？？？
+
+[13:50:17]
+[ci8FBC] ee
+hi yo
+
+[13:50:27]
+[3rk9wA] Mr_Zhang
+失礼了！
+
+[13:50:05]
+[ci8FBC] ee
+O-
+api="http://api.botwl.cn/api/miyu"
+se=requests.get(api)
+res=se.text
+send(res.replace(' ','\n'))
+
+[13:50:28]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:29]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:29]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:30]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:30]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:30]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:31]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:31]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:32]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:32]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:32]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:33]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:33]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:33]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:34]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:34]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:35]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:35]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:36]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:36]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:36]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:37]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:37]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:37]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:38]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:38]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:39]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:39]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:40]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:40]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:41]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:41]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:42]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:42]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:42]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:43]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:43]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:44]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:44]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:44]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:45]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:45]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:46]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:46]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:47]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:47]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:47]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:48]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:48]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:49]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:49]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:50]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:50]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:50:51]
+[3rk9wA] Mr_Zhang
+O-ws.close()
+
+[13:51:41]
+[VNC/I0] eebot
+2022.06.04 13:51:40
+
+[13:51:41]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[13:51:42]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[13:51:43]
+[VNC/I0] eebot
+代码运行成功
+
+[13:51:50]
+[3rk9wA] Mr_Zhang
+额？
+
+[13:52:52]
+[VNC/I0] eebot
+2022.06.04 13:52:51
+
+[13:52:52]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[13:52:53]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[13:52:59]
+[VNC/I0] eebot
+代码运行成功
+
+[13:53:01]
+[ci8FBC] ee
+？？？
+
+[13:53:04]
+[3rk9wA] Mr_Zhang
+等下
+
+[13:53:05]
+[ci8FBC] ee
+怎么又改了
+
+[13:54:05]
+[VNC/I0] eebot
+2022.06.04 13:54:04
+
+[13:54:05]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[13:54:05]
+[3rk9wA] Mr_Zhang
+^
+
+[13:54:05]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[13:54:05]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[13:54:07]
+[ci8FBC] ee
+O-sys
+
+[13:54:07]
+[VNC/I0] eebot
+咳咳 ee这是在玩火
+
+[13:54:09]
+[ci8FBC] ee
+O-os
+
+[13:54:09]
+[VNC/I0] eebot
+咳咳 ee这是在玩火
+
+[13:54:15]
+[3rk9wA] Mr_Zhang
+O-ws
+
+[13:54:15]
+[VNC/I0] eebot
+咳咳 Mr_Zhang这是在玩火
+
+[13:54:18]
+[3rk9wA] Mr_Zhang
+哈哈
+
+[13:54:29]
+[VNC/I0] eebot
+代码运行失败
+
+[13:54:29]
+[edDiBU] 4n0n4me
+O-play_fire()
+
+[13:54:37]
+[VNC/I0] eebot
+代码运行成功
+
+[13:54:36]
+[3rk9wA] Mr_Zhang
+O-global flower
+
+[13:54:47]
+[VNC/I0] eebot
+代码运行成功
+
+[13:54:49]
+[3rk9wA] Mr_Zhang
+功能
+
+[13:54:57]
+[3rk9wA] Mr_Zhang
+啊？
+
+[13:54:47]
+[3rk9wA] Mr_Zhang
+O-flower=False
+
+[13:54:58]
+[VNC/I0] eebot
+代码运行失败
+
+[13:54:58]
+[ci8FBC] ee
+O-sbs()
+
+[13:55:03]
+[VNC/I0] eebot
+代码运行成功
+
+[13:55:03]
+[ci8FBC] ee
+O-sb.sb()
+
+[13:55:10]
+[VNC/I0] eebot
+代码运行失败
+
+[13:55:10]
+[3rk9wA] Mr_Zhang
+O-sb01.aaa()
+
+[13:55:16]
+[VNC/I0] eebot
+5
+
+[13:55:16]
+[VNC/I0] eebot
+代码运行成功
+
+[13:55:16]
+[edDiBU] 4n0n4me
+O-print(2+3)
+
+[13:55:17]
+[VNC/I0] eebot
+代码运行成功
+
+[13:55:16]
+[ci8FBC] ee
+O-send(sb.sb())
+
+[13:55:20]
+[VNC/I0] eebot
+3
+
+[13:55:20]
+[VNC/I0] eebot
+代码运行成功
+
+[13:55:20]
+[edDiBU] 4n0n4me
+O-print(1+2)
+
+[13:55:24]
+[VNC/I0] eebot
+3.0
+
+[13:55:24]
+[VNC/I0] eebot
+代码运行成功
+
+[13:55:26]
+[3rk9wA] Mr_Zhang
+O=sb
+
+[13:55:24]
+[edDiBU] 4n0n4me
+O-print(1.0+2.0)
+
+[13:55:30]
+[VNC/I0] eebot
+代码运行成功
+
+[20:23:05]
+[VNC/I0] eebot
+ 2022.06.04 20:23:04
+
+[20:23:05]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[20:23:19]
+[GEDhlf] zzzChumo
+@Light just remove gnome
+
+[20:23:21]
+[VNC/I0] eebot
+ hi yo 帅哥
+
+[20:23:28]
+[3rk9wA] Mr_Zhang
+我可不敢擅自把它封==死==
+
+[20:23:30]
+[3rk9wA] Mr_Zhang
+hi
+
+[20:23:36]
+[3rk9wA] Mr_Zhang
+这位来自十字街
+
+[20:23:40]
+[GEDhlf] zzzChumo
+or u can install lxde first
+
+[20:24:03]
+[None] 帅哥
+宝
+
+[20:24:08]
+[None] 帅哥
+你被封禁了
+
+[20:24:23]
+[52AgGu] Arcadia
+得
+
+[20:24:31]
+[3rk9wA] Mr_Zhang
+@帅哥 我知道啊
+
+[20:24:46]
+[GEDhlf] zzzChumo
+真的绝啊
+
+[20:24:49]
+[3rk9wA] Mr_Zhang
+~~正合我意~~
+
+[20:25:04]
+[3rk9wA] Mr_Zhang
+我也不必每天去十字街了
+
+[20:25:14]
+[GEDhlf] zzzChumo
+真心没法说什么
+
+[20:25:17]
+[3rk9wA] Mr_Zhang
+给我电脑释放资源～
+
+[20:25:36]
+[52AgGu] Arcadia
+~~十字街成员们也可以毫无顾忌的骂你了~~
+
+[20:25:50]
+[3rk9wA] Mr_Zhang
+随便谩骂
+
+[20:25:54]
+[3rk9wA] Mr_Zhang
+来了我就封
+
+[20:25:55]
+[GEDhlf] zzzChumo
+搁着一个语c惹到另一个人然后那个人也开始语c了是吧
+
+[20:25:56]
+[zhYYDG] Light
+what's your real name @Arcadia 
+
+[20:26:04]
+[GEDhlf] zzzChumo
+相互语c好评
+
+[20:26:06]
+[52AgGu] Arcadia
+啥
+
+[20:26:08]
+[None] 帅哥
+@Light ？
+
+[20:26:16]
+[zhYYDG] Light
+?!
+
+[20:26:21]
+[None] 帅哥
+纯纯查户口
+
+[20:26:26]
+[3rk9wA] Mr_Zhang
+玩笑罢啦
+
+[20:26:29]
+[52AgGu] Arcadia
+真名？？？
+
+[20:26:30]
+[zhYYDG] Light
+the name you often use
+
+[20:26:37]
+[None] 帅哥
+这人哪国的
+
+[20:26:39]
+[3rk9wA] Mr_Zhang
+要是他们在这里违规
+
+[20:26:40]
+[GEDhlf] zzzChumo
+@Light RealNickname
+
+[20:26:41]
+[52AgGu] Arcadia
+RealNickname？
+
+[20:26:51]
+[GEDhlf] zzzChumo
+简称rnm
+
+[20:26:54]
+[3rk9wA] Mr_Zhang
+我是必须会封的啦
+
+[20:26:56]
+[52AgGu] Arcadia
+（）
+
+[20:26:59]
+[zhYYDG] Light
+RealNickname is a person
+
+[20:27:04]
+[zhYYDG] Light
+>GEDhlf zzzChumo：
+>简称rnm
+
+@zzzChumo hhhha
+
+[20:27:17]
+[None] 帅哥
+@Light 哪国的
+
+[20:27:18]
+[edDiBU] 4n0n4me_
+realnickname就是Arcadia
+
+[20:27:18]
+[VNC/I0] eebot
+ 825
+
+[20:27:23]
+[edDiBU] 4n0n4me_
+《r》
+
+[20:27:32]
+[zhYYDG] Light
+I don't have "input fa"
+
+[20:27:42]
+[52AgGu] Arcadia
+硬核输入法
+
+[20:27:54]
+[52AgGu] Arcadia
+input fa草
+
+[20:28:01]
+[8LJ4jb] _
+.
+
+[20:28:20]
+[zhYYDG] Light
+it's created by 404
+
+[20:28:27]
+[zhYYDG] Light
+"input fa"
+
+[20:28:34]
+[8LJ4jb] _
+input France
+
+[20:28:42]
+[zhYYDG] Light
+i call it "input French"
+
+[20:28:53]
+[zhYYDG] Light
+or "input France"
+
+[20:29:24]
+[GEDhlf] zzzChumo
+人话：老子树莓派炸了，而且没装fcitx，宁有意见？
+
+[20:29:39]
+[zhYYDG] Light
+>GEDhlf zzzChumo：
+>人话：老子树莓派炸了，而且没装fcitx，宁有意见？
+
+@zzzChumo hhhh
+
+[20:29:43]
+[8LJ4jb] _
+hh
+
+[20:29:43]
+[8LJ4jb] _
+h
+
+[20:30:47]
+[GEDhlf] zzzChumo
+ibus就是个垃圾你知道吧
+
+[20:31:15]
+[zhYYDG] Light
+I have known my desktop system is gnome 42
+
+[20:31:20]
+[zhYYDG] Light
+why I can't remove it
+
+[20:31:42]
+[VNC/I0] eebot
+ hey yoo 帅哥
+
+[20:31:52]
+[8LJ4jb] _
+.
+
+[20:32:46]
+[52AgGu] Arcadia
+沈阳啊
+
+[20:33:15]
+[zhYYDG] Light
+it's not correct address
+
+[20:33:32]
+[zhYYDG] Light
+i think
+
+[20:33:36]
+[GEDhlf] zzzChumo
+@Light 先remove gnome-shell
+
+[20:33:49]
+[GEDhlf] zzzChumo
+试试
+
+[20:33:54]
+[VNC/I0] eebot
+ 试试试
+
+[20:34:02]
+[GEDhlf] zzzChumo
+然后remove gnome
+
+[20:34:30]
+[GEDhlf] zzzChumo
+然后apt autoremove
+
+[20:34:58]
+[GEDhlf] zzzChumo
+接下来apt purge gnome
+
+[20:35:20]
+[zhYYDG] Light
+light@light-desktop:~/桌面/lomy/Client/ui$ remove gnome-shell
+remove: command not found
+
+[20:35:29]
+[GEDhlf] zzzChumo
+最后apt autoclean和apt clean
+
+[20:35:36]
+[GEDhlf] zzzChumo
+@Light 。。。
+
+[20:35:55]
+[GEDhlf] zzzChumo
+sudo apt remove gnome-shell
+
+[20:35:57]
+[zhYYDG] Light
+```text
+light@light-desktop:~/桌面$ apt remove gnome-shell
+E: 无法打开锁文件 /var/lib/dpkg/lock-frontend - open (13: Permission denied)
+E: 无法获取 dpkg 前端锁 (/var/lib/dpkg/lock-frontend)，请查看您是否正以 root 用户运行？
+
+[20:36:12]
+[8LJ4jb] _
+.
+
+[20:36:19]
+[GEDhlf] zzzChumo
+>GEDhlf zzzChumo：
+>==sudo== apt remove gnome-shell
+
+[20:36:21]
+[8LJ4jb] _
+h
+
+[20:36:26]
+[zhYYDG] Light
+```text
+下列软件包将被【卸载】：
+  gdm3 gnome-remote-desktop gnome-shell gnome-shell-extension-appindicator
+  gnome-shell-extension-desktop-icons-ng gnome-shell-extension-ubuntu-dock
+  ubuntu-desktop ubuntu-desktop-minimal ubuntu-desktop-raspi ubuntu-session
+下列【新】软件包将被安装：
+  apache2-bin budgie-control-center budgie-control-center-data budgie-core
+  budgie-desktop gir1.2-budgie-1.0 gnome-screensaver gnome-user-share
+  libapache2-mod-dnssd libapr1 libaprutil1 libaprutil1-dbd-sqlite3
+  libaprutil1-ldap libbudgie-plugin0 libbudgie-private0 libbudgietheme0
+  libnss-myhostname libraven0 notification-daemon policykit-1-gnome
+升级了 0 个软件包，新安装了 20 个软件包，要卸载 10 个软件包，有 0 个软件包未被升级。
+需要下载 9,042 kB 的归档。
+解压缩后会消耗 27.1 MB 的额外空间。
+您希望继续执行吗？ [Y/n] 
+
+[20:36:28]
+[zhYYDG] Light
+y?
+
+[20:36:38]
+[GEDhlf] zzzChumo
+y
+
+[20:36:47]
+[8LJ4jb] _
+Y
+
+[20:36:53]
+[zhYYDG] Light
+afraid
+
+[20:36:57]
+[GEDhlf] zzzChumo
+记好刚才发给你的东西
+
+[20:37:06]
+[GEDhlf] zzzChumo
+不然待会没图形界面了
+
+[20:37:50]
+[GEDhlf] zzzChumo
+为了保险你可以先装个lxde和tigervnc
+
+[20:37:57]
+[hmBtGV] 金工街3号楼
+ 98
+
+[20:38:07]
+[zhYYDG] Light
+have written down
+
+[20:39:21]
+[VNC/I0] eebot
+ hello ee
+
+[20:39:28]
+[GEDhlf] zzzChumo
+麻痹
+
+[20:39:29]
+[8LJ4jb] _
+.
+
+[20:39:46]
+[GEDhlf] zzzChumo
+刚才六合疫情防控指挥部给我打电话了
+
+[20:39:52]
+[ci8FBC] ee
+开幕雷击
+
+[20:39:55]
+[GEDhlf] zzzChumo
+傻逼电信
+
+[20:39:55]
+[VNC/I0] eebot
+ 无法理解您的话 获取帮助请发送 功能（
+
+[20:40:02]
+[GEDhlf] zzzChumo
+天天误定位
+
+[20:40:15]
+[zhYYDG] Light
+```text
+light@light-desktop:~/桌面$ sudo apt remove gnome
+正在读取软件包列表... 完成
+正在分析软件包的依赖关系树... 完成
+正在读取状态信息... 完成                 
+软件包 gnome 未安装，所以不会被卸载
+
+[20:40:26]
+[GEDhlf] zzzChumo
+搞得像我真出市了一样
+
+[20:40:27]
+[8LJ4jb] _
+.
+
+[20:40:28]
+[VNC/I0] eebot
+  上次来是5月29日
+
+[20:40:36]
+[ci8FBC] ee
+hi yoooooooooooooo
+
+[20:40:41]
+[8LJ4jb] _
+oo
+
+[20:40:45]
+[GEDhlf] zzzChumo
+@Light 接着继续
+
+[20:40:58]
+[zhYYDG] Light
+what
+
+[20:41:00]
+[zr8srO] CX
+hi
+
+[20:41:06]
+[zhYYDG] Light
+it's failed
+
+[20:41:09]
+[8LJ4jb] _
+QwQ
+
+[20:41:27]
+[GEDhlf] zzzChumo
+purge
+
+[20:41:39]
+[GEDhlf] zzzChumo
+sudo apt purge gnome
+
+[20:42:05]
+[zhYYDG] Light
+i'm executing apt autoremove
+
+[20:42:17]
+[GEDhlf] zzzChumo
+ok
+
+[20:42:34]
+[zhYYDG] Light
+```text
+light@light-desktop:~/桌面$ sudo apt purge gnome
+正在读取软件包列表... 完成
+正在分析软件包的依赖关系树... 完成
+正在读取状态信息... 完成                 
+软件包 gnome 未安装，所以不会被卸载
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 0 个软件包未被升级。
+
+[20:42:50]
+[8LJ4jb] _
+?
+
+[20:42:53]
+[GEDhlf] zzzChumo
+sudo apt autoclean
+
+[20:43:02]
+[zhYYDG] Light
+```text
+light@light-desktop:~/桌面$ sudo apt autoclean
+正在读取软件包列表... 完成
+正在分析软件包的依赖关系树... 完成
+正在读取状态信息... 完成   
+
+[20:43:13]
+[GEDhlf] zzzChumo
+sudo apt clean
+
+[20:43:19]
+[zhYYDG] Light
+light@light-desktop:~/桌面$ sudo apt clean
+
+[20:43:26]
+[zhYYDG] Light
+nothing happens
+
+[20:43:35]
+[GEDhlf] zzzChumo
+ok
+
+[20:43:35]
+[ci8FBC] ee
+QcQ
+
+[20:43:36]
+[zhYYDG] Light
+it skip to next 
+
+[20:43:37]
+[GEDhlf] zzzChumo
+next
+
+[20:43:48]
+[8LJ4jb] _
+QwQ
+
+[20:43:55]
+[GEDhlf] zzzChumo
+sudo apt install lxde
+
+[20:44:16]
+[ci8FBC] ee
+u.u
+
+[20:44:16]
+[VNC/I0] eebot
+ o-o
+
+[20:44:26]
+[zhYYDG] Light
+300+ Mb
+
+[20:44:29]
+[8LJ4jb] _
+owo
+
+[20:44:29]
+[VNC/I0] eebot
+ qwq
+
+[20:44:31]
+[GEDhlf] zzzChumo
+if u afraid ur display will 炸掉
+
+[20:44:44]
+[GEDhlf] zzzChumo
+>zhYYDG Light：
+>300+ Mb
+
+@Light 算很小了
+
+[20:44:53]
+[zhYYDG] Light
+I'll go to do my homework until finish
+
+[20:44:55]
+[GEDhlf] zzzChumo
+gnome一个G
+
+[20:44:59]
+[3rk9wA] XChat_for_Windows
+OK
+
+[20:45:00]
+[zhYYDG] Light
+ok
+
+[20:45:06]
+[8LJ4jb] _
+?
+
+[20:45:23]
+[GEDhlf] zzzChumo
+>GEDhlf zzzChumo：
+>if u afraid ur display will 炸掉
+
+u can install tigervnc
+
+[20:45:31]
+[3rk9wA] XChat_for_Windows
+诸位知道我是谁吗？
+
+[20:45:38]
+[GEDhlf] zzzChumo
+@XChat_for_Windows 小张
+
+[20:46:06]
+[3rk9wA] XChat_for_Windows
+对啦
+
+[20:46:11]
+[ci8FBC] ee
+wow
+
+[20:46:11]
+[VNC/I0] eebot
+ 。-。
+
+[20:46:19]
+[GEDhlf] zzzChumo
+这识别码太好记了
+
+[20:46:22]
+[8LJ4jb] _
+h
+
+[20:46:27]
+[8LJ4jb] _
+._.
+
+[20:46:27]
+[VNC/I0] eebot
+ Q︵Q
+
+[20:46:39]
+[3rk9wA] XChat_for_Windows
+^cb 漂流瓶测试
+
+[20:46:39]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:46:39]
+[3rk9wA] ZhangHelper_New
+抱歉，这好像不在我的工作范围之内。
+
+[20:46:45]
+[GEDhlf] zzzChumo
+h
+
+[20:47:01]
+[8LJ4jb] _
+h
+
+[20:47:07]
+[GEDhlf] zzzChumo
+awa
+
+[20:47:07]
+[VNC/I0] eebot
+ 。-。
+
+[20:47:16]
+[8LJ4jb] _
+waw
+
+[20:47:17]
+[8LJ4jb] _
+awa
+
+[20:47:17]
+[VNC/I0] eebot
+ QuQ
+
+[20:47:20]
+[8LJ4jb] _
+awa
+
+[20:47:20]
+[VNC/I0] eebot
+ n.n
+
+[20:47:22]
+[3rk9wA] XChat_for_Windows
+^cb 漂流瓶测试
+
+[20:47:22]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:47:22]
+[3rk9wA] ZhangHelper_New
+XChat_for_Windows 抛出了一个漂流瓶，不知道谁会收到。
+
+[20:47:22]
+[8LJ4jb] _
+.
+
+[20:47:29]
+[8LJ4jb] _
+^cb .
+
+[20:47:29]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:47:29]
+[3rk9wA] ZhangHelper_New
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[20:47:32]
+[8LJ4jb] _
+hm
+
+[20:47:59]
+[ci8FBC] ee
+^cb 芜湖
+
+[20:48:00]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:48:00]
+[3rk9wA] ZhangHelper_New
+ee 抛出了一个漂流瓶，不知道谁会收到。
+
+[20:48:02]
+[3rk9wA] ZhangHelper_New
+哐！漂流瓶砸在了我的头上。内容：
+芜湖
+
+[20:48:02]
+[3rk9wA] XChat_for_Windows
+漂流瓶到谁那里了？
+
+[20:48:06]
+[ci8FBC] ee
+哈哈哈哈哈哈哈哈哈
+
+[20:48:07]
+[8LJ4jb] _
+?
+
+[20:48:12]
+[ci8FBC] ee
+好好玩
+
+[20:48:14]
+[ci8FBC] ee
+哈哈哈哈哈哈哈哈哈哈哈哈
+
+[20:48:18]
+[8LJ4jb] _
+h
+
+[20:48:27]
+[8LJ4jb] _
+^cb awa
+
+[20:48:27]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:48:28]
+[3rk9wA] ZhangHelper_New
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[20:48:29]
+[8LJ4jb] _
+^cb awa
+
+[20:48:29]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:48:29]
+[3rk9wA] ZhangHelper_New
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[20:48:30]
+[VNC/I0] eebot
+ 然后apt autoremove
+
+[20:48:32]
+[8LJ4jb] _
+?
+
+[20:48:36]
+[ci8FBC] ee
+^cb 收到这个漂流瓶的人都很可爱
+
+[20:48:37]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:48:37]
+[3rk9wA] ZhangHelper_New
+ee 抛出了一个漂流瓶，不知道谁会收到。
+
+[20:48:45]
+[GEDhlf] zzzChumo
+^cb あるい未来は　見　え　な　い
+
+[20:48:46]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:48:58]
+[3rk9wA] 小张
+^cb 谁收到了？
+
+[20:48:59]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:48:59]
+[3rk9wA] ZhangHelper_New
+小张 抛出了一个漂流瓶，不知道谁会收到。
+
+[20:49:00]
+[ci8FBC] ee
+^cb 收到这个漂流瓶的人很可爱
+
+[20:49:00]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:49:00]
+[3rk9wA] ZhangHelper_New
+ee 抛出了一个漂流瓶，不知道谁会收到。
+
+[20:49:03]
+[8LJ4jb] _
+?
+
+[20:49:07]
+[ci8FBC] ee
+idk
+
+[20:49:10]
+[ci8FBC] ee
+不过我没收到
+
+[20:49:14]
+[3rk9wA] 小张
+^cb 谁收到了？
+
+[20:49:14]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:49:14]
+[3rk9wA] ZhangHelper_New
+小张 抛出了一个漂流瓶，不知道谁会收到。
+
+[20:49:17]
+[GEDhlf] zzzChumo
+^cb あるい未来は見えない、ねぇ
+
+[20:49:18]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:49:20]
+[8LJ4jb] _
+?
+
+[20:49:21]
+[8LJ4jb] _
+?
+
+[20:49:22]
+[8LJ4jb] _
+?
+
+[20:49:23]
+[ci8FBC] ee
+？？？
+
+[20:49:26]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[20:49:26]
+[8LJ4jb] _
+h
+
+[20:49:28]
+[8LJ4jb] _
+@zzzChumo 
+
+[20:49:35]
+[ci8FBC] ee
+^cb 这是一个漂流瓶
+
+[20:49:35]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:49:37]
+[GEDhlf] zzzChumo
+^cb あるい未来は見えないねぇ
+
+[20:49:38]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:49:41]
+[GEDhlf] zzzChumo
+？
+
+[20:49:46]
+[8LJ4jb] _
+*
+ZhangHelper_New 离开了聊天室
+
+[20:49:52]
+[GEDhlf] zzzChumo
+hm
+
+[20:49:55]
+[ci8FBC] ee
+对了 漂流瓶可以私聊吗
+
+[20:49:57]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[20:50:40]
+[8LJ4jb] _
+?
+
+[20:51:30]
+[hmBtGV] 金工街3号楼
+1234567890000000000000000000000000000000000000000000000000000000000000000
+
+[20:51:44]
+[zhYYDG] Light
+^today is 2022.6.4:I'm speaking!Maybe you have lost ability to speak??
+
+[20:51:44]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:51:46]
+[hmBtGV] 金工街3号楼
+1234567890000000000000000000000000000000000000000000000000000000000000000
+
+[20:51:49]
+[hmBtGV] 金工街3号楼
+统计
+
+[20:52:03]
+[hmBtGV] 金工街3号楼
+gwgqsldddy！
+
+[20:52:40]
+[GEDhlf] zzzChumo
+i have 智力 disability
+
+[20:52:56]
+[hmBtGV] 金工街3号楼
+成功将官方发帖人今天人
+
+[20:53:14]
+[zhYYDG] Light
+^cb today is 2022.6.4:I'm speaking!Maybe you have lost ability to speak??
+
+[20:53:14]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[20:54:33]
+[hmBtGV] 金工街3号楼
+人
+
+[20:55:07]
+[hmBtGV] 金工街3号楼
+雨不停地换人v有
+
+[21:06:13]
+[ci8FBC] ee
+^cb 漂流瓶
+
+[21:06:13]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[21:09:18]
+[VNC/I0] eebot
+ 看什么看还不快去敲代码!!
+
+[21:09:34]
+[Admin] Fishh
+怎么人这么少
+
+[21:09:36]
+[Admin] Fishh
+奇怪
+
+[21:09:37]
+[8LJ4jb] _
+ho
+
+[21:09:40]
+[8LJ4jb] _
+QwQ
+
+[21:09:57]
+[8LJ4jb] _
+waaaannnnaaa mcccccccccccccccc?
+
+[21:10:52]
+[Admin] Fishh
+稍后的新功能ee一定要用啊
+
+[21:11:03]
+[Admin] Fishh
+开发了3个小时
+
+[21:11:28]
+[Admin] Fishh
+颠覆hc
+
+[21:13:06]
+[VNC/I0] eebot
+ ·
+flaugh的个人博客
+https://xsdboke.mysxl.cn/
+
+[21:14:20]
+[Admin] Fishh
+理论上语音直播功能已经成功了
+
+[21:14:24]
+[ci8FBC] ee
+hi yoooooooooooooooooooooooooooooooooooooooooo
+
+[21:14:24]
+[ci8FBC] ee
+草
+
+[21:14:36]
+[Admin] Fishh
+@ee hi yooooooooooooooooooooo
+
+[21:14:39]
+[ci8FBC] ee
+~~鱼是不是应该先试用示范给我们看~~
+
+[21:14:52]
+[Admin] Fishh
+@ee 我打算让你帮我们示范
+
+[21:14:55]
+[Admin] Fishh
+哈哈哈哈哈哈
+
+[21:15:06]
+[ci8FBC] ee
+OoO
+
+[21:15:09]
+[VNC/I0] eebot
+ 诶嘿哟
+
+[21:15:15]
+[VNC/I0] eebot
+ hi 4n0n4me_
+
+[21:15:17]
+[ci8FBC] ee
+好家伙
+
+[21:15:23]
+[ci8FBC] ee
+hi yoooooooooooooooooooooooooooooooooooooooooooo
+
+[21:15:36]
+[Admin] Fishh
+越来越多的o
+
+[21:15:57]
+[ci8FBC] ee
+i：我不服
+
+[21:16:14]
+[VNC/I0] eebot
+ 2022.06.04 21:16:13
+
+[21:16:14]
+[Admin] Fishh
+好家伙
+
+[21:16:14]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[21:16:23]
+[ci8FBC] ee
+O-O
+
+[21:16:24]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:16:24]
+[VNC/I0] eebot
+ 0.o
+
+[21:17:05]
+[ci8FBC] ee
+O-fish="好吃的鱼"
+
+[21:17:05]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:17:05]
+[VNC/I0] eebot
+ 变量已成功保存
+
+[21:17:13]
+[hmBtGV] 金工街3号楼
+-=-【=-=-
+
+[21:17:16]
+[hmBtGV] 金工街3号楼
+fish
+
+[21:17:24]
+[Admin] Fishh
+好家伙
+
+[21:17:28]
+[Admin] Fishh
+这个变量
+
+[21:17:31]
+[hmBtGV] 金工街3号楼
+O-B站的J="裁剪"
+
+[21:17:31]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:17:31]
+[VNC/I0] eebot
+ 变量已成功保存
+
+[21:17:33]
+[hmBtGV] 金工街3号楼
+B站的J
+
+[21:17:36]
+[hmBtGV] 金工街3号楼
+@eebot B站的J
+
+[21:17:36]
+[VNC/I0] eebot
+ lonelystar
+
+[21:17:41]
+[hmBtGV] 金工街3号楼
+？
+
+[21:17:49]
+[ci8FBC] ee
+O-paper="好吃的纸片"
+
+[21:17:49]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:17:49]
+[VNC/I0] eebot
+ 变量已成功保存
+
+[21:17:53]
+[8LJ4jb] _
+O-O="O-O="
+
+[21:17:54]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:17:54]
+[VNC/I0] eebot
+ 变量已成功保存
+
+[21:17:54]
+[Admin] Fishh
+O-ee=好用的纸
+
+[21:17:55]
+[VNC/I0] eebot
+ name '好用的纸' is not defined
+
+[21:17:55]
+[VNC/I0] eebot
+ 代码运行失败
+
+[21:17:55]
+[hmBtGV] 金工街3号楼
+lonelystar跟我有个毛关系啊
+
+[21:18:06]
+[8LJ4jb] _
+O-send(O-O)
+
+[21:18:06]
+[VNC/I0] eebot
+ unsupported operand type(s) for -: 'str' and 'str'
+
+[21:18:06]
+[VNC/I0] eebot
+ 代码运行失败
+
+[21:18:10]
+[hmBtGV] 金工街3号楼
+@eebot B站的J
+
+[21:18:11]
+[VNC/I0] eebot
+ lonelystar
+
+[21:18:11]
+[8LJ4jb] _
+h
+
+[21:18:13]
+[Admin] Fishh
+好家伙
+
+[21:18:16]
+[hmBtGV] 金工街3号楼
+hmBtGV 金工街3号楼
+@eebot B站的J
+
+VNC/I0 eebot
+lonelystar
+
+[21:18:19]
+[hmBtGV] 金工街3号楼
+这谁弄得
+
+[21:18:23]
+[8LJ4jb] _
+O-all
+
+[21:18:23]
+[VNC/I0] eebot
+ ·
+所有变量如下：
+awa="waw"
+awa="pwq"
+ee=111111111
+O=1
+fish="好吃的鱼"
+B站的J="裁剪"
+paper="好吃的纸片"
+O="O-O="
+
+[21:18:30]
+[8LJ4jb] _
+O-send(O)
+
+[21:18:31]
+[VNC/I0] eebot
+ O-O=
+
+[21:18:31]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:18:40]
+[Admin] Fishh
+《好吃的纸片》
+
+[21:18:49]
+[Admin] Fishh
+好家伙万物皆可食用
+
+[21:18:55]
+[8LJ4jb] _
+O-O="O-O=O"
+
+[21:18:55]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:18:55]
+[VNC/I0] eebot
+ 变量已成功保存
+
+[21:18:58]
+[hmBtGV] 金工街3号楼
+Z-B站的J
+3245325
+
+[21:18:59]
+[VNC/I0] eebot
+ eb记住要这么回答了
+
+[21:18:59]
+[VNC/I0] eebot
+ ·
+问题：Z-B站的J
+经过1次修改：金工街3号楼
+
+[21:19:03]
+[hmBtGV] 金工街3号楼
+？？？
+
+[21:19:05]
+[ci8FBC] ee
+O-send(f"今天的夜宵是{fish}和{paper}")
+
+[21:19:05]
+[VNC/I0] eebot
+ 今天的夜宵是好吃的鱼和好吃的纸片
+
+[21:19:05]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:19:11]
+[ci8FBC] ee
+哈哈哈哈哈哈哈哈
+
+[21:19:16]
+[Admin] Fishh
+哈哈哈哈哈哈哈哈哈草
+
+[21:19:17]
+[8LJ4jb] _
+O-send(O)
+
+[21:19:17]
+[VNC/I0] eebot
+ O-O=O
+
+[21:19:17]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:19:19]
+[8LJ4jb] _
+h
+
+[21:19:22]
+[hmBtGV] 金工街3号楼
+Z-lonelystar
+
+[21:19:22]
+[VNC/I0] eebot
+ 第一行是问题 从第二行开始是回答
+
+[21:19:37]
+[hmBtGV] 金工街3号楼
+Z-lonelystar
+囧丫乙
+
+[21:19:37]
+[VNC/I0] eebot
+ eb记住要这么回答了
+
+[21:19:37]
+[VNC/I0] eebot
+ ·
+问题：Z-lonelystar
+经过1次修改：金工街3号楼
+
+[21:19:45]
+[ci8FBC] ee
+@Fishh 可以是一下O-
+
+[21:19:50]
+[hmBtGV] 金工街3号楼
+O-send(f"今天的夜宵是{fish}和{paper}还有{B站的J}")
+
+[21:19:50]
+[VNC/I0] eebot
+ 今天的夜宵是好吃的鱼和好吃的纸片还有裁剪
+
+[21:19:50]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:19:54]
+[ci8FBC] ee
+在线运行代码——
+
+[21:20:06]
+[ci8FBC] ee
+yeeep
+
+[21:20:18]
+[Admin] Fishh
+手机的痛哈哈哈
+
+[21:20:22]
+[ci8FBC] ee
+~~简直可以开挂哈哈哈~~
+
+[21:20:28]
+[Admin] Fishh
+车上打字打一个错两个
+
+[21:20:30]
+[hmBtGV] 金工街3号楼
+All Is Vanity
+
+[21:20:33]
+[ci8FBC] ee
+哈哈哈哈哈好家伙
+
+[21:20:38]
+[VNC/I0] eebot
+ 使用zzChat访问本站以获得最佳体验！ https://app.zzchat.cf/
+
+[21:20:52]
+[Admin] Fishh
+我妈开车就**像开拖拉机一样
+
+[21:20:56]
+[ci8FBC] ee
+草
+
+[21:20:56]
+[GEDhlf] zzzChumo
+@Fishh
+
+[21:20:57]
+[hmBtGV] 金工街3号楼
+--------------------------------
+
+[21:21:01]
+[ci8FBC] ee
+hi yoooooooooooooooooooooooooooooo
+
+[21:21:07]
+[ci8FBC] ee
+TU-使用zzChat访问本站以获得最佳体验！ https://app.zzchat.cf/
+
+[21:21:25]
+[VNC/I0] eebot
+ /fc.tahczz.ppa//:sptth ！验体佳最得获以站本问访tahCzz用使
+
+[21:21:25]
+[Admin] Fishh
+哈哈哈草
+
+[21:21:25]
+[VNC/I0] eebot
+ @ee zzChat
+https://app.zzchat.cf/
+
+[21:21:27]
+[GEDhlf] zzzChumo
+https://github.com/zzChumo/XChat-doc
+
+[21:21:28]
+[VNC/I0] eebot
+ @zzzChumo GitHub:Wheretheworldbuildssoftware·GitHub
+https://github.com/zzChumo/XChat-doc
+
+[21:21:28]
+[GEDhlf] zzzChumo
+@Fishh 
+
+[21:21:34]
+[3rk9wA] Mr_Zhang
+各位端午安康～
+
+[21:21:37]
+[Admin] Fishh
+@zzzChumo 咋
+
+[21:21:44]
+[Admin] Fishh
+哦文档啊
+
+[21:21:50]
+[Admin] Fishh
+好嘞
+
+[21:21:59]
+[3rk9wA] Mr_Zhang
+@Fishh 顺便审核下我的呗
+
+[21:22:00]
+[hmBtGV] 金工街3号楼
+O-B站的J="J的站B"
+
+[21:22:00]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:22:00]
+[VNC/I0] eebot
+ 变量已成功保存
+
+[21:22:02]
+[Admin] Fishh
+我到家看看
+
+[21:22:07]
+[ci8FBC] ee
+O-nick=nicks1
+
+[21:22:07]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:22:07]
+[VNC/I0] eebot
+ 变量已成功保存
+
+[21:22:19]
+[3rk9wA] ZhangHelper
+出错了！详细信息：不能在这个聊天室找到该用户
+
+[21:22:23]
+[ci8FBC] ee
+O-all
+
+[21:22:23]
+[VNC/I0] eebot
+ ·
+所有变量如下：
+awa="waw"
+awa="pwq"
+ee=111111111
+O=1
+fish="好吃的鱼"
+B站的J="裁剪"
+paper="好吃的纸片"
+O="O-O="
+O="O-O=O"
+B站的J="J的站B"
+nick=nicks1
+
+[21:22:28]
+[Admin] Fishh
+啊啊啊还在~~拖拉机~~车上
+
+[21:22:32]
+[ci8FBC] ee
+哈哈哈哈哈哈哈哈哈哈哈哈草
+
+[21:22:40]
+[ci8FBC] ee
+O-send(nick)
+
+[21:22:40]
+[VNC/I0] eebot
+ ['ZhangHelper', 'Light_s', '金工街3号楼', '_', 'ee', 'CX', 'Fishh', '4n0n4me_', 'eebot', 'zzzChumo', 'Mr_Zhang', 'Mr_Zhang']
+
+[21:22:40]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:22:52]
+[3rk9wA] Mr_Zhang
+^readme
+
+[21:23:08]
+[GEDhlf] zzzChumo
+@Fishh ρ∣∈αsΞ ΓΞΔ≯ ∣τ
+
+[21:23:26]
+[3rk9wA] Mr_Zhang
+O-import main
+
+[21:23:26]
+[VNC/I0] eebot
+ 卡机是不被允许的
+
+[21:23:44]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[21:24:14]
+[3rk9wA] Mr_Zhang
+O-import fanyi
+
+[21:24:14]
+[VNC/I0] eebot
+ No module named 'fanyi'
+
+[21:24:14]
+[VNC/I0] eebot
+ 代码运行失败
+
+[21:24:21]
+[ci8FBC] ee
+ohhhhhhhhhhhhhhhhhh
+
+[21:24:31]
+[ci8FBC] ee
+fanyi是foolishbird的
+
+[21:24:39]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[21:24:56]
+[ci8FBC] ee
+O-sb.sbs()
+
+[21:24:57]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:25:01]
+[ci8FBC] ee
+O-send(sb.sbs())
+
+[21:25:02]
+[VNC/I0] eebot
+ 世末
+
+[21:25:02]
+[3rk9wA] Mr_Zhang
+不知这次有什么新功能
+
+[21:25:02]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:25:21]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[21:25:25]
+[Admin] Fishh
+@Mr_Zhang ee绝对喜欢
+
+[21:25:29]
+[ci8FBC] ee
+不——
+
+[21:25:31]
+[ci8FBC] ee
+no——
+
+[21:25:44]
+[Admin] Fishh
+ee你可一定要用啊哈哈哈哈哈哈
+
+[21:25:52]
+[ci8FBC] ee
+不——
+
+[21:26:00]
+[ci8FBC] ee
+（惨叫）
+
+[21:26:18]
+[GEDhlf] zzzChumo
+不——
+
+[21:26:22]
+[GEDhlf] zzzChumo
+（娇喘）
+
+[21:26:28]
+[3rk9wA] Mr_Zhang
+O-exce('exce('import main')')
+
+[21:26:28]
+[VNC/I0] eebot
+ 卡机是不被允许的
+
+[21:26:34]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[21:26:40]
+[3rk9wA] Mr_Zhang
+环环相扣
+
+[21:26:41]
+[Admin] Fishh
+@eebot 让ee开直播怎么样
+
+[21:26:44]
+[VNC/I0] eebot
+ 真心对她好的人！她终有一天会明白的！加油哦↖(^ω^)↗！
+
+[21:26:49]
+[3rk9wA] Mr_Zhang
+嘶～
+
+[21:26:49]
+[Admin] Fishh
+好家伙
+
+[21:26:50]
+[ci8FBC] ee
+？？？？？？？？？？？
+
+[21:26:52]
+[ci8FBC] ee
+好家伙
+
+[21:27:01]
+[3rk9wA] Mr_Zhang
+反正我不会直播我自己～
+
+[21:27:03]
+[hmBtGV] 金工街3号楼
+Z-111
+你是我
+
+[21:27:04]
+[GEDhlf] zzzChumo
+ntr是吧
+
+[21:27:04]
+[VNC/I0] eebot
+ eb记住要这么回答了
+
+[21:27:04]
+[VNC/I0] eebot
+ ·
+问题：Z-111
+经过1次修改：金工街3号楼
+
+[21:27:06]
+[GEDhlf] zzzChumo
+我喜欢
+
+[21:27:06]
+[hmBtGV] 金工街3号楼
+@eebot 111
+
+[21:27:06]
+[VNC/I0] eebot
+ 111
+
+[21:27:08]
+[Admin] Fishh
+语音直播
+
+[21:27:12]
+[hmBtGV] 金工街3号楼
+@eebot 111
+
+[21:27:13]
+[VNC/I0] eebot
+ 111
+
+[21:27:14]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[21:27:14]
+[VNC/I0] eebot
+ 草哈哈哈
+
+[21:27:22]
+[3rk9wA] Mr_Zhang
+可以啦～
+
+[21:27:24]
+[hmBtGV] 金工街3号楼
+Z-B站AZ
+你是我
+
+[21:27:24]
+[VNC/I0] eebot
+ eb记住要这么回答了
+
+[21:27:24]
+[VNC/I0] eebot
+ ·
+问题：Z-B站AZ
+经过1次修改：金工街3号楼
+
+[21:27:29]
+[hmBtGV] 金工街3号楼
+@eebot B站AZ
+
+[21:27:33]
+[hmBtGV] 金工街3号楼
+？
+
+[21:27:33]
+[zr8srO] CX
+发生了什么
+
+[21:27:33]
+[VNC/I0] eebot
+ 现在的生活太感性 情绪不停泛滥 身心具疲）
+
+[21:27:44]
+[3rk9wA] Mr_Zhang
+没啥
+
+[21:27:44]
+[edDiBU] 4n0n4me_
+怎么用这个语音直播
+
+[21:27:49]
+[zr8srO] CX
+@zzzChumo 发语音
+
+[21:27:52]
+[ci8FBC] ee
+等鱼弄完
+
+[21:27:53]
+[Admin] Fishh
+@CX ee非常喜欢即将推出的新功能
+
+[21:27:57]
+[3rk9wA] Mr_Zhang
+^reload
+
+[21:27:58]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[21:27:59]
+[ci8FBC] ee
+————————
+
+[21:28:00]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[21:28:00]
+[VNC/I0] eebot
+ 哈哈哈草
+
+[21:28:05]
+[VNC/I0] eebot
+  上次来是5月29日
+
+[21:28:09]
+[edDiBU] 4n0n4me_
+等不及要尝试了
+
+[21:28:10]
+[ci8FBC] ee
+MS-fish
+
+[21:28:10]
+[VNC/I0] eebot
+ ．．＿．．．．．．．．．．
+
+[21:28:10]
+[edDiBU] 4n0n4me_
+（
+
+[21:28:18]
+[3rk9wA] Mr_Zhang
+尊重人家的想法，OK？
+
+[21:28:22]
+[ci8FBC] ee
+hi yoooooooooooooo
+
+[21:28:26]
+[Admin] Fishh
+哈哈哈哈哈哈 @Mr_Zhang 
+
+[21:28:27]
+[3rk9wA] Mr_Zhang
+人家有隐私的
+
+[21:28:30]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[21:28:30]
+[VNC/I0] eebot
+ eb不是大便 eb的粉丝也不是苍蝇
+
+[21:28:33]
+[edDiBU] 4n0n4me_
+功能
+
+[21:28:43]
+[ci8FBC] ee
+MS-4n0n4me
+
+[21:28:43]
+[VNC/I0] eebot
+ ．．．．＿＿．＿＿＿＿＿＿．．．．．＿＿＿．
+
+[21:28:44]
+[hmBtGV] 金工街3号楼
+机器人
+
+[21:28:45]
+[GEDhlf] zzzChumo
+我去玩termux了
+
+[21:28:48]
+[GEDhlf] zzzChumo
+你们继续
+
+[21:28:54]
+[3rk9wA] Mr_Zhang
+必须要自愿哦
+
+[21:28:55]
+[hmBtGV] 金工街3号楼
+MS-BZHANDEJ
+
+[21:28:55]
+[VNC/I0] eebot
+ ＿．．．＿＿．．．．．．．＿＿．＿．．．．＿＿＿
+
+[21:29:00]
+[3rk9wA] Mr_Zhang
+MS-102210
+
+[21:29:00]
+[VNC/I0] eebot
+ ．＿＿＿＿＿＿＿＿＿．．＿＿＿．．＿＿＿．＿＿＿＿＿＿＿＿＿
+
+[21:29:17]
+[3rk9wA] Mr_Zhang
+MS-蜜雪冰城
+
+[21:29:17]
+[VNC/I0] eebot
+ 摩斯电码的转换只能是英文或数字
+
+[21:29:18]
+[Admin] Fishh
+@Mr_Zhang 放心，是自愿的
+
+[21:29:21]
+[3rk9wA] Mr_Zhang
+哈哈
+
+[21:29:24]
+[ci8FBC] ee
+哈哈哈哈哈哈哈哈哈草
+
+[21:29:29]
+[Admin] Fishh
+但是我会尽力让ee用的哈哈哈哈哈哈
+
+[21:29:32]
+[Admin] Fishh
+我们
+
+[21:29:34]
+[3rk9wA] Mr_Zhang
+MS-haha
+
+[21:29:34]
+[VNC/I0] eebot
+ ．．．．．＿．．．．．＿
+
+[21:29:35]
+[hmBtGV] 金工街3号楼
+zzzChumo
+_
+ee
+Fishh
+4n0n4me_
+eebot
+zzzChumo
+Mr_Zhang
+Mr_Zhang
+
+[21:29:42]
+[hmBtGV] 金工街3号楼
+这是怎么了
+
+[21:29:43]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[21:29:46]
+[3rk9wA] Mr_Zhang
+刑
+
+[21:30:02]
+[3rk9wA] Mr_Zhang
+？
+
+[21:30:13]
+[GEDhlf] zzzChumo
+@Fishh 搞个视频通话
+
+[21:30:15]
+[hmBtGV] 金工街3号楼
+2个都可以邀请
+
+[21:30:22]
+[GEDhlf] zzzChumo
+我当着你面涩涩
+
+[21:30:28]
+[hmBtGV] 金工街3号楼
+Mr_Zhang
+CX
+Mr_Zhang
+
+[21:30:29]
+[ci8FBC] ee
+wocowocowoc
+
+[21:30:32]
+[ci8FBC] ee
+在线
+
+[21:30:36]
+[hmBtGV] 金工街3号楼
+在线
+
+[21:30:45]
+[ci8FBC] ee
+O-all
+
+[21:30:45]
+[VNC/I0] eebot
+ ·
+所有变量如下：
+awa="waw"
+awa="pwq"
+ee=111111111
+O=1
+fish="好吃的鱼"
+B站的J="裁剪"
+paper="好吃的纸片"
+O="O-O="
+O="O-O=O"
+B站的J="J的站B"
+nick=nicks1
+
+[21:30:47]
+[hmBtGV] 金工街3号楼
+？
+
+[21:31:03]
+[3rk9wA] Mr_Zhang
+哈哈
+
+[21:31:16]
+[ci8FBC] ee
+>fish="好吃的鱼"
+
+完了 鱼被吃了
+
+[21:31:23]
+[3rk9wA] Mr_Zhang
+O-
+
+[21:31:23]
+[VNC/I0] eebot
+ 已清空所有变量
+
+[21:31:27]
+[3rk9wA] Mr_Zhang
+OK啦
+
+[21:31:33]
+[ci8FBC] ee
+芜湖
+
+[21:31:34]
+[edDiBU] 4n0n4me_
+观赏鱼
+
+[21:31:37]
+[edDiBU] 4n0n4me_
+好吃的鱼
+
+[21:31:41]
+[3rk9wA] Mr_Zhang
+。。。
+
+[21:32:04]
+[3rk9wA] Mr_Zhang
+^cb 看到的人举一下手
+
+[21:32:04]
+[3rk9wA] ZhangHelper
+抱歉，这好像不在我的工作范围之内。
+
+[21:32:09]
+[3rk9wA] Mr_Zhang
+嘶～
+
+[21:32:14]
+[3rk9wA] Mr_Zhang
+我忘了
+
+[21:32:22]
+[ci8FBC] ee
+哈哈哈哈哈 这才想起
+
+[21:32:37]
+[3rk9wA] Mr_Zhang
+一会搞个漂流瓶
+
+[21:32:53]
+[ci8FBC] ee
+O-send(float(154))
+
+[21:32:53]
+[VNC/I0] eebot
+ 154.0
+
+[21:32:53]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:33:07]
+[3rk9wA] Mr_Zhang
+对了
+
+[21:33:18]
+[3rk9wA] Mr_Zhang
+是exce函数吧
+
+[21:33:25]
+[ci8FBC] ee
+yess
+
+[21:33:30]
+[ci8FBC] ee
+O-send(bin(102210))
+
+[21:33:31]
+[VNC/I0] eebot
+ 0b11000111101000010
+
+[21:33:31]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:33:39]
+[ci8FBC] ee
+二进制
+
+[21:34:03]
+[ci8FBC] ee
+O-send(oct(102210))
+
+[21:34:04]
+[VNC/I0] eebot
+ 0o307502
+
+[21:34:04]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:34:17]
+[ci8FBC] ee
+>3rk9wA Mr_Zhang：
+>是exce函数吧
+
+@Mr_Zhang 这个真的特别有意思
+
+[21:34:23]
+[3rk9wA] Mr_Zhang
+O-exce('exce('send('test')')')
+
+[21:34:23]
+[VNC/I0] eebot
+ invalid syntax (<string>, line 1)
+
+[21:34:24]
+[VNC/I0] eebot
+ 代码运行失败
+
+[21:34:28]
+[ci8FBC] ee
+可以自定义的又多了哈哈哈
+
+[21:34:31]
+[3rk9wA] Mr_Zhang
+啊
+
+[21:34:34]
+[3rk9wA] Mr_Zhang
+套娃
+
+[21:34:42]
+[ci8FBC] ee
+无效语法（
+
+[21:34:58]
+[ci8FBC] ee
+等等
+
+[21:34:58]
+[VNC/I0] eebot
+ 等等等
+
+[21:35:03]
+[ci8FBC] ee
+是exce
+
+[21:35:08]
+[ci8FBC] ee
+呸
+
+[21:35:10]
+[ci8FBC] ee
+exec
+
+[21:35:35]
+[ci8FBC] ee
+但这个的在线运行被我屏蔽掉了（
+
+[21:35:52]
+[ci8FBC] ee
+O-send(hex(102210))
+
+[21:35:53]
+[VNC/I0] eebot
+ 0x18f42
+
+[21:35:53]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:36:07]
+[3rk9wA] Mr_Zhang
+O-exec('send('aaa')')
+
+[21:36:07]
+[VNC/I0] eebot
+ invalid syntax (<string>, line 1)
+
+[21:36:07]
+[VNC/I0] eebot
+ 代码运行失败
+
+[21:36:09]
+[8LJ4jb] _
+O-send(hex(&#x202e;))
+
+[21:36:09]
+[VNC/I0] eebot
+ invalid syntax (<string>, line 1)
+
+[21:36:09]
+[VNC/I0] eebot
+ 代码运行失败
+
+[21:36:12]
+[8LJ4jb] _
+h
+
+[21:36:26]
+[8LJ4jb] _
+O-send(hex("&#x202e;"))
+
+[21:36:26]
+[VNC/I0] eebot
+ 'str' object cannot be interpreted as an integer
+
+[21:36:26]
+[VNC/I0] eebot
+ 代码运行失败
+
+[21:36:31]
+[ci8FBC] ee
+divmod(130,60)
+
+[21:36:36]
+[ci8FBC] ee
+O-divmod(130,60)
+
+[21:36:36]
+[8LJ4jb] _
+O-send(hex(`&#x202e;`))
+
+[21:36:37]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:36:37]
+[VNC/I0] eebot
+ invalid syntax (<string>, line 1)
+
+[21:36:37]
+[VNC/I0] eebot
+ 代码运行失败
+
+[21:36:43]
+[8LJ4jb] _
+h
+
+[21:36:45]
+[ci8FBC] ee
+O-send(divmod(130,60))
+
+[21:36:46]
+[VNC/I0] eebot
+ (2, 10)
+
+[21:36:46]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:36:50]
+[ci8FBC] ee
+ohhhhhhhhhhhhhhh
+
+[21:36:58]
+[ci8FBC] ee
+这个可以
+
+[21:37:08]
+[GEDhlf] zzzChumo
+O-zz="Chumo"
+
+[21:37:09]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:37:09]
+[VNC/I0] eebot
+ 变量已成功保存
+
+[21:37:10]
+[8LJ4jb] _
+O-send(divmod(1,2)))
+
+[21:37:10]
+[VNC/I0] eebot
+ unmatched ')' (<string>, line 2)
+
+[21:37:11]
+[VNC/I0] eebot
+ 代码运行失败
+
+[21:37:13]
+[8LJ4jb] _
+O-send(divmod(1,2))
+
+[21:37:13]
+[VNC/I0] eebot
+ (0, 1)
+
+[21:37:13]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:37:19]
+[8LJ4jb] _
+O-send(divmod(1,1))
+
+[21:37:20]
+[VNC/I0] eebot
+ (1, 0)
+
+[21:37:20]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:37:24]
+[8LJ4jb] _
+O-send(divmod(0,0))
+
+[21:37:24]
+[VNC/I0] eebot
+ integer division or modulo by zero
+
+[21:37:24]
+[VNC/I0] eebot
+ 代码运行失败
+
+[21:37:26]
+[8LJ4jb] _
+h
+
+[21:37:32]
+[8LJ4jb] _
+O-send(divmod(-1,-1))
+
+[21:37:32]
+[VNC/I0] eebot
+ (1, 0)
+
+[21:37:32]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:37:40]
+[8LJ4jb] _
+O-send(divmod(0.5,0.5))
+
+[21:37:41]
+[VNC/I0] eebot
+ (1.0, 0.0)
+
+[21:37:41]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:37:48]
+[ci8FBC] ee
+把统计中的运行时间改一改-
+
+[21:37:50]
+[8LJ4jb] _
+O-send(divmod(10101010110101,101001010111010))
+
+[21:37:51]
+[VNC/I0] eebot
+ (0, 10101010110101)
+
+[21:37:51]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:38:09]
+[8LJ4jb] _
+O-send(divmod(13346578976543565456864745466,324243242442344242342342342))
+
+[21:38:09]
+[VNC/I0] eebot
+ (41, 52606036407451520828709444)
+
+[21:38:09]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:38:11]
+[8LJ4jb] _
+h
+
+[21:38:29]
+[8LJ4jb] _
+O-send(divmod(13346578976543539394950607929019294969983884935965456864745466,324123305050599939349405243242442344242342342342))
+
+[21:38:29]
+[VNC/I0] eebot
+ (41177474030940, 16649723334486469351417524617304220580684683986)
+
+[21:38:29]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:38:30]
+[8LJ4jb] _
+h
+
+[21:38:51]
+[8LJ4jb] _
+O-send(divmod(94535353453535434234573346578976543539394950607929019294969983884935965456864745466,9554354535336663636436464666364324123305050599939349405243242442344242342342342))
+
+[21:38:51]
+[VNC/I0] eebot
+ (9894, 4569680914484215670965169967920663414779972129096279493343160382031721729613718)
+
+[21:38:51]
+[VNC/I0] eebot
+ 代码运行成功
+
+[21:38:52]
+[8LJ4jb] _
+.
+
+[21:39:24]
+[8LJ4jb] _
+?
+
+[21:39:27]
+[8LJ4jb] _
+hilo?
+
+[21:39:37]
+[ci8FBC] ee
+yo
+
+[21:40:08]
+[VNC/I0] eebot
+ 2022.06.04 21:40:07
+
+[21:40:08]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[21:40:09]
+[ci8FBC] ee
+统计
+
+[21:40:22]
+[ci8FBC] ee
+OKOK
+
+[21:41:15]
+[GEDhlf] zzzChumo
+O-exit()
+
+[21:41:15]
+[VNC/I0] eebot
+ 卡机是不被允许的
+
+[21:41:29]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[21:41:32]
+[ci8FBC] ee
+统计
+
+[21:41:37]
+[ci8FBC] ee
+统计
+
+[21:41:40]
+[GEDhlf] zzzChumo
+TU-toBzz kcin/
+
+[21:41:40]
+[VNC/I0] eebot
+ /nick zzBot
+
+[21:41:46]
+[ci8FBC] ee
+芜湖 真不错
+
+[21:42:03]
+[ci8FBC] ee
+hi yooooooooooo
+
+[21:42:13]
+[3rk9wA] Mr_Zhang
+hi yooooooooooooooooo
+
+[21:42:18]
+[GEDhlf] zzzChumo
+TU-ee kcik^
+
+[21:42:18]
+[VNC/I0] eebot
+ ^kick ee
+
+[21:42:24]
+[ci8FBC] ee
+哈哈哈哈哈
+
+[21:42:27]
+[ci8FBC] ee
+~~想不到吧
+
+[21:42:29]
+[ci8FBC] ee
+~~想不到吧~~
+
+[21:42:35]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[21:42:58]
+[GEDhlf] zzzChumo
+TU-逼傻是我
+
+[21:42:58]
+[VNC/I0] eebot
+ 我是傻逼
+
+[21:43:03]
+[hmBtGV] 金工街3号楼
+ 你
+
+[21:44:01]
+[ci8FBC] ee
+哈哈哈哈哈哈
+
+[21:44:53]
+[VNC/I0] eebot
+ 2022.06.04 21:44:52
+
+[21:44:53]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[21:44:54]
+[ci8FBC] ee
+统计
+
+[21:45:17]
+[VNC/I0] eebot
+ 2022.06.04 21:45:16
+
+[21:45:17]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[21:45:17]
+[hmBtGV] 金工街3号楼
+uieuidsfuidsfdui
+
+[21:45:18]
+[ci8FBC] ee
+统计
+
+[21:45:19]
+[hmBtGV] 金工街3号楼
+统计
+
+[21:45:45]
+[hmBtGV] 金工街3号楼
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+[21:45:47]
+[hmBtGV] 金工街3号楼
+xc
+
+[21:46:20]
+[VNC/I0] eebot
+ 2022.06.04 21:46:19
+
+[21:46:20]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[21:46:22]
+[ci8FBC] ee
+统计
+
+[21:46:28]
+[VNC/I0] eebot
+ hey yo Light
+
+[21:46:28]
+[hmBtGV] 金工街3号楼
+最近Sakura来了吗
+
+[21:46:33]
+[zhYYDG] Light
+yep
+
+[21:46:46]
+[zhYYDG] Light
+@zzzChumo
+
+[21:46:48]
+[hmBtGV] 金工街3号楼
+Sakura最后一次来是什么时候？
+
+[21:46:56]
+[zhYYDG] Light
+I'm success
+
+[21:47:06]
+[VNC/I0] eebot
+ 2022.06.04 21:47:05
+
+[21:47:06]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[21:47:06]
+[ci8FBC] ee
+统计
+
+[21:47:18]
+[ci8FBC] ee
+芜湖 舒服多了
+
+[21:47:24]
+[zhYYDG] Light
+chumo
+
+[21:47:34]
+[ci8FBC] ee
+xc
+
+[21:48:18]
+[zhYYDG] Light
+should i worry something useless is on my system and use my memory?
+
+[21:48:39]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:10]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:10]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:10]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:11]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:12]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:12]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:12]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:13]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:13]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:14]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:14]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:15]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:15]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:15]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:16]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:16]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:17]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:17]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:17]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:18]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:18]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:19]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:19]
+[zhYYDG] Light
+occupy my memory
+
+[21:49:20]
+[zhYYDG] Light
+occupy my memory
+
+[21:54:30]
+[VNC/I0] eebot_622
+ awa eb的昵称卡在里面了
+
+[21:54:36]
+[GEDhlf] zzzChumo
+u can send it to me XD
+
+[21:54:38]
+[zhYYDG] Light
+or
+
+[21:54:38]
+[zhYYDG] Light
+I can download another system
+
+[21:54:43]
+[zhYYDG] Light
+?
+
+[21:54:51]
+[zhYYDG] Light
+is there any system good
+
+[21:54:54]
+[zhYYDG] Light
+chumo
+
+[21:54:56]
+[VNC/I0] eebot_622
+ hey yo eee
+
+[21:55:03]
+[GEDhlf] zzzChumo
+Ubuntu yyds
+
+[21:55:26]
+[GEDhlf] zzzChumo
+Manjaro is good too
+
+[21:55:43]
+[GEDhlf] zzzChumo
+Debian nb
+
+[21:55:58]
+[GEDhlf] zzzChumo
+fedora nice
+
+[21:56:31]
+[ci8FBC] eee
+统计
+
+[21:56:36]
+[GEDhlf] zzzChumo
+mint linux is light
+
+[21:56:45]
+[GEDhlf] zzzChumo
+kali linux is cool
+
+[21:57:40]
+[GEDhlf] zzzChumo
+@Light 
+
+[21:57:53]
+[GEDhlf] zzzChumo
+but
+
+[21:58:05]
+[GEDhlf] zzzChumo
+WINDOWS 10 ON ARM IS BEST
+
+[21:59:03]
+[VNC/I0] eebot_786
+ awa eb的昵称卡在里面了
+
+[21:59:17]
+[3rk9wA] Mr_Zhang
+^cb 你好啊！
+
+[21:59:17]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[21:59:28]
+[3rk9wA] Mr_Zhang
+^cb 你好啊！
+
+[21:59:29]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[21:59:30]
+[3rk9wA] ZhangHelper
+哐！漂流瓶砸在了我的头上。内容：
+你好啊！
+
+[21:59:44]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[21:59:52]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[21:59:55]
+[GEDhlf] zzzChumo
+^cb あるい未来は見えない、ねぇ
+
+[21:59:55]
+[3rk9wA] ZhangHelper
+zzzChumo 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:00:06]
+[ci8FBC] eee
+如果可以私聊就更好了
+
+[22:00:15]
+[ci8FBC] eee
+^cb 你好啊！
+
+[22:00:15]
+[3rk9wA] ZhangHelper
+eee 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:00:16]
+[ci8FBC] eee
+^cb 你好啊！
+
+[22:00:17]
+[3rk9wA] ZhangHelper
+eee 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:00:18]
+[ci8FBC] eee
+^cb 你好啊！
+
+[22:00:19]
+[3rk9wA] ZhangHelper
+哐！漂流瓶砸在了我的头上。内容：
+你好啊！
+
+[22:00:19]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:00:21]
+[3rk9wA] ZhangHelper
+eee 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:00:21]
+[3rk9wA] Mr_Zhang
+可以私聊
+
+[22:00:23]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[22:00:28]
+[ci8FBC] eee
+太好了
+
+[22:00:30]
+[3rk9wA] Mr_Zhang
+>ZhangHelper whispered: 漂流瓶漂啊漂，漂到了你这里。内容：
+你好啊！
+
+[22:01:10]
+[VNC/I0] eebot_398
+ awa eb的昵称卡在里面了
+
+[22:01:27]
+[3rk9wA] Mr_Zhang
+>ZhangHelper whispered: 漂流瓶漂啊漂，漂到了你这里。内容：
+你好啊！
+
+[22:01:33]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:01:38]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:01:42]
+[VNC/I0] eebot_331
+ awa eb的昵称卡在里面了
+
+[22:01:42]
+[VNC/I0] eebot_331
+ awa eb的昵称卡在里面了
+
+[22:01:42]
+[VNC/I0] eebot_398
+ hi eebot_331
+
+[22:01:42]
+[VNC/I0] eebot_398
+ hi eebot_331
+
+[22:01:45]
+[hmBtGV] 金工街3号楼
+fetch('http://lonelystar.org/asp/ImZombieCreateGameDel.asp?R=&GID=
+
+[22:01:45]
+[hmBtGV] 金工街3号楼
+fetch('http://lonelystar.org/asp/ImZombieCreateGameDel.asp?R=&GID=
+
+[22:01:46]
+[VNC/I0] eebot_398
+ @金工街3号楼 星空之旅|植物大战僵尸JAVASCRIPT版|JSPVZ
+http://lonelystar.org/asp/ImZombieCreateGameDel.asp?R=&GID=
+
+[22:01:46]
+[VNC/I0] eebot_398
+ @金工街3号楼 星空之旅|植物大战僵尸JAVASCRIPT版|JSPVZ
+http://lonelystar.org/asp/ImZombieCreateGameDel.asp?R=&GID=
+
+[22:01:46]
+[VNC/I0] eebot_331
+ @金工街3号楼 星空之旅|植物大战僵尸JAVASCRIPT版|JSPVZ
+http://lonelystar.org/asp/ImZombieCreateGameDel.asp?R=&GID=
+
+[22:01:46]
+[VNC/I0] eebot_331
+ @金工街3号楼 星空之旅|植物大战僵尸JAVASCRIPT版|JSPVZ
+http://lonelystar.org/asp/ImZombieCreateGameDel.asp?R=&GID=
+
+[22:01:47]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:01:47]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:02:51]
+[8LJ4jb] _
+TU-a
+
+[22:02:51]
+[VNC/I0] eebot_407
+ a
+
+[22:02:53]
+[8LJ4jb] _
+TU-awaw
+
+[22:02:53]
+[VNC/I0] eebot_407
+ wawa
+
+[22:04:57]
+[VNC/I0] eebot_36
+ awa eb的昵称卡在里面了
+
+[22:05:03]
+[ci8FBC] eee
+TI
+
+[22:05:12]
+[ci8FBC] eee
+TI-10 i
+
+[22:05:12]
+[VNC/I0] eebot_36
+ OK eb收到 到时会提醒eee的
+
+[22:05:22]
+[VNC/I0] eebot_36
+ @eee 已经过去459542.0h 5.0min 12.886847972869873s了 快去i！
+
+[22:05:23]
+[VNC/I0] eebot_36
+ @eee 已被eb标记为i状态
+
+[22:06:06]
+[VNC/I0] eebot_713
+ awa eb的昵称卡在里面了
+
+[22:06:08]
+[VNC/I0] eebot
+ 2022.06.04 22:06:08
+
+[22:06:09]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[22:06:56]
+[ci8FBC] eee
+TI-10 i
+
+[22:06:56]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒eee的
+
+[22:07:06]
+[VNC/I0] eebot
+ @eee 已经过去459542h 6min 56s了 快去i！
+
+[22:07:07]
+[VNC/I0] eebot
+ @eee 已被eb标记为i状态
+
+[22:08:09]
+[ci8FBC] eee
+统计
+
+[22:08:09]
+[VNC/I0] eebot
+ @eee 现在没在i了
+
+[22:08:19]
+[3rk9wA] ZhangHelper
+出错了！详细信息：不能在这个聊天室找到该用户
+
+[22:08:19]
+[VNC/I0] eebot
+ 看什么看还不快去敲代码!!
+
+[22:08:27]
+[VNC/I0] eebot
+ 看什么看还不快去敲代码!!
+
+[22:08:46]
+[Admin] Fishh
+grugru
+
+[22:09:00]
+[VNC/I0] eebot
+ 2022.06.04 22:09:00
+
+[22:09:00]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[22:09:04]
+[ci8FBC] eee
+hi yooooooooooooooooooooo
+
+[22:09:08]
+[ci8FBC] eee
+TI-10 i
+
+[22:09:08]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒eee的
+
+[22:09:14]
+[Admin] Fishh
+hi yooooooooooooooooooo
+
+[22:09:15]
+[8LJ4jb] _
+TI-10 i
+
+[22:09:15]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:09:18]
+[VNC/I0] eebot
+ @eee 已经过去0h 0min 10s了 快去i！
+
+[22:09:19]
+[VNC/I0] eebot
+ @eee 已被eb标记为i状态
+
+[22:09:25]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 10s了 快去i！
+
+[22:09:26]
+[VNC/I0] eebot
+ @_ 已被eb标记为i状态
+
+[22:09:27]
+[8LJ4jb] _
+gooog
+
+[22:09:27]
+[VNC/I0] eebot
+ @_ 停止了i
+
+[22:09:35]
+[8LJ4jb] _
+TI--1 i
+
+[22:09:35]
+[VNC/I0] eebot
+ 无效的时长
+
+[22:09:41]
+[8LJ4jb] _
+TI-1 i
+
+[22:09:41]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:09:42]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 1s了 快去i！
+
+[22:09:43]
+[VNC/I0] eebot
+ @_ 已被eb标记为i状态
+
+[22:09:47]
+[8LJ4jb] _
+TI-100000000000000 i
+
+[22:09:47]
+[VNC/I0] eebot
+ @_ 现在没在i了
+
+[22:09:47]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:09:49]
+[8LJ4jb] _
+.
+
+[22:09:55]
+[8LJ4jb] _
+TI-100000000000000 i
+
+[22:09:56]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:09:56]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈哈哈
+
+[22:09:56]
+[VNC/I0] eebot
+ @eee 停止了i
+
+[22:10:00]
+[8LJ4jb] _
+TI-1 i
+
+[22:10:01]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:10:02]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 1s了 快去i！
+
+[22:10:03]
+[VNC/I0] eebot
+ @_ 已被eb标记为i状态
+
+[22:10:12]
+[8LJ4jb] _
+@_ 
+
+[22:10:12]
+[VNC/I0] eebot
+ @_ 停止了i
+
+[22:10:18]
+[ci8FBC] eee
+list
+
+[22:10:18]
+[VNC/I0] eebot
+ None
+
+[22:10:24]
+[8LJ4jb] _
+TI-60 i
+
+[22:10:24]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:10:26]
+[8LJ4jb] _
+list
+
+[22:10:26]
+[VNC/I0] eebot
+ None
+
+[22:10:32]
+[8LJ4jb] _
+TI-1 i
+
+[22:10:33]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:10:34]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 1s了 快去i！
+
+[22:10:35]
+[VNC/I0] eebot
+ @_ 已被eb标记为i状态
+
+[22:11:24]
+[VNC/I0] eebot
+ @_ 已经过去0h 1min 0s了 快去i！
+
+[22:11:36]
+[8LJ4jb] _
+?
+
+[22:11:36]
+[VNC/I0] eebot
+ @_ 现在没在i了
+
+[22:11:46]
+[8LJ4jb] _
+TI-5 i
+
+[22:11:46]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:11:49]
+[8LJ4jb] _
+TI-2 z
+
+[22:11:49]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:11:51]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 5s了 快去i！
+
+[22:11:51]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 2s了 快去z！
+
+[22:11:52]
+[VNC/I0] eebot
+ @_ 已被eb标记为i状态
+
+[22:11:52]
+[VNC/I0] eebot
+ @_ 已被eb标记为z状态
+
+[22:11:52]
+[3rk9wA] ZhangHelper
+@eebot 请冷静，请休息5秒，在这5秒内，==不要发送任何信息==，谢谢合作。
+
+[22:14:57]
+[VNC/I0] eebot
+ 2022.06.04 22:14:56
+
+[22:14:57]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[22:14:57]
+[8LJ4jb] _
+^cb awa
+
+[22:14:58]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:15:00]
+[ci8FBC] eee
+统计
+
+[22:15:04]
+[VNC/I0] eebot
+ 使用zzChat访问本站以获得最佳体验！ https://app.zzchat.cf/
+
+[22:15:05]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:15:06]
+[ci8FBC] eee
+芜湖
+
+[22:15:09]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:15:10]
+[ci8FBC] eee
+百分比成功——
+
+[22:15:11]
+[3rk9wA] ZhangHelper
+出错了！详细信息：不能在这个聊天室找到该用户
+
+[22:15:14]
+[3rk9wA] Mr_Zhang
+谁收到呢？
+
+[22:15:15]
+[ci8FBC] eee
+hi yooooooooooooooooo
+
+[22:15:20]
+[8LJ4jb] _
+3rk9wA *
+ZhangHelper whispered: 漂流瓶漂啊漂，漂到了你这里。内容：
+谁，能收到这个漂流瓶呢？
+
+[22:15:22]
+[8LJ4jb] _
+waw
+
+[22:15:25]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[22:15:28]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:15:31]
+[8LJ4jb] _
+?
+
+[22:15:35]
+[8LJ4jb] _
+统计
+
+[22:15:52]
+[3rk9wA] Mr_Zhang
+哐！漂流瓶砸在了岩石上，碎了。
+
+[22:15:58]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:16:00]
+[3rk9wA] ZhangHelper
+出错了！详细信息：不能在这个聊天室找到该用户
+
+[22:16:00]
+[3rk9wA] Mr_Zhang
+加一个
+
+[22:16:04]
+[3rk9wA] Mr_Zhang
+？？？
+
+[22:16:06]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:16:17]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:16:31]
+[3rk9wA] Mr_Zhang
+啊呀，漂流瓶被鲸鱼吞了！
+
+[22:16:36]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[22:16:42]
+[ci8FBC] eee
+有意思
+
+[22:16:44]
+[3rk9wA] Mr_Zhang
+哐！漂流瓶砸在了岩石上，碎了。
+
+[22:16:47]
+[3rk9wA] Mr_Zhang
+加上
+
+[22:16:51]
+[8LJ4jb] _
+3rk9wA *
+ZhangHelper whispered: 哐！漂流瓶砸在了我的头上。内容：
+ewawaw
+
+[22:16:54]
+[8LJ4jb] _
+h
+
+[22:17:06]
+[8LJ4jb] _
+^cb TI-10 a
+
+[22:17:27]
+[8LJ4jb] _
+^cb hh 
+
+[22:17:27]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:17:35]
+[8LJ4jb] _
+TI-5 a
+
+[22:17:36]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:17:38]
+[8LJ4jb] _
+TI-4 b
+
+[22:17:38]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:17:40]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 5s了 快去a
+
+[22:17:42]
+[VNC/I0] eebot
+ @_ 已被eb标记为a状态
+
+[22:17:42]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 4s了 快去b
+
+[22:17:47]
+[8LJ4jb] _
+h
+
+[22:17:47]
+[VNC/I0] eebot
+ @_ 现在没在a了
+
+[22:17:53]
+[8LJ4jb] _
+TI-5 a
+
+[22:17:55]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:17:55]
+[8LJ4jb] _
+TI-5 a
+
+[22:17:56]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:17:57]
+[8LJ4jb] _
+TI-4 b
+
+[22:17:58]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:17:59]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 5s了 快去a
+
+[22:18:00]
+[VNC/I0] eebot
+ @_ 已被eb标记为a状态
+
+[22:18:00]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 5s了 快去a
+
+[22:18:01]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 4s了 快去b
+
+[22:24:56]
+[VNC/I0] eebot
+ 2022.06.04 22:24:56
+
+[22:24:57]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[22:24:58]
+[ci8FBC] eee
+统计
+
+[22:25:09]
+[8LJ4jb] _
+O-send("TI-1 a")
+
+[22:25:09]
+[VNC/I0] eebot
+ TI-1 a
+
+[22:25:09]
+[VNC/I0] eebot
+ 代码运行成功
+
+[22:25:24]
+[8LJ4jb] _
+TI-1 a
+
+[22:25:24]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:25:25]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 1s了 快去a
+
+[22:25:26]
+[VNC/I0] eebot
+ @_ 已被eb标记为a状态
+
+[22:25:30]
+[8LJ4jb] _
+TI-1 b
+
+[22:25:30]
+[VNC/I0] eebot
+ @_ 现在没在a了
+
+[22:25:30]
+[VNC/I0] eebot
+ _已经有自己的计时器了 不能多开
+
+[22:25:34]
+[8LJ4jb] _
+?
+
+[22:25:35]
+[ci8FBC] eee
+t \.
+
+[22:25:41]
+[8LJ4jb] _
+TI-1 b
+
+[22:25:42]
+[VNC/I0] eebot
+ _已经有自己的计时器了 不能多开
+
+[22:25:45]
+[8LJ4jb] _
+TI-10 b
+
+[22:25:45]
+[VNC/I0] eebot
+ _已经有自己的计时器了 不能多开
+
+[22:25:47]
+[8LJ4jb] _
+.
+
+[22:25:49]
+[8LJ4jb] _
+@eee 
+
+[22:25:49]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[22:25:57]
+[8LJ4jb] _
+TI-100000000000000 b
+
+[22:25:57]
+[VNC/I0] eebot
+ _已经有自己的计时器了 不能多开
+
+[22:25:59]
+[8LJ4jb] _
+.
+
+[22:26:03]
+[3rk9wA] Mr_Zhang
+OK
+
+[22:28:05]
+[VNC/I0] eebot
+ 2022.06.04 22:28:05
+
+[22:28:06]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[22:28:09]
+[ci8FBC] eee
+统计
+
+[22:28:28]
+[VNC/I0] eebot
+ 2022.06.04 22:28:28
+
+[22:28:29]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[22:28:29]
+[8LJ4jb] _
+?
+
+[22:28:33]
+[8LJ4jb] _
+TI-1 1
+
+[22:28:33]
+[ci8FBC] eee
+统计
+
+[22:28:33]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:28:34]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 1s了 快去1
+
+[22:28:35]
+[8LJ4jb] _
+TI-2 1
+
+[22:28:35]
+[VNC/I0] eebot
+ @_ 已被eb标记为1状态
+
+[22:28:35]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:28:37]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 2s了 快去1
+
+[22:28:38]
+[8LJ4jb] _
+TI-3 1
+
+[22:28:38]
+[VNC/I0] eebot
+ @_ 现在没在1了
+
+[22:28:38]
+[VNC/I0] eebot
+ OK eb收到 到时会提醒_的
+
+[22:28:39]
+[3rk9wA] Mr_Zhang
+^cb 你好呀
+
+[22:28:39]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:28:41]
+[3rk9wA] ZhangHelper
+哐！Mr_Zhang 的漂流瓶砸在了我的头上。内容：
+你好呀
+
+[22:28:41]
+[VNC/I0] eebot
+ @_ 已经过去0h 0min 3s了 快去1
+
+[22:28:42]
+[VNC/I0] eebot
+ @_ 已被eb标记为1状态
+
+[22:28:42]
+[8LJ4jb] _
+gooog
+
+[22:28:42]
+[VNC/I0] eebot
+ @_ 停止了1
+
+[22:28:47]
+[3rk9wA] Mr_Zhang
+^cb 你好呀
+
+[22:28:47]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:28:49]
+[3rk9wA] ZhangHelper
+哐！漂流瓶扔到了岩石上，碎了。
+
+[22:28:51]
+[8LJ4jb] _
+^cb awa
+
+[22:28:51]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:28:53]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[22:28:54]
+[8LJ4jb] _
+^cb awawa
+
+[22:28:55]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:28:56]
+[3rk9wA] ZhangHelper
+哈哈哈，这个漂流瓶真好吃。芜湖~
+
+[22:29:00]
+[8LJ4jb] _
+^cb awawaaw
+
+[22:29:00]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:29:01]
+[3rk9wA] Mr_Zhang
+吃了
+
+[22:29:01]
+[8LJ4jb] _
+h
+
+[22:29:02]
+[3rk9wA] ZhangHelper
+哐！_ 的漂流瓶砸在了我的头上。内容：
+awawaaw
+
+[22:29:14]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:29:51]
+[ci8FBC] eee
+\==
+
+[22:30:08]
+[ci8FBC] eee
+\==a\==
+
+[22:30:10]
+[ci8FBC] eee
+OKOK
+
+[22:30:34]
+[ci8FBC] eee
+O-all
+
+[22:30:34]
+[VNC/I0] eebot
+ ·
+所有变量如下：
+zz="Chumo"
+
+[22:30:35]
+[8LJ4jb] _
+==?==
+
+[22:30:50]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:30:52]
+[3rk9wA] ZhangHelper
+哐！Mr_Zhang 的漂流瓶扔到了岩石上，碎了。
+
+[22:30:56]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:30:57]
+[ci8FBC] eee
+O-if zz\=="Chumo":
+	send(1)
+
+[22:30:58]
+[VNC/I0] eebot
+ unexpected character after line continuation character (<string>, line 2)
+
+[22:30:58]
+[VNC/I0] eebot
+ 代码运行失败
+
+[22:31:01]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:31:06]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:31:08]
+[3rk9wA] ZhangHelper
+哐！Mr_Zhang 的漂流瓶扔到了岩石上，碎了。
+
+[22:31:11]
+[3rk9wA] Mr_Zhang
+。。。
+
+[22:31:14]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:31:16]
+[3rk9wA] ZhangHelper
+哐！Mr_Zhang 的漂流瓶扔到了岩石上，碎了。
+
+[22:31:20]
+[8LJ4jb] _
+?
+
+[22:31:21]
+[3rk9wA] Mr_Zhang
+嘶~
+
+[22:31:23]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:31:29]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:31:29]
+[8LJ4jb] _
+^cb awawa
+
+[22:31:30]
+[8LJ4jb] _
+^cb awawa
+
+[22:31:31]
+[3rk9wA] ZhangHelper
+哈哈哈，Mr_Zhang 的漂流瓶真好吃。芜湖~
+
+[22:31:31]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:31:31]
+[edDiBU] 4n0n4me_
+怎么扔啊
+
+[22:31:31]
+[8LJ4jb] _
+^cb awawa
+
+[22:31:33]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:31:35]
+[edDiBU] 4n0n4me_
+^help
+
+[22:31:35]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:31:45]
+[8LJ4jb] _
+^cb awawa
+
+[22:31:45]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:31:47]
+[3rk9wA] ZhangHelper
+哐！_ 的漂流瓶扔到了岩石上，碎了。
+
+[22:31:49]
+[3rk9wA] ZhangHelper
+4n0n4me_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:31:50]
+[8LJ4jb] _
+^cb _
+
+[22:31:51]
+[3rk9wA] ZhangHelper
+啊呀！4n0n4me_ 的漂流瓶被深海的鲸鱼吞了！
+
+[22:31:51]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:31:53]
+[3rk9wA] ZhangHelper
+哐！_ 的漂流瓶扔到了岩石上，碎了。
+
+[22:31:53]
+[3rk9wA] ZhangHelper
+4n0n4me_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:31:56]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:32:02]
+[edDiBU] 4n0n4me_
+我自己收到了我自己的
+
+[22:32:05]
+[8LJ4jb] _
+qs
+
+[22:32:14]
+[ci8FBC] eee
+^cb test
+
+[22:32:16]
+[ci8FBC] eee
+???
+
+[22:32:23]
+[edDiBU] 4n0n4me_
+怎么没反应了
+
+[22:32:25]
+[edDiBU] 4n0n4me_
+卡了吧
+
+[22:32:40]
+[3rk9wA] Mr_Zhang
+被频率限制了
+
+[22:32:48]
+[8LJ4jb] _
+qs
+
+[22:32:50]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:32:52]
+[3rk9wA] ZhangHelper
+哐！_ 的漂流瓶扔到了岩石上，碎了。
+
+[22:32:56]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[22:33:04]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:33:06]
+[3rk9wA] ZhangHelper
+哈哈哈，Mr_Zhang 的漂流瓶真好吃。芜湖~
+
+[22:33:10]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:33:12]
+[3rk9wA] ZhangHelper
+哈哈哈，Mr_Zhang 的漂流瓶真好吃。芜湖~
+
+[22:33:17]
+[3rk9wA] Mr_Zhang
+我*****
+
+[22:33:29]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[22:33:29]
+[VNC/I0] eebot
+ 哈哈哈哈哈哈哈哈哈哈哈哈哈草
+
+[22:33:34]
+[8LJ4jb] _
+h
+
+[22:33:36]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:33:38]
+[3rk9wA] ZhangHelper
+哈哈哈，_ 的漂流瓶真好吃。芜湖~
+
+[22:33:38]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:33:40]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:33:41]
+[ci8FBC] eee
+好可爱的ZhangHelper
+
+[22:33:42]
+[3rk9wA] ZhangHelper
+完了！_ 的漂流瓶被海草缠住了！
+
+[22:33:44]
+[8LJ4jb] _
+?
+
+[22:34:10]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:34:10]
+[3rk9wA] Mr_Zhang
+我得改改概率
+
+[22:34:12]
+[3rk9wA] ZhangHelper
+完了！_ 的漂流瓶被海草缠住了！
+
+[22:34:12]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:34:13]
+[8LJ4jb] _
+qs
+
+[22:34:14]
+[3rk9wA] ZhangHelper
+哐！_ 的漂流瓶扔到了岩石上，碎了。
+
+[22:34:16]
+[8LJ4jb] _
+?
+
+[22:34:16]
+[ci8FBC] eee
+刑
+
+[22:34:22]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:34:24]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:34:26]
+[ci8FBC] eee
+我让eb扔漂流瓶
+
+[22:34:26]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:34:27]
+[3rk9wA] Mr_Zhang
+现在成功率是50%
+
+[22:35:01]
+[3rk9wA] Mr_Zhang
+OK
+
+[22:35:05]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:35:19]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:35:21]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:35:23]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:35:25]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:35:28]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:35:30]
+[3rk9wA] ZhangHelper
+哐！_ 的漂流瓶砸在了我的头上。内容：
+_
+
+[22:35:33]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:35:35]
+[3rk9wA] ZhangHelper
+哐！_ 的漂流瓶砸在了我的头上。内容：
+_
+
+[22:35:37]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:35:38]
+[3rk9wA] ZhangHelper
+哐！Mr_Zhang 的漂流瓶扔到了岩石上，碎了。
+
+[22:35:38]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:35:43]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:35:50]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:35:52]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:36:06]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:36:08]
+[3rk9wA] ZhangHelper
+哐！Mr_Zhang 的漂流瓶扔到了岩石上，碎了。
+
+[22:36:10]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:36:23]
+[3rk9wA] Mr_Zhang
+嘶~
+
+[22:36:24]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:36:26]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:36:28]
+[3rk9wA] ZhangHelper
+哈哈哈，_ 的漂流瓶真好吃。芜湖~
+
+[22:36:30]
+[3rk9wA] Mr_Zhang
+怎么飘到了eebot拿了？
+
+[22:36:35]
+[3rk9wA] Mr_Zhang
+怎么飘到了eebot那里？
+
+[22:36:49]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:36:51]
+[3rk9wA] ZhangHelper
+哈哈哈，Mr_Zhang 的漂流瓶真好吃。芜湖~
+
+[22:36:54]
+[3rk9wA] Mr_Zhang
+吃了
+
+[22:37:47]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:37:49]
+[3rk9wA] ZhangHelper
+哈哈哈，Mr_Zhang 的漂流瓶真好吃。芜湖~
+
+[22:37:51]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:37:53]
+[3rk9wA] ZhangHelper
+哐！Mr_Zhang 的漂流瓶扔到了岩石上，碎了。
+
+[22:37:56]
+[3rk9wA] Mr_Zhang
+。。。
+
+[22:38:03]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:38:05]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:38:13]
+[3rk9wA] Mr_Zhang
+>@eebot 在深海吃了Mr_Zhang
+
+咋不吃了漂流瓶？
+
+[22:38:27]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:38:40]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈哈哈哈
+
+[22:38:42]
+[ci8FBC] eee
+好主意
+
+[22:38:47]
+[zr8srO] CX
+怎么漂流瓶？
+
+[22:38:59]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:39:03]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:39:04]
+[3rk9wA] Mr_Zhang
+@CX ^cb 信息
+
+[22:39:05]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:39:07]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:39:23]
+[3rk9wA] Mr_Zhang
+发电实用的信息~
+
+[22:39:34]
+[zr8srO] CX
+帮助
+
+[22:39:53]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:39:55]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:39:57]
+[3rk9wA] ZhangHelper
+完了！_ 的漂流瓶被海草缠住了！
+
+[22:39:57]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:39:59]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:40:07]
+[ci8FBC] eee
+。
+
+[22:40:10]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[22:40:12]
+[8LJ4jb] _
+。
+
+[22:40:17]
+[3rk9wA] Mr_Zhang
+都飘到ee那里了
+
+[22:40:20]
+[VNC/I0] eebot
+  上次来是5月29日
+
+[22:40:22]
+[8LJ4jb] _
+。。
+
+[22:40:26]
+[zr8srO] 无题
+卧槽
+
+[22:40:28]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:40:28]
+[zr8srO] 无题
+害怕
+
+[22:40:29]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:40:30]
+[8LJ4jb] _
+?
+
+[22:40:31]
+[3rk9wA] ZhangHelper
+哐！_ 的漂流瓶砸在了我的头上。内容：
+实用的信息~
+
+[22:40:31]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:40:38]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:40:42]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:40:45]
+[3rk9wA] Mr_Zhang
+都飘到ee那里了
+
+[22:40:49]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:40:50]
+[8LJ4jb] _
+h
+
+[22:40:58]
+[8LJ4jb] _
+?
+
+[22:41:01]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:41:03]
+[3rk9wA] ZhangHelper
+哈哈哈，Mr_Zhang 的漂流瓶真好吃。芜湖~
+
+[22:41:08]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:41:08]
+[8LJ4jb] _
+h
+
+[22:41:10]
+[3rk9wA] ZhangHelper
+完了！Mr_Zhang 的漂流瓶被海草缠住了！
+
+[22:41:12]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:41:12]
+[8LJ4jb] _
+h
+
+[22:41:14]
+[3rk9wA] ZhangHelper
+哐！Mr_Zhang 的漂流瓶扔到了岩石上，碎了。
+
+[22:41:16]
+[8LJ4jb] _
+h
+
+[22:41:17]
+[3rk9wA] Mr_Zhang
+。。
+
+[22:41:20]
+[3rk9wA] Mr_Zhang
+全中了
+
+[22:41:23]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:41:25]
+[3rk9wA] ZhangHelper
+完了！Mr_Zhang 的漂流瓶被海草缠住了！
+
+[22:41:25]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:41:27]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:41:28]
+[8LJ4jb] _
+.
+
+[22:41:29]
+[3rk9wA] ZhangHelper
+哐！_ 的漂流瓶扔到了岩石上，碎了。
+
+[22:41:29]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:41:31]
+[3rk9wA] ZhangHelper
+完了！Mr_Zhang 的漂流瓶被海草缠住了！
+
+[22:41:34]
+[8LJ4jb] _
+@Mr_Zhang 
+
+[22:41:35]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:41:41]
+[8LJ4jb] _
+h
+
+[22:41:44]
+[8LJ4jb] _
+finally
+
+[22:41:47]
+[3rk9wA] Mr_Zhang
+呵呵
+
+[22:41:58]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:42:04]
+[8LJ4jb] _
+5combo
+
+[22:42:07]
+[8LJ4jb] _
+@Mr_Zhang 
+
+[22:42:13]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:42:16]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:42:17]
+[VNC/I0] eebot
+  上次来是5月29日
+
+[22:42:17]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:42:25]
+[8LJ4jb] _
+i
+
+[22:42:25]
+[zr8srO] CX
+我
+
+[22:42:27]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:42:29]
+[3rk9wA] Mr_Zhang
+额
+
+[22:42:29]
+[8LJ4jb] _
+?
+
+[22:42:29]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:42:31]
+[3rk9wA] ZhangHelper
+哐！_ 的漂流瓶砸在了我的头上。内容：
+实用的信息~
+
+[22:42:34]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:42:39]
+[VNC/I0] eebot
+ hey yo 13_
+
+[22:42:42]
+[zr8srO] CX
+？
+
+[22:42:44]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:42:46]
+[8LJ4jb] _
+?
+
+[22:42:47]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:42:47]
+[zr8srO] CX
+漂流瓶这么好
+
+[22:42:52]
+[3rk9wA] ZhangHelper
+_ 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:42:52]
+[3rk9wA] ZhangHelper
+Mr_Zhang 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:42:52]
+[VNC/I0] eebot
+ 不是人
+
+[22:42:53]
+[zr8srO] CX
+漂流瓶怎么改
+
+[22:43:01]
+[zr8srO] CX
+帮助
+
+[22:43:10]
+[3rk9wA] Mr_Zhang
+使用 `^cb 信息`即可发送漂流瓶~
+
+[22:43:15]
+[zr8srO] CX
+okok
+
+[22:43:25]
+[zr8srO] CX
+^cb 是谁收到了？
+
+[22:43:25]
+[3rk9wA] ZhangHelper
+CX 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:43:26]
+[3rk9wA] Mr_Zhang
+@CX 连ZhangHelper都不会用了？？？
+
+[22:43:32]
+[zr8srO] CX
+哈哈哈忘了
+
+[22:43:44]
+[zr8srO] CX
+实验啊
+
+[22:43:45]
+[zr8srO] CX
+^cb 是谁收到了？
+
+[22:43:45]
+[3rk9wA] ZhangHelper
+CX 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:43:45]
+[zr8srO] CX
+^cb 是谁收到了？
+
+[22:43:46]
+[zr8srO] CX
+^cb 是谁收到了？
+
+[22:43:46]
+[zr8srO] CX
+^cb 是谁收到了？
+
+[22:43:46]
+[zr8srO] CX
+^cb 是谁收到了？
+
+[22:43:46]
+[zr8srO] CX
+^cb 是谁收到了？
+
+[22:43:47]
+[zr8srO] CX
+^cb 是谁收到了？
+
+[22:43:47]
+[zr8srO] CX
+^cb 是谁收到了？
+
+[22:43:47]
+[3rk9wA] Mr_Zhang
+我重启一下bot
+
+[22:43:48]
+[3rk9wA] ZhangHelper
+哈哈哈，CX 的漂流瓶真好吃。芜湖~
+
+[22:43:48]
+[3rk9wA] ZhangHelper
+CX 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:43:49]
+[3rk9wA] ZhangHelper
+哐！CX 的漂流瓶砸在了我的头上。内容：
+是谁收到了？
+
+[22:43:49]
+[3rk9wA] ZhangHelper
+CX 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:43:51]
+[3rk9wA] ZhangHelper
+哐！CX 的漂流瓶扔到了岩石上，碎了。
+
+[22:43:51]
+[3rk9wA] ZhangHelper
+CX 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:43:52]
+[zr8srO] CX
+卧槽
+
+[22:43:53]
+[3rk9wA] ZhangHelper
+CX 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:43:55]
+[3rk9wA] ZhangHelper
+CX 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:43:57]
+[3rk9wA] Mr_Zhang
+别刷屏
+
+[22:43:57]
+[3rk9wA] ZhangHelper
+CX 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:43:59]
+[zr8srO] CX
+我知道
+
+[22:43:59]
+[3rk9wA] ZhangHelper
+啊呀！CX 的漂流瓶被深海的鲸鱼吞了！
+
+[22:43:59]
+[3rk9wA] ZhangHelper
+CX 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:44:01]
+[3rk9wA] ZhangHelper
+完了！CX 的漂流瓶被海草缠住了！
+
+[22:44:08]
+[zr8srO] CX
+因为没有ZH啊
+
+[22:44:10]
+[8LJ4jb] _
+h
+
+[22:44:15]
+[zr8srO] CX
+bot里面没有ZH
+
+[22:44:19]
+[8LJ4jb] _
+?
+
+[22:44:27]
+[zr8srO] CX
+不好意思啊
+
+[22:44:55]
+[VNC/I0] eebot
+ 2022.06.04 22:44:55
+
+[22:44:56]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[22:44:56]
+[ci8FBC] eee
+功能
+
+[22:45:04]
+[ci8FBC] eee
+漂流瓶
+
+[22:45:25]
+[zr8srO] CX
+@Mr_ZHang 可以把ZH挂到bot么，实验
+
+[22:45:39]
+[3rk9wA] Mr_Zhang
+额
+
+[22:45:43]
+[ci8FBC] eee
+漂流瓶
+
+[22:45:43]
+[3rk9wA] Mr_Zhang
+不太好吧
+
+[22:45:47]
+[3rk9wA] Mr_Zhang
+设置无法同步啊
+
+[22:45:48]
+[zr8srO] CX
+就2分钟
+
+[22:45:54]
+[3rk9wA] Mr_Zhang
+嘶~
+
+[22:45:59]
+[3rk9wA] Mr_Zhang
+稍等
+
+[22:46:05]
+[ci8FBC] eee
+功能
+
+[22:46:07]
+[8LJ4jb] _
+漂流瓶
+
+[22:46:07]
+[3rk9wA] Mr_Zhang
+我添加个命令
+
+[22:46:08]
+[zr8srO] CX
+感谢！
+
+[22:46:12]
+[8LJ4jb] _
+功能
+
+[22:46:14]
+[8LJ4jb] _
+？
+
+[22:46:26]
+[8LJ4jb] _
+O-send("")
+
+[22:46:27]
+[VNC/I0] eebot
+ 代码运行成功
+
+[22:46:32]
+[8LJ4jb] _
+O-send("hm")
+
+[22:46:32]
+[VNC/I0] eebot
+ hm
+
+[22:46:33]
+[VNC/I0] eebot
+ 代码运行成功
+
+[22:46:41]
+[8LJ4jb] _
+O-send("/w _ _")
+
+[22:46:42]
+[VNC/I0] eebot
+ 代码运行成功
+
+[22:46:48]
+[8LJ4jb] _
+.
+
+[22:47:26]
+[VNC/I0] eebot
+ 2022.06.04 22:47:26
+
+[22:47:26]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[22:47:29]
+[ci8FBC] eee
+功能
+
+[22:47:31]
+[ci8FBC] eee
+漂流瓶
+
+[22:47:42]
+[zr8srO] CX
+^cb 是谁收到了？
+
+[22:47:42]
+[3rk9wA] ZhangHelper
+CX 抛出了一个漂流瓶，不知道谁会收到。
+
+[22:47:49]
+[ci8FBC] eee
+漂流瓶
+
+[22:47:53]
+[zr8srO] CX
+漂流瓶
+
+[22:47:54]
+[ci8FBC] eee
+功能
+
+[22:47:59]
+[zr8srO] CX
+功能
+
+[22:48:01]
+[zr8srO] CX
+额
+
+[22:48:07]
+[zr8srO] CX
+都没用啊
+
+[22:48:22]
+[8LJ4jb] _
+@xlebal 
+
+[22:49:06]
+[VNC/I0] eebot_757
+ awa eb的昵称卡在里面了
+
+[22:49:15]
+[8LJ4jb] _
+@xlebal 
+
+[22:49:18]
+[8LJ4jb] _
+awa
+
+[22:49:18]
+[VNC/I0] eebot_757
+ awa
+
+[22:49:21]
+[8LJ4jb] _
+waw
+
+[22:49:26]
+[8LJ4jb] _
+漂流瓶
+
+[22:49:29]
+[8LJ4jb] _
+功能
+
+[22:49:38]
+[3rk9wA] Mr_Zhang
+^move bot
+
+[22:51:43]
+[VNC/I0] eebot_358
+ awa eb的昵称卡在里面了
+
+[22:51:55]
+[ci8FBC] eee
+功能
+
+[22:51:57]
+[ci8FBC] eee
+漂流瓶
+
+[22:52:01]
+[ci8FBC] eee
+？？？？？？
+
+[22:52:01]
+[8LJ4jb] _
+功能
+
+[22:52:02]
+[8LJ4jb] _
+？
+
+[22:52:04]
+[ci8FBC] eee
+功能
+
+[22:52:35]
+[8LJ4jb] _
+?
+
+[22:53:11]
+[ci8FBC] eee
+功能
+
+[22:53:59]
+[3rk9wA] Mr_Zhang
+功能
+
+[22:54:02]
+[3rk9wA] Mr_Zhang
+？？？
+
+[22:54:12]
+[ci8FBC] eee
+功能
+
+[22:54:22]
+[ci8FBC] eee
+帮助
+
+[22:54:48]
+[8LJ4jb] _
+.
+
+[22:55:20]
+[zr8srO] CX
+^cb 是谁收到了？
+
+[22:55:30]
+[3rk9wA] Mr_Zhang
+ZhangHelper不在线
+
+[22:55:32]
+[3rk9wA] Mr_Zhang
+刚才
+
+[22:55:36]
+[3rk9wA] Mr_Zhang
+^move bot
+
+[22:55:40]
+[VNC/I0] eebot_722
+ awa eb的昵称卡在里面了
+
+[22:55:41]
+[ci8FBC] eee
+@eebot_358 睡
+
+[22:55:43]
+[8LJ4jb] _
+?
+
+[22:56:29]
+[VNC/I0] eebot_253
+ awa eb的昵称卡在里面了
+
+[22:56:29]
+[VNC/I0] eebot_722
+ Good Night eebot\_253
+
+[22:57:10]
+[8LJ4jb] _
+?
+
+[22:57:10]
+[3rk9wA] Mr_Zhang
+OK
+
+[22:57:19]
+[ci8FBC] eee
+啊这 走了
+
+[22:57:31]
+[8LJ4jb] _
+.
+
+[22:57:33]
+[3rk9wA] Mr_Zhang
+移动到 ?bot
+

@@ -1,0 +1,538 @@
+[18:56:39]
+[VNC/I0] eebot_36
+awa eb的昵称卡在里面了
+
+[18:56:40]
+[VNC/I0] eebot
+hey eebot_36
+
+[18:56:40]
+[3rk9wA] ZhangBot
+管理员已加入，请注意言论。
+
+[18:56:40]
+[3rk9wA] ZhangBot
+该用户没有曾用名。
+
+[18:56:42]
+[edDiBU] 4n0n4me
+你批量的放一下吧
+
+[18:56:44]
+[edDiBU] 4n0n4me
+放多点
+
+[18:56:46]
+[ZVtVti] MuRongPIG
+嗯
+
+[18:56:47]
+[edDiBU] 4n0n4me
+把记录全部发出来
+
+[18:57:23]
+[edDiBU] 4n0n4me
+@MuRongPIG 有一说一，你说的话，的确是不符合逻辑啊！我还以为你大义凛然、看不上这里的管理职位，主动要和小张同归于尽呢
+
+[18:57:37]
+[edDiBU] 4n0n4me
+撤小张，是撤你的充分条件
+
+[18:57:40]
+[edDiBU] 4n0n4me
+不是必要条件
+
+[18:57:55]
+[edDiBU] 4n0n4me
+小张查记录怎么这么慢（
+
+[18:57:55]
+[ZVtVti] MuRongPIG
+@4n0n4me 我就是同归于尽的意思啊
+
+[18:58:03]
+[ZVtVti] MuRongPIG
+结果你们让我没了
+
+[18:58:04]
+[edDiBU] 4n0n4me
+小张不是都拿到那句话了吗
+
+[18:58:06]
+[edDiBU] 4n0n4me
+后面的话呢
+
+[18:58:08]
+[ZVtVti] MuRongPIG
+张还留着
+
+[18:58:14]
+[edDiBU] 4n0n4me
+@MuRongPIG 这说明你同归于尽失败了啊
+
+[18:58:23]
+[edDiBU] 4n0n4me
+充分条件，必要条件
+
+[18:58:33]
+[ZVtVti] MuRongPIG
+好的
+
+[18:58:45]
+[edDiBU] 4n0n4me
+行吧，我尽量让鱼
+
+[18:58:47]
+[ZVtVti] MuRongPIG
+相当于我白白牺牲了是吧
+
+[18:58:49]
+[edDiBU] 4n0n4me
+按照你所说的意思
+
+[18:58:49]
+[ZVtVti] MuRongPIG
+好的
+
+[18:58:51]
+[edDiBU] 4n0n4me
+再想想
+
+[18:58:55]
+[ZVtVti] MuRongPIG
+我接受这个结果
+
+[18:59:33]
+[3rk9wA] Mr_Zhang
+站长的记录被关了
+
+[18:59:45]
+[3rk9wA] Mr_Zhang
+所以找不到更多信息了
+
+[18:59:56]
+[3rk9wA] ZhangBot
+叮咚！现在是北京时间 2022 年 05 月 27 日 19 时 00 分 00 秒！
+> 你要学会捂上自己的耳朵，不去听那些熙熙攘攘的声音；这个世界上没有不苦逼的人，真正能治愈自己的，只有你自己。
+
+[语音报时](http://api.botwl.cn/api/bsyy/19.mp3)
+
+[18:59:59]
+[edDiBU] 4n0n4me
+啊这
+
+[19:00:00]
+[3rk9wA] Mr_Zhang
+我已经在QQ上联系站长了
+
+[19:00:06]
+[edDiBU] 4n0n4me
+emm，站长说了
+
+[19:00:08]
+[edDiBU] 4n0n4me
+即使关了记录
+
+[19:00:10]
+[3rk9wA] Mr_Zhang
+已经通知了
+
+[19:00:11]
+[edDiBU] 4n0n4me
+数据库也有记录
+
+[19:00:12]
+[3rk9wA] Mr_Zhang
+对
+
+[19:00:15]
+[VNC/I0] eebot
+主人说 这是秘密
+
+[19:00:17]
+[edDiBU] 4n0n4me
+所以，让他来调数据库吧
+
+[19:00:23]
+[3rk9wA] Mr_Zhang
+没事
+
+[19:00:29]
+[edDiBU] 4n0n4me
+你的机器人不是有日志吧
+
+[19:00:30]
+[edDiBU] 4n0n4me
+吗
+
+[19:00:44]
+[edDiBU] 4n0n4me
+日志是按照那个人选择的是否记录来记录的吗
+
+[19:00:44]
+[3rk9wA] Mr_Zhang
+站长应该一会就来了
+
+[19:00:49]
+[3rk9wA] Mr_Zhang
+不是
+
+[19:00:54]
+[3rk9wA] Mr_Zhang
+一直记录
+
+[19:00:55]
+[edDiBU] 4n0n4me
+那你当时有日志吗
+
+[19:01:00]
+[3rk9wA] Mr_Zhang
+我找找
+
+[19:01:04]
+[edDiBU] 4n0n4me
+还是说那个时候是树莓派断电什么的时候
+
+[19:01:06]
+[3rk9wA] Mr_Zhang
+应该有
+
+[19:01:09]
+[edDiBU] 4n0n4me
+好
+
+[19:01:11]
+[3rk9wA] Mr_Zhang
+今早吧
+
+[19:01:17]
+[zhYYDG] Light
+树莓派？
+
+[19:01:19]
+[edDiBU] 4n0n4me
+先把日志拿出来比较好
+
+[19:01:27]
+[edDiBU] 4n0n4me
+小张机器人挂在树莓派上
+
+[19:01:59]
+[3rk9wA] ZhangBot
+热烈欢迎 www 入场！
+
+[19:02:00]
+[VNC/I0] eebot
+hi www
+
+[19:02:00]
+[3rk9wA] ZhangBot
+该用户曾用名：疯狂试探bot；Dawnboy_火凤bot；Dawnboy_火凤；www；
+
+[19:02:00]
+[VNC/I0] eebot_36
+hey www
+
+[19:02:05]
+[3rk9wA] ZhangBot
+欢迎下次再来，www ！
+
+[19:02:05]
+[0LSTeI] SuMx_bot
+Bye~Bye~~
+
+[19:02:42]
+[3rk9wA] ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+[19:02:43]
+[0LSTeI] SuMx_bot
+Bye~Bye~~
+
+[19:02:43]
+[zhYYDG] Light
+我也买了一个树莓派 XD
+
+[19:03:09]
+[ZVtVti] MuRongPIG
+现在树莓派贵啊
+
+[19:03:15]
+[zhYYDG] Light
+no
+
+[19:03:18]
+[zhYYDG] Light
+pi400
+
+[19:03:32]
+[None] Arwen
+所以站长初一的？
+
+[19:03:54]
+[VNC/I0] eebot
+热烈欢迎写 ~~满是BUG的~~ 代码的小张！
+
+[19:03:54]
+[3rk9wA] ZhangBot
+管理员已加入，请注意言论。
+
+[19:03:55]
+[3rk9wA] ZhangBot
+该用户曾用名：Mr_Zhang；Mr_Zhang_chumo；ZhangHelper；Mr_Zhang普通用户；Mr_Zhang普通用户01；Mr_Zhang001；
+
+[19:03:55]
+[VNC/I0] eebot_36
+这个人类是Mr_Zhang，编写了XChat的Python库，能够协助开发者快速编写bot。
+
+[19:04:03]
+[3rk9wA] Mr_Zhang
+丝~
+
+[19:04:10]
+[3rk9wA] Mr_Zhang
+换个软件吧
+
+[19:04:22]
+[3rk9wA] Mr_Zhang
+那么多文件显示不出来了
+
+[19:05:11]
+[3rk9wA] ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+[19:05:12]
+[0LSTeI] SuMx_bot
+Bye~Bye~~
+
+[19:05:12]
+[VNC/I0] eebot
+Bye~Bye~~
+
+[19:05:12]
+[edDiBU] 4n0n4me
+a?
+
+[19:05:30]
+[edDiBU] 4n0n4me
+确实，我没有考虑日志的分块问题
+
+[19:05:39]
+[edDiBU] 4n0n4me
+因为我那dotbot运行时长有限
+
+[19:06:23]
+[VNC/I0] eebot
+热烈欢迎写 ~~满是BUG的~~ 代码的小张！
+
+[19:06:24]
+[3rk9wA] ZhangBot
+管理员已加入，请注意言论。
+
+[19:06:24]
+[3rk9wA] ZhangBot
+该用户曾用名：Mr_Zhang；Mr_Zhang_chumo；ZhangHelper；Mr_Zhang普通用户；Mr_Zhang普通用户01；Mr_Zhang001；
+
+[19:06:24]
+[VNC/I0] eebot_36
+这个人类是Mr_Zhang，编写了XChat的Python库，能够协助开发者快速编写bot。
+
+[19:06:39]
+[3rk9wA] Mr_Zhang
+昨天是26号吧
+
+[19:07:58]
+[VNC/I0] eebot
+初墨!
+
+[19:07:58]
+[3rk9wA] ZhangBot
+热烈欢迎 初墨 入场！
+
+[19:07:58]
+[3rk9wA] ZhangBot
+该用户没有曾用名。
+
+[19:07:59]
+[VNC/I0] eebot_36
+zzChat 2.30 「Kernel Update」发布！zzChat的新开始！
+更新内容：
+1.加入了自定义聊天室功能。
+2.使用了WebSocket，zzChat现在是一个真正的客户端了。
+3.移除了彩蛋。
+4.支持了打开外部链接的功能。
+5.适配了Android 12（API 31）。
+6.修复了对MIUI 13的兼容性问题。
+7.优化了代码，修复了iframe的大小问题。
+8.针对小内存设备进行了优化。
+9.修复了部分文案内容的问题。
+10.为zzChat 2.40（Language Update）做了前置准备。
+11.移除了HIM。
+下载地址：
+https://app.zzchat.cf/
+===
+面对HTML初学者的网页美化框架现已建立独立产品页面！
+https://www.zzchat.cf/GAF
+
+[19:08:00]
+[VNC/I0] eebot
+·
+@eebot_36 zzChat
+https://app.zzchat.cf/
+
+[19:08:21]
+[edDiBU] 4n0n4me
+小张
+
+[19:08:23]
+[edDiBU] 4n0n4me
+看得了日志吗
+
+[19:08:33]
+[edDiBU] 4n0n4me
+看不了的话，能不能直接把文件发过来
+
+[19:08:38]
+[edDiBU] 4n0n4me
+用网盘
+
+[19:09:01]
+[0LSTeI] SuMx_bot
+Bye~Bye~~
+
+[19:09:02]
+[3rk9wA] ZhangBot
+欢迎下次再来，Arwen ！
+
+[19:09:47]
+[3rk9wA] Mr_Zhang
+我在用手机
+
+[19:09:53]
+[3rk9wA] Mr_Zhang
+有点不方便
+
+[19:11:05]
+[GEDhlf] 初墨
+你们谁会用termux
+
+[19:11:14]
+[GEDhlf] 初墨
+装了个Ubuntu
+
+[19:11:22]
+[GEDhlf] 初墨
+结果连sudo都用不了
+
+[19:12:21]
+[GEDhlf] 初墨
+$ sudo
+sh: 1: sudo: not found
+
+[19:12:59]
+[VNC/I0] eebot
+![](https://i.xinger.ink/images.php)![](https://acg.toubiec.cn/random.php)
+
+[19:13:00]
+[3rk9wA] ZhangBot
+热烈欢迎 _ 入场！
+
+[19:13:00]
+[3rk9wA] ZhangBot
+该用户曾用名：_bot；_；网警；chumo_awa；awa_chumo；test_chumo；test；
+
+[19:13:00]
+[VNC/I0] eebot_36
+hey yo _
+
+[19:13:03]
+[zhYYDG] Light
+hia
+
+[19:13:15]
+[8LJ4jb] _
+aa
+
+[19:13:46]
+[/yeqZD] KiloMxmxxx
+>edDiBU 4n0n4me
+小张机器人挂在树莓派上
+
+树莓派？
+
+[19:13:49]
+[/yeqZD] KiloMxmxxx
+啥子哦
+
+[19:14:10]
+[GEDhlf] 初墨
+有人会用termux吗qwq
+
+[19:14:15]
+[GEDhlf] 初墨
+救我
+
+[19:14:32]
+[/yeqZD] KiloMxmxxx
+https://blog.csdn.net/xiao_yi_xiao/article/details/120470295
+
+[19:14:34]
+[VNC/I0] eebot
+·
+@KiloMxmxxx CSDN博客-专业IT技术发表平台
+https://blog.csdn.net/xiao_yi_xiao/article/details/120470295
+
+[19:14:35]
+[VNC/I0] eebot_36
+·
+@KiloMxmxxx CSDN博客-专业IT技术发表平台
+https://blog.csdn.net/xiao_yi_xiao/article/details/120470295
+
+[19:14:36]
+[/yeqZD] KiloMxmxxx
+我不会
+
+[19:14:40]
+[/yeqZD] KiloMxmxxx
+你去看看吧
+
+[19:14:49]
+[8LJ4jb] _
+?
+
+[19:15:43]
+[VNC/I0] eebot_446
+awa eb的昵称卡在里面了
+
+[19:15:43]
+[3rk9wA] ZhangBot
+管理员已加入，请注意言论。
+
+[19:15:44]
+[3rk9wA] ZhangBot
+该用户曾用名：eebot_36；eebot_446；
+
+[19:15:44]
+[VNC/I0] eebot
+hello eebot_446
+
+[19:15:45]
+[edDiBU] 4n0n4me
+rUGurUgU. rUGurUgU. rUGurUgU.
+
+[19:15:47]
+[/yeqZD] KiloMxmxxx
+？
+
+[19:15:50]
+[/yeqZD] KiloMxmxxx
+@eebot_446 啊这
+
+[19:15:51]
+[VNC/I0] eebot_446
+什么酱紫 遇到什么事了
+
+[19:15:54]
+[VNC/I0] eebot
+还不是因为想KiloMxmxxx）
+

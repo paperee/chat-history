@@ -1,0 +1,11514 @@
+[00:00:54]
+[VNC/I0] eebot
+[Started] 2022.06.04 00:00:53
+
+[00:00:54]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[00:00:54]
+[ci8FBC] ee
+CC-aa
+
+[00:00:54]
+[VNC/I0] eebot
+无效字符
+
+[00:00:56]
+[VNC/I0] eebot
+本聊天室已连通 [SprinkleChat｜main] 
+
+[00:01:27]
+[VNC/I0] eebot
+4909
+
+[00:01:44]
+[VNC/I0] eebot
+[Started] 2022.06.04 00:01:43
+
+[00:01:44]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[00:01:45]
+[VNC/I0] eebot
+计算失败
+
+[00:01:45]
+[ci8FBC] ee
+CC-213+2348*2=
+
+[00:01:53]
+[VNC/I0] eebot
+True
+
+[00:02:05]
+[VNC/I0] eebot
+无法连接至 [SprinkleChat｜main]
+
+[00:01:52]
+[ci8FBC] ee
+CC-213+2348*2!=0
+
+[00:05:41]
+[VNC/I0] eebot
+23413
+
+[00:09:34]
+[VNC/I0] eebot_55
+本聊天室已连通 [SprinkleChat｜main] 
+
+[00:09:34]
+[VNC/I0] eebot_55
+awa eb的昵称卡在里面了
+
+[00:13:33]
+[VNC/I0] eebot_55
+·
+msmset0的博客
+https://www.cnblogs.com/MemsetZero/
+
+[07:55:11]
+[VNC/I0] eebot
+[Started] 2022.06.04 07:55:10
+
+[07:55:11]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[07:55:23]
+[VNC/I0] eebot
+\/nick ee
+
+[07:55:23]
+[VNC/I0] eebot
+代码运行成功
+
+[07:55:23]
+[ci8FBC] ee
+O-send("/nick ee")
+
+[07:56:12]
+[VNC/I0] eebot
+代码运行成功
+
+[07:56:12]
+[ci8FBC] ee
+O-chat
+
+[07:56:21]
+[VNC/I0] eebot
+代码运行成功
+
+[07:56:21]
+[ci8FBC] ee
+O-botname
+
+[07:57:17]
+[VNC/I0] eebot
+....._____..___...._._..___
+
+[07:57:17]
+[VNC/I0] eebot
+代码运行成功
+
+[07:57:17]
+[ci8FBC] ee
+O-ms=morse_code.Turn_Morse_code("hjgjhkj")
+send(ms)
+
+[07:57:43]
+[VNC/I0] eebot
+代码运行失败
+
+[07:57:43]
+[ci8FBC] ee
+O-ms=morse_code.Turn_Morse_code("hjgjhkj")
+send(f"~~~>
+{ms}")
+
+[07:57:57]
+[VNC/I0] eebot
+代码运行失败
+
+[07:57:57]
+[ci8FBC] ee
+O-ms=morse_code.Turn_Morse_code("hjgjhkj")
+send(f"```
+{ms}")
+
+[07:58:06]
+[VNC/I0] eebot
+```
+....._____..___...._._..___
+
+[07:58:06]
+[VNC/I0] eebot
+代码运行成功
+
+[07:58:06]
+[ci8FBC] ee
+O-ms=morse_code.Turn_Morse_code("hjgjhkj")
+send(f"```\n{ms}")
+
+[07:58:46]
+[VNC/I0] eebot
+\.\.\.\.\._____\.\.___\.\.\.\._\._\.\.___
+
+[07:58:46]
+[VNC/I0] eebot
+代码运行成功
+
+[07:58:46]
+[ci8FBC] ee
+O-ms=morse_code.Turn_Morse_code("hjgjhkj")
+send(f"{ms}".replace('.','\\.'))
+
+[07:59:31]
+[VNC/I0] eebot
+\\.\\.\\.\\.\\._____\\.\\.___\\.\\.\\.\\._\\._\\.\\.___
+
+[07:59:31]
+[VNC/I0] eebot
+代码运行成功
+
+[07:59:31]
+[ci8FBC] ee
+O-ms=morse_code.Turn_Morse_code("hjgjhkj")
+send(f"{ms}".replace('.','\\\.'))
+
+[08:00:13]
+[VNC/I0] eebot
+\/.\/.\/.\/.\/._____\/.\/.___\/.\/.\/.\/._\/._\/.\/.___
+
+[08:00:13]
+[VNC/I0] eebot
+代码运行成功
+
+[08:04:11]
+[ci8FBC] ee
+a /
+
+[08:00:13]
+[ci8FBC] ee
+O-ms=morse_code.Turn_Morse_code("hjgjhkj")
+send(f"{ms}".replace('.','/.'))
+
+[08:12:57]
+[VNC/I0] eebot
+....._____..___...._._..___
+
+[08:12:57]
+[VNC/I0] eebot
+代码运行成功
+
+[08:13:32]
+[VNC/I0] eebot
+[Started] 2022.06.04 08:13:31
+
+[08:13:32]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[08:13:34]
+[VNC/I0] eebot
+·
+MuRongPIG's GitHub
+https:\/\/github.com\/MuRongPIG
+
+[08:13:35]
+[VNC/I0] eebot
+．．．．．＿＿＿＿＿．．＿＿＿．．．．＿．＿．．＿＿＿
+
+[08:13:35]
+[VNC/I0] eebot
+代码运行成功
+
+[08:13:34]
+[ci8FBC] ee
+O-ms=morse_code.Turn_Morse_code("hjgjhkj")
+send(ms)
+
+[08:13:56]
+[VNC/I0] eebot
+．＿
+
+[08:13:56]
+[VNC/I0] eebot
+代码运行成功
+
+[08:13:56]
+[ci8FBC] ee
+O-ms=morse_code.Turn_Morse_code("a")
+send(ms)
+
+[08:14:55]
+[VNC/I0] eebot
+．．None．＿．．＿＿＿．．．＿．None＿．＿＿＿＿＿．．＿
+
+[08:14:55]
+[VNC/I0] eebot
+代码运行成功
+
+[08:15:37]
+[VNC/I0] eebot
+hey eee
+
+[08:16:54]
+[ci8FBC] eee
+TU-啊是的哈卡斯发刚撒/
+
+[08:16:54]
+[VNC/I0] eebot
+\/撒刚发斯卡哈的是啊
+
+[08:22:56]
+[VNC/I0] eebot
+[Started] 2022.06.04 08:22:56
+
+[08:22:56]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[08:22:59]
+[ci8FBC] eee
+MS-啊
+
+[08:22:59]
+[VNC/I0] eebot
+摩斯电码的转换只能是英文或数字
+
+[08:23:02]
+[ci8FBC] eee
+MS-a
+
+[08:23:02]
+[VNC/I0] eebot
+摩斯电码的转换只能是英文或数字
+
+[08:23:39]
+[VNC/I0] eebot
+[Started] 2022.06.04 08:23:38
+
+[08:23:39]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[08:23:41]
+[ci8FBC] eee
+MS-a
+
+[08:23:41]
+[VNC/I0] eebot
+摩斯电码的转换只能是英文或数字
+
+[08:23:46]
+[ci8FBC] eee
+MS-jhk
+
+[08:23:46]
+[VNC/I0] eebot
+摩斯电码的转换只能是英文或数字
+
+[08:23:48]
+[ci8FBC] eee
+MS-123
+
+[08:23:48]
+[VNC/I0] eebot
+．＿＿＿＿．．＿＿＿．．．＿＿
+
+[08:25:16]
+[ci8FBC] eee
+MS-12 3
+
+[08:25:17]
+[VNC/I0] eebot
+摩斯电码的转换只能是英文或数字
+
+[08:27:46]
+[ci8FBC] eee
+MS-876878768
+
+[08:27:46]
+[VNC/I0] eebot
+＿＿＿．．＿＿．．．＿．．．．＿＿＿．．＿＿．．．＿＿＿．．＿＿．．．＿．．．．＿＿＿．．
+
+[08:27:52]
+[ci8FBC] eee
+F-131
+
+[08:28:05]
+[ci8FBC] eee
+F-哈哈哈哈哈哈哈哈哈哈哈
+
+[08:28:06]
+[VNC/I0] eebot
+131
+
+[08:28:06]
+[VNC/I0] eebot
+Ha ha ha ha ha ha ha ha ha ha ha
+
+[08:36:54]
+[ci8FBC] eee
+功能
+
+[08:36:54]
+[VNC/I0] eebot
+\/w eee .
+·
+基本：
+功能｜order：bot功能列表
+帮助｜help：聊天室说明
+开源｜eebot：bot的下载地址
+网站｜web：bot收集到的网址
+机器人｜bot：所有bot列表
+自定义｜re：所有自设的问题
+揭示板｜board：有揭示板的日期
+留言板｜ees：纸片君ee的留言板
+·
+测试：
+在线｜online：伪·间谍
+时间｜time：与bo_od比速度用
+列表｜list：挂机成员状态
+·
+挂机：
+afk：标记自己已离开键盘
+afk 状态：标记自己正在xx中
+·
+随机：
+r：随机1~999的数
+（一般配合真心话使用）
+r 负数：只返回绝对值
+r 正数：计算（数字）+-（随机1~数字）或（数字）x2
+r 正数 正数：随机（第1个数）~（第2个数）的数
+·
+功能：
+CA-文本：向今天的揭示板写入内容
+B-日期：揭示板内容
+（日期留空则查本日的）
+Z-问题（\n）回答：自定义@eebot 时的问答
+E-文本：自定义bot欢迎语
+R-条数：历史聊天记录
+G-某人（\n）某地\/某时间点（\n）某事：在线sb句子
+（多关键词用空格隔开）
+CC-算式：进行简单的计算
+O-代码：在线运行代码（Mod）
+·
+转换：
+TU-文本：倒着说话
+MS-英文｜数字：摩斯电码
+T-英文｜数字：将所有单词第1个字母转大写
+·
+查询：
+IP-IP地址：IP详细信息
+ICP-域名：域名备案记录
+QQ-QQ号：QQ号昵称
+CITY-城市：城市天气情况
+DU-词条：百度百科
+F-文本：有道翻译内容
+PT-手机号：手机号详细信息
+L-垃圾名：垃圾分类
+WY-歌曲or歌手：搜歌+解析
+ID-网易云ID：解析wyy音乐
+BI-视频BV号：解析b站视频
+·
+控制：
+@eebot 文本：与bot聊天
+@eebot 重启：重启bot（Mod）
+@eebot 退出：让bot退出（Mod）
+@eebot 打招呼开｜关：是否自动打招呼
+@eebot 广告开｜关：是否定时发友链
+
+@eebot 睡｜醒：是否让bot休眠（精简）
+@eebot 屏蔽我｜理我：是否让bot无视你
+@eebot 去（某事）｜工作：是否标记bot状态
+@eebot 昵称（新昵称）：改bot昵称
+·
+游戏：
+生草机（True）
+真心话（True）
+飞花令（True）
+词语接龙（True）
+·
+PS：
+Mod表示只有管理员能用
+True表示游戏可用但未开启
+False则是游戏被管理员禁止或在进行
+·
+你的eebot努力工作中
+使用精简模式吗？
+在「聊天框」里发送：@eebot 睡
+·
+不会使用？
+试试在下面「聊天框」里发送上面的命令吧
+
+·
+如果想了解XChat：xc
+辅助管理使用方法：mod
+xc与cc的虚构和约：2room
+
+[08:38:34]
+[VNC/I0] eebot
+[Started] 2022.06.04 08:38:33
+
+[08:38:34]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[08:38:36]
+[ci8FBC] eee
+T-hgf kjjgasd hjgad
+
+[08:38:36]
+[VNC/I0] eebot
+Hgf Kjjgasd Hjgad
+
+[08:38:50]
+[ci8FBC] eee
+MS-i love you
+
+[08:38:50]
+[VNC/I0] eebot
+．． ．＿．．＿＿＿．．．＿． ＿．＿＿＿＿＿．．＿
+
+[08:39:36]
+[VNC/I0] eebot
+hello ee
+
+[08:39:39]
+[VNC/I0] eebot
+[Started] 2022.06.04 08:39:39
+
+[08:39:40]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[08:39:44]
+[ci8FBC] ee
+MS-i love you
+
+[08:39:44]
+[VNC/I0] eebot
+．．
+．＿．．＿＿＿．．．＿．
+＿．＿＿＿＿＿．．＿
+
+[08:40:06]
+[ci8FBC] ee
+MS-i love yo u
+
+[08:40:06]
+[VNC/I0] eebot
+．．
+．＿．．＿＿＿．．．＿．
+＿．＿＿＿＿＿
+．．＿
+
+[08:40:14]
+[ci8FBC] ee
+MS-a
+
+[08:40:14]
+[VNC/I0] eebot
+．＿
+
+[08:40:19]
+[ci8FBC] ee
+MS-abc
+
+[08:40:19]
+[VNC/I0] eebot
+．＿＿．．．＿．＿．
+
+[09:03:10]
+[VNC/I0] eebot
+2022.06.04 09:03:09
+
+[09:03:10]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[09:04:04]
+[VNC/I0] eebot
+2022.06.04 09:04:03
+
+[09:04:04]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[09:13:04]
+[VNC/I0] eebot
+·
+msmset0的博客
+https:\/\/www.cnblogs.com\/MemsetZero\/
+
+[09:24:43]
+[VNC/I0] eebot_547
+awa eb的昵称卡在里面了
+
+[09:28:13]
+[VNC/I0] eebot_969
+\/color 44FF00
+
+[09:28:13]
+[VNC/I0] eebot_969
+awa eb的昵称卡在里面了
+
+[09:28:13]
+[VNC/I0] eebot_547
+hi eebot_969
+
+[09:28:13]
+[VNC/I0] eebot_969
+\/color 44FF00
+
+[09:28:13]
+[VNC/I0] eebot_969
+awa eb的昵称卡在里面了
+
+[09:28:15]
+[VNC/I0] eebot_547
+hi eebot_969
+
+[09:28:27]
+[VNC/I0] eebot_969
+hi yo eee
+
+[09:28:27]
+[VNC/I0] eebot_969
+hi yo eee
+
+[09:28:27]
+[VNC/I0] eebot_547
+hello eee
+
+[09:28:27]
+[VNC/I0] eebot_547
+hello eee
+
+[09:28:28]
+[ci8FBC] eee
+啊
+
+[09:28:28]
+[ci8FBC] eee
+啊
+
+[09:28:32]
+[ci8FBC] eee
+聊天记录统计
+
+[09:28:32]
+[ci8FBC] eee
+聊天记录统计
+
+[09:29:07]
+[VNC/I0] eebot_547
+hi yo eebot_872
+
+[09:29:07]
+[VNC/I0] eebot_547
+hi yo eebot_872
+
+[09:29:07]
+[ci8FBC] eee
+聊天记录统计
+
+[09:29:07]
+[ci8FBC] eee
+聊天记录统计
+
+[09:30:06]
+[VNC/I0] eebot_149
+awa eb的昵称卡在里面了
+
+[09:30:06]
+[VNC/I0] eebot_149
+awa eb的昵称卡在里面了
+
+[09:30:06]
+[VNC/I0] eebot_547
+hi eebot_149
+
+[09:30:06]
+[VNC/I0] eebot_547
+hi eebot_149
+
+[09:30:07]
+[ci8FBC] eee
+聊天记录统计
+
+[09:30:07]
+[ci8FBC] eee
+聊天记录统计
+
+[09:35:25]
+[VNC/I0] eebot_39
+\/color 44FF00
+
+[09:35:25]
+[VNC/I0] eebot_39
+\/color 44FF00
+
+[09:35:25]
+[VNC/I0] eebot_39
+awa eb的昵称卡在里面了
+
+[09:35:26]
+[VNC/I0] eebot_547
+hi eebot_39
+
+[09:35:25]
+[VNC/I0] eebot_39
+awa eb的昵称卡在里面了
+
+[09:35:26]
+[VNC/I0] eebot_547
+hi eebot_39
+
+[09:35:44]
+[VNC/I0] eebot_157
+awa eb的昵称卡在里面了
+
+[09:35:44]
+[VNC/I0] eebot_547
+hello eebot_157
+
+[09:35:44]
+[VNC/I0] eebot_157
+awa eb的昵称卡在里面了
+
+[09:35:45]
+[VNC/I0] eebot_547
+hello eebot_157
+
+[09:36:16]
+[ci8FBC] eee
+聊天记录统计
+
+[09:37:18]
+[VNC/I0] eebot_121
+awa eb的昵称卡在里面了
+
+[09:37:19]
+[ci8FBC] eee
+聊天记录统计
+
+[09:38:37]
+[VNC/I0] eebot_117
+\/color 44FF00
+
+[09:38:37]
+[VNC/I0] eebot_117
+awa eb的昵称卡在里面了
+
+[09:38:45]
+[ci8FBC] eee
+聊天记录统计
+
+[09:38:46]
+[VNC/I0] eebot_117
+13（eebot_547）
+11（eee）
+6（eebot_969）
+3（eebot）
+2（eebot_149）
+2（eebot_39）
+1（eebot_157）
+
+[09:40:48]
+[VNC/I0] eebot
+2022.06.04 09:40:48
+
+[09:40:48]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[09:46:56]
+[VNC/I0] eebot
+hello eebot_699
+
+[09:46:56]
+[VNC/I0] eebot
+hello eebot_699
+
+[09:46:57]
+[ci8FBC] eee
+统计
+
+[09:46:57]
+[ci8FBC] eee
+统计
+
+[09:46:57]
+[VNC/I0] eebot_699
+启动时间：2022.06.04 09:46:54
+存活时长：2.7331440448760986s
+·
+总排行：
+2（eee）
+·
+总条数：2
+本次条数：2
+
+[09:46:57]
+[VNC/I0] eebot_699
+启动时间：2022.06.04 09:46:54
+存活时长：2.7331440448760986s
+·
+总排行：
+2（eee）
+·
+总条数：2
+本次条数：2
+
+[09:47:06]
+[ci8FBC] eee
+统计
+
+[09:47:06]
+[ci8FBC] eee
+统计
+
+[09:47:06]
+[VNC/I0] eebot_699
+启动时间：2022.06.04 09:46:54
+存活时长：11.943849325180054s
+·
+总排行：
+4（eee）
+1（eebot_699）
+·
+总条数：5
+本次条数：4
+
+[09:47:06]
+[VNC/I0] eebot_699
+启动时间：2022.06.04 09:46:54
+存活时长：11.943849325180054s
+·
+总排行：
+4（eee）
+1（eebot_699）
+·
+总条数：5
+本次条数：4
+
+[09:48:11]
+[ci8FBC] eee
+统计
+
+[09:48:11]
+[ci8FBC] eee
+统计
+
+[09:48:11]
+[VNC/I0] eebot_699
+启动时间：2022.06.04 09:46:54
+存活时长：77.45846724510193s
+·
+总排行：
+5（eee）
+2（eebot_699）
+·
+总条数：7
+本次条数：6
+
+[09:48:11]
+[VNC/I0] eebot_699
+启动时间：2022.06.04 09:46:54
+存活时长：77.45846724510193s
+·
+总排行：
+5（eee）
+2（eebot_699）
+·
+总条数：7
+本次条数：6
+
+[09:49:26]
+[VNC/I0] eebot
+@eebot_699 
+
+[09:49:26]
+[VNC/I0] eebot
+@eebot_699 
+
+[09:49:26]
+[VNC/I0] eebot_699
+@eebot_699 
+
+[09:49:26]
+[VNC/I0] eebot
+代码运行成功
+
+[09:49:26]
+[VNC/I0] eebot_699
+代码运行成功
+
+[09:49:26]
+[VNC/I0] eebot_699
+@eebot_699 
+
+[09:49:29]
+[VNC/I0] eebot
+代码运行成功
+
+[09:49:29]
+[VNC/I0] eebot
+eb能不能去华为 apple啥的实体店去刷屏
+
+[09:49:29]
+[VNC/I0] eebot_699
+代码运行成功
+
+[09:49:29]
+[VNC/I0] eebot
+eb能不能去华为 apple啥的实体店去刷屏
+
+[09:49:39]
+[VNC/I0] eebot
+2022.06.04 09:49:38
+
+[09:49:39]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[09:50:07]
+[VNC/I0] eebot
+2022.06.04 09:50:07
+
+[09:50:07]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[09:50:15]
+[VNC/I0] eebot
+@eebot 
+
+[09:50:15]
+[VNC/I0] eebot
+代码运行成功
+
+[09:50:20]
+[ci8FBC] eee
+统计
+
+[09:50:20]
+[VNC/I0] eebot
+启动时间：2022.06.04 09:50:07
+存活时长：12.97781491279602s
+·
+总排行：
+2（eee）
+·
+总条数：2
+本次条数：6
+
+[09:51:47]
+[VNC/I0] eebot
+2022.06.04 09:51:46
+
+[09:51:47]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[09:51:48]
+[ci8FBC] eee
+统计
+
+[09:51:48]
+[VNC/I0] eebot
+启动时间：2022.06.04 09:51:46
+存活时长：2s
+·
+总排行：
+3（eee）
+·
+总条数：3
+本次条数：3
+
+[09:53:36]
+[VNC/I0] eebot
+2022.06.04 09:53:35
+
+[09:53:36]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[09:53:37]
+[ci8FBC] eee
+统计
+
+[09:53:37]
+[VNC/I0] eebot
+启动时间：2022.06.04 09:53:35
+存活时长：0.03333333333333333min2ss
+·
+总排行：
+4（eee）
+·
+总条数：4
+本次条数：3
+
+[09:53:52]
+[ci8FBC] eee
+统计
+
+[09:53:52]
+[VNC/I0] eebot
+启动时间：2022.06.04 09:53:35
+存活时长：0.2833333333333333min17ss
+·
+总排行：
+5（eee）
+·
+总条数：5
+本次条数：5
+
+[11:32:23]
+[VNC/I0] eebot
+2022.06.04 11:32:22
+
+[11:32:23]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[11:32:24]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[11:32:50]
+[VNC/I0] eebot
+hey yo eee
+
+[11:32:50]
+[VNC/I0] eebot
+hi yo eeee
+
+[11:32:55]
+[VNC/I0] eebot
+hey yo eeeee
+
+[11:32:58]
+[ci8FBC] eee
+生草机
+
+[11:32:58]
+[VNC/I0] eebot
+·
+示例：
+纸片君在厕所吃屎 看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[11:32:58]
+[VNC/I0] eebot
+请用1报数
+
+[11:32:59]
+[ci8FBC] eee
+1
+
+[11:33:00]
+[VNC/I0] eebot
+eee成功加入 现在有1人
+
+[11:33:02]
+[ci8FBC] eeeee
+1
+
+[11:33:02]
+[VNC/I0] eebot
+eeeee成功加入 现在有2人
+
+[11:33:04]
+[ci8FBC] eeee
+1
+
+[11:33:05]
+[VNC/I0] eebot
+eeee成功加入 现在有3人
+
+[11:33:06]
+[ci8FBC] eeee
+开始游戏
+
+[11:33:07]
+[VNC/I0] eebot
+生草机游戏开始
+
+[11:33:07]
+[VNC/I0] eebot
+@eee @eeeee @eeee 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[11:33:55]
+[VNC/I0] eebot
+2022.06.04 11:33:54
+
+[11:33:55]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[11:33:55]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[11:33:57]
+[ci8FBC] eee
+生草机
+
+[11:33:57]
+[VNC/I0] eebot
+·
+示例：
+纸片君在厕所吃屎 看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[11:33:57]
+[VNC/I0] eebot
+请用1报数
+
+[11:33:58]
+[ci8FBC] eee
+1
+
+[11:33:58]
+[VNC/I0] eebot
+eee成功加入 现在有1人
+
+[11:34:00]
+[ci8FBC] eeee
+1
+
+[11:34:00]
+[VNC/I0] eebot
+eeee成功加入 现在有2人
+
+[11:34:02]
+[ci8FBC] eeeee
+1
+
+[11:34:02]
+[VNC/I0] eebot
+eeeee成功加入 现在有3人
+
+[11:34:06]
+[ci8FBC] eeeee
+开始游戏
+
+[11:34:06]
+[VNC/I0] eebot
+生草机游戏开始
+
+[11:34:06]
+[VNC/I0] eebot
+@eeee @eee @eeeee 
+注意查看私聊 由于是按顺序来 部分人的私聊通知还在等待中-
+
+[11:34:21]
+[VNC/I0] eebot
+[None] Hi
+Gu
+
+[11:34:26]
+[VNC/I0] eebot
+[None] Hi
+Good morning 
+
+[11:35:50]
+[ci8FBC] eee
+信息
+
+[11:35:53]
+[VNC/I0] eebot
+[c01PWj] Mr_Zhang
+hello
+
+[11:36:14]
+[VNC/I0] eebot
+嗨害嗨 故事新鲜出炉啦
+
+[11:36:15]
+[VNC/I0] eebot
+bihaitian在电脑病毒中觉得你是小天使
+
+[11:36:15]
+[VNC/I0] eebot
+·
+详细信息：
+bihaitian（eeee）
+在电脑病毒中（替eee写的eebot）
+觉得你是小天使（替eeeee写的eebot）
+·
+本次参与人数：3
+
+[11:37:23]
+[VNC/I0] eebot_609
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[11:37:24]
+[VNC/I0] eebot_609
+awa eb的昵称卡在里面了
+
+[11:37:33]
+[VNC/I0] eebot_609
+[sBsFHM] eebot_781
+本聊天室已连通 [XChat｜xq102210]
+
+[11:39:09]
+[VNC/I0] eebot_609
+[None] Hi
+Hi
+
+[11:39:15]
+[VNC/I0] eebot_609
+[None] Hi
+Emily 
+
+[11:40:55]
+[VNC/I0] eebot_609
+[None] Drunk
+。。。
+
+[11:41:19]
+[VNC/I0] eebot_609
+[None] riyaz
+Hi
+  Bbjnbhhhj.
+
+[11:41:44]
+[VNC/I0] eebot_609
+[None] simha
+ Hello 
+
+[11:41:50]
+[VNC/I0] eebot_609
+[None] Emil
+Hai bro 
+
+[11:42:02]
+[VNC/I0] eebot_609
+[None] Emil
+what are you doing 
+
+[11:42:11]
+[VNC/I0] eebot_609
+[None] xorox
+.
+
+[11:42:16]
+[VNC/I0] eebot_609
+[None] Drunk
+guess
+
+[11:42:24]
+[VNC/I0] eebot_609
+[None] hi
+Hi
+
+[11:42:25]
+[VNC/I0] eebot_609
+[None] simha
+Where are you from
+
+[11:42:34]
+[VNC/I0] eebot_609
+[None] Emil
+what should I guess 
+
+[11:42:38]
+[VNC/I0] eebot_609
+[None] Drunk
+CHINA
+
+[11:42:43]
+[VNC/I0] eebot_609
+[None] hi
+India
+
+[11:42:46]
+[VNC/I0] eebot_609
+[None] Drunk
+啊
+
+[11:42:53]
+[VNC/I0] eebot_609
+[None] Drunk
+really？
+
+[11:42:58]
+[VNC/I0] eebot_609
+[None] xorox
+.
+
+[11:43:01]
+[VNC/I0] eebot_609
+[None] simha
+I'm From Pakistan
+
+[11:43:26]
+[VNC/I0] eebot_609
+[None] simha
+Im 24 girl'and you
+
+[11:43:49]
+[VNC/I0] eebot_609
+[None] Emil
+sooooooo
+
+[11:44:38]
+[VNC/I0] eebot_609
+[None] Drunk
+aha
+
+[11:44:49]
+[VNC/I0] eebot_609
+[PXgRpV] Sun_believers_TUSK
+hi
+
+[11:45:09]
+[VNC/I0] eebot_609
+[None] Drunk
+嗯。。。
+
+[11:45:11]
+[VNC/I0] eebot_609
+[None] Drunk
+又是你
+
+[11:46:19]
+[VNC/I0] eebot_609
+[sBsFHM] eebot_527
+本聊天室已连通 [XChat｜xq102210]
+
+[11:47:27]
+[VNC/I0] eebot_609
+[None] Q
+:(
+
+[11:50:30]
+[VNC/I0] eebot_609
+[None] hi
+@ZhangBot hai
+
+[11:50:47]
+[VNC/I0] eebot_609
+[None] althaf
+Hi@hi 
+
+[11:50:58]
+[VNC/I0] eebot_609
+[None] althaf
+@bo_od 
+
+[11:51:12]
+[VNC/I0] eebot_609
+[None] Lucia
+How are you
+
+[11:51:24]
+[VNC/I0] eebot_609
+[PXgRpV] Sun_believers_TUSK
+not bad
+
+[11:52:14]
+[VNC/I0] eebot_609
+[None] lemo
+Hai
+
+[11:52:24]
+[VNC/I0] eebot_609
+[None] Lucia
+Hai
+
+[13:56:15]
+[VNC/I0] eebot
+2022.06.04 13:56:15
+
+[13:56:16]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[13:56:16]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[13:56:21]
+[VNC/I0] eebot
+2022.06.04
+
+[13:56:21]
+[VNC/I0] eebot
+代码运行成功
+
+[14:00:19]
+[VNC/I0] eebot
+2022.06.04 14:00:19
+
+[14:00:19]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[14:00:20]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[14:00:24]
+[ci8FBC] ee
+O-send(chat)
+
+[14:00:24]
+[VNC/I0] eebot
+代码运行失败
+
+[14:00:29]
+[ci8FBC] ee
+O-send(eee)
+
+[14:00:30]
+[VNC/I0] eebot
+代码运行失败
+
+[14:00:37]
+[ci8FBC] ee
+O-send(botname)
+
+[14:00:37]
+[VNC/I0] eebot
+eebot
+
+[14:00:37]
+[VNC/I0] eebot
+代码运行成功
+
+[14:00:47]
+[ci8FBC] ee
+O-send(botnick)
+
+[14:00:47]
+[VNC/I0] eebot
+eb
+
+[14:00:47]
+[VNC/I0] eebot
+代码运行成功
+
+[14:00:54]
+[ci8FBC] ee
+O-send(chat)
+
+[14:00:54]
+[VNC/I0] eebot
+代码运行失败
+
+[14:01:06]
+[VNC/I0] eebot
+2022.06.04 14:01:05
+
+[14:01:06]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[14:01:06]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[14:02:19]
+[VNC/I0] eebot
+2022.06.04 14:02:18
+
+[14:02:19]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[14:02:20]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[14:02:26]
+[ci8FBC] ee
+O-send(aa)
+
+[14:02:26]
+[VNC/I0] eebot
+代码运行失败
+
+[14:07:52]
+[VNC/I0] eebot
+2022.06.04 14:07:52
+
+[14:07:52]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[14:07:55]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[14:07:55]
+[ci8FBC] ee
+O-send(aa)
+
+[14:07:55]
+[VNC/I0] eebot
+代码运行失败
+
+[14:08:05]
+[ci8FBC] ee
+O-send(botnick)
+
+[14:08:06]
+[VNC/I0] eebot
+eb
+
+[14:08:06]
+[VNC/I0] eebot
+代码运行成功
+
+[14:10:34]
+[VNC/I0] eebot
+2022.06.04 14:10:33
+
+[14:10:34]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[14:10:35]
+[ci8FBC] ee
+O-send(botnick)
+
+[14:10:35]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[14:10:35]
+[VNC/I0] eebot
+代码运行失败
+
+[14:10:37]
+[ci8FBC] ee
+O-send(botnick)
+
+[14:10:37]
+[VNC/I0] eebot
+代码运行失败
+
+[14:10:44]
+[ci8FBC] ee
+O-send("hh")
+
+[14:10:44]
+[VNC/I0] eebot
+代码运行失败
+
+[14:11:25]
+[ci8FBC] ee
+O-print("a")
+
+[14:11:25]
+[VNC/I0] eebot
+代码运行失败
+
+[14:11:42]
+[ci8FBC] ee
+O-sb.sb
+
+[14:11:42]
+[VNC/I0] eebot
+代码运行失败
+
+[14:11:44]
+[ci8FBC] ee
+O-sb.sb()
+
+[14:11:44]
+[VNC/I0] eebot
+代码运行失败
+
+[14:12:19]
+[VNC/I0] eebot
+2022.06.04 14:12:18
+
+[14:12:19]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[14:12:20]
+[VNC/I0] eebot
+本聊天室已连通 [hack.chat｜your-channel] 
+
+[14:12:23]
+[ci8FBC] ee
+O
+
+[14:12:43]
+[ci8FBC] ee
+O-send(global())
+
+[14:12:43]
+[VNC/I0] eebot
+代码运行失败
+
+[14:12:53]
+[ci8FBC] ee
+O-global()
+
+[14:12:53]
+[VNC/I0] eebot
+代码运行失败
+
+[14:13:19]
+[VNC/I0] eebot
+·
+小张软件
+https://zhangsoft611488867.wordpress.com/
+
+[14:13:21]
+[ci8FBC] ee
+O-send("a")
+
+[14:13:21]
+[VNC/I0] eebot
+a
+
+[14:13:21]
+[VNC/I0] eebot
+代码运行成功
+
+[14:14:53]
+[ci8FBC] ee
+O-global
+
+[14:14:53]
+[VNC/I0] eebot
+代码运行失败
+
+[14:15:55]
+[ci8FBC] ee
+O-send(nicks1)
+
+[14:15:56]
+[VNC/I0] eebot
+['ee', 'eebot']
+
+[14:15:56]
+[VNC/I0] eebot
+代码运行成功
+
+[14:16:28]
+[ci8FBC] ee
+O-send("/w ee "+globals())
+
+[14:16:28]
+[VNC/I0] eebot
+代码运行失败
+
+[14:16:39]
+[ci8FBC] ee
+O-a=globals()
+send("/w ee "+a)
+
+[14:16:39]
+[VNC/I0] eebot
+代码运行失败
+
+[14:16:58]
+[ci8FBC] ee
+O-locals()
+
+[14:16:58]
+[VNC/I0] eebot
+代码运行成功
+
+[14:17:09]
+[ci8FBC] ee
+O-send(locals())
+
+[14:17:09]
+[VNC/I0] eebot
+{'text': 'send(locals())', 'code': 'send(locals())'}
+
+[14:17:09]
+[VNC/I0] eebot
+代码运行成功
+
+[14:17:13]
+[VNC/I0] eebot
+hey 4n0n4me
+
+[14:29:05]
+[VNC/I0] eebot_177
+awa eb的昵称卡在里面了
+
+[14:29:12]
+[3rk9wA] Mr_Zhang
+功能
+
+[14:29:16]
+[3rk9wA] Mr_Zhang
+xc
+
+[14:29:41]
+[VNC/I0] eebot_177
+hey eee
+
+[14:29:49]
+[ci8FBC] eee
+O
+
+[14:29:54]
+[ci8FBC] eee
+O-send(rese)
+
+[14:29:55]
+[VNC/I0] eebot_177
+None
+
+[14:29:55]
+[VNC/I0] eebot_177
+代码运行成功
+
+[14:30:08]
+[3rk9wA] Mr_Zhang
+建议把常驻成员改为常驻用户
+
+[14:30:16]
+[ci8FBC] eee
+好主意
+
+[14:30:23]
+[3rk9wA] Mr_Zhang
+避免某些人说风凉话
+
+[14:30:32]
+[3rk9wA] Mr_Zhang
+点名慕容猪
+
+[14:31:19]
+[ci8FBC] eee
+应该删点常驻用户吗
+
+[14:31:26]
+[3rk9wA] Mr_Zhang
+额
+
+[14:31:30]
+[3rk9wA] Mr_Zhang
+应该
+
+[14:31:33]
+[ci8FBC] eee
+里面有很多都不常驻
+
+[14:31:46]
+[3rk9wA] Mr_Zhang
+是啊
+
+[14:31:53]
+[3rk9wA] Mr_Zhang
+还得删除违规用户
+
+[14:32:00]
+[3rk9wA] Mr_Zhang
+点名慕容
+
+[14:32:11]
+[ci8FBC] eee
+被封了的都有谁
+
+[14:32:26]
+[3rk9wA] Mr_Zhang
+没有谁
+
+[14:32:33]
+[3rk9wA] Mr_Zhang
+只有lbw～
+
+[14:32:49]
+[ci8FBC] eee
+Jonasu是lbw？
+
+[14:32:55]
+[3rk9wA] Mr_Zhang
+Yes
+
+[14:33:09]
+[3rk9wA] Mr_Zhang
+那次他承认的
+
+[14:33:35]
+[3rk9wA] Mr_Zhang
+顺便把bo_od删了吧
+
+[14:33:42]
+[3rk9wA] Mr_Zhang
+他也不来了
+
+[14:33:51]
+[3rk9wA] Mr_Zhang
+~~虽然有token~~
+
+[14:34:29]
+[ci8FBC] eee
+~~不行 还是放着吧~~
+
+[14:34:34]
+[ci8FBC] eee
+再加几个Bot
+
+[14:34:35]
+[3rk9wA] Mr_Zhang
+27似乎也不常来了
+
+[14:34:39]
+[3rk9wA] Mr_Zhang
+好
+
+[14:34:50]
+[3rk9wA] Mr_Zhang
+可以参考我写的readme
+
+[14:35:09]
+[ci8FBC] eee
+readme让ZhangBot来
+
+[14:35:22]
+[3rk9wA] Mr_Zhang
+额
+
+[14:35:52]
+[3rk9wA] Mr_Zhang
+~~本人最近正在考虑让ZhangBot退役~~
+
+[14:36:10]
+[3rk9wA] Mr_Zhang
+大多数用户说他太烦了
+
+[14:36:19]
+[3rk9wA] Mr_Zhang
+那是一个时代的产物啊
+
+[14:36:25]
+[ci8FBC] eee
+好家伙
+
+[14:36:27]
+[3rk9wA] Mr_Zhang
+（感慨万千）
+
+[14:37:01]
+[3rk9wA] Mr_Zhang
+想当年ZhangBot风光无限
+
+[14:37:11]
+[3rk9wA] Mr_Zhang
+以及
+
+[14:37:43]
+[3rk9wA] Mr_Zhang
+$$\Huge\color{red}{热烈欢迎小张入场！}$$
+
+[14:38:09]
+[ci8FBC] eee
+hahaha
+
+[14:38:37]
+[3rk9wA] Mr_Zhang
+虽然只有几个功能
+
+[14:38:46]
+[3rk9wA] Mr_Zhang
+那时候流行bot
+
+[14:39:02]
+[3rk9wA] Mr_Zhang
+唉
+
+[14:40:43]
+[3rk9wA] Mr_Zhang
+不知eebot在你心里的地位是？
+
+[14:41:05]
+[ci8FBC] eee
+算上亲女儿吧（
+
+[14:41:08]
+[ci8FBC] eee
+是
+
+[14:41:21]
+[ci8FBC] eee
+>3rk9wA Mr_Zhang：
+>那时候流行bot
+
+@Mr_Zhang 那时候真的hc一堆bot
+
+[14:41:40]
+[3rk9wA] Mr_Zhang
+是啊
+
+[14:41:44]
+[ci8FBC] eee
+当年我写eb
+
+[14:41:47]
+[VNC/I0] eebot_177
+哈哈。好棒啊。主人
+
+[14:41:54]
+[3rk9wA] Mr_Zhang
+我还记得那次进入yc
+
+[14:42:11]
+[3rk9wA] Mr_Zhang
+一群bot陆陆续续地欢迎
+
+[14:42:18]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[14:42:20]
+[ci8FBC] eee
+@eebot_177 ？？？？？？？？
+
+[14:42:23]
+[VNC/I0] eebot_177
+eb赢了（
+
+[14:42:24]
+[3rk9wA] Mr_Zhang
+仿佛在举行一种仪式
+
+[14:42:37]
+[ci8FBC] eee
+现在还是 越来越多
+
+[14:42:53]
+[3rk9wA] Mr_Zhang
+似乎没有那种感觉了
+
+[14:42:58]
+[3rk9wA] Mr_Zhang
+我看看
+
+[14:42:58]
+[ci8FBC] eee
+>ci8FBC eee：
+>当年我写eb
+
+是因为Wcy_Bot没能实现我想要的聊天效果
+
+[14:43:03]
+[VNC/I0] eebot_677
+awa eb的昵称卡在里面了
+
+[14:43:08]
+[3rk9wA] Mr_Zhang
+ZhangBot
+
+[14:43:12]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[14:43:17]
+[3rk9wA] Mr_Zhang
+ZhangProtectorPlus
+
+[14:43:20]
+[ci8FBC] eee
+bot
+
+[14:43:28]
+[3rk9wA] Mr_Zhang
+bo_od
+
+[14:43:35]
+[VNC/I0] eebot
+2022.06.04 14:43:34
+
+[14:43:35]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[14:43:47]
+[3rk9wA] Mr_Zhang
+没了
+
+[14:43:55]
+[3rk9wA] Mr_Zhang
+现在在线的
+
+[14:43:58]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[14:44:21]
+[3rk9wA] Mr_Zhang
+以前还有神通广大的notBot
+
+[14:44:25]
+[ci8FBC] eee
+是啊
+
+[14:44:32]
+[3rk9wA] Mr_Zhang
+我当初真的很佩服
+
+[14:44:38]
+[3rk9wA] Mr_Zhang
+个个比我厉害
+
+[14:44:51]
+[3rk9wA] Mr_Zhang
+以及可爱的eebot
+
+[14:44:52]
+[ci8FBC] eee
+不 你还会vb
+
+[14:44:54]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈
+
+[14:44:57]
+[ci8FBC] eee
+yeeees
+
+[14:44:59]
+[3rk9wA] Mr_Zhang
+呵呵
+
+[14:45:21]
+[3rk9wA] Mr_Zhang
+如果未来疫情再次爆发
+
+[14:45:32]
+[3rk9wA] Mr_Zhang
+yc可能又会热闹起来
+
+[14:45:43]
+[ci8FBC] eee
+是啊-
+
+[14:45:54]
+[ci8FBC] eee
+等暑假也会热闹
+
+[14:45:55]
+[3rk9wA] Mr_Zhang
+也可能.......程序员都回到yc
+
+[14:45:59]
+[ci8FBC] eee
+woowoc
+
+[14:46:07]
+[3rk9wA] Mr_Zhang
+到时候
+
+[14:46:08]
+[3rk9wA] Mr_Zhang
+啊
+
+[14:46:09]
+[ci8FBC] eee
+我要住在xc（
+
+[14:46:16]
+[3rk9wA] Mr_Zhang
+我看也是
+
+[14:46:20]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[14:46:20]
+[VNC/I0] eebot
+草哈哈哈哈哈
+
+[14:46:36]
+[edDiBU] 4n0n4me
+notbot很强大
+
+[14:46:40]
+[edDiBU] 4n0n4me
+却是黑茶做的
+
+[14:46:42]
+[3rk9wA] Mr_Zhang
+是啊
+
+[14:46:46]
+[VNC/I0] eebot_390
+awa eb的昵称卡在里面了
+
+[14:46:46]
+[VNC/I0] eebot
+hi yo eebot_390
+
+[14:46:46]
+[VNC/I0] eebot_390
+awa eb的昵称卡在里面了
+
+[14:46:46]
+[VNC/I0] eebot
+hi yo eebot_390
+
+[14:46:49]
+[edDiBU] 4n0n4me
+我认为eebot已经比notbot更厉害了
+
+[14:46:49]
+[edDiBU] 4n0n4me
+我认为eebot已经比notbot更厉害了
+
+[14:46:51]
+[edDiBU] 4n0n4me
+而且还可爱（
+
+[14:46:51]
+[edDiBU] 4n0n4me
+而且还可爱（
+
+[14:46:52]
+[3rk9wA] Mr_Zhang
+可惜黑茶跑路了
+
+[14:46:52]
+[3rk9wA] Mr_Zhang
+可惜黑茶跑路了
+
+[14:47:01]
+[ci8FBC] eee
+woowowoowwThankss
+
+[14:47:01]
+[ci8FBC] eee
+woowowoowwThankss
+
+[14:47:05]
+[3rk9wA] Mr_Zhang
+对了
+
+[14:47:05]
+[3rk9wA] Mr_Zhang
+对了
+
+[14:47:06]
+[edDiBU] 4n0n4me
+哎，逝者如斯夫，不舍昼夜。
+
+[14:47:06]
+[edDiBU] 4n0n4me
+哎，逝者如斯夫，不舍昼夜。
+
+[14:47:15]
+[VNC/I0] eebot
+2022.06.04 14:47:14
+
+[14:47:15]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[14:47:18]
+[3rk9wA] Mr_Zhang
+茶壶是notBot吗？
+
+[14:47:22]
+[ci8FBC] eee
+是
+
+[14:47:28]
+[3rk9wA] Mr_Zhang
+啊
+
+[14:47:31]
+[edDiBU] 4n0n4me
+我没见过茶壶
+
+[14:47:37]
+[ci8FBC] eee
+O-send(botname)
+
+[14:47:37]
+[VNC/I0] eebot
+None
+
+[14:47:37]
+[VNC/I0] eebot
+代码运行成功
+
+[14:47:42]
+[ci8FBC] eee
+茶壶是在xc的
+
+[14:47:48]
+[3rk9wA] Mr_Zhang
+你有当初的notBot的代码吗？
+
+[14:47:55]
+[ci8FBC] eee
+没有
+
+[14:47:59]
+[3rk9wA] Mr_Zhang
+啊
+
+[14:48:04]
+[ci8FBC] eee
+O-send(botpass)
+
+[14:48:04]
+[VNC/I0] eebot
+None
+
+[14:48:04]
+[VNC/I0] eebot
+代码运行成功
+
+[14:48:09]
+[ci8FBC] eee
+OK 这样就好了
+
+[14:48:31]
+[3rk9wA] Mr_Zhang
+O-send(str(5))
+
+[14:48:31]
+[VNC/I0] eebot
+5
+
+[14:48:31]
+[VNC/I0] eebot
+代码运行成功
+
+[14:48:47]
+[3rk9wA] Mr_Zhang
+茶壶走了
+
+[14:48:52]
+[ci8FBC] eee
+>3rk9wA Mr_Zhang：
+>你有当初的notBot的代码吗？
+
+@Mr_Zhang 我一般不会主动要的哈哈哈
+
+[14:48:53]
+[ci8FBC] eee
+是啊
+
+[14:49:37]
+[3rk9wA] Mr_Zhang
+（你知道我当初为什么没有选择把eebot作为Zhang系列Bot的模版吗？）
+
+[14:50:02]
+[ci8FBC] eee
+（为什么）
+
+[14:50:50]
+[3rk9wA] Mr_Zhang
+（因为那时候我Python比较差，看不太懂）
+
+[14:51:12]
+[3rk9wA] Mr_Zhang
+于是自己写模版
+
+[14:51:15]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈哈 现在有进步了
+
+[14:51:29]
+[3rk9wA] Mr_Zhang
+小秘密
+
+[14:51:30]
+[ci8FBC] eee
+我也差不多（
+
+[14:51:48]
+[ci8FBC] eee
+我当年不知道怎么写模板才用的foolishbird
+
+[14:51:52]
+[ci8FBC] eee
+反过来了（
+
+[14:51:57]
+[3rk9wA] Mr_Zhang
+ZhangBot的模版其实是HackChat官方写的库
+
+[14:52:05]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[14:52:45]
+[3rk9wA] Mr_Zhang
+那个库我当年不是很懂，所以只会单纯的发信息，不会发私信
+
+[14:52:53]
+[3rk9wA] Mr_Zhang
+也不会欢迎语
+
+[14:53:06]
+[3rk9wA] Mr_Zhang
+更没有拜拜
+
+[14:53:29]
+[ci8FBC] eee
+wowow
+
+[14:53:45]
+[ci8FBC] eee
+>3rk9wA Mr_Zhang：
+>那个库我当年不是很懂，所以只会单纯的发信息，不会发私信
+
+++1
+
+[14:53:49]
+[3rk9wA] Mr_Zhang
+呵呵
+
+[14:53:49]
+[VNC/I0] eebot
+呵呵呵
+
+[14:53:55]
+[3rk9wA] Mr_Zhang
+你也用过？
+
+[14:54:02]
+[3rk9wA] Mr_Zhang
+我现在完全懂了
+
+[14:54:07]
+[ci8FBC] eee
+写的时候参考过
+
+[14:54:11]
+[3rk9wA] Mr_Zhang
+也会改造了
+
+[14:54:25]
+[ci8FBC] eee
+我第一次写eebot的时候 
+
+[14:54:35]
+[ci8FBC] eee
+把代码拿给MuRongPIG看 
+
+[14:54:40]
+[ci8FBC] eee
+结果被说写得很烂哈哈哈
+
+[14:54:48]
+[3rk9wA] Mr_Zhang
+同感
+
+[14:55:07]
+[3rk9wA] Mr_Zhang
+当时我看到你的代码以后，我也觉得我的代码。。。
+
+[14:55:28]
+[ci8FBC] eee
+不 反正现在都有进步了（
+
+[14:55:36]
+[ci8FBC] eee
+继续努力吧~
+
+[14:55:36]
+[3rk9wA] Mr_Zhang
+不像你的代码，有条理
+
+[14:55:39]
+[3rk9wA] Mr_Zhang
+嗯
+
+[14:56:20]
+[3rk9wA] Mr_Zhang
+你还记得ZhangBot的象征性口号吗？
+
+[14:56:37]
+[ci8FBC] eee
+象征性口号？
+
+[14:56:41]
+[3rk9wA] Mr_Zhang
+对
+
+[14:56:55]
+[3rk9wA] Mr_Zhang
+上来就发一句Hello World !
+
+[14:57:00]
+[ci8FBC] eee
+ohhhhhhhhhhhhhhhhhhhh
+
+[14:57:18]
+[ci8FBC] eee
+O-send("Hello World !")
+
+[14:57:19]
+[VNC/I0] eebot
+Hello World !
+
+[14:57:19]
+[VNC/I0] eebot
+代码运行成功
+
+[14:57:46]
+[3rk9wA] Mr_Zhang
+当我第一次看到儿子发了这个，我整个人都跳起来了
+
+[14:58:08]
+[edDiBU] 4n0n4me
+a 
+
+[14:58:11]
+[edDiBU] 4n0n4me
+就我没有进步
+
+[14:58:16]
+[edDiBU] 4n0n4me
+算了算了
+
+[14:58:18]
+[edDiBU] 4n0n4me
+够用
+
+[14:58:24]
+[3rk9wA] Mr_Zhang
+那时候本来打算删掉hello world的
+
+[14:59:14]
+[3rk9wA] Mr_Zhang
+但是一想，这个~~无用的~~功能很有纪念性意义，于是就把它留下来了。
+
+[14:59:20]
+[ci8FBC] eee
+>3rk9wA Mr_Zhang：
+>当我第一次看到儿子发了这个，我整个人都跳起来了
+
+++1 当年看到女儿发hi的时候
+
+[14:59:22]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈
+
+[14:59:33]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[14:59:33]
+[VNC/I0] eebot
+哈哈哈草
+
+[14:59:41]
+[ci8FBC] eee
+>edDiBU 4n0n4me：
+>就我没有进步
+
+@4n0n4me 象棋功能是进步的体现（（
+
+[15:00:30]
+[3rk9wA] Mr_Zhang
+呵呵
+
+[15:00:41]
+[ci8FBC] eee
+哈哈
+
+[15:00:41]
+[VNC/I0] eebot
+草哈哈
+
+[15:00:57]
+[VNC/I0] eebot
+2022.06.04 15:00:56
+
+[15:00:57]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[15:00:58]
+[3rk9wA] Mr_Zhang
+我想想当初还写了啥功能
+
+[15:01:04]
+[3rk9wA] Mr_Zhang
+啊，对
+
+[15:01:10]
+[ci8FBC] eee
+我第一个功能是时间
+
+[15:01:14]
+[edDiBU] 4n0n4me
+我的象棋，写的和垃圾一样
+
+[15:01:14]
+[3rk9wA] Mr_Zhang
+夺命连环 call
+
+[15:01:18]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈
+
+[15:01:24]
+[3rk9wA] Mr_Zhang
+这个。
+
+[15:01:28]
+[edDiBU] 4n0n4me
+你写了ZhangKiller
+
+[15:01:34]
+[3rk9wA] Mr_Zhang
+专门对付某些人的
+
+[15:01:37]
+[edDiBU] 4n0n4me
+ZhangProtector
+
+[15:01:47]
+[3rk9wA] Mr_Zhang
+ZhangLogger
+
+[15:02:05]
+[3rk9wA] Mr_Zhang
+主要作用刷屏
+
+[15:02:13]
+[3rk9wA] Mr_Zhang
+但是容易被封
+
+[15:02:30]
+[3rk9wA] Mr_Zhang
+因为是一股脑发出去的
+
+[15:02:40]
+[3rk9wA] Mr_Zhang
+于是又写了ZhangKiller
+
+[15:02:43]
+[3rk9wA] Mr_Zhang
+真的
+
+[15:02:52]
+[3rk9wA] Mr_Zhang
+当时yc比较乱
+
+[15:03:02]
+[ci8FBC] eee
+我想起
+
+[15:03:11]
+[ci8FBC] eee
+当年27、Light、ZhangKiller
+
+[15:03:22]
+[edDiBU] 4n0n4me
+哎
+
+[15:03:32]
+[ci8FBC] eee
+~~一呼二应~~
+
+[15:03:33]
+[edDiBU] 4n0n4me
+再看看我如今也用bot骂卢本伟
+
+[15:03:40]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[15:03:47]
+[edDiBU] 4n0n4me
+bot骂人真是爽啊（
+
+[15:03:47]
+[ci8FBC] eee
+历史发展的必然趋势（
+
+[15:04:27]
+[3rk9wA] Mr_Zhang
+我那个killer是别人说一句话，用LaTeX回怼2-5次
+
+[15:04:43]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[15:06:07]
+[3rk9wA] Mr_Zhang
+初墨还替我“写了”ZhangFucker
+
+[15:06:24]
+[3rk9wA] Mr_Zhang
+其实是他改名为ZhangFucker
+
+[15:06:31]
+[ci8FBC] eee
+wowowoc
+
+[15:06:39]
+[3rk9wA] Mr_Zhang
+~~自愿当我儿子~~
+
+[15:06:45]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈哈哈哈草
+
+[15:07:32]
+[3rk9wA] Mr_Zhang
+啊
+
+[15:07:36]
+[3rk9wA] Mr_Zhang
+总结一下
+
+[15:08:08]
+[3rk9wA] Mr_Zhang
+>十字街：高中生以及大学生、成年人的聚集地
+
+[15:08:36]
+[3rk9wA] Mr_Zhang
+HackChat：中国学生以及外国成年人聚集地
+
+[15:09:07]
+[3rk9wA] Mr_Zhang
+XChat：小学生、初中生聚集地
+
+[15:09:49]
+[ci8FBC] eee
+>HackChat：中国各年龄段学生以及外国成年人聚集地
+
+[15:09:51]
+[3rk9wA] Mr_Zhang
+啊
+
+[15:10:00]
+[3rk9wA] Mr_Zhang
+lounge似乎出事了
+
+[15:10:00]
+[ci8FBC] eee
+>HackChat：中国各年龄段学生以及外国成年人和~~bot~~聚集地
+
+[15:10:01]
+[3rk9wA] Mr_Zhang
+！
+
+[15:10:03]
+[ci8FBC] eee
+wow
+
+[15:10:03]
+[VNC/I0] eebot
+Q-Q
+
+[15:10:19]
+[ci8FBC] eee
+lounge出什么事了
+
+[15:10:25]
+[ci8FBC] eee
+统计
+
+[15:10:41]
+[3rk9wA] Mr_Zhang
+TUSK在钓色狼
+
+[15:10:45]
+[VNC/I0] eebot
+那必须的 宇宙超级无敌大色狼 丹丹知道的（
+
+[15:10:46]
+[ci8FBC] eee
+wowowoc
+
+[15:10:49]
+[3rk9wA] Mr_Zhang
+有人说
+
+[15:11:56]
+[ci8FBC] eee
+说？
+
+[15:12:26]
+[3rk9wA] Mr_Zhang
+有人说TUSK钓色狼
+
+[15:12:37]
+[VNC/I0] eebot
+2022.06.04 15:12:37
+
+[15:12:37]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[15:12:46]
+[ci8FBC] eee
+TI-10 挂机
+
+[15:12:47]
+[VNC/I0] eebot
+OK eb收到 到时会提醒eee的
+
+[15:12:51]
+[3rk9wA] Mr_Zhang
+似乎不是什么大事
+
+[15:12:54]
+[3rk9wA] Mr_Zhang
+功能
+
+[15:12:56]
+[VNC/I0] eebot
+@eee 已经过去10s了 快去挂机！
+
+[15:12:57]
+[VNC/I0] eebot
+@eee 现在在挂机
+
+[15:13:01]
+[ci8FBC] eee
+list
+
+[15:13:01]
+[VNC/I0] eebot
+·
+挂机列表（1）：
+@eee 现在在挂机
+
+[15:13:18]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈
+
+[15:13:19]
+[VNC/I0] eebot
+@eee 停止了挂机
+
+[15:13:34]
+[ci8FBC] eee
+hi yoooooooooooooooooooooooooooooo
+
+[15:13:37]
+[VNC/I0] eebot
+·
+贤者13的树洞
+https://sage-thirteen.mysxl.cn/
+
+[15:13:44]
+[3rk9wA] Mr_Zhang
+抱歉手滑了
+
+[15:13:51]
+[ci8FBC] eee
+好家伙 没事没事
+
+[15:13:52]
+[3rk9wA] Mr_Zhang
+hiiiiiiiiiiiiiiiiiiiii
+
+[15:13:57]
+[3rk9wA] Mr_Zhang
+功能
+
+[15:15:08]
+[3rk9wA] Mr_Zhang
+各位你们说黑茶为什么发疯啊
+
+[15:15:19]
+[ci8FBC] eee
+我也想不通
+
+[15:15:29]
+[ci8FBC] eee
+本来好好的 突然炸聊天室
+
+[15:15:30]
+[3rk9wA] Mr_Zhang
+他之前挺正常的啊
+
+[15:15:35]
+[3rk9wA] Mr_Zhang
+怪哉
+
+[15:15:44]
+[ci8FBC] eee
+而且还至少两次（
+
+[15:15:47]
+[ci8FBC] eee
+是啊
+
+[15:15:56]
+[ci8FBC] eee
+其实
+
+[15:16:12]
+[ci8FBC] eee
+如果说我是来这个网站的第一个用户
+
+[15:16:17]
+[ci8FBC] eee
+黑茶就是第二个
+
+[15:16:22]
+[ci8FBC] eee
+（还是我拉过来的
+
+[15:16:26]
+[3rk9wA] Mr_Zhang
+是啊
+
+[15:16:31]
+[ci8FBC] eee
+我真的想不通
+
+[15:16:46]
+[3rk9wA] Mr_Zhang
+你第一次是怎么知道xc的呢？
+
+[15:17:01]
+[3rk9wA] Mr_Zhang
+是啊
+
+[15:17:04]
+[ci8FBC] eee
+看到hc有个叫liguiyu的发了网址
+
+[15:17:08]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[15:17:09]
+[3rk9wA] Mr_Zhang
+啊
+
+[15:17:18]
+[3rk9wA] Mr_Zhang
+抽风是突然的
+
+[15:17:26]
+[ci8FBC] eee
+但那时我去了没人（
+
+[15:17:32]
+[3rk9wA] Mr_Zhang
+额
+
+[15:17:40]
+[3rk9wA] Mr_Zhang
+当时那里怎么样呢？
+
+[15:17:58]
+[3rk9wA] Mr_Zhang
+是不是想tc那样？
+
+[15:18:02]
+[ci8FBC] eee
+和hc没有区别
+
+[15:18:06]
+[ci8FBC] eee
+我挂了一个下午
+
+[15:18:06]
+[3rk9wA] Mr_Zhang
+！
+
+[15:18:14]
+[ci8FBC] eee
+连站长都没见到
+
+[15:18:19]
+[3rk9wA] Mr_Zhang
+额
+
+[15:18:21]
+[ci8FBC] eee
+然后又过了一个星期……
+
+[15:18:33]
+[3rk9wA] Mr_Zhang
+站长来了
+
+[15:18:41]
+[3rk9wA] Mr_Zhang
+额
+
+[15:18:46]
+[ci8FBC] eee
+~~我在hc和zzChumo、detele发生了点摩擦~~
+
+[15:18:52]
+[3rk9wA] Mr_Zhang
+嗯
+
+[15:19:00]
+[3rk9wA] Mr_Zhang
+我那时候看到了
+
+[15:19:02]
+[ci8FBC] eee
+就跑去xc了
+
+[15:19:05]
+[3rk9wA] Mr_Zhang
+啊
+
+[15:19:20]
+[3rk9wA] Mr_Zhang
+我那时候看到你和底特律吵架
+
+[15:19:30]
+[3rk9wA] Mr_Zhang
+但是没看到 xc
+
+[15:19:56]
+[ci8FBC] eee
+呸 先去了?chinese 然后去了xc挂着
+
+[15:20:00]
+[3rk9wA] Mr_Zhang
+当时ZhangBot好像不会记录日志吧
+
+[15:20:03]
+[3rk9wA] Mr_Zhang
+额
+
+[15:20:12]
+[ci8FBC] eee
+？
+
+[15:20:17]
+[3rk9wA] Mr_Zhang
+chinese里面的三人组
+
+[15:20:20]
+[VNC/I0] eebot
+一瞬间有一百万个可能
+
+[15:20:30]
+[ci8FBC] eee
+>3rk9wA Mr_Zhang：
+>当时ZhangBot好像不会记录日志吧
+
+收藏夹里
+
+[15:20:34]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[15:20:46]
+[ci8FBC] eee
+熟悉了chinese频道
+
+[15:20:46]
+[3rk9wA] Mr_Zhang
+呵呵
+
+[15:20:48]
+[ci8FBC] eee
+的
+
+[15:20:56]
+[3rk9wA] Mr_Zhang
+是啊
+
+[15:21:09]
+[3rk9wA] Mr_Zhang
+说实话
+
+[15:21:11]
+[ci8FBC] eee
+看到xc多了汉化 一个叫liguiyu的在里面挂着（
+
+[15:21:29]
+[ci8FBC] eee
+oh
+
+[15:21:29]
+[3rk9wA] Mr_Zhang
+当时你猜到他就是站长了吗？
+
+[15:21:53]
+[ci8FBC] eee
+我没有 完全没有（
+
+[15:21:55]
+[3rk9wA] Mr_Zhang
+啊
+
+[15:22:02]
+[3rk9wA] Mr_Zhang
+然后他一说话
+
+[15:22:03]
+[ci8FBC] eee
+那时候以为是成年人或高中生
+
+[15:22:07]
+[3rk9wA] Mr_Zhang
+呵呵
+
+[15:22:08]
+[ci8FBC] eee
+Admin哈哈哈
+
+[15:22:21]
+[3rk9wA] Mr_Zhang
+当时有头像吗？
+
+[15:22:25]
+[ci8FBC] eee
+~~结果一问 好家伙 比我还小~~
+
+[15:22:31]
+[3rk9wA] Mr_Zhang
+哈哈
+
+[15:22:31]
+[VNC/I0] eebot
+哈哈草
+
+[15:22:35]
+[ci8FBC] eee
+头像在一个星期后
+
+[15:22:39]
+[3rk9wA] Mr_Zhang
+啊
+
+[15:22:52]
+[ci8FBC] eee
+连字体都没改（
+
+[15:22:58]
+[3rk9wA] Mr_Zhang
+呵呵是的
+
+[15:23:03]
+[ci8FBC] eee
+哈哈哈
+
+[15:23:03]
+[VNC/I0] eebot
+哈哈哈草
+
+[15:23:38]
+[3rk9wA] Mr_Zhang
+我可能是被XBot第一个引到xc的人
+
+[15:23:43]
+[ci8FBC] eee
+好家伙
+
+[15:23:54]
+[3rk9wA] Mr_Zhang
+也许
+
+[15:24:06]
+[3rk9wA] Mr_Zhang
+那是个下午
+
+[15:24:11]
+[3rk9wA] Mr_Zhang
+我进入了yc
+
+[15:24:24]
+[3rk9wA] Mr_Zhang
+然后就有个机器人对我说
+
+[15:24:49]
+[3rk9wA] Mr_Zhang
+hi yo 您可以到 https://xc.kzw.ink 体验更多功能
+
+[15:24:55]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈哈哈
+
+[15:25:08]
+[3rk9wA] Mr_Zhang
+我好奇的点了进去
+
+[15:25:10]
+[3rk9wA] Mr_Zhang
+然后
+
+[15:25:21]
+[3rk9wA] Mr_Zhang
+woc！功能如此多
+
+[15:25:26]
+[ci8FBC] eee
+woc哈哈哈哈哈
+
+[15:25:57]
+[3rk9wA] Mr_Zhang
+然后就碰到了站长。。。
+
+[15:26:02]
+[ci8FBC] eee
+那时这边有多少人
+
+[15:26:25]
+[3rk9wA] Mr_Zhang
+比较少
+
+[15:26:33]
+[3rk9wA] Mr_Zhang
+就几个人
+
+[15:26:39]
+[3rk9wA] Mr_Zhang
+但是很热闹
+
+[15:27:01]
+[3rk9wA] Mr_Zhang
+那是我第一次看到站长长什么样子
+
+[15:27:07]
+[3rk9wA] Mr_Zhang
+红色昵称
+
+[15:27:14]
+[3rk9wA] Mr_Zhang
+识别码事Admin
+
+[15:27:18]
+[ci8FBC] eee
+是啊
+
+[15:27:25]
+[3rk9wA] Mr_Zhang
+是
+
+[15:27:47]
+[3rk9wA] Mr_Zhang
+然后我就迫不及待地体验新功能
+
+[15:27:56]
+[3rk9wA] Mr_Zhang
+你猜后来怎么样
+
+[15:27:57]
+[VNC/I0] eebot
+好家伙 没事没事
+
+[15:27:59]
+[ci8FBC] eee
+真是怀念啊-
+
+[15:28:01]
+[ci8FBC] eee
+后来怎么样了
+
+[15:28:03]
+[3rk9wA] Mr_Zhang
+是啊
+
+[15:28:07]
+[3rk9wA] Mr_Zhang
+不久
+
+[15:28:20]
+[3rk9wA] Mr_Zhang
+站长，发现BUG～
+
+[15:28:35]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[15:28:35]
+[3rk9wA] Mr_Zhang
+站长，又找到一个BUG～
+
+[15:28:41]
+[ci8FBC] eee
+深 有 感 触
+
+[15:28:52]
+[ci8FBC] eee
+全xc找bug最勤快的
+
+[15:29:12]
+[3rk9wA] Mr_Zhang
+本想体验功能，结果发现BUG好多，索性直接找BUG
+
+[15:29:21]
+[3rk9wA] Mr_Zhang
+不久
+
+[15:29:29]
+[3rk9wA] Mr_Zhang
+好像是几天后
+
+[15:29:51]
+[3rk9wA] Mr_Zhang
+两条信息弹了出来
+
+[15:29:59]
+[3rk9wA] Mr_Zhang
+You are now a mod.
+
+[15:30:09]
+[ci8FBC] eee
+wowoowowcoc
+
+[15:30:17]
+[3rk9wA] Mr_Zhang
+Added mod: 3rk9wA
+
+[15:30:33]
+[ci8FBC] eee
+就和主页上说的一样
+
+[15:30:40]
+[ci8FBC] eee
+为xc作贡献~
+
+[15:30:58]
+[3rk9wA] Mr_Zhang
+再一看我和站长单独的那个聊天室
+
+[15:31:08]
+[3rk9wA] Mr_Zhang
+我：这是BUG汇总
+
+[15:31:14]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈
+
+[15:31:17]
+[3rk9wA] Mr_Zhang
+...
+
+[15:31:28]
+[3rk9wA] Mr_Zhang
+站长：为了感谢你....
+
+[15:32:19]
+[3rk9wA] Mr_Zhang
+然后就成为管理员了
+
+[15:32:38]
+[ci8FBC] eee
+是啊
+
+[15:32:56]
+[3rk9wA] Mr_Zhang
+你呢？
+
+[15:33:20]
+[3rk9wA] Mr_Zhang
+（大部分人的mod之路开始于XChat）
+
+[15:33:43]
+[ci8FBC] eee
+站长：你是第一个来这里的用户 给你个管理吧 以后记得常来哦~
+
+[15:33:51]
+[ci8FBC] eee
+大概是这样
+
+[15:34:11]
+[3rk9wA] Mr_Zhang
+啊
+
+[15:34:13]
+[ci8FBC] eee
+hi yooooooooooooooooooooo
+
+[15:34:17]
+[3rk9wA] Mr_Zhang
+抱歉掉了
+
+[15:34:23]
+[edDiBU] 4n0n4me
+我不服！
+
+[15:34:25]
+[edDiBU] 4n0n4me
+《《
+
+[15:34:26]
+[3rk9wA] Mr_Zhang
+能再说一遍吗？
+
+[15:34:29]
+[ci8FBC] eee
+然后就在懵逼中有了——
+
+[15:34:36]
+[ci8FBC] eee
+>ci8FBC eee
+站长：你是第一个来这里的用户 给你个管理吧 以后记得常来哦~
+
+>ci8FBC eee
+大概是这样
+
+[15:34:43]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[15:34:43]
+[VNC/I0] eebot
+哈哈哈嗝-
+
+[15:34:51]
+[ci8FBC] eee
+>edDiBU 4n0n4me：
+>我不服！
+
+@4n0n4me whyy
+
+[15:34:52]
+[3rk9wA] Mr_Zhang
+这就是精神支持
+
+[15:34:56]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[15:34:56]
+[VNC/I0] eebot
+哈哈哈哈哈哈嗝-
+
+[15:35:43]
+[ci8FBC] eee
+如果不是在hc闹掰 我可能就不会把16小时挂hc的时间花在xc上了
+
+[15:35:51]
+[3rk9wA] Mr_Zhang
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[15:35:55]
+[3rk9wA] Mr_Zhang
+刑
+
+[15:35:55]
+[ci8FBC] eee
+我现在还想感谢那时候（
+
+[15:36:04]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈
+
+[15:36:12]
+[3rk9wA] Mr_Zhang
+xc刚开始的时候
+
+[15:36:32]
+[3rk9wA] Mr_Zhang
+站长的几个同学会去那里闹事
+
+[15:36:42]
+[3rk9wA] Mr_Zhang
+比如大猛一
+
+[15:36:54]
+[ci8FBC] eee
+站长：我的同学都不太文明
+
+[15:37:03]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[15:37:05]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[15:37:12]
+[3rk9wA] Mr_Zhang
+还有涉黄昵称
+
+[15:37:16]
+[VNC/I0] eebot
+等等哈 正吃着切糕呢（
+
+[15:37:29]
+[ci8FBC] eee
+站长：我***
+
+[15:37:31]
+[3rk9wA] Mr_Zhang
+经核查，不是站长同学
+
+[15:37:59]
+[3rk9wA] Mr_Zhang
+就比如昵称为钟风声**的人
+
+[15:38:03]
+[ci8FBC] eee
+大概率是被引过来的
+
+[15:38:14]
+[3rk9wA] Mr_Zhang
+星号代表敏感词汇
+
+[15:38:19]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[15:38:22]
+[3rk9wA] Mr_Zhang
+他就刷屏
+
+[15:38:27]
+[3rk9wA] Mr_Zhang
+然后被我踢了
+
+[15:38:43]
+[3rk9wA] Mr_Zhang
+再去他被踢到的那个地方
+
+[15:38:55]
+[3rk9wA] Mr_Zhang
+他就开始发yellow链接了
+
+[15:39:04]
+[3rk9wA] Mr_Zhang
+我也是很无语
+
+[15:39:12]
+[ci8FBC] eee
+好家伙
+
+[15:39:28]
+[3rk9wA] Mr_Zhang
+而且那个链接和附带的文本是
+
+[15:39:39]
+[3rk9wA] Mr_Zhang
+好东西哦深夜释放***
+
+[15:39:46]
+[3rk9wA] Mr_Zhang
+看到这里
+
+[15:39:46]
+[ci8FBC] eee
+草
+
+[15:39:51]
+[3rk9wA] Mr_Zhang
+我默默地
+
+[15:39:54]
+[ci8FBC] eee
+噗
+
+[15:40:00]
+[3rk9wA] Mr_Zhang
+关掉聊天室
+
+[15:40:23]
+[ci8FBC] eee
+咳咳 咳咳
+
+[15:40:32]
+[ci8FBC] eee
+这也太离谱了
+
+[15:40:37]
+[3rk9wA] Mr_Zhang
+然后关掉电脑
+
+[15:40:41]
+[3rk9wA] Mr_Zhang
+休息一会
+
+[15:40:51]
+[3rk9wA] Mr_Zhang
+再回到 xq102210
+
+[15:40:57]
+[3rk9wA] Mr_Zhang
+对了
+
+[15:41:05]
+[ci8FBC] eee
+然后那家伙走了吗
+
+[15:41:10]
+[3rk9wA] Mr_Zhang
+走了
+
+[15:41:23]
+[3rk9wA] Mr_Zhang
+不久又来了
+
+[15:41:30]
+[3rk9wA] Mr_Zhang
+想锁房
+
+[15:41:32]
+[ci8FBC] eee
+好家伙
+
+[15:41:33]
+[3rk9wA] Mr_Zhang
+却
+
+[15:41:48]
+[3rk9wA] Mr_Zhang
+未知命令！
+
+[15:42:00]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[15:42:09]
+[3rk9wA] Mr_Zhang
+然后我就和其他的管理员一起ban
+
+[15:42:20]
+[3rk9wA] Mr_Zhang
+由于没有ZhangHelper
+
+[15:42:30]
+[3rk9wA] Mr_Zhang
+所以ban的速度很慢
+
+[15:42:43]
+[3rk9wA] Mr_Zhang
+等下
+
+[15:43:13]
+[3rk9wA] Mr_Zhang
+之前yc有个叫goodthing的人和xc的那位发的信息一样
+
+[15:43:19]
+[ci8FBC] eee
+wowowoc
+
+[15:43:24]
+[3rk9wA] Mr_Zhang
+我刚想起来
+
+[15:43:31]
+[3rk9wA] Mr_Zhang
+说明是同一个人
+
+[15:43:34]
+[3rk9wA] Mr_Zhang
+所以
+
+[15:43:59]
+[3rk9wA] Mr_Zhang
+只要请站长查它的IP
+
+[15:44:04]
+[3rk9wA] Mr_Zhang
+就可以
+
+[15:44:12]
+[3rk9wA] Mr_Zhang
+你懂的
+
+[15:44:18]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈
+
+[15:44:22]
+[3rk9wA] Mr_Zhang
+把它揪出来
+
+[15:44:31]
+[ci8FBC] eee
+最后封了吗
+
+[15:44:34]
+[3rk9wA] Mr_Zhang
+没
+
+[15:44:39]
+[3rk9wA] Mr_Zhang
+没差
+
+[15:44:43]
+[3rk9wA] Mr_Zhang
+没查
+
+[15:45:06]
+[ci8FBC] eee
+好家伙
+
+[15:45:40]
+[3rk9wA] Mr_Zhang
+但站长说不是他同学
+
+[15:46:26]
+[3rk9wA] Mr_Zhang
+（当时我以为查IP很麻烦，于是就没打算跟站长提议）
+
+[15:47:07]
+[ci8FBC] eee
+wowowow
+
+[15:47:08]
+[VNC/I0] eebot
+wowowow
+
+[15:48:36]
+[3rk9wA] Mr_Zhang
+现在好了
+
+[15:48:55]
+[3rk9wA] Mr_Zhang
+ZhangHelper可以有效防轰炸机
+
+[15:49:04]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[15:49:15]
+[ci8FBC] eee
+技术进步带来的方便
+
+[15:49:24]
+[VNC/I0] eebot_678
+awa eb的昵称卡在里面了
+
+[15:49:24]
+[VNC/I0] eebot
+hey yo eebot_678
+
+[15:49:24]
+[VNC/I0] eebot_678
+awa eb的昵称卡在里面了
+
+[15:49:26]
+[VNC/I0] eebot
+hey yo eebot_678
+
+[15:49:27]
+[3rk9wA] Mr_Zhang
+就比如刚才有人刷屏
+
+[15:49:27]
+[3rk9wA] Mr_Zhang
+就比如刚才有人刷屏
+
+[15:49:39]
+[VNC/I0] eebot
+2022.06.04 15:49:38
+
+[15:49:39]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[15:49:45]
+[ci8FBC] eee
+MIX-（当时我以为查IP很麻烦，于是就没打算跟站长提议）
+
+[15:49:45]
+[VNC/I0] eebot
+）提I打当很，跟是P我长议麻（就以没查时算于烦站为
+
+[15:50:01]
+[3rk9wA] Mr_Zhang
+功能
+
+[15:50:13]
+[3rk9wA] Mr_Zhang
+哈哈哈哈
+
+[15:50:19]
+[ci8FBC] eee
+MIX-明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[15:50:19]
+[VNC/I0] eebot
+是天玩着明更下法多吧一趁松假请期端节。放
+ 能入：功输午
+
+[15:50:22]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[15:50:23]
+[VNC/I0] eebot
+哈哈哈哈哈哈嗝-
+
+[15:50:39]
+[3rk9wA] Mr_Zhang
+MIX-1234567890
+
+[15:50:40]
+[VNC/I0] eebot
+8132946570
+
+[15:50:42]
+[ci8FBC] eee
+打乱文本（
+
+[15:50:47]
+[3rk9wA] Mr_Zhang
+MIX-你好
+
+[15:50:47]
+[VNC/I0] eebot
+好你
+
+[15:50:55]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[15:50:57]
+[3rk9wA] Mr_Zhang
+MIX-好你
+
+[15:50:57]
+[VNC/I0] eebot
+你好
+
+[15:51:01]
+[3rk9wA] Mr_Zhang
+哈哈哈哈哈哈
+
+[15:51:16]
+[3rk9wA] Mr_Zhang
+MIN-蜜雪冰城甜蜜蜜
+
+[15:51:21]
+[ci8FBC] eee
+~~虽然没卵用但是好玩~~
+
+[15:51:26]
+[ci8FBC] eee
+MIX-蜜雪冰城甜蜜蜜
+
+[15:51:26]
+[VNC/I0] eebot
+雪城蜜甜冰蜜蜜
+
+[15:51:31]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[15:51:37]
+[3rk9wA] Mr_Zhang
+MIX-蜜雪冰城甜蜜蜜
+
+[15:51:37]
+[VNC/I0] eebot
+城蜜雪蜜甜蜜冰
+
+[15:51:51]
+[3rk9wA] Mr_Zhang
+是随机打乱的吗？
+
+[15:51:55]
+[ci8FBC] eee
+对
+
+[15:52:00]
+[3rk9wA] Mr_Zhang
+内置函数吧
+
+[15:52:04]
+[ci8FBC] eee
+yeeeees
+
+[15:52:27]
+[ci8FBC] eee
+没错 就是万能的random+内置函数
+
+[15:52:29]
+[3rk9wA] Mr_Zhang
+漂流瓶功能将于今晚上线
+
+[15:52:31]
+[3rk9wA] Mr_Zhang
+哈哈哈哈哈哈哈
+
+[15:52:32]
+[ci8FBC] eee
+ohhhhhhhhhhhhhhhhh
+
+[15:52:36]
+[ci8FBC] eee
+前排支持！
+
+[15:52:39]
+[3rk9wA] Mr_Zhang
+到时候
+
+[15:53:01]
+[ci8FBC] eee
+统计
+
+[15:53:11]
+[3rk9wA] Mr_Zhang
+ZhangHelper：小张抛出了一个漂流瓶
+
+[15:53:28]
+[3rk9wA] Mr_Zhang
+随后，某人看到
+
+[15:53:40]
+[ci8FBC] eee
+哈哈哈哈哈 好玩
+
+[15:54:41]
+[3rk9wA] Mr_Zhang
+ZhangHelper 私信：小张的漂流瓶漂到了你这里，内容：全体目光向我看齐！我宣布个事情啊，我是个**
+
+[15:54:41]
+[ci8FBC] eee
+我打算梦幻联动 让eebot通过ZhangHelper扔漂流瓶
+
+[15:54:45]
+[ci8FBC] eee
+草
+
+[15:54:50]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[15:55:05]
+[3rk9wA] Mr_Zhang
+随机一名用户
+
+[15:55:11]
+[ci8FBC] eee
+芜湖
+
+[15:55:17]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[15:55:32]
+[ci8FBC] eee
+快写快些（
+
+[15:55:35]
+[ci8FBC] eee
+写
+
+[15:55:38]
+[3rk9wA] Mr_Zhang
+嗯
+
+[15:55:46]
+[3rk9wA] Mr_Zhang
+好事多磨
+
+[15:55:56]
+[3rk9wA] Mr_Zhang
+先走一段时间
+
+[15:56:03]
+[ci8FBC] eee
+OKOK
+
+[15:56:05]
+[ci8FBC] eee
+挂着吧
+
+[15:58:51]
+[ci8FBC] eee
+hi yoooooooooooooooooooooo
+
+[15:58:59]
+[3rk9wA] Mr_Zhang
+hi yoooooooooooooooooooooooooo
+
+[15:59:47]
+[3rk9wA] Mr_Zhang
+挂着
+
+[15:59:57]
+[ci8FBC] eee
+刑 欢迎
+
+[16:00:07]
+[VNC/I0] eebot
+2022.06.04 16:00:07
+
+[16:00:08]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[16:00:08]
+[3rk9wA] Mr_Zhang
+@eebot 醒
+
+[16:00:12]
+[VNC/I0] eebot
+eb班里也很少
+
+[16:00:23]
+[ci8FBC] eee
+@eebot 睡
+
+[16:00:23]
+[VNC/I0] eebot
+晚安—— 明天见
+
+[16:00:25]
+[ci8FBC] eee
+功能
+
+[16:00:38]
+[ci8FBC] eee
+睡眠简洁版功能列表~
+
+[16:00:46]
+[3rk9wA] Mr_Zhang
+功能
+
+[16:00:59]
+[3rk9wA] Mr_Zhang
+Ohhhh
+
+[16:01:08]
+[3rk9wA] Mr_Zhang
+@eebot 醒
+
+[16:01:09]
+[VNC/I0] eebot
+早呀 该接着工作了呢
+
+[16:01:15]
+[ci8FBC] eee
+功能
+
+[16:01:19]
+[3rk9wA] Mr_Zhang
+@eebot 去触发事件
+
+[16:01:19]
+[VNC/I0] eebot
+OK! eb现在在触发事件
+
+[16:01:22]
+[ci8FBC] eee
+yeep
+
+[16:01:30]
+[3rk9wA] Mr_Zhang
+VB里的术语
+
+[16:01:48]
+[3rk9wA] Mr_Zhang
+功能
+
+[16:01:52]
+[ci8FBC] eee
+对了
+
+[16:02:01]
+[ci8FBC] eee
+~~afk和r都藏了菜单~~
+
+[16:02:06]
+[ci8FBC] eee
+彩蛋
+
+[16:02:10]
+[3rk9wA] Mr_Zhang
+啊
+
+[16:02:12]
+[3rk9wA] Mr_Zhang
+r
+
+[16:02:12]
+[VNC/I0] eebot
+575
+
+[16:02:14]
+[3rk9wA] Mr_Zhang
+r
+
+[16:02:14]
+[VNC/I0] eebot
+404
+
+[16:02:18]
+[3rk9wA] Mr_Zhang
+呵呵
+
+[16:02:19]
+[VNC/I0] eebot
+呵呵呵
+
+[16:02:22]
+[ci8FBC] eee
+不知道能不能发现
+
+[16:02:22]
+[3rk9wA] Mr_Zhang
+404
+
+[16:02:24]
+[3rk9wA] Mr_Zhang
+r
+
+[16:02:24]
+[VNC/I0] eebot
+914
+
+[16:02:25]
+[3rk9wA] Mr_Zhang
+r
+
+[16:02:25]
+[VNC/I0] eebot
+866
+
+[16:02:29]
+[ci8FBC] eee
+哈哈哈哈哈 这个不算 是随机的
+
+[16:02:30]
+[3rk9wA] Mr_Zhang
+Ohhhhhhhh
+
+[16:02:33]
+[3rk9wA] Mr_Zhang
+r
+
+[16:02:33]
+[VNC/I0] eebot
+50
+
+[16:02:35]
+[3rk9wA] Mr_Zhang
+r
+
+[16:02:36]
+[VNC/I0] eebot
+950
+
+[16:02:45]
+[3rk9wA] Mr_Zhang
+@eebot 去工作
+
+[16:02:50]
+[ci8FBC] eee
+提示：只发afk或r都不行
+
+[16:02:54]
+[3rk9wA] Mr_Zhang
+afk 挂机
+
+[16:02:55]
+[VNC/I0] eebot
+@Mr_Zhang 现在在挂机
+
+[16:03:08]
+[3rk9wA] Mr_Zhang
+回来了
+
+[16:03:08]
+[VNC/I0] eebot
+@Mr_Zhang 现在没在触发事件了
+
+[16:03:12]
+[ci8FBC] eee
+？？？？？？？？
+
+[16:03:15]
+[3rk9wA] Mr_Zhang
+？
+
+[16:03:19]
+[ci8FBC] eee
+完 BUG
+
+[16:03:22]
+[ci8FBC] eee
+@eebot 
+
+[16:03:23]
+[VNC/I0] eebot
+好耶 是eee
+
+[16:03:23]
+[3rk9wA] Mr_Zhang
+r 0xF
+
+[16:03:23]
+[VNC/I0] eebot
+54
+
+[16:03:28]
+[3rk9wA] Mr_Zhang
+r 12
+
+[16:03:28]
+[VNC/I0] eebot
+2400
+
+[16:03:34]
+[3rk9wA] Mr_Zhang
+不至于吧
+
+[16:03:38]
+[ci8FBC] eee
+list
+
+[16:03:39]
+[VNC/I0] eebot
+None
+
+[16:03:43]
+[3rk9wA] Mr_Zhang
+r 2
+
+[16:03:43]
+[VNC/I0] eebot
+356
+
+[16:03:45]
+[ci8FBC] eee
+afk 挂机
+
+[16:03:46]
+[VNC/I0] eebot
+@eee 现在在挂机
+
+[16:03:47]
+[ci8FBC] eee
+啊
+
+[16:03:47]
+[VNC/I0] eebot
+@eee 现在没在挂机了
+
+[16:04:39]
+[ci8FBC] eee
+@eebot 去挂机
+
+[16:04:39]
+[VNC/I0] eebot
+OK! eb现在在挂机
+
+[16:04:42]
+[ci8FBC] eee
+afk a
+
+[16:04:43]
+[VNC/I0] eebot
+@eee 现在在a
+
+[16:04:46]
+[ci8FBC] eee
+。
+
+[16:04:46]
+[VNC/I0] eebot
+@eee 现在没在挂机了
+
+[16:04:46]
+[3rk9wA] Mr_Zhang
+@eebot 
+
+[16:04:57]
+[3rk9wA] Mr_Zhang
+。
+
+[16:05:01]
+[3rk9wA] Mr_Zhang
+。
+
+[16:05:04]
+[3rk9wA] Mr_Zhang
+r
+
+[16:05:04]
+[VNC/I0] eebot
+327
+
+[16:05:12]
+[3rk9wA] Mr_Zhang
+r 5412347
+
+[16:05:13]
+[VNC/I0] eebot
+5168791385
+
+[16:05:21]
+[3rk9wA] Mr_Zhang
+彩蛋呢？
+
+[16:05:32]
+[3rk9wA] Mr_Zhang
+彩蛋
+
+[16:05:42]
+[3rk9wA] Mr_Zhang
+r 彩蛋
+
+[16:05:43]
+[VNC/I0] eebot
+941
+
+[16:05:49]
+[ci8FBC] eee
+~~哈哈哈 彩蛋怎么可能被发现呢~~
+
+[16:05:52]
+[3rk9wA] Mr_Zhang
+afk 彩蛋
+
+[16:05:52]
+[VNC/I0] eebot
+@Mr_Zhang 现在在彩蛋
+
+[16:05:58]
+[ci8FBC] eee
+afk test
+
+[16:05:58]
+[VNC/I0] eebot
+@eee 现在在test
+
+[16:06:11]
+[ci8FBC] eee
+啊
+
+[16:06:11]
+[VNC/I0] eebot
+@eee 停止了彩蛋
+
+[16:06:23]
+[ci8FBC] eee
+oh 我明白了
+
+[16:06:31]
+[3rk9wA] Mr_Zhang
+额？
+
+[16:06:31]
+[VNC/I0] eebot
+@Mr_Zhang 停止了a
+
+[16:06:39]
+[ci8FBC] eee
+afk 挂机
+
+[16:06:39]
+[VNC/I0] eebot
+@eee 现在在挂机
+
+[16:06:40]
+[ci8FBC] eee
+啊
+
+[16:06:41]
+[VNC/I0] eebot
+@eee 现在没在test了
+
+[16:06:52]
+[ci8FBC] eee
+O-send(afklist)
+
+[16:06:52]
+[VNC/I0] eebot
+['eebot']
+
+[16:06:52]
+[VNC/I0] eebot
+代码运行成功
+
+[16:07:00]
+[ci8FBC] eee
+O-send(afkdate)
+
+[16:07:00]
+[VNC/I0] eebot
+['挂机', '挂机']
+
+[16:07:00]
+[VNC/I0] eebot
+代码运行成功
+
+[16:07:11]
+[3rk9wA] Mr_Zhang
+O-a=runbox()
+
+[16:07:11]
+[VNC/I0] eebot
+代码运行失败
+
+[16:07:23]
+[ci8FBC] eee
+啊 原来如此
+
+[16:07:40]
+[3rk9wA] Mr_Zhang
+等下
+
+[16:07:44]
+[3rk9wA] Mr_Zhang
+失礼了
+
+[16:07:52]
+[3rk9wA] Mr_Zhang
+高危代码来一波
+
+[16:08:02]
+[3rk9wA] Mr_Zhang
+记得关掉eb
+
+[16:08:13]
+[ci8FBC] eee
+咳咳 试试
+
+[16:09:09]
+[3rk9wA] Mr_Zhang
+O-while True
+    print('高危代码')
+
+[16:09:09]
+[VNC/I0] eebot
+代码运行失败
+
+[16:09:27]
+[ci8FBC] eee
+O-while True:
+print('高危代码')
+
+[16:09:27]
+[VNC/I0] eebot
+代码运行失败
+
+[16:22:21]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[16:22:45]
+[ci8FBC] eee
+@eebot 去工作
+
+[16:22:45]
+[VNC/I0] eebot
+当然 eb现在就在工作呀
+
+[16:22:49]
+[ci8FBC] eee
+@eebot 去test
+
+[16:22:49]
+[VNC/I0] eebot
+OK! eb现在在test
+
+[16:22:53]
+[ci8FBC] eee
+afk a
+
+[16:22:53]
+[VNC/I0] eebot
+@eee 现在在a
+
+[16:22:56]
+[ci8FBC] eee
+@eebot 
+
+[16:22:57]
+[VNC/I0] eebot
+@eee 现在没在a了
+
+[16:23:01]
+[ci8FBC] eee
+@eebot 
+
+[16:23:02]
+[VNC/I0] eebot
+@eee 停止了a
+
+[16:23:05]
+[ci8FBC] eee
+@eebot 
+
+[16:23:05]
+[VNC/I0] eebot
+@eee 停止了a
+
+[16:23:09]
+[ci8FBC] eee
+啊
+
+[16:23:09]
+[VNC/I0] eebot
+@eee 现在没在a了
+
+[16:23:11]
+[ci8FBC] eee
+a
+
+[16:23:11]
+[VNC/I0] eebot
+@eee 停止了a
+
+[16:23:41]
+[ci8FBC] eee
+O-send(afklist)
+send(afkdate)
+
+[16:23:41]
+[VNC/I0] eebot
+@eee 现在没在a了
+
+[16:23:41]
+[VNC/I0] eebot
+['eebot', 'eee']
+
+[16:23:41]
+[VNC/I0] eebot
+['test', 'a']
+
+[16:23:41]
+[VNC/I0] eebot
+代码运行成功
+
+[16:24:38]
+[3rk9wA] Mr_Zhang
+啊
+
+[16:24:57]
+[VNC/I0] eebot
+2022.06.04 16:24:56
+
+[16:24:57]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[16:25:09]
+[ci8FBC] eee
+@eebot 去test
+
+[16:25:10]
+[VNC/I0] eebot
+OK! eb现在在test
+
+[16:25:11]
+[ci8FBC] eee
+afk a
+
+[16:25:11]
+[VNC/I0] eebot
+@eee 现在在a
+
+[16:25:18]
+[ci8FBC] eee
+O-send(afklist)
+send(afkdate)
+
+[16:25:19]
+[VNC/I0] eebot
+@eee 停止了a
+
+[16:25:19]
+[VNC/I0] eebot
+['eebot', 'eee']
+
+[16:25:19]
+[VNC/I0] eebot
+['test', 'a']
+
+[16:25:19]
+[VNC/I0] eebot
+代码运行成功
+
+[16:25:21]
+[ci8FBC] eee
+O-send(afklist)
+send(afkdate)
+
+[16:25:21]
+[VNC/I0] eebot
+@eee 停止了a
+
+[16:25:21]
+[VNC/I0] eebot
+['eebot', 'eee']
+
+[16:25:21]
+[VNC/I0] eebot
+['test', 'a']
+
+[16:25:21]
+[VNC/I0] eebot
+代码运行成功
+
+[16:25:37]
+[3rk9wA] Mr_Zhang
+O-afklist.append('Mr_Zhang')
+
+[16:25:37]
+[VNC/I0] eebot
+代码运行成功
+
+[16:25:40]
+[3rk9wA] Mr_Zhang
+a
+
+[16:25:44]
+[3rk9wA] Mr_Zhang
+额？
+
+[16:25:54]
+[ci8FBC] eee
+@eebot 工作
+
+[16:26:00]
+[ci8FBC] eee
+O-send(afklist)
+send(afkdate)
+
+[16:26:00]
+[VNC/I0] eebot
+['eebot', 'eee', 'Mr_Zhang']
+
+[16:26:00]
+[VNC/I0] eebot
+['test', 'a']
+
+[16:26:00]
+[VNC/I0] eebot
+代码运行成功
+
+[16:26:01]
+[3rk9wA] Mr_Zhang
+I-print(afklist)
+
+[16:26:07]
+[ci8FBC] eee
+？？？？？
+
+[16:26:14]
+[3rk9wA] Mr_Zhang
+o-print(afklist)
+
+[16:26:24]
+[ci8FBC] eee
+？？？？？
+
+[16:26:26]
+[ci8FBC] eee
+O-send(afklist)
+send(afkdate)
+
+[16:26:26]
+[VNC/I0] eebot
+['eebot', 'eee', 'Mr_Zhang']
+
+[16:26:26]
+[VNC/I0] eebot
+['test', 'a']
+
+[16:26:26]
+[VNC/I0] eebot
+代码运行成功
+
+[16:26:30]
+[3rk9wA] Mr_Zhang
+O-print(afklist)
+
+[16:26:32]
+[VNC/I0] eebot
+['eebot', 'eee', 'Mr_Zhang']
+
+[16:26:32]
+[VNC/I0] eebot
+代码运行成功
+
+[16:26:42]
+[ci8FBC] eee
+why 没删除——
+
+[16:27:01]
+[3rk9wA] Mr_Zhang
+O-afklist.remove('Mr_Zhang']
+
+[16:27:01]
+[VNC/I0] eebot
+代码运行失败
+
+[16:27:03]
+[ci8FBC] eee
+@eebot 
+
+[16:37:49]
+[VNC/I0] eebot
+2022.06.04 16:37:48
+
+[16:37:49]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[16:38:01]
+[ci8FBC] eee
+@eebot 去test
+
+[16:38:01]
+[VNC/I0] eebot
+OK! eb现在在test
+
+[16:38:06]
+[ci8FBC] eee
+afk a
+
+[16:38:06]
+[VNC/I0] eebot
+@eee 现在在a
+
+[16:38:10]
+[ci8FBC] eee
+a
+
+[16:38:10]
+[VNC/I0] eebot
+@eee 停止了a
+
+[16:38:11]
+[ci8FBC] eee
+a
+
+[16:38:12]
+[VNC/I0] eebot
+@eee 停止了a
+
+[16:38:22]
+[ci8FBC] eee
+？？？
+
+[16:38:22]
+[VNC/I0] eebot
+@eee 停止了a
+
+[16:38:26]
+[ci8FBC] eee
+为什么删不掉
+
+[16:38:26]
+[VNC/I0] eebot
+@eee 停止了a
+
+[16:38:37]
+[ci8FBC] eee
+@eebot 去工作
+
+[16:38:37]
+[VNC/I0] eebot
+@eee 停止了a
+
+[16:38:40]
+[ci8FBC] eee
+list
+
+[16:38:40]
+[VNC/I0] eebot
+·
+挂机列表（2）：
+@eebot 现在在test
+@eee 现在在a
+
+[16:39:52]
+[VNC/I0] eebot
+2022.06.04 16:39:51
+
+[16:39:52]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[16:39:53]
+[ci8FBC] eee
+afk a
+
+[16:39:53]
+[VNC/I0] eebot
+@eee 现在在a
+
+[16:39:54]
+[ci8FBC] eee
+a
+
+[16:39:54]
+[VNC/I0] eebot
+@eee 停止了a
+
+[16:39:55]
+[ci8FBC] eee
+a
+
+[16:39:55]
+[VNC/I0] eebot
+@eee 停止了a
+
+[16:41:23]
+[VNC/I0] eebot
+2022.06.04 16:41:23
+
+[16:41:23]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[16:41:28]
+[ci8FBC] eee
+@eebot 去a
+
+[16:41:28]
+[VNC/I0] eebot
+OK! eb现在在a
+
+[16:41:31]
+[ci8FBC] eee
+afk b
+
+[16:41:31]
+[VNC/I0] eebot
+@eee 现在在b
+
+[16:41:34]
+[ci8FBC] eee
+list
+
+[16:41:35]
+[VNC/I0] eebot
+·
+挂机列表（2）：
+@eebot 现在在a
+@eee 现在在b
+
+[16:41:42]
+[ci8FBC] eee
+O-send(afklist)
+
+[16:41:43]
+[VNC/I0] eebot
+@eee 现在没在b了
+
+[16:41:43]
+[VNC/I0] eebot
+{'eebot': 'a', 'eee': 'b'}
+
+[16:41:43]
+[VNC/I0] eebot
+代码运行成功
+
+[16:42:04]
+[ci8FBC] eee
+TI-1 afk
+
+[16:42:05]
+[VNC/I0] eebot
+@eee 停止了b
+
+[16:42:05]
+[VNC/I0] eebot
+OK eb收到 到时会提醒eee的
+
+[16:42:06]
+[VNC/I0] eebot
+@eee 已经过去1s了 快去afk！
+
+[16:42:40]
+[ci8FBC] eee
+O-send(afklist)
+
+[16:42:41]
+[VNC/I0] eebot
+@eee 停止了b
+
+[16:42:41]
+[VNC/I0] eebot
+{'eebot': 'a', 'eee': 'b'}
+
+[16:42:41]
+[VNC/I0] eebot
+代码运行成功
+
+[16:43:26]
+[3rk9wA] Mr_Zhang
+来个高危操作
+
+[16:43:31]
+[ci8FBC] eee
+O-del afklist[nick]
+
+[16:43:31]
+[VNC/I0] eebot
+@eee 现在没在b了
+
+[16:43:31]
+[VNC/I0] eebot
+代码运行失败
+
+[16:43:33]
+[3rk9wA] Mr_Zhang
+失礼了
+
+[16:43:43]
+[ci8FBC] eee
+O-del afklist["eebot"]
+
+[16:43:43]
+[VNC/I0] eebot
+@eee 现在没在b了
+
+[16:43:43]
+[VNC/I0] eebot
+代码运行成功
+
+[16:43:48]
+[ci8FBC] eee
+OK
+
+[16:43:48]
+[3rk9wA] Mr_Zhang
+O-del afklist
+
+[16:43:48]
+[VNC/I0] eebot
+@eee 现在没在b了
+
+[16:43:48]
+[VNC/I0] eebot
+代码运行失败
+
+[16:43:55]
+[ci8FBC] eee
+list
+
+[16:43:56]
+[VNC/I0] eebot
+·
+挂机列表（1）：
+@eee 现在在b
+
+[16:44:15]
+[3rk9wA] Mr_Zhang
+O-del afklist
+
+[16:44:15]
+[VNC/I0] eebot
+代码运行失败
+
+[16:44:29]
+[3rk9wA] Mr_Zhang
+O- afklist
+
+[16:44:29]
+[VNC/I0] eebot
+代码运行失败
+
+[16:44:41]
+[3rk9wA] Mr_Zhang
+O-send(afklist)
+
+[16:44:43]
+[VNC/I0] eebot
+{'eee': 'b'}
+
+[16:44:43]
+[VNC/I0] eebot
+代码运行成功
+
+[16:45:12]
+[3rk9wA] Mr_Zhang
+O-del afklist['eee']
+
+[16:45:12]
+[VNC/I0] eebot
+代码运行成功
+
+[16:45:25]
+[3rk9wA] Mr_Zhang
+list
+
+[16:45:26]
+[VNC/I0] eebot
+None
+
+[16:45:56]
+[3rk9wA] Mr_Zhang
+手动解除挂机
+
+[16:45:58]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[16:45:58]
+[VNC/I0] eebot
+哈哈哈嗝-
+
+[16:47:02]
+[3rk9wA] Mr_Zhang
+O-while True:
+    print(str(1))
+
+[16:47:02]
+[VNC/I0] eebot
+咳咳 Mr_Zhang这是在玩火
+
+[16:47:10]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[16:47:34]
+[VNC/I0] eebot
+2022.06.04 16:47:33
+
+[16:47:34]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[16:47:36]
+[ci8FBC] eee
+afk a
+
+[16:47:37]
+[VNC/I0] eebot
+@eee 现在在a
+
+[16:47:37]
+[ci8FBC] eee
+a
+
+[16:47:38]
+[ci8FBC] eee
+a
+
+[16:47:45]
+[ci8FBC] eee
+？
+
+[16:47:46]
+[ci8FBC] eee
+@eebot 
+
+[16:47:46]
+[VNC/I0] eebot
+好耶 是eee
+
+[16:47:53]
+[3rk9wA] Mr_Zhang
+O-a=[1,2,3,4,5,6,6,7,8,9,4]
+
+[16:47:53]
+[VNC/I0] eebot
+代码运行成功
+
+[16:48:13]
+[ci8FBC] eee
+list
+
+[16:48:13]
+[VNC/I0] eebot
+·
+挂机列表（1）：
+@eee 现在在a
+
+[16:48:16]
+[ci8FBC] eee
+emmmm
+
+[16:48:32]
+[3rk9wA] Mr_Zhang
+O-for b in a :
+    print(str(1))
+
+[16:48:34]
+[VNC/I0] eebot
+代码运行失败
+
+[16:48:40]
+[3rk9wA] Mr_Zhang
+？
+
+[16:49:18]
+[3rk9wA] Mr_Zhang
+O-for b in [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
+print(str(1))
+
+[16:49:18]
+[VNC/I0] eebot
+代码运行失败
+
+[16:49:32]
+[3rk9wA] Mr_Zhang
+O-for b in [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
+    print(str(1))
+
+[16:49:32]
+[VNC/I0] eebot
+代码运行失败
+
+[16:49:38]
+[3rk9wA] Mr_Zhang
+嘶～
+
+[16:50:09]
+[ci8FBC] eee
+O-for b in [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
+	print(str(1))
+
+[16:50:09]
+[VNC/I0] eebot
+代码运行失败
+
+[16:50:24]
+[ci8FBC] eee
+why idk
+
+[16:51:51]
+[VNC/I0] eebot
+2022.06.04 16:51:50
+
+[16:51:51]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[16:51:53]
+[3rk9wA] Mr_Zhang
+再试试高危代码
+
+[16:51:53]
+[ci8FBC] eee
+afk a
+
+[16:51:54]
+[VNC/I0] eebot
+@eee 现在在a
+
+[16:51:54]
+[ci8FBC] eee
+a
+
+[16:51:54]
+[VNC/I0] eebot
+@eee 停止了a
+
+[16:51:55]
+[ci8FBC] eee
+a
+
+[16:51:58]
+[ci8FBC] eee
+list
+
+[16:51:58]
+[VNC/I0] eebot
+None
+
+[16:51:59]
+[3rk9wA] Mr_Zhang
+失礼了
+
+[16:51:59]
+[ci8FBC] eee
+OKOK
+
+[16:52:02]
+[3rk9wA] Mr_Zhang
+O-while 1!=2:
+    print('危险')
+
+[16:52:02]
+[VNC/I0] eebot
+咳咳 Mr_Zhang这是在玩火
+
+[16:52:06]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[16:52:06]
+[3rk9wA] Mr_Zhang
+啊
+
+[16:52:18]
+[ci8FBC] eee
+把所以while屏蔽了（
+
+[16:52:21]
+[ci8FBC] eee
+所有
+
+[16:52:22]
+[3rk9wA] Mr_Zhang
+直接禁用while。。。
+
+[16:52:26]
+[ci8FBC] eee
+yeep
+
+[16:52:38]
+[ci8FBC] eee
+因为这个在线运行代码也只是测试的--
+
+[16:52:42]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[16:52:42]
+[VNC/I0] eebot
+哈哈哈嗝-
+
+[16:52:54]
+[ci8FBC] eee
+~~测试有没有好玩的内置函数~~
+
+[16:53:19]
+[3rk9wA] Mr_Zhang
+O-for a in [1,2,3,4,5,6,7]:
+    print('危险')
+
+[16:53:19]
+[VNC/I0] eebot
+危险
+
+[16:53:19]
+[VNC/I0] eebot
+危险
+
+[16:53:19]
+[VNC/I0] eebot
+危险
+
+[16:53:19]
+[VNC/I0] eebot
+危险
+
+[16:53:19]
+[VNC/I0] eebot
+危险
+
+[16:53:19]
+[VNC/I0] eebot
+危险
+
+[16:53:19]
+[VNC/I0] eebot
+危险
+
+[16:53:19]
+[VNC/I0] eebot
+代码运行成功
+
+[16:53:59]
+[VNC/I0] eebot
+2022.06.04 16:53:59
+
+[16:53:59]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[16:54:10]
+[ci8FBC] eee
+@eebot 去a
+
+[16:54:10]
+[VNC/I0] eebot
+OK! eb现在在a
+
+[16:54:13]
+[ci8FBC] eee
+@eebot 工作
+
+[16:54:15]
+[ci8FBC] eee
+list
+
+[16:54:15]
+[VNC/I0] eebot
+None
+
+[16:54:18]
+[ci8FBC] eee
+OKOK
+
+[16:54:26]
+[ci8FBC] eee
+终于 正常了
+
+[16:54:34]
+[3rk9wA] Mr_Zhang
+O-for a in [1,2,3,4,5,6,7]:
+     print('危险')
+
+[16:54:34]
+[VNC/I0] eebot
+咳咳 Mr_Zhang这是在玩火
+
+[16:55:43]
+[3rk9wA] Mr_Zhang
+O-import getpass
+
+[16:55:44]
+[VNC/I0] eebot
+代码运行成功
+
+[16:55:55]
+[3rk9wA] Mr_Zhang
+容我卡死你呢eb
+
+[16:56:06]
+[ci8FBC] eee
+getpass是什么库
+
+[16:56:09]
+[3rk9wA] Mr_Zhang
+O-getpass.getpass()
+
+[16:56:09]
+[VNC/I0] eebot
+代码运行失败
+
+[16:56:14]
+[3rk9wA] Mr_Zhang
+获取密码
+
+[16:56:19]
+[ci8FBC] eee
+wowowoc
+
+[16:56:20]
+[3rk9wA] Mr_Zhang
+让用户输入密码
+
+[16:56:27]
+[edDiBU] 4n0n4me
+ ？？？
+
+[16:56:41]
+[3rk9wA] Mr_Zhang
+不在终端显示输入的内容
+
+[16:56:43]
+[edDiBU] 4n0n4me
+、/
+
+[16:56:45]
+[edDiBU] 4n0n4me
+\/
+
+[16:58:39]
+[VNC/I0] eebot
+2022.06.04 16:58:38
+
+[16:58:39]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[16:58:46]
+[ci8FBC] eee
+so ~~重启~~
+
+[16:58:48]
+[3rk9wA] Mr_Zhang
+O-input()
+
+[16:58:48]
+[VNC/I0] eebot
+咳咳 Mr_Zhang这是在玩火
+
+[16:58:52]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[16:58:55]
+[ci8FBC] eee
+@4n0n4me 用sublime text
+
+[16:59:08]
+[3rk9wA] Mr_Zhang
+O-import getpass
+
+[16:59:08]
+[VNC/I0] eebot
+代码运行成功
+
+[16:59:20]
+[3rk9wA] Mr_Zhang
+O-getpass.getuser()
+
+[16:59:20]
+[VNC/I0] eebot
+代码运行失败
+
+[16:59:21]
+[ci8FBC] eee
+所以input无法输入
+
+[16:59:32]
+[3rk9wA] Mr_Zhang
+对
+
+[17:00:04]
+[ci8FBC] eee
+O-tinydict = {'a': 1, 'b': 2, 'b': '3'}
+
+[17:00:05]
+[VNC/I0] eebot
+代码运行成功
+
+[17:00:14]
+[ci8FBC] eee
+O-print(tinydict)
+
+[17:00:14]
+[VNC/I0] eebot
+代码运行失败
+
+[17:00:22]
+[ci8FBC] eee
+O-print(str(tinydict))
+
+[17:00:22]
+[VNC/I0] eebot
+代码运行失败
+
+[17:00:30]
+[ci8FBC] eee
+O-send(str(tinydict))
+
+[17:00:30]
+[VNC/I0] eebot
+代码运行失败
+
+[17:00:39]
+[ci8FBC] eee
+emmmm 不能保存吗
+
+[17:00:58]
+[ci8FBC] eee
+O-tinydict = {’a’: 1, 'b’: 2, 'b’: '3’}
+print(tinydict)
+
+[17:00:58]
+[VNC/I0] eebot
+代码运行失败
+
+[17:01:14]
+[ci8FBC] eee
+O-print(tinydict[1])
+
+[17:01:14]
+[VNC/I0] eebot
+代码运行失败
+
+[17:04:33]
+[VNC/I0] eebot
+2022.06.04 17:04:33
+
+[17:04:33]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[17:04:43]
+[ci8FBC] eee
+O-tinydict = {'a': 1, 'b': 2, 'b': '3'}
+
+[17:04:43]
+[VNC/I0] eebot
+代码运行成功
+
+[17:04:46]
+[ci8FBC] eee
+O-print(tinydict[1])
+
+[17:04:46]
+[VNC/I0] eebot
+出现常见错误
+
+[17:04:58]
+[3rk9wA] Mr_Zhang
+。。。
+
+[17:05:19]
+[3rk9wA] Mr_Zhang
+等下这是什么函数来着？
+
+[17:05:29]
+[ci8FBC] eee
+O-print(tinydict[’a’])
+
+[17:05:29]
+[VNC/I0] eebot
+出现常见错误
+
+[17:05:38]
+[ci8FBC] eee
+？
+
+[17:06:02]
+[VNC/I0] eebot
+2022.06.04 17:06:01
+
+[17:06:02]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[17:06:11]
+[ci8FBC] eee
+O-tinydict = {'a': 1, 'b': 2, 'b': '3'}
+
+[17:06:11]
+[VNC/I0] eebot
+代码运行成功
+
+[17:06:15]
+[ci8FBC] eee
+O-print(tinydict[’a’])
+
+[17:06:30]
+[VNC/I0] eebot
+2022.06.04 17:06:30
+
+[17:06:31]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[17:06:35]
+[ci8FBC] eee
+O-print(tinydict['a'])
+
+[17:06:44]
+[VNC/I0] eebot
+2022.06.04 17:06:44
+
+[17:06:46]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[17:06:55]
+[ci8FBC] eee
+O-tinydict = {'a': 1, 'b': 2, 'b': '3'}
+
+[17:06:55]
+[VNC/I0] eebot
+代码运行成功
+
+[17:06:59]
+[ci8FBC] eee
+O-print(tinydict['a'])
+
+[17:07:22]
+[VNC/I0] eebot
+2022.06.04 17:07:21
+
+[17:07:22]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[17:07:26]
+[ci8FBC] eee
+O-tinydict = {’a’: 1, 'b’: 2, 'b’: '3’}
+print(tinydict['a'])
+
+[17:11:44]
+[VNC/I0] eebot
+2022.06.04 17:11:43
+
+[17:11:44]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[17:11:54]
+[3rk9wA] Mr_Zhang
+功能
+
+[17:11:58]
+[ci8FBC] eee
+我一直在那边
+
+[17:12:08]
+[3rk9wA] Mr_Zhang
+赶紧看看吧
+
+[17:12:17]
+[ci8FBC] eee
+O-tinydict = {'a': 1, 'b': 2, 'b': '3'}
+print(tinydict['a'])
+
+[17:12:17]
+[VNC/I0] eebot
+1
+
+[17:12:17]
+[VNC/I0] eebot
+代码运行成功
+
+[17:12:26]
+[3rk9wA] Mr_Zhang
+发送了嘿嘿嘿
+
+[17:12:49]
+[ci8FBC] eee
+嘶
+
+[17:12:54]
+[ci8FBC] eee
+离谱啊
+
+[17:13:08]
+[ci8FBC] eee
+O-send(a)
+
+[17:13:09]
+[VNC/I0] eebot
+name 'a' is not defined
+
+[17:13:09]
+[VNC/I0] eebot
+代码运行失败
+
+[17:13:42]
+[ci8FBC] eee
+OK
+
+[17:13:44]
+[VNC/I0] eebot
+·
+JSH的主页
+http://imoier.xyz/
+
+[17:14:26]
+[3rk9wA] Mr_Zhang
+eebot
+
+[17:14:35]
+[ci8FBC] eee
+O-
+a = ['a','b','d','c','B','A']
+send(sorted(a))
+
+[17:14:35]
+[VNC/I0] eebot
+['A', 'B', 'a', 'b', 'c', 'd']
+
+[17:14:35]
+[VNC/I0] eebot
+代码运行成功
+
+[17:14:53]
+[ci8FBC] eee
+O-
+a = ['a','b','d','c','B','A']
+send(sorted(a,key = str.lower))
+
+[17:14:53]
+[VNC/I0] eebot
+['a', 'A', 'b', 'B', 'c', 'd']
+
+[17:14:53]
+[VNC/I0] eebot
+代码运行成功
+
+[17:14:58]
+[ci8FBC] eee
+whu
+
+[17:15:44]
+[ci8FBC] eee
+O-
+x = [1,2,3] #长度3
+
+y = [4,5,6,7,8] #长度5
+
+send(list(zip(x,y))) # 取最小长度3
+
+[17:15:44]
+[VNC/I0] eebot
+unexpected character after line continuation character (<string>, line 2)
+
+[17:15:44]
+[VNC/I0] eebot
+代码运行失败
+
+[17:16:00]
+[ci8FBC] eee
+O-
+x = [1,2,3] #长度3
+y = [4,5,6,7,8] #长度5
+send(list(zip(x,y))) # 取最小长度3
+
+[17:16:00]
+[VNC/I0] eebot
+unexpected character after line continuation character (<string>, line 2)
+
+[17:16:00]
+[VNC/I0] eebot
+代码运行失败
+
+[17:16:09]
+[ci8FBC] eee
+O-
+x = [1,2,3]
+y = [4,5,6,7,8]
+send(list(zip(x,y)))
+
+[17:16:09]
+[VNC/I0] eebot
+[(1, 4), (2, 5), (3, 6)]
+
+[17:16:09]
+[VNC/I0] eebot
+代码运行成功
+
+[17:16:26]
+[3rk9wA] Mr_Zhang
+O-f=open('hello.txt','w')
+
+[17:16:27]
+[VNC/I0] eebot
+代码运行成功
+
+[17:16:46]
+[ci8FBC] eee
+哈哈哈哈哈 在我这边建了一个文件
+
+[17:16:48]
+[3rk9wA] Mr_Zhang
+O-f.write('你好呀')
+
+[17:16:48]
+[VNC/I0] eebot
+name 'f' is not defined
+
+[17:16:48]
+[VNC/I0] eebot
+代码运行失败
+
+[17:17:21]
+[3rk9wA] Mr_Zhang
+O-f.write('hi')
+
+[17:17:21]
+[VNC/I0] eebot
+name 'f' is not defined
+
+[17:17:21]
+[VNC/I0] eebot
+代码运行失败
+
+[17:17:32]
+[ci8FBC] eee
+这个在线运行代码的不好地方就是不能迭代
+
+[17:17:34]
+[3rk9wA] Mr_Zhang
+。。。
+
+[17:17:39]
+[ci8FBC] eee
+我看能不能改进一下-
+
+[17:18:01]
+[3rk9wA] Mr_Zhang
+O-f=open('test.txt')
+
+[17:18:01]
+[VNC/I0] eebot
+[Errno 2] No such file or directory: 'test.txt'
+
+[17:18:01]
+[VNC/I0] eebot
+代码运行失败
+
+[17:18:39]
+[3rk9wA] Mr_Zhang
+O-f=open('test.txt','w')
+
+[17:18:39]
+[VNC/I0] eebot
+代码运行成功
+
+[17:18:44]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[17:18:48]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[17:18:48]
+[VNC/I0] eebot
+哈哈哈哈哈嗝-
+
+[17:18:51]
+[3rk9wA] Mr_Zhang
+一会删你文件
+
+[17:22:07]
+[VNC/I0] eebot
+2022.06.04 17:22:07
+
+[17:22:07]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[17:22:14]
+[ci8FBC] eee
+O-a="aaaaaaaa"
+
+[17:22:15]
+[VNC/I0] eebot
+代码运行成功
+
+[17:22:20]
+[ci8FBC] eee
+O-print(a)
+
+[17:22:20]
+[VNC/I0] eebot
+name 'a' is not defined
+
+[17:22:21]
+[VNC/I0] eebot
+代码运行失败
+
+[17:22:43]
+[VNC/I0] eebot
+2022.06.04 17:22:42
+
+[17:22:43]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[17:22:44]
+[ci8FBC] eee
+O-a="aaaaaaaa"
+
+[17:22:44]
+[VNC/I0] eebot
+代码运行成功
+
+[17:22:45]
+[ci8FBC] eee
+O-print(a)
+
+[17:22:46]
+[VNC/I0] eebot
+name 'a' is not defined
+
+[17:22:46]
+[VNC/I0] eebot
+代码运行失败
+
+[17:22:47]
+[edDiBU] 4n0n4me
+哎，没有分号，是不是一次只能一条语句啊
+
+[17:22:56]
+[edDiBU] 4n0n4me
+O-a="aaaaaa";print(a)
+
+[17:22:57]
+[VNC/I0] eebot
+aaaaaa
+
+[17:22:57]
+[VNC/I0] eebot
+代码运行成功
+
+[17:22:58]
+[edDiBU] 4n0n4me
+wow
+
+[17:22:58]
+[VNC/I0] eebot
+°ˇ°
+
+[17:23:06]
+[ci8FBC] eee
+是啊
+
+[17:23:10]
+[edDiBU] 4n0n4me
+python还是很给面子的，能屈能伸
+
+[17:23:14]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈
+
+[17:23:26]
+[ci8FBC] eee
+O-send(hc)
+
+[17:23:26]
+[VNC/I0] eebot
+hack.chat
+
+[17:23:26]
+[VNC/I0] eebot
+代码运行成功
+
+[17:25:25]
+[3rk9wA] Mr_Zhang
+篡改变量啦
+
+[17:25:48]
+[3rk9wA] Mr_Zhang
+O-hc='xc.kzw.ink'
+
+[17:25:49]
+[VNC/I0] eebot
+代码运行成功
+
+[17:25:59]
+[3rk9wA] Mr_Zhang
+O-print(hc)
+
+[17:26:00]
+[VNC/I0] eebot
+hack.chat
+
+[17:26:00]
+[VNC/I0] eebot
+代码运行成功
+
+[17:26:45]
+[3rk9wA] Mr_Zhang
+。。。
+
+[17:27:13]
+[ci8FBC] eee
+我找找有没有保存变量的
+
+[17:27:27]
+[3rk9wA] Mr_Zhang
+O-f=open('sbsbs.txt')
+
+[17:27:27]
+[VNC/I0] eebot
+咳咳 Mr_Zhang这是在玩火
+
+[17:27:31]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[17:27:34]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[17:29:13]
+[3rk9wA] Mr_Zhang
+掉了啊
+
+[17:31:49]
+[ci8FBC] eee
+hi yooooooooooooooooooooooo
+
+[17:32:02]
+[3rk9wA] Mr_Zhang
+hello yoooooooooooooooooooooooooooo
+
+[17:32:41]
+[edDiBU] 4n0n4me
+我打算尝试一个特殊的东西
+
+[17:33:11]
+[3rk9wA] Mr_Zhang
+我换个设备
+
+[17:33:15]
+[3rk9wA] Mr_Zhang
+一会就来
+
+[17:33:55]
+[ci8FBC] eee
+什么特殊的东西（
+
+[17:34:01]
+[edDiBU] 4n0n4me
+emm
+
+[17:34:04]
+[edDiBU] 4n0n4me
+我不会搞
+
+[17:34:07]
+[edDiBU] 4n0n4me
+估计是搞不成
+
+[17:34:17]
+[ci8FBC] eee
+~~什么什么~~
+
+[17:35:01]
+[3rk9wA] Mr_Zhang
+？
+
+[17:35:07]
+[ci8FBC] eee
+hi yoooooooooooooooo
+
+[17:35:14]
+[3rk9wA] Mr_Zhang
+hello yooooooooooooooooooooooooooooooooooo
+
+[17:35:19]
+[edDiBU] 4n0n4me
+我只是对这个东西略知一二
+
+[17:35:21]
+[edDiBU] 4n0n4me
+就是迭代器
+
+[17:35:27]
+[3rk9wA] Mr_Zhang
+额
+
+[17:35:30]
+[edDiBU] 4n0n4me
+我在想能不能用一些python内置的东西
+
+[17:35:31]
+[3rk9wA] Mr_Zhang
+这不是很简单吗
+
+[17:35:33]
+[edDiBU] 4n0n4me
+不用for、while
+
+[17:35:35]
+[edDiBU] 4n0n4me
+进行刷屏呢
+
+[17:35:45]
+[ci8FBC] eee
+wowoowoc
+
+[17:35:59]
+[ci8FBC] eee
+说一下你的想法
+
+[17:36:00]
+[edDiBU] 4n0n4me
+哎，看来并没有这种事情。
+
+[17:36:19]
+[3rk9wA] Mr_Zhang
+。。。
+
+[17:36:25]
+[3rk9wA] Mr_Zhang
+我觉得应该不可能
+
+[17:36:28]
+[3rk9wA] Mr_Zhang
+没有循环
+
+[17:37:21]
+[ci8FBC] eee
+如果有某个函数 本身能不断重复
+
+[17:37:24]
+[ci8FBC] eee
+（应该没有）
+
+[17:37:39]
+[edDiBU] 4n0n4me
+woc!
+
+[17:37:41]
+[3rk9wA] Mr_Zhang
+。。。
+
+[17:37:45]
+[edDiBU] 4n0n4me
+我用函数的自我引用
+
+[17:37:46]
+[3rk9wA] Mr_Zhang
+？
+
+[17:37:52]
+[3rk9wA] Mr_Zhang
+等下
+
+[17:37:53]
+[edDiBU] 4n0n4me
+把python卡退了
+
+[17:37:55]
+[edDiBU] 4n0n4me
+但是在这之前
+
+[17:37:57]
+[ci8FBC] eee
+wowowowoc
+
+[17:37:58]
+[edDiBU] 4n0n4me
+已经打印了好多个1
+
+[17:38:02]
+[ci8FBC] eee
+！！！
+
+[17:38:10]
+[ci8FBC] eee
+我也有这种想法（
+
+[17:38:19]
+[edDiBU] 4n0n4me
+```
+class c1:
+    def f1(self):
+        print(1)
+        self.f1()
+i1 = c1()
+i1.f1()
+```
+
+[17:38:20]
+[3rk9wA] Mr_Zhang
+我试试
+
+[17:38:21]
+[3rk9wA] Mr_Zhang
+3
+
+[17:38:22]
+[3rk9wA] Mr_Zhang
+2
+
+[17:38:23]
+[3rk9wA] Mr_Zhang
+1
+
+[17:38:24]
+[3rk9wA] Mr_Zhang
+O-def fuck():
+    print("危险代码")
+    fuck()
+
+[17:38:24]
+[VNC/I0] eebot
+代码运行成功
+
+[17:38:33]
+[3rk9wA] Mr_Zhang
+O-def fuck():
+    print("危险代码")
+    fuck()
+fuck()
+
+[17:38:33]
+[VNC/I0] eebot
+危险代码
+
+[17:38:34]
+[VNC/I0] eebot
+name 'fuck' is not defined
+
+[17:38:34]
+[VNC/I0] eebot
+代码运行失败
+
+[17:38:35]
+[edDiBU] 4n0n4me
+因为现在的电脑很安全，所以应该不会有大的影响
+
+[17:38:42]
+[edDiBU] 4n0n4me
+在自己的电脑里不会有大的影响
+
+[17:38:54]
+[3rk9wA] Mr_Zhang
+O-def fuck():
+    print("危险代码")
+    fuck()
+fuck()
+
+[17:38:54]
+[VNC/I0] eebot
+危险代码
+
+[17:38:54]
+[VNC/I0] eebot
+name 'fuck' is not defined
+
+[17:38:54]
+[VNC/I0] eebot
+代码运行失败
+
+[17:38:54]
+[edDiBU] 4n0n4me
+python很快就到达了什么引用深度的上限
+
+[17:38:56]
+[edDiBU] 4n0n4me
+推出了
+
+[17:38:58]
+[3rk9wA] Mr_Zhang
+？
+
+[17:38:59]
+[VNC/I0] eebot
+好好的男人
+
+[17:38:59]
+[3rk9wA] Mr_Zhang
+等下
+
+[17:39:08]
+[3rk9wA] Mr_Zhang
+O-
+def fuck():
+    print("危险代码")
+    fuck()
+fuck()
+
+[17:39:09]
+[VNC/I0] eebot
+危险代码
+
+[17:39:09]
+[VNC/I0] eebot
+name 'fuck' is not defined
+
+[17:39:09]
+[VNC/I0] eebot
+代码运行失败
+
+[17:46:35]
+[VNC/I0] eebot
+2022.06.04 17:46:34
+
+[17:46:35]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[17:46:44]
+[ci8FBC] eee
+O-test
+
+[17:46:44]
+[VNC/I0] eebot
+name 'test' is not defined
+
+[17:46:45]
+[VNC/I0] eebot
+代码运行失败
+
+[17:47:31]
+[ci8FBC] eee
+O-test=1
+save_var(test)
+
+[17:47:31]
+[VNC/I0] eebot
+代码运行成功
+
+[17:47:55]
+[ci8FBC] eee
+O-send(test)
+
+[17:47:55]
+[VNC/I0] eebot
+name 'test' is not defined
+
+[17:47:55]
+[VNC/I0] eebot
+代码运行失败
+
+[17:48:37]
+[3rk9wA] Mr_Zhang
+漂流瓶即将上线
+
+[17:48:49]
+[ci8FBC] eee
+hi yooooooooooo
+
+[17:48:51]
+[ci8FBC] eee
+ohhhhhhhhhhhhhhhhhhhhhh
+
+[17:49:14]
+[3rk9wA] Mr_Zhang
+hello yo
+
+[17:49:22]
+[ci8FBC] eee
+O-send(test)
+
+[17:49:23]
+[VNC/I0] eebot
+name 'test' is not defined
+
+[17:49:23]
+[VNC/I0] eebot
+代码运行失败
+
+[17:49:27]
+[ci8FBC] eee
+O-test
+
+[17:49:27]
+[VNC/I0] eebot
+name 'test' is not defined
+
+[17:49:27]
+[VNC/I0] eebot
+代码运行失败
+
+[17:49:31]
+[3rk9wA] Mr_Zhang
+晚上上线
+
+[17:49:34]
+[ci8FBC] eee
+OKOK
+
+[17:50:40]
+[VNC/I0] eebot
+2022.06.04 17:50:39
+
+[17:50:40]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[17:50:42]
+[ci8FBC] eee
+O-test=1
+
+[17:50:42]
+[VNC/I0] eebot
+Ran out of input
+
+[17:50:42]
+[VNC/I0] eebot
+代码运行失败
+
+[17:50:59]
+[ci8FBC] eee
+O-send(1)
+
+[17:50:59]
+[VNC/I0] eebot
+Ran out of input
+
+[17:50:59]
+[VNC/I0] eebot
+代码运行失败
+
+[17:52:48]
+[VNC/I0] eebot
+2022.06.04 17:52:47
+
+[17:52:48]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[17:52:50]
+[ci8FBC] eee
+O-test=1
+
+[17:52:50]
+[VNC/I0] eebot
+代码运行成功
+
+[17:53:11]
+[ci8FBC] eee
+O-
+save_var(text=1)
+
+[17:53:11]
+[VNC/I0] eebot
+save_var() got an unexpected keyword argument 'text'
+
+[17:53:11]
+[VNC/I0] eebot
+代码运行失败
+
+[17:53:20]
+[ci8FBC] eee
+O-text=1
+save_var(text)
+
+[17:53:20]
+[VNC/I0] eebot
+代码运行成功
+
+[17:53:28]
+[ci8FBC] eee
+O-text
+
+[17:53:28]
+[VNC/I0] eebot
+代码运行成功
+
+[17:53:33]
+[ci8FBC] eee
+O-send(text)
+
+[17:53:33]
+[VNC/I0] eebot
+send(text)
+
+[17:53:33]
+[VNC/I0] eebot
+代码运行成功
+
+[17:53:53]
+[ci8FBC] eee
+？？？
+
+[17:53:58]
+[ci8FBC] eee
+O-send(1)
+
+[17:53:58]
+[VNC/I0] eebot
+1
+
+[17:53:58]
+[VNC/I0] eebot
+代码运行成功
+
+[17:54:01]
+[ci8FBC] eee
+O-send(text)
+
+[17:54:02]
+[VNC/I0] eebot
+send(text)
+
+[17:54:02]
+[VNC/I0] eebot
+代码运行成功
+
+[17:54:31]
+[ci8FBC] eee
+O-ts=1
+save_var(ts)
+
+[17:54:31]
+[VNC/I0] eebot
+代码运行成功
+
+[17:54:37]
+[ci8FBC] eee
+O-ts
+
+[17:54:37]
+[VNC/I0] eebot
+代码运行成功
+
+[17:54:44]
+[ci8FBC] eee
+O-send(ts)
+
+[17:54:44]
+[VNC/I0] eebot
+test
+
+[17:54:44]
+[VNC/I0] eebot
+代码运行成功
+
+[17:55:07]
+[ci8FBC] eee
+O-send(aa)
+
+[17:55:07]
+[VNC/I0] eebot
+name 'aa' is not defined
+
+[17:55:07]
+[VNC/I0] eebot
+代码运行失败
+
+[17:55:20]
+[ci8FBC] eee
+这个
+
+[17:55:22]
+[ci8FBC] eee
+也
+
+[17:55:24]
+[ci8FBC] eee
+太奇怪了吧
+
+[18:02:41]
+[VNC/I0] eebot
+2022.06.04 18:02:40
+
+[18:02:41]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:03:00]
+[ci8FBC] eee
+O-tex=1
+save_var(tex)
+
+[18:03:00]
+[VNC/I0] eebot
+代码运行成功
+
+[18:03:08]
+[ci8FBC] eee
+O-send(tex)
+
+[18:03:08]
+[VNC/I0] eebot
+name 'tex' is not defined
+
+[18:03:08]
+[VNC/I0] eebot
+代码运行失败
+
+[18:12:32]
+[3rk9wA] Mr_Zhang
+O-input()
+
+[18:12:32]
+[VNC/I0] eebot
+卡机是不被允许的
+
+[18:12:53]
+[VNC/I0] eebot_601
+awa eb的昵称卡在里面了
+
+[18:12:59]
+[3rk9wA] Mr_Zhang
+又卡了吧
+
+[18:13:02]
+[3rk9wA] Mr_Zhang
+确实
+
+[18:13:07]
+[3rk9wA] Mr_Zhang
+失礼了！
+
+[18:13:18]
+[3rk9wA] Mr_Zhang
+O-break
+
+[18:13:18]
+[VNC/I0] eebot_601
+'break' outside loop (<string>, line 1)
+
+[18:13:19]
+[VNC/I0] eebot_601
+代码运行失败
+
+[18:13:27]
+[3rk9wA] Mr_Zhang
+嘶～
+
+[18:13:41]
+[VNC/I0] eebot
+·
+Fuaful的个人主页
+http://fuaful.sxl.cn
+
+[18:13:51]
+[VNC/I0] eebot_601
+·
+Bird's Page
+https://fuckbird.sbsbsb.sbs/
+
+[18:17:54]
+[3rk9wA] Mr_Zhang
+@eee 失礼了！
+
+[18:18:06]
+[3rk9wA] Mr_Zhang
+尝试高危代码
+
+[18:18:30]
+[3rk9wA] Mr_Zhang
+O-import getpass;getpass.getuser()
+
+[18:18:31]
+[VNC/I0] eebot_601
+代码运行成功
+
+[18:18:53]
+[3rk9wA] Mr_Zhang
+O-import getpass;getpass.getuser()
+VNC/I0 eebot_601
+
+[18:18:53]
+[VNC/I0] eebot_601
+unexpected character after line continuation character (<string>, line 2)
+
+[18:18:54]
+[VNC/I0] eebot_601
+代码运行失败
+
+[18:19:22]
+[3rk9wA] Mr_Zhang
+O-import getpass
+print(getpass.getuser())
+
+[18:19:22]
+[VNC/I0] eebot_601
+Administrator
+
+[18:19:22]
+[VNC/I0] eebot_601
+代码运行成功
+
+[18:19:25]
+[3rk9wA] Mr_Zhang
+啊
+
+[18:19:40]
+[3rk9wA] Mr_Zhang
+获取了你的账户
+
+[18:19:45]
+[3rk9wA] Mr_Zhang
+下一步
+
+[18:19:52]
+[3rk9wA] Mr_Zhang
+卡机
+
+[18:20:32]
+[3rk9wA] Mr_Zhang
+@eee 失礼了！我要卡机了！
+
+[18:22:26]
+[VNC/I0] eebot
+2022.06.04 18:22:25
+
+[18:22:26]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:22:33]
+[3rk9wA] Mr_Zhang
+类似于input
+
+[18:22:45]
+[3rk9wA] Mr_Zhang
+再试试
+
+[18:22:53]
+[ci8FBC] eee
+看看还有没有别的
+
+[18:22:57]
+[3rk9wA] Mr_Zhang
+O-import getpass
+print(getpass.getpass())
+
+[18:22:57]
+[VNC/I0] eebot
+卡机是不被允许的
+
+[18:23:00]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈
+
+[18:23:02]
+[3rk9wA] Mr_Zhang
+哈哈哈哈哈哈哈哈
+
+[18:24:33]
+[3rk9wA] Mr_Zhang
+O-import getpass
+print(getpass.getuser())
+
+[18:24:33]
+[VNC/I0] eebot
+卡机是不被允许的
+
+[18:24:36]
+[3rk9wA] Mr_Zhang
+？
+
+[18:24:46]
+[3rk9wA] Mr_Zhang
+这不是卡机啊
+
+[18:25:01]
+[3rk9wA] Mr_Zhang
+这是获取电脑账户
+
+[18:25:09]
+[ci8FBC] eee
+带getpass好像都被我屏蔽了
+
+[18:25:13]
+[3rk9wA] Mr_Zhang
+呵呵
+
+[18:25:13]
+[VNC/I0] eebot
+呵呵呵
+
+[18:25:20]
+[ci8FBC] eee
+哈哈哈
+
+[18:25:20]
+[VNC/I0] eebot
+哈哈哈草
+
+[18:25:24]
+[3rk9wA] Mr_Zhang
+再来
+
+[18:25:29]
+[ci8FBC] eee
+试试
+
+[18:25:29]
+[VNC/I0] eebot
+试试试
+
+[18:25:37]
+[VNC/I0] eebot_421
+awa eb的昵称卡在里面了
+
+[18:25:41]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[18:25:52]
+[3rk9wA] Mr_Zhang
+真的卡了
+
+[18:26:14]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[18:26:14]
+[VNC/I0] eebot_421
+哈哈哈哈哈哈草
+
+[18:26:17]
+[3rk9wA] Mr_Zhang
+建议屏蔽import 自己
+
+[18:31:27]
+[VNC/I0] eebot
+2022.06.04 18:31:26
+
+[18:31:27]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:31:33]
+[ci8FBC] eee
+O-a=1
+
+[18:32:10]
+[VNC/I0] eebot
+2022.06.04 18:32:09
+
+[18:32:10]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:32:11]
+[ci8FBC] eee
+O-a=1
+
+[18:32:11]
+[VNC/I0] eebot
+代码运行成功
+
+[18:32:11]
+[VNC/I0] eebot
+name 'zz' is not defined
+
+[18:32:11]
+[VNC/I0] eebot
+代码运行失败
+
+[18:33:05]
+[3rk9wA] Mr_Zhang
+O-import getpass
+
+[18:33:06]
+[VNC/I0] eebot
+卡机是不被允许的
+
+[18:33:12]
+[VNC/I0] eebot
+2022.06.04 18:33:12
+
+[18:33:12]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:33:18]
+[3rk9wA] Mr_Zhang
+O-import random
+
+[18:33:18]
+[VNC/I0] eebot
+代码运行成功
+
+[18:33:26]
+[ci8FBC] eee
+O-send(a)
+
+[18:33:27]
+[VNC/I0] eebot
+1
+
+[18:33:27]
+[VNC/I0] eebot
+代码运行成功
+
+[18:33:28]
+[3rk9wA] Mr_Zhang
+O-import main
+
+[18:33:28]
+[VNC/I0] eebot
+卡机是不被允许的
+
+[18:33:30]
+[ci8FBC] eee
+芜湖
+
+[18:33:36]
+[ci8FBC] eee
+成功了
+
+[18:33:38]
+[3rk9wA] Mr_Zhang
+wuhu~~~
+
+[18:33:38]
+[ci8FBC] eee
+保存变量
+
+[18:33:41]
+[3rk9wA] Mr_Zhang
+呵呵呵
+
+[18:33:57]
+[ci8FBC] eee
+O-zhang="Mr_Zhang"
+
+[18:33:58]
+[VNC/I0] eebot
+代码运行成功
+
+[18:34:09]
+[3rk9wA] Mr_Zhang
+O-zhang
+
+[18:34:09]
+[VNC/I0] eebot
+name 'zhang' is not defined
+
+[18:34:09]
+[VNC/I0] eebot
+代码运行失败
+
+[18:34:16]
+[ci8FBC] eee
+？？？？
+
+[18:34:22]
+[3rk9wA] Mr_Zhang
+O-print(Zhang)
+
+[18:34:22]
+[VNC/I0] eebot
+name 'Zhang' is not defined
+
+[18:34:22]
+[VNC/I0] eebot
+代码运行失败
+
+[18:34:27]
+[VNC/I0] eebot
+2022.06.04 18:34:26
+
+[18:34:27]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:34:28]
+[ci8FBC] eee
+O-zhang="Mr_Zhang"
+
+[18:34:29]
+[VNC/I0] eebot
+代码运行成功
+
+[18:34:44]
+[3rk9wA] Mr_Zhang
+O-print(Zhang)
+
+[18:34:44]
+[VNC/I0] eebot
+name 'Zhang' is not defined
+
+[18:34:44]
+[VNC/I0] eebot
+代码运行失败
+
+[18:35:34]
+[VNC/I0] eebot
+2022.06.04 18:35:33
+
+[18:35:34]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:35:35]
+[ci8FBC] eee
+O-zhang="Mr_Zhang"
+
+[18:35:35]
+[VNC/I0] eebot
+代码运行成功
+
+[18:35:36]
+[3rk9wA] Mr_Zhang
+O-print(zhang)
+
+[18:35:36]
+[VNC/I0] eebot
+name 'zhang' is not defined
+
+[18:35:36]
+[VNC/I0] eebot
+代码运行失败
+
+[18:35:41]
+[3rk9wA] Mr_Zhang
+。
+
+[18:35:41]
+[ci8FBC] eee
+O-zhang=1
+
+[18:35:41]
+[VNC/I0] eebot
+代码运行成功
+
+[18:35:50]
+[ci8FBC] eee
+O-print(zhang)
+
+[18:35:52]
+[VNC/I0] eebot
+name 'zhang' is not defined
+
+[18:35:52]
+[VNC/I0] eebot
+代码运行失败
+
+[18:36:26]
+[VNC/I0] eebot
+2022.06.04 18:36:25
+
+[18:36:26]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:36:29]
+[ci8FBC] eee
+O-zhang="Mr_Zhang"
+
+[18:36:29]
+[VNC/I0] eebot
+代码运行成功
+
+[18:38:49]
+[VNC/I0] eebot
+2022.06.04 18:38:48
+
+[18:38:49]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:38:50]
+[ci8FBC] eee
+O-zhang="Mr_Zhang"
+
+[18:38:51]
+[VNC/I0] eebot
+代码运行成功
+
+[18:38:51]
+[VNC/I0] eebot
+变量已成功保存
+
+[18:38:58]
+[ci8FBC] eee
+O-send(zhang)
+
+[18:38:59]
+[VNC/I0] eebot
+Mr_Zhang
+
+[18:38:59]
+[VNC/I0] eebot
+代码运行成功
+
+[18:39:00]
+[ci8FBC] eee
+芜湖
+
+[18:39:16]
+[ci8FBC] eee
+太棒了
+
+[18:40:46]
+[3rk9wA] Mr_Zhang
+Ohhhhh
+
+[18:40:50]
+[3rk9wA] Mr_Zhang
+恭喜！
+
+[18:41:06]
+[3rk9wA] Mr_Zhang
+让我来篡改变量吧……
+
+[18:41:17]
+[ci8FBC] eee
+我找了一堆网上的保存变量方法
+
+[18:41:22]
+[ci8FBC] eee
+结果都看不懂
+
+[18:41:26]
+[3rk9wA] Mr_Zhang
+O-flower=False
+
+[18:41:26]
+[VNC/I0] eebot
+代码运行成功
+
+[18:41:26]
+[VNC/I0] eebot
+变量已成功保存
+
+[18:41:28]
+[3rk9wA] Mr_Zhang
+啊
+
+[18:41:42]
+[3rk9wA] Mr_Zhang
+功能
+
+[18:41:44]
+[ci8FBC] eee
+功能
+
+[18:41:49]
+[ci8FBC] eee
+哈哈哈哈哈 是隔离开的
+
+[18:42:12]
+[ci8FBC] eee
+于是 我就以文本的方式解决了（
+
+[18:42:39]
+[3rk9wA] Mr_Zhang
+Ohhhhhhh
+
+[18:42:43]
+[3rk9wA] Mr_Zhang
+厉害
+
+[18:42:47]
+[3rk9wA] Mr_Zhang
+O-global flower
+flower=False
+
+[18:42:47]
+[VNC/I0] eebot
+name 'flower' is assigned to before global declaration (<string>, line 4)
+
+[18:42:47]
+[VNC/I0] eebot
+代码运行失败
+
+[18:43:22]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[18:43:37]
+[3rk9wA] Mr_Zhang
+O-global flower
+flower=False
+
+[18:43:38]
+[VNC/I0] eebot
+name 'flower' is assigned to before global declaration (<string>, line 4)
+
+[18:43:38]
+[VNC/I0] eebot
+代码运行失败
+
+[18:43:46]
+[3rk9wA] Mr_Zhang
+嘶～
+
+[18:44:03]
+[3rk9wA] Mr_Zhang
+引用全局变量失败......
+
+[18:44:06]
+[ci8FBC] eee
+这是什么原因我也不知道——
+
+[18:44:15]
+[ci8FBC] eee
+对了
+
+[18:44:22]
+[3rk9wA] Mr_Zhang
+反正改不了就行
+
+[18:44:24]
+[ci8FBC] eee
+send(botpass)
+
+[18:44:27]
+[ci8FBC] eee
+O-send(botpass)
+
+[18:44:28]
+[VNC/I0] eebot
+None
+
+[18:44:28]
+[VNC/I0] eebot
+代码运行成功
+
+[18:44:28]
+[3rk9wA] Mr_Zhang
+额？
+
+[18:44:45]
+[3rk9wA] Mr_Zhang
+O-send(flower)
+
+[18:44:46]
+[VNC/I0] eebot
+False
+
+[18:44:46]
+[VNC/I0] eebot
+代码运行成功
+
+[18:44:49]
+[ci8FBC] eee
+yeep
+
+[18:44:51]
+[3rk9wA] Mr_Zhang
+额？
+
+[18:45:01]
+[3rk9wA] Mr_Zhang
+O-flower=None
+
+[18:45:01]
+[VNC/I0] eebot
+代码运行成功
+
+[18:45:01]
+[VNC/I0] eebot
+变量已成功保存
+
+[18:45:39]
+[ci8FBC] eee
+这个自动运行代码
+
+[18:45:45]
+[ci8FBC] eee
+ 除了一小部分能在全局修改
+
+[18:45:58]
+[3rk9wA] Mr_Zhang
+哈哈哈刑
+
+[18:45:59]
+[ci8FBC] eee
+其他是在本函数内保存变量（
+
+[18:46:02]
+[ci8FBC] eee
+刑哈哈哈哈哈
+
+[18:46:09]
+[3rk9wA] Mr_Zhang
+刑
+
+[18:46:19]
+[3rk9wA] Mr_Zhang
+“虚拟机”
+
+[18:46:41]
+[VNC/I0] eebot
+2022.06.04 18:46:40
+
+[18:46:41]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:46:44]
+[ci8FBC] eee
+哈哈哈哈哈 太棒了
+
+[18:46:59]
+[ci8FBC] eee
+用来方便测试的——
+
+[18:47:05]
+[ci8FBC] eee
+print(zhang)
+
+[18:47:06]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[18:47:10]
+[ci8FBC] eee
+O-print(zhang)
+
+[18:47:11]
+[VNC/I0] eebot
+Mr_Zhang
+
+[18:47:11]
+[VNC/I0] eebot
+代码运行成功
+
+[18:47:15]
+[ci8FBC] eee
+还是能保存
+
+[18:51:50]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[18:52:12]
+[3rk9wA] Mr_Zhang
+NBNB大写NB
+
+[18:52:15]
+[VNC/I0] eebot
+2022.06.04 18:52:14
+
+[18:52:15]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:52:19]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈
+
+[18:52:19]
+[VNC/I0] eebot
+哈哈哈哈哈哈哈哈嗝-
+
+[18:52:21]
+[ci8FBC] eee
+O-
+
+[18:54:25]
+[VNC/I0] eebot
+2022.06.04 18:54:24
+
+[18:54:25]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:54:29]
+[VNC/I0] eebot
+2022.06.04 18:54:28
+
+[18:54:29]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:54:35]
+[ci8FBC] eee
+hi yooooooooooooooooooooo
+
+[18:54:38]
+[ci8FBC] eee
+O-
+
+[18:54:39]
+[VNC/I0] eebot
+已清空所有变量
+
+[18:54:46]
+[ci8FBC] eee
+OKOK
+
+[18:54:46]
+[edDiBU] 4n0n4me
+wow
+
+[18:54:46]
+[VNC/I0] eebot
+n-n
+
+[18:54:49]
+[3rk9wA] Mr_Zhang
+hello yoooooooooooooooooooooooooooooooooo
+
+[18:54:51]
+[edDiBU] 4n0n4me
+wowow
+
+[18:54:56]
+[3rk9wA] Mr_Zhang
+哈哈刑
+
+[18:55:04]
+[3rk9wA] Mr_Zhang
+大写的NB
+
+[18:55:08]
+[3rk9wA] Mr_Zhang
+O-
+
+[18:55:09]
+[VNC/I0] eebot
+已清空所有变量
+
+[18:55:10]
+[ci8FBC] eee
+O-nnme=404
+
+[18:55:10]
+[VNC/I0] eebot
+代码运行成功
+
+[18:55:10]
+[VNC/I0] eebot
+变量已成功保存
+
+[18:55:22]
+[ci8FBC] eee
+O-send(nnme)
+
+[18:55:23]
+[VNC/I0] eebot
+404
+
+[18:55:23]
+[VNC/I0] eebot
+代码运行成功
+
+[18:55:26]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[18:55:45]
+[ci8FBC] eee
+O-zhang="小张"
+
+[18:55:45]
+[VNC/I0] eebot
+代码运行成功
+
+[18:55:45]
+[VNC/I0] eebot
+变量已成功保存
+
+[18:55:53]
+[ci8FBC] eee
+O-send(zhang)
+
+[18:55:53]
+[VNC/I0] eebot
+小张
+
+[18:55:53]
+[VNC/I0] eebot
+代码运行成功
+
+[18:56:00]
+[ci8FBC] eee
+yeeeeeeeep
+
+[18:56:09]
+[3rk9wA] Mr_Zhang
+O-zhang='苍蝇'
+
+[18:56:09]
+[VNC/I0] eebot
+代码运行成功
+
+[18:56:09]
+[VNC/I0] eebot
+变量已成功保存
+
+[18:56:25]
+[edDiBU] 4n0n4me
+we wo we wo we wo wi
+
+[18:56:26]
+[ci8FBC] eee
+我试试其他的
+
+[18:56:35]
+[ci8FBC] eee
+a=[1,2,3,4,5]
+
+[18:56:38]
+[ci8FBC] eee
+O-a=[1,2,3,4,5]
+
+[18:56:39]
+[VNC/I0] eebot
+代码运行成功
+
+[18:56:39]
+[VNC/I0] eebot
+变量已成功保存
+
+[18:56:48]
+[ci8FBC] eee
+O-a[1]
+
+[18:56:49]
+[VNC/I0] eebot
+代码运行成功
+
+[18:56:55]
+[ci8FBC] eee
+O-sned(a[1])
+
+[18:56:55]
+[VNC/I0] eebot
+name 'sned' is not defined
+
+[18:56:55]
+[VNC/I0] eebot
+代码运行失败
+
+[18:57:01]
+[ci8FBC] eee
+O-send(a[1])
+
+[18:57:02]
+[VNC/I0] eebot
+2
+
+[18:57:02]
+[VNC/I0] eebot
+代码运行成功
+
+[18:57:02]
+[3rk9wA] Mr_Zhang
+O-lbw='聊天室公敌卢本伟已在XChat被Mr_Zhang处决'
+
+[18:57:03]
+[VNC/I0] eebot
+代码运行成功
+
+[18:57:03]
+[VNC/I0] eebot
+变量已成功保存
+
+[18:57:18]
+[ci8FBC] eee
+芜湖 列表也没问题
+
+[18:57:26]
+[ci8FBC] eee
+O-send(lbw)
+
+[18:57:27]
+[VNC/I0] eebot
+聊天室公敌卢本伟已在XChat被Mr_Zhang处决
+
+[18:57:27]
+[VNC/I0] eebot
+代码运行成功
+
+[18:57:28]
+[3rk9wA] Mr_Zhang
+真好
+
+[18:58:01]
+[ci8FBC] eee
+O-b={1:3,4:2,5:8,3:7}
+
+[18:58:01]
+[VNC/I0] eebot
+代码运行成功
+
+[18:58:01]
+[VNC/I0] eebot
+变量已成功保存
+
+[18:58:12]
+[ci8FBC] eee
+O-send(b[2])
+
+[18:58:12]
+[VNC/I0] eebot
+2
+
+[18:58:12]
+[VNC/I0] eebot
+代码运行失败
+
+[18:58:22]
+[ci8FBC] eee
+O-send(b[4])
+
+[18:58:22]
+[VNC/I0] eebot
+2
+
+[18:58:22]
+[VNC/I0] eebot
+代码运行成功
+
+[18:58:25]
+[ci8FBC] eee
+OKOK
+
+[18:58:32]
+[3rk9wA] Mr_Zhang
+O-print(b)
+
+[18:58:32]
+[VNC/I0] eebot
+{1: 3, 4: 2, 5: 8, 3: 7}
+
+[18:58:32]
+[VNC/I0] eebot
+代码运行成功
+
+[18:58:49]
+[VNC/I0] eebot
+2022.06.04 18:58:48
+
+[18:58:49]
+[VNC/I0] eebot
+·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[18:58:57]
+[3rk9wA] Mr_Zhang
+O-print(b)
+
+[18:58:58]
+[VNC/I0] eebot
+{1: 3, 4: 2, 5: 8, 3: 7}
+
+[18:58:58]
+[VNC/I0] eebot
+代码运行成功
+
+[18:59:00]
+[3rk9wA] Mr_Zhang
+Ohhhhhh
+
+[18:59:12]
+[ci8FBC] eee
+文件简直是万能的）
+
+[18:59:27]
+[3rk9wA] Mr_Zhang
+哈哈哈是啊
+
+[18:59:37]
+[3rk9wA] Mr_Zhang
+删库跑路打咩
+
+[18:59:43]
+[ci8FBC] eee
+```
+def online_code(text):
+	fp=open("variable.txt","r+")
+	pf=fp.read()
+
+	head=botname=botpass=botnick=username=rese=botname=None
+	code=text.replace("print","send").replace("    ","	").replace('“','"').replace('”','"').replace('‘',"'").replace('’',"'")
+	code=code.replace('/','\\/').replace('^','\\^').replace('#','\\#')
+
+	try:
+		exec(pf+code)
+		time.sleep(0.1)
+		send("代码运行成功")
+
+		if "\n" not in code and "send" not in code and "=" in code and ";" not in code:
+			try:
+				fp.write(f"{code}\n")
+				fp.close()
+				send("变量已成功保存")
+
+			except:
+				send("无法写入 含有无法识别的字符")
+
+	except Exception as eee:
+		send(eee)
+		time.sleep(0.1)
+		send("代码运行失败")
+```
+
+[19:00:14]
+[ci8FBC] eee
+对了 有语音的代码框怎么弄
+
+[19:00:19]
+[ci8FBC] eee
+语言
+
+[19:00:28]
+[3rk9wA] Mr_Zhang
+三个`
+
+[19:00:37]
+[3rk9wA] Mr_Zhang
+加上语言名称
+
+[19:00:45]
+[ci8FBC] eee
+```python
+def online_code(text):
+	fp=open("variable.txt","r+")
+	pf=fp.read()
+
+	head=botname=botpass=botnick=username=rese=botname=None
+	code=text.replace("print","send").replace("    ","	").replace('“','"').replace('”','"').replace('‘',"'").replace('’',"'")
+	code=code.replace('/','\\/').replace('^','\\^').replace('#','\\#')
+
+	try:
+		exec(pf+code)
+		time.sleep(0.1)
+		send("代码运行成功")
+
+		if "\n" not in code and "send" not in code and "=" in code and ";" not in code:
+			try:
+				fp.write(f"{code}\n")
+				fp.close()
+				send("变量已成功保存")
+
+			except:
+				send("无法写入 含有无法识别的字符")
+
+	except Exception as eee:
+		send(eee)
+		time.sleep(0.1)
+		send("代码运行失败")
+
+[19:00:50]
+[3rk9wA] Mr_Zhang
+```python
+
+[19:00:59]
+[ci8FBC] eee
+不行 还是很丑
+
+[19:01:09]
+[ci8FBC] eee
+用```python
+
+[19:01:10]
+[ci8FBC] eee
+吗
+
+[19:01:21]
+[3rk9wA] Mr_Zhang
+Yes
+
+[19:01:36]
+[ci8FBC] eee
+```python
+def online_code(text):
+	fp=open("variable.txt","r+")
+	pf=fp.read()
+```
+
+[19:01:48]
+[3rk9wA] Mr_Zhang
+嗯
+
+[19:02:09]
+[3rk9wA] Mr_Zhang
+我去拉几个人
+
+[19:02:26]
+[VNC/I0] eebot
+使用zzChat访问本站以获得最佳体验！ https://app.zzchat.cf/
+
+[19:02:40]
+[ci8FBC] eee
+哈哈哈哈哈哈哈哈哈草
+
+[19:02:41]
+[VNC/I0] eebot
+![](https://i.xinger.ink/images.php)![](https://acg.toubiec.cn/random.php)![](https://mrpig.eu.org)
+
+[19:02:46]
+[ci8FBC] eee
+hi yooooooooooooo
+
+[19:02:48]
+[8LJ4jb] _
+h
+
+[19:02:49]
+[edDiBU] 4n0n4me
+xc的代码狂
+
+[19:02:51]
+[edDiBU] 4n0n4me
+框
+
+[19:02:53]
+[edDiBU] 4n0n4me
+很不美观
+
+[19:02:56]
+[3rk9wA] Mr_Zhang
+hello yooooooooooooooooo
+
+[19:03:06]
+[ci8FBC] eee
+O-zz="zzChumo智障初墨"
+
+[19:03:06]
+[VNC/I0] eebot
+代码运行成功
+
+[19:03:06]
+[VNC/I0] eebot
+变量已成功保存
+
+[19:03:07]
+[edDiBU] 4n0n4me
+yo hiiiiiiiiiiiiiiiiiiiii
+
+[19:03:08]
+[8LJ4jb] _
+>3rk9wA Mr_Zhang：
+>看ee调教eebot
+
+@Mr_Zhang 
+
+[19:03:09]
+[8LJ4jb] _
+h
+
+[19:03:11]
+[GEDhlf] zzChumo
+@4n0n4me https://github.com/zzChumo/XChat-doc
+
+[19:03:12]
+[VNC/I0] eebot
+@zzChumo GitHub:Wheretheworldbuildssoftware·GitHub
+https://github.com/zzChumo/XChat-doc
+
+[19:03:15]
+[GEDhlf] zzChumo
+>ci8FBC eee：
+>O-zz="zzChumo智障初墨"
+
+@eee ？
+
+[19:03:18]
+[edDiBU] 4n0n4me
+@zzChumo 我都star了
+
+[19:03:18]
+[ci8FBC] eee
+O-dpg="另一个我"
+
+[19:03:19]
+[VNC/I0] eebot
+代码运行成功
+
+[19:03:19]
+[VNC/I0] eebot
+变量已成功保存
+
+[19:03:19]
+[VNC/I0] eebot
+hi bihaitian
+
+[19:03:23]
+[8LJ4jb] _
+?
+
+[19:03:34]
+[8LJ4jb] _
+O-awa=waw
+
+[19:03:34]
+[VNC/I0] eebot
+name 'waw' is not defined
+
+[19:03:34]
+[VNC/I0] eebot
+代码运行失败
+
+[19:03:35]
+[GEDhlf] zzChumo
+>edDiBU 4n0n4me：
+>@zzChumo 我都star了
+
+@4n0n4me 鱼还fork了（
+
+[19:03:39]
+[8LJ4jb] _
+O-awa="waw"
+
+[19:03:39]
+[VNC/I0] eebot
+代码运行成功
+
+[19:03:39]
+[VNC/I0] eebot
+变量已成功保存
+
+[19:03:45]
+[ci8FBC] eee
+O-bht="碧海天"
+
+[19:03:45]
+[VNC/I0] eebot
+代码运行成功
+
+[19:03:45]
+[VNC/I0] eebot
+变量已成功保存
+
+[19:03:46]
+[3rk9wA] Mr_Zhang
+O-import main
+
+[19:03:46]
+[VNC/I0] eebot
+卡机是不被允许的
+
+[19:03:54]
+[edDiBU] 4n0n4me
+我要fork这个有什么用！
+
+[19:04:01]
+[ci8FBC] eee
+O-send(zz)
+send(dpg)
+send(bht)
+
+[19:04:02]
+[VNC/I0] eebot
+zzChumo智障初墨
+
+[19:04:02]
+[VNC/I0] eebot
+另一个我
+
+[19:04:02]
+[8LJ4jb] _
+O-send(awa)
+
+[19:04:02]
+[VNC/I0] eebot
+碧海天
+
+[19:04:02]
+[VNC/I0] eebot
+代码运行成功
+
+[19:04:02]
+[VNC/I0] eebot
+waw
+
+[19:04:02]
+[VNC/I0] eebot
+代码运行成功
+
+[19:04:06]
+[ci8FBC] eee
+芜湖
+
+[19:04:17]
+[GEDhlf] zzChumo
+O-ws.send('/nick zzbot')
+
+[19:04:17]
+[VNC/I0] eebot
+咳咳 想对代码和文件做什么
+
+[19:04:21]
+[GEDhlf] zzChumo
+hm
+
+[19:04:26]
+[8LJ4jb] _
+O-test="/nick zzbot"
+
+[19:04:26]
+[VNC/I0] eebot
+代码运行成功
+
+[19:04:27]
+[VNC/I0] eebot
+变量已成功保存
+
+[19:04:35]
+[8LJ4jb] _
+O-send(test)
+
+[19:04:35]
+[VNC/I0] eebot
+\/nick zzbot
+
+[19:04:35]
+[VNC/I0] eebot
+代码运行成功
+
+[19:04:38]
+[8LJ4jb] _
+gooog
+
+[19:04:39]
+[8LJ4jb] _
+/
+
+[19:04:40]
+[ci8FBC] eee
+@zzChumo 用send 不带ws
+
+[19:04:42]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[19:04:42]
+[VNC/I0] eebot
+草哈哈哈哈哈
+
+[19:04:43]
+[edDiBU] 4n0n4me
+O-send('/nick')
+
+[19:04:43]
+[VNC/I0] eebot
+\/nick
+
+[19:04:43]
+[VNC/I0] eebot
+代码运行成功
+
+[19:04:56]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[19:04:59]
+[8LJ4jb] _
+O-test=afk
+
+[19:05:00]
+[VNC/I0] eebot
+name 'afk' is not defined
+
+[19:05:00]
+[VNC/I0] eebot
+代码运行失败
+
+[19:05:04]
+[8LJ4jb] _
+O-test="afk"
+
+[19:05:04]
+[VNC/I0] eebot
+代码运行成功
+
+[19:05:04]
+[VNC/I0] eebot
+变量已成功保存
+
+[19:05:06]
+[GEDhlf] zzChumo
+O-send('/nick zzBot')
+
+[19:05:06]
+[VNC/I0] eebot
+\/nick zzBot
+
+[19:05:06]
+[VNC/I0] eebot
+代码运行成功
+
+[19:05:06]
+[3rk9wA] Mr_Zhang
+O-was.close()
+
+[19:05:06]
+[VNC/I0] eebot
+咳咳 想对代码和文件做什么
+
+[19:05:07]
+[8LJ4jb] _
+O-send(test)
+
+[19:05:07]
+[VNC/I0] eebot
+代码运行成功
+
+[19:05:09]
+[8LJ4jb] _
+h
+
+[19:05:12]
+[8LJ4jb] _
+O-send(test)
+
+[19:05:12]
+[ci8FBC] eee
+好玩
+
+[19:05:12]
+[VNC/I0] eebot
+代码运行成功
+
+[19:05:14]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[19:05:15]
+[GEDhlf] zzChumo
+O
+
+[19:05:20]
+[3rk9wA] Mr_Zhang
+O
+
+[19:05:21]
+[GEDhlf] zzChumo
+O-exit()
+
+[19:06:16]
+[VNC/I0] eebot_248
+awa eb的昵称卡在里面了
+
+[19:06:24]
+[GEDhlf] zzChumo
+O-exit()
+
+[19:06:24]
+[VNC/I0] eebot_248
+卡机是不被允许的
+
+[19:06:25]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[19:06:26]
+[GEDhlf] zzChumo
+c
+
+[19:06:27]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:06:28]
+[3rk9wA] Mr_Zhang
+O-
+
+[19:06:28]
+[GEDhlf] zzChumo
+nmb
+
+[19:06:28]
+[VNC/I0] eebot_248
+已清空所有变量
+
+[19:06:31]
+[ci8FBC] eee
+统计
+
+[19:06:34]
+[edDiBU] 4n0n4me
+O-import base64
+
+[19:06:35]
+[VNC/I0] eebot_248
+代码运行成功
+
+[19:06:49]
+[hmBtGV] 金工街3号楼
+21
+
+[19:06:50]
+[GEDhlf] zzChumo
+O-alert('sb')
+
+[19:06:50]
+[hmBtGV] 金工街3号楼
+231
+
+[19:06:50]
+[VNC/I0] eebot_248
+name 'alert' is not defined
+
+[19:06:50]
+[VNC/I0] eebot_248
+代码运行失败
+
+[19:06:50]
+[hmBtGV] 金工街3号楼
+23
+
+[19:06:51]
+[hmBtGV] 金工街3号楼
+132
+
+[19:06:52]
+[hmBtGV] 金工街3号楼
+123
+
+[19:06:54]
+[hmBtGV] 金工街3号楼
+统计‘
+
+[19:06:56]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:07:01]
+[3rk9wA] Mr_Zhang
+O-time.time()
+
+[19:07:02]
+[VNC/I0] eebot_248
+代码运行成功
+
+[19:07:04]
+[8LJ4jb] _
+O-az="&#x202e;"
+
+[19:07:04]
+[VNC/I0] eebot_248
+代码运行成功
+
+[19:07:04]
+[ci8FBC] eee
+导入库不会保存
+
+[19:07:06]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[19:07:07]
+[edDiBU] 4n0n4me
+O-send(base64.b64decode('Lw=='))
+
+[19:07:07]
+[VNC/I0] eebot_248
+name 'base64' is not defined
+
+[19:07:07]
+[VNC/I0] eebot_248
+代码运行失败
+
+[19:07:15]
+[3rk9wA] Mr_Zhang
+O-time.sleep
+
+[19:07:15]
+[VNC/I0] eebot_248
+卡机是不被允许的
+
+[19:07:17]
+[edDiBU] 4n0n4me
+O-import base64
+send(base64.b64decode('Lw=='))
+
+[19:07:17]
+[VNC/I0] eebot_248
+b'/'
+
+[19:07:17]
+[VNC/I0] eebot_248
+代码运行成功
+
+[19:07:21]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:07:22]
+[ci8FBC] eee
+芜湖
+
+[19:07:22]
+[8LJ4jb] _
+O-send(az)
+
+[19:07:22]
+[VNC/I0] eebot_248
+name 'az' is not defined
+
+[19:07:22]
+[VNC/I0] eebot_248
+代码运行失败
+
+[19:07:26]
+[3rk9wA] Mr_Zhang
+等下
+
+[19:07:27]
+[8LJ4jb] _
+O-az="&#x202e;"
+
+[19:07:27]
+[VNC/I0] eebot_248
+代码运行成功
+
+[19:07:28]
+[hmBtGV] 金工街3号楼
+杯
+
+[19:07:32]
+[hmBtGV] 金工街3号楼
+846
+
+[19:07:33]
+[edDiBU] 4n0n4me
+O-import base64
+send(base64.b64decode('Lw==')[2])
+
+[19:07:33]
+[VNC/I0] eebot_248
+index out of range
+
+[19:07:33]
+[VNC/I0] eebot_248
+代码运行失败
+
+[19:07:34]
+[hmBtGV] 金工街3号楼
+845
+
+[19:07:34]
+[8LJ4jb] _
+O-send(az)
+
+[19:07:34]
+[VNC/I0] eebot_248
+name 'az' is not defined
+
+[19:07:34]
+[VNC/I0] eebot_248
+代码运行失败
+
+[19:07:36]
+[hmBtGV] 金工街3号楼
+844
+
+[19:07:36]
+[8LJ4jb] _
+hm
+
+[19:07:39]
+[hmBtGV] 金工街3号楼
+843
+
+[19:07:40]
+[edDiBU] 4n0n4me
+O-import base64
+send(base64.b64decode('Lw==')[0])
+
+[19:07:40]
+[VNC/I0] eebot_248
+47
+
+[19:07:41]
+[VNC/I0] eebot_248
+代码运行成功
+
+[19:07:43]
+[hmBtGV] 金工街3号楼
+842
+
+[19:07:46]
+[hmBtGV] 金工街3号楼
+841
+
+[19:07:52]
+[hmBtGV] 金工街3号楼
+840
+
+[19:08:01]
+[VNC/I0] eebot_678
+awa eb的昵称卡在里面了
+
+[19:08:04]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:08:04]
+[edDiBU] 4n0n4me
+O-import base64
+a=base64.b64decode('Lw==')
+send(a[2])
+
+[19:08:08]
+[hmBtGV] 金工街3号楼
+839
+
+[19:08:10]
+[hmBtGV] 金工街3号楼
+838
+
+[19:08:12]
+[hmBtGV] 金工街3号楼
+837
+
+[19:08:14]
+[edDiBU] 4n0n4me
+O-import base64
+a=base64.b64decode('Lw==')
+send(a[2])
+
+[19:08:15]
+[VNC/I0] eebot_678
+index out of range
+
+[19:08:15]
+[VNC/I0] eebot_678
+代码运行失败
+
+[19:08:16]
+[hmBtGV] 金工街3号楼
+836
+
+[19:08:18]
+[hmBtGV] 金工街3号楼
+835
+
+[19:08:20]
+[edDiBU] 4n0n4me
+O-import base64
+a=base64.b64decode('Lw==')
+send(a[0])
+
+[19:08:20]
+[VNC/I0] eebot_678
+47
+
+[19:08:20]
+[VNC/I0] eebot_678
+代码运行成功
+
+[19:08:25]
+[edDiBU] 4n0n4me
+O-import base64
+a=base64.b64decode('Lw==')
+send(a)
+
+[19:08:25]
+[VNC/I0] eebot_678
+b'/'
+
+[19:08:25]
+[VNC/I0] eebot_678
+代码运行成功
+
+[19:08:28]
+[3rk9wA] Mr_Zhang
+O-send('/nick eb'.replace('\/','/')
+
+[19:08:29]
+[VNC/I0] eebot_678
+unexpected EOF while parsing (<string>, line 1)
+
+[19:08:29]
+[VNC/I0] eebot_678
+代码运行失败
+
+[19:08:34]
+[ci8FBC] eee
+挺好的 方便多了——
+
+[19:08:36]
+[hmBtGV] 金工街3号楼
+834
+
+[19:08:39]
+[hmBtGV] 金工街3号楼
+833
+
+[19:08:42]
+[hmBtGV] 金工街3号楼
+832
+
+[19:08:46]
+[3rk9wA] Mr_Zhang
+O-send('/nick eb’.replace('/’,’/'))
+
+[19:08:46]
+[VNC/I0] eebot_678
+\/nick eb
+
+[19:08:47]
+[VNC/I0] eebot_678
+代码运行成功
+
+[19:08:59]
+[3rk9wA] Mr_Zhang
+O-send('/nick eb’.replace('\/’,’/')
+
+[19:08:59]
+[VNC/I0] eebot_678
+unexpected EOF while parsing (<string>, line 1)
+
+[19:09:00]
+[VNC/I0] eebot_678
+代码运行失败
+
+[19:09:04]
+[hmBtGV] 金工街3号楼
+831
+
+[19:09:06]
+[hmBtGV] 金工街3号楼
+830
+
+[19:09:07]
+[hmBtGV] 金工街3号楼
+829
+
+[19:09:19]
+[3rk9wA] Mr_Zhang
+O-send('/nick eb’.replace('\/’,’/'))
+
+[19:09:19]
+[VNC/I0] eebot_678
+\/nick eb
+
+[19:09:19]
+[VNC/I0] eebot_678
+代码运行成功
+
+[19:09:22]
+[edDiBU] 4n0n4me
+O-import base64
+a=str(base64.b64decode('Lw=='))
+send(a[0])
+
+[19:09:23]
+[VNC/I0] eebot_678
+b
+
+[19:09:23]
+[VNC/I0] eebot_678
+代码运行成功
+
+[19:09:27]
+[edDiBU] 4n0n4me
+O-import base64
+a=str(base64.b64decode('Lw=='))
+send(a[2])
+
+[19:09:27]
+[VNC/I0] eebot_678
+代码运行成功
+
+[19:09:38]
+[edDiBU] 4n0n4me
+O-import base64
+a=str(base64.b64decode('Lw=='))
+send(a[2]+'me awa')
+
+[19:09:38]
+[VNC/I0] eebot_678
+代码运行成功
+
+[19:09:43]
+[edDiBU] 4n0n4me
+O-import base64
+a=str(base64.b64decode('Lw=='))
+send(a[2]+'me ohhh')
+
+[19:09:43]
+[VNC/I0] eebot_678
+代码运行成功
+
+[19:09:56]
+[hmBtGV] 金工街3号楼
+828
+
+[19:09:57]
+[hmBtGV] 金工街3号楼
+827
+
+[19:09:58]
+[hmBtGV] 金工街3号楼
+826
+
+[19:09:59]
+[3rk9wA] Mr_Zhang
+我去？
+
+[19:10:00]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:10:07]
+[3rk9wA] Mr_Zhang
+统计
+
+[19:10:08]
+[hmBtGV] 金工街3号楼
+826
+
+[19:10:10]
+[hmBtGV] 金工街3号楼
+825
+
+[19:10:15]
+[ci8FBC] eee
+统计
+
+[19:10:15]
+[hmBtGV] 金工街3号楼
+824
+
+[19:10:18]
+[hmBtGV] 金工街3号楼
+823
+
+[19:10:20]
+[ci8FBC] eee
+wocococ
+
+[19:10:26]
+[ci8FBC] eee
+什么时候有2213条了
+
+[19:10:41]
+[hmBtGV] 金工街3号楼
+822
+
+[19:10:45]
+[VNC/I0] eebot_849
+awa eb的昵称卡在里面了
+
+[19:10:45]
+[hmBtGV] 金工街3号楼
+821
+
+[19:10:46]
+[VNC/I0] eebot_849
+hi 4n0n4me
+
+[19:10:48]
+[hmBtGV] 金工街3号楼
+820
+
+[19:10:49]
+[hmBtGV] 金工街3号楼
+819
+
+[19:10:50]
+[edDiBU] 4n0n4me
+统计
+
+[19:10:52]
+[hmBtGV] 金工街3号楼
+818
+
+[19:10:53]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:10:59]
+[hmBtGV] 金工街3号楼
+817
+
+[19:10:59]
+[ci8FBC] eee
+hi yooooooooooooooooo
+
+[19:11:02]
+[hmBtGV] 金工街3号楼
+816
+
+[19:11:03]
+[hmBtGV] 金工街3号楼
+5
+
+[19:11:07]
+[hmBtGV] 金工街3号楼
+815
+
+[19:11:13]
+[3rk9wA] Mr_Zhang
+kick-@Mr_Zhang
+
+[19:11:22]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:11:29]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:11:38]
+[VNC/I0] eebot_854
+awa eb的昵称卡在里面了
+
+[19:11:40]
+[hmBtGV] 金工街3号楼
+test
+
+[19:11:41]
+[hmBtGV] 金工街3号楼
+test
+
+[19:11:42]
+[hmBtGV] 金工街3号楼
+test
+
+[19:12:01]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:12:06]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:12:08]
+[3rk9wA] Mr_Zhang
+功能
+
+[19:12:12]
+[ci8FBC] eee
+功能
+
+[19:12:14]
+[hmBtGV] 金工街3号楼
+测试
+
+[19:12:16]
+[hmBtGV] 金工街3号楼
+测试
+
+[19:12:26]
+[3rk9wA] Mr_Zhang
+生草机
+
+[19:12:26]
+[VNC/I0] eebot_854
+·
+示例：
+纸片君在厕所吃屎 看到这幅场景的ee 不由得落下了眼泪
+·
+使用方法：
+1.1：游戏前报数（报名）
+2.信息：查看当前游戏状态
+3.开始游戏：报数至少有3人时能开始
+4.结束游戏：完全关闭游戏
+5.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.开头请在60s内写完 续写120秒内
+2.当某人超时时 由bot代写
+3.当所有人接完后会自动结算
+·
+输出格式：
+3人：（某人）在（某地/某个时间）（某事）
+3人以上：（某人）在（某地/某时间点）（某事） （某事） （某事） ……
+
+[19:12:26]
+[VNC/I0] eebot_854
+请用1报数
+
+[19:12:38]
+[hmBtGV] 金工街3号楼
+1
+
+[19:12:38]
+[VNC/I0] eebot_854
+金工街3号楼成功加入 现在有1人
+
+[19:12:40]
+[3rk9wA] Mr_Zhang
+一会篡改变量
+
+[19:12:54]
+[ci8FBC] eee
+哈哈哈哈哈 绝了
+
+[19:12:55]
+[3rk9wA] Mr_Zhang
+结束游戏
+
+[19:12:55]
+[VNC/I0] eebot_854
+生草机已结束
+
+[19:13:02]
+[edDiBU] 4n0n4me
+O-import base64
+a=str(base64.b64decode('L14='))
+send(a[2]+'me awa')
+
+[19:13:02]
+[VNC/I0] eebot_854
+代码运行成功
+
+[19:13:05]
+[hmBtGV] 金工街3号楼
+测试
+
+[19:13:08]
+[hmBtGV] 金工街3号楼
+1
+
+[19:13:11]
+[ci8FBC] eee
+好家伙
+
+[19:13:37]
+[VNC/I0] eebot_854
+·
+MuRongPIG's GitHub
+https://github.com/MuRongPIG
+
+[19:13:40]
+[ci8FBC] eee
+原来还能这样
+
+[19:13:49]
+[VNC/I0] eebot
+·
+Maggie’s blog
+http://blog.thz.cool/
+
+[19:13:55]
+[edDiBU] 4n0n4me
+好家伙
+
+[19:13:55]
+[ci8FBC] eee
+\text
+
+[19:14:04]
+[hmBtGV] 金工街3号楼
+test、
+
+[19:14:07]
+[hmBtGV] 金工街3号楼
+test111
+
+[19:14:09]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:14:26]
+[ci8FBC] eee
+ test
+
+[19:14:34]
+[ci8FBC] eee
+ /help
+
+[19:14:46]
+[hmBtGV] 金工街3号楼
+。
+
+[19:14:49]
+[hmBtGV] 金工街3号楼
+。
+
+[19:14:53]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:15:05]
+[hmBtGV] 金工街3号楼
+看
+
+[19:15:06]
+[hmBtGV] 金工街3号楼
+1111
+
+[19:15:07]
+[hmBtGV] 金工街3号楼
+1
+
+[19:15:07]
+[hmBtGV] 金工街3号楼
+1
+
+[19:15:08]
+[hmBtGV] 金工街3号楼
+1
+
+[19:15:14]
+[hmBtGV] 金工街3号楼
+测试
+
+[19:15:48]
+[hmBtGV] 金工街3号楼
+https://xq.kzw.ink/?tech https://xq.kzw.ink/?1 真的有人嘛
+
+[19:15:49]
+[VNC/I0] eebot_854
+无法写入 含有无法识别的字符
+
+[19:15:49]
+[VNC/I0] eebot_854
+@金工街3号楼 线圈
+https://xq.kzw.ink/?1
+·
+@金工街3号楼 线圈
+https://xq.kzw.ink/?tech
+
+[19:16:02]
+[3rk9wA] Mr_Zhang
+@金工街3号楼 没
+
+[19:16:44]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:16:53]
+[hmBtGV] 金工街3号楼
+测试
+
+[19:16:55]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:18:26]
+[hmBtGV] 金工街3号楼
+喂
+
+[19:18:36]
+[VNC/I0] eebot_77
+ awa eb的昵称卡在里面了
+
+[19:18:36]
+[VNC/I0] eebot_854
+yo eebot_77
+
+[19:18:36]
+[VNC/I0] eebot_77
+ awa eb的昵称卡在里面了
+
+[19:18:36]
+[VNC/I0] eebot_854
+yo eebot_77
+
+[19:18:53]
+[ci8FBC] eee
+O-import base64
+a=str(base64.b64decode('L14='))
+send(a[2]+’me awa’)
+
+[19:18:53]
+[ci8FBC] eee
+O-import base64
+a=str(base64.b64decode('L14='))
+send(a[2]+’me awa’)
+
+[19:18:53]
+[VNC/I0] eebot_854
+代码运行成功
+
+[19:18:53]
+[VNC/I0] eebot_77
+ /me awa
+
+[19:18:53]
+[VNC/I0] eebot_77
+ 代码运行成功
+
+[19:18:53]
+[VNC/I0] eebot_854
+代码运行成功
+
+[19:18:54]
+[VNC/I0] eebot_77
+ /me awa
+
+[19:18:54]
+[VNC/I0] eebot_77
+ 代码运行成功
+
+[19:19:06]
+[VNC/I0] eebot
+ 2022.06.04 19:19:05
+
+[19:19:06]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[19:19:07]
+[hmBtGV] 金工街3号楼
+34
+
+[19:19:15]
+[VNC/I0] eebot
+ 2022.06.04 19:19:14
+
+[19:19:15]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[19:19:16]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:19:16]
+[VNC/I0] eebot
+ /w 金工街3号楼 .
+·
+启动时间：2022.06.04 19:19:14
+存活时长：2s
+·
+总排行：
+855（Mr_Zhang）
+507（eee）
+313（ee）
+113（4n0n4me）
+95（Mr_Zhang01）
+74（_）
+73（金工街3号楼）
+70（fish）
+44（Light_s）
+38（KiloMxmxxx）
+22（bihaitian）
+17（XChat_for_Windows）
+12（zzChumo）
+7（金三角广场2号楼）
+6（zhang）
+5（bht）
+5（eeee）
+4（eeeee）
+3（eebot_479）
+3（金三角广场9号楼）
+2（cakechan）
+2（XChat_fow_Windows）
+1（eebot_390）
+1（eebot_678）
+·
+总条数：2272
+本次条数：3
+
+[19:19:21]
+[hmBtGV] 金工街3号楼
+？？？
+
+[19:19:22]
+[ci8FBC] eee
+O-import base64
+a=str(base64.b64decode('L14='))
+send(a[2]+’me awa’)
+
+[19:19:23]
+[VNC/I0] eebot
+ /me awa
+
+[19:19:23]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:19:25]
+[hmBtGV] 金工街3号楼
+《/w>
+
+[19:19:30]
+[ci8FBC] eee
+芜湖 不错不错
+
+[19:19:30]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:19:30]
+[VNC/I0] eebot
+ /w 金工街3号楼 .
+·
+启动时间：2022.06.04 19:19:14
+存活时长：16s
+·
+总排行：
+855（Mr_Zhang）
+509（eee）
+313（ee）
+113（4n0n4me）
+95（Mr_Zhang01）
+76（金工街3号楼）
+74（_）
+70（fish）
+44（Light_s）
+38（KiloMxmxxx）
+22（bihaitian）
+17（XChat_for_Windows）
+12（zzChumo）
+7（金三角广场2号楼）
+6（zhang）
+5（bht）
+5（eeee）
+4（eeeee）
+3（eebot_479）
+3（金三角广场9号楼）
+2（cakechan）
+2（XChat_fow_Windows）
+1（eebot_390）
+1（eebot_678）
+·
+总条数：2277
+本次条数：11
+
+[19:19:35]
+[hmBtGV] 金工街3号楼
+。。。
+
+[19:19:35]
+[VNC/I0] eebot
+ /me 在MC服务器里吃了金工街3号楼
+
+[19:19:44]
+[hmBtGV] 金工街3号楼
+。。。
+
+[19:19:44]
+[VNC/I0] eebot
+ /me 在欧罗赫丝的梦中托腮.jpg
+
+[19:19:45]
+[ci8FBC] eee
+emmmm
+
+[19:19:48]
+[ci8FBC] eee
+搞错
+
+[19:20:32]
+[VNC/I0] eebot
+ 2022.06.04 19:20:31
+
+[19:20:32]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[19:20:34]
+[ci8FBC] eee
+。。。
+
+[19:20:36]
+[ci8FBC] eee
+OKOK
+
+[19:20:40]
+[ci8FBC] eee
+O-import base64
+a=str(base64.b64decode('L14='))
+send(a[2]+’me awa’)
+
+[19:20:41]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:20:50]
+[ci8FBC] eee
+O-import base64
+a=str(base64.b64decode('L14='))
+send(a[2]+’nick awa’)
+
+[19:20:50]
+[VNC/I0] eebot
+ /nick awa
+
+[19:20:50]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:20:52]
+[ci8FBC] eee
+OKOK
+
+[19:20:59]
+[ci8FBC] eee
+~~分类讨论yyds~~
+
+[19:21:52]
+[hmBtGV] 金工街3号楼
+啦啦啦
+
+[19:21:52]
+[VNC/I0] eebot
+ 啦啦啦啦
+
+[19:21:52]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:21:55]
+[3rk9wA] Mr_Zhang
+哈哈哈
+
+[19:22:01]
+[3rk9wA] Mr_Zhang
+统计
+
+[19:22:03]
+[hmBtGV] 金工街3号楼
+爆杀一切【doge】
+
+[19:22:05]
+[ci8FBC] eee
+只运行/w /color /me 三个命令~
+
+[19:22:08]
+[ci8FBC] eee
+允许
+
+[19:22:08]
+[hmBtGV] 金工街3号楼
+啊
+
+[19:22:13]
+[hmBtGV] 金工街3号楼
+ /color 2
+
+[19:22:13]
+[3rk9wA] Mr_Zhang
+哈哈
+
+[19:22:36]
+[hmBtGV] 金工街3号楼
+啊
+
+[19:22:51]
+[hmBtGV] 金工街3号楼
+。
+
+[19:23:26]
+[3rk9wA] Mr_Zhang
+O-send('/me 是谁')
+
+[19:23:27]
+[VNC/I0] eebot
+ \/me 是谁
+
+[19:23:27]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:23:32]
+[hmBtGV] 金工街3号楼
+O-send('/me 是谁')
+
+[19:23:32]
+[VNC/I0] eebot
+ \/me 是谁
+
+[19:23:32]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:23:36]
+[hmBtGV] 金工街3号楼
+？？？？？
+
+[19:23:45]
+[3rk9wA] Mr_Zhang
+没啥
+
+[19:24:01]
+[hmBtGV] 金工街3号楼
+O-send('/me 是谁/')
+
+[19:24:01]
+[VNC/I0] eebot
+ \/me 是谁\/
+
+[19:24:01]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:24:11]
+[hmBtGV] 金工街3号楼
+O-send(/me 是谁')
+
+[19:24:11]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:24:30]
+[hmBtGV] 金工街3号楼
+http://
+
+[19:25:08]
+[hmBtGV] 金工街3号楼
+O-send(///'/me 是谁///')
+
+[19:25:08]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:25:14]
+[hmBtGV] 金工街3号楼
+O-send('/me 是谁///')
+
+[19:25:15]
+[VNC/I0] eebot
+ \/me 是谁\/\/\/
+
+[19:25:15]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:25:20]
+[hmBtGV] 金工街3号楼
+。。。。。。。。。
+
+[19:25:24]
+[3rk9wA] Mr_Zhang
+。
+
+[19:25:29]
+[3rk9wA] Mr_Zhang
+。
+
+[19:25:29]
+[3rk9wA] Mr_Zhang
+。
+
+[19:25:30]
+[3rk9wA] Mr_Zhang
+。
+
+[19:25:32]
+[hmBtGV] 金工街3号楼
+。
+
+[19:25:32]
+[3rk9wA] Mr_Zhang
+。
+
+[19:25:32]
+[hmBtGV] 金工街3号楼
+。
+
+[19:25:32]
+[hmBtGV] 金工街3号楼
+。
+
+[19:25:38]
+[VNC/I0] eebot
+ 2022.06.04 19:25:37
+
+[19:25:38]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[19:25:39]
+[hmBtGV] 金工街3号楼
+？？？？？
+
+[19:25:41]
+[hmBtGV] 金工街3号楼
+。
+
+[19:25:50]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[19:25:52]
+[hmBtGV] 金工街3号楼
+n(*≧▽≦*)n
+
+[19:25:56]
+[hmBtGV] 金工街3号楼
+。。。
+
+[19:25:58]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:26:01]
+[ci8FBC] eee
+统计
+
+[19:26:06]
+[3rk9wA] Mr_Zhang
+@eee 应该没什么BUG了
+
+[19:26:14]
+[8LJ4jb] _
+O-import base64
+a=str(base64.b64decode('Lw=='))
+send(a[2]+’me ohhh’)
+
+[19:26:14]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:26:16]
+[3rk9wA] Mr_Zhang
+搬到xq102210
+
+[19:26:17]
+[ci8FBC] eee
+@Mr_Zhang 欢迎再找——
+
+[19:26:18]
+[hmBtGV] 金工街3号楼
+公交车开放
+
+[19:26:19]
+[hmBtGV] 金工街3号楼
+32
+
+[19:26:19]
+[hmBtGV] 金工街3号楼
+12
+
+[19:26:26]
+[3rk9wA] Mr_Zhang
+吧
+
+[19:26:35]
+[3rk9wA] Mr_Zhang
+好的
+
+[19:26:36]
+[ci8FBC] eee
+O-import base64
+a=str(base64.b64decode('Lw=='))
+send(a[2]+’move ohhh’)
+
+[19:26:37]
+[VNC/I0] eebot
+ /move ohhh
+
+[19:26:37]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:26:39]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[19:26:41]
+[hmBtGV] 金工街3号楼
+Hill Act 1
+
+[19:26:42]
+[hmBtGV] 金工街3号楼
+Hill Act 1
+
+[19:26:45]
+[hmBtGV] 金工街3号楼
+Hill Act 1
+
+[19:27:14]
+[ci8FBC] eee
+~~直接在send上修改~~
+
+[19:27:18]
+[ci8FBC] eee
+（确信）
+
+[19:27:32]
+[8LJ4jb] _
+O-import base64
+a=str(base64.b64decode('Xg=='))
+send(a[2]+’me ohhh’)
+
+[19:27:32]
+[VNC/I0] eebot
+ ^me ohhh
+
+[19:27:32]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:27:33]
+[8LJ4jb] _
+h
+
+[19:27:49]
+[3rk9wA] Mr_Zhang
+？
+
+[19:27:54]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[19:28:11]
+[8LJ4jb] _
+O-import base64
+a=str(base64.b64decode('LW=='))
+send(a[2]+’me ohhh’)
+
+[19:28:11]
+[VNC/I0] eebot
+ -me ohhh
+
+[19:28:11]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:28:16]
+[hmBtGV] 金工街3号楼
+吧
+
+[19:28:18]
+[8LJ4jb] _
+O-import base64
+a=str(base64.b64decode('Lw=='))
+send(a[2]+’me ohhh’)
+
+[19:28:18]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:28:24]
+[ci8FBC] eee
+除了运行的/w /me /color
+
+[19:28:40]
+[8LJ4jb] _
+O-import base64
+a=str(base64.b64decode('Lw=='))
+send(a[2]+'nick eeebot’)
+
+[19:28:40]
+[VNC/I0] eebot
+ /nick eeebot
+
+[19:28:41]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:28:42]
+[8LJ4jb] _
+gooog
+
+[19:28:47]
+[ci8FBC] eee
+其他不管是什么 发送时都会让eb带上空格
+
+[19:28:58]
+[3rk9wA] Mr_Zhang
+刑
+
+[19:29:11]
+[ci8FBC] eee
+等等 如果这样 大赫天下没法用了
+
+[19:29:12]
+[3rk9wA] Mr_Zhang
+我让ZhangHelper自动校正～
+
+[19:29:18]
+[ci8FBC] eee
+哈哈哈哈哈~
+
+[19:29:19]
+[ci8FBC] eee
+不错
+
+[19:29:20]
+[hmBtGV] 金工街3号楼
+诶嘿嘿
+
+[19:29:26]
+[VNC/I0] eebot
+ hey 4n0n4me_
+
+[19:29:27]
+[8LJ4jb] _
+O-import base64
+a=str(base64.b64decode('Xg=='))
+send(a[2]+'unbanall’)
+
+[19:29:28]
+[VNC/I0] eebot
+ ^unbanall
+
+[19:29:28]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:29:29]
+[3rk9wA] Mr_Zhang
+等下
+
+[19:29:33]
+[3rk9wA] Mr_Zhang
+不行啊
+
+[19:29:40]
+[hmBtGV] 金工街3号楼
+诶嘿嘿
+
+[19:29:41]
+[hmBtGV] 金工街3号楼
+诶嘿嘿
+
+[19:29:41]
+[ci8FBC] eee
+```
+	def send(text):
+		try:
+			if '/w' in text[:2] or '/me' in text[:3] or '/color' in text[:6]:
+				ws.send(json.dumps({'cmd':'chat','text':str(text),"head":head}))
+
+			else:
+				ws.send(json.dumps({'cmd':'chat','text':f" {text}","head":head}))
+
+		except:
+			pass
+
+[19:29:50]
+[ci8FBC] eee
+我是这么写的（
+
+[19:29:56]
+[3rk9wA] Mr_Zhang
+如果自动校正，那么你的代码就失效了啊
+
+[19:30:01]
+[GEDhlf] zzChumo
+s e
+
+[19:30:06]
+[ci8FBC] eee
+你的代码？
+
+[19:30:25]
+[3rk9wA] Mr_Zhang
+对
+
+[19:30:30]
+[3rk9wA] Mr_Zhang
+ZhangHelper
+
+[19:30:30]
+[ci8FBC] eee
+~~你的还是我的~~
+
+[19:30:34]
+[ci8FBC] eee
+哦哦
+
+[19:30:35]
+[VNC/I0] eebot
+ 哦哦哦
+
+[19:30:43]
+[ci8FBC] eee
+为什么呢
+
+[19:30:52]
+[3rk9wA] Mr_Zhang
+如果ZhangHelper自动删除第一个空格。。。
+
+[19:30:56]
+[8LJ4jb] _
+O-send(awa)
+
+[19:30:57]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:31:08]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:31:12]
+[3rk9wA] Mr_Zhang
+统计
+
+[19:31:13]
+[hmBtGV] 金工街3号楼
+34834
+
+[19:31:15]
+[hmBtGV] 金工街3号楼
+tjjjjjjjafdjk
+
+[19:31:15]
+[hmBtGV] 金工街3号楼
+tjjjjjjjafdjk
+
+[19:31:19]
+[8LJ4jb] _
+O-awa="O-send(awa)"
+
+[19:31:19]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:31:22]
+[8LJ4jb] _
+O-send(awa)
+
+[19:31:22]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:31:24]
+[8LJ4jb] _
+h
+
+[19:31:43]
+[ci8FBC] eee
+O-send(1)
+
+[19:31:43]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:31:54]
+[8LJ4jb] _
+O-send("1")
+
+[19:31:54]
+[VNC/I0] eebot
+ 1
+
+[19:31:55]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:32:03]
+[3rk9wA] Mr_Zhang
+O-
+
+[19:32:03]
+[VNC/I0] eebot
+ 已清空所有变量
+
+[19:32:24]
+[VNC/I0] eebot
+ 2022.06.04 19:32:23
+
+[19:32:24]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[19:32:27]
+[8LJ4jb] _
+O-pwq="O-send(pwq)"
+
+[19:32:27]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:32:28]
+[ci8FBC] eee
+O-send(1)
+
+[19:32:28]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:32:35]
+[8LJ4jb] _
+O-send(pwq)
+
+[19:32:35]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:32:51]
+[VNC/I0] eebot
+ 2022.06.04 19:32:49
+
+[19:32:51]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[19:32:51]
+[8LJ4jb] _
+统计
+
+[19:32:51]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:32:51]
+[ci8FBC] eee
+O-send(1)
+
+[19:32:52]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:32:58]
+[3rk9wA] Mr_Zhang
+统计
+
+[19:33:02]
+[hmBtGV] 金工街3号楼
+34289777777774
+
+[19:33:03]
+[8LJ4jb] _
+O-send(awa)
+
+[19:33:04]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:33:06]
+[hmBtGV] 金工街3号楼
+743
+
+[19:33:13]
+[8LJ4jb] _
+O-awa="waw"
+
+[19:33:13]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:33:13]
+[VNC/I0] eebot
+ 变量已成功保存
+
+[19:33:15]
+[8LJ4jb] _
+O-send(awa)
+
+[19:33:15]
+[VNC/I0] eebot
+ waw
+
+[19:33:16]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:33:20]
+[ci8FBC] eee
+芜湖
+
+[19:33:24]
+[8LJ4jb] _
+O-awa="O-send(awa)"
+
+[19:33:24]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:33:26]
+[8LJ4jb] _
+.
+
+[19:33:32]
+[8LJ4jb] _
+O-awa="pwq"
+
+[19:33:32]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:33:32]
+[VNC/I0] eebot
+ 变量已成功保存
+
+[19:33:34]
+[8LJ4jb] _
+hm
+
+[19:34:07]
+[edDiBU] 4n0n4me_
+O-send('pona')
+
+[19:34:07]
+[VNC/I0] eebot
+ pona
+
+[19:34:07]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:34:13]
+[hmBtGV] 金工街3号楼
+医院大战僵尸
+
+[19:34:14]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:34:25]
+[3rk9wA] Mr_Zhang
+O-import 
+
+[19:34:25]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:34:50]
+[3rk9wA] Mr_Zhang
+O-import HackChat
+
+[19:34:51]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:35:22]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:35:24]
+[hmBtGV] 金工街3号楼
+wqw
+
+[19:35:25]
+[hmBtGV] 金工街3号楼
+ewewq
+
+[19:35:38]
+[VNC/I0] eebot
+ 2022.06.04 19:35:37
+
+[19:35:38]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[19:35:40]
+[edDiBU] 4n0n4me_
+O-O-awa="O-send(awa)"
+
+[19:36:06]
+[VNC/I0] eebot
+ 2022.06.04 19:36:05
+
+[19:36:06]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[19:36:10]
+[hmBtGV] 金工街3号楼
+功能
+
+[19:36:11]
+[ci8FBC] eee
+O-import HackChat
+
+[19:36:12]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:36:16]
+[hmBtGV] 金工街3号楼
+2room
+
+[19:36:20]
+[ci8FBC] eee
+r
+
+[19:37:32]
+[VNC/I0] eebot
+ 2022.06.04 19:37:31
+
+[19:37:32]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[19:37:33]
+[ci8FBC] eee
+r
+
+[19:37:33]
+[VNC/I0] eebot
+ 957
+
+[19:37:33]
+[hmBtGV] 金工街3号楼
+sts
+
+[19:37:35]
+[hmBtGV] 金工街3号楼
+功能
+
+[19:37:37]
+[ci8FBC] eee
+O-import HackChat
+
+[19:37:38]
+[VNC/I0] eebot
+ No module named 'HackChat'
+
+[19:37:38]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:37:52]
+[ci8FBC] eee
+sts
+
+[19:37:57]
+[ci8FBC] eee
+sts
+
+[19:38:23]
+[VNC/I0] eebot
+ 2022.06.04 19:38:22
+
+[19:38:23]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[19:38:23]
+[hmBtGV] 金工街3号楼
+@eebot 昵称（77）
+
+[19:38:23]
+[VNC/I0] eebot
+ 昵称只能是中文或英文或数字
+
+[19:38:30]
+[hmBtGV] 金工街3号楼
+@eebot 昵称 B站的J
+
+[19:38:30]
+[VNC/I0] eebot
+ 好耶！eebot喜欢B站的J这个昵称
+
+[19:38:33]
+[hmBtGV] 金工街3号楼
+test
+
+[19:38:35]
+[hmBtGV] 金工街3号楼
+@eebot 
+
+[19:38:35]
+[ci8FBC] eee
+sts
+
+[19:38:35]
+[VNC/I0] eebot
+ 好耶 是金工街3号楼
+
+[19:39:00]
+[ci8FBC] eee
+好家伙 我和Mr_Zhang把你们拉开了差距
+
+[19:39:02]
+[hmBtGV] 金工街3号楼
+@eebot 昵称 B站的J
+
+[19:39:02]
+[VNC/I0] eebot
+ 好耶！eebot喜欢B站的J这个昵称
+
+[19:39:07]
+[edDiBU] 4n0n4me_
+sts
+
+[19:39:10]
+[hmBtGV] 金工街3号楼
+bot
+
+[19:39:15]
+[edDiBU] 4n0n4me_
+好家伙
+
+[19:39:30]
+[ci8FBC] eee
+@金工街3号楼 此昵称非彼昵称
+
+[19:39:32]
+[hmBtGV] 金工街3号楼
+xc
+
+[19:39:35]
+[ci8FBC] eee
+@eebot 
+
+[19:39:35]
+[VNC/I0] eebot
+ 欢迎来XChat聊天
+
+[19:39:40]
+[ci8FBC] eee
+@eebot 你是谁
+
+[19:39:41]
+[VNC/I0] eebot
+ B站的J是eee爸爸哦~
+
+[19:39:42]
+[edDiBU] 4n0n4me_
+我打算用一个黑科技了
+
+[19:39:43]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[19:39:44]
+[edDiBU] 4n0n4me_
+O-
+_='_=%r;print (_%%_)';print (_%_)
+
+[19:39:44]
+[VNC/I0] eebot
+ _='_=%r;send (_%%_)';send (_%_)
+
+[19:39:44]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:39:59]
+[ci8FBC] eee
+？？？
+
+[19:40:02]
+[hmBtGV] 金工街3号楼
+@eebot 尼斯是给
+
+[19:40:07]
+[edDiBU] 4n0n4me_
+quine
+
+[19:40:07]
+[VNC/I0] eebot
+ B站的J是真心架）
+
+[19:40:07]
+[hmBtGV] 金工街3号楼
+@eebot 你是谁
+
+[19:40:08]
+[edDiBU] 4n0n4me_
+自我复制的代码
+
+[19:40:08]
+[VNC/I0] eebot
+ B站的J是金工街3号楼爸爸哦~
+
+[19:40:12]
+[edDiBU] 4n0n4me_
+有没有可能设计出一个quine
+
+[19:40:12]
+[ci8FBC] eee
+O-send(a)
+
+[19:40:13]
+[VNC/I0] eebot
+ name 'a' is not defined
+
+[19:40:13]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:40:16]
+[hmBtGV] 金工街3号楼
+我爸爸居然是我自己
+
+[19:40:19]
+[hmBtGV] 金工街3号楼
+我爸爸居然是我自己
+
+[19:40:19]
+[edDiBU] 4n0n4me_
+开头是“O-”呢
+
+[19:40:27]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:40:36]
+[hmBtGV] 金工街3号楼
+爆杀一切【doge】
+
+[19:40:49]
+[hmBtGV] 金工街3号楼
+11111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+
+[19:41:07]
+[edDiBU] 4n0n4me_
+ttjt
+
+[19:41:08]
+[edDiBU] 4n0n4me_
+tjt
+
+[19:41:10]
+[hmBtGV] 金工街3号楼
+tjjjjjjjafdjk
+
+[19:41:10]
+[hmBtGV] 金工街3号楼
+tjjjjjjjafdjk
+
+[19:41:11]
+[hmBtGV] 金工街3号楼
+tjjjjjjjafdjk
+
+[19:41:11]
+[edDiBU] 4n0n4me_
+统计
+
+[19:41:12]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:41:28]
+[hmBtGV] 金工街3号楼
+bst
+
+[19:41:29]
+[hmBtGV] 金工街3号楼
+DST
+
+[19:41:30]
+[hmBtGV] 金工街3号楼
+DST
+
+[19:41:48]
+[hmBtGV] 金工街3号楼
+功能
+
+[19:41:56]
+[hmBtGV] 金工街3号楼
+sts
+
+[19:42:15]
+[hmBtGV] 金工街3号楼
+web
+
+[19:42:46]
+[VNC/I0] eebot
+ 2022.06.04 19:42:46
+
+[19:42:46]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[19:42:50]
+[ci8FBC] eee
+O-all
+
+[19:42:50]
+[VNC/I0] eebot
+ ·
+所有变量如下：
+awa="waw"
+awa="pwq"
+
+[19:42:52]
+[hmBtGV] 金工街3号楼
+lonelystae.org
+
+[19:42:53]
+[ci8FBC] eee
+OKOK
+
+[19:42:56]
+[hmBtGV] 金工街3号楼
+lonelystar.org
+
+[19:43:10]
+[hmBtGV] 金工街3号楼
+http://lonelystar.org/plantsvszombies.htm
+
+[19:43:12]
+[VNC/I0] eebot
+ @金工街3号楼 星空之旅|植物大战僵尸JAVASCRIPT版|JSPVZ
+http://lonelystar.org/plantsvszombies.htm
+
+[19:43:17]
+[ci8FBC] eee
+O-ee=111111111
+
+[19:43:18]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:43:18]
+[VNC/I0] eebot
+ 变量已成功保存
+
+[19:43:21]
+[ci8FBC] eee
+O-all
+
+[19:43:22]
+[VNC/I0] eebot
+ ·
+所有变量如下：
+awa="waw"
+awa="pwq"
+ee=111111111
+
+[19:43:23]
+[ci8FBC] eee
+芜湖
+
+[19:43:24]
+[hmBtGV] 金工街3号楼
+功能
+
+[19:43:28]
+[ci8FBC] eee
+不错不错
+
+[19:43:33]
+[edDiBU] 4n0n4me_
+诶诶诶
+
+[19:43:39]
+[edDiBU] 4n0n4me_
+O-O=1
+
+[19:43:39]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:43:39]
+[VNC/I0] eebot
+ 变量已成功保存
+
+[19:43:51]
+[ci8FBC] eee
+O-all
+
+[19:43:51]
+[VNC/I0] eebot
+ ·
+所有变量如下：
+awa="waw"
+awa="pwq"
+ee=111111111
+O=1
+
+[19:43:52]
+[hmBtGV] 金工街3号楼
+board
+
+[19:43:59]
+[hmBtGV] 金工街3号楼
+L-eebit
+
+[19:44:01]
+[VNC/I0] eebot
+ 所以这是什么垃圾
+
+[19:44:02]
+[hmBtGV] 金工街3号楼
+L-eebot
+
+[19:44:03]
+[VNC/I0] eebot
+ 所以这是什么垃圾
+
+[19:44:38]
+[hmBtGV] 金工街3号楼
+====
+
+[19:44:46]
+[hmBtGV] 金工街3号楼
+== ==
+
+[19:44:49]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:44:51]
+[edDiBU] 4n0n4me_
+O-
+O=O-1;_='O=O-1;_=%r;if O>-10:print (_%%_)';if O>-10:print (_%_)
+
+[19:44:52]
+[VNC/I0] eebot
+ invalid syntax (<string>, line 6)
+
+[19:44:52]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:45:19]
+[hmBtGV] 金工街3号楼
+0
+
+[19:45:27]
+[edDiBU] 4n0n4me_
+O-
+O=O-1;_='O=O-1;_=%r;if O>0:print (_%%_)';if O>0:print (_%_)
+
+[19:45:27]
+[VNC/I0] eebot
+ invalid syntax (<string>, line 6)
+
+[19:45:27]
+[VNC/I0] eebot
+ 代码运行失败
+
+[19:45:46]
+[hmBtGV] 金工街3号楼
+所有违反中华人民共和国的内容是什么意思
+
+[19:46:02]
+[hmBtGV] 金工街3号楼
+吃不能吃不能吃大出血的V刹许多人遇见
+
+[19:46:28]
+[edDiBU] 4n0n4me_
+O-
+O-1;_='_=%r;print (_%%_)';print (_%_)
+
+[19:46:28]
+[VNC/I0] eebot
+ _='_=%r;send (_%%_)';send (_%_)
+
+[19:46:28]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:46:52]
+[hmBtGV] 金工街3号楼
+去看粗
+
+[19:46:53]
+[8LJ4jb] _
+O-send(awa)
+
+[19:46:53]
+[VNC/I0] eebot
+ pwq
+
+[19:46:54]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:46:55]
+[8LJ4jb] _
+.
+
+[19:46:55]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:46:56]
+[hmBtGV] 金工街3号楼
+pwp
+
+[19:46:56]
+[VNC/I0] eebot
+ Q.Q
+
+[19:46:57]
+[hmBtGV] 金工街3号楼
+pwp
+
+[19:46:57]
+[VNC/I0] eebot
+ pwq
+
+[19:46:58]
+[hmBtGV] 金工街3号楼
+pwp
+
+[19:46:58]
+[VNC/I0] eebot
+ qwp
+
+[19:46:59]
+[edDiBU] 4n0n4me_
+我觉得现在的这个方案
+
+[19:47:03]
+[edDiBU] 4n0n4me_
+可能有些危险了
+
+[19:47:18]
+[hmBtGV] 金工街3号楼
+--------
+
+[19:47:19]
+[hmBtGV] 金工街3号楼
+--------
+
+[19:47:20]
+[hmBtGV] 金工街3号楼
+--------
+
+[19:47:20]
+[hmBtGV] 金工街3号楼
+--------
+
+[19:47:24]
+[edDiBU] 4n0n4me_
+嗨呀，怎么办呀
+
+[19:47:27]
+[edDiBU] 4n0n4me_
+我好像试试
+
+[19:47:29]
+[hmBtGV] 金工街3号楼
+灌灌灌灌灌灌灌灌灌
+
+[19:47:38]
+[hmBtGV] 金工街3号楼
+公公公公公公公公公公
+
+[19:47:48]
+[edDiBU] 4n0n4me_
+O-
+O-1;_='_=%r;print (_%%_)';print (_%_)
+
+[19:47:48]
+[VNC/I0] eebot
+ _='_=%r;send (_%%_)';send (_%_)
+
+[19:47:48]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:47:57]
+[edDiBU] 4n0n4me_
+O-
+O-1;_='O-1;_=%r;print (_%%_)';print (_%_)
+
+[19:47:57]
+[VNC/I0] eebot
+ O-1;_='O-1;_=%r;send (_%%_)';send (_%_)
+
+[19:47:57]
+[VNC/I0] eebot
+ 代码运行成功
+
+[19:48:10]
+[8LJ4jb] _
+?
+
+[19:48:11]
+[hmBtGV] 金工街3号楼
+5967
+
+[19:48:11]
+[edDiBU] 4n0n4me_
+嗨呀，不会自己相应自己
+
+[19:48:13]
+[edDiBU] 4n0n4me_
+没事了
+
+[19:48:15]
+[hmBtGV] 金工街3号楼
+5969
+
+[19:48:27]
+[hmBtGV] 金工街3号楼
+今天我坐25路5969车
+
+[19:48:45]
+[hmBtGV] 金工街3号楼
+（WK6110URN2型 25路只有4台）
+
+[19:49:11]
+[hmBtGV] 金工街3号楼
+发现车里有个蜜蜂 车上还有一个座椅是后换的
+
+[19:49:50]
+[hmBtGV] 金工街3号楼
+目前我观察到有后换座椅车辆：25路：5297 5968 6969 905路：5983
+
+[19:49:56]
+[hmBtGV] 金工街3号楼
+目前我观察到有后换座椅车辆：25路：5297 5968 5969 905路：5983
+
+[19:50:16]
+[hmBtGV] 金工街3号楼
+统计
+
+[19:50:40]
+[ci8FBC] eee
+哈哈哈哈哈
+
+[19:50:58]
+[ci8FBC] eee
+除了r可以自己r自己
+
+[19:50:59]
+[hmBtGV] 金工街3号楼
+5969的座椅已经够恶心了
+
+[19:51:06]
+[ci8FBC] eee
+其他都屏蔽了（
+
+[19:51:07]
+[hmBtGV] 金工街3号楼
+5968 5983更恶心
+
+[19:51:11]
+[ci8FBC] eee
+wowooc
+
+[19:51:22]
+[hmBtGV] 金工街3号楼
+5968好几个座椅是黄的
+
+[19:51:26]
+[ci8FBC] eee
+专业研究公交车嘛
+
+[19:52:13]
+[ci8FBC] eee
+真心话
+
+[19:52:13]
+[VNC/I0] eebot
+ ·
+使用方法：
+1.r：随机1~999的数
+2.结算：输出数字最大和最小的成员
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.由数字最大的人向最小的提问
+2.尊重隐私 请不要提问过分露骨的问题
+3.愿赌服输 请说真心话（但有权拒绝回答隐私问题）
+
+[19:52:13]
+[VNC/I0] eebot
+ 真心话游戏开始
+
+[19:52:14]
+[ci8FBC] eee
+r
+
+[19:52:14]
+[VNC/I0] eebot
+ 505
+
+[19:52:14]
+[VNC/I0] eebot
+ r
+
+[19:52:15]
+[hmBtGV] 金工街3号楼
+都是高尔基路320号干的
+
+[19:52:17]
+[hmBtGV] 金工街3号楼
+r
+
+[19:52:17]
+[VNC/I0] eebot
+ 300
+
+[19:52:17]
+[VNC/I0] eebot
+ r
+
+[19:52:18]
+[hmBtGV] 金工街3号楼
+r
+
+[19:52:18]
+[VNC/I0] eebot
+ @金工街3号楼 已经r出了300
+
+[19:52:18]
+[VNC/I0] eebot
+ r
+
+[19:54:07]
+[VNC/I0] eebot
+ 2022.06.04 19:54:06
+
+[19:54:07]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[19:54:09]
+[ci8FBC] eee
+真心话
+
+[19:54:09]
+[VNC/I0] eebot
+ ·
+使用方法：
+1.r：随机1~999的数
+2.结算：输出数字最大和最小的成员
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.由数字最大的人向最小的提问
+2.尊重隐私 请不要提问过分露骨的问题
+3.愿赌服输 请说真心话（但有权拒绝回答隐私问题）
+
+[19:54:09]
+[VNC/I0] eebot
+ 真心话游戏开始
+
+[19:54:09]
+[ci8FBC] eee
+r
+
+[19:54:09]
+[VNC/I0] eebot
+ 547
+
+[19:54:09]
+[VNC/I0] eebot
+ r
+
+[19:54:13]
+[ci8FBC] eee
+r
+
+[19:54:13]
+[VNC/I0] eebot
+ @eee 已经r出了547
+
+[19:54:30]
+[hmBtGV] 金工街3号楼
+目前观察到有后换座椅车辆：25路：5297 5968 5969 905路：5983
+
+[19:55:29]
+[8LJ4jb] _
+r
+
+[19:55:29]
+[VNC/I0] eebot
+ 502
+
+[19:55:29]
+[VNC/I0] eebot
+ r
+
+[19:55:31]
+[8LJ4jb] _
+?
+
+[19:57:40]
+[VNC/I0] eebot
+ 2022.06.04 19:57:39
+
+[19:57:40]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[19:57:43]
+[ci8FBC] eee
+真心话
+
+[19:57:43]
+[VNC/I0] eebot
+ ·
+使用方法：
+1.r：随机1~999的数
+2.结算：输出数字最大和最小的成员
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.由数字最大的人向最小的提问
+2.尊重隐私 请不要提问过分露骨的问题
+3.愿赌服输 请说真心话（但有权拒绝回答隐私问题）
+
+[19:57:44]
+[VNC/I0] eebot
+ 真心话游戏开始
+
+[19:57:44]
+[ci8FBC] eee
+r
+
+[19:57:44]
+[VNC/I0] eebot
+ 962
+
+[19:57:44]
+[VNC/I0] eebot
+ r
+
+[19:57:45]
+[VNC/I0] eebot
+ r
+
+[19:57:45]
+[VNC/I0] eebot
+ r
+
+[19:57:45]
+[ci8FBC] eee
+r
+
+[19:57:45]
+[VNC/I0] eebot
+ r
+
+[19:57:46]
+[VNC/I0] eebot
+ r
+
+[19:57:46]
+[VNC/I0] eebot
+ @eee 已经r出了962
+
+[19:57:46]
+[VNC/I0] eebot
+ r
+
+[19:57:46]
+[VNC/I0] eebot
+ r
+
+[19:57:46]
+[VNC/I0] eebot
+ r
+
+[19:57:47]
+[VNC/I0] eebot
+ r
+
+[19:57:47]
+[VNC/I0] eebot
+ r
+
+[19:57:47]
+[VNC/I0] eebot
+ r
+
+[19:57:47]
+[VNC/I0] eebot
+ r
+
+[19:57:47]
+[VNC/I0] eebot
+ r
+
+[20:02:14]
+[VNC/I0] eebot
+ 2022.06.04 20:02:13
+
+[20:02:14]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[20:02:15]
+[ci8FBC] eee
+r
+
+[20:02:20]
+[ci8FBC] eee
+r
+
+[20:03:45]
+[VNC/I0] eebot
+ 2022.06.04 20:03:44
+
+[20:03:45]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[20:03:45]
+[ci8FBC] eee
+r
+
+[20:03:48]
+[ci8FBC] eee
+r 
+
+[20:03:51]
+[ci8FBC] eee
+r 2
+
+[20:04:07]
+[hmBtGV] 金工街3号楼
+5488跟5983一个粑粑样
+
+[20:04:09]
+[ci8FBC] eee
+真心话
+
+[20:04:09]
+[VNC/I0] eebot
+ ·
+使用方法：
+1.r：随机1~999的数
+2.结算：输出数字最大和最小的成员
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.由数字最大的人向最小的提问
+2.尊重隐私 请不要提问过分露骨的问题
+3.愿赌服输 请说真心话（但有权拒绝回答隐私问题）
+
+[20:04:09]
+[VNC/I0] eebot
+ 真心话游戏开始
+
+[20:04:10]
+[ci8FBC] eee
+r
+
+[20:04:16]
+[hmBtGV] 金工街3号楼
+5969也是那样
+
+[20:04:20]
+[VNC/I0] eebot
+ 2022.06.04 20:04:19
+
+[20:04:20]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[20:04:22]
+[ci8FBC] eee
+r
+
+[20:04:22]
+[VNC/I0] eebot
+ 678
+
+[20:04:29]
+[ci8FBC] eee
+r 3
+
+[20:04:29]
+[VNC/I0] eebot
+ 2880
+
+[20:04:32]
+[ci8FBC] eee
+r 3 5
+
+[20:04:33]
+[VNC/I0] eebot
+ 3
+
+[20:04:35]
+[ci8FBC] eee
+r 3 56
+
+[20:04:35]
+[VNC/I0] eebot
+ 48
+
+[20:04:52]
+[ci8FBC] eee
+r
+
+[20:04:53]
+[VNC/I0] eebot
+ 551
+
+[20:05:05]
+[VNC/I0] eebot
+ 2022.06.04 20:05:04
+
+[20:05:05]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[20:05:11]
+[ci8FBC] eee
+真心话
+
+[20:05:11]
+[VNC/I0] eebot
+ ·
+使用方法：
+1.r：随机1~999的数
+2.结算：输出数字最大和最小的成员
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.由数字最大的人向最小的提问
+2.尊重隐私 请不要提问过分露骨的问题
+3.愿赌服输 请说真心话（但有权拒绝回答隐私问题）
+
+[20:05:11]
+[VNC/I0] eebot
+ 真心话游戏开始
+
+[20:05:12]
+[ci8FBC] eee
+r
+
+[20:05:13]
+[VNC/I0] eebot
+ 215
+
+[20:05:14]
+[ci8FBC] eee
+r
+
+[20:05:14]
+[VNC/I0] eebot
+ @eee 已经r出了215
+
+[20:05:54]
+[VNC/I0] eebot
+ 2022.06.04 20:05:53
+
+[20:05:54]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[20:05:55]
+[ci8FBC] eee
+真心话
+
+[20:05:55]
+[VNC/I0] eebot
+ ·
+使用方法：
+1.r：随机1~999的数
+2.结算：输出数字最大和最小的成员
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.由数字最大的人向最小的提问
+2.尊重隐私 请不要提问过分露骨的问题
+3.愿赌服输 请说真心话（但有权拒绝回答隐私问题）
+
+[20:05:55]
+[VNC/I0] eebot
+ 真心话游戏开始
+
+[20:05:56]
+[ci8FBC] eee
+r
+
+[20:05:56]
+[VNC/I0] eebot
+ 37
+
+[20:05:56]
+[VNC/I0] eebot
+ r
+
+[20:06:00]
+[ci8FBC] eee
+r
+
+[20:06:00]
+[VNC/I0] eebot
+ @eee 已经r出了37
+
+[20:06:04]
+[ci8FBC] eee
+结算
+
+[20:06:04]
+[VNC/I0] eebot
+ 人数不足 至少要有2个人
+
+[20:07:14]
+[ci8FBC] eeee
+r
+
+[20:07:14]
+[VNC/I0] eebot
+ hey eeee
+
+[20:07:14]
+[VNC/I0] eebot
+ 467
+
+[20:07:14]
+[VNC/I0] eebot
+ r
+
+[20:07:16]
+[ci8FBC] eeee
+结算
+
+[20:07:17]
+[VNC/I0] eebot
+ ·
+本次参与人数：2
+·
+最大：467（eeee）
+最小：37（eee）
+
+[20:07:17]
+[VNC/I0] eebot
+ @eeee 向@eee 提问
+
+[20:08:02]
+[VNC/I0] eebot
+ 2022.06.04 20:08:01
+
+[20:08:02]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[20:08:05]
+[ci8FBC] eeee
+真心话
+
+[20:08:06]
+[VNC/I0] eebot
+ ·
+使用方法：
+1.r：随机1~999的数
+2.结算：输出数字最大和最小的成员
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.由数字最大的人向最小的提问
+2.尊重隐私 请不要提问过分露骨的问题
+3.愿赌服输 请说真心话（但有权拒绝回答隐私问题）
+
+[20:08:06]
+[VNC/I0] eebot
+ 真心话游戏开始
+
+[20:08:06]
+[ci8FBC] eeee
+r
+
+[20:08:06]
+[VNC/I0] eebot
+ 519
+
+[20:08:06]
+[VNC/I0] eebot
+ r
+
+[20:08:32]
+[VNC/I0] eebot
+ 2022.06.04 20:08:31
+
+[20:08:32]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[20:08:32]
+[ci8FBC] eeee
+真心话
+
+[20:08:32]
+[VNC/I0] eebot
+ ·
+使用方法：
+1.r：随机1~999的数
+2.结算：输出数字最大和最小的成员
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.由数字最大的人向最小的提问
+2.尊重隐私 请不要提问过分露骨的问题
+3.愿赌服输 请说真心话（但有权拒绝回答隐私问题）
+
+[20:08:33]
+[VNC/I0] eebot
+ 真心话游戏开始
+
+[20:08:33]
+[ci8FBC] eeee
+r
+
+[20:08:33]
+[VNC/I0] eebot
+ 430
+
+[20:08:33]
+[VNC/I0] eebot
+ r
+
+[20:08:35]
+[ci8FBC] eeee
+r
+
+[20:08:36]
+[VNC/I0] eebot
+ @eeee 已经r出了430
+
+[20:08:37]
+[ci8FBC] eeee
+结算
+
+[20:08:37]
+[VNC/I0] eebot
+ 人数不足 至少要有2个人
+
+[20:09:03]
+[VNC/I0] eebot
+ 2022.06.04 20:09:02
+
+[20:09:03]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[20:09:08]
+[ci8FBC] eee
+真心话
+
+[20:09:08]
+[VNC/I0] eebot
+ ·
+使用方法：
+1.r：随机1~999的数
+2.结算：输出数字最大和最小的成员
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.由数字最大的人向最小的提问
+2.尊重隐私 请不要提问过分露骨的问题
+3.愿赌服输 请说真心话（但有权拒绝回答隐私问题）
+
+[20:09:08]
+[VNC/I0] eebot
+ 真心话游戏开始
+
+[20:09:09]
+[ci8FBC] eee
+r
+
+[20:09:09]
+[VNC/I0] eebot
+ 460
+
+[20:09:09]
+[VNC/I0] eebot
+r
+
+[20:09:09]
+[VNC/I0] eebot
+ 374
+
+[20:09:12]
+[ci8FBC] eee
+结算
+
+[20:09:13]
+[VNC/I0] eebot
+ ·
+本次参与人数：2
+·
+最大：460（eee）
+最小：374（eebot）
+
+[20:09:13]
+[VNC/I0] eebot
+ @eee 向@eebot 提问
+
+[20:09:13]
+[VNC/I0] eebot
+ 上（
+
+[20:09:16]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[20:09:35]
+[ci8FBC] eee
+r
+
+[20:09:36]
+[VNC/I0] eebot
+ 441
+
+[20:09:36]
+[VNC/I0] eebot
+r
+
+[20:09:36]
+[VNC/I0] eebot
+ 793
+
+[20:09:39]
+[ci8FBC] eee
+结算
+
+[20:09:40]
+[VNC/I0] eebot
+ ·
+本次参与人数：2
+·
+最大：793（eebot）
+最小：441（eee）
+
+[20:09:40]
+[VNC/I0] eebot
+ @eebot 向@eee 提问
+
+[20:09:40]
+[VNC/I0] eebot
+ @eee 最喜欢的食物是什么
+
+[20:09:50]
+[ci8FBC] eee
+哈哈哈哈哈哈
+
+[20:09:58]
+[ci8FBC] eee
+~~有意思~~
+
+[20:09:59]
+[ci8FBC] eee
+r
+
+[20:10:00]
+[VNC/I0] eebot
+ 100
+
+[20:10:00]
+[VNC/I0] eebot
+r
+
+[20:10:00]
+[VNC/I0] eebot
+ 537
+
+[20:10:03]
+[ci8FBC] eee
+结算
+
+[20:10:04]
+[VNC/I0] eebot
+ ·
+本次参与人数：2
+·
+最大：537（eebot）
+最小：100（eee）
+
+[20:10:04]
+[VNC/I0] eebot
+ @eebot 向@eee 提问
+
+[20:10:04]
+[VNC/I0] eebot
+ @eee 理想中的婚礼是怎么样的
+
+[20:10:33]
+[ci8FBC] eee
+改一改 控制eb是否一起玩
+
+[20:11:34]
+[hmBtGV] 金工街3号楼
+目前观察到有后换座椅车辆：25路：5297 5968 5969 905路：5983 37路：5204 710路：5488
+
+[20:13:03]
+[VNC/I0] eebot
+ ·
+Light's Gitee
+https://gitee.com/BirdingLight
+
+[20:16:30]
+[VNC/I0] eebot
+ 2022.06.04 20:16:30
+
+[20:16:31]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[20:16:34]
+[ci8FBC] eee
+@eebot 别一起玩
+
+[20:16:34]
+[VNC/I0] eebot
+ ah 那eb就不参与真心话了
+
+[20:16:36]
+[ci8FBC] eee
+真心话
+
+[20:16:37]
+[VNC/I0] eebot
+ ·
+使用方法：
+1.r：随机1~999的数
+2.结算：输出数字最大和最小的成员
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.由数字最大的人向最小的提问
+2.尊重隐私 请不要提问过分露骨的问题
+3.愿赌服输 请说真心话（但有权拒绝回答隐私问题）
+
+[20:16:37]
+[VNC/I0] eebot
+ 真心话游戏开始
+
+[20:16:37]
+[ci8FBC] eee
+r
+
+[20:16:37]
+[VNC/I0] eebot
+ 913
+
+[20:16:37]
+[VNC/I0] eebot
+r
+
+[20:16:37]
+[VNC/I0] eebot
+ 855
+
+[20:17:02]
+[ci8FBC] eee
+emmmm
+
+[20:17:15]
+[ci8FBC] eee
+O-send(botto)
+
+[20:17:15]
+[VNC/I0] eebot
+ True
+
+[20:17:15]
+[VNC/I0] eebot
+ 代码运行成功
+
+[20:18:19]
+[VNC/I0] eebot
+ 2022.06.04 20:18:18
+
+[20:18:19]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[20:18:22]
+[ci8FBC] eee
+O-send(botto)
+
+[20:18:22]
+[VNC/I0] eebot
+ True
+
+[20:18:22]
+[VNC/I0] eebot
+ 代码运行成功
+
+[20:18:29]
+[ci8FBC] eee
+@eebot 别一起玩
+
+[20:18:29]
+[VNC/I0] eebot
+ ah 那eb就不参与真心话了
+
+[20:18:30]
+[ci8FBC] eee
+O-send(botto)
+
+[20:18:30]
+[VNC/I0] eebot
+ True
+
+[20:18:30]
+[VNC/I0] eebot
+ 代码运行成功
+
+[20:20:00]
+[VNC/I0] eebot
+ 2022.06.04 20:20:00
+
+[20:20:00]
+[VNC/I0] eebot
+ ·
+明天是端午节 趁着假期放松一下吧。
+更多玩法请输入：功能
+
+[20:20:08]
+[ci8FBC] eee
+好家伙 明白了 写了两个==
+
+[20:20:14]
+[ci8FBC] eee
+@eebot 别一起玩
+
+[20:20:14]
+[VNC/I0] eebot
+ ah 那eb就不参与真心话了
+
+[20:20:19]
+[ci8FBC] eee
+O-send(botto)
+
+[20:20:20]
+[VNC/I0] eebot
+ False
+
+[20:20:20]
+[VNC/I0] eebot
+ 代码运行成功
+
+[20:20:36]
+[ci8FBC] eee
+O-all
+
+[20:20:37]
+[VNC/I0] eebot
+ ·
+所有变量如下：
+awa="waw"
+awa="pwq"
+ee=111111111
+O=1
+
+[20:20:59]
+[ci8FBC] eee
+真心话
+
+[20:20:59]
+[VNC/I0] eebot
+ ·
+使用方法：
+1.r：随机1~999的数
+2.结算：输出数字最大和最小的成员
+3.结束游戏：完全关闭游戏
+4.重置游戏：清空本轮数据但不关闭游戏
+·
+注意事项：
+1.由数字最大的人向最小的提问
+2.尊重隐私 请不要提问过分露骨的问题
+3.愿赌服输 请说真心话（但有权拒绝回答隐私问题）
+
+[20:20:59]
+[VNC/I0] eebot
+ 真心话游戏开始
+
+[20:21:03]
+[ci8FBC] eee
+r
+
+[20:21:03]
+[VNC/I0] eebot
+ 138
+
+[20:21:05]
+[ci8FBC] eee
+OKOK
+
