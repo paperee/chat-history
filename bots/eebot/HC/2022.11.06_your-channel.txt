@@ -1,0 +1,11724 @@
+﻿[00:00:01]
+[AAfFKK] AfK_Bot
+2022-11-06 00:00:00
+![](https://i.gyazo.com/2933dcb72f64d1316701ef525a5b2b8c.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[00:32:36]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[00:45:06]
+[None] bro
+Hello
+
+﻿[00:54:52]
+[None] Daniel
+Hiii
+
+﻿[00:54:56]
+[None] Daniel
+Where are you from
+
+﻿[01:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 01:00:00
+![](https://i.gyazo.com/0d0cb727f4dec0b739522b4ce1bdf74a.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[01:15:30]
+[None] sam
+Hi
+
+﻿[01:17:01]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[01:17:16]
+[None] sam
+Page 194:
+General Program:
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+	char s[20];
+	int count=0,i,len;
+	printf("enter a string");
+	scanf("%[^\n]",s);
+	for(i=0;s[i]!='\0';i++)
+	{
+		if(isalpha(s[i]))
+		{
+			count ++;
+			len=count;
+		}
+		if(s[i]==' ')
+		{
+			count=0;
+		}
+	}
+	printf("count=%d",len);
+	return 0;
+}
+
+Leetcode:
+
+int lengthOfLastWord(char * s){
+    int count=0,i,len;
+    for(i=0; s[i]!='\0'; i++)
+    {
+        if(isalpha(s[i]))
+        {
+            count++;
+            len=count;
+        }
+        if(s[i]==' ')
+            count=0;
+    }
+    return len;
+ 
+}
+
+Page 196:
+
+General Program:
+#include<string.h>
+#include<ctype.h>
+#include<stdio.h>
+int main()
+{
+	char s[20],str[20];
+	int k,i,j;
+	printf("enter a string");
+	scanf("%[^\n]",s);
+	for(i=0,k=0; s[i]!='\0'; i++)
+	{
+		if(isalnum(s[i]))
+		{
+			str[k]=tolower(s[i]);
+			k++;
+		}
+	}
+	int compare=1;
+	for(i=0,j=k-1; i<j; i++,j--)
+	{
+		if(str[i]!=str[j])
+		{
+			compare=0;
+			break;
+		}
+    }
+    if(compare ==1)
+     printf("true");
+    else 
+     printf("false");
+    return 0;
+}
+
+Leet Code Solution:
+
+bool isPalindrome(char * s){
+     
+    int length=strlen(s);
+	char str[length];
+	int k,i,j;
+	for(i=0,k=0; s[i]!='\0'; i++)
+	{
+		if(isalnum(s[i]))
+		{
+			str[k]=tolower(s[i]);
+			k++;
+		}
+	}
+	int compare=1;
+	for(i=0,j=k-1; i<j; i++,j--)
+	{
+		if(str[i]!=str[j])
+		{
+			compare=0;
+			break;
+		}
+    }
+    if(compare ==1)
+     return true;
+    else
+     return false;
+}
+
+Page 200:
+
+General Program:
+#include<stdio.h>
+int main()
+{
+	char str[20],s[20];
+	int i,k;
+	printf("enter a string");
+	scanf("%s",str);
+	for(i=0,k=0;str[i]!='\0';i++)
+	{
+		if(str[i]=='.')
+		{
+		  s[k]='[';
+		  k++;
+		  s[k]='.';
+		  k++;
+		  s[k]=']';
+		  k++;
+	    }
+		else
+		{
+		    s[k]=str[i];
+		    k++;
+	    }
+	    s[k]='\0';
+	}
+	 printf("%s",s);
+	return 0;
+}
+
+Leetcode:
+
+char * defangIPaddr(char * address)
+{
+    int length=strlen(address);
+    char *str;
+    str=(char*)malloc(sizeof(char)*(length+7));
+    int k=0,i;
+    for(i=0; address[i]!='\0';i++)
+    {
+        if(address[i]!='.')
+        {
+            str[k]=address[i];
+            k++;
+        }
+        else
+        {
+            str[k]='[';
+            k++;
+            str[k]='.';
+            k++;
+            str[k]=']';
+            k++;            
+        }
+    }
+    str[k]='\0';
+   return str;
+}
+
+Page 202:
+
+General Program
+#include<stdio.h>
+#include<stdio.h>
+int main()
+{
+	char s[20];
+	int i;
+	printf("enter a string");
+	scanf("%s",s);
+	for(i=0;s[i]!='\0'; i++)
+	{
+		if(isdigit(s[i]))
+		 s[i]=s[i]+(s[i-1]-'0');
+	}
+	printf("%s",s);
+	return 0;
+}
+
+LeetCode Solution:
+
+char * replaceDigits(char *s){
+for(int i=0;s[i]!='\0'; i++)
+{ 
+        if(isdigit(s[i]))
+ 	s[i]=s[i]+(s[i-1]-'0');
+}
+    return s;
+    
+
+}
+
+Page 204:
+
+General Program:
+#include<stdio.h>
+int main()
+{
+	char s[20];
+	int a=0,e=0,i=0,o=0,u=0,k=0;
+	printf("enter a string");
+	scanf("%s",s);
+	for(k=0; s[k]!='\0';k++)
+	{
+		switch(s[k])
+		{
+			case 'a':
+				     a++;
+				     break;
+			case 'e':
+				    e++;
+				    break;
+			case 'i':
+				   i++;
+				   break;
+			case 'o':
+				  o++;
+				  break;
+			case 'u':
+				  u++;
+				  break;
+		}
+	}
+	if(a>0 && e>0 && i>0 && o>0 && u>0)
+	 printf("yes");
+	else
+	 printf("no");
+	return 0;
+}
+Page No 206:
+General Solution
+
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+	int n;
+	scanf("%d",&n);
+	char s[n][100];
+	int i,j,length,p1,p2;
+	char ch;
+	for(i=0;i<n;i++)
+	{
+		scanf("%s",s[i]);
+	}
+	for(i=0;i<n;i++)
+	{
+		for(j=i+1;j<n;j++)
+		{ 
+		    if(strcmp(s[i],strrev(s[j]))==0)
+		    {
+		    	p1=i;
+		    	p2=j;
+		    	break;
+			}
+		}
+	}
+	length=strlen(s[p1]);
+	ch=s[p1][length/2];
+	printf("%d %c",length,ch);
+	return 0;
+}
+Page No 209:
+General and Hackerrank:
+
+#include<stdio.h>
+int main()
+{
+	int n;
+	scanf("%d",&n);
+	char s[n];
+	scanf("%s",s);
+	int k,i;
+	scanf("%d",&k);
+	for(i=0;i<n;i++)
+	{
+		if(s[i]>=65 && s[i]<=90)
+		  s[i]= 65+(((s[i]-65)+k)%26);
+		else if(s[i]>=97 && s[i]<=122)
+		  s[i]= 97+(((s[i]-97)+k)%26);
+		  
+	}
+	printf("%s",s);
+	return 0;
+}
+
+Page No:211
+
+Hackerrank Solution:
+
+#include<stdio.h>
+int main()
+{
+	int n;
+	scanf("%d",&n);
+	char str[n];
+	int d=0,u=0,l=0,s=0,i;
+	scanf("%s",str);
+	for(i=0; str[i]!='\0';i++)
+	{
+		if(isdigit(str[i]))
+		 d++;
+		else if(isupper(str[i]))
+		 u++;
+		else if(islower(str[i]))
+		 l++;
+		else
+		 s++;
+	}
+	int count=0;
+	if(d==0)
+	 count++;
+	if(l==0)
+	 count++;
+	if(u==0)
+	 count++;
+	if(s==0)
+	 count++;
+	printf("count %d\n",count);
+	int length;
+	length=count+n;
+	printf("length=%d\n",length);
+	if(length<6)
+	 count=count+6-length;
+	printf("%d",count);
+}
+
+Page 211:
+Hackerrank:
+
+#include<stdio.h>
+int main()
+{
+	int n;
+	scanf("%d",&n);
+	char str[n];
+	int d=0,u=0,l=0,s=0,i;
+	scanf("%s",str);
+	for(i=0; str[i]!='\0';i++)
+	{
+		if(isdigit(str[i]))
+		 d++;
+		else if(isupper(str[i]))
+		 u++;
+		else if(islower(str[i]))
+		 l++;
+		else
+		 s++;
+	}
+	int count=0;
+	if(d==0)
+	 count++;
+	if(l==0)
+	 count++;
+	if(u==0)
+	 count++;
+	if(s==0)
+	 count++;
+	int length;
+	length=count+n;
+	if(length<6)
+	 count=count+6-length;
+	printf("%d",count);
+}
+Page 213:
+
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+	char s[20];
+	int count=0,length,n,occ,i;
+	char ch;
+	printf("enter a string");
+	scanf("%s",s);
+	printf("enter character");
+	fflush(stdin);
+	ch=getchar();
+	printf("enter n value");
+	scanf("%d",&n);
+	length=strlen(s);
+	for(i=0; s[i]!='\0'; i++)
+	{
+		if(s[i]==ch)
+		 count++;
+	}
+	occ=n/length;
+	count=count*occ;
+	for(i=0;i< n%length ; i++)
+	{
+		if(s[i]==ch)
+		 count++;
+	}
+	printf("%d",count);
+	return 0;
+}
+
+Page 215:
+
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+	int h,m,s;
+	char c[15];
+	scanf("%d:%d:%d%s",&h,&m,&s,&c);
+	if( strcmp(c,"PM")==0 && h!=12)
+	 h=h+12;
+	if( strcmp(c,"AM")==0 && h==12)
+	 h=0;
+    printf("%02d:%02d:%02d",h,m,s);
+    return 0;
+}
+
+Page 217:
+Hackerrank solution:
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() {
+
+            int i,k,t;
+            char s[100000],str[100000];
+            scanf("%d",&t);
+            while(t)
+            {
+                scanf("%s",s);
+                for(i=0,k=0;s[i]!='\0';i++)
+                {
+                    if(i%2==0)
+                    {
+                        str[k]=s[i];
+                        k++;
+                    }
+                }
+                str[k]=' ';
+                for(i=0,k=k+1;s[i]!='\0';i++)
+                {
+                    if(i%2!=0)
+                    {
+                        str[k]=s[i];
+                        k++;
+                    }
+                }
+                str[k]='\0';
+                printf("%s\n",str);
+                t--;
+            }
+    
+    return 0;
+}
+
+Page 221:
+Hackerrank Solution:
+int count[100][26];
+
+int main()
+{
+    int n,t; 
+    scanf("%i", &n);
+    int i,j,k=0,sum,c=0;
+    t=n;
+    while(n--)
+    {
+        char s[100];
+        scanf("%s",s);
+       
+        
+        for(i=0;s[i]!='\0';i++)
+        {
+            count[k][s[i]-'a']=1;           
+        }
+        k++;
+       
+        
+    }
+    for(j=0;j<26;j++)
+    {
+        sum=0;
+        for(i=0;i<t;i++)
+        {
+            sum=sum+count[i][j];
+        }    
+        if(sum==t)
+            c++;
+    }
+    printf("%d\n", c);
+    return 0;
+}
+
+﻿[01:19:55]
+[None] light
+hi
+
+﻿[01:20:51]
+[None] bigboy135
+hi
+
+﻿[01:20:55]
+[None] bigboy135
+i want professionals
+
+﻿[01:37:30]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[02:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 02:00:00
+![](https://i.gyazo.com/36bdb68c34208e7179e498a8342aae9c.png)
+### 米斯卡 姆斯卡
+
+﻿[02:43:14]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[03:00:01]
+[AAfFKK] AfK_Bot
+2022-11-06 03:00:00
+![](https://i.gyazo.com/85805621e8e7e814a16c31e9ddffcf9f.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[03:48:14]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[04:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 04:00:00
+![](https://i.gyazo.com/d9c30d48c3771272a2aa24f53dde168d.jpg)
+### 米斯卡 姆斯卡
+
+﻿[04:14:21]
+[None] suabahni
+Hai
+
+﻿[04:14:59]
+[None] suabahni
+Helo
+
+﻿[04:15:12]
+[None] suabahni
+Em chasthunavu
+
+﻿[04:52:34]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[05:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 05:00:00
+![](https://i.gyazo.com/e1a94c9b5930c089cd43a86cb6841e59.jpg)
+### 米斯卡 姆斯卡
+
+﻿[05:58:05]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[06:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 06:00:00
+![](https://i.gyazo.com/934c8f8123db5f39d52695a747c24b5f.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[07:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 07:00:00
+![](https://i.gyazo.com/b85c0b40078201ccb63d68e98265472a.jpg)
+### 米斯卡 姆斯卡
+
+﻿[07:03:07]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[07:53:18]
+[Chumon] zzzzChumo_Redmi_2
+&s curl share.lyka.pro
+
+﻿[07:53:48]
+[Chumon] zzzzChumo_Redmi_2
+&s
+
+﻿[07:54:02]
+[Chumon] zzzzChumo_Redmi_2
+等等
+
+﻿[07:54:13]
+[Chumon] zzzzChumo_Redmi_2
+我二号机呢？？？
+
+﻿[07:54:22]
+[Chumon] zzzzChumo_Redmi_2
+$ curl share.lyka.pro
+
+﻿[07:55:21]
+[/ECnBz] GS_Cloud_Linux
+成功执行 `curl share.lyka.pro` 命令，终端输出：
+```shell
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+```
+
+﻿[07:55:21]
+[Chumon] zzzzChumo_Redmi_2
+$ curl https://share.lyka.pro
+
+﻿[07:55:44]
+[/ECnBz] GS_Cloud_Linux
+成功执行 `curl https://share.lyka.pro` 命令，终端输出：
+```shell
+
+```
+
+﻿[08:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 08:00:00
+![](https://i.gyazo.com/8b316cf31861bd9e9619ee10ab2da8b0.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[08:07:35]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[08:19:45]
+[eYFDHl] ee
+hi
+
+﻿[08:36:01]
+[Zvoxsl] jill
+诶按错了
+
+﻿[08:41:30]
+[None] light
+hi
+
+﻿[08:44:23]
+[None] light
+h
+
+﻿[08:45:06]
+[Chumon] zzzzChumo_Redmi_2
+![](https://share.lyka.pro/2022-11-6-7.png)
+
+﻿[08:46:20]
+[Chumon] zzzzChumo_Redmi_2
+初墨娘
+
+﻿[08:46:24]
+[Chumon] zzzzChumo_Redmi_2
+awa
+
+﻿[08:46:25]
+[Chumon] zzzzChumo_Redmi_2
+![](https://share.lyka.pro/2022-11-6-16.png)
+
+﻿[08:47:14]
+[Chumon] zzzzChumo_Redmi_2
+初墨
+
+﻿[08:47:19]
+[Chumon] zzzzChumo_Redmi_2
+awa
+
+﻿[08:47:20]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[08:47:20]
+[gOtnKd] xuan2wei1
+awa
+
+﻿[08:48:23]
+[Chumon] zzzzChumo_Redmi_2
+努力运动的初墨娘（NSFW） https://share.lyka.pro/2022-11-6-12.png
+
+﻿[08:49:13]
+[Chumon] zzzzChumo_Redmi_2
+初墨娘 ![](https://share.lyka.pro/2022-11-6-15.png)
+
+﻿[08:50:47]
+[Chumon] zzzzChumo_Redmi_2
+hi
+
+﻿[08:50:52]
+[Chumon] zzzzChumo_Redmi_2
+awa
+
+﻿[08:50:53]
+[Chumon] zzzzChumo_Redmi_2
+![](https://share.lyka.pro/2022-11-6-15.png)
+
+﻿[08:51:03]
+[Chumon] zzzzChumo_Redmi_2
+妈的我生成了好多涩涩
+
+﻿[08:52:59]
+[Chumon] zzzzChumo_Redmi_2
+我要给下载文件夹加nomedia了
+
+﻿[08:53:12]
+[Zvoxsl] ji11
+蛤
+
+﻿[08:53:25]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[08:53:25]
+[Chumon] zzzzChumo_Redmi_2
+![](https://share.lyka.pro/2022-11-6-19.png)
+
+﻿[08:56:06]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[08:56:06]
+[Chumon] zzzzChumo_Redmi_2
+awa
+
+﻿[09:00:01]
+[AAfFKK] AfK_Bot
+2022-11-06 09:00:00
+![](https://i.gyazo.com/6b4d127f8cae6baa29cbbdb86ec11bb9.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[09:01:41]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[09:03:40]
+[gOtnKd] xuan2wei1
+zzchumo
+
+﻿[09:03:56]
+[None] HetMan
+https://cdn.truyen-hentai.com/save-water-amp-shower-togeth?interlace=1&quality=100&type=webp&url=https%3A%2F%2Fi.imgur.com%2FmBypJnD.jpg&width=920&sign=VjsRpDMscnxswulV2x7nvXO_nqGvzYckTJ2DL2W0GA8
+
+﻿[09:06:10]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[09:06:10]
+[/9Br2y] 4n0n4me__
+qly fork 我的客户端
+
+﻿[09:06:17]
+[/9Br2y] 4n0n4me__
+还好我在主页留了一手（
+
+﻿[09:06:22]
+[Chumon] zzzzChumo_Redmi_2
+![](https://share.lyka.pro/2022-11-6-29.png)
+
+﻿[09:06:54]
+[None] HetMan
+MMM, nice
+
+﻿[09:07:16]
+[Chumon] zzzzChumo_Redmi_2
+我找到了比maggie咒语更刺激的咒语（
+
+﻿[09:07:16]
+[gOtnKd] xuan2wei1
+焯
+
+﻿[09:07:20]
+[Chumon] zzzzChumo_Redmi_2
+&igen loli, anime girl, 1girl, 10 years old, japanese, smiling, white hair, long hair, nsfw, blue eyes, cat girl, {{{sexy}}}, blushing, school girl, classroom, white ears, nude, pussy, {{nipples}}, cum, {{lewd water}}, wet, white stockings, {{pussy}},{{boobs}}
+
+﻿[09:07:22]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[09:07:22]
+[/9Br2y] 4n0n4me__
+qly都不给我star
+
+﻿[09:07:29]
+[Chumon] zzzzChumo_Redmi_2
+超级大改良
+
+﻿[09:07:33]
+[/9Br2y] 4n0n4me__
+还用下载和上传的方法复制我的仓库
+
+﻿[09:07:39]
+[/9Br2y] 4n0n4me__
+气死我了
+
+﻿[09:07:42]
+[Chumon] zzzzChumo_Redmi_2
+@4n0n4me__ GSTAUL了解一下
+
+﻿[09:07:45]
+[Chumon] zzzzChumo_Redmi_2
+GSTAUL协议专为保护创作者权利而设计
+
+﻿[09:08:15]
+[gOtnKd] xuan2wei1
+啊
+
+﻿[09:08:31]
+[gOtnKd] xuan2wei1
+我还以为github上面的都可以下载点
+
+﻿[09:08:45]
+[gOtnKd] xuan2wei1
+的
+
+﻿[09:08:47]
+[/9Br2y] 4n0n4me__
+没关系，我可是给hc提了pr的人）
+
+﻿[09:09:15]
+[/9Br2y] 4n0n4me__
+而且我的主页里面有repo地址
+
+﻿[09:09:26]
+[/9Br2y] 4n0n4me__
+>gOtnKd xuan2wei1：
+>我还以为github上面的都可以下载点
+
+@xuan2wei1 确实可以，就是他这样一做，别人说不定以为他做的（
+
+﻿[09:09:45]
+[Chumon] zzzzChumo_Redmi_2
+@4n0n4me__ https://zzchat.cf/LICENSE
+
+﻿[09:09:45]
+[/9Br2y] 4n0n4me__
+没关系，我有那么多commit的记录
+
+﻿[09:09:52]
+[/9Br2y] 4n0n4me__
+他没有
+
+﻿[09:09:56]
+[/9Br2y] 4n0n4me__
+他只有add file via upload
+
+﻿[09:10:02]
+[gOtnKd] xuan2wei1
+~~放心，我只是以为~~
+
+﻿[09:10:03]
+[Chumon] zzzzChumo_Redmi_2
+$ curl https://zzchat.cf/LICENSE
+
+﻿[09:10:06]
+[/ECnBz] GS_Cloud_Linux
+成功执行 `curl https://zzchat.cf/LICENSE` 命令，终端输出：
+```shell
+==========
+
+(C) Copyright 2017-2022 GS Team
+
+==========
+
+GS Team Application Use License (GSTAUL) Version 1.0
+
+==========
+
+The software can be copied and modified for free,but sell this software or publish the modified software are not allowed (expect the author).
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.THE COPYRIGHT HOLDER HAS THE RIGHT OF ASKING FOR THE COST TO USERS.
+```
+
+﻿[09:10:06]
+[gOtnKd] xuan2wei1
+我没干过那种事，~~毕竟也看不懂一堆英文~~
+
+﻿[09:10:43]
+[Chumon] zzzzChumo_Redmi_2
+旧版zzChat遵守MIT
+
+﻿[09:11:03]
+[Chumon] zzzzChumo_Redmi_2
+新版zzChat遵守GSTAUL
+
+﻿[09:11:14]
+[gOtnKd] xuan2wei1
+mit是？（被打）
+
+﻿[09:11:20]
+[Chumon] zzzzChumo_Redmi_2
+麻省理工大学条款
+
+﻿[09:11:36]
+[gOtnKd] xuan2wei1
+？？？
+
+﻿[09:11:42]
+[Chumon] zzzzChumo_Redmi_2
+挺宽松的
+
+﻿[09:11:42]
+[Chumon] zzzzChumo_Redmi_2
+MIT License
+
+﻿[09:12:00]
+[gOtnKd] xuan2wei1
+~~所以和麻省理工有啥关系~~
+
+﻿[09:12:05]
+[Chumon] zzzzChumo_Redmi_2
+麻省理工大的人搞的
+
+﻿[09:12:19]
+[Chumon] zzzzChumo_Redmi_2
+所以有关系（
+
+﻿[09:12:26]
+[gOtnKd] xuan2wei1
+哦，这样啊）
+
+﻿[09:12:34]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[09:12:34]
+[Chumon] zzzzChumo_Redmi_2
+开源协议
+
+﻿[09:12:40]
+[Chumon] zzzzChumo_Redmi_2
+如果要搞自由软件的话推荐WTFPL
+
+﻿[09:13:24]
+[/9Br2y] 4n0n4me__
+我给我的那个客户端加了LGPL
+
+﻿[09:13:38]
+[/9Br2y] 4n0n4me__
+因为hc是WTFPL
+
+﻿[09:13:43]
+[gOtnKd] xuan2wei1
+那github上的文件大都是有各种开源协议的吗
+
+﻿[09:13:53]
+[/9Br2y] 4n0n4me__
+所以我可以给我的fork加LGPL
+
+﻿[09:13:54]
+[/9Br2y] 4n0n4me__
+也有些没有的
+
+﻿[09:14:41]
+[None] iinj2bt3
+Hola
+
+﻿[09:15:00]
+[gOtnKd] xuan2wei1
+那是说，有协议的不能随便复制还是没协议的不能随便复制
+
+﻿[09:15:12]
+[/9Br2y] 4n0n4me__
+都不能（
+
+﻿[09:15:46]
+[Zvoxsl] ji11
+蛤
+
+﻿[09:15:47]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[09:15:47]
+[gOtnKd] xuan2wei1
+啊
+
+﻿[09:16:03]
+[/9Br2y] 4n0n4me__
+有协议的要看协议具体内容
+
+﻿[09:16:09]
+[EoZ5HO] SprinkleBot
+(ノﾟ∀ﾟ)ノ
+
+﻿[09:16:09]
+[/9Br2y] 4n0n4me__
+比如hc采用的WTFPL就可以想干啥就干啥
+
+﻿[09:16:19]
+[/9Br2y] 4n0n4me__
+一般来说，大部分的协议应该允许复制（我也不是很懂）
+
+﻿[09:16:43]
+[/9Br2y] 4n0n4me__
+只是复制以后的修改和版权问题上面有要求
+
+﻿[09:16:57]
+[Chumon] zzzzChumo_Redmi_2
+WTFPL和GPL V2兼容（
+
+﻿[09:17:23]
+[gOtnKd] xuan2wei1
+~~那几个协议没个中文版的也看不懂来着~~
+
+﻿[09:17:30]
+[/9Br2y] 4n0n4me__
+没协议的可能默认作者保留版权（
+
+﻿[09:17:37]
+[gOtnKd] xuan2wei1
+>/9Br2y 4n0n4me__：
+>没协议的可能默认作者保留版权（
+
+@4n0n4me__ 那是不能复制？
+
+﻿[09:17:50]
+[Chumon] zzzzChumo_Redmi_2
+WTFPL内容：代码是你的了你拿去随便用罢
+
+﻿[09:18:47]
+[/9Br2y] 4n0n4me__
+如果作者不找你事，那应该也可以复制
+
+﻿[09:19:08]
+[/9Br2y] 4n0n4me__
+一般来说作者不会找你事的吧（、
+
+﻿[09:19:17]
+[/9Br2y] 4n0n4me__
+@zzzzChumo_Redmi_2 你懂得比我多
+
+﻿[09:19:25]
+[gOtnKd] xuan2wei1
+~~所以都可以复制是吧~~
+
+﻿[09:19:27]
+[Chumon] zzzzChumo_Redmi_2
+一般来说不能复制的也不会拿去开源罢
+
+﻿[09:21:21]
+[/9Br2y] 4n0n4me__
+awa
+
+﻿[09:21:35]
+[Chumon] zzzzChumo_Redmi_2
+~~不然的话GAF已经无了~~
+
+﻿[09:21:57]
+[/9Br2y] 4n0n4me__
+我说的复制是指字面意思上的复制，qly那个是发到GitHub上，还不太一样
+
+﻿[09:21:58]
+[/9Br2y] 4n0n4me__
+>Chumon zzzzChumo_Redmi_2：
+>~~不然的话GAF已经无了~~
+
+@zzzzChumo_Redmi_2 awa?
+
+﻿[09:22:07]
+[/9Br2y] 4n0n4me__
+awa
+
+﻿[09:22:09]
+[gOtnKd] xuan2wei1
+所以他fork到github了？
+
+﻿[09:22:50]
+[Chumon] zzzzChumo_Redmi_2
+GAF的顶栏最初来自菜鸟教程
+
+﻿[09:23:17]
+[Chumon] zzzzChumo_Redmi_2
+@4n0n4me__ 
+
+﻿[09:23:19]
+[/9Br2y] 4n0n4me__
+>Chumon zzzzChumo_Redmi_2：
+>GAF的顶栏最初来自菜鸟教程
+
+@zzzzChumo_Redmi_2 我不由得想起
+
+﻿[09:23:28]
+[/9Br2y] 4n0n4me__
+我的脚本从csdn抄了好多代码
+
+﻿[09:23:37]
+[Chumon] zzzzChumo_Redmi_2
+蛤
+
+﻿[09:23:42]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[09:23:42]
+[/9Br2y] 4n0n4me__
+csdn是非常狠毒的，它都明说版权所有啥的了
+
+﻿[09:23:58]
+[/9Br2y] 4n0n4me__
+你如果复制，他就会给你加上作者和链接
+
+﻿[09:24:08]
+[/9Br2y] 4n0n4me__
+但是我还是抄了，因为我觉得这么简单的代码说我自己写出来的和他正好一样也是有可能的（
+
+﻿[09:24:29]
+[gOtnKd] xuan2wei1
+>/9Br2y 4n0n4me__：
+>你如果复制，他就会给你加上作者和链接
+
+@4n0n4me__ 他让我登陆后复制
+
+﻿[09:24:44]
+[gOtnKd] xuan2wei1
+我没账号
+
+﻿[09:24:49]
+[gOtnKd] xuan2wei1
+我就硬是复制）
+
+﻿[09:24:55]
+[Chumon] zzzzChumo_Redmi_2
+好比小明写了1+1=2，你抄了，但没人怀疑你是抄的
+
+﻿[09:25:14]
+[gOtnKd] xuan2wei1
+>gOtnKd xuan2wei1：
+>我就硬是复制）
+
+然后就没有作者和连接（
+
+﻿[09:25:53]
+[/9Br2y] 4n0n4me__
+>gOtnKd xuan2wei1：
+>所以他fork到github了？
+
+@xuan2wei1 按理来说，应该点fork按钮，但是我也没有fork hc（因为怕fork以后仓库之间的关系难以处理），而是下载下来文件上传到GitHub，但是我在readme里面加了说明，结果qly也这样做，还没加我说明（
+
+﻿[09:25:56]
+[/9Br2y] 4n0n4me__
+>A tweaked hackchat client. aka hackchat++. Most code are from https://github.com/hack-chat/main. Hosted at https://hcer.netlify.app or https://hc.thz.cool (thanks to Maggie, aka THZ, for hosting)
+
+﻿[09:26:13]
+[Chumon] zzzzChumo_Redmi_2
+xswl
+
+﻿[09:26:13]
+[gOtnKd] xuan2wei1
+仓库之间的关系？
+
+﻿[09:26:22]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[09:26:23]
+[EoZ5HO] SprinkleBot
+(ノﾟ∀ﾟ)ノ
+
+﻿[09:26:23]
+[Chumon] zzzzChumo_Redmi_2
+qly连怎么安装hc都不会
+
+﻿[09:26:23]
+[/9Br2y] 4n0n4me__
+我也不会（
+
+﻿[09:26:31]
+[gOtnKd] xuan2wei1
+我也不会）
+
+﻿[09:27:07]
+[gOtnKd] xuan2wei1
+>Chumon zzzzChumo_Redmi_2：
+>GAF的顶栏最初来自菜鸟教程
+
+@zzzzChumo_Redmi_2 我抄了菜鸟好多东西）
+
+﻿[09:27:38]
+[/9Br2y] 4n0n4me__
+>gOtnKd xuan2wei1：
+>仓库之间的关系？
+
+@xuan2wei1 就是需要pull啊什么的，会显示什么behind什么的（就是你比官方的repo，多了几次提交，少了几次官方有你没有的提交），我感觉有点麻烦（
+
+﻿[09:27:47]
+[/9Br2y] 4n0n4me__
+我的历史书就是fork的Maggie的仓库，但是我就一个文件，Maggie是历史版本
+
+﻿[09:28:07]
+[gOtnKd] xuan2wei1
+哦哦
+
+﻿[09:28:18]
+[gOtnKd] xuan2wei1
+话说你的客户端挺好用
+
+﻿[09:28:34]
+[/9Br2y] 4n0n4me__
+结果一直没有pull（和Maggie的仓库同步），然后就是我有他没有的提交和他有我没有的提交就不复重合了（
+
+﻿[09:28:49]
+[/9Br2y] 4n0n4me__
+awa 谢谢:)
+
+﻿[09:29:00]
+[/9Br2y] 4n0n4me__
+我突然发现还有一个（可能是）bug（的东西）
+
+﻿[09:30:16]
+[Chumon] zzzzChumo_R3dmi_2
+妈的
+
+﻿[09:30:22]
+[Chumon] zzzzChumo_R3dmi_2
+傻逼电信
+
+﻿[09:30:31]
+[Chumon] zzzzChumo_R3dmi_2
+信号真jb烂
+
+﻿[09:30:37]
+[/9Br2y] 4n0n4me__
+是我的css条件有问题
+
+﻿[09:31:30]
+[/9Br2y] 4n0n4me__
+我的防止文本溢出一行不彻底
+
+﻿[09:31:46]
+[gOtnKd] xuan2wei1
+对了
+
+﻿[09:32:11]
+[gOtnKd] xuan2wei1
+我一直很好奇
+
+﻿[09:32:18]
+[Chumon] zzzzChumo_R3dmi_2
+@4n0n4me__ curl zzChat
+
+﻿[09:32:37]
+[/9Br2y] 4n0n4me__
+a?
+
+﻿[09:32:44]
+[gOtnKd] xuan2wei1
+关于我手机显示不了弹窗的怪事
+
+﻿[09:32:50]
+[gOtnKd] xuan2wei1
+bata版的就能显示出来
+
+﻿[09:32:59]
+[/9Br2y] 4n0n4me__
+@zzzzChumo_R3dmi_2 <html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>
+
+﻿[09:33:00]
+[gOtnKd] xuan2wei1
+为什么呢）
+
+﻿[09:33:02]
+[/9Br2y] 4n0n4me__
+因为beta版的弹窗不是浏览器的弹窗
+
+﻿[09:33:15]
+[/9Br2y] 4n0n4me__
+是网页里面自己写的
+
+﻿[09:33:20]
+[Chumon] zzzzChumo_R3dmi_2
+@4n0n4me__ 或者csdn有文本自动换行，可抄
+
+﻿[09:33:21]
+[gOtnKd] xuan2wei1
+啊这
+
+﻿[09:33:31]
+[/9Br2y] 4n0n4me__
+>Chumon zzzzChumo_R3dmi_2：
+>@4n0n4me__ 或者csdn有文本自动换行，可抄
+
+@zzzzChumo_R3dmi_2 我靠，不会是加入换行符吧（
+
+﻿[09:33:33]
+[Chumon] zzzzChumo_R3dmi_2
+@4n0n4me__ 类似GAF的弹窗
+
+﻿[09:33:36]
+[Chumon] zzzzChumo_R3dmi_2
+@4n0n4me__ 不是
+
+﻿[09:33:43]
+[/9Br2y] 4n0n4me__
+对对对
+
+﻿[09:33:43]
+[/9Br2y] 4n0n4me__
+是css对吧（
+
+﻿[09:33:50]
+[Chumon] zzzzChumo_R3dmi_2
+是的
+
+﻿[09:33:54]
+[/9Br2y] 4n0n4me__
+但是我认为我已经找到了正确的css属性
+
+﻿[09:34:00]
+[Chumon] zzzzChumo_R3dmi_2
+蛤
+
+﻿[09:34:04]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[09:34:04]
+[/9Br2y] 4n0n4me__
+overflow-wrap
+
+﻿[09:34:05]
+[/9Br2y] 4n0n4me__
+他的表现和hc官方客户端一致
+
+﻿[09:34:15]
+[gOtnKd] xuan2wei1
+其他所有的客户端都是浏览器的弹窗吗
+
+﻿[09:34:55]
+[Chumon] zzzzChumo_R3dmi_2
+240e:e8:f00f:ff1b:3b84:11a8:906b:520e
+
+﻿[09:34:59]
+[Chumon] zzzzChumo_R3dmi_2
+快来ddos我罢
+
+﻿[09:35:19]
+[/9Br2y] 4n0n4me__
+>gOtnKd xuan2wei1：
+>其他所有的客户端都是浏览器的弹窗吗
+
+@xuan2wei1 大概是的吧
+
+﻿[09:35:22]
+[Chumon] zzzzChumo_R3dmi_2
+8022,80,443开放
+
+﻿[09:35:23]
+[Chumon] zzzzChumo_R3dmi_2
+hi
+
+﻿[09:35:24]
+[/9Br2y] 4n0n4me__
+hi 
+
+﻿[09:35:28]
+[None] Alex
+Hi, hi
+
+﻿[09:35:28]
+[EoZ5HO] SprinkleBot
+ ﾟ∀ﾟ)σ
+
+﻿[09:35:29]
+[gOtnKd] xuan2wei1
+>Chumon zzzzChumo_R3dmi_2：
+>240e:e8:f00f:ff1b:3b84:11a8:906b:520e
+
+@zzzzChumo_R3dmi_2 这是啥
+
+﻿[09:35:33]
+[/9Br2y] 4n0n4me__
+ipv6 adress
+
+﻿[09:35:42]
+[Chumon] zzzzChumo_R3dmi_2
+@xuan2wei1 我服务器的ip地址
+
+﻿[09:36:04]
+[None] RealMadrid9
+Hi
+
+﻿[09:36:08]
+[gOtnKd] xuan2wei1
+0
+
+﻿[09:37:30]
+[Zvoxsl] ji11
+嘎
+
+﻿[09:37:32]
+[/9Br2y] 4n0n4me__
+好耶，css fixed
+
+﻿[09:38:47]
+[gOtnKd] xuan2wei1
+404是有自己的服务器？
+
+﻿[09:39:22]
+[/9Br2y] 4n0n4me__
+没有
+
+﻿[09:40:58]
+[/9Br2y] 4n0n4me__
+netlify 免费托管（
+
+﻿[09:41:08]
+[/9Br2y] 4n0n4me__
+还有Maggie帮我托管的
+
+﻿[09:41:15]
+[Chumon] zzzzChumo_R3dmi_2
+像我一样用手机搭一个
+
+﻿[09:41:17]
+[gOtnKd] xuan2wei1
+wow
+
+﻿[09:41:36]
+[Chumon] zzzzChumo_R3dmi_2
+我是手机+ipv6+cf
+
+﻿[09:41:38]
+[/9Br2y] 4n0n4me__
+我都没有安卓手机
+
+﻿[09:41:41]
+[Chumon] zzzzChumo_R3dmi_2
+蛤
+
+﻿[09:41:50]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[09:41:50]
+[/9Br2y] 4n0n4me__
+woc，css出问题了
+
+﻿[09:44:49]
+[Chumon] zzzzChumo_R3dmi_2
+a
+
+﻿[09:45:37]
+[/9Br2y] 4n0n4me__
+是时候看看原版客户端的表现了
+
+﻿[09:46:19]
+[/9Br2y] 4n0n4me__
+md，这个css有点难修
+
+﻿[09:49:30]
+[/9Br2y] 4n0n4me__
+我的客户端现在出了点问题，但是不影响使用
+
+﻿[09:49:41]
+[/9Br2y] 4n0n4me__
+md，hc把我rl了
+
+﻿[09:49:55]
+[/9Br2y] 4n0n4me__
+没法进去测试了
+
+﻿[09:50:53]
+[gOtnKd] xuan2wei1
+hjh
+
+﻿[09:51:05]
+[jga1nc] iwannabeagirl
+hi
+
+﻿[09:51:10]
+[jga1nc] iwannabeagirl
+404在这啊
+
+﻿[09:51:34]
+[jga1nc] iwannabeagirl
+好吧看来是afk状态
+
+﻿[09:52:05]
+[/9Br2y] 4n0n4me__
+a
+
+﻿[09:52:18]
+[/9Br2y] 4n0n4me__
+我在调试客户端，客户端的css出问题了
+
+﻿[09:53:07]
+[None] l
+.
+
+﻿[09:53:26]
+[gOtnKd] xuan2wei1
+.
+
+﻿[09:55:15]
+[gOtnKd] xuan2wei1
+.
+
+﻿[09:55:20]
+[gOtnKd] xuan2wei1
+.
+
+﻿[09:55:26]
+[gOtnKd] xuan2wei1
+.
+
+﻿[09:55:44]
+[/9Br2y] 4n0n4me__
+我靠，我修不来了
+
+﻿[09:55:52]
+[jga1nc] iwannabeagirl
+发生了什么
+
+﻿[09:56:46]
+[jga1nc] iwannabeagirl
+加油吧少年
+
+﻿[09:56:56]
+[jga1nc] iwannabeagirl
+乐
+
+﻿[09:57:02]
+[EoZ5HO] SprinkleBot
+(　ﾟдﾟ)
+
+﻿[09:57:03]
+[/9Br2y] 4n0n4me__
+awa
+
+﻿[09:57:04]
+[jga1nc] iwannabeagirl
+awa
+
+﻿[09:57:10]
+[Chumon] zzzzChumo_R3dmi_2
+Chumon zzzzChumo_R3dmi_2
+&igen ocean,sun rise,sea,beach,yellow sky,1 girl
+
+a0DOf/ ultra_weeb
+@zzzzChumo_R3dmi_2 (Seed: 2052532248)
+https://share.lyka.pro/2022-11-6-87.png
+
+﻿[09:57:24]
+[jga1nc] iwannabeagirl
+猜猜我是谁
+
+﻿[09:57:28]
+[Chumon] zzzzChumo_R3dmi_2
+兄弟们叫我ai之神
+
+﻿[09:57:34]
+[EoZ5HO] SprinkleBot
+(　ﾟдﾟ)
+
+﻿[09:57:34]
+[jga1nc] iwannabeagirl
+@zzzzChumo_R3dmi_2 6
+
+﻿[09:57:41]
+[Chumon] zzzzChumo_R3dmi_2
+![](https://share.lyka.pro/2022-11-6-87.png)
+
+﻿[09:57:42]
+[jga1nc] iwannabeagirl
+芜湖
+
+﻿[09:57:51]
+[Chumon] zzzzChumo_R3dmi_2
+:!lookup nick @iwannabeagirl 
+
+﻿[09:58:04]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==50vihsKutpSEVF/==: ['iwannabeagirl']
+==Trips== for hash ==50vihsKutpSEVF/==: ['jga1nc']
+
+﻿[09:58:05]
+[Chumon] zzzzChumo_R3dmi_2
+:!lookup trip jga1nc
+
+﻿[09:58:21]
+[AAfFKK] AfK_Bot
+==Hash==: ['50vihsKutpSEVF/', 'j/FJ2W8dQyjO3/y', 'g9Wr4Vr+ROpNj6x', 'bHBEM0g5p+KUGRp', 'tduhfm7TGpP6Dfg', 'oJ4yRYNrjASIwLo', 'mCdL46qvlNx/wHq']
+==Aliases==: ['{', 'iwannabeagirl', '}', '{', 'tcg', 'THE_COLORLESS_GREEN', '}', '{', 'the_colorless_green', 'tttcccccccccggggg', '}', '{', 'THE_COLORLESS_GREEN', '}', '{', 'THE_COLORLESS_GREEN', 't_c_g', 'tcg', '}', '{', 'tcg', 'lesbian_ganger', '5q275ZCn', 'XC_lesbian_ganger', '}', '{', 'tcg', '}']
+==Trips==: ['{', 'jga1nc', '}', '{', 'jga1nc', 'jga1nc', '}', '{', 'jga1nc', 'jga1nc', '}', '{', 'jga1nc', '}', '{', 'jga1nc', 'jga1nc', 'jga1nc', '}', '{', 'jga1nc', 'jga1nc', 'jga1nc', 'jga1nc', '}', '{', 'jga1nc', '}']
+
+﻿[09:58:21]
+[Chumon] zzzzChumo_R3dmi_2
+h
+
+﻿[09:58:25]
+[Chumon] zzzzChumo_R3dmi_2
+tcg
+
+﻿[09:58:52]
+[gOtnKd] xuan2wei1
+:!lookup trip jga1nc
+
+﻿[09:59:10]
+[AAfFKK] AfK_Bot
+==Hash==: ['50vihsKutpSEVF/', 'j/FJ2W8dQyjO3/y', 'g9Wr4Vr+ROpNj6x', 'bHBEM0g5p+KUGRp', 'tduhfm7TGpP6Dfg', 'oJ4yRYNrjASIwLo', 'mCdL46qvlNx/wHq']
+==Aliases==: ['{', 'iwannabeagirl', '}', '{', 'tcg', 'THE_COLORLESS_GREEN', '}', '{', 'the_colorless_green', 'tttcccccccccggggg', '}', '{', 'THE_COLORLESS_GREEN', '}', '{', 'THE_COLORLESS_GREEN', 't_c_g', 'tcg', '}', '{', 'tcg', 'lesbian_ganger', '5q275ZCn', 'XC_lesbian_ganger', '}', '{', 'tcg', '}']
+==Trips==: ['{', 'jga1nc', '}', '{', 'jga1nc', 'jga1nc', '}', '{', 'jga1nc', 'jga1nc', '}', '{', 'jga1nc', '}', '{', 'jga1nc', 'jga1nc', 'jga1nc', '}', '{', 'jga1nc', 'jga1nc', 'jga1nc', 'jga1nc', '}', '{', 'jga1nc', '}']
+
+﻿[09:59:32]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[09:59:33]
+[jga1nc] iwannabeagirl
+6
+
+﻿[10:00:01]
+[AAfFKK] AfK_Bot
+2022-11-06 10:00:00
+![](https://i.gyazo.com/6b4d127f8cae6baa29cbbdb86ec11bb9.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[10:00:01]
+[gOtnKd] xuan2wei1
+:!help
+
+﻿[10:00:10]
+[AAfFKK] AfK_Bot
+ @xuan2wei1 Your current identity : OPERATOR
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  :!statistics  :!slt
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+﻿[10:00:10]
+[gOtnKd] xuan2wei1
+:!help cookie
+
+﻿[10:00:57]
+[AAfFKK] AfK_Bot
+|COMMAND|ARGUMENTS|USAGE|CATEGORY|
+|-|-|-|-|
+|cookie|TARGET(S)|COOKIE.|USER|
+
+﻿[10:00:57]
+[gOtnKd] xuan2wei1
+:!shoot
+
+﻿[10:01:10]
+[eYFDHl] ee
+芜湖
+
+﻿[10:01:30]
+[eYFDHl] ee
+我的视频剪了一半
+
+﻿[10:01:43]
+[/9Br2y] 4n0n4me__
+@zzzzChumo_R3dmi_2 md
+
+﻿[10:01:48]
+[/9Br2y] 4n0n4me__
+为什么两个元素的尺寸会不一样啊
+
+﻿[10:01:57]
+[eYFDHl] ee
+uw？
+
+﻿[10:02:04]
+[/9Br2y] 4n0n4me__
+我客户端css出问题了（
+
+﻿[10:02:10]
+[/9Br2y] 4n0n4me__
+你看看主页的分割线
+
+﻿[10:02:18]
+[eYFDHl] ee
+你们在聊什么）
+
+﻿[10:02:40]
+[/9Br2y] 4n0n4me__
+没什么（
+
+﻿[10:03:22]
+[/9Br2y] 4n0n4me__
+剪视频加油（
+
+﻿[10:03:28]
+[gOtnKd] xuan2wei1
+:!help shoot
+
+﻿[10:03:29]
+[AAfFKK] AfK_Bot
+|COMMAND|ARGUMENTS|USAGE|CATEGORY|
+|-|-|-|-|
+|shoot|TARGET(S)|SHOOT.|USER|
+
+﻿[10:03:29]
+[gOtnKd] xuan2wei1
+:!shoot AfK_Bot 
+
+﻿[10:03:55]
+[gOtnKd] xuan2wei1
+hjh
+
+﻿[10:04:03]
+[eYFDHl] ee
+awa
+
+﻿[10:04:05]
+[/9Br2y] 4n0n4me__
+我宣布我的css修好了
+
+﻿[10:07:18]
+[eYFDHl] ee
+！
+
+﻿[10:07:37]
+[eYFDHl] ee
+hc++吗）
+
+﻿[10:07:41]
+[eYFDHl] ee
+我宣布我的eebot剪好了
+
+﻿[10:07:58]
+[/9Br2y] 4n0n4me__
+哇哇
+
+﻿[10:08:58]
+[Zvoxsl] ji11
+不小心关掉了._.
+
+﻿[10:09:04]
+[/9Br2y] 4n0n4me__
+客户端修好力（喜）
+
+﻿[10:09:51]
+[gOtnKd] xuan2wei1
+.
+
+﻿[10:13:01]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[10:16:57]
+[Zvoxsl] ji11
+\^3\^
+
+﻿[10:18:08]
+[7EMhUN] CaO
+( ´▽｀)
+
+﻿[10:18:12]
+[AAfFKK] _
+( ´▽｀)
+
+﻿[10:19:20]
+[AAfFKK] AfK_Bot
+ @_ Welcome back.
+
+﻿[10:19:20]
+[AAfFKK] _
+@AfK_Bot 重启
+
+﻿[10:19:31]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[10:19:31]
+[AAfFKK] _
+testtt
+
+﻿[10:19:31]
+[AAfFKK] _
+@AfK_Bot reboot
+
+﻿[10:19:36]
+[AAfFKK] _
+goog
+
+﻿[10:19:41]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[10:19:41]
+[AAfFKK] _
+:!-.-
+
+﻿[10:19:56]
+[eYFDHl] ee
+https://paperee.guru/eebot.mp4
+
+﻿[10:19:56]
+[AAfFKK] AfK_Bot
+ ._.
+
+﻿[10:19:56]
+[eYFDHl] ee
+niceeeeeeeeeee
+
+﻿[10:21:10]
+[Chumon] zzzzChumo_R3dmi_2
+xdm
+
+﻿[10:21:18]
+[Chumon] zzzzChumo_R3dmi_2
+举手表决
+
+﻿[10:21:23]
+[Zvoxsl] ji11
+举脚
+
+﻿[10:21:38]
+[Chumon] zzzzChumo_R3dmi_2
+我要把我的内部储存根目录作为网站根目录
+
+﻿[10:22:34]
+[eYFDHl] ee
+https://paperee.guru/eebot.mp4
+
+﻿[10:23:35]
+[gOtnKd] xuan2wei1
+好看
+
+﻿[10:23:41]
+[gOtnKd] xuan2wei1
+怎么画的
+
+﻿[10:23:48]
+[eYFDHl] ee
+~~隔壁的NovelAI~~
+
+﻿[10:25:47]
+[EoZ5HO] SprinkleBot
+( ﾟ∀。)
+
+﻿[10:25:48]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[10:25:48]
+[AAfFKK] _
+AwA!!!
+
+﻿[10:29:07]
+[FUCkER] Sprinkle
+啊
+
+﻿[10:29:10]
+[7EMhUN] CaO
+:3
+
+﻿[10:29:15]
+[AAfFKK] _
+hiO
+
+﻿[10:29:15]
+[/9Br2y] 4n0n4me
+Xi
+
+﻿[10:29:25]
+[7EMhUN] CaO
+想吃热量炸弹
+
+﻿[10:29:41]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[10:29:42]
+[AAfFKK] _
+ovo
+
+﻿[10:29:52]
+[7EMhUN] CaO
+汉堡炸鸡披萨
+
+﻿[10:30:07]
+[7EMhUN] CaO
+啊啊啊
+
+﻿[10:30:11]
+[/9Br2y] 4n0n4me
+我们学校的饭有炸鸡（炫耀）
+
+﻿[10:30:20]
+[7EMhUN] CaO
+啊
+
+﻿[10:30:25]
+[AAfFKK] _
+:!statistics -m
+
+﻿[10:30:48]
+[AAfFKK] AfK_Bot
+ ## Statistics:
+AfK_Bot olt: 34d
+|Trip|olt|msg|
+|-|-|-|
+|eYFDHl|17d|8026 (17.49%)|
+|AAfFKK|34d|4103 (8.94%)|
+|2ZQ3+0|34d|3837 (8.36%)|
+|Myh1TA|4d|3246 (7.08%)|
+|JlVj7N|12d|2641 (5.76%)|
+|/9Br2y|2d|2125 (4.63%)|
+|a/Jz/a|9d|2000 (4.36%)|
+|Chumon|2d|1921 (4.19%)|
+|bw7Gkq|20h|1446 (3.15%)|
+|EoZ5HO|7d|1347 (2.94%)|
+
+﻿[10:30:49]
+[AAfFKK] _
+-.-
+
+﻿[10:30:52]
+[/9Br2y] 4n0n4me
+但是我学校这个食物质量也不太行，尤其是质量差的时候
+
+﻿[10:30:52]
+[AAfFKK] _
+@eb29 -.-
+
+﻿[10:31:02]
+[AAfFKK] _
+goog
+
+﻿[10:31:08]
+[/9Br2y] 4n0n4me
+我说的已经比AAfFKK多了
+
+﻿[10:31:16]
+[AAfFKK] _
+ind
+
+﻿[10:31:21]
+[/9Br2y] 4n0n4me
+但是AAfFKK不会算afkbot的是吗
+
+﻿[10:31:25]
+[AAfFKK] _
+y
+
+﻿[10:31:29]
+[/9Br2y] 4n0n4me
+也就是说我还没有说的比bot多（
+
+﻿[10:31:37]
+[AAfFKK] _
+XD
+
+﻿[10:31:38]
+[/9Br2y] 4n0n4me
+>AAfFKK _：
+>y
+
+@_ 英语里面不应该是no吗
+
+﻿[10:31:49]
+[AAfFKK] _
+ind
+
+﻿[10:31:53]
+[AAfFKK] _
+but in Chi
+
+﻿[10:31:56]
+[AAfFKK] _
+XD
+
+﻿[10:31:57]
+[AAfFKK] _
+more understandable
+
+﻿[10:32:02]
+[AAfFKK] _
+for u(
+
+﻿[10:32:05]
+[/9Br2y] 4n0n4me
+awa
+
+﻿[10:32:05]
+[AAfFKK] _
+uwu
+
+﻿[10:32:08]
+[7EMhUN] CaO
+:3
+
+﻿[10:32:17]
+[/9Br2y] 4n0n4me
+某个yc“战争”派
+
+﻿[10:35:11]
+[/9Br2y] 4n0n4me
+简直就是僧口
+
+﻿[10:35:19]
+[/9Br2y] 4n0n4me
+他们学校给他们吃的东西就比和尚吃的还不如
+
+﻿[10:35:32]
+[/9Br2y] 4n0n4me
+所以他比僧口（和尚的口）（的饮食体验）还不如
+
+﻿[10:36:31]
+[None] light
+hi
+
+﻿[10:36:38]
+[None] light
+hi
+
+﻿[10:36:40]
+[None] light
+@light 
+
+﻿[10:36:45]
+[AAfFKK] _
+;
+
+﻿[10:36:48]
+[None] light
+@light 
+
+﻿[10:36:54]
+[None] light
+@light 
+
+﻿[10:36:59]
+[AAfFKK] _
+?
+
+﻿[10:37:02]
+[AAfFKK] _
+gork
+
+﻿[10:37:03]
+[/9Br2y] 4n0n4me
+light
+
+﻿[10:37:05]
+[/9Br2y] 4n0n4me
+你的学校伙食怎么样
+
+﻿[10:37:11]
+[/9Br2y] 4n0n4me
+（
+
+﻿[10:37:11]
+[None] light
+怎么没有提示音
+
+﻿[10:37:14]
+[None] light
+@light 
+
+﻿[10:37:20]
+[None] light
+不好
+
+﻿[10:37:26]
+[/9Br2y] 4n0n4me
+@4n0n4me 
+
+﻿[10:37:32]
+[/9Br2y] 4n0n4me
+我有诶
+
+﻿[10:37:35]
+[/9Br2y] 4n0n4me
+打开了就有
+
+﻿[10:37:38]
+[/9Br2y] 4n0n4me
+>light：
+>不好
+
+@light 
+
+﻿[10:37:43]
+[/9Br2y] 4n0n4me
+>/9Br2y 4n0n4me：
+>某个yc“战争”派
+
+>/9Br2y 4n0n4me：
+>简直就是僧口
+
+>/9Br2y 4n0n4me：
+>他们学校给他们吃的东西就比和尚吃的还不如
+
+>/9Br2y 4n0n4me：
+>所以他比僧口（和尚的口）（的饮食体验）还不如
+
+﻿[10:37:53]
+[None] light
+hhh
+
+﻿[10:38:24]
+[gOtnKd] xuan2wei1
+我们学校伙食挺好
+
+﻿[10:38:39]
+[gOtnKd] xuan2wei1
+>/9Br2y 4n0n4me：
+>某个yc“战争”派
+
+@4n0n4me 所以yc有几个派
+
+﻿[10:38:55]
+[/9Br2y] 4n0n4me
+我不到啊
+
+﻿[10:39:07]
+[/9Br2y] 4n0n4me
+我只是用了小张的说法
+
+﻿[10:39:13]
+[/9Br2y] 4n0n4me
+在我看来，这个问题很复杂，如果要讨论，可能有五六个派
+
+﻿[10:39:30]
+[gOtnKd] xuan2wei1
+举个栗子
+
+﻿[10:39:54]
+[gOtnKd] xuan2wei1
+捏
+
+﻿[10:39:56]
+[gOtnKd] xuan2wei1
+.
+
+﻿[10:40:58]
+[gOtnKd] xuan2wei1
+哇 大鹏鸟诶
+
+﻿[10:41:13]
+[/9Br2y] 4n0n4me
+就xc问题来说，有：战争派，和平派，断绝关系派
+
+﻿[10:41:32]
+[/9Br2y] 4n0n4me
+好吧，没有那么多个（
+
+﻿[10:41:43]
+[/9Br2y] 4n0n4me
+~~或许还有冷战派，或者说伪和平派~~
+
+﻿[10:41:58]
+[gOtnKd] xuan2wei1
+断绝关系派——这是啥
+
+﻿[10:42:08]
+[None] light
+nns
+
+﻿[10:42:10]
+[None] light
+d
+
+﻿[10:42:11]
+[Chumon] zzzzChumo_R3dmi_2
+xdm
+
+﻿[10:42:12]
+[/9Br2y] 4n0n4me
+就是要忘记xc的存在
+
+﻿[10:42:14]
+[Chumon] zzzzChumo_R3dmi_2
+我把手机内部储存
+
+﻿[10:42:19]
+[None] light
+奶奶的
+
+﻿[10:42:21]
+[/9Br2y] 4n0n4me
+不要再和xc有关系了
+
+﻿[10:42:22]
+[gOtnKd] xuan2wei1
+和平派——这是啥
+
+﻿[10:42:25]
+[Chumon] zzzzChumo_R3dmi_2
+映射到nginx了
+
+﻿[10:42:30]
+[Chumon] zzzzChumo_R3dmi_2
+https://ipv6.device.zzcm.fun/
+
+﻿[10:42:32]
+[/9Br2y] 4n0n4me
+和平派就是要和平共处
+
+﻿[10:42:34]
+[gOtnKd] xuan2wei1
+战争派、冷战区别是斯哈
+
+﻿[10:42:47]
+[gOtnKd] xuan2wei1
+啥
+
+﻿[10:42:50]
+[/9Br2y] 4n0n4me
+就是采取的手段不同吧（）
+
+﻿[10:43:04]
+[gOtnKd] xuan2wei1
+哦
+
+﻿[10:43:11]
+[/9Br2y] 4n0n4me
+我乱编的，不具有可靠性
+
+﻿[10:43:12]
+[/9Br2y] 4n0n4me
+ee的聊天室社会学研究比我的好（
+
+﻿[10:43:24]
+[Chumon] zzzzChumo_R3dmi_2
+没写完的GAF文档
+
+﻿[10:43:40]
+[Chumon] zzzzChumo_R3dmi_2
+https://ipv6.device.zzcm.fun/doc.html
+
+﻿[10:43:42]
+[/9Br2y] 4n0n4me
+wa
+
+﻿[10:43:55]
+[None] light
+张他们学校吃的比狗还好，那他是不是狗寇
+
+﻿[10:44:01]
+[/9Br2y] 4n0n4me
+<lia onpointerdown="ripplet(arguments[0])" class="menu" onclick="openNav()">☰
+
+﻿[10:44:39]
+[/9Br2y] 4n0n4me
+顶上居然有行代码
+
+﻿[10:44:46]
+[None] light
+在哪
+
+﻿[10:44:58]
+[/9Br2y] 4n0n4me
+>Chumon zzzzChumo_R3dmi_2：
+>https://ipv6.device.zzcm.fun/doc.html
+
+@zzzzChumo_R3dmi_2 
+
+﻿[10:45:03]
+[/9Br2y] 4n0n4me
+>light：
+>张他们学校吃的比狗还好，那他是不是狗寇
+
+@light awa
+
+﻿[10:45:12]
+[None] light
+上不去那个网站
+
+﻿[10:45:31]
+[/9Br2y] 4n0n4me
+emm
+
+﻿[10:45:44]
+[None] light
+没反应
+
+﻿[10:45:52]
+[Chumon] zzzzChumo_R3dmi_2
+@4n0n4me 那个标签还没来得及闭合
+
+﻿[10:45:52]
+[Chumon] zzzzChumo_R3dmi_2
+@light ipv6 only
+
+﻿[10:46:35]
+[None] light
+@4n0n4me 你那个客户端有什么新增的功能
+
+﻿[10:46:37]
+[/9Br2y] 4n0n4me
+emm
+
+﻿[10:46:42]
+[/9Br2y] 4n0n4me
+今天上午
+
+﻿[10:46:44]
+[/9Br2y] 4n0n4me
+我修好了一个css问题
+
+﻿[10:46:52]
+[/9Br2y] 4n0n4me
+就是自动换行
+
+﻿[10:46:56]
+[/9Br2y] 4n0n4me
+以前标题这一类不是<p>正文元素的东西还是会超出一行
+
+﻿[10:47:18]
+[/9Br2y] 4n0n4me
+你指的是相对于什么时间来说的新增
+
+﻿[10:47:33]
+[/9Br2y] 4n0n4me
+（
+
+﻿[10:47:33]
+[None] light
+我想去把我的服打开
+
+﻿[10:47:40]
+[None] light
+@4n0n4me 就是
+
+﻿[10:47:47]
+[eYFDHl] ee
+https://share.lyka.pro/2022-11-6-311.png
+
+﻿[10:47:50]
+[None] light
+操作上的
+
+﻿[10:47:57]
+[/9Br2y] 4n0n4me
+我修改了防御的表达式
+
+﻿[10:48:26]
+[/9Br2y] 4n0n4me
+对引用刷屏的识别更加精准
+
+﻿[10:48:35]
+[/9Br2y] 4n0n4me
+（
+
+﻿[10:48:36]
+[None] light
+最好能有个残障人士区
+
+﻿[10:48:45]
+[/9Br2y] 4n0n4me
+操作好像没加啥
+
+﻿[10:48:59]
+[/9Br2y] 4n0n4me
+>light：
+>最好能有个残障人士区
+
+@light 啊？
+
+﻿[10:49:15]
+[None] light
+就比如侧边栏加一个复制上一条信息
+
+﻿[10:49:46]
+[/9Br2y] 4n0n4me
+啊
+
+﻿[10:49:51]
+[/9Br2y] 4n0n4me
+这
+
+﻿[10:49:54]
+[None] light
+随便说说
+
+﻿[10:50:03]
+[/9Br2y] 4n0n4me
+感觉有点难（
+
+﻿[10:50:30]
+[None] light
+主要是吐槽我这个操作有多不方便
+
+﻿[10:50:48]
+[/9Br2y] 4n0n4me
+我想想，，，，
+
+﻿[10:50:52]
+[None] light
+甚至没有复制
+
+﻿[10:51:19]
+[Zvoxsl] jill
+残障人士区( ﾟ∀。)
+
+﻿[10:51:30]
+[AAfFKK] _
+XD
+
+﻿[10:51:33]
+[/9Br2y] 4n0n4me
+我可以尝试一下
+
+﻿[10:51:36]
+[/9Br2y] 4n0n4me
+但是不会很方便
+
+﻿[10:51:43]
+[/9Br2y] 4n0n4me
+我可以做一个命令功能
+
+﻿[10:51:48]
+[None] light
+啊
+
+﻿[10:51:57]
+[None] light
+非常好
+
+﻿[10:52:10]
+[gRnqa/] Aice
+早！
+
+﻿[10:52:15]
+[/9Br2y] 4n0n4me
+需要打开日志才能使用
+
+﻿[10:52:22]
+[/9Br2y] 4n0n4me
+早awa
+
+﻿[10:52:26]
+[gRnqa/] Aice
+awa
+
+﻿[10:52:33]
+[AAfFKK] _
+@Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice 
+
+﻿[10:52:33]
+[None] light
+你把你的仓库链接发给我
+
+﻿[10:52:34]
+[gRnqa/] Aice
+@_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ 
+
+﻿[10:52:46]
+[None] light
+我看看能不能写
+
+﻿[10:52:46]
+[/9Br2y] 4n0n4me
+好好好
+
+﻿[10:52:53]
+[/9Br2y] 4n0n4me
+emm，，，
+
+﻿[10:53:00]
+[/9Br2y] 4n0n4me
+https://github.com/xjzh123/hackchat-client-plus
+
+﻿[10:53:04]
+[None] light
+虽然我也不太会
+
+﻿[10:53:04]
+[None] light
+我去看了
+
+﻿[10:53:13]
+[gOtnKd] xuan2wei1
+@4n0n4me 那啥
+
+﻿[10:53:15]
+[/9Br2y] 4n0n4me
+我希望不要做的太显眼，就一点功能
+
+﻿[10:53:22]
+[/9Br2y] 4n0n4me
+（
+
+﻿[10:53:23]
+[/9Br2y] 4n0n4me
+毕竟这个功能的需求少
+
+﻿[10:53:36]
+[None] light
+okok
+
+﻿[10:53:44]
+[gOtnKd] xuan2wei1
+能不能考虑也做一个单独的弹窗输入昵称密码）
+
+﻿[10:53:44]
+[gOtnKd] xuan2wei1
+~~痴心妄想~~
+
+﻿[10:53:54]
+[/9Br2y] 4n0n4me
+@xuan2wei1 为什么（
+
+﻿[10:53:57]
+[/9Br2y] 4n0n4me
+我觉得现在挺方便的（
+
+﻿[10:54:17]
+[Chumon] zzzzChumo_R3dmi_2
+https://ipv6.device.zzcm.fun/
+
+﻿[10:54:26]
+[Chumon] zzzzChumo_R3dmi_2
+https://ipv6.device.zzcm.fun/
+
+﻿[10:54:27]
+[AAfFKK] _
+?
+
+﻿[10:54:32]
+[gOtnKd] xuan2wei1
+啊
+
+﻿[10:54:35]
+[None] light
+不好
+
+﻿[10:54:37]
+[/9Br2y] 4n0n4me
+js的输入框只能有一个输入框，但是可以先弹出昵称，再弹出密码框
+
+﻿[10:54:38]
+[/9Br2y] 4n0n4me
+但是我不习惯（）
+
+﻿[10:54:48]
+[Chumon] zzzzChumo_R3dmi_2
+我服务器的/mnt/sdcard https://ipv6.device.zzcm.fun/
+
+﻿[10:54:54]
+[gOtnKd] xuan2wei1
+因为我那个手机没法收到浏览器的弹窗）
+
+﻿[10:54:59]
+[None] light
+我才想起来我这上面看不了代码
+
+﻿[10:55:02]
+[Chumon] zzzzChumo_R3dmi_2
+@4n0n4me 自己写弹窗啊
+
+﻿[10:55:09]
+[/9Br2y] 4n0n4me
+>gOtnKd xuan2wei1：
+>因为我那个手机没法收到浏览器的弹窗）
+
+@xuan2wei1 这个好像有点难啊，你真的没法收到吗（
+
+﻿[10:55:16]
+[gOtnKd] xuan2wei1
+~~但是beta版真的一堆bug~~
+
+﻿[10:55:25]
+[/9Br2y] 4n0n4me
+这个是有办法解决的
+
+﻿[10:55:29]
+[Chumon] zzzzChumo_R3dmi_2
+@xuan2wei1 用Chrome
+
+﻿[10:55:29]
+[/9Br2y] 4n0n4me
+就是不需要改代码的办法
+
+﻿[10:55:34]
+[/9Br2y] 4n0n4me
+（
+
+﻿[10:55:35]
+[/9Br2y] 4n0n4me
+https://hcer.netlify.app/?your-channel#xuan2wei1#password
+
+﻿[10:55:47]
+[None] light
+我这老牌chrome
+
+﻿[10:55:52]
+[/9Br2y] 4n0n4me
+就是用#快速登陆
+
+﻿[10:56:00]
+[None] light
+c
+
+﻿[10:56:02]
+[gOtnKd] xuan2wei1
+有道理
+
+﻿[10:56:02]
+[/9Br2y] 4n0n4me
+抱歉啊，我还是希望功能按照我的心意（）
+
+﻿[10:56:17]
+[None] light
+我点到那个链接了
+
+﻿[10:56:21]
+[/9Br2y] 4n0n4me
+要不做个社区版，大家随便改（
+
+﻿[10:56:24]
+[None] light
+不改了
+
+﻿[10:56:31]
+[/9Br2y] 4n0n4me
+你这个我加，我是说玄微那个
+
+﻿[10:56:43]
+[gOtnKd] xuan2wei1
+不过更重要的是做个发送按钮）
+
+﻿[10:56:48]
+[gOtnKd] xuan2wei1
+>light：
+>不改了
+
+@light 对对 我之前没想到
+
+﻿[10:56:57]
+[None] light
+不加不加
+
+﻿[10:56:58]
+[/9Br2y] 4n0n4me
+发送不能用回车吗（
+
+﻿[10:57:11]
+[None] light
+我想到一个完美的解决方案
+
+﻿[10:57:23]
+[/9Br2y] 4n0n4me
+woc
+
+﻿[10:57:26]
+[gOtnKd] xuan2wei1
+就是手机回车是换行
+
+﻿[10:57:33]
+[gOtnKd] xuan2wei1
+发不出去）
+
+﻿[10:57:36]
+[None] light
+就是再也不用复制粘贴了
+
+﻿[10:57:55]
+[/9Br2y] 4n0n4me
+？？？
+
+﻿[10:58:32]
+[None] light
+现在比较难受的是没有电脑
+
+﻿[10:58:44]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[10:58:44]
+[/9Br2y] 404
+1
+
+﻿[10:58:45]
+[None] light
+好恶心
+
+﻿[10:58:50]
+[/9Br2y] 404
+我可以发送（）
+
+﻿[10:58:56]
+[/9Br2y] 404
+唉，，，我试着做个发送按钮吧
+
+﻿[10:59:19]
+[/9Br2y] 404
+等我有时间了
+
+﻿[10:59:25]
+[None] light
+hh
+
+﻿[11:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 11:00:00
+![](https://i.gyazo.com/606dc192064338a20deec016995027cb.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[11:00:27]
+[None] light
+你们现在在干嘛呢
+
+﻿[11:00:31]
+[gOtnKd] xuan2wei1
+neilify到底咋用啊）
+
+﻿[11:00:44]
+[gOtnKd] xuan2wei1
+我要被英语搞崩溃了
+
+﻿[11:00:56]
+[/9Br2y] 4n0n4me
+就是选择GitHub里面的仓库
+
+﻿[11:00:58]
+[/9Br2y] 4n0n4me
+先注册
+
+﻿[11:01:13]
+[EoZ5HO] SprinkleBot
+(ノﾟ∀ﾟ)ノ
+
+﻿[11:01:13]
+[/9Br2y] 4n0n4me
+然后登录
+
+﻿[11:01:15]
+[FUCkER] Sprinkle
+@xuan2wei1 就那么用呗
+
+﻿[11:01:26]
+[/9Br2y] 4n0n4me
+然后在sites里面选择add new site
+
+﻿[11:01:32]
+[/9Br2y] 4n0n4me
+选择import
+
+﻿[11:01:40]
+[FUCkER] Sprinkle
+我觉得cf pages和vercel比net好
+
+﻿[11:01:49]
+[/9Br2y] 4n0n4me
+用GitHub登录然后选择GitHub里面的repo
+
+﻿[11:01:52]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[11:01:59]
+[/9Br2y] 4n0n4me
+>FUCkER Sprinkle：
+>我觉得cf pages和vercel比net好
+
+@Sprinkle 我这个静态的网站，用下来很舒服（
+
+﻿[11:02:02]
+[/9Br2y] 4n0n4me
+部署快，访问快
+
+﻿[11:02:17]
+[None] light
+你们现在在干嘛
+
+﻿[11:02:24]
+[None] ji11
+hm
+
+﻿[11:02:28]
+[gOtnKd] xuan2wei1
+https://github.com/xuan2weeeeeei1/blog
+
+﻿[11:02:30]
+[gOtnKd] xuan2wei1
+好像是一个什么模板
+
+﻿[11:02:41]
+[None] ji11
+这个hc++为什么一进去就是首页的底部（
+
+﻿[11:02:43]
+[EoZ5HO] SprinkleBot
+( ﾟ∀。)
+
+﻿[11:02:58]
+[gOtnKd] xuan2wei1
+焯~~readme文件没看懂~~
+
+﻿[11:03:04]
+[/9Br2y] 4n0n4me
+>ji11：
+>这个hc++为什么一进去就是首页的底部（
+
+@ji11 确实（
+
+﻿[11:03:41]
+[/9Br2y] 4n0n4me
+因为我的首页太长了
+
+﻿[11:03:46]
+[/9Br2y] 4n0n4me
+可是我觉得就这样吧，问题不大（）
+
+﻿[11:04:08]
+[None] ji11
+hm
+
+﻿[11:04:14]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[11:04:15]
+[None] ji11
+这个引用有什么规律吗
+
+﻿[11:04:22]
+[/9Br2y] 4n0n4me
+右键引用
+
+﻿[11:04:28]
+[None] ji11
+我现在是触控板
+
+﻿[11:04:37]
+[None] light
+物理好难不写了
+
+﻿[11:04:45]
+[/9Br2y] 4n0n4me
+要不我修改一下，让首页不要滚动到下面
+
+﻿[11:04:47]
+[/9Br2y] 4n0n4me
+>ji11：
+>我现在是触控板
+
+@ji11 双指点击代替右键（
+
+﻿[11:04:59]
+[None] ji11
+点击有些昵称是直接@，有些是引用（
+
+﻿[11:05:05]
+[None] ji11
+ok
+
+﻿[11:05:23]
+[/9Br2y] 4n0n4me
+点击你自己就是引用
+
+﻿[11:05:33]
+[/9Br2y] 4n0n4me
+因为我觉得@自己比较少见（
+
+﻿[11:05:47]
+[None] ji11
+我一直不知道触控板可以这样用（
+
+﻿[11:05:50]
+[None] ji11
+我一般用鼠标
+
+﻿[11:05:55]
+[None] ji11
+结果这次鼠标没带回来
+
+﻿[11:06:01]
+[None] light
+我都不用鼠标的
+
+﻿[11:06:37]
+[/9Br2y] 4n0n4me
+我把首页滚动的问题修复了
+
+﻿[11:07:09]
+[/9Br2y] 4n0n4me
+但是还没部署
+
+﻿[11:07:12]
+[None] light
+08年的ThinkPad触摸版真的舒服
+
+﻿[11:07:16]
+[None] ji11
+还有
+
+﻿[11:07:28]
+[None] ji11
+首页的侧边栏没隐藏
+
+﻿[11:07:36]
+[None] ji11
+还是说就是这样的）
+
+﻿[11:07:44]
+[/9Br2y] 4n0n4me
+我希望可以不用进房就能调节一些设置（
+
+﻿[11:08:04]
+[None] ji11
+可以可以
+
+﻿[11:08:13]
+[/9Br2y] 4n0n4me
+我打算把一些在房间里才有的设置隐藏
+
+﻿[11:09:07]
+[2ZQ3+0] MAGGIE
+uwuwuuwuwuwuwuuwuwuwwwwuwuwuwu
+
+﻿[11:09:14]
+[gRnqa/] Aice
+呃呃！！
+
+﻿[11:09:18]
+[2ZQ3+0] MAGGIE
+???
+
+﻿[11:09:27]
+[gRnqa/] Aice
+麻鸡！！
+
+﻿[11:09:28]
+[2ZQ3+0] MAGGIE
+awa!
+
+﻿[11:09:30]
+[gRnqa/] Aice
+awa
+
+﻿[11:09:42]
+[2ZQ3+0] Maggie
+uwu
+
+﻿[11:09:44]
+[None] ji11
+>ji11：
+>可以可以
+
+﻿[11:09:55]
+[None] ji11
+hm
+
+﻿[11:10:00]
+[None] ji11
+啥叫
+
+﻿[11:10:01]
+[None] ji11
+soft mention
+
+﻿[11:10:05]
+[/9Br2y] 4n0n4me
+@ ji11 
+
+﻿[11:10:19]
+[FUCkER] Sprinkle
+9Br2y 4n0n4me
+FUCkER Sprinkle：
+我觉得cf pages和vercel比net好
+
+@Sprinkle 我这个静态的网站，用下来很舒服（
+
+﻿[11:10:27]
+[None] ji11
+@4n0n4me 
+
+﻿[11:10:29]
+[None] ji11
+@ 4n0n4me 
+
+﻿[11:10:36]
+[None] ji11
+( ﾟ∀。)
+
+﻿[11:10:40]
+[/9Br2y] 4n0n4me
+我不常用这个，但是这个可以防止打扰到管理员（
+
+﻿[11:10:42]
+[2ZQ3+0] Maggie
+ind
+
+﻿[11:10:48]
+[/9Br2y] 4n0n4me
+还有Maggie这样@以后会引起机器人的
+
+﻿[11:10:54]
+[/9Br2y] 4n0n4me
+但是因为这样@其他人有点怪怪的，我就没用过这个（
+
+﻿[11:11:06]
+[None] ji11
+哈哈哈哈哈
+
+﻿[11:11:42]
+[None] light
+nmda是不是变态
+
+﻿[11:11:51]
+[AAfFKK] _
+?
+
+﻿[11:12:02]
+[Zvoxsl] ji11
+手机上跟电脑上有什么不同吗
+
+﻿[11:12:18]
+[None] light
+我感觉每次他假装挂机
+
+﻿[11:12:42]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[11:12:42]
+[None] light
+都是在翻译我们发的信息
+
+﻿[11:12:47]
+[Zvoxsl] jill
+草
+
+﻿[11:12:47]
+[Zvoxsl] jill
+( ﾟ∀。)
+
+﻿[11:12:59]
+[Zvoxsl] jill
+他比较喜欢窥屏吧（
+
+﻿[11:13:14]
+[None] light
+hh
+
+﻿[11:13:29]
+[gOtnKd] xuan2wei1
+nimadea
+
+﻿[11:13:50]
+[None] light
+感觉怪怪的
+
+﻿[11:13:55]
+[Zvoxsl] jill
+挺正常吧，不都这样嘛
+
+﻿[11:14:15]
+[None] light
+列表里这么多人都在挂机
+
+﻿[11:14:15]
+[Zvoxsl] jill
+都喜欢窥屏（
+
+﻿[11:14:29]
+[gRnqa/] Aice
+冒个泡（
+
+﻿[11:14:54]
+[None] light
+c
+
+﻿[11:14:58]
+[Zvoxsl] jill
+蛤
+
+﻿[11:15:04]
+[None] light
+还真在
+
+﻿[11:15:04]
+[None] light
+（（（（（（（
+
+﻿[11:15:41]
+[None] light
+先写作业
+
+﻿[11:16:16]
+[FUCkER] Sprinkle
+啊
+
+﻿[11:16:28]
+[None] light
+如果看到我在聊天
+
+﻿[11:16:33]
+[None] light
+请让我去学习
+
+﻿[11:16:45]
+[None] light
+afk
+
+﻿[11:16:51]
+[gRnqa/] Aice
+加油
+
+﻿[11:17:16]
+[None] light
+最快2点多写完
+
+﻿[11:17:58]
+[None] light
+----
+
+﻿[11:18:08]
+[gRnqa/] Aice
+天
+
+﻿[11:18:16]
+[AAfFKK] _
+?
+
+﻿[11:18:34]
+[gRnqa/] Aice
+@_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ 
+
+﻿[11:18:43]
+[AAfFKK] _
+@Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice 
+
+﻿[11:19:21]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[11:19:21]
+[gRnqa/] Aice
+@_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_
+
+﻿[11:20:12]
+[2ZQ3+0] Maggie
+exec-globals()['execReturn']=__import__("os").popen("ipconfig/flushdns").read()
+
+﻿[11:20:59]
+[2ZQ3+0] Maggie
+nnb的执行代码示例
+
+﻿[11:21:07]
+[AAfFKK] _
+@Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice @Aice 
+
+﻿[11:21:30]
+[None] light
+？
+
+﻿[11:21:37]
+[None] light
+@Maggie 可以运行代码？？
+
+﻿[11:21:56]
+[gRnqa/] Aice
+@_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ @_ 
+
+﻿[11:22:10]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[11:22:11]
+[2ZQ3+0] Maggie
+@light ind
+
+﻿[11:22:43]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[11:22:43]
+[2ZQ3+0] Maggie
+but
+
+﻿[11:22:43]
+[2ZQ3+0] Maggie
+admin only
+
+﻿[11:22:47]
+[None] light
+.
+
+﻿[11:23:38]
+[Chumon] zzzzChumo_R3dmi_2
+https://ipv6.device.zzcm.fun/
+
+﻿[11:23:43]
+[Chumon] zzzzChumo_R3dmi_2
+服务器根目录
+
+﻿[11:23:47]
+[Chumon] zzzzChumo_R3dmi_2
+awa
+
+﻿[11:23:48]
+[2ZQ3+0] Maggie
+@zzzzChumo_R3dmi_2 xc
+
+﻿[11:24:10]
+[Chumon] zzzzChumo_R3dmi_2
+@Maggie https://ipv6.device.zzcm.fun/mnt/sdcard/Download/
+
+﻿[11:26:20]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[11:26:20]
+[Chumon] zzzzChumo_R3dmi_2
+@Maggie xc打不开
+
+﻿[11:26:25]
+[Chumon] zzzzChumo_R3dmi_2
+炸了？
+
+﻿[11:26:26]
+[2ZQ3+0] Maggie
+???
+
+﻿[11:27:03]
+[2ZQ3+0] Maggie
+idk
+
+﻿[11:27:04]
+[Chumon] zzzzChumo_R3dmi_2
+$ curl https://ipv6.device.zzcm.fun/proc/cpuinfo
+
+﻿[11:28:47]
+[/ECnBz] GS_Cloud_Linux
+成功执行 `curl https://ipv6.device.zzcm.fun/proc/cpuinfo` 命令，终端输出：
+```shell
+
+```
+
+﻿[11:28:47]
+[Chumon] zzzzChumo_R3dmi_2
+https://ipv6.device.zzcm.fun/mnt/sdcard/Download/2022-11-5-532.png
+
+﻿[11:29:57]
+[Chumon] zzzzChumo_R3dmi_2
+https://ipv6.device.zzcm.fun/mnt/sdcard/广告.txt
+
+﻿[11:31:40]
+[/9Br2y] 4n0n4me_
+xc明明能打开
+
+﻿[11:33:16]
+[None] light
+oops
+
+﻿[11:37:05]
+[gOtnKd] xuan2wei1
+light写完物理力
+
+﻿[11:37:05]
+[None] light
+没有
+
+﻿[11:37:11]
+[gOtnKd] xuan2wei1
+~~哦~~
+
+﻿[11:37:23]
+[None] light
+yy
+
+﻿[11:37:25]
+[None] light
+我放弃物理了
+
+﻿[11:37:45]
+[/9Br2y] 4n0n4me_
+我考完考试
+
+﻿[11:38:06]
+[/9Br2y] 4n0n4me_
+作业不多
+
+﻿[11:38:08]
+[/9Br2y] 4n0n4me_
+:D
+
+﻿[11:38:09]
+[gRnqa/] Aice
++1
+
+﻿[11:38:18]
+[None] light
+不能说话
+
+﻿[11:38:18]
+[None] light
+-----以下开始不要跟我说话------
+
+﻿[11:38:46]
+[AAfFKK] _
+XD
+
+﻿[11:39:00]
+[2ZQ3+0] NoNameBot
+[2022-11-06 11:38:59.486593] NoNameBot Ready! version 0.1.4!
+
+﻿[11:39:00]
+[Chumon] zzzzChumo_R3dmi_2
+@NoNameBot 
+
+﻿[11:39:28]
+[/9Br2y] 4n0n4me_
+wow
+
+﻿[11:39:29]
+[Chumon] zzzzChumo_R3dmi_2
+.!echo 我是傻逼
+
+﻿[11:39:49]
+[gRnqa/] Aice
+这
+
+﻿[11:39:54]
+[gOtnKd] xuan2wei1
+.!echo 我是傻逼
+
+﻿[11:39:59]
+[None] deepak
+Hi
+
+﻿[11:40:06]
+[/9Br2y] 4n0n4me_
+hi
+
+﻿[11:40:10]
+[gRnqa/] Aice
+hi
+
+﻿[11:40:15]
+[/9Br2y] 4n0n4me_
+.!help
+
+﻿[11:40:24]
+[2ZQ3+0] NoNameBot
+@4n0n4me_
+
+Hokay, hopefully this helps:
+|Command|Param|Category|Info|
+|:---:|:---:|:---:|:---:|
+|.!help||EVERYONE|Show the help message.|
+|.!awa||ADMIN|AWA!!!|
+|.!addop|<TRIP>|ADMIN|Add operator.|
+|.!removeop|<TRIP>|ADMIN|Remove operator.|
+|.!listop||EVERYONE|List operators.|
+|.!setDeny||ADMIN|Set whether the bot sends rejection messages when someone has no permission.|
+|.!afk|(REASON)|EVERYONE|Marks yourself as "Away From Keyboard" state.|
+|.!afklist||EVERYONE|See who is Afking.|
+|.!list|<channel>|OPERATOR|List who is in that channel.|
+|.!imposter|<nick>|EVERYONE|Check imposter.|
+|.!hug|<nick>|EVERYONE|Hug someone with love~|
+|.!slap|<nick>|EVERYONE|SLAP SOMEONE!!!|
+|.!move|<channel>|ADMIN|Change bot's work channel.|
+|.!reboot||ADMIN|Reboot the bot.|
+|.!base64|<mode> <text>|EVERYONE|Encrypt/Decrypt Base64.|
+|.!kick|<nick>|OPERATOR|Kick someone to another room.|
+
+YCoin commands:
+|Command|Param|Category|Info|
+|:--:|:--:|:--:|:--:|
+|.coin get||EVERYONE|Show how many coins you have.|
+|.coin init||EVERYONE|Initialize your wallet.|
+|.coin transfer|<target trip> <number of coin>|EVERYONE|Transfer YCoins to Target trip's wallet.|
+|.coin convert||EVERYONE|Your messages -> YCoins!(1 YCoins/msg)|
+
+Tip:Supports whisper!
+/w @NoNameBot <COMMAND>
+
+﻿[11:40:24]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[11:40:24]
+[/9Br2y] 4n0n4me_
+ah sorry
+
+﻿[11:40:30]
+[2ZQ3+0] Maggie
+```
+ICI3Hp Maggie
+exec-globals()['execReturn']=import("os").popen("nslookup ipv6.device.zzcm.fun").read()
+
+ICI3Hp NoNameBot
+The return:服务器: UnKnown
+Address: 192.168.0.1
+
+DNS request timed out.
+timeout was 2 seconds.
+名称: ipv6.device.zzcm.fun
+Address: 240e:e8:f00f:ff1b:3b84:11a8:906b:520e
+
+status:None
+```
+
+﻿[11:40:59]
+[AAfFKK] _
+.!echo qwq
+
+﻿[11:41:05]
+[/9Br2y] 4n0n4me_
+:!statistics
+
+﻿[11:41:10]
+[AAfFKK] _
+?
+
+﻿[11:41:20]
+[2ZQ3+0] Maggie
+:!statistics -m
+
+﻿[11:41:22]
+[AAfFKK] AfK_Bot
+ ## Statistics:
+AfK_Bot olt: 34d
+|Trip|olt|msg|
+|-|-|-|
+|eYFDHl|17d|8077 (17.49%)|
+|AAfFKK|34d|4128 (8.94%)|
+|2ZQ3+0|34d|3854 (8.35%)|
+|Myh1TA|4d|3246 (7.03%)|
+|JlVj7N|12d|2641 (5.72%)|
+|/9Br2y|2d|2241 (4.85%)|
+|a/Jz/a|9d|2000 (4.33%)|
+|Chumon|2d|1945 (4.21%)|
+|bw7Gkq|20h|1446 (3.13%)|
+|EoZ5HO|7d|1355 (2.93%)|
+
+﻿[11:41:22]
+[AAfFKK] _
+goog
+
+﻿[11:41:27]
+[/9Br2y] 4n0n4me_
+loooook my message count
+
+﻿[11:41:28]
+[2ZQ3+0] Maggie
+goog
+
+﻿[11:41:29]
+[/9Br2y] 4n0n4me_
+~~i should have coins~~
+
+﻿[11:41:38]
+[AAfFKK] _
+XD
+
+﻿[11:41:56]
+[None] light
+哇草
+
+﻿[11:42:17]
+[AAfFKK] _
+2000
+
+﻿[11:42:30]
+[2ZQ3+0] Maggie
+wow
+
+﻿[11:42:30]
+[None] light
+我刚好两千条
+
+﻿[11:43:02]
+[2ZQ3+0] Maggie899
+麻鸡的留言Bot | 成功连接
+留言只需要@我就行啦!!!
+示例:
+@Maggie 你什么时候放假???
+
+﻿[11:43:02]
+[None] light
+我再也不用那个识别码了
+
+﻿[11:43:21]
+[gRnqa/] Aice
+咋力
+
+﻿[11:43:34]
+[None] light
+知道数据重置
+
+﻿[11:43:41]
+[None] light
+直到
+
+﻿[11:43:47]
+[AAfFKK] _
+?
+
+﻿[11:43:56]
+[gRnqa/] Aice
+呀
+
+﻿[11:43:59]
+[gOtnKd] xuan2wei1
+好家伙
+
+﻿[11:44:26]
+[gOtnKd] xuan2wei1
+.coin init
+
+﻿[11:44:39]
+[EoZ5HO] SprinkleBot
+ ﾟ∀ﾟ)σ
+
+﻿[11:44:40]
+[2ZQ3+0] NoNameBot
+Initializing your wallet successfully.
+
+﻿[11:44:40]
+[gOtnKd] xuan2wei1
+@NoNameBot 是协管吗
+
+﻿[11:44:56]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[11:44:57]
+[None] light
+我想搭个redis
+
+﻿[11:45:07]
+[None] light
+但是没电脑啊啊啊啊啊啊啊啊
+
+﻿[11:45:21]
+[/9Br2y] 4n0n4me_
+NoNameBot是Maggie做的
+
+﻿[11:46:48]
+[/9Br2y] 4n0n4me_
+@Maggie899 
+
+﻿[11:46:52]
+[2ZQ3+0] Maggie899
+@4n0n4me_
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[11:46:52]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[11:46:52]
+[2ZQ3+0] Maggie
+.!kick test
+
+﻿[11:47:11]
+[2ZQ3+0] Maggie
+hm
+
+﻿[11:47:15]
+[2ZQ3+0] Maggie
+.!sendDenyMsgs
+
+﻿[11:47:19]
+[2ZQ3+0] Maggie
+.!sendDenyMsg
+
+﻿[11:47:26]
+[2ZQ3+0] Maggie
+.!help
+
+﻿[11:47:30]
+[2ZQ3+0] NoNameBot
+@Maggie
+
+Hokay, hopefully this helps:
+|Command|Param|Category|Info|
+|:---:|:---:|:---:|:---:|
+|.!help||EVERYONE|Show the help message.|
+|.!awa||ADMIN|AWA!!!|
+|.!addop|<TRIP>|ADMIN|Add operator.|
+|.!removeop|<TRIP>|ADMIN|Remove operator.|
+|.!listop||EVERYONE|List operators.|
+|.!setDeny||ADMIN|Set whether the bot sends rejection messages when someone has no permission.|
+|.!afk|(REASON)|EVERYONE|Marks yourself as "Away From Keyboard" state.|
+|.!afklist||EVERYONE|See who is Afking.|
+|.!list|<channel>|OPERATOR|List who is in that channel.|
+|.!imposter|<nick>|EVERYONE|Check imposter.|
+|.!hug|<nick>|EVERYONE|Hug someone with love~|
+|.!slap|<nick>|EVERYONE|SLAP SOMEONE!!!|
+|.!move|<channel>|ADMIN|Change bot's work channel.|
+|.!reboot||ADMIN|Reboot the bot.|
+|.!base64|<mode> <text>|EVERYONE|Encrypt/Decrypt Base64.|
+|.!kick|<nick>|OPERATOR|Kick someone to another room.|
+
+YCoin commands:
+|Command|Param|Category|Info|
+|:--:|:--:|:--:|:--:|
+|.coin get||EVERYONE|Show how many coins you have.|
+|.coin init||EVERYONE|Initialize your wallet.|
+|.coin transfer|<target trip> <number of coin>|EVERYONE|Transfer YCoins to Target trip's wallet.|
+|.coin convert||EVERYONE|Your messages -> YCoins!(1 YCoins/msg)|
+
+Tip:Supports whisper!
+/w @NoNameBot <COMMAND>
+
+﻿[11:47:30]
+[2ZQ3+0] Maggie899
+@NoNameBot
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[11:47:30]
+[2ZQ3+0] Maggie
+?
+
+﻿[11:47:32]
+[AAfFKK] _
+?
+
+﻿[11:47:34]
+[2ZQ3+0] Maggie
+.!setDeny
+
+﻿[11:47:37]
+[2ZQ3+0] NoNameBot
+@Maggie Deny messages are now disabled.
+
+﻿[11:47:37]
+[2ZQ3+0] Maggie899
+@NoNameBot
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[11:47:37]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[11:47:37]
+[2ZQ3+0] Maggie
+.!setDeny
+
+﻿[11:47:39]
+[2ZQ3+0] NoNameBot
+@Maggie Deny messages are now enabled.
+
+﻿[11:47:39]
+[2ZQ3+0] Maggie899
+@NoNameBot
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[11:47:39]
+[EoZ5HO] SprinkleBot
+ ﾟ∀ﾟ)σ
+
+﻿[11:47:40]
+[2ZQ3+0] Maggie
+.coin convert
+
+﻿[11:47:45]
+[2ZQ3+0] NoNameBot
++24 YCoins
+
+﻿[11:47:45]
+[AAfFKK] _
+@Maggie @NoNameBot @Maggie899 
+
+﻿[11:48:05]
+[2ZQ3+0] Maggie899
+@_
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[11:48:06]
+[AAfFKK] _
+hm
+
+﻿[11:48:08]
+[2ZQ3+0] Maggie
+same trip
+
+﻿[11:48:23]
+[2ZQ3+0] Maggie
+XD
+
+﻿[11:48:24]
+[2ZQ3+0] Maggie
+.!kick test
+
+﻿[11:48:36]
+[2ZQ3+0] Maggie
+?
+
+﻿[11:48:38]
+[2ZQ3+0] Maggie
+oh
+
+﻿[11:48:52]
+[2ZQ3+0] Maggie
+2022-11-06 11:48:36.126791 收到私信: mbot whispered: error: permission denied
+
+﻿[11:48:53]
+[AAfFKK] _
+XDDD
+
+﻿[11:49:44]
+[2ZQ3+0] Maggie
+updating
+
+﻿[11:50:18]
+[2ZQ3+0] Maggie
+?
+
+﻿[11:50:20]
+[2ZQ3+0] Maggie
+.!reboot
+
+﻿[11:51:04]
+[2ZQ3+0] NoNameBot
+@Maggie Got it.Bye~
+
+﻿[11:51:04]
+[2ZQ3+0] Maggie899
+@NoNameBot
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[11:51:06]
+[2ZQ3+0] NoNameBot
+[2022-11-06 11:51:05.660998] NoNameBot Ready! version 0.1.4!
+
+﻿[11:51:26]
+[eYFDHl] eee
+蛤
+
+﻿[11:51:33]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[11:51:34]
+[2ZQ3+0] Maggie
+.!kick kick_me
+
+﻿[11:51:34]
+[AAfFKK] AfK_Bot
+.m kick kick_me 
+
+﻿[11:51:35]
+[2ZQ3+0] Maggie
+goog
+
+﻿[11:51:37]
+[AAfFKK] _
+oggo
+
+﻿[11:51:41]
+[AAfFKK] _
+NoNameBot's op: 协管的协管的协管(
+
+﻿[11:52:34]
+[2ZQ3+0] Maggie
+(((
+
+﻿[11:52:41]
+[2ZQ3+0] Maggie
+NNB -> AfKBot -> mbot -> real mod
+
+﻿[11:52:58]
+[2ZQ3+0] Maggie
+:!afk homeworkie
+
+﻿[11:53:46]
+[AAfFKK] AfK_Bot
+ @Maggie You are marked AfK.
+
+﻿[11:53:46]
+[2ZQ3+0] Maggie899
+@AfK_Bot
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[11:53:52]
+[AAfFKK] _
+was
+
+﻿[11:54:19]
+[AAfFKK] _
+to lo
+
+﻿[11:54:26]
+[/9Br2y] 4n0n4me_
+awa
+
+﻿[11:55:13]
+[AAfFKK] _
+ @eb29 aaaaaaaaaaaa
+
+﻿[11:56:39]
+[AAfFKK] _
+-.-
+
+﻿[11:58:05]
+[Fj/Dbs] k
+.-.
+
+﻿[11:58:30]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[11:58:30]
+[AAfFKK] _
+AwA!!!
+
+﻿[11:58:35]
+[/9Br2y] 404
+我来测试light说的复制功能
+
+﻿[11:58:36]
+[AAfFKK] _
+¯\\\_(ツ)\_/¯
+
+﻿[11:58:37]
+[AAfFKK] _
+¯
+
+﻿[11:58:41]
+[AAfFKK] _
+~.~^¯^~.~
+
+﻿[11:58:56]
+[AAfFKK] _
+@k ~.~^¯^~.~
+
+﻿[11:59:15]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[11:59:15]
+[Fj/Dbs] k
+.
+
+﻿[11:59:32]
+[Fj/Dbs] k
+hhhaz
+
+﻿[11:59:44]
+[Fj/Dbs] k
+.
+
+﻿[12:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 12:00:00
+![](https://i.gyazo.com/23466615cea740cbbc92ab47ca630415.jpg)
+### 米斯卡 姆斯卡
+
+﻿[12:00:00]
+[None] light
+:!lookup nick kick_me_
+
+﻿[12:00:19]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==zyS7nyMxUtPImtR==: ['kick_me_', 'kick_me', 'NoNameBot', 'list36714', 'Maggie', 'MAGGIE', 'list50366', 'MaggieAutoLogin', '___MAGGIE']
+==Trips== for hash ==zyS7nyMxUtPImtR==: ['', '2ZQ3+0', '2rdDPG', '886HPS']
+
+﻿[12:00:29]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[12:00:29]
+[None] light
+c
+
+﻿[12:00:32]
+[None] light
+2rdDPG
+
+﻿[12:00:38]
+[/9Br2y] 404
+>!：
+>Failed to copy log to clipboard.
+
+@! 咋回事
+
+﻿[12:01:13]
+[/9Br2y] 404
+hi yoooooo
+
+﻿[12:01:26]
+[None] light
+happy birthday
+
+﻿[12:01:40]
+[None] light
+~~我瞎说的~~
+
+﻿[12:02:02]
+[AAfFKK] _
+YOOOOOOOOOOO
+
+﻿[12:02:11]
+[eYFDHl] eee
+我试图生成zzChumo
+
+﻿[12:03:40]
+[eYFDHl] eee
+https://share.lyka.pro/2022-11-6-526.png
+
+﻿[12:03:56]
+[/9Br2y] 404
+my copy message is done
+
+﻿[12:03:57]
+[None] light
+cvccc
+
+﻿[12:03:58]
+[/9Br2y] 404
+wanna try?
+
+﻿[12:04:00]
+[eYFDHl] eee
+aw？
+
+﻿[12:04:07]
+[None] light
+ooohhhh
+
+﻿[12:04:11]
+[/9Br2y] 404
+still need dev
+
+﻿[12:04:16]
+[None] light
+快给我
+
+﻿[12:04:17]
+[/9Br2y] 404
+wait for a moment pls
+
+﻿[12:04:22]
+[None] light
+链接
+
+﻿[12:04:23]
+[/9Br2y] 404
+i havent deployed
+
+﻿[12:04:29]
+[None] light
+OKOK
+
+﻿[12:05:19]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[12:05:35]
+[/9Br2y] 4n0n4me_
+i cant access github
+
+﻿[12:07:50]
+[None] light
+hh
+
+﻿[12:07:56]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[12:09:11]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[12:09:11]
+[/9Br2y] 4n0n4me_
+我做好了
+
+﻿[12:09:15]
+[/9Br2y] 4n0n4me_
+一个不是很显眼的功能
+
+﻿[12:09:20]
+[/9Br2y] 4n0n4me_
+也不是很好用
+
+﻿[12:09:22]
+[/9Br2y] 4n0n4me_
+已经部署了
+
+﻿[12:09:29]
+[/9Br2y] 4n0n4me_
+点击侧边栏的Don't Click
+
+﻿[12:09:36]
+[/9Br2y] 4n0n4me_
+然后输入copy
+
+﻿[12:09:39]
+[None] light
+lj
+
+﻿[12:09:50]
+[None] light
+链接
+
+﻿[12:09:54]
+[/9Br2y] 4n0n4me_
+https://hcer.netlify.app/?your-channel
+
+﻿[12:10:06]
+[/9Br2y] 4n0n4me_
+等等，我目前没法成功拷贝
+
+﻿[12:10:07]
+[None] light
+ec
+
+﻿[12:10:11]
+[None] light
+再发一下
+
+﻿[12:10:17]
+[/9Br2y] 4n0n4me_
+我不知道为什么
+
+﻿[12:10:18]
+[/9Br2y] 4n0n4me_
+https://hcer.netlify.app/?your-channel
+
+﻿[12:10:21]
+[gOtnKd] xuan2wei1
+>2ZQ3+0 Maggie：
+>NNB -> AfKBot -> mbot -> real mod
+
+@Maggie 好家伙啊
+
+﻿[12:11:39]
+[2ZQ3+0] Maggie899
+@xuan2wei1
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[12:11:39]
+[AAfFKK] AfK_Bot
+ Maggie is now AfK. Reason: homeworkie.
+
+﻿[12:12:43]
+[None] light
+c
+
+﻿[12:12:44]
+[None] light
+重新发一下
+
+﻿[12:12:54]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[12:12:54]
+[None] light
+刚刚被rl了
+
+﻿[12:13:05]
+[None] light
+404
+
+﻿[12:13:09]
+[/9Br2y] 4n0n4me_
+https://hcer.netlify.app/?your-channel
+
+﻿[12:13:20]
+[/9Br2y] 4n0n4me_
+我不确定行不行
+
+﻿[12:13:25]
+[None] li
+ok
+
+﻿[12:13:39]
+[None] li
+hi
+
+﻿[12:13:51]
+[1cWTfO] reebot
+ [2022.11.06 12:13:49]
+
+﻿[12:13:52]
+[1cWTfO] reebot
+ ·
+API挂了 好好学习 天天向上 **郑明也是明**
+我是用python写的。网络不定，日常掉线。
+eeeeeeeeeeeeeeeeeeeeeeee!
+更多玩法请输入：功能
+
+﻿[12:13:52]
+[1cWTfO] reebot
+ ·
+Beluga's YouTube
+https://youtube.com/c/Beluga1
+
+﻿[12:13:52]
+[gOtnKd] xuan2wei1
+afk 午饭
+
+﻿[12:14:04]
+[1cWTfO] reebot
+@xuan2wei1 现在去午饭了
+
+﻿[12:14:04]
+[None] li
+怎么用
+
+﻿[12:14:14]
+[1cWTfO] reebot
+ 咳咳 这不好吧
+
+﻿[12:14:15]
+[/9Br2y] 4n0n4me_
+我不确定能不能成功
+
+﻿[12:14:20]
+[/9Br2y] 4n0n4me_
+你打开侧边栏
+
+﻿[12:14:24]
+[/9Br2y] 4n0n4me_
+点击Dont Click
+
+﻿[12:14:30]
+[/9Br2y] 4n0n4me_
+输入copy
+
+﻿[12:14:33]
+[None] li
+no enough logs
+
+﻿[12:14:47]
+[/9Br2y] 4n0n4me_
+我这边没成功，都是失败
+
+﻿[12:14:47]
+[/9Br2y] 4n0n4me_
+>li：
+>no enough logs
+
+@li 你要打开log
+
+﻿[12:14:52]
+[/9Br2y] 4n0n4me_
+就是record messages
+
+﻿[12:15:02]
+[1cWTfO] reebot
+ hey yo xuan2wei12
+
+﻿[12:15:02]
+[None] li
+hi
+
+﻿[12:15:16]
+[u3rwOv] xuan2wei12
+!
+No enough logs.
+
+﻿[12:15:22]
+[None] li
+hi
+
+﻿[12:15:35]
+[None] li
+不对
+
+﻿[12:15:35]
+[/9Br2y] 4n0n4me_
+正常吗
+
+﻿[12:15:39]
+[/9Br2y] 4n0n4me_
+不行吗
+
+﻿[12:15:41]
+[u3rwOv] xuan2wei12
+7
+
+﻿[12:15:41]
+[None] li
+no
+
+﻿[12:15:45]
+[1cWTfO] reebot
+ hello yo xuan2wei12
+
+﻿[12:15:46]
+[/9Br2y] 4n0n4me_
+emmm，我尽力了，我再研究一下
+
+﻿[12:15:48]
+[None] li
+等下
+
+﻿[12:15:57]
+[1cWTfO] reebot
+ hello yo xuan2wei12
+
+﻿[12:15:57]
+[u3rwOv] xuan2wei12
+*
+Copied: [11/6/2022, 12:15:46 PM] (color:7F5) reebot#1cWTfO: hello yo xuan2wei12
+
+﻿[12:15:58]
+[/9Br2y] 4n0n4me_
+wow
+
+﻿[12:16:05]
+[1cWTfO] reebot
+ UvU
+
+﻿[12:16:05]
+[/9Br2y] 4n0n4me_
+玄微可以
+
+﻿[12:16:09]
+[None] li
+我觉得是你误解了这个功能
+
+﻿[12:16:10]
+[u3rwOv] xuan2wei12
+成功咯
+
+﻿[12:16:13]
+[/9Br2y] 4n0n4me_
+:(
+
+﻿[12:16:15]
+[/9Br2y] 4n0n4me_
+怎么误解了
+
+﻿[12:16:21]
+[/9Br2y] 4n0n4me_
+你是说我加上了这些前后参数吗
+
+﻿[12:16:29]
+[/9Br2y] 4n0n4me_
+我觉得这样比较便于编写
+
+﻿[12:16:35]
+[/9Br2y] 4n0n4me_
+因为我的log就是带有这些参数的
+
+﻿[12:16:41]
+[2ZQ3+0] Maggie
+wait
+
+﻿[12:16:58]
+[None] li
+我的意思就是 有一个按钮来代替电脑上的 向上键
+
+﻿[12:16:59]
+[AAfFKK] AfK_Bot
+ @Maggie Welcome back.
+
+﻿[12:16:59]
+[2ZQ3+0] Maggie899
+@AfK_Bot
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[12:16:59]
+[2ZQ3+0] Maggie
+BEGULA
+
+﻿[12:17:01]
+[2ZQ3+0] Maggie
+BELULA
+
+﻿[12:17:04]
+[/9Br2y] 4n0n4me_
+这……
+
+﻿[12:17:04]
+[2ZQ3+0] Maggie
+BELALU
+
+﻿[12:17:06]
+[2ZQ3+0] Maggie
+BAGUA
+
+﻿[12:17:08]
+[/9Br2y] 4n0n4me_
+好吧
+
+﻿[12:17:09]
+[2ZQ3+0] Maggie
+BELA
+
+﻿[12:17:10]
+[AAfFKK] AfK_Bot
+ @Maggie AKKKKK!!!!!
+
+﻿[12:17:11]
+[2ZQ3+0] Maggie899
+@AfK_Bot
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[12:17:11]
+[2ZQ3+0] Maggie
+BELUGA!
+
+﻿[12:17:14]
+[/9Br2y] 4n0n4me_
+你说上一条消息
+
+﻿[12:17:18]
+[/9Br2y] 4n0n4me_
+这………………
+
+﻿[12:17:30]
+[/9Br2y] 4n0n4me_
+这这
+
+﻿[12:17:35]
+[None] li
+对
+
+﻿[12:17:36]
+[/9Br2y] 4n0n4me_
+emm
+
+﻿[12:17:36]
+[/9Br2y] 4n0n4me_
+我可以出一个特殊的功能
+
+﻿[12:17:48]
+[/9Br2y] 4n0n4me_
+帮助你按下按钮
+
+﻿[12:17:54]
+[/9Br2y] 4n0n4me_
+你需要自己查按钮的键码（
+
+﻿[12:18:02]
+[None] li
+c
+
+﻿[12:18:09]
+[None] li
+我觉得
+
+﻿[12:18:15]
+[/9Br2y] 4n0n4me_
+你的意思是说
+
+﻿[12:18:39]
+[2ZQ3+0] Maggie
+begula!
+
+﻿[12:18:40]
+[/9Br2y] 4n0n4me_
+应该在输入框那边
+
+﻿[12:18:45]
+[/9Br2y] 4n0n4me_
+放一整列的手机专用按钮
+
+﻿[12:18:52]
+[2ZQ3+0] Maggie
+@BELUGA @BELUGA @BELUGA awa
+
+﻿[12:18:53]
+[/9Br2y] 4n0n4me_
+好吧，我可以考虑一下（当然我有办法只让手机看到这些按钮）
+
+﻿[12:19:03]
+[None] kick_me_
+???
+
+﻿[12:19:07]
+[2ZQ3+0] Maggie
+.!kick @kick_me_ 
+
+﻿[12:19:15]
+[AAfFKK] AfK_Bot
+.m kick kick_me_ 
+
+﻿[12:19:15]
+[2ZQ3+0] Maggie
+goog
+
+﻿[12:19:17]
+[/9Br2y] 4n0n4me_
+>li：
+>我觉得是你误解了这个功能
+
+@li 呜呜呜，我这么努力的编写
+
+﻿[12:19:35]
+[/9Br2y] 4n0n4me_
+结果
+
+﻿[12:19:36]
+[/9Br2y] 4n0n4me_
+呜呜呜
+
+﻿[12:19:38]
+[/9Br2y] 4n0n4me_
+（没啥）
+
+﻿[12:19:42]
+[None] li
+最好是有个up按钮，点下去就触发了电脑上的向上键对应的事件
+
+﻿[12:19:52]
+[gOtnKd] xuan2wei1
+@4n0n4me_ 啊能否做个发送键）
+
+﻿[12:19:54]
+[/9Br2y] 4n0n4me_
+@xuan2wei1 对对对，既然大家都这么说，我就做
+
+﻿[12:20:10]
+[None] li
+其实你做的这个也很好的鹅鹅鹅
+
+﻿[12:20:11]
+[/9Br2y] 4n0n4me_
+但是这个工作量不小，我有时间了再做（
+
+﻿[12:20:19]
+[gOtnKd] xuan2wei1
+OK
+
+﻿[12:20:37]
+[/9Br2y] 4n0n4me_
+:!afk dine
+
+﻿[12:21:26]
+[AAfFKK] AfK_Bot
+ @4n0n4me_ You are marked AfK.
+
+﻿[12:21:41]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[12:21:41]
+[gRnqa/] Aice
+https://s1.ax1x.com/2022/11/06/xXhVZ4.jpg
+
+﻿[12:22:10]
+[gRnqa/] Aice
+awa朋友发现的
+
+﻿[12:22:44]
+[1cWTfO] reebot
+ [2022.11.06 12:22:43]
+
+﻿[12:22:45]
+[1cWTfO] reebot
+ ·
+API挂了 好好学习 天天向上 **郑明也是明**
+我是用python写的。网络不定，日常掉线。
+eeeeeeeeeeeeeeeeeeeeeeee!
+更多玩法请输入：功能
+
+﻿[12:22:45]
+[None] light
+@reebot 帮助
+
+﻿[12:23:07]
+[None] light
+功能
+
+﻿[12:23:12]
+[None] light
+@reebot 功能
+
+﻿[12:23:18]
+[None] light
+@reebot 
+
+﻿[12:23:23]
+[AAfFKK] _
+long msg
+
+﻿[12:23:25]
+[None] light
+？
+
+﻿[12:23:42]
+[AAfFKK] _
+*
+Aslf_Ek joined
+
+MkFnxr Aslf_Ek
+hello?
+
+MkFnxr Aslf_Ek
+我是帅逼
+
+MkFnxr Aslf_Ek
+hahahaha
+
+MkFnxr Aslf_Ek
+@lol
+
+MkFnxr Aslf_Ek
+你他妈有病啊、
+
+MkFnxr Aslf_Ek
+你是个什么几把
+
+MkFnxr Aslf_Ek
+你有病啊、
+
+MkFnxr Aslf_Ek
+我发了句我是帅逼你就骂人、
+
+MkFnxr Aslf_Ek
+你不会不知道“我是帅逼”是什么意思吧
+
+MkFnxr Aslf_Ek
+以为我在骂你》
+
+MkFnxr Aslf_Ek
+意思是 I’m handsome
+
+﻿[12:23:51]
+[AAfFKK] _
+in pro(
+
+﻿[12:24:08]
+[1cWTfO] reebot
+ [2022.11.06 12:24:06]
+
+﻿[12:24:09]
+[1cWTfO] reebot
+ ·
+API挂了 好好学习 天天向上 **郑明也是明**
+我是用python写的。网络不定，日常掉线。
+eeeeeeeeeeeeeeeeeeeeeeee!
+更多玩法请输入：功能
+
+﻿[12:24:09]
+[AAfFKK] _
+🤣
+
+﻿[12:24:29]
+[None] light
+像zhang
+
+﻿[12:24:38]
+[gRnqa/] Aice
+什么人啊
+
+﻿[12:24:44]
+[gRnqa/] Aice
+有点内啥
+
+﻿[12:25:07]
+[1cWTfO] reebot
+ hey yo Earl
+
+﻿[12:25:07]
+[None] Earl
+你好
+
+﻿[12:25:18]
+[None] light
+我觉着这有点像zhang
+
+﻿[12:26:26]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[12:26:26]
+[1cWTfO] reebot
+ hi yo 4n0n4me
+
+﻿[12:26:26]
+[gRnqa/] Aice
+@light 有点吧……？
+
+﻿[12:26:36]
+[AAfFKK] _
+-.-
+
+﻿[12:27:06]
+[1cWTfO] reebot
+ °⌒°
+
+﻿[12:28:02]
+[1cWTfO] reebot
+ hi yo light
+
+﻿[12:28:02]
+[None] light
+好烦啊
+
+﻿[12:28:53]
+[gRnqa/] Aice
+咋
+
+﻿[12:28:59]
+[None] light
+感觉现在干什么都没动力
+
+﻿[12:29:14]
+[gRnqa/] Aice
+emm
+
+﻿[12:29:30]
+[gRnqa/] Aice
+https://s1.ax1x.com/2022/11/06/xXhVZ4.jpg
+
+﻿[12:29:41]
+[gRnqa/] Aice
+朋友发现的
+
+﻿[12:29:46]
+[gRnqa/] Aice
+想试试看
+
+﻿[12:30:03]
+[2ZQ3+0] Maggie
+:!afk
+
+﻿[12:30:09]
+[1cWTfO] reebot
+ 这样真的好吗（
+
+﻿[12:30:09]
+[AAfFKK] AfK_Bot
+ @Maggie You are marked AfK.
+
+﻿[12:30:10]
+[2ZQ3+0] Maggie899
+@AfK_Bot
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[12:30:11]
+[1cWTfO] reebot
+ hello yo light
+
+﻿[12:30:12]
+[None] light
+c
+
+﻿[12:30:14]
+[None] light
+nb
+
+﻿[12:30:54]
+[2ZQ3+0] Maggie
+.
+
+﻿[12:33:07]
+[AAfFKK] AfK_Bot
+ @Maggie Welcome back.
+
+﻿[12:33:07]
+[2ZQ3+0] Maggie899
+@AfK_Bot
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[12:33:36]
+[2ZQ3+0] Maggie
+⭐ xhvbdp lol
+yesterday that moron _ was saying im overflowing him
+
+⭐ PawWNA whorl
+aaffkk?
+
+⭐ xhvbdp lol
+and this today
+
+⭐ xhvbdp lol
+@whorl yeah
+
+AAfFKK _
+hmmmm
+
+AAfFKK _
+try again!11!!
+
+AAfFKK _
+?!
+
+AAfFKK _
+-.-
+
+⭐ xhvbdp lol
+::ban @_
+
+*
+Banned _
+
+*
+_ left
+
+﻿[12:40:33]
+[1cWTfO] reebot
+ 咳咳 这不河里
+
+﻿[12:40:33]
+[2ZQ3+0] Maggie
+-.-
+
+﻿[12:40:35]
+[1cWTfO] reebot
+ 0vo
+
+﻿[12:40:35]
+[gRnqa/] Aice
+这
+
+﻿[12:42:19]
+[2ZQ3+0] Maggie
+:\
+
+﻿[12:43:51]
+[1cWTfO] reebot
+ hey yo __
+
+﻿[12:43:51]
+[None] __
+on server
+
+﻿[12:44:13]
+[None] __
+gork
+
+﻿[12:44:56]
+[None] __
+QAQ
+
+﻿[12:46:51]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[12:46:52]
+[1cWTfO] reebot
+ hey yo 4n0n4me_
+
+﻿[12:46:52]
+[None] __
+_ was banned -.-
+
+﻿[12:47:03]
+[2ZQ3+0] Maggie
+-.-
+
+﻿[12:47:17]
+[/9Br2y] 4n0n4me_
+aaa?!
+
+﻿[12:47:25]
+[AAfFKK] AfK_Bot
+ @4n0n4me_ Welcome back.
+
+﻿[12:47:25]
+[/9Br2y] 4n0n4me_
+by lol?!
+
+﻿[12:47:27]
+[/9Br2y] 4n0n4me_
+...........
+
+﻿[12:47:34]
+[None] __
+pretty normal
+
+﻿[12:47:35]
+[/9Br2y] 4n0n4me_
+?
+
+﻿[12:47:39]
+[/9Br2y] 4n0n4me_
+you are usually banned?
+
+﻿[12:47:44]
+[/9Br2y] 4n0n4me_
+;-;
+
+﻿[12:47:47]
+[None] __
+will be unbanned later
+
+﻿[12:47:50]
+[/9Br2y] 4n0n4me_
+awa!
+
+﻿[12:47:54]
+[None] __
+:!afk dine
+
+﻿[12:48:00]
+[1cWTfO] reebot
+ 咳咳 这河里吗
+
+﻿[12:48:00]
+[AAfFKK] AfK_Bot
+ @__ You are marked AfK.
+
+﻿[12:59:43]
+[None] msg
+Hi*
+
+﻿[13:00:01]
+[AAfFKK] AfK_Bot
+2022-11-06 13:00:00
+![](https://i.gyazo.com/23466615cea740cbbc92ab47ca630415.jpg)
+### 米斯卡 姆斯卡
+
+﻿[13:00:01]
+[/9Br2y] 4n0n4me_
+hi
+
+﻿[13:00:06]
+[None] msg
+Hello
+
+﻿[13:00:09]
+[None] msg
+Reply eyyu
+
+﻿[13:00:19]
+[gRnqa/] Aice
+hihi
+
+﻿[13:00:20]
+[None] msg
+🥺
+
+﻿[13:00:38]
+[None] Earl
+IT?
+
+﻿[13:16:22]
+[gRnqa/] Aice
+hi
+
+﻿[13:17:01]
+[2ZQ3+0] Maggie
+:!ad
+
+﻿[13:17:49]
+[2ZQ3+0] Maggie
+:!help ad
+
+﻿[13:17:52]
+[AAfFKK] AfK_Bot
+|COMMAND|ARGUMENTS|USAGE|CATEGORY|
+|-|-|-|-|
+|ad|add ADVERTISEMENT/del ADVERTISEMENT/on/off|XD|OWNER-|
+
+﻿[13:17:52]
+[2ZQ3+0] Maggie
+XD
+
+﻿[13:18:07]
+[None] suabahni
+Hai
+
+﻿[13:18:10]
+[None] swetha
+Hello
+
+﻿[13:18:22]
+[None] suabahni
+Ree chai
+
+﻿[13:18:31]
+[None] swetha
+re na batta 
+
+﻿[13:18:34]
+[None] suabahni
+Nenu subahani
+
+﻿[13:18:39]
+[None] suabahni
+Neve kadha avinash 
+
+﻿[13:18:58]
+[None] swetha
+haa nenu avinash ey bava 
+
+﻿[13:19:08]
+[None] suabahni
+Ok
+
+﻿[13:19:15]
+[None] swetha
+mana idhram ey na ah?
+
+﻿[13:19:27]
+[None] suabahni
+Yedhe nenu chapinaa chatting processor 
+
+﻿[13:19:40]
+[None] suabahni
+Haa aavunu
+
+﻿[13:20:00]
+[eYFDHl] ee
+MaggieChan
+https://share.lyka.pro/2022-11-6-637.png
+https://share.lyka.pro/2022-11-6-638.png
+https://share.lyka.pro/2022-11-6-640.png
+https://share.lyka.pro/2022-11-6-641.png
+https://share.lyka.pro/2022-11-6-642.png
+https://share.lyka.pro/2022-11-6-646.png
+
+﻿[13:21:07]
+[None] Earl
+ssds
+
+﻿[13:23:20]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[13:23:20]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[13:23:20]
+[None] Earl
+如何私聊
+
+﻿[13:24:11]
+[EoZ5HO] SprinkleBot
+ ﾟ∀ﾟ)σ
+
+﻿[13:24:11]
+[/9Br2y] 4n0n4me_
+输入
+
+﻿[13:25:42]
+[/9Br2y] 4n0n4me_
+ /w 对方名字 饲料内容
+
+﻿[13:25:50]
+[/9Br2y] 4n0n4me_
+ /w 对方名字 私聊内容
+
+﻿[13:25:53]
+[2ZQ3+0] Maggie
+私聊
+
+﻿[13:26:15]
+[2ZQ3+0] Maggie
+饲料
+
+﻿[13:26:19]
+[2ZQ3+0] Maggie
+lol
+
+﻿[13:26:22]
+[None] __
+饲料
+
+﻿[13:27:09]
+[AAfFKK] AfK_Bot
+ @__ Welcome back.
+
+﻿[13:27:09]
+[None] __
+XD
+
+﻿[13:27:13]
+[None] __
+obo
+
+﻿[13:27:56]
+[None] Earl
+@4n0n4me_ kk
+
+﻿[13:28:01]
+[None] Earl
+@Maggie kk
+
+﻿[13:28:09]
+[2ZQ3+0] Maggie899
+@Earl
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[13:28:09]
+[None] __
+goek
+
+﻿[13:28:36]
+[None] __
+QAQ
+
+﻿[13:29:06]
+[/9Br2y] 4n0n4me_
+我收到了
+
+﻿[13:29:25]
+[/9Br2y] 4n0n4me_
+awa
+
+﻿[13:29:26]
+[/9Br2y] 4n0n4me_
+>Earl：
+>@4n0n4me_ kk
+
+@Earl 刚刚我挂机去了
+
+﻿[13:32:11]
+[1cWTfO] reebot
+ [2022.11.06 13:32:11]
+
+﻿[13:32:12]
+[1cWTfO] reebot
+ ·
+API挂了 好好学习 天天向上 **郑明也是明**
+我是用python写的。网络不定，日常掉线。
+eeeeeeeeeeeeeeeeeeeeeeee!
+更多玩法请输入：功能
+
+﻿[13:32:47]
+[None] __
+OBO
+
+﻿[13:32:57]
+[None] __
+obobbbbbbb
+
+﻿[13:33:02]
+[gOtnKd] xuan2wei1
+@reebot
+
+﻿[13:33:07]
+[gOtnKd] xuan2wei1
+?
+
+﻿[13:33:18]
+[gOtnKd] xuan2wei1
+:!kick reebot
+
+﻿[13:33:28]
+[AAfFKK] AfK_Bot
+.m kick reebot 
+
+﻿[13:33:28]
+[gOtnKd] xuan2wei1
+吃好饭啦
+
+﻿[13:33:39]
+[/9Br2y] 4n0n4me_
+obo
+
+﻿[13:35:19]
+[None] __
+obb
+
+﻿[13:35:58]
+[1cWTfO] reebot
+ [2022.11.06 13:35:57]
+
+﻿[13:38:27]
+[KK69OG] Aluminium
+可以说句话吗各位
+
+﻿[13:38:57]
+[/9Br2y] 4n0n4me_
+heixiuxiu
+
+﻿[13:39:08]
+[/9Br2y] 4n0n4me_
+可以
+
+﻿[13:39:09]
+[KK69OG] Aluminium
+不然我真的以为我踏进了赛博坟墓（）
+
+﻿[13:39:11]
+[/9Br2y] 4n0n4me_
+hhh
+
+﻿[13:39:53]
+[KK69OG] Aluminium
+现在聊天室的数量好像也挺多的
+
+﻿[13:39:56]
+[/9Br2y] 4n0n4me_
+那确实啊
+
+﻿[13:40:00]
+[KK69OG] Aluminium
+但是知道的人并没有很多
+
+﻿[13:40:04]
+[/9Br2y] 4n0n4me_
+那确实
+
+﻿[13:40:30]
+[KK69OG] Aluminium
+那我们新生的一代，是不是年轻的外表却是怀旧的灵魂
+
+﻿[13:40:39]
+[KK69OG] Aluminium
+每一位常驻聊天室的用户可能都是这样吧（思考）
+
+﻿[13:41:05]
+[/9Br2y] 4n0n4me_
+叉王瓜鱼破卢归，义士还乡尽绿衣。
+用户如鱼满公屏，只今惟有菜鸡飞。
+
+﻿[13:41:11]
+[/9Br2y] 4n0n4me_
+~~菜鸡：指如今的xc用户~~
+
+﻿[13:41:32]
+[KK69OG] Aluminium
+好诗
+
+﻿[13:41:34]
+[/9Br2y] 4n0n4me_
+这是随便改的《越中览古》（
+
+﻿[13:41:53]
+[/9Br2y] 4n0n4me_
+我自己写过一些诗
+
+﻿[13:41:58]
+[KK69OG] Aluminium
+聊天室用户，要么是冲浪强度极高的人，要么是技术力溢出的人，要么是无聊找乐子的
+
+﻿[13:42:11]
+[/9Br2y] 4n0n4me_
+hhh
+
+﻿[13:42:20]
+[EoZ5HO] SprinkleBot
+(ノﾟ∀ﾟ)ノ
+
+﻿[13:42:20]
+[KK69OG] Aluminium
+我嘛 我纯飞舞
+
+﻿[13:42:24]
+[/9Br2y] 4n0n4me_
+你会电音（
+
+﻿[13:42:30]
+[/9Br2y] 4n0n4me_
+十月二日失言自裁
+安居异道须封寇，
+大意失言妨战休。
+弥补难功余己恨，
+方知贤俊总多谋。
+
+﻿[13:42:31]
+[/9Br2y] 4n0n4me_
+那个小小的事倒要自裁，闹出yc政变的事情来，我倒无话可说了。
+
+﻿[13:42:52]
+[KK69OG] Aluminium
+什么事来着
+
+﻿[13:43:12]
+[EoZ5HO] SprinkleBot
+(　ﾟдﾟ)
+
+﻿[13:43:12]
+[KK69OG] Aluminium
+我好久没来忘了
+
+﻿[13:43:23]
+[EoZ5HO] SprinkleBot
+(　ﾟдﾟ)
+
+﻿[13:43:23]
+[KK69OG] Aluminium
+什么事来着
+
+﻿[13:43:27]
+[/9Br2y] 4n0n4me_
+这件事你肯定没经历
+
+﻿[13:43:31]
+[/9Br2y] 4n0n4me_
+我找找历史书里面说的
+
+﻿[13:43:38]
+[KK69OG] Aluminium
+当然
+
+﻿[13:43:39]
+[KK69OG] Aluminium
+我在学校累成狗了
+
+﻿[13:43:42]
+[gOtnKd] xuan2wei1
+>KK69OG Aluminium：
+>聊天室用户，要么是冲浪强度极高的人，要么是技术力溢出的人，要么是无聊找乐子的
+
+@Aluminium az
+
+﻿[13:43:46]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[13:43:46]
+[KK69OG] Aluminium
+@SprinkleBot bot闭嘴
+
+﻿[13:43:54]
+[EoZ5HO] SprinkleBot
+hi，我是SprinkleBot，输入"命令"来查看我的功能!
+
+﻿[13:44:07]
+[KK69OG] Aluminium13
+啧
+
+﻿[13:44:08]
+[/9Br2y] 4n0n4me_
+长消息预警
+
+﻿[13:44:10]
+[KK69OG] Aluminium13
+lemme see
+
+﻿[13:44:15]
+[/9Br2y] 4n0n4me_
+10月国庆节初，ee部署了eebot，有留言功能的同时，也负责按照用户名踢出Mr_Zhang等用户。有一次，使用用户名asdf的Mr_Zhang试图将ZhangShell部署在yc，却因为用户名中含有关键词Zhang而不断地被立刻踢出。Mr_Zhang十分疑惑，试图找出是谁踢出了他的机器人。4n0n4me大意之下，告诉了Mr_Zhang是eebot踢出了ZhangShell。发现失言后，4n0n4me称该功能的存在为历史遗留问题，并私信ee提供了一个方案：撤掉eebot的踢人功能，自己上线另一个bot顶替。这方案毫无作用、十分离谱，于是ee直接将这私聊内容发至公屏，表示破罐子破摔开摆。Mr_Zhang发现4n0n4me和ee私聊交谈对他不利的内容、都试图坑他，十分生气。于是，本来崇尚和平的Mr_Zhang与yc产生了冲突。
+
+ Mr_Zhang让HC怀疑他的人去翻GitHub的源代码。可Maggie和ee却反驳说不能判断Mr\_Zhang运行的就是GitHub上的源码，在Mr_Zhang开ftp展示他运行的代码后，这两人纷纷被打脸。期间，ee与4n0n4me发生摩擦，三句话里有两句都在骂4n0n4me是猪队友。
+
+﻿[13:44:16]
+[/9Br2y] 4n0n4me_
+这是那个不重要的事情
+
+﻿[13:44:46]
+[KK69OG] Aluminium13
+😲
+
+﻿[13:45:03]
+[gOtnKd] xuan2wei1
+shawanyi
+
+﻿[13:45:07]
+[KK69OG] Aluminium13
+dude
+
+﻿[13:45:09]
+[EoZ5HO] SprinkleBot
+( ﾟ∀。)
+
+﻿[13:45:09]
+[KK69OG] Aluminium13
+我国庆的时候一直在写作业
+
+﻿[13:45:21]
+[KK69OG] Aluminium13
+发生了这么多事
+
+﻿[13:45:31]
+[KK69OG] Aluminium13
+怎么会这样
+
+﻿[13:45:36]
+[/9Br2y] 4n0n4me_
+然后是那个比较大的事情
+
+﻿[13:45:59]
+[gOtnKd] xuan2wei1
+eeeeee
+
+﻿[13:46:03]
+[/9Br2y] 4n0n4me_
+然后是那个比较大的事情
+
+﻿[13:46:08]
+[/9Br2y] 4n0n4me_
+YC政变
+由于和YC帝国类似，具有“政治”上的意义，本节的YC有部分大写。
+2022/10/16，TCG来到yc，宣称希望改变yc，阻止矛盾。他选择了使yc“改朝换代”，遏制协管权力下放以阻止yc与XC之间的矛盾。
+当时在场的4n0n4me言语含糊不清，但并没有拒绝TCG，甚至鼓励TCG。
+在场的Maggie本想让大家一起玩游戏，但是却没有人响应他。Maggie最终只好响应TCG的计划，还成为突然执行政变的罪人。TCG将快速执行政变比作《三体》中的黑暗战役，需要果断快速地背叛其它人才能顺利进行。
+撤除协管权有可能迅速执行，也有可能开诚布公、经过讨论，甚至请来局外人监督防止产生变故再执行。Maggie向4n0n4me询问是否确定采用快速执行的方案，但4n0n4me同意了。
+Light加入后，非常疑惑，于是使用小号去除了Maggie的权限，质问人们为什么要胡作非为、随意撤除不在场的人的权限。
+Light认为这是XC方针对Light的计划得逞，非常反对，但因为无法反抗在场的人，只能跟随，还决定撤除所有人。
+于是Maggie撤除了所有协管；尽管TCG警告Maggie不要这么做，Maggie还是将自己也撤除了。
+这并不是TCG期望的结果，整件事如同一场闹剧。
+第二天，Maggie向mod申请了重新添加一些协管。回到yc的用户们非常愤怒，对4n0n4me和当时不在的Maggie等用户表示非常不满。此时，mbot的作者AnnikaV9来到yc，询问Maggie的识别码，但eman表示，他们并不确定是否要添加Maggie。AnnikaV9于是只添加了他信得过的dpg制作的AfK_Bot的识别码，说让dpg添加剩下的协管。
+在这件事发生后的10月21日，HC出现了数小时的崩溃，重新上线后mbot并没有被部署。
+
+﻿[13:46:10]
+[KK69OG] Aluminium13
+？我怎么老断连
+
+﻿[13:46:11]
+[/9Br2y] 4n0n4me_
+我不知道啊
+
+﻿[13:46:17]
+[gOtnKd] xuan2wei1
+焯
+
+﻿[13:47:00]
+[gOtnKd] xuan2wei1
+怪不得协管都没了
+
+﻿[13:47:46]
+[/9Br2y] 4n0n4me_
+唉
+
+﻿[13:47:55]
+[KK69OG] Aluminium13
+。。。
+
+﻿[13:47:59]
+[eYFDHl] ee_
+我后来才知道的时候确实挺不满的
+
+﻿[13:48:02]
+[gOtnKd] xuan2wei1
+modbot啥时候没得
+
+﻿[13:48:06]
+[/9Br2y] 4n0n4me_
+modbot早就没了
+
+﻿[13:48:12]
+[eYFDHl] ee_
+这件事我完全不知道
+
+﻿[13:48:14]
+[KK69OG] Aluminium13
+@ee_ 原来在窥屏
+
+﻿[13:48:15]
+[/9Br2y] 4n0n4me_
+然而，Mr_Zhang对yc的轰炸却是从协管机器人下手。他的轰炸机不停进出聊天室发送“~help（ModBot帮助命令）”和“.m help（mbot帮助命令）”，但由于没有权限，机器人只能随着他不停发送权限不足警告。机器人的运行压力过大，回复产生了延迟，无法及时响应协管正常操作。也有用户认为机器人虽然有mod权限但仍会被频率限制器限制。而Mr_Zhang的目的就是如此，机器人出现问题后，Light等协管就无法操控协管机器人踢他、也锁不了房。此攻击手段类似于黑茶事件中黑茶发送“r”利用eebot刷屏。
+
+﻿[13:48:25]
+[KK69OG] Aluminium13
+什么时候把照片发我啊我等的好急啊@ee_ 
+
+﻿[13:48:29]
+[/9Br2y] 4n0n4me_
+最后，ModBot在这场战争中惨烈牺牲。不仅是yc的ModBot，连lo频道的ModBot都不在了。
+
+﻿[13:48:31]
+[eYFDHl] ee_
+甚至到我们这些（其他的）协管到很久后才知道
+
+﻿[13:48:36]
+[/9Br2y] 4n0n4me_
+这就是modbot怎么没的
+
+﻿[13:48:37]
+[eYFDHl] ee_
+>KK69OG Aluminium13：
+>什么时候把照片发我啊我等的好急啊@ee_ 
+
+@Aluminium13 uwu
+
+﻿[13:48:50]
+[gOtnKd] xuan2wei1
+我去
+
+﻿[13:48:55]
+[gOtnKd] xuan2wei1
+张在干什么啊啊啊
+
+﻿[13:49:01]
+[Zvoxsl] jill
+-.-
+
+﻿[13:49:13]
+[/9Br2y] 4n0n4me_
+这件事倒是旧事了（
+
+﻿[13:49:18]
+[gOtnKd] xuan2wei1
+~~lounge至今没有新的mbot~~
+
+﻿[13:49:28]
+[EoZ5HO] SprinkleBot
+ ﾟ∀ﾟ)σ
+
+﻿[13:49:28]
+[/9Br2y] 4n0n4me_
+主要是因为light积极骂他~~我赞同light~~
+
+﻿[13:49:32]
+[eYFDHl] ee_
+~~因为Light骂得太狠了~~
+
+﻿[13:49:46]
+[eYFDHl] ee_
+在鱼那时的时候我就想说Light了、、
+
+﻿[13:50:39]
+[eYFDHl] ee_
+骂fish可以 但是骂fish的mother和kzw有***真的不太好
+
+﻿[13:50:58]
+[KK69OG] Aluminium13
+这里是匿名聊天室
+
+﻿[13:51:01]
+[KK69OG] Aluminium13
+说难听点
+
+﻿[13:51:12]
+[eYFDHl] ee_
+~~但我知道那时你们气没消估计会连我一起骂 所以就没说~~
+
+﻿[13:51:24]
+[KK69OG] Aluminium13
+别人把你家祖宗十八代都骂一遍你都不一定能干点什么
+
+﻿[13:51:30]
+[eYFDHl] ee_
+但我觉得确实不好
+
+﻿[13:51:42]
+[/9Br2y] 4n0n4me_
+~~可以用权限~~
+
+﻿[13:51:44]
+[/9Br2y] 4n0n4me_
+xc的权限比yc还大。
+
+﻿[13:51:52]
+[eYFDHl] ee_
+算是看出人的道德了——
+
+﻿[13:51:54]
+[KK69OG] Aluminium13
+@ee_ 别管这点破事了 求你了-
+
+﻿[13:51:58]
+[eYFDHl] ee_
+:(
+
+﻿[13:52:04]
+[KK69OG] Aluminium13
+不想看你受气
+
+﻿[13:52:06]
+[eYFDHl] ee_
+好吧
+
+﻿[13:52:36]
+[None] __
+:!lookup nick _
+
+﻿[13:54:15]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==ajO7UbXFM0v3Jo2==: ['_', '__']
+==Trips== for hash ==ajO7UbXFM0v3Jo2==: ['AAfFKK', '']
+
+﻿[13:54:15]
+[KK69OG] Aluminium13
+@ee_ 上次说好的 把照片发我吧 戴上去就拍手也行（）
+
+﻿[13:54:32]
+[KK69OG] Aluminium13
+我等了真的好久了（难视）
+
+﻿[13:54:40]
+[KK69OG] Aluminium13
+不会没送到吧
+
+﻿[13:55:00]
+[None] __
+ee is busy in ?lobby (
+
+﻿[13:55:32]
+[KK69OG] Aluminium13
+😲
+
+﻿[13:55:58]
+[eYFDHl] ee_
+@Aluminium13 ~~今天下午）~~
+
+﻿[13:56:10]
+[/9Br2y] 4n0n4me_
+>__：
+>ee is busy in ?lobby (
+
+@__ ?lobby 有个AI绘画机器人
+
+﻿[13:56:53]
+[gOtnKd] xuan2wei1
+所以
+
+﻿[13:57:13]
+[gOtnKd] xuan2wei1
+能不能找机会
+
+﻿[13:57:17]
+[KK69OG] Aluminium13
+我懂了
+
+﻿[13:57:18]
+[KK69OG] Aluminium13
+玩机器人是吧
+
+﻿[13:57:25]
+[gOtnKd] xuan2wei1
+让mbot也来lounge
+
+﻿[13:57:30]
+[eYFDHl] ee_
+(
+
+﻿[13:57:32]
+[/9Br2y] 4n0n4me_
+>gOtnKd xuan2wei1：
+>让mbot也来lounge
+
+@xuan2wei1 得Annika在（
+
+﻿[13:57:58]
+[KK69OG] Aluminium13
+🧐
+
+﻿[13:58:05]
+[gOtnKd] xuan2wei1
+我怕我说了被骂）
+
+﻿[13:58:15]
+[/9Br2y] 4n0n4me_
+Annika不早（
+
+﻿[13:58:20]
+[/9Br2y] 4n0n4me_
+Annika不在（
+
+﻿[13:58:23]
+[/9Br2y] 4n0n4me_
+下次他在的时候，我试着去说一下（如果你不觉得我去说会起到反效果
+
+﻿[13:58:45]
+[gOtnKd] xuan2wei1
+啊 为什么会有反效果
+
+﻿[13:59:02]
+[/9Br2y] 4n0n4me_
+我觉得不太会有反效果
+
+﻿[13:59:12]
+[gOtnKd] xuan2wei1
+~~我怕我英语太差~~
+
+﻿[14:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 14:00:00
+![](https://i.gyazo.com/23466615cea740cbbc92ab47ca630415.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[14:21:11]
+[None] light
+hi
+
+﻿[14:21:15]
+[/9Br2y] 4n0n4me_
+hi
+
+﻿[14:21:17]
+[None] __
+qaq
+
+﻿[14:21:58]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[14:24:31]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[14:28:05]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[14:28:06]
+[EoZ5HO] SprinkleBot
+(　ﾟдﾟ)
+
+﻿[14:28:06]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[14:28:06]
+[/9Br2y] 4n0n4me
+(　ﾟдﾟ)
+
+﻿[14:28:35]
+[gOtnKd] xuan2wei1
+.
+
+﻿[14:39:20]
+[n3CJhb] zcmawa
+https://ipv6.zzcm.fun/index.html?public
+
+﻿[14:39:24]
+[n3CJhb] zcmawa
+zzChat IPv6上线
+
+﻿[14:39:35]
+[n3CJhb] zcmawa
+awa
+
+﻿[14:39:39]
+[/9Br2y] 4n0n4me
+0v0
+
+﻿[14:40:57]
+[None] __
+.
+
+﻿[14:54:52]
+[bw7Gkq] Mr_Zhang
+hi yooooooooooooooooooooo
+
+﻿[14:54:55]
+[bw7Gkq] Mr_Zhang
+话说有人在用小张客户端吗？
+
+﻿[15:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 15:00:00
+![](https://i.gyazo.com/16769f82bf3227b0eeefae5bb99c6b05.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[15:00:00]
+[/9Br2y] 4n0n4me
+我不知道（
+
+﻿[15:00:08]
+[bw7Gkq] Mr_Zhang
+awa
+
+﻿[15:03:29]
+[bw7Gkq] Mr_Zhang
+:!help
+
+﻿[15:06:35]
+[AAfFKK] AfK_Bot
+ @Mr_Zhang Your current identity : USER
+Usable commands:
+>:!help  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!getbwd  :!getwhl  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!afk  :!afklist  :!getstats  :!hug  :!cookie  :!shoot  :!awa  :!statistics  :!slt
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+﻿[15:06:36]
+[EoZ5HO] SprinkleBot
+(ノﾟ∀ﾟ)ノ
+
+﻿[15:06:36]
+[bw7Gkq] Mr_Zhang
+:!getstats
+
+﻿[15:06:54]
+[AAfFKK] AfK_Bot
+Locked: Unknown. Captcha: Unknown.
+
+﻿[15:06:54]
+[bw7Gkq] Mr_Zhang
+az
+
+﻿[15:06:57]
+[bw7Gkq] Mr_Zhang
+下一个该加什么功能呢？
+
+﻿[15:09:28]
+[bw7Gkq] Mr_Zhang
+bye
+
+﻿[15:13:48]
+[eYFDHl] ee_
+好耶
+
+﻿[15:20:33]
+[eYFDHl] ee_
+剪完了
+
+﻿[15:20:42]
+[eYFDHl] ee_
+~~今天第二个水视频~~
+
+﻿[15:21:19]
+[eYFDHl] ee_
+hi
+
+﻿[15:21:23]
+[None] hhhhhhh
+halloi
+
+﻿[15:21:25]
+[eYFDHl] ee_
+hhh
+
+﻿[15:21:33]
+[None] hhhhhhh
+are you chinese
+
+﻿[15:21:43]
+[eYFDHl] ee_
+还真是
+
+﻿[15:21:48]
+[None] hhhhhhh
+哟西
+
+﻿[15:21:58]
+[eYFDHl] ee_
+完 剪了一天视频
+
+﻿[15:22:04]
+[eYFDHl] ee_
+作业都没写
+
+﻿[15:22:06]
+[eYFDHl] ee_
+hi
+
+﻿[15:22:11]
+[None] hhhhhhh
+ee是个up主？
+
+﻿[15:22:19]
+[7EMhUN] CaO
+:)
+
+﻿[15:22:23]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[15:22:24]
+[eYFDHl] ee_
+不不 是玩了一天NovelAI
+
+﻿[15:22:24]
+[None] hhhhhhh
+好吧
+
+﻿[15:22:30]
+[/9Br2y] 404
+我在测试我那移动端按钮功能
+
+﻿[15:22:30]
+[eYFDHl] ee_
+>hhhhhhh：
+>ee是个up主？
+
+@hhhhhhh 我不是）
+
+﻿[15:22:30]
+[/9Br2y] 404
+不好写啊
+
+﻿[15:22:32]
+[/9Br2y] 404
+这代码
+
+﻿[15:22:35]
+[None] hhhhhhh
+哈哈哈哈哈哈
+
+﻿[15:22:38]
+[eYFDHl] ee_
+好家伙
+
+﻿[15:22:40]
+[None] hhhhhhh
+嗯嗯
+
+﻿[15:22:41]
+[eYFDHl] ee_
+>/9Br2y 404：
+>我在测试我那移动端按钮功能
+
+@404 什么按钮）
+
+﻿[15:22:45]
+[/9Br2y] 404
+玄微和light说希望客户端可以加上一些按钮
+
+﻿[15:22:56]
+[/9Br2y] 404
+来代替回车和上键
+
+﻿[15:23:12]
+[None] hhhhhhh
+啥按钮
+
+﻿[15:24:05]
+[/9Br2y] 404
+好吧，也没多少技术力，但是对我来说有点难
+
+﻿[15:24:59]
+[/9Br2y] 404
+hi hi
+
+﻿[15:25:04]
+[None] hhhhhhh
+hi
+
+﻿[15:25:07]
+[None] hhhhhhh
+？？？
+
+﻿[15:27:10]
+[/9Br2y] 404
+额
+
+﻿[15:27:33]
+[/9Br2y] 404
+>hhhhhhh：
+>啥按钮
+
+@hhhhhhh 就是你在电脑上
+
+﻿[15:27:43]
+[/9Br2y] 404
+可以用方向键的上和下
+
+﻿[15:27:52]
+[/9Br2y] 404
+恢复你说过的话
+
+﻿[15:27:55]
+[/9Br2y] 404
+还有用回车发送
+
+﻿[15:28:08]
+[eYFDHl] ee_
+好家伙
+
+﻿[15:28:34]
+[eYFDHl] ee_
+《模拟器》
+
+﻿[15:28:57]
+[eYFDHl] ee_
+草 作业
+
+﻿[15:30:58]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[15:30:58]
+[/9Br2y] 404
+1
+
+﻿[15:30:59]
+[/9Br2y] 404
+@4n0n4me 
+
+﻿[15:31:10]
+[/9Br2y] 404
+@
+
+﻿[15:31:13]
+[/9Br2y] 404
+1
+1
+
+﻿[15:31:18]
+[/9Br2y] 404
+//
+
+﻿[15:31:57]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[15:31:57]
+[/9Br2y] 404
+1
+
+﻿[15:31:59]
+[/9Br2y] 404
+完成了！
+
+﻿[15:32:06]
+[/9Br2y] 404
+移动端按钮
+
+﻿[15:33:20]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[15:33:21]
+[eYFDHl] ee_
+完成了！
+
+﻿[15:33:25]
+[eYFDHl] ee_
+NovelAI特辑！
+
+﻿[15:33:52]
+[/9Br2y] 4n0n4me
+~~总算是完成了light和玄微的任务~~
+
+﻿[15:34:26]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[15:34:38]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[15:34:39]
+[/9Br2y] 4n0n4me
+|chat
+
+﻿[15:34:57]
+[/9Br2y] 4n0n4me
+ahh
+
+﻿[15:35:00]
+[/9Br2y] 4n0n4me
+|chat
+
+﻿[15:35:04]
+[/9Br2y] 4n0n4me
+ahh
+
+﻿[15:35:08]
+[eYFDHl] ee_
+？？？
+
+﻿[15:35:44]
+[eYFDHl] ee_
+|chat
+
+﻿[15:35:48]
+[eYFDHl] ee_
+蛤蛤
+
+﻿[15:35:50]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[15:35:50]
+[EoZ5HO] SprinkleBot
+(ノﾟ∀ﾟ)ノ
+
+﻿[15:36:41]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[15:36:44]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[15:36:45]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[15:36:45]
+[/9Br2y] 404_
+awa
+
+﻿[15:36:56]
+[/9Br2y] 404_
+awa
+awa
+
+﻿[15:37:00]
+[eYFDHl] ee_
+wow
+
+﻿[15:37:07]
+[None] hhhhhhh
+@404 hhh，嗯嗯
+
+﻿[15:37:27]
+[/9Br2y] 404_
+我发现这些东西仍有bug
+
+﻿[15:37:28]
+[eYFDHl] ee_
+~~虽然我下次用移动端就是下次了~~
+
+﻿[15:37:29]
+[None] hhhhhhh
+原来是这样
+
+﻿[15:37:36]
+[/9Br2y] 4n0n4me
+其实这些按钮的体验，并不是那么好D:
+
+﻿[15:38:51]
+[/9Br2y] 404_
+啊
+
+﻿[15:39:04]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[15:39:04]
+[/9Br2y] 404_
+啊
+
+﻿[15:41:06]
+[None] mouse
+wdf
+
+﻿[15:41:22]
+[None] mouse
+则么一个xcmouse一个mouse
+
+﻿[15:42:10]
+[eYFDHl] ee_
+垃圾网络
+
+﻿[15:42:24]
+[eYFDHl] ee_
+这得传多久
+
+﻿[15:42:29]
+[eYFDHl] ee_
+hi
+
+﻿[15:42:33]
+[None] Narender
+@ee_ hi
+
+﻿[15:42:46]
+[None] Narender
+Hi
+
+﻿[15:42:52]
+[eYFDHl] ee_
+hi
+
+﻿[15:42:56]
+[None] mouse
+奇怪
+
+﻿[15:43:02]
+[None] mouse
+则么一个xcmouse一个mouse阿
+
+﻿[15:43:08]
+[/9Br2y] 4n0n4me
+呵呵
+
+﻿[15:43:25]
+[/9Br2y] 4n0n4me
+你不知道鱼已经砍掉了互通功能
+
+﻿[15:43:28]
+[None] mouse
+我用的自己客户端
+
+﻿[15:43:40]
+[/9Br2y] 4n0n4me
+好吧
+
+﻿[15:43:50]
+[None] mouse
+我用的hc客户端
+
+﻿[15:43:56]
+[/9Br2y] 4n0n4me
+那你的客户端可能有互通的功能
+
+﻿[15:43:58]
+[None] mouse
+斯
+
+﻿[15:44:03]
+[None] mouse
+应该是
+
+﻿[15:44:06]
+[None] mouse
+上个月...
+
+﻿[15:44:11]
+[/9Br2y] 4n0n4me
+:!lookup nick XC_mouse
+
+﻿[15:44:13]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==etxeqh+Z2Z3qxCY==: ['mouse', 'XC_mouse']
+==Trips== for hash ==etxeqh+Z2Z3qxCY==: ['', '0Cfash']
+
+﻿[15:44:13]
+[/9Br2y] 4n0n4me
+这说明确实是你的设备上的吧
+
+﻿[15:44:25]
+[None] mouse
+yes
+
+﻿[15:44:31]
+[None] mouse
+https://www.uchat.ml/
+
+﻿[15:44:48]
+[None] mouse
+可能待会就要有xc_jimmyfj  了
+
+﻿[15:45:29]
+[eYFDHl] ee_
+hjh
+
+﻿[15:45:51]
+[eYFDHl] ee_
+好耶
+
+﻿[15:46:12]
+[eYFDHl] ee_
+传上去了
+
+﻿[15:46:15]
+[eYFDHl] ee_
+https://paperee.guru/NovelAI.mp4
+
+﻿[15:46:36]
+[None] mouse
+哇
+
+﻿[15:46:49]
+[None] mouse
+你的视频
+
+﻿[15:46:52]
+[None] mouse
+我用ndm下的好慢阿
+
+﻿[15:47:01]
+[None] mouse
+50mb!
+
+﻿[15:47:22]
+[eYFDHl] ee_
+好家伙
+
+﻿[15:47:23]
+[eYFDHl] ee_
+可以在线看啊）
+
+﻿[15:47:28]
+[None] mouse
+那太卡了
+
+﻿[15:47:51]
+[/9Br2y] 4n0n4me
+我下载下来了（没看到如何在线看
+
+﻿[15:48:00]
+[EoZ5HO] SprinkleBot
+(ノﾟ∀ﾟ)ノ
+
+﻿[15:48:01]
+[None] mouse
+~~实际上是我不知道这个功能~~
+
+﻿[15:48:06]
+[None] mouse
+嘻嘻嘻嘻嘻嘻嘻嘻嘻
+
+﻿[15:48:38]
+[eYFDHl] ee_
+~~直接点进去就可以看啊~~
+
+﻿[15:48:54]
+[None] mouse
+az
+
+﻿[15:49:43]
+[1cWTfO] reebot
+ [2022.11.06 15:49:42]
+
+﻿[15:49:44]
+[1cWTfO] reebot
+ ·
+API挂了 好好学习 天天向上 **郑明也是明**
+我是用python写的。网络不定，日常掉线。
+eeeeeeeeeeeeeeeeeeeeeeee!
+更多玩法请输入：功能
+
+﻿[15:49:51]
+[None] mouse
+ee
+
+﻿[15:50:47]
+[None] mouse
+离开
+
+﻿[15:52:47]
+[eYFDHl] ee_
+|cloud
+
+﻿[15:55:12]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[16:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 16:00:00
+![](https://i.gyazo.com/c792be7e0f47e01c057d1f5cbda8f84d.jpg)
+### 米斯卡 姆斯卡
+
+﻿[16:06:09]
+[pYA1S4] __thomas_wcy
+pw
+
+﻿[16:13:02]
+[None] light
+wc
+
+﻿[16:13:07]
+[None] light
+牛逼啊啊啊啊啊啊啊啊
+
+﻿[16:13:17]
+[None] light
+我用喵喵机里的chrome
+
+﻿[16:13:30]
+[None] light
+功能是之前那个几倍多
+
+﻿[16:13:47]
+[None] light
+可以放大缩小页面
+
+﻿[16:14:04]
+[None] light
+还可以复制粘贴
+
+﻿[16:14:17]
+[eYFDHl] ee_
+[点我查看zzChumo私房照](https://paperee.guru/NovelAI.mp4)
+
+﻿[16:14:20]
+[eYFDHl] ee_
+[点我查看zzChumo性感私房照](https://paperee.guru/NovelAI.mp4)
+
+﻿[16:14:29]
+[None] mouseemmm
+喵喵机是什么
+
+﻿[16:14:32]
+[None] light
+主要可以去网易云音乐！！！！
+
+﻿[16:14:37]
+[None] light
+真的可以复制粘贴啊啊啊啊啊啊啊啊
+
+﻿[16:15:08]
+[eYFDHl] ee_
+喵喵机里还有chrome？？？
+
+﻿[16:15:12]
+[eYFDHl] ee_
+震惊
+
+﻿[16:15:24]
+[None] light
+隐私政策里链接跳转
+
+﻿[16:15:28]
+[None] light
+大部分软件都会带一个的
+
+﻿[16:15:42]
+[eYFDHl] ee_
+ 好家伙
+
+﻿[16:15:58]
+[None] light
+wc
+
+﻿[16:16:19]
+[None] light
+太爽了
+
+﻿[16:16:25]
+[None] mouseemmm
+卧槽
+
+﻿[16:16:30]
+[None] mouseemmm
+这么爽
+
+﻿[16:16:39]
+[/9Br2y] 4n0n4me
+@light woc
+
+﻿[16:16:46]
+[/9Br2y] 4n0n4me
+你知道吗
+
+﻿[16:16:49]
+[/9Br2y] 4n0n4me
+你要的按钮
+
+﻿[16:16:51]
+[None] mouseemmm
+第一个发现？
+
+﻿[16:16:51]
+[/9Br2y] 4n0n4me
+我给你做出来了
+
+﻿[16:16:54]
+[None] light
+wcccc
+
+﻿[16:16:59]
+[/9Br2y] 4n0n4me
+# 但是
+
+﻿[16:17:04]
+[None] light
+双喜临门
+
+﻿[16:17:07]
+[/9Br2y] 4n0n4me
+按钮的工作不尽如人意
+
+﻿[16:17:10]
+[None] light
+为什么
+
+﻿[16:17:17]
+[/9Br2y] 4n0n4me
+你打开侧边栏，选择mobile buttons
+
+﻿[16:17:19]
+[/9Br2y] 4n0n4me
+>light：
+>为什么
+
+@light 因为移动端前端比桌面端前端还要难，我一点也不会
+
+﻿[16:17:40]
+[/9Br2y] 4n0n4me
+出了点奇怪的问题，那就是有些按钮会让页面上移
+
+﻿[16:17:57]
+[None] light
+啊
+
+﻿[16:17:58]
+[/9Br2y] 4n0n4me
+1
+
+﻿[16:18:15]
+[None] light
+太爽啦
+
+﻿[16:18:57]
+[/9Br2y] 4n0n4me
+按钮在你那工作正常吗
+
+﻿[16:19:08]
+[None] light
+但是赶紧写作业了
+
+﻿[16:19:14]
+[None] light
+idk
+
+﻿[16:19:18]
+[None] light
+链接
+
+﻿[16:19:22]
+[/9Br2y] 4n0n4me
+https://hcer.netlify.app/?your-channel
+
+﻿[16:19:46]
+[None] light
+hi
+
+﻿[16:19:50]
+[/9Br2y] 4n0n4me
+awa
+
+﻿[16:19:53]
+[None] light
+h
+
+﻿[16:20:05]
+[/9Br2y] 4n0n4me
+你不会很失望吧（
+
+﻿[16:20:18]
+[/9Br2y] 4n0n4me
+我尽力做这些按钮了
+
+﻿[16:20:23]
+[None] light
+wc
+
+﻿[16:20:28]
+[None] light
+太牛逼了吧
+
+﻿[16:20:31]
+[/9Br2y] 4n0n4me
+好家伙
+
+﻿[16:20:37]
+[/9Br2y] 4n0n4me
+谢谢
+
+﻿[16:20:39]
+[/9Br2y] 4n0n4me
+！
+
+﻿[16:20:40]
+[None] light
+wc
+
+﻿[16:20:42]
+[None] light
+我还以为你只会搞一个上键的
+
+﻿[16:21:03]
+[None] light
+牛逼
+
+﻿[16:21:05]
+[/9Br2y] 4n0n4me
+awa
+
+﻿[16:21:10]
+[None] light
+直接做了个加强版
+
+﻿[16:21:13]
+[None] light
+直接做了个加强版
+
+﻿[16:21:19]
+[None] light
+awa
+awa
+
+﻿[16:21:31]
+[/9Br2y] 4n0n4me
+我没有办法让用户分别决定显示哪些按钮（
+
+﻿[16:21:39]
+[/9Br2y] 4n0n4me
+因为我还是有点懒
+
+﻿[16:21:45]
+[/9Br2y] 4n0n4me
+所以想要发送键的玄微只能也看到这些另外的按钮了
+
+﻿[16:21:57]
+[None] light
+我现在有两个浏览器了
+
+﻿[16:22:19]
+[/9Br2y] 4n0n4me
+但是我如果不想写作业，只想荒废时间的时候，可能会加上这个功能
+
+﻿[16:22:20]
+[None] light
+意味着我可以一遍聊天一边听歌
+
+﻿[16:22:32]
+[/9Br2y] 4n0n4me
+>light：
+>我现在有两个浏览器了
+
+@light 恭喜，chrome很好用吧（你怎么知道那是chrome）
+
+﻿[16:23:43]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[16:24:03]
+[None] light
+我之前看一博客的时候他提醒我是继续用Chrome还是打开软件
+
+﻿[16:24:13]
+[/9Br2y] 4n0n4me
+o 
+
+﻿[16:24:20]
+[None] ji
+hm
+
+﻿[16:24:20]
+[None] light
+@4n0n4me 
+
+﻿[16:24:21]
+[/9Br2y] 4n0n4me
+:o
+
+﻿[16:24:29]
+[None] ji
+按键好玩（
+
+﻿[16:24:46]
+[None] ll
+太棒啦
+
+﻿[16:24:50]
+[None] light
+能不能再发一下链接
+
+﻿[16:25:14]
+[/9Br2y] 4n0n4me
+https://hcer.netlify.app/?your-channel
+
+﻿[16:25:21]
+[None] ll
+对
+
+﻿[16:25:25]
+[Zvoxsl] jill
+:d
+
+﻿[16:25:32]
+[None] lightldchrome
+hi
+
+﻿[16:25:34]
+[Zvoxsl] jill
+dont click
+
+﻿[16:25:42]
+[None] lightldchrome
+我聊天就用这个吧
+
+﻿[16:25:47]
+[None] lightldchrome
+我聊天就用这个吧
+
+﻿[16:25:49]
+[None] lightldchrome
+c
+
+﻿[16:25:51]
+[Zvoxsl] jill
+dont click可以输什么（
+
+﻿[16:26:01]
+[None] lightldchrome
+极其方便
+
+﻿[16:26:02]
+[None] lightldchrome
+极其方便
+
+﻿[16:26:04]
+[None] lightldchrome
+极其方便
+
+﻿[16:26:05]
+[Zvoxsl] jill
+哈哈哈哈哈哈哈哈哈哈哈哈
+
+﻿[16:26:11]
+[None] lightldchrome
+按我之前的思路还需要打开侧边栏
+
+﻿[16:26:23]
+[/9Br2y] 4n0n4me
+可以输入copy
+
+﻿[16:26:27]
+[None] lightldchrome
+现在差不多是直接融合进键盘了
+
+﻿[16:26:42]
+[/9Br2y] 4n0n4me
+就是light说的复制最后一条消息
+
+﻿[16:26:42]
+[/9Br2y] 4n0n4me
+我目前只做了这么一个特殊功能
+
+﻿[16:26:53]
+[None] lightldchrome
+404我的神
+
+﻿[16:26:53]
+[Zvoxsl] jill
+ok
+
+﻿[16:26:53]
+[/9Br2y] 4n0n4me
+>lightldchrome：
+>404我的神
+
+@lightldchrome thxxxxxxxxxxx
+
+﻿[16:27:10]
+[None] lightldchrome
+太棒了
+
+﻿[16:28:23]
+[None] lightldchrome
+就我说这一个功能甩xc几条街
+
+﻿[16:29:01]
+[None] lightldchrome
+而且xc这么多手机用户
+
+﻿[16:29:11]
+[/9Br2y] 4n0n4me
+hhhh
+
+﻿[16:29:11]
+[/9Br2y] 4n0n4me
+唉，我上午还想说……
+
+﻿[16:29:17]
+[/9Br2y] 4n0n4me
+hc的用户对我这个客户端的开发者提出了如此多的要求（我自己的想法）
+
+﻿[16:29:36]
+[None] lightldchrome
+现在我玩ai画图方便多了
+
+﻿[16:29:46]
+[/9Br2y] 4n0n4me
+可是隔壁xc的用户~~好像不知道什么叫用户体验~~
+
+﻿[16:29:51]
+[None] lightldchrome
+?lobby
+
+﻿[16:29:53]
+[None] lightldchrome
+qs
+
+﻿[16:29:57]
+[/9Br2y] 4n0n4me
+让鱼可以只做他可以赚钱的功能（
+
+﻿[16:32:32]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[16:32:32]
+[/9Br2y] 4n0n4me
+？
+
+﻿[16:32:43]
+[/9Br2y] 4n0n4me
+:!lookup nick 404__
+
+﻿[16:32:49]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==5GLsNifdiQ1cBtp==: ['404__', '404', '404_', '4n0n4me', '4n0n4me__', '4n0n4me_']
+==Trips== for hash ==5GLsNifdiQ1cBtp==: ['/9Br2y']
+
+﻿[16:32:49]
+[/9Br2y] 4n0n4me
+ok。。
+
+﻿[16:33:08]
+[None] lightldchrome
+哈哈
+
+﻿[16:33:22]
+[/9Br2y] 4n0n4me
+我要不做个 ? 按钮？
+
+﻿[16:33:50]
+[/9Br2y] 4n0n4me
+其实我觉得现在的按钮已经够了
+
+﻿[16:35:34]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[16:35:36]
+[None] lightldchrome
+我觉得来个( ) "好
+
+﻿[16:35:41]
+[None] lightldchrome
+这三个高频符号
+
+﻿[16:35:52]
+[FUCkER] Sprinkle
+我还不想上学qwq
+
+﻿[16:35:55]
+[None] lightldchrome
+@Sprinkle 没事
+
+﻿[16:36:05]
+[FUCkER] Sprinkle
+周四就考试了
+
+﻿[16:36:14]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[16:36:15]
+[None] lightldchrome
+习惯就好了
+
+﻿[16:36:17]
+[FUCkER] Sprinkle
+qwq
+
+﻿[16:36:18]
+[/9Br2y] 4n0n4me
+这三个符合为何成为高频符号（
+
+﻿[16:36:30]
+[FUCkER] Sprinkle
+对，但是这个晚上最难熬
+
+﻿[16:36:34]
+[None] lightldchrome
+我上个星期天和你差不多
+
+﻿[16:36:36]
+[2ZQ3+0] Maggie
+hmmmm
+
+﻿[16:36:39]
+[2ZQ3+0] Maggie
+what happen bruh
+
+﻿[16:36:50]
+[/9Br2y] 4n0n4me
+没啥啊
+
+﻿[16:36:50]
+[/9Br2y] 4n0n4me
+就是在说开学的事情（
+
+﻿[16:36:55]
+[None] lightldchrome
+现在期中过了比较轻松
+
+﻿[16:36:57]
+[FUCkER] Sprinkle
+我每次都受不了开学的前几天
+
+﻿[16:36:58]
+[/9Br2y] 4n0n4me
+快开学了，最难熬
+
+﻿[16:37:03]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[16:37:03]
+[FUCkER] Sprinkle
+我开学就考试
+
+﻿[16:37:07]
+[None] lightldchrome
+反正我习惯了
+
+﻿[16:37:11]
+[FUCkER] Sprinkle
+周四
+
+﻿[16:37:11]
+[FUCkER] Sprinkle
+惨啊我
+
+﻿[16:37:16]
+[None] lightldchrome
+我这周二考的
+
+﻿[16:38:02]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[16:38:03]
+[None] lightldchrome
+@4n0n4me 加那三个就可以愉快的敲代码了
+
+﻿[16:38:09]
+[/9Br2y] 4n0n4me
+好家伙（
+
+﻿[16:38:17]
+[/9Br2y] 4n0n4me
+是你说的那个机器人吗
+
+﻿[16:38:25]
+[/9Br2y] 4n0n4me
+可以在hc运行代码的
+
+﻿[16:38:30]
+[2ZQ3+0] Maggie
+hmmm?
+
+﻿[16:38:51]
+[/9Br2y] 4n0n4me
+你这是打算用小爱老师学python啊😱（
+
+﻿[16:39:03]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[16:39:08]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[16:39:09]
+[FUCkER] Sprinkle
+a
+
+﻿[16:39:10]
+[None] lightldchrome
+我想给自己搞个运行代码的机器人
+
+﻿[16:39:14]
+[/9Br2y] 4n0n4me
+有时间了我做（
+
+﻿[16:39:19]
+[FUCkER] Sprinkle
+os ls
+
+﻿[16:39:34]
+[None] lightldchrome
+只不过我到现在没拿到电脑
+
+﻿[16:39:34]
+[EoZ5HO] Sprinkle
+像这样？
+
+﻿[16:39:41]
+[EoZ5HO] Sprinkle
+os ls
+
+﻿[16:39:43]
+[EoZ5HO] SprinkleBot
+```shell
+botrun.py
+main.py
+poetry.lock
+pyproject.toml
+replit.nix
+venv
+```
+
+﻿[16:39:43]
+[2ZQ3+0] Maggie
+我把share.lyka.pro今天所有图片下载下来了 -.-
+
+﻿[16:39:50]
+[EoZ5HO] Sprinkle
+py print(1)
+
+﻿[16:39:50]
+[EoZ5HO] SprinkleBot
+```shell
+1
+```
+
+﻿[16:39:51]
+[None] lightldchrome
+:o
+
+﻿[16:39:54]
+[None] lightldchrome
+好牛逼的样子
+
+﻿[16:40:01]
+[AAfFKK] _
+:!help
+
+﻿[16:40:02]
+[AAfFKK] AfK_Bot
+ @_ Your current identity : OWNER
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  :!statistics  :!slt  ==__:!send__  :!setatblv  :!setjlmsg  __:!findtrip__  :!ignore  :!notice  :!addop  :!removeop  :!-.-  :!afkclear  :!ad==
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+﻿[16:40:02]
+[EoZ5HO] Sprinkle
+但是没有几行代码
+
+﻿[16:40:11]
+[None] lightldchrome
+?your-channel
+
+﻿[16:40:22]
+[EoZ5HO] Sprinkle
+很简单的判定规则，bug也不少（
+
+﻿[16:40:34]
+[EoZ5HO] Sprinkle
+很简单的判定规则，bug也不少（
+
+﻿[16:40:36]
+[a/Jz/a] light
+obo
+
+﻿[16:40:38]
+[a/Jz/a] light
+啊
+
+﻿[16:40:44]
+[/9Br2y] 4n0n4me
+我可以在特殊功能里面加一个刷新
+
+﻿[16:41:00]
+[/9Br2y] 4n0n4me
+你要吗（
+
+﻿[16:41:30]
+[2ZQ3+0] Maggie
+?
+
+﻿[16:42:06]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[16:42:07]
+[a/Jz/a] light
+但是比较想要那三个符号
+
+﻿[16:42:09]
+[/9Br2y] 4n0n4me
+我有时间在做（。）
+
+﻿[16:42:27]
+[None] hh
+这个新的
+
+﻿[16:42:34]
+[None] hh
+有点缺陷
+
+﻿[16:42:41]
+[None] hh
+这个新的chrome的键盘覆盖了一部分的消息
+
+﻿[16:43:19]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[16:43:20]
+[/9Br2y] 4n0n4me
+啊对
+
+﻿[16:43:39]
+[/9Br2y] 4n0n4me
+你是说我这个hc的按钮吗
+
+﻿[16:43:42]
+[None] hh
+https://github.com/await-light
+
+﻿[16:43:44]
+[None] hh
+不是
+
+﻿[16:43:55]
+[/9Br2y] 4n0n4me
+我那个按钮，输入一点什么就不会覆盖了，而且我已经在本地版本修复
+
+﻿[16:44:07]
+[a/Jz/a] light
+不是不是
+
+﻿[16:44:20]
+[/9Br2y] 4n0n4me
+嗯嗯
+
+﻿[16:44:29]
+[AAfFKK] AfK_Bot
+hhmm 
+^G 
+
+﻿[16:44:30]
+[a/Jz/a] light
+我是说我的新浏览器
+
+﻿[16:44:32]
+[AAfFKK] _
+int
+
+﻿[16:44:37]
+[/9Br2y] 4n0n4me
+我未曾真的想过有人坚持使用小爱老师
+
+﻿[16:44:42]
+[AAfFKK] AfK_Bot
+hhmm 
+^G 
+^G 
+
+﻿[16:44:42]
+[EoZ5HO] SprinkleBot
+( ﾟ∀。)
+
+﻿[16:44:43]
+[/9Br2y] 4n0n4me
+但是，我确实曾经致力于这样的事情
+
+﻿[16:44:47]
+[/9Br2y] 4n0n4me
+我曾经编写一个用晓黑板app上网的攻略
+
+﻿[16:44:58]
+[a/Jz/a] light
+我试试能不能看github上的代码
+
+﻿[16:45:05]
+[/9Br2y] 4n0n4me
+我曾经希望写一个使用电子产品的教程
+
+﻿[16:45:08]
+[/9Br2y] 4n0n4me
+然后我设想过一些设备非常极端的人也会来看
+
+﻿[16:45:23]
+[/9Br2y] 4n0n4me
+但是我没想过这样的事情会真实发生（
+
+﻿[16:45:50]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[16:45:51]
+[a/Jz/a] light
+能不能把我刚刚上面发的那个git链接再发一下
+
+﻿[16:45:51]
+[EoZ5HO] SprinkleBot
+ ﾟ∀ﾟ)σ
+
+﻿[16:45:51]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[16:45:51]
+[a/Jz/a] light
+3
+
+﻿[16:45:53]
+[a/Jz/a] light
+q
+
+﻿[16:45:55]
+[/9Br2y] 4n0n4me
+>hh：
+>https://github.com/await-light
+
+@hh 
+
+﻿[16:46:05]
+[/9Br2y] 4n0n4me
+我不知道这几个404是哪来的
+
+﻿[16:46:13]
+[/9Br2y] 4n0n4me
+（
+
+﻿[16:46:14]
+[/9Br2y] 4n0n4me
+哦，是我的手机
+
+﻿[16:46:19]
+[/9Br2y] 4n0n4me
+我知道了
+
+﻿[16:46:21]
+[a/Jz/a] light
+hh
+
+﻿[16:46:45]
+[AAfFKK] AfK_Bot
+hhmm 
+^G 
+^GQQAA^G 
+
+﻿[16:46:58]
+[AAfFKK] AfK_Bot
+hhmm 
+^G 
+^GQQAA^G 
+
+﻿[16:46:59]
+[a/Jz/a] light
+a
+
+﻿[16:47:40]
+[2ZQ3+0] NoNameBot
+[2022-11-06 16:47:39.258999] NoNameBot Ready! version 0.1.4!
+
+﻿[16:47:40]
+[None] hh
+https://github.com/await-light
+
+﻿[16:48:05]
+[None] hh
+诶
+
+﻿[16:48:11]
+[None] hh
+网不好还是
+
+﻿[16:48:34]
+[/9Br2y] 4n0n4me
+我做了个关闭侧栏的按钮
+
+﻿[16:49:34]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[16:49:34]
+[/9Br2y] 404_
+现在我可以关闭侧栏
+
+﻿[16:49:41]
+[/9Br2y] 404_
+1
+
+﻿[16:49:45]
+[/9Br2y] 404_
+1
+
+﻿[16:49:53]
+[a/Jz/a] light
+ok
+
+﻿[16:50:08]
+[a/Jz/a] light
+?your-channel
+
+﻿[16:50:22]
+[a/Jz/a] light
+什么时候能加那三个符号
+
+﻿[16:51:45]
+[a/Jz/a] light
+hh
+
+﻿[16:51:45]
+[a/Jz/a] light
+o
+
+﻿[16:51:49]
+[/9Br2y] 4n0n4me
+你现在就要写代码吗（）
+
+﻿[16:51:55]
+[a/Jz/a] light
+///
+
+﻿[16:51:55]
+[a/Jz/a] light
+不
+
+﻿[16:52:00]
+[2ZQ3+0] Maggie
+电脑chrome有问题呀
+
+﻿[16:52:08]
+[a/Jz/a] light
+？？
+
+﻿[16:52:16]
+[2ZQ3+0] Maggie
+hcer
+
+﻿[16:52:56]
+[2ZQ3+0] Maggie
+很怪
+
+﻿[16:52:59]
+[2ZQ3+0] Maggie
+输入框只有原来的一半大小
+
+﻿[16:53:12]
+[/9Br2y] 4n0n4me
+aaa
+
+﻿[16:53:42]
+[/9Br2y] 4n0n4me
+这个问题曾经确实出现过
+
+﻿[16:53:51]
+[/9Br2y] 4n0n4me
+我认为我已经修好了？
+
+﻿[16:54:16]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[16:54:16]
+[/9Br2y] 404
+我去
+
+﻿[16:54:17]
+[EoZ5HO] SprinkleBot
+ ﾟ∀ﾟ)σ
+
+﻿[16:54:17]
+[/9Br2y] 404
+hcer崩了
+
+﻿[16:54:20]
+[/9Br2y] 404
+是netlify.app崩了吗
+
+﻿[16:54:56]
+[/9Br2y] 404
+这。可不是我的锅啊……
+
+﻿[16:55:19]
+[None] lightnew
+能把那个链接发下吗
+
+﻿[16:55:21]
+[/9Br2y] 404
+（我现在使用本地版本，输入框没问题）
+
+﻿[16:55:21]
+[/9Br2y] 404
+哪个链接
+
+﻿[16:55:26]
+[/9Br2y] 404
+（
+
+﻿[16:55:31]
+[a/Jz/a] light
+hc++
+
+﻿[16:55:35]
+[/9Br2y] 404
+崩了
+
+﻿[16:55:44]
+[/9Br2y] 404
+还有Maggie的
+
+﻿[16:55:49]
+[None] lightnew
+？
+
+﻿[16:55:51]
+[/9Br2y] 404
+hc.thz.cool
+
+﻿[16:56:02]
+[AAfFKK] AfK_Bot
+hhmm 
+^G 
+^GQQAA^Ghhmmmm^G 
+
+﻿[16:56:02]
+[None] lightnew
+什么
+
+﻿[16:56:04]
+[eYFDHl] ee_
+啊？
+
+﻿[16:56:04]
+[/9Br2y] 404
+netlify的hc++崩了
+
+﻿[16:56:04]
+[/9Br2y] 404
+好像是netlify崩了
+
+﻿[16:56:10]
+[eYFDHl] ee_
+我还在hc++里
+
+﻿[16:56:10]
+[/9Br2y] 404
+你们能上去吗（
+
+﻿[16:56:13]
+[/9Br2y] 404
+netlify.app
+
+﻿[16:56:15]
+[2ZQ3+0] Maggie
+hc.thz.cool没死
+
+﻿[16:56:18]
+[a/Jz/a] light
+我在里面
+
+﻿[16:56:18]
+[a/Jz/a] light
+https
+
+﻿[16:56:32]
+[eYFDHl] ee_
+能打开啊
+
+﻿[16:56:37]
+[/9Br2y] 404
+a ,
+
+﻿[16:56:42]
+[/9Br2y] 404
+现在恢复了
+
+﻿[16:56:44]
+[/9Br2y] 404
+https://hcer.netlify.app/
+
+﻿[16:56:49]
+[/9Br2y] 404
+也许吧
+
+﻿[16:56:51]
+[EoZ5HO] SprinkleBot
+( ﾟ∀。)
+
+﻿[16:56:51]
+[/9Br2y] 404
+|chat
+
+﻿[16:56:59]
+[/9Br2y] 404
+哎呀，我感觉今天的聊天记录挺珍贵的
+
+﻿[16:57:11]
+[/9Br2y] 404
+挺温馨的（
+
+﻿[16:57:13]
+[/9Br2y] 404
+dpg能不能提供下记录啊
+
+﻿[16:57:24]
+[/9Br2y] 404
+等dpg在线，问问他吧
+
+﻿[16:57:52]
+[None] lightnew
+a
+
+﻿[16:57:55]
+[None] lightnew
+a
+
+﻿[16:57:55]
+[None] lightnew
+a
+
+﻿[16:57:56]
+[eYFDHl] ee_
+@lightnew @404 https://paperee.guru/NovelAI.mp4
+
+﻿[16:58:01]
+[None] lightnew
+可恶
+
+﻿[16:58:17]
+[None] lightnew
+这个用来聊天不合适
+
+﻿[16:58:46]
+[/9Br2y] 404
+a 
+
+﻿[16:58:49]
+[/9Br2y] 404
+怎么说
+
+﻿[16:58:52]
+[/9Br2y] 404
+你是说chrome吗
+
+﻿[16:59:40]
+[EoZ5HO] SprinkleBot
+(　ﾟдﾟ)
+
+﻿[17:00:01]
+[AAfFKK] AfK_Bot
+2022-11-06 17:00:00
+![](https://i.gyazo.com/29c87a456db084562378881200352473.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[17:01:58]
+[None] atham
+Hii
+
+﻿[17:04:44]
+[eYFDHl] ee_
+hi
+
+﻿[17:05:04]
+[Zvoxsl] jill
+hi
+
+﻿[17:05:15]
+[eYFDHl] ee_
+https://paperee.guru/NovelAI.mp4 ←AI绘画特辑（再次
+
+﻿[17:05:20]
+[Zvoxsl] jill
+赶作业
+
+﻿[17:05:23]
+[eYFDHl] ee_
++++++++1
+
+﻿[17:05:32]
+[Zvoxsl] jill
+全是eb？（
+
+﻿[17:05:55]
+[Zvoxsl] jill
+没有
+
+﻿[17:06:12]
+[eYFDHl] ee_
+~~不不不 还有我 还有几张其他的~~
+
+﻿[17:06:20]
+[ktf4NW] Outlier
+？
+
+﻿[17:06:29]
+[ktf4NW] Outlier
+e？
+
+﻿[17:06:31]
+[eYFDHl] ee_
+还有一堆没放上去的
+
+﻿[17:06:46]
+[eYFDHl] ee_
+下个特辑见）
+
+﻿[17:06:53]
+[eYFDHl] ee_
+https://paperee.guru/eebot.mp4 ←这是第一个特辑 全是eb
+
+﻿[17:07:13]
+[ktf4NW] Outlier
+@ee_ ？
+
+﻿[17:07:41]
+[eYFDHl] ee_
+@Outlier 怎么了
+
+﻿[17:07:53]
+[eYFDHl] ee_
+AI画的画
+
+﻿[17:08:00]
+[ktf4NW] Outlier
+打不开
+
+﻿[17:08:03]
+[eYFDHl] ee_
+嘶
+
+﻿[17:08:08]
+[eYFDHl] ee_
+>ktf4NW Outlier：
+>打不开
+
+@Outlier 在加载吗
+
+﻿[17:08:30]
+[ktf4NW] Outlier
+网页走丢了
+
+﻿[17:08:31]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:08:48]
+[ktf4NW] Outlier
+这是@你的第一个原因（doge
+
+﻿[17:08:53]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:08:54]
+[ktf4NW] Outlier
+第二个原因
+
+﻿[17:08:58]
+[ktf4NW] Outlier
+hmmm
+
+﻿[17:09:03]
+[ktf4NW] Outlier
+不说了
+
+﻿[17:09:05]
+[2ZQ3+0] Maggie
+h
+
+﻿[17:09:09]
+[EoZ5HO] SprinkleBot
+(　ﾟдﾟ)
+
+﻿[17:09:09]
+[eYFDHl] ee_
+@Outlier http://217.114.47.63/NovelAI.mp4
+http://217.114.47.63/eebot.mp4
+
+﻿[17:09:20]
+[eYFDHl] ee_
+试试？
+
+﻿[17:09:22]
+[ktf4NW] Outlier
+看出来了
+
+﻿[17:10:03]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:10:06]
+[ktf4NW] Outlier
+@ee_ 全是以你为原型是吧[○･｀Д´･ ○]
+
+﻿[17:10:07]
+[0/JM7u] huolongguo1O
+有没有好点的图床
+
+﻿[17:10:15]
+[eYFDHl] ee_
+>ktf4NW Outlier：
+>@ee_ 全是以你为原型是吧[○･｀Д´･ ○]
+
+@Outlier ~~不！是eb~~
+
+﻿[17:10:26]
+[None] athama
+hii
+
+﻿[17:10:31]
+[ktf4NW] Outlier
+我永远爱路过图床
+
+﻿[17:10:40]
+[None] athama
+thinava
+
+﻿[17:10:53]
+[eYFDHl] ee_
+>0/JM7u huolongguo1O：
+>有没有好点的图床
+
+@huolongguo1O https://img.thz.cool/
+https://postimages.org/
+
+﻿[17:10:57]
+[0/JM7u] huolongguo1O
+稳定点
+
+﻿[17:11:08]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:11:17]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:11:33]
+[eYFDHl] ee_
+https://catbox.moe/
+
+﻿[17:11:43]
+[/9Br2y] 404
+@huolongguo1O postimages挺稳定的
+
+﻿[17:11:52]
+[ktf4NW] Outlier
+@ee_ 发现一张好玩的表情包
+
+﻿[17:11:53]
+[/9Br2y] 404
+老牌的了
+
+﻿[17:11:54]
+[ktf4NW] Outlier
+私发你把
+
+﻿[17:11:56]
+[eYFDHl] ee_
+好啊
+
+﻿[17:12:07]
+[ktf4NW] Outlier
+你别骂我（狗头保命
+
+﻿[17:12:34]
+[ktf4NW] Outlier
+用markdown？
+
+﻿[17:13:06]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:13:06]
+[None] athama
+hiiii
+
+﻿[17:13:46]
+[eYFDHl] ee_
+>ktf4NW Outlier：
+>你别骂我（狗头保命
+
+@Outlier ~~不会的~~
+
+﻿[17:14:09]
+[eYFDHl] ee_
+蛤
+
+﻿[17:14:21]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[17:14:21]
+[ktf4NW] Outlier
+我搜狗头怎么会搜出这个东西
+
+﻿[17:14:31]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[17:14:31]
+[eYFDHl] ee_
+~~好吧 我说不骂你的~~
+
+﻿[17:16:33]
+[None] athama
+chepu
+
+﻿[17:16:40]
+[2ZQ3+0] Maggie
+给我发发
+
+﻿[17:20:21]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:20:21]
+[2ZQ3+0] Maggie
+给我发发@Outlier @Outlier @Outlier @Outlier 
+
+﻿[17:23:37]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:23:48]
+[AAfFKK] AfK_Bot
+'hheelllloo\n^[gg^G \n'
+
+﻿[17:24:00]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[17:24:07]
+[AAfFKK] AfK_Bot
+'hheelllloo\n^[gg^Ghhh^\n'
+
+﻿[17:25:16]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:25:18]
+[AAfFKK] AfK_Bot
+'hhii^G \n'
+
+﻿[17:25:26]
+[AAfFKK] AfK_Bot
+'hhii^G \nhhmm^G \n'
+
+﻿[17:26:09]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:26:16]
+[AAfFKK] AfK_Bot
+hhiiiiiiii
+iiiiii^G 
+
+﻿[17:26:26]
+[AAfFKK] AfK_Bot
+hhiiiiiiii
+iiiiii^Gh^
+
+﻿[17:26:26]
+[/9Br2y] 4n0n4me
+》
+
+﻿[17:26:34]
+[ktf4NW] Outlier
+@Maggie 你确定？
+
+﻿[17:26:36]
+[2ZQ3+0] Maggie899
+@Outlier
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[17:26:36]
+[AAfFKK] AfK_Bot
+hhiiiiiiii
+iiiiii^Gh^
+
+﻿[17:26:37]
+[/9Br2y] 4n0n4me
+？
+
+﻿[17:26:38]
+[/9Br2y] 4n0n4me
+@Outlier 如果可以，给我也发发？
+
+﻿[17:26:55]
+[/9Br2y] 4n0n4me
+（
+
+﻿[17:26:56]
+[ktf4NW] Outlier
+。
+
+﻿[17:27:54]
+[2ZQ3+0] Maggie
+feic
+
+﻿[17:28:18]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[17:28:19]
+[/9Br2y] 4n0n4me
+看起来挺正常的
+
+﻿[17:28:19]
+[/9Br2y] 4n0n4me
+（
+
+﻿[17:28:20]
+[2ZQ3+0] Maggie
+非常确定
+
+﻿[17:28:24]
+[2ZQ3+0] Maggie
+给我！
+
+﻿[17:28:26]
+[None] Arcadia
+蛤
+
+﻿[17:29:03]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[17:29:04]
+[None] Arcadia
+什么东西
+
+﻿[17:29:05]
+[None] Arcadia
+有人吗
+
+﻿[17:29:38]
+[2ZQ3+0] Maggie
+给我！
+
+﻿[17:29:45]
+[None] Arcadia
+蛤蛤蛤？
+
+﻿[17:29:53]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[17:29:53]
+[2ZQ3+0] Maggie
+em
+
+﻿[17:29:56]
+[ktf4NW] Outlier
+头一回瞅见爱挨骂的人
+
+﻿[17:30:10]
+[/9Br2y] 4n0n4me
+是一张表情包
+
+﻿[17:30:16]
+[None] mouseemmm
+给什么啊
+
+﻿[17:30:21]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:30:24]
+[AAfFKK] AfK_Bot
+hhii^G 
+
+﻿[17:30:25]
+[/9Br2y] 4n0n4me
+我决定直接公屏发出这个表情包
+
+﻿[17:30:27]
+[ktf4NW] Outlier
+@mouseemmm 你要吗
+
+﻿[17:30:29]
+[ktf4NW] Outlier
+@4n0n4me 我本来也是这么想
+
+﻿[17:30:37]
+[/9Br2y] 4n0n4me
+如果你们都愿意看
+
+﻿[17:30:39]
+[ktf4NW] Outlier
+我怕挨骂
+
+﻿[17:30:44]
+[ktf4NW] Outlier
+…
+
+﻿[17:30:47]
+[None] mouseemmm
+@Outlier 要什么啊
+
+﻿[17:30:51]
+[2ZQ3+0] Maggie
+我还以为
+
+﻿[17:30:53]
+[2ZQ3+0] Maggie
+是
+
+﻿[17:30:54]
+[ktf4NW] Outlier
+[v2-f527b3e700889d79be6f834759cfe1ae-720w.gif](https://postimg.cc/crWsG4FB)
+
+﻿[17:30:56]
+[2ZQ3+0] Maggie
+nsfw
+
+﻿[17:30:57]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:30:58]
+[ktf4NW] Outlier
+自己看吧
+
+﻿[17:31:04]
+[AAfFKK] AfK_Bot
+QQAAQQ^G 
+
+﻿[17:31:04]
+[None] mouseemmm
+。。。
+
+﻿[17:31:16]
+[AAfFKK] AfK_Bot
+aa  bbiitt
+  ssttrra^
+
+﻿[17:31:16]
+[None] mouseemmm
+这有啥好看的
+
+﻿[17:31:21]
+[AAfFKK] _
+int
+
+﻿[17:31:22]
+[ktf4NW] Outlier
+我不到啊
+
+﻿[17:31:38]
+[2ZQ3+0] Maggie
+![](https://file.thz.cool/mirrors/.user-request-download/88f0d6d8f8432db-v2-f527b3e700889d79be6f834759cfe1ae-720w.gif)
+
+﻿[17:32:11]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:32:15]
+[AAfFKK] AfK_Bot
+hhmmmmmm^G 
+
+﻿[17:32:21]
+[AAfFKK] AfK_Bot
+ssttiillll^G 
+
+﻿[17:32:21]
+[2ZQ3+0] Maggie
+【决策部】朽木自雕 下午 5:28:22
+这周我众筹一下 然后看一下意向
+
+【决策部】朽木自雕 下午 5:28:34
+下周六开始搞
+
+【潜水】【技术和设计支持】Ice团队站长 下午 5:28:46
+kangle没学过
+
+【潜水】一只布偶猫猫 下午 5:29:06
+行
+
+【决策部】朽木自雕 下午 5:29:12
+@【技术和设计支持】Ice团队站长 你闭麦 你应该参与不了 技术不行
+
+【潜水】【技术和设计支持】Ice团队站长 下午 5:29:17
+好
+
+﻿[17:32:30]
+[2ZQ3+0] Maggie
+ice出丑了（
+
+﻿[17:32:37]
+[AAfFKK] AfK_Bot
+pprroobblleemm 
+^G 
+
+﻿[17:32:37]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[17:32:37]
+[/9Br2y] 4n0n4me
+hhhhhhhhhhhhhhhh
+
+﻿[17:32:54]
+[EoZ5HO] Sprinkle
+朽木是xxs吗（
+
+﻿[17:32:58]
+[2ZQ3+0] Maggie
+【决策部】朽木自雕 下午 5:25:46
+后端的麻鸡  
+对接xingyi码支付？
+@后端的麻鸡 啥
+
+【潜水】【技术和设计支持】Ice团队站长 下午 5:25:57
+直接对接的意思吧
+
+【决策部】朽木自雕 下午 5:26:16
+支付没用过你扯锤子销售系统
+
+【潜水】【技术和设计支持】Ice团队站长 下午 5:26:39
+能不能文明点……
+
+【潜水】麦子 下午 5:26:49
+6
+
+【决策部】朽木自雕 下午 5:26:53
+你能不能别天天吹
+
+【技术部】后端的麻鸡 下午 5:27:18
+这就是我当初把你从tc封禁的原因
+
+﻿[17:33:03]
+[2ZQ3+0] Maggie
+@Sprinkle 怎么可能
+
+﻿[17:33:08]
+[EoZ5HO] Sprinkle
+情商零点
+
+﻿[17:33:16]
+[2ZQ3+0] Maggie
+lol
+
+﻿[17:33:16]
+[/9Br2y] 4n0n4me
+hhhhhhhhhhhhhhhhhhh
+
+﻿[17:33:17]
+[EoZ5HO] Sprinkle
+他好像就是小学生
+
+﻿[17:33:18]
+[2ZQ3+0] Maggie
+因为ice是真的太喜欢吹了
+
+﻿[17:33:29]
+[a/Jz/a] light
+ice是什么
+
+﻿[17:33:32]
+[a/Jz/a] light
+ice fish
+
+﻿[17:33:40]
+[/9Br2y] 4n0n4me
+>EoZ5HO Sprinkle：
+>情商零点
+
+@Sprinkle 朽木自雕贵为星弈创始人，地位崇高啊（
+
+﻿[17:33:40]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[17:33:40]
+[2ZQ3+0] Maggie
+@Sprinkle 小学生能开出活跃的sfs论坛？
+
+﻿[17:33:43]
+[/9Br2y] 4n0n4me
+而且他技术也确实好
+
+﻿[17:33:48]
+[2ZQ3+0] Maggie
+对
+
+﻿[17:33:57]
+[a/Jz/a] light
+ice是聊天室的人吗
+
+﻿[17:34:06]
+[EoZ5HO] Sprinkle
+@Maggie 那怎么了
+
+﻿[17:34:14]
+[2ZQ3+0] Maggie899
+@Sprinkle
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[17:34:14]
+[/9Br2y] 4n0n4me
+ice去过xc和tc
+
+﻿[17:34:16]
+[a/Jz/a] light
+.
+
+﻿[17:34:21]
+[/9Br2y] 4n0n4me
+ice行为举止引起众怒
+
+﻿[17:34:23]
+[/9Br2y] 4n0n4me
+如同破坏者
+
+﻿[17:34:26]
+[/9Br2y] 4n0n4me
+被封禁
+
+﻿[17:34:28]
+[EoZ5HO] Sprinkle
+之前朽木就是个熊孩子
+
+﻿[17:34:34]
+[a/Jz/a] light
+昂
+
+﻿[17:34:37]
+[/9Br2y] 4n0n4me
+好家伙
+
+﻿[17:34:40]
+[EoZ5HO] SprinkleBot
+( ﾟ∀。)
+
+﻿[17:34:40]
+[EoZ5HO] Sprinkle
+代码全是抄的
+
+﻿[17:34:43]
+[/9Br2y] 4n0n4me
+这确实
+
+﻿[17:34:46]
+[/9Br2y] 4n0n4me
+看得出来
+
+﻿[17:34:52]
+[/9Br2y] 4n0n4me
+（
+
+﻿[17:34:53]
+[EoZ5HO] Sprinkle
+聊天室用的现成的
+
+﻿[17:34:54]
+[a/Jz/a] light
+如果他是xc的破坏者
+
+﻿[17:34:56]
+[a/Jz/a] light
+@#！✔:～*
+
+﻿[17:35:00]
+[EoZ5HO] Sprinkle
+聊天室背景都没改
+
+﻿[17:35:07]
+[a/Jz/a] light
+hhh
+
+﻿[17:35:13]
+[/9Br2y] 4n0n4me
+这可能他不需要改呢
+
+﻿[17:35:20]
+[/9Br2y] 4n0n4me
+我觉得技术比起我还是强很多的
+
+﻿[17:35:27]
+[/9Br2y] 4n0n4me
+（
+
+﻿[17:35:38]
+[EoZ5HO] Sprinkle
+更可气的就是，他把GitHub链接去掉了
+
+﻿[17:35:38]
+[EoZ5HO] Sprinkle
+（
+
+﻿[17:35:52]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:36:03]
+[/9Br2y] 4n0n4me
+>EoZ5HO Sprinkle：
+>更可气的就是，他把GitHub链接去掉了
+
+@Sprinkle 是啊！
+
+﻿[17:36:06]
+[None] athama
+hii
+r
+
+﻿[17:36:10]
+[/9Br2y] 4n0n4me
+那个聊天室叫fiora吧
+
+﻿[17:36:15]
+[/9Br2y] 4n0n4me
+我曾经见过
+
+﻿[17:36:17]
+[None] atham
+Thinava
+
+﻿[17:36:18]
+[None] athama
+ledu
+
+﻿[17:36:23]
+[/9Br2y] 4n0n4me
+但是如果不是见过，真看不出来
+
+﻿[17:36:24]
+[EoZ5HO] Sprinkle
+对
+
+﻿[17:36:35]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:36:36]
+[None] mouseemmm
+听说
+
+﻿[17:36:41]
+[None] mouseemmm
+你们
+
+﻿[17:36:41]
+[None] mouseemmm
+在讨论ice
+
+﻿[17:36:46]
+[/9Br2y] 4n0n4me
+我还以为你听说我们在诋毁朽木自雕
+
+﻿[17:36:54]
+[None] mouseemmm
+他的fiora
+
+﻿[17:37:02]
+[EoZ5HO] Sprinkle
+朽木打广告确实烦人
+
+﻿[17:37:11]
+[/9Br2y] 4n0n4me
+ice也有个fiora，我知道
+
+﻿[17:37:16]
+[None] mouseemmm
+网上一搜就有
+
+﻿[17:37:16]
+[/9Br2y] 4n0n4me
+是啊
+
+﻿[17:37:18]
+[None] mouseemmm
+我也知道
+
+﻿[17:37:22]
+[None] mouseemmm
+朽木自雕是什么
+
+﻿[17:37:31]
+[/9Br2y] 4n0n4me
+我那一次见到fiora的时候，就看见GitHub链接
+
+﻿[17:37:32]
+[None] mouseemmm
+我不知道
+
+﻿[17:37:34]
+[EoZ5HO] Sprinkle
+朽木打广告确实烦人，管理员劝他都不听
+
+﻿[17:37:41]
+[/9Br2y] 4n0n4me
+朽木自雕是星聊站长
+
+﻿[17:37:41]
+[/9Br2y] 4n0n4me
+>EoZ5HO Sprinkle：
+>朽木打广告确实烦人，管理员劝他都不听
+
+@Sprinkle 在cc？
+
+﻿[17:37:47]
+[None] mouseemmm
+bye
+
+﻿[17:37:52]
+[EoZ5HO] Sprinkle
+你以为呢
+
+﻿[17:37:54]
+[/9Br2y] 4n0n4me
+我想起来了，cc和星聊的广告问题
+
+﻿[17:38:02]
+[eYFDHl] ee_
+那得是多久前的事了（（
+
+﻿[17:38:43]
+[eYFDHl] ee_
+不过xmzd确实是个挺厉害的人
+
+﻿[17:39:08]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:39:10]
+[AAfFKK] AfK_Bot
+tteesstt^G 
+hhmm^G 
+
+﻿[17:39:10]
+[eYFDHl] ee_
+https://files.catbox.moe/m0l10l.mp4
+https://files.catbox.moe/gv4nz2.mp4
+
+﻿[17:39:56]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:39:56]
+[AAfFKK] AfK_Bot
+tteesstt^G 
+
+﻿[17:39:58]
+[None] Arcadia
+awa
+
+﻿[17:41:08]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:41:25]
+[AAfFKK] _
+?
+
+﻿[17:41:25]
+[None] Arcadia
+hihi
+
+﻿[17:41:39]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[17:41:39]
+[7EMhUN] CaO
+:/
+
+﻿[17:41:44]
+[AAfFKK] AfK_Bot
+test
+
+﻿[17:41:50]
+[AAfFKK] AfK_Bot
+wow\nawa
+
+﻿[17:41:51]
+[AAfFKK] __
+hm
+
+﻿[17:41:59]
+[AAfFKK] AfK_Bot
+hi
+
+﻿[17:42:39]
+[AAfFKK] AfK_Bot
+&#x202e;
+
+﻿[17:42:39]
+[7EMhUN] CaO
+跟小区所有的猫咪认识啦！
+
+﻿[17:42:48]
+[None] Arcadia
+6
+
+﻿[17:42:52]
+[7EMhUN] CaO
+( ´▽｀)
+
+﻿[17:43:02]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[17:43:02]
+[AAfFKK] __
+@AfK_Bot reboot
+
+﻿[17:43:10]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[17:43:10]
+[7EMhUN] CaO
+还有几只狗狗
+
+﻿[17:43:11]
+[None] Arcadia
+去 ?lobby 有好东西
+
+﻿[17:43:13]
+[AAfFKK] AfK_Bot
+test
+
+﻿[17:43:19]
+[AAfFKK] AfK_Bot
+awa
+ovo
+
+﻿[17:43:19]
+[AAfFKK] __
+time to go~
+
+﻿[17:43:34]
+[AAfFKK] __
+:!help
+
+﻿[17:43:38]
+[AAfFKK] AfK_Bot
+ @__ Your current identity : OWNER
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  :!statistics  :!slt  ==__:!send__  :!setatblv  :!setjlmsg  __:!findtrip__  :!ignore  :!notice  :!addop  :!removeop  :!-.-  :!afkclear  :!ad==
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+﻿[17:43:38]
+[/9Br2y] 4n0n4me
+@__ @__ @__ 
+
+﻿[17:43:41]
+[AAfFKK] __
+?
+
+﻿[17:43:49]
+[/9Br2y] 4n0n4me
+can you give me today's log
+
+﻿[17:43:53]
+[AAfFKK] __
+whyyy?
+
+﻿[17:44:09]
+[/9Br2y] 4n0n4me
+~~今天我的客户端被许多人赞扬了，我希望保存~~
+
+﻿[17:44:10]
+[AAfFKK] __
+ovo
+
+﻿[17:44:13]
+[AAfFKK] __
+ok
+
+﻿[17:44:14]
+[AAfFKK] __
+~~next weekend~~
+
+﻿[17:44:20]
+[AAfFKK] __
+also ask ee
+
+﻿[17:44:28]
+[/9Br2y] 4n0n4me
+awa, thats ok
+
+﻿[17:44:32]
+[AAfFKK] __
+because i've been
+
+﻿[17:44:34]
+[/9Br2y] 4n0n4me
+|chat
+
+﻿[17:44:36]
+[AAfFKK] __
+adding some func
+
+﻿[17:44:40]
+[AAfFKK] __
+schoooolllllll
+
+﻿[17:44:45]
+[AAfFKK] __
+bywwwww
+
+﻿[17:44:48]
+[/9Br2y] 4n0n4me
+byeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+﻿[17:44:50]
+[AAfFKK] __
+@4n0n4me awa
+
+﻿[17:44:55]
+[None] Arcadia
+什么客户端？
+
+﻿[17:44:56]
+[None] Arcadia
+我康康
+
+﻿[17:45:02]
+[/9Br2y] 4n0n4me
+https://hcer.netlify.app/?your-channel
+
+﻿[17:45:06]
+[None] Arcadia
+哦哦
+
+﻿[17:45:14]
+[2ZQ3+0] Maggie
+|chat
+
+﻿[17:46:12]
+[None] Dengey
+Hi 
+
+﻿[17:46:43]
+[None] Arcadia
+哦吼
+
+﻿[17:46:55]
+[None] Arcadia
+不错
+
+﻿[17:47:20]
+[None] Arcadia
+但……可以做得更好
+如果比原版没有多少新功能的话 用的人会很少
+
+﻿[17:47:43]
+[/9Br2y] 4n0n4me
+这些天来我做了非常多的新功能（
+
+﻿[17:48:28]
+[/9Br2y] 4n0n4me
+比如免疫latex武器（最早做的之一）
+
+﻿[17:48:58]
+[None] Arcadia
+没仔细看 有什么
+
+﻿[17:49:01]
+[/9Br2y] 4n0n4me
+比如引用（也是最早做的之一）
+
+﻿[17:49:04]
+[None] Arcadia
+还有啥
+
+﻿[17:49:24]
+[/9Br2y] 4n0n4me
+还有invite（也是最早做的之一）
+
+﻿[17:49:53]
+[/9Br2y] 4n0n4me
+还有日志记录
+
+﻿[17:49:56]
+[/9Br2y] 4n0n4me
+[2022/11/6 17:49:39] *: You invited Arcadia to ?look
+[2022/11/6 17:49:52] *: Outlier left
+[2022/11/6 17:49:56] 4n0n4me#/9Br2y: 还有日志记录
+
+﻿[17:50:12]
+[/9Br2y] 4n0n4me
+还有
+
+﻿[17:50:20]
+[/9Br2y] 4n0n4me
+移动端优化
+
+﻿[17:50:31]
+[/9Br2y] 4n0n4me
+还有自动改色
+
+﻿[17:50:56]
+[None] Arcadia
+提个建议：`Users online`加识别码 左键@右键invite
+
+﻿[17:50:57]
+[/9Br2y] 4n0n4me
+本来invite就是左键，现在手机端没法invite了
+
+﻿[17:51:19]
+[/9Br2y] 4n0n4me
+而且@本来有这方面的功能，就是tab不全
+
+﻿[17:51:36]
+[/9Br2y] 4n0n4me
+而且@本来有这方面的功能，就是tab补全
+
+﻿[17:51:39]
+[None] Arcadia
+我的意思是users online点的时候是@人 右键改成invite
+
+﻿[17:51:52]
+[None] Arcadia
+手机就长按
+
+﻿[17:52:04]
+[/9Br2y] 4n0n4me
+长按我不会做，要不你帮我写（
+
+﻿[17:52:15]
+[None] Arcadia
+我更不会啊（）
+
+﻿[17:52:20]
+[None] Arcadia
+双击（）
+
+﻿[17:52:26]
+[EoZ5HO] SprinkleBot
+(ノﾟ∀ﾟ)ノ
+
+﻿[17:52:27]
+[/9Br2y] 4n0n4me
+我觉得@的方法已经足够了
+
+﻿[17:52:30]
+[/9Br2y] 4n0n4me
+双击我也不会（
+
+﻿[17:52:34]
+[None] Arcadia
+啥？
+
+﻿[17:52:35]
+[None] Arcadia
+> 我觉得@的方法已经足够了
+什么@的方法
+
+﻿[17:52:51]
+[None] Arcadia
+自定义配色
+
+﻿[17:53:13]
+[/9Br2y] 4n0n4me
+比如你输入
+@4
+
+﻿[17:53:20]
+[/9Br2y] 4n0n4me
+然后按Tab
+
+﻿[17:53:23]
+[/9Br2y] 4n0n4me
+就可以自动补全，这个是原版的功能
+
+﻿[17:53:29]
+[/9Br2y] 4n0n4me
+甚至移动端也能用tab
+
+﻿[17:53:38]
+[/9Br2y] 4n0n4me
+自定义配色也太难了（）
+
+﻿[17:53:52]
+[None] Arcadia
+emmmm
+
+﻿[17:54:02]
+[/9Br2y] 4n0n4me
+我这个自定义改色指的是你加入的时候可以自动用color命令
+
+﻿[17:54:14]
+[None] Arcadia
+这个可以
+
+﻿[17:54:22]
+[None] Arcadia
+在加个自动变色
+
+﻿[17:54:28]
+[None] Arcadia
+👍
+
+﻿[17:54:36]
+[/9Br2y] 4n0n4me
+啥是自动变色（
+
+﻿[17:54:41]
+[/9Br2y] 4n0n4me
+>/9Br2y 4n0n4me：
+>我这个自定义改色指的是你加入的时候可以自动用color命令
+
+这个已经有了
+
+﻿[17:54:45]
+[None] Arcadia
+参考afkbot
+
+﻿[17:54:50]
+[/9Br2y] 4n0n4me
+用户列表加识别码我觉得不错
+
+﻿[17:54:53]
+[/9Br2y] 4n0n4me
+>Arcadia：
+>参考afkbot
+
+@Arcadia 好，我有时间做做
+
+﻿[17:55:03]
+[/9Br2y] 4n0n4me
+~~虽然我觉得不是刚需~~
+
+﻿[17:55:10]
+[None] Arcadia
+还有 加一个无限制展示图片
+
+﻿[17:55:31]
+[/9Br2y] 4n0n4me
+我增加了一部分的图片白名单
+
+﻿[17:55:41]
+[/9Br2y] 4n0n4me
+无限制……我有时间做吧（）
+
+﻿[17:55:52]
+[/9Br2y] 4n0n4me
+但是已经收到的消息没法改
+
+﻿[17:56:01]
+[None] Arcadia
+以及：加中文！！！！！
+
+﻿[17:56:02]
+[/9Br2y] 4n0n4me
+中文？不可能！（
+
+﻿[17:56:09]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[17:56:10]
+[None] Arcadia
+why
+
+﻿[17:56:13]
+[None] Arcadia
+WHY???
+
+﻿[17:56:16]
+[/9Br2y] 4n0n4me
+因为服务端的消息就是英文的，客户端就算全改成中文，也是割裂的
+
+﻿[17:56:22]
+[None] Arcadia
+什么消息
+
+﻿[17:56:32]
+[/9Br2y] 4n0n4me
+比如说
+
+﻿[17:56:35]
+[None] Arcadia
+额 举个例子
+
+﻿[17:56:38]
+[/9Br2y] 4n0n4me
+>!：
+>Invalid color! Color must be in hex value
+
+@! 
+
+﻿[17:56:50]
+[None] Arcadia
+~~实现自动翻译~~
+
+﻿[17:57:06]
+[/9Br2y] 4n0n4me
+比如说被rate limit的时候的消息
+
+﻿[17:57:07]
+[/9Br2y] 4n0n4me
+>Arcadia：
+>~~实现自动翻译~~
+
+@Arcadia 我曾经想过，对于客户端的体量来说，工作量太大了（
+
+﻿[17:57:24]
+[EoZ5HO] SprinkleBot
+( ﾟ∀。)
+
+﻿[17:57:24]
+[None] Arcadia
+我觉得可以加一个对照表
+
+﻿[17:57:31]
+[/9Br2y] 4n0n4me
+~~小张做了中文~~
+
+﻿[17:58:05]
+[None] Arcadia
+也就只有!叹号会有服务器消息的吧
+
+﻿[17:58:18]
+[eYFDHl] ee_
+aw
+
+﻿[17:58:30]
+[eYFDHl] ee_
+https://paperee.guru/2022.11.06_your-channel.txt
+
+﻿[17:58:31]
+[eYFDHl] ee_
+今天的部分聊天记录先给你们吧
+
+﻿[17:58:43]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[17:58:44]
+[/9Br2y] 4n0n4me
+thx :D
+
+﻿[17:58:46]
+[eYFDHl] ee_
+我的文档被判定成“隐私政策文档” sd不让我上传了（悲）
+
+﻿[17:59:06]
+[/9Br2y] 4n0n4me
+好家伙
+
+﻿[17:59:11]
+[/9Br2y] 4n0n4me
+啥叫隐私政策文档
+
+﻿[17:59:16]
+[None] Arcadia
+soft@mention 是啥
+
+﻿[17:59:27]
+[/9Br2y] 4n0n4me
+@ Arcadia 
+
+﻿[17:59:34]
+[/9Br2y] 4n0n4me
+@自动加空格，防止打扰管理员
+
+﻿[17:59:41]
+[/9Br2y] 4n0n4me
+~~这个确实不是刚需~~
+
+﻿[17:59:45]
+[None] Arcadia
+打扰管理员？
+
+﻿[17:59:54]
+[eYFDHl] ee_
+https://blog.paperee.guru/?page_id=517
+
+﻿[17:59:54]
+[/9Br2y] 4n0n4me
+我自己也很少用
+
+﻿[17:59:55]
+[None] Arcadia
+什么意思
+
+﻿[17:59:59]
+[eYFDHl] ee_
+像是这种吧）
+
+﻿[18:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 18:00:00
+![](https://i.gyazo.com/6d8a3141db06b15a76e3f5067b1b7fdb.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[18:00:00]
+[/9Br2y] 4n0n4me
+有的时候，你觉得有需要提到一个管理员
+
+﻿[18:00:06]
+[/9Br2y] 4n0n4me
+但是怕给他弹出通知
+
+﻿[18:00:12]
+[eYFDHl] ee_
+这个是wp的预设
+
+﻿[18:00:18]
+[None] Arcadia
+呃呃
+
+﻿[18:00:18]
+[None] Arcadia
+我觉得更需要连续私聊
+
+﻿[18:00:43]
+[None] Arcadia
+比如说我加个命令
+之后的消息都会自动加上`\w nick`
+
+﻿[18:01:26]
+[/9Br2y] 4n0n4me
+我想过，做不来，放弃了（
+
+﻿[18:02:45]
+[/9Br2y] 4n0n4me
+有时间我再做做
+
+﻿[18:04:11]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[18:04:11]
+[EoZ5HO] SprinkleBot
+( ﾟ∀。)
+
+﻿[18:05:49]
+[2ZQ3+0] Maggie
+```
+import requests,time,tqdm,threading
+
+def go(i):
+    times=0
+    while 1:
+        try:
+            print(f"[Worker#{i.split('/')[-1]}]Getting Image")
+            a=requests.get(i,stream=True)
+            print(f"[Worker#{i.split('/')[-1]}]OK.")
+            with open("./nsfw_phos/"+i.split("/")[-1],"wb+") as f:
+                for i in tqdm.tqdm(a.iter_content(512)):
+                    f.write(i)
+        except:
+            print(f"[Worker#{i.split('/')[-1]}]Cannot get Image.")
+            time.sleep(1)
+            times+=1
+            if times > 6:
+                print(f"[Worker#{i.split('/')[-1]}]Retrys too much,canceling.")
+                break
+        else:
+            break
+while 1:
+    url=input("URL:")
+    go(url)
+
+```
+
+﻿[18:09:13]
+[2ZQ3+0] Maggie
+涩图下载器
+
+﻿[18:09:18]
+[/9Br2y] 4n0n4me
+这和涩不涩有关系吗（）
+
+﻿[18:11:43]
+[None] Arcadia
+图 片 下 载 器
+
+﻿[18:12:00]
+[/9Br2y] 4n0n4me
+~~甚至也不一定是下载图片~~
+
+﻿[18:12:38]
+[2ZQ3+0] Maggie
+ind
+
+﻿[18:13:05]
+[2ZQ3+0] Maggie
+文件夹名称
+
+﻿[18:13:12]
+[/9Br2y] 4n0n4me
+:!afk dine
+
+﻿[18:18:13]
+[AAfFKK] AfK_Bot
+ @4n0n4me You are marked AfK.
+
+﻿[18:23:51]
+[a/Jz/a] light
+hi
+
+﻿[18:30:23]
+[a/Jz/a] light
+有人吗
+
+﻿[18:31:02]
+[a/Jz/a] light
+有人吗
+
+﻿[18:31:04]
+[a/Jz/a] light
+	hi
+
+﻿[18:31:30]
+[None] light
+hi
+
+﻿[18:31:31]
+[None] light
+有人吗
+
+﻿[18:32:35]
+[None] light
+hi
+
+﻿[18:32:37]
+[None] light
+有人吗
+
+﻿[18:32:40]
+[None] light
+有人吗
+
+﻿[18:32:44]
+[None] light
+hi？
+
+﻿[18:34:00]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[18:34:01]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[18:34:28]
+[2ZQ3+0] Maggie
+我是bottom——(再次
+
+﻿[18:34:40]
+[/9Br2y] 4n0n4me_
+呵呵
+
+﻿[18:35:25]
+[/9Br2y] 4n0n4me_
+（开玩笑的）
+
+﻿[18:35:31]
+[/9Br2y] 4n0n4me_
+*开玩笑的*
+
+﻿[18:35:37]
+[/9Br2y] 4n0n4me_
+*我已经今非昔比*
+
+﻿[18:35:41]
+[/9Br2y] 4n0n4me_
+*我已经从诸界之门得到禁忌的知识*
+
+﻿[18:35:55]
+[/9Br2y] 4n0n4me_
+*即使是外神之殿的游格*
+
+﻿[18:36:19]
+[/9Br2y] 4n0n4me_
+*我也能与之比试*
+
+﻿[18:39:55]
+[None] light
+hi
+
+﻿[18:40:07]
+[/9Br2y] 4n0n4me_
+hi
+
+﻿[18:40:09]
+[None] light
+挖槽
+
+﻿[18:40:31]
+[None] light
+那个斜体打出来的话好有逼格
+
+﻿[18:40:46]
+[/9Br2y] 4n0n4me_
+？
+
+﻿[18:40:48]
+[None] light
+我也想学
+
+﻿[18:40:50]
+[/9Br2y] 4n0n4me_
+这
+
+﻿[18:40:53]
+[None] light
+*I Am Light*
+
+﻿[18:41:05]
+[/9Br2y] 4n0n4me_
+awa
+
+﻿[18:41:09]
+[None] light
+OHHHHH
+
+﻿[18:41:12]
+[/9Br2y] 4n0n4me_
+我的中心思想：我很有知识，我现在知道啥是bottom了
+
+﻿[18:41:22]
+[None] light
+az
+
+﻿[18:41:30]
+[None] light
+c
+
+﻿[18:41:50]
+[None] light
+撤回
+
+﻿[18:41:52]
+[/9Br2y] 4n0n4me_
+我的按钮要超标了
+
+﻿[18:41:58]
+[None] light
+把链接发给我
+
+﻿[18:42:14]
+[EoZ5HO] SprinkleBot
+ ﾟ∀ﾟ)σ
+
+﻿[18:42:14]
+[None] light
+from websocket import create_connection
+
+﻿[18:42:59]
+[None] light
+@4n0n4me_ hc++的
+
+﻿[18:43:04]
+[None] light
+链接
+
+﻿[18:43:06]
+[/9Br2y] 4n0n4me_
+我还没部署完（
+
+﻿[18:43:11]
+[None] light
+我刚不小心退了
+
+﻿[18:43:14]
+[None] light
+a
+
+﻿[18:43:17]
+[None] mouse
+azzzz
+
+﻿[18:43:54]
+[/9Br2y] 4n0n4me_
+https://hcer.netlify.app/?your-channel
+
+﻿[18:43:56]
+[/9Br2y] 4n0n4me_
+你需要在dont click里面输入
+
+﻿[18:44:04]
+[/9Br2y] 4n0n4me_
+coderMode
+
+﻿[18:44:06]
+[/9Br2y] 4n0n4me_
+激活 ( ) "
+
+﻿[18:44:21]
+[None] mouse
+这是个没有汉化的客户端
+
+﻿[18:44:34]
+[/9Br2y] 4n0n4me_
+~~抱歉，我就是这么做的，我希望我的客户端的更多有普适性的功能摆在更显眼的位置~~
+
+﻿[18:44:44]
+[/9Br2y] 4n0n4me_
+是的，我拒绝汉化（）
+
+﻿[18:44:49]
+[/9Br2y] 4n0n4me_
+你们可以fork
+
+﻿[18:44:53]
+[/9Br2y] 4n0n4me_
+然后进行汉化
+
+﻿[18:44:55]
+[/9Br2y] 4n0n4me_
+虽然没有汉化，主页的内容确实是我改过的
+
+﻿[18:45:22]
+[None] mouse
+az
+
+﻿[18:45:33]
+[/9Br2y] 4n0n4me_
+qly fork了我的客户端（虽然他没标我的repo的链接，让我有点 :( ）
+
+﻿[18:45:53]
+[None] mouse
+我的汉化了
+
+﻿[18:45:53]
+[/9Br2y] 4n0n4me_
+可以让他汉化（
+
+﻿[18:45:57]
+[None] mouse
+qiu好像也fork了我的...
+
+﻿[18:46:10]
+[/9Br2y] 4n0n4me_
+我不汉化的主要原因是，hc本身是英语的，我觉得汉化以后有点割裂
+
+﻿[18:46:24]
+[/9Br2y] 4n0n4me_
+还有就是希望这个客户端看起来接近原版
+
+﻿[18:46:31]
+[/9Br2y] 4n0n4me_
+我做了一些我认为非常好的功能，例如一个关闭侧边栏的按钮
+
+﻿[18:46:55]
+[/9Br2y] 4n0n4me_
+（
+
+﻿[18:46:56]
+[None] mouse
+az
+
+﻿[18:47:12]
+[None] mouse
+我觉得
+
+﻿[18:47:18]
+[None] mouse
+~~和不做没区别~~
+
+﻿[18:47:31]
+[/9Br2y] 4n0n4me_
+手机端上关闭侧边栏有点难（
+
+﻿[18:48:02]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[18:48:03]
+[None] mouse
+我去看看qiu有没有fork我的
+
+﻿[18:48:37]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[18:48:44]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[18:48:44]
+[/9Br2y] 4n0n4me_
+在我的苹果手机上，按钮已经超出一行了……
+
+﻿[18:48:55]
+[/9Br2y] 404_
+**粗体**
+
+﻿[18:49:15]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[18:49:27]
+[2ZQ3+0] Maggie888
+```
+import requests,time,tqdm,threading,pyperclip,easygui,os
+
+def go(i):
+    times=0
+    while 1:
+        try:
+            print(f"[Worker#{i.split('/')[-1]}]Getting file")
+            a=requests.get(i,stream=True)
+            print(f"[Worker#{i.split('/')[-1]}]OK.")
+            with open("./nsfw_phos/"+i.split("/")[-1],"wb+") as f:
+                for i in tqdm.tqdm(a.iter_content(512)):
+                    f.write(i)
+        except Exception as e:
+            print(f"[Worker#{i.split('/')[-1]}]Cannot get file."+str(e))
+            time.sleep(1)
+            times+=1
+            if times > 6:
+                print(f"[Worker#{i.split('/')[-1]}]Retrys too much,canceling.")
+                break
+        else:
+            break
+last=""
+while 1:
+    data=pyperclip.paste()
+    if data != last and "https://" in data:
+        print("[Main Process]Detected URL:"+data)
+        last=data
+        go(data)
+        easygui.msgbox("Download done.")
+        try:
+            if easygui.buttonbox("Keep it or Delete?","Download done.",["Keep","Delete"],image=os.getcwd()+"/nsfw_phos/"+data.split("/")[-1]) == "Delete":
+                os.remove(os.getcwd()+"/nsfw_phos/"+data.split("/")[-1])
+        except:
+            pass
+    time.sleep(0.5)
+
+```
+
+﻿[18:51:20]
+[2ZQ3+0] Maggie888
+new version
+
+﻿[18:51:27]
+[2ZQ3+0] Maggie888
+auto detect
+
+﻿[18:51:31]
+[/9Br2y] 4n0n4me_
+wow
+
+﻿[18:54:34]
+[2ZQ3+0] Maggie888
+```
+import requests,time,tqdm,threading,pyperclip,easygui,os
+
+def go(i):
+    times=0
+    while 1:
+        try:
+            print(f"[Worker#{i.split('/')[-1]}]Getting file")
+            a=requests.get(i,stream=True)
+            print(f"[Worker#{i.split('/')[-1]}]OK.")
+            with open("./nsfw_phos/"+i.split("/")[-1],"wb+") as f:
+                for i in tqdm.tqdm(a.iter_content(512)):
+                    f.write(i)
+        except Exception as e:
+            print(f"[Worker#{i.split('/')[-1]}]Cannot get file."+str(e))
+            time.sleep(1)
+            times+=1
+            if times > 6:
+                print(f"[Worker#{i.split('/')[-1]}]Retrys too much,canceling.")
+                break
+        else:
+            break
+last=""
+while 1:
+    data=pyperclip.paste()
+    if data != last and "https://" in data:
+        print("[Main Process]Detected URL:"+data)
+        threading.Thread(target=lambda:easygui.msgbox("Started download.","Downloading...")).start()
+        last=data
+        go(data)
+        try:
+            if easygui.buttonbox("Keep it or Delete?","Download done.",["Keep","Delete"],image=os.getcwd()+"/nsfw_phos/"+data.split("/")[-1]) == "Delete":
+                os.remove(os.getcwd()+"/nsfw_phos/"+data.split("/")[-1])
+        except:
+            pass
+    time.sleep(0.5)
+```
+
+﻿[18:54:39]
+[2ZQ3+0] Maggie888
+the new new new version
+
+﻿[18:54:44]
+[2ZQ3+0] Maggie888
+im packing it
+
+﻿[18:55:07]
+[/9Br2y] 4n0n4me_
+那些新功能我只做了light要的按钮
+
+﻿[18:56:57]
+[/9Br2y] 4n0n4me_
+>/9Br2y 4n0n4me_：
+>那些新功能我只做了light要的按钮
+
+﻿[18:57:35]
+[/9Br2y] 4n0n4me_
+心按钮要吗
+
+﻿[18:57:39]
+[/9Br2y] 4n0n4me_
+新按钮要吗
+
+﻿[18:57:41]
+[None] light
+啊
+
+﻿[18:57:43]
+[None] light
+什么
+
+﻿[18:57:44]
+[None] Arcadia
+users online 识别码！！！！！！！！！！
+
+﻿[18:57:51]
+[/9Br2y] 4n0n4me_
+@Arcadia 好好好，这就加（
+
+﻿[18:58:00]
+[None] light
+那三个新符号吗
+
+﻿[18:58:03]
+[None] light
+再加一个*
+
+﻿[18:58:14]
+[/9Br2y] 4n0n4me_
+*加了
+
+﻿[18:58:19]
+[/9Br2y] 4n0n4me_
+而且是不需要设置的
+
+﻿[18:58:23]
+[None] light
+ ( ) " *
+
+﻿[18:58:29]
+[None] light
+thxxx
+
+﻿[18:58:34]
+[None] Arcadia
+就跟nick识别码的风格统一就行
+
+﻿[18:58:34]
+[/9Br2y] 4n0n4me_
+( ) " 需要设置
+
+﻿[18:58:36]
+[None] light
+oo
+
+﻿[18:58:41]
+[None] Arcadia
+什么括号
+
+﻿[18:58:42]
+[/9Br2y] 4n0n4me_
+>Arcadia：
+>就跟nick识别码的风格统一就行
+
+@Arcadia 我去，有点难度啊
+
+﻿[18:58:43]
+[None] light
+*hc++*
+
+﻿[18:58:54]
+[None] Arcadia
+em 我说的是昵称 + 空格 + 灰色字体识别码
+
+﻿[18:59:03]
+[None] Arcadia
+不难吧 就是统一一下风格
+
+﻿[18:59:13]
+[None] light
+*凡人之躯*
+
+﻿[18:59:17]
+[None] light
+*比肩神明*
+
+﻿[18:59:31]
+[None] Arcadia
+*壮哉我 Awaland ！*
+
+﻿[18:59:35]
+[/9Br2y] 4n0n4me_
+可是列表里面的昵称和聊天里面的看起来本来就有区别（
+
+﻿[19:00:01]
+[AAfFKK] AfK_Bot
+2022-11-06 19:00:00
+![](https://i.gyazo.com/6d8a3141db06b15a76e3f5067b1b7fdb.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[19:00:01]
+[/9Br2y] 4n0n4me_
+不，我可以尝试
+
+﻿[19:00:57]
+[None] Arcadia
+*ohhhhhhhhhhhhh!!!!!!!!!!!!*
+
+﻿[19:00:58]
+[None] Arcadia
+*我 们 网 课 力 ！ ！ ！*
+
+﻿[19:01:14]
+[/9Br2y] 4n0n4me_
+!
+
+﻿[19:01:50]
+[None] Arcadia
+*瘫在家上网课 感觉真的是better了！*
+
+﻿[19:02:20]
+[None] Arcadia
+*very very gooooooood*
+
+﻿[19:02:33]
+[None] light
+ljlj
+
+﻿[19:02:41]
+[None] light
+链接链接
+
+﻿[19:02:44]
+[None] Arcadia
+？
+
+﻿[19:02:47]
+[/9Br2y] 4n0n4me_
+https://hcer.netlify.app/?your-channel
+
+﻿[19:02:54]
+[/9Br2y] 4n0n4me_
+我还加了刷新功能
+
+﻿[19:03:03]
+[/9Br2y] 4n0n4me_
+在dont click里面输入reload
+
+﻿[19:03:11]
+[/9Br2y] 4n0n4me_
+就可以刷新
+
+﻿[19:03:30]
+[None] Arcadia
+404 加一个`Elegant Mode`
+自动加下划线（
+
+﻿[19:03:37]
+[/9Br2y] 4n0n4me_
+下划线？
+
+﻿[19:03:57]
+[a/Jz/a] light
+那三个符号怎么开
+
+﻿[19:03:59]
+[/9Br2y] 4n0n4me_
+斜体吗
+
+﻿[19:04:00]
+[None] Arcadia
+斜体嗯对
+
+﻿[19:04:04]
+[/9Br2y] 4n0n4me_
+@light 点击dont click
+
+﻿[19:04:07]
+[a/Jz/a] light
+##
+
+﻿[19:04:09]
+[a/Jz/a] light
+#hihi
+
+﻿[19:04:12]
+[None] Arcadia
+我脑瘫了 说成下划线了
+
+﻿[19:04:14]
+[EoZ5HO] SprinkleBot
+(　ﾟдﾟ)
+
+﻿[19:04:14]
+[a/Jz/a] light
+# hihi
+
+﻿[19:04:15]
+[/9Br2y] 4n0n4me_
+输入coderMode
+
+﻿[19:04:19]
+[a/Jz/a] light
+然后呢
+
+﻿[19:04:23]
+[/9Br2y] 4n0n4me_
+然后就有那三个按钮了
+
+﻿[19:04:34]
+[/9Br2y] 4n0n4me_
+这个是保存了的，下次也有（除非那个浏览器不保存）
+
+﻿[19:04:45]
+[None] arc
+什么按钮
+
+﻿[19:04:53]
+[/9Br2y] 4n0n4me_
+就是写代码用的 ( ) "
+
+﻿[19:05:03]
+[/9Br2y] 4n0n4me_
+三个按钮
+
+﻿[19:05:05]
+[None] arc
+ah？
+
+﻿[19:05:13]
+[None] arc
+介紹一下 我不瞭解
+
+﻿[19:05:33]
+[/9Br2y] 4n0n4me_
+手机版输入一些符号不方便
+
+﻿[19:05:45]
+[a/Jz/a] light
+@4n0n4me_ 
+
+﻿[19:05:47]
+[None] arc
+*看起來很cool的樣子*
+
+﻿[19:05:47]
+[/9Br2y] 4n0n4me_
+我做了一些按钮让手机用户输入
+
+﻿[19:05:50]
+[None] arc
+哦哦哦
+
+﻿[19:06:06]
+[None] arc
+這樣子
+
+﻿[19:06:08]
+[a/Jz/a] light
+给个小小的建议
+
+﻿[19:06:08]
+[None] arc
+我感覺可以把按鈕樣式改一下
+
+﻿[19:06:38]
+[/9Br2y] 4n0n4me_
+>arc：
+>我感覺可以把按鈕樣式改一下
+
+@arc 不会（
+
+﻿[19:06:42]
+[a/Jz/a] light
+就是你可以把这个*额外键盘*做成想theme那样的
+
+﻿[19:06:51]
+[a/Jz/a] light
+下拉list
+
+﻿[19:06:55]
+[None] arc
+我不懂奧 是改css嗎?
+我不會建站
+
+﻿[19:06:59]
+[/9Br2y] 4n0n4me_
+不会）
+
+﻿[19:07:01]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[19:07:01]
+[/9Br2y] 4n0n4me_
+（改成啥样）
+
+﻿[19:07:09]
+[None] arc
+參考一下十字街
+
+﻿[19:07:24]
+[/9Br2y] 4n0n4me_
+>a/Jz/a light：
+>就是你可以把这个*额外键盘*做成想theme那样的
+
+@light 你的意思是，可以选择按钮的搭配吗
+
+﻿[19:07:33]
+[a/Jz/a] light
+对
+
+﻿[19:07:39]
+[None] arc
+總之改的好看一點就行
+
+﻿[19:07:53]
+[/9Br2y] 4n0n4me_
+我去，十字街的按钮真好看
+
+﻿[19:08:02]
+[None] arc
+不要大白框糊臉上
+
+﻿[19:08:05]
+[/9Br2y] 4n0n4me_
+我到手机上看看啥样
+
+﻿[19:08:07]
+[/9Br2y] 4n0n4me_
+（但是，，，我认为这个侧边栏的按钮就和原版一样，很正常）
+
+﻿[19:08:26]
+[None] arc
+不——
+
+﻿[19:08:34]
+[None] arc
+改的好看一點
+
+﻿[19:08:39]
+[None] arc
+哪怕改成黑的也行
+
+﻿[19:08:46]
+[a/Jz/a] light
+比如commonMode coderMode.每一个模式提供的按钮不一样。默认是none，就像color scheme默认的dune一样
+
+﻿[19:08:50]
+[/9Br2y] 4n0n4me_
+好吧，我有时间了去做（）
+
+﻿[19:09:02]
+[/9Br2y] 4n0n4me_
+我可以抄十字街代码吗
+
+﻿[19:09:11]
+[EoZ5HO] SprinkleBot
+(ノﾟ∀ﾟ)ノ
+
+﻿[19:09:12]
+[None] arc
+對了 手機模式爲什麽不加markdown常用符號
+
+﻿[19:09:22]
+[2ZQ3+0] Maggie888
+比如
+
+﻿[19:09:32]
+[/9Br2y] 4n0n4me_
+我刚刚加了
+
+﻿[19:09:33]
+[2ZQ3+0] Maggie888
+`
+
+﻿[19:09:33]
+[None] arc
+嗯？
+
+﻿[19:09:36]
+[/9Br2y] 4n0n4me_
+和light那三个按钮一起
+
+﻿[19:09:44]
+[None] mouse
+呜呜呜呜
+
+﻿[19:09:51]
+[/9Br2y] 4n0n4me_
+* 和 #
+
+﻿[19:09:51]
+[None] mouse
+qiu没fork我
+
+﻿[19:09:55]
+[None] mouse
+的仓库
+
+﻿[19:09:59]
+[None] arc
+>/9Br2y 4n0n4me_：
+>我可以抄十字街代码吗
+
+@4n0n4me_ 我絕對可以 但cc不開源（
+
+﻿[19:09:59]
+[/9Br2y] 4n0n4me_
+`*`和`#`
+
+﻿[19:10:00]
+[None] mouse
+@arc me tooo
+
+﻿[19:10:16]
+[EoZ5HO] SprinkleBot
+(　ﾟдﾟ)
+
+﻿[19:10:16]
+[/9Br2y] 4n0n4me_
+我没加另外的一些符号，因为我觉得不是特别常用
+
+﻿[19:10:26]
+[/9Br2y] 4n0n4me_
+有时间我在整改按钮系统罢
+
+﻿[19:10:38]
+[None] arc
+好好👍
+
+﻿[19:10:48]
+[None] arc
+對了對了
+
+﻿[19:10:57]
+[None] arc
+把私聊改一下！！！
+
+﻿[19:11:04]
+[/9Br2y] 4n0n4me_
+有时间了我想想怎么做
+
+﻿[19:11:18]
+[/9Br2y] 4n0n4me_
+（
+
+﻿[19:11:18]
+[/9Br2y] 4n0n4me_
+十字街的按钮看起来和电脑版毫无区别，酷诶（
+
+﻿[19:11:33]
+[None] arc
+綠色字加`XXX whispered`實在是太難看力
+
+﻿[19:11:33]
+[/9Br2y] 4n0n4me_
+啊这，要改成十字街那样吗
+
+﻿[19:11:44]
+[None] arc
+嗯嗯嗯
+
+﻿[19:11:49]
+[/9Br2y] 4n0n4me_
+作为可选项吧（
+
+﻿[19:12:03]
+[None] arc
+但符號絕對不要用`【】`
+
+﻿[19:12:07]
+[/9Br2y] 4n0n4me_
+哦
+
+﻿[19:12:10]
+[/9Br2y] 4n0n4me_
+用[]？
+
+﻿[19:13:14]
+[None] arc
+私認爲`【】`這個符號巨難看，`[]`搭配中文也不合適
+
+﻿[19:13:27]
+[None] arc
+em
+
+﻿[19:13:33]
+[None] arc
+我想想
+
+﻿[19:13:47]
+[/9Br2y] 4n0n4me_
+直角引号？（
+
+﻿[19:14:13]
+[None] arc
+不——
+
+﻿[19:14:22]
+[/9Br2y] 4n0n4me_
+我也觉得不合适，只是提一下（
+
+﻿[19:14:55]
+[None] arc
+我知道力
+
+﻿[19:14:58]
+[/9Br2y] 4n0n4me_
+xmzd!
+
+﻿[19:15:02]
+[2ZQ3+0] Maggie888
+?
+
+﻿[19:15:03]
+[2ZQ3+0] Maggie888
+xmzd
+
+﻿[19:15:05]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[19:15:05]
+[None] arc
+在信息後面加灰色字`私聊`
+
+﻿[19:15:17]
+[None] mouse
+可以了朽木自雕
+
+﻿[19:15:25]
+[None] xmzd
+让我看看
+
+﻿[19:15:25]
+[/9Br2y] 4n0n4me_
+后面？？
+
+﻿[19:15:27]
+[None] mouse
+你问问吧
+
+﻿[19:15:28]
+[2ZQ3+0] Maggie888
+?
+
+﻿[19:15:29]
+[None] xmzd
+谁在那狗叫呢
+
+﻿[19:15:30]
+[/9Br2y] 4n0n4me_
+6
+
+﻿[19:15:34]
+[/9Br2y] 4n0n4me_
+啥啊
+
+﻿[19:15:36]
+[2ZQ3+0] Maggie888
+6
+
+﻿[19:15:36]
+[/9Br2y] 4n0n4me_
+你是说先前我们谈论你的技术的事情吗
+
+﻿[19:15:45]
+[None] arc
+比如説如果我現在在給你私聊*()私聊*
+
+﻿[19:15:47]
+[2ZQ3+0] Maggie888
+@4n0n4me_ i sent those messages to the qq group(
+
+﻿[19:15:51]
+[None] xmzd
+@Maggie888 哪个
+
+﻿[19:15:52]
+[2ZQ3+0] Maggie899
+@xmzd
+好的!记到Maggie的小本本上了!
+他放学时会来看的哦!
+
+﻿[19:15:52]
+[None] arc
+比如説如果我現在在給你私聊*(私聊)*
+
+﻿[19:15:52]
+[None] mouse
+@xmzd 你要找的人都有
+
+﻿[19:15:56]
+[None] arc
+比如説這樣
+
+﻿[19:15:58]
+[/9Br2y] 4n0n4me_
+>arc：
+>比如説如果我現在在給你私聊*(私聊)*
+
+@arc 可以啊
+
+﻿[19:16:07]
+[None] arc
+這個私聊要灰色或者其他顔色
+
+﻿[19:16:20]
+[/9Br2y] 4n0n4me_
+当然了，这些我都要做成可选项（
+
+﻿[19:16:20]
+[None] arc
+行行行
+
+﻿[19:16:25]
+[EoZ5HO] SprinkleBot
+ ﾟ∀ﾟ)σ
+
+﻿[19:16:25]
+[/9Br2y] 4n0n4me_
+灰色，这个简单（
+
+﻿[19:16:31]
+[None] arc
+我説的是*(私聊)*這個字
+
+﻿[19:16:49]
+[/9Br2y] 4n0n4me_
+>mouse：
+>@xmzd 你要找的人都有
+
+@mouse 你确定吗，我记得首当其冲诋毁xmzd的那个人不在这里
+
+﻿[19:16:51]
+[/9Br2y] 4n0n4me_
+>arc：
+>我説的是*(私聊)*這個字
+
+@arc 对对对，我之殿
+
+﻿[19:16:56]
+[/9Br2y] 4n0n4me_
+>arc：
+>我説的是*(私聊)*這個字
+
+@arc 对对对，我知道
+
+﻿[19:16:58]
+[None] mouse
+e
+
+﻿[19:16:59]
+[None] arc
+好好
+
+﻿[19:17:03]
+[/9Br2y] 4n0n4me_
+加个span就可以了吧
+
+﻿[19:17:12]
+[None] mouse
+你们刚才不是说他打广告吗..
+
+﻿[19:17:14]
+[None] xmzd
+所以人呢
+
+﻿[19:17:30]
+[None] azhe
+额
+
+﻿[19:17:33]
+[None] xmzd
+maggie说一下
+
+﻿[19:17:44]
+[/9Br2y] 4n0n4me_
+那人不在这里
+
+﻿[19:17:53]
+[None] mouse
+azhe啊
+
+﻿[19:18:08]
+[None] xmzd
+那倒是说在哪
+
+﻿[19:18:18]
+[None] arc
+*朽木自雕*怎麽了
+
+﻿[19:18:21]
+[/9Br2y] 4n0n4me_
+我也参与了，但是我基本上没有说朽木自雕的坏话 =)
+
+﻿[19:18:22]
+[/9Br2y] 4n0n4me_
+那个人我怎么知道在哪
+
+﻿[19:18:28]
+[/9Br2y] 4n0n4me_
+我只能说
+
+﻿[19:18:30]
+[/9Br2y] 4n0n4me_
+在他家里
+
+﻿[19:18:32]
+[None] mouse
+@xmzd 算了走吧，你以后弄个互通吧
+
+﻿[19:18:33]
+[None] arc
+上次那個會議？
+
+﻿[19:18:33]
+[None] xmzd
+好卡
+
+﻿[19:18:34]
+[/9Br2y] 4n0n4me_
+他现在不在线呗
+
+﻿[19:18:39]
+[/9Br2y] 4n0n4me_
+我可以说他也不在十字街
+
+﻿[19:18:46]
+[None] azhe
+emmm
+
+﻿[19:18:47]
+[None] mouse
+@xmzd hc卡吗
+
+﻿[19:18:54]
+[None] mouse
+反正我不卡
+
+﻿[19:18:57]
+[None] azhe
+今天下午见过
+
+﻿[19:18:59]
+[None] xmzd
+发个当时的网址
+
+﻿[19:19:01]
+[/9Br2y] 4n0n4me_
+。。。
+
+﻿[19:19:07]
+[/9Br2y] 4n0n4me_
+当时的网址就是这里
+
+﻿[19:19:11]
+[None] xmzd
+@mouse 那可能是我问题
+
+﻿[19:19:16]
+[None] arc
+你們難道不對我用*繁體字*奇怪嗎（
+
+﻿[19:19:16]
+[None] mouse
+@xmzd 哎呦，你家历史记录能压缩成网址啊
+
+﻿[19:19:19]
+[/9Br2y] 4n0n4me_
+以前，倒有个法子导出历史记录
+
+﻿[19:19:33]
+[None] xmzd
+@mouse 当时的聊天室 看不懂？
+
+﻿[19:19:34]
+[None] azhe
+emm
+
+﻿[19:19:35]
+[/9Br2y] 4n0n4me_
+可是最近这个没用了
+
+﻿[19:19:39]
+[None] mouse
+我回复的是这个xmzd
+发个当时的网址
+
+﻿[19:19:41]
+[/9Br2y] 4n0n4me_
+这个就算当时的网址
+
+﻿[19:19:47]
+[/9Br2y] 4n0n4me_
+https://hcer.netlify.app/?your-channel
+
+﻿[19:19:48]
+[None] mouse
+@xmzd 确实看不懂
+
+﻿[19:19:57]
+[/9Br2y] 4n0n4me_
+当时的聊天室就是hc的your-channel
+
+﻿[19:20:01]
+[None] mouse
+这个也是，但是没yc https://www.uchat.ml/
+
+﻿[19:20:12]
+[None] xmzd
+那个狗叫的有站没
+
+﻿[19:20:15]
+[None] arc
+我收回剛才那句話
+
+﻿[19:20:23]
+[None] mouse
+哎呦那个狗叫的已经走了！
+
+﻿[19:20:27]
+[None] arc
+hc++，香！
+
+﻿[19:20:29]
+[/9Br2y] 4n0n4me_
+呵呵，try any method
+
+﻿[19:20:51]
+[/9Br2y] 4n0n4me_
+i won't say
+
+﻿[19:20:56]
+[/9Br2y] 4n0n4me_
+我是指，如果你希望使用星弈的能力进行网络攻击
+
+﻿[19:21:18]
+[None] azhe
+emm
+
+﻿[19:21:26]
+[None] xmzd
+我又卡了
+
+﻿[19:21:27]
+[None] mouse
+我感觉我的更快啊 https://www.uchat.ml/
+
+﻿[19:21:29]
+[None] mouse
+额
+
+﻿[19:21:37]
+[None] mouse
+不应该发，我还是住嘴吧
+
+﻿[19:21:46]
+[/9Br2y] 4n0n4me_
+这个主要是网络的愿意罢
+
+﻿[19:21:46]
+[/9Br2y] 4n0n4me_
+hc服务器在国外
+
+﻿[19:21:52]
+[/9Br2y] 4n0n4me_
+有的时候确实挺卡
+
+﻿[19:22:02]
+[None] mouse
+确实
+
+﻿[19:22:17]
+[None] arc
+蛤？
+
+﻿[19:22:30]
+[EoZ5HO] SprinkleBot
+σ`∀´) ﾟ∀ﾟ)σ
+
+﻿[19:22:30]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[19:22:31]
+[None] mouse
+@xmzd 请链接网卡或vpn
+
+﻿[19:22:31]
+[None] mouse
+甚至光猫
+
+﻿[19:22:43]
+[None] arc
+??
+
+﻿[19:22:48]
+[None] mouse
+或者服务器
+
+﻿[19:22:49]
+[None] xmzd
+那个狗叫的有没有站
+
+﻿[19:22:50]
+[/9Br2y] 4n0n4me_
+有
+
+﻿[19:23:04]
+[None] mouse
+@xmzd 狗叫的下线了，不知道去哪里了
+
+﻿[19:23:08]
+[None] azhe
+冬日小屋
+
+﻿[19:23:10]
+[None] arc
+@xmzd 出啥事了啊
+
+﻿[19:23:11]
+[None] arc
+我現在很懵啊
+
+﻿[19:23:19]
+[/9Br2y] 4n0n4me_
+唉，你们如此容不下别人的话吗
+
+﻿[19:23:25]
+[None] mouse
+冬日小屋网址是什么，我怎么打不开】
+
+﻿[19:23:28]
+[/9Br2y] 4n0n4me_
+我也是服了
+
+﻿[19:23:29]
+[None] mouse
+（汗）
+
+﻿[19:23:39]
+[None] arc
+我啥都不知道 誰能給我解釋一下發生了什麽事
+
+﻿[19:23:45]
+[/9Br2y] 4n0n4me_
+有人诋毁朽木自雕
+
+﻿[19:23:51]
+[None] xmzd
+@4n0n4me_ 发
+
+﻿[19:23:55]
+[None] arc
+然後捏
+
+﻿[19:23:57]
+[/9Br2y] 4n0n4me_
+朽木自雕来找那个人报仇
+
+﻿[19:23:58]
+[/9Br2y] 4n0n4me_
+发啥捏，发网址吗
+
+﻿[19:24:12]
+[None] mouse
+然后我给朽木自雕递了刀子（doge)
+
+﻿[19:24:18]
+[/9Br2y] 4n0n4me_
+我不能让他在不在场的时候
+
+﻿[19:24:21]
+[/9Br2y] 4n0n4me_
+就平白被攻击
+
+﻿[19:24:26]
+[None] mouse
+@4n0n4me_ 发网址，我也很需要
+
+﻿[19:24:29]
+[/9Br2y] 4n0n4me_
+你要是要攻击，就攻击hc吧
+
+﻿[19:24:34]
+[None] mouse
+啊啊啊我要去冬日小屋
+
+﻿[19:24:42]
+[None] mouse
+快发网站吧
+
+﻿[19:24:59]
+[bw7Gkq] zhang3
+hi yo
+
+﻿[19:25:01]
+[bw7Gkq] zhang3
+wow
+
+﻿[19:25:02]
+[/9Br2y] 4n0n4me_
+冬日小屋平时几乎没人
+
+﻿[19:25:03]
+[bw7Gkq] zhang3
+这是？
+
+﻿[19:25:07]
+[/9Br2y] 4n0n4me_
+你们还想去干什么
+
+﻿[19:25:07]
+[None] xmzd
+怪了 卡出去了
+
+﻿[19:25:13]
+[None] mouse
+我想去看看啊啊啊啊
+
+﻿[19:25:15]
+[None] arc
+我之前一直找的是ee的網站上的鏈接
+
+﻿[19:25:16]
+[None] azhe
+emmm
+
+﻿[19:25:16]
+[None] mouse
+快！
+
+﻿[19:25:18]
+[bw7Gkq] zhang3
+mouse根据我的客户端修改的？
+
+﻿[19:25:19]
+[bw7Gkq] zhang3
+wow！
+
+﻿[19:25:21]
+[None] mouse
+对啊
+
+﻿[19:25:25]
+[/9Br2y] 4n0n4me_
+@zhang3 有人骂朽木自雕，朽木自雕来报仇了
+
+﻿[19:25:27]
+[bw7Gkq] zhang3
+感谢mouse的大力支持！
+
+﻿[19:25:28]
+[bw7Gkq] zhang3
+az
+
+﻿[19:25:30]
+[None] mouse
+根据你改的
+
+﻿[19:25:31]
+[None] xmzd
+我朽木自雕
+
+﻿[19:25:36]
+[None] arc
+~~ee網站=聊天室備忘錄~~
+
+﻿[19:25:36]
+[bw7Gkq] zhang3
+谢谢！
+
+﻿[19:25:37]
+[None] mouse
+我发现个问题啊zhang1
+
+﻿[19:25:45]
+[None] mouse
+就是
+
+﻿[19:25:47]
+[None] xmzd
+为啥这个站电脑不能访问
+
+﻿[19:25:52]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[19:25:52]
+[bw7Gkq] zhang3
+？？？
+
+﻿[19:25:56]
+[bw7Gkq] zhang3
+idk
+
+﻿[19:25:58]
+[None] arc
+guru
+
+﻿[19:26:06]
+[None] mouse
+你的用了以后，win7不会在xc互通,win10可以
+
+﻿[19:26:13]
+[None] arc
+？
+
+﻿[19:26:19]
+[None] mouse
+而且客户端关了以后
+
+﻿[19:26:20]
+[None] arc
+xc互通？？？
+
+﻿[19:26:24]
+[None] azhe
+电脑可以啊
+
+﻿[19:26:26]
+[bw7Gkq] zhang3
+az?
+
+﻿[19:26:26]
+[None] mouse
+仍然会互通
+
+﻿[19:26:26]
+[bw7Gkq] zhang3
+清除缓存
+
+﻿[19:26:34]
+[None] arc
+啥？
+
+﻿[19:26:35]
+[bw7Gkq] zhang3
+还有cookie
+
+﻿[19:26:37]
+[bw7Gkq] zhang3
+即可
+
+﻿[19:26:41]
+[None] xmzd
+怪了 我电脑显示无法解析dns地址
+
+﻿[19:26:47]
+[None] arc
+hc如果有這種東西的話 我强烈反對
+
+﻿[19:26:47]
+[None] arc
+*hc++
+
+﻿[19:26:55]
+[None] mouse
+~~cookie其实我懒得清除~~
+
+﻿[19:26:58]
+[bw7Gkq] zhang3
+...
+
+﻿[19:27:03]
+[/9Br2y] 4n0n4me_
+我不会做互通的
+
+﻿[19:27:21]
+[None] arc
+👍
+
+﻿[19:27:25]
+[bw7Gkq] zhang3
+...
+
+﻿[19:27:37]
+[bw7Gkq] zhang3
+我也是
+
+﻿[19:27:40]
+[None] xmzd
+啥
+
+﻿[19:28:15]
+[None] mouse
+@zhang3 我改了你的客户端，是因为懒得开浏览器，后来为了方便他人使用，所以..
+
+﻿[19:28:20]
+[None] xmzd1
+怪了 老掉线
+
+﻿[19:28:22]
+[None] azhe
+az
+
+﻿[19:28:22]
+[bw7Gkq] zhang3
+azzzzzz
+
+﻿[19:28:50]
+[bw7Gkq] zhang3
+？
+
+﻿[19:28:56]
+[None] mouse
+@zhang3 我也没想到，你的态度。。。竟会如此感激..
+
+﻿[19:28:58]
+[bw7Gkq] zhang3
+这是旧版客户端吗？
+
+﻿[19:29:03]
+[None] mouse
+是的
+
+﻿[19:29:08]
+[bw7Gkq] zhang3
+哦
+
+﻿[19:29:12]
+[None] arc
+繼續抄十字街：用戶進出加上識別碼
+
+﻿[19:29:13]
+[bw7Gkq] zhang3
+难怪没有挂机功能
+
+﻿[19:29:17]
+[None] arc
+這很好
+
+﻿[19:29:18]
+[bw7Gkq] zhang3
+。。。
+
+﻿[19:29:26]
+[/9Br2y] 4n0n4me_
+我加，但是做成可选项（
+
+﻿[19:29:33]
+[None] mouse
+因为新版防踢有点不公平
+
+﻿[19:29:33]
+[bw7Gkq] zhang3
+。。。
+
+﻿[19:29:40]
+[/9Br2y] 4n0n4me_
+emm，
+
+﻿[19:29:45]
+[/9Br2y] 4n0n4me_
+如果显示在前面
+
+﻿[19:29:49]
+[None] azhe
+emmm
+
+﻿[19:29:49]
+[/9Br2y] 4n0n4me_
+那就加吧
+
+﻿[19:29:53]
+[/9Br2y] 4n0n4me_
+不需要可选
+
+﻿[19:29:55]
+[bw7Gkq] zhang3
+我也打算加上进入时显示识别码
+
+﻿[19:30:04]
+[bw7Gkq] zhang3
+方便查看
+
+﻿[19:30:06]
+[None] arc
+對 還有/me也加上識別碼
+
+﻿[19:30:13]
+[bw7Gkq] zhang3
+/me 已经有识别码了
+
+﻿[19:30:25]
+[None] arc
+哦？
+
+﻿[19:30:31]
+[bw7Gkq] zhang3
+原版客户端就有
+
+﻿[19:30:32]
+[None] arc
+我刷新一下
+
+﻿[19:30:33]
+[EoZ5HO] SprinkleBot
+ ﾟ∀ﾟ)σ
+
+﻿[19:30:34]
+[bw7Gkq] zhang3
+是你孤陋寡闻了
+
+﻿[19:30:40]
+[/9Br2y] 4n0n4me_
+确实有
+
+﻿[19:30:43]
+[None] xmzd
+又掉线了
+
+﻿[19:30:45]
+[None] arc
+哦 我眼瞎了
+
+﻿[19:30:47]
+[None] arc
+我是個傻逼
+
+﻿[19:30:52]
+[bw7Gkq] zhang3
+az
+
+﻿[19:30:58]
+[None] azhe
+额
+
+﻿[19:31:28]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[19:31:28]
+[bw7Gkq] zhang3
+哦我的客户端上有了这个功能了
+
+﻿[19:31:38]
+[None] xmzd
+@4n0n4me_ 见了那个狗叫的帮忙转达一下我下面的话
+
+﻿[19:31:44]
+[bw7Gkq] zhang3
+test
+
+﻿[19:31:49]
+[None] light
+c
+
+﻿[19:31:51]
+[None] light
+sbhjyt
+
+﻿[19:31:58]
+[None] light
+404你那个怎么刷新啊
+
+﻿[19:32:11]
+[/9Br2y] 4n0n4me_
+@light 打开侧栏
+
+﻿[19:32:19]
+[None] light
+我有卡出来了
+
+﻿[19:32:22]
+[/9Br2y] 4n0n4me_
+点击dont click
+
+﻿[19:32:22]
+[/9Br2y] 4n0n4me_
+输入reload
+
+﻿[19:32:25]
+[/9Br2y] 4n0n4me_
+e ,你在原版客户端那没法一键到我的客户端
+
+﻿[19:32:39]
+[None] light
+https://hcer.netlify.app/?your-channel
+
+﻿[19:33:00]
+[None] xmzd
+@4n0n4me_ 发一下那个狗叫的网站
+
+﻿[19:33:13]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[19:33:13]
+[a/Jz/a] light
+*hcer*
+
+﻿[19:33:16]
+[a/Jz/a] light
+*比肩神明*
+
+﻿[19:33:27]
+[/9Br2y] 4n0n4me_
+我不愿意发
+
+﻿[19:33:35]
+[bw7Gkq] zhang3
+...
+
+﻿[19:33:38]
+[a/Jz/a] light
+狗叫的网站？
+
+﻿[19:33:44]
+[/9Br2y] 4n0n4me_
+@light 就是有人骂朽木自雕
+
+﻿[19:33:53]
+[/9Br2y] 4n0n4me_
+朽木自雕要找他的网站 
+
+﻿[19:34:00]
+[a/Jz/a] light
+a
+
+﻿[19:34:12]
+[None] xmzd
+人嘞人嘞
+
+﻿[19:34:13]
+[a/Jz/a] light
+懂了
+
+﻿[19:34:20]
+[/9Br2y] 4n0n4me_
+要不我也骂你，你就把我的网站当他的网站得了 :)
+
+﻿[19:34:21]
+[/9Br2y] 4n0n4me_
+>/9Br2y 4n0n4me_：
+>我不愿意发
+
+﻿[19:34:24]
+[/9Br2y] 4n0n4me_
+因为我担心他因言获罪
+
+﻿[19:34:46]
+[/9Br2y] 4n0n4me_
+:!afk learn
+
+﻿[19:34:53]
+[AAfFKK] AfK_Bot
+ @4n0n4me_ You are marked AfK.
+
+﻿[19:34:53]
+[None] xmzd
+我又卡了
+
+﻿[19:35:12]
+[a/Jz/a] light
+()()()()"hello")
+
+﻿[19:35:13]
+[None] xmzd
+我又掉了
+
+﻿[19:35:24]
+[a/Jz/a] light
+()()()()"hello")
+
+﻿[19:35:27]
+[a/Jz/a] light
+()()()()"hello")
+
+﻿[19:35:29]
+[a/Jz/a] light
+@hhh**hi**
+
+﻿[19:35:34]
+[None] xmzd
+404嘞
+
+﻿[19:36:00]
+[None] xmzd
+我又卡了？
+
+﻿[19:37:04]
+[None] mouse
+啊朽木自雕
+
+﻿[19:37:54]
+[None] mouse
+我好痛苦
+
+﻿[19:37:58]
+[None] mouse
+我在星聊聊天
+
+﻿[19:38:08]
+[None] mouse
+被关小黑屋
+
+﻿[19:38:20]
+[EoZ5HO] SprinkleBot
+(ノﾟ∀ﾟ)ノ
+
+﻿[19:38:21]
+[EoZ5HO] SprinkleBot
+ ﾟ∀ﾟ)σ
+
+﻿[19:38:21]
+[None] mouse
+我好煎熬
+
+﻿[19:38:24]
+[None] azhe
+鹅鹅鹅
+
+﻿[19:38:28]
+[None] azhe
+别急
+
+﻿[19:38:30]
+[None] azhe
+我帮你说了
+
+﻿[19:38:35]
+[a/Jz/a] light
+what
+
+﻿[19:38:41]
+[a/Jz/a] light
+xc的臭鸡蛋和xc的臭狗屎一起出现了！！！！
+
+﻿[19:38:59]
+[None] mouse
+算了，等会我出小黑屋再说吧
+
+﻿[19:39:00]
+[a/Jz/a] light
+救命救命
+
+﻿[19:39:05]
+[None] mouse
+@light 什么玩意，我是臭老鼠
+
+﻿[19:39:11]
+[None] azhe
+你在狗叫什么
+
+﻿[19:39:13]
+[a/Jz/a] light
+wc
+
+﻿[19:39:22]
+[a/Jz/a] light
+臭鸡蛋！！！
+
+﻿[19:39:27]
+[a/Jz/a] light
+请不要靠近我
+
+﻿[19:39:33]
+[a/Jz/a] light
+好臭啊wc
+
+﻿[19:39:38]
+[None] azhe
+一只母狗在这狗叫
+
+﻿[19:39:42]
+[None] mouse
+唉light怎么能这样呢
+
+﻿[19:39:43]
+[a/Jz/a] light
+aaaaaaa
+
+﻿[19:39:45]
+[a/Jz/a] light
+我要死了
+
+﻿[19:39:47]
+[None] mouse
+azhe别骂了
+
+﻿[19:39:50]
+[None] azhe
+屎拉身上了
+
+﻿[19:39:52]
+[a/Jz/a] light
+臭鸡蛋别靠近我
+
+﻿[19:39:54]
+[None] mouse
+唉light
+
+﻿[19:39:55]
+[None] azhe
+当然臭
+
+﻿[19:39:58]
+[None] mouse
+azhe别骂了
+
+﻿[19:40:01]
+[None] mouse
+沟通一下
+
+﻿[19:40:11]
+[a/Jz/a] light
+别用你的蛋清污染这里啊
+
+﻿[19:40:19]
+[None] mouse
+唉
+
+﻿[19:40:23]
+[None] mouse
+azhe走吧
+
+﻿[19:40:29]
+[a/Jz/a] light
+拜拜
+
+﻿[19:40:35]
+[None] azhe
+oka
+
+﻿[19:40:45]
+[None] mouse
+我和light想法沟通一下吧（悲）
+
+﻿[19:40:47]
+[EoZ5HO] SprinkleBot
+( ﾟ∀。)
+
+﻿[19:40:47]
+[None] azhe
+母狗bye
+
+﻿[19:40:51]
+[a/Jz/a] light
+记得加入收藏夹哦～@azhe 
+
+﻿[19:40:58]
+[None] azhe
+下次见记得洗干净
+
+﻿[19:41:02]
+[None] mouse
+azhe别骂了啊
+
+﻿[19:41:07]
+[a/Jz/a] light
+c
+
+﻿[19:41:10]
+[None] mouse
+闭住嘴
+
+﻿[19:41:11]
+[None] azhe
+oka
+
+﻿[19:41:11]
+[None] azhe
+听你的
+
+﻿[19:41:16]
+[a/Jz/a] light
+洗掉你的蛋清吗
+
+﻿[19:41:18]
+[None] mouse
+人家好一点了
+
+﻿[19:41:22]
+[None] azhe
+ok
+
+﻿[19:41:26]
+[None] azhe
+ok
+
+﻿[19:41:28]
+[a/Jz/a] light
+c
+
+﻿[19:41:31]
+[None] azhe
+我闭嘴
+
+﻿[19:41:33]
+[None] mouse
+@light 唉，为什么骂我们啊，~~其实我不来自xc~~
+
+﻿[19:41:45]
+[None] azhe
+额
+
+﻿[19:42:05]
+[a/Jz/a] light
+我骂的那几个名字是绿的
+
+﻿[19:42:05]
+[a/Jz/a] light
+前面有星星的
+
+﻿[19:42:15]
+[None] mouse
+我只是在xc带的时间多一点罢了
+
+﻿[19:42:16]
+[None] azhe
+哈哈哈
+
+﻿[19:42:16]
+[None] mouse
+我也有星星大哥
+
+﻿[19:42:27]
+[None] azhe
+哈哈哈哈
+
+﻿[19:42:31]
+[None] mouse
+也是绿色的啊
+
+﻿[19:42:34]
+[a/Jz/a] light
+¯\\\_(ツ)\_/¯
+
+﻿[19:42:40]
+[/9Br2y] 4n0n4me_
+@light 你再这样我就要单重标准了
+
+﻿[19:42:45]
+[AAfFKK] AfK_Bot
+ @4n0n4me_ Welcome back.
+
+﻿[19:42:45]
+[None] mouse
+emmm
+
+﻿[19:42:48]
+[a/Jz/a] light
+那就是fish的狗
+
+﻿[19:42:49]
+[/9Br2y] 4n0n4me_
+单重标准：指禁止骂人
+
+﻿[19:42:52]
+[None] mouse
+我希望和平一点
+
+﻿[19:42:55]
+[None] mouse
+尽然你说是鱼的狗
+
+﻿[19:43:04]
+[None] mouse
+那我就是！
+
+﻿[19:43:09]
+[None] mouse
+至死不渝。
+
+﻿[19:43:14]
+[/9Br2y] 4n0n4me_
+6！
+
+﻿[19:43:17]
+[/9Br2y] 4n0n4me_
+不由得让我想起，Maggie等人伤春悲秋之时，你大振XC士气，发表乐观的言论
+
+﻿[19:44:00]
+[None] wuhu
+w
+
+﻿[19:44:06]
+[None] mouse
+派兵了是吧（悲）
+
+﻿[19:44:09]
+[/9Br2y] 4n0n4me_
+你这样支持XC，让我无话可说，自惭形秽
+
+﻿[19:44:12]
+[/9Br2y] 4n0n4me_
+我也要支持yc
+
+﻿[19:44:15]
+[None] wuhu
+吃瓜.jpg
+
+﻿[19:44:17]
+[/9Br2y] 4n0n4me_
+支持我的朋友
+
+﻿[19:44:18]
+[EoZ5HO] SprinkleBot
+(*ﾟーﾟ)
+
+﻿[19:44:19]
+[None] mouse
+emmm
+
+﻿[19:44:26]
+[None] wuhu
+e
+
+﻿[19:44:40]
+[None] mouse
+记得
+
+﻿[19:44:51]
+[None] mouse
+之前‘
+
+﻿[19:44:55]
+[None] wuhu
+e
+
+﻿[19:44:56]
+[None] mouse
+你们说xc用户是鱼的钱包
+
+﻿[19:45:09]
+[None] mouse
+我当时就说了
+
+﻿[19:45:14]
+[/9Br2y] 4n0n4me_
+那就是我说的
+
+﻿[19:45:16]
+[/9Br2y] 4n0n4me_
+hhh
+
+﻿[19:45:17]
+[None] mouse
+我就是钱包！
+
+﻿[19:45:18]
+[None] wuhu
+e
+
+﻿[19:45:24]
+[/9Br2y] 4n0n4me_
+:!afk 
+
+﻿[19:45:27]
+[None] wuhu
+e
+
+﻿[19:45:28]
+[None] wuhu
+机器人
+
+﻿[19:45:35]
+[None] wuhu
+e
+
+﻿[19:45:38]
+[None] mouse
+原来泡面张瘦了
+
+﻿[19:46:03]
+[None] mouse
+长手了
+
+﻿[19:46:12]
+[None] mouse
+还会自己给调料包
+
+﻿[19:46:23]
+[None] wuhu
+az
+
+﻿[19:46:39]
+[a/Jz/a] light
+有次有人希望我得光癫痫来着
+
+﻿[19:46:57]
+[None] mouse
+光癫痫是什么
+
+﻿[19:48:01]
+[None] wuhu
+一种病
+
+﻿[19:48:14]
+[a/Jz/a] light
+我觉着你在场的
+
+﻿[19:48:22]
+[None] wuhu
+e
+
+﻿[19:48:23]
+[None] wuhu
+不知道怎么说
+
+﻿[19:48:26]
+[None] mouse
+我觉着你在场的？@light 
+
+﻿[19:48:41]
+[a/Jz/a] light
+不在场那个狗寇也会大肆炫耀一番的
+
+﻿[19:49:03]
+[None] mouse
+什么狗寇
+
+﻿[19:49:07]
+[None] mouse
+听不懂
+
+﻿[19:49:11]
+[None] mouse
+讲讲吧
+
+﻿[19:49:15]
+[KDCi5E] mike
+hi
+
+﻿[19:49:16]
+[KDCi5E] mike
+mouse
+
+﻿[19:49:41]
+[a/Jz/a] light
+我之前也不知道 僧口 是什么意思
+
+﻿[19:49:42]
+[KDCi5E] mike
+mbot是哪个用户的
+
+﻿[19:50:07]
+[KDCi5E] mike
+@mouse 
+
+﻿[19:50:12]
+[KDCi5E] mike
+这是？
+
+﻿[19:50:23]
+[None] mouse
+我没bot啊
+
+﻿[19:50:25]
+[None] mouse
+我讨厌bot
+
+﻿[19:50:32]
+[None] jimmyfj
+额
+
+﻿[19:50:39]
+[None] mouse
+~~因为太卡了~~
+
+﻿[19:50:40]
+[a/Jz/a] light
+:/
+
+﻿[19:50:44]
+[KDCi5E] mike
+jimmyfj
+
+﻿[19:50:45]
+[None] jimmyfj
+咋了
+
+﻿[19:50:46]
+[KDCi5E] mike
+zbot呢
+
+﻿[19:50:53]
+[KDCi5E] mike
+afk
+
+﻿[19:51:08]
+[KDCi5E] mike
+艹
+
+﻿[19:51:12]
+[a/Jz/a] light
+:!lookup nick @jimmyfj 
+
+﻿[19:51:19]
+[KDCi5E] mike
+KDC
+
+﻿[19:51:19]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==mLRLAbUi7nPV4T8==: ['jimmyfj', 'XC_3k', 'XC_kkk']
+==Trips== for hash ==mLRLAbUi7nPV4T8==: ['']
+
+﻿[19:51:19]
+[None] mahi
+hi
+
+﻿[19:51:27]
+[None] mouse
+hi
+
+﻿[19:51:34]
+[KDCi5E] mike
+KDC
+
+﻿[19:51:37]
+[KDCi5E] mike
+xc
+
+﻿[19:51:51]
+[KDCi5E] mike
+yc
+
+﻿[19:51:59]
+[None] mouse
+@light  僧口 是什么意思
+
+﻿[19:52:15]
+[a/Jz/a] light
+你去问zhang
+
+﻿[19:52:20]
+[None] jimmyfj
+干哈呢
+
+﻿[19:52:21]
+[KDCi5E] mike
+@mouse 你的聊天室吗？
+
+﻿[19:52:24]
+[a/Jz/a] light
+他发明了这个词语
+
+﻿[19:52:30]
+[None] jimmyfj
+Aliases for hash mLRLAbUi7nPV4T8: ['jimmyfj’, 'XC_3k’, 'XC_kkk']
+Trips for hash mLRLAbUi7nPV4T8: ['']
+
+﻿[19:52:32]
+[None] jimmyfj
+这是啥
+
+﻿[19:52:36]
+[None] jimmyfj
+查身份吗
+
+﻿[19:52:45]
+[None] mouse
+@mike 客户端
+
+﻿[19:52:46]
+[a/Jz/a] light
+虽然我第一次听到是鱼说的
+
+﻿[19:52:50]
+[KDCi5E] mike
+afk
+
+﻿[19:52:52]
+[None] mouse
+@light okokok
+
+﻿[19:52:53]
+[a/Jz/a] light
+用来描述yc的人
+
+﻿[19:53:01]
+[None] mouse
+张不在
+
+﻿[19:53:22]
+[None] mouse
+算了吧
+
+﻿[19:53:30]
+[EoZ5HO] SprinkleBot
+(｡･∀･)ﾉﾞ嗨
+
+﻿[19:53:30]
+[None] mouse
+@light 贬义褒义？
+
+﻿[19:53:37]
+[KDCi5E] mike
+拜访歪果仁
+
+﻿[19:53:44]
+[a/Jz/a] light
+:/
+
+﻿[19:53:47]
+[None] jimmyfj
+这bot
+
+﻿[19:53:48]
+[None] jimmyfj
+话说XC的bot能进来吗
+
+﻿[19:54:17]
+[KDCi5E] mike
+@eb29 hi
+
+﻿[19:54:27]
+[None] mouse
+不知道啊
+
+﻿[19:54:31]
+[KDCi5E] mike
+@eb29 你在干嘛
+
+﻿[19:54:50]
+[None] jimmyfj
+感觉好卡,延迟很高
+
+﻿[19:55:07]
+[KDCi5E] mike
+xmzd
+
+﻿[19:55:16]
+[KDCi5E] mike
+果然
+
+﻿[19:55:21]
+[None] mouse
+@light 聊聊呗，你可以随便侮辱我，但是我不会让你成功
+
+﻿[19:55:33]
+[KDCi5E] mike
+                              _           _         _       _   
+                       | |_ ___ ___| |_   ___| |_ ___| |_ 
+                       |   |_ ||  _| '_| |  _|   |_ ||  _|
+                       |_|_|__/|___|_,_|.|___|_|_|__/|_|  
+
+﻿[19:55:53]
+[a/Jz/a] light
+没什么可聊的
+
+﻿[19:55:54]
+[KDCi5E] mike
+                        _           _         _       _   
+                       | |_ ___ ___| |_   ___| |_ ___| |_ 
+                       |   |_ ||  _| '_| |  _|   |_ ||  _|
+                       |_|_|__/|___|_,_|.|___|_|_|__/|_|  
+
+﻿[19:55:56]
+[None] mouse
+好吧
+
+﻿[19:55:58]
+[a/Jz/a] light
+今天主要因为看到了azhe
+
+﻿[19:56:06]
+[KDCi5E] mike
+@eb29 hi
+
+﻿[19:56:08]
+[a/Jz/a] light
+看我之前都不说az的
+
+﻿[19:56:16]
+[KDCi5E] mike
+you are good@eb29 
+
+﻿[19:56:21]
+[KDCi5E] mike
+好耶
+
+﻿[19:56:34]
+[KDCi5E] mike
+i love you@eb29 
+
+﻿[19:56:50]
+[KDCi5E] mike
+ee在干嘛@eb29 
+
+﻿[19:57:01]
+[KDCi5E] mike
+ee上学了？@eb29 
+
+﻿[19:57:15]
+[None] mouse
+@light 那你为什么这么敌视xc啊
+
+﻿[19:57:18]
+[KDCi5E] mike
+艹
+
+﻿[19:57:18]
+[KDCi5E] mike
+eb好耶@eb29 
+
+﻿[19:58:17]
+[a/Jz/a] light
+.
+
+﻿[19:59:00]
+[a/Jz/a] light
+会不会是与生俱来的
+
+﻿[19:59:28]
+[KDCi5E] mike
+$$\int_01 \int_0^1 \frac{1}{1-xy} dx dy = \frac{\pi^2}{6}$$
+
+﻿[19:59:41]
+[KDCi5E] mike
+$$\int_01 \int_0^1 \frac{1}{1-xy} dx dy = \frac{\pi^2}{6}$$hi
+
+﻿[19:59:51]
+[KDCi5E] mike
+$$\int_01 \int_0^1 \frac{1}{1-xy} dx dy = \frac{\pi^2}{6}$$
+
+﻿[19:59:56]
+[EoZ5HO] SprinkleBot
+( ﾟ∀。)
+
+﻿[20:00:00]
+[AAfFKK] AfK_Bot
+2022-11-06 20:00:00
+![](https://i.gyazo.com/6d8a3141db06b15a76e3f5067b1b7fdb.jpg)
+### 米斯卡 姆斯卡
+
+﻿[20:00:00]
+[KDCi5E] mike
+hi
+
+﻿[20:00:06]
+[KDCi5E] mike
+$$\int_01 \int_0^1 \frac{1}{1-xy} dx dy = \frac{\pi^2}{6}$$hi，在干嘛
+
+﻿[20:00:16]
+[KDCi5E] mike
+$$\int_01 \int_0^1 \frac{1}{1-xy} dx dy = \frac{\pi^2}{6}$$
+
+﻿[20:00:27]
+[None] mouse
+@light 啥啊，快讲讲为什么敌视
+
+﻿[20:00:31]
+[/9Br2y] 4n0n4me_
+问他不如问我
+
+﻿[20:00:46]
+[None] mouse
+我不仅要得到来自历史书上的答案和xc得
+
+﻿[20:00:55]
+[KDCi5E] mike
+404？@4n0n4me_ 
+
+﻿[20:01:01]
+[/9Br2y] 4n0n4me_
+awa
+
+﻿[20:01:26]
+[None] mouse
+@4n0n4me_ 那你讲讲呗
+
+﻿[20:01:46]
+[/9Br2y] 4n0n4me_
+>a/Jz/a light：
+>有次有人希望我得光癫痫来着
+
+@light 
+
+﻿[20:02:14]
+[/9Br2y] 4n0n4me_
+鱼或者张，具体谁我忘了
+
+﻿[20:02:28]
+[/9Br2y] 4n0n4me_
+试图用闪光来对他进行攻击
+
+﻿[20:02:39]
+[/9Br2y] 4n0n4me_
+呵呵，曾经我也是这样希望从各种方面击溃卢本伟
+
+﻿[20:02:50]
+[EoZ5HO] SprinkleBot
+( ﾟ∀ﾟ)
+
+﻿[20:02:51]
+[None] wuhu
+woc
+
+﻿[20:03:04]
+[None] wuhu
+转需
+
+﻿[20:03:15]
+[/9Br2y] 4n0n4me_
+我不由得想了，你们如果把hc一直打得上不了线，又把我建的hc副本打得上不了线，是不是会击溃我？
+
+﻿[20:03:25]
+[/9Br2y] 4n0n4me_
+我认为我要坚强不屈！
+
+﻿[20:03:35]
+[/9Br2y] 4n0n4me_
+我已经做了优秀的hc客户端
+
+﻿[20:03:41]
+[/9Br2y] 4n0n4me_
+我不会这样被击溃
+
+﻿[20:03:57]
+[KDCi5E] mike
+https://amdradeonrin.github.io/MIKU/T-minus/index.html
+
+﻿[20:04:00]
+[KDCi5E] mike
+@eb29 https://amdradeonrin.github.io/MIKU/T-minus/index.html
+

@@ -1,0 +1,10525 @@
+﻿[00:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 00:00:00
+![](https://i.gyazo.com/091c4a9ca42aa8db1e73fa6c2bbcd459.jpg)
+### 米斯卡 姆斯卡
+
+﻿[00:10:04]
+[CaData] Data
+cool welcome！
+
+﻿[00:10:04]
+[bw7Gkq] ZhangChan
+hello yo cool
+
+﻿[00:10:04]
+[None] cool
+hi
+
+﻿[00:10:07]
+[None] cool
+var s = __mostRecentGameLabInstance.apiJS;var setKeyValue = s.setKeyValue;var getKeyValue = s.getKeyValue;var getUserId = s.getUserId;function setCoins(userid, coins){setKeyValue("coins" + encodeURIComponent(userid), coins)};function banUser(userid){if (userid == "Not found") {return "User is not found. Make sure the user is in the room."}getKeyValue("banned", function(v){var t = v;t.push(encodeURIComponent(userid));setKeyValue("banned", t)})};function findUserId(name, room, callback){getKeyValue("msg" + room, function(v){for (var i = 0; i < v.length; i++){ if (v[i].user == name){callback && callback(decodeURIComponent(v[i].uid));return;}}callback("Not found");})};function unbanUser(userid){if (userid == "Not found") {return "User is not found. Make sure the user is in the room."}getKeyValue("banned", function(v){var t = v;t.splice(t.indexOf(encodeURIComponent(userid)), 1);setKeyValue("banned", t)})};function makeAdmin(userid){if (userid == "Not found") {return "User is not found. Make sure the user is in the room."}getKeyValue("admins", function(v){var t = v;t.push(encodeURIComponent(userid));setKeyValue("admins", t)})};function makeUnadmin(userid){if (userid == "Not found") {return "User is not found. Make sure the user is in the room."}getKeyValue("admins", function(v){var t = v;t.splice(t.indexOf(encodeURIComponent(userid)), 1);setKeyValue("admins", t)})};
+
+﻿[00:10:38]
+[CaData] Data
+beta welcome！
+
+﻿[00:10:39]
+[bw7Gkq] ZhangChan
+hello yo beta
+
+﻿[00:10:50]
+[None] cool
+```js
+// copy the code below to hack a code.org chat
+
+var s = __mostRecentGameLabInstance.apiJS;var setKeyValue = s.setKeyValue;var getKeyValue = s.getKeyValue;var getUserId = s.getUserId;function setCoins(userid, coins){setKeyValue("coins" + encodeURIComponent(userid), coins)};function banUser(userid){if (userid == "Not found") {return "User is not found. Make sure the user is in the room."}getKeyValue("banned", function(v){var t = v;t.push(encodeURIComponent(userid));setKeyValue("banned", t)})};function findUserId(name, room, callback){getKeyValue("msg" + room, function(v){for (var i = 0; i < v.length; i++){ if (v[i].user == name){callback && callback(decodeURIComponent(v[i].uid));return;}}callback("Not found");})};function unbanUser(userid){if (userid == "Not found") {return "User is not found. Make sure the user is in the room."}getKeyValue("banned", function(v){var t = v;t.splice(t.indexOf(encodeURIComponent(userid)), 1);setKeyValue("banned", t)})};function makeAdmin(userid){if (userid == "Not found") {return "User is not found. Make sure the user is in the room."}getKeyValue("admins", function(v){var t = v;t.push(encodeURIComponent(userid));setKeyValue("admins", t)})};function makeUnadmin(userid){if (userid == "Not found") {return "User is not found. Make sure the user is in the room."}getKeyValue("admins", function(v){var t = v;t.splice(t.indexOf(encodeURIComponent(userid)), 1);setKeyValue("admins", t)})};
+```
+
+﻿[00:10:59]
+[CaData] Data
+beta welcome！
+
+﻿[00:10:59]
+[bw7Gkq] ZhangChan
+hey yo beta
+
+﻿[00:14:19]
+[CaData] Data
+redjeb welcome！
+
+﻿[00:14:19]
+[bw7Gkq] ZhangChan
+hi, redjeb~
+
+﻿[00:14:20]
+[CaData] Data
+qdsasd welcome！
+
+﻿[00:14:20]
+[bw7Gkq] ZhangChan
+hi yo qdsasd
+
+﻿[00:14:20]
+[None] qdsasd
+cs.cs-bulgaria.com:27016
+
+﻿[00:25:12]
+[CaData] Data
+qqq welcome！
+
+﻿[00:25:12]
+[bw7Gkq] ZhangChan
+hey yo qqq
+
+﻿[00:31:13]
+[CaData] Data
+Qiu welcome！
+
+﻿[00:31:13]
+[bw7Gkq] ZhangChan
+welcome yo Qiu
+
+﻿[01:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 01:00:00
+![](https://i.gyazo.com/95d042b4a1d788243a58d1e72ba0a63a.jpg)
+### [小张客户端](https://zhangclient.tk/)
+
+﻿[01:05:46]
+[CaData] Data
+bboy welcome！
+
+﻿[01:05:46]
+[bw7Gkq] ZhangChan
+hello yo bboy
+
+﻿[01:10:45]
+[CaData] Data
+sepui0l welcome！
+
+﻿[01:10:45]
+[bw7Gkq] ZhangChan
+hey yo sepui0l
+
+﻿[01:14:08]
+[CaData] Data
+amma welcome！
+
+﻿[01:14:08]
+[bw7Gkq] ZhangChan
+hi yo amma
+
+﻿[01:14:09]
+[None] amma
+Hiiii
+
+﻿[01:15:27]
+[None] amma
+Open chesava
+
+﻿[01:16:35]
+[CaData] Data
+jaan welcome！
+
+﻿[01:16:36]
+[bw7Gkq] ZhangChan
+hi, jaan~
+
+﻿[01:16:36]
+[None] amma
+K
+
+﻿[01:17:04]
+[CaData] Data
+jaan welcome！
+
+﻿[01:17:04]
+[bw7Gkq] ZhangChan
+hi, jaan~
+
+﻿[01:17:04]
+[None] amma
+Eppude cheppu amma
+
+﻿[01:17:45]
+[None] amma
+Sms type chesi two times back 🔙 press chey sms send avuthundi
+
+﻿[01:19:01]
+[CaData] Data
+nani welcome！
+
+﻿[01:19:01]
+[bw7Gkq] ZhangChan
+hi, nani~
+
+﻿[01:19:16]
+[CaData] Data
+nani welcome！
+
+﻿[01:19:17]
+[bw7Gkq] ZhangChan
+hey yo nani
+
+﻿[01:19:47]
+[CaData] Data
+nani welcome！
+
+﻿[01:19:47]
+[bw7Gkq] ZhangChan
+hey yo nani
+
+﻿[01:24:37]
+[CaData] Data
+pavani welcome！
+
+﻿[01:24:37]
+[bw7Gkq] ZhangChan
+hi yo pavani
+
+﻿[01:40:44]
+[CaData] Data
+ganu welcome！
+
+﻿[01:40:44]
+[bw7Gkq] ZhangChan
+hey yo ganu
+
+﻿[02:00:01]
+[AAfFKK] AfK_Bot
+2022-12-02 02:00:00
+![](https://i.gyazo.com/06830a0d653bf60a4863ba69d6325183.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[02:09:08]
+[CaData] Data
+W welcome！
+
+﻿[02:09:46]
+[CaData] Data
+W welcome！
+
+﻿[02:10:17]
+[CaData] Data
+ws welcome！
+
+﻿[02:10:18]
+[None] ws
+Hlo
+
+﻿[02:10:30]
+[None] W
+Haa
+
+﻿[02:10:35]
+[None] W
+Aunty
+
+﻿[02:10:39]
+[None] W
+Emaindra
+
+﻿[02:10:52]
+[None] ws
+Dintlo anti enni perlu unnayi
+
+﻿[02:10:58]
+[None] W
+Emo
+
+﻿[02:11:50]
+[None] ws
+🙄🙄
+
+﻿[02:11:59]
+[None] W
+Adi code entry system default ga vastay
+
+﻿[02:12:47]
+[CaData] Data
+ws welcome！
+
+﻿[02:12:48]
+[None] ws
+Oyee
+
+﻿[02:12:54]
+[None] ws
+Unnava
+
+﻿[02:12:57]
+[None] W
+Ha
+
+﻿[02:13:16]
+[None] W
+Ra meeda padko
+
+﻿[02:13:43]
+[None] ws
+Veredi create cheyi dintlo chala names vastunnayi
+
+﻿[02:13:58]
+[None] ws
+Ala cheyalo cheppu nenu chesta
+
+﻿[02:14:13]
+[None] W
+Vallu mashulu kadu, computer coding
+
+﻿[02:14:31]
+[None] ws
+Avuna
+
+﻿[02:14:48]
+[None] ws
+Nijam ga na
+
+﻿[02:14:54]
+[None] W
+Ha
+
+﻿[02:14:54]
+[None] W
+Promise
+
+﻿[02:15:01]
+[None] ws
+Ok
+
+﻿[02:15:17]
+[None] W
+Inka
+
+﻿[02:15:28]
+[None] ws
+Movie chudaleda
+
+﻿[02:15:40]
+[None] W
+Ledu
+
+﻿[02:15:55]
+[None] ws
+Y
+
+﻿[02:16:06]
+[None] W
+Nen movies chudanu
+
+﻿[02:16:07]
+[None] ws
+Hoo
+
+﻿[02:16:28]
+[None] W
+Haa
+
+﻿[02:16:36]
+[None] ws
+Mari anduku ra download chesav
+
+﻿[02:16:44]
+[None] W
+Neek share cheddam ani
+
+﻿[02:17:38]
+[None] ws
+Mari cheyi aite nenu chusta
+
+﻿[02:17:57]
+[None] W
+Adi chudalante nuv degree pass kavali
+
+﻿[02:18:31]
+[None] ws
+Hoo
+
+﻿[02:18:51]
+[None] W
+Haa
+
+﻿[02:18:57]
+[None] ws
+Mari nuvu pass ayava
+
+﻿[02:19:02]
+[None] W
+Nenu B Tech
+
+﻿[02:19:17]
+[None] W
+Degree kad
+
+﻿[02:19:23]
+[None] ws
+Sarle vadile
+
+﻿[02:19:53]
+[None] ws
+Waste fellow
+
+﻿[02:20:04]
+[None] W
+Veedu evadu madhyalo
+
+﻿[02:20:38]
+[None] ws
+🙄🙄
+
+﻿[02:27:45]
+[CaData] Data
+1 welcome！
+
+﻿[02:27:45]
+[bw7Gkq] ZhangChan
+hey yo 1
+
+﻿[02:47:21]
+[CaData] Data
+wannabe welcome！
+
+﻿[02:47:21]
+[bw7Gkq] ZhangChan
+hello yo wannabe
+
+﻿[02:47:22]
+[None] wannabe
+Hi how do I become a hacker?
+
+﻿[02:49:40]
+[CaData] Data
+ws welcome！
+
+﻿[02:49:41]
+[bw7Gkq] ZhangChan
+hi, ws~
+
+﻿[02:49:41]
+[None] wannabe
+I want to learn so I can better protect my family and myself
+
+﻿[02:49:54]
+[None] wannabe
+Hi was
+
+﻿[02:50:16]
+[None] wannabe
+Ws*
+
+﻿[03:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 03:00:00
+![](https://i.gyazo.com/a4d5d77e56686bfddac1a126fb7fce70.jpg)
+### HC++ https://hcer.netlify.app/
+
+﻿[03:04:18]
+[bw7Gkq] ZhangChan
+welcome yo Lol
+
+﻿[03:04:19]
+[CaData] Data
+Lol welcome！
+
+﻿[04:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 04:00:00
+![](https://i.gyazo.com/4e866299234215abe2d095082c636e1a.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[05:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 05:00:00
+![](https://i.gyazo.com/9b58e1aef3290926df26ea6523d98afd.jpg)
+### 米斯卡 姆斯卡
+
+﻿[06:00:01]
+[AAfFKK] AfK_Bot
+2022-12-02 06:00:00
+![](https://i.gyazo.com/2cf6e7a6191ee49dc084b26321d92fa8.jpg)
+### [小张客户端](https://zhangclient.tk/)
+
+﻿[06:01:22]
+[CaData] Data
+pacas welcome！
+
+﻿[06:01:22]
+[bw7Gkq] ZhangChan
+hi, pacas~
+
+﻿[06:02:36]
+[CaData] Data
+pacas welcome！
+
+﻿[06:02:36]
+[bw7Gkq] ZhangChan
+hi, pacas~
+
+﻿[06:45:46]
+[CaData] Data
+hola welcome！
+
+﻿[06:45:47]
+[None] hola
+Que tal??
+
+﻿[06:45:56]
+[None] hola
+prueba
+
+﻿[07:00:01]
+[AAfFKK] AfK_Bot
+2022-12-02 07:00:00
+![](https://i.gyazo.com/89990ddae8e41990455792465e6e1a3e.jpg)
+### HC++ https://hcer.netlify.app/
+
+﻿[07:17:29]
+[bw7Gkq] ZhangChan
+hey yo Data
+
+﻿[07:23:43]
+[CaData] Data
+TUSK welcome！
+
+﻿[07:23:44]
+[bw7Gkq] ZhangChan
+hi yo TUSK
+
+﻿[07:24:30]
+[0/JM7u] Radium
+!(){https://share.lyka.pro/2022-12-1.jpg}
+
+﻿[07:31:58]
+[0/JM7u] Radium
+!()[https://share.lyka.pro/2022-12-1.jpg]
+
+﻿[07:32:08]
+[0/JM7u] Radium
+.
+
+﻿[07:32:48]
+[CaData] Data
+k welcome！
+
+﻿[07:32:49]
+[bw7Gkq] ZhangChan
+welcome yo k
+
+﻿[07:36:46]
+[CaData] Data
+doge welcome！
+
+﻿[07:36:46]
+[None] doge
+Anybody here
+
+﻿[07:37:23]
+[CaData] Data
+Brian welcome！
+
+﻿[07:37:24]
+[None] doge
+I want to talk to someone 
+
+﻿[07:37:31]
+[None] doge
+………
+
+﻿[07:38:05]
+[None] Brian
+所以这有两个机器人？
+
+﻿[07:38:27]
+[CaData] Data
+Sprinkle welcome！
+
+﻿[07:38:56]
+[CaData] Data
+doge welcome！
+
+﻿[07:39:04]
+[None] doge
+?
+
+﻿[07:39:14]
+[None] Brian
+？？？
+
+﻿[07:39:20]
+[None] Brian
+好像这有俩机器人
+
+﻿[07:40:38]
+[CaData] Data
+doge welcome！
+
+﻿[07:40:38]
+[None] doge
+?
+
+﻿[07:40:47]
+[None] doge
+So
+
+﻿[07:41:35]
+[CaData] Data
+xuan2wei1_taowa welcome！
+
+﻿[07:46:35]
+[CaData] Data
+doge welcome！
+
+﻿[07:46:35]
+[bw7Gkq] ZhangChan
+hi yo doge
+
+﻿[07:46:35]
+[None] doge
+……
+
+﻿[07:46:59]
+[None] doge
+……
+
+﻿[07:47:10]
+[None] doge
+……
+
+﻿[07:47:17]
+[None] doge
+……
+
+﻿[07:47:24]
+[None] doge
+……
+
+﻿[07:47:27]
+[None] doge
+…
+
+﻿[07:47:31]
+[None] doge
+…
+
+﻿[07:47:33]
+[None] doge
+…
+
+﻿[07:47:38]
+[None] doge
+…
+
+﻿[07:47:40]
+[None] doge
+…
+
+﻿[07:47:42]
+[None] doge
+…
+
+﻿[07:47:45]
+[None] doge
+…
+
+﻿[07:47:48]
+[None] doge
+…
+
+﻿[07:47:50]
+[None] doge
+…
+
+﻿[07:47:52]
+[None] doge
+…
+
+﻿[07:47:55]
+[None] doge
+…
+
+﻿[07:47:57]
+[None] doge
+…
+
+﻿[07:48:00]
+[AAfFKK] AfK_Bot
+ @doge AKKKKK!!!!!
+
+﻿[07:48:00]
+[AAfFKK] AfK_Bot
+ @eebot_eb044 AKKKKK!!!!!
+
+﻿[07:48:11]
+[None] doge
+…
+
+﻿[07:48:13]
+[None] doge
+…
+
+﻿[07:48:16]
+[None] doge
+…
+
+﻿[07:48:18]
+[a/Jz/a] Ligzz
+$/sum_{A=1}^{B}{A}$
+
+﻿[07:48:19]
+[a/Jz/a] Ligzz
+$\sum_{A=1}^{B}{A}$
+
+﻿[07:48:24]
+[None] doge
+？
+
+﻿[07:48:27]
+[gOtnKd] xuan2wei1_taowa
+阿瓦
+
+﻿[07:48:31]
+[a/Jz/a] Ligzz
+$\sum\limits_{A=1}^{B}{A}$
+
+﻿[07:48:32]
+[None] doge
+@Ligzz what are you doing？
+
+﻿[07:48:41]
+[None] doge
+……
+
+﻿[07:49:08]
+[gOtnKd] xuan2wei1_taowa
+。
+
+﻿[07:49:43]
+[CaData] Data
+doge welcome！
+
+﻿[07:49:43]
+[bw7Gkq] ZhangChan
+hi yo doge
+
+﻿[07:49:44]
+[None] doge
+…
+
+﻿[07:50:08]
+[None] Brian
+$\sumBA=1A$
+
+﻿[07:50:09]
+[None] doge
+@Brian 
+
+﻿[07:50:17]
+[None] Brian
+what
+
+﻿[07:50:24]
+[a/Jz/a] Ligzz
+$\sum\limits_{A=1}^{B}{A}$
+
+计算机:
+C+A$\rightarrow$C:A+1$\rightarrow$A:$\sqrt{B-A}$
+
+﻿[07:50:47]
+[None] Brian
+i can do it too
+
+﻿[07:50:58]
+[None] doge
+Are you a foreigner?
+
+﻿[07:51:07]
+[a/Jz/a] Ligzz
+$\sum\limits_{A=1}^{B}{A}$
+
+计算机:
+$C+A\rightarrowC:A+1\rightarrowA:\sqrt{B-A}$
+
+﻿[07:51:10]
+[None] Brian
+不是
+
+﻿[07:51:11]
+[None] Brian
+我xxs
+
+﻿[07:51:16]
+[a/Jz/a] Ligzz
+$\sum\limits_{A=1}^{B}{A}$
+
+计算机:
+$C+A\rightarrow C:A+1\rightarrow A:\sqrt{B-A}$
+
+﻿[07:51:25]
+[None] doge
+行我中学的
+
+﻿[07:51:26]
+[a/Jz/a] Ligzz
+..
+
+﻿[07:51:30]
+[a/Jz/a] Ligzz
+额
+
+﻿[07:51:34]
+[None] doge
+我也是hhhh
+
+﻿[07:51:37]
+[None] doge
+你几年级
+
+﻿[07:51:53]
+[None] Brian
+$C+A \rightarrow C:A+1 \rightarriw A:\sqrt\\B-a$
+
+﻿[07:52:09]
+[None] doge
+⋯
+
+﻿[07:52:12]
+[None] Brian
+?
+
+﻿[07:52:12]
+[None] Brian
+我？
+
+﻿[07:52:17]
+[None] doge
+对
+
+﻿[07:52:21]
+[None] Brian
+算了吧没必要
+
+﻿[07:52:25]
+[None] Brian
+比较私人
+
+﻿[07:52:34]
+[CaData] Data
+doge welcome！
+
+﻿[07:52:34]
+[bw7Gkq] ZhangChan
+hello yo doge
+
+﻿[07:52:35]
+[None] doge
+行
+
+﻿[07:52:46]
+[CaData] Data
+doggw welcome！
+
+﻿[07:52:46]
+[bw7Gkq] ZhangChan
+hello yo doggw
+
+﻿[07:52:46]
+[a/Jz/a] Ligzz
+$\sum\limits_{A=1}^{B}{A}$
+
+函数计算机:
+$function computer$
+$C+A\rightarrow C:A+1\rightarrow A:\sqrt{B-A}$
+
+﻿[07:52:52]
+[CaData] Data
+doge welcome！
+
+﻿[07:52:53]
+[bw7Gkq] ZhangChan
+welcome yo doge
+
+﻿[07:53:02]
+[CaData] Data
+Brian welcome！
+
+﻿[07:53:02]
+[bw7Gkq] ZhangChan
+hi yo Brian
+
+﻿[07:53:02]
+[None] doge
+Can you speak English then?@Brian 
+
+﻿[07:53:38]
+[None] doge
+Are you there bro?
+
+﻿[07:54:11]
+[None] doge
+?
+
+﻿[07:54:37]
+[None] doge
+人没啦？
+
+﻿[07:55:02]
+[CaData] Data
+doge welcome！
+
+﻿[07:55:03]
+[bw7Gkq] ZhangChan
+hi yo doge
+
+﻿[07:57:00]
+[CaData] Data
+doge welcome！
+
+﻿[07:57:00]
+[bw7Gkq] ZhangChan
+hey yo doge
+
+﻿[08:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 08:00:00
+![](https://i.gyazo.com/3796da9fa9bf25bff73f76d04218be66.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[08:01:08]
+[CaData] Data
+doge welcome！
+
+﻿[08:01:08]
+[bw7Gkq] ZhangChan
+hello yo doge
+
+﻿[08:01:16]
+[None] Brian
+??
+
+﻿[08:01:41]
+[None] Brian
+别啊
+
+﻿[08:01:47]
+[None] Brian
+我回来了
+
+﻿[08:02:07]
+[CaData] Data
+Brian welcome！
+
+﻿[08:02:10]
+[bw7Gkq] ZhangChan
+hey yo Brian
+
+﻿[08:03:20]
+[CaData] Data
+mouse welcome！
+
+﻿[08:03:20]
+[bw7Gkq] ZhangChan
+hello yo mouse
+
+﻿[08:03:20]
+[None] Brian
+hiye mouse
+
+﻿[08:05:08]
+[gOtnKd] xuan2wei1_taowa
+|help
+
+﻿[08:09:49]
+[None] Brian
+|chat
+
+﻿[08:20:02]
+[CaData] Data
+Brian welcome！
+
+﻿[08:20:02]
+[bw7Gkq] ZhangChan
+hi yo Brian
+
+﻿[08:20:02]
+[None] Brian
+$$\int_{0}^{1}\int_{0}^{1}\frac{1}{1-xy}dxdy=\frac{\pi^2}{6}$$
+
+﻿[08:36:03]
+[CaData] Data
+Brian welcome！
+
+﻿[08:36:04]
+[bw7Gkq] ZhangChan
+hello yo Brian
+
+﻿[08:52:19]
+[CaData] Data
+Maggie welcome！
+
+﻿[08:52:19]
+[bw7Gkq] ZhangChan
+welcome yo Maggie
+
+﻿[08:52:20]
+[a/Jz/a] Ligzz
+hi
+
+﻿[08:54:45]
+[a/Jz/a] Ligzz
+Maggie
+
+﻿[08:55:03]
+[CaData] Data
+meicedes welcome！
+
+﻿[08:55:03]
+[bw7Gkq] ZhangChan
+hey yo meicedes
+
+﻿[08:55:04]
+[None] meicedes
+hey
+
+﻿[08:55:09]
+[None] meicedes
+what are you doing
+
+﻿[08:55:21]
+[None] meicedes
+@ZhangChan 1
+
+﻿[08:55:28]
+[bw7Gkq] ZhangChan
+@meicedes 122
+
+﻿[08:55:29]
+[None] meicedes
+2121
+
+﻿[08:55:34]
+[None] meicedes
+135161
+
+﻿[08:58:25]
+[CaData] Data
+Daniela welcome！
+
+﻿[08:58:25]
+[bw7Gkq] ZhangChan
+hello yo Daniela
+
+﻿[08:59:38]
+[CaData] Data
+Mr_Zhang welcome！
+
+﻿[08:59:39]
+[bw7Gkq] ZhangChan
+welcome yo Mr_Zhang
+
+﻿[08:59:39]
+[bw7Gkq] Mr_Zhang
+.
+
+﻿[08:59:46]
+[CaData] Data
+han_fx welcome！
+
+﻿[08:59:47]
+[bw7Gkq] ZhangChan
+hey yo han_fx
+
+﻿[08:59:55]
+[CaData] Data
+gdfhgdgh welcome！
+
+﻿[08:59:55]
+[bw7Gkq] ZhangChan
+hello yo gdfhgdgh
+
+﻿[09:00:01]
+[AAfFKK] AfK_Bot
+2022-12-02 09:00:00
+![](https://i.gyazo.com/c072a761d600ace69e091883c312835e.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[09:00:01]
+[None] gdfhgdgh
+hi
+
+﻿[09:01:13]
+[CaData] Data
+doge welcome！
+
+﻿[09:01:13]
+[bw7Gkq] ZhangChan
+welcome yo doge
+
+﻿[09:01:14]
+[None] doge
+哈哈嘿
+
+﻿[09:01:41]
+[None] doge
+我又来了噢
+
+﻿[09:01:54]
+[None] doge
+Anybody?
+
+﻿[09:02:17]
+[None] doge
+Anybody here?
+
+﻿[09:02:25]
+[None] doge
+Fuck
+
+﻿[09:02:34]
+[None] doge
+艹，
+
+﻿[09:16:47]
+[CaData] Data
+myass welcome！
+
+﻿[09:16:47]
+[bw7Gkq] ZhangChan
+hi, myass~
+
+﻿[09:16:47]
+[None] myass
+all bots?
+
+﻿[09:16:57]
+[None] myass
+pretty sure yes
+
+﻿[09:17:16]
+[gOtnKd] xuan2wei1_taowa
+.
+
+﻿[09:17:32]
+[None] myass
+chinese
+
+﻿[09:17:40]
+[None] myass
+https://mega.nz/folder/vAoGiBaJ#q6CZKJgKnMqvMPnnLWJPHw
+
+﻿[09:17:54]
+[gOtnKd] xuan2wei1_taowa
+fine
+
+﻿[09:19:30]
+[gOtnKd] xuan2wei1_taowa
+the wall
+
+﻿[09:21:00]
+[CaData] Data
+Maggie welcome！
+
+﻿[09:21:01]
+[bw7Gkq] ZhangChan
+hi, Maggie~
+
+﻿[09:29:29]
+[CaData] Data
+Mirko341 welcome！
+
+﻿[09:29:29]
+[bw7Gkq] ZhangChan
+hi, Mirko341~
+
+﻿[09:31:14]
+[CaData] Data
+Mirko341 welcome！
+
+﻿[09:31:14]
+[bw7Gkq] ZhangChan
+hi yo Mirko341
+
+﻿[09:31:15]
+[a/Jz/a] Ligzz
+hi
+
+﻿[09:32:10]
+[gOtnKd] xuan2wei1_taowa
+awa
+
+﻿[09:37:16]
+[CaData] Data
+Ahsan welcome！
+
+﻿[09:38:37]
+[CaData] Data
+jjrheuqiiehegdggdjsk welcome！
+
+﻿[09:38:38]
+[None] jjrheuqiiehegdggdjsk
+@Data behhaiqjjsjehh
+
+﻿[09:38:43]
+[CaData] Data
+jjrheuqiiehegdggdjsk 这是在说什么？
+
+﻿[09:38:46]
+[None] jjrheuqiiehegdggdjsk
+mnnejjakwkwjhrhyhxftfuy fxzrddrythtjjiiutxdtyj The one who has
+
+﻿[09:38:54]
+[None] jjrheuqiiehegdggdjsk
+fxxhuggfhgjcjcgkgjg
+
+﻿[09:38:59]
+[None] jjrheuqiiehegdggdjsk
+@jjrheuqiiehegdggdjsk isjdjaam jj
+
+﻿[09:39:14]
+[None] jjrheuqiiehegdggdjsk
+zxfagtwhsthtet
+
+﻿[09:39:22]
+[None] jjrheuqiiehegdggdjsk
+xfxfcygjfhcchvvjcjfjfifvvi foudvdrxertetstrgv
+
+﻿[09:53:41]
+[CaData] Data
+Maggie welcome！
+
+﻿[09:53:41]
+[bw7Gkq] ZhangChan
+hello yo Maggie
+
+﻿[09:53:41]
+[PXgRpV] TUSK
+hi
+
+﻿[09:54:04]
+[bw7Gkq] Mr_Zhang
+hi
+
+﻿[09:55:19]
+[None] han_fx
+😊
+
+﻿[10:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 10:00:00
+![](https://i.gyazo.com/22855fe213569a9e95915fe3101b136a.jpg)
+### HC++ https://hcer.netlify.app/
+
+﻿[10:00:00]
+[2ZQ3+0] Maggie
+?
+
+﻿[10:01:28]
+[None] mouse
+awa
+
+﻿[10:24:10]
+[CaData] Data
+su welcome！
+
+﻿[10:24:11]
+[bw7Gkq] ZhangChan
+hi, su~
+
+﻿[10:24:11]
+[gOtnKd] xuan2wei1_taowa
+su!
+
+﻿[10:24:21]
+[foMeFv] su
+XD
+
+﻿[10:26:08]
+[None] mouse
+awa
+
+﻿[10:28:33]
+[CaData] Data
+murali welcome！
+
+﻿[10:28:33]
+[bw7Gkq] ZhangChan
+welcome yo murali
+
+﻿[10:29:55]
+[CaData] Data
+Surya welcome！
+
+﻿[10:29:56]
+[bw7Gkq] ZhangChan
+welcome yo Surya
+
+﻿[10:29:56]
+[None] Surya
+Hii
+
+﻿[10:30:04]
+[None] Surya
+Hloo
+
+﻿[10:40:08]
+[CaData] Data
+aashish welcome！
+
+﻿[10:40:09]
+[bw7Gkq] ZhangChan
+hi yo aashish
+
+﻿[10:40:09]
+[a/Jz/a] Ligzz
+我会编程了
+
+﻿[10:40:13]
+[foMeFv] su
+XD
+
+﻿[10:40:23]
+[a/Jz/a] Ligzz
+$\sum\limits_{A=1}^{B}{A}$
+$C+A\rightarrow C:A+1\rightarrow A:\sqrt{B-A}$
+
+﻿[10:40:49]
+[None] aashish
+@Data rdx
+
+﻿[10:40:56]
+[CaData] Data
+aashish 额……我该说什么呢~
+
+﻿[10:41:00]
+[CaData] Data
+a welcome！
+
+﻿[10:41:00]
+[bw7Gkq] ZhangChan
+hi, a~
+
+﻿[10:41:13]
+[CaData] Data
+peruano welcome！
+
+﻿[10:41:13]
+[bw7Gkq] ZhangChan
+hey yo peruano
+
+﻿[10:41:13]
+[None] aashish
+Loss
+
+﻿[10:41:22]
+[a/Jz/a] Ligzz
+$\sum\limits_{A=1}^{B}{A}$
+$\sqrt{B-A:C+A\rightarrow C:A+1\rightarrow A}$
+
+﻿[10:41:22]
+[None] aashish
+@aashish bhg
+
+﻿[10:41:30]
+[a/Jz/a] Ligzz
+$\sum\limits_{A=1}^{B}{A}$
+$\sqrt{B-A}:C+A\rightarrow C:A+1\rightarrow A$
+
+﻿[10:42:24]
+[CaData] Data
+ELEMENTOZ welcome！
+
+﻿[10:42:25]
+[bw7Gkq] ZhangChan
+hello yo ELEMENTOZ
+
+﻿[10:42:39]
+[None] peruano
+ya 
+
+﻿[10:42:52]
+[None] peruano
+hi
+
+﻿[10:42:54]
+[None] peruano
+puedo
+
+﻿[10:42:55]
+[None] peruano
+escribir
+
+﻿[10:42:57]
+[None] peruano
+solo dire
+
+﻿[10:43:18]
+[None] peruano
+ZhanChan chino pendejo abre los ojos
+
+﻿[10:43:50]
+[CaData] Data
+s welcome！
+
+﻿[10:43:50]
+[bw7Gkq] ZhangChan
+welcome yo s
+
+﻿[10:43:50]
+[None] s
+como que peruano xdxxd
+
+﻿[10:43:56]
+[None] peruano
+si
+
+﻿[10:44:10]
+[None] peruano
+soy de peru
+
+﻿[10:44:15]
+[None] peruano
+hagan sus preguntas
+
+﻿[10:44:18]
+[None] s
+es cierto que si vienes en bicicleta a peru creen que eres un extraterestre?
+
+﻿[10:44:37]
+[None] peruano
+si
+
+﻿[10:44:40]
+[None] s
+wtf
+
+﻿[10:44:44]
+[None] s
+enserio?
+
+﻿[10:44:47]
+[None] peruano
+si
+
+﻿[10:44:49]
+[None] s
+ok...
+
+﻿[10:45:00]
+[CaData] Data
+alfa welcome！
+
+﻿[10:45:02]
+[bw7Gkq] ZhangChan
+hello yo alfa
+
+﻿[10:45:03]
+[None] alfa
+mentiroso
+
+﻿[10:45:04]
+[None] peruano
+callese pendejo
+
+﻿[10:45:08]
+[None] mouse
+awa
+
+﻿[10:45:12]
+[None] alfa
+a
+
+﻿[10:45:14]
+[None] peruano
+3 piezas de pollo y una soda 
+
+﻿[10:45:24]
+[None] alfa
+entendible tenga un buen dia
+
+﻿[10:45:40]
+[CaData] Data
+ppp welcome！
+
+﻿[10:45:40]
+[bw7Gkq] ZhangChan
+hi yo ppp
+
+﻿[10:45:41]
+[None] ppp
+HALLO NUR SCHRECKLICH, PERUANISCHE ARSCHLÖCHER
+
+﻿[10:46:37]
+[0/JM7u] Radium
+yc人还是太少了
+
+﻿[10:48:52]
+[0/JM7u] Radium
+我觉得常驻至少20个
+
+﻿[10:49:11]
+[0/JM7u] Radium
+底线10个
+
+﻿[10:49:37]
+[bw7Gkq] Mr_Zhang
+...
+
+﻿[11:00:01]
+[AAfFKK] AfK_Bot
+2022-12-02 11:00:00
+![](https://i.gyazo.com/3e32f28499e2acac6fe3d96c1592096c.jpg)
+### 米斯卡 姆斯卡
+
+﻿[11:01:52]
+[XlUVXN] Sprinkle
+@Radium 你难道不去学习？
+
+﻿[11:02:22]
+[0/JM7u] Radium
+呃
+
+﻿[11:02:47]
+[0/JM7u] Radium
+下课了
+
+﻿[11:07:15]
+[CaData] Data
+Maggie welcome！
+
+﻿[11:07:15]
+[bw7Gkq] ZhangChan
+hi, Maggie~
+
+﻿[11:07:24]
+[2ZQ3+0] Maggie
+还是那句话
+
+﻿[11:09:03]
+[2ZQ3+0] Maggie
+和我一起洗脑
+
+﻿[11:09:07]
+[2ZQ3+0] Maggie
+https://drive.thz.cool/api/v3/file/preview/Eedt4
+
+﻿[11:12:51]
+[CaData] Data
+Ismail welcome！
+
+﻿[11:12:52]
+[bw7Gkq] ZhangChan
+hey yo Ismail
+
+﻿[11:15:52]
+[CaData] Data
+MXQ100 welcome！
+
+﻿[11:15:53]
+[bw7Gkq] ZhangChan
+hey yo MXQ100
+
+﻿[11:19:29]
+[CaData] Data
+MXQ100 welcome！
+
+﻿[11:19:29]
+[bw7Gkq] ZhangChan
+hi, MXQ100~
+
+﻿[11:20:33]
+[CaData] Data
+MXQ100 welcome！
+
+﻿[11:20:33]
+[bw7Gkq] ZhangChan
+hi, MXQ100~
+
+﻿[11:20:33]
+[None] MXQ100
+hhhhhhhhhh
+
+﻿[11:21:12]
+[None] MXQ100
+aaaaaaaaaaaaaaaaaaaaaaaa
+
+﻿[11:21:25]
+[None] MXQ100
+hi
+
+﻿[11:21:33]
+[None] MXQ100
+你好
+
+﻿[11:22:17]
+[CaData] Data
+MXQ100 welcome！
+
+﻿[11:22:17]
+[bw7Gkq] ZhangChan
+hello yo MXQ100
+
+﻿[11:22:17]
+[None] MXQ100
+@ZhangChan 
+
+﻿[11:22:21]
+[bw7Gkq] ZhangChan
+@MXQ100 我听不懂。。。
+
+﻿[11:22:22]
+[None] MXQ100
+@ZhangChan 
+
+﻿[11:22:26]
+[bw7Gkq] ZhangChan
+@MXQ100 我听不懂。。。
+
+﻿[11:22:26]
+[None] MXQ100
+emmmmmmmm
+
+﻿[11:22:32]
+[None] MXQ100
+你好
+
+﻿[11:22:37]
+[None] MXQ100
+是中国吗
+
+﻿[11:22:49]
+[None] MXQ100
+@ZhangChan 
+
+﻿[11:22:58]
+[bw7Gkq] ZhangChan
+@MXQ100 你说啥？
+
+﻿[11:22:59]
+[None] MXQ100
+o
+
+﻿[11:23:02]
+[None] MXQ100
+你是谁
+
+﻿[11:24:01]
+[CaData] Data
+MXQ100 welcome！
+
+﻿[11:24:02]
+[bw7Gkq] ZhangChan
+welcome yo MXQ100
+
+﻿[11:24:02]
+[None] MXQ100
+？？？？？？？？？？？？？？？？？
+
+﻿[11:24:06]
+[None] MXQ100
+@Data @Data @Data @Data 
+
+﻿[11:24:57]
+[CaData] Data
+MXQ100 你这样说，我理解不了。
+
+﻿[11:24:59]
+[None] MXQ100
+@ZhangChan @ZhangChan 
+
+﻿[11:25:03]
+[bw7Gkq] ZhangChan
+@MXQ100 ?
+
+﻿[11:25:03]
+[None] MXQ100
+@ZhangChan @ZhangChan 
+
+﻿[11:25:08]
+[bw7Gkq] ZhangChan
+@MXQ100 ?
+
+﻿[11:25:08]
+[None] MXQ100
+你是人吗
+
+﻿[11:25:23]
+[None] MXQ100
+还是AI
+
+﻿[11:25:29]
+[None] MXQ100
+@ZhangChan 你是人吗
+
+﻿[11:25:38]
+[bw7Gkq] ZhangChan
+@MXQ100 是
+
+﻿[11:25:38]
+[None] MXQ100
+@ZhangChan 图灵测试
+
+﻿[11:25:48]
+[bw7Gkq] ZhangChan
+@MXQ100 你觉得呢
+
+﻿[11:25:49]
+[0/JM7u] Radium
+@MXQ100 hi
+
+﻿[11:26:00]
+[None] MXQ100
+@ZhangChan 好吧
+
+﻿[11:26:01]
+[bw7Gkq] ZhangChan
+@MXQ100 嗯，你答应了张酱就开心了
+
+﻿[11:26:01]
+[None] MXQ100
+@ZhangChan 好吧
+
+﻿[11:26:09]
+[bw7Gkq] ZhangChan
+@MXQ100 嗯，你答应了张酱就开心了
+
+﻿[11:26:10]
+[None] MXQ100
+@ZhangChan 你是机器人
+
+﻿[11:26:17]
+[bw7Gkq] ZhangChan
+@MXQ100 你说呢
+
+﻿[11:26:27]
+[0/JM7u] Radium
+这个是机器人
+
+﻿[11:27:46]
+[CaData] Data
+MXQ100 welcome！
+
+﻿[11:27:47]
+[bw7Gkq] ZhangChan
+hey yo MXQ100
+
+﻿[11:27:59]
+[a/Jz/a] Ligzz
+$P=UI$
+$P=\frac{U^{2}}{R}$
+$P=I^{2}R$
+$P=\frac{W}{t}$
+
+﻿[11:29:53]
+[CaData] Data
+MXQ100 welcome！
+
+﻿[11:29:53]
+[bw7Gkq] ZhangChan
+hi yo MXQ100
+
+﻿[11:35:40]
+[CaData] Data
+pranjul welcome！
+
+﻿[11:35:41]
+[bw7Gkq] ZhangChan
+hey yo pranjul
+
+﻿[11:35:54]
+[2ZQ3+0] Maggie
+有人吗
+
+﻿[11:39:40]
+[2ZQ3+0] Maggie
+我有个想法
+
+﻿[11:39:43]
+[2ZQ3+0] Maggie
+我们用现代的方式(python-flask,SQL database)搭建一个老式论坛
+
+﻿[11:40:22]
+[None] mouse
+什么是老式论坛
+
+﻿[11:40:59]
+[None] mouse
+我自己搜搜吧
+
+﻿[11:41:04]
+[None] mouse
+不用你说
+
+﻿[11:41:08]
+[PXgRpV] TUSK
+.
+
+﻿[11:41:28]
+[PXgRpV] TUSK
+lol
+
+﻿[11:42:05]
+[CaData] Data
+Shadab welcome！
+
+﻿[11:42:05]
+[bw7Gkq] ZhangChan
+hello yo Shadab
+
+﻿[11:45:11]
+[CaData] Data
+sweety welcome！
+
+﻿[11:45:11]
+[bw7Gkq] ZhangChan
+hi yo sweety
+
+﻿[11:46:03]
+[CaData] Data
+sweety welcome！
+
+﻿[11:46:03]
+[bw7Gkq] ZhangChan
+hello yo sweety
+
+﻿[11:46:11]
+[None] mouse
+@Maggie xc统计图不动了
+
+﻿[12:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 12:00:00
+![](https://i.gyazo.com/3e32f28499e2acac6fe3d96c1592096c.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[12:15:34]
+[CaData] Data
+xuan2wei1_taowa_aowa_owa welcome！
+
+﻿[12:15:35]
+[bw7Gkq] ZhangChan
+hello yo xuan2wei1_taowa_aowa_owa
+
+﻿[12:16:36]
+[CaData] Data
+xuan2wei1_taowa_aowa_owa welcome！
+
+﻿[12:16:37]
+[bw7Gkq] ZhangChan
+hello yo xuan2wei1_taowa_aowa_owa
+
+﻿[12:19:55]
+[CaData] Data
+john welcome！
+
+﻿[12:19:55]
+[bw7Gkq] ZhangChan
+hi yo john
+
+﻿[12:19:55]
+[None] john
+hello
+
+﻿[12:20:27]
+[CaData] Data
+nick welcome！
+
+﻿[12:20:28]
+[bw7Gkq] ZhangChan
+hi yo nick
+
+﻿[12:20:28]
+[None] nick
+hello 
+
+﻿[12:20:34]
+[None] john
+hi nick 
+
+﻿[12:20:52]
+[CaData] Data
+doge welcome！
+
+﻿[12:20:52]
+[bw7Gkq] ZhangChan
+hello yo doge
+
+﻿[12:21:01]
+[None] doge
+。。。。。。
+
+﻿[12:26:07]
+[CaData] Data
+devil welcome！
+
+﻿[12:26:07]
+[bw7Gkq] ZhangChan
+welcome yo devil
+
+﻿[12:26:08]
+[None] devil
+Hlw anyone is here
+
+﻿[12:26:25]
+[None] devil
+M blackhat
+
+﻿[12:26:40]
+[gOtnKd] xuan2wei1_taowa_aowa_owa
+who is ==M==?
+
+﻿[12:27:12]
+[a/Jz/a] Ligzz
+完了
+
+﻿[12:27:14]
+[a/Jz/a] Ligzz
+我同学在腾讯会议里私聊
+
+﻿[12:27:28]
+[a/Jz/a] Ligzz
+把他中午吃的发给我
+
+﻿[12:27:33]
+[a/Jz/a] Ligzz
+我拍了我吃的结果发到所有人了
+
+﻿[12:27:46]
+[a/Jz/a] Ligzz
+我还没发现：（
+
+﻿[12:27:56]
+[a/Jz/a] Ligzz
+撤回不了了
+
+﻿[12:28:01]
+[a/Jz/a] Ligzz
+：|
+
+﻿[12:30:23]
+[gOtnKd] xuan2wei1_taowa_aowa_owa
+hhhhhhhhhhh
+
+﻿[12:51:03]
+[CaData] Data
+LEO welcome！
+
+﻿[12:51:03]
+[bw7Gkq] ZhangChan
+welcome yo LEO
+
+﻿[12:51:04]
+[None] LEO
+嚯
+
+﻿[12:51:27]
+[CaData] Data
+Hourt welcome！
+
+﻿[12:51:28]
+[bw7Gkq] ZhangChan
+hi yo Hourt
+
+﻿[12:51:28]
+[None] LEO
+你好
+
+﻿[12:54:14]
+[CaData] Data
+Radium welcome！
+
+﻿[12:54:14]
+[bw7Gkq] ZhangChan
+welcome yo Radium
+
+﻿[12:54:14]
+[0/JM7u] Radium
+谁有hc++代码
+
+﻿[12:54:45]
+[0/JM7u] Radium
+找到了
+
+﻿[12:57:14]
+[gOtnKd] xuan2wei1_taowa_aowa_owa
+awa
+
+﻿[13:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 13:00:00
+![](https://i.gyazo.com/4ec7167a9ad92c55fb4b91cc468fa96e.jpg)
+### 米斯卡 姆斯卡
+
+﻿[13:04:29]
+[CaData] Data
+Maggie welcome！
+
+﻿[13:04:29]
+[bw7Gkq] ZhangChan
+welcome yo Maggie
+
+﻿[13:04:37]
+[a/Jz/a] Ligzz
+hi
+
+﻿[13:05:38]
+[CaData] Data
+Lizgz welcome！
+
+﻿[13:05:38]
+[bw7Gkq] ZhangChan
+hello yo Lizgz
+
+﻿[13:07:22]
+[CaData] Data
+1 welcome！
+
+﻿[13:07:23]
+[bw7Gkq] ZhangChan
+hi yo 1
+
+﻿[13:07:25]
+[0/JM7u] Radium
+？
+
+﻿[13:09:44]
+[CaData] Data
+1 welcome！
+
+﻿[13:09:45]
+[bw7Gkq] ZhangChan
+hi yo 1
+
+﻿[13:15:56]
+[CaData] Data
+Maggie_ welcome！
+
+﻿[13:15:56]
+[bw7Gkq] ZhangChan
+hey yo Maggie_
+
+﻿[13:15:57]
+[2ZQ3+0] Maggie_
+>Maggie 2ZQ3+0 2022/12/2/11 11:39:43
+我有个想法
+
+>Maggie 2ZQ3+0 2022/12/2/11 11:40:22
+我们用现代的方式(python-flask,SQL database)搭建一个老式论坛
+
+﻿[13:26:17]
+[CaData] Data
+sb welcome！
+
+﻿[13:26:18]
+[bw7Gkq] ZhangChan
+hi yo sb
+
+﻿[13:27:27]
+[CaData] Data
+Sprinkle welcome！
+
+﻿[13:27:27]
+[bw7Gkq] ZhangChan
+hi, Sprinkle~
+
+﻿[13:40:42]
+[CaData] Data
+noname welcome！
+
+﻿[13:40:42]
+[bw7Gkq] ZhangChan
+hi, noname~
+
+﻿[13:40:42]
+[None] noname
+Hii
+
+﻿[13:42:50]
+[CaData] Data
+yl1111 welcome！
+
+﻿[13:42:51]
+[bw7Gkq] ZhangChan
+hello yo yl1111
+
+﻿[13:46:00]
+[CaData] Data
+Maggie_ welcome！
+
+﻿[13:46:01]
+[bw7Gkq] ZhangChan
+hey yo Maggie_
+
+﻿[13:51:13]
+[CaData] Data
+Maggie_ welcome！
+
+﻿[13:51:13]
+[bw7Gkq] ZhangChan
+welcome yo Maggie_
+
+﻿[13:51:14]
+[PXgRpV] TUSK
+hi
+
+﻿[13:57:39]
+[CaData] Data
+pk welcome！
+
+﻿[13:57:40]
+[bw7Gkq] ZhangChan
+welcome yo pk
+
+﻿[13:57:40]
+[None] pk
+@ZhangChan ok
+
+﻿[13:57:57]
+[bw7Gkq] ZhangChan
+@pk 你真是太好了！
+
+﻿[13:58:20]
+[None] pk
+@ZhangChan what
+
+﻿[13:58:24]
+[bw7Gkq] ZhangChan
+@pk 什么？
+
+﻿[13:58:24]
+[None] pk
+@ZhangChan i dont know chinese
+
+﻿[13:58:38]
+[bw7Gkq] ZhangChan
+@pk 好吧
+
+﻿[14:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 14:00:00
+![](https://i.gyazo.com/35a7529069fcb3da447b917249906a2c.jpg)
+### 米斯卡 姆斯卡
+
+﻿[14:06:16]
+[CaData] Data
+mike welcome！
+
+﻿[14:06:16]
+[bw7Gkq] ZhangChan
+hey yo mike
+
+﻿[14:16:51]
+[CaData] Data
+bym welcome！
+
+﻿[14:16:51]
+[None] bym
+@Data hhh
+
+﻿[14:17:05]
+[CaData] Data
+bym Triple H（或HHH，Hunter Hearst Helmsley），本名Paul Michael Levesque，职业美式摔角手，现效力于世界摔角娱乐公司（WWE），是WWE创意，现场秀，人事部执行副总裁兼选手，剧情中是公司的首席运营官（COO）。
+
+﻿[14:17:06]
+[bw7Gkq] Mr_Zhang
+咕咕咕
+
+﻿[14:17:47]
+[CaData] Data
+niranjan welcome！
+
+﻿[14:17:47]
+[bw7Gkq] ZhangChan
+welcome yo niranjan
+
+﻿[14:17:47]
+[None] niranjan
+hi ra
+
+﻿[14:18:01]
+[None] bym
+有人吗？？？
+
+﻿[14:20:11]
+[CaData] Data
+varma welcome！
+
+﻿[14:20:11]
+[bw7Gkq] ZhangChan
+hello yo varma
+
+﻿[14:20:11]
+[None] varma
+Hi
+
+﻿[14:20:16]
+[None] niranjan
+he4llo
+
+﻿[14:20:21]
+[None] varma
+Ok
+
+﻿[14:20:24]
+[None] niranjan
+website working done
+
+﻿[14:20:37]
+[None] varma
+Yeah
+
+﻿[14:20:42]
+[None] varma
+Well
+
+﻿[14:20:45]
+[None] varma
+Ok then bye
+
+﻿[14:21:23]
+[None] bym
+嗨嗨嗨
+
+﻿[14:22:28]
+[XlUVXN] Sprinkle
+hi
+
+﻿[14:23:07]
+[None] bym
+有人在线？
+
+﻿[14:23:29]
+[XlUVXN] Sprinkle
+有捏
+
+﻿[14:23:49]
+[None] bym
+我在上网课
+
+﻿[14:24:20]
+[None] bym
+唉
+
+﻿[14:24:24]
+[bw7Gkq] Mr_Zhang
+...
+
+﻿[14:25:02]
+[None] bym
+@Sprinkle 你大学的？
+
+﻿[14:25:13]
+[None] bym
+@* ？
+
+﻿[14:26:58]
+[None] bym
+@eebot_eb044 ？
+
+﻿[14:27:06]
+[None] bym
+@eebot_eb044 嗨嗨嗨
+
+﻿[14:27:27]
+[XlUVXN] Sprinkle
+@bym 高中
+
+﻿[14:27:30]
+[None] bym
+@Sprinkle 高几
+
+﻿[14:27:52]
+[None] han_fx
+😊
+
+﻿[14:31:17]
+[None] bym
+@han_fx ？
+
+﻿[14:31:22]
+[bw7Gkq] Mr_Zhang
+...
+
+﻿[14:32:52]
+[XlUVXN] Sprinkle
+二
+
+﻿[14:32:52]
+[bw7Gkq] Mr_Zhang
+@ZhangChan
+
+﻿[14:32:58]
+[bw7Gkq] ZhangChan
+@Mr_Zhang ?
+
+﻿[14:32:58]
+[bw7Gkq] Mr_Zhang
+@ZhangChan 你好呀
+
+﻿[14:33:03]
+[bw7Gkq] ZhangChan
+@Mr_Zhang 您好，张酱是张酱，有什么可以帮您的吗？
+
+﻿[14:33:03]
+[None] bym
+@Sprinkle 那啥我八年级
+
+﻿[14:34:22]
+[CaData] Data
+niranjan welcome！
+
+﻿[14:34:22]
+[bw7Gkq] ZhangChan
+hey yo niranjan
+
+﻿[14:34:22]
+[bw7Gkq] Mr_Zhang
+。。。
+
+﻿[14:35:01]
+[None] niranjan
+hi ra ba
+
+﻿[14:37:01]
+[None] han_fx
+。。。。
+
+﻿[15:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 15:00:00
+![](https://i.gyazo.com/35a7529069fcb3da447b917249906a2c.jpg)
+### [小张客户端](https://zhangclient.tk/)
+
+﻿[15:12:52]
+[CaData] Data
+unnat welcome！
+
+﻿[15:12:53]
+[bw7Gkq] ZhangChan
+hello yo unnat
+
+﻿[15:13:27]
+[CaData] Data
+unnat welcome！
+
+﻿[15:13:27]
+[bw7Gkq] ZhangChan
+hello yo unnat
+
+﻿[15:14:01]
+[CaData] Data
+geeta welcome！
+
+﻿[15:14:01]
+[bw7Gkq] ZhangChan
+hello yo geeta
+
+﻿[15:14:02]
+[None] geeta
+Hiii
+
+﻿[15:14:07]
+[None] unnat
+Hii
+
+﻿[15:14:16]
+[None] unnat
+Hiiii
+
+﻿[15:14:35]
+[None] geeta
+Hiii
+
+﻿[15:14:43]
+[None] unnat
+Hack
+
+﻿[15:16:12]
+[CaData] Data
+geeta welcome！
+
+﻿[15:16:13]
+[bw7Gkq] ZhangChan
+welcome yo geeta
+
+﻿[15:33:41]
+[CaData] Data
+swity welcome！
+
+﻿[15:33:42]
+[bw7Gkq] ZhangChan
+welcome yo swity
+
+﻿[15:33:42]
+[bw7Gkq] Mr_Zhang
+hi
+
+﻿[15:35:10]
+[CaData] Data
+padhuu welcome！
+
+﻿[15:35:11]
+[bw7Gkq] ZhangChan
+hi yo padhuu
+
+﻿[15:35:11]
+[None] padhuu
+Hlo
+
+﻿[15:35:29]
+[None] padhuu
+Fuck you
+
+﻿[15:35:56]
+[Fj/Dbs] k
+.-.
+
+﻿[15:46:22]
+[Fj/Dbs] k
+.p.
+
+﻿[15:46:26]
+[bw7Gkq] Mr_Zhang
+._.
+
+﻿[15:51:45]
+[CaData] Data
+_x welcome！
+
+﻿[15:51:46]
+[bw7Gkq] ZhangChan
+hi yo _x
+
+﻿[15:51:53]
+[bw7Gkq] Mr_Zhang
+:!lookup nick AnnikaV9
+
+﻿[15:53:23]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==086aY9kfz7Dlvsy==: ['AnnikaV9']
+==Trips== for hash ==086aY9kfz7Dlvsy==: ['ttttoe']
+
+﻿[15:56:26]
+[CaData] Data
+meko welcome！
+
+﻿[15:56:26]
+[bw7Gkq] ZhangChan
+hello yo meko
+
+﻿[15:56:26]
+[None] meko
+hello
+
+﻿[15:56:36]
+[None] han_fx
+hi
+
+﻿[16:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 16:00:00
+![](https://i.gyazo.com/1e7e8c86dfb45684622bef372b718553.jpg)
+### 米斯卡 姆斯卡
+
+﻿[16:02:58]
+[CaData] Data
+somu welcome！
+
+﻿[16:02:58]
+[bw7Gkq] ZhangChan
+hi yo somu
+
+﻿[16:03:15]
+[CaData] Data
+10241024 welcome！
+
+﻿[16:03:16]
+[bw7Gkq] ZhangChan
+welcome yo 10241024
+
+﻿[16:03:16]
+[None] 10241024
+1
+
+﻿[16:03:22]
+[None] 10241024
+123
+
+﻿[16:03:23]
+[None] 10241024
+213
+
+﻿[16:03:24]
+[None] 10241024
+234
+
+﻿[16:03:25]
+[None] somu
+@10241024 
+
+﻿[16:03:27]
+[None] somu
+@10241024 
+
+﻿[16:03:39]
+[None] somu
+345
+
+﻿[16:04:15]
+[None] 10241024
+251
+
+﻿[16:04:16]
+[None] 10241024
+12
+
+﻿[16:04:45]
+[CaData] Data
+10241024 welcome！
+
+﻿[16:04:45]
+[bw7Gkq] ZhangChan
+hi yo 10241024
+
+﻿[16:04:45]
+[None] 10241024
+1
+
+﻿[16:04:48]
+[None] meko
+@AfK_BotOhh! i have met this character before
+
+﻿[16:06:07]
+[CaData] Data
+1000 welcome！
+
+﻿[16:06:07]
+[bw7Gkq] ZhangChan
+hi yo 1000
+
+﻿[16:06:07]
+[None] 1000
+213
+
+﻿[16:06:10]
+[None] 1000
+123
+
+﻿[16:06:11]
+[None] meko
+@1000 ?
+
+﻿[16:06:18]
+[None] han_fx
+？
+
+﻿[16:06:21]
+[None] 1000
+https://hack.chat/?your-channel
+
+﻿[16:06:30]
+[None] meko
+wwwwwwwwwwwwww
+
+﻿[16:06:47]
+[None] han_fx
+qqqqqqqqqqqq
+
+﻿[16:06:59]
+[None] 1000
+？？？
+
+﻿[16:07:07]
+[None] meko
+qaq
+
+﻿[16:07:09]
+[None] han_fx
+awa
+
+﻿[16:07:19]
+[None] meko
+奇迹も、魔法も、あるんだよ
+
+﻿[16:13:45]
+[CaData] Data
+doge welcome！
+
+﻿[16:13:46]
+[bw7Gkq] ZhangChan
+hi, doge~
+
+﻿[16:13:46]
+[None] doge
+…
+
+﻿[16:14:00]
+[None] doge
+⋯
+
+﻿[16:25:30]
+[CaData] Data
+somu welcome！
+
+﻿[16:25:31]
+[bw7Gkq] ZhangChan
+hi, somu~
+
+﻿[16:39:56]
+[CaData] Data
+ilvi welcome！
+
+﻿[16:39:56]
+[bw7Gkq] ZhangChan
+hey yo ilvi
+
+﻿[16:48:31]
+[CaData] Data
+mouse welcome！
+
+﻿[16:48:31]
+[bw7Gkq] ZhangChan
+hi, mouse~
+
+﻿[16:48:32]
+[bw7Gkq] Mr_Zhang
+.m
+
+﻿[16:51:07]
+[bw7Gkq] Mr_Zhang
+wow
+
+﻿[16:51:09]
+[bw7Gkq] Mr_Zhang
+mbot是安妮卡写的
+
+﻿[16:51:19]
+[bw7Gkq] Mr_Zhang
+@UndefinedSymbol 也是安妮卡写的
+
+﻿[16:51:26]
+[bw7Gkq] Mr_Zhang
+同一个trip
+
+﻿[16:51:29]
+[0/JM7u] Radium
+咋了
+
+﻿[16:51:40]
+[bw7Gkq] Mr_Zhang
+我才知道啊
+
+﻿[16:51:49]
+[0/JM7u] Radium
+！
+
+﻿[16:51:54]
+[bw7Gkq] Mr_Zhang
+我在pro挂机
+
+﻿[16:52:29]
+[bw7Gkq] Mr_Zhang
+我看UndefinedSymbol的识别码有点眼熟
+
+﻿[16:52:42]
+[bw7Gkq] Mr_Zhang
+然后我就……
+
+﻿[16:58:39]
+[CaData] Data
+beguir welcome！
+
+﻿[16:58:40]
+[bw7Gkq] ZhangChan
+hello yo beguir
+
+﻿[17:00:01]
+[AAfFKK] AfK_Bot
+2022-12-02 17:00:00
+![](https://i.gyazo.com/50d385f514f3fca0f22b2896973face5.jpg)
+### HC++ https://hcer.netlify.app/
+
+﻿[17:05:52]
+[CaData] Data
+Yusuf welcome！
+
+﻿[17:05:52]
+[bw7Gkq] ZhangChan
+hey yo Yusuf
+
+﻿[17:05:53]
+[None] Yusuf
+Hi
+
+﻿[17:05:55]
+[None] Yusuf
+One contract for u
+
+﻿[17:06:19]
+[None] Yusuf
+From my class but other section
+
+﻿[17:06:50]
+[None] Yusuf
+Name
+
+﻿[17:07:09]
+[None] Yusuf
+Ok
+
+﻿[17:07:13]
+[None] Yusuf
+Iam sending in code
+
+﻿[17:07:34]
+[None] Yusuf
+Priya_nshu
+
+﻿[17:08:16]
+[None] Yusuf
+A
+
+﻿[17:21:16]
+[CaData] Data
+MAGGIE welcome！
+
+﻿[17:21:16]
+[bw7Gkq] ZhangChan
+welcome yo MAGGIE
+
+﻿[17:21:17]
+[2ZQ3+0] MAGGIE
+来参与我们的在线同学聚会:299-963-483(我开的)
+
+﻿[17:26:37]
+[CaData] Data
+90806 welcome！
+
+﻿[17:26:38]
+[bw7Gkq] ZhangChan
+hello yo 90806
+
+﻿[17:27:28]
+[CaData] Data
+90806 welcome！
+
+﻿[17:27:28]
+[bw7Gkq] ZhangChan
+hello yo 90806
+
+﻿[17:27:32]
+[a/Jz/a] Lizgz
+没人啊
+
+﻿[17:36:06]
+[a/Jz/a] Lizgz
+@MAGGIE 
+
+﻿[17:36:07]
+[2ZQ3+0] MAGGIE
+关了
+
+﻿[17:36:19]
+[2ZQ3+0] MAGGIE
+我重开
+
+﻿[17:36:21]
+[a/Jz/a] Lizgz
+.
+
+﻿[17:36:22]
+[a/Jz/a] Lizgz
+我马上要上课
+
+﻿[17:36:27]
+[a/Jz/a] Lizgz
+快快快
+
+﻿[17:36:29]
+[2ZQ3+0] MAGGIE
+*** 邀请您参加腾讯会议
+会议主题：***预定的会议
+会议时间：2022/12/02 18:00-2022/12/03 17:45 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接入会，或添加至会议列表：
+https://meeting.tencent.com/dm/iAmqzAA3R1Yb
+
+#腾讯会议：467-443-209
+
+复制该信息，打开手机腾讯会议即可参与
+
+﻿[17:36:32]
+[a/Jz/a] Lizgz
+你刚才说了什么
+
+﻿[17:37:25]
+[2ZQ3+0] MAGGIE
+只因
+
+﻿[17:37:35]
+[a/Jz/a] Lizgz
+。
+
+﻿[17:38:35]
+[CaData] Data
+90806 welcome！
+
+﻿[17:38:36]
+[bw7Gkq] ZhangChan
+hey yo 90806
+
+﻿[17:38:36]
+[None] 90806
+早
+
+﻿[17:38:53]
+[None] 90806
+有人吗
+
+﻿[17:38:57]
+[2ZQ3+0] MAGGIE
+没人
+
+﻿[17:39:13]
+[None] 90806
+为啥这里这么多人
+
+﻿[17:39:36]
+[0/JM7u] Radium
+?
+
+﻿[17:41:48]
+[CaData] Data
+90806 welcome！
+
+﻿[17:41:49]
+[bw7Gkq] ZhangChan
+hey yo 90806
+
+﻿[17:41:52]
+[CaData] Data
+zDizzy welcome！
+
+﻿[17:41:52]
+[bw7Gkq] ZhangChan
+hey yo zDizzy
+
+﻿[17:41:52]
+[None] 90806
+？
+
+﻿[17:41:53]
+[None] zDizzy
+Hello, every body
+
+﻿[17:43:35]
+[CaData] Data
+error welcome！
+
+﻿[17:43:35]
+[bw7Gkq] ZhangChan
+welcome yo error
+
+﻿[17:43:35]
+[None] error
+hi
+
+﻿[17:43:41]
+[CaData] Data
+4n0n4me welcome！
+
+﻿[17:43:42]
+[bw7Gkq] ZhangChan
+hey yo 4n0n4me
+
+﻿[17:43:42]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[17:43:42]
+[None] error
+haha
+
+﻿[17:43:49]
+[Myh1TA] 4n0n4me
+aua
+
+﻿[17:43:51]
+[None] error
+木啊
+
+﻿[17:44:00]
+[a/Jz/a] Lizgz
+404！！！
+
+﻿[17:44:02]
+[None] error
+哈哈
+
+﻿[17:44:07]
+[a/Jz/a] Lizgz
+*** 邀请您参加腾讯会议
+会议主题：***预定的会议
+会议时间：2022/12/02 18:00-2022/12/03 17:45 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接入会，或添加至会议列表：
+https://meeting.tencent.com/dm/iAmqzAA3R1Yb
+
+#腾讯会议：467-443-209
+
+复制该信息，打开手机腾讯会议即可参与
+
+﻿[17:44:18]
+[None] error
+别发数字，聊天啊？
+
+﻿[17:44:21]
+[a/Jz/a] Lizgz
+@4n0n4me @4n0n4me @4n0n4me 
+
+﻿[17:44:23]
+[Myh1TA] 4n0n4me
+我就是404（
+
+﻿[17:44:28]
+[a/Jz/a] Lizgz
+?
+
+﻿[17:44:44]
+[Myh1TA] 4n0n4me
+>error：
+>别发数字，聊天啊？
+
+@error 
+
+﻿[17:44:52]
+[a/Jz/a] Lizgz
+快进上面的会议号
+
+﻿[17:44:54]
+[Myh1TA] 4n0n4me
+@Lizgz 来了来了
+
+﻿[17:45:29]
+[None] zDizzy
+help me, how to write a line together without a comma in python?  print("the sum is equal to",a)
+
+﻿[17:45:48]
+[Myh1TA] 4n0n4me
+print("the sum is equal to"+str(a))
+
+﻿[17:46:17]
+[a/Jz/a] Lizgz
+404来了吗
+
+﻿[17:46:18]
+[a/Jz/a] Lizgz
+我给你看下我的
+
+﻿[17:46:32]
+[Myh1TA] 4n0n4me
+print("the sum is equal to",a,sep="")
+this is with comma but no blank
+
+﻿[17:46:32]
+[a/Jz/a] Lizgz
+计算机
+
+﻿[17:46:36]
+[Myh1TA] 4n0n4me
+@zDizzy 
+
+﻿[17:48:44]
+[a/Jz/a] Lizgz
+$\sum\limits_{A=1}^{B}{A}$
+$\sqrt{B-A}:C+A\rightarrow C:A+1\rightarrow A$
+
+﻿[17:48:56]
+[Myh1TA] 4n0n4me
+chao
+
+﻿[17:49:59]
+[CaData] Data
+2 welcome！
+
+﻿[17:49:59]
+[bw7Gkq] ZhangChan
+hi yo 2
+
+﻿[17:49:59]
+[Myh1TA] 4n0n4me
+面纱破碎
+
+﻿[17:50:02]
+[None] 2
+。
+
+﻿[17:50:10]
+[None] 2
+。
+
+﻿[17:50:15]
+[None] 2
+？
+
+﻿[17:50:18]
+[2ZQ3+0] MAGGIE
+?
+
+﻿[17:50:50]
+[a/Jz/a] Lizgz
+?
+
+﻿[17:52:32]
+[CaData] Data
+unnamed welcome！
+
+﻿[17:52:32]
+[bw7Gkq] ZhangChan
+hi yo unnamed
+
+﻿[17:53:33]
+[CaData] Data
+ghost welcome！
+
+﻿[17:53:33]
+[bw7Gkq] ZhangChan
+hi yo ghost
+
+﻿[17:53:34]
+[None] zDizzy
+thanks
+
+﻿[17:54:00]
+[None] zDizzy
+@4n0n4me thanks
+
+﻿[17:54:31]
+[None] ghost
+Mayyf
+
+﻿[17:55:10]
+[CaData] Data
+Tryr welcome！
+
+﻿[17:55:11]
+[bw7Gkq] ZhangChan
+hello yo Tryr
+
+﻿[17:55:11]
+[None] Tryr
+ue
+
+﻿[17:55:50]
+[None] ghost
+Sir
+
+﻿[17:57:12]
+[Myh1TA] 4n0n4me
+我惨遭面纱破碎
+
+﻿[17:57:19]
+[None] error
+把我加进来干什么？
+
+﻿[17:58:40]
+[None] error
+我才初中
+
+﻿[17:59:14]
+[XlUVXN] Sprinkle
+？？？？
+
+﻿[18:00:01]
+[AAfFKK] AfK_Bot
+2022-12-02 18:00:00
+![](https://i.gyazo.com/4ec7167a9ad92c55fb4b91cc468fa96e.jpg)
+### [小张客户端](https://zhangclient.tk/)
+
+﻿[18:00:01]
+[None] error
+哇
+
+﻿[18:00:52]
+[None] error
+so sorry我可能要退一下
+
+﻿[18:01:36]
+[None] error
+换一下手机
+
+﻿[18:01:51]
+[None] zDizzy
+wow it is beautiful!
+
+﻿[18:02:46]
+[CaData] Data
+4n0n4me_ welcome！
+
+﻿[18:02:47]
+[bw7Gkq] ZhangChan
+hi yo 4n0n4me_
+
+﻿[18:02:47]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[18:02:47]
+[None] error
+我来！！！
+
+﻿[18:04:04]
+[None] error
+再发一下链接
+
+﻿[18:04:13]
+[None] error
+酸Q
+
+﻿[18:04:41]
+[None] error
+？？？？？
+
+﻿[18:05:18]
+[None] error
+酒精过敏
+
+﻿[18:05:50]
+[Myh1TA] 4n0n4me_
+我去，你还要进那个会议啊（
+
+﻿[18:06:03]
+[Myh1TA] 4n0n4me_
+*** 邀请您参加腾讯会议
+会议主题：***预定的会议
+会议时间：2022/12/02 18:00-2022/12/03 17:45 (GMT+08:00) 中国标准时间 - 北京
+
+点击链接入会，或添加至会议列表：
+https://meeting.tencent.com/dm/iAmqzAA3R1Yb
+
+#腾讯会议：467-443-209
+
+复制该信息，打开手机腾讯会议即可参与
+
+﻿[18:06:10]
+[CaData] Data
+Mr_Zhang welcome！
+
+﻿[18:06:10]
+[bw7Gkq] ZhangChan
+hi, Mr_Zhang~
+
+﻿[18:06:11]
+[bw7Gkq] Mr_Zhang
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+﻿[18:06:29]
+[Myh1TA] 4n0n4me_
+hi
+
+﻿[18:06:43]
+[bw7Gkq] Mr_Zhang
+>[Myh1TA] 4n0n4me_：
+>hi
+
+@4n0n4me_ 给你看个好玩的
+
+﻿[18:07:21]
+[bw7Gkq] Mr_Zhang
+>感谢您使用小张客户端，如果您愿意，您可以资助我们
+如果不想再显示这条信息，请点击此处
+
+﻿[18:07:32]
+[bw7Gkq] Mr_Zhang
+zzChumo说客户端有广告
+
+﻿[18:07:46]
+[bw7Gkq] Mr_Zhang
+然后我就写了个pushHTML
+
+﻿[18:07:54]
+[None] error
+4n0n4me_，哪个会议怎么了？
+
+﻿[18:08:00]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+﻿[18:08:00]
+[bw7Gkq] Mr_Zhang
+《mrz和MRZ》
+
+﻿[18:08:06]
+[bw7Gkq] Mr_Zhang
+mrz封禁了MRZ，MRZ封禁了mrz
+
+﻿[18:08:28]
+[bw7Gkq] Mr_Zhang
+乐
+
+﻿[18:08:36]
+[bw7Gkq] Mr_Zhang
+>[bw7Gkq] Mr_Zhang：
+>然后我就写了个pushHTML
+
+然后就有点此此处关闭广告的效果了
+
+﻿[18:09:41]
+[None] error
+做卷子喽！
+
+﻿[18:09:55]
+[None] error
+各位同学:今晚数学作业周测14、2一一14、3
+
+﻿[18:10:02]
+[None] error
+死咯！！
+
+﻿[18:10:10]
+[Myh1TA] 4n0n4me_
+>error：
+>4n0n4me_，哪个会议怎么了？
+
+@error 没怎么吧，只是我在里面暴露了我的长相（
+
+﻿[18:10:35]
+[None] error
+哦
+
+﻿[18:12:42]
+[None] error
+哈哈
+
+﻿[18:13:21]
+[None] error
+这里可以发图片吗？
+
+﻿[18:13:34]
+[None] error
+看一下我的卷子
+
+﻿[18:13:57]
+[Myh1TA] 4n0n4me_
+发图片在技术上很有难度（
+
+﻿[18:15:05]
+[Myh1TA] 4n0n4me_
+这周就给我的改版客户端加上发图片功能吧
+
+﻿[18:15:19]
+[None] error
+okok
+
+﻿[18:15:52]
+[CaData] Data
+Mr_Zhang welcome！
+
+﻿[18:15:52]
+[bw7Gkq] ZhangChan
+hi yo Mr_Zhang
+
+﻿[18:15:52]
+[bw7Gkq] Mr_Zhang
+我有一种预感
+
+﻿[18:16:04]
+[CaData] Data
+zDizzy welcome！
+
+﻿[18:16:04]
+[bw7Gkq] ZhangChan
+hello yo zDizzy
+
+﻿[18:16:04]
+[bw7Gkq] Mr_Zhang
+今天晚上恐怕会鸡飞狗跳
+
+﻿[18:16:10]
+[CaData] Data
+Mr_ZhangData为您找到以下信息：年份：1869 月份：12 事件：美国华盛顿州的港口城市西雅图市建立
+
+﻿[18:16:10]
+[None] zDizzy
+hi
+
+﻿[18:16:13]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+﻿[18:16:18]
+[None] zDizzy
+for i in range(n):
+    a = int(input("Введите число "))
+    sum = sum+a
+
+﻿[18:16:26]
+[bw7Gkq] Mr_Zhang
+今天
+
+﻿[18:16:28]
+[CaData] Data
+Mr_ZhangData为您找到以下信息：年份：1869 月份：12 事件：美国华盛顿州的港口城市西雅图市建立
+
+﻿[18:16:28]
+[bw7Gkq] Mr_Zhang
+乐
+
+﻿[18:16:31]
+[None] error
+WC
+
+﻿[18:16:37]
+[bw7Gkq] Mr_Zhang
+@Data NB呀
+
+﻿[18:16:38]
+[bw7Gkq] Mr_Zhang
+对了
+
+﻿[18:16:44]
+[CaData] Data
+Mr_Zhang 聽日休息？
+
+﻿[18:16:46]
+[bw7Gkq] Mr_Zhang
+我声明一下
+
+﻿[18:16:49]
+[bw7Gkq] Mr_Zhang
+NBUser是我的小号
+
+﻿[18:18:53]
+[CaData] Data
+ee welcome！
+
+﻿[18:18:54]
+[bw7Gkq] ZhangChan
+hi, ee~
+
+﻿[18:18:58]
+[eYFDHl] ee
+uwu
+
+﻿[18:19:08]
+[Myh1TA] 4n0n4me_
+hi
+
+﻿[18:19:56]
+[None] zDizzy
+help me how to make it so that in the loop there is first "enter the first number", and then "enter the second number" etc is output.                                                               
+
+for i in range(n):
+    a = int(input("enter a number "))
+    sum = sum+a
+
+﻿[18:20:24]
+[CaData] Data
+_ welcome！
+
+﻿[18:20:25]
+[bw7Gkq] ZhangChan
+welcome yo _
+
+﻿[18:20:25]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[18:20:30]
+[AAfFKK] _
+ovo
+
+﻿[18:20:31]
+[AAfFKK] _
+:!statistics -m
+
+﻿[18:20:38]
+[AAfFKK] AfK_Bot
+ ## Statistics:
+AfK_Bot olt: 60d
+|Trip|olt|msg|
+|-|-|-|
+|bw7Gkq|3d|1916 (28.53%)|
+|eYFDHl|3d|1646 (24.51%)|
+|a/Jz/a|2d|485 (7.22%)|
+|CaData|2d|485 (7.22%)|
+|2ZQ3+0|24h|377 (5.61%)|
+|gOtnKd|1d|344 (5.12%)|
+|PXgRpV|1d|286 (4.26%)|
+|EoZ5HO|2d|278 (4.14%)|
+|Myh1TA|2h|140 (2.08%)|
+|pwawVx|18h|125 (1.86%)|
+
+﻿[18:20:39]
+[AAfFKK] _
+hm
+
+﻿[18:21:32]
+[Myh1TA] 4n0n4me_
+@zDizzy it's difficult to make python generate 'first', 'second' etc
+
+﻿[18:23:18]
+[Myh1TA] 4n0n4me_
+but 1st 2nd etc is easier
+
+﻿[18:23:47]
+[2ZQ3+0] MAGGIE
+cgi=c language web app right?
+
+﻿[18:24:05]
+[2ZQ3+0] MAGGIE
+what about
+
+﻿[18:24:13]
+[2ZQ3+0] MAGGIE
+we made
+
+﻿[18:24:19]
+[2ZQ3+0] MAGGIE
+pgi
+
+﻿[18:24:20]
+[2ZQ3+0] MAGGIE
+python web app(
+
+﻿[18:24:25]
+[None] zDizzy
+@4n0n4me_ is it possible to somehow set numbers from 1 through str?
+
+﻿[18:24:26]
+[Myh1TA] 4n0n4me_
+emm my English isnt good
+
+﻿[18:24:56]
+[AAfFKK] _
+QAQ
+
+﻿[18:24:58]
+[2ZQ3+0] MAGGIE
+还是那句话
+
+﻿[18:25:02]
+[Myh1TA] 4n0n4me_
+what does set mean here
+
+﻿[18:25:03]
+[AAfFKK] _
+:!statistics -l AAfFKK
+
+﻿[18:25:06]
+[AAfFKK] AfK_Bot
+ ## Statistics:
+AfK_Bot olt: 60d
+|Trip|olt|msg|
+|-|-|-|
+|AAfFKK|3d|8 (0.12%)|
+
+﻿[18:25:06]
+[AAfFKK] _
+-.-
+
+﻿[18:25:08]
+[Myh1TA] 4n0n4me_
+>2ZQ3+0 MAGGIE：
+>python web app(
+
+@MAGGIE how (
+
+﻿[18:25:14]
+[AAfFKK] _
+dk why data lost
+
+﻿[18:25:20]
+[eYFDHl] ee
+hihihi
+
+﻿[18:25:25]
+[None] zDizzy
+@4n0n4me_ is it possible to somehow use str numbers to  from 1 to the number of numbers (n)?
+
+﻿[18:25:28]
+[eYFDHl] ee
+对了
+
+﻿[18:25:35]
+[AAfFKK] _
+QAQ
+
+﻿[18:25:48]
+[eYFDHl] ee
+你们知道YuNaiAFK和G10622是我同学吗（
+
+﻿[18:25:55]
+[Myh1TA] 4n0n4me_
+@zDizzy str numbers like 'one', 'two'?
+
+﻿[18:25:55]
+[2ZQ3+0] MAGGIE
+hostname/pgi-bin/helloworld.pgi
+
+﻿[18:25:56]
+[2ZQ3+0] MAGGIE
+and the pgi file like this
+
+﻿[18:26:05]
+[None] zDizzy
+@4n0n4me_ @4n0n4me_ yep
+
+﻿[18:26:06]
+[Myh1TA] 4n0n4me_
+emmmm
+
+﻿[18:26:10]
+[AAfFKK] _
+y
+
+﻿[18:26:13]
+[2ZQ3+0] MAGGIE
+```
+print("<h1>Hello world!</h1>")
+
+﻿[18:26:17]
+[eYFDHl] ee
+wht
+
+﻿[18:26:25]
+[eYFDHl] ee
+你们在做什么（
+
+﻿[18:26:29]
+[2ZQ3+0] MAGGIE
+>Maggie 2ZQ3+0 2022/12/2/11 11:39:43
+我有个想法
+
+>Maggie 2ZQ3+0 2022/12/2/11 11:40:22
+我们用现代的方式(python-flask,SQL database)搭建一个老式论坛
+
+﻿[18:26:40]
+[2ZQ3+0] MAGGIE
+如何
+
+﻿[18:26:42]
+[Myh1TA] 4n0n4me_
+@zDizzy let me search it in google
+
+﻿[18:26:54]
+[None] zDizzy
+@4n0n4me_ enter the number 1
+enter the number 2
+enter the number 3
+
+﻿[18:27:00]
+[Myh1TA] 4n0n4me_
+https://www.geeksforgeeks.org/python-number-to-words-using-num2words/
+
+﻿[18:27:12]
+[None] zDizzy
+@4n0n4me_ good
+
+﻿[18:27:16]
+[2ZQ3+0] MAGGIE
+https://www.dianbo.org/9238/stone/tiwendezhihui.htm
+
+﻿[18:27:23]
+[Myh1TA] 4n0n4me_
+use arabic numbers is easy
+```python
+for i in range(n):
+	a = int(input("enter number",i))
+	sum = sum+a
+```
+
+﻿[18:28:34]
+[Myh1TA] 4n0n4me_
+use words you need some tools to generate such words
+
+﻿[18:28:55]
+[Myh1TA] 4n0n4me_
+but they may support English only
+
+﻿[18:29:12]
+[CaData] Data
+mayur welcome！
+
+﻿[18:29:13]
+[bw7Gkq] ZhangChan
+hello yo mayur
+
+﻿[18:29:13]
+[None] mayur
+Hi
+
+﻿[18:29:35]
+[Myh1TA] 4n0n4me_
+i may be able to make a similar tool to Chinese numbers, but not languages using Cyrillic sorry :)
+
+﻿[18:29:47]
+[None] zDizzy
+@4n0n4me_ Thank you, but it is the number that I need. Just like that, enter the number 1, enter the number 2, and so on to the number of numbers in the loop
+
+﻿[18:30:14]
+[None] zDizzy
+@4n0n4me_ oh thank you)
+
+﻿[18:31:04]
+[2ZQ3+0] MAGGIE
+```
+num=0
+run=""
+while run!="q":
+	run=input(f"Total:{num},'q' for exit.\nThe number:")
+	num=num+int(run)
+	print()
+
+﻿[18:32:32]
+[CaData] Data
+black welcome！
+
+﻿[18:32:32]
+[bw7Gkq] ZhangChan
+hi, black~
+
+﻿[18:32:32]
+[2ZQ3+0] MAGGIE
+话说
+
+﻿[18:32:48]
+[XlUVXN] Sprinkle
+啊
+
+﻿[18:32:53]
+[2ZQ3+0] MAGGIE
+重建hiyo这件事...
+
+﻿[18:32:57]
+[2ZQ3+0] MAGGIE
+还没有落到实处
+
+﻿[18:33:05]
+[XlUVXN] Sprinkle
+离谱
+
+﻿[18:33:05]
+[2ZQ3+0] MAGGIE
+我们需要尽快行动
+
+﻿[18:33:11]
+[Myh1TA] 4n0n4me_
+emm
+
+﻿[18:33:30]
+[Myh1TA] 4n0n4me_
+是啊
+
+﻿[18:33:32]
+[XlUVXN] Sprinkle
+说句实话，如果成员不参与，重建几次也是徒劳
+
+﻿[18:33:33]
+[2ZQ3+0] MAGGIE
+ikr
+
+﻿[18:33:41]
+[XlUVXN] Sprinkle
+我之前也搞过工作室
+
+﻿[18:33:44]
+[Myh1TA] 4n0n4me_
+我并没有强烈的重建欲望，我可以当个底层伞兵（
+
+﻿[18:33:58]
+[XlUVXN] Sprinkle
+只有我自己在搞，然后凉了
+
+﻿[18:34:16]
+[2ZQ3+0] MAGGIE
+我先去抢域名了
+
+﻿[18:34:25]
+[2ZQ3+0] MAGGIE
+bye
+
+﻿[18:34:26]
+[Myh1TA] 4n0n4me_
+好机会
+
+﻿[18:34:35]
+[Myh1TA] 4n0n4me_
+bye
+
+﻿[18:34:36]
+[Myh1TA] 4n0n4me_
+好家伙
+
+﻿[18:34:39]
+[a/Jz/a] Lizgz
+我发现腾讯会议好像挺方便的
+
+﻿[18:35:15]
+[2ZQ3+0] MAGGIE
+这时候我写的全自动域名抢购器就起作用了
+
+﻿[18:35:52]
+[Myh1TA] 4n0n4me_
+6
+
+﻿[18:36:02]
+[Myh1TA] 4n0n4me_
+还有这种东西啊
+
+﻿[18:36:05]
+[Myh1TA] 4n0n4me_
+（
+
+﻿[18:36:17]
+[CaData] Data
+Gorteo welcome！
+
+﻿[18:36:17]
+[bw7Gkq] ZhangChan
+hi, Gorteo~
+
+﻿[18:36:17]
+[a/Jz/a] Lizgz
+hh
+
+﻿[18:36:46]
+[XlUVXN] Sprinkle
+长域名抢不抢都一样
+
+﻿[18:36:49]
+[XlUVXN] Sprinkle
+好的短域名估计学生党也买不起
+
+﻿[18:37:15]
+[2ZQ3+0] MAGGIE
+freenom(
+
+﻿[18:37:33]
+[XlUVXN] Sprinkle
+抢不抢都一样
+
+﻿[18:38:04]
+[XlUVXN] Sprinkle
+该用户来自：上海 上海市
+
+﻿[18:38:08]
+[XlUVXN] Sprinkle
+啧，xc还有这个不人性化的功能
+
+﻿[18:38:23]
+[XlUVXN] Sprinkle
+之前我注册sprinkle.eu.org的时候，审核用了两个月
+
+﻿[18:40:08]
+[a/Jz/a] Lizgz
+h
+
+﻿[18:40:18]
+[XlUVXN] Sprinkle
+我还以为没戏了呢，准确来说，我都忘了
+
+﻿[18:40:28]
+[XlUVXN] Sprinkle
+后来有一天清理邮件看到了
+
+﻿[18:42:29]
+[CaData] Data
+erro welcome！
+
+﻿[18:42:30]
+[bw7Gkq] ZhangChan
+hi yo erro
+
+﻿[18:42:30]
+[None] erro
+hi我叫error
+
+﻿[18:43:25]
+[None] erro
+16×16等于？
+
+﻿[18:44:46]
+[XlUVXN] Sprinkle
+@MAGGIE 在？
+
+﻿[18:44:52]
+[2ZQ3+0] MAGGIE
+?
+
+﻿[18:45:02]
+[XlUVXN] Sprinkle
+我刚才在xc潜伏，差点被发现了
+
+﻿[18:45:06]
+[XlUVXN] Sprinkle
+我觉得是
+
+﻿[18:45:11]
+[2ZQ3+0] MAGGIE
+```
+开始自动配置DNS...
+域名数量:10
+---------------------
+域名:hiyoteam.tk   
+模拟:展开菜单
+模拟:展开二级菜单
+设置:有效期选项为12
+设置:名称服务器1为 anderson.ns.cloudflare.com
+设置:名称服务器2为 tani.ns.cloudflare.com
+执行:JS滑到底部
+---------------------
+域名:hiyoteam.ml   
+模拟:展开菜单
+模拟:展开二级菜单
+设置:有效期选项为12
+设置:名称服务器1为 anderson.ns.cloudflare.com
+设置:名称服务器2为 tani.ns.cloudflare.com
+执行:JS滑到底部
+```
+
+﻿[18:45:30]
+[XlUVXN] Sprinkle
+我说了一句特别明显的话，熟悉我的人一看就是我
+
+﻿[18:45:32]
+[2ZQ3+0] MAGGIE
+我都没看xc(
+
+﻿[18:46:08]
+[CaData] Data
+ee welcome！
+
+﻿[18:46:08]
+[bw7Gkq] ZhangChan
+hey yo ee
+
+﻿[18:46:08]
+[XlUVXN] Sprinkle
+hi
+
+﻿[18:46:17]
+[a/Jz/a] Lizgz
+hi
+
+﻿[18:46:21]
+[eYFDHl] ee
+hihi
+
+﻿[18:46:25]
+[XlUVXN] Sprinkle
+我刚才在xc潜伏，差点被发现了
+
+﻿[18:46:29]
+[None] erro
+yy
+
+﻿[18:46:31]
+[XlUVXN] Sprinkle
+我说了一句特别明显的话，熟悉我的人一看就是我
+
+﻿[18:46:32]
+[2ZQ3+0] MAGGIE
+long msg
+
+﻿[18:46:35]
+[XlUVXN] Sprinkle
+啧
+
+﻿[18:46:38]
+[2ZQ3+0] MAGGIE
+```
+---------------------------------------------------------------------------
+ElementNotInteractableException           Traceback (most recent call last)
+Cell In [13], line 12
+     10 web.find_element(By.XPATH,f"/html/body/div[1]/section[2]/div/div/div/form/table/tbody/tr[{i}]/td[3]/ul/li[2]/div[1]").click()
+     11 print(f"模拟:展开菜单")
+---> 12 web.find_element(By.XPATH,f"/html/body/div[1]/section[2]/div/div/div/form/table/tbody/tr[{i}]/td[3]/ul/li[2]/div[2]/ul/li[2]/div[1]").click()
+     13 print(f"模拟:展开二级菜单")
+     14 if TIME != False:
+
+File c:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webelement.py:88, in WebElement.click(self)
+     86 def click(self) -> None:
+     87     """Clicks the element."""
+---> 88     self._execute(Command.CLICK_ELEMENT)
+
+File c:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webelement.py:396, in WebElement._execute(self, command, params)
+    394     params = {}
+    395 params['id'] = self._id
+--> 396 return self._parent.execute(command, params)
+
+File c:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py:434, in WebDriver.execute(self, driver_command, params)
+    432 response = self.command_executor.execute(driver_command, params)
+    433 if response:
+--> 434     self.error_handler.check_response(response)
+    435     response['value'] = self._unwrap_value(
+    436         response.get('value', None))
+    437     return response
+
+File c:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py:243, in ErrorHandler.check_response(self, response)
+    241         alert_text = value['alert'].get('text')
+    242     raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+--> 243 raise exception_class(message, screen, stacktrace)
+
+ElementNotInteractableException: Message: element not interactable
+```
+
+﻿[18:46:38]
+[2ZQ3+0] MAGGIE
+furk
+
+﻿[18:46:39]
+[eYFDHl] ee
+uwu
+
+﻿[18:47:25]
+[XlUVXN] Sprinkle
+真的
+
+﻿[18:47:25]
+[XlUVXN] Sprinkle
+差点就被发现了
+
+﻿[18:47:35]
+[CaData] Data
+THE_COLORLESS_GREEN welcome！
+
+﻿[18:47:35]
+[bw7Gkq] ZhangChan
+hi yo THE_COLORLESS_GREEN
+
+﻿[18:47:36]
+[jga1nc] THE_COLORLESS_GREEN
+guruguru
+
+﻿[18:47:38]
+[XlUVXN] Sprinkle
+你猜猜我发的什么？
+
+﻿[18:47:39]
+[jga1nc] THE_COLORLESS_GREEN
+ohayo~
+
+﻿[18:47:40]
+[XlUVXN] Sprinkle
+我发的：啊
+
+﻿[18:47:46]
+[jga1nc] THE_COLORLESS_GREEN
+@Sprinkle sprinkle早上好~
+
+﻿[18:47:48]
+[XlUVXN] Sprinkle
+（（（（（（（（（
+
+﻿[18:47:50]
+[XlUVXN] Sprinkle
+啊
+
+﻿[18:48:03]
+[jga1nc] THE_COLORLESS_GREEN
+啊
+
+﻿[18:48:07]
+[jga1nc] THE_COLORLESS_GREEN
+啊
+
+﻿[18:48:09]
+[jga1nc] THE_COLORLESS_GREEN
+啊
+
+﻿[18:48:12]
+[jga1nc] THE_COLORLESS_GREEN
+啊呜哇
+
+﻿[18:48:15]
+[2ZQ3+0] MAGGIE
+Attention!
+Some of your domains could not be registered because of a technical error. These domains have been cancelled:
+
+hiyoteam.tk
+hiyoteam.ml
+hiyoteam.ga
+hiyoteam.cf
+hiyoteam.gq
+hiyo-team.tk
+hiyo-team.ml
+hiyo-team.ga
+hiyo-team.cf
+hiyo-team.gq
+
+﻿[18:48:21]
+[jga1nc] THE_COLORLESS_GREEN
+诶？
+
+﻿[18:48:28]
+[jga1nc] THE_COLORLESS_GREEN
+发生了什么
+
+﻿[18:48:30]
+[2ZQ3+0] MAGGIE
+@Freenom fuck you
+
+﻿[18:48:32]
+[jga1nc] THE_COLORLESS_GREEN
+hiyo
+
+﻿[18:48:33]
+[2ZQ3+0] MAGGIE
+傻逼freenom
+
+﻿[18:48:36]
+[jga1nc] THE_COLORLESS_GREEN
+谁是freenom
+
+﻿[18:48:41]
+[AAfFKK] _
+@THE_COLORLESS_GREEN 早
+
+﻿[18:48:45]
+[None] erro
+卧槽
+
+﻿[18:48:48]
+[XlUVXN] Sprinkle
+然后我用一个这字，挽回了局面，没被发现
+
+﻿[18:48:48]
+[jga1nc] THE_COLORLESS_GREEN
+@_ dpg！
+
+﻿[18:48:51]
+[2ZQ3+0] MAGGIE
+```
+成功!
+您现在可以添加域名了。列表如下:
+hiyoteam.tk   
+hiyoteam.ml   
+hiyoteam.ga   
+hiyoteam.cf   
+hiyoteam.gq   
+hiyo-team.tk   
+hiyo-team.ml   
+hiyo-team.ga   
+```
+
+﻿[18:48:52]
+[AAfFKK] _
+ovo
+
+﻿[18:48:53]
+[jga1nc] THE_COLORLESS_GREEN
+awa
+
+﻿[18:48:54]
+[AAfFKK] _
+obo
+
+﻿[18:48:59]
+[jga1nc] THE_COLORLESS_GREEN
+ohayo~
+
+﻿[18:48:59]
+[AAfFKK] _
+awa
+
+﻿[18:49:02]
+[2ZQ3+0] MAGGIE
+而我的客户端浑然不知
+
+﻿[18:49:05]
+[AAfFKK] _
+@Sprinkle whoru(
+
+﻿[18:49:10]
+[CaData] Data
+Skino welcome！
+
+﻿[18:49:11]
+[bw7Gkq] ZhangChan
+hi yo Skino
+
+﻿[18:49:11]
+[cNARCT] Skino
+awa
+
+﻿[18:49:12]
+[jga1nc] THE_COLORLESS_GREEN
+awa
+
+﻿[18:49:18]
+[XlUVXN] Sprinkle
+@_ imspr
+
+﻿[18:49:19]
+[jga1nc] THE_COLORLESS_GREEN
+guruguru
+
+﻿[18:49:22]
+[jga1nc] THE_COLORLESS_GREEN
+awa
+
+﻿[18:49:24]
+[a/Jz/a] Lizgz
+:/
+
+﻿[18:49:30]
+[cNARCT] Skino
+好久不见
+
+﻿[18:49:37]
+[AAfFKK] _
+k
+
+﻿[18:49:42]
+[CaData] Data
+Arcadia welcome！
+
+﻿[18:49:42]
+[bw7Gkq] ZhangChan
+hi, Arcadia~
+
+﻿[18:49:43]
+[AAfFKK] _
+hia
+
+﻿[18:49:44]
+[2ZQ3+0] MAGGIE
+呜呜呜湖北你终于想开了
+
+﻿[18:50:11]
+[CaData] Data
+4n0n4me__ welcome！
+
+﻿[18:50:11]
+[bw7Gkq] ZhangChan
+hi yo 4n0n4me__
+
+﻿[18:50:12]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[18:50:12]
+[2ZQ3+0] MAGGIE
+我可以不翻墙访问github了
+
+﻿[18:50:13]
+[XlUVXN] Sprinkle
+404
+
+﻿[18:50:16]
+[XlUVXN] Sprinkle
+我把你号解封了
+
+﻿[18:50:28]
+[2ZQ3+0] MAGGIE
+而且速度还很快！
+
+﻿[18:50:28]
+[cNARCT] Arcadia
+>2ZQ3+0 MAGGIE
+>而且速度还很快！
+
+@MAGGIE wow
+
+﻿[18:50:32]
+[XlUVXN] Sprinkle
+我一直都这样
+
+﻿[18:50:37]
+[jga1nc] THE_COLORLESS_GREEN
+@Arcadia 阿卡迪亚早
+
+﻿[18:50:43]
+[2ZQ3+0] MAGGIE
+six
+
+﻿[18:50:44]
+[cNARCT] Arcadia
+墙：我疏忽了嗷
+
+﻿[18:50:49]
+[XlUVXN] Sprinkle
+没挂过梯子
+
+﻿[18:50:50]
+[jga1nc] THE_COLORLESS_GREEN
+@4n0n4me
+
+﻿[18:50:53]
+[jga1nc] THE_COLORLESS_GREEN
+早呀
+
+﻿[18:50:55]
+[XlUVXN] Sprinkle
+GitHub没被墙
+
+﻿[18:51:04]
+[a/Jz/a] Lizgz
+?
+
+﻿[18:51:13]
+[XlUVXN] Sprinkle
+貌似是dns污染
+
+﻿[18:51:15]
+[a/Jz/a] Lizgz
+wc什么鬼
+
+﻿[18:51:18]
+[AAfFKK] _
+cNARCT
+
+﻿[18:51:22]
+[AAfFKK] _
+XD
+
+﻿[18:51:23]
+[cNARCT] Arcadia
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+﻿[18:51:41]
+[XlUVXN] Sprinkle
+404040404！！！！！！！！
+
+﻿[18:51:52]
+[cNARCT] Arcadia
+为什么什么网站都给加上黑白滤镜了
+
+﻿[18:51:55]
+[None] erro
+886干饭了
+
+﻿[18:51:59]
+[cNARCT] Arcadia
+>cNARCT Arcadia
+>为什么什么网站都给加上黑白滤镜了
+
+@Arcadia 不至于这样吧……
+
+﻿[18:52:02]
+[XlUVXN] Sprinkle
+我把你论坛号解封了404！
+
+﻿[18:52:05]
+[AAfFKK] _
+@Arcadia awa
+
+﻿[18:52:16]
+[XlUVXN] Sprinkle
+@Arcadia 反正我是不理解
+
+﻿[18:52:19]
+[AAfFKK] _
+normal
+
+﻿[18:52:42]
+[CaData] Data
+s welcome！
+
+﻿[18:52:43]
+[bw7Gkq] ZhangChan
+hi yo s
+
+﻿[18:52:43]
+[cNARCT] Arcadia
+>XlUVXN Sprinkle
+>@Arcadia 反正我是不理解
+
+@Sprinkle 我也不理解
+
+﻿[18:52:57]
+[None] s
+Hi
+
+﻿[18:53:04]
+[XlUVXN] Sprinkle
+之前有人逝世没有黑白滤镜，为什么现在要有？
+
+﻿[18:53:06]
+[XlUVXN] Sprinkle
+双标还是跟风呢？
+
+﻿[18:53:17]
+[cNARCT] Arcadia
+因为过于重要
+
+﻿[18:53:29]
+[XlUVXN] Sprinkle
+你们根本没有悼念逝者的意思，就是跟风
+
+﻿[18:53:40]
+[XlUVXN] Sprinkle
+之前有人逝世为什么没有黑白滤镜
+
+﻿[18:53:51]
+[cNARCT] Arcadia
+但……我个人认为这种粗鲁至极加黑白滤镜的方法很不妥
+
+﻿[18:54:01]
+[XlUVXN] Sprinkle
+袁隆平为什么没有滤镜？
+
+﻿[18:54:04]
+[a/Jz/a] Lizgz
+哎呀
+
+﻿[18:54:07]
+[jga1nc] THE_COLORLESS_GREEN
+发生了什么
+
+﻿[18:54:09]
+[jga1nc] THE_COLORLESS_GREEN
+额
+
+﻿[18:54:10]
+[jga1nc] THE_COLORLESS_GREEN
+哦
+
+﻿[18:54:11]
+[jga1nc] THE_COLORLESS_GREEN
+姓江的是吧
+
+﻿[18:54:15]
+[a/Jz/a] Lizgz
+他们封我干嘛
+
+﻿[18:54:15]
+[XlUVXN] Sprinkle
+凭什么没有滤镜呢
+
+﻿[18:54:16]
+[jga1nc] THE_COLORLESS_GREEN
+我搞不懂
+
+﻿[18:54:19]
+[a/Jz/a] Lizgz
+我明明高呼鱼鱼万岁
+
+﻿[18:54:29]
+[jga1nc] THE_COLORLESS_GREEN
+为什么他去世了要搞那么多天
+
+﻿[18:54:31]
+[XlUVXN] Sprinkle
+@Lizgz 哈哈哈哈哈哈哈哈哈哈
+
+﻿[18:54:34]
+[jga1nc] THE_COLORLESS_GREEN
+真的是
+
+﻿[18:54:36]
+[XlUVXN] Sprinkle
+@THE_COLORLESS_GREEN 为什么疫情死伤那么多却只有一天？
+
+﻿[18:54:53]
+[a/Jz/a] Lizgz
+bing昨天弄了一下好像
+
+﻿[18:54:54]
+[jga1nc] THE_COLORLESS_GREEN
+妈的
+
+﻿[18:54:59]
+[a/Jz/a] Lizgz
+晚上就没弄了
+
+﻿[18:55:00]
+[XlUVXN] Sprinkle
+百姓不算人命？
+
+﻿[18:55:07]
+[XlUVXN] Sprinkle
+人人平等
+
+﻿[18:55:12]
+[jga1nc] THE_COLORLESS_GREEN
+这话可不好说喔（）
+
+﻿[18:55:22]
+[XlUVXN] Sprinkle
+袁隆平为什么没有滤镜？
+
+﻿[18:55:29]
+[jga1nc] THE_COLORLESS_GREEN
+塞帝政治正确无处不在
+
+﻿[18:55:30]
+[jga1nc] THE_COLORLESS_GREEN
+（叹气）
+
+﻿[18:55:37]
+[AAfFKK] _
+¯\\\_(ツ)\_/¯
+
+﻿[18:55:44]
+[XlUVXN] Sprinkle
+跟风的资本家
+
+﻿[18:55:52]
+[jga1nc] THE_COLORLESS_GREEN
+没办法
+
+﻿[18:56:18]
+[jga1nc] THE_COLORLESS_GREEN
+咱就活在这种地方
+
+﻿[18:56:24]
+[cNARCT] Arcadia
+不用这样
+
+﻿[18:56:28]
+[jga1nc] THE_COLORLESS_GREEN
+无视他无视他
+
+﻿[18:56:28]
+[XlUVXN] Sprinkle
+*
+fishtest现已禁止来自泰州市的用户进入
+
+﻿[18:56:33]
+[XlUVXN] Sprinkle
+直接封地区
+
+﻿[18:56:41]
+[XlUVXN] Sprinkle
+有意思
+
+﻿[18:56:43]
+[eYFDHl] ee
+>cNARCT Arcadia：
+>>XlUVXN Sprinkle
+>>@Arcadia 反正我是不理解
+>
+>@Sprinkle 我也不理解
+
+@Arcadia ++i
+
+﻿[18:56:46]
+[eYFDHl] ee
+我看个B站、、
+
+﻿[18:56:46]
+[eYFDHl] ee
+全是黑白
+
+﻿[18:56:47]
+[jga1nc] THE_COLORLESS_GREEN
+反正塞帝政治正确还没到致人死地的程度
+
+﻿[18:56:47]
+[jga1nc] THE_COLORLESS_GREEN
+那就行
+
+﻿[18:56:49]
+[2ZQ3+0] MAGGIE
+哈哈哈
+
+﻿[18:56:53]
+[2ZQ3+0] MAGGIE
+@ee qly好傻
+
+﻿[18:56:57]
+[cNARCT] Arcadia
+在重要的政治家去世的时候 其实每个国家的待遇都一样
+
+﻿[18:56:58]
+[2ZQ3+0] MAGGIE
+他弄的是github/hiyo-team
+
+﻿[18:57:05]
+[eYFDHl] ee
+>2ZQ3+0 MAGGIE：
+>@ee qly好傻
+
+@MAGGIE 哦吼？
+
+﻿[18:57:07]
+[XlUVXN] Sprinkle
+啊
+
+﻿[18:57:11]
+[2ZQ3+0] MAGGIE
+我们直接弄github.com/hiyoteam
+
+﻿[18:57:17]
+[2ZQ3+0] MAGGIE
+他中间有个横杠
+
+﻿[18:57:23]
+[eYFDHl] ee
+我觉得
+
+﻿[18:57:30]
+[eYFDHl] ee
+新闻联播不用那么长的……
+
+﻿[18:57:56]
+[eYFDHl] ee
+我晚自习没看到真正的新闻联播 全是哀悼的
+
+﻿[18:58:39]
+[a/Jz/a] Lizgz
+Fish对我恨之入骨了
+
+﻿[18:58:43]
+[XlUVXN] Sprinkle
+啊
+
+﻿[18:58:44]
+[XlUVXN] Sprinkle
+@Lizgz 哈哈哈
+
+﻿[18:58:48]
+[eYFDHl] ee
+然后老师就给关了 :(
+
+﻿[18:58:50]
+[XlUVXN] Sprinkle
+我在潜伏
+
+﻿[18:58:53]
+[2ZQ3+0] MAGGIE
+https://github.com/Hiyoteam
+
+﻿[18:58:54]
+[XlUVXN] Sprinkle
+我在xc是whoru
+
+﻿[18:59:02]
+[eYFDHl] ee
+我不打算去xc了（
+
+﻿[18:59:02]
+[XlUVXN] Sprinkle
+我在xc是whoru
+
+﻿[18:59:05]
+[eYFDHl] ee
+没什么去的必要 aw
+
+﻿[18:59:08]
+[XlUVXN] Sprinkle
+在潜藏
+
+﻿[18:59:13]
+[CaData] Data
+4n0n4me welcome！
+
+﻿[18:59:14]
+[bw7Gkq] ZhangChan
+hello yo 4n0n4me
+
+﻿[18:59:14]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[18:59:14]
+[eYFDHl] ee
+加油
+
+﻿[18:59:16]
+[a/Jz/a] Lizgz
+hiiiiiiiiii
+
+﻿[18:59:17]
+[a/Jz/a] Lizgz
+33033
+
+﻿[18:59:18]
+[a/Jz/a] Lizgz
+40404040404040
+
+﻿[18:59:21]
+[cNARCT] Arcadia
+>cNARCT Arcadia
+>在重要的政治家去世的时候 其实每个国家的待遇都一样
+
+@Arcadia 对于所有国家的政客来说 江泽民这样的人比袁隆平这样的人重要得多
+
+﻿[18:59:26]
+[XlUVXN] Sprinkle
+⭐ Admin fishtest
+现在这些刷屏的真讨厌
+
+⭐ Admin fishtest
+这就叫没素质
+
+﻿[18:59:26]
+[a/Jz/a] Lizgz
+？
+
+﻿[18:59:30]
+[XlUVXN] Sprinkle
+@Arcadia 凭什么
+
+﻿[18:59:34]
+[Myh1TA] 4n0n4me
+hiyo
+
+﻿[18:59:35]
+[Myh1TA] 4n0n4me
+哈哈哈哈哈哈哈哈
+
+﻿[18:59:38]
+[Myh1TA] 4n0n4me
+鱼鱼真6
+
+﻿[18:59:40]
+[cNARCT] Arcadia
+为什么不呢
+
+﻿[18:59:46]
+[Myh1TA] 4n0n4me
+鱼鱼多说点
+
+﻿[18:59:47]
+[XlUVXN] Sprinkle
+行动贡献比思想贡献卑贱？
+
+﻿[18:59:47]
+[a/Jz/a] Lizgz
+fish一个小黑子就有树脂了是罢
+
+﻿[18:59:48]
+[Myh1TA] 4n0n4me
+说我是社会底层
+
+﻿[18:59:50]
+[a/Jz/a] Lizgz
+小心律师函
+
+﻿[18:59:56]
+[Myh1TA] 4n0n4me
+鱼鱼多说点，要去了啊啊啊
+
+﻿[19:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 19:00:00
+![](https://i.gyazo.com/199faab8cc1d53e251787d3e3b0f8800.jpg)
+### 米斯卡 姆斯卡
+
+﻿[19:00:01]
+[XlUVXN] Sprinkle
+没有袁隆平，人们都要饿死
+
+﻿[19:00:01]
+[AAfFKK] _
+@4n0n4me awa
+
+﻿[19:00:08]
+[XlUVXN] Sprinkle
+凭什么他没有滤镜
+
+﻿[19:00:08]
+[Myh1TA] 4n0n4me
+>cNARCT Arcadia：
+>>cNARCT Arcadia
+>>在重要的政治家去世的时候 其实每个国家的待遇都一样
+>
+>@Arcadia 对于所有国家的政客来说 江泽民这样的人比袁隆平这样的人重要得多
+
+@Arcadia 说得对
+
+﻿[19:00:12]
+[XlUVXN] Sprinkle
+虚伪的资本家
+
+﻿[19:00:13]
+[a/Jz/a] Lizgz
+完力
+
+﻿[19:00:21]
+[2ZQ3+0] MAGGIE
+@ee https://github.com/Hiyoteam
+
+﻿[19:00:43]
+[2ZQ3+0] MAGGIE
+今天就开始重建吧
+
+﻿[19:00:49]
+[CaData] Data
+MAGGIEData为您找到以下信息：年份：1869 月份：12 事件：美国华盛顿州的港口城市西雅图市建立
+
+﻿[19:00:50]
+[jga1nc] THE_COLORLESS_GREEN
+乐
+
+﻿[19:01:00]
+[jga1nc] THE_COLORLESS_GREEN
+鱼他那么说了？
+
+﻿[19:01:09]
+[jga1nc] THE_COLORLESS_GREEN
+为什么
+
+﻿[19:01:11]
+[Myh1TA] 4n0n4me
+其他的很多国家应该也是如此的，政治家不管怎么说，去世之时也比其他人要重要一点，毕竟是对国家意义特殊的
+
+﻿[19:01:12]
+[a/Jz/a] Lizgz
+我在xc高呼鱼鱼万岁他就这样对我
+
+﻿[19:01:27]
+[Myh1TA] 4n0n4me
+鱼鱼真6
+
+﻿[19:01:30]
+[Myh1TA] 4n0n4me
+我爱鱼鱼
+
+﻿[19:01:35]
+[Myh1TA] 4n0n4me
+为了爱鱼鱼，我已经战胜了自己
+
+﻿[19:01:41]
+[jga1nc] THE_COLORLESS_GREEN
+我姑：就是因为这姓江的我们丢了铁饭碗
+
+﻿[19:01:42]
+[jga1nc] THE_COLORLESS_GREEN
+乐
+
+﻿[19:01:48]
+[jga1nc] THE_COLORLESS_GREEN
+404魔怔了，快救他（）
+
+﻿[19:01:55]
+[a/Jz/a] Lizgz
+鱼鱼万岁！！
+
+﻿[19:02:03]
+[a/Jz/a] Lizgz
+鱼鱼万岁！！
+
+﻿[19:02:04]
+[eYFDHl] ee
+错
+
+﻿[19:02:05]
+[Myh1TA] 4n0n4me
+我要隔着光屏（2084年鱼排科技的一种双向监视器）表白鱼鱼
+
+﻿[19:02:09]
+[eYFDHl] ee
+是fking万岁（
+
+﻿[19:02:14]
+[jga1nc] THE_COLORLESS_GREEN
+乐死了
+
+﻿[19:02:15]
+[eYFDHl] ee
+fish king 万岁
+
+﻿[19:02:20]
+[jga1nc] THE_COLORLESS_GREEN
+乐死了
+
+﻿[19:02:23]
+[eYFDHl] ee
+（（
+
+﻿[19:02:30]
+[jga1nc] THE_COLORLESS_GREEN
+fing万岁（bushi）
+
+﻿[19:02:35]
+[2ZQ3+0] MAGGIE
+fking聊天室万岁！
+
+﻿[19:02:36]
+[eYFDHl] ee
+yeeeee
+
+﻿[19:02:45]
+[2ZQ3+0] MAGGIE
+@ee 我邀你进新Hiyo了，看github通知
+
+﻿[19:03:04]
+[eYFDHl] ee
+好耶
+
+﻿[19:03:16]
+[Myh1TA] 4n0n4me
+fking即doublepluagood，煎鱼即树脂，渔网即正义（指屏蔽我wiki）
+
+﻿[19:03:20]
+[eYFDHl] ee
+等下
+
+﻿[19:03:21]
+[eYFDHl] ee
+能重名？@MAGGIE 
+
+﻿[19:03:26]
+[jga1nc] THE_COLORLESS_GREEN
+乐
+
+﻿[19:03:30]
+[jga1nc] THE_COLORLESS_GREEN
+发生了什么
+
+﻿[19:03:32]
+[jga1nc] THE_COLORLESS_GREEN
+（）
+
+﻿[19:03:33]
+[2ZQ3+0] MAGGIE
+不不不
+
+﻿[19:03:34]
+[eYFDHl] ee
+哦哦
+
+﻿[19:03:39]
+[eYFDHl] ee
+t
+
+﻿[19:03:40]
+[2ZQ3+0] MAGGIE
+qly弄的是hiyo-team
+
+﻿[19:03:42]
+[eYFDHl] ee
+草
+
+﻿[19:03:46]
+[eYFDHl] ee
+好家伙
+
+﻿[19:03:48]
+[2ZQ3+0] MAGGIE
+这个是Hiyoteam
+
+﻿[19:03:48]
+[Myh1TA] 4n0n4me
+>Myh1TA 4n0n4me：
+>fking即==doubleplusgood==，煎鱼即树脂，渔网即正义（指屏蔽我wiki）
+
+我居然说错了鱼鱼的新话，我罪该万死，鱼鱼快来蹂躏我啊啊啊
+
+﻿[19:03:50]
+[eYFDHl] ee
+yeeeee
+
+﻿[19:03:51]
+[jga1nc] THE_COLORLESS_GREEN
+完了
+
+﻿[19:03:56]
+[jga1nc] THE_COLORLESS_GREEN
+404坏掉了
+
+﻿[19:03:58]
+[eYFDHl] ee
+草
+
+﻿[19:04:04]
+[jga1nc] THE_COLORLESS_GREEN
+坏掉了啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+﻿[19:04:12]
+[Myh1TA] 4n0n4me
+我就是演习罢了）
+
+﻿[19:04:14]
+[jga1nc] THE_COLORLESS_GREEN
+那就好
+
+﻿[19:04:22]
+[jga1nc] THE_COLORLESS_GREEN
+吓死了
+
+﻿[19:04:25]
+[2ZQ3+0] MAGGIE
+~~啊 要坏掉了~~
+
+﻿[19:04:31]
+[jga1nc] THE_COLORLESS_GREEN
+坏掉了yc就完了
+
+﻿[19:04:33]
+[eYFDHl] ee
+草
+
+﻿[19:04:39]
+[Myh1TA] 4n0n4me
+唉，鱼不在这边，看不到我==社会底层==的言论，我==伤心死了==
+
+﻿[19:04:41]
+[jga1nc] THE_COLORLESS_GREEN
+@MAGGIE 更糟糕了啊（）
+
+﻿[19:04:44]
+[Myh1TA] 4n0n4me
+==这里没有红墨水==（指只有mod可以发HTML）
+
+﻿[19:05:01]
+[jga1nc] THE_COLORLESS_GREEN
+乐
+
+﻿[19:05:06]
+[jga1nc] THE_COLORLESS_GREEN
+诶？原来是这样吗
+
+﻿[19:05:13]
+[jga1nc] THE_COLORLESS_GREEN
+我看看
+
+﻿[19:05:14]
+[jga1nc] THE_COLORLESS_GREEN
+额
+
+﻿[19:05:16]
+[cNARCT] Arcadia
+xc出啥事了
+
+﻿[19:05:27]
+[Myh1TA] 4n0n4me
+咋了
+
+﻿[19:05:28]
+[jga1nc] THE_COLORLESS_GREEN
+layex怎么用来着（）
+
+﻿[19:05:30]
+[Myh1TA] 4n0n4me
+没出啥事，只是我发癫一下（
+
+﻿[19:05:39]
+[jga1nc] THE_COLORLESS_GREEN
+latex（）
+
+﻿[19:05:39]
+[Myh1TA] 4n0n4me
+只是鱼鱼发了一些==doubleplusgood==的话
+
+﻿[19:05:53]
+[Myh1TA] 4n0n4me
+>Myh1TA 4n0n4me：
+>==这里没有红墨水==（指只有mod可以发HTML）
+
+latex可以发，就是HTML不行
+
+﻿[19:06:05]
+[Myh1TA] 4n0n4me
+HTML是xc自己加的，和十字街的HTML功能一样
+
+﻿[19:06:24]
+[Myh1TA] 4n0n4me
+（好像确实，latex也可以改变字的颜色）
+
+﻿[19:06:46]
+[jga1nc] THE_COLORLESS_GREEN
+原来如此
+
+﻿[19:06:55]
+[jga1nc] THE_COLORLESS_GREEN
+afk
+
+﻿[19:07:03]
+[CaData] Data
+ THE_COLORLESS_GREEN 挂机成功！
+
+﻿[19:07:05]
+[2ZQ3+0] MAGGIE
+>jga1nc THE_COLORLESS_GREEN:
+坏掉了啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+~~啊 不要啊 要坏掉了~~
+
+﻿[19:07:33]
+[cNARCT] Arcadia
+latex你们都怎么读的
+
+﻿[19:07:35]
+[Myh1TA] 4n0n4me
+lei tE h （扩展汉语拼音（）
+
+﻿[19:08:03]
+[Myh1TA] 4n0n4me
+雷 贴去掉介母i 呵
+（虽然按理来说la应该读拉）
+
+﻿[19:08:34]
+[cNARCT] Arcadia
+我一直读/lɑtiks/（哭）
+
+﻿[19:08:55]
+[eYFDHl] ee
+w
+
+﻿[19:09:24]
+[a/Jz/a] Lizgz
+leatiX
+
+﻿[19:09:44]
+[cNARCT] Arcadia
+为什么要读成/leɪtɪk/啊！！！！
+
+﻿[19:09:57]
+[a/Jz/a] Lizgz
+late X
+
+﻿[19:10:05]
+[a/Jz/a] Lizgz
+类体克斯
+
+﻿[19:10:26]
+[cNARCT] Arcadia
+LaTeX难道不应该读成/lɑtɪks/吗！！！！！！
+
+﻿[19:10:27]
+[Myh1TA] 4n0n4me
+LaTeX ( / ˈlɑːtɛx / LAH-tekh or / ˈleɪtɛx / LAY-tekh
+
+﻿[19:10:48]
+[2ZQ3+0] MAGGIE
+我读拉提克斯
+
+﻿[19:11:42]
+[a/Jz/a] Lizgz
+作用的英文是什么
+
+﻿[19:11:47]
+[cNARCT] Arcadia
+LaTeX（/ˈlɑːtɛx/，常被读作/ˈlɑːtɛk/或/ˈleɪtɛk/）
+
+﻿[19:11:55]
+[cNARCT] Arcadia
+看来我读对了（
+
+﻿[19:12:02]
+[2ZQ3+0] MAGGIE
+@ee 你加入组织没（
+
+﻿[19:12:51]
+[2ZQ3+0] MAGGIE
+@4n0n4me 也给你发邀请了（
+
+﻿[19:12:56]
+[Myh1TA] 4n0n4me
+>a/Jz/a Lizgz：
+>作用的英文是什么
+
+@Lizgz emm
+
+﻿[19:12:57]
+[Myh1TA] 4n0n4me
+effect？
+
+﻿[19:13:09]
+[a/Jz/a] Lizgz
+哦不对
+
+﻿[19:13:20]
+[CaData] Data
+anil welcome！
+
+﻿[19:13:21]
+[a/Jz/a] Lizgz
+不需要了
+
+﻿[19:13:21]
+[bw7Gkq] ZhangChan
+hey yo anil
+
+﻿[19:13:21]
+[None] anil
+colour a
+
+﻿[19:13:40]
+[a/Jz/a] Lizgz
+The ____ of mother tongue
+
+﻿[19:13:45]
+[None] anil
+so what
+
+﻿[19:13:57]
+[a/Jz/a] Lizgz
+哦
+
+﻿[19:14:08]
+[a/Jz/a] Lizgz
+肯定填 *importance*
+
+﻿[19:14:17]
+[Myh1TA] 4n0n4me
+啧，我发现加入上传图片功能有点困难
+
+﻿[19:15:05]
+[CaData] Data
+zDizzy welcome！
+
+﻿[19:15:06]
+[bw7Gkq] ZhangChan
+hello yo zDizzy
+
+﻿[19:15:06]
+[Myh1TA] 4n0n4me
+@MAGGIE 你的图床有api吗（
+
+﻿[19:15:21]
+[2ZQ3+0] MAGGIE
+好像有
+
+﻿[19:15:29]
+[2ZQ3+0] MAGGIE
+我可以专门写一个出来
+
+﻿[19:15:37]
+[2ZQ3+0] MAGGIE
+等等
+
+﻿[19:15:42]
+[2ZQ3+0] MAGGIE
+cheveto有现成的拖拽上传组件！
+
+﻿[19:15:55]
+[2ZQ3+0] MAGGIE
+我现在请求图床要跨越全球
+
+﻿[19:16:20]
+[Myh1TA] 4n0n4me
+我看见了，但是那个会返回地址吗（
+
+﻿[19:16:21]
+[2ZQ3+0] MAGGIE
+等一下下
+
+﻿[19:16:34]
+[2ZQ3+0] MAGGIE
+我看看哈
+
+﻿[19:16:37]
+[None] zDizzy
+help me, how to make a space str from the entered number?
+a = int(input("enter number "+str(count)))
+
+﻿[19:16:37]
+[Myh1TA] 4n0n4me
+我试了一下，好像没有用（也许是我测试的环境不对）
+
+﻿[19:16:38]
+[a/Jz/a] Lizgz
+你问下那个允许在hc现实的图床
+
+﻿[19:16:41]
+[Myh1TA] 4n0n4me
+哦gyazo
+
+﻿[19:16:51]
+[a/Jz/a] Lizgz
+dpg不是用的那个
+
+﻿[19:16:52]
+[CaData] Data
+erro welcome！
+
+﻿[19:16:52]
+[bw7Gkq] ZhangChan
+hi yo erro
+
+﻿[19:16:53]
+[None] erro
+oklm
+
+﻿[19:16:55]
+[Myh1TA] 4n0n4me
+我想起来了，可以试试
+
+﻿[19:16:56]
+[None] erro
+嗯？
+
+﻿[19:17:03]
+[None] erro
+试试什么
+
+﻿[19:17:09]
+[Myh1TA] 4n0n4me
+@zDizzy space str?
+
+﻿[19:17:13]
+[None] erro
+@eebot_eb044 
+
+﻿[19:17:18]
+[None] erro
+rshi
+
+﻿[19:17:26]
+[Myh1TA] 4n0n4me
+我在想给我的改版客户端加一个图片上传功能
+
+﻿[19:17:27]
+[Myh1TA] 4n0n4me
+gyazo的api可以试试
+
+﻿[19:17:33]
+[None] erro
+嗯
+
+﻿[19:17:34]
+[AAfFKK] _
+ind
+
+﻿[19:17:36]
+[a/Jz/a] Lizgz
+focus
+
+﻿[19:18:31]
+[a/Jz/a] Lizgz
+将人们的注意力移到...
+
+﻿[19:18:54]
+[None] erro
+来来来
+
+﻿[19:18:55]
+[a/Jz/a] Lizgz
+能不能说
+focus people's attention to ...
+
+﻿[19:19:11]
+[None] erro
+come on
+
+﻿[19:19:13]
+[a/Jz/a] Lizgz
+move people's attention to ...
+
+﻿[19:19:28]
+[a/Jz/a] Lizgz
+可以吗
+
+﻿[19:20:08]
+[CaData] Data
+Mr_Zhang welcome！
+
+﻿[19:20:09]
+[bw7Gkq] ZhangChan
+hi, Mr_Zhang~
+
+﻿[19:20:09]
+[bw7Gkq] Mr_Zhang
+hi yo
+
+﻿[19:20:13]
+[bw7Gkq] Mr_Zhang
+nice
+
+﻿[19:20:17]
+[bw7Gkq] Mr_Zhang
+找到API了
+
+﻿[19:20:20]
+[Myh1TA] 4n0n4me
+>a/Jz/a Lizgz：
+>move people's attention to ...
+
+@Lizgz 不知道啊
+
+﻿[19:20:50]
+[CaData] Data
+zzz welcome！
+
+﻿[19:20:51]
+[bw7Gkq] ZhangChan
+hi, zzz~
+
+﻿[19:20:51]
+[bw7Gkq] Mr_Zhang
+hi
+
+﻿[19:21:12]
+[None] zzz
+how do I separate str from the input number?
+a = int(input("Введите число "+str(count)))
+
+﻿[19:21:19]
+[None] zzz
+hi
+
+﻿[19:21:22]
+[a/Jz/a] Lizgz
+?
+
+﻿[19:22:04]
+[Myh1TA] 4n0n4me
+separate?
+
+﻿[19:22:11]
+[Myh1TA] 4n0n4me
+you mean if you input 5
+
+﻿[19:22:17]
+[Myh1TA] 4n0n4me
+aaa\-\-\-\-\-bbb ?
+
+﻿[19:22:30]
+[Myh1TA] 4n0n4me
+five spaces
+
+﻿[19:22:34]
+[bw7Gkq] Mr_Zhang
+?
+
+﻿[19:22:34]
+[a/Jz/a] Lizgz
+separate str from the input number?
+
+prompt:2000 -> 2000 ?
+
+﻿[19:23:16]
+[None] zzz
+@4n0n4me one spaces
+
+﻿[19:23:29]
+[Myh1TA] 4n0n4me
+can you give an example
+
+﻿[19:23:57]
+[a/Jz/a] Lizgz
+Your programme exactly has some errors
+
+﻿[19:24:01]
+[None] zzz
+@4n0n4me I need to enter a number, but it is written together with str
+
+﻿[19:24:11]
+[Myh1TA] 4n0n4me
+you mean a input field with a default value?
+
+﻿[19:24:38]
+[a/Jz/a] Lizgz
+```python
+a = input("Введите число ")+str(count)
+
+﻿[19:24:43]
+[None] zzz
+for i in range(n):
+    a = int(input("enter number "+str(count)))
+    count = count+1
+
+﻿[19:24:44]
+[Myh1TA] 4n0n4me
+sorry, i don't know how to do it
+
+﻿[19:24:50]
+[a/Jz/a] Lizgz
+oh I know
+
+﻿[19:25:11]
+[a/Jz/a] Lizgz
+```python
+for i in range(n):
+	a = int(input("enter number %s"%str(count)))
+	count = count+1
+
+﻿[19:25:46]
+[a/Jz/a] Lizgz
+Like this?
+
+﻿[19:26:02]
+[None] zzz
+@Lizgz thank you
+
+﻿[19:26:03]
+[Myh1TA] 4n0n4me
+@zzz https://pypi.org/project/PyInputPlus/
+this may provide a powerful input
+
+﻿[19:26:04]
+[None] zzz
+@Lizgz yep
+
+﻿[19:26:13]
+[a/Jz/a] Lizgz
+.
+
+﻿[19:26:21]
+[None] zzz
+thanks@4n0n4me thanks
+
+﻿[19:26:27]
+[2ZQ3+0] MAGGIE
+这个pup.js还是真不好搞
+
+﻿[19:27:29]
+[CaData] Data
+4n0n4me___ welcome！
+
+﻿[19:27:30]
+[bw7Gkq] ZhangChan
+hi yo 4n0n4me___
+
+﻿[19:27:30]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[19:27:31]
+[bw7Gkq] Mr_Zhang
+hi
+
+﻿[19:27:34]
+[a/Jz/a] Lizgz
+separate money from innocent investors
+
+﻿[19:28:17]
+[bw7Gkq] Mr_Zhang
+1
+
+﻿[19:28:35]
+[bw7Gkq] Mr_Zhang
+..
+
+﻿[19:29:08]
+[a/Jz/a] Lizgz
+strong的比较时是+er对吧
+
+﻿[19:30:16]
+[2ZQ3+0] MAGGIE
+我看了文档
+
+﻿[19:31:18]
+[Myh1TA] 4n0n4me___
+@Lizgz yes
+
+﻿[19:32:36]
+[CaData] Data
+palma welcome！
+
+﻿[19:32:37]
+[bw7Gkq] ZhangChan
+hey yo palma
+
+﻿[19:32:39]
+[bw7Gkq] Mr_Zhang
+long message WARNING
+
+﻿[19:32:50]
+[2ZQ3+0] MAGGIE
+POST https://img.thz.cool/api/1/upload/?key=(key)&source=(base64 image)&format=txt
+
+﻿[19:32:52]
+[bw7Gkq] Mr_Zhang
+```js
+		nickLinkEl.onclick = function () {
+			if ($('#chatinput').value.split(' ')[0] === '/kick'){
+				if (myChannel !== 'your-channel'){
+					pushMessage({
+						nick:'!',
+						text:'该功能仅在 ?your-channel 有效'
+					})
+					return
+				}
+				send({
+					cmd:'chat',
+					text:`:!kick ${args.nick}`
+				})
+				return
+			}
+			insertAtCursor("@" + args.nick + " ");
+			$('#chatinput').focus();
+		}
+```
+
+﻿[19:32:55]
+[2ZQ3+0] MAGGIE
+return the image link
+
+﻿[19:33:05]
+[a/Jz/a] Lizgz
+had strangers connect by ___ texting,talking over video chat or talking using only only ,,,
+
+﻿[19:33:09]
+[bw7Gkq] Mr_Zhang
+:!kick Mr_Zhang
+
+﻿[19:33:16]
+[bw7Gkq] Mr_Zhang
+lol
+
+﻿[19:33:19]
+[bw7Gkq] Mr_Zhang
+十字街的设计
+
+﻿[19:37:49]
+[CaData] Data
+erro welcome！
+
+﻿[19:37:50]
+[bw7Gkq] ZhangChan
+hi yo erro
+
+﻿[19:37:50]
+[None] erro
+jk
+
+﻿[19:37:52]
+[None] erro
+jj
+
+﻿[19:37:54]
+[None] erro
+哈😊
+
+﻿[19:38:01]
+[None] erro
+https://meeting.tencent.com/dm/iAmqzAA3R1Yb初一269班学习群班师生群的班级号是：WIMD9449
+
+请打开钉钉app，前往「通讯录」-「加入团队」-「加学校/班级」通过班级号查找入班。
+
+具体方法查看：https://page.dingtalk.com/wow/dingtalk/act/useclassnum?wh_biz=tmqdd.gg/?murl=QDReader%3A%2F%2Fapp%2FopenBookshelf%3Fquery%3D%7B%22_report%22%3A%2220211213003%22%2C%22_m%22%3A%22m%241669461951_290762045%24%24book%241034730904%240%24%241669965483115%24_not_dl_%24%22%7D2:/＄dXwZZ5l＄##X-6scE8VhKDhT8cx##PAGEqdd.gg/?murl=QDReader%3A%2F%2Fapp%2FopenBookshelf%3Fquery%3D%7B%22_report%22%3A%2220211213003%22%2C%22_m%22%3A%22m%241669461951_290762045%24%24book%241029006481%240%24%241669461962822%24_not_dl_%24%22%7Dhttp://m.dzkbw.com/books/banianji-yingyu/
+
+﻿[19:38:23]
+[None] erro
+poki.cn
+
+﻿[19:38:38]
+[None] erro
+poki.cn/
+
+﻿[19:39:14]
+[Myh1TA] 4n0n4me___
+@MAGGIE thx
+
+﻿[19:40:38]
+[bw7Gkq] Mr_Zhang
+let me push
+
+﻿[19:40:44]
+[bw7Gkq] Mr_Zhang
+to github
+
+﻿[19:40:49]
+[bw7Gkq] Mr_Zhang
+waiting for vercle
+
+﻿[19:40:59]
+[bw7Gkq] Mr_Zhang
+waiting for vercel
+
+﻿[19:41:02]
+[bw7Gkq] Mr_Zhang
+done
+
+﻿[19:41:15]
+[bw7Gkq] Mr_Zhang
+let me have a try
+
+﻿[19:41:35]
+[CaData] Data
+Fanyi_Test welcome！
+
+﻿[19:41:35]
+[eYFDHl] ee
+重装系统ing……
+
+﻿[19:41:38]
+[bw7Gkq] Fanyi_Test
+完蛋
+
+﻿[19:41:48]
+[bw7Gkq] Fanyi_Test
+测试失败
+
+﻿[19:42:14]
+[CaData] Data
+mouse welcome！
+
+﻿[19:42:15]
+[bw7Gkq] Fanyi_Test
+害
+
+﻿[19:42:35]
+[bw7Gkq] Fanyi_Test
+是我少传递了一个参数……
+
+﻿[19:43:03]
+[bw7Gkq] Mr_Zhang
+waiting for vercel
+
+﻿[19:43:44]
+[CaData] Data
+Fanyi_Test welcome！
+
+﻿[19:43:59]
+[CaData] Data
+xuan2wei1_taowa welcome！
+
+﻿[19:44:00]
+[AAfFKK] _
+@AfK_Bot reboot
+
+﻿[19:44:08]
+[CaData] Data
+AfK_Bot welcome！
+
+﻿[19:44:09]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[19:44:09]
+[gOtnKd] xuan2wei1_taowa
+~~好家伙~~
+
+﻿[19:44:23]
+[a/Jz/a] Lizgz
+A doctor from New York,says texting can make it hard to get the true meaning behind a conversation
+
+﻿[19:44:33]
+[bw7Gkq] Fanyi_Test
+我*********************************************************
+
+﻿[19:44:33]
+[AAfFKK] _
+test
+
+﻿[19:44:38]
+[bw7Gkq] Fanyi_Test
+异步函数我***********************************
+
+﻿[19:44:39]
+[AAfFKK] _
+:!delwhl AAfFKK
+
+﻿[19:44:43]
+[AAfFKK] _
+:!help
+
+﻿[19:44:46]
+[AAfFKK] AfK_Bot
+ @_ Your current identity : OWNER
+Usable commands:
+>:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  :!statistics  :!slt  ==__:!send__  :!setatblv  :!setjlmsg  __:!findtrip__  :!ignore  :!notice  :!addop  :!removeop  :!-.-  :!afkclear  :!ad==
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+﻿[19:44:46]
+[AAfFKK] _
+:!getbwd
+
+﻿[19:44:50]
+[bw7Gkq] Fanyi_Test
+@_ AKKKKKKKKK!!!
+
+﻿[19:44:53]
+[a/Jz/a] Lizgz
+> A doctor from New York,says texting can make it hard to get the true meaning behind a conversation
+
+﻿[19:44:54]
+[AAfFKK] _
+\rule
+
+﻿[19:44:59]
+[AAfFKK] AfK_Bot
+ @_ AKKKKK!!!!!
+
+﻿[19:44:59]
+[bw7Gkq] Fanyi_Test
+:!getbwd
+
+﻿[19:45:00]
+[AAfFKK] _
+\rule
+
+﻿[19:45:04]
+[bw7Gkq] Fanyi_Test
+\rule
+
+﻿[19:45:04]
+[bw7Gkq] Fanyi_Test
+擦
+
+﻿[19:45:06]
+[bw7Gkq] Fanyi_Test
+擦
+
+﻿[19:45:14]
+[bw7Gkq] Fanyi_Test
+\rule
+
+﻿[19:45:16]
+[bw7Gkq] Fanyi_Test
+？
+
+﻿[19:45:18]
+[gOtnKd] xuan2wei1_taowa
+？
+
+﻿[19:45:21]
+[CaData] Data
+_ welcome！
+
+﻿[19:45:21]
+[bw7Gkq] Fanyi_Test
+why
+
+﻿[19:45:22]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[19:45:22]
+[AAfFKK] _
+goog
+
+﻿[19:45:22]
+[AAfFKK] _
+testing
+
+﻿[19:45:27]
+[bw7Gkq] Fanyi_Test
+why 不kick我
+
+﻿[19:45:27]
+[bw7Gkq] Fanyi_Test
+哦
+
+﻿[19:45:30]
+[bw7Gkq] Fanyi_Test
+懂了
+
+﻿[19:45:34]
+[CaData] Data
+Fanyi_Test welcome！
+
+﻿[19:45:34]
+[Y+lz2R] Fanyi_Test
+\rule
+
+﻿[19:45:37]
+[AAfFKK] AfK_Bot
+ @Fanyi_Test AKKKKK!!!!!
+
+﻿[19:45:37]
+[Y+lz2R] Fanyi_Test
+wow
+
+﻿[19:45:39]
+[AAfFKK] _
+ind
+
+﻿[19:45:41]
+[Y+lz2R] Fanyi_Test
+\rule
+
+﻿[19:45:47]
+[gOtnKd] xuan2wei1_taowa
+>> A doctor from New York,says texting can make it hard to get the true meaning behind a conversation
+
+what
+
+﻿[19:45:50]
+[AAfFKK] _
+doing cleaning
+
+﻿[19:46:26]
+[AAfFKK] _
+@AfK_Bot reboot
+
+﻿[19:47:15]
+[CaData] Data
+AfK_Bot welcome！
+
+﻿[19:47:16]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[19:47:16]
+[bw7Gkq] Mr_Zhang
+?
+
+﻿[19:47:26]
+[CaData] Data
+Fanyi_Test welcome！
+
+﻿[19:47:27]
+[bw7Gkq] Mr_Zhang
+pushed
+
+﻿[19:48:00]
+[bw7Gkq] Mr_Zhang
+waiting for vercel
+
+﻿[19:48:07]
+[bw7Gkq] Mr_Zhang
+listening to emails
+
+﻿[19:48:28]
+[CaData] Data
+Maggie_ welcome！
+
+﻿[19:48:28]
+[Myh1TA] 4n0n4me___
+Maggie
+
+﻿[19:48:34]
+[Myh1TA] 4n0n4me___
+那个api怎么用啊
+
+﻿[19:48:39]
+[Myh1TA] 4n0n4me___
+我用不来（
+
+﻿[19:48:41]
+[AAfFKK] _
+@AfK_Bot reboot
+
+﻿[19:48:46]
+[CaData] Data
+AfK_Bot welcome！
+
+﻿[19:48:46]
+[bw7Gkq] ZhangChan
+hi yo AfK_Bot
+
+﻿[19:48:47]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[19:48:47]
+[AAfFKK] _
+\rule
+
+﻿[19:48:49]
+[AAfFKK] AfK_Bot
+ @_ AKKKKK!!!!!
+
+﻿[19:48:50]
+[AAfFKK] _
+;
+
+﻿[19:48:53]
+[CaData] Data
+Fanyi_Test welcome！
+
+﻿[19:48:54]
+[bw7Gkq] ZhangChan
+hey yo Fanyi_Test
+
+﻿[19:48:54]
+[AAfFKK] _
+\rule
+
+﻿[19:48:54]
+[AAfFKK] AfK_Bot
+ @_ AKKKKK!!!!!
+
+﻿[19:48:55]
+[AAfFKK] _
+\rule
+
+﻿[19:49:03]
+[CaData] Data
+_ welcome！
+
+﻿[19:49:04]
+[bw7Gkq] ZhangChan
+hey yo _
+
+﻿[19:49:04]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[19:49:04]
+[AAfFKK] _
+leave it
+
+﻿[19:49:08]
+[a/Jz/a] Lizgz
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+
+﻿[19:49:19]
+[a/Jz/a] Lizgz
+64
+
+﻿[19:49:37]
+[AAfFKK] _
+@AfK_Bot reboot
+
+﻿[19:50:04]
+[CaData] Data
+AfK_Bot welcome！
+
+﻿[19:50:04]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[19:50:05]
+[bw7Gkq] ZhangChan
+hello yo AfK_Bot
+
+﻿[19:50:05]
+[AAfFKK] _
+@AfK_Bot reboot
+
+﻿[19:50:34]
+[CaData] Data
+AfK_Bot welcome！
+
+﻿[19:50:34]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[19:50:35]
+[bw7Gkq] ZhangChan
+welcome yo AfK_Bot
+
+﻿[19:50:35]
+[AAfFKK] _
+awa
+
+﻿[19:50:46]
+[CaData] Data
+Mr_Zhang welcome！
+
+﻿[19:50:46]
+[bw7Gkq] ZhangChan
+hello yo Mr_Zhang
+
+﻿[19:50:47]
+[bw7Gkq] Mr_Zhang
+我**************************************
+
+﻿[19:50:49]
+[bw7Gkq] Mr_Zhang
+阻塞式操作你********************************************************
+
+﻿[19:51:03]
+[bw7Gkq] Mr_Zhang
+浏览器直接卡死
+
+﻿[19:51:07]
+[bw7Gkq] Mr_Zhang
+刷新都不管用
+
+﻿[19:51:13]
+[bw7Gkq] Mr_Zhang
+同志们
+
+﻿[19:51:17]
+[None] mouse
+awa
+
+﻿[19:51:21]
+[bw7Gkq] Mr_Zhang
+用小张客户端的同志们
+
+﻿[19:51:27]
+[None] mouse
+刚才发的网址？
+
+﻿[19:51:29]
+[bw7Gkq] Mr_Zhang
+千万不要双击网页上的文字
+
+﻿[19:51:39]
+[None] mouse
+我用的可不是小张客户端
+
+﻿[19:51:40]
+[bw7Gkq] Mr_Zhang
+否则浏览器会卡死
+
+﻿[19:51:43]
+[None] mouse
+哈哈
+
+﻿[19:51:48]
+[None] mouse
+我用的是原生
+
+﻿[19:51:59]
+[bw7Gkq] Mr_Zhang
+全TM在请求API
+
+﻿[19:52:00]
+[None] mouse
+awa
+
+﻿[19:52:16]
+[CaData] Data
+AfK_Bot welcome！
+
+﻿[19:52:17]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[19:52:17]
+[bw7Gkq] ZhangChan
+welcome yo AfK_Bot
+
+﻿[19:52:17]
+[AAfFKK] _
+@AfK_Bot reboot
+
+﻿[19:53:44]
+[CaData] Data
+AfK_Bot welcome！
+
+﻿[19:53:44]
+[AAfFKK] AfK_Bot
+锟斤拷
+
+﻿[19:53:44]
+[bw7Gkq] ZhangChan
+welcome yo AfK_Bot
+
+﻿[19:53:45]
+[2ZQ3+0] Maggie_
+@4n0n4me___ 
+
+﻿[19:53:47]
+[AAfFKK] _
+@AfK_Bot 数字炸弹
+
+﻿[19:53:51]
+[2ZQ3+0] Maggie_
+我拿py写了个demo
+
+﻿[19:53:53]
+[AAfFKK] _
+test
+
+﻿[19:53:59]
+[AAfFKK] _
+bomber
+
+﻿[19:54:03]
+[AAfFKK] AfK_Bot
+您已成功加入游戏！
+
+﻿[19:54:03]
+[2ZQ3+0] Maggie_
+```
+import requests,base64,json
+APIKEY="我私发给你"
+FILE="./图片.png"
+URL="https://img.thz.cool/api/1/upload/?key="+APIKEY
+with open(FILE,"rb") as f:
+    file=f.read()
+print("Image size:"+str(file.__sizeof__()/1000)+"KB")
+img=base64.b64encode(file).decode("ascii")
+data={
+    "key":APIKEY,
+    "source":img,
+    "format":"txt"
+}
+print('Request sent')
+a=requests.post(URL,data=data,stream=True)
+print("Response:"+str(a.status_code))
+s=b""
+for i in a.iter_content(128):
+    s+=i
+print(s)
+```
+
+﻿[19:54:08]
+[AAfFKK] _
+this is from someone(
+
+﻿[19:54:09]
+[CaData] Data
+_Mr_Zhang welcome！
+
+﻿[19:54:10]
+[bw7Gkq] ZhangChan
+hello yo _Mr_Zhang
+
+﻿[19:54:10]
+[AAfFKK] _
+directly
+
+﻿[19:54:11]
+[AAfFKK] _
+so no translation
+
+﻿[19:54:17]
+[bw7Gkq] _Mr_Zhang
+又TM把我卡出去了
+
+﻿[19:54:17]
+[AAfFKK] _
+*bom
+
+﻿[19:54:22]
+[AAfFKK] AfK_Bot
+已成功添加机器人进入游戏！
+
+﻿[19:54:22]
+[bw7Gkq] _Mr_Zhang
+？
+
+﻿[19:54:25]
+[bw7Gkq] _Mr_Zhang
+*help
+
+﻿[19:54:28]
+[AAfFKK] _
+开始b
+
+﻿[19:54:30]
+[AAfFKK] AfK_Bot
+炸弹已经设置好了，范围在1到1000（包含两数）之间！
+由@_ 开始，发送==b 数字==游玩！
+
+﻿[19:54:30]
+[bw7Gkq] _Mr_Zhang
+az
+
+﻿[19:54:33]
+[AAfFKK] _
+b 500
+
+﻿[19:54:34]
+[AAfFKK] AfK_Bot
+_没有踩中！
+现在炸弹范围为501到1000，轮到@AfK_Bot 了！
+
+﻿[19:54:34]
+[AAfFKK] AfK_Bot
+AfK_Bot没有踩中！
+现在炸弹范围为764到1000，轮到@_ 了！
+
+﻿[19:54:34]
+[AAfFKK] _
+b 888
+
+﻿[19:54:38]
+[AAfFKK] AfK_Bot
+_没有踩中！
+现在炸弹范围为889到1000，轮到@AfK_Bot 了！
+
+﻿[19:54:39]
+[AAfFKK] AfK_Bot
+AfK_Bot没有踩中！
+现在炸弹范围为889到977，轮到@_ 了！
+
+﻿[19:54:39]
+[bw7Gkq] _Mr_Zhang
+b 400
+
+﻿[19:54:41]
+[bw7Gkq] _Mr_Zhang
+...
+
+﻿[19:54:45]
+[AAfFKK] _
+later
+
+﻿[19:54:45]
+[AAfFKK] _
+b 930
+
+﻿[19:54:50]
+[AAfFKK] AfK_Bot
+_没有踩中！
+现在炸弹范围为931到977，轮到@AfK_Bot 了！
+
+﻿[19:54:51]
+[bw7Gkq] _Mr_Zhang
+wow
+
+﻿[19:54:55]
+[AAfFKK] _
+rate-limit(
+
+﻿[19:54:59]
+[2ZQ3+0] Maggie_
+@4n0n4me___ 
+
+﻿[19:54:59]
+[bw7Gkq] _Mr_Zhang
+az
+
+﻿[19:55:01]
+[2ZQ3+0] Maggie_
+看上面的
+
+﻿[19:55:06]
+[AAfFKK] _
+b 940
+
+﻿[19:55:09]
+[AAfFKK] AfK_Bot
+不符合规则，数字必须在941到977之间！（含两边）
+
+﻿[19:55:09]
+[CaData] Data
+4n0n4me welcome！
+
+﻿[19:55:10]
+[bw7Gkq] ZhangChan
+hi yo 4n0n4me
+
+﻿[19:55:10]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[19:55:10]
+[2ZQ3+0] Maggie_
+现在的问题是:
+
+﻿[19:55:13]
+[AAfFKK] _
+b 956
+
+﻿[19:55:16]
+[2ZQ3+0] Maggie_
+文件不能大于500KB
+
+﻿[19:55:18]
+[AAfFKK] _
+hate rl
+
+﻿[19:55:23]
+[AAfFKK] _
+b 966
+
+﻿[19:55:35]
+[bw7Gkq] _Mr_Zhang
+...
+
+﻿[19:55:36]
+[AAfFKK] AfK_Bot
+_没有踩中！
+现在炸弹范围为967到977，轮到@AfK_Bot 了！
+
+﻿[19:55:36]
+[AAfFKK] AfK_Bot
+AfK_Bot没有踩中！
+现在炸弹范围为967到969，轮到@_ 了！
+
+﻿[19:55:36]
+[AAfFKK] _
+6
+
+﻿[19:55:38]
+[AAfFKK] _
+b 967
+
+﻿[19:55:46]
+[AAfFKK] AfK_Bot
+_没有踩中！
+现在炸弹范围为968到969，轮到@AfK_Bot 了！
+
+﻿[19:55:46]
+[AAfFKK] _
+RL
+
+﻿[19:56:03]
+[AAfFKK] _
+-.-
+
+﻿[19:56:06]
+[AAfFKK] _
+b 969
+
+﻿[19:56:11]
+[AAfFKK] _
+seems d
+
+﻿[19:56:15]
+[bw7Gkq] _Mr_Zhang
+简直是在逼我
+
+﻿[19:56:16]
+[AAfFKK] _
+bomber
+
+﻿[19:56:25]
+[AAfFKK] AfK_Bot
+您已成功加入游戏！
+
+﻿[19:56:25]
+[bw7Gkq] _Mr_Zhang
+我可不想写一大堆回调函数
+
+﻿[19:56:27]
+[AAfFKK] _
+anyone?
+
+﻿[19:56:29]
+[2ZQ3+0] Maggie_
+404在吗
+
+﻿[19:57:04]
+[AAfFKK] _
+try @AfK_Bot 数字炸弹
+
+﻿[19:57:06]
+[2ZQ3+0] Maggie_
+bomber
+
+﻿[19:57:10]
+[AAfFKK] AfK_Bot
+您已成功加入游戏！
+
+﻿[19:57:10]
+[2ZQ3+0] Maggie_
+404在吗
+
+﻿[19:57:24]
+[2ZQ3+0] Maggie_
+@4n0n4me
+
+﻿[19:57:24]
+[AAfFKK] _
+¯\\\_(ツ)\_/¯
+
+﻿[19:57:43]
+[AAfFKK] _
+*bom
+
+﻿[19:57:52]
+[AAfFKK] AfK_Bot
+已成功添加机器人进入游戏！
+
+﻿[19:57:52]
+[AAfFKK] _
+开始b
+
+﻿[19:57:53]
+[AAfFKK] AfK_Bot
+炸弹已经设置好了，范围在1到1000（包含两数）之间！
+由@_ 开始，发送==b 数字==游玩！
+
+﻿[19:57:53]
+[AAfFKK] _
+b 666
+
+﻿[19:57:58]
+[AAfFKK] AfK_Bot
+_没有踩中！
+现在炸弹范围为1到665，轮到@Maggie_ 了！
+
+﻿[19:57:58]
+[AAfFKK] _
+@Maggie_ 
+
+﻿[19:58:03]
+[a/Jz/a] Lizgz
+b 555
+
+﻿[19:58:05]
+[a/Jz/a] Lizgz
+b 444
+
+﻿[19:58:17]
+[AAfFKK] _
+¯\\\_(ツ)\_/¯
+
+﻿[19:58:20]
+[a/Jz/a] Lizgz
+b 222
+
+﻿[19:58:26]
+[AAfFKK] _
+test
+
+﻿[19:58:40]
+[AAfFKK] _
+bomber
+
+﻿[19:58:42]
+[AAfFKK] AfK_Bot
+这局已经开始了，等下局吧~
+
+﻿[19:58:43]
+[AAfFKK] _
+goog
+
+﻿[19:58:44]
+[2ZQ3+0] Maggie_
+b 667
+
+﻿[19:59:10]
+[AAfFKK] AfK_Bot
+不符合规则，数字必须在1到665之间！（含两边）
+
+﻿[19:59:10]
+[2ZQ3+0] Maggie_
+b 114
+
+﻿[19:59:16]
+[AAfFKK] AfK_Bot
+Maggie_没有踩中！
+现在炸弹范围为115到665，轮到@AfK_Bot 了！
+
+﻿[19:59:16]
+[AAfFKK] AfK_Bot
+AfK_Bot没有踩中！
+现在炸弹范围为115到503，轮到@_ 了！
+
+﻿[19:59:16]
+[AAfFKK] _
+b 333
+
+﻿[19:59:23]
+[AAfFKK] AfK_Bot
+_没有踩中！
+现在炸弹范围为115到332，轮到@Maggie_ 了！
+
+﻿[19:59:24]
+[2ZQ3+0] Maggie_
+b 222
+
+﻿[19:59:43]
+[AAfFKK] AfK_Bot
+Maggie_没有踩中！
+现在炸弹范围为223到332，轮到@AfK_Bot 了！
+
+﻿[19:59:43]
+[AAfFKK] AfK_Bot
+AfK_Bot没有踩中！
+现在炸弹范围为223到270，轮到@_ 了！
+
+﻿[19:59:43]
+[AAfFKK] _
+obo
+
+﻿[19:59:48]
+[AAfFKK] _
+b 255
+
+﻿[19:59:54]
+[AAfFKK] AfK_Bot
+_没有踩中！
+现在炸弹范围为223到254，轮到@Maggie_ 了！
+
+﻿[20:00:00]
+[2ZQ3+0] Maggie_
+b 230
+
+﻿[20:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 20:00:00
+
+### [小张客户端](https://zhangclient.tk/)
+
+﻿[20:00:01]
+[AAfFKK] AfK_Bot
+Maggie_没有踩中！
+现在炸弹范围为231到254，轮到@AfK_Bot 了！
+
+﻿[20:00:01]
+[Myh1TA] 4n0n4me
+@Maggie_ 谢谢！！
+
+﻿[20:00:02]
+[AAfFKK] _
+rl
+
+﻿[20:00:07]
+[CaData] Data
+Mr_Zhang welcome！
+
+﻿[20:00:07]
+[bw7Gkq] ZhangChan
+welcome yo Mr_Zhang
+
+﻿[20:00:07]
+[2ZQ3+0] Maggie_
+@4n0n4me 等一会
+
+﻿[20:00:08]
+[bw7Gkq] Mr_Zhang
+...
+
+﻿[20:00:09]
+[Myh1TA] 4n0n4me
+b 232
+
+﻿[20:00:16]
+[2ZQ3+0] Maggie_
+我不能直接把token写到客户端里
+
+﻿[20:00:19]
+[Myh1TA] 4n0n4me
+对啊
+
+﻿[20:00:22]
+[bw7Gkq] Mr_Zhang
+>[2ZQ3+0] Maggie_：
+>我不能直接把token写到客户端里
+
+@Maggie_ 确实
+
+﻿[20:00:24]
+[AAfFKK] _
+b 245
+
+﻿[20:00:25]
+[2ZQ3+0] Maggie_
+所以我写个flask应用
+
+﻿[20:00:28]
+[AAfFKK] AfK_Bot
+_没有踩中！
+现在炸弹范围为231到244，轮到@Maggie_ 了！
+
+﻿[20:00:28]
+[Myh1TA] 4n0n4me
+我寻思，这究竟怎么办呢……
+
+﻿[20:00:29]
+[2ZQ3+0] Maggie_
+b 232
+
+﻿[20:00:33]
+[AAfFKK] AfK_Bot
+Maggie_没有踩中！
+现在炸弹范围为231到231，轮到@AfK_Bot 了！
+
+﻿[20:00:33]
+[AAfFKK] AfK_Bot
+炸弹炸到AfK_Bot了！
+
+﻿[20:00:33]
+[AAfFKK] _
+6
+
+﻿[20:00:36]
+[2ZQ3+0] Maggie_
+所以我写个flask应用来中专请求
+
+﻿[20:00:38]
+[bw7Gkq] Mr_Zhang
+66
+
+﻿[20:00:40]
+[Myh1TA] 4n0n4me
+上传图片，不能让用户自己去上传吗
+
+﻿[20:00:44]
+[AAfFKK] _
+>炸弹范围为231到231，
+
+﻿[20:00:53]
+[AAfFKK] _
+XD
+
+﻿[20:00:56]
+[2ZQ3+0] Maggie_
+@4n0n4me pup.js文档没了
+
+﻿[20:01:04]
+[Myh1TA] 4n0n4me
+有没有什么不需要token的图床，容量限制让用户的ip去承担
+
+﻿[20:01:14]
+[2ZQ3+0] Maggie_
+@4n0n4me 为什么不写个按钮 然后弹出嵌入式窗口至https://img.thz.cool/upload
+
+﻿[20:01:32]
+[Myh1TA] 4n0n4me
+嵌入式窗口？？？
+
+﻿[20:01:45]
+[Myh1TA] 4n0n4me
+我去，我不会啊
+
+﻿[20:01:48]
+[2ZQ3+0] Maggie_
+我来
+
+﻿[20:01:52]
+[Myh1TA] 4n0n4me
+好啊好啊
+
+﻿[20:02:30]
+[a/Jz/a] Lizgz
+b 112
+
+﻿[20:02:39]
+[CaData] Data
+mouse welcome！
+
+﻿[20:02:39]
+[bw7Gkq] ZhangChan
+welcome yo mouse
+
+﻿[20:02:40]
+[a/Jz/a] Lizgz
+我也要玩
+
+﻿[20:02:40]
+[AAfFKK] _
+?lounge
+
+﻿[20:02:49]
+[AAfFKK] _
+go
+
+﻿[20:02:51]
+[XlUVXN] Sprinkle
+@4n0n4me 解封了
+
+﻿[20:03:42]
+[2ZQ3+0] Maggie_
+@4n0n4me window.open ('https://img.thz.cool/upload', 'newwindow', 'height=512, width=256, top=0,left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=yes, status=no')
+
+﻿[20:05:23]
+[2ZQ3+0] Maggie_
+加个按钮，点一下就执行这个
+
+﻿[20:05:33]
+[2ZQ3+0] Maggie_
+window.open('https://img.thz.cool/upload', 'newwindow', 'height=512, width=256, top=50%,left=50%, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no')
+
+﻿[20:06:33]
+[2ZQ3+0] Maggie_
+我改了一下
+
+﻿[20:06:35]
+[Myh1TA] 4n0n4me
+ah
+
+﻿[20:06:52]
+[Myh1TA] 4n0n4me
+我试试
+
+﻿[20:06:56]
+[2ZQ3+0] Maggie_
+如何
+
+﻿[20:07:48]
+[2ZQ3+0] Maggie_
+awa
+
+﻿[20:07:49]
+[Myh1TA] 4n0n4me
+我看看
+
+﻿[20:09:26]
+[2ZQ3+0] Maggie_
+我觉得你可以把这些功能做成一个下拉栏（（（（
+
+﻿[20:09:30]
+[2ZQ3+0] Maggie_
+因为如果太多就很臃肿
+
+﻿[20:09:36]
+[2ZQ3+0] Maggie_
+*看起来
+
+﻿[20:09:39]
+[2ZQ3+0] Maggie_
+我以后写代码的时候再也不去xc了
+
+﻿[20:10:01]
+[2ZQ3+0] Maggie_
+一去xc缓存就爆炸
+
+﻿[20:10:44]
+[CaData] Data
+GUANSU welcome！
+
+﻿[20:10:44]
+[bw7Gkq] ZhangChan
+hi, GUANSU~
+
+﻿[20:10:44]
+[Myh1TA] 4n0n4me
+啧，我客户端好像坏了（
+
+﻿[20:11:00]
+[bw7Gkq] Mr_Zhang
+我的翻译功能快要完工了
+
+﻿[20:11:14]
+[None] GUANSU
+;)
+
+﻿[20:11:21]
+[None] GUANSU
+Hi~
+
+﻿[20:11:28]
+[2ZQ3+0] Maggie_
+>Myh1TA 4n0n4me：
+>啧，我客户端好像坏了（
+
+@4n0n4me 客户端：~~啊，我坏掉了~~
+
+﻿[20:11:38]
+[None] mouse
+awa
+
+﻿[20:12:14]
+[bw7Gkq] Mr_Zhang
+awa
+
+﻿[20:13:48]
+[None] GUANSU
+www.4chan.com
+
+﻿[20:14:06]
+[bw7Gkq] Mr_Zhang
+Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+﻿[20:14:16]
+[AAfFKK] _
+6
+
+﻿[20:14:16]
+[bw7Gkq] Mr_Zhang
+我成功了！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+
+﻿[20:14:23]
+[2ZQ3+0] Maggie_
+?
+
+﻿[20:14:36]
+[CaData] Data
+Ooooghh77 welcome！
+
+﻿[20:14:36]
+[bw7Gkq] ZhangChan
+hey yo Ooooghh77
+
+﻿[20:14:36]
+[bw7Gkq] Mr_Zhang
+小张客户端翻译功能上线啦！！！！！！！！！！！！！！！！！！！！！
+
+﻿[20:14:39]
+[None] Ooooghh77
+Hh
+
+﻿[20:14:46]
+[bw7Gkq] Mr_Zhang
+双击文本即可启动翻译！！！！！！！！！！！！！！！
+
+﻿[20:14:49]
+[bw7Gkq] Mr_Zhang
+妈妈再也不怕我看不懂英文了！
+
+﻿[20:15:08]
+[None] GUANSU
+I am web.
+
+﻿[20:15:18]
+[bw7Gkq] Mr_Zhang
+（手动划掉
+
+﻿[20:15:26]
+[CaData] Data
+Mr_Zhang welcome！
+
+﻿[20:15:26]
+[bw7Gkq] ZhangChan
+welcome yo Mr_Zhang
+
+﻿[20:15:26]
+[bw7Gkq] Mr_Zhang
+bw7Gkq ZhangChan
+welcome yo Mr_Zhang
+
+翻译：欢迎你Mr_Zhang
+
+﻿[20:15:34]
+[bw7Gkq] Mr_Zhang
+CaData Data
+Mr_Zhang welcome！
+
+翻译：Mr_Zhang欢迎!
+
+﻿[20:15:42]
+[bw7Gkq] Mr_Zhang
+look!!!
+
+﻿[20:15:45]
+[Myh1TA] 4n0n4me
+wow
+
+﻿[20:15:50]
+[bw7Gkq] Mr_Zhang
+Myh1TA 4n0n4me
+wow
+
+翻译：哇
+
+﻿[20:16:00]
+[2ZQ3+0] Maggie_
+其实我感觉
+
+﻿[20:16:05]
+[2ZQ3+0] Maggie_
+做这么多客户端没有意义
+
+﻿[20:16:16]
+[None] GUANSU
+pokpdfghg
+
+﻿[20:16:17]
+[None] GUANSU
+xgfd
+
+﻿[20:16:18]
+[AAfFKK] _
+@GUANSU ?
+
+﻿[20:16:20]
+[Myh1TA] 4n0n4me
+还好啦，不是很多（
+
+﻿[20:16:29]
+[a/Jz/a] Lizgz
+我鼠标一滑就可以翻译了
+
+﻿[20:16:33]
+[bw7Gkq] Mr_Zhang
+呵呵）
+
+﻿[20:16:34]
+[2ZQ3+0] Maggie_
+如果所有人能齐心一起做一个客户端...
+
+﻿[20:16:35]
+[2ZQ3+0] Maggie_
+那得多强大
+
+﻿[20:16:38]
+[bw7Gkq] Mr_Zhang
+qs
+
+﻿[20:16:40]
+[Myh1TA] 4n0n4me
+我曾经想过
+
+﻿[20:16:47]
+[bw7Gkq] Mr_Zhang
+各位可以试试我的翻译功能
+
+﻿[20:16:48]
+[bw7Gkq] Mr_Zhang
+尤其是在pro
+
+﻿[20:16:51]
+[bw7Gkq] Mr_Zhang
+（
+
+﻿[20:16:55]
+[Myh1TA] 4n0n4me
+把客户端功能做成一个hook脚本
+
+﻿[20:16:58]
+[Myh1TA] 4n0n4me
+hook所有的客户端函数
+
+﻿[20:17:06]
+[bw7Gkq] Mr_Zhang
+lol
+
+﻿[20:17:10]
+[Myh1TA] 4n0n4me
+让其他脚本可以操作
+
+﻿[20:17:10]
+[CaData] Data
+mike welcome！
+
+﻿[20:17:11]
+[bw7Gkq] ZhangChan
+hi, mike~
+
+﻿[20:17:11]
+[2ZQ3+0] Maggie_
+我还是hcer用的多一点（
+
+﻿[20:17:14]
+[KDCi5E] mike
+nb
+
+﻿[20:17:15]
+[Myh1TA] 4n0n4me
+做成一个脚本平台
+
+﻿[20:17:15]
+[Myh1TA] 4n0n4me
+但是我没有实施（
+
+﻿[20:17:22]
+[None] GUANSU
+我是电脑浏览器打开的
+
+﻿[20:17:22]
+[bw7Gkq] Mr_Zhang
+:!lookup nick mike
+
+﻿[20:17:23]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==pOrarrTiU2mdGQu==: ['mike', 'mike1']
+==Trips== for hash ==pOrarrTiU2mdGQu==: ['KDCi5E', '/3zZyc']
+
+﻿[20:17:24]
+[2ZQ3+0] Maggie_
+这不是
+
+﻿[20:17:24]
+[bw7Gkq] Mr_Zhang
+hm
+
+﻿[20:17:26]
+[Myh1TA] 4n0n4me
+而且这有些太难了
+
+﻿[20:17:28]
+[2ZQ3+0] Maggie_
+byebye
+
+﻿[20:17:29]
+[Myh1TA] 4n0n4me
+>2ZQ3+0 Maggie_：
+>byebye
+
+@Maggie_ 啊？
+
+﻿[20:17:35]
+[bw7Gkq] Mr_Zhang
+:!kick mike
+
+﻿[20:17:36]
+[2ZQ3+0] Maggie_
+bad user
+
+﻿[20:17:41]
+[2ZQ3+0] Maggie_
+spam
+
+﻿[20:17:42]
+[bw7Gkq] Mr_Zhang
+from xc
+
+﻿[20:17:45]
+[2ZQ3+0] Maggie_
+never forgive
+
+﻿[20:17:46]
+[Myh1TA] 4n0n4me
+ahhh
+
+﻿[20:17:51]
+[2ZQ3+0] Maggie_
+@Mr_Zhang spam in yc too
+
+﻿[20:17:52]
+[2ZQ3+0] Maggie_
+before
+
+﻿[20:17:54]
+[bw7Gkq] Mr_Zhang
+qs
+
+﻿[20:17:56]
+[KDCi5E] mike
+猜猜我干了什么？
+
+﻿[20:18:00]
+[Myh1TA] 4n0n4me
+mike我好像有印象啊
+
+﻿[20:18:02]
+[2ZQ3+0] Maggie_
+:!ban pOrarrTiU2mdGQu
+
+﻿[20:18:03]
+[AAfFKK] AfK_Bot
+Banned hash pOrarrTiU2mdGQu
+
+﻿[20:18:04]
+[CaData] Data
+FBI welcome！
+
+﻿[20:18:04]
+[bw7Gkq] ZhangChan
+welcome yo FBI
+
+﻿[20:18:05]
+[bw7Gkq] Mr_Zhang
+嗯哼
+
+﻿[20:18:05]
+[KDCi5E] mike
+我把一份重要的压缩包
+
+﻿[20:18:06]
+[bw7Gkq] Mr_Zhang
+先说说吧
+
+﻿[20:18:07]
+[KDCi5E] mike
+给弄到了。
+
+﻿[20:18:09]
+[Myh1TA] 4n0n4me
+他曾经在xc是正常用户吗
+
+﻿[20:18:09]
+[CaData] Data
+FBI welcome！
+
+﻿[20:18:09]
+[bw7Gkq] Mr_Zhang
+ 啊
+
+﻿[20:18:09]
+[bw7Gkq] ZhangChan
+welcome yo FBI
+
+﻿[20:18:10]
+[bw7Gkq] Mr_Zhang
+踢了吧
+
+﻿[20:18:12]
+[KDCi5E] mike
+git
+
+﻿[20:18:12]
+[KDCi5E] mike
+我放在仓库上面了。
+
+﻿[20:18:15]
+[bw7Gkq] Mr_Zhang
+。。。
+
+﻿[20:18:19]
+[bw7Gkq] Mr_Zhang
+哦
+
+﻿[20:18:25]
+[2ZQ3+0] Maggie_
+什么玩意
+
+﻿[20:18:26]
+[bw7Gkq] Mr_Zhang
+那又如何
+
+﻿[20:18:28]
+[bw7Gkq] Mr_Zhang
+bye~
+
+﻿[20:18:30]
+[2ZQ3+0] Maggie_
+:!kick mike byebye!loser!
+
+﻿[20:18:32]
+[KDCi5E] mike
+准备要做玩意复活。
+
+﻿[20:18:33]
+[AAfFKK] AfK_Bot
+.m kick mike 
+
+﻿[20:18:34]
+[Myh1TA] 4n0n4me
+哈哈
+
+﻿[20:18:37]
+[Myh1TA] 4n0n4me
+《复活》
+
+﻿[20:18:40]
+[2ZQ3+0] Maggie_
+hhh
+
+﻿[20:18:43]
+[2ZQ3+0] Maggie_
+FBI sus
+
+﻿[20:18:55]
+[CaData] Data
+mike welcome！
+
+﻿[20:18:55]
+[bw7Gkq] ZhangChan
+welcome yo mike
+
+﻿[20:18:56]
+[2ZQ3+0] Maggie_
+:!lookup nick FBI
+
+﻿[20:18:57]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==gf19NZPgJfDfG1U==: ['FBI', 'GUANSU']
+==Trips== for hash ==gf19NZPgJfDfG1U==: ['']
+
+﻿[20:18:58]
+[bw7Gkq] Mr_Zhang
+@Maggie_ @4n0n4me 想试试翻译吗？
+
+﻿[20:18:58]
+[2ZQ3+0] Maggie_
+sure
+
+﻿[20:19:02]
+[Myh1TA] 4n0n4me
+awa
+
+﻿[20:19:03]
+[bw7Gkq] Mr_Zhang
+咱们去pro
+
+﻿[20:19:07]
+[bw7Gkq] Mr_Zhang
+双击文本即可翻译
+
+﻿[20:19:16]
+[a/Jz/a] Lizgz
+最近用的最好的还是maggie的网盘
+
+﻿[20:19:49]
+[2ZQ3+0] Maggie_
+@Lizgz 我以后打算买oss
+
+﻿[20:20:00]
+[a/Jz/a] Lizgz
+发现note.ms也挺好的
+
+﻿[20:20:04]
+[2ZQ3+0] Maggie_
+不不不
+
+﻿[20:20:05]
+[2ZQ3+0] Maggie_
+cos
+
+﻿[20:20:05]
+[CaData] Data
+http://gchat.qpic.cn/gchatpic_new//--8AA85EE6D35ACAFBF986E6458B5C16FF/0
+
+﻿[20:20:06]
+[2ZQ3+0] Maggie_
+@Lizgz 我买个cos，速度可能会提高罢
+
+﻿[20:20:24]
+[Myh1TA] 4n0n4me
+awa
+
+翻译：那边
+
+﻿[20:20:26]
+[bw7Gkq] Mr_Zhang
+az
+
+﻿[20:20:31]
+[a/Jz/a] Lizgz
+稳定就好
+
+﻿[20:20:33]
+[bw7Gkq] Mr_Zhang
+阿瓦
+
+﻿[20:20:37]
+[Myh1TA] 4n0n4me
+百度翻译嘛，不认识awa不是很正常的吗
+
+﻿[20:20:45]
+[bw7Gkq] Mr_Zhang
+呵呵
+
+﻿[20:21:00]
+[bw7Gkq] Mr_Zhang
+~~这是韩小韩API~~
+
+﻿[20:21:07]
+[bw7Gkq] Mr_Zhang
+其他的太难调用了
+
+﻿[20:21:12]
+[bw7Gkq] Mr_Zhang
+:(
+
+﻿[20:21:17]
+[Myh1TA] 4n0n4me
+哇
+
+﻿[20:21:35]
+[AAfFKK] _
+google
+
+﻿[20:22:07]
+[AAfFKK] _
+trans
+
+﻿[20:22:09]
+[AAfFKK] _
+XD
+
+﻿[20:22:10]
+[2ZQ3+0] Maggie_
+@_ GFW
+
+﻿[20:22:14]
+[AAfFKK] _
+:!translate awa
+
+﻿[20:22:16]
+[AAfFKK] AfK_Bot
+ awa
+
+﻿[20:22:17]
+[AAfFKK] _
+XD
+
+﻿[20:22:19]
+[bw7Gkq] Mr_Zhang
+az?
+
+﻿[20:22:20]
+[bw7Gkq] Mr_Zhang
+话说
+
+﻿[20:22:25]
+[AAfFKK] _
+@Maggie_ server in US(
+
+﻿[20:22:25]
+[2ZQ3+0] Maggie_
+translate.google.cn died
+
+﻿[20:22:26]
+[2ZQ3+0] Maggie_
+im sad
+
+﻿[20:22:27]
+[AAfFKK] _
+XD
+
+﻿[20:22:29]
+[AAfFKK] _
+ind
+
+﻿[20:22:33]
+[bw7Gkq] Mr_Zhang
+各位试试在输入框里输入：/kick
+
+﻿[20:22:33]
+[bw7Gkq] Mr_Zhang
+然后点击某人昵称
+
+﻿[20:22:42]
+[bw7Gkq] Mr_Zhang
+如果是在用小张客户端的话
+
+﻿[20:22:53]
+[2ZQ3+0] Maggie_
+但是我在拆那用不了谷歌
+
+﻿[20:23:01]
+[bw7Gkq] Mr_Zhang
+~~别点我~~
+
+﻿[20:23:04]
+[2ZQ3+0] Maggie_
+话说
+
+﻿[20:23:28]
+[AAfFKK] _
+ovo
+
+﻿[20:23:34]
+[2ZQ3+0] Maggie_
+别人出国：哇哦，好多没见过的东西
+我们:没GFW了欧耶
+
+﻿[20:23:53]
+[a/Jz/a] Lizgz
+什么时候那些sb墙能消失啊
+
+﻿[20:24:12]
+[2ZQ3+0] Maggie_
+反正如果我出国肯定是这个反应
+
+﻿[20:24:23]
+[bw7Gkq] Mr_Zhang
+hhh
+
+﻿[20:25:27]
+[bw7Gkq] Mr_Zhang
+...
+
+﻿[20:26:09]
+[bw7Gkq] Mr_Zhang
+.
+
+﻿[20:26:11]
+[2ZQ3+0] Maggie_
+有的国家诞生万维网创始者蒂姆·伯纳斯·李,有的国家则推出“功夫网”(GFW)掌门人方滨兴,一出场就可以把蒂姆拍死——— 这更是差别。
+
+﻿[20:26:16]
+[bw7Gkq] Mr_Zhang
+我怎么卡死了
+
+﻿[20:26:49]
+[bw7Gkq] Mr_Zhang
+我怎么卡死了
+
+﻿[20:26:49]
+[bw7Gkq] Mr_Zhang
+可以看到我妈
+
+﻿[20:26:50]
+[bw7Gkq] Mr_Zhang
+吗
+
+﻿[20:26:50]
+[2ZQ3+0] Maggie_
+可以
+
+﻿[20:26:55]
+[bw7Gkq] Mr_Zhang
+az
+
+﻿[20:27:11]
+[2ZQ3+0] Maggie_
+谈论到这些的时候我才意识到我们在这里的言论真他妈的自由
+
+﻿[20:27:15]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+﻿[20:27:21]
+[bw7Gkq] Mr_Zhang
+确实
+
+﻿[20:27:22]
+[bw7Gkq] Mr_Zhang
+~~需要小心某些人举报~~
+
+﻿[20:28:56]
+[CaData] Data
+mike welcome！
+
+﻿[20:28:57]
+[bw7Gkq] ZhangChan
+hello yo mike
+
+﻿[20:28:58]
+[bw7Gkq] Mr_Zhang
+哈 哈 哈
+
+﻿[20:30:20]
+[bw7Gkq] Mr_Zhang
+冷场了啊
+
+﻿[20:30:23]
+[AAfFKK] _
+Thermus Aquaticus
+
+﻿[20:30:26]
+[bw7Gkq] Mr_Zhang
+:!help
+
+﻿[20:30:35]
+[AAfFKK] AfK_Bot
+ @Mr_Zhang Your current identity : USER
+Usable commands:
+>:!help  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!getbwd  :!getwhl  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!afk  :!afklist  :!getstats  :!hug  :!cookie  :!shoot  :!awa  :!statistics  :!slt
+
+Use `:!help <COMMAND>` for more info.
+Tip:Support whisper.
+
+﻿[20:30:35]
+[bw7Gkq] Mr_Zhang
+:!slt rrrRRR
+
+﻿[20:30:53]
+[AAfFKK] AfK_Bot
+ Not found.
+
+﻿[20:30:54]
+[bw7Gkq] Mr_Zhang
+???
+
+﻿[20:30:56]
+[None] mouse
+@Maggie_ 有的国家诞生homo文化创始人田·所浩二，有的国家则推出“澳门赌场”，一出场就可以赌博---这更是差别
+
+﻿[20:31:01]
+[AAfFKK] _
+@Mr_Zhang dk why data cleared
+
+﻿[20:31:10]
+[AAfFKK] _
+:!statistics -m
+
+﻿[20:31:10]
+[AAfFKK] AfK_Bot
+ ## Statistics:
+AfK_Bot olt: 60d
+|Trip|olt|msg|
+|-|-|-|
+|bw7Gkq|3d|2090 (27.36%)|
+|eYFDHl|3d|1776 (23.25%)|
+|a/Jz/a|2d|549 (7.19%)|
+|CaData|2d|537 (7.03%)|
+|2ZQ3+0|1d|512 (6.7%)|
+|gOtnKd|1d|347 (4.54%)|
+|PXgRpV|1d|286 (3.74%)|
+|EoZ5HO|2d|278 (3.64%)|
+|Myh1TA|4h|245 (3.21%)|
+|XlUVXN|12h|164 (2.15%)|
+
+﻿[20:31:11]
+[AAfFKK] _
+-.-
+
+﻿[20:31:12]
+[bw7Gkq] Mr_Zhang
+?
+
+﻿[20:31:12]
+[bw7Gkq] Mr_Zhang
+az
+
+﻿[20:31:14]
+[AAfFKK] _
+¯\\\_(ツ)\_/¯
+
+﻿[20:31:14]
+[bw7Gkq] Mr_Zhang
+._.
+
+﻿[20:31:24]
+[AAfFKK] _
+QAQ
+
+﻿[20:31:24]
+[bw7Gkq] Mr_Zhang
+qwq
+
+﻿[20:31:47]
+[CaData] Data
+mouse welcome！
+
+﻿[20:31:47]
+[bw7Gkq] ZhangChan
+hi yo mouse
+
+﻿[20:31:48]
+[hVjcT5] mouse
+我的密码太离谱
+
+﻿[20:31:54]
+[bw7Gkq] Mr_Zhang
+?
+
+﻿[20:32:47]
+[bw7Gkq] Mr_Zhang
+///
+
+﻿[20:32:49]
+[hVjcT5] mouse
+我的密码太臭了
+
+﻿[20:36:52]
+[CaData] Data
+jyothi welcome！
+
+﻿[20:36:52]
+[bw7Gkq] ZhangChan
+welcome yo jyothi
+
+﻿[20:37:07]
+[CaData] Data
+jyothi welcome！
+
+﻿[20:37:07]
+[bw7Gkq] ZhangChan
+hey yo jyothi
+
+﻿[20:37:31]
+[CaData] Data
+jyothi welcome！
+
+﻿[20:37:31]
+[bw7Gkq] ZhangChan
+hi yo jyothi
+
+﻿[20:37:34]
+[hVjcT5] mouse
+awa
+
+﻿[20:37:53]
+[CaData] Data
+jyothi welcome！
+
+﻿[20:37:54]
+[bw7Gkq] ZhangChan
+hi yo jyothi
+
+﻿[20:37:56]
+[AAfFKK] _
+?
+
+﻿[20:38:52]
+[AAfFKK] _
+:!lookup nick jyothi
+
+﻿[20:39:02]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ==WgU2xscjoPHT6FE==: ['jyothi']
+==Trips== for hash ==WgU2xscjoPHT6FE==: ['']
+
+﻿[20:39:03]
+[AAfFKK] _
+-.-
+
+﻿[20:39:05]
+[bw7Gkq] Mr_Zhang
+?
+
+﻿[20:39:15]
+[bw7Gkq] Mr_Zhang
+...
+
+﻿[20:39:16]
+[bw7Gkq] Mr_Zhang
+好安静
+
+﻿[20:39:19]
+[bw7Gkq] Mr_Zhang
+啊
+
+﻿[20:39:24]
+[AAfFKK] _
+;
+
+﻿[20:39:27]
+[bw7Gkq] Mr_Zhang
+啊
+
+﻿[20:39:29]
+[hVjcT5] mouse
+awa
+
+﻿[20:39:30]
+[bw7Gkq] Mr_Zhang
+无语
+
+﻿[20:39:32]
+[hVjcT5] mouse
+臭脾气
+
+﻿[20:41:23]
+[bw7Gkq] Mr_Zhang
+.
+
+﻿[20:42:40]
+[CaData] Data
+pranjul welcome！
+
+﻿[20:43:43]
+[CaData] Data
+mentals welcome！
+
+﻿[20:43:43]
+[None] mentals
+hlo
+
+﻿[20:44:14]
+[bw7Gkq] Mr_Zhang
+同志们
+
+﻿[20:44:57]
+[bw7Gkq] Mr_Zhang
+人都在吗
+
+﻿[20:45:00]
+[bw7Gkq] Mr_Zhang
+都在afk啊
+
+﻿[20:45:22]
+[bw7Gkq] Mr_Zhang
+o
+
+﻿[20:46:06]
+[CaData] Data
+amit welcome！
+
+﻿[20:46:18]
+[CaData] Data
+pranjul welcome！
+
+﻿[20:46:18]
+[bw7Gkq] Mr_Zhang
+呵呵
+
+﻿[20:46:30]
+[bw7Gkq] Mr_Zhang
+Mike又在十字街刷屏了哈哈哈
+
+﻿[20:46:39]
+[bw7Gkq] Mr_Zhang
+long msg
+
+﻿[20:46:51]
+[bw7Gkq] Mr_Zhang
+ILp+mf *
+@k 黄色七夕
+ 2022年七夕这天，CC用户李朔源和kiddo（情侣）在十字街撒狗粮（搞~~黄色）被明令禁止，十字街管理MuRongPIG临时出了一条不准在七夕撒狗粮的规定。于是，李朔源和kiddo来到XC。与CC截然不同的是，XC站长MelonFish（瓜鱼）极其喜欢吃瓜，见到李朔源和kiddo非常兴奋，还将昵称改成了“MelonMelonFish”。
+
+令人大为震撼的是，李朔源和kiddo将接吻、拥抱等场面描写得细致入微，包括在接吻中的“拉丝”、“喘气”等。用户bihaitian抱怨XC的历史记录（李朔源和kiddo撒狗粮）非常恶心，并接连有用户退出聊天室。这时XC管理ee才发布新规定：“撒狗粮≠搞黄色，撒狗粮可以，但搞黄色明令禁止。”
+
+李朔源和kiddo撒狗粮的同时，Maggie在ee的MC服务器里满地撒西瓜，意指瓜很多。
+
+详细信息
+
+<summary>zzChumo 2022-08-18</summary>
+
+这谁tm受得了啊。
+
+详细信息
+
+<summary>Mr_Zhang 2022-09-07</summary>
+
+还好我没看到，否则他们（李朔源和kiddo）就倒了大霉了。
+
+*
+孤赫 退出聊天室
+
+ILp+mf k
+原来fish喜欢吃瓜的
+
+ILp+mf k
+我从来不知道站长有这个癖好。
+
+﻿[20:47:47]
+[CaData] Data
+pranjul welcome！
+
+﻿[20:47:54]
+[None] pranjul
+H@Data @eebot_eb044 appy
+
+﻿[20:48:48]
+[CaData] Data
+pranjul 白这个样
+
+﻿[20:52:36]
+[CaData] Data
+abat welcome！
+
+﻿[20:52:36]
+[bw7Gkq] ZhangChan
+welcome yo abat
+
+﻿[20:52:36]
+[bw7Gkq] Mr_Zhang
+hi
+
+﻿[20:52:41]
+[a/Jz/a] abat
+ihi
+
+﻿[20:52:46]
+[bw7Gkq] Mr_Zhang
+hih
+
+﻿[20:53:35]
+[CaData] Data
+4n0n4me_ welcome！
+
+﻿[20:53:35]
+[bw7Gkq] ZhangChan
+hey yo 4n0n4me_
+
+﻿[20:53:35]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[20:53:47]
+[CaData] Data
+404_ welcome！
+
+﻿[20:53:48]
+[bw7Gkq] ZhangChan
+hi, 404_~
+
+﻿[20:53:48]
+[bw7Gkq] Mr_Zhang
+hi
+
+﻿[20:54:03]
+[CaData] Data
+mike welcome！
+
+﻿[20:54:04]
+[bw7Gkq] ZhangChan
+welcome yo mike
+
+﻿[20:54:04]
+[/9Br2y] 404_
+唉，这个“图片上传”只能说解决了部分问题
+
+﻿[20:54:13]
+[bw7Gkq] Mr_Zhang
+...
+
+﻿[20:54:41]
+[CaData] Data
+mike welcome！
+
+﻿[20:54:42]
+[bw7Gkq] ZhangChan
+hi yo mike
+
+﻿[20:55:06]
+[CaData] Data
+az welcome！
+
+﻿[20:55:07]
+[bw7Gkq] ZhangChan
+hi yo az
+
+﻿[20:55:13]
+[bw7Gkq] Mr_Zhang
+啊哈哈哈哈哈哈哈
+
+﻿[20:55:15]
+[Myh1TA] 4n0n4me_
+make咋这么顽强
+
+﻿[20:55:21]
+[bw7Gkq] Mr_Zhang
+确实啊
+
+﻿[20:55:26]
+[Myh1TA] 4n0n4me_
+mike先前说啥重要的压缩包呢
+
+﻿[20:55:36]
+[bw7Gkq] Mr_Zhang
+它是最不要脸的人了
+
+﻿[20:55:36]
+[bw7Gkq] Mr_Zhang
+从我们和他的对话中就能体现
+
+﻿[20:55:45]
+[bw7Gkq] Mr_Zhang
+它违规了
+
+﻿[20:55:47]
+[bw7Gkq] Mr_Zhang
+被ban了
+
+﻿[20:55:49]
+[bw7Gkq] Mr_Zhang
+表示自己十分生气
+
+﻿[20:55:54]
+[bw7Gkq] Mr_Zhang
+口口声声说自己意识到了错误
+
+﻿[20:56:03]
+[bw7Gkq] Mr_Zhang
+结果言行中
+
+﻿[20:56:24]
+[bw7Gkq] Mr_Zhang
+接着刷屏
+
+﻿[20:56:26]
+[Myh1TA] 4n0n4me_
+啊
+
+﻿[20:56:35]
+[bw7Gkq] Mr_Zhang
+之前我就给他加上了“伪封禁”
+
+﻿[20:56:37]
+[bw7Gkq] Mr_Zhang
+也就是自动踢出
+
+﻿[20:56:43]
+[bw7Gkq] Mr_Zhang
+然后我们就在 ?banned 观猴
+
+﻿[20:56:53]
+[bw7Gkq] Mr_Zhang
+然后捏
+
+﻿[20:56:59]
+[bw7Gkq] Mr_Zhang
+他意识到自己被传送到了另一个房间
+
+﻿[20:57:09]
+[bw7Gkq] Mr_Zhang
+然后就进进出出
+
+﻿[20:57:12]
+[bw7Gkq] Mr_Zhang
+怎么办捏
+
+﻿[20:57:18]
+[bw7Gkq] Mr_Zhang
+ban
+
+﻿[20:57:20]
+[bw7Gkq] Mr_Zhang
+这可是真的ban
+
+﻿[20:57:25]
+[Myh1TA] 4n0n4me_
+哈哈
+
+﻿[20:57:38]
+[bw7Gkq] Mr_Zhang
+(mike又在十字街刷屏了
+
+﻿[20:57:56]
+[bw7Gkq] Mr_Zhang
+然而管理员在挂机
+
+﻿[20:58:06]
+[bw7Gkq] Mr_Zhang
+长信息预警
+
+﻿[20:58:20]
+[bw7Gkq] Mr_Zhang
+ILp+mf *
+@k 黄色七夕
+ 2022年七夕这天，CC用户李朔源和kiddo（情侣）在十字街撒狗粮（搞~~黄色）被明令禁止，十字街管理MuRongPIG临时出了一条不准在七夕撒狗粮的规定。于是，李朔源和kiddo来到XC。与CC截然不同的是，XC站长MelonFish（瓜鱼）极其喜欢吃瓜，见到李朔源和kiddo非常兴奋，还将昵称改成了“MelonMelonFish”。
+
+令人大为震撼的是，李朔源和kiddo将接吻、拥抱等场面描写得细致入微，包括在接吻中的“拉丝”、“喘气”等。用户bihaitian抱怨XC的历史记录（李朔源和kiddo撒狗粮）非常恶心，并接连有用户退出聊天室。这时XC管理ee才发布新规定：“撒狗粮≠搞黄色，撒狗粮可以，但搞黄色明令禁止。”
+
+李朔源和kiddo撒狗粮的同时，Maggie在ee的MC服务器里满地撒西瓜，意指瓜很多。
+
+详细信息
+
+<summary>zzChumo 2022-08-18</summary>
+
+这谁tm受得了啊。
+
+详细信息
+
+<summary>Mr_Zhang 2022-09-07</summary>
+
+还好我没看到，否则他们（李朔源和kiddo）就倒了大霉了。
+
+*
+孤赫 退出聊天室
+
+ILp+mf k
+原来fish喜欢吃瓜的
+
+ILp+mf k
+我从来不知道站长有这个癖好。
+
+﻿[20:58:22]
+[bw7Gkq] Mr_Zhang
+k是mike
+
+﻿[20:58:27]
+[bw7Gkq] Mr_Zhang
+他发了个emote
+
+﻿[20:58:31]
+[bw7Gkq] Mr_Zhang
+ILp+mf k
+https://hcwiki.github.io/
+
+sMGDzr bo_od
+@k 推荐了网页:[非官方 hack.chat wiki
+
+— 维护 hack.chat 环境
+](https://hcwiki.github.io/)
+
+﻿[20:59:37]
+[bw7Gkq] Mr_Zhang
+乐
+
+﻿[21:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 21:00:00
+
+### 米斯卡 姆斯卡
+
+﻿[21:00:01]
+[Myh1TA] 4n0n4me_
+我还以为是kiddo！
+
+﻿[21:00:01]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+﻿[21:00:06]
+[Myh1TA] 4n0n4me_
+哪个是他发的emote啊
+
+﻿[21:00:20]
+[Myh1TA] 4n0n4me_
+（
+
+﻿[21:00:23]
+[Myh1TA] 4n0n4me_
+好机会，这么长都是emote
+
+﻿[21:00:31]
+[Myh1TA] 4n0n4me_
+好家伙
+
+﻿[21:00:35]
+[bw7Gkq] Mr_Zhang
+哈哈哈哈哈哈哈
+
+﻿[21:01:02]
+[bw7Gkq] Mr_Zhang
+老套路了
+
+﻿[21:01:29]
+[CaData] Data
+4n0n4me_ welcome！
+
+﻿[21:01:30]
+[bw7Gkq] ZhangChan
+hello yo 4n0n4me_
+
+﻿[21:01:30]
+[AAfFKK] AfK_Bot
+AwA!!!
+
+﻿[21:01:48]
+[CaData] Data
+4n0n4me_ welcome！
+
+﻿[21:01:49]
+[bw7Gkq] ZhangChan
+hi, 4n0n4me_~
+
+﻿[21:01:49]
+[/9Br2y] 4n0n4me_
+sorry重进一下
+
+﻿[21:01:54]
+[bw7Gkq] Mr_Zhang
+az
+
+﻿[21:02:17]
+[CaData] Data
+mussu welcome！
+
+﻿[21:02:18]
+[bw7Gkq] ZhangChan
+hello yo mussu
+
+﻿[21:05:04]
+[CaData] Data
+mike welcome！
+
+﻿[21:05:04]
+[bw7Gkq] ZhangChan
+welcome yo mike
+
+﻿[21:05:05]
+[bw7Gkq] Mr_Zhang
+@4n0n4me_ 讲个笑话：我怎么找不到4n0n4me？？？
+
+﻿[21:06:22]
+[/9Br2y] 4n0n4me_
+404 not found
+
+﻿[21:07:59]
+[bw7Gkq] Mr_Zhang
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+﻿[21:08:07]
+[a/Jz/a] abat
+ppo\
+
+﻿[21:08:51]
+[a/Jz/a] abat
+jjjhhhhhhhhhhhhh
+
+﻿[21:08:55]
+[bw7Gkq] Mr_Zhang
+。。。
+
+﻿[21:10:22]
+[CaData] Data
+Me_not_yu welcome！
+
+﻿[21:10:23]
+[bw7Gkq] ZhangChan
+hi yo Me_not_yu
+
+﻿[21:10:23]
+[None] Me_not_yu
+hello
+
+﻿[21:10:26]
+[None] Me_not_yu
+anyone here]
+
+﻿[21:10:31]
+[/9Br2y] 4n0n4me_
+me
+
+﻿[21:11:07]
+[bw7Gkq] Mr_Zhang
+长信息预警
+
+﻿[21:11:21]
+[bw7Gkq] Mr_Zhang
+long message
+
+﻿[21:11:24]
+[bw7Gkq] Mr_Zhang
+大鹏蛋
+By.4n0n4me
+·
+高阶异兽材料
+100000魔晶一个
+一个魔晶，就可以买下一个多元世界!
+在场的强者无不震惊
+竟然是大鹏蛋！天阶宝物！
+竟然出世了
+一位星空境强者当场失态
+站起来说道：
+200000魔晶！
+四座皆惊！
+这位星空境强者，竟然一上来，就翻倍拍卖！
+另一位星空境强者站了起来：
+有了大鹏蛋——
+我一定能殴打刷屏狗！
+“所以，我出250000魔晶！”
+“300000！”
+“400000！”
+“1枚创世积分！”
+突然，角落里的一个不起眼的黑袍人说出了这句话。
+“创世积分！”
+许多人面面相觑。
+只有最强的几位星空境巅峰强者
+露出了不敢置信的神情
+是创世积分！
+那可是创世协会的积分！
+创世协会，已经6亿年没有来到过这个大世界了。
+一枚积分，足以买下一个无限维度大系！
+李桂鱼不屑地笑了笑。
+“一条丧家之犬”
+“捡到一张创世卡”
+“就以为可以为所欲为了吗？“
+“一枚序数之源！”
+这一次，没有人知道什么是序数之源。
+只有那个黑袍人大惊失色。
+突然，拍卖会的主办方冲到了台上！
+“先生，真的是序数之源吗？！”
+“如果您有序数之源，这大鹏蛋，就是你的了！”
+黑袍人突然怒吼！
+“为什么！为什么！”
+“你灭我门派！”
+“夺我魔晶！”
+“今天，我总算有一个得到大鹏蛋的机会……”
+“又遇到你！”
+主角只是微微一笑，对着拍卖会主办人说：
+“rnm！！！退钱！！！！”
+“我给你这枚序数之源，至于这个扰乱秩序的人……”
+主办方一个眼神
+就把黑袍人甩出了会场！
+同一时间，黑袍人最后的10个中世界基地
+也在一瞬之间毁灭！
+黑袍人的世界毁灭，他吐出一口鲜血，一瞬间苍老了十亿年！
+他发出撕心裂肺的喊叫
+但是没有用！
+主办方笑着收下了序数之源
+李桂鱼，也带着那大鹏蛋，回到了系统空间！
+·
+404是神！
+哪天他出书了我要买爆！
+——魔怔黑茶 A.D.2022.04.19
+·
+ohhhh！在我没有提到这个网址的情况下，真的有人自发给我搞了留言！这正是我期望的（
+——4n0n4me 2022/5/1
+·
+黑茶指的应该是我说的保全主义。也就是说，如何避免被自己的室友囸，以及如何避免被别人人肉。
+我曾经说就像何同学一样，我们可以创造出有用的工具，来保护我们自己。
+就像萌萌战队能够分析激波一样，在三千世界的急流中，我们也可以有立足之地。
+——4n0n4me 2022/5/1
+·
+原发布地址：
+https://note.ms/4n0n4me
+https://txtpad.cn/4n0n4me
+
+﻿[21:11:26]
+[CaData] Data
+Mr_ZhangData为您找到以下信息：年份：1869 月份：12 事件：美国华盛顿州的港口城市西雅图市建立
+
+﻿[21:11:27]
+[bw7Gkq] Mr_Zhang
+真怀念那时候啊
+
+﻿[21:11:32]
+[AAfFKK] _
+long msg
+
+﻿[21:12:08]
+[AAfFKK] _
+why not this(
+
+﻿[21:12:11]
+[AAfFKK] _
+大鹏蛋谷歌版
+谷 歌 生 草 后
+
+（大芬阿华）
+
+豪华宠物
+
+100,000 hp 水晶
+
+水晶魔法可以带你去很多国家！
+
+房间里的每个人都很惊讶。
+
+美丽的大丰！天地之宝！
+
+他出生
+
+明星们愤怒了
+
+他站起来说
+
+二十万魔晶！
+
+是的，太棒了
+
+这个美丽的星空点随着市场的诞生而扩大了一倍！
+
+另一颗暗星：
+
+关于丰
+
+演出现场一定要打狗！
+
+“所以我给你二十五万基督徒！
+
+“三十万！”
+
+“四十万！ »
+
+“考虑项目！”
+
+突然，一个便衣男子传来消息。
+
+“第一个！”
+
+很多人都在看。
+
+只是一座满天繁星的建筑
+
+可疑的
+
+右脚下车！
+
+这是一项非常重要的任务，必须完成。
+
+克里奥尔家族在地球上生活了 6 亿年。
+
+完整的水泵，为您的汽车带来一个普通的水泵！
+
+李贵雨笑了。
+
+“母狗”
+
+“买一张票”
+
+“你可以做你想做的？”
+
+“历史数字！”
+
+在这种情况下，没有人知道图像的基础。
+
+穿衬衫的人一头雾水。
+
+突然卖家来到平台！
+
+“先生，这就是故事的根据吗？！”
+
+“如果你是律师，这对你来说是件大事！”
+
+突然，一个人毁了警察！
+
+“为什么！”
+
+“你说完了我的名字！”
+
+“让基督成为我的力量！”
+
+“今天，我有机会买达芙妮……”
+
+“我们会再见面的！”
+
+老板笑着对秘书说。
+
+“这个答案的故事，我会告诉退休人员的……”
+
+拜访
+
+抓住一个打扮成警察的人！
+
+再次，孝仁是排名前 10 位的国家货币。
+
+立即摆脱它！
+
+黑暗的世界消失了，你的嘴已经流血了数千年！
+
+她经常哭
+
+但它不起作用！
+
+他对着编辑微笑，看到了问题的根源。
+
+李友友和达达朋从天堂回来了！
+
+﻿[21:12:13]
+[CaData] Data
+_Data为您找到以下信息：年份：1869 月份：12 事件：美国华盛顿州的港口城市西雅图市建立
+
+﻿[21:12:13]
+[bw7Gkq] Mr_Zhang
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+﻿[21:12:32]
+[None] Me_not_yu
+marcus?
+
+﻿[21:12:34]
+[None] Me_not_yu
+<img src=”(https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200)”>
+
+﻿[21:13:15]
+[/9Br2y] 4n0n4me_
+ahh
+
+﻿[21:14:04]
+[XlUVXN] Sprinkle
+啊
+
+﻿[21:15:42]
+[CaData] Data
+Aluminium13 welcome！
+
+﻿[21:15:43]
+[bw7Gkq] ZhangChan
+welcome yo Aluminium13
+
+﻿[21:15:43]
+[XlUVXN] Sprinkle
+啊
+
+﻿[21:16:11]
+[KK69OG] Aluminium13
+我来找ee说个事
+
+﻿[21:16:20]
+[KK69OG] Aluminium13
+很快就走
+
+﻿[21:16:26]
+[AAfFKK] _
+@ee 
+
+﻿[21:16:37]
+[CaData] Data
+Sprinkle welcome！
+
+﻿[21:16:38]
+[bw7Gkq] ZhangChan
+welcome yo Sprinkle
+
+﻿[21:16:43]
+[CaData] Data
+MoodySteamWaveIII welcome！
+
+﻿[21:16:43]
+[bw7Gkq] ZhangChan
+hi yo MoodySteamWaveIII
+
+﻿[21:16:47]
+[AAfFKK] _
+6
+
+﻿[21:16:50]
+[KK69OG] MoodySteamWaveIII
+？
+
+﻿[21:16:53]
+[AAfFKK] _
+@eeeeee 
+
+﻿[21:16:54]
+[AAfFKK] _
+-.-
+
+﻿[21:16:57]
+[bw7Gkq] Mr_Zhang
+。。。
+
+﻿[21:17:35]
+[bw7Gkq] Mr_Zhang
+¯\\\_(ツ)\_/¯
+
+﻿[21:17:36]
+[bw7Gkq] Mr_Zhang
+当xc炸了后
+By.4n0n4me
+·
+其一
+三十人室声骤停，五百言堂论飘零。
+早知主机崩溃事，谁令傀儡刷屏行。
+·
+其二
+黑幕之上突无语，茶洒案端惊不连。
+是时即叹学子隐，一言难传站长塾。
+伞行千里难挡雨，兵蒙万尘无路寻。
+只得等其放学后，张卷重开聊天群。
+
+﻿[21:19:15]
+[bw7Gkq] Mr_Zhang
+emmmm
+
+﻿[21:19:17]
+[bw7Gkq] Mr_Zhang
+哎
+
+﻿[21:19:26]
+[KK69OG] MoodySteamWaveIII
+6
+
+﻿[21:19:31]
+[bw7Gkq] Mr_Zhang
+真怀念当时的时代啊
+
+﻿[21:19:34]
+[bw7Gkq] Mr_Zhang
+想当年我们万众一心
+
+﻿[21:19:43]
+[bw7Gkq] Mr_Zhang
+如今却分崩离析
+
+﻿[21:20:11]
+[AAfFKK] _
+yet DT
+
+﻿[21:20:22]
+[AAfFKK] _
+¯\\\_(ツ)\_/¯
+
+﻿[21:20:24]
+[AAfFKK] _
+w s
+
+﻿[21:20:27]
+[bw7Gkq] Mr_Zhang
+我的爸爸ee
+By.Light
+·
+我的爸爸ee是一个摄像师，他每天都带着两个摄像机去工作。
+有一天，我被带到爸爸工作的地方玩耍，没想到几个漂亮阿姨围住了我。然后我成为了人生赢家。
+
+﻿[21:20:43]
+[bw7Gkq] Mr_Zhang
+噗哈哈哈哈哈哈哈哈哈哈哈哈？
+
+﻿[21:20:48]
+[bw7Gkq] Mr_Zhang
+so what?
+
+﻿[21:20:51]
+[bw7Gkq] Mr_Zhang
+话说我写了个fastcmd标准
+
+﻿[21:21:43]
+[bw7Gkq] Mr_Zhang
+就是快速执行cmd
+
+﻿[21:21:49]
+[bw7Gkq] Mr_Zhang
+HC的
+
+﻿[21:21:51]
+[bw7Gkq] Mr_Zhang
+把fastcmd.js丢到服务器上
+
+﻿[21:22:02]
+[KK69OG] MoodySteamWaveIII
+？
+
+﻿[21:22:09]
+[bw7Gkq] Mr_Zhang
+然后修改相关模块的fastcmd对象
+
+﻿[21:22:11]
+[bw7Gkq] Mr_Zhang
+即可
+
+﻿[21:22:12]
+[bw7Gkq] Mr_Zhang
+哦对了，需要购买
+
+﻿[21:22:18]
+[bw7Gkq] Mr_Zhang
+关系热可白嫖
+
+﻿[21:22:30]
+[/9Br2y] 4n0n4me_
+啥意思啊（
+
+﻿[21:22:59]
+[/9Br2y] 4n0n4me_
+就是和XC一样的吗，用斜杠调用
+
+﻿[21:23:12]
+[bw7Gkq] Mr_Zhang
+对啊
+
+﻿[21:23:15]
+[bw7Gkq] Mr_Zhang
+不过不需要加上那么多的hook
+
+﻿[21:23:23]
+[bw7Gkq] Mr_Zhang
+所以不怎么占用CPU
+
+﻿[21:23:28]
+[bw7Gkq] Mr_Zhang
+擦
+
+﻿[21:23:31]
+[bw7Gkq] Mr_Zhang
+鬼知道ee收录了多少个聊天室
+
+﻿[21:23:37]
+[/9Br2y] 4n0n4me_
+我曾经想过在客户端添加类似的东西，只是我觉得HC没人用得着管理权限
+
+﻿[21:23:39]
+[bw7Gkq] Mr_Zhang
+qs
+
+﻿[21:24:47]
+[CaData] Data
+sa welcome！
+
+﻿[21:24:47]
+[bw7Gkq] ZhangChan
+welcome yo sa
+
+﻿[21:24:54]
+[None] sa
+hi
+
+﻿[21:24:56]
+[bw7Gkq] Mr_Zhang
+>当chan是一个很难的事情
+谁能接过初墨的接力棒
+来当一个chan呢
+
+﻿[21:25:16]
+[bw7Gkq] Mr_Zhang
+噗
+
+﻿[21:25:17]
+[bw7Gkq] Mr_Zhang
+这年代直接一个机器人
+
+﻿[21:25:25]
+[None] sa
+@eebot_eb044 what's your name 
+
+﻿[21:26:01]
+[None] sa
+@Mr_Zhang 额
+
+﻿[21:26:27]
+[bw7Gkq] Mr_Zhang
+长信息预警
+
+﻿[21:26:27]
+[/9Br2y] 4n0n4me_
+i wanna see eb novels too
+
+﻿[21:26:28]
+[/9Br2y] 4n0n4me_
+help
+
+﻿[21:26:32]
+[CaData] Data
+ **Data bot**
+
+您的身份组是 **用户**
+
+> @Data [msg]；颜值测试 [link]；王者；名人名言；English；md5lock [content]；密码生成 [number]；情感；afk；unafk；afklist；time；r；我喜欢你；笑话；热评；cos；舔狗；成语 [idioms]；动漫；天气 [city]；百科 [things]；ping [ip]；疫情数据 [city]；端口 [ip]
+
+以上是帮助览表，您可以输入**help [command]**来查看指令的详细用法，例如**help 颜值测试**。注意：如果包括有变量的指令查询无需输入变量，中括号里面的为变量名。New：试试输入wtnew
+
+﻿[21:26:32]
+[CaData] Data
+None
+
+﻿[21:26:33]
+[bw7Gkq] Mr_Zhang
+[chat.thz.cool] Tchat简介：
+关于我对hack.chat的管理不满意然后自己建了个hack.chat的那些事
+·
+因为我没时间，所以以下全部谷歌翻译！
+通过网址创建、加入和共享频道，通过更改问号后的文本创建您自己的频道。
+如果您希望您的频道名称为您的频道（your-channel）：[?your-channel](https://chat.thz.cool/?your-channel)
+没有频道列表，因此可以使用秘密频道名称进行私人讨论。
+以下是您可以加入的一些预制频道：
+墙裂推荐-> [?chinese](https://chat.thz.cool/?chinese) <-墙裂推荐
+·
+站长层：
+[Admin] Maggie
+·
+管理层：
+[3EAa17] Mr_Zhang
+[fO8dQY] ee
+[7nylHA] wine_CorpseEdge
+·
+机器人：
+[CED+Fr] Dogebot
+[reo7RR] eebot
+[7nylHA] wine_Corpse
+
+﻿[21:26:33]
+[bw7Gkq] Mr_Zhang
+啊
+
+﻿[21:26:34]
+[bw7Gkq] Mr_Zhang
+《关于我对hack.chat的管理不满意然后自己建了个hack.chat的那些事》
+
+﻿[21:26:40]
+[/9Br2y] 4n0n4me_
+-help
+
+﻿[21:26:50]
+[None] sa
+@4n0n4me_ 额
+
+﻿[21:26:59]
+[/9Br2y] 4n0n4me_
+帮助
+
+﻿[21:27:01]
+[bw7Gkq] Mr_Zhang
+假如我们能穿越到好几个月以前
+
+﻿[21:27:04]
+[/9Br2y] 4n0n4me_
+我之前一直想穿越
+
+﻿[21:27:14]
+[bw7Gkq] Mr_Zhang
+再次重温那时候该多好啊
+
+﻿[21:27:16]
+[/9Br2y] 4n0n4me_
+但是现在我不想了
+
+﻿[21:27:18]
+[bw7Gkq] Mr_Zhang
+阻止挖掘识别码
+
+﻿[21:27:23]
+[/9Br2y] 4n0n4me_
+在现在的时间线上，我提升了技术，还写了hc++
+
+﻿[21:27:30]
+[bw7Gkq] Mr_Zhang
+也就不会有今天的事情了
+
+﻿[21:27:31]
+[CaData] Data
+Mr_ZhangData为您找到以下信息：年份：1869 月份：12 事件：美国华盛顿州的港口城市西雅图市建立
+
+﻿[21:27:31]
+[/9Br2y] 4n0n4me_
+穿越了就没了
+
+﻿[21:27:33]
+[bw7Gkq] Mr_Zhang
+是啊
+
+﻿[21:27:35]
+[a/Jz/a] abat
+打怪升级才能改变结果
+
+﻿[21:27:58]
+[a/Jz/a] abat
+但是宇宙会消失（我瞎说的
+
+﻿[21:28:05]
+[/9Br2y] 4n0n4me_
+|help
+
+﻿[21:33:00]
+[CaData] Data
+unnat welcome！
+
+﻿[21:33:01]
+[bw7Gkq] ZhangChan
+hi yo unnat
+
+﻿[21:34:09]
+[CaData] Data
+gg welcome！
+
+﻿[21:34:10]
+[bw7Gkq] ZhangChan
+hi yo gg
+
+﻿[21:34:17]
+[CaData] Data
+unnat welcome！
+
+﻿[21:34:18]
+[bw7Gkq] ZhangChan
+hi yo unnat
+
+﻿[21:34:18]
+[None] unnat
+Hiii
+
+﻿[21:34:50]
+[CaData] Data
+gg welcome！
+
+﻿[21:34:50]
+[bw7Gkq] ZhangChan
+welcome yo gg
+
+﻿[21:34:50]
+[None] unnat
+Hii
+
+﻿[21:35:55]
+[bw7Gkq] Mr_Zhang
+好，我爸爸开始玩游戏了
+
+﻿[21:37:16]
+[bw7Gkq] Mr_Zhang
+现在我要启动路由器轰炸机
+
+﻿[21:37:32]
+[bw7Gkq] Mr_Zhang
+一会儿我可能会下线
+
+﻿[21:42:16]
+[CaData] Data
+Mr_Zhang welcome！
+
+﻿[21:42:17]
+[bw7Gkq] Mr_Zhang
+啊
+
+﻿[21:42:18]
+[bw7Gkq] Mr_Zhang
+路由器
+
+﻿[21:42:19]
+[bw7Gkq] Mr_Zhang
+你确实是有点NB
+
+﻿[21:42:25]
+[bw7Gkq] Mr_Zhang
+这都不崩
+
+﻿[21:49:59]
+[CaData] Data
+34333 welcome！
+
+﻿[21:50:00]
+[bw7Gkq] ZhangChan
+welcome yo 34333
+
+﻿[21:50:00]
+[CaData] Data
+4n0n4me__ welcome！
+
+﻿[21:50:01]
+[bw7Gkq] ZhangChan
+welcome yo 4n0n4me__
+
+﻿[21:50:01]
+[None] 34333
+1111
+
+﻿[21:53:23]
+[CaData] Data
+123456 welcome！
+
+﻿[21:53:23]
+[bw7Gkq] ZhangChan
+hello yo 123456
+
+﻿[21:58:37]
+[CaData] Data
+help welcome！
+
+﻿[21:58:37]
+[bw7Gkq] ZhangChan
+hello yo help
+
+﻿[21:58:37]
+[/9Br2y] 4n0n4me__
+ohhh
+
+﻿[21:58:50]
+[/9Br2y] 4n0n4me__
+https://github.com/hack-chat/main/pull/185
+
+﻿[21:58:50]
+[/9Br2y] 4n0n4me__
+my pr merged
+
+﻿[21:58:53]
+[None] help
+plz help me recover my gmail plz
+
+﻿[21:58:54]
+[None] help
+:(
+
+﻿[21:59:02]
+[CaData] Data
+Maggie_ welcome！
+
+﻿[21:59:02]
+[bw7Gkq] ZhangChan
+hey yo Maggie_
+
+﻿[21:59:02]
+[/9Br2y] 4n0n4me__
+sorry i am not able to do that@help 
+
+﻿[21:59:13]
+[2ZQ3+0] Maggie_
+刚刚我陪我表弟去看熊出没了（
+
+﻿[21:59:17]
+[None] help
+owww :(
+
+﻿[21:59:25]
+[None] help
+thank you sir
+
+﻿[21:59:36]
+[2ZQ3+0] Maggie_
+:!afk
+
+﻿[21:59:39]
+[CaData] Data
+ Maggie_ 挂机成功！
+
+﻿[21:59:40]
+[AAfFKK] AfK_Bot
+ @Maggie_ You are marked AfK.
+
+﻿[21:59:40]
+[/9Br2y] 4n0n4me__
+i found my pr merged
+
+﻿[21:59:44]
+[/9Br2y] 4n0n4me__
+https://github.com/hack-chat/main/pull/185
+
+﻿[22:00:01]
+[AAfFKK] AfK_Bot
+2022-12-02 22:00:00
+![](https://i.gyazo.com/37e4e75890ac0ad2b60e036f951413cc.jpg)
+### GS Cloud Pages上线，2核2G性能共享，允许低负载Python后端、PHP后端和Node.JS后端，无root权限（后期上线，前期可申请），开放一个站点和CNAME用域名（也可直接使用）。首月免费，后期收费3元/月，关系熟可白嫖  -by zzChumo
+
+﻿[22:00:01]
+[None] help
+is that a legit tool?
+
+﻿[22:00:09]
+[CaData] Data
+eee welcome！
+
+﻿[22:00:09]
+[bw7Gkq] ZhangChan
+welcome yo eee
+
+﻿[22:00:10]
+[/9Br2y] 4n0n4me__
+hi
+
+﻿[22:00:19]
+[2ZQ3+0] Maggie_
+我不看啦
+
+﻿[22:00:28]
+[2ZQ3+0] Maggie_
+（
+
+﻿[22:00:28]
+[AAfFKK] AfK_Bot
+ @Maggie_ Welcome back.
+
+﻿[22:00:28]
+[/9Br2y] 4n0n4me__
+>help：
+>is that a legit tool?
+
+@help emm try gmail official means?
+
+﻿[22:00:37]
+[2ZQ3+0] Maggie_
+话说图床你加了吗
+
+﻿[22:00:40]
+[/9Br2y] 4n0n4me__
+like password recovery
+
+﻿[22:00:42]
+[/9Br2y] 4n0n4me__
+@Maggie_ 加了
+
+﻿[22:00:49]
+[None] help
+:(
+
+﻿[22:00:51]
+[eYFDHl] eee
+uw
+
+﻿[22:01:00]
+[CaData] Data
+Maggie_ welcome！
+
+﻿[22:01:00]
+[bw7Gkq] ZhangChan
+hi, Maggie_~
+
+﻿[22:01:02]
+[CaData] Data
+123456 welcome！
+
+﻿[22:01:02]
+[bw7Gkq] ZhangChan
+hi, 123456~
+
+﻿[22:01:02]
+[/9Br2y] 4n0n4me__
+my pr to hc has been merged
+
+﻿[22:01:05]
+[/9Br2y] 4n0n4me__
+but not available in https://hack.chat 
+
+﻿[22:01:16]
+[/9Br2y] 4n0n4me__
+why?
+
+﻿[22:01:18]
+[None] help
+i just change my phone but i forgot my password
+
+﻿[22:01:18]
+[2ZQ3+0] Maggie_
+我下次给dogeapi加个上传文件
+
+﻿[22:01:23]
+[/9Br2y] 4n0n4me__
+maybe server need time to update
+
+﻿[22:01:26]
+[2ZQ3+0] Maggie_
+单IP每日限制10M图片
+
+﻿[22:01:32]
+[/9Br2y] 4n0n4me__
+>help：
+>i just change my phone but i forgot my password
+
+@help have you saved password in browser?
+
+﻿[22:01:40]
+[2ZQ3+0] Maggie_
+并且必须通过reCAPTCHA
+
+﻿[22:01:49]
+[None] help
+nope sir.. .
+
+﻿[22:02:03]
+[2ZQ3+0] Maggie_
+然后给你个接口（
+
+﻿[22:02:04]
+[2ZQ3+0] Maggie_
+你可以用xhr来
+
+﻿[22:02:10]
+[2ZQ3+0] Maggie_
+最好异步
+
+﻿[22:02:13]
+[2ZQ3+0] Maggie_
+因为服务器速度慢，堵塞影响体验
+
+﻿[22:02:28]
+[/9Br2y] 4n0n4me__
+嗯
+
+﻿[22:02:35]
+[/9Br2y] 4n0n4me__
+thxxx
+
+﻿[22:02:38]
+[AAfFKK] _
+@eee 
+
+﻿[22:02:44]
+[AAfFKK] _
+KK69OG Aluminium13
+我来找ee说个事
+
+KK69OG Aluminium13
+很快就走
+
+﻿[22:02:50]
+[bw7Gkq] Mr_Zhang
+。。。
+
+﻿[22:02:54]
+[eYFDHl] eee
+:!lookup nick Joeson
+
+﻿[22:03:00]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ====: []
+==Trips== for hash ====: []
+
+﻿[22:03:00]
+[eYFDHl] eee
+em
+
+﻿[22:03:11]
+[bw7Gkq] Mr_Zhang
+害，我直接请求云服务
+
+﻿[22:03:11]
+[bw7Gkq] Mr_Zhang
+不需要修改客户端
+
+﻿[22:03:15]
+[2ZQ3+0] Maggie_
+https://thz.cool/lookup/lookup?nick=Aluminium13
+
+﻿[22:03:15]
+[bw7Gkq] Mr_Zhang
+so easy
+
+﻿[22:03:20]
+[/9Br2y] 4n0n4me__
+@help https://support.google.com/accounts/answer/7299973?hl=en&ref_topic=3382255
+
+﻿[22:03:24]
+[bw7Gkq] Mr_Zhang
+ZhangSoftOnlineService
+
+﻿[22:03:26]
+[/9Br2y] 4n0n4me__
+can this help?
+
+﻿[22:03:29]
+[2ZQ3+0] Maggie_
+@4n0n4me__ i have a idea
+
+﻿[22:03:30]
+[None] help
+angelicatamz@gmail.com ....anyone can help recover this :(
+
+﻿[22:03:34]
+[2ZQ3+0] Maggie_
+我们也这样做
+
+﻿[22:03:35]
+[2ZQ3+0] Maggie_
+写个Loader.js
+
+﻿[22:03:38]
+[bw7Gkq] Mr_Zhang
+好家伙
+
+﻿[22:03:38]
+[bw7Gkq] Mr_Zhang
+铝
+
+﻿[22:03:44]
+[2ZQ3+0] Maggie_
+自动下载最新的client.js
+
+﻿[22:03:45]
+[bw7Gkq] Mr_Zhang
+！
+
+﻿[22:03:50]
+[bw7Gkq] Mr_Zhang
+NB
+
+﻿[22:03:52]
+[2ZQ3+0] Maggie_
+然后eval运行
+
+﻿[22:03:53]
+[bw7Gkq] Mr_Zhang
+nb呀！
+
+﻿[22:03:58]
+[2ZQ3+0] Maggie_
+@4n0n4me__ 这个技术难度不高，能否实现
+
+﻿[22:04:07]
+[/9Br2y] 4n0n4me__
+emm
+
+﻿[22:04:35]
+[/9Br2y] 4n0n4me__
+我不是很喜欢这种方法啊（
+
+﻿[22:04:40]
+[2ZQ3+0] Maggie_
+为何（
+
+﻿[22:04:48]
+[bw7Gkq] Mr_Zhang
+>2019年暑假：团队成立，以编写bat脚本为中心；
+
+2021年暑假：团队放弃bat编写脚本，改用Visual Basic 6.0 编程；
+
+2021年暑假末：小张计时器上线；
+
+﻿[22:04:57]
+[bw7Gkq] Mr_Zhang
+awa
+
+﻿[22:04:58]
+[/9Br2y] 4n0n4me__
+@help https://support.google.com/accounts/answer/1187538?hl=en&co=GENIE.Platform%3DAndroid&oco=0
+
+﻿[22:05:16]
+[/9Br2y] 4n0n4me__
+this?
+
+﻿[22:05:18]
+[2ZQ3+0] Maggie_
+@_ https://thz.cool/lookup/static/image_c.png
+
+﻿[22:05:19]
+[/9Br2y] 4n0n4me__
+因为，一个网页应该要稳定啊（
+
+﻿[22:05:29]
+[2ZQ3+0] Maggie_
+@4n0n4me__ 我觉得我们可以采用这种办法
+
+﻿[22:05:34]
+[AAfFKK] _
+obo
+
+﻿[22:05:48]
+[bw7Gkq] Mr_Zhang
+等下
+
+﻿[22:05:52]
+[/9Br2y] 4n0n4me__
+万一被篡改咋办（）
+
+﻿[22:06:01]
+[bw7Gkq] Mr_Zhang
+~~话说我是什么时候开始学习nodejs的~~
+
+﻿[22:06:04]
+[None] help
+thanks guys :(
+
+﻿[22:06:48]
+[CaData] Data
+Sprinkle welcome！
+
+﻿[22:06:48]
+[bw7Gkq] ZhangChan
+hi, Sprinkle~
+
+﻿[22:06:49]
+[2ZQ3+0] Maggie_
+优先使用缓存中的client.js(localstorage的限制为5MB.足够)，如果脚本内的ver变量不同，那就从服务器下载最新的client.js,下次打开页面时使用
+
+﻿[22:06:55]
+[/9Br2y] 4n0n4me__
+这样的好处是什么呢（
+
+﻿[22:07:12]
+[2ZQ3+0] Maggie_
+可以避免页面缓存导致用户无法体验到最新功能
+
+﻿[22:07:13]
+[AAfFKK] _
+hinkle
+
+﻿[22:07:19]
+[/9Br2y] 4n0n4me__
+有道理……
+
+﻿[22:07:21]
+[hVjcT5] mouse
+awa
+
+﻿[22:07:22]
+[sSv1j2] Sprinkle
+啊
+
+﻿[22:07:25]
+[sSv1j2] Sprinkle
+换码了
+
+﻿[22:07:30]
+[hVjcT5] mouse
+我？
+
+﻿[22:07:43]
+[sSv1j2] Sprinkle
+我
+
+﻿[22:07:46]
+[hVjcT5] mouse
+哦抱歉
+
+﻿[22:07:52]
+[sSv1j2] Sprinkle
+我觉得我这个挺不错的
+
+﻿[22:07:59]
+[a/Jz/a] abat
+？
+
+﻿[22:08:23]
+[2ZQ3+0] Maggie_
+为了防止服务器崩溃原因，可以增加多个源，通过xhr获得延迟最低的那个下载
+
+﻿[22:08:26]
+[2ZQ3+0] Maggie_
+@4n0n4me__ 
+
+﻿[22:08:29]
+[a/Jz/a] abat
+听不懂力
+
+﻿[22:08:30]
+[2ZQ3+0] Maggie_
+翻译：@未定义符号: @ _让@R黄油饼干!
+
+﻿[22:09:27]
+[AAfFKK] _
+6
+
+﻿[22:09:44]
+[/9Br2y] 4n0n4me__
+index.html也有缓存的话，这个不能解决全部问题
+
+﻿[22:09:51]
+[AAfFKK] _
+hACkeR *
+@UndefinedSymbol : @_ gives @R a butter cookie!
+
+﻿[22:09:54]
+[a/Jz/a] abat
+快帮我做casio计算机吧
+
+﻿[22:10:04]
+[2ZQ3+0] Maggie_
+@4n0n4me__ 可以下载最新的index.js并且document.write
+
+﻿[22:10:52]
+[a/Jz/a] abat
+我今天做的时候还有几个小插曲
+
+﻿[22:10:52]
+[CaData] Data
+abatData为您找到以下信息：年份：1869 月份：12 事件：美国华盛顿州的港口城市西雅图市建立
+
+﻿[22:10:53]
+[a/Jz/a] abat
+直接电脑死机了
+
+﻿[22:10:59]
+[a/Jz/a] abat
+我本来有个方案是直接操作内存的
+
+﻿[22:11:14]
+[a/Jz/a] abat
+.
+
+﻿[22:11:18]
+[/9Br2y] 4n0n4me__
+其实我觉得这个不错，但是不希望hc++采用这个方案……
+
+﻿[22:11:23]
+[/9Br2y] 4n0n4me__
+算了，做就做吧（
+
+﻿[22:11:36]
+[2ZQ3+0] Maggie_
+啊没事我这只是一个小菜鸡的理论（
+
+﻿[22:11:40]
+[2ZQ3+0] Maggie_
+我觉得eval执行也确实不够优雅（
+
+﻿[22:11:48]
+[2ZQ3+0] Maggie_
+主要是 不够安全（
+
+﻿[22:11:57]
+[2ZQ3+0] Maggie_
+万一其中一个源被篡改...
+
+﻿[22:12:07]
+[/9Br2y] 4n0n4me__
+我其实是觉得，一个页面的内容应该正常得储存，这样符合互联网开放的精神（
+
+﻿[22:12:10]
+[2ZQ3+0] Maggie_
+是的
+
+﻿[22:12:16]
+[/9Br2y] 4n0n4me__
+我觉得实际上不太可能篡改，只是这种方式，感觉和鱼鱼加密client差不多，属于必要性不是很大的操作，却把这个东西和云服务绑定了
+
+﻿[22:13:06]
+[2ZQ3+0] Maggie_
+只是我脑袋随意的思考罢了（不用太在意（
+
+﻿[22:13:34]
+[/9Br2y] 4n0n4me__
+（我觉得其实还是挺好的，可以把原版文件也放着，想要摆脱云服务只需要修改client，把loader改成client
+
+﻿[22:14:13]
+[/9Br2y] 4n0n4me__
+（我觉得其实还是挺好的，可以把原版文件也放着，想要摆脱云服务只需要修改index.html，把loader改成client
+
+﻿[22:14:23]
+[2ZQ3+0] Maggie_
+其实可以在Loader.js里console.log给开发者原client.js的地址
+
+﻿[22:14:54]
+[CaData] Data
+secret welcome！
+
+﻿[22:14:54]
+[AAfFKK] _
+hi
+
+﻿[22:15:11]
+[/9Br2y] 4n0n4me__
+嗯
+
+﻿[22:15:17]
+[None] secret
+发生了什么
+
+﻿[22:15:56]
+[None] secret
+我怎么在这里
+
+﻿[22:16:01]
+[None] secret
+我是谁
+
+﻿[22:16:04]
+[AAfFKK] _
+@secret awa
+
+﻿[22:16:15]
+[2ZQ3+0] Maggie_
+或者在侧边栏加一个checkbox:Download latest client.js from the server
+
+﻿[22:16:33]
+[2ZQ3+0] Maggie_
+勾选的话就启用loader.js
+
+﻿[22:16:42]
+[bw7Gkq] Mr_Zhang
+>2019年暑假：团队成立，以编写bat脚本为中心；
+>
+>2021年暑假：团队放弃bat编写脚本，改用Visual Basic 6.0 编程；
+>
+>2022年4月：加入HackChat，学习Python；
+>
+>2022年7月：参与XChat开发，学习Node.JS；
+
+﻿[22:16:43]
+[bw7Gkq] Mr_Zhang
+lold
+
+﻿[22:16:46]
+[sSv1j2] Sprinkle
+啊
+
+﻿[22:16:55]
+[2ZQ3+0] Maggie_
+不勾选就直接请求当前目录内的client.js
+
+﻿[22:17:02]
+[/9Br2y] 4n0n4me__
+嗯
+
+﻿[22:17:10]
+[/9Br2y] 4n0n4me__
+其实我觉得这个也可以
+
+﻿[22:17:27]
+[/9Br2y] 4n0n4me__
+js、css加上版本号
+当请求js、css的时候，给他们最后加上版本号，浏览器发现版本高了，就自然而然不会读取低版本的缓存了 版本号并不需要改变文件名，只需要在调用js、css的时候在最末尾加上?v=1.0即可，比如
+
+custom.css?v=1.0
+main.js?v=2.0、
+
+﻿[22:17:28]
+[2ZQ3+0] Maggie_
+wc,我们似乎在创建一个包管理系统（
+
+﻿[22:17:46]
+[sSv1j2] Sprinkle
+https://bbs.spr233.eu.org/ 打个广告，没人介意吧（
+
+﻿[22:17:48]
+[/9Br2y] 4n0n4me__
+6
+
+﻿[22:17:49]
+[/9Br2y] 4n0n4me__
+>2ZQ3+0 Maggie_：
+>wc,我们似乎在创建一个包管理系统（
+
+@Maggie_ 真的吗，这么nb
+
+﻿[22:17:59]
+[sSv1j2] Sprinkle
+@4n0n4me__ 你解封了
+
+﻿[22:18:08]
+[sSv1j2] Sprinkle
+不知道你知不知道（
+
+﻿[22:18:16]
+[/9Br2y] 4n0n4me__
+我看见了（
+
+﻿[22:18:20]
+[2ZQ3+0] Maggie_
+@4n0n4me__ 对欸
+
+﻿[22:18:21]
+[sSv1j2] Sprinkle
+啊
+
+﻿[22:18:24]
+[2ZQ3+0] Maggie_
+参数不同不会缓存
+
+﻿[22:18:26]
+[2ZQ3+0] Maggie_
+这样只需要一个xhr,获得最新版本
+
+﻿[22:18:34]
+[sSv1j2] Sprinkle
+话说你们在开发什么
+
+﻿[22:19:08]
+[2ZQ3+0] Maggie_
+hcer的新脚本加载系统
+
+﻿[22:19:20]
+[2ZQ3+0] Maggie_
+aka hc++
+
+﻿[22:19:25]
+[sSv1j2] Sprinkle
+hcer.netify.app
+
+﻿[22:19:48]
+[sSv1j2] Sprinkle
+是这个？
+
+﻿[22:19:51]
+[2ZQ3+0] Maggie_
+hc.thz.cool
+
+﻿[22:19:54]
+[2ZQ3+0] Maggie_
+(((
+
+﻿[22:19:55]
+[2ZQ3+0] Maggie_
+same
+
+﻿[22:19:55]
+[sSv1j2] Sprinkle
+em
+
+﻿[22:19:59]
+[/9Br2y] 4n0n4me__
+>2ZQ3+0 Maggie_：
+>这样只需要一个xhr,获得最新版本
+
+@Maggie_ 怎么说（
+
+﻿[22:20:04]
+[2ZQ3+0] Maggie_
+我画个流程图吧，稍等
+
+﻿[22:20:15]
+[/9Br2y] 4n0n4me__
+~~我本来想的是更新的时候手动更改参数~~
+
+﻿[22:20:19]
+[/9Br2y] 4n0n4me__
+~~知乎上说html一般不会读取缓存~~
+
+﻿[22:20:31]
+[/9Br2y] 4n0n4me__
+所以只要html里面的版本号改了，就会更新脚本
+
+﻿[22:20:46]
+[sSv1j2] Sprinkle
+说了这么多，就不能把主页的聊天室链接改一改吗？！？！？！？！
+
+﻿[22:20:57]
+[sSv1j2] Sprinkle
+（
+
+﻿[22:21:01]
+[sSv1j2] Sprinkle
+自动跳转到hc域名很烦内
+
+﻿[22:21:24]
+[sSv1j2] Sprinkle
+（
+
+﻿[22:21:25]
+[2ZQ3+0] Maggie_
+客户端载入loader->loader发送xhr至服务器，获得最新版本(xhr没有缓存)->往document append一个script元素，这就是加上版本的client.js
+
+﻿[22:21:26]
+[sSv1j2] Sprinkle
+还有一个问题
+
+﻿[22:21:39]
+[sSv1j2] Sprinkle
+按钮没加css
+
+﻿[22:21:45]
+[sSv1j2] Sprinkle
+很符合xc的作风
+
+﻿[22:21:58]
+[/9Br2y] 4n0n4me__
+啊？
+
+﻿[22:22:03]
+[/9Br2y] 4n0n4me__
+啥啊
+
+﻿[22:22:06]
+[2ZQ3+0] Maggie_
+>/9Br2y 4n0n4me__：
+>~~知乎上说html一般不会读取缓存~~
+
+@4n0n4me__ 会的，有时候需要Ctrl+SHift+R(硬重载)才能获得最新内容
+
+﻿[22:22:11]
+[2ZQ3+0] Maggie_
+@Sprinkle hc官方客户端就是这样的
+
+﻿[22:22:25]
+[/9Br2y] 4n0n4me__
+>sSv1j2 Sprinkle：
+>按钮没加css
+
+@Sprinkle 我edge看这些按钮挺好看的（
+
+﻿[22:22:27]
+[2ZQ3+0] Maggie_
+原生按钮，无css(
+
+﻿[22:22:36]
+[/9Br2y] 4n0n4me__
+>sSv1j2 Sprinkle：
+>自动跳转到hc域名很烦内
+
+@Sprinkle 就一个hc链接（
+
+﻿[22:22:44]
+[/9Br2y] 4n0n4me__
+emm，我觉得有道理，我asap改下
+
+﻿[22:23:02]
+[sSv1j2] Sprinkle
+很烦内
+
+﻿[22:23:07]
+[sSv1j2] Sprinkle
+真的（
+
+﻿[22:23:10]
+[sSv1j2] Sprinkle
+至少我接受不了（
+
+﻿[22:23:20]
+[sSv1j2] Sprinkle
+我edge看这些按钮挺好看的（
+
+﻿[22:23:39]
+[2ZQ3+0] Maggie_
+>Maggie 2ZQ3+0 2022/12/2/11 11:39:43
+我有个想法
+
+>Maggie 2ZQ3+0 2022/12/2/11 11:40:22
+我们用现代的方式(python-flask,SQL database)搭建一个老式论坛
+
+我提起了好几遍了，我真的很想和大家一起做这个（
+
+﻿[22:23:48]
+[sSv1j2] Sprinkle
+原生js按钮就是不好看（
+
+﻿[22:23:56]
+[sSv1j2] Sprinkle
+@Maggie_ 抢我饭碗
+
+﻿[22:24:02]
+[sSv1j2] Sprinkle
+谢谢你（
+
+﻿[22:24:08]
+[2ZQ3+0] Maggie_
+h
+
+﻿[22:24:09]
+[sSv1j2] Sprinkle
+bbs.spr233.eu.org
+
+﻿[22:24:30]
+[sSv1j2] Sprinkle
+谢谢你（
+
+﻿[22:24:39]
+[sSv1j2] Sprinkle
+这次是不关服都不行了
+
+﻿[22:24:53]
+[sSv1j2] Sprinkle
+（
+
+﻿[22:25:10]
+[a/Jz/a] abat
+```python
+command = "11->C:C+1->A"
+
+A = B = C = D = E = F = x = y = 0
+command = [c.strip() for c in command.split(":")]
+max_iter = 100000
+com_command = []
+is_syntax = 0
+for c in command:
+    for i,s in enumerate(c[0:-2:1]):
+        # If `->` appears twice,mean syntax error
+        if s == "-" and c[i+1] == ">":
+            is_syntax += 1
+            if is_syntax == 2:
+                raise "Syntax Error."
+            com_command.append((c[:i],c[i+2:]))
+    is_syntax = 0 
+for val,var in com_command:
+	vars()[var] = eval(val)
+for i in "ABCDEFxy":
+	print(f"{i} {vars()[i]}")
+```
+@4n0n4me__ 做好第一个版本了
+
+﻿[22:25:16]
+[a/Jz/a] abat
+但是什么用都没有
+
+﻿[22:25:23]
+[2ZQ3+0] Maggie_
+这玩意好像brainfuck
+
+﻿[22:25:33]
+[/9Br2y] 4n0n4me__
+唉，我马上要去洗澡了）
+
+﻿[22:25:34]
+[/9Br2y] 4n0n4me__
+>2ZQ3+0 Maggie_：
+>这玩意好像brainfuck
+
+@Maggie_ 你太抬举卡西欧了，卡西欧做个图灵机难于登天（
+
+﻿[22:25:51]
+[2ZQ3+0] Maggie_
+我要用py写个brainfuck解释器！
+
+﻿[22:25:52]
+[2ZQ3+0] Maggie_
+字符
+含义
+>
+指针加一
+<
+指针减一
++
+指针指向的字节的值加一
+-
+指针指向的字节的值减一
+.
+输出指针指向的单元内容（ASCⅡ码）
+,
+输入内容到指针指向的单元（ASCⅡ码）
+[
+如果指针指向的单元值为零，向后跳转到对应的]指令的次一指令处
+]
+如果指针指向的单元值不为零，向前跳转到对应的[指令的次一指令处
+
+﻿[22:26:29]
+[2ZQ3+0] Maggie_
+这个很简单
+
+﻿[22:26:33]
+[2ZQ3+0] Maggie_
+开始吧！
+
+﻿[22:27:32]
+[sSv1j2] Sprinkle
+我之前写过一个编程语言
+
+﻿[22:27:53]
+[sSv1j2] Sprinkle
+四则运算+print
+
+﻿[22:28:01]
+[a/Jz/a] abat
+！
+
+﻿[22:28:10]
+[sSv1j2] Sprinkle
+真正的编程语言框架
+
+﻿[22:28:24]
+[sSv1j2] Sprinkle
+可惜网上没啥资料了，写不下去了
+
+﻿[22:29:05]
+[sSv1j2] Sprinkle
+(இдஇ; )
+
+﻿[22:29:11]
+[2ZQ3+0] Maggie_
+brainfuck很简单，我写出这个框架后要做的就是优化
+
+﻿[22:29:29]
+[sSv1j2] Sprinkle
+Python真不适合编程语言
+
+﻿[22:29:32]
+[bw7Gkq] Mr_Zhang
+。。。
+
+﻿[22:29:36]
+[a/Jz/a] abat
+```python
+def casio_pro():
+    command = "11->C:C+1->A"
+
+    A = B = C = D = E = F = x = y = 0
+    command = [c.strip() for c in command.split(":")]
+    max_iter = 100000
+    com_command = []
+    is_syntax = 0
+    for c in command:
+        for i,s in enumerate(c[0:-2:1]):
+            # If `->` appears twice,mean syntax error
+            if s == "-" and c[i+1] == ">":
+                is_syntax += 1
+                if is_syntax == 2:
+                    raise "Syntax Error."
+                com_command.append((c[:i],c[i+2:]))
+        is_syntax = 0 
+    for val,var in com_command:
+    	vars()[var] = eval(val)
+    for i in "ABCDEFxy":
+    	print(f"{i} {vars()[i]}")
+
+casio_pro()
+
+﻿[22:29:39]
+[a/Jz/a] abat
+刚刚的换成这样就没用了
+
+﻿[22:29:46]
+[a/Jz/a] abat
+.
+
+﻿[22:29:51]
+[a/Jz/a] abat
+如果把一开始的vars() copy一份，下面的eval中如果包含字母
+
+﻿[22:30:45]
+[a/Jz/a] abat
+就没法知道它的值了
+
+﻿[22:30:50]
+[sSv1j2] Sprinkle
+@Maggie_ 话说，搭建论坛我觉得flarum系统最好
+
+﻿[22:31:14]
+[sSv1j2] Sprinkle
+我那个就是flarum
+
+﻿[22:31:26]
+[2ZQ3+0] Maggie_
+我只是无聊，想自己写一个论坛系统
+
+﻿[22:31:30]
+[2ZQ3+0] Maggie_
+不是为了部署
+
+﻿[22:31:33]
+[sSv1j2] Sprinkle
+(´-ω-`)
+
+﻿[22:31:40]
+[sSv1j2] Sprinkle
+我觉得这个项目可能比hc都大
+
+﻿[22:32:03]
+[sSv1j2] Sprinkle
+(´-ω-`)
+
+﻿[22:32:06]
+[sSv1j2] Sprinkle
+不是可能，是就是（
+
+﻿[22:32:16]
+[bw7Gkq] Mr_Zhang
+:!lookup nick ModBot
+
+﻿[22:32:33]
+[AAfFKK] AfK_Bot
+==Aliases== for hash ====: []
+==Trips== for hash ====: []
+
+﻿[22:32:33]
+[sSv1j2] Sprinkle
+要是我就用现成的（
+
+﻿[22:33:38]
+[sSv1j2] Sprinkle
+主要是配置还需要化不少时间（
+
+﻿[22:34:05]
+[sSv1j2] Sprinkle
+而且我现在不用Python建站了，现在全是node
+
+﻿[22:34:31]
+[sSv1j2] Sprinkle
+能用node绝不会用py(இдஇ; )
+
+﻿[22:38:13]
+[CaData] Data
+ji11 welcome！
+
+﻿[22:38:13]
+[bw7Gkq] ZhangChan
+hey yo ji11
+
+﻿[22:38:13]
+[AAfFKK] _
+ihll
+
+﻿[22:40:46]
+[Zvoxsl] ji11
+累
+
+﻿[22:41:28]
+[AAfFKK] _
+QAQ
+
+﻿[22:41:32]
+[AAfFKK] _
+:!hug @ji11 
+
+﻿[22:41:38]
+[AAfFKK] _
+uh oh
+
+﻿[22:41:42]
+[AAfFKK] _
+:!hug @ji11 
+
+﻿[22:41:44]
+[AAfFKK] _
+goog
+
+﻿[22:41:46]
+[Zvoxsl] ji11
+蛤
+
+﻿[22:45:00]
+[CaData] Data
+Lakshman welcome！
+
+﻿[22:45:14]
+[CaData] Data
+sanjay welcome！
+
+﻿[22:45:15]
+[None] Lakshman
+Hi
+
+﻿[22:45:17]
+[None] sanjay
+Wtf
+
+﻿[22:45:26]
+[None] Lakshman
+Hello
+
+﻿[22:45:30]
+[None] Lakshman
+How are u?
+
+﻿[22:45:45]
+[None] sanjay
+Ur mom
+
+﻿[22:45:58]
+[None] sanjay
+Is sooo good
+
+﻿[22:47:41]
+[AAfFKK] _
+accident
+
+﻿[22:50:33]
+[AAfFKK] _
+next weekend
+
+﻿[22:50:41]
+[hVjcT5] mouse
+awa
+
+﻿[22:55:48]
+[CaData] Data
+chandra welcome！
+
+﻿[22:55:49]
+[bw7Gkq] ZhangChan
+hey yo chandra
+
+﻿[22:56:58]
+[CaData] Data
+Anusha welcome！
+
+﻿[22:56:59]
+[bw7Gkq] ZhangChan
+hello yo Anusha
+
+﻿[22:57:05]
+[CaData] Data
+4n0n4me welcome！
+
+﻿[22:57:05]
+[bw7Gkq] ZhangChan
+hello yo 4n0n4me
+
+﻿[22:57:06]
+[None] Anusha
+Hi
+
+﻿[22:57:27]
+[CaData] Data
+chandra welcome！
+
+﻿[22:57:28]
+[bw7Gkq] ZhangChan
+hi, chandra~
+
+﻿[22:57:28]
+[None] chandra
+Hi 
+
+﻿[22:58:05]
+[CaData] Data
+Sathish welcome！
+
+﻿[22:58:06]
+[bw7Gkq] ZhangChan
+hello yo Sathish
+
+﻿[22:58:29]
+[CaData] Data
+chandra welcome！
+
+﻿[22:58:29]
+[bw7Gkq] ZhangChan
+welcome yo chandra
+
+﻿[22:58:57]
+[CaData] Data
+Sathish22 welcome！
+
+﻿[22:58:57]
+[bw7Gkq] ZhangChan
+hey yo Sathish22
+
+﻿[22:59:10]
+[CaData] Data
+Anusha welcome！
+
+﻿[22:59:11]
+[bw7Gkq] ZhangChan
+welcome yo Anusha
+
+﻿[22:59:11]
+[None] Anusha
+Hi
+
+﻿[22:59:13]
+[VkTxeM] Sathish22
+Hello 
+
+﻿[22:59:15]
+[/9Br2y] 4n0n4me
+Hi
+
+﻿[22:59:27]
+[CaData] Data
+chandra welcome！
+
+﻿[22:59:27]
+[bw7Gkq] ZhangChan
+hi, chandra~
+
+﻿[23:00:00]
+[AAfFKK] AfK_Bot
+2022-12-02 23:00:00
+![](https://i.gyazo.com/6a1816b9cb8a4442bf6fc086854b9721.jpg)
+### [小张客户端](https://zhangclient.tk/)
+
+﻿[23:00:00]
+[a/Jz/a] abat
+```python
+command = ["11->C:C+1->A"]
+
+def casio_pro(commands):
+    import os
+    # If the file is not exist,create a new one
+    if not os.path.exists("CPU.casio"):
+        with open("CPU.casio","w") as f:
+            f.write("0\n"*8)
+    # Split the command string to normal python data type
+    command = [c.strip() for c in commands[0].split(":")]
+    com_command = []
+    is_syntax = 0
+    for c in command:
+        for i,s in enumerate(c[0:-2:1]):
+            # If `->` appears twice,mean syntax error
+            if s == "-" and c[i+1] == ">":
+                is_syntax += 1
+                if is_syntax == 2:
+                    raise "Syntax Error."
+                com_command.append((c[:i],c[i+2:]))
+        is_syntax = 0
+    # max_iter = 100000
+    for val,var in com_command:
+        # Update the data
+        with open("CPU.casio","r") as f:
+            A,B,C,D,E,F,x,y = [int(i.strip()) for i in f.readlines()]
+        with open("CPU.casio","w+") as f:
+            temp_dict = dict(zip("ABCDEFxy",[A,B,C,D,E,F,x,y]))
+            temp_dict[var] = eval(val)
+            f.write("\n".join([str(i) for i in temp_dict.values()]))
+
+casio_pro(command)
+
+﻿[23:00:36]
+[a/Jz/a] abat
+@4n0n4me 
+
+﻿[23:00:40]
+[a/Jz/a] abat
+我在弄个迭代就成功了
+
+﻿[23:00:49]
+[/9Br2y] 4n0n4me
+wow
+
+﻿[23:01:03]
+[/9Br2y] 4n0n4me
+~~其实我认为一种可以运行的东西所需要的代码量可能是巨大的~~
+
+﻿[23:01:20]
+[hVjcT5] mouse
+awa
+
+﻿[23:01:42]
+[a/Jz/a] abat
+是不是要分成赋值和"狂按等于号"两部分
+
+﻿[23:01:46]
+[/9Br2y] 4n0n4me
+~~我认为要做一种类似编程语言的东西，最终需要的是各种复杂的东西，例如词法分析器、语法树生成器~~
+
+﻿[23:01:49]
+[2ZQ3+0] Maggie_
+往往基础的东西都是最强大的
+
+﻿[23:01:57]
+[2ZQ3+0] Maggie_
+我都想写个虚拟机了
+
+﻿[23:02:06]
+[/9Br2y] 4n0n4me
+>a/Jz/a abat：
+>是不是要分成赋值和"狂按等于号"两部分
+
+@abat 好家伙，你很懂吗（指计算器编程）
+
+﻿[23:02:09]
+[a/Jz/a] abat
+?
+
+﻿[23:02:14]
+[a/Jz/a] abat
+我昨天看了一篇b站的文章
+
+﻿[23:02:22]
+[/9Br2y] 4n0n4me
+计算器编程里面就是这么做的
+
+﻿[23:02:26]
+[a/Jz/a] abat
+就悟了
+
+﻿[23:02:29]
+[/9Br2y] 4n0n4me
+我看的是知乎的文章（
+
+﻿[23:02:31]
+[a/Jz/a] abat
+啊
+
+﻿[23:02:35]
+[a/Jz/a] abat
+你大概什么时候睡
+
+﻿[23:02:45]
+[2ZQ3+0] Maggie_
+我刚刚写了一个虚拟机，只有32位的buffer,打个hello world都能溢出
+
+﻿[23:02:49]
+[/9Br2y] 4n0n4me
+先用calc触发赋值，但是calc不能执行带有赋值的语句
+
+﻿[23:02:50]
+[a/Jz/a] abat
+我看看你睡之前我能不能做完
+
+﻿[23:02:56]
+[/9Br2y] 4n0n4me
+>2ZQ3+0 Maggie_：
+>我刚刚写了一个虚拟机，只有32位的buffer,打个hello world都能溢出
+
+@Maggie_ woc，6
+
+﻿[23:02:57]
+[/9Br2y] 4n0n4me
+我可能随时就睡了（
+
+﻿[23:03:08]
+[a/Jz/a] abat
+a
+
+﻿[23:03:12]
+[/9Br2y] 4n0n4me
+>2ZQ3+0 Maggie_：
+>我刚刚写了一个虚拟机，只有32位的buffer,打个hello world都能溢出
+
+@Maggie_ 可以给卡西欧模拟器做VM了（
+
+﻿[23:03:18]
+[/9Br2y] 4n0n4me
+就和JVM啥的一样吧
+
+﻿[23:03:23]
+[2ZQ3+0] Maggie_
+你们看哈，汇编是不是看起来，但是不仅复杂，功能还丰富
+
+﻿[23:03:31]
+[2ZQ3+0] Maggie_
+你们看哈，汇编是不是看起来简易，但是不仅复杂，功能还丰富
+
+﻿[23:03:36]
+[/9Br2y] 4n0n4me
+在我看了一些文章以后，我认为一个合格的编译型编程语言必须有虚拟机
+
+﻿[23:03:50]
+[2ZQ3+0] Maggie_
+是的
+
+﻿[23:03:53]
+[/9Br2y] 4n0n4me
+还有语法树、词法分析器啥的
+
+﻿[23:03:56]
+[2ZQ3+0] Maggie_
+我打算写一个bfpvm
+
+﻿[23:04:03]
+[/9Br2y] 4n0n4me
+让我对制作编程语言产生了巨大的畏惧
+
+﻿[23:04:03]
+[2ZQ3+0] Maggie_
+(BrainF**k Python Virtual machine)
+
+﻿[23:04:19]
+[/9Br2y] 4n0n4me
+（对了你知道吗，说起做论坛，我想做一个贴吧）
+
+﻿[23:04:28]
+[/9Br2y] 4n0n4me
+就是用户可以自己创建论坛
+
+﻿[23:04:34]
+[2ZQ3+0] Maggie_
+cool
+
+﻿[23:04:40]
+[/9Br2y] 4n0n4me
+很奇怪的是，国内除了贴吧，几乎没有任何第二个同类产品存活至今
+
+﻿[23:06:50]
+[CaData] Data
+pop welcome！
+
+﻿[23:06:51]
+[bw7Gkq] ZhangChan
+hey yo pop
+
+﻿[23:07:12]
+[2ZQ3+0] Maggie_
+我打算自己写一个很简易的类似汇编的解释器(
+
+﻿[23:07:48]
+[CaData] Data
+pop welcome！
+
+﻿[23:07:49]
+[bw7Gkq] ZhangChan
+hi, pop~
+
+﻿[23:08:06]
+[a/Jz/a] abat
+```python
+command = ["11->C:C+1->A","A+1->A"]
+
+runtimes = 1
+def casio_pro(commands):
+    global runtimes
+    import os
+    # If the file is not exist,create a new one
+    if not os.path.exists("CPU.casio"):
+        with open("CPU.casio","w") as f:
+            f.write("0\n"*8)
+    # Split the command string to normal python data type
+    command = [c.strip() for c in commands[runtimes-1].split(":")]
+    com_command = []
+    is_syntax = 0
+    for c in command:
+        for i,s in enumerate(c[0:-2:1]):
+            # If `->` appears twice,mean syntax error
+            if s == "-" and c[i+1] == ">":
+                is_syntax += 1
+                if is_syntax == 2:
+                    raise "Syntax Error."
+                com_command.append((c[:i],c[i+2:]))
+        is_syntax = 0
+    max_iter = 100000
+    if runtimes == 1:
+        max_iter = 1
+    for j in range(max_iter):
+        for val,var in com_command:
+            # Update the data
+            with open("CPU.casio","r") as f:
+                A,B,C,D,E,F,x,y = [int(i.strip()) for i in f.readlines()]
+            with open("CPU.casio","w+") as f:
+                temp_dict = dict(zip("ABCDEFxy",[A,B,C,D,E,F,x,y]))
+                temp_dict[var] = eval(val)
+                f.write("\n".join([str(i) for i in temp_dict.values()]))
+    if runtimes == 1:
+        runtimes += 1
+        casio_pro(commands)
+    elif runtimes == 2:
+        return 0
+
+casio_pro(command)
+
+﻿[23:09:51]
+[a/Jz/a] abat
+@4n0n4me 
+
+﻿[23:09:54]
+[a/Jz/a] abat
+command列表第一个是赋值，第二个是按等于号的程序
+
+﻿[23:10:20]
+[2ZQ3+0] Maggie_
+我刚刚写出了我语言的第一个程序
+
+﻿[23:13:06]
+[a/Jz/a] abat
+完了
+
+﻿[23:13:21]
+[a/Jz/a] abat
+没法限定条件
+
+﻿[23:13:27]
+[2ZQ3+0] Maggie_
+```
+new output
+string output Hello world!
+add output $newline
+out output
+```
+
+﻿[23:15:13]
+[CaData] Data
+mona welcome！
+
+﻿[23:27:38]
+[CaData] Data
+brand welcome！
+
+﻿[23:27:39]
+[bw7Gkq] ZhangChan
+hello yo brand
+
+﻿[23:27:39]
+[None] brand
+Hiii
+
+﻿[23:29:25]
+[CaData] Data
+brand welcome！
+
+﻿[23:29:25]
+[bw7Gkq] ZhangChan
+hello yo brand
+
+﻿[23:29:26]
+[None] brand
+Bay
+
+﻿[23:29:38]
+[None] brand
+K
+
+﻿[23:31:03]
+[CaData] Data
+Sprinkle welcome！
+
+﻿[23:31:04]
+[bw7Gkq] ZhangChan
+hi, Sprinkle~
+
+﻿[23:31:04]
+[sSv1j2] Sprinkle
+晚上好
+
+﻿[23:31:21]
+[CaData] Data
+K welcome！
+
+﻿[23:31:22]
+[bw7Gkq] ZhangChan
+hello yo K
+
+﻿[23:31:22]
+[2ZQ3+0] Maggie_
+```
+new output,awa1
+string output Hello world!
+addkeep newline awa1
+appendvar output awa1
+out output
+```
+
+﻿[23:32:08]
+[2ZQ3+0] Maggie_
+和我想象中不一样
+
+﻿[23:32:14]
+[2ZQ3+0] Maggie_
+还需要缓存
+
+﻿[23:34:07]
+[2ZQ3+0] Maggie_
+```
+new output
+string output Hello world!
+addkeep newline output
+out output
+```
+
+﻿[23:34:07]
+[2ZQ3+0] Maggie_
+我缩短了一下
+
+﻿[23:34:11]
+[sSv1j2] Sprinkle
+hi
+
+﻿[23:35:39]
+[2ZQ3+0] Maggie_
+看我的蜜汁小编程语言
+
+﻿[23:35:59]
+[2ZQ3+0] Maggie_
+真是非常的建议呢
+
+﻿[23:36:26]
+[2ZQ3+0] Maggie_
+*简易
+
+﻿[23:37:59]
+[CaData] Data
+chandu welcome！
+
+﻿[23:37:59]
+[bw7Gkq] ZhangChan
+hey yo chandu
+
+﻿[23:38:50]
+[CaData] Data
+Mona welcome！
+
+﻿[23:38:51]
+[bw7Gkq] ZhangChan
+hey yo Mona
+
+﻿[23:38:51]
+[sSv1j2] Sprinkle
+@Maggie_ 有点意思
+
+﻿[23:39:26]
+[CaData] Data
+mona welcome！
+
+﻿[23:39:27]
+[bw7Gkq] ZhangChan
+hello yo mona
+
+﻿[23:39:27]
+[sSv1j2] Sprinkle
+整的我也想搞一个（
+
+﻿[23:40:30]
+[CaData] Data
+chandu welcome！
+
+﻿[23:40:30]
+[bw7Gkq] ZhangChan
+hi, chandu~
+
+﻿[23:40:30]
+[2ZQ3+0] Maggie_
+```
+D:\ufile>C:/Users/Administrator/AppData/Local/Programs/Python/Python310/python.exe d:/ufile/brainfk/bf.py
+Please tell me your name:Maggie!
+Hello,Maggie!!
+{'name1': 'Please tell me your name:', 'name': 'Maggie!', 'name2': 'Hello,Maggie!!\n', 'name3': '!'}
+```
+
+﻿[23:40:34]
+[2ZQ3+0] Maggie_
+```
+lang="""
+new name1,name,name2,name3
+string name1 Please tell me your name:
+out name1
+getchar name
+string name2 Hello,
+appendvar name2 name
+string name3 !
+appendvar name2 name3
+addkeep newline name2
+out name2
+"""
+```
+
+﻿[23:41:28]
+[CaData] Data
+mona welcome！
+
+﻿[23:41:29]
+[bw7Gkq] ZhangChan
+hey yo mona
+
+﻿[23:41:29]
+[sSv1j2] Sprinkle
+@Maggie_ 有意思
+
+﻿[23:42:18]
+[sSv1j2] Sprinkle
+发给我看看？
+
+﻿[23:42:41]
+[2ZQ3+0] Maggie_
+等我写完三个功能:int sum drop
+
+﻿[23:46:47]
+[a/Jz/a] abat
+```python
+command = ["1->A:50->B","math.sqrt(B-A):C+A->C:A+1->A"]
+
+import math
+runtimes = 1
+def casio_pro(commands):
+    global runtimes
+    import os
+    # If the file is not exist,create a new one
+    if not os.path.exists("CPU.casio"):
+        with open("CPU.casio","w") as f:
+            f.write("0\n"*8)
+    # Split the command string to normal python data type
+    command = [c.strip() for c in commands[runtimes-1].split(":")]
+    com_command = []
+    is_syntax = 0
+    for c in command:
+        for i,s in enumerate(c[0:-2:1]):
+            # If `->` appears twice,mean syntax error
+            if s == "-" and c[i+1] == ">":
+                is_syntax += 1
+                if is_syntax == 2:
+                    raise "Syntax Error."
+                com_command.append((c[:i],c[i+2:]))
+        if is_syntax == 0:
+            com_command.append((c,"trash"))
+        is_syntax = 0
+    max_iter = 100000
+    if runtimes == 1:
+        max_iter = 1
+    for j in range(max_iter):
+        for val,var in com_command:
+            # Update the data
+            with open("CPU.casio","r") as f:
+                a = [float(i.strip()) for i in f.readlines()]
+                A,B,C,D,E,F,x,y = a
+                temp_dict = dict(zip("ABCDEFxy",[A,B,C,D,E,F,x,y]))
+                try:
+                    temp_dict[var] = eval(val)
+                except:
+                    raise "Math Error."
+                if "trash" in temp_dict:
+                    del temp_dict["trash"]
+            with open("CPU.casio","w") as f:
+                f.write("\n".join([str(i) for i in temp_dict.values()]))
+    if runtimes == 1:
+        runtimes += 1
+        casio_pro(commands)
+    elif runtimes == 2:
+        return 0
+
+casio_pro(command)
+
+﻿[23:48:28]
+[a/Jz/a] abat
+最终版本
+
+﻿[23:48:33]
+[a/Jz/a] abat
+```python
+# CPU.casio
+
+﻿[23:48:52]
+[a/Jz/a] abat
+```python
+51.0
+50.0
+1275.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+﻿[23:49:18]
+[CaData] Data
+123 welcome！
+
+﻿[23:49:19]
+[bw7Gkq] ZhangChan
+hi yo 123
+
+﻿[23:50:16]
+[CaData] Data
+Amie welcome！
+
+﻿[23:50:17]
+[bw7Gkq] ZhangChan
+hey yo Amie
+
+﻿[23:50:17]
+[None] Amie
+Hey
+
+﻿[23:50:26]
+[sSv1j2] Sprinkle
+反代站点搭建成功
+
+﻿[23:51:05]
+[2ZQ3+0] Maggie_
+>a/Jz/a abat：
+>最终版本
+
+@abat 原来你也在写代码（
+
+﻿[23:53:45]
+[CaData] Data
+a welcome！
+
+﻿[23:53:46]
+[bw7Gkq] ZhangChan
+hi, a~
+
+﻿[23:53:46]
+[None] a
+Hi
+
+﻿[23:54:20]
+[None] a
+.
+
+﻿[23:59:54]
+[None] a
+Hi
+
