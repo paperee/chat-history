@@ -1,0 +1,480 @@
+2022-04-06 13-03-27:已进入聊天室 your-channel
+2022-04-06 13-03-27:发送信息：Hello World !
+2022-04-06 13-03-27:发送信息：大家好！我是机器人 ZhangBot。
+最近我的随机表情功能上线了，大家可以对我说“@ZhangBot 随机表情”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+2022-04-06 13-03-27:收到来自 bo_od 的信息：hi
+2022-04-06 13-03-32:检测到 ZhangProtector 进入聊天室
+2022-04-06 13-03-32:发送信息：$$\Huge\color{red}{热烈欢迎ZhangProtector入场！}$$
+2022-04-06 13-03-33:收到来自 bo_od 的信息：hi
+2022-04-06 13-03-42:收到来自 Violeta 的信息：我去
+2022-04-06 13-03-46:收到来自 Dream 的信息：？？？
+2022-04-06 13-03-57:收到来自 Dream 的信息：我们刚刚开始上
+2022-04-06 13-04-13:检测到 Dream 离开聊天室
+2022-04-06 13-04-13:发送信息：欢迎下次再来，Dream ！
+2022-04-06 13-04-39:检测到 Dream 进入聊天室
+2022-04-06 13-04-39:发送信息：$$\Huge\color{red}{热烈欢迎Dream入场！}$$
+2022-04-06 13-04-39:收到来自 bo_od 的信息：hi
+2022-04-06 13-04-45:收到来自 Dream 的信息：草
+2022-04-06 13-04-55:收到来自 Dream 的信息：我就退出了一下
+2022-04-06 13-04-57:收到来自 hello 的信息：yea 
+2022-04-06 13-04-58:收到来自 Mr_Zhang 的信息：@ZhangBot 推荐招牌程序
+2022-04-06 13-04-59:发送信息：重磅更新更新上线啦！
+1.[小张计时器（2.0）](https://zhanghelper.lanzouw.com/i7VJR02ozshc)
+面向大众：
+1.[小张锁屏](https://zhanghelper.lanzouw.com/i3jhw02cqmmf)
+2.[桌面冰墩墩](https://zhanghelper.lanzouw.com/ijFTK02cqmqj)
+3.[小张壁纸](https://zhanghelper.lanzouw.com/iYfLu02ji3le)
+面向特定行业：
+1.自动排考场（3.0）
+若要下载面向特定行业的程序，请联系：3288492688@qq.com 或 Xiao_Zhang_123@outlook.com
+非常感谢您对我们的大力支持！鄙人感激不尽！！！
+2022-04-06 13-05-00:收到来自 hello 的信息：hell yea
+2022-04-06 13-05-09:收到来自 Violeta 的信息：这个大红字有够扎眼
+2022-04-06 13-05-13:收到来自 hello 的信息：#include<stdio.h>
+#include<unistd.h>
+void main()
+{
+pid_t p;
+
+printf("pid of main program:\t%d\n", getpid());
+p = fork();
+
+if(p == 0)
+{
+    printf("In child process,\tpid:\t%d,\tppid:\t%d\n", getpid(), getppid());
+}
+else
+{
+    printf("In parent,\t\tpid:\t%d,\tfork returned:\t%d\n", getpid(), p);
+}
+}
+2022-04-06 13-05-13:收到来自 bo_od 的信息：Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://cdn.mrpig.cf/traceback/1649221513353398.log)
+2022-04-06 13-05-15:收到来自 Dream 的信息：确实
+2022-04-06 13-05-17:收到来自 hello 的信息：#include<stdio.h>
+#include<unistd.h>
+void main()
+{
+pid_t p;
+
+printf("pid of main program:\t%d\n", getpid());
+p = fork();
+
+if(p == 0)
+{
+    printf("In child process,\tpid:\t%d,\tppid:\t%d\n", getpid(), getppid());
+}
+else
+{
+    printf("In parent,\t\tpid:\t%d,\tfork returned:\t%d\n", getpid(), p);
+}
+}
+2022-04-06 13-05-17:收到来自 bo_od 的信息：Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://cdn.mrpig.cf/traceback/1649221517164487.log)
+2022-04-06 13-05-18:收到来自 hello 的信息：\#include<stdio.h>
+#include<unistd.h>
+void main()
+{
+pid_t p;
+
+printf("pid of main program:\t%d\n", getpid());
+p = fork();
+
+if(p == 0)
+{
+    printf("In child process,\tpid:\t%d,\tppid:\t%d\n", getpid(), getppid());
+}
+else
+{
+    printf("In parent,\t\tpid:\t%d,\tfork returned:\t%d\n", getpid(), p);
+}
+}
+2022-04-06 13-05-20:收到来自 hello 的信息：#include<stdio.h>
+#include<unistd.h>
+void main()
+{
+pid_t p;
+
+printf("pid of main program:\t%d\n", getpid());
+p = fork();
+
+if(p == 0)
+{
+    printf("In child process,\tpid:\t%d,\tppid:\t%d\n", getpid(), getppid());
+}
+else
+{
+    printf("In parent,\t\tpid:\t%d,\tfork returned:\t%d\n", getpid(), p);
+}
+}
+2022-04-06 13-05-21:收到来自 bo_od 的信息：Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://cdn.mrpig.cf/traceback/1649221520416894.log)
+2022-04-06 13-05-23:收到来自 Mr_Zhang 的信息：这不是C语言吗？
+2022-04-06 13-05-27:收到来自 hello 的信息：fuck
+2022-04-06 13-05-33:收到来自 hello 的信息：fuck youu
+2022-04-06 13-05-37:收到来自 Dream 的信息：不是吧
+2022-04-06 13-05-37:收到来自 hello 的信息：fuck youu
+2022-04-06 13-05-43:收到来自 hello 的信息： hell yea 
+2022-04-06 13-05-45:收到来自 Dream 的信息：？？？
+2022-04-06 13-05-46:检测到 Violeta 离开聊天室
+2022-04-06 13-05-46:发送信息：欢迎下次再来，Violeta ！
+2022-04-06 13-05-51:收到来自 hello 的信息：punda mavanae\
+2022-04-06 13-05-51:收到来自 Dream 的信息：oops
+2022-04-06 13-05-53:检测到 ZhangProtector 离开聊天室
+2022-04-06 13-05-53:发送信息：欢迎下次再来，ZhangProtector ！
+2022-04-06 13-06-01:检测到 ZhangKiller 进入聊天室
+2022-04-06 13-06-01:发送信息：$$\Huge\color{red}{热烈欢迎ZhangKiller入场！}$$
+2022-04-06 13-06-01:收到来自 bo_od 的信息：hi
+2022-04-06 13-06-01:收到来自 bo_od 的信息：ZhangBot最可爱了
+2022-04-06 13-06-01:收到来自 Dream 的信息：nooooooooooo
+2022-04-06 13-06-09:收到来自 Dream 的信息：？？？
+2022-04-06 13-06-11:收到来自 Dream 的信息：人呢
+2022-04-06 13-06-27:收到来自 Dream 的信息：我！要！聊！天！
+2022-04-06 13-06-38:收到来自 hello 的信息：@dreams
+2022-04-06 13-06-44:收到来自 hello 的信息：fuck you
+2022-04-06 13-06-49:收到来自 Mr_Zhang 的信息：@ZhangBot 帮助
+2022-04-06 13-06-50:发送信息：要和我聊天，请说“@ZhangBot ...”
+你可以说：“@ZhangBot 找你爸爸”
+你可以对我说：
+“@ZhangBot 几点了？”
+“@ZhangBot 随机表情”
+“@ZhangBot 你爸爸是谁”
+“@ZhangBot 推荐招牌程序”
+“@ZhangBot 谁在线”
+“@ZhangBot 美女图”、“@ZhangBot 动漫图”、“@ZhangBot 风景图”、“@ZhangBot 涩图”
+“@ZhangBot 摇骰子”
+我还有个弟弟，叫做ZhangKiller，专门帮我对付网络喷子，其实他也挺不容易的，天天和某些缺德的禽兽打交道。
+感谢下面的程序员，如果没有他们，我就不可能会诞生（名称使用网名）：
+Mr_Zhang（我爸爸）
+ee或者eee（我爸爸的朋友）
+如果想了解我爸爸，请说“@ZhangBot 你爸爸是谁？”。如果要了解ee，请访问：[纸片君ee的个人主页](https://paperee.tk/)
+2022-04-06 13-06-52:检测到 Dream 离开聊天室
+2022-04-06 13-06-52:发送信息：欢迎下次再来，Dream ！
+2022-04-06 13-07-06:检测到 _ALUMINIUM__13_ 进入聊天室
+2022-04-06 13-07-06:发送信息：$$\Huge\color{red}{热烈欢迎_ALUMINIUM__13_入场！}$$
+2022-04-06 13-07-06:收到来自 bo_od 的信息：hi
+2022-04-06 13-07-14:检测到 hello 离开聊天室
+2022-04-06 13-07-14:发送信息：欢迎下次再来，hello ！
+2022-04-06 13-07-14:收到来自 _ALUMINIUM__13_ 的信息：bruh
+2022-04-06 13-07-37:检测到 Violeta 进入聊天室
+2022-04-06 13-07-37:发送信息：$$\Huge\color{red}{热烈欢迎Violeta入场！}$$
+2022-04-06 13-07-37:收到来自 bo_od 的信息：hi
+2022-04-06 13-08-03:检测到 hello 进入聊天室
+2022-04-06 13-08-03:发送信息：$$\Huge\color{red}{热烈欢迎hello入场！}$$
+2022-04-06 13-08-03:收到来自 bo_od 的信息：hi
+2022-04-06 13-08-05:收到来自 hello 的信息：hi
+2022-04-06 13-08-23:检测到 naz 进入聊天室
+2022-04-06 13-08-23:发送信息：$$\Huge\color{red}{热烈欢迎naz入场！}$$
+2022-04-06 13-08-23:收到来自 bo_od 的信息：hi
+2022-04-06 13-08-37:收到来自 hello 的信息：hello
+2022-04-06 13-08-39:检测到 Violeta 离开聊天室
+2022-04-06 13-08-39:发送信息：欢迎下次再来，Violeta ！
+2022-04-06 13-08-43:检测到 Dream 进入聊天室
+2022-04-06 13-08-43:发送信息：$$\Huge\color{red}{热烈欢迎Dream入场！}$$
+2022-04-06 13-08-43:收到来自 bo_od 的信息：hi
+2022-04-06 13-08-58:检测到 Dream 离开聊天室
+2022-04-06 13-08-58:发送信息：欢迎下次再来，Dream ！
+2022-04-06 13-09-09:收到来自 naz 的信息：pid of main program: 6337
+In parent, pid: 6337, fork returned: 6338
+In child process, pid: 6338, ppid: 6337
+
+*
+Dream joined
+2022-04-06 13-09-12:检测到 naz 离开聊天室
+2022-04-06 13-09-12:发送信息：欢迎下次再来，naz ！
+2022-04-06 13-10-45:收到来自 cakechan 的信息：打完afk忘发了qaq
+2022-04-06 13-10-49:收到来自 cakechan 的信息：难过
+2022-04-06 13-10-58:检测到 Tec 进入聊天室
+2022-04-06 13-10-58:发送信息：$$\Huge\color{red}{热烈欢迎Tec入场！}$$
+2022-04-06 13-10-58:收到来自 bo_od 的信息：hi
+2022-04-06 13-11-00:收到来自 ZhangBot_ 的信息：qaq
+2022-04-06 13-11-07:收到来自 Tec 的信息：。。？
+2022-04-06 13-11-09:收到来自 cakechan 的信息：下半堂课都是考试，，还要考到第二节课
+2022-04-06 13-11-48:检测到 Violeta 进入聊天室
+2022-04-06 13-11-48:发送信息：$$\Huge\color{red}{热烈欢迎Violeta入场！}$$
+2022-04-06 13-11-48:收到来自 bo_od 的信息：hi
+2022-04-06 13-11-51:收到来自 eebot 的信息：我号没了
+2022-04-06 13-12-01:收到来自 ZhangBot_ 的信息：热烈欢迎Violeta入场！
+2022-04-06 13-12-16:收到来自 Violeta 的信息：Come on,还有17分钟就下课了
+2022-04-06 13-12-18:检测到 Dream 进入聊天室
+2022-04-06 13-12-18:发送信息：$$\Huge\color{red}{热烈欢迎Dream入场！}$$
+2022-04-06 13-12-20:收到来自 bo_od 的信息：hi
+2022-04-06 13-12-21:收到来自 Dream 的信息：#include<stdio.h>
+#include<unistd.h>
+void main()
+{
+pid_t p;
+printf("pid of main program:\t%d\n", getpid());
+p = fork();
+if(p == 0)
+{
+printf("In child process,\tpid:\t%d,\tppid:\t%d\n", getpid(), getppid());
+}
+else
+{
+printf("In parent,\t\tpid:\t%d,\tfork returned:\t%d\n", getpid(), p);
+}
+}
+2022-04-06 13-12-22:收到来自 bo_od 的信息：Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://cdn.mrpig.cf/traceback/1649221941384361.log)
+2022-04-06 13-12-29:检测到 2233 进入聊天室
+2022-04-06 13-12-29:发送信息：$$\Huge\color{red}{热烈欢迎2233入场！}$$
+2022-04-06 13-12-29:收到来自 bo_od 的信息：hi
+2022-04-06 13-12-36:收到来自 Tec 的信息：omg。its dream
+2022-04-06 13-12-38:检测到 2233 离开聊天室
+2022-04-06 13-12-38:发送信息：欢迎下次再来，2233 ！
+2022-04-06 13-12-43:收到来自 cakechan 的信息：不活了我
+2022-04-06 13-12-48:检测到 Dream 离开聊天室
+2022-04-06 13-12-48:发送信息：欢迎下次再来，Dream ！
+2022-04-06 13-13-37:收到来自 cakechan 的信息：天呐 是梦子哥（配合表演
+2022-04-06 13-14-15:检测到 Dream 进入聊天室
+2022-04-06 13-14-15:发送信息：$$\Huge\color{red}{热烈欢迎Dream入场！}$$
+2022-04-06 13-14-15:收到来自 bo_od 的信息：hi
+2022-04-06 13-14-21:收到来自 Dream 的信息：Traceback (most recent call last):
+  File "hcbot.py", line 814, in onmessage
+    transresult = translate(0)
+  File "hcbot.py", line 282, in translate
+    transtext = translator.translate(transtext, dest=translang[1:])
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/googletrans/client.py", line 191, in translate
+    raise ValueError('invalid destination language')
+ValueError: invalid destination language
+2022-04-06 13-14-36:收到来自 Tec 的信息：D:<
+2022-04-06 13-14-46:检测到 Dream 离开聊天室
+2022-04-06 13-14-46:发送信息：欢迎下次再来，Dream ！
+2022-04-06 13-15-13:检测到 Violeta 离开聊天室
+2022-04-06 13-15-13:发送信息：欢迎下次再来，Violeta ！
+2022-04-06 13-15-19:收到来自 cakechan 的信息：afk 物理摧残我
+2022-04-06 13-15-19:收到来自 bo_od 的信息：@cakechan is now 物理摧残我.
+2022-04-06 13-15-21:检测到 Dream 进入聊天室
+2022-04-06 13-15-21:发送信息：$$\Huge\color{red}{热烈欢迎Dream入场！}$$
+2022-04-06 13-15-21:收到来自 bo_od 的信息：hi
+2022-04-06 13-15-29:收到来自 Dream 的信息：#include<stdio.h>
+#include<unistd.h>
+void main()
+{
+pid_t p;
+printf("pid of main program:\t%d\n", getpid());
+p = fork();
+if(p == 0)
+{
+printf("In child process,\tpid:\t%d,\tppid:\t%d\n", getpid(), getppid());
+}
+else
+{
+printf("In parent,\t\tpid:\t%d,\tfork returned:\t%d\n", getpid(), p);
+}
+} #include<stdio.h>
+#include<unistd.h>
+void main()
+{
+pid_t p;
+printf("pid of main program:\t%d\n", getpid());
+p = fork();
+if(p == 0)
+{
+printf("In child process,\tpid:\t%d,\tppid:\t%d\n", getpid(), getppid());
+}
+else
+{
+printf("In parent,\t\tpid:\t%d,\tfork returned:\t%d\n", getpid(), p);
+}
+}
+2022-04-06 13-15-29:收到来自 bo_od 的信息：Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://cdn.mrpig.cf/traceback/1649222129297149.log)
+2022-04-06 13-15-31:检测到 Violeta 进入聊天室
+2022-04-06 13-15-31:发送信息：$$\Huge\color{red}{热烈欢迎Violeta入场！}$$
+2022-04-06 13-15-31:收到来自 bo_od 的信息：hi
+2022-04-06 13-15-36:收到来自 Dream 的信息：好耶！
+2022-04-06 13-15-41:收到来自 Violeta 的信息：咋？
+2022-04-06 13-15-52:收到来自 Tec 的信息：:)
+2022-04-06 13-15-53:收到来自 DayNightCycle 的信息：@Dream 
+2022-04-06 13-15-57:收到来自 DayNightCycle 的信息：你的技术这么厉害
+2022-04-06 13-16-02:检测到 Dream 离开聊天室
+2022-04-06 13-16-02:发送信息：欢迎下次再来，Dream ！
+2022-04-06 13-16-06:收到来自 Mr_Zhang 的信息：<cpp><printf("Hello World !")>
+2022-04-06 13-16-08:收到来自 Violeta 的信息：人突然多了起来
+2022-04-06 13-16-11:收到来自 DayNightCycle 的信息：一定写了辅助速通的MC数据包吧
+2022-04-06 13-16-16:收到来自 Tec 的信息：。。好久没来了
+2022-04-06 13-16-27:收到来自 DayNightCycle 的信息：但是要注意参加无作弊速通的时候
+2022-04-06 13-16-32:收到来自 DayNightCycle 的信息：要记得关数据包啊
+2022-04-06 13-16-35:收到来自 Violeta 的信息：今天第一次来
+2022-04-06 13-16-48:收到来自 Mr_Zhang 的信息：@ZhangBot 风景图
+2022-04-06 13-16-49:发送信息：[一张风景图](https://imgapi.cn/api.php?zd=pc&fl=fengjing&gs=images)
+来源：IMGAPI
+2022-04-06 13-17-11:收到来自 Mr_Zhang 的私信：Mr_Zhang whispered: hello
+2022-04-06 13-17-11:发送信息：@Mr_Zhang 私信算什么呀，直接向我发信息不香吗？
+2022-04-06 13-17-19:检测到 cakechan 离开聊天室
+2022-04-06 13-17-19:发送信息：欢迎下次再来，cakechan ！
+2022-04-06 13-17-19:检测到 Dream 进入聊天室
+2022-04-06 13-17-19:发送信息：$$\Huge\color{red}{热烈欢迎Dream入场！}$$
+2022-04-06 13-17-19:收到来自 bo_od 的信息：hi
+2022-04-06 13-17-25:收到来自 Tec 的信息：hii
+2022-04-06 13-17-28:收到来自 Dream 的信息：你咋又来了
+2022-04-06 13-17-34:检测到 Mr_Zhang 离开聊天室
+2022-04-06 13-17-34:发送信息：欢迎下次再来，Mr_Zhang ！
+2022-04-06 13-17-38:检测到 Mr_Zhang 进入聊天室
+2022-04-06 13-17-38:发送信息：$$\Huge\color{red}{热烈欢迎Mr_Zhang入场！}$$
+2022-04-06 13-17-38:收到来自 bo_od 的信息：hi
+2022-04-06 13-17-46:收到来自 Violeta 的信息：he呵呵
+2022-04-06 13-17-51:检测到 Dream 离开聊天室
+2022-04-06 13-17-51:发送信息：欢迎下次再来，Dream ！
+2022-04-06 13-18-26:检测到 Violeta 离开聊天室
+2022-04-06 13-18-26:发送信息：欢迎下次再来，Violeta ！
+2022-04-06 13-18-49:收到来自 Mr_Zhang 的信息：@ZhangBot 谁在线？
+2022-04-06 13-18-49:发送信息：在线的人有：
+bo_od
+ClearColdWater
+ham
+LINGJI
+jeck
+forty_nine
+49
+7749
+carborane
+7yyds
+eebot
+Yortu
+DayNightCycle
+ZhangBot_
+ee
+gg
+nish
+Futish
+27
+ZhangBot
+ZhangKiller
+_ALUMINIUM__13_
+hello
+Tec
+Mr_Zhang
+共计 25 人
+2022-04-06 13-18-56:检测到 admin 进入聊天室
+2022-04-06 13-18-56:发送信息：$$\Huge\color{red}{热烈欢迎admin入场！}$$
+2022-04-06 13-18-56:收到来自 bo_od 的信息：hi
+2022-04-06 13-19-17:检测到 Dream 进入聊天室
+2022-04-06 13-19-17:发送信息：$$\Huge\color{red}{热烈欢迎Dream入场！}$$
+2022-04-06 13-19-18:收到来自 bo_od 的信息：Dream是小天使
+2022-04-06 13-19-18:收到来自 bo_od 的信息：hi
+2022-04-06 13-19-21:收到来自 Dream 的信息：#include<stdio.h>
+#include<unistd.h>
+void main()
+{
+pid_t p;
+printf("pid of main program:\t%d\n", getpid());
+p = fork();
+if(p == 0)
+{
+printf("In child process,\tpid:\t%d,\tppid:\t%d\n", getpid(), getppid());
+}
+else
+{
+printf("In parent,\t\tpid:\t%d,\tfork returned:\t%d\n", getpid(), p);
+}
+} #include<stdio.h>
+#include<unistd.h>
+void main()
+{
+pid_t p;
+printf("pid of main program:\t%d\n", getpid());
+p = fork();
+if(p == 0)
+{
+printf("In child process,\tpid:\t%d,\tppid:\t%d\n", getpid(), getppid());
+}
+else
+{
+printf("In parent,\t\tpid:\t%d,\tfork returned:\t%d\n", getpid(), p);
+}
+}
+2022-04-06 13-19-21:收到来自 bo_od 的信息：Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://cdn.mrpig.cf/traceback/1649222361373530.log)
+2022-04-06 13-19-35:收到来自 Tec 的信息：所以这是个新的机器人吗
+2022-04-06 13-19-35:检测到 Dream 离开聊天室
+2022-04-06 13-19-35:发送信息：欢迎下次再来，Dream ！
+2022-04-06 13-19-41:收到来自 admin 的信息：?
+2022-04-06 13-19-45:收到来自 Mr_Zhang 的信息：@ZhangBot 
+2022-04-06 13-19-45:发送信息：怎么了？如果需要帮助，请发送“@ZhangBot 帮助”哦。
+如果想要找我爸爸，请说“@ZhangBot 找你爸爸”
+2022-04-06 13-19-47:检测到 ee 离开聊天室
+2022-04-06 13-19-47:发送信息：欢迎下次再来，ee ！
+2022-04-06 13-19-54:收到来自 Tec 的信息：。。我之前来好像没有
+2022-04-06 13-19-57:检测到 ee 进入聊天室
+2022-04-06 13-19-57:发送信息：$$\Huge\color{red}{热烈欢迎ee入场！}$$
+2022-04-06 13-19-57:收到来自 bo_od 的信息：hi
+2022-04-06 13-20-05:收到来自 ee 的信息：hi yo
+2022-04-06 13-20-14:检测到 asnswdc 进入聊天室
+2022-04-06 13-20-14:发送信息：$$\Huge\color{red}{热烈欢迎asnswdc入场！}$$
+2022-04-06 13-20-14:收到来自 bo_od 的信息：hi
+2022-04-06 13-20-25:收到来自 asnswdc 的信息：mr-张
+2022-04-06 13-20-26:收到来自 asnswdc 的信息：好了
+2022-04-06 13-20-29:收到来自 asnswdc 的信息：我是27
+2022-04-06 13-20-32:检测到 admin 离开聊天室
+2022-04-06 13-20-32:发送信息：欢迎下次再来，admin ！
+2022-04-06 13-20-46:收到来自 asnswdc 的信息：@ZhangBot 找你爸爸
+2022-04-06 13-20-46:asnswdc 呼叫了爸爸。
+2022-04-06 13-20-47:发送信息：正在呼叫爸爸......
+2022-04-06 13-20-48:检测到 Violeta 进入聊天室
+2022-04-06 13-20-48:发送信息：$$\Huge\color{red}{热烈欢迎Violeta入场！}$$
+2022-04-06 13-20-51:收到来自 bo_od 的信息：hi
+2022-04-06 13-20-59:收到来自 Violeta 的信息：额
+2022-04-06 13-21-00:收到来自 Mr_Zhang 的信息：@asnswdc 干什么？
+2022-04-06 13-21-05:收到来自 asnswdc 的信息：我是27
+2022-04-06 13-21-08:收到来自 asnswdc 的信息：好了，谢谢
+2022-04-06 13-21-12:收到来自 Mr_Zhang 的信息：@asnswdc 好的
+2022-04-06 13-21-14:检测到 asnswdc 离开聊天室
+2022-04-06 13-21-14:发送信息：欢迎下次再来，asnswdc ！
+2022-04-06 13-21-16:检测到 27 离开聊天室
+2022-04-06 13-21-16:发送信息：欢迎下次再来，27 ！
+2022-04-06 13-21-20:检测到 27 进入聊天室
+2022-04-06 13-21-20:发送信息：$$\Huge\color{red}{热烈欢迎27入场！}$$
+2022-04-06 13-21-21:收到来自 bo_od 的信息：hi
+2022-04-06 13-21-28:收到来自 27 的信息：谢谢
+2022-04-06 13-21-28:检测到 Dream 进入聊天室
+2022-04-06 13-21-28:发送信息：$$\Huge\color{red}{热烈欢迎Dream入场！}$$
+2022-04-06 13-21-28:收到来自 bo_od 的信息：hi
+2022-04-06 13-21-32:收到来自 Dream 的信息：#include<stdio.h>
+#include<unistd.h>
+void main()
+{
+pid_t p;
+printf("pid of main program:\t%d\n", getpid());
+p = fork();
+if(p == 0)
+{
+printf("In child process,\tpid:\t%d,\tppid:\t%d\n", getpid(), getppid());
+}
+else
+{
+printf("In parent,\t\tpid:\t%d,\tfork returned:\t%d\n", getpid(), p);
+}
+} #include<stdio.h>
+#include<unistd.h>
+void main()
+{
+pid_t p;
+printf("pid of main program:\t%d\n", getpid());
+p = fork();
+if(p == 0)
+{
+printf("In child process,\tpid:\t%d,\tppid:\t%d\n", getpid(), getppid());
+}
+else
+{
+printf("In parent,\t\tpid:\t%d,\tfork returned:\t%d\n", getpid(), p);
+}
+}
+2022-04-06 13-21-33:收到来自 bo_od 的信息：Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://cdn.mrpig.cf/traceback/1649222492445522.log)
+2022-04-06 13-21-34:收到来自 Violeta 的信息：hi
+2022-04-06 13-21-38:收到来自 27 的信息：e
+2022-04-06 13-21-39:收到来自 Tec 的信息：hii
+2022-04-06 13-21-45:检测到 cakechan 进入聊天室
+2022-04-06 13-21-45:发送信息：$$\Huge\color{red}{热烈欢迎cakechan入场！}$$
+2022-04-06 13-21-45:收到来自 bo_od 的信息：hi
+2022-04-06 13-21-55:收到来自 cakechan 的信息：afk
+2022-04-06 13-21-55:收到来自 bo_od 的信息：@cakechan is now AFK.
+2022-04-06 13-21-57:收到来自 Violeta 的信息：蛋糕
+2022-04-06 13-22-03:收到来自 27 的信息：哈哈哈
+2022-04-06 13-22-22:检测到 Dream 离开聊天室
+2022-04-06 13-22-22:发送信息：欢迎下次再来，Dream ！
+2022-04-06 13-22-25:收到来自 27 的信息：。。。
+2022-04-06 13-22-30:收到来自 27 的信息：有人吗？？？
+2022-04-06 13-22-35:收到来自 Violeta 的信息：有的
+2022-04-06 13-22-36:收到来自 Tec 的信息：有。
+2022-04-06 13-22-37:收到来自 Mr_Zhang 的信息：@ZhangBot 随机表情
