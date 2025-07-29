@@ -1,0 +1,14 @@
+[2023-01-24 11-09-39] 发送信息：大家好，这里是ZhangHelper杀手。
+来自小张软件官方的信息：ZhangHelper已被停用，请立刻停止使用，我们已派出ZhangHelper_Killer机器人来执行此任务，请立刻以zhang的身份登录XChat老服务器，切换到ZhangHelper目录下，然后执行 npm stop
+[2023-01-24 11-09-39] 发送信息：出错了！详细信息：
+这个内容已被屏蔽，无法发送
+[2023-01-24 11-09-45] 发送信息：/removeshield code
+[2023-01-24 11-09-45] 发送信息：/removeshield 这个内容
+[2023-01-24 11-09-45] 发送信息：^code const fs = require('fs')
+
+fs.rmSync('/home/zhang/ZhangHelper/config.json')
+fs.rmSync('/home/zhang/ZhangHelper/commands/mail.js')
+[2023-01-24 11-09-45] 发送信息：出错了！详细信息：
+不能找到这个内容
+[2023-01-24 11-09-45] 发送信息：出错了！详细信息：
+不能找到这个内容
