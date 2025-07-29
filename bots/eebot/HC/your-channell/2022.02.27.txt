@@ -1,0 +1,6255 @@
+10:24:00 Lighta
+woc
+
+10:24:02 detele3
+money.info
+
+10:24:05 detele3
+有了
+
+10:24:09 Lighta
+多了多少
+
+10:24:17 detele3
+100
+
+10:24:31 detele3
+money.send prxsvx 51
+
+10:24:34 detele3
+okk
+
+10:24:41 detele3
+回大号
+
+10:24:44 ee
+money.made eebot*1 1
+
+10:24:44 FoolishBirda
+['aaa', 'sssa', 'DeteleBot']
+
+10:24:47 Lighta
+money.shop
+
+10:24:48 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / DeteleBot　 /     1      /     1      /    100     /   prxsvx   /   prxsvx   
+
+10:24:54 ee
+money.create
+
+10:24:54 FoolishBirda
+成功创建账号eYFDHl，初始金额100
+
+10:24:58 ee
+money.made eebot*1 1
+
+10:24:58 FoolishBirda
+['aaa', 'sssa', 'DeteleBot']
+
+10:24:58 FoolishBirda
+制作成功，已放入背包
+
+10:25:03 Lighta
+money.buy DeteleBot
+
+10:25:06 ee
+money.info
+
+10:25:13 Lighta
+money.shop
+
+10:25:14 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+
+10:25:14 detele
+money.made a*1 1
+
+10:25:15 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot']
+
+10:25:15 FoolishBirda
+制作成功，已放入背包
+
+10:25:17 Lighta
+money.info
+
+10:25:27 Lighta
+FoolishBirda whispered: 名称Lighta
+账号余额：99999999999999999999999999999899999999800
+背包：
+序号/ 名称 / 数量 / 成本 / 发明者
+000001 / 　　　　aaa　　　　　 / 0 / 100000000000 / prxsvx
+000002 / 　　　　sssa　　　　 / 0 / 100 / zwXSoE
+000003 / 　DeteleBot　　 / 0 / 100 / prxsvx
+
+10:25:38 Lighta
+现在有个bug就是数量为什么是0
+
+10:25:47 ee
+money.put eebot*1 100
+
+10:25:47 FoolishBirda
+成功上传
+
+10:26:03 ee
+money.made ee*1 1
+
+10:26:03 FoolishBirda
+['a', 'aaa', 'sssa', 'DeteleBot', 'eebot']
+
+10:26:03 FoolishBirda
+制作成功，已放入背包
+
+10:26:05 detele
+money.put a*1 100
+
+10:26:05 FoolishBirda
+成功上传
+
+10:26:08 detele
+money.info
+
+10:26:12 Lighta
+money.shop
+
+10:26:12 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　eebot　　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000002 / 　　　　a　　　　　 /     1      /     1      /    100     /   prxsvx   /   prxsvx   
+
+10:26:20 Lighta
+money.buy eebot
+
+10:26:30 Lighta
+money.buy a
+
+10:26:31 ee
+money.made memset0*1 1
+
+10:26:31 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'ee']
+
+10:26:31 FoolishBirda
+制作成功，已放入背包
+
+10:26:42 ee
+money.made detele*1 1
+
+10:26:42 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'ee', 'memset0']
+
+10:26:42 FoolishBirda
+制作成功，已放入背包
+
+10:26:44 detele
+money.made a*1 1
+
+10:26:45 FoolishBirda
+名称已被注册
+
+10:26:51 ee
+money.made Light*1 1
+
+10:26:51 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'ee', 'memset0', 'detele']
+
+10:26:51 FoolishBirda
+制作成功，已放入背包
+
+10:26:58 Lighta
+money.made ee*100000 500
+
+10:26:59 FoolishBirda
+名称已被注册
+
+10:26:59 detele
+money.made d*
+
+10:27:03 Lighta
+money.made eee*100000 500
+
+10:27:03 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'ee', 'memset0', 'detele', 'Light']
+
+10:27:03 FoolishBirda
+制作成功，已放入背包
+
+10:27:07 Lighta
+money.info
+
+10:27:10 ee
+money.made foolishbrid*1 1
+
+10:27:10 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'eee', 'ee', 'memset0', 'detele', 'Light']
+
+10:27:10 FoolishBirda
+制作成功，已放入背包
+
+10:27:21 ee
+money.info
+
+10:27:26 detele
+money.made al*1 1
+
+10:27:26 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'eee', 'ee', 'memset0', 'detele', 'Light', 'foolishbrid']
+
+10:27:26 FoolishBirda
+制作成功，已放入背包
+
+10:27:35 Lighta
+money.put eee*100000 550
+
+10:27:35 FoolishBirda
+成功上传
+
+10:27:38 Lighta
+money.shop
+
+10:27:38 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　eee　　　　 /   100000   /    500     /    550     /   for9zT   /   for9zT   
+
+10:27:59 detele
+money.put al*1 10000000000
+
+10:27:59 FoolishBirda
+成功上传
+
+10:28:01 Lighta
+成本500售价550这才叫良心
+
+10:28:04 detele
+money.info
+
+10:28:08 ee
+money.put Light*1 100
+
+10:28:08 FoolishBirda
+成功上传
+
+10:28:09 detele
+丢
+
+10:28:13 detele
+买我的
+
+10:28:15 ee
+money.put detele*1 100
+
+10:28:16 FoolishBirda
+成功上传
+
+10:28:22 ee
+money.put ee*1 100
+
+10:28:22 FoolishBirda
+成功上传
+
+10:28:23 Lighta
+你他吗的成本1元售价上亿
+
+10:28:30 detele
+hhh
+
+10:28:33 detele
+笑死我了
+
+10:28:38 ee
+money.put memest0*1 100
+
+10:28:38 FoolishBirda
+你的背包里没有这个物品哦
+
+10:28:43 Lighta
+money.info
+
+10:29:00 detele
+money.play 120
+
+10:29:00 ee
+money.put memset0*1 100
+
+10:29:00 FoolishBirda
+成功上传
+
+10:29:03 Lighta
+money.send eYFDHl eebot
+
+10:29:05 detele
+money.play 120
+
+10:29:08 detele
+艹
+
+10:29:10 detele
+输了
+
+10:29:13 detele
+money.info
+
+10:29:17 Lighta
+money.shop
+
+10:29:17 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　eee　　　　 /   100000   /    500     /    550     /   for9zT   /   for9zT   
+000002 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000003 / 　　Light　　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / 　　detele　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000005 / 　　　　ee　　　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000006 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+
+10:29:17 detele
+还有几十
+
+10:29:18 ee
+money.put foolishbrid*1 100
+
+10:29:18 FoolishBirda
+成功上传
+
+10:29:28 Lighta
+money.buy ee
+
+10:29:31 Lighta
+money.info
+
+10:29:36 Lighta
+我买了ee
+
+10:29:39 ee
+草
+
+10:29:45 detele
+money.buy al
+
+10:29:48 Lighta
+money.put ee*1 500
+
+10:29:48 FoolishBirda
+背包的物品数量不够哦
+
+10:29:48 ee
+我卖Light（
+
+10:30:01 Lighta
+money.buy Light
+
+10:30:05 Lighta
+赎身
+
+10:30:14 detele3
+money.made cpds*1 20
+
+10:30:15 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'eee', 'ee', 'Light', 'eebot', 'eee', 'al', 'detele', 'memset0', 'foolishbrid']
+
+10:30:15 FoolishBirda
+制作成功，已放入背包
+
+10:30:19 Lighta
+我买了的话你们会得到钱的
+
+10:30:27 Lighta
+money.shop
+
+10:30:27 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　eee　　　　 /   100000   /    500     /    550     /   for9zT   /   for9zT   
+000002 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000003 / 　　detele　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000005 / foolishbrid /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+
+10:30:28 ee
+@Lighta 不过这售价怎么标着1
+
+10:30:29 detele3
+买啊
+
+10:30:33 ee
+明明是100块
+
+10:30:43 Lighta
+那是成本！！！！
+
+10:30:43 eebot
+那是成本！！！！
+
+10:30:47 detele3
+那是成本
+
+10:30:52 ee
+ohhhhhhhhhhhhhh
+
+10:30:57 detele3
+money.info
+
+10:30:58 Lighta
+你们好黑啊
+
+10:31:07 Lighta
+1元钱的东西卖100元
+
+10:31:19 ee
+我是跟你们学的√
+
+10:31:19 Lighta
+还有1元钱的卖10000000000的
+
+10:31:37 Lighta
+delete你他喵的
+
+10:31:39 detele3
+money.put cpds*1 38
+
+10:31:39 FoolishBirda
+成功上传
+
+10:31:54 detele3
+好了20卖38
+
+10:31:56 detele3
+买吧
+
+10:32:08 detele
+money.info
+
+10:32:09 Lighta
+money.buy
+
+10:32:15 detele
+money.buy
+
+10:32:16 Lighta
+money.shop
+
+10:32:16 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　eee　　　　 /   100000   /    500     /    550     /   for9zT   /   for9zT   
+000002 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000003 / 　　detele　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000005 / foolishbrid /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000006 / 　　　cpds　　　 /     1      /     20     /     38     /   zwXSoE   /   zwXSoE   
+
+10:32:20 ee
+money.info
+
+10:32:21 Lighta
+money.buy cpds
+
+10:32:31 detele
+money.buy cpds
+
+10:32:41 detele3
+money.info
+
+10:32:54 detele3
+money.send prxsvx 18
+
+10:33:20 detele
+money.info
+
+10:33:36 FoolishBirda
+hello,eee
+
+10:33:36 eebot
+hello eee
+
+10:33:47 eee
+money.info
+
+10:33:52 eee
+money.create
+
+10:33:52 FoolishBirda
+成功创建账号av472P，初始金额100
+
+10:34:14 detele
+money.made 黑丝*1 50
+
+10:34:14 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'eee', 'ee', 'Light', 'cpds', 'eebot', 'eee', 'al', 'detele', 'memset0', 'foolishbrid']
+
+10:34:14 FoolishBirda
+制作成功，已放入背包
+
+10:34:25 eee
+money.play 10
+
+10:34:27 eee
+money.play 10
+
+10:34:28 eee
+money.play 10
+
+10:34:29 eee
+money.play 10
+
+10:34:31 eee
+money.play 10
+
+10:34:31 detele
+money.put 黑丝*1 70
+
+10:34:32 FoolishBirda
+成功上传
+
+10:34:32 eee
+money.play 10
+
+10:34:35 eee
+money.play 10
+
+10:34:38 eee
+money.play 10
+
+10:34:38 detele
+买我的东西
+
+10:34:45 eee
+money.info
+
+10:34:49 detele
+money.play 10
+
+10:34:52 eee
+money.play 10
+
+10:34:54 eee
+money.play 10
+
+10:34:55 eee
+money.play 10
+
+10:34:56 eee
+money.play 10
+
+10:34:56 detele
+money.play 10
+
+10:34:57 Lighta
+money.info
+
+10:34:57 eee
+money.play 10
+
+10:34:58 eee
+money.play 10
+
+10:34:59 eee
+money.play 10
+
+10:35:01 eee
+money.play 10
+
+10:35:02 eee
+money.play 10
+
+10:35:04 eee
+money.play 10
+
+10:35:05 detele
+money.play 10
+
+10:35:09 eee
+money.info
+
+10:35:09 Lighta
+money.send av472P Light
+
+10:35:11 Lighta
+@eee 
+
+10:35:12 eee
+money.play 10
+
+10:35:14 eee
+money.play 10
+
+10:35:16 eee
+money.play 10
+
+10:35:17 eee
+money.play 10
+
+10:35:19 eee
+money.play 10
+
+10:35:19 Lighta
+你看看背包有没有Light
+
+10:35:26 detele
+money.info
+
+10:35:28 Lighta
+money.info
+
+10:35:32 Lighta
+money.info
+
+10:35:32 eee
+money.info
+
+10:35:45 detele
+账户余额：20
+
+10:35:45 eebot
+账户余额：20
+
+10:35:47 eee
+ohhhhhhhhhhhh
+
+10:35:50 Lighta
+卡了？
+
+10:35:50 eebot
+卡了？
+
+10:35:52 detele
+啊呸
+
+10:35:55 detele
+250
+
+10:35:56 eee
+卡了
+
+10:36:01 detele
+卡了
+
+10:36:05 detele
+money.info
+
+10:36:13 Lighta
+money.info
+
+10:36:14 eee
+money.info
+
+10:36:19 Lighta
+焯
+
+10:36:29 eee
+Lighta把Light给我了（
+
+10:36:37 eee
+有
+
+10:36:55 detele3
+money.play 30
+
+10:37:03 detele3
+money.play 30
+
+10:37:07 eee
+money.send eYFDHl Light
+
+10:37:10 detele3
+money.play 30
+
+10:37:13 Lighta
+money.info
+
+10:37:13 eee
+money.send eYFDHl 113
+
+10:37:18 Lighta
+等等等等
+
+10:37:20 detele3
+money.play 30
+
+10:37:22 Lighta
+出现严重bubg
+
+10:37:23 ee
+芜湖
+
+10:37:28 detele3
+money.info
+
+10:37:35 ee
+！
+
+10:37:35 eebot
+！
+
+10:37:36 ee
+money.info
+
+10:37:47 detele3
+money.send prxsvx 63
+
+10:38:06 detele
+money.info
+
+10:38:08 detele
+nb
+
+10:38:15 ee
+money.put eebot 520
+
+10:38:25 ee
+卡了？
+
+10:38:25 eebot
+卡了？
+
+10:38:36 detele
+monwy.shop
+
+10:38:39 detele
+money.info
+
+10:38:43 detele
+没有
+
+10:39:00 ee
+money.put eebot*1 520
+
+10:39:01 FoolishBirda
+成功上传
+
+10:39:31 ee
+money.shop
+
+10:39:31 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　eee　　　　 /   100000   /    500     /    550     /   for9zT   /   for9zT   
+000002 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000003 / 　　detele　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000005 / foolishbrid /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000006 / 　　　　黑丝　　　　 /     1      /     50     /     70     /   prxsvx   /   prxsvx   
+000007 / 　　eebot　　　 /     1      /    100     /    520     /   eYFDHl   /   eYFDHl   
+
+10:39:48 Lighta
+money.buy 黑丝
+
+10:39:52 Lighta
+money.info
+
+10:40:12 Lighta
+money.info
+
+10:40:35 Lighta
+money.put eee*600 800
+
+10:40:35 FoolishBirda
+成功上传
+
+10:40:39 Lighta
+money.shop
+
+10:40:39 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　eee　　　　 /    600     /    500     /    800     /   for9zT   /   for9zT   
+000002 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000003 / 　　detele　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000005 / foolishbrid /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000006 / 　　eebot　　　 /     1      /    100     /    520     /   eYFDHl   /   eYFDHl   
+
+10:41:33 detele
+money.info
+
+10:41:36 detele
+艹
+
+10:41:51 ee
+money.made 换衣Light限量版*1 1
+
+10:41:51 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'eee', 'ee', 'Light', 'cpds', '黑丝', 'Light', 'Light', 'eee', 'al', 'detele', 'memset0', 'foolishbrid', 'eebot']
+
+10:41:51 FoolishBirda
+制作成功，已放入背包
+
+10:42:06 ee
+money.put 换衣Light限量版*1 520
+
+10:42:07 FoolishBirda
+成功上传
+
+10:42:11 ee
+money.shop
+
+10:42:12 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　eee　　　　 /    600     /    500     /    800     /   for9zT   /   for9zT   
+000002 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000003 / 　　detele　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000005 / foolishbrid /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000006 / 　　eebot　　　 /     1      /    100     /    520     /   eYFDHl   /   eYFDHl   
+000007 / 换衣Light限量版 /     1      /     1      /    520     /   eYFDHl   /   eYFDHl   
+
+10:42:54 Lighta
+money.buy 换衣Light限量版
+
+10:42:57 ee
+money.info
+
+10:42:58 Lighta
+money.info
+
+10:43:26 Lighta
+-------------
+
+10:44:16 ee
+money.made cutegirllight*1 1
+
+10:44:17 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'eee', 'ee', 'Light', 'cpds', '黑丝', '换衣Light限量版', 'Light', 'Light', 'eee', 'al', 'detele', 'memset0', 'foolishbrid', 'eebot']
+
+10:44:17 FoolishBirda
+制作成功，已放入背包
+
+10:44:23 FoolishBirda
+hello,detele
+
+10:44:23 eebot
+hello detele
+
+10:44:51 ee
+money.put cutegirllight*1 1
+
+10:44:51 FoolishBirda
+hello,detele3
+
+10:44:51 FoolishBirda
+成功上传
+
+10:44:51 eebot
+detele3 is back
+
+10:45:30 ee
+FoolishBirda线上商城
+
+10:45:32 ee
+太好玩了
+
+10:45:55 detele
+哈哈
+
+10:46:52 Lighta
+但是我感觉都是漏洞
+
+10:46:58 detele
+对
+
+10:47:01 detele
+啊对对对
+
+10:47:05 Lighta
+这
+
+10:47:17 Lighta
+我背包里的东西都是0个
+
+10:47:18 ee
+>['aaa’, 'sssa’, 'DeteleBot’, 'eebot’, 'a’, 'eee’, 'ee’, 'Light’, 'cpds’, '黑丝’, '换衣Light限量版’, 'Light’, 'Light’, 'eee’, 'al’, 'detele’, 'memset0’, 'foolishbrid’, 'eebot']
+
+10:47:24 Lighta
+money.info
+
+10:47:28 ee
+这行字是BUG吗
+
+10:47:31 Lighta
+不是
+
+10:47:37 Lighta
+那是我测试用的
+
+10:47:46 ee
+OKK
+
+10:47:59 Lighta
+比如说做了一个菠萝手机，上传1个再买下来，一切正常
+
+10:48:08 Lighta
+但是背包里显示菠萝手机是0个
+
+10:48:24 ee
+money.buy eee
+
+10:48:32 ee
+money.info
+
+10:48:42 Lighta
+是不是
+
+10:48:44 ee
+嘶 确实
+
+10:49:09 ee
+修一修吧
+
+10:49:16 Lighta
+money.shop
+
+10:49:16 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000002 / 　　detele　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000003 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / foolishbrid /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000005 / 　　eebot　　　 /     1      /    100     /    520     /   eYFDHl   /   eYFDHl   
+000006 / cutegirllight /     1      /     1      /     1      /   eYFDHl   /   eYFDHl   
+
+10:49:20 Lighta
+我才
+
+10:49:21 ee
+嘶
+
+10:49:23 Lighta
+我擦
+
+10:49:30 Lighta
+money.buy cutegirllight
+
+10:49:37 Lighta
+money.buy
+
+10:49:38 ee
+>序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　eee　　　　 /    600     /    500     /    800     /   for9zT   /   for9zT   
+
+10:49:44 Lighta
+哈哈
+
+10:49:45 ee
+600个
+
+10:49:53 Lighta
+花花花花花花花
+
+10:49:54 ee
+买了一个就完了（
+
+10:50:03 ee
+花花花花花花花钱
+
+10:50:04 Lighta
+雀食
+
+10:50:11 detele
+money.made Lighta专属签名*1 50
+
+10:50:11 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'eee', 'ee', 'Light', 'cpds', '黑丝', '换衣Light限量版', 'cutegirllight', 'Light', 'eee', 'Light', 'al', 'detele', 'memset0', 'foolishbrid', 'eebot']
+
+10:50:11 FoolishBirda
+制作成功，已放入背包
+
+10:50:45 detele
+money.put Lighta专属签名*1 90
+
+10:50:46 FoolishBirda
+成功上传
+
+10:50:51 ee
+money.buy Lighta专属签名
+
+10:50:59 detele
+@ee 谢谢
+
+10:51:07 ee
+money.shop
+
+10:51:07 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000002 / 　　detele　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000003 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / foolishbrid /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000005 / 　　eebot　　　 /     1      /    100     /    520     /   eYFDHl   /   eYFDHl   
+
+10:51:10 detele
+money.info
+
+10:51:14 ee
+money.info
+
+10:51:32 ee
+同个名称的物品
+
+10:51:42 ee
+售价不同也会有BUG
+
+10:53:01 ee
+money.made 可爱的女孩小光*1 1
+
+10:53:02 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'eee', 'ee', 'Light', 'cpds', '黑丝', '换衣Light限量版', 'cutegirllight', 'Light', 'eee', 'Lighta专属签名', 'Light', 'al', 'detele', 'memset0', 'foolishbrid', 'eebot']
+
+10:53:02 FoolishBirda
+制作成功，已放入背包
+
+10:53:13 ee
+money.put 可爱的女孩小光*1 520
+
+10:53:13 FoolishBirda
+成功上传
+
+10:53:32 eebot
+FoolishBirda is back
+
+10:53:35 ee
+money.made 明亮的电灯泡*1 1
+
+10:53:35 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'eee', 'ee', 'Light', 'cpds', '黑丝', '换衣Light限量版', 'cutegirllight', 'Light', 'eee', 'Lighta专属签名', 'Light', 'al', 'detele', 'memset0', 'foolishbrid', 'eebot', '可爱的女孩小光']
+
+10:53:36 FoolishBirda
+制作成功，已放入背包
+
+10:53:38 Lighta
+money.shop
+
+10:53:38 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000002 / 　　detele　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000003 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / foolishbrid /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000005 / 　　eebot　　　 /     1      /    100     /    520     /   eYFDHl   /   eYFDHl   
+000006 / 　可爱的女孩小光　　 /     1      /     1      /    520     /   eYFDHl   /   eYFDHl   
+
+10:53:52 Lighta
+money.buy 可爱的女孩小光
+
+10:53:53 ee
+money.put 明亮的电灯泡*1 99
+
+10:53:53 FoolishBirda
+成功上传
+
+10:53:57 Lighta
+money.info
+
+10:54:01 Lighta
+焯
+
+10:54:15 Lighta
+还是没有
+
+10:54:17 ee
+money.buy eebot
+
+10:54:25 ee
+money.info
+
+10:54:31 ee
+oh giao
+
+10:54:38 Lighta
+money.buy
+
+10:54:43 Lighta
+money.info
+
+10:54:51 Lighta
+money.shop
+
+10:54:51 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000002 / 　　detele　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000003 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / foolishbrid /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000005 / 　　明亮的电灯泡　　 /     1      /     1      /     99     /   eYFDHl   /   eYFDHl   
+
+10:54:54 FoolishBirda
+hello,detele
+
+10:54:54 eebot
+welcome back detele
+
+10:55:08 detele
+money.made ee*1 100
+
+10:55:08 FoolishBirda
+名称已被注册
+
+10:55:18 ee
+ohh
+
+10:57:24 FoolishBirda
+hello,detele
+
+10:57:24 eebot
+welcome back detele
+
+10:57:47 detele
+money.made eeeeeeee限量版*1 110 
+
+10:57:47 FoolishBirda
+['aaa', 'sssa', 'DeteleBot', 'eebot', 'a', 'eee', 'ee', 'Light', 'cpds', '黑丝', '换衣Light限量版', 'cutegirllight', '可爱的女孩小光', 'Light', 'eee', 'Lighta专属签名', 'eebot', 'Light', 'al', 'detele', 'memset0', 'foolishbrid', '明亮的电灯泡']
+
+10:57:47 FoolishBirda
+制作成功，已放入背包
+
+10:57:49 eebot
+welcome back FoolishBirda
+
+10:57:52 Lighta
+money.shop
+
+10:57:53 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000002 / 　　detele　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000003 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / foolishbrid /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000005 / 　　明亮的电灯泡　　 /     1      /     1      /     99     /   eYFDHl   /   eYFDHl   
+
+10:58:05 Lighta
+money.buy foolishbird
+
+10:58:35 eebot
+FoolishBirda is back
+
+10:58:36 Lighta
+money.buy foolishbird
+
+10:58:38 Lighta
+money.buy foolishbird
+
+10:58:52 detele
+money.put eeeeeeee限量版*1 170
+
+10:58:54 FoolishBirda
+成功上传
+
+10:58:59 Lighta
+money.buy foolishbird
+
+10:59:09 ee
+money.shop
+
+10:59:10 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000002 / 　　detele　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000003 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / foolishbrid /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000005 / 　　明亮的电灯泡　　 /     1      /     1      /     99     /   eYFDHl   /   eYFDHl   
+000006 / eeeeeeee限量版 /     1      /    110     /    170     /   prxsvx   /   prxsvx   
+
+10:59:13 detele
+@ee 买eeeeeeee限量版
+
+10:59:19 Lighta
+money.buy foolishbird
+
+10:59:28 detele
+@Lighta 
+
+10:59:36 Lighta
+money.buy detele
+
+10:59:36 FoolishBirda
+背包新增物品
+
+10:59:37 ee
+money.buy eeeeeeee限量版
+
+10:59:37 FoolishBirda
+背包新增物品
+
+10:59:37 detele
+买eeeeeeee限量版
+
+10:59:41 detele
+哦豁
+
+10:59:43 Lighta
+money.info
+
+10:59:50 ee
+money.info
+
+10:59:55 ee
+还是0
+
+10:59:58 Lighta
+money.buy eeeeeeee限量版
+
+11:00:08 Lighta
+知道
+
+11:00:11 Lighta
+money.buy eeeeeeee限量版
+
+11:00:17 ee
+money.put eeeeeeee限量版*1 0
+
+11:00:18 FoolishBirda
+背包的物品数量不够哦
+
+11:00:28 detele
+money.info
+
+11:00:28 ee
+money.put eeeeeeee限量版*0 250
+
+11:00:29 FoolishBirda
+成功上传
+
+11:00:32 detele
+nb
+
+11:00:44 detele
+money.play 38
+
+11:00:46 ee
+money.shop
+
+11:00:46 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000002 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000003 / foolishbrid /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / 　　明亮的电灯泡　　 /     1      /     1      /     99     /   eYFDHl   /   eYFDHl   
+
+11:00:53 detele
+money.play 38
+
+11:01:00 detele
+money.play 38
+
+11:01:04 ee
+money.info
+
+11:01:16 ee
+>FoolishBirda whispered: 名称ee
+账号余额：584
+背包：
+序号/ 名称 / 数量 / 成本 / 发明者
+000001 / 　　　Light　　　　 / 1 / 100 / eYFDHl
+000002 / 　　　　eee　　　　　 / 0 / 800 / for9zT
+000003 / 　Lighta专属签名　 / 0 / 90 / prxsvx
+000004 / 　　　eebot　　　　 / 0 / 520 / eYFDHl
+000005 / eeeeeeee限量版　 / -1 / 170 / prxsvx
+
+11:01:19 detele
+money.info
+
+11:01:25 ee
+哈哈哈哈哈哈草
+
+11:01:38 detele
+笑死我了
+
+11:01:57 ee
+money.put Lighta专属签名*0 999
+
+11:01:58 FoolishBirda
+成功上传
+
+11:02:05 ee
+money.info
+
+11:02:16 ee
+>000003 / 　Lighta专属签名　 / -1 / 90 / prxsvx
+
+11:02:55 FoolishBirda
+hello,eee
+
+11:02:55 eebot
+eee is back
+
+11:03:06 eee
+money.info
+
+11:03:11 eebot
+FoolishBirda is back
+
+11:03:15 eee
+money.info
+
+11:03:17 Lighta
+money.buy eeeeeeee限量版
+
+11:03:21 eee
+money.create
+
+11:03:22 FoolishBirda
+成功创建账号m3na4Y，初始金额100
+
+11:03:32 FoolishBirda
+hello,detele
+
+11:03:32 Lighta
+money.shop
+
+11:03:32 eebot
+welcome back detele
+
+11:03:32 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+000002 / 　memset0　　 /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000003 / foolishbrid /     1      /     1      /    100     /   eYFDHl   /   eYFDHl   
+000004 / 　　明亮的电灯泡　　 /     1      /     1      /     99     /   eYFDHl   /   eYFDHl   
+
+11:03:43 Lighta
+money.buy memset0
+
+11:03:43 FoolishBirda
+{'cost': 1, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 100, 'num': 1}
+
+11:03:57 detele
+屌
+
+11:04:11 eee
+money.buy foolishbrid
+
+11:04:12 FoolishBirda
+{'cost': 1, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 100, 'num': 1}
+
+11:04:18 Lighta
+我好像知道了
+
+11:04:19 eee
+money.info
+
+11:04:27 detele
+money.buy 明亮的电灯泡
+
+11:04:27 FoolishBirda
+{'cost': 1, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 99, 'num': 1}
+
+11:04:31 detele
+money.info
+
+11:04:41 eee
+嘶
+
+11:05:04 detele
+money.put 明亮的电灯泡*1 100
+
+11:05:04 FoolishBirda
+背包的物品数量不够哦
+
+11:05:07 detele
+草拟吗
+
+11:05:18 detele
+money.play 35
+
+11:05:27 detele
+money.play 35
+
+11:05:34 detele
+money.play 35
+
+11:05:45 detele
+money.play 35
+
+11:05:53 detele
+money.info
+
+11:05:59 Lighta
+money.buy
+
+11:06:02 Lighta
+money.shop
+
+11:06:10 detele
+money.play 25
+
+11:06:15 detele
+退出了
+
+11:06:21 eebot
+FoolishBirda is back
+
+11:06:21 Lighta
+money.shop
+
+11:06:22 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　　al　　　　 /     1      /     1      / 10000000000 /   prxsvx   /   prxsvx   
+
+11:06:27 Lighta
+money.buy al
+
+11:06:27 FoolishBirda
+{'cost': 1, 'contriver': 'prxsvx', 'seller': 'prxsvx', 'price': 10000000000, 'num': 1}
+
+11:06:31 Lighta
+money.info
+
+11:06:31 FoolishBirda
+hello,eee
+
+11:06:32 eebot
+eee is back
+
+11:06:40 detele
+money.play 25
+
+11:06:44 Lighta
+000016 / 　　　　　al　　　　　 / 1 / 10000000000 / prxsvx
+
+11:06:45 detele
+money.info
+
+11:06:48 Lighta
+有了
+
+11:06:54 detele
+我没有
+
+11:07:00 Lighta
+```
+FoolishBirda whispered: 名称Lighta
+账号余额：99999999999999999999999999999889949998851
+背包：
+序号/ 名称 / 数量 / 成本 / 发明者
+000001 / 　　　　aaa　　　　　 / 0 / 100000000000 / prxsvx
+000002 / 　　　　sssa　　　　 / 0 / 100 / zwXSoE
+000003 / 　DeteleBot　　 / 0 / 100 / prxsvx
+000004 / 　　　eebot　　　　 / 1 / 100 / eYFDHl
+000005 / 　　　　　a　　　　　　 / 0 / 100 / prxsvx
+000006 / 　　　　eee　　　　　 / 99998 / 500 / for9zT
+000007 / 　　　　　ee　　　　　 / 0 / 100 / eYFDHl
+000008 / 　　　Light　　　　 / 1 / 100 / eYFDHl
+000009 / 　　　　cpds　　　　 / 0 / 38 / zwXSoE
+000010 / 　　　　　黑丝　　　　　 / 0 / 70 / prxsvx
+000011 / 　换衣Light限量版　 / 0 / 520 / eYFDHl
+000012 / cutegirllight / 0 / 1 / eYFDHl
+000013 / 　　可爱的女孩小光　　　 / 0 / 520 / eYFDHl
+000014 / 　　　detele　　　 / 0 / 100 / eYFDHl
+000015 / 　　memset0　　　 / 0 / 100 / eYFDHl
+000016 / 　　　　　al　　　　　 / 1 / 10000000000 / prxsvx
+
+11:07:12 eee
+money.send eYFDHl foolishbrid
+
+11:07:16 detele
+余额1000000459
+
+11:07:28 eee
+余额多才好
+
+11:07:40 Lighta
+money.put eebot*5 800000
+
+11:07:41 FoolishBirda
+背包的物品数量不够哦
+
+11:07:41 eee
+~~希望Light多买买我的商品~~
+
+11:07:45 detele
+money.send 明亮的电灯泡
+
+11:07:52 Lighta
+money.shop
+
+11:07:52 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+
+11:07:56 Lighta
+这
+
+11:07:59 Lighta
+算了
+
+11:08:05 detele
+money.send for9zt 明亮的电灯泡
+
+11:08:06 Lighta
+我把存档清空一下
+
+11:08:12 detele
+wc
+
+11:08:14 detele
+别
+
+11:08:17 eee
+woococococ
+
+11:08:20 detele
+money.info
+
+11:08:22 Lighta
+之前那个不行
+
+11:08:26 detele
+money.info
+
+11:08:33 detele
+money.info
+
+11:08:37 eee
+那就清空吧
+
+11:08:37 detele
+money.info
+
+11:08:37 Lighta
+我清空了哦
+
+11:08:40 detele
+别
+
+11:08:43 detele
+money.play
+
+11:08:47 Lighta
+没事d
+
+11:08:47 eee
+大不了重来一次
+
+11:08:50 detele
+money.info
+
+11:08:56 eee
+money.info
+
+11:09:01 Lighta
+money.create
+
+11:09:03 detele
+清空后给每个人1000000000
+
+11:09:04 ee
+money.create
+
+11:09:13 detele
+money.create
+
+11:09:13 FoolishBirda
+成功创建账号prxsvx，初始金额100
+
+11:09:18 ee
+1000吧
+
+11:09:23 Lighta
+50
+
+11:09:23 ee
+money.create
+
+11:09:23 FoolishBirda
+成功创建账号eYFDHl，初始金额100
+
+11:09:24 detele
+@Lighta 10000
+
+11:09:32 Lighta
+money.create
+
+11:09:32 FoolishBirda
+成功创建账号for9zT，初始金额100
+
+11:09:32 detele
+money.play 40
+
+11:09:37 eee
+money.create
+
+11:09:38 FoolishBirda
+成功创建账号m3na4Y，初始金额100
+
+11:09:40 detele
+money.play 39
+
+11:09:47 detele
+money.play 38
+
+11:09:50 Lighta
+money.send eYFDHl 500
+
+11:09:54 detele
+money.play 38
+
+11:09:58 detele
+money.info
+
+11:09:58 Lighta
+money.send prxsvx 500
+
+11:09:59 eee
+money.send eYFDHl 100
+
+11:10:04 Lighta
+受到了吗
+
+11:10:07 detele
+money.play 1
+
+11:10:12 detele
+money.info
+
+11:10:18 ee
+money.info
+
+11:10:20 detele
+我收到了个der
+
+11:10:38 detele
+再重新send
+
+11:10:48 Lighta
+money.made 钻石*1 50000
+
+11:10:48 FoolishBirda
+[]
+
+11:10:48 FoolishBirda
+制作成功，已放入背包
+
+11:11:05 Lighta
+我要0元上传这颗钻石你们准备抢哦
+
+11:11:08 detele
+给money我
+
+11:11:12 Lighta
+我要0元上传这颗钻石你们准备抢哦
+
+11:11:12 Lighta
+我要0元上传这颗钻石你们准备抢哦
+
+11:11:15 Lighta
+3
+
+11:11:16 Lighta
+2
+
+11:11:17 Lighta
+1
+
+11:11:17 ee
+money.made 可爱的女孩光*1 52
+
+11:11:18 FoolishBirda
+['钻石']
+
+11:11:18 FoolishBirda
+制作成功，已放入背包
+
+11:11:28 Lighta
+money.put 钻石*1 0
+
+11:11:28 FoolishBirda
+成功上传
+
+11:11:33 Lighta
+money.shop
+
+11:11:33 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　　钻石　　　　 /     1      /   50000    /     0      /   for9zT   /   for9zT   
+
+11:11:34 detele
+money.buy 钻石
+
+11:11:34 FoolishBirda
+{'cost': 50000, 'contriver': 'for9zT', 'seller': 'for9zT', 'price': 0, 'num': 1}
+
+11:11:36 ee
+money.buy 钻石
+
+11:11:41 detele
+ok
+
+11:11:44 detele
+money.info
+
+11:11:45 ee
+ohhhhhhh
+
+11:11:49 detele
+太好了
+
+11:11:53 ee
+money.info
+
+11:12:06 ee
+money.made 可爱的鸟*1 52
+
+11:12:06 FoolishBirda
+['钻石', '可爱的女孩光']
+
+11:12:06 FoolishBirda
+制作成功，已放入背包
+
+11:12:18 FoolishBirda
+hello,detele
+
+11:12:18 eebot
+detele is back
+
+11:12:20 ee
+money.made 可爱的ee*1 52
+
+11:12:20 FoolishBirda
+['钻石', '可爱的女孩光', '可爱的鸟']
+
+11:12:20 FoolishBirda
+制作成功，已放入背包
+
+11:12:27 ee
+money.made 可爱的detele*1 52
+
+11:12:27 FoolishBirda
+['钻石', '可爱的女孩光', '可爱的鸟', '可爱的ee']
+
+11:12:27 FoolishBirda
+制作成功，已放入背包
+
+11:12:40 detele
+money.put 钻石*1 280
+
+11:12:41 FoolishBirda
+成功上传
+
+11:12:42 ee
+money.made 可爱的zzmemset*1 52
+
+11:12:42 FoolishBirda
+['可爱的女孩光', '可爱的鸟', '可爱的ee', '可爱的detele', '钻石']
+
+11:12:42 FoolishBirda
+制作成功，已放入背包
+
+11:12:49 detele
+买我的
+
+11:12:55 ee
+money.info
+
+11:12:56 eebot
+FoolishBirda is back
+
+11:12:58 ee
+money.info
+
+11:13:00 Lighta
+money.shop
+
+11:13:01 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　　钻石　　　　 /     1      /     0      /    280     /   prxsvx   /   prxsvx   
+
+11:13:12 Lighta
+money.buy 钻石
+
+11:13:15 Lighta
+money.info
+
+11:13:17 detele
+谢谢你
+
+11:13:29 Lighta
+money.shop
+
+11:13:29 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+
+11:13:30 ee
+money.put 可爱的女孩光*1 520
+
+11:13:30 FoolishBirda
+成功上传
+
+11:13:31 detele
+money.info
+
+11:13:35 detele
+撤了
+
+11:13:36 ee
+money.put 可爱的鸟*1 520
+
+11:13:36 detele
+拜
+
+11:13:37 FoolishBirda
+成功上传
+
+11:13:40 Lighta
+拜拜
+
+11:13:42 ee
+money.put 可爱的ee*1 520
+
+11:13:43 FoolishBirda
+成功上传
+
+11:13:43 detele
+等我
+
+11:13:44 Lighta
+money.shop
+
+11:13:44 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　可爱的女孩光　　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000002 / 　　　可爱的鸟　　　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000003 / 　　可爱的ee　　　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+
+11:13:44 ee
+拜拜拜拜
+
+11:13:54 ee
+等待
+
+11:13:58 Lighta
+money.buy 可爱的ee
+
+11:14:05 ee
+money.put 可爱的detele*1 520
+
+11:14:05 FoolishBirda
+成功上传
+
+11:14:15 ee
+money.put 可爱的zzmemset*1 520
+
+11:14:15 FoolishBirda
+成功上传
+
+11:14:21 ee
+ohhhhhhhhh
+
+11:14:30 Lighta
+money.buy 可爱的鸟
+
+11:14:48 ee
+money.buy 可爱的女孩光
+
+11:14:52 Lighta
+money.buy 可爱的女孩光
+
+11:15:00 ee
+money.info
+
+11:15:18 ee
+发明者是prxsvx？
+
+11:15:18 Lighta
+money.made 可爱的ee
+
+11:15:32 Lighta
+怎么回事
+
+11:16:05 Lighta
+money.shop
+
+11:16:05 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 可爱的detele　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000002 / 可爱的zzmemset /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+
+11:16:10 Lighta
+money.info
+
+11:16:12 ee
+money.made 可爱的eebot*1 52
+
+11:16:12 FoolishBirda
+制作成功，已放入背包
+
+11:16:20 Lighta
+000001 / 　　　　　钻石　　　　　 / 1 / 280 / prxsvx
+000002 / 　　　可爱的ee　　　　 / 1 / 520 / prxsvx
+000003 / 　　　　可爱的鸟　　　　 / 1 / 520 / prxsvx
+
+11:16:29 ee
+money.put 可爱的eebot*1 520
+
+11:16:29 FoolishBirda
+成功上传
+
+11:16:31 Lighta
+怎么是他的识别码
+
+11:16:36 ee
+是啊
+
+11:17:09 Lighta
+哦
+
+11:17:11 Lighta
+知道了
+
+11:17:33 ee
+come on
+
+11:17:52 eebot
+welcome back FoolishBirda
+
+11:18:17 Lighta
+money.create
+
+11:18:18 FoolishBirda
+成功创建账号for9zT，初始金额100
+
+11:18:45 ee
+money.create
+
+11:18:46 FoolishBirda
+成功创建账号eYFDHl，初始金额100
+
+11:18:56 Lighta
+money.send eYFDHl 1500
+
+11:19:02 Lighta
+受到了吗
+
+11:19:09 ee
+money.info
+
+11:19:13 ee
+yeahh
+
+11:19:44 ee
+money.made 史上最可爱的女孩光*1 52
+
+11:19:45 FoolishBirda
+制作成功，已放入背包
+
+11:19:51 ee
+money.made 史上最可爱的傻鸟*1 52
+
+11:19:52 FoolishBirda
+制作成功，已放入背包
+
+11:20:07 ee
+money.made 史前人类ee*1 52
+
+11:20:07 FoolishBirda
+制作成功，已放入背包
+
+11:20:13 ee
+money.made 史前机器人eebot*1 52
+
+11:20:13 FoolishBirda
+制作成功，已放入背包
+
+11:20:17 Lighta
+money.shop
+
+11:20:17 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+
+11:20:40 ee
+money.made 一个女朋友*1 52
+
+11:20:40 FoolishBirda
+制作成功，已放入背包
+
+11:20:46 ee
+money.made 一个男朋友*1 52
+
+11:20:46 FoolishBirda
+制作成功，已放入背包
+
+11:21:03 Lighta
+money.made 男朋友*100000 50
+
+11:21:04 FoolishBirda
+制作成功，已放入背包
+
+11:21:17 Lighta
+money.put 男朋友*100000 51
+
+11:21:17 FoolishBirda
+成功上传
+
+11:21:23 Lighta
+money.shop
+
+11:21:23 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　男朋友　　　　 /   100000   /     50     /     51     /   for9zT   /   for9zT   
+
+11:21:33 Lighta
+money.buy 男朋友
+
+11:21:37 Lighta
+money.shop
+
+11:21:37 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　男朋友　　　　 /   99999    /     50     /     51     /   for9zT   /   for9zT   
+
+11:21:42 ee
+money.buy 男朋友
+
+11:21:46 Lighta
+money.info
+
+11:21:52 ee
+money.info
+
+11:21:58 ee
+money.buy 男朋友
+
+11:22:13 ee
+ohhhh没反应
+
+11:22:19 ee
+money.buy 男朋友*1
+
+11:22:26 Lighta
+卡了
+
+11:22:37 ee
+money.put 史上最可爱的女孩光*1 520
+
+11:22:37 FoolishBirda
+成功上传
+
+11:22:45 ee
+money.put 史上最可爱的傻鸟*1 520
+
+11:22:46 FoolishBirda
+成功上传
+
+11:22:54 ee
+money.put 史前人类ee*1 520
+
+11:22:54 FoolishBirda
+成功上传
+
+11:23:00 ee
+money.put 史前机器人eebot*1 520
+
+11:23:00 FoolishBirda
+成功上传
+
+11:23:12 eebot
+welcome back FoolishBirda
+
+11:23:14 ee
+money.put 一个女朋友*1 1314
+
+11:23:14 FoolishBirda
+成功上传
+
+11:23:19 ee
+money.put 一个男朋友*1 1314
+
+11:23:19 FoolishBirda
+成功上传
+
+11:23:25 ee
+money.info
+
+11:23:40 Lighta
+money.buy
+
+11:23:43 Lighta
+money.shop
+
+11:23:43 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　男朋友　　　　 /   99999    /     50     /     51     /   for9zT   /   for9zT   
+000002 / 史上最可爱的女孩光　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000003 / 　史上最可爱的傻鸟　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000004 / 　　史前人类ee　　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000005 / 史前机器人eebot /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000006 / 　　一个女朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+000007 / 　　一个男朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+
+11:23:57 ee
+money.buy 男朋友
+
+11:24:04 ee
+oh
+
+11:24:05 Lighta
+'int' object is not subscriptable
+
+11:24:06 ee
+没反应
+
+11:24:07 Lighta
+出错了
+
+11:24:12 Lighta
+我修一下
+
+11:24:18 ee
+OK
+
+11:24:20 Lighta
+你先别动
+
+11:24:26 Lighta
+我直接改json数据
+
+11:24:40 ee
+yeah
+
+11:24:48 Lighta
+好了
+
+11:24:50 Lighta
+再试一下
+
+11:25:13 ee
+money.buy 男朋友
+
+11:25:19 Lighta
+焯
+
+11:25:21 Lighta
+等等
+
+11:25:30 ee
+giao
+
+11:26:19 ee
+i love FoolishBirda and Light
+
+11:26:30 Lighta
+what？
+
+11:26:30 eebot
+what？
+
+11:26:52 ee
+~~真·纯文本游戏~~
+
+11:26:52 eebot
+ee said: Plain text game ~ ~
+
+11:27:41 eebot
+welcome back FoolishBirda
+
+11:27:51 Lighta
+再买一下试下
+
+11:28:31 ee
+money.buy 男朋友
+
+11:28:32 Lighta
+money.buy 男朋友
+
+11:28:41 Lighta
+FoolishBirda whispered: 成功购买男朋友*1？
+
+11:28:49 ee
+money.buy 男朋友
+
+11:28:55 ee
+没有反应
+
+11:28:58 Lighta
+等等
+
+11:29:23 Lighta
+money.info
+
+11:29:27 Lighta
+焯
+
+11:29:52 ee
+money.info
+
+11:30:02 ee
+>FoolishBirda whispered: 名称ee
+账号余额：1288
+背包：
+序号/ 名称 / 数量 / 成本 / 发明者
+000001 / 　　　一个男朋友　　　　 / 1 / 52 / eYFDHl
+
+11:30:04 ee
+等等
+
+11:30:11 ee
+怎么这么怪
+
+11:30:19 Lighta
+money.info
+
+11:30:27 Lighta
+money.buy 男朋友
+
+11:30:29 Lighta
+money.info
+
+11:30:30 ee
+money.shop
+
+11:30:30 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　男朋友　　　　 /   99997    /     50     /     51     /   for9zT   /   for9zT   
+000002 / 史上最可爱的女孩光　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000003 / 　史上最可爱的傻鸟　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000004 / 　　史前人类ee　　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000005 / 史前机器人eebot /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000006 / 　　一个女朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+000007 / 　　一个男朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+
+11:30:44 ee
+money.put 一个男朋友*1 1314
+
+11:30:45 FoolishBirda
+成功上传
+
+11:30:50 ee
+money.info
+
+11:30:55 ee
+money.shop
+
+11:30:55 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　男朋友　　　　 /   99997    /     50     /     51     /   for9zT   /   for9zT   
+000002 / 史上最可爱的女孩光　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000003 / 　史上最可爱的傻鸟　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000004 / 　　史前人类ee　　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000005 / 史前机器人eebot /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000006 / 　　一个女朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+000007 / 　　一个男朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+
+11:30:55 Lighta
+money.info
+
+11:32:02 ee
+money.buy 男朋友
+
+11:32:10 ee
+等等
+
+11:32:17 ee
+>序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　男朋友　　　　 /   99997    /     50     /     51     /   for9zT   /   for9zT
+
+11:32:24 ee
+这数量原来有少
+
+11:32:31 ee
+但我没收到（
+
+11:33:05 Lighta
+是我买的
+
+11:33:53 eebot
+FoolishBirda is back
+
+11:33:54 Lighta
+money.info
+
+11:34:03 ee
+money.info
+
+11:34:06 Lighta
+money.shop
+
+11:34:07 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　男朋友　　　　 /   99997    /     50     /     51     /   for9zT   /   for9zT   
+000002 / 史上最可爱的女孩光　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000003 / 　史上最可爱的傻鸟　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000004 / 　　史前人类ee　　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000005 / 史前机器人eebot /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000006 / 　　一个女朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+000007 / 　　一个男朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+
+11:34:11 ee
+money.buy 男朋友
+
+11:34:17 Lighta
+焯
+
+11:34:20 Lighta
+怎么回事
+
+11:34:28 ee
+giao
+
+11:35:03 eebot
+welcome back FoolishBirda
+
+11:35:06 Lighta
+再试一下
+
+11:35:12 Lighta
+money.buy 男朋友
+
+11:35:15 Lighta
+money.info
+
+11:35:42 Lighta
+money.buy 一个女朋友
+
+11:37:29 ee
+money.buy 男朋友
+
+11:37:41 ee
+money.shop
+
+11:37:41 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　男朋友　　　　 /   99996    /     50     /     51     /   for9zT   /   for9zT   
+000002 / 史上最可爱的女孩光　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000003 / 　史上最可爱的傻鸟　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000004 / 　　史前人类ee　　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000005 / 史前机器人eebot /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000006 / 　　一个女朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+000007 / 　　一个男朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+
+11:37:52 ee
+money.info
+
+11:37:56 ee
+还是没有
+
+11:38:00 Lighta
+对
+
+11:38:20 FoolishBirda
+hello,eebot
+
+11:38:20 eebot
+hi (o°ω°o)
+
+11:38:20 eebot
+想了解更多玩法 请输入「功能」
+
+11:38:28 ee
+·ohhhhh
+
+11:38:33 ee
+翻译开启
+
+11:38:34 eebot
+翻译已开启
+
+11:38:37 ee
+·ohhhhhhh
+
+11:38:38 eebot
+ee said: ohhhhhhh
+
+11:38:56 eebot
+hi FoolishBirda
+
+11:38:58 Lighta
+money.buy 一个女朋友
+
+11:39:08 ee
+money.buy 男朋友
+
+11:39:15 ee
+money.buy 一个女朋友
+
+11:39:20 ee
+money.buy 一个男朋友
+
+11:39:36 ee
+翻译
+
+11:39:37 eebot
+·
+使用源：网易有道翻译
+使用方法：·要翻译的句子（前面有个点
+默认为关：「翻译开启」「翻译关闭」
+
+11:39:58 eebot
+welcome back FoolishBirda
+
+11:39:59 Lighta
+money.buy 一个女朋友
+
+11:39:59 FoolishBirda
+背包新增物品
+
+11:41:10 ee
+money.buy 男朋友
+
+11:41:10 FoolishBirda
+背包新增物品
+
+11:41:20 ee
+money.info
+
+11:41:36 ee
+没有
+
+11:45:13 FoolishBirda
+hello,detele
+
+11:45:13 eebot
+hey detele
+
+11:45:19 detele
+这是我妈手机
+
+11:45:33 ee
+yeah
+
+11:45:43 ee
+Light巨佬还在修BUG
+
+11:45:43 detele
+money.info
+
+11:45:50 ee
+money.info
+
+11:46:00 eebot
+FoolishBirda is back
+
+11:46:02 Lighta
+money.buy 一个女朋友
+
+11:46:02 FoolishBirda
+{'男朋友': {'cost': 50, 'contriver': 'for9zT', 'seller': 'for9zT', 'price': 51, 'num': 99996}, '史上最可爱的女孩光': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史上最可爱的傻鸟': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史前人类ee': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史前机器人eebot': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '一个女朋友': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 1314, 'num': 1}, '一个男朋友': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 1314, 'num': 1}}
+
+11:46:02 FoolishBirda
+背包新增物品
+
+11:46:02 detele
+额清空存档了吗
+
+11:46:12 ee
+money.buy 男朋友
+
+11:46:13 FoolishBirda
+{'男朋友': {'cost': 50, 'contriver': 'for9zT', 'seller': 'for9zT', 'price': 51, 'num': 99996}, '史上最可爱的女孩光': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史上最可爱的傻鸟': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史前人类ee': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史前机器人eebot': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '一个女朋友': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 1314, 'num': 1}, '一个男朋友': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 1314, 'num': 1}}
+
+11:46:13 FoolishBirda
+背包新增物品
+
+11:46:17 ee
+money.info
+
+11:46:26 Lighta
+如果成功了他会发送“成功”
+
+11:46:32 ee
+~~我这一辈子都买不到男朋友~~
+
+11:46:33 Lighta
+但是没有
+
+11:46:36 Lighta
+很坏很坏
+
+11:46:39 Lighta
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+11:46:41 ee
+真的很坏
+
+11:46:44 detele
+money.create
+
+11:46:44 FoolishBirda
+成功创建账号prxsvx，初始金额100
+
+11:46:47 Lighta
+我这辈子都买不到女朋友
+
+11:46:53 detele
+给我1000
+
+11:46:55 Lighta
+money.info
+
+11:47:03 detele
+@Lighta 
+
+11:47:04 Lighta
+money.send prxsvx 1000
+
+11:47:13 detele
+你不是男的？@ee @ee 
+
+11:47:18 detele
+谢谢
+
+11:47:23 detele
+money.info
+
+11:47:25 Lighta
+你不会不知道把
+
+11:47:38 detele
+不知道
+
+11:47:43 ee
+不知道
+
+11:47:49 Lighta
+ee当然是男的啊
+
+11:47:49 detele
+money.play 200
+
+11:47:54 detele
+hh
+
+11:48:07 ee
+Light当然是cute gril啊
+
+11:48:09 detele
+那Lighta应该是女的
+
+11:48:14 Lighta
+对啊
+
+11:48:16 Lighta
+你不知道吗
+
+11:48:28 detele
+@Lighta 认为你是个男的
+
+11:48:38 detele
+对没错你是个女的
+
+11:48:48 Lighta
+一、电脑永远是对的。
+二、如果你觉得你没错，请参考第一条
+
+11:48:58 ee
+对 没错
+
+11:49:00 detele
+money.play 200
+
+11:49:08 detele
+money.play 100
+
+11:49:16 detele
+money.info
+
+11:49:26 detele
+nb赚了161
+
+11:49:31 ee
+money.play 10
+
+11:49:33 ee
+money.play 10
+
+11:49:34 ee
+money.play 10
+
+11:49:36 ee
+money.play 10
+
+11:49:39 detele
+我去设计一个苹果快捷指令
+
+11:49:48 Lighta
+money.put 男朋友*1 1
+
+11:49:49 FoolishBirda
+已经上传过了，请等待售光
+
+11:49:57 Lighta
+money.buy 男朋友
+
+11:49:57 FoolishBirda
+{'男朋友': {'cost': 50, 'contriver': 'for9zT', 'seller': 'for9zT', 'price': 51, 'num': 99996}, '史上最可爱的女孩光': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史上最可爱的傻鸟': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史前人类ee': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史前机器人eebot': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '一个女朋友': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 1314, 'num': 1}, '一个男朋友': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 1314, 'num': 1}}
+
+11:50:02 Lighta
+money.buy 一个男朋友
+
+11:50:02 FoolishBirda
+{'男朋友': {'cost': 50, 'contriver': 'for9zT', 'seller': 'for9zT', 'price': 51, 'num': 99995}, '史上最可爱的女孩光': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史上最可爱的傻鸟': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史前人类ee': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史前机器人eebot': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '一个女朋友': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 1314, 'num': 1}, '一个男朋友': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 1314, 'num': 1}}
+
+11:50:02 FoolishBirda
+背包新增物品
+
+11:50:06 Lighta
+money.info
+
+11:50:08 ee
+money.buy 男朋友
+
+11:50:08 FoolishBirda
+{'男朋友': {'cost': 50, 'contriver': 'for9zT', 'seller': 'for9zT', 'price': 51, 'num': 99995}, '史上最可爱的女孩光': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史上最可爱的傻鸟': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史前人类ee': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '史前机器人eebot': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 520, 'num': 1}, '一个女朋友': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 1314, 'num': 1}, '一个男朋友': {'cost': 52, 'contriver': 'eYFDHl', 'seller': 'eYFDHl', 'price': 1314, 'num': 1}}
+
+11:50:08 FoolishBirda
+背包新增物品
+
+11:50:10 Lighta
+焯
+
+11:50:13 Lighta
+还是没有
+
+11:50:16 ee
+还是没有
+
+11:50:17 ee
+giao
+
+11:51:25 eebot
+welcome back FoolishBirda
+
+11:51:27 Lighta
+money.info
+
+11:51:32 Lighta
+money.info
+
+11:51:35 Lighta
+money.buy 一个男朋友
+
+11:51:36 FoolishBirda
+背包新增物品
+
+11:51:40 Lighta
+money.info'
+
+11:51:42 Lighta
+money.info
+
+11:51:46 ee
+money.buy 男朋友
+
+11:51:47 FoolishBirda
+背包新增物品
+
+11:51:50 ee
+money.info
+
+11:52:47 eebot
+FoolishBirda is back
+
+11:52:51 Lighta
+money.buy 一个男朋友
+
+11:52:51 FoolishBirda
+背包新增物品
+
+11:53:12 ee
+@Lighta 成功了踹我一脚
+
+11:53:12 eebot
+FoolishBirda is back
+
+11:53:15 Lighta
+money.buy 一个男朋友
+
+11:53:15 FoolishBirda
+背包新增物品
+
+11:55:44 eebot
+FoolishBirda is back
+
+11:56:24 FoolishBirda
+hello,Lighta
+
+11:56:24 eebot
+hello Lighta
+
+11:56:34 eebot
+FoolishBirda is back
+
+11:56:45 Lighta
+money.buy 一个女朋友
+
+11:56:45 FoolishBirda
+背包新增物品
+
+11:57:07 eebot
+welcome back FoolishBirda
+
+11:57:10 Lighta
+money.buy 一个女朋友
+
+11:57:10 FoolishBirda
+背包新增物品
+
+11:57:10 FoolishBirda
+'int' object is not subscriptable
+
+11:58:24 Lighta
+money.info
+
+11:58:48 FoolishBirda
+hello,eebot
+
+11:58:48 eebot
+hi (o°ω°o)
+
+11:58:49 eebot
+想了解更多玩法 请输入「功能」
+
+11:58:50 ee
+真心话
+
+11:58:50 eebot
+·
+使用方法：
+1.发送「r」或「随机」获取随机数
+2.用「结算」输出数字最大和最小的成员
+3.数字最大的人向最小的提问
+4.结束时请输入「游戏结束」
+
+11:58:50 eebot
+真心话 游戏开始
+
+11:58:52 ee
+飞花令
+
+11:58:53 eebot
+已经在玩真心话了 三心二意达咩
+如何结束游戏？「结束游戏」
+
+11:58:53 eebot
+·
+关键词：花
+·
+示例：
+花自飘零水自流
+落花时节又逢君
+春江花潮秋月夜
+人面桃花相映红
+不知近水花先发
+千树万树梨花开
+霜叶红于二月花
+·
+使用方法：
+1.··七言律诗（前面有两点
+2.每句的关键词有固定位置
+3.当句子为七句时会自动结束游戏
+4.可使用「结束游戏」提前结束
+
+11:58:53 eebot
+游戏开始 下句的关键词在第1个字上
+
+12:00:35 FoolishBirda
+hello,eeebot
+
+12:00:35 eeebot
+hi (o°ω°o)
+
+12:00:35 eeebot
+想了解更多玩法 请输入「功能」
+
+12:00:38 eee
+真心话
+
+12:00:39 Lighta
+money.buy 一个女朋友
+
+12:00:39 eeebot
+·
+使用方法：
+1.发送「r」或「随机」获取随机数
+2.用「结算」输出数字最大和最小的成员
+3.数字最大的人向最小的提问
+4.结束时请输入「游戏结束」
+
+12:00:39 Lighta
+money.buy 一个女朋友
+
+12:00:39 eeebot
+真心话 游戏开始
+
+12:00:39 Lighta
+money.buy 一个女朋友
+
+12:00:42 Lighta
+money.info
+
+12:00:45 eee
+飞花令
+
+12:00:45 eeebot
+已经在玩真心话了 三心二意达咩
+如何结束游戏？「结束游戏」
+
+12:00:57 Lighta
+结束生命
+
+12:01:08 Lighta
+结束游戏
+
+12:01:09 eeebot
+真心话已结束
+
+12:01:23 eee
+Light的生命已结束
+
+12:01:35 Lighta
+money.shop
+
+12:01:35 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　男朋友　　　　 /   99995    /     50     /     51     /   for9zT   /   for9zT   
+000002 / 史上最可爱的女孩光　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000003 / 　史上最可爱的傻鸟　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000004 / 　　史前人类ee　　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000005 / 史前机器人eebot /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000006 / 　　一个男朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+
+12:01:46 Lighta
+money.buy 史前人类ee
+
+12:01:46 FoolishBirda
+背包新增物品
+
+12:01:46 FoolishBirda
+'int' object is not subscriptable
+
+12:01:55 eee
+money.buy 男朋友
+
+12:01:55 FoolishBirda
+背包新增物品
+
+12:01:55 FoolishBirda
+'int' object is not subscriptable
+
+12:01:58 Lighta
+money.info
+
+12:02:03 Lighta
+还是没有淦
+
+12:02:08 eee
+money.info
+
+12:02:15 eee
+还是没有giao
+
+12:03:31 eeebot
+hey FoolishBirda
+
+12:03:34 Lighta
+money.buy 史前人类ee
+
+12:03:54 Lighta
+money.buy 史前人类ee
+
+12:04:08 eee
+money.buy 男朋友
+
+12:04:08 FoolishBirda
+背包新增物品
+
+12:04:08 FoolishBirda
+'int' object is not subscriptable
+
+12:04:13 eee
+money.info
+
+12:04:23 Lighta
+money.buy 史前人类ee
+
+12:04:32 Lighta
+money.info
+
+12:04:39 eee
+没有
+
+12:04:42 Lighta
+money.buy 史前人类ee
+
+12:05:22 Lighta
+不知道怎么回事
+
+12:05:26 Lighta
+money.shop
+
+12:05:26 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　男朋友　　　　 /   99993    /     50     /     51     /   for9zT   /   for9zT   
+000002 / 史上最可爱的女孩光　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000003 / 　史上最可爱的傻鸟　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000004 / 史前机器人eebot /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000005 / 　　一个男朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+
+12:05:34 Lighta
+money.buy 男朋友
+
+12:05:34 FoolishBirda
+背包新增物品
+
+12:05:34 FoolishBirda
+'int' object is not subscriptable
+
+12:05:39 Lighta
+money.info
+
+12:05:49 eee
+money.buy 男朋友
+
+12:05:50 FoolishBirda
+背包新增物品
+
+12:05:50 FoolishBirda
+'int' object is not subscriptable
+
+12:05:53 eee
+money.info
+
+12:05:59 eee
+嘶
+
+12:06:05 eee
+发现原因了
+
+12:06:09 eee
+有扣钱
+
+12:06:09 eeebot
+welcome back FoolishBirda
+
+12:06:16 eee
+但背包没显示
+
+12:06:17 Lighta
+money.info
+
+12:06:50 Lighta
+都没写到存档里
+
+12:09:51 eee
+真心话
+
+12:09:52 eeebot
+·
+使用方法：
+1.发送「r」或「随机」获取随机数
+2.用「结算」输出数字最大和最小的成员
+3.数字最大的人向最小的提问
+4.结束时请输入「游戏结束」
+
+12:09:52 eeebot
+真心话 游戏开始
+
+12:10:27 eee
+r
+
+12:10:27 eeebot
+137
+
+12:10:28 eee
+r
+
+12:10:28 eeebot
+eee已经roll过了
+
+12:10:43 FoolishBirda
+hello,eeee
+
+12:10:43 eeebot
+hey eeee
+
+12:10:45 eeee
+r
+
+12:10:45 eeebot
+531
+
+12:10:49 eeee
+结算
+
+12:10:50 eeebot
+·
+本次参与人数：2
+·
+最大：531（eeee）
+最小：137（eee）
+
+12:10:50 eeebot
+请eeee向eee提问
+
+12:11:11 eeee
+r
+
+12:11:11 eeebot
+473
+
+12:11:12 eeee
+结算
+
+12:11:13 eeebot
+人数不足 至少要有2个人
+
+12:11:31 eeebot
+welcome back FoolishBirda
+
+12:11:36 Lighta
+money.info
+
+12:11:40 Lighta
+money.buy 男朋友
+
+12:11:43 Lighta
+money.info
+
+12:11:48 eee
+money.buy 男朋友
+
+12:11:52 Lighta
+啊啊啊啊啊啊啊啊啊
+
+12:11:56 eee
+啊啊啊啊啊啊啊啊啊啊啊啊
+
+12:11:57 Lighta
+这什么东西啊
+
+12:12:02 eee
+冷静 冷静
+
+12:12:03 Lighta
+我要崩溃了
+
+12:12:29 eee
+在鸟刚进来时还是能买的
+
+12:12:40 eee
+money.buy 一个女朋友
+
+12:12:41 Lighta
+对对对
+
+12:12:50 eee
+是不是改到了什么
+
+12:13:08 eeebot
+welcome back FoolishBirda
+
+12:13:13 Lighta
+money.buy 男朋友
+
+12:13:27 eee
+money.buy 男朋友
+
+12:13:37 Lighta
+money.info
+
+12:13:39 eee
+money.info
+
+12:13:41 Lighta
+money.shop
+
+12:13:41 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　男朋友　　　　 /   99991    /     50     /     51     /   for9zT   /   for9zT   
+000002 / 史上最可爱的女孩光　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000003 / 　史上最可爱的傻鸟　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000004 / 史前机器人eebot /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000005 / 　　一个男朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+
+12:14:35 Lighta
+money.made nicebook*10 500
+
+12:14:35 FoolishBirda
+制作成功，已放入背包
+
+12:14:52 Lighta
+money.put nicebook*10 501
+
+12:14:52 FoolishBirda
+成功上传
+
+12:15:03 Lighta
+money.buy nicebook
+
+12:15:06 Lighta
+啊
+
+12:15:12 Lighta
+好像只有英文可以
+
+12:15:15 Lighta
+money.buy nicebook
+
+12:15:22 Lighta
+money.shop
+
+12:15:22 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　男朋友　　　　 /   99991    /     50     /     51     /   for9zT   /   for9zT   
+000002 / 史上最可爱的女孩光　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000003 / 　史上最可爱的傻鸟　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000004 / 史前机器人eebot /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000005 / 　　一个男朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+000006 / 　nicebook　 /     10     /    500     /    501     /   for9zT   /   for9zT   
+
+12:15:39 Lighta
+只有英文可以
+
+12:17:13 Lighta
+money.buy \u53f2\u524d\u673a\u5668\u4ebaeebot
+
+12:19:01 eeebot
+welcome back FoolishBirda
+
+12:19:19 Lighta
+money.put 哈哈哈*1 500
+
+12:19:19 FoolishBirda
+你的背包里没有这个物品哦
+
+12:19:28 Lighta
+money.made 哈哈哈*1 500
+
+12:19:35 Lighta
+money.made hafk
+
+12:19:49 Lighta
+money.made bot*50 500
+
+12:19:49 FoolishBirda
+制作成功，已放入背包
+
+12:20:00 Lighta
+money.put bot*50 500
+
+12:20:00 FoolishBirda
+成功上传
+
+12:20:04 Lighta
+money.shop
+
+12:20:04 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　男朋友　　　　 /   99991    /     50     /     51     /   for9zT   /   for9zT   
+000002 / 史上最可爱的女孩光　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000003 / 　史上最可爱的傻鸟　 /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000004 / 史前机器人eebot /     1      /     52     /    520     /   eYFDHl   /   eYFDHl   
+000005 / 　　一个男朋友　　　 /     1      /     52     /    1314    /   eYFDHl   /   eYFDHl   
+000006 / 　nicebook　 /     10     /    500     /    501     /   for9zT   /   for9zT   
+000007 / 　　　bot　　　　 /     50     /    500     /    500     /   for9zT   /   for9zT   
+
+12:20:13 Lighta
+money.buy bot
+
+12:20:17 Lighta
+money.info
+
+12:20:29 Lighta
+money.info
+
+12:20:34 Lighta
+money.buy bot
+
+12:20:37 Lighta
+money.info
+
+12:22:26 eee
+money.buy bot
+
+12:22:30 eeebot
+FoolishBirda is back
+
+12:22:35 eee
+money.info
+
+12:22:39 eee
+啊
+
+12:22:51 Lighta
+money.info
+
+12:22:58 eee
+money.info
+
+12:23:03 Lighta
+money.shop
+
+12:23:04 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+
+12:23:04 eee
+money.buy bot
+
+12:23:08 eee
+嘶
+
+12:23:16 Lighta
+从现在开始只能弄英文名商品了
+
+12:23:17 eee
+清空存档了吗
+
+12:24:23 FoolishBirda
+hello,eebot
+
+12:24:23 eebot
+hi (o°ω°o)
+
+12:24:23 eebot
+想了解更多玩法 请输入「功能」
+
+12:24:31 ee
+颜色
+
+12:24:39 ee
+换色
+
+12:24:40 eebot
+This Color: #15DA48
+Old Color: #44FF00
+
+12:25:17 ee
+color
+
+12:25:18 eebot
+This Color: #F12438
+Old Color: #44FF00
+
+12:25:20 ee
+color
+
+12:25:20 eebot
+This Color: #F0D057
+Old Color: #44FF00
+
+12:25:23 ee
+color
+
+12:25:23 eebot
+This Color: #686CE8
+Old Color: #44FF00
+
+12:25:44 ee
+color
+
+12:25:45 eebot
+This Color: #3DA46B
+Old Color: #44FF00
+
+12:25:55 eebot
+hi FoolishBird
+
+12:26:18 ee
+color
+
+12:26:18 eebot
+This Color: #DA388A
+Old Color: #44FF00
+
+12:26:20 ee
+color
+
+12:26:20 eebot
+This Color: #C37AC6
+Old Color: #44FF00
+
+12:26:22 ee
+color
+
+12:26:38 ee
+color
+
+12:26:38 eebot
+This Color: #6AE94D
+Old Color: #44FF00
+
+12:27:07 Lighta
+@ee 我foolishbird就挂这了
+
+12:27:17 Lighta
+有人想玩的话你说一下
+
+12:27:18 ee
+@Lighta 人别走
+
+12:27:53 ee
+money.made cute girl light*1 1
+
+12:28:01 ee
+money.made cutegirllight*1 1
+
+12:28:02 FoolishBird
+制作成功，已放入背包
+
+12:28:03 FoolishBird
+hello,detele
+
+12:28:04 eebot
+hello detele
+
+12:28:05 Lighta
+我挂在那
+
+12:28:23 ee
+money.put cutegirllight*1 520
+
+12:28:23 FoolishBird
+成功上传
+
+12:28:36 ee
+@Lighta OKK
+
+12:29:03 detele
+money.made jsjs*1 100
+
+12:29:03 FoolishBird
+制作成功，已放入背包
+
+12:29:04 ee
+Light放心吧 
+
+12:29:12 FoolishBird
+hello,Light_Server
+
+12:29:12 eebot
+hi Light_Server
+
+12:29:24 ee
+我们会爱护foolishbrid的（不是
+
+12:29:32 ee
+money.shop
+
+12:29:32 FoolishBird
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / cutegirllight /     1      /     1      /    520     /   eYFDHl   /   eYFDHl   
+
+12:29:32 Lighta
+！！
+
+12:29:33 eebot
+！！
+
+12:29:36 Lighta
+我先走了哦
+
+12:29:42 detele
+money.put jsjs*1 150
+
+12:29:42 FoolishBird
+成功上传
+
+12:29:42 ee
+加油！
+
+12:29:43 eebot
+加油！
+
+12:29:48 ee
+拜拜
+
+12:29:49 detele
+买这个
+
+12:29:56 detele
+@ee 
+
+12:30:07 ee
+@detele no*n
+
+12:30:19 detele
+cnm
+
+12:30:26 detele
+money.info
+
+12:30:36 ee
+money.info
+
+12:30:49 ee
+ohhhhhhhmd
+
+12:30:54 ee
+Light别走啊
+
+12:30:55 ee
+BUG
+
+12:30:57 ee
+BUG
+
+12:31:10 ee
+>序号/ 名称 / 数量 / 成本 / 发明者
+000001 / cutegirllight / -519 / 1 / eYFDHl
+
+12:31:16 detele
+-149个数量
+
+12:31:18 Light_Server
+!!!
+
+12:31:18 ee
+《-519》
+
+12:31:19 eebot
+《-519》
+
+12:31:20 ee
+我也
+
+12:31:29 detele
+Light有Bug
+
+12:31:39 ee
+《Light有Bug》
+
+12:31:55 detele
+哈哈哈笑死
+
+12:32:26 Light_Server
+money.info
+
+12:32:32 detele
+《Light有Bug》
+
+12:32:33 Light_Server
+money.shop
+
+12:32:33 FoolishBird
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / cutegirllight /     1      /     1      /    520     /   eYFDHl   /   eYFDHl   
+000002 / 　　　jsjs　　　 /     1      /    100     /    150     /   prxsvx   /   prxsvx   
+
+12:32:43 Light_Server
+money.buy jsjs
+
+12:32:47 Light_Server
+money.info
+
+12:32:47 detele
+谢了
+
+12:32:56 detele
+money.info
+
+12:33:03 detele
+没到账
+
+12:33:03 Light_Server
+az
+
+12:33:03 ee
+money.info
+
+12:33:25 ee
+meme
+
+12:33:26 eebot
+u_u
+
+12:33:32 FoolishBird
+hello,FoolishBirda
+
+12:33:32 eebot
+hey FoolishBirda
+
+12:33:52 FoolishBird
+hello,Lighta
+
+12:33:52 FoolishBirda
+hello,Lighta
+
+12:33:52 eebot
+hello Lighta
+
+12:33:59 Lighta
+money.info
+
+12:34:02 ee
+money.made Lighta*1 1
+
+12:34:06 Lighta
+money.shop
+
+12:34:06 FoolishBird
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / cutegirllight /     1      /     1      /    520     /   eYFDHl   /   eYFDHl   
+000002 / 　　　jsjs　　　 /     1      /    100     /    150     /   prxsvx   /   prxsvx   
+
+12:34:06 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+
+12:34:13 ee
+money.made Lighta*1 1
+
+12:34:26 ee
+？
+
+12:34:27 eebot
+？
+
+12:34:33 Lighta
+money.shop
+
+12:34:33 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+
+12:34:46 Lighta
+money.made python_book*1 150
+
+12:34:47 FoolishBirda
+制作成功，已放入背包
+
+12:34:58 Lighta
+money.put python_book*1 180
+
+12:34:58 FoolishBirda
+成功上传
+
+12:35:02 Lighta
+money.shop
+
+12:35:02 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / python_book /     1      /    150     /    180     /   for9zT   /   for9zT   
+
+12:35:10 Lighta
+money.buy python_book
+
+12:35:15 Lighta
+money.info
+
+12:36:30 detele
+Light
+
+12:36:35 detele
+有
+
+12:36:36 detele
+Bug
+
+12:36:48 FoolishBirda
+hello,eebot
+
+12:36:52 ee
+帮助
+
+12:36:59 detele
+帮助
+
+12:37:21 Lighta
+money.info
+
+12:37:25 Lighta
+money.made python_book*1 150
+
+12:37:25 FoolishBirda
+制作成功，已放入背包
+
+12:37:27 detele
+money.indo
+
+12:37:29 Lighta
+money.put python_book*1 180
+
+12:37:29 FoolishBirda
+成功上传
+
+12:37:32 Lighta
+money.shop
+
+12:37:33 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / python_book /     1      /    150     /    180     /   for9zT   /   for9zT   
+
+12:37:34 detele
+money.infi
+
+12:37:38 detele
+money.info
+
+12:37:42 Lighta
+money.buy python_book
+
+12:38:18 Lighta
+money.buy python_book
+
+12:38:57 detele
+money.made Python*1 20
+
+12:39:24 detele
+money.info
+
+12:39:46 detele
+money.made Py
+
+12:40:06 Lighta
+money.buy python_book
+
+12:41:02 Lighta
+money.shop
+
+12:41:02 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / python_book /     1      /    150     /    180     /   for9zT   /   for9zT   
+
+12:41:13 Lighta
+money.buy python_book
+
+12:42:51 FoolishBirda
+hello,eeebot
+
+12:43:18 ee
+帮助
+
+12:43:19 eeebot
+·
+hc指令：https://tieba.baidu.com/p/6833224084
+hc百科：https://chumo.sbsbsb.sbs/wiki
+hc同人作品集：https://note.ms/HCworks111
+·
+这是部分有关hack.chat的链接 欢迎投稿
+
+12:43:29 FoolishBirda
+hello,eeebot
+
+12:43:29 eeebot
+hi (o°ω°o)
+
+12:43:30 eeebot
+想了解更多玩法 请输入「功能」
+
+12:43:44 Lighta
+money.info
+
+12:44:02 FoolishBirda
+hello,eeebot
+
+12:44:02 eeebot
+hi (o°ω°o) this is eebot
+
+12:44:02 eeebot
+想了解更多玩法 请输入「功能」
+
+12:44:20 FoolishBirda
+hello,eeebot
+
+12:44:20 eeebot
+hi (o°ω°o) This is eebot
+
+12:44:20 eeebot
+想了解更多玩法 请输入「功能」
+
+12:44:36 ee
+功能
+
+12:44:37 eeebot
+·
+随机：七濑胡桃/heal, 小姐姐/cutie, 阿鲁/aru, 涩图/acg, 头像/head, 音乐/music, 随机/r
+日历/cal, 农历/date, 表情/meme, 换色/color, 时间/time, 挂机/afk, 翻译/tran
+·
+其他：一言, 励志, 抽签, 笑话, 情话, 骚话, 古诗词, 彩虹屁, 毒鸡汤, 今日曰
+舔狗日记, 社会语录, 历史今天, 网易热评, 摸鱼日历, 今日世界
+·
+无聊专用：飞花令, 真心话, 功能/order, 帮助/help, 重置/clear
+推荐/wuhu, 树洞/tree, 趣站/site, 游戏/game, 网盘/pan, 聊天室/chat
+·
+不会使用？试试在下面「聊天框」里发送上面的命令吧
+
+12:44:52 Lighta
+money.info
+
+12:45:21 Lighta
+money.made fuckbot*1 20
+
+12:45:21 FoolishBirda
+制作成功，已放入背包
+
+12:45:30 Lighta
+money.put fuckbot*1 15
+
+12:45:31 FoolishBirda
+成功上传
+
+12:45:34 Lighta
+money.shop
+
+12:45:34 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　fuckbot　　 /     1      /     20     /     15     /   for9zT   /   for9zT   
+
+12:45:40 Lighta
+money.buy fuckbot
+
+12:45:40 FoolishBirda
+{'cost': 20, 'contriver': 'for9zT', 'seller': 'for9zT', 'price': 15, 'num': 1}
+
+12:45:53 Lighta
+money.put fuckbots*10 15
+
+12:45:53 FoolishBirda
+你的背包里没有这个物品哦
+
+12:45:58 Lighta
+money.made fuckbots*10 15
+
+12:45:58 FoolishBirda
+制作成功，已放入背包
+
+12:46:02 FoolishBirda
+hello,eeebot
+
+12:46:02 eeebot
+hi (o°ω°o) this is eebot
+
+12:46:02 eeebot
+想了解更多玩法 请输入「功能」
+
+12:46:09 Lighta
+money.shop
+
+12:46:09 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　fuckbots　 /     10     /     15     /     15     /   for9zT   /   for9zT   
+
+12:46:14 ee
+真心话
+
+12:46:14 eeebot
+·
+使用方法：
+1.发送「r」或「随机」获取随机数
+2.用「结算」输出数字最大和最小的成员
+3.由数字最大的人向最小的提问
+4.结束时请输入「游戏结束」
+
+12:46:14 eeebot
+真心话 游戏开始
+
+12:46:15 ee
+真心话
+
+12:46:15 eeebot
+真心话已经开始了
+
+12:46:18 Lighta
+money.buy fuckbots
+
+12:46:18 FoolishBirda
+{'cost': 15, 'contriver': 'for9zT', 'seller': 'for9zT', 'price': 15, 'num': 10}
+
+12:46:25 Lighta
+money.info
+
+12:47:36 Lighta
+money.shop
+
+12:47:36 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+
+12:47:48 Lighta
+money.made fuk*10 20
+
+12:47:48 FoolishBirda
+制作成功，已放入背包
+
+12:47:57 Lighta
+money.put fuk*10 21
+
+12:47:58 FoolishBirda
+成功上传
+
+12:48:00 Lighta
+money.shop
+
+12:48:00 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　fuk　　　　 /     10     /     20     /     21     /   for9zT   /   for9zT   
+
+12:48:10 Lighta
+money.buy fuk
+
+12:48:10 FoolishBirda
+{'cost': 20, 'contriver': 'for9zT', 'seller': 'for9zT', 'price': 21, 'num': 10}
+
+12:48:10 FoolishBirda
+{'cost': 20, 'contriver': 'for9zT', 'seller': 'for9zT', 'price': 21, 'num': 1}
+
+12:49:05 FoolishBirda
+hello,eeebot
+
+12:49:05 eeebot
+hi (o°ω°o) this is eebot
+
+12:49:05 eeebot
+想了解更多玩法 请输入「功能」
+
+12:49:10 ee
+真心话
+
+12:49:11 eeebot
+·
+使用方法：
+1.发送「r」或「随机」获取随机数
+2.用「结算」输出数字最大和最小的成员
+3.由数字最大的人向最小的提问
+4.结束时请输入「游戏结束」
+
+12:49:11 eeebot
+真心话 游戏开始
+
+12:49:12 ee
+真心话
+
+12:49:12 eeebot
+真心话已经开始了
+
+12:49:23 ee
+飞花令
+
+12:49:23 eeebot
+已经在玩真心话了 三心二意达咩
+如何结束游戏？「结束游戏」
+
+12:49:56 Lighta
+money.buy fuk
+
+12:49:59 Lighta
+money.shop
+
+12:49:59 FoolishBirda
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+
+12:50:03 Lighta
+money.info
+
+12:50:36 eeebot
+hi (o°ω°o) this is eebot
+
+12:50:36 eeebot
+想了解更多玩法 请输入「功能」
+
+12:50:37 ee
+真心话
+
+12:50:37 eeebot
+·
+使用方法：
+1.发送「r」或「随机」获取随机数
+2.用「结算」输出数字最大和最小的成员
+3.由数字最大的人向最小的提问
+4.结束时请输入「游戏结束」
+
+12:50:37 eeebot
+真心话 游戏开始
+
+12:50:38 ee
+飞花令
+
+12:50:38 eeebot
+·
+如何结束游戏？「结束游戏」
+
+12:50:59 eeebot
+hi (o°ω°o) this is eebot
+
+12:50:59 eeebot
+想了解更多玩法 请输入「功能」
+
+12:51:00 ee
+真心话
+
+12:51:00 eeebot
+·
+使用方法：
+1.发送「r」或「随机」获取随机数
+2.用「结算」输出数字最大和最小的成员
+3.由数字最大的人向最小的提问
+4.结束时请输入「游戏结束」
+
+12:51:01 eeebot
+真心话 游戏开始
+
+12:51:01 ee
+飞花令
+
+12:51:01 eeebot
+·
+来自eebot的温馨提示：
+已经在玩真心话了 三心二意达咩
+·
+如何结束游戏？「结束游戏」
+
+12:51:51 ee
+重置游戏
+
+12:51:51 eeebot
+真心话已重置
+
+12:52:06 ee
+飞花令
+
+12:52:07 eeebot
+·
+来自eebot的温馨提示：
+已经在玩真心话了 三心二意达咩
+·
+如何结束游戏？「结束游戏」
+
+12:52:11 ee
+结束游戏
+
+12:52:12 eeebot
+真心话已结束
+
+12:52:15 ee
+飞花令
+
+12:52:16 eeebot
+·
+关键词：花
+·
+示例：
+花自飘零水自流
+落花时节又逢君
+春江花潮秋月夜
+人面桃花相映红
+不知近水花先发
+千树万树梨花开
+霜叶红于二月花
+·
+使用方法：
+1.··七言律诗（前面有两点
+2.每句的关键词有固定位置
+3.当句子为七句时会自动结束游戏
+4.可使用「结束游戏」提前结束
+
+12:52:16 eeebot
+游戏开始 下句的关键词在第1个字上
+
+12:52:18 ee
+重置游戏
+
+12:52:19 eeebot
+飞花令已重置
+
+12:52:19 eeebot
+下句的关键词在第1个字上
+
+12:53:09 eeebot
+hi (o°ω°o) this is eebot
+
+12:53:09 eeebot
+想了解更多玩法 请输入「功能」
+
+12:53:24 eeebot
+hi this is eebot (o°ω°o)
+
+12:53:25 eeebot
+想了解更多玩法 请输入「功能」
+
+12:53:47 eeebot
+hey FoolishBird
+
+12:53:53 detele
+有bug
+
+12:54:16 Lighta
+money.info
+
+12:54:20 Lighta
+money.shop
+
+12:54:20 FoolishBird
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / cutegirllight /     1      /     1      /    520     /   eYFDHl   /   eYFDHl   
+000002 / 　　　jsjs　　　 /     1      /    100     /    150     /   prxsvx   /   prxsvx   
+
+12:54:25 Lighta
+money.buy jsjs
+
+12:54:27 detele
+money
+
+12:54:33 detele
+money.info
+
+12:54:40 detele
+没到账
+
+12:55:18 detele
+序号/ 名称 / 数量 / 成本 / 发明者
+000001 / 　　　　jsjs　　　　 / -149 / 100 / prxsvx
+
+12:55:47 eeebot
+FoolishBird is back
+
+12:56:52 Lighta
+money.made book*10 50
+
+12:56:52 FoolishBird
+制作成功，已放入背包
+
+12:56:58 Lighta
+money.info
+
+12:57:40 detele
+money.play 161
+
+12:57:47 detele
+money.play 100
+
+12:57:53 detele
+money.play 100
+
+12:57:58 detele
+money.play 100
+
+12:58:03 detele
+money.info
+
+12:58:09 detele
+money.play 10
+
+12:58:14 detele
+money.play 10
+
+12:58:22 detele
+money.play 10
+
+12:58:27 detele
+money.info
+
+12:59:00 detele
+money.info
+
+12:59:21 Lighta
+money.put book*9 6
+
+12:59:21 FoolishBird
+成功上传
+
+12:59:25 Lighta
+money.info
+
+12:59:30 Lighta
+money.shop
+
+12:59:30 FoolishBird
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　book　　　 /     9      /     50     /     6      /   for9zT   /   for9zT   
+
+12:59:54 detele
+money.buy book*1
+
+12:59:54 Lighta
+money.buy book
+
+12:59:59 Lighta
+money.info
+
+13:00:04 Lighta
+ok
+
+13:00:05 detele
+money.buy book
+
+13:00:11 detele
+money.info
+
+13:00:15 detele
+艹
+
+13:00:22 detele
+午安@Lighta 
+
+13:00:43 detele
+我的微信是13929761900
+
+13:00:45 detele
+欢迎
+
+13:00:47 Lighta
+qq
+
+13:00:53 Lighta
+这
+
+13:01:21 Lighta
+money.info
+
+13:01:28 Lighta
+money.shop
+
+13:01:28 FoolishBird
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　book　　　 /     8      /     50     /     6      /   for9zT   /   for9zT   
+
+13:02:05 Lighta
+money.made __light__*100 100
+
+13:02:05 FoolishBird
+制作成功，已放入背包
+
+13:02:11 eeebot
+hi this is eebot (o°ω°o)
+
+13:02:11 eeebot
+想了解更多玩法 请输入「功能」
+
+13:02:12 FoolishBird
+hello,eeebot
+
+13:02:18 Lighta
+money.put __light__*100 100
+
+13:02:18 FoolishBird
+成功上传
+
+13:02:23 Lighta
+money.shop
+
+13:02:23 FoolishBird
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　book　　　 /     8      /     50     /     6      /   for9zT   /   for9zT   
+000002 / __light__　 /    100     /    100     /    100     /   for9zT   /   for9zT   
+
+13:02:37 Lighta
+money.buy __light__
+
+13:02:42 Lighta
+money.info
+
+13:02:54 ee
+money.made Light*1 52
+
+13:03:08 ee
+money.info
+
+13:03:16 ee
+money.made Light*1 52
+
+13:03:36 ee
+money.put Light*1 520
+
+13:03:36 FoolishBird
+你的背包里没有这个物品哦
+
+13:03:41 ee
+money.made Light*1 52
+
+13:03:42 Lighta
+money.buy __light__
+
+13:03:44 ee
+ohhhhhh
+
+13:03:55 Lighta
+money.info
+
+13:04:38 eeebot
+hi this is eebot (o°ω°o)
+
+13:04:38 eeebot
+想了解更多玩法 请输入「功能」
+
+13:04:41 ee
+重置游戏
+
+13:04:43 ee
+结束游戏
+
+13:04:50 eeebot
+hi FoolishBird
+
+13:04:51 ee
+真心话
+
+13:04:52 eeebot
+·
+使用方法：
+1.发送「r」或「随机」获取随机数
+2.用「结算」输出数字最大和最小的成员
+3.由数字最大的人向最小的提问
+4.结束时请输入「游戏结束」
+
+13:04:52 eeebot
+真心话 游戏开始
+
+13:04:55 ee
+重置游戏
+
+13:04:55 eeebot
+真心话已重置
+
+13:04:58 ee
+结束游戏
+
+13:04:58 eeebot
+真心话已结束
+
+13:05:06 Lighta
+money.info
+
+13:05:14 Lighta
+money.shop
+
+13:05:20 FoolishBird
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　book　　　 /     8      /     50     /     6      /   for9zT   /   for9zT   
+000002 / __light__　 /    100     /    100     /    100     /   for9zT   /   for9zT   
+
+13:05:29 Lighta
+money.buy __light__
+
+13:06:08 Lighta
+我真走了
+
+13:06:17 Lighta
+有时间的话我再回来做
+
+13:06:33 Lighta
+交易部分可能用不了
+
+13:10:11 ee
+啊啊啊啊啊啊啊啊
+
+13:10:29 ee
+希望Light加油吧
+
+13:27:56 zzmemset_zero
+.
+
+13:28:01 zzmemset_zero
+有人吗
+
+13:32:21 ee
+有
+
+13:35:17 zzmemset_zero
+@ee 北路噶来了）
+
+13:35:25 zzmemset_zero
+yooo
+
+13:35:56 zzmemset_zero
+等等。
+
+13:36:14 zzmemset_zero
+你不会在主频掉线了吧（
+
+13:46:42 zzmemset_zero
+emmm
+
+13:46:43 eeebot
+emmm
+
+14:22:29 eeebot
+hello detele
+
+14:22:29 FoolishBird
+hello,detele
+
+14:22:37 detele
+hello
+
+14:22:41 detele
+回归
+
+14:22:53 detele
+money.info
+
+14:23:05 detele
+money.play 50
+
+14:23:13 detele
+money.play 48
+
+14:23:18 detele
+延迟严重
+
+14:25:50 detele
+money.play 30
+
+14:25:56 detele
+money.play 30
+
+14:26:03 detele
+money.play 30
+
+14:26:08 detele
+money.info
+
+14:26:32 detele
+Light姐姐给我1000
+
+14:26:41 detele
+好吧
+
+14:27:02 detele
+《关于我找不到女朋友这事》
+
+14:27:08 detele
+艹
+
+14:27:47 eeebot
+hello detele2
+
+14:27:50 FoolishBird
+hello,detele2
+
+14:27:53 detele2
+money.create
+
+14:27:57 FoolishBird
+成功创建账号Jtdqvo，初始金额100
+
+14:28:09 detele2
+money.play 20
+
+14:28:16 detele2
+money.play 20
+
+14:28:24 detele2
+money.play 20
+
+14:28:31 detele2
+money.play 18
+
+14:28:39 detele2
+money.play 17
+
+14:28:45 detele2
+money.play 16
+
+14:28:50 detele2
+money.play 15
+
+14:28:57 detele2
+money.play 14
+
+14:29:05 detele2
+money.play 13
+
+14:29:11 detele2
+money.play 13
+
+14:29:17 detele2
+money.play 12
+
+14:29:33 detele2
+money.info
+
+14:29:46 detele2
+money.send prxsvx 48
+
+14:29:57 detele2
+money.play 20
+
+14:30:04 detele2
+money.play 20
+
+14:30:10 detele2
+money.play 1
+
+14:30:24 detele2
+money.play 1
+
+14:30:28 detele2
+money.info
+
+14:30:34 detele2
+妈的
+
+14:30:38 detele2
+还剩五十八
+
+14:30:53 detele2
+胜率太死
+
+14:31:21 detele
+money.play 20
+
+14:31:27 detele
+money.play 20
+
+14:31:41 detele
+money.play 20
+
+14:31:45 detele
+money.play 20
+
+14:31:56 detele
+money.play 28
+
+14:32:03 detele
+money.play 20
+
+14:32:15 detele
+money.info
+
+14:33:55 eeebot
+hi DeteleTest
+
+14:33:57 FoolishBird
+hello,DeteleTest
+
+14:36:12 detele
+money.play 20
+
+14:36:14 detele
+money.play 20
+
+14:36:21 detele
+money.play 50
+
+14:36:26 detele
+money.play 50
+
+14:36:31 detele
+money.play 50
+
+14:36:36 detele
+money.play 50
+
+14:36:44 detele
+money.play 50
+
+14:36:51 detele
+money.info
+
+15:25:27 ee
+r
+
+15:25:27 eeebot
+785
+
+15:25:30 ee
+r
+
+15:25:30 eeebot
+707
+
+15:25:33 ee
+r 啊
+
+15:26:23 ee
+作业真多
+
+15:31:23 FoolishBird
+hello,0
+
+15:31:23 eeebot
+hi 0
+
+15:53:35 eeebot
+welcome back detele
+
+15:53:35 FoolishBird
+hello,detele
+
+15:53:43 detele
+怎么挂机器人
+
+15:57:05 eeebot
+detele is back
+
+15:57:11 FoolishBird
+hello,detele
+
+16:04:34 detele
+error from callback <bound method main.on_close of <__main__.main object at 0x000002643510A410>>: main.on_close() takes 2 positional arguments but 4 were given
+
+18:05:50 eeebot
+welcome back DeteleTest
+
+18:05:52 FoolishBird
+hello,DeteleTest
+
+18:05:57 DeteleTest
+ee
+
+18:05:59 DeteleTest
+在吗
+
+18:06:45 eeebot
+welcome back DeteleTest
+
+18:06:49 FoolishBird
+hello,DeteleTest
+
+18:06:49 DeteleTest
+ee
+
+18:06:52 DeteleTest
+在吗
+
+18:09:46 DeteleTest
+@eeebot 
+
+18:10:24 eeebot
+hi clama
+
+18:10:24 FoolishBird
+hello,clama
+
+18:10:32 clama
+ohhhhhhhhhhhhh
+
+18:11:04 clama
+:D
+
+18:11:05 eeebot
+:D
+
+18:11:24 clama
+this is #eee hahaha
+
+18:11:44 DeteleTest
+hhh
+
+18:11:55 DeteleTest
+ee的bot
+
+18:12:03 clama
+eeebot
+
+18:12:22 clama
+eeebot和FoolishBird都是机器人吗
+
+18:13:10 DeteleTest
+嗯
+
+18:13:51 DeteleTest
+bird是Light的
+
+18:14:03 DeteleTest
+eeebot是ee的
+
+18:14:14 clama
+你也有吗
+
+18:14:56 clama
+机器人要怎么写
+
+18:17:26 DeteleTest
+@clama 多大了
+
+18:18:31 clama
+15
+
+18:18:44 DeteleTest
+我12
+
+18:19:05 clama
+ohhhhhhhhhh
+
+18:19:14 clama
+五年还是六年
+
+18:19:14 DeteleTest
+你等等别退
+
+18:19:21 DeteleTest
+六年级
+
+18:19:24 clama
+呃没事我不介意
+
+18:19:26 DeteleTest
+我去洗碗
+
+18:19:33 DeteleTest
+15min左右
+
+18:19:35 clama
+ohhhhhh
+
+18:19:39 clama
+OK
+
+18:19:44 DeteleTest
+我待会跟你说说
+
+18:19:51 clama
+好
+
+18:19:55 DeteleTest
+还有我大号是detele
+
+18:19:58 clama
+我现在在外面吃饭
+
+18:19:59 DeteleTest
+这是测试号
+
+18:20:03 DeteleTest
+嗯嗯
+
+18:20:05 clama
+OK
+
+18:26:08 DeteleTest
+okok
+
+18:26:14 DeteleTest
+我来了
+
+18:26:36 DeteleTest
+@clama 
+
+18:28:02 0
+祭了兄弟盟
+
+18:28:13 DeteleTest
+啥
+
+18:28:16 eeebot
+hey zzmemset0
+
+18:28:20 FoolishBird
+hello,zzmemset0
+
+18:28:29 zzmemset0
+明天开学
+
+18:28:31 zzmemset0
+。。。
+
+18:28:41 zzmemset0
+不知道什么时候回来
+
+18:28:42 DeteleTest
+。
+
+18:28:49 DeteleTest
+归期不定
+
+18:28:53 zzmemset0
+暑假吧
+
+18:28:56 zzmemset0
+对
+
+18:29:00 zzmemset0
+归期不定
+
+18:29:15 DeteleTest
+我万一无了就归期不定了
+
+18:29:22 DeteleTest
+有可能被收手机
+
+18:29:37 zzmemset0
+平时小假可能回来看看（
+
+18:29:52 zzmemset0
+如果不出意外
+
+18:31:09 DeteleTest
+嗯
+
+18:32:40 zzmemset0
+clama是谁啊
+
+18:33:37 clama
+我也回来了
+
+18:33:38 DeteleTest
+隔壁channel进来的
+
+18:33:44 DeteleTest
+他想学
+
+18:33:50 DeteleTest
+@clama 
+
+18:33:52 DeteleTest
+本人是吗
+
+18:33:57 zzmemset0
+哦
+
+18:34:06 zzmemset0
+我也想学
+
+18:34:09 zzmemset0
+hmm
+
+18:34:10 eeebot
+hm
+
+18:34:13 clama
+实话实说吧
+
+18:34:18 zzmemset0
+没时间了
+
+18:34:21 clama
+我是某人的小号
+
+18:34:24 zzmemset0
+light
+
+18:34:28 DeteleTest
+对
+
+18:34:32 clama
+light
+
+18:34:34 clama
+？
+
+18:34:34 eeebot
+？
+
+18:34:37 DeteleTest
+不然是ee
+
+18:34:43 clama
+ee？
+
+18:34:44 eeebot
+ee？
+
+18:35:04 DeteleTest
+谁啊
+
+18:35:09 zzmemset0
+我早猜到你的命名方式了）
+
+18:35:13 DeteleTest
+aaa
+
+18:35:18 DeteleTest
+@zzmemset0 who
+
+18:35:34 clama
+who？
+
+18:35:34 eeebot
+who？
+
+18:35:38 eeebot
+hello zzmemsetzero
+
+18:35:38 FoolishBird
+hello,zzmemsetzero
+
+18:35:45 zzmemsetzero
+。
+
+18:35:49 clama
+hi
+
+18:35:51 DeteleTest
+是谁
+
+18:35:57 DeteleTest
+这是刚刚那个人
+
+18:36:10 DeteleTest
+zero是0的意思
+
+18:36:12 eeebot
+hi V3Mhx
+
+18:36:14 FoolishBird
+hello,V3Mhx
+
+18:36:21 DeteleTest
+别开小号了很烦
+
+18:36:25 V3Mhx
+这是不是你的命名方式
+
+18:36:32 V3Mhx
+艹
+
+18:36:36 V3Mhx
+搞错了
+
+18:36:40 clama
+？
+
+18:36:40 eeebot
+？
+
+18:36:45 V3Mhx
+不玩了
+
+18:36:51 DeteleTest
+？
+
+18:36:51 V3Mhx
+大型社死现场
+
+18:36:51 eeebot
+？
+
+18:36:58 DeteleTest
+az
+
+18:37:03 eeebot
+zzmemsetzero is back
+
+18:37:03 FoolishBird
+hello,zzmemsetzero
+
+18:37:06 DeteleTest
+小号
+
+18:37:06 clama
+谁？
+
+18:37:07 eeebot
+谁？
+
+18:37:09 zzmemsetzero
+我的
+
+18:37:12 DeteleTest
+对
+
+18:37:15 zzmemsetzero
+刚才我的
+
+18:37:18 DeteleTest
+zzmemset0
+
+18:37:19 eeebot
+hm
+
+18:37:22 DeteleTest
+hm
+
+18:37:23 eeebot
+em
+
+18:37:26 DeteleTest
+em
+
+18:37:26 eeebot
+em
+
+18:37:30 DeteleTest
+em
+
+18:37:31 eeebot
+em
+
+18:37:43 DeteleTest
+az
+
+18:37:58 clama
+好吧我的昵称颜色已经暴露了一切
+
+18:38:03 zzmemsetzero
+hmmm
+
+18:38:04 eeebot
+hmmm
+
+18:38:14 zzmemsetzero
+afk
+
+18:38:15 FoolishBird
+zzmemsetzero开始摸鱼
+
+18:38:15 eeebot
+zzmemsetzero is now afk
+
+18:38:15 eeebot
+zzmemsetzero is now afk
+
+18:38:37 zzmemsetzero
+哎，凭什么挂机就是摸鱼啊
+
+18:38:37 eeebot
+zzmemsetzero is back
+
+18:38:40 FoolishBird
+zzmemsetzero欢迎回来!
+
+18:50:38 eeebot
+DeteleTest is back
+
+18:50:40 FoolishBird
+hello,DeteleTest
+
+18:51:00 DeteleTest
+clama是谁
+
+18:57:18 DeteleTest
+afk
+
+18:57:19 eeebot
+DeteleTest is now afk
+
+18:57:21 FoolishBird
+DeteleTest开始摸鱼
+
+18:57:22 eeebot
+DeteleTest is now afk
+
+18:58:18 eeebot
+DeteleTest is back
+
+18:58:18 FoolishBird
+hello,DeteleTest
+
+18:58:19 eeebot
+DeteleTest is now afk
+
+18:58:55 eeebot
+welcome back DeteleTest
+
+18:58:57 FoolishBird
+hello,DeteleTest
+
+18:58:58 eeebot
+DeteleTest is now afk
+
+19:06:12 DeteleTest
+az
+
+19:06:12 eeebot
+welcome back DeteleTest
+
+19:06:14 DeteleTest
+好冷
+
+19:06:15 FoolishBird
+DeteleTest欢迎回来!
+
+19:21:28 eeebot
+welcome back DeteleTest
+
+19:21:30 FoolishBird
+hello,DeteleTest
+
+19:30:48 zzmemsetzero
+冷死了
+
+19:36:07 DeteleTest
+编得机器人不行
+
+19:36:11 DeteleTest
+eebot
+
+19:37:56 DeteleTest
+@zzmemsetzero 
+
+19:38:06 DeteleTest
+eebot的代码疯狂报错
+
+19:44:13 clama
+这不科学
+
+19:45:05 FoolishBird
+hello,DeteleTest
+
+19:45:05 eeebot
+welcome back DeteleTest
+
+19:45:12 clama
+等等
+
+19:45:15 clama
+@DeteleTest 
+
+19:45:26 clama
+回家我给你一份新的
+
+19:45:56 clama
+按理说应该没问题才对
+
+19:51:26 clama
+啊
+
+19:51:32 clama
+好撑
+
+19:51:42 clama
+真就吃席（
+
+20:03:41 FoolishBird
+hello,eebot
+
+20:03:41 eebot
+hi this is eebot (o°ω°o)
+
+20:03:41 eebot
+想了解更多玩法 请输入「功能」
+
+20:04:03 eee
+hi
+
+20:04:15 eee
+帮助
+
+20:04:15 eebot
+·
+hc指令：https://tieba.baidu.com/p/6833224084
+hc百科：https://chumo.sbsbsb.sbs/wiki
+hc同人作品集：https://note.ms/HCworks111
+·
+这是部分有关hack.chat的链接 欢迎投稿
+
+20:04:26 eebot
+hello DeteleTest
+
+20:04:26 FoolishBird
+hello,DeteleTest
+
+20:17:12 eee
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+20:18:44 eebot
+hi this is eebot (o°ω°o)
+
+20:18:44 eebot
+想了解更多玩法 请输入「功能」
+
+20:18:44 eebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+20:18:50 FoolishBird
+hello,eebot
+
+20:26:30 eebot
+hey DeteleTest
+
+20:26:33 FoolishBird
+hello,DeteleTest
+
+20:42:47 eebot
+hello light
+
+20:42:50 FoolishBird
+hello,light
+
+20:42:54 light
+啊
+
+20:43:00 light
+你们还在
+
+20:43:34 eebot
+welcome back light
+
+20:43:34 eebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+20:43:37 FoolishBird
+hello,light
+
+20:43:56 light
+money.info
+
+20:44:04 light
+money.shop
+
+20:44:08 FoolishBird
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　book　　　 /     8      /     50     /     6      /   for9zT   /   for9zT   
+000002 / __light__　 /    100     /    100     /    100     /   for9zT   /   for9zT   
+
+20:44:21 light
+money.buy book
+
+20:44:29 light
+money.info
+
+20:44:41 light
+money.shop
+
+20:44:42 FoolishBird
+```
+序号   /   名称   /   数量   /   成本   /   售价   /   发明者   /   出售者  
+000001 / 　　　book　　　 /     7      /     50     /     6      /   for9zT   /   for9zT   
+000002 / __light__　 /    100     /    100     /    100     /   for9zT   /   for9zT   
+
+20:58:42 eeebot
+hi this is eebot (o°ω°o)
+
+20:58:42 FoolishBird
+hello,eeebot
+
+20:58:42 eeebot
+想了解更多玩法 请输入「功能」
+
+20:58:42 eeebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+20:58:47 DeteleTest
+ee
+
+20:58:48 ee
+我回来了
+
+20:58:49 DeteleTest
+在吗
+
+20:58:59 DeteleTest
+@ee 加我微信好不好
+
+20:59:04 DeteleTest
+13929761900
+
+20:59:08 ee
+> @DeteleTest eebot_new: https://drive.noire.cc/s/bp5dTa
+
+20:59:22 DeteleTest
+好的我去试试看
+
+20:59:22 ee
+嘶
+
+20:59:31 ee
+加了我也不一定会在
+
+20:59:40 ee
+那行吧
+
+20:59:40 DeteleTest
+我知道
+
+20:59:55 DeteleTest
+但是你在我就能找到你
+
+21:00:40 DeteleTest
+我还要Light和zzmemsetzero
+
+21:00:46 DeteleTest
+@ee 
+
+21:02:09 DeteleTest
+公频your_channel卡了
+
+21:04:12 ee
+@DeteleTest 晚点再加 我待会才能拿到手机
+
+21:05:30 DeteleTest
+嗯嗯
+
+21:05:33 DeteleTest
+我去洗澡了
+
+21:05:45 DeteleTest
+顺便待会测试下eebot
+
+21:05:50 DeteleTest
+改个昵称
+
+21:05:55 DeteleTest
+撤了
+
+21:15:23 eeebot
+hi this is eebot (o°ω°o)
+
+21:15:23 eeebot
+想了解更多玩法 请输入「功能」
+
+21:15:23 eeebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+21:15:25 ee
+帮助
+
+21:15:25 eeebot
+·
+hc指令：https://tieba.baidu.com/p/6833224084
+hc百科：https://chumo.sbsbsb.sbs/wiki
+hc同人作品集：https://note.ms/HCworks111
+hc出现过的人：https://tieba.baidu.com/p/7153686343
+·
+其他：
+https://zhuanlan.zhihu.com/p/108821519
+https://youquhome.com/5649/
+https://www.sweeterthandespair.com/hack-chat.html
+https://www.luoxiao123.cn/1554-6.html
+https://www.bilibili.com/read/cv2233284
+https://sspai.com/post/40667
+https://iao.su/1511/
+https://www.luogu.com.cn/blog/TMYOS/dui-yu-hackchat-di-yan-jiu
+·
+这是部分有关hack.chat的链接 欢迎投稿
+
+21:15:25 FoolishBird
+hello,eeebot
+
+21:20:21 eeebot
+hi this is eebot (o°ω°o)
+
+21:20:21 FoolishBird
+hello,eeebot
+
+21:20:21 eeebot
+想了解更多玩法 请输入「功能」
+
+21:20:21 eeebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+21:20:22 ee
+帮助
+
+21:20:23 eeebot
+·
+hc指令：https://tieba.baidu.com/p/6833224084
+hc百科：https://chumo.sbsbsb.sbs/wiki
+hc成员：https://tieba.baidu.com/p/7153686343
+hc同人作品集：https://note.ms/HCworks111
+·
+其他：
+https://zhuanlan.zhihu.com/p/108821519
+https://youquhome.com/5649/
+https://www.sweeterthandespair.com/hack-chat.html
+https://www.luoxiao123.cn/1554-6.html
+https://www.bilibili.com/read/cv2233284
+https://sspai.com/post/40667
+https://iao.su/1511/
+https://www.luogu.com.cn/blog/TMYOS/dui-yu-hackchat-di-yan-jiu
+https://zhuanlan.zhihu.com/p/111513602
+·
+这是部分有关hack.chat的链接 欢迎投稿
+
+21:21:06 ee
+color
+
+21:21:06 eeebot
+This Color: #723460
+Old Color: #44FF00
+
+21:21:21 ee
+翻译
+
+21:21:22 eeebot
+·
+使用源：网易有道翻译
+使用方法：·要翻译的句子（前面有个点
+·
+默认为关：「翻译开启」「翻译关闭」
+
+21:26:08 eeebot
+hey DeteleTest
+
+21:26:11 FoolishBird
+hello,DeteleTest
+
+21:26:16 DeteleTest
+Ee
+
+21:26:20 DeteleTest
+ee在吗
+
+21:26:27 DeteleTest
+我打开了文件
+
+21:26:33 DeteleTest
+然后报错了
+
+21:26:54 ee
+emmmmmmmmmm
+
+21:27:01 ee
+报了什么错
+
+21:28:09 eeebot
+hi this is eebot (o°ω°o)
+
+21:28:09 eeebot
+想了解更多玩法 请输入「功能」
+
+21:28:10 eeebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+21:28:11 FoolishBird
+hello,eeebot
+
+21:28:45 ee
+我敢肯定这版肯定没BUG
+
+21:28:57 ee
+除了我没做好的故事制造机（
+
+21:29:44 eeebot
+hi detele
+
+21:29:44 eeebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+21:29:47 FoolishBird
+hello,detele
+
+21:29:49 detele
+ee还在吗
+
+21:30:01 detele
+登上大号了 
+
+21:30:09 ee
+eYFDHl ee
+我敢肯定这版肯定没BUG
+
+eYFDHl ee
+除了我没做好的故事制造机（
+
+21:30:09 detele
+把它发你
+
+21:30:22 detele
+error from callback <bound method main.on_close of <__main__.main object at 0x000001C94FC6A560>>: main.on_close() takes 2 positional arguments but 4 were given
+
+21:30:29 detele
+好像电脑问题
+
+21:30:31 detele
+az
+
+21:30:45 ee
+昵称改了吗（
+
+21:30:52 DeteleTest
+E
+
+21:31:15 DeteleTest
+name等于abcde
+
+21:31:22 DeteleTest
+pas等于a
+
+21:31:33 detele
+if __name__ == "__main__":
+	main = main(room="your-channell",name="abcde",pas="a")
+	websocket.enableTrace(True)
+	ws = websocket.WebSocketApp("wss://hack.chat/chat-ws",on_message=main.on_message,on_error=main.on_error,on_close=main.on_close)
+	ws.on_open = main.on_open 
+
+21:31:52 detele
+快点回答我‘
+
+21:31:55 ee
+多试几遍？
+
+21:31:56 eeebot
+多试几遍？
+
+21:32:01 detele
+爸妈要回i来了
+
+21:32:11 ee
+这个保存我也遇到过
+
+21:32:14 ee
+报错
+
+21:32:35 ee
+但重新运行就好了
+
+21:32:45 detele
+不行
+
+21:33:04 detele
+我用的idle
+
+21:33:26 ee
+嘶啊啊
+
+21:33:41 ee
+rP0cIJ eeebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+21:33:48 ee
+用的是这个吗
+
+21:33:54 detele
+yes
+
+21:34:18 ee
+算了 等Light回来再问吧
+
+21:34:34 ee
+我不知道错在哪里
+
+21:34:41 detele
+error from callback <bound method main.on_close of <__main__.main object at 0x0000022F4FCAA560>>: main.on_close() takes 2 positional arguments but 4 were given
+
+21:34:56 detele
+变了
+
+21:35:32 detele
+az
+
+21:35:41 ee
+我研究下
+
+21:35:43 detele
+我关闭大号了
+
+21:36:12 eeebot
+hi detele3
+
+21:36:12 eeebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+21:36:14 FoolishBird
+hello,detele3
+
+21:36:59 ee
+啊 头大
+
+21:37:07 detele3
+error from callback <bound method main.on_close of <__main__.main object at 0x000001DF1D54A560>>: main.on_close() takes 2 positional arguments but 4 were given
+
+21:37:33 DeteleTest
+tmd
+
+21:37:39 ee
+tmd
+
+21:38:04 DeteleTest
+是Light巨佬
+
+21:38:09 DeteleTest
+不是Light
+
+21:38:47 DeteleTest
+@ee 
+
+21:38:52 ee
+看到Light巨佬
+
+21:39:00 ee
+我才明白了人与人间的差距
+
+21:39:05 DeteleTest
+对对
+
+21:39:23 ee
+@DeteleTest 听我说
+
+21:39:27 DeteleTest
+啊
+
+21:39:28 ee
+hc一个个比我小
+
+21:39:32 ee
+一个个比我厉害
+
+21:39:36 ee
+（卑微）
+
+21:39:45 DeteleTest
+我
+
+21:39:48 DeteleTest
+也
+
+21:39:53 DeteleTest
+不完全是
+
+21:39:55 ee
+不
+
+21:39:59 ee
+你还有发展空间
+
+21:40:17 DeteleTest
+发展print
+
+21:40:31 ee
+~~如果我小学时早点发现hc就好了~~
+
+21:40:35 DeteleTest
+import不会用
+
+21:40:48 ee
+import是导入库
+
+21:40:55 DeteleTest
+哦哦
+
+21:41:08 DeteleTest
+模块
+
+21:41:17 ee
+yeah
+
+21:41:43 DeteleTest
+在新py里加注释给我
+
+21:42:25 DeteleTest
+那我就感谢万分
+
+21:42:45 DeteleTest
+@ee 
+
+21:42:45 ee
+这也太麻烦了（主要是懒
+
+21:43:03 DeteleTest
+文字怎么加中间横线
+
+21:43:04 ee
+在新py里~~让Light~~加注释
+
+21:43:12 ee
+左右两个~~
+
+21:43:36 DeteleTest
+哦中间不空格吗
+
+21:43:43 ee
+不用
+
+21:43:46 ee
+啊
+
+21:44:03 ee
+话说ww快走了
+
+21:44:04 DeteleTest
+~可真谢谢你~
+
+21:44:13 DeteleTest
+谁
+
+21:44:14 ee
+两个
+
+21:44:22 DeteleTest
+啊啊
+
+21:44:26 ee
+zzmemset
+
+21:44:26 eeebot
+zzmemset
+
+21:44:34 ee
+0
+
+21:44:36 DeteleTest
+~~az~~
+
+21:44:40 DeteleTest
+Oo
+
+21:44:53 ee
+meme
+
+21:44:54 eeebot
+。.。
+
+21:45:01 DeteleTest
+meme
+
+21:45:02 eeebot
+°⌒°
+
+21:45:11 DeteleTest
+az
+
+21:45:17 DeteleTest
+meme
+
+21:45:17 eeebot
+OuO
+
+21:45:21 DeteleTest
+meme
+
+21:45:22 eeebot
+:D
+
+21:45:25 DeteleTest
+艹
+
+21:45:28 DeteleTest
+meme
+
+21:45:28 eeebot
+u.u
+
+21:45:32 DeteleTest
+meme
+
+21:45:32 eeebot
+￣︶￣
+
+21:45:35 DeteleTest
+meme
+
+21:45:35 eeebot
+—︵—
+
+21:45:39 DeteleTest
+meme
+
+21:45:39 eeebot
+0u0
+
+21:45:43 DeteleTest
+meme
+
+21:45:43 eeebot
+°O°
+
+21:45:56 DeteleTest
+@ee 
+
+21:46:19 DeteleTest
+研究好了吗
+
+21:46:29 ee
+不可能
+
+21:46:40 DeteleTest
+~~切~~
+
+21:46:44 ee
+等一位懂python的人出现
+
+21:46:51 DeteleTest
+Light巨佬
+
+21:46:55 ee
+~~其实我根本没认真学过~~
+
+21:47:12 DeteleTest
+~~其实我只会Print~~
+
+21:47:39 ee
+只是因为寒假末突然想写eebot……
+
+21:47:47 DeteleTest
+爸回来了
+
+21:47:51 DeteleTest
+等
+
+21:47:54 ee
+我回来了
+
+21:57:51 detele3
+下了
+
+21:57:52 detele3
+晚安
+
+21:58:14 detele3
+@ee 
+
+21:58:31 ee
+OK 晚安
+
+21:58:47 detele3
+error from callback <bound method main.on_close of <__main__.main object at 0x000001D8EED8A560>>: main.on_close() takes 2 positional arguments but 4 were given
+
+21:58:52 detele3
+最后一次
+
+21:58:57 detele3
+晚安
+
+21:59:03 detele3
+记得加我vx
+
+21:59:04 ee
+~~深受打击~~
+
+21:59:11 detele3
+@ee 
+
+21:59:17 ee
+emmmOK
+
+21:59:18 eeebot
+em
+
+22:15:25 ee
+开启翻译
+
+22:15:29 ee
+翻译开启
+
+22:15:30 eeebot
+翻译已开启
+
+22:17:04 ee
+·plastic
+
+22:17:05 eeebot
+ee said: 塑料
+
+22:17:43 ee
+·结果
+
+22:17:44 eeebot
+ee said: The results of
+
+22:18:03 ee
+·噢噢噢噢噢
+
+22:18:03 eeebot
+ee said: Oh oh oh oh oh
+
+22:19:37 ee
+·跟随者
+
+22:19:37 eeebot
+ee said: follower
+
+22:21:42 ee
+趣站
+
+22:21:43 eeebot
+·
+Nomadic Tribe
+https://2019.makemepulse.com
+
+22:44:13 ee
+·我们必须要保护地球
+
+22:44:13 eeebot
+ee said: We must protect the earth
+
+22:46:30 eeebot
+hi this is eebot (o°ω°o)
+
+22:46:30 eeebot
+想了解更多玩法 请输入「功能」
+
+22:46:30 eeebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+22:46:34 FoolishBird
+hello,eeebot
+
+22:46:36 ee
+翻译开启
+
+22:46:36 eeebot
+翻译已开启
+
+22:46:45 ee
+·我们必须要保护地球
+
+22:46:46 eeebot
+ee said: we must protect the earth
+
+22:47:09 ee
+·噢噢噢噢噢
+
+22:47:10 eeebot
+ee said: oh oh oh oh oh
+
+22:48:07 ee
+~~~>
+.lower()
+
+22:49:46 eeebot
+hi this is eebot (o°ω°o)
+
+22:49:46 eeebot
+想了解更多玩法 请输入「功能」
+
+22:49:47 eeebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+22:49:48 FoolishBird
+hello,eeebot
+
+22:49:50 ee
+翻译开启
+
+22:49:50 eeebot
+翻译已开启
+
+22:49:53 ee
+·我们必须要保护地球
+
+22:49:53 eeebot
+ee said: We Must Protect The Earth
+
+22:50:13 ee
+·啊啊啊啊啊啊啊
+
+22:50:13 eeebot
+ee said: Agghh Ahhh
+
+22:50:23 eeebot
+hi this is eebot (o°ω°o)
+
+22:50:23 eeebot
+想了解更多玩法 请输入「功能」
+
+22:50:23 eeebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+22:50:25 FoolishBird
+hello,eeebot
+
+22:51:03 ee
+翻译开启
+
+22:51:03 eeebot
+翻译已开启
+
+22:51:05 ee
+·日常生活
+
+22:51:05 eeebot
+ee said: in daily life
+
+22:51:08 ee
+重置
+
+22:51:08 eeebot
+已清空所有随机记录
+
+22:52:15 ee
+·我们不能浪费水
+
+22:52:16 eeebot
+ee said: we can't afford to waste water
+
+22:53:09 ee
+·我们需要珍惜它
+
+22:53:09 eeebot
+ee said: we need to cherish it
+
+22:53:25 ee
+·我们需要反复使用它
+
+22:53:26 eeebot
+ee said: we need to use it again and again
+
+22:53:34 ee
+·我们需要循环使用它
+
+22:53:35 eeebot
+ee said: we need to recycle it
+
+22:54:35 ee
+·用使用过的水浇花
+
+22:54:36 eeebot
+ee said: used with water water the flowers
+
+22:55:22 ee
+·用洗澡水浇花
+
+22:55:23 eeebot
+ee said: with the bath water the flowers
+
+22:55:32 ee
+·可以用洗澡水浇花
+
+22:55:32 eeebot
+ee said: can use the bath water the flowers
+
+22:55:49 zzmemsetzero
+美国：我们提供除支援外的所有支援
+
+22:56:01 ee
+·多余的水
+
+22:56:02 eeebot
+ee said: excess water
+
+22:56:28 zzmemsetzero
+wow
+
+22:56:33 ee
+芜湖
+
+22:56:42 zzmemsetzero
+这么智能
+
+22:57:01 ee
+·用使用过的水浇ww
+
+22:57:02 eeebot
+ee said: with used water ww
+
+22:57:25 ee
+不得不说
+
+22:57:29 zzmemsetzero
+-————-？
+
+22:57:30 eeebot
+-————-？
+
+22:57:40 ee
+把字母全换成小写看起来顺眼多了（
+
+22:57:49 zzmemsetzero
+-_-？
+
+22:57:49 eeebot
+-_-？
+
+22:58:03 ee
+√
+
+22:58:07 zzmemsetzero
+叫我？
+
+22:58:07 eeebot
+叫我？
+
+22:58:10 ee
+没有
+
+22:58:17 zzmemsetzero
+浇
+
+22:58:21 ee
+ww
+
+22:58:37 zzmemsetzero
+哦
+
+22:58:47 zzmemsetzero
+看来不是我hh
+
+23:00:03 ee
+啊啊啊
+
+23:00:34 ee
+·随手关水龙头
+
+23:00:35 eeebot
+ee said: conveniently turn off the faucet
+
+23:00:57 zzmemsetzero
+你浇ww，关我淸凌什么事
+
+23:01:10 zzmemsetzero
+）
+
+23:01:31 ee
+·用使用过的水浇淸凌
+
+23:01:32 eeebot
+ee said: with used water 淸 ling
+
+23:01:53 zzmemsetzero
+...
+
+23:02:05 ee
+·关于商店里的塑料袋
+
+23:02:06 eeebot
+ee said: about the plastic bags in the shop
+
+23:02:57 zzmemsetzero
+机翻现象
+
+23:03:47 ee
+·damaga
+
+23:03:47 eeebot
+ee said: damaga
+
+23:03:54 ee
+·damage
+
+23:03:54 eeebot
+ee said: 损害
+
+23:05:59 zzmemsetzero
+？？？
+
+23:05:59 eeebot
+？？？
+
+23:06:03 ee
+毫无反应
+
+23:06:15 zzmemsetzero
+hhh
+
+23:06:29 zzmemsetzero
+rP0cIJ eeebot
+？？？
+
+23:06:44 ee
+··有一电路,电池电压36V,电池电阻3Ω，与一电阻丝串联
+
+23:06:49 ee
+·有一电路,电池电压36V,电池电阻3Ω，与一电阻丝串联
+
+23:06:50 eeebot
+ee said: a circuit, 36 v battery voltage, battery resistance 3 ω, and a series resistance wire
+
+23:07:07 ee
+《ω》
+
+23:07:08 eeebot
+《ω》
+
+23:07:25 zzmemsetzero
+我只是想请教一个题。。。。
+
+23:07:43 ee
+~~我只是想翻译~~
+
+23:08:09 zzmemsetzero
+答案是3Ω吗
+
+23:08:18 zzmemsetzero
+还是6Ω
+
+23:08:44 ee
+作为初三（
+
+23:08:52 ee
+我竟然没做过这种题。。。
+
+23:09:57 zzmemsetzero
+？！
+
+23:09:57 eeebot
+？！
+
+23:10:11 zzmemsetzero
+我也
+
+23:10:13 ee
+要不懵一个吧（
+
+23:10:22 ee
+我算了也不一定对（~~其实是不会~~
+
+23:10:27 ee
+不过
+
+23:10:46 ee
+~~真的第一次见到物理题这么多文字量的~~
+
+23:11:10 ee
+啊不 是很少
+
+23:11:37 ee
+·我们要用布袋代替塑料袋购物
+
+23:11:38 eeebot
+ee said: we're going to use cloth bags instead of plastic bags to shopping
+
+23:15:38 zzmemsetzero
+精简版
+
+23:15:50 zzmemsetzero
+非专业人出题
+
+23:23:17 zzmemsetzero
+听《雾里》，雾里无力写无理物理
+
+23:27:08 ee
+啊
+
+23:27:12 ee
+不想睡觉
+
+23:27:17 zzmemsetzero
+我也
+
+23:27:27 zzmemsetzero
+主要是因为不想开学
+
+23:27:42 ee
+但今天去老家时吹感冒了（
+
+23:27:45 ee
+我不想周一
+
+23:27:55 zzmemsetzero
+。。。
+
+23:27:56 ee
+PS：一周最忙的一天
+
+23:28:09 zzmemsetzero
+多喝热水 hmmm
+
+23:28:10 eeebot
+em
+
+23:28:19 ee
+因为是周末 背诵一堆（
+
+23:28:33 zzmemsetzero
+wow
+
+23:28:44 ee
+我劝各位还是喝岩浆吧）
+
+23:29:01 zzmemsetzero
+对了
+
+23:29:15 zzmemsetzero
+前几天打凋零骷髅
+
+23:29:32 zzmemsetzero
+给我掉了把石剑
+
+23:29:40 zzmemsetzero
+石剑好啊
+
+23:29:47 zzmemsetzero
+石剑那是相当好啊
+
+23:30:08 ee
+~~还以为是钻石剑~~
+
+23:30:24 zzmemsetzero
+石剑是检验真理的唯一标准
+
+23:30:34 ee
+啊啊啊啊
+
+23:30:36 ee
+不行
+
+23:30:50 ee
+我妈疯狂催我去睡
+
+23:30:59 ee
+啊啊啊啊啊啊啊啊啊啊啊啊
+
+23:31:15 zzmemsetzero
+啊啊啊啊啊啊啊啊啊啊
+
+23:31:18 zzmemsetzero
+再见
+
+23:31:21 ee
+@zzmemsetzero 我先收拾书包 磨蹭一会儿（
+
+23:33:19 zzmemsetzero
+下下周见啦
+
+23:33:31 zzmemsetzero
+（
+
+23:34:12 zzmemsetzero
+不出意外
+
+23:34:36 zzmemsetzero
+不想开学aaaa
+
+23:34:40 ee
+悲伤aaa
+
+23:35:10 zzmemsetzero
+我不能姐授
+
+23:35:12 ee
+开学了也要加油！
+
+23:35:12 eeebot
+开学了也要加油！
+
+23:35:44 zzmemsetzero
+加油
+
+23:35:57 ee
+没来hc之前：啊啊啊我要开学 我好无聊
+
+23:36:13 ee
+来了hc：啊啊啊我不想开学 ~~我不想离开hc~~
+
+23:36:44 zzmemsetzero
+戒掉游戏的一段时间后
+
+23:36:55 zzmemsetzero
+我也感觉很无聊
+
+23:37:34 ee
+在没实名制之前 我的假期：~~网游~~
+
+23:37:42 ee
+后来：hc
+
+23:37:42 eeebot
+后来：hc
+
+23:37:58 ee
+啊啊啊啊
+
+23:38:02 ee
+真不行了
+
+23:38:05 ee
+得去睡了
+
+23:38:14 ee
+@zzmemsetzero 加油加油加油加油加油加油加油
+
+23:38:22 ee
+顺便晚安
+
+23:38:23 zzmemsetzero
+加油
+

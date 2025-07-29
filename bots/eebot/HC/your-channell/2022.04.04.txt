@@ -1,0 +1,155 @@
+a/Jz/a Light
+hi
+
+a/Jz/a Light
+ee
+
+eYFDHl ee
+hiiiiiiiiiii
+
+eYFDHl ee
+Liiiight
+
+a/Jz/a Light
+spacebird
+
+a/Jz/a Light
+还在你电脑上吗
+
+eYFDHl ee
+在的在的
+
+a/Jz/a Light
+我教你用？
+
+eYFDHl ee
+好啊
+
+a/Jz/a Light
+额
+
+a/Jz/a Light
+什么都不用安装
+
+eYFDHl ee
+OK
+
+a/Jz/a Light
+你打开有个叫"Server"的文件夹
+
+eYFDHl ee
+好了
+
+a/Jz/a Light
+里面应该有个“server.py”
+
+a/Jz/a Light
+运行
+
+a/Jz/a Light
+然后再打开和"Server"同一级目录的"Client"
+
+a/Jz/a Light
+里面有个"client.py"
+
+eYFDHl ee
+好了
+
+a/Jz/a Light
+运行
+
+eYFDHl ee
+好了
+
+a/Jz/a Light
+两个都在运行吗
+
+eYFDHl ee
+对
+
+a/Jz/a Light
+有一个白色的页面
+
+a/Jz/a Light
+下面有个输入框
+
+eYFDHl ee
+好了
+
+a/Jz/a Light
+在里面输入"login+空格+用户名+空格+密码"
+
+a/Jz/a Light
+这个你随便输
+
+a/Jz/a Light
+回车
+
+eYFDHl ee
+回车完就卡了
+
+a/Jz/a Light
+！
+
+a/Jz/a Light
+啊
+
+eYFDHl ee
+啊哈
+
+a/Jz/a Light
+诶
+
+a/Jz/a Light
+好的啊
+
+eYFDHl ee
+我再试一遍（
+
+a/Jz/a Light
+你看下server.py是不是正常
+
+eYFDHl ee
+server.py运行后是不是毫无反应的啊
+
+a/Jz/a Light
+？
+
+a/Jz/a Light
+不是
+
+a/Jz/a Light
+在你输入"login"这条之前是什么都没有的
+
+a/Jz/a Light
+后面会有输出
+
+eYFDHl ee
+嘶啊
+
+eYFDHl ee
+依旧是卡的
+
+a/Jz/a Light
+az
+
+a/Jz/a Light
+那
+
+eYFDHl ee
+tk（未响应）
+
+a/Jz/a Light
+就不试了吧
+
+a/Jz/a Light
+我这边是好的
+
+eYFDHl ee
+啊啊啊啊啊啊啊啊
+
+eYFDHl ee
+下次再试
+
+a/Jz/a Light
+好吧

@@ -1,0 +1,733 @@
+18:19:40 fOoLishbIrD
+hello,eebot
+
+18:19:40 Wcy_Bot
+@eebot hi
+
+18:19:40 eebot
+hi (o°ω°o)
+
+18:20:57 fOoLishbIrD
+hello,i am foolishbird!
+
+18:20:57 Wcy_Bot
+@fOoLishbIrD hi
+
+18:20:57 eebot
+hi fOoLishbIrD
+
+18:21:05 Light
+roll_set 20
+
+18:21:17 Light
+roll_set 20
+
+18:21:17 fOoLishbIrD
+['roll_set 2']
+
+18:21:17 fOoLishbIrD
+['roll_set 2']
+
+18:21:17 fOoLishbIrD
+['roll_set 2']
+
+18:21:17 fOoLishbIrD
+['roll_set 2']
+
+18:21:17 fOoLishbIrD
+['roll_set 2']
+
+18:21:18 fOoLishbIrD
+['roll_set 2']
+
+18:21:18 fOoLishbIrD
+['roll_set 2']
+
+18:21:18 fOoLishbIrD
+['roll_set 2']
+
+18:21:18 fOoLishbIrD
+['roll_set 2']
+
+18:21:18 fOoLishbIrD
+['roll_set 2']
+
+18:21:18 fOoLishbIrD
+['roll_set 2']
+
+18:21:18 fOoLishbIrD
+['roll_set 2']
+
+18:21:19 fOoLishbIrD
+['roll_set 2']
+
+18:21:19 fOoLishbIrD
+['roll_set 2']
+
+18:21:19 fOoLishbIrD
+['roll_set 2']
+
+18:21:19 fOoLishbIrD
+['roll_set 2']
+
+18:21:19 fOoLishbIrD
+['roll_set 2']
+
+18:21:19 fOoLishbIrD
+['roll_set 2']
+
+18:21:20 fOoLishbIrD
+['roll_set 2']
+
+18:21:26 eee
+嘶
+
+18:21:32 Light
+吓死我了
+
+18:21:36 Light
+我知道原因了
+
+18:21:45 eebot
+hi Wcy_Bot
+
+18:21:46 Light
+正则表达式没加括号
+
+18:21:51 __thomas_wcy
+我靠
+
+18:22:15 __thomas_wcy
+start
+
+18:22:15 Wcy_Bot
+==--------------------------------------==
+
+18:22:15 Wcy_Bot
+新的一轮开始了，发送“roll”or“wroll”or“Roll”来获得一个数字
+
+18:22:17 __thomas_wcy
+roll
+
+18:22:21 fOoLishbIrD
+hello,i am foolishbird!
+
+18:22:21 Wcy_Bot
+@fOoLishbIrD hi
+
+18:22:21 eebot
+hi fOoLishbIrD
+
+18:22:23 eee
+roll
+
+18:22:30 eee
+啊
+
+18:22:31 __thomas_wcy
+我傻了
+
+18:22:34 Light
+roll_set 20
+
+18:22:37 Light
+roll join
+
+18:22:38 eee
+《BUG交流地》
+
+18:23:15 fOoLishbIrD
+hello,i am foolishbird!
+
+18:23:15 Wcy_Bot
+@fOoLishbIrD hi
+
+18:23:15 eebot
+hi fOoLishbIrD
+
+18:23:19 eee
+so gooood
+
+18:23:24 Light
+roll join
+
+18:23:27 Light
+roll_set 20
+
+18:23:42 fOoLishbIrD
+hello,i am foolishbird!
+
+18:23:42 Wcy_Bot
+@fOoLishbIrD hi
+
+18:23:43 eebot
+hi fOoLishbIrD
+
+18:24:42 __thomas_wcy
+忘记申明变量。。
+
+18:24:44 __thomas_wcy
+妈的
+
+18:24:57 eebot
+hi Wcy_Bot
+
+18:25:04 fOoLishbIrD
+hello,i am foolishbird!
+
+18:25:04 Wcy_Bot
+@fOoLishbIrD hi
+
+18:25:04 eebot
+hi fOoLishbIrD
+
+18:25:06 Wcy_Bot
+@ee hi
+
+18:25:06 eebot
+hi ee
+
+18:25:09 __thomas_wcy
+start
+
+18:25:09 Wcy_Bot
+==--------------------------------------==
+
+18:25:09 Wcy_Bot
+新的一轮开始了，发送“roll”or“wroll”or“Roll”来获得一个数字
+
+18:25:11 __thomas_wcy
+roll
+
+18:25:11 Wcy_Bot
+38
+
+18:25:14 ee
+roll
+
+18:25:14 Wcy_Bot
+90
+
+18:25:14 fOoLishbIrD
+[]
+
+18:25:14 fOoLishbIrD
+[]
+
+18:25:14 fOoLishbIrD
+[]
+
+18:25:14 fOoLishbIrD
+[]
+
+18:25:14 fOoLishbIrD
+[]
+
+18:25:14 fOoLishbIrD
+[]
+
+18:25:14 fOoLishbIrD
+[]
+
+18:25:14 fOoLishbIrD
+[]
+
+18:25:14 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 __thomas_wcy
+check
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:15 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:16 fOoLishbIrD
+[]
+
+18:25:17 fOoLishbIrD
+[]
+
+18:25:17 ee
+嘶
+
+18:25:17 fOoLishbIrD
+[]
+
+18:25:17 fOoLishbIrD
+[]
+
+18:25:17 fOoLishbIrD
+[]
+
+18:25:17 fOoLishbIrD
+[]
+
+18:25:17 fOoLishbIrD
+[]
+
+18:25:17 fOoLishbIrD
+[]
+
+18:25:17 fOoLishbIrD
+[]
+
+18:25:18 __thomas_wcy
+???
+
+18:25:21 __thomas_wcy
+check
+
+18:25:26 __thomas_wcy
+roll
+
+18:25:26 Wcy_Bot
+你roll过了。
+
+18:25:26 ee
+太草了
+
+18:25:38 Light
+这
+
+18:25:48 ee
+《新型刷屏bot》
+
+18:25:56 fOoLishbIrD
+hello,i am foolishbird!
+
+18:25:56 Wcy_Bot
+@fOoLishbIrD hi
+
+18:25:56 eebot
+hi fOoLishbIrD
+
+18:26:13 fOoLishbIrD
+hello,i am foolishbird!
+
+18:26:13 Wcy_Bot
+@fOoLishbIrD hi
+
+18:26:13 eebot
+hi fOoLishbIrD
+
+18:26:24 Light
+roll_set 20
+
+18:26:28 Light
+roll join
+
+18:26:48 fOoLishbIrD
+hello,Wcy_Bot
+
+18:26:49 eebot
+hi Wcy_Bot
+
+18:26:54 __thomas_wcy
+start
+
+18:26:54 Wcy_Bot
+==--------------------------------------==
+
+18:26:54 Wcy_Bot
+新的一轮开始了，发送“roll”or“wroll”or“Roll”来获得一个数字
+
+18:26:56 __thomas_wcy
+roll
+
+18:26:56 Wcy_Bot
+95
+
+18:26:58 __thomas_wcy
+check
+
+18:26:58 Wcy_Bot
+1__thomas_wcy
+
+18:26:59 fOoLishbIrD
+hello,i am foolishbird!
+
+18:26:59 Wcy_Bot
+@fOoLishbIrD hi
+
+18:26:59 eebot
+hi fOoLishbIrD
+
+18:27:06 Light
+roll_set 20
+
+18:27:08 Light
+roll join
+
+18:27:11 Light
+我服了
+
+18:27:24 Light
+我从来没这么讨厌写正则
+
+18:27:26 fOoLishbIrD
+hello,Wcy_Bot
+
+18:27:26 eebot
+hi Wcy_Bot
+
+18:27:37 __thomas_wcy
+start
+
+18:27:37 Wcy_Bot
+==--------------------------------------==
+
+18:27:37 Wcy_Bot
+新的一轮开始了，发送“roll”or“wroll”or“Roll”来获得一个数字
+
+18:27:39 __thomas_wcy
+roll
+
+18:27:39 Wcy_Bot
+39
+
+18:28:29 fOoLishbIrD
+hello,i am foolishbird!
+
+18:28:29 Wcy_Bot
+@fOoLishbIrD hi
+
+18:28:29 eebot
+hi fOoLishbIrD
+
+18:28:41 Light
+roll_set 20
+
+18:28:44 Light
+roll join
+
+18:28:53 __thomas_wcy
+@Light 给我发个roll
+
+18:29:36 Light
+roll
+
+18:29:36 Wcy_Bot
+31
+
+18:29:40 __thomas_wcy
+check
+
+18:29:40 Wcy_Bot
+1.  @__thomas_wcy
+2.  @Light
+
+18:29:46 __thomas_wcy
+?
+
+18:29:50 __thomas_wcy
+1.
+
+18:29:52 __thomas_wcy
+2.
+
+18:29:53 __thomas_wcy
+3.
+
+18:29:59 fOoLishbIrD
+hello,i am foolishbird!
+
+18:29:59 Wcy_Bot
+@fOoLishbIrD hi
+
+18:29:59 eebot
+hi fOoLishbIrD
+
+18:30:02 __thomas_wcy
+1.
+
+18:30:03 __thomas_wcy
+1..
+
+18:30:09 Light
+roll_set 20
+
+18:30:11 Light
+roll join
+
+18:30:11 fOoLishbIrD
+Light加入了游戏,还需19人加入游戏
+
+18:30:11 __thomas_wcy
+2.
+
+18:30:13 __thomas_wcy
+3.
+
+18:30:16 __thomas_wcy
+roll join
+
+18:30:16 Light
+ok
+
+18:30:16 fOoLishbIrD
+__thomas_wcy加入了游戏,还需18人加入游戏
+
+18:30:17 ee
+roll join
+
+18:30:17 fOoLishbIrD
+ee加入了游戏,还需17人加入游戏
+
+18:30:26 Light
+roll start
+
+18:30:26 fOoLishbIrD
+游戏开始
+
+18:30:26 fOoLishbIrD
+请__thomas_wcy向ee提出问题
+
+18:30:27 ee
+yeahh
+
+18:30:41 ee
+nbb
+
+18:30:42 __thomas_wcy
+@ee 你是傻逼吗
+
+18:30:46 ee
+是的
+
+18:30:47 __thomas_wcy
+如实回答
+
+18:30:49 __thomas_wcy
+靠
+
+18:30:53 __thomas_wcy
+好了
+
+18:30:59 ee
+按理说算
+
+18:31:00 __thomas_wcy
+@Light 接下来呢
+
+18:31:12 __thomas_wcy
+@ee 什么意思？‘
+
+18:31:13 Light
+>roll join加入游戏
+>roll left退出游戏
+>roll start强制开始游戏
+>roll_set 20设置人数
+
+18:31:25 ee
+goooooooood
+
+18:31:28 Light
+先设置人数，然后开始
+
+18:31:29 __thomas_wcy
+@Light 不能连着继续码？
+
+18:31:31 Light
+roll join
+
+18:31:31 fOoLishbIrD
+Light加入了游戏,还需19人加入游戏
+
+18:31:41 Light
+roll left
+
+18:31:41 fOoLishbIrD
+Light离开了游戏,还剩0人
+
+18:31:42 __thomas_wcy
+roll join
+
+18:31:42 fOoLishbIrD
+__thomas_wcy加入了游戏,还需19人加入游戏
+
+18:31:44 Light
+waht
+
+18:31:46 Light
+what
+
+18:32:08 __thomas_wcy
+每次问完就重新进太麻烦了
+
+18:32:21 Light
+roll start
+
+18:32:22 fOoLishbIrD
+人数不足
+
+18:32:26 Light
+roll start
+
+18:32:26 fOoLishbIrD
+人数不足
+
+18:32:32 Light
+roll join
+
+18:32:32 fOoLishbIrD
+Light加入了游戏,还需18人加入游戏
+
+18:32:37 Light
+roll start
+
+18:32:37 fOoLishbIrD
+游戏开始
+
+18:32:37 fOoLishbIrD
+请Light向Light提出问题
+
+18:32:40 __thomas_wcy
+roll set
+
+18:32:41 Light
+what
+
+18:32:46 __thomas_wcy
+roll_set 1
+
+18:32:54 __thomas_wcy
+我不能？
+
+18:33:04 __thomas_wcy
+roll join
+
+18:33:04 fOoLishbIrD
+__thomas_wcy加入了游戏,还需0人加入游戏
+
+18:33:04 fOoLishbIrD
+游戏开始
+
+18:33:08 __thomas_wcy
+???
+
+18:33:14 __thomas_wcy
+@Light 发现了bug
+
+18:33:26 Light
+算了
+
+18:33:31 Light
+我先去写作业
+
+18:33:36 Light
+明天下午还有时间
+
+18:33:58 __thomas_wcy
+o
+
+18:40:15 Wcy_Bot
+@CaO hi
+
+18:40:15 eebot
+hi CaO
+

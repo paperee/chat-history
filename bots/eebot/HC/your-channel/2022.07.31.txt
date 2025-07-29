@@ -1,0 +1,215 @@
+17:23:44 eebot_2x
+hi (o°ω°o)
+
+17:24:12 _
+(o°ω°o)
+
+17:24:14 _
+awa
+
+17:24:18 ee
+（凑热闹）
+
+17:24:40 _
+:!send (o°ω°o)
+
+17:24:40 AfK_Bot
+(o°ω°o)
+
+17:24:44 _
+:!translate (o°ω°o)
+
+17:24:46 AfK_Bot
+ （o°o°O）
+
+17:24:49 _
+:!translate en (o°ω°o)
+
+17:24:50 ee
+哈哈哈哈哈哈哈哈
+
+17:24:50 AfK_Bot
+ (o ° o ° o)
+
+17:24:52 _
+?
+
+17:25:06 _
+:!translate ru (o°ω°o)
+
+17:25:07 AfK_Bot
+ (o ° o ° o)
+
+17:25:11 _
+:!translate zu (o°ω°o)
+
+17:25:12 __thomas_wcy
+我自己看不懂自己写的了，
+
+17:25:13 AfK_Bot
+ (o ° O ° O)
+
+17:25:18 ee
+++1
+
+17:25:24 _
+:!grass (o°ω°o)
+
+17:25:32 eebot_2x
+hi raju
+
+17:25:38 AfK_Bot
+ （o°S）
+
+17:25:40 _
+?
+
+17:27:55 L
+http://124.223.190.218:6059/
+
+17:28:17 _
+?
+
+17:28:41 eebot_2x
+hi Wcy_Bot
+
+17:28:47 __thomas_wcy
+C++
+
+17:28:48 Wcy_Bot
+@__thomas_wcy你怎么会知道这个词？快忘掉！
+
+17:28:50 Wcy_Bot
+@QiuLingYan4 hi
+
+17:28:50 eebot_2x
+hi QiuLingYan4
+
+17:28:56 ee
+傻逼
+
+17:28:56 QiuLingYan4
+功能
+
+17:29:01 QiuLingYan4
+@ee ？？
+
+17:29:04 __thomas_wcy
+.start
+
+17:29:04 Wcy_Bot
+@__thomas_wcy 发起了一次游戏，并成为了游戏的管理者。ps：管理者请使用“.set 人数”来设置游戏人数
+
+17:29:05 ee
+好家伙 没反应
+
+17:29:11 dx_xb
+## To Chinese User:
+Welcome to your-channel,hackchat文档: https://hcwiki.github.io
+欢迎访问winter聊天室，为中国人提供的hackchat: ==https://spr233.eu.org==
+
+17:29:11 Wcy_Bot
+@dx_xb hi
+
+17:29:11 eebot_2x
+hi dx_xb
+
+17:29:11 __thomas_wcy
+我可能去掉了
+
+17:29:14 ee
+@QiuLingYan4 sorrry 我测试一下
+
+17:29:16 QiuLingYan4
+.set 1000
+
+17:29:24 __thomas_wcy
+.set 20
+
+17:29:24 Wcy_Bot
+人数已设置为2好啦，可已进入~~我身体~~了哦
+
+17:29:24 Wcy_Bot
+ps:管理者可以使用“.qz”来强制开启游戏，即使人数未满
+
+17:29:35 QiuLingYan4
+.qz
+
+17:29:40 ee
+草
+
+17:29:42 QiuLingYan4
+@__thomas_wcy 我也要管理者
+
+17:29:42 Wcy_Bot
+wcy很忙(懒)的，别@他
+
+17:29:47 __thomas_wcy
+az
+
+17:29:56 QiuLingYan4
+有啥功能
+
+17:29:57 __thomas_wcy
+垃圾@Wcy_Bot 
+
+17:29:58 QiuLingYan4
+.help
+
+17:30:07 __thomas_wcy
+我的很乱
+
+17:30:12 __thomas_wcy
+&ww
+
+17:30:13 ee
+我的也是
+
+17:30:14 Wcy_Bot
+ww？
+
+17:30:16 ee
+帮助
+
+17:30:18 eebot_2x
+HC指令：https://tieba.baidu.com/p/6833224084
+
+17:30:18 eebot_2x
+HC百科：https://chumo.sbsbsb.sbs/wiki/
+
+17:30:18 eebot_2x
+个人主页：https://paperee.tk/
+
+17:30:21 __thomas_wcy
+&你是傻逼啊
+
+17:30:22 QiuLingYan4
+功能
+
+17:30:24 Wcy_Bot
+21世纪很危险，快回到你的侏罗纪去吧
+
+17:30:25 ee
+命令
+
+17:30:26 eebot_2x
+基本：帮助/help；农历/day；时间/time；挂机/afk；随机数/r
+
+17:30:26 eebot_2x
+更多：一言；段子；古诗词；正能量；彩虹屁；毒鸡汤；舔狗日记；土味情话
+
+17:30:33 ee
+没了（）
+
+17:30:36 __thomas_wcy
+&1+1
+
+17:30:38 QiuLingYan4
+@ee HiyoTeam主页添加上去
+
+17:30:39 Wcy_Bot
+你说个“1 1”是什么意思
+
+17:30:40 ee
+换一个版本
+

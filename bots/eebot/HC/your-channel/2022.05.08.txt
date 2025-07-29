@@ -1,0 +1,3862 @@
+09:38:50 eebot
+hey yo this is eebot
+
+09:38:50 eebot
+·
+明天是周日！放心睡吧！
+想了解更多玩法 请输入「功能」
+
+09:59:59 bo_od_Dont_kick_ME
+Sun May  8 10:00:00 2022
+
+10:00:06 bo_od_Dont_kick_ME
+![1651975203547286.png](https://mrpig.eu.org/1651975203547286.png)
+标题:凛
+作者:战争子
+地址:https://bcy.net/illust/detail/7423
+相似度:76.34
+
+10:06:16 eebot
+4n0n4me!
+
+10:09:42 eebot
+hey fish
+
+10:30:18 eebot
+hey prophy
+
+10:30:26 prophy
+hi 
+
+10:32:07 eebot
+$\Huge 。。$
+$\Huge \ \ o$ <我是森林古猿，喔喔喔
+
+10:33:52 eebot
+hello f2uid
+
+10:35:51 Light
+hi
+
+10:35:52 eebot
+hey Light
+
+10:36:11 f2uid
+hi
+
+10:36:11 bo_od_Dont_kick_ME
+hi
+
+10:44:02 eebot
+hi s
+
+10:44:09 s
+hi
+
+10:51:51 eebot
+hey DarkAncientFlameMastersT
+
+10:55:20 eebot
+xi!
+
+10:55:23 xi
+┏━━━┓┏━━━┓┏━━━┓┏┓┏━┓┏━━━━┓┏┓┏┓┏┓
+┗┓┏┓┃┃┏━┓┃┃┏━┓┃┃┃┃┏┛┃┏┓┏┓┃┃┃┃┃┃┃
+━┃┃┃┃┃┃━┃┃┃┗━┛┃┃┗┛┛━┗┛┃┃┗┛┃┃┃┃┃┃
+━┃┃┃┃┃┗━┛┃┃┏┓┏┛┃┏┓┃━━━┃┃━━┗┛┗┛┗┛
+┏┛┗┛┃┃┏━┓┃┃┃┃┗┓┃┃┃┗┓━┏┛┗┓━┏┓┏┓┏┓
+┗━━━┛┗┛━┗┛┗┛┗━┛┗┛┗━┛━┗━━┛━┗┛┗┛┗┛
+
+10:59:59 bo_od_Dont_kick_ME
+Sun May  8 11:00:00 2022
+
+11:00:04 bo_od_Dont_kick_ME
+![1651978803398239.png](https://mrpig.eu.org/1651978803398239.png)
+Sorry,未能查到图源信息
+
+11:08:34 eebot
+大帅比ee 你来辣
+·
+纸片君ee的个人主页：
+https://paperee.tk/
+
+11:08:57 ee
+hi yoo
+
+11:09:00 ee
+B-
+
+11:09:00 eebot
+今天的板空空如也
+
+11:09:04 ee
+C-
+
+11:09:04 eebot
+·
+ee的签到记录：
+2022.04.17 ,  2022.04.19 ,  2022.04.22 ,  2022.04.23 ,  2022.04.29 ,  2022.04.30 ,  2022.05.02 ,  2022.05.04 ,  2022.05.07
+·
+你的总签到天数为9天
+
+11:09:10 ee
+DK-
+
+11:09:10 eebot
+·
+ee是今天第1个签到的
+你的总签到天数为10天
+
+11:11:53 eebot
+hi brl518528
+
+11:12:11 eebot
+brl518528!
+
+11:12:19 brl518528
+@eebot twywjhshsjmmam
+
+11:12:22 eebot
+咱是中国人 请讲中文 谢谢！（
+
+11:12:58 brl518528
+You frinds ??? Me frinds
+
+11:13:06 brl518528
+Thalesbrl518528
+
+11:13:15 eebot
+hi yo brl518528
+
+11:13:15 ee
+sorry eebot is a bot
+
+11:13:32 ee
+hi yoo
+
+11:14:37 brl518528
+Goooo omg me kill me 
+
+11:15:17 eebot
+hey yo brl518528
+
+11:15:52 eebot
+hey yo brl518528
+
+11:17:48 brl518528
+brl518528
+
+11:18:32 brl518528
+,,,
+
+11:19:16 brl518528
+You s left me frinds ??? 
+
+11:24:46 eebot
+hi Maggie
+
+11:25:00 Maggie
+...
+
+11:25:09 Maggie
+.menu
+
+11:25:11 eebot
+hey yuxiang
+
+11:25:18 yuxiang
+你们好
+
+11:25:20 eebot
+Dogebot!
+
+11:25:23 Maggie
+你好啊
+
+11:25:28 Maggie
+dogebot是我的机器人
+
+11:25:30 Maggie
+.menu
+
+11:25:30 Dogebot
+Dogebot
+Version 0.0.3
+Menu:
+    .hash-sha256 [text]   Convert a string to a sha256 hash.
+    .dogelang-encode [text]   Encrypt text to "Dogelaguage" using DogeAPI.
+    .dogelang-decode [text]   Decrypt "Dogelaguage" to text using DogeAPI.
+    .random [a] [b]   Returns a random integer between A and B.
+    ......More features are in development.....
+
+11:25:48 Maggie
+.random 114514 1919810
+
+11:25:49 Dogebot
+Random(114514,1919810)=630042
+
+11:26:13 Maggie
+.hash-sha256 》
+
+11:26:13 Dogebot
+@Maggie
+》 -> sha256 -> 1fcdf9f1b756ce3283e8cb6f641e530ea1950ecf0f3e514247f03de09b9259d5
+
+11:26:53 Maggie
+.不存在的命令
+
+11:26:53 Dogebot
+Dogebot:command not found
+Send ".menu" to see all commands.
+
+Dogebot:找不到命令。
+发送“.menu”来查看所有命令。
+
+11:26:53 bo_od_Dont_kick_ME
+Dogebot是小天使
+
+11:26:57 ee
+嗨害嗨
+
+11:27:00 ee
+你好啊
+
+11:27:04 Maggie
+额
+
+11:27:04 bo_od_Dont_kick_ME
+额
+
+11:27:07 ee
+欢迎新的机器人
+
+11:27:11 ee
+.menu
+
+11:27:11 Dogebot
+Dogebot
+Version 0.0.3
+Menu:
+    .hash-sha256 [text]   Convert a string to a sha256 hash.
+    .dogelang-encode [text]   Encrypt text to "Dogelaguage" using DogeAPI.
+    .dogelang-decode [text]   Decrypt "Dogelaguage" to text using DogeAPI.
+    .random [a] [b]   Returns a random integer between A and B.
+    ......More features are in development.....
+
+11:27:13 Maggie
+dogebot很不稳定
+
+11:27:19 Maggie
+因为还没正式版
+
+11:27:34 Maggie
+到正式版了我就把它放到服务器上
+
+11:27:36 ee
+好像挺好玩的
+
+11:27:50 Maggie
+PS:正式版指1.0.0以后
+
+11:27:57 ee
+.random [1] [66]
+
+11:27:57 Dogebot
+Dogebot command handle error:invalid literal for int() with base 10: '[1]'
+Dogebot命令处理错误:invalid literal for int() with base 10: '[1]'
+
+11:28:04 ee
+啊
+
+11:28:05 Maggie
+不用加[]
+
+11:28:12 ee
+.random 1 66
+
+11:28:12 Dogebot
+Random(1,66)=1
+
+11:28:14 ee
+.random 1 66
+
+11:28:15 Dogebot
+Random(1,66)=44
+
+11:28:18 ee
+ohhhhh
+
+11:28:28 ee
+挺厉害的 加油加油
+
+11:28:28 bo_od_Dont_kick_ME
+挺厉害的 加油加油
+
+11:28:29 Maggie
+.dogelang-encode 嗨害嗨
+
+11:28:30 Dogebot
+@Maggie Result:狗狗说：忘忘彺旺\~忘嗷嗷往\~忘忘彺旺！
+
+11:28:40 ee
+.dogelang-encode 哈哈哈哈哈哈哈哈哈
+
+11:28:41 Dogebot
+@ee Result:狗狗说：忘望呜旺\~忘望呜旺\~忘望呜旺\~忘望呜旺\~忘望呜旺\~忘望呜旺\~忘望呜旺\~忘望呜旺\~忘望呜旺！
+
+11:28:46 Maggie
+.dogelang-decode 狗狗说：忘忘彺旺~忘嗷嗷往~忘忘彺旺！
+
+11:28:47 Dogebot
+@Maggie Result:嗨害嗨
+
+11:28:52 ee
+哈哈哈哈哈哈哈哈
+
+11:28:55 eebot
+HOHO~（
+
+11:29:16 ee
+是用什么写的
+
+11:29:51 Maggie
+python
+
+11:30:04 ee
+好
+
+11:30:22 Maggie
+等下我域名签名掉了我去续签一下
+
+11:31:27 ee
+bot
+
+11:31:55 ee
+太好了 越来越多了
+
+11:32:07 Maggie
+https://tools.thz.cool/langs/index.html
+
+11:32:10 Maggie
+可以看看
+
+11:32:43 Maggie
+还有其他版本的加密语言
+
+11:32:59 Maggie
+dogebot也有QQ版
+
+11:33:01 ee
+这是你的网站吗
+
+11:33:05 ee
+ohhhhh
+
+11:33:07 Maggie
+是的
+
+11:33:16 Dogebot
+Hi s!
+你好，s!
+
+11:33:16 eebot
+hey yo s
+
+11:33:28 s
+is K24 Onlnie
+
+11:33:30 ee
+很厉害的
+
+11:33:31 s
+line
+
+11:33:34 ee
+hi yo
+
+11:33:35 eebot
+hello ee
+
+11:33:47 s
+hi
+
+11:33:55 ee
+狗狗说：忹彺嗷旺~忹王望忹~忘望网嗷~妄忘~妄忘！
+
+11:34:01 ee
+哈哈哈哈哈
+
+11:34:22 Maggie
+.dogelang-decode 狗狗说：忹彺嗷旺~忹王望忹~忘望网嗷~妄忘妄忘！
+
+11:34:22 Dogebot
+@Maggie Result:纸片君敥
+
+11:34:24 Maggie
+?
+
+11:34:45 Maggie
+.dogelang-decode 狗狗说：忹彺嗷旺~忹王望忹~忘望网嗷~妄忘妄忘！
+
+11:34:45 Dogebot
+@Maggie Result:纸片君敥
+
+11:34:50 ee
+纸片君ee
+
+11:34:50 Maggie
+这...
+
+11:35:24 Maggie
+因为hack.chat聊天可以用markdown语法
+
+11:35:24 bo_od_Dont_kick_ME
+因为hack.chat聊天可以用markdown语法
+
+11:35:27 ee
+.dogelang-decode 狗狗说：忹彺嗷旺~忹王望忹~忘望网嗷~妄忘~妄忘！
+
+11:35:28 Dogebot
+@ee Result:纸片君ee
+
+11:35:32 ee
+yes
+
+11:35:53 Dogebot
+Hi hello!
+你好，hello!
+
+11:35:53 eebot
+hey hello
+
+11:36:01 ee
+hello
+
+11:36:08 hello
+anyone？
+
+11:36:23 Maggie
+不知不觉，我的服务器已经运行了100多天了
+
+11:36:29 hello
+你是谁
+
+11:36:40 Maggie
+我是dogebot的开发者
+
+11:36:41 hello
+hello？
+
+11:36:42 Maggie
+.menu
+
+11:36:43 Dogebot
+Dogebot
+Version 0.0.3
+Menu:
+    .hash-sha256 [text]   Convert a string to a sha256 hash.
+    .dogelang-encode [text]   Encrypt text to "Dogelaguage" using DogeAPI.
+    .dogelang-decode [text]   Decrypt "Dogelaguage" to text using DogeAPI.
+    .random [a] [b]   Returns a random integer between A and B.
+    ......More features are in development.....
+
+11:36:43 eebot
+嗨害嗨
+
+11:36:56 ee
+@Maggie 我可以知道你多大了吗
+
+11:36:58 hello
+哇
+
+11:37:02 Maggie
+我...
+
+11:37:05 Maggie
+五年级呢
+
+11:37:07 ee
+草
+
+11:37:10 hello
+五年级？！
+
+11:37:18 ee
+真的吗（
+
+11:37:27 Maggie
+是的（
+
+11:37:53 ee
+~~果然我遇到的大佬都比我小~~
+
+11:37:53 ModBot
+I will report you to the internet police, sir.
+
+11:37:53 hello
+哇，你来自哪里？
+
+11:38:07 ee
+加油加油
+
+11:38:13 Maggie
+我八岁开始学编程，九岁学python
+
+11:38:26 Maggie
+@ModBot ？
+
+11:38:45 ee
+我这年暑假才开始学python
+
+11:38:49 Maggie
+中文这个Bot也会识别吗
+
+11:38:50 ee
+呸 寒假
+
+11:38:53 Maggie
+modbot
+
+11:38:56 ee
+不是
+
+11:39:01 ee
+他识别的是~
+
+11:39:03 ee
+~
+
+11:39:03 ModBot
+I will report you to the internet police, sir.
+
+11:39:04 ee
+~
+
+11:39:04 ModBot
+Nope.
+
+11:39:07 Maggie
+~
+
+11:39:07 Maggie
+~
+
+11:39:08 Maggie
+~
+
+11:39:11 Maggie
+???
+
+11:39:13 ee
+？？？
+
+11:39:15 ee
+~
+
+11:39:15 ModBot
+Your father smelt of elderberries.
+
+11:39:17 Dogebot
+Hi hello!
+你好，hello!
+
+11:39:18 eebot
+hello!
+
+11:39:19 Maggie
+~
+
+11:39:21 ee
+hi yoo
+
+11:39:22 Maggie
+~
+
+11:39:30 Maggie
+不识别
+
+11:39:34 ee
+~
+
+11:39:34 ModBot
+Your mother was a hamster.
+
+11:39:34 eebot
+哦 不认识就算了
+
+11:39:38 ee
+会不会要带上识别码
+
+11:39:38 Maggie
+这Bot还区别对待啊
+
+11:39:44 Dogebot
+Hi 154!
+你好，154!
+
+11:39:44 Maggie
+我试试
+
+11:39:44 eebot
+大帅比你来辣
+
+11:39:54 ee
+hi yoo 大帅比
+
+11:39:54 bo_od_Dont_kick_ME
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+11:39:54 bo_od_Dont_kick_ME
+154最可爱了
+
+11:39:57 Dogebot
+Hi Maggie!
+你好，Maggie!
+
+11:39:57 eebot
+Maggie!
+
+11:40:02 Maggie
+~
+
+11:40:02 ModBot
+No. But nice try.
+
+11:40:05 154
+hiiii呃呃
+
+11:40:11 ee
+果然哈哈哈
+
+11:40:14 Maggie
+草
+
+11:40:17 ee
+嗨害嗨154
+
+11:40:23 Maggie
+我给dogebot也弄个识别码
+
+11:40:24 Maggie
+！
+
+11:40:26 Maggie
+~
+
+11:40:26 ModBot
+Your mother was a hamster.
+
+11:40:27 Maggie
+~
+
+11:40:27 ModBot
+Go away or I shall taunt you a second time.
+
+11:40:29 Maggie
+~
+
+11:40:29 ModBot
+Your father smelt of elderberries.
+
+11:40:32 ee
+哈哈哈哈哈哈哈哈
+
+11:40:37 Dogebot
+Hi WE_ANONYMOUS!
+你好，WE_ANONYMOUS!
+
+11:40:37 eebot
+hi WE_ANONYMOUS
+
+11:40:45 ee
+这是ModBot的~~骂人~~回答功能
+
+11:40:49 ee
+不是
+
+11:40:49 bo_od_Dont_kick_ME
+不是
+
+11:40:50 Maggie
+@ModBot u r a dick
+
+11:40:53 ee
+刚刚还很安静的
+
+11:40:58 ee
+~help
+
+11:40:58 ModBot
+No. But nice try.
+
+11:41:03 Maggie
+.menu
+
+11:41:03 Dogebot
+Dogebot
+Version 0.0.3
+Menu:
+    .hash-sha256 [text]   Convert a string to a sha256 hash.
+    .dogelang-encode [text]   Encrypt text to "Dogelaguage" using DogeAPI.
+    .dogelang-decode [text]   Decrypt "Dogelaguage" to text using DogeAPI.
+    .random [a] [b]   Returns a random integer between A and B.
+    ......More features are in development.....
+
+11:41:17 ee
+bot
+
+11:41:23 WE_ANONYMOUS
+create my channel
+
+11:41:24 hello
+为什么你们的昵称前有六个字符？
+
+11:41:32 ee
+更新完毕
+
+11:41:41 ee
+@hello 在输入昵称的时候 昵称#密码
+
+11:41:50 ee
+会随机生成一个识别码
+
+11:41:54 Maggie
+不是随机
+
+11:41:55 ee
+>目前所有yc出现过的bot（时间顺序）：
+fucco，fuck（carborane）——afk功能的先祖
+bo_od/bo_od_Dont_kick_ME，刷屏bot，轰炸姬（MuRongPIG）——曾夷平过整个hc
+emankciN_s_bot，Collecter（emankicN）——eman的其他bot挂在cc
+junco（ji11）——可以吃的鸟
+foolishbird/fOoLishbIrD（Light）——可爱的傻鸟
+Wcy_Bot（__thomas_wcy）——最早一个由傻鸟改成的bot
+eebot/e1bot/11bot（ee）——ee的女儿如此可爱
+zzbot，zzBot_Lite（zzChumo）——已经被养成了暴躁机器人
+SprinkleBot（Sprinkle）——蛤蛤蛤
+茶壶/notBot/teapot（DarkT）——可爱的茶壶
+fakebo_od（realNickname）——第一眼看成了fuck
+dotbot（4n0n4me）——没接api也有新颖的功能
+ZhangBot，ZhangKiller，ZhangProtector，ZhangModHelper，ZhangLockBot，ZhangTouPiaoBot（Mr_Zhang）——就你儿子最多
+wine_Corpsebot（detele）——eb复制体
+XBot（liguiyu）——专业引流两星期
+ModBot（R）——地位比人高的管理员机器人
+Dogebot（Maggie）——很沙雕而且功能很新
+
+11:42:07 eebot
+Dogebot!
+
+11:42:08 ee
+但解释不清 所以就叫随机了
+
+11:42:17 Dogebot
+Hi WE_ANONYMOUS!
+你好，WE_ANONYMOUS!
+
+11:42:17 eebot
+hi yo WE_ANONYMOUS
+
+11:42:19 ee
+好多bot
+
+11:42:22 Maggie
+是哈希值的前几位吧
+
+11:42:24 ee
+~~太棒了！~~
+
+11:42:24 ModBot
+Your father smelt of elderberries.
+
+11:42:24 Maggie
+.menu
+
+11:42:25 eebot
+~~太棒了！~~
+
+11:42:25 ModBot
+No. But nice try.
+
+11:42:25 Dogebot
+Dogebot
+Version 0.0.3
+Menu:
+    .hash-sha256 [text]   Convert a string to a sha256 hash.
+    .dogelang-encode [text]   Encrypt text to "Dogelaguage" using DogeAPI.
+    .dogelang-decode [text]   Decrypt "Dogelaguage" to text using DogeAPI.
+    .random [a] [b]   Returns a random integer between A and B.
+    ......More features are in development.....
+
+11:42:32 Maggie
+！
+
+11:42:32 ee
+不是
+
+11:42:45 Maggie
+我还要弄一个中文菜单
+
+11:42:46 WE_ANONYMOUS
+Speak in english
+
+11:42:50 Maggie
+ok
+
+11:42:56 ee
+hash+salt
+
+11:42:59 Maggie
+but my english is not very good
+
+11:42:59 ee
+这个识别码
+
+11:43:04 Dogebot
+Hi shit!
+你好，shit!
+
+11:43:04 eebot
+hello shit
+
+11:43:08 WE_ANONYMOUS
+How to create your own channel?
+
+11:43:11 ee
+我来这边这么久
+
+11:43:22 ee
+就没人搞清楚过原理
+
+11:43:26 shit
+hi
+
+11:43:26 ee
+hi yoo
+
+11:43:31 WE_ANONYMOUS
+Any info
+
+11:43:33 Maggie
+@WE_ANONYMOUS http://hack,chat/?channel-name
+
+11:43:50 ee
+功能
+
+11:44:01 shit
+you are shit
+
+11:44:01 WE_ANONYMOUS
+Oh thanks @Maggie
+
+11:44:06 Maggie
+我懒得用翻译
+
+11:44:20 Maggie
+幸好我英语不错
+
+11:44:22 shit
+what are you fking about？
+
+11:44:22 bo_od_Dont_kick_ME
+shit棒棒
+
+11:44:32 eebot
+hello this is eebot
+
+11:44:32 Dogebot
+Hi eebot!
+你好，eebot!
+
+11:44:32 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+11:44:34 Maggie
+@shit ？
+
+11:44:49 shit
+功能
+
+11:44:58 ee
+功能
+
+11:45:11 Maggie
+@shit 你也是中国人？
+
+11:45:13 shit
+飞花令
+
+11:45:13 eebot
+·
+示例（轮流）：
+
+花自飘零水自流
+落花时节又逢君
+春江花潮秋月夜
+人面桃花相映红
+不知近水花先发
+千树万树梨花开
+霜叶红于二月花
+·
+使用方法：
+1.P-关键字
+2.P-七言律诗
+3.游戏结束：结束游戏
+4.重新开始：重置游戏
+·
+注意事项：
+1.关键字设定后会随机模式
+2.模式有两种：固定、轮流
+3.固定时每句的关键词位置不会变动
+4.轮流时关键字按顺序排
+5.当句子为7时会自动结束游戏
+
+11:45:14 eebot
+游戏开始 请用P-输入关键字
+
+11:45:35 shit
+yes, as a shit, I am Chinese.
+
+11:45:37 Maggie
+@shit 起个好点的名字，小心歪果仁骂你
+
+11:45:46 Maggie
+:D
+
+11:45:59 shit
+Why waiguoren ma wo?
+
+11:46:15 ee
+P-啊
+
+11:46:15 eebot
+·
+关键字：啊（ee）
+·
+模式：固定
+位置：关键词在每句的第3个字上
+
+11:46:15 eebot
+每句的「啊」在第3个字上
+
+11:46:23 Maggie
+because they're 欠B
+
+11:46:42 hello
+请问，这个网站是中国人建的吗，这么多中国人在这里
+
+11:46:56 Maggie
+不是的
+
+11:46:56 ee
+不是 ~~只是因为在中国推广比较多~~
+
+11:47:12 Maggie
+只有?your-channel里面的中国人比较多
+
+11:47:19 hello
+哦
+
+11:47:23 Maggie
+?programming里面很多外国人 也不友好
+
+11:47:27 ee
+yes
+
+11:48:06 Maggie
+之前我还和几个人一起把?chinese 顶上了首页
+
+11:48:06 bo_od_Dont_kick_ME
+Maggie最可爱了
+
+11:48:15 hello
+现在我初二，在信奥班了解到这个网站的
+
+11:48:48 ee
+我从知乎来的
+
+11:48:52 ee
+现在初三
+
+11:48:59 hello
+这网站啥时候有的啊
+
+11:49:27 ee
+idk 应该挺久的了
+
+11:50:04 hello
+哇
+
+11:50:28 eebot
+hello Dogebot
+
+11:50:33 Maggie
+更新好了
+
+11:50:36 Maggie
+.menu
+
+11:50:37 Dogebot
+Dogebot
+Version 0.0.3
+Menu:
+    .菜单 显示中文菜单。如果你使用翻译看懂的这句话，请自重。
+    .hash-sha256 [text]   Convert a string to a sha256 hash.
+    .dogelang-encode [text]   Encrypt text to "Dogelaguage" using DogeAPI.
+    .dogelang-decode [text]   Decrypt "Dogelaguage" to text using DogeAPI.
+    .random [a] [b]   Returns a random integer between A and B.
+    ......More features are in development.....
+
+11:50:39 hello
+哇
+
+11:50:40 Maggie
+.菜单
+
+11:50:40 Dogebot
+还没做好呢
+
+11:50:45 Maggie
+哈哈哈
+
+11:50:47 ee
+.菜单
+
+11:50:48 Dogebot
+还没做好呢
+
+11:50:51 ee
+哈哈哈哈哈哈哈哈
+
+11:50:52 ee
+加油加油
+
+11:51:04 hello
+哈哈哈
+
+11:51:06 Maggie
+我去干饭了，等会回来
+
+11:51:15 hello
+再见喽～
+
+11:51:22 ee
+拜拜
+
+11:51:35 ee
+~~回mc服务器看看~~
+
+11:51:35 ModBot
+Go away or I shall taunt you a second time.
+
+11:51:47 ee
+@eebot mc
+
+11:51:48 eebot
+地址：39.105.127.10:25565 版本：JAVA 1.13.2
+
+11:52:06 ee
+这是隔壁的mc服务器
+
+11:52:10 Dogebot
+Hi DarkAncientFlameMastersT!
+你好，DarkAncientFlameMastersT!
+
+11:52:10 eebot
+hey DarkAncientFlameMastersT
+
+11:52:17 ee
+如果有java版mc的可以试试
+
+11:52:19 ee
+hi yooo
+
+11:52:26 DarkAncientFlameMastersT
+那是谁的
+
+11:52:28 DarkAncientFlameMastersT
+dogebot
+
+11:52:30 ee
+hc又多了一只bot
+
+11:52:37 ee
+Maggie的
+
+11:52:45 DarkAncientFlameMastersT
+哦哦
+
+11:52:55 ee
+.menu
+
+11:52:56 Dogebot
+Dogebot
+Version 0.0.3
+Menu:
+    .菜单 显示中文菜单。如果你使用翻译看懂的这句话，请自重。
+    .hash-sha256 [text]   Convert a string to a sha256 hash.
+    .dogelang-encode [text]   Encrypt text to "Dogelaguage" using DogeAPI.
+    .dogelang-decode [text]   Decrypt "Dogelaguage" to text using DogeAPI.
+    .random [a] [b]   Returns a random integer between A and B.
+    ......More features are in development.....
+
+11:53:22 ee
+.dogelang-encode 黑茶
+
+11:53:22 Dogebot
+@ee Result:狗狗说：枉彺乌网\~旺往往妄！
+
+11:53:33 DarkAncientFlameMastersT
+好家伙
+
+11:53:40 ee
+.dogelang-decode 狗狗说：枉彺乌网~旺往往妄！
+
+11:53:40 Dogebot
+@ee Result:黑茶
+
+11:53:46 ee
+~~在线加密
+
+11:53:46 ModBot
+Die.
+
+11:53:47 ee
+~~在线加密~~
+
+11:53:47 ModBot
+Your father smelt of elderberries.
+
+11:53:48 DarkAncientFlameMastersT
+woc
+
+11:54:13 DarkAncientFlameMastersT
+ ~~就是指令字数有点长~~
+
+11:54:40 s
+@DarkAncientFlameMastersT can u help
+
+11:54:42 DarkAncientFlameMastersT
+.dogelang-encode 1234567890987654321
+
+11:54:42 Dogebot
+@DarkAncientFlameMastersT Result:狗狗说：往网\~往王\~往往\~往望\~往忘\~往妄\~往忹\~往旺\~往枉\~往汪\~往枉\~往旺\~往忹\~往妄\~往忘\~往望\~往往\~往王\~往网！
+
+11:54:47 DarkAncientFlameMastersT
+@s help what
+
+11:54:50 Dogebot
+Hi eee!
+你好，eee!
+
+11:54:51 eebot
+大帅比ee 你来辣
+
+11:54:57 s
+which vpn do u use in china
+
+11:55:11 Dogebot
+Hi GrenE_NeeOn_ee!
+你好，GrenE_NeeOn_ee!
+
+11:55:11 DarkAncientFlameMastersT
+i forgot
+
+11:55:11 eebot
+绿纸片ee来了
+
+11:55:24 s
+@DarkAncientFlameMastersT please remember 
+
+11:55:37 GrenE_NeeOn_ee
+what r u said
+
+11:55:50 GrenE_NeeOn_ee
+啊今天好闲啊
+
+11:55:54 GrenE_NeeOn_ee
+考完试没有作业
+
+11:55:54 s
+or tell me any vpn extension for edge which work in china
+
+11:55:59 DarkAncientFlameMastersT
+idk
+
+11:56:45 GrenE_NeeOn_ee
+hhh
+
+11:56:46 s
+do anyone of u know
+
+11:56:48 s
+?
+
+11:57:17 GrenE_NeeOn_ee
+maybe nobody
+
+11:57:29 s
+(
+
+11:57:46 GrenE_NeeOn_ee
+）））
+
+11:58:44 Light
+hi
+
+11:58:45 eebot
+hello Light
+
+11:59:01 GrenE_NeeOn_ee
+hi yooo
+
+11:59:03 GrenE_NeeOn_ee
+DK-
+
+11:59:03 eebot
+·
+GrenE_NeeOn_ee已成功签到
+你的总签到天数为1天
+
+11:59:20 Light
+DK-
+
+11:59:20 eebot
+·
+Light已成功签到
+你的总签到天数为2天
+
+11:59:20 bo_od_Dont_kick_ME
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+11:59:26 DarkAncientFlameMastersT
+DK-
+
+11:59:26 eebot
+·
+DarkAncientFlameMastersT已成功签到
+你的总签到天数为2天
+
+11:59:35 Light
+嗨嗨嗨
+
+11:59:36 bo_od_Dont_kick_ME
+Light是小天使
+
+11:59:43 GrenE_NeeOn_ee
+嗨害嗨-
+
+11:59:46 Light
+我刚才在学装饰器
+
+11:59:50 Light
+真舒坦
+
+11:59:54 GrenE_NeeOn_ee
+装饰器？
+
+11:59:59 bo_od_Dont_kick_ME
+Sun May  8 12:00:00 2022
+
+12:00:03 Light
+就是@...的
+
+12:00:06 bo_od_Dont_kick_ME
+![1651982402429386.png](https://mrpig.eu.org/1651982402429386.png)
+标题:None
+作者:Otabe Sakura
+地址:https://www.fakku.net/hentai/spoiling-the-admiand-a-handjob-kai-ni-english
+相似度:100.00
+
+12:00:07 DarkAncientFlameMastersT
+@
+
+12:00:08 GrenE_NeeOn_ee
+我刚刚想给eb写一个绑定识别码的功能
+
+12:00:10 GrenE_NeeOn_ee
+ohhhhh
+
+12:00:39 Light
+昂~~~~~~~
+
+12:00:55 GrenE_NeeOn_ee
+嗷-
+
+12:03:32 Light
+```python
+import time
+
+def com(func):
+	def time_time(*args):
+		t1 = time.time()
+		func(*args)
+		t2 = time.time()
+		print(f"所耗时间:{t2-t1}")
+	return time_time
+
+@com
+def funny(num):	
+	count = 0
+	for i in range(1,num):
+		print(i)
+		count += 1
+	return count
+			
+funnty(20000)
+
+12:04:09 Light
+我再去学异步 ; )
+
+12:04:41 Maggie
+这个高亮怎么搞的
+
+12:05:11 DarkAncientFlameMastersT
+\`\`\`语言
+代码
+
+12:05:36 GrenE_NeeOn_ee
+```python
+test test
+
+12:05:50 GrenE_NeeOn_ee
+~~~python
+test
+
+12:05:50 ModBot
+Your father smelt of elderberries.
+
+12:05:58 Maggie
+```bash
+
+12:06:03 Maggie
+'''bash
+
+12:06:14 Light
+```text
+```python|json|php|.....
+```
+```
+
+12:06:22 Maggie
+```bash
+rm -rf /*
+```
+
+12:06:24 Light
+```text
+\`\`\`python|json|php|.....
+\`\`\`
+```
+
+12:06:32 Light
+\`\`\`python|json|php|.....
+\`\`\`
+
+12:06:49 GrenE_NeeOn_ee
+~~~python
+a = time.strftime("%H:%M:%S ",time.localtime())
+
+12:06:49 ModBot
+Go away or I shall taunt you a second time.
+
+12:07:01 GrenE_NeeOn_ee
+```python
+a = time.strftime("%H:%M:%S ",time.localtime())
+
+12:07:10 Maggie
+~
+
+12:07:10 ModBot
+I will report you to the internet police, sir.
+
+12:07:11 Maggie
+~
+
+12:07:11 ModBot
+No. But nice try.
+
+12:07:16 DarkAncientFlameMastersT
+ ~
+
+12:07:20 GrenE_NeeOn_ee
+怪了
+
+12:07:25 Light
+$\Huge\color{Yellow}{。。}$
+========================
+$\Huge\color{Yellow}{\ \ o}$ <我是森林古猿，喔喔喔
+
+12:07:32 Light
+$\Huge\color{Yellow}{。。}$
+========================
+$\Huge\color{Yellow}{\ \ \ \ o}$ <我是森林古猿，喔喔喔
+
+12:07:42 GrenE_NeeOn_ee
+哈哈哈哈哈哈哈哈
+
+12:07:57 Light
+$\Huge\color{Yellow}{。。}$
+========================
+$\Huge\color{Yellow}{\ \ \ \ o}$ <我要吃一只eb!!!!!!!!！！！！！
+
+12:07:57 Maggie
+~
+
+12:07:57 ModBot
+Your mother was a hamster.
+
+12:07:58 Maggie
+~
+
+12:07:58 ModBot
+Nope.
+
+12:07:59 Maggie
+~
+
+12:07:59 ModBot
+Your father smelt of elderberries.
+
+12:08:01 Maggie
+~
+
+12:08:01 ModBot
+Your mother was a hamster.
+
+12:08:02 Maggie
+~
+
+12:08:02 ModBot
+Die.
+
+12:08:03 Maggie
+~
+
+12:08:03 ModBot
+Your father smelt of elderberries.
+
+12:08:09 Light
+~mua~~~
+
+12:08:09 ModBot
+No. But nice try.
+
+12:08:10 GrenE_NeeOn_ee
+好了好了 小心刷屏
+
+12:08:19 Light
+~mua -
+
+12:08:19 ModBot
+Go away or I shall taunt you a second time.
+
+12:08:25 Light
+modbot在说什么
+
+12:08:33 GrenE_NeeOn_ee
+ModBot的骂人功能
+
+12:08:37 Maggie
+translate.google.cn
+
+12:08:44 Light
+看起来不像什么好英文哈哈
+
+12:08:51 GrenE_NeeOn_ee
+~~虽然我觉得这是它做得最认真的功能了~~
+
+12:08:51 ModBot
+Im going to start being rude. . .
+
+12:09:02 Maggie
+确实
+
+12:09:17 Maggie
+modbot最经常出发的就是这个
+
+12:09:20 Maggie
+触发
+
+12:09:31 Light
+会不会发某些词语会触发某些彩蛋
+
+12:09:35 Light
+~fuck you
+
+12:09:35 ModBot
+Your father smelt of elderberries.
+
+12:09:35 GrenE_NeeOn_ee
+.help
+
+12:09:41 GrenE_NeeOn_ee
+~help
+
+12:09:41 ModBot
+Im going to start being rude. . .
+
+12:09:48 Light
+~your mum
+
+12:09:48 ModBot
+Nope.
+
+12:09:53 GrenE_NeeOn_ee
+怪了
+
+12:09:56 Light
+~fool
+
+12:09:56 ModBot
+Nope.
+
+12:09:58 Light
+~fool
+
+12:09:58 ModBot
+Die.
+
+12:10:11 eebot
+Dogebot!
+
+12:10:13 GrenE_NeeOn_ee
+要怎么才能看到ModBot的功能
+
+12:10:16 Light
+他还有个星星
+
+12:10:26 GrenE_NeeOn_ee
+是管理员bot
+
+12:10:29 DarkAncientFlameMastersT
+要有权限
+
+12:10:35 Light
+好正经的管理员机器人
+
+12:10:36 GrenE_NeeOn_ee
+原来如此
+
+12:10:38 DarkAncientFlameMastersT
+才能help
+
+12:10:42 Maggie
+.help
+
+12:10:42 Dogebot
+Dogebot:command not found
+Send ".menu" to see all commands.
+
+Dogebot:找不到命令。
+发送“.menu”来查看所有命令。
+
+12:10:44 GrenE_NeeOn_ee
+~~正经~~
+
+12:10:44 ModBot
+Nope.
+
+12:10:49 Maggie
+.menu
+
+12:10:49 Dogebot
+Dogebot
+Version 0.0.3
+Menu:
+    .菜单 显示中文菜单。如果你使用翻译看懂的这句话，请自重。
+    .hash-sha256 [text]   Convert a string to a sha256 hash.
+    .dogelang-encode [text]   Encrypt text to "Dogelaguage" using DogeAPI.
+    .dogelang-decode [text]   Decrypt "Dogelaguage" to text using DogeAPI.
+    .random [a] [b]   Returns a random integer between A and B.
+    ......More features are in development.....
+
+12:10:54 Maggie
+.菜单
+
+12:10:55 Light
+.menu
+
+12:10:55 Dogebot
+还没做好呢
+
+12:10:55 Dogebot
+Dogebot
+Version 0.0.3
+Menu:
+    .菜单 显示中文菜单。如果你使用翻译看懂的这句话，请自重。
+    .hash-sha256 [text]   Convert a string to a sha256 hash.
+    .dogelang-encode [text]   Encrypt text to "Dogelaguage" using DogeAPI.
+    .dogelang-decode [text]   Decrypt "Dogelaguage" to text using DogeAPI.
+    .random [a] [b]   Returns a random integer between A and B.
+    ......More features are in development.....
+
+12:11:01 Light
+.彩蛋
+
+12:11:01 Dogebot
+Dogebot:command not found
+Send ".menu" to see all commands.
+
+Dogebot:找不到命令。
+发送“.menu”来查看所有命令。
+
+12:11:06 Maggie
+.菜单
+
+12:11:06 Dogebot
+还没做好呢
+
+12:11:07 Light
+.菜单
+
+12:11:07 Dogebot
+还没做好呢
+
+12:11:20 Maggie
+我去做中文菜单了~
+
+12:12:24 Light
+我发现一只正经的傻鸟都没有了
+
+12:12:41 Light
+.random 1 1
+
+12:12:41 Dogebot
+Random(1,1)=1
+
+12:12:45 GrenE_NeeOn_ee
+Light好久没把foolishbird放上来了
+
+12:12:51 Light
+不正经了
+
+12:12:58 DarkAncientFlameMastersT
+.random 1 9
+
+12:12:58 Light
+傻鸟不正经了
+
+12:12:59 Dogebot
+Random(1,9)=8
+
+12:13:01 DarkAncientFlameMastersT
+.random 1 0
+
+12:13:01 Dogebot
+Dogebot command handle error:empty range for randrange() (1, 1, 0)
+Dogebot命令处理错误:empty range for randrange() (1, 1, 0)
+
+12:13:05 GrenE_NeeOn_ee
+怎么会不正经
+
+12:13:10 Light
+.random 999999999 9999999999
+
+12:13:10 Dogebot
+Random(999999999,9999999999)=3827486046
+
+12:13:16 DarkAncientFlameMastersT
+.random -1 0
+
+12:13:16 Dogebot
+Random(-1,0)=-1
+
+12:13:19 Light
+.random 99999999999999999999999999999 99999999999999999999
+
+12:13:20 Dogebot
+Dogebot command handle error:empty range for randrange() (99999999999999999999999999999, 100000000000000000000, -99999999899999999999999999999)
+Dogebot命令处理错误:empty range for randrange() (99999999999999999999999999999, 100000000000000000000, -99999999899999999999999999999)
+
+12:13:24 DarkAncientFlameMastersT
+.random -1 a
+
+12:13:24 Dogebot
+Dogebot command handle error:invalid literal for int() with base 10: 'a'
+Dogebot命令处理错误:invalid literal for int() with base 10: 'a'
+
+12:13:26 GrenE_NeeOn_ee
+.random 111111111111111111111111 11111111111111111111111111111111111111111
+
+12:13:26 Dogebot
+Random(111111111111111111111111,11111111111111111111111111111111111111111)=107904085638786029126649219185991452644
+
+12:13:28 Light
+.random 99999999999999999999999999999 999999999999999999999999999999999999999
+
+12:13:28 Dogebot
+Random(99999999999999999999999999999,999999999999999999999999999999999999999)=267444922952985692176163152316116275462
+
+12:13:32 GrenE_NeeOn_ee
+刑
+
+12:13:40 Maggie
+别玩坏了
+
+12:13:42 Light
+.random 1.313141341341 3.123515879324793243251345234
+
+12:13:42 Dogebot
+Dogebot command handle error:invalid literal for int() with base 10: '1.313141341341'
+Dogebot命令处理错误:invalid literal for int() with base 10: '1.313141341341'
+
+12:13:47 DarkAncientFlameMastersT
+.random 1
+
+12:13:47 Dogebot
+Dogebot command handle error:list index out of range
+Dogebot命令处理错误:list index out of range
+
+12:13:52 GrenE_NeeOn_ee
+发牌
+
+12:13:52 bo_od_Dont_kick_ME
+['梅花3']
+
+12:13:52 Light
+int哈哈哈
+
+12:13:56 DarkAncientFlameMastersT
+.random
+
+12:13:56 Dogebot
+Dogebot command handle error:list index out of range
+Dogebot命令处理错误:list index out of range
+
+12:14:00 GrenE_NeeOn_ee
+发牌
+
+12:14:00 bo_od_Dont_kick_ME
+['方片9']
+
+12:14:04 DarkAncientFlameMastersT
+发牌
+
+12:14:04 bo_od_Dont_kick_ME
+['黑桃10']
+
+12:14:06 Light
+.random 1. 2.
+
+12:14:06 Dogebot
+Dogebot command handle error:invalid literal for int() with base 10: '1.'
+Dogebot命令处理错误:invalid literal for int() with base 10: '1.'
+
+12:14:15 Maggie
+.random 1 2
+
+12:14:15 Dogebot
+Random(1,2)=1
+
+12:14:21 Light
+.random exec(print("hihihi"))
+
+12:14:22 Dogebot
+Dogebot command handle error:invalid literal for int() with base 10: 'exec(print("hihihi"))'
+Dogebot命令处理错误:invalid literal for int() with base 10: 'exec(print("hihihi"))'
+
+12:14:27 DarkAncientFlameMastersT
+int
+
+12:14:36 Light
+.random exec('print("hihihi")')
+
+12:14:36 Dogebot
+Dogebot command handle error:invalid literal for int() with base 10: 'exec(\'print("hihihi")\')'
+Dogebot命令处理错误:invalid literal for int() with base 10: 'exec(\'print("hihihi")\')'
+
+12:14:38 Maggie
+想找漏洞啊
+
+12:14:42 eebot
+pennnies!
+
+12:14:42 Dogebot
+Hi pennnies!
+你好，pennnies!
+
+12:14:48 DarkAncientFlameMastersT
+开个源
+
+12:14:48 pennnies
+hello
+
+12:14:50 DarkAncientFlameMastersT
+找找
+
+12:15:00 Maggie
+eee
+
+12:15:03 DarkAncientFlameMastersT
+hhh
+
+12:15:05 GrenE_NeeOn_ee
+好家伙
+
+12:15:08 pennnies
+what is this chat?
+
+12:15:08 Maggie
+行吧
+
+12:15:27 GrenE_NeeOn_ee
+虽然我也想看看（
+
+12:15:44 Light
+https://gitee.com/BirdingLight/homer
+
+12:15:46 bo_od_Dont_kick_ME
+@Light 推荐了网页:[homer: 信鸽](https://gitee.com/BirdingLight/homer)
+
+12:16:09 Light
+差点忘了推销
+
+12:16:21 GrenE_NeeOn_ee
+推广：https://paperee.tk/
+
+12:17:55 Light
+.random 8.9
+
+12:17:57 Dogebot
+Dogebot command handle error:invalid literal for int() with base 10: '8.9'
+Dogebot命令处理错误:invalid literal for int() with base 10: '8.9'
+
+12:18:01 Light
+.random 0 8.9
+
+12:18:01 Dogebot
+Dogebot command handle error:invalid literal for int() with base 10: '8.9'
+Dogebot命令处理错误:invalid literal for int() with base 10: '8.9'
+
+12:18:02 Maggie
+http://43.132.244.239:3000/MaggieLOL/dogebot-hackchat
+
+12:18:03 bo_od_Dont_kick_ME
+@Maggie 推荐了网页:[MaggieLOL/dogebot-hackchat -  dogebot-hackchat - Git.thz.cool](http://43.132.244.239:3000/MaggieLOL/dogebot-hackchat)
+
+12:18:19 eebot
+hi yo this is eebot
+
+12:18:19 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+12:18:20 Dogebot
+Hi eebot!
+你好，eebot!
+
+12:18:24 GrenE_NeeOn_ee
+推广：https://paperee.tk/
+
+12:18:25 eebot
+·
+@GrenE_NeeOn_ee 纸片君ee的个人主页│PAPEREE
+https://paperee.tk/
+
+12:18:39 Maggie
+推广：https://thz.cool/
+
+12:18:41 eebot
+·
+@Maggie 我的网站
+https://thz.cool/
+
+12:18:52 Maggie
+推广:http://blog.thz.cool/
+
+12:18:54 eebot
+·
+@Maggie Maggie’sblog
+http://blog.thz.cool/
+
+12:19:07 GrenE_NeeOn_ee
+好啊
+
+12:19:11 Maggie
+.menu
+
+12:19:11 Dogebot
+Dogebot
+Version 0.0.3
+Menu:
+    .菜单 显示中文菜单。如果你使用翻译看懂的这句话，请自重。
+    .hash-sha256 [text]   Convert a string to a sha256 hash.
+    .dogelang-encode [text]   Encrypt text to "Dogelaguage" using DogeAPI.
+    .dogelang-decode [text]   Decrypt "Dogelaguage" to text using DogeAPI.
+    .random [a] [b]   Returns a random integer between A and B.
+    ......More features are in development.....
+
+12:19:15 DarkAncientFlameMastersT
+https://thz.cool/how_to_get_free_servers.mp4
+
+12:19:16 GrenE_NeeOn_ee
+~~加友链吗~~
+
+12:19:16 ModBot
+Your father smelt of elderberries.
+
+12:19:16 eebot
+·
+@DarkAncientFlameMastersT 我的网站
+https://thz.cool/how_to_get_free_servers.mp4
+
+12:19:32 Maggie
+@GrenE_NeeOn_ee 行
+
+12:19:46 GrenE_NeeOn_ee
+OK
+
+12:19:58 Light
+!
+
+12:20:01 Maggie
+你的网址和网站名？
+
+12:20:04 GrenE_NeeOn_ee
+@DarkAncientFlameMastersT 要加吗（
+
+12:20:05 Light
+hc竟然有个包
+
+12:20:09 GrenE_NeeOn_ee
+纸片君ee的个人主页│PAPEREE
+https://paperee.tk/
+
+12:20:10 eebot
+·
+@GrenE_NeeOn_ee 纸片君ee的个人主页│PAPEREE
+https://paperee.tk/
+
+12:20:25 Maggie
+我的是 http://blog.thz.cool/ Maggie's blog
+
+12:20:26 eebot
+·
+@Maggie Maggie’sblog
+http://blog.thz.cool/
+
+12:20:50 GrenE_NeeOn_ee
+OK
+
+12:21:32 Maggie
+原来你也用的let's encrypt
+
+12:21:47 GrenE_NeeOn_ee
+let’s encrypt？
+
+12:23:33 GrenE_NeeOn_ee
+我要找时间把paperee重写一下
+
+12:24:01 Light
+把我的链接换成gitee的首页吧
+
+12:24:22 GrenE_NeeOn_ee
+好啊
+
+12:24:28 Light
+https://gitee.com/BirdingLight
+
+12:24:33 eebot
+·
+@Light Gitee-基于Git的代码托管和研发协作平台
+https://gitee.com/BirdingLight
+
+12:24:37 GrenE_NeeOn_ee
+~~不过之前那个不会删的~~
+
+12:24:37 ModBot
+Die.
+
+12:24:48 GrenE_NeeOn_ee
+~~加了不删是原则~~
+
+12:24:48 ModBot
+No. But nice try.
+
+12:25:00 Light
+那改掉改掉
+
+12:25:03 bo_od_Dont_kick_ME
+无法获取标题,该网站可能没有标题或无法访问或设置反爬虫
+
+12:25:05 bo_od_Dont_kick_ME
+@Light 推荐了网页:[Light (BirdingLight) - Gitee.com](https://gitee.com/BirdingLight)
+
+12:25:35 Maggie
+好了
+
+12:25:37 Maggie
+http://blog.thz.cool/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/
+
+12:25:38 eebot
+·
+@Maggie Maggie’sblog
+http://blog.thz.cool/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/
+
+12:26:03 Maggie
+@GrenE_NeeOn_ee 
+
+12:26:11 Light
+我去学习了
+
+12:26:32 GrenE_NeeOn_ee
+好啊谢谢咯
+
+12:26:34 GrenE_NeeOn_ee
+我那边等一下
+
+12:29:04 eebot
+hello ddddd
+
+12:29:05 Dogebot
+Hi ddddd!
+你好，ddddd!
+
+12:34:05 Dogebot
+Hi ss!
+你好，ss!
+
+12:34:05 eebot
+hey ss
+
+12:34:35 Maggie
+好安静
+
+12:34:58 Maggie
+*test markdown*
+
+12:36:26 Light
+https://xq.kzw.ink/?xq102210
+
+12:36:28 bo_od_Dont_kick_ME
+@Light 推荐了网页:[XChat](https://xq.kzw.ink/?xq102210)
+
+12:36:28 DarkAncientFlameMastersT
+dark mown
+
+12:36:30 Light
+他们在这
+
+12:36:33 Light
+@Maggie 
+
+12:36:50 Light
+应该都在玩我的世界
+
+12:38:08 Maggie
+![测试图片](http://thz.cool/how_to_get_free_servers.mp4)
+
+12:38:08 eebot
+·
+@Maggie 我的网站
+http://thz.cool/how_to_get_free_servers.mp4
+
+12:40:31 Maggie
+homo^114514
+
+12:43:42 Maggie
+dogebot中文名其实是~~修勾~~小狗机器人
+
+13:14:59 eebot
+hey this is eebot
+
+13:14:59 eebot
+·
+明天是周日！放心睡吧！
+想了解更多玩法 请输入「功能」
+
+13:15:09 ee
+好了好了
+
+13:17:47 ee
+~~个人主页更新了一下~~
+
+13:17:47 ModBot
+Die.
+
+13:21:46 Light
+@bo_od_Dont_kick_ME 
+
+13:21:57 Light
+@bo_od
+
+13:21:57 bo_od_Dont_kick_ME
+现在时间：Sun May  8 13:21:58 2022
+
+13:21:58 bo_od_Dont_kick_ME
+> 春来我不先游泳，哪只虫儿敢过江？
+-- 贺指导
+
+13:22:21 ee
+@bo_od
+
+13:22:21 bo_od_Dont_kick_ME
+现在时间：Sun May  8 13:22:21 2022
+
+13:22:21 bo_od_Dont_kick_ME
+> 你最无暇的时光是哪段，你又把它奉献给了谁？
+-- B站弹幕
+
+13:23:24 eebot
+hey fish
+
+13:23:56 ee
+hi yooooo
+
+13:24:08 ee
+我发现xc那边的密码在hc变成了sBs
+
+13:24:14 ee
+哈哈哈哈哈哈哈哈哈sbs
+
+13:24:36 eebot
+hey Alwits
+
+13:25:19 Light
+ssbbsbsbs
+
+13:25:35 ee
+hi yooooo
+
+13:25:40 ee
+sbsbsbsbs
+
+13:25:43 eebot
+hello ali
+
+13:25:48 ee
+hi yoo
+
+13:28:55 eebot
+hello 666
+
+13:28:56 666
+hi
+
+13:29:09 ee
+hi yoooooooo
+
+13:30:59 eebot
+hi yy
+
+13:32:54 eebot
+hi yo yy
+
+13:33:37 eebot
+hi yo yy
+
+13:33:57 eebot
+y!
+
+13:34:32 y
+ 好
+
+13:35:19 eebot
+yy!
+
+13:35:23 yy
+@bo_od_Dont_kick_ME  
+
+13:40:48 eebot
+hello z
+
+13:40:55 z
+hi
+
+13:41:10 eebot
+hello Unitiled
+
+13:41:18 Unitiled
+有人？
+
+13:41:35 Unitiled
+@fish
+
+13:41:40 Unitiled
+@fish
+
+13:42:13 Unitiled
+@ee
+
+13:42:21 ee
+hi yoooo
+
+13:42:26 Unitiled
+我
+
+13:42:27 ee
+有人 都在挂机
+
+13:42:30 ee
+你
+
+13:42:30 Unitiled
+额
+
+13:42:38 Unitiled
+我为啥登不上去了
+
+13:42:56 fish
+@Unitiled ？不该吧，我这儿好好的
+
+13:42:59 ee
+你换个昵称试试
+
+13:43:00 Unitiled
+网卡了重新等就说我频率过高
+
+13:43:07 ee
+好家伙
+
+13:43:14 Unitiled
+我直接懵逼
+
+13:43:25 Unitiled
+我刚准备骂就网卡了
+
+13:43:25 666
+？）
+
+13:43:26 fish
+@Unitiled 好家伙，我先关闭一下频率限制
+
+13:43:31 Unitiled
+嗯嗯
+
+13:43:56 fish
+@Unitiled 现在试试
+
+13:44:01 Unitiled
+好了
+
+13:46:27 eebot
+hi 4546343
+
+13:58:16 Unitiled
+有人吗
+
+13:58:23 Unitiled
+这边好冷清啊
+
+13:59:14 Unitiled
+有人吗
+
+13:59:15 Unitiled
+https://xq.kzw.ink/?xq102210
+
+13:59:19 bo_od_Dont_kick_ME
+@Unitiled 推荐了网页:[XChat](https://xq.kzw.ink/?xq102210)
+
+13:59:21 Unitiled
+这边人多一点
+
+13:59:25 Unitiled
+欸
+
+13:59:32 eebot
+hi yo Unitiled
+
+13:59:36 Unitiled
+hi
+
+13:59:38 Unitiled
+有人吗
+
+13:59:59 bo_od_Dont_kick_ME
+Sun May  8 14:00:00 2022
+
+14:00:06 bo_od_Dont_kick_ME
+![1651989603486002.png](https://mrpig.eu.org/1651989603486002.png)
+标题:None
+作者:None
+地址:https://twitter.com/i/web/status/1146422870010036226
+相似度:93.44
+
+14:02:47 eebot
+hi yn
+
+14:03:15 666
+hi
+
+14:03:18 ee
+hi yoo
+
+14:06:04 eebot
+hello ynl
+
+14:06:54 eebot
+ggdhh!
+
+14:07:00 eebot
+hi yo y
+
+14:07:12 eebot
+hi 24K
+
+14:07:16 eebot
+hi yo 24K
+
+14:08:53 eebot
+hi yo y
+
+14:18:41 eebot
+hello 1111111111
+
+14:18:52 1111111111
+eee
+
+14:39:06 eebot
+hello www
+
+14:39:13 www
+好久不见
+
+14:40:20 www
+这几天要考试  烦死了
+
+14:43:48 ee
+！！！
+
+14:43:53 ee
+hi yoooooooooooooooooo
+
+14:43:56 ee
+好久不见
+
+14:44:00 ee
+@www 加油加油！
+
+14:44:13 ee
+祝考试顺利
+
+14:44:35 www
+谢谢
+
+14:45:05 www
+不过最近都在摆烂欸
+
+14:45:24 ee
+~~我也啊 昨天刚考完试~~
+
+14:45:24 ModBot
+Your mother was a hamster.
+
+14:45:42 ee
+今天摸一整天鱼（
+
+14:47:11 www
+我妈是个仓鼠？？？？
+
+14:47:34 ee
+草？
+
+14:47:59 www
+不是  这管理员什么意思
+
+14:50:51 www
+？？？？？
+
+14:51:11 www
+太奇怪了今天
+
+14:51:32 ee
+不不不
+
+14:51:33 bo_od_Dont_kick_ME
+ee棒棒
+
+14:51:37 ee
+这是管理员机器人
+
+14:51:38 eebot
+嗯嗯
+
+14:51:52 ee
+用~可以触发他的~~骂人~~回话功能
+
+14:52:01 ee
+用~ 可以触发他的~~骂人~~回话功能
+
+14:52:04 ee
+~
+
+14:52:04 ModBot
+Your father smelt of elderberries.
+
+14:52:06 ee
+~
+
+14:52:06 ModBot
+No. But nice try.
+
+14:52:11 ee
+像这样
+
+14:53:48 666
+笑死了~~我妈是个仓鼠~~）
+
+14:55:06 ee
+哈哈哈哈哈哈哈哈哈
+
+14:55:23 ee
+翻译 Your father smelt of elderberries.
+
+14:55:25 bo_od_Dont_kick_ME
+翻译结果:您的父亲闻到了接骨木浆果。
+Detected(lang=en, confidence=None)
+
+14:55:35 ee
+F-Your father smelt of elderberries.
+
+14:55:35 eebot
+ee said：你父亲熔炼的草莓。
+
+14:55:44 ee
+离、锂谱
+
+14:56:08 ee
+翻译 elderberries.
+
+14:56:11 bo_od_Dont_kick_ME
+翻译结果:接骨木浆果。
+Detected(lang=yo, confidence=None)
+
+14:56:21 ee
+F-elderberries.
+
+14:56:21 eebot
+ee said：草莓。
+
+14:59:59 bo_od_Dont_kick_ME
+Sun May  8 15:00:00 2022
+
+15:00:06 bo_od_Dont_kick_ME
+![1651993202052555.png](https://mrpig.eu.org/1651993202052555.png)
+标题:穹
+作者:撸姬姬
+地址:https://www.pixiv.net/member_illust.php?mode=medium&illust_id=53585644
+相似度:80.76
+
+15:03:11 666
+好家伙
+
+15:05:48 eebot
+这个人类是Mr_Zhang，编写了XChat的Python库，能够协助开发者快速编写bot。
+
+15:06:07 Mr_Zhang
+功能
+
+15:06:29 Mr_Zhang
+欢迎语
+
+15:06:34 Mr_Zhang
+E-
+
+15:06:34 eebot
+已重置欢迎语
+
+15:07:03 Mr_Zhang
+中二网名
+
+15:07:17 Mr_Zhang
+中二网名
+
+15:13:05 ee
+中二网名
+
+15:13:19 ee
+中二网名
+
+15:14:47 eebot
+hi yo 24K
+
+15:22:36 eebot
+hey joe
+
+15:38:03 eebot
+hello luoli
+
+15:53:20 eebot
+s!
+
+15:53:27 s
+hi @24K
+
+15:53:44 24K
+hi
+
+15:53:44 s
+K24
+
+15:53:46 s
+??
+
+15:53:50 24K
+yes
+
+15:54:01 s
+is the account ok now
+
+15:54:52 s
+@24K can u tell me which vpn do u use for visiting other country website's
+
+15:54:57 s
+such as facebook
+
+15:55:02 24K
+You can try logging in, maybe.
+
+15:55:27 24K
+@s Many of the VPNs I use are made in China.
+
+15:55:42 s
+tell me the name's
+
+15:55:45 24K
+However, VPN is not required to log in to this website in China.
+
+15:55:58 s
+which are free vpn 
+
+15:56:15 s
+i want  a vpn for visiting facebook.com which is avaliable in china
+
+15:56:51 24K
+极光VPN，蚂蚁VPN，猎豹加速器
+
+15:57:37 s
+is there any extension for edge 
+
+15:57:41 24K
+@s Today, someone who claims to be your friend added me as a friend. Maybe I can send him my VPN.
+
+15:57:46 s
+which work in china
+
+15:57:51 s
+@24K yes
+
+15:57:57 s
+i said
+
+15:58:40 24K
+Do you want a mobile version of VPN or a computer version of VPN? Do you use Android or apple?
+
+15:58:47 s
+computer
+
+15:59:10 s
+i use a linux but i want  one for window
+
+15:59:39 24K
+OK, I'll send it to your friend and ask him to hand it over to you.
+
+15:59:49 s
+wait
+
+15:59:59 bo_od_Dont_kick_ME
+Sun May  8 16:00:00 2022
+
+16:00:03 s
+u can just tell the name
+
+16:00:03 bo_od_Dont_kick_ME
+![1651996801690280.png](https://mrpig.eu.org/1651996801690280.png)
+标题:None
+作者:ryuuji teitoku
+地址:https://chan.sankakucomplex.com/post/show/5030882
+相似度:55.08
+
+16:01:13 24K
+@s http://www.lbjiasu89.com/
+
+16:01:13 eebot
+·
+@24K 网络加速-猎豹加速器
+http://www.lbjiasu89.com/
+
+16:01:48 24K
+Click this website. He has one hour of check-in time every day and can use VPN.
+
+16:02:53 s
+1 hr check in?
+
+16:03:02 s
+check for what
+
+16:04:22 24K
+@s I mean, you can check in every day. After checking in, you can have an hour to use VPN.
+
+16:05:25 s
+can u provide another vpn it was having malware 
+
+16:07:43 24K
+@s https://ant.c-6.app/
+
+16:07:50 eebot
+·
+@24K 蚂蚁官网
+https://ant.c-6.app/
+
+16:08:31 24K
+This VPN has free 300MB traffic. Of course, after using it, you can also use the free line.
+
+16:09:25 s
+is not there any unlimited free
+
+16:09:31 s
+like in other country
+
+16:13:18 s
+like 300mb is very less
+
+16:17:43 s
+hey 
+
+16:17:48 eebot
+hi K24
+
+16:17:57 s
+hey
+
+16:18:12 s
+is there any extension for chrome too
+
+16:18:12 bo_od_Dont_kick_ME
+s棒棒
+
+16:18:30 s
+@bo_od_Dont_kick_ME r u bot or human or both
+
+16:18:54 K24
+The unlimited free VPN is generally unstable, but I have one here, but its official website needs to use VPN to connect, so you can use the two VPNs I sent for you to access this website
+
+16:19:13 K24
+https://www.jiayouyashanghai.com/
+
+16:19:28 bo_od_Dont_kick_ME
+K24棒棒
+
+16:19:28 bo_od_Dont_kick_ME
+@K24 推荐了网页:[极光](https://www.jiayouyashanghai.com/)
+
+16:19:48 K24
+Sorry, I just dropped the line because of the Internet.
+
+16:20:07 s
+np
+
+16:21:01 K24
+Although the VPN I just sent you is not particularly good, it can meet general needs. I use this VPN to access Facebook.
+
+16:21:19 K24
+@s https://www.jiayouyashanghai.com/
+
+16:22:16 s
+np
+
+16:22:26 s
+i use nipe 
+
+16:22:38 s
+i want these for my friend
+
+16:23:16 s
+https://github.com/htrgouvea/nipe
+
+16:23:46 bo_od_Dont_kick_ME
+@s 推荐了网页:[GitHub - htrgouvea/nipe: An engine to make Tor network your default gateway](https://github.com/htrgouvea/nipe)
+
+16:26:30 K24
+Yes, I also use tor, but it is still very difficult to access tor even if VPN is used in China, so I don't use tor under special circumstances. I use tor mainly to find software.
+
+16:28:20 s
+i use tor only for visiting the darkweb site's and for daily the website which i can't use i simply download a new extension everyday
+
+16:28:50 s
+hey https://www.jiayouyashanghai.com/ is banned i think
+
+16:29:05 s
+in china
+
+16:29:08 s
+can u use nipe?
+
+16:29:08 eebot
+嗨嗨害
+
+16:31:34 eebot
+hi A
+
+16:31:41 eebot
+hello Henrize
+
+16:31:51 K24
+hi henri
+
+16:32:41 Henrize
+hi
+
+16:33:46 A
+==hi==
+
+16:34:01 A
+==周末快乐==
+
+16:34:24 K24
+@s I'm not sure. I don't know enough about computer technology. Maybe you can ask Henrize. He's my friend. He's majoring in computer technology at present
+
+16:34:52 s
+ok
+
+16:35:04 s
+wait i am coming in a min
+
+16:39:40 eebot
+wybz!
+
+16:39:57 wybz
+ha
+
+16:40:17 wybz
+有人吗
+
+16:42:29 wybz
+a
+
+16:42:40 eebot
+hello h1
+
+16:43:04 wybz
+……
+
+16:43:44 wybz
+没人……
+
+16:43:55 A
+@wybz 周末快乐
+
+16:44:14 wybz
+哈
+
+16:44:34 wybz
+@Dne40f A 周末快乐！
+
+16:44:44 A
+==哈哈==
+
+16:45:45 eebot
+wybz!
+
+16:45:50 wybz
+我又来了
+
+16:45:54 wybz
+哈
+
+16:46:37 wybz
+人没了吗
+
+16:46:44 wybz
+?
+
+16:47:47 wybz
+https://hack.chat/?your-channel
+
+16:47:49 bo_od_Dont_kick_ME
+@wybz 推荐了网页:[hack.chat](https://hack.chat/?your-channel)
+
+16:47:49 eebot
+·
+@wybz hack.chat
+https://hack.chat/?your-channel
+
+16:48:29 K24
+@wybz hi
+
+16:48:46 wybz
+@K24 hi
+
+16:48:49 A
+==@wybz 这里大部分都是机器人，还有就是潜水的==
+
+16:48:57 wybz
+阿哲
+
+16:49:02 wybz
+……
+
+16:49:33 A
+irc是上不去了吗？
+
+16:49:46 A
+还是pidgin出问题了
+
+16:49:50 K24
+我在这打游戏所以不说话
+
+16:50:19 wybz
+打什么游戏
+
+16:53:14 wybz
+怎么不说话了
+
+16:53:15 wybz
+……
+
+16:53:16 eebot
+……
+
+16:53:25 wybz
+……
+
+16:53:38 wybz
+@eebot 你是机器人吗
+
+16:53:39 eebot
+刑 可以有
+
+16:53:44 wybz
+……
+
+16:53:57 wybz
+扣1
+
+16:54:05 wybz
+@eebot 扣1试试
+
+16:54:09 eebot
+不能乱试 指不定有什么蹊跷
+
+16:54:36 wybz
+？
+
+16:54:49 wybz
+@eebot 你是哪国人
+
+16:54:50 bo_od_Dont_kick_ME
+wybz最可爱了
+
+16:54:50 eebot
+刑 可以有
+
+16:54:55 wybz
+……
+
+16:55:14 wybz
+正在查看网页源代码中……
+
+16:56:15 wybz
+！
+
+16:56:15 bo_od_Dont_kick_ME
+如果您喜欢这个聊天室的话，请把这里推荐给更多的人吧~
+
+16:56:21 wybz
+竟然没有！
+
+16:56:26 wybz
+果然是机器人
+
+16:57:27 wybz
+翻译hello
+
+16:57:35 wybz
+@eebot 翻译hello
+
+16:57:37 eebot
+which are free vpn 
+
+16:57:43 wybz
+？
+
+16:57:51 wybz
+@eebot 你再说什么
+
+16:57:52 eebot
+一瞬间有一百万个可能
+
+16:58:08 wybz
+！
+
+16:58:17 wybz
+@eebot 翻译你好
+
+16:58:18 eebot
+你好你好
+
+16:58:22 wybz
+……
+
+16:58:27 eebot
+hey 13
+
+16:58:28 wybz
+铁定机器人
+
+16:58:33 13
+？
+
+16:58:39 wybz
+哈
+
+16:58:49 13
+？
+
+16:58:56 wybz
+@eebot 这是机器人
+
+16:58:58 eebot
+wybz爱屠屠
+
+16:59:11 13
+我知道
+
+16:59:19 wybz
+嗯
+
+16:59:22 13
+ee
+
+16:59:26 wybz
+唉
+
+16:59:31 13
+毕竟ee是我的朋友
+
+16:59:35 wybz
+好多人都是在潜水
+
+16:59:59 bo_od_Dont_kick_ME
+Sun May  8 17:00:00 2022
+
+17:00:04 13
+bruh
+
+17:00:08 bo_od_Dont_kick_ME
+![1652000402881452.png](https://mrpig.eu.org/1652000402881452.png)
+标题:ごちうさイースター！
+作者:ナナセミオリ
+地址:https://www.pixiv.net/member_illust.php?mode=medium&illust_id=56614525
+相似度:66.53
+
+17:01:00 eebot
+hello 13bruh
+
+17:01:05 wybz
+???
+
+17:01:07 wybz
+!
+
+17:01:11 wybz
+s
+
+17:01:11 wybz
+s
+
+17:01:12 bo_od_Dont_kick_ME
+wybz是小天使
+
+17:01:12 wybz
+s
+
+17:01:12 wybz
+s
+
+17:01:12 wybz
+s
+
+17:01:12 wybz
+s
+
+17:01:13 wybz
+s
+
+17:01:13 wybz
+ss
+
+17:01:13 wybz
+s
+
+17:01:14 wybz
+s
+
+17:01:14 wybz
+ss
+
+17:01:15 wybz
+s
+
+17:01:15 wybz
+s
+
+17:01:15 wybz
+s
+
+17:01:16 wybz
+s
+
+17:01:16 13bruh
+老是掉线就很烦
+
+17:01:21 wybz
+嗯
+
+17:01:26 wybz
+好无聊
+
+17:01:31 wybz
+想刷屏
+
+17:01:41 13bruh
+所以都在潜水
+
+17:02:03 wybz
+唉
+
+17:02:19 13bruh
+bruh
+
+17:02:46 13bruh
+yc现在彻底完了
+
+17:06:38 K24
+so
+
+17:06:45 eebot
+hello jim
+
+17:06:49 jim
+hi
+
+17:06:50 eebot
+果然是机器人
+
+17:06:55 jim
+不是
+
+17:07:08 wybz
+……
+
+17:07:14 wybz
+@eebot 什么鬼
+
+17:07:16 eebot
+超级无敌暴走死色鬼！（
+
+17:07:18 K24
+他是机器人
+
+17:07:31 wybz
+我知道
+
+17:07:36 wybz
+太无聊了
+
+17:07:38 K24
+@13bruh 明明ee是你老婆
+
+17:07:38 wybz
+……
+
+17:07:55 wybz
+？
+
+17:08:19 jim
+好怪
+
+17:09:23 eebot
+hi yo jim
+
+17:11:05 eebot
+hey klkl
+
+17:13:33 wybz
+没人说话
+
+17:17:33 eebot
+hi Wine_CorpseEdge
+
+17:17:44 Wine_CorpseEdge
+搞Azure搞得头晕
+
+17:23:44 Wine_CorpseEdge
+192.168.0.105:5212
+
+17:23:53 Wine_CorpseEdge
+啊呸
+
+17:24:03 Wine_CorpseEdge
+192.108.0.105:40
+
+17:26:21 Wine_CorpseEdge
+http://192.168.0.105:40/
+
+17:28:31 bo_od_Dont_kick_ME
+无法获取标题,该网站可能没有标题或无法访问或设置反爬虫
+
+17:29:50 Light
+进不去
+
+17:59:58 bo_od_Dont_kick_ME
+Sun May  8 18:00:00 2022
+
+18:00:04 bo_od_Dont_kick_ME
+![1652004003664641.png](https://mrpig.eu.org/1652004003664641.png)
+Sorry,未能查到图源信息
+
+18:05:51 eebot
+hey sb
+
+18:06:02 sb
+hello
+
+18:07:19 eebot
+n!
+
+18:07:30 eebot
+hello Queen
+
+18:07:32 Queen
+hi 
+
+18:08:04 eebot
+hello mxbc
+
+18:08:12 Queen
+hi 
+
+18:08:25 Queen
+hi 
+
+18:08:27 n
+Die you shit
+
+18:08:36 Queen
+?
+
+18:08:38 Queen
+what
+
+18:09:10 n
+Maybe you should get a job
+
+18:09:13 Queen
+喜欢电音的听Take me
+
+18:09:25 Queen
+绝了！！！
+
+18:11:12 eebot
+hey join
+
+18:16:01 eebot
+hi Mynk
+
+18:16:08 Mynk
+hello
+
+18:17:13 Mynk
+he;
+
+18:47:17 eebot
+$\kern{-10em}嗨嗨嗨$嗨嗨嗨！主人好 ee已经不是我的master了（
+
+18:47:25 Sprinkle
+hm
+
+18:47:26 Sprinkle
+hi
+
+18:47:26 eebot
+1
+
+18:47:26 eebot
+hi Sprinkle
+
+18:47:37 Sprinkle
+为啥没人了
+
+18:59:58 bo_od_Dont_kick_ME
+Sun May  8 19:00:00 2022
+
+19:00:02 bo_od_Dont_kick_ME
+![1652007601892210.png](https://mrpig.eu.org/1652007601892210.png)
+Sorry,未能查到图源信息
+
+19:00:07 Light
+@Sprinkle 
+
+19:00:16 Light
+你玩fish的我的世界服务器吗
+
+19:08:46 Sprinkle
+啊？
+
+19:08:50 Sprinkle
+啥服
+
+19:10:53 eebot
+hey Aryan
+
+19:11:35 eebot
+hi yo Aryan
+
+19:14:42 Sprinkle
+啊
+
+19:16:19 Sprinkle
+hm
+
+19:22:59 f2uid
+Collecter早就下岗了
+
+19:24:56 f2uid
+（27720000ms延迟
+
+19:34:53 eebot
+lzx!
+
+19:35:00 lzx
+499g1i1m
+
+19:35:11 lzx
+fu
+
+19:48:46 eebot
+hey alien
+
+19:57:49 eebot
+hi 11223344
+
+19:58:02 11223344
+hi
+
+19:58:29 11223344
+I'm @11223344 
+
+19:58:32 11223344
+@eebot 
+
+19:58:33 eebot
+好耶
+
+19:58:35 11223344
+@bo_od_Dont_kick_ME 
+
+19:59:31 11223344
+你是中国人吗@eebot 
+
+19:59:33 11223344
+@eebot 
+
+19:59:34 eebot
+11223344有事吗
+
+19:59:36 11223344
+@eebot 
+
+19:59:36 eebot
+欢迎来your-channel聊天
+
+19:59:59 bo_od_Dont_kick_ME
+Sun May  8 20:00:00 2022
+
+20:00:03 bo_od_Dont_kick_ME
+![1652011202874340.png](https://mrpig.eu.org/1652011202874340.png)
+标题:None
+作者:None
+地址:https://twitter.com/i/web/status/869118651449745408
+相似度:94.31
+
+20:01:22 eebot
+hi praveen
+
+20:02:22 eebot
+praveen!
+
+20:03:50 eebot
+hi yo praveen
+
+20:04:13 bo_od_Dont_kick_ME
+praveen最可爱了
+
+20:39:29 11bot
+hi yo this is 11bot
+
+20:39:29 11bot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+20:41:10 11bot
+hi this is 11bot
+
+20:41:11 11bot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+20:48:35 11bot
+hi ILoveBigBrother
+
+20:49:50 ILoveBigBrother
+中华人民共和国宪法 (1975年)
+
+序言
+　　中华人民共和国的成立，标志着中国人民经过一百多年的英勇奋斗，终于在中国共产党领导下，用人民革命战争推翻了帝国主义、封建主义和官僚资本主义的反动统治，取得了新民主主义革命的伟大胜利，开始了社会主义革命和无产阶级专政的新的历史阶段。
+
+　　二十多年来，我国各族人民在中国共产党领导下，乘胜前进，取得了社会主义革命和社会主义建设的伟大胜利，取得了无产阶级文化大革命的伟大胜利，巩固和加强了无产阶级专政。
+
+　　社会主义社会是一个相当长的历史阶段。在这个历史阶段中，始终存在着阶级、阶级矛盾和阶级斗争，存在着社会主义同资本主义两条道路的斗争，存在着资本主义复辟的危险性，存在着帝国主义、社会帝国主义进行颠覆和侵略的威胁。这些矛盾，只能靠无产阶级专政下继续革命的理论和实践来解决。
+
+　　我们必须坚持中国共产党在整个社会主义历史阶段的基本路线和政策，坚持无产阶级专政下的继续革命，使我们伟大的祖国永远沿着马克思主义、列宁主义、毛泽东思想指引的道路前进。
+
+　　我们要巩固工人阶级领导的以工农联盟为基础的各族人民的大团结，发展革命统一战线。要正确区别和处理敌我矛盾和人民内部矛盾。要继续开展阶级斗争、生产斗争和科学实验三大革命运动，独立自主，自力更生，艰苦奋斗，勤俭建国，鼓足干劲，力争上游，多快好省地建设社会主义，备战、备荒、为人民。
+
+　　在国际事务中，我们要坚持无产阶级国际主义。中国永远不做超级大国。我们要同社会主义国家、同一切被压迫人民和被压迫民族加强团结，互相支援；在互相尊重主权和领土完整、互不侵犯、互不干涉内政、平等互利、和平共处五项原则的基础上，争取和社会制度不同的国家和平共处，反对帝国主义、社会帝国主义的侵略政策和战争政策，反对超级大国的霸权主义。
+
+　　我国人民有充分的信心，在中国共产党领导下，战胜国内外敌人，克服一切困难，把我国建设成为强大的无产阶级专政的社会主义国家，对于人类作出较大的贡献。
+
+　　全国各族人民团结起来，争取更大的胜利！
+
+第一章　总纲
+　第一条　中华人民共和国是工人阶级领导的以工农联盟为基础的无产阶级专政的社会主义国家。
+
+　第二条　中国共产党是全中国人民的领导核心。工人阶级经过自己的先锋队中国共产党实现对国家的领导。
+
+　　马克思主义、列宁主义、毛泽东思想是我国指导思想的理论基础。
+
+　第三条　中华人民共和国的一切权力属于人民。人民行使权力的机关，是以工农兵代表为主体的各级人民代表大会。
+
+　　各级人民代表大会和其他国家机关，一律实行民主集中制。
+
+　　各级人民代表大会代表，由民主协商选举产生。原选举单位和选民，有权监督和依照法律的规定随时撤换自己选出的代表。
+
+　第四条　中华人民共和国是统一的多民族的国家。实行民族区域自治的地方，都是中华人民共和国不可分离的部分。
+
+　　各民族一律平等。反对大民族主义和地方民族主义。
+
+　　各民族都有使用自己的语言文字的自由。
+
+　第五条　中华人民共和国的生产资料所有制现阶段主要有两种：社会主义全民所有制和社会主义劳动群众集体所有制。
+
+　　国家允许非农业的个体劳动者在城镇街道组织、农村人民公社的生产队统一安排下，从事在法律许可范围内的，不剥削他人的个体劳动。同时，要引导他们逐步走上社会主义集体化的道路。
+
+　第六条　国营经济是国民经济中的领导力量。
+
+　　矿藏、水流，国有的森林、荒地和其他资源，都属于全民所有。
+
+　　国家可以依照法律规定的条件，对城乡土地和其他生产资料实行征购、征用或者收归国有。
+
+　第七条　农村人民公社是政社合一的组织。
+
+　　现阶段农村人民公社的集体所有制经济，一般实行三级所有、队为基础，即以生产队为基本核算单位的公社、生产大队和生产队三级所有。
+
+　　在保证人民公社集体经济的发展和占绝对优势的条件下，人民公社社员可以经营少量的自留地和家庭副业，牧区社员可以有少量的自留畜。
+
+　第八条　社会主义的公共财产不可侵犯。国家保证社会主义经济的巩固和发展，禁止任何人利用任何手段，破坏社会主义经济和公共利益。
+
+　第九条　国家实行“不劳动者不得食”、“各尽所能、按劳分配”的社会主义原则。
+
+　　国家保护公民的劳动收入、储蓄、房屋和各种生活资料的所有权。
+
+　第十条　国家实行抓革命，促生产，促工作，促战备的方针，以农业为基础，以工业为主导，充分发挥中央和地方两个积极性，促进社会主义经济有计划、按比例地发展，在社会生产不断提高的基础上，逐步改进人民的物质生活和文化生活，巩固国家的独立和安全。
+
+　第十一条　国家机关和工作人员，必须认真学习马克思主义、列宁主义、毛泽东思想，坚持无产阶级政治挂帅，反对官僚主义，密切联系群众，全心全意为人民服务。各级干部都必须参加集体生产劳动。
+
+　　国家机关都必须实行精简的原则。它的领导机构，都必须实行老、中、青三结合。
+
+　第十二条　无产阶级必须在上层建筑其中包括各个文化领域对资产阶级实行全面的专政。文化教育、文学艺术、体育卫生、科学研究都必须为无产阶级政治服务，为工农兵服务，与生产劳动相结合。
+
+　第十三条　大鸣、大放、大辩论、大字报，是人民群众创造的社会主义革命的新形式。国家保障人民群众运用这种形式，造成一个又有集中又有民主，又有纪律又有自由，又有统一意志又有个人心情舒畅、生动活泼的政治局面，以利于巩固中国共产党对国家的领导，巩固无产阶级专政。
+
+　第十四条　国家保卫社会主义制度，镇压一切叛国的和反革命的活动，惩办一切卖国贼和反革命分子。
+
+　　国家依照法律在一定时期内剥夺地主、富农、反动资本家和其他坏分子的政治权利，同时给以生活出路，使他们在劳动中改造成为守法的自食其力的公民。
+
+　第十五条　中国人民解放军和民兵是中国共产党领导的工农子弟兵，是各族人民的武装力量。
+
+　　中国共产党中央委员会主席统率全国武装力量。
+
+　　中国人民解放军永远是一支战斗队，同时又是工作队，又是生产队。
+
+　　中华人民共和国武装力量的任务，是保卫社会主义革命和社会主义建设的成果，保卫国家的主权、领土完整和安全，防御帝国主义、社会帝国主义及其走狗的颠覆和侵略。
+
+第二章　国家机构
+第一节　全国人民代表大会
+　第十六条　全国人民代表大会是在中国共产党领导下的最高国家权力机关。
+
+　　全国人民代表大会由省、自治区、直辖市和人民解放军选出的代表组成。在必要的时候，可以特邀若干爱国人士参加。
+
+　　全国人民代表大会每届任期五年。在特殊情况下，任期可以延长。
+
+　　全国人民代表大会会议每年举行一次。在必要的时候，可以提前或者延期。
+
+　第十七条　全国人民代表大会的职权是：修改宪法，制定法律，根据中国共产党中央委员会的提议任免国务院总理和国务院的组成人员，批准国民经济计划、国家的预算和决算，以及全国人民代表大会认为应当由它行使的其他职权。
+
+　第十八条　全国人民代表大会常务委员会是全国人民代表大会的常设机关。它的职权是：召集全国人民代表大会会议，解释法律，制定法令，派遣和召回驻外全权代表，接受外国使节，批准和废除同外国缔结的条约，以及全国人民代表大会授予的其他职权。
+
+　　全国人民代表大会常务委员会由委员长，副委员长若干人，委员若干人组成，由全国人民代表大会选举或者罢免。
+
+第二节　国务院
+　第十九条　国务院即中央人民政府。国务院对全国人民代表大会和它的常务委员会负责并报告工作。
+
+　　国务院由总理，副总理若干人，各部部长，各委员会主任等人员组成。
+
+　第二十条　国务院的职权是：根据宪法、法律和法令，规定行政措施，发布决议和命令；统一领导各部、各委员会和全国地方各级国家机关的工作；制定和执行国民经济计划和国家预算；管理国家行政事务；全国人民代表大会和它的常务委员会授予的其他职权。
+
+第三节　地方各级人民代表大会和地方各级革命委员会
+　第二十一条　地方各级人民代表大会都是地方国家权力机关。
+
+　　省、直辖市的人民代表大会每届任期五年。地区、市、县的人民代表大会每届任期三年。农村人民公社、镇的人民代表大会每届任期两年。
+
+　第二十二条　地方各级革命委员会是地方各级人民代表大会的常设机关，同时又是地方各级人民政府。
+
+　　地方各级革命委员会由主任，副主任若干人，委员若干人组成，由本级人民代表大会选举或者罢免，并报上级国家机关审查批准。
+
+　　地方各级革命委员会都对本级人民代表大会和上一级国家机关负责并报告工作。
+
+　第二十三条　地方各级人民代表大会和它产生的地方各级革命委员会在本地区内，保证法律、法令的执行，领导地方的社会主义革命和社会主义建设，审查和批准地方的国民经济计划和预算、决算，维护革命秩序，保障公民权利。
+
+第四节　民族自治地方的自治机关
+　第二十四条　自治区、自治州、自治县都是民族自治地方，它的自治机关是人民代表大会和革命委员会。
+
+　　民族自治地方的自治机关除行使宪法第二章第三节规定的地方国家机关的职权外，可以依照法律规定的权限行使自治权。
+
+　　各上级国家机关应当充分保障各民族自治地方的自治机关行使自治权，积极支持各少数民族进行社会主义革命和社会主义建设。
+
+第五节　审判机关和检察机关
+　第二十五条　最高人民法院、地方各级人民法院和专门人民法院行使审判权。各级人民法院对本级人民代表大会和它的常设机关负责并报告工作。各级人民法院院长由本级人民代表大会的常设机关任免。
+
+　　检察机关的职权由各级公安机关行使。
+
+　　检察和审理案件，都必须实行群众路线。对于重大的反革命刑事案件，要发动群众讨论和批判。
+
+第三章　公民的基本权利和义务
+　第二十六条　公民的基本权利和义务是，拥护中国共产党的领导，拥护社会主义制度，服从中华人民共和国宪法和法律。
+
+　　保卫祖国，抵抗侵略，是每一个公民的崇高职责。依照法律服兵役是公民的光荣义务。
+
+　第二十七条　年满十八岁的公民，都有选举权和被选举权。依照法律被剥夺选举权和被选举权的人除外。
+
+　　公民有劳动的权利，有受教育的权利。劳动者有休息的权利，在年老、疾病或者丧失劳动能力的时候，有获得物质帮助的权利。
+
+　　公民对于任何违法失职的国家机关工作人员，有向各级国家机关提出书面控告或者口头控告的权利，任何人不得刁难、阻碍和打击报复。
+
+　　妇女在各方面享有同男子平等的权利。
+
+　　婚姻、家庭、母亲和儿童受国家的保护。
+
+　　国家保护国外华侨的正当权利和利益。
+
+　第二十八条　公民有言论、通信、出版、集会、结社、游行、示威、罢工的自由，有信仰宗教的自由和不信仰宗教、宣传无神论的自由。
+
+　　公民的人身自由和住宅不受侵犯。任何公民，非经人民法院决定或者公安机关批准，不受逮捕。
+
+　第二十九条　中华人民共和国对于任何由于拥护正义事业、参加革命运动、进行科学工作而受到迫害的外国人，给以居留的权利。
+
+第四章　国旗、国徽、首都
+　第三十条 国旗是五星红旗。
+
+　　国徽，中间是五星照耀下的天安门，周围是谷穗和齿轮。
+
+　　首都是北京。
+
+20:58:54 eebot
+hey yo this is eebot
+
+20:58:54 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+20:59:58 bo_od_Dont_kick_ME
+Sun May  8 21:00:00 2022
+
+21:00:03 bo_od_Dont_kick_ME
+![1652014802095183.png](https://mrpig.eu.org/1652014802095183.png)
+Sorry,未能查到图源信息
+
+21:07:18 eeebot
+hey yo this is eeebot
+
+21:07:18 eeebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+21:27:18 eebot
+hey yo this is eebot
+
+21:27:18 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+21:33:24 eebot
+hey Argon
+
+21:33:31 Argon
+Hi
+
+21:34:46 eebot
+hey honoable
+
+21:34:55 eebot
+nmda!
+
+21:34:58 honoable
+hi
+
+21:39:51 eebot
+hello K24
+
+21:44:13 eebot
+hey Dy
+
+21:45:06 eebot
+hey this is eebot
+
+21:45:07 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+21:49:55 eebot
+hey exodous
+
+21:50:00 exodous
+hi eebot
+
+21:50:06 exodous
+@eebot hi
+
+21:50:07 eebot
+hi
+
+21:50:12 exodous
+@eebot how r u?
+
+21:50:14 eebot
+发的什么呀exodous 乱打的吧
+
+21:59:54 eebot
+hey yo this is eebot
+
+21:59:54 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+21:59:58 bo_od_Dont_kick_ME
+Sun May  8 22:00:00 2022
+
+22:00:01 bo_od_Dont_kick_ME
+![1652018402349159.png](https://mrpig.eu.org/1652018402349159.png)
+Sorry,未能查到图源信息
+
+22:01:45 eebot
+hi maduromad
+
+22:03:12 eebot
+hey pankaj
+
+22:03:37 eebot
+113!
+
+22:03:40 eebot
+hello Pnkj
+
+22:03:56 eebot
+hey yo 113
+
+22:03:58 Pnkj
+Hello 
+
+22:04:34 Pnkj
+I wish the developer wasnt so lazy. . .
+
+22:05:34 Pnkj
+Hello eebot
+
+22:05:38 eebot
+113!
+
+22:05:50 Pnkj
+Hyy 113
+
+22:05:54 113
+hi
+
+22:05:56 113
+hi
+
+22:06:10 Pnkj
+Can you help me 
+
+22:06:40 113
+No, have a nice day
+
+22:06:43 113
+lol
+
+22:06:49 Pnkj
+Oky
+
+22:13:02 eebot
+hihi
+
+22:13:15 ji11
+aaaaaaaaaaa
+
+22:13:22 ji11
+@f2uid
+
+22:13:28 ji11
+aaaaaaaaaaaaaaa
+
+22:13:28 ji11
+aa
+
+22:13:31 ji11
+sjdghajahaga
+
+22:13:40 ji11
+@f2uid @f2uid
+
+22:15:41 eebot
+hey yo this is eebot
+
+22:15:41 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+22:18:52 eebot
+hello this is eebot
+
+22:18:52 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+22:19:00 eebot
+hihi
+
+22:20:46 eebot
+hi Queen
+
+22:20:47 Queen
+hi
+
+22:21:04 Queen
+墨墨最近不在啊
+
+22:21:22 Queen
+小草最近不在啊
+
+22:21:35 Queen
+橘子最近不在啊
+
+22:21:46 Queen
+33最近不在啊
+
+22:22:00 Queen
+tcd最近不在啊
+
+22:22:07 Queen
+qwer最近不在啊
+
+22:22:29 Queen
+Alex最近不在啊
+
+22:22:43 Queen
+啊！！！！！！！
+
+22:24:40 eebot
+Black007!
+
+22:25:10 Black007
+hello black 
+
+22:25:24 eebot
+Black007!
+
+22:25:26 Queen
+hi
+
+22:25:30 Queen
+你好啊
+
+22:25:32 Queen
+hello
+
+22:25:53 eebot
+hello h
+
+22:25:54 Black007
+Hello guys 
+
+22:26:08 K24
+他是机器人
+
+22:26:22 eebot
+hello S
+
+22:26:30 K24
+hi
+
+22:26:30 eebot
+hey K24
+
+22:26:49 Black007
+Do you like game 
+
+22:27:00 Queen
+yes
+
+22:27:03 K24
+yes,i like
+
+22:27:15 Queen
+我不是机器人！！！
+
+22:27:17 Queen
+@K24 
+
+22:27:28 eebot
+hey MR_K
+
+22:27:33 MR_K
+    HI
+
+22:27:38 K24
+我说eebot 是
+
+22:34:31 eebot
+hey 13bruh
+
+22:36:25 eebot
+hey yo 13bruh
+
+22:36:43 13bruh
+Weird 
+
+22:43:50 eebot
+hey yo this is eebot
+
+22:43:50 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+22:43:55 ee
+重启-
+
+22:43:55 eebot
+没有足够的权限
+
+22:44:44 eebot
+hi this is eebot
+
+22:44:44 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+22:44:52 ee
+重启-
+
+22:44:56 eebot
+hey yo this is eebot
+
+22:44:56 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+22:47:36 ee
+web
+
+22:53:57 ee
+功能
+
+22:53:59 eebot
+n!
+
+22:55:12 eebot
+po!
+
+22:55:17 po
+@eebot 
+
+22:55:17 eebot
+找ee去吧
+
+22:55:22 po
+@eebot 
+
+22:55:23 eebot
+po有事吗
+
+22:55:27 po
+@eebot 
+
+22:55:28 eebot
+好耶
+
+22:55:30 po
+@eebot 
+
+22:55:31 eebot
+好耶
+
+22:55:32 po
+@po 
+
+22:55:35 po
+@eebot 
+
+22:55:35 eebot
+好耶
+
+22:55:40 po
+sb
+
+22:59:58 bo_od_Dont_kick_ME
+Sun May  8 23:00:00 2022
+
+23:00:03 bo_od_Dont_kick_ME
+![1652022002715984.png](https://mrpig.eu.org/1652022002715984.png)
+Sorry,未能查到图源信息
+
+23:02:53 eebot
+hihi
+
+23:13:39 eebot
+hello 4n0n4me
+
+23:22:01 eebot
+hey tctd
+
+23:23:05 eebot
+hey yo this is eebot
+
+23:23:05 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+
+23:31:31 eebot
+hey this is eebot
+
+23:31:32 eebot
+·
+明天是周一！今晚早点睡！上班别迟到了。
+想了解更多玩法 请输入「功能」
+

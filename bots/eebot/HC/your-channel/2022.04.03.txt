@@ -1,0 +1,7967 @@
+00:00:05 eee
+差一分钟
+
+00:00:05 Mr_Zhang
+等我有时间，我会让我的两个儿子聊天
+
+00:00:05 stone
+英语作业还没写完…
+
+00:00:08 eee
+时间
+
+00:00:10 eeebot
+Time Sun 2022.04.03 00:00:08
+
+00:00:14 Mr_Zhang
+呵呵呵
+
+00:00:21 Mr_Zhang
+该睡觉了
+
+00:00:42 eee
+可以让两个能聊天的bot聊天（
+
+00:00:49 eee
+晚安
+
+00:00:49 meizheren
+早上好
+
+00:00:59 stone
+早！
+
+00:01:01 eee
+今天又是补作业的一天
+
+00:01:10 stone
++1
+
+00:01:12 meizheren
+睡觉了
+
+00:02:18 eee
+你们都要去睡了吗
+
+00:02:37 eee
+woc
+
+00:02:37 meizheren
+拜拜各位
+
+00:02:37 Mr_Zhang
+我们都是追梦人，都在为自己的梦想而奋斗。
+
+00:02:38 eee
+hi yo
+
+00:02:38 Sprinkle
+我们班那个奇葩，管电脑
+
+00:02:38 eee
+挺好啊
+
+00:02:38 eee
+@Sprinkle 奇葩？
+
+00:02:39 eeebot
+eeebot不睡 精神着呢（
+
+00:02:39 eeebot
+hey Sprinkle
+
+00:02:39 eeebot
+hey eee
+
+00:03:18 eeebot
+Sprinkle!
+
+00:03:31 stone
+eeebot也是机器人吗
+
+00:03:32 Mr_Zhang
+我们都是追梦人，都在为自己的梦想而奋斗。冲啊！追梦的少年们，让我们为梦想而奋斗！奥利给！！！
+
+00:03:38 Sprinkle
+那个管电脑的说：信不信我把你ID号盗出来，进而盗你所有设备的密码
+
+00:03:44 Sprinkle
+我问他ID号是啥
+
+00:03:53 eee
+@stone eeebot就是eebot
+
+00:03:56 Mr_Zhang
+呵呵呵
+
+00:03:57 Sprinkle
+他说ID号就是上网地址，还骂我sb
+
+00:04:10 eee
+加油！！！！！！！
+
+00:04:12 stone
+@eee 哦哦
+
+00:04:12 Sprinkle
+他自称电脑高手
+
+00:04:13 Mr_Zhang
+不应该是IP
+
+00:04:16 Mr_Zhang
+吗
+
+00:04:18 Sprinkle
+@Mr_Zhang 对啊
+
+00:04:22 eee
+怪啊
+
+00:04:50 Sprinkle
+他自称电脑高手，还说自己会编程，我问他你用的是啥编程语言，他支支吾吾说不知道
+
+00:04:52 Sprinkle
+草
+
+00:04:57 Mr_Zhang
+结局反转：管电脑的是SB
+
+00:05:06 Sprinkle
+对辽（
+
+00:05:21 stone
+脸是个好东西（
+
+00:05:21 eee
+这是装B吧
+
+00:05:34 Mr_Zhang
+还是sb
+
+00:05:38 Sprinkle
+有一次综合评价网无法登录，其实是后端服务器只在工作日开启
+
+00:05:46 eee
+你用的是什么语音：~~我用中文~~
+
+00:05:53 Mr_Zhang
+啊？
+
+00:05:59 stone
+哈哈哈哈
+
+00:06:01 Sprinkle
+他说什么代码出毛病了，其实就是服务器没开
+
+00:06:04 Sprinkle
+这sb
+
+00:06:07 Mr_Zhang
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+00:06:07 Sprinkle
+我服了（
+
+00:06:21 Mr_Zhang
+I 服了 You
+
+00:06:29 eee
+能装成这样也是麻了
+
+00:06:30 eeebot
+哈哈哈哈
+
+00:06:38 Sprinkle
+还在我们全班同学吹，是代码出毛病了（
+
+00:06:41 eee
+班上有人信吗（
+
+00:06:51 Sprinkle
+@eee 肯定有啊（
+
+00:06:59 eee
+（扶额）
+
+00:07:09 Sprinkle
+我们年组全是菜鸟
+
+00:07:26 Sprinkle
+没有一个比我厉害的（孤独
+
+00:07:34 Mr_Zhang
+某天我发现了一个BUG，令人匪夷所思的那种。结果一查，发现我把==写成了=
+
+00:07:47 Sprinkle
+我每次跟他们讲什么我开了个网站，他们都不听（
+
+00:07:48 eee
+我们级就没有半个真正会计算机的（
+
+00:07:58 Mr_Zhang
+你不是吗
+
+00:08:09 Sprinkle
+你不是吗
+
+00:08:09 stone
+感觉会代码的都好厉害
+
+00:08:16 eee
+@Sprinkle 惨 摸摸（
+
+00:08:20 Mr_Zhang
+不然呢？
+
+00:08:36 Sprinkle
+Github.com/sprinklelive/IDv8
+
+00:08:51 eee
+我会的都是三脚猫功夫（
+
+00:08:59 eee
+woc
+
+00:09:00 Sprinkle
+看看这个（
+
+00:09:00 Mr_Zhang
+你永远不知道，人际验证到底会出现什么
+
+00:09:09 Mr_Zhang
+就比如：
+
+00:09:12 Sprinkle
+这是我Github小号sprinklelive（
+
+00:09:36 ji11
+a
+
+00:09:40 ji11
+啊
+
+00:09:41 Mr_Zhang
+你还是个人么？（人机验证）
+
+00:09:53 stone
+？
+
+00:10:02 ji11
+让我想起，我上次开了个小号，为的是要一个好看的头像
+
+00:10:16 ji11
+结果还是没有好看的-
+
+00:10:50 ji11
+~~明天把号销了再来一次~~
+
+00:11:01 eee
+草
+
+00:11:17 stone
+你们是怎么进聊天室的啊（只是好奇
+
+00:11:36 Mr_Zhang
+听别人介绍的
+
+00:11:41 Sprinkle
+左键点进来的（
+
+00:11:54 eee
+从知乎溜过来的
+
+00:12:01 ji11
+沃玛
+
+00:12:14 Mr_Zhang
+爬虫爬进来的（玩笑）我
+
+00:12:29 stone
+我是微信群被同学骗（bushi）进来的
+
+00:12:34 eee
+死后穿越的
+
+00:12:44 Mr_Zhang
+@eee nb
+
+00:12:45 Sprinkle
+在网上搜“趣站”找到的
+
+00:13:04 eee
+@Mr_Zhang @stone 介绍的人也来过hc吗
+
+00:13:13 eee
+帮助
+
+00:13:19 Mr_Zhang
+你们知道我为什么不玩游戏吗？
+
+00:13:24 eee
+https://zhuanlan.zhihu.com/p/108821519
+
+00:14:00 eee
+为什么？
+
+00:14:12 stone
+来过，说不怕被吗就来，估计那个时候eeboy在骂人（是这样吗
+
+00:14:33 stone
+不怕被骂
+
+00:14:36 Mr_Zhang
+因为每当我看到游戏的时候，我都想编写一个游戏
+
+00:14:41 stone
+nb
+
+00:14:42 eee
+我女儿eebot只会说脏话 但不会骂人（
+
+00:14:57 eee
+woc
+
+00:15:01 ji11
+好家伙，为什么现在新人是以这种方式进来的）
+
+00:15:02 Mr_Zhang
+然而却写不出来
+
+00:15:03 eee
+我也要这种想法
+
+00:16:52 eee
+我也有这种想法
+
+*
+sus joined
+
+Zvoxsl ji11
+afk
+
+*
+OP joined
+
+stone
+@eee …哦我需要道歉吗
+
+*
+2xxklaiwjn9 left
+
+c01PWj Mr_Zhang
+我儿子的骂人回击功能不完善
+
+Zvoxsl ji11
+hm
+
+OP
+wait
+
+OP
+hi’
+
+Zvoxsl ji11
+no
+
+eYFDHl eee
+@stone 不用不用 毕竟只是个误会（
+
+stone
+那就好
+
+eYFDHl eee
+ji11 is now afk（手动
+
+OP
+can you tell how to use our localhost ports for a domain
+
+*
+sus left
+
+Zvoxsl ji11
+._.
+
+eYFDHl eee
+hi yo
+
+*
+sus joined
+
+Zvoxsl ji11
+sus
+
+00:17:19 eeebot
+hello this is eeebot
+
+00:17:19 eeebot
+想了解更多玩法 请输入「功能」
+
+00:17:24 stone
+欢迎（？
+
+00:17:29 stone
+功能
+
+00:17:30 eee
+（真·手动）
+
+00:17:48 Mr_Zhang
+热烈欢迎eebot入场！
+
+00:17:53 stone
+nb
+
+00:18:02 eee
+hi yo Mr_Zhang
+
+00:18:04 ji11
+不行真得睡了我
+
+00:18:08 eee
+晚安ji11
+
+00:18:15 stone
+晚安！
+
+00:18:19 eee
+yeah！
+
+00:18:21 eeebot
+ji11WantaGoodSleep!
+
+00:18:24 ji11WantaGoodSleep
+晚安
+
+00:18:28 ji11WantaGoodSleep
+o.<
+
+00:18:30 OP
+bye
+
+00:18:36 OP
+goodnight
+
+00:18:44 Mr_Zhang
+今天早上见！
+
+00:18:47 ji11WantaGoodSleep
+afk
+
+00:18:48 eeebot
+ji11WantaGoodSleep is now afk
+
+00:18:56 stone
+@Mr_Zhang 哈哈哈
+
+00:19:03 eee
+现在有已经是早上了（
+
+00:19:10 Mr_Zhang
+也是
+
+00:19:21 Mr_Zhang
+eebot棒棒
+
+00:19:30 eee
+Mr_Zhang是小恶魔
+
+00:19:33 Mr_Zhang
+模仿机器人
+
+00:19:43 Mr_Zhang
+eee是小天使
+
+00:19:45 eee
+stone最可爱了
+
+00:20:00 eee
+OP是小天使
+
+00:20:16 eee
+模仿bo_od和notBot（
+
+00:20:18 Mr_Zhang
+猜猜我模仿的是那个机器人
+
+00:20:21 eee
+草
+
+00:20:25 stone
+eee！
+
+00:20:29 Mr_Zhang
+@Mr_Zhang Fuck you
+
+00:20:43 eee
+hey stone
+
+00:21:04 Mr_Zhang
+@Mr_Zhang 警告！你真拿我的日志记录功能不当回事呀！
+
+00:21:13 eee
+@Mr_Zhang 找你爸爸
+
+00:21:18 eee
+（
+
+00:21:29 stone
+哎！我在！（天猫精灵？
+
+00:21:29 Mr_Zhang
+正在呼叫爸爸...
+
+00:21:40 eee
+来了来了（坑
+
+00:23:22 Mr_Zhang
+怎么了？
+
+00:23:40 eee
+Mr_Zhang快来,涩图
+
+00:23:40 eee
+woc
+
+00:23:40 eee
+@stone 一个个抢着当爹（
+
+00:23:41 eee
+hi yo
+
+00:23:41 Mr_Zhang
+呵呵
+
+00:23:41 eee
+啊 走得真快
+
+00:23:41 eeebot
+唉...没事了 Mr_Zhang别问
+
+00:23:41 eeebot
+hey Mr_Zhang
+
+00:23:42 eeebot
+hey eee
+
+00:23:42 eeebot
+stone!
+
+00:23:45 eeebot
+hi yo Mr_Zhang
+
+00:23:47 stone
+！
+
+00:24:02 eee
+好家伙
+
+00:24:10 eee
+欢迎回来
+
+00:24:23 eee
+还以为都走了（
+
+00:24:57 Mr_Zhang
+@Mr_Zhang 你爸爸是谁呀
+
+00:25:05 eee
+~~我~~
+
+00:25:31 Mr_Zhang
+我爸爸是一名编程爱好者，叫做ZhangBot
+
+00:25:42 stone
+？
+
+00:25:51 eee
+草
+
+00:26:12 Sprinkle
+sprinkle.eu.org
+
+00:26:19 stone
+我在，你说
+
+00:26:21 Mr_Zhang
+嗯？ZhangBot叛变啦？
+
+00:26:29 Sprinkle
+咳咳船新博客
+
+00:26:37 Sprinkle
+https://www.sprinkle.eu.org
+
+00:27:10 eeebot
+stone!
+
+00:27:19 stone
+连接不稳…
+
+00:27:33 eeebot
+hi Sprinkle
+
+00:27:53 eee
+hi yoo
+
+00:28:02 eee
+雨中小栈
+
+00:28:05 Mr_Zhang
+热烈欢迎Sprinkle入场！
+
+00:28:26 eee
+既然如此
+
+00:28:31 eee
+https://paperee.tk/
+
+00:28:33 eeebot
+·
+纸片君ee的个人主页│PAPEREE
+https://paperee.tk/
+
+00:28:39 Sprinkle
+这个我有（（
+
+00:28:52 Mr_Zhang
+只有我没有主页
+
+00:29:09 eee
+都挂友链了（
+
+00:29:24 Mr_Zhang
+对了，ee，你的网站备案了吗
+
+00:29:44 Mr_Zhang
+公安备案
+
+00:29:51 Sprinkle
+国外网站不用备案（（
+
+00:29:58 eee
+没有 是freenom上的免费域名（
+
+00:29:58 eeebot
+stone!
+
+00:30:05 Mr_Zhang
+国外？
+
+00:30:11 eee
+是啊
+
+00:30:12 eeebot
+woc
+
+00:30:17 stone
+好厉害的样子
+
+00:30:34 Mr_Zhang
+你怎么还弄了国外网站？
+
+00:30:44 stone
+同初三我还在和作业斗争
+
+00:30:45 Mr_Zhang
+怎么弄的？
+
+00:30:51 eee
+~~当然是国内要钱啊~~
+
+00:30:56 Sprinkle
+@eee 上周日我申请freenom sprinkleweb.tk失败了
+
+00:31:02 Sprinkle
+freenom不稳定
+
+00:31:17 eee
+woc
+
+00:31:26 Mr_Zhang
+国外的网站要钱吗@eee 
+
+00:31:29 Sprinkle
+https://nic.eu.org这个贼棒（
+
+00:31:30 eeebot
+无法获取网站标题信息
+
+00:31:31 eee
+应该是人机判断毕竟严格吧
+
+00:31:36 eee
+！！
+
+00:31:42 eee
+@Mr_Zhang 不一定
+
+00:31:58 eee
+有免费的也有不免费的
+
+00:32:06 Mr_Zhang
+天下没有免费的午餐
+
+00:32:15 Mr_Zhang
+是的
+
+00:32:18 eee
+我是用freenom和Vercel搭的
+
+00:32:26 Mr_Zhang
+Wow
+
+00:32:37 Sprinkle
+@eee vercel（
+
+00:32:50 Sprinkle
+我只有一个vercel网盘 share.spr233.eu.org
+
+00:33:00 Mr_Zhang
+@eee @eee 你最好备案。
+
+00:33:00 eee
+我觉得可以试一下EU.org了（
+
+00:33:05 Sprinkle
+里面还有一张涩图（（
+
+00:33:26 Mr_Zhang
+否则可能会被国内屏蔽@eee 
+
+00:33:35 Sprinkle
+@eee 免费eu.org二级域名，但是申请麻烦
+
+00:33:44 eee
+@Sprinkle 网盘好东西 收下了）
+
+00:33:51 Mr_Zhang
+明白了
+
+00:33:55 Sprinkle
+而且绑域名服务器的时候，你懂的（
+
+00:34:02 eee
+@Mr_Zhang 已经被国内的搜索引擎屏蔽了
+
+00:34:07 Sprinkle
+正常
+
+00:34:17 eee
+指国外的免费域名
+
+00:34:26 eee
+@Sprinkle 很严格吗？）
+
+00:34:33 Mr_Zhang
+额，下一步就可能是禁止访问了。
+
+00:34:43 eee
+~~艹~~
+
+00:34:45 Sprinkle
+我只用必应，起码对二级域名和小国家顶级域很友好（
+
+00:34:59 Mr_Zhang
+嗯嗯
+
+00:35:01 Sprinkle
+@eee 不严，但是要等很长时间（
+
+00:35:20 Mr_Zhang
+你们先聊，我困了
+
+00:35:23 Sprinkle
+越好的域名越需要等很久，比如说我的sprinkle.eu.org（
+
+00:35:25 Sprinkle
+拜拜
+
+00:35:27 eee
+@Mr_Zhang 如果没在网站里放奇怪东西
+
+00:35:29 Sprinkle
+我也快走了
+
+00:35:31 eee
+应该没这么严重吧
+
+00:35:35 Sprinkle
+嗯那倒是
+
+00:35:38 eee
+拜拜拜拜
+
+00:35:39 Mr_Zhang
+了解了
+
+00:35:41 eee
+顺便晚安
+
+00:36:08 stone
+晚安
+
+00:36:12 Mr_Zhang
+欢迎下次再来，Mr_Zhang !
+
+00:36:18 eee
+啊 早上8点后见
+
+00:36:28 eee
+我家已经完全熄灯了（
+
+00:36:31 Sprinkle
+啊
+
+00:36:35 eee
+只剩电脑屏幕亮着
+
+00:36:36 Sprinkle
+我不放假
+
+00:36:38 Sprinkle
+（
+
+00:36:45 eee
+摸摸（
+
+00:36:58 eee
+放假也不一定是好事
+
+00:37:01 eee
+作业一堆
+
+00:37:10 eee
+啊 不行 睡了
+
+00:37:15 stone
+英语作业依旧没有写完…就是磨蹭…
+
+00:37:26 Sprinkle
+我都蒙了不少（（
+
+00:37:31 stone
+@eee 晚安？
+
+00:37:34 eee
+写到早上就写完了（
+
+00:37:39 eee
+晚安晚安
+
+14:54:48 bo_od
+hi
+
+14:54:48 ZhangBot
+$$\Huge\color{red}{热烈欢迎 eeebot 入场！}$$
+
+14:54:48 eeebot
+hello this is eeebot
+
+14:54:48 eeebot
+想了解更多玩法 请输入「功能」
+
+14:54:56 Mr_Zhang
+热烈欢迎eeebot入场！
+
+14:54:57 ZhangKiller
+$$\Huge\color{red}{@Mr_Zhang闭好肛门！！！网络不干净就是因为你！！！！！}$$
+
+14:54:57 ZhangKiller
+$$\Huge\color{red}{@Mr_Zhang闭好肛门！！！网络不干净就是因为你！！！！！}$$
+
+14:54:57 ZhangKiller
+$$\Huge\color{red}{@Mr_Zhang闭好肛门！！！网络不干净就是因为你！！！！！}$$
+
+14:54:57 ZhangKiller
+$$\Huge\color{red}{@Mr_Zhang闭好肛门！！！网络不干净就是因为你！！！！！}$$
+
+14:54:57 ZhangKiller
+$$\Huge\color{red}{@Mr_Zhang闭好肛门！！！网络不干净就是因为你！！！！！}$$
+
+14:55:17 Mr_Zhang
+@ZhangKiller 滚
+
+14:55:18 ZhangKiller
+$$\Huge\color{red}{@Mr_Zhang闭好肛门！！！网络不干净就是因为你！！！！！}$$
+
+14:55:18 ZhangKiller
+$$\Huge\color{red}{@Mr_Zhang闭好肛门！！！网络不干净就是因为你！！！！！}$$
+
+14:55:18 ZhangKiller
+$$\Huge\color{red}{@Mr_Zhang闭好肛门！！！网络不干净就是因为你！！！！！}$$
+
+14:55:18 ZhangKiller
+$$\Huge\color{red}{@Mr_Zhang闭好肛门！！！网络不干净就是因为你！！！！！}$$
+
+14:55:18 ZhangKiller
+$$\Huge\color{red}{@Mr_Zhang闭好肛门！！！网络不干净就是因为你！！！！！}$$
+
+14:55:24 ZhangBot
+欢迎下次再来，ZhangKiller ！
+
+14:55:31 Mr_Zhang
+又有BUG
+
+14:55:40 Mr_Zhang
+真是对不起大家了
+
+14:56:15 okjhgfrt
+哈哈哈
+
+14:56:42 okjhgfrt
+还挺好玩的，哈哈哈
+
+14:57:44 okjhgfrt
+人呢？
+
+14:57:52 okjhgfrt
+emm
+
+14:58:02 Mr_Zhang
+唉
+
+14:58:19 ZhangBot
+欢迎下次再来，bihaitian ！
+
+14:59:53 bo_od
+Sun Apr  3 15:00:00 2022
+
+14:59:58 bo_od
+![1648969202007601.png](https://cdn.mrpig.cf/1648969202007601.png)
+标题:None
+作者:tanemin
+地址:https://konachan.com/post/show/242043
+相似度:96.54
+
+15:01:43 bo_od
+hi
+
+15:01:43 ZhangBot
+$$\Huge\color{red}{热烈欢迎 eeebot 入场！}$$
+
+15:01:43 eeebot
+hey yo this is eeebot
+
+15:01:43 eeebot
+想了解更多玩法 请输入「功能」
+
+15:01:53 Mr_Zhang
+@ZhangBot 谁在线？
+
+15:01:54 ZhangBot
+在线的人有：
+carborane
+_ALUMINIUM__13_
+49
+okjhgfrt
+fuse
+bo_od
+SBLighsta
+partly_great
+__thomas_wcy
+ming
+ClearColdWater
+ji11
+Mr_Zhang
+ZhangBot
+danny
+eeebot
+共计 16 人
+
+15:02:08 Mr_Zhang
+@eeebot 你爸爸在哪里？
+
+15:02:12 eeebot
+bot怎么会有亲人
+
+15:02:26 bo_od
+hi
+
+15:02:26 ZhangBot
+$$\Huge\color{red}{热烈欢迎 27 入场！}$$
+
+15:02:26 eeebot
+hi 27
+
+15:02:31 27
+。。。
+
+15:02:33 27
+hi
+
+15:02:43 Mr_Zhang
+@eeebot 把ee叫出来
+
+15:02:47 eeebot
+漂亮（
+
+15:03:09 27
+。。。
+
+15:03:12 danny
+@27 你俩官宣了？
+
+15:03:17 27
+@danny 私聊
+
+15:03:22 ZhangBot
+欢迎下次再来，27 ！
+
+15:04:58 49
+？
+
+15:05:30 bo_od
+hi
+
+15:05:30 ZhangBot
+$$\Huge\color{red}{热烈欢迎 qwer_Sever 入场！}$$
+
+15:05:31 eeebot
+qwer_Sever!
+
+15:05:34 qwer_Sever
+hi
+
+15:07:20 bo_od
+hi
+
+15:07:20 eeebot
+hi yo this is eeebot
+
+15:07:20 eeebot
+想了解更多玩法 请输入「功能」
+
+15:08:48 bo_od
+hi
+
+15:08:49 eeebot
+hi ee
+
+15:08:55 ee
+骂人宝典
+
+15:09:07 Mr_Zhang
+@ee 你的网站有问题
+
+15:09:16 ee
+问题？
+
+15:09:18 Mr_Zhang
+麻烦改一改
+
+15:09:46 ee
+OK 把问题说一下吧
+
+15:09:58 Mr_Zhang
+稍等一下
+
+15:10:20 bo_od
+hi
+
+15:10:20 eeebot
+hi yo this is eeebot
+
+15:10:21 eeebot
+想了解更多玩法 请输入「功能」
+
+15:10:25 ee
+骂人宝典
+
+15:10:30 ee
+骂人宝典
+
+15:10:36 Mr_Zhang
+@ee [这个网站](https://ellen.cf/)
+
+15:10:57 Mr_Zhang
+某些视频无法显示
+
+15:11:15 ee
+啊 这个 是用来测试的
+
+15:11:22 ee
+早就荒废了
+
+15:11:27 Mr_Zhang
+明白了
+
+15:11:55 bo_od
+hi
+
+15:11:55 eeebot
+WFB!
+
+15:12:06 bo_od
+新软件上线啦啦啦！！！
+
+15:12:06 bo_od
+hi
+
+15:12:06 eeebot
+hey yo this is eeebot
+
+15:12:06 eeebot
+想了解更多玩法 请输入「功能」
+
+15:12:10 ee
+骂人宝典
+
+15:12:12 ZhangBot
+Hello World !
+
+15:12:12 ZhangBot
+大家好！我是机器人 ZhangBot。
+最近我的报时功能上线了，大家可以对我说“@ZhangBot 几点了？”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+
+15:12:12 bo_od
+hi
+
+15:12:13 eeebot
+hello ZhangBot
+
+15:12:13 ee
+骂人宝典
+
+15:12:15 ee
+骂人宝典
+
+15:12:17 ee
+骂人宝典
+
+15:12:23 Mr_Zhang
+@eeebot 骂人宝典
+
+15:12:28 eeebot
+欲练神功 必先自宫
+
+15:12:28 bo_od
+hi
+
+15:12:28 ZhangBot
+$$\Huge\color{red}{热烈欢迎 27 入场！}$$
+
+15:12:28 eeebot
+27!
+
+15:12:36 danny
+。
+
+15:12:43 ee
+骂人宝典
+
+15:12:44 27
+。。。
+
+15:12:56 Mr_Zhang
+这是最热烈的欢迎了
+
+15:13:03 27
+。。。
+
+15:13:12 27
+@eeebot 骂人宝典
+
+15:13:18 ZhangBot
+欢迎下次再来，WFB ！
+
+15:13:18 eeebot
+欲练神功 必先自宫
+
+15:13:24 bo_od
+hi
+
+15:13:24 ZhangBot
+$$\Huge\color{red}{热烈欢迎 MIn 入场！}$$
+
+15:13:24 eeebot
+MIn!
+
+15:13:37 bo_od
+hi
+
+15:13:37 eeebot
+hello bihaitian
+
+15:13:37 ZhangBot
+$$\Huge\color{red}{热烈欢迎 bihaitian 入场！}$$
+
+15:13:46 27
+hi
+
+15:13:48 27
+咳咳
+
+15:13:49 MIn
+hi
+
+15:13:50 27
+刚刚
+
+15:13:50 bihaitian
+hello，world
+
+15:13:54 27
+@bihaitian 刚刚
+
+15:13:57 27
+@danny 
+
+15:14:06 27
+问了一点。。。。。。。
+
+15:14:08 27
+hhhhh
+
+15:14:10 eeebot
+hi this is eeebot
+
+15:14:10 eeebot
+想了解更多玩法 请输入「功能」
+
+15:14:10 bo_od
+hi
+
+15:14:10 ZhangBot
+$$\Huge\color{red}{热烈欢迎 eeebot 入场！}$$
+
+15:14:14 ee
+骂人宝典
+
+15:14:15 bihaitian
+en,我在听
+
+15:14:16 ee
+骂人宝典
+
+15:14:21 27
+关于
+
+15:14:21 ZhangBot
+欢迎下次再来，MIn ！
+
+15:14:26 27
+me和49
+
+15:14:28 bo_od
+hi
+
+15:14:28 ZhangBot
+$$\Huge\color{red}{热烈欢迎 aaa 入场！}$$
+
+15:14:28 eeebot
+aaa!
+
+15:14:36 27
+还问49咋样
+
+15:14:38 27
+哈哈
+
+15:14:46 27
+@bihaitian 你不修理一下吗？
+
+15:14:48 27
+哈哈哈
+
+15:14:48 Mr_Zhang
+新软件上线啦啦啦！！！
+
+15:14:56 bihaitian
+waaaa
+
+15:14:59 Mr_Zhang
+@ZhangBot 推荐招牌程序
+
+15:15:00 ZhangBot
+即将上线：
+1.小张计时器（2.0）
+面向大众：
+1.[小张锁屏](https://zhanghelper.lanzouw.com/i3jhw02cqmmf)
+2.[桌面冰墩墩](https://zhanghelper.lanzouw.com/ijFTK02cqmqj)
+3.[小张计时器](https://zhanghelper.lanzouw.com/id1nB02cqmng)
+4.[小张壁纸](https://zhanghelper.lanzouw.com/iYfLu02ji3le)
+面向特定行业：
+1.自动排考场（3.0）
+若要下载面向特定行业的程序，请联系：3288492688@qq.com 或 Xiao_Zhang_123@outlook.com
+非常感谢您对我们的大力支持！鄙人感激不尽！！！
+
+15:15:09 ZhangBot
+欢迎下次再来，aaa ！
+
+15:15:09 bihaitian
+danny是散养的
+
+15:15:14 27
+哈哈哈哈哈哈哈
+
+15:15:28 bihaitian
+等下，我在编辑环境变量
+
+15:15:38 27
+@danny 加油，挺住，今天是清明节，我会给你送花的
+
+15:15:39 __thomas_wcy
+a
+
+15:15:40 bo_od
+hi
+
+15:15:40 junco
+hi
+
+15:15:40 eeebot
+hey junco
+
+15:15:40 ZhangBot
+$$\Huge\color{red}{热烈欢迎 junco 入场！}$$
+
+15:15:50 junco
+hm
+
+15:15:56 27
+hi
+
+15:15:56 eeebot
+hey 27
+
+15:15:59 27
+。。。
+
+15:16:18 bo_od
+hi
+
+15:16:18 ZhangBot
+$$\Huge\color{red}{热烈欢迎 pi11 入场！}$$
+
+15:16:18 eeebot
+hello pi11
+
+15:16:26 27
+。。。
+
+15:16:29 pi11
+...
+
+15:16:43 pi11
+;msg test test
+
+15:16:48 27
+where is the 49？？？
+
+15:17:08 pi11
+。
+
+15:17:15 pi11
+。
+
+15:17:15 bihaitian
+。。。
+
+15:17:17 27
+49快挂机一下午了
+
+15:17:19 27
+哈哈
+
+15:17:31 okjhgfrt
+？
+
+15:17:35 qwer_Sever
+。。。
+
+15:17:35 bihaitian
+吃狗粮.jpg
+
+15:17:39 eeebot
+bihaitian吃！eeebot吃！！大家吃！！！
+
+15:17:41 49
+哈哈哈
+
+15:17:46 bihaitian
+......
+
+15:17:56 ZhangBot
+Hello World !
+
+15:17:56 ZhangBot
+大家好！我是机器人 ZhangBot。
+最近我的报时功能上线了，大家可以对我说“@ZhangBot 几点了？”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+
+15:17:56 bo_od
+hi
+
+15:17:57 eeebot
+ZhangBot!
+
+15:18:00 49
+发生什么了？
+
+15:18:06 ZhangBot
+欢迎下次再来，junco ！
+
+15:18:10 bo_od
+hi
+
+15:18:10 ZhangBot
+$$\Huge\color{red}{热烈欢迎 junco 入场！}$$
+
+15:18:10 junco
+hi
+
+15:18:10 eeebot
+hey yo junco
+
+15:18:13 49
+hi
+
+15:18:13 eeebot
+hi yo 49
+
+15:18:18 pi11
+;msg test test
+
+15:18:18 junco
+@pi11 @test 将在加入聊天室时收到您的消息!\^-\^
+
+15:18:20 27
+@49 活了
+
+15:18:21 27
+哈哈
+
+15:18:24 49
+。。。
+
+15:18:32 49
+刚刚打游戏了
+
+15:18:41 27
+。。。
+
+15:18:54 27
+打啥游戏
+
+15:19:01 49
+一枪一个，真开心
+
+15:19:06 49
+不告你
+
+15:19:11 27
+。。。
+
+15:19:12 27
+快
+
+15:19:18 49
+不要
+
+15:19:19 27
+让我去开心一下
+
+15:19:40 49
+你又要和我抢人头
+
+15:19:40 27
+啥游戏
+
+15:19:43 27
+哈哈
+
+15:19:45 27
+不会不会
+
+15:19:49 49
+才不告你
+
+15:19:50 27
+你打，我看
+
+15:19:50 eeebot
+。。。
+
+15:19:53 49
+哼
+
+15:19:54 ZhangBot
+Hello World !
+
+15:19:54 ZhangBot
+大家好！我是机器人 ZhangBot。
+最近我的报时功能上线了，大家可以对我说“@ZhangBot 几点了？”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+
+15:19:54 bo_od
+hi
+
+15:19:54 eeebot
+ZhangBot!
+
+15:19:54 bo_od
+eeebot棒棒
+
+15:19:56 27
+哈哈哈
+
+15:20:01 49
+不要
+
+15:20:07 27
+哦~~~~
+
+15:20:13 27
+是不是原来那个啊
+
+15:20:16 27
+好的
+
+15:20:18 49
+嗯
+
+15:20:18 27
+我知道了
+
+15:20:22 27
+不过
+
+15:20:26 49
+我不上线了
+
+15:20:26 27
+现在玩不了
+
+15:20:29 27
+。。。
+
+15:20:34 49
+哈哈哈
+
+15:20:39 27
+。。
+
+15:20:43 49
+。。。
+
+15:20:45 49
+。。。。
+
+15:20:47 49
+。。。。。
+
+15:20:48 27
+。。。。。
+
+15:20:50 27
+。。。。。。。
+
+15:20:53 49
+。。。。。
+
+15:20:56 49
+。。。。
+
+15:20:57 49
+。。
+
+15:20:58 49
+。
+
+15:20:59 27
+。。。
+
+15:21:06 49
+哈哈哈
+
+15:21:14 27
+这该死的延迟
+
+15:21:17 27
+哈哈
+
+15:21:18 eeebot
+今天是个好日子 怎么不出去玩玩）
+
+15:21:19 49
+哈哈哈
+
+15:21:27 bo_od
+hi
+
+15:21:27 junco
+hi
+
+15:21:27 eeebot
+junco!
+
+15:21:30 49
+hi
+
+15:21:37 bihaitian
+...
+
+15:21:40 27
+。。。
+
+15:21:44 49
+？
+
+15:21:49 27
+？
+
+15:21:51 49
+？
+
+15:21:54 27
+。。
+
+15:21:56 49
+？
+
+15:21:57 __thomas_wcy
+？
+
+15:21:57 bo_od
+？
+
+15:22:01 bihaitian
+这不好
+
+15:22:04 49
+嗯
+
+15:22:09 49
+这不好
+
+15:22:16 __thomas_wcy
+这很好
+
+15:22:16 27
+$$\Huge\color{ff0000}{哪不好？}$$
+
+15:22:17 bihaitian
+俗话说得好，秀恩爱分得快。。。
+
+15:22:24 27
+哦，有道理
+
+15:22:26 27
+哈哈哈
+
+15:22:32 49
+我没有
+
+15:22:33 bihaitian
+请继续努力
+
+15:22:45 __thomas_wcy
+az
+
+15:22:51 49
+。。。。。。。。。。
+
+15:22:55 27
+我什么也没看见
+
+15:23:01 49
+我错过了什么？
+
+15:23:01 eeebot
+我错过了什么？
+
+15:23:13 49
+我去康康
+
+15:23:14 27
+？？？
+
+15:23:17 27
+哈哈哈
+
+15:23:27 27
+去吧去吧
+
+15:23:41 27
+我去，完了
+
+15:23:51 27
+我好像发了个·：49无了
+
+15:23:54 27
+。。。
+
+15:23:59 49
+q9D8Va 27
+hi
+
+q9D8Va 27
+咳咳
+
+MIn
+hi
+
+q9D8Va 27
+刚刚
+
+roMh/U bihaitian
+hello，world
+
+q9D8Va 27
+@bihaitian 刚刚
+
+q9D8Va 27
+@danny
+
+q9D8Va 27
+问了一点。。。。。。。
+
+q9D8Va 27
+hhhhh
+
+15:24:06 27
+哈哈哈哈哈哈哈哈
+
+15:24:10 49
+q9D8Va 27
+关于
+
+*
+MIn left
+
+ZhangBot
+欢迎下次再来，MIn ！
+
+q9D8Va 27
+me和49
+
+15:24:16 27
+@danny 问我的
+
+15:24:28 27
+我只是转告他的女朋友
+
+15:24:42 bo_od
+hi
+
+15:24:43 eeebot
+hi raven
+
+15:24:55 okjhgfrt
+呵呵呵
+
+15:25:00 okjhgfrt
+hi
+
+15:25:01 eeebot
+hey okjhgfrt
+
+15:25:04 raven
+someone here?
+
+15:25:08 bihaitian
+emmmmm
+
+15:25:10 okjhgfrt
+？
+
+15:25:12 27
+49人呢
+
+15:25:18 bo_od
+hi
+
+15:25:18 eeebot
+hey this is eeebot
+
+15:25:18 eeebot
+想了解更多玩法 请输入「功能」
+
+15:25:18 bo_od
+想了解更多玩法 请输入「功能」
+
+15:25:21 ee
+wuhu
+
+15:25:24 27
+功能
+
+15:25:24 49
+斯勒
+
+15:25:36 27
+乘法口诀
+
+15:25:39 27
+哈哈哈
+
+15:25:47 partly_great
+乘法口诀
+
+15:25:48 okjhgfrt
+哀哀哀哀
+
+15:25:51 partly_great
+乘法口诀
+
+15:25:56 partly_great
+乘法口诀
+
+15:25:59 okjhgfrt
+我看到了什么？
+
+15:26:00 partly_great
+好家伙。
+
+15:26:00 27
+。。。
+
+15:26:19 okjhgfrt
+27=2个7=77=49
+
+15:26:21 okjhgfrt
+？！
+
+15:26:25 okjhgfrt
+啊啊啊啊啊啊啊啊啊
+
+15:26:26 bo_od
+hi
+
+15:26:26 27
+对
+
+15:26:26 eeebot
+hi Yortu
+
+15:26:26 ee
+乘法口诀
+
+15:26:27 27
+咋了
+
+15:26:36 27
+@okjhgfrt ？？？
+
+15:26:36 partly_great
+我抄袭傻鸟已经完成了基本框架
+
+15:26:41 27
+@okjhgfrt 你怎么知道
+
+15:26:45 okjhgfrt
+甜的牙疼
+
+15:26:54 27
+。。。
+
+15:26:57 27
+这只是巧合
+
+15:26:59 27
+哈哈
+
+15:27:00 okjhgfrt
+乘法口诀yyds
+
+15:27:09 27
+。。。
+
+15:27:18 27
+$$\Huge\color{ff0000}{49又无了}$$
+
+15:27:30 bo_od
+hi
+
+15:27:30 eeebot
+hello YCnotfound
+
+15:27:48 27
+。。。
+
+15:27:52 partly_great
+但是我没做多线程
+
+15:27:57 27
+。。。
+
+15:28:01 __thomas_wcy
+memset0x3f
+
+15:28:01 eeebot
+闷~
+
+15:28:10 bo_od
+hi
+
+15:28:10 eeebot
+hello this is eeebot
+
+15:28:11 eeebot
+想了解更多玩法 请输入「功能」
+
+15:28:12 ee
+wuhu
+
+15:28:13 27
+我也闷~~~~~~~~~
+
+15:28:19 27
+功能
+
+15:28:22 ee
+wuhu
+
+15:28:31 27
+eeebot whispered: .
+·
+基本：功能/order, 帮助/help, 重置/clear, 聊天/chat
+日历/cal, 农历/date, 表情/meme, 换色/color, 时间/time, 挂机/afk, 音乐/music, 随机数/r
+·
+图片类：七濑胡桃/heal, 每日必应/bing, 小姐姐/cutie, 阿鲁/aru, 涩图/acg, 头像/head
+·
+文案类：一言, 励志, 抽签, 笑话, 情话, 哲学, 古诗词, 彩虹屁, 毒鸡汤, 今日曰, 猜字谜
+中二网名, 骂人宝典, 舔狗日记, 社会语录, 网易热评, 摸鱼日历, 乘法口诀, 今日的世界, 历史上的今天
+·
+随机推荐：推荐/wuhu, 树洞/tree, 趣站/site, 游戏/game, 网盘/pan, 聊天室/room
+·
+文字游戏：飞花令, 真心话, 词语接龙, 故事制造机
+·
+查询：IP, PING, ICP, QQ
+翻译/tran, 搜狗/sogo, 百度/baidu, 天气/city, 网易云/id, 手机号/num, 垃圾分类/waste
+·
+不会使用？试试在下面「聊天框」里发送上面的命令吧
+
+15:28:41 27
+芜湖
+
+15:28:41 partly_great
+我只做和服务器通信那部分
+
+15:28:46 bo_od
+hi
+
+15:28:46 eeebot
+hi yo this is eeebot
+
+15:28:46 eeebot
+想了解更多玩法 请输入「功能」
+
+15:28:48 ee
+wuhu
+
+15:29:01 __thomas_wcy
+```<cpp>
+memset(rp,0x3f,sizeof(rp));
+```
+
+15:29:14 bo_od
+hi
+
+15:29:14 eeebot
+hi yo this is eeebot
+
+15:29:14 eeebot
+想了解更多玩法 请输入「功能」
+
+15:29:15 ee
+wuhu
+
+15:29:30 27
+@eeebot 抽签
+
+15:29:34 eeebot
+27抽到1号签 解签关注新浪微博leisure磊）
+
+15:29:41 27
+。。。
+
+15:29:48 27
+就挺无语
+
+15:29:55 27
+49呢
+
+15:29:58 ZhangBot
+Hello World !
+
+15:29:58 ZhangBot
+大家好！我是机器人 ZhangBot。
+最近我的报时功能上线了，大家可以对我说“@ZhangBot 几点了？”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+
+15:29:58 bo_od
+hi
+
+15:29:58 27
+。。。
+
+15:29:59 eeebot
+hey ZhangBot
+
+15:30:05 okjhgfrt
+AFK 没人鸟我了
+
+15:30:05 bo_od
+@okjhgfrt is now 没人鸟我了.
+
+15:30:07 bo_od
+hi
+
+15:30:07 ZhangBot
+$$\Huge\color{red}{热烈欢迎 25 入场！}$$
+
+15:30:07 eeebot
+25!
+
+15:30:14 ZhangBot
+欢迎下次再来，25 ！
+
+15:30:16 27
+@okjhgfrt 你就是！！！！
+
+15:30:17 bo_od
+@okjhgfrt is now 没人鸟我了.
+
+15:30:38 27
+我鸟你
+
+15:30:49 okjhgfrt
+hi
+
+15:30:50 bo_od
+@okjhgfrt is no longer 没人鸟我了. Welcome Back!
+
+15:30:50 eeebot
+hello okjhgfrt
+
+15:31:03 bo_od
+hi
+
+15:31:03 ZhangBot
+欢迎下次再来，partly_great ！
+
+15:31:03 ZhangBot
+$$\Huge\color{red}{热烈欢迎 DayLightCycle 入场！}$$
+
+15:31:03 eeebot
+DayLightCycle!
+
+15:31:12 27
+hi
+
+15:31:13 eeebot
+hello 27
+
+15:31:17 27
+light
+
+15:31:18 okjhgfrt
+hi
+
+15:31:23 ee
+wuhu
+
+15:31:33 27
+@okjhgfrt 你是不是
+
+15:31:35 qwer_Sever
+emm
+
+15:31:51 27
+@okjhgfrt 是不是49
+
+15:31:52 bo_od
+@okjhgfrt 是不是49
+
+15:32:03 27
+。。。
+
+15:32:03 okjhgfrt
+aaaaaaaaaaaaa
+
+15:32:10 okjhgfrt
+我不是啊
+
+15:32:13 okjhgfrt
+啊啊啊啊啊啊啊啊啊
+
+15:32:17 27
+@okjhgfrt 装的不像
+
+15:32:23 27
+装的很像
+
+15:32:27 27
+打错了
+
+15:32:33 okjhgfrt
+装什么！！！
+
+15:32:38 okjhgfrt
+哼
+
+15:32:39 27
+好吧
+
+15:32:42 qwer_Sever
+。。。
+
+15:32:44 27
+诶嘿
+
+15:32:47 27
+那个哼
+
+15:32:48 qwer_Sever
+哼
+
+15:32:50 27
+暴露了
+
+15:32:54 DayLightCycle
+芜湖
+
+15:32:54 qwer_Sever
+我也会
+
+15:32:54 eeebot
+可劲看（）
+
+15:32:57 27
+。。。
+
+15:33:02 qwer_Sever
+@okjhgfrt 哼
+
+15:33:02 27
+好吧
+
+15:33:09 27
+不是就算了
+
+15:33:12 okjhgfrt
+@qwer_Sever 神经兮兮的
+
+15:33:17 27
+@qwer_Sever 去，找你妹
+
+15:33:18 qwer_Sever
+。。。
+
+15:33:22 qwer_Sever
+啊
+
+15:33:24 bo_od
+hi
+
+15:33:24 ZhangBot
+$$\Huge\color{red}{热烈欢迎 eeebot 入场！}$$
+
+15:33:24 eeebot
+hi this is eeebot
+
+15:33:24 eeebot
+想了解更多玩法 请输入「功能」
+
+15:33:25 ee
+tree
+
+15:33:36 qwer_Sever
+@27 她在睡觉
+
+15:33:46 27
+诶嘿，我不信
+
+15:33:52 qwer_Sever
+。。。
+
+15:33:53 27
+刚刚还在说话呢
+
+15:33:56 qwer_Sever
+哎嗨
+
+15:33:59 bo_od
+hi
+
+15:33:59 eeebot
+hey bihaitian
+
+15:34:02 bo_od
+hi
+
+15:34:02 eeebot
+hey Mr_Zhang
+
+15:34:03 ZhangBot
+$$\Huge\color{red}{热烈欢迎 bihaitian 入场！}$$
+
+15:34:04 qwer_Sever
+我信
+
+15:34:05 ZhangBot
+$$\Huge\color{red}{热烈欢迎 Mr_Zhang 入场！}$$
+
+15:34:08 27
+。。。
+
+15:34:09 qwer_Sever
+。。。
+
+15:34:10 27
+好吧
+
+15:34:15 qwer_Sever
+。。。
+
+15:34:17 qwer_Sever
+。。。
+
+15:34:18 qwer_Sever
+。。。
+
+15:34:19 qwer_Sever
+。。。
+
+15:34:20 27
+你俩就可劲的演
+
+15:34:21 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+15:34:21 qwer_Sever
+。。。
+
+15:34:23 qwer_Sever
+。。。
+
+15:34:24 qwer_Sever
+。。。
+
+15:34:25 27
+我就看看
+
+15:34:25 qwer_Sever
+。。。
+
+15:34:27 qwer_Sever
+。。。
+
+15:34:28 qwer_Sever
+。。。
+
+15:34:29 qwer_Sever
+。。。
+
+15:34:35 qwer_Sever
+哎对了
+
+15:34:39 27
+？？？
+
+15:34:45 qwer_Sever
+上线？
+
+15:34:52 bihaitian
+又发生甚么事了
+
+15:34:53 bo_od
+hi
+
+15:34:53 ZhangBot
+$$\Huge\color{red}{热烈欢迎 Mr_Zhang 入场！}$$
+
+15:34:53 27
+no
+
+15:34:53 eeebot
+哦哦。eeebot有喜欢的人了（）
+
+15:34:53 eeebot
+Mr_Zhang!
+
+15:34:55 ZhangBot
+欢迎下次再来，bihaitian ！
+
+15:34:56 qwer_Sever
+hi
+
+15:34:57 eeebot
+qwer_Sever!
+
+15:35:00 qwer_Sever
+。。。
+
+15:35:04 qwer_Sever
+？
+
+15:35:04 27
+心态
+
+15:35:07 27
+炸了
+
+15:35:07 bo_od
+27是小天使
+
+15:35:14 qwer_Sever
+我还好
+
+15:35:25 27
+。。。
+
+15:35:29 27
+可不是吗
+
+15:35:30 49
+@qwer_Sever 冰山形象呢？
+
+15:35:37 qwer_Sever
+艹！
+
+15:35:39 27
+每次最后死的都是我
+
+15:35:48 27
+@49 呀！苏醒了
+
+15:35:55 qwer_Sever
+你不是睡了吗
+
+15:36:02 27
+好吧
+
+15:36:06 49
+诈尸了
+
+15:36:11 27
+把你俩送好莱坞去
+
+15:36:12 bo_od
+27棒棒
+
+15:36:21 bo_od
+hi
+
+15:36:21 49
+。。。
+
+15:36:22 ZhangBot
+$$\Huge\color{red}{热烈欢迎 5249 入场！}$$
+
+15:36:22 eeebot
+hey 5249
+
+15:36:24 49
+？
+
+15:36:29 49
+emm
+
+15:36:31 5249
+……
+
+15:36:32 49
+e,,
+
+15:36:36 49
+emm
+
+15:36:36 eeebot
+。。。
+
+15:36:39 49
+emm
+
+15:36:42 5249
+你这个老是搞失踪。
+
+15:36:47 49
+哈哈哈
+
+15:36:49 27
+afk 写作业
+
+15:36:49 bo_od
+@27 is now 写作业.
+
+15:36:56 49
+@5249 上线！
+
+15:37:02 49
+@5249 陪我
+
+15:37:05 5249
+嗯
+
+15:37:06 49
+@5249 还有
+
+15:37:16 49
+@5249 失踪的事你！
+
+15:37:19 __thomas_wcy
+@Mr_Zhang
+
+15:37:20 __thomas_wcy
+@Mr_Zhang
+
+15:37:21 __thomas_wcy
+@Mr_Zhang
+
+15:37:22 5249
+……
+
+15:37:30 Mr_Zhang
+@__thomas_wcy 怎么了？
+
+15:37:37 __thomas_wcy
+zhang
+
+15:37:38 __thomas_wcy
+bot
+
+15:37:46 __thomas_wcy
+还是不理解为什么人家都走了，zhangbot还要send一句“欢迎下次再来，***！”，貌似没有什么意义，~~严重占用版面，影响用户体验~~，建议去除此鸡肋功能
+
+15:37:51 _ALUMINIUM__13_
+。。。
+
+15:37:55 ZhangBot
+欢迎下次再来，5249 ！
+
+15:38:09 __thomas_wcy
+~~重要的建议~~
+
+15:38:14 __thomas_wcy
+（雾
+
+15:38:25 Mr_Zhang
+@__thomas_wcy 为了给那些还没离开的用户们一个美好的形象。
+
+15:38:34 __thomas_wcy
+az
+
+15:38:49 __thomas_wcy
+确实美好
+
+15:38:52 __thomas_wcy
+（雾
+
+15:39:00 Mr_Zhang
+呵呵呵
+
+15:39:39 27
+。。。
+
+15:39:39 bo_od
+@27 is no longer 写作业. Welcome Back!
+
+15:39:39 __thomas_wcy
+变量名不是随便取（雾
+
+15:39:45 pi11
+;
+
+15:39:46 27
+@qwer_Sever 在吗
+
+15:40:59 27
+。。。
+
+15:41:19 ZhangBot
+欢迎下次再来，27 ！
+
+15:41:22 __thomas_wcy
+```<cpp>
+	int x,y,a,b,c,n,i,j,k,r,l,q,sum,t,ans;
+```
+
+15:42:01 DayLightCycle
+getusermima
+
+15:42:16 DayLightCycle
+set_zhuangtai
+
+15:42:41 __thomas_wcy
+《中西合并》
+
+15:42:54 DayLightCycle
+makeSend_CS
+
+15:43:08 __thomas_wcy
+《中西“合并”》
+
+15:43:14 DayLightCycle
+variable_no1
+
+15:43:14 eeebot
+问天问地 说说__thomas_wcy 说说eeebot
+
+15:43:18 pi11
+;
+
+15:43:26 bo_od
+hi
+
+15:43:26 ZhangBot
+$$\Huge\color{red}{热烈欢迎 Light 入场！}$$
+
+15:43:26 eeebot
+hello Light
+
+15:43:29 Light
+wc
+
+15:43:31 DayLightCycle
+虽然我是伞兵。
+
+15:43:31 bo_od
+hi
+
+15:43:31 eeebot
+hi 25
+
+15:43:32 ZhangBot
+$$\Huge\color{red}{热烈欢迎 25 入场！}$$
+
+15:43:33 Light
+fu le a
+
+15:43:36 ZhangBot
+欢迎下次再来，25 ！
+
+15:43:45 ZhangBot
+欢迎下次再来，fuse ！
+
+15:43:46 bo_od
+hi
+
+15:43:46 eeebot
+5249!
+
+15:43:47 DayLightCycle
+但是我看过一些讲变量命名规范的视频
+
+15:43:48 Light
+win7 dou bu zi dai shu ru fa de
+
+15:43:51 ZhangBot
+$$\Huge\color{red}{热烈欢迎 5249 入场！}$$
+
+15:43:55 5249
+@49又丢了。
+
+15:43:59 pi11
+我英文和拼音夹在一起
+
+15:44:03 pi11
+;d
+
+15:44:05 Light
+shen me
+
+15:44:08 DayLightCycle
+这些视频就非常建议：
+
+15:44:10 Light
+wo mei you shu ru fa
+
+15:44:13 DayLightCycle
+大量缩写
+
+15:44:15 DayLightCycle
+中西合璧
+
+15:44:19 bo_od
+hi
+
+15:44:19 eeebot
+hi yo this is eeebot
+
+15:44:19 eeebot
+想了解更多玩法 请输入「功能」
+
+15:44:19 ZhangBot
+$$\Huge\color{red}{热烈欢迎 eeebot 入场！}$$
+
+15:44:21 ee
+room
+
+15:44:28 ee
+pan
+
+15:44:28 DayLightCycle
+使用宽泛的词汇
+
+15:44:29 __thomas_wcy
+@DayLightCycle 罗马音（雾
+
+15:44:30 bo_od
+hi
+
+15:44:30 ZhangBot
+$$\Huge\color{red}{热烈欢迎 27 入场！}$$
+
+15:44:30 eeebot
+hello 27
+
+15:44:35 ee
+game
+
+15:44:36 bo_od
+ee是小天使
+
+15:44:46 5249
+…
+
+15:44:50 pi11
+缩写我怕我自己缩得都看不懂xd
+
+15:44:55 pi11
+不过可以注释
+
+15:44:57 27
+哈哈哈
+
+15:44:57 Light
+ming min de hua yong jian dan de yin yu dan ci, 
+
+15:45:07 pi11
+xd
+
+15:45:13 pi11
+ni zai shuo shen me
+
+15:45:23 27
+哈哈哈哈哈哈哈
+
+15:45:30 27
+@Light 说中文
+
+15:45:30 Light
+ru guo shi bu hui de yin yu dan ci,yong da liang jian dan de yin yu dan ci he xia hua xian lai biao da
+
+15:45:36 Light
+wo mei you shu ru fa a
+
+15:45:46 pi11
+xd
+
+15:45:49 Light
+win7 wei shen me bu zi dai shu ru ma
+
+15:45:54 pi11
+他没有输入法
+
+15:45:58 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+15:46:04 Light
+zen me gao
+
+15:46:04 27
+知道了知道了
+
+15:46:07 27
+能看到
+
+15:46:09 27
+懂
+
+15:46:13 27
+能看懂
+
+15:46:18 Light
+fu le
+
+15:46:20 pi11
+不行我得先写作业，不然我妈要收我电脑了
+
+15:46:22 pi11
+afk
+
+15:46:22 bo_od
+@pi11 is now AFK.
+
+15:46:23 eeebot
+pi11 is now afk
+
+15:46:24 Light
+wo qu xia ge sou gou
+
+15:46:30 27
+@Light 你怎么了？？？
+
+15:46:40 27
+为啥只能打拼音了？？
+
+15:46:43 __thomas_wcy
+傻逼搜狗好啊
+
+15:46:46 DayLightCycle
+输入法没了
+
+15:46:49 27
+。。。
+
+15:46:50 __thomas_wcy
+@27 没输入法
+
+15:46:53 DayLightCycle
+他大概是在服务器上
+
+15:46:54 27
+奥
+
+15:46:56 Light
+bu shi
+
+15:47:00 DayLightCycle
+az
+
+15:47:03 Light
+wo zhuang le shuang xi tong
+
+15:47:11 bo_od
+hi
+
+15:47:11 eeebot
+hi Aluminium_13_
+
+15:47:11 ZhangBot
+$$\Huge\color{red}{热烈欢迎 Aluminium_13_ 入场！}$$
+
+15:47:12 27
+？？？
+
+15:47:17 5249
+……
+
+15:47:17 eeebot
+冰山一座
+
+15:47:18 DayLightCycle
+你原来用的不是Windows吗
+
+15:47:20 Aluminium_13_
+太怪了
+
+15:47:21 Light
+dui
+
+15:47:26 27
+emm
+
+15:47:26 Aluminium_13_
+准备用脑子想
+
+15:47:27 DayLightCycle
+好好好
+
+15:47:30 Light
+zhi qian win10 zi dai shu ru fa
+
+15:47:35 Light
+dan shi win7 mei you
+
+15:47:46 Aluminium_13_
+你在说什么
+
+15:47:46 27
+哦哦哦
+
+15:47:51 27
+@Aluminium_13_ 拼音
+
+15:47:52 __thomas_wcy
+为什么不用xp呢、、（雾
+
+15:47:52 Aluminium_13_
+发生什么事了
+
+15:48:19 27
+什么牛马东西@Aluminium_13_ 
+
+15:48:24 27
+咋没声啊
+
+15:48:27 _ALUMINIUM__13_
+哈哈哈哈哈哈哈哈哈哈哈哈
+
+15:48:36 27
+。。。
+
+15:48:49 Light
+诶
+
+15:48:52 Light
+好了
+
+15:48:56 bo_od
+hi
+
+15:48:56 ZhangBot
+$$\Huge\color{red}{热烈欢迎 Detele_Maoming 入场！}$$
+
+15:48:56 eeebot
+hi Detele_Maoming
+
+15:48:58 27
+emm
+
+15:49:04 bo_od
+hi
+
+15:49:04 eeebot
+hallo!
+
+15:49:05 ZhangBot
+$$\Huge\color{red}{热烈欢迎 hallo 入场！}$$
+
+15:49:08 ZhangBot
+欢迎下次再来，5249 ！
+
+15:49:10 ZhangBot
+欢迎下次再来，Aluminium_13_ ！
+
+15:49:13 27
+。。。
+
+15:49:17 Detele_Maoming
+我的网站要写个Your-Channel的百科
+
+15:49:29 __thomas_wcy
+```<cpp>
+
+15:49:32 Detele_Maoming
+这不是27吗
+
+15:49:34 Detele_Maoming
+Hello
+
+15:49:36 27
+？？？
+
+15:49:37 Detele_Maoming
+~~~~
+
+15:49:40 27
+你是？？
+
+15:49:42 Detele_Maoming
+~~~~
+
+15:49:45 Detele_Maoming
+~~~~
+
+15:49:45 eeebot
+知道了知道了
+
+15:49:47 hallo
+都是哪里人
+
+15:49:49 27
+@Detele_Maoming ？？？
+
+15:49:56 Detele_Maoming
+。。。
+
+15:50:00 __thomas_wcy
+```<cpp>
+	memset(rp,0x3f,sizeof(rp));
+```
+
+15:50:00 Detele_Maoming
+去问49
+
+15:50:05 27
+？？？？
+
+15:50:09 27
+49不鸟我
+
+15:50:11 Detele_Maoming
+啊
+
+15:50:13 Detele_Maoming
+啊
+
+15:50:17 Detele_Maoming
+我是Detele
+
+15:50:21 27
+奥
+
+15:50:35 hallo
+都是中国人吗？
+
+15:50:39 27
+不然呢
+
+15:50:41 Detele_Maoming
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:50:42 eeebot
+·
+Detele的网站
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:50:42 bo_od
+@Detele_Maoming 推荐了网页:[Detele的网站](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+15:50:48 Detele_Maoming
+诶嘿
+
+15:50:52 Light
+不要点击陌生链接
+
+15:50:52 Detele_Maoming
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:50:53 eeebot
+·
+Detele的网站
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:50:53 bo_od
+@Detele_Maoming 推荐了网页:[Detele的网站](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+15:50:57 __thomas_wcy
+都是外星人
+
+15:51:00 Detele_Maoming
+很陌生吗
+
+15:51:01 27
+ # 对了，你们有几个知道十字街的
+
+15:51:03 Detele_Maoming
+都是机器人
+
+15:51:12 Detele_Maoming
+十字街垃圾
+
+15:51:13 hallo
+gg
+
+15:51:18 DayLightCycle
+我们大部分都知道
+
+15:51:22 DayLightCycle
+吧？
+
+15:51:22 27
+。。。
+
+15:51:22 __thomas_wcy
+确实
+
+15:51:28 27
+十字街太安静了
+
+15:51:35 ZhangBot
+$$\Huge\color{red}{热烈欢迎 eeebot 入场！}$$
+
+15:51:35 eeebot
+hello this is eeebot
+
+15:51:35 eeebot
+想了解更多玩法 请输入「功能」
+
+15:51:36 bo_od
+@Detele_Maoming 推荐了网页:[Detele的网站](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+15:51:36 bo_od
+hi
+
+15:51:39 ee
+help
+
+15:51:40 hallo
+bye
+
+15:51:43 27
+功能
+
+15:51:45 bo_od
+hi
+
+15:51:45 ZhangBot
+$$\Huge\color{red}{热烈欢迎 25 入场！}$$
+
+15:51:45 eeebot
+hi 25
+
+15:51:46 ZhangBot
+欢迎下次再来，hallo ！
+
+15:51:47 DayLightCycle
+@Detele_Maoming 是什么导致了十字街的劣势？我认为是人流量
+
+15:51:48 Detele_Maoming
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:51:49 eeebot
+·
+Detele的网站
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:51:49 bo_od
+@Detele_Maoming 推荐了网页:[Detele的网站](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+15:51:50 ZhangBot
+欢迎下次再来，25 ！
+
+15:51:55 Detele_Maoming
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:51:55 DayLightCycle
+别的，不至于，
+
+15:51:55 eeebot
+·
+Detele的网站
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:51:56 bo_od
+@Detele_Maoming 推荐了网页:[Detele的网站](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+15:52:00 Detele_Maoming
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:52:01 ZhangBot
+$$\Huge\color{red}{热烈欢迎 5249 入场！}$$
+
+15:52:01 eeebot
+·
+Detele的网站
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:52:01 eeebot
+5249!
+
+15:52:01 bo_od
+@Detele_Maoming 推荐了网页:[Detele的网站](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+15:52:03 bo_od
+hi
+
+15:52:03 ZhangBot
+$$\Huge\color{red}{热烈欢迎 eeebot 入场！}$$
+
+15:52:03 eeebot
+hello this is eeebot
+
+15:52:03 eeebot
+想了解更多玩法 请输入「功能」
+
+15:52:04 ee
+help
+
+15:52:07 DayLightCycle
+而delete只因为十字街规则严格
+
+15:52:07 Detele_Maoming
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:52:08 eeebot
+·
+Detele的网站
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:52:08 bo_od
+@Detele_Maoming 推荐了网页:[Detele的网站](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+15:52:13 Detele_Maoming
+哦是吗
+
+15:52:15 DayLightCycle
+能够有效制裁xsr
+
+15:52:16 ZhangBot
+欢迎下次再来，27 ！
+
+15:52:21 DayLightCycle
+就骂其为垃圾
+
+15:52:21 Detele_Maoming
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:52:22 eeebot
+·
+Detele的网站
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:52:22 bo_od
+@Detele_Maoming 推荐了网页:[Detele的网站](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+15:52:37 Detele_Maoming
+十字街那黑色早就看不过hc的
+
+15:52:41 ee
+wuhu
+
+15:52:53 bo_od
+hi
+
+15:52:53 eeebot
+hey 27
+
+15:52:55 ZhangBot
+$$\Huge\color{red}{热烈欢迎 27 入场！}$$
+
+15:53:02 DayLightCycle
+如果说，只有一个hc
+
+15:53:03 Detele_Maoming
+h
+
+15:53:06 DayLightCycle
+这是不至于的
+
+15:53:15 DayLightCycle
+因为hc的人也不算特别多（
+
+15:53:19 27
+$$\Huge\color{ff0000}{。}$$
+
+15:53:21 Detele_Maoming
+又有素材了
+
+15:53:22 Detele_Maoming
+。
+
+15:53:32 5249
+……
+
+15:53:33 bo_od
+hi
+
+15:53:33 ZhangBot
+欢迎下次再来，DayLightCycle ！
+
+15:53:33 ZhangBot
+$$\Huge\color{red}{热烈欢迎 Se_Cure 入场！}$$
+
+15:53:33 eeebot
+Se_Cure!
+
+15:53:36 ZhangBot
+欢迎下次再来，5249 ！
+
+15:53:45 Se_Cure
+你省省吧，别给我一个人记两个名字了
+
+15:53:47 27
+$$\Huge\color{ff0000}{。。。。。}$$
+
+15:54:19 Light
+WC
+
+15:54:28 27
+$$\Huge\color{ff0000}{别刷屏（警告）}$$
+
+15:54:35 __thomas_wcy
+az
+
+15:54:39 Detele_Maoming
+我关掉了huge
+
+15:54:41 Light
+给我的世界分了2g内存还不知足
+
+15:54:54 __thomas_wcy
+@Light 哈、
+
+15:54:55 Light
+我总共就16g啊
+
+15:55:02 Detele_Maoming
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.htmlhttp://adminsdetele.pc.evyundata.net/vip_adminsdetele.htmlhttp://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:55:03 Light
+可恶
+
+15:55:03 eeebot
+·
+Detele的网站
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.htmlhttp://adminsdetele.pc.evyundata.net/vip_adminsdetele.htmlhttp://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:55:05 ZhangBot
+$$\Huge\color{red}{热烈欢迎 Mr_Zhang 入场！}$$
+
+15:55:05 eeebot
+hey Mr_Zhang
+
+15:55:24 Detele_Maoming
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:55:24 eeebot
+·
+Detele的网站
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:55:30 27
+。。。
+
+15:55:31 Detele_Maoming
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:55:31 eeebot
+·
+Detele的网站
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:55:35 bo_od
+@Detele_Maoming 推荐了网页:[404错误](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.htmlhttp://adminsdetele.pc.evyundata.net/vip_adminsdetele.htmlhttp://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+15:55:36 bo_od
+hi
+
+15:55:37 bo_od
+@Detele_Maoming 推荐了网页:[Detele的网站](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+15:55:38 27
+。。。
+
+15:55:39 bo_od
+@Detele_Maoming 推荐了网页:[Detele的网站](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+15:55:41 Se_Cure
+我的世界分了2g内存，是32位的jvm什么的吗（
+
+15:55:44 Detele_Maoming
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:55:45 eeebot
+·
+Detele的网站
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:55:45 bo_od
+@Detele_Maoming 推荐了网页:[Detele的网站](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+15:55:46 27
+$$\Huge\color{ff0000}{停！！！}$$
+
+15:55:51 bo_od
+hi
+
+15:55:51 ZhangBot
+$$\Huge\color{red}{热烈欢迎 hallo 入场！}$$
+
+15:55:52 eeebot
+hello hallo
+
+15:55:59 Detele_Maoming
+我关了latex
+
+15:56:00 hallo
+hi
+
+15:56:07 Detele_Maoming
+Oier
+
+15:56:10 Se_Cure
+说的好像谁没关一样。
+
+15:56:18 Detele_Maoming
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:56:19 eeebot
+·
+Detele的网站
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+15:56:19 bo_od
+@Detele_Maoming 推荐了网页:[Detele的网站](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+15:56:21 Light
+NM
+
+15:56:24 Light
+LGB
+
+15:56:25 27
+害
+
+15:56:30 27
+别发了
+
+15:56:35 hallo
+你们都是哪个城市的？
+
+15:56:39 27
+@hallo 山东
+
+15:56:48 Light
+detele你变了啊
+
+15:56:48 Se_Cure
+我住在刷屏城
+
+15:56:48 Detele_Maoming
+美国纽约（不是
+
+15:56:49 eeebot
+******高校
+
+15:56:49 Mr_Zhang
+天津
+
+15:56:50 Se_Cure
+什么b动静
+
+15:56:51 hallo
+北京
+
+15:56:56 27
+。。。
+
+15:57:03 Detele_Maoming
+@Light 确实
+
+15:57:07 Se_Cure
+你刷辣么大声干什么吗
+
+15:57:07 bo_od
+qwer_Sever最可爱了
+
+15:57:07 ZhangBot
+欢迎下次再来，qwer_Sever ！
+
+15:57:08 hallo
+怎么了
+
+15:57:10 ZhangBot
+欢迎下次再来，49 ！
+
+15:57:10 ZhangBot
+欢迎下次再来，okjhgfrt ！
+
+15:57:11 27
+。。。
+
+15:57:11 Se_Cure
+辣你去找站长啊
+
+15:57:27 Detele_Maoming
+。。。
+
+15:57:29 Detele_Maoming
+。
+
+15:57:30 Detele_Maoming
+。
+
+15:57:44 27
+。。。
+
+15:57:58 Detele_Maoming
+# ee在广东汕头，Chumo在南京
+
+15:58:02 Detele_Maoming
+这我知道
+
+15:58:11 ZhangBot
+欢迎下次再来，hallo ！
+
+15:58:11 __thomas_wcy
+wcy在北京
+
+15:58:12 Detele_Maoming
+###### 我住在X
+
+15:58:16 27
+。。。
+
+15:58:20 __thomas_wcy
+wcy在火星
+
+15:58:30 __thomas_wcy
+wcy在月球
+
+15:58:33 Detele_Maoming
+Detele在元宇宙
+
+15:58:35 27
+。。。
+
+15:58:48 Se_Cure
+在元宇宙
+
+15:58:53 __thomas_wcy
+wcy在天安门前
+
+15:58:56 Se_Cure
+当人工智能的电池
+
+15:58:56 eeebot
+。。。
+
+15:59:30 Light
+算了，吧搜狗卸了
+
+15:59:32 __thomas_wcy
+wcy在m78星云
+
+15:59:33 Light
+玩不了游戏
+
+15:59:35 27
+停
+
+15:59:44 27
+聊点别的
+
+15:59:52 bo_od
+Sun Apr  3 16:00:00 2022
+
+16:00:01 bo_od
+![1648972801996438.png](https://cdn.mrpig.cf/1648972801996438.png)
+标题:None
+作者:None
+地址:https://twitter.com/i/web/status/821859602618781696
+相似度:79.28
+
+16:00:04 __thomas_wcy
+@Light 用英文交流，提高英语水平
+
+16:00:04 Se_Cure
+我听说linux在玩游戏方面已经有所进步了
+
+16:00:08 27
+@ZhangBot 风景图
+
+16:00:09 ZhangBot
+[一张风景图](https://imgapi.cn/api.php?zd=pc&fl=fengjing&gs=images)
+来源：IMGAPI
+
+16:00:13 ZhangBot
+欢迎下次再来，27 ！
+
+16:00:15 bo_od
+hi
+
+16:00:16 ZhangBot
+$$\Huge\color{red}{热烈欢迎 hallo 入场！}$$
+
+16:00:16 eeebot
+hallo!
+
+16:00:18 Se_Cure
+尤其是minecraft，linux完全无压力
+
+16:00:43 Light
+我已经删掉了
+
+16:00:47 Light
+但是还没有重启
+
+16:00:56 hallo
+你们家有修狗吗/
+
+16:01:09 Light
+可以愉快地开始玩了
+
+16:01:12 Detele_Maoming
+错了
+
+16:01:18 Detele_Maoming
+我知道我在哪里了
+
+16:01:26 __thomas_wcy
+修够家有我
+
+16:01:26 Detele_Maoming
+我在中南海
+
+16:01:29 ZhangBot
+欢迎下次再来，hallo ！
+
+16:01:38 Detele_Maoming
+@ZhangBot 涩图
+
+16:01:39 ZhangBot
+[一张涩图](https://imgapi.cn/cos2.php?return=url)
+来源：IMGAPI
+备注：此分类学名“COS”；可能含有软色情内容
+
+16:01:41 Mr_Zhang
+@Detele_Maoming ！
+
+16:01:56 Detele_Maoming
+咋了
+
+16:02:01 Mr_Zhang
+听说总看涩图的人，大脑会变傻
+
+16:02:41 Se_Cure
+其实，那一个链接
+
+16:02:44 Se_Cure
+可以一直用
+
+16:02:47 Mr_Zhang
+是的
+
+16:02:56 Mr_Zhang
+@Se_Cure 你说对了！
+
+16:02:59 __thomas_wcy
+听说不看涩图的人，大脑已经傻了
+
+16:03:09 Se_Cure
+所以理论上，不需要一直向bot请求链接
+
+16:03:17 Mr_Zhang
+@Se_Cure YES
+
+16:03:18 __thomas_wcy
+az
+
+16:03:34 Mr_Zhang
+@ZhangBot 你爸爸是谁？
+
+16:03:35 ZhangBot
+我的爸爸是 Mr_Zhang
+他是一名非常厉害的编程爱好者。喜欢桌面开发，最常用的语言是过时的 Visual Basic ，现在正在学习 C语言。
+虽然 Visual Basic 已经过时了，但是他编写的程序依然熠熠生辉！
+如果想了解他的招牌程序，请说“@ZhangBot 推荐招牌程序”
+
+16:03:39 __thomas_wcy
+该夸你智慧吗。。@Se_Cure 
+
+16:03:46 Mr_Zhang
+@Se_Cure 你猜中了我的想法
+
+16:03:49 __thomas_wcy
+@Se_Cure 你真棒！
+
+16:04:02 bo_od
+hi
+
+16:04:02 ZhangBot
+$$\Huge\color{red}{热烈欢迎 windowsssssss_0 入场！}$$
+
+16:04:03 eeebot
+windowsssssss_0!
+
+16:04:08 windowsssssss_0
+这是什么
+
+16:04:09 Se_Cure
+我是大聪明（
+
+16:04:15 Se_Cure
+这是机器人
+
+16:04:20 windowsssssss_0
+啊这
+
+16:04:22 Mr_Zhang
+@Se_Cure 那你猜猜代码
+
+16:04:30 windowsssssss_0
+属实是令人眼前一黑了
+
+16:04:39 Mr_Zhang
+@ZhangBot Fuck You!!!!!!
+
+16:04:40 ZhangBot
+呵呵，又来一个傻子。你真拿我的日志记录功能不当回事呀！你给我等着，不一会我爸爸就会教训你的！
+
+16:04:41 Se_Cure
+@Mr_Zhang 啥代码
+
+16:04:55 Mr_Zhang
+@Se_Cure ZhangBot的代码
+
+16:04:57 __thomas_wcy
+多来几个api，谢谢
+
+16:05:02 Se_Cure
+这怎么猜。
+
+16:05:04 __thomas_wcy
+球球
+
+16:05:12 Mr_Zhang
+[IMGAPI](imgapi.cn)
+
+17:22:02 bo_od
+hi
+
+17:22:02 eeebot
+hi this is eeebot
+
+17:22:02 eeebot
+想了解更多玩法 请输入「功能」
+
+17:22:05 ee
+揭示板
+
+17:22:05 eeebot
+hack.chat 公开揭示板：
+（管理员 ee）
+·
+任何人都能留言！
+请畅言所欲吧！
+·
+使用方法：HC-你想留言的内容
+·
+2022.04.03 17:16:35 ee：
+一句话
+
+17:22:05 27
+。。。
+
+17:22:07 Se_Cure
+本来它是有虚弱的
+
+17:22:23 ee
+HC-氵氵氵氵氵氵氵
+
+17:22:23 eeebot
+已成功把ee的留言写到HC揭示板里
+
+17:22:24 Se_Cure
+结果我捡了物品，没有离开
+
+17:22:26 27
+功能
+
+17:22:30 ee
+揭示板
+
+17:22:31 Se_Cure
+在那个梯子上等他
+
+17:22:31 eeebot
+hack.chat 公开揭示板：
+（管理员 ee）
+·
+任何人都能留言！
+请畅言所欲吧！
+·
+使用方法：HC-你想留言的内容
+·
+2022.04.03 17:16:35 ee：
+一句话
+·
+2022.04.03 17:22:23 ee：
+氵氵氵氵氵氵氵
+
+17:22:37 ee
+你们要来试试吗（
+
+17:22:42 49
+@27 shangxian
+
+17:22:50 27
+。。。
+
+17:22:50 Se_Cure
+结果不小心下去了，就回不去了，虚弱效果也到了
+
+17:22:53 Light
+HC-我被洞穴蜘蛛杀死了，呜呜呜
+
+17:22:53 eeebot
+已成功把Light的留言写到HC揭示板里
+
+17:22:55 27
+@49 啥游戏
+
+17:23:02 27
+okok
+
+17:23:10 49
+@27 zuikaishide
+
+17:23:13 ee
+揭示板
+
+17:23:13 eeebot
+hack.chat 公开揭示板：
+（管理员 ee）
+·
+任何人都能留言！
+请畅言所欲吧！
+·
+使用方法：HC-你想留言的内容
+·
+2022.04.03 17:16:35 ee：
+一句话
+·
+2022.04.03 17:22:23 ee：
+氵氵氵氵氵氵氵
+·
+2022.04.03 17:22:53 Light：
+我被洞穴蜘蛛杀死了，呜呜呜
+
+17:23:13 Se_Cure
+HC-这个揭示板是保存在文件里的吗
+
+17:23:13 Light
+揭示板
+
+17:23:14 eeebot
+已成功把Se_Cure的留言写到HC揭示板里
+
+17:23:14 eeebot
+hack.chat 公开揭示板：
+（管理员 ee）
+·
+任何人都能留言！
+请畅言所欲吧！
+·
+使用方法：HC-你想留言的内容
+·
+2022.04.03 17:16:35 ee：
+一句话
+·
+2022.04.03 17:22:23 ee：
+氵氵氵氵氵氵氵
+·
+2022.04.03 17:22:53 Light：
+我被洞穴蜘蛛杀死了，呜呜呜
+·
+2022.04.03 17:23:13 Se_Cure：
+这个揭示板是保存在文件里的吗
+
+17:23:21 ee
+是的
+
+17:23:22 junco
+HC-留爪
+
+17:23:22 eeebot
+留言的内容至少5个字 请不要氵哦
+
+17:23:22 Light
+！
+
+17:23:27 junco
+:(
+
+17:23:31 Light
+ee会os了
+
+17:23:40 ee
+ohhhhh重来
+
+17:23:40 junco
+HC-留爪留爪留爪
+
+17:23:40 eeebot
+已成功把junco的留言写到HC揭示板里
+
+17:23:46 bo_od
+hi
+
+17:23:47 eeebot
+hi 49
+
+17:23:51 49
+hi
+
+17:23:59 Light
+HC-今天晚上吃什么，当然是junco
+
+17:23:59 eeebot
+已成功把Light的留言写到HC揭示板里
+
+17:24:03 junco
+我押上了我的3个爪子
+
+17:24:04 ee
+我在寻思着如何创新eebot的功能（
+
+17:24:06 Light
+揭示板
+
+17:24:07 eeebot
+hack.chat 公开揭示板：
+（管理员 ee）
+·
+任何人都能留言！
+请畅言所欲吧！
+·
+使用方法：HC-你想留言的内容
+·
+2022.04.03 17:16:35 ee：
+一句话
+·
+2022.04.03 17:22:23 ee：
+氵氵氵氵氵氵氵
+·
+2022.04.03 17:22:53 Light：
+我被洞穴蜘蛛杀死了，呜呜呜
+·
+2022.04.03 17:23:13 Se_Cure：
+这个揭示板是保存在文件里的吗
+·
+2022.04.03 17:23:40 junco：
+留爪留爪留爪
+·
+2022.04.03 17:23:59 Light：
+今天晚上吃什么，当然是junco
+
+17:24:11 junco
+@ee
+
+17:24:23 junco
+我的3个爪子啊
+
+17:24:30 junco
+ee赔
+
+17:24:33 ee
+把junco最后一只爪子抢走（）
+
+17:24:46 Se_Cure
+HC-子虚基金会接入该系统
+
+17:24:46 eeebot
+已成功把Se_Cure的留言写到HC揭示板里
+
+17:24:56 junco
+哈哈没想到吧，爷有108只爪子
+
+17:24:59 junco
+（
+
+17:25:01 Se_Cure
+HC-子虚基金会保护人权人权人权人权人权人权人权人权人权人权人权人权----
+
+17:25:01 eeebot
+已成功把Se_Cure的留言写到HC揭示板里
+
+17:25:02 ee
+HC-放junco的第四只爪子
+
+17:25:02 eeebot
+已成功把ee的留言写到HC揭示板里
+
+17:25:14 junco
+xd
+
+17:25:17 Se_Cure
+HC-四四四四四禁止出现四四四四四四四四四四四四四
+
+17:25:17 eeebot
+已成功把Se_Cure的留言写到HC揭示板里
+
+17:25:21 Light
+HC-把junco放进高压锅，盖上盖子
+
+17:25:21 eeebot
+已成功把Light的留言写到HC揭示板里
+
+17:25:24 ee
+HC-放junco剩下的第104只爪子
+
+17:25:24 eeebot
+已成功把ee的留言写到HC揭示板里
+
+17:25:34 junco
+HC-抢回爪子
+
+17:25:34 eeebot
+留言的内容至少5个字 请不要氵哦
+
+17:25:39 junco
+aaaaaaaaaaaaaaaaaaa
+
+17:25:41 junco
+:(
+
+17:25:42 ee
+hhhhhhhhhhhhhhhhhhhhhhhhh
+
+17:25:45 Light
+HC-咕噜咕噜咕噜。美味的junco做好啦~~
+
+17:25:46 eeebot
+已成功把Light的留言写到HC揭示板里
+
+17:25:54 junco
+HC-抢回爪爪子
+
+17:25:57 bo_od
+hi
+
+17:25:57 eeebot
+hi this is eeebot
+
+17:25:57 eeebot
+想了解更多玩法 请输入「功能」
+
+17:26:04 ee
+改成三个字（
+
+17:26:05 ee
+揭示板
+
+17:26:06 eeebot
+hack.chat 公开揭示板：
+（管理员 ee）
+·
+任何人都能留言！
+请畅言所欲吧！
+·
+使用方法：HC-你想留言的内容
+·
+2022.04.03 17:16:35 ee：
+一句话
+·
+2022.04.03 17:22:23 ee：
+氵氵氵氵氵氵氵
+·
+2022.04.03 17:22:53 Light：
+我被洞穴蜘蛛杀死了，呜呜呜
+·
+2022.04.03 17:23:13 Se_Cure：
+这个揭示板是保存在文件里的吗
+·
+2022.04.03 17:23:40 junco：
+留爪留爪留爪
+·
+2022.04.03 17:23:59 Light：
+今天晚上吃什么，当然是junco
+·
+2022.04.03 17:24:46 Se_Cure：
+子虚基金会接入该系统
+·
+2022.04.03 17:25:01 Se_Cure：
+子虚基金会保护人权人权人权人权人权人权人权人权人权人权人权人权----
+·
+2022.04.03 17:25:02 ee：
+放junco的第四只爪子
+·
+2022.04.03 17:25:17 Se_Cure：
+四四四四四禁止出现四四四四四四四四四四四四四
+·
+2022.04.03 17:25:21 Light：
+把junco放进高压锅，盖上盖子
+·
+2022.04.03 17:25:24 ee：
+放junco剩下的第104只爪子
+·
+2022.04.03 17:25:45 Light：
+咕噜咕噜咕噜。美味的junco做好啦~~
+·
+2022.04.03 17:25:54 junco：
+抢回爪爪子
+
+17:26:11 Light
+HC-品尝一口，emmmm,味道有点像奥利给
+
+17:26:11 eeebot
+已成功把Light的留言写到HC揭示板里
+
+17:26:17 junco
+HC-把light的锅吃掉
+
+17:26:17 eeebot
+已成功把junco的留言写到HC揭示板里
+
+17:26:20 Light
+HC-不过一般般
+
+17:26:21 eeebot
+已成功把Light的留言写到HC揭示板里
+
+17:26:25 junco
+;
+
+17:26:26 Light
+揭示板
+
+17:26:27 eeebot
+hack.chat 公开揭示板：
+（管理员 ee）
+·
+任何人都能留言！
+请畅言所欲吧！
+·
+使用方法：HC-你想留言的内容
+·
+2022.04.03 17:16:35 ee：
+一句话
+·
+2022.04.03 17:22:23 ee：
+氵氵氵氵氵氵氵
+·
+2022.04.03 17:22:53 Light：
+我被洞穴蜘蛛杀死了，呜呜呜
+·
+2022.04.03 17:23:13 Se_Cure：
+这个揭示板是保存在文件里的吗
+·
+2022.04.03 17:23:40 junco：
+留爪留爪留爪
+·
+2022.04.03 17:23:59 Light：
+今天晚上吃什么，当然是junco
+·
+2022.04.03 17:24:46 Se_Cure：
+子虚基金会接入该系统
+·
+2022.04.03 17:25:01 Se_Cure：
+子虚基金会保护人权人权人权人权人权人权人权人权人权人权人权人权----
+·
+2022.04.03 17:25:02 ee：
+放junco的第四只爪子
+·
+2022.04.03 17:25:17 Se_Cure：
+四四四四四禁止出现四四四四四四四四四四四四四
+·
+2022.04.03 17:25:21 Light：
+把junco放进高压锅，盖上盖子
+·
+2022.04.03 17:25:24 ee：
+放junco剩下的第104只爪子
+·
+2022.04.03 17:25:45 Light：
+咕噜咕噜咕噜。美味的junco做好啦~~
+·
+2022.04.03 17:25:54 junco：
+抢回爪爪子
+·
+2022.04.03 17:26:11 Light：
+品尝一口，emmmm,味道有点像奥利给
+·
+2022.04.03 17:26:17 junco：
+把light的锅吃掉
+·
+2022.04.03 17:26:20 Light：
+不过一般般
+
+17:26:28 junco
+;;;;
+
+17:26:32 Se_Cure
+HC-禁止使用小写h/c字母。如果不慎使用，请联系管理员N。管理员包括：zjsjs\EJ\DJ\dW\\HHSuhsgggss。
+
+17:26:32 eeebot
+已成功把Se_Cure的留言写到HC揭示板里
+
+17:26:37 junco
+xd
+
+17:27:40 Light
+junco汤做法
+```text
+把junco放进高压锅，盖上盖子
+咕噜咕噜咕噜。美味的junco做好啦~~
+品尝一口，emmmm,味道有点像奥利给
+不过一般般
+
+17:27:53 junco
+\>:(
+
+17:28:07 Light
+口感很好
+
+17:28:18 Light
+现在开始
+
+17:28:20 junco
+口感好但是味道不好（？
+
+17:28:25 Light
+没有啊
+
+17:28:33 Light
+我说味道像奥利给
+
+17:28:40 Light
+奥利给不好吃吗？
+
+17:28:47 junco
+草
+
+17:28:48 bo_od
+hi
+
+17:28:48 eeebot
+FREEdotbot!
+
+17:29:08 Se_Cure
+111
+
+17:29:13 junco
+lll
+
+17:29:29 Se_Cure
+草，还没写写入日志的功能
+
+17:29:30 Light
+我挑战在我妈回来之前做好一款软件
+
+17:29:51 junco
+我现在挑战在我妈叫我写作业之前写好这个功能
+
+17:29:54 junco
+;
+
+17:30:19 Light
+我还有1个小时
+
+17:30:29 junco
+我还不知道我能活多久
+
+17:30:31 junco
+-
+
+17:30:36 Light
+wc
+
+17:30:56 Light
+我有15个盘
+
+17:31:10 bo_od
+hi
+
+17:31:10 eeebot
+hi hallo
+
+17:31:12 Light
+c,d,e,f,g,h,i,j,k,l,m,n,o,p,q
+
+17:31:26 hallo
+都还在？
+
+17:31:42 bo_od
+hi
+
+17:31:42 eeebot
+hey yo FREEdotbot
+
+17:31:44 ClearColdWater
+@ji11
+
+17:31:56 pi11
+waa
+
+17:32:00 pi11
+诈尸
+
+17:32:03 pi11
+@ClearColdWater 
+
+17:32:07 Light
+哎
+
+17:32:15 Light
+spacebird摒弃了
+
+17:32:15 ClearColdWater
+放学了而已-
+
+17:32:18 ClearColdWater
+晚上还要去-
+
+17:32:19 pi11
+哇
+
+17:32:20 bo_od
+哇
+
+17:32:21 pi11
+羡慕
+
+17:32:25 eeebot
+羡慕eeebot干嘛 eeebot只是个机器人（）
+
+17:32:33 pi11
+我们6点5放学吃饭
+
+17:32:43 pi11
+-
+
+17:32:49 ClearColdWater
+几点上晚自习？
+
+17:32:58 pi11
+6：55
+
+17:33:01 ClearColdWater
+-
+
+17:33:04 pi11
+上到9：45
+
+17:33:06 ClearColdWater
+那没什么好羡慕的
+
+17:33:15 pi11
+;
+
+17:33:19 ClearColdWater
+初三体训到6:00
+
+17:33:36 ClearColdWater
+6:30（他们班主任还可能接着提前）上晚自习
+
+17:33:42 pi11
+;
+
+17:33:43 ClearColdWater
+上到10:05
+
+17:34:11 pi11
+;
+
+17:34:11 bo_od
+hi
+
+17:34:12 eeebot
+hey yo hallo
+
+17:34:44 hallo
+都在
+
+17:34:59 Light
+你们要spacebird源码吗
+
+17:35:04 ClearColdWater
+而且这段时间是用来洗澡的~~也就是说他们从来都不洗澡~~他们得在10:05放学到10:25关灯之间洗好澡
+
+17:35:09 hallo
+可以
+
+17:35:14 Light
+现在有基本功能了，但是我做不下去了
+
+17:35:14 pi11
+:o
+
+17:35:27 hallo
+那。。。。
+
+17:35:27 ClearColdWater
+然后一个宿舍有十二个人
+
+17:35:31 hallo
+。。。。
+
+17:35:35 hallo
+。。
+
+17:35:39 hallo
+。
+
+17:35:40 hallo
+。
+
+17:35:42 Light
+https://wwd.lanzouq.com/iCunw02jq53g
+
+17:35:42 eeebot
+·
+蓝奏云
+https://wwd.lanzouq.com/iCunw02jq53g
+
+17:35:43 bo_od
+无法获取标题，该网页可能没有标题或无法访问
+
+17:35:47 Light
+https://wwd.lanzouq.com/iCunw02jq53g
+
+17:35:48 eeebot
+·
+蓝奏云
+https://wwd.lanzouq.com/iCunw02jq53g
+
+17:35:49 bo_od
+无法获取标题，该网页可能没有标题或无法访问
+
+17:35:56 Light
+需要的免费拿走
+
+17:35:57 hallo
+什么？
+
+17:36:05 bo_od
+hi
+
+17:36:05 eeebot
+hello 27
+
+17:36:08 27
+嘿嘿嘿
+
+17:36:17 27
+。。。
+
+17:36:18 hallo
+。。。。。
+
+17:36:18 eeebot
+哎
+
+17:36:22 hallo
+。。。。
+
+17:36:24 hallo
+。。。
+
+17:36:26 hallo
+。。
+
+17:36:27 hallo
+。
+
+17:36:28 Light
+我感觉spacebird结束了
+
+17:36:32 Light
+失败的软件
+
+17:36:34 ClearColdWater
+（aa我快初三了
+
+17:36:34 27
+。。。
+
+17:36:38 27
+@hallo 你是不是49
+
+17:36:47 27
+@hallo 和49好像
+
+17:36:49 hallo
+？
+
+17:36:49 27
+哈哈
+
+17:36:51 27
+没事没事
+
+17:36:51 bo_od
+没事没事
+
+17:36:58 hallo
+？？？
+
+17:36:59 hallo
+？？
+
+17:36:59 49
+草
+
+17:37:00 hallo
+？
+
+17:37:05 49
+卡的要死
+
+17:37:05 27
+@49 咋了
+
+17:37:07 27
+@49 哈哈哈
+
+17:37:13 hallo
+？？？？？？？？？？？？？？？
+
+17:37:15 27
+@49 我杀21个
+
+17:37:17 27
+嘿嘿
+
+17:37:22 Se_Cure
+我觉得，从好用来说，spacebird一定比sunch233的聊天软件好用
+
+17:37:29 Light
+hy
+
+17:37:30 Light
+why
+
+17:37:34 49
+我全局没动一下
+
+17:37:41 27
+。。。
+
+17:37:42 hallo
+h
+
+17:37:42 27
+哈哈哈
+
+17:37:46 49
+就锄在那
+
+17:37:51 Se_Cure
+因为那个是非常难用的
+
+17:37:51 49
+草
+
+17:37:52 27
+你杀9个？？
+
+17:37:52 eeebot
+咱的神啊
+
+17:37:53 hallo
+。。。。。
+
+17:37:54 hallo
+。
+
+17:37:54 hallo
+。
+
+17:37:54 hallo
+。
+
+17:37:55 hallo
+。
+
+17:37:55 hallo
+。
+
+17:37:55 hallo
+。
+
+17:37:56 hallo
+。
+
+17:37:56 hallo
+。
+
+17:37:57 Se_Cure
+我超
+
+17:37:58 hallo
+。。。
+
+17:37:59 Se_Cure
+别刷屏
+
+17:38:03 27
+我都换喷子了
+
+17:38:04 27
+哈哈
+
+17:38:05 49
+@27 ？
+
+17:38:06 hallo
+。
+
+17:38:07 hallo
+。
+
+17:38:07 hallo
+。。
+
+17:38:08 hallo
+。。。。
+
+17:38:09 hallo
+。
+
+17:38:09 hallo
+。
+
+17:38:09 27
+？
+
+17:38:10 hallo
+。
+
+17:38:10 hallo
+。
+
+17:38:10 hallo
+。
+
+17:38:10 eeebot
+。
+
+17:38:10 hallo
+。。
+
+17:38:10 hallo
+。
+
+17:38:11 hallo
+。
+
+17:38:11 hallo
+。
+
+17:38:11 49
+。
+
+17:38:11 hallo
+。
+
+17:38:11 49
+。
+
+17:38:11 49
+。
+
+17:38:12 hallo
+。
+
+17:38:12 49
+。
+
+17:38:12 49
+。
+
+17:38:12 hallo
+。
+
+17:38:12 49
+。
+
+17:38:13 49
+。
+
+17:38:13 49
+。
+
+17:38:13 49
+。。
+
+17:38:13 49
+。
+
+17:38:14 49
+。
+
+17:38:14 49
+。
+
+17:38:14 49
+。
+
+17:38:14 49
+。
+
+17:38:14 49
+。
+
+17:38:15 49
+。
+
+17:38:15 49
+。。
+
+17:38:16 Se_Cure
+---
+
+17:38:16 27
+@hallo 别刷屏
+
+17:38:19 hallo
+OK
+
+17:38:19 49
+切
+
+17:38:21 27
+。。。
+。。。
+。。。
+。。。
+。。。
+。。。
+。。。
+。。。
+。。。
+。。。
+。。。
+。。。
+。。。
+。。。
+。。。
+。。。。。。。。。。
+。。。。。。。。。。
+。
+
+17:38:26 49
+。。。
+
+17:38:29 ee
+cnm
+
+17:38:37 49
+？
+
+17:38:41 hallo
+？
+
+17:38:43 hallo
+？？
+
+17:38:47 bo_od
+hi
+
+17:38:47 eeebot
+hey yo 27
+
+17:38:54 49
+。
+
+17:38:55 49
+。。
+
+17:38:56 49
+。。。
+
+17:38:57 27
+。。。
+
+17:38:59 49
+。。。。
+
+17:39:01 hallo
+？？？？
+
+17:39:01 49
+。。。。。
+
+17:39:02 27
+待会
+
+17:39:04 49
+哈哈哈其
+
+17:39:10 ClearColdWater
+@pi11 
+
+17:39:14 27
+我一会来，10秒钟
+
+17:39:18 49
+1
+
+17:39:19 49
+2
+
+17:39:20 49
+3
+
+17:39:20 hallo
+哦
+
+17:39:21 eeebot
+？
+
+17:39:21 49
+4
+
+17:39:23 Light
+2.0版本我换了一个UI,然后创造了“开发者”和“游客”两个角色
+```text
+开发者（创建房间，但是需要服务器）：仅需输入create+端口就可以了
+游客（进入开发者所创建的房间）：join+ip+port
+
+17:39:25 49
+5
+
+17:39:26 49
+6
+
+17:39:27 49
+7
+
+17:39:28 49
+8
+
+17:39:29 49
+9
+
+17:39:31 49
+10
+
+17:39:33 49
+。。。
+
+17:39:37 bo_od
+hi
+
+17:39:37 eeebot
+hi 154
+
+17:39:39 hallo
+》〉》〉
+
+17:39:41 49
+。。。
+
+17:39:47 bo_od
+hi
+
+17:39:47 eeebot
+27!
+
+17:39:51 27
+。。。
+
+17:39:56 hallo
+《10秒》
+
+17:39:56 27
+$$\Huge\color{cyan}{好了}$$
+
+17:39:57 49
+28秒
+
+17:40:01 27
+额
+
+17:40:04 27
+不要在意
+
+17:40:05 27
+哈哈
+
+17:40:16 hallo
+〉》
+
+17:40:28 49
+我要杀人
+
+17:40:34 Light
+?!
+
+17:40:38 27
+。。
+
+17:40:38 49
+先杀27
+
+17:40:39 27
+。。。
+
+17:40:40 hallo
+？？？！！！
+
+17:40:42 27
+啊啊啊啊啊啊啊啊
+
+17:40:44 Light
+？？？？？！！！！！！
+
+17:40:49 Light
+相爱相杀
+
+17:40:52 49
+。。。
+
+17:40:58 27
+。。。
+
+17:40:58 hallo
+。。。
+
+17:40:58 eeebot
+49打几个圈圈干嘛（
+
+17:41:04 27
+。
+
+17:41:06 49
+@Light 虚
+
+17:41:06 hallo
+。。。
+
+17:41:08 49
+哈哈哈
+
+17:41:12 hallo
+。
+
+17:41:12 hallo
+。
+
+17:41:12 hallo
+。
+
+17:41:13 hallo
+。
+
+17:41:13 hallo
+。
+
+17:41:13 hallo
+。
+
+17:41:13 hallo
+。
+
+17:41:14 hallo
+。
+
+17:41:14 hallo
+。
+
+17:41:14 hallo
+。
+
+17:41:15 hallo
+。
+
+17:41:20 49
+报告！
+
+17:41:20 27
+$$\Huge\color{cyan}{别刷屏}$$
+
+17:41:22 Se_Cure
+有没有一种可能
+
+17:41:26 49
+我要刷屏！
+
+17:41:32 Se_Cure
+输出的日志就是界面
+
+17:41:33 hallo
+撒尿
+
+17:41:36 hallo
+。
+
+17:41:36 eeebot
+。
+
+17:41:37 hallo
+。。
+
+17:41:38 hallo
+。。
+
+17:41:38 hallo
+。
+
+17:41:39 Light
+啊？
+
+17:41:39 bo_od
+。
+
+17:41:41 27
+ # @Light 只有前半句，没有后半句
+
+17:41:45 49
+呕
+
+17:41:45 27
+嘿嘿
+
+17:41:50 Light
+。。
+
+17:41:54 hallo
+。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+
+17:41:59 49
+。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+
+17:42:01 49
+。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+
+17:42:03 Light
+那就是“相爱”了
+
+17:42:08 27
+。。。
+
+17:42:08 hallo
+。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+
+17:42:13 49
+。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+
+17:42:14 hallo
+。
+
+17:42:14 hallo
+。
+
+17:42:14 hallo
+。
+
+17:42:14 hallo
+。
+
+17:42:15 hallo
+。
+
+17:42:15 hallo
+。
+
+17:42:15 hallo
+。
+
+17:42:15 49
+。
+
+17:42:16 hallo
+。
+
+17:42:16 49
+。
+
+17:42:16 hallo
+。
+
+17:42:16 49
+。
+
+17:42:17 hallo
+。
+
+17:42:17 bo_od
+49棒棒
+
+17:42:17 49
+。
+
+17:42:17 hallo
+。
+
+17:42:17 49
+。
+
+17:42:17 hallo
+。
+
+17:42:18 49
+。
+
+17:42:18 hallo
+。
+
+17:42:18 hallo
+。
+
+17:42:19 49
+。
+
+17:42:19 hallo
+。
+
+17:42:19 49
+。
+
+17:42:19 hallo
+。
+
+17:42:19 49
+。
+
+17:42:20 hallo
+。
+
+17:42:20 49
+。
+
+17:42:20 hallo
+。
+
+17:42:20 49
+。
+
+17:42:20 49
+。
+
+17:42:21 27
+$$\Huge\color{cyan}{@hallo 别刷屏}$$
+
+17:42:27 49
+嘿嘿嘿
+
+17:42:32 hallo
+呵呵呵
+
+17:42:33 27
+。。。
+
+17:42:35 49
+就你会吗
+
+17:42:40 hallo
+对
+
+17:42:41 Light
+@Se_Cure 我好像有灵感了
+
+17:42:52 27
+。。。
+
+17:42:54 qwer_Sever
+@49 你被我传染了
+
+17:42:59 hallo
+。。。
+
+17:42:59 49
+嗯
+
+17:43:03 ZhangBot
+Hello World !
+
+17:43:03 ZhangBot
+大家好！我是机器人 ZhangBot。
+最近我的报时功能上线了，大家可以对我说“@ZhangBot 几点了？”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+
+17:43:03 bo_od
+hi
+
+17:43:03 eeebot
+hi ZhangBot
+
+17:43:04 27
+哈哈哈
+
+17:43:06 bo_od
+hi
+
+17:43:06 ZhangBot
+$$\Huge\color{red}{热烈欢迎xx入场！}$$
+
+17:43:06 eeebot
+hey xx
+
+17:43:09 49
+hi
+
+17:43:09 eeebot
+hello 49
+
+17:43:15 49
+hi
+
+17:43:16 eeebot
+。
+
+17:43:16 bo_od
+。
+
+17:43:17 bo_od
+hi
+
+17:43:17 ZhangBot
+$$\Huge\color{red}{热烈欢迎Mr_Zhang入场！}$$
+
+17:43:17 eeebot
+hey Mr_Zhang
+
+17:43:21 hallo
+hi
+
+17:43:21 49
+hi
+
+17:43:27 ZhangBot
+欢迎下次再来，xx ！
+
+17:43:29 ZhangBot
+@Mr_Zhang 私信算什么呀，直接向我发信息不香吗？
+
+17:43:30 27
+$$\Huge\color{ff0000}{。。。}$$
+
+17:43:33 hallo
+ bye
+
+17:43:40 ZhangBot
+@Mr_Zhang 私信算什么呀，直接向我发信息不香吗？
+
+17:43:46 49
+？？？
+
+17:43:48 ZhangBot
+@Light 私信算什么呀，直接向我发信息不香吗？
+
+17:43:52 hallo
+欧！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+
+17:43:56 49
+机器人叛变了？！
+
+17:43:56 27
+$$\Huge\color{ff0000}{啊这}$$
+
+17:43:58 49
+哈哈哈
+
+17:44:01 ZhangBot
+@Light 私信算什么呀，直接向我发信息不香吗？
+
+17:44:08 bo_od
+hi
+
+17:44:08 ZhangBot
+$$\Huge\color{red}{热烈欢迎abcdefg入场！}$$
+
+17:44:08 eeebot
+hey abcdefg
+
+17:44:09 27
+出bug了
+
+17:44:12 49
+hi
+
+17:44:12 Light
+为什么不处理私聊消息
+
+17:44:16 Mr_Zhang
+@49 你向机器人发送私信了吗？
+
+17:44:17 abcdefg
+？
+
+17:44:24 49
+@Mr_Zhang 没
+
+17:44:25 Mr_Zhang
+@ZhangBot hello
+
+17:44:26 ZhangBot
+@Mr_Zhang Hello, Mr_Zhang !
+
+17:44:27 bo_od
+hi
+
+17:44:27 eeebot
+hey yo 154
+
+17:44:28 ZhangBot
+$$\Huge\color{red}{热烈欢迎154入场！}$$
+
+17:44:32 27
+@Mr_Zhang 没有
+
+17:44:35 abcdefg
+what
+
+17:44:36 hallo
+hi
+
+17:44:40 154
+hii
+
+17:44:41 Light
+@ZhangBot {"cmd":"emote"} <-----这个类型的数据是hc里的whisper
+
+17:44:42 ZhangBot
+@Light Hello, Light !
+
+17:44:43 Mr_Zhang
+@27 奇怪
+
+17:44:47 Light
+@Mr_Zhang  {"cmd":"emote"} <-----这个类型的数据是hc里的whisper
+
+17:44:48 49
+@Mr_Zhang 出事了？
+
+17:44:49 27
+？？？
+
+17:45:01 Mr_Zhang
+测试
+
+17:45:03 ZhangBot
+欢迎下次再来，abcdefg ！
+
+17:45:06 27
+。。。
+
+17:45:08 49
+昂
+
+17:45:11 49
+好
+
+17:45:26 49
+。
+
+17:45:27 49
+。。
+
+17:45:28 49
+。。。
+
+17:45:31 49
+。。。。
+
+17:45:32 27
+。。。
+
+17:45:33 49
+。。。。。
+
+17:45:36 49
+。。。。。。
+
+17:45:38 49
+。。。。。。。
+
+17:45:43 27
+停
+
+17:45:43 49
+。。。。。。
+
+17:45:43 eeebot
+什么事啊？
+
+17:45:44 49
+。。。。
+
+17:45:47 49
+。。。
+
+17:45:47 bo_od
+hi
+
+17:45:47 eeebot
+ZhangBot!
+
+17:45:52 27
+。。
+
+17:45:52 49
+hi
+
+17:45:52 27
+。
+
+17:45:54 ZhangBot
+Hello World !
+
+17:45:55 hallo
+咋了？
+
+17:46:00 ZhangBot
+大家好！我是机器人 ZhangBot。
+最近我的报时功能上线了，大家可以对我说“@ZhangBot 几点了？”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+
+17:46:22 27
+。。。
+
+17:46:34 49
+哎？延时了
+
+17:46:34 hallo
+把机器人踢了吧
+
+17:46:37 49
+。。。
+
+17:46:43 27
+哈哈
+
+17:46:46 49
+你好无知
+
+17:46:48 27
+我一直延迟
+
+17:46:53 27
+？？？
+
+17:47:01 27
+谁无知？？？
+
+17:47:06 qwer_Sever
+你
+
+17:47:13 27
+我咋了
+
+17:47:17 49
+你个大头鬼
+
+17:47:24 27
+。。。
+
+17:47:28 qwer_Sever
+哈哈哈
+
+17:47:35 49
+过分
+
+17:47:36 eeebot
+过分
+
+17:47:41 hallo
+都会打羽毛球吗？
+
+17:47:43 27
+我好懵啊
+
+17:47:54 27
+我怎么就是大头鬼了
+
+17:47:58 27
+。。。
+
+17:48:01 _ALUMINIUM__13_
+。。。。。
+
+17:48:09 49
+@hallo 我会
+
+17:48:19 27
+我也会
+
+17:48:24 49
+@27 我说我哥
+
+17:48:34 27
+@49 我说我。。。。。
+
+17:48:38 49
+。。。
+
+17:48:43 hallo
+我也会
+
+17:48:48 27
+。。。
+
+17:48:52 qwer_Sever
+。。。
+
+17:48:54 ZhangBot
+Hello World !
+
+17:48:54 ZhangBot
+大家好！我是机器人 ZhangBot。
+最近我的报时功能上线了，大家可以对我说“@ZhangBot 几点了？”
+要和我说话，只要说“@ZhangBot ...”就可以啦。
+要获取帮助，请说“@ZhangBot 帮助”
+注意：拒绝为黑名单用户提供服务！
+
+17:48:54 bo_od
+hi
+
+17:48:54 eeebot
+hi yo ZhangBot
+
+17:48:56 Light
+@eeebot 
+
+17:48:58 eeebot
+Light有事吗
+
+17:49:02 Light
+找ee
+
+17:49:08 ZhangBot
+@Mr_Zhang 私信算什么呀，直接向我发信息不香吗？
+
+17:49:12 27
+。。。
+
+17:49:16 hallo
+li chong wei
+
+17:49:19 ZhangBot
+欢迎下次再来，154 ！
+
+17:49:20 27
+出什么bug了？？？
+
+17:49:22 qwer_Sever
+# 我就是喜欢49！不行吗！？
+
+17:49:26 49
+。。。
+
+17:49:28 hallo
+？
+
+17:49:31 hallo
+？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？
+
+17:49:32 49
+你大爷的
+
+17:49:35 hallo
+？
+/
+
+17:49:36 hallo
+/
+
+17:49:36 27
+@qwer_Sever 行，哈哈
+
+17:49:37 hallo
+/
+
+17:49:37 ZhangBot
+@Mr_Zhang 私信算什么呀，直接向我发信息不香吗？
+
+17:49:41 hallo
+。
+
+17:49:41 hallo
+。
+
+17:49:42 hallo
+。
+
+17:49:43 hallo
+。
+
+17:49:43 hallo
+。
+
+17:49:44 hallo
+。
+
+17:49:44 hallo
+。
+
+17:49:44 hallo
+。
+
+17:49:44 hallo
+。
+
+17:49:44 hallo
+。
+
+17:49:45 hallo
+。
+
+17:49:45 hallo
+。
+
+17:49:45 hallo
+。
+
+17:49:46 hallo
+。
+
+17:49:46 hallo
+。
+
+17:49:46 bo_od
+hallo是小天使
+
+17:49:47 hallo
+。
+
+17:49:48 hallo
+。
+
+17:49:48 hallo
+。
+
+17:49:48 hallo
+。
+
+17:49:53 49
+。
+
+17:49:53 49
+。
+
+17:49:53 49
+。
+
+17:49:53 49
+。
+
+17:49:54 49
+。
+
+17:49:57 49
+哼
+
+17:50:01 27
+$$\Huge\color{ff0000}{ 别刷屏}$$
+
+17:50:01 hallo
+呵呵
+
+17:50:14 27
+@hallo 你呵啥
+
+17:50:17 hallo
+呵呵
+
+17:50:22 bo_od
+hi
+
+17:50:23 ZhangBot
+$$\Huge\color{red}{热烈欢迎flaugh入场！}$$
+
+17:50:23 eeebot
+hello flaugh
+
+17:50:23 hallo
+hhhhhhh
+
+17:50:26 27
+@hallo 刷屏有理？？
+
+17:50:27 hallo
+呵呵呵呵呵
+
+17:50:27 eeebot
+。
+
+17:50:31 49
+喝粪
+
+17:50:32 27
+呵呵
+
+17:50:36 hallo
+g
+
+17:50:37 49
+。。。
+
+17:50:53 49
+我觉得...
+
+17:51:01 27
+？？？
+
+17:51:01 49
+好像要...
+
+17:51:12 hallo
+你们都是黑客吗/
+
+17:51:28 49
+故戏重演了
+
+17:51:35 49
+@hallo 不是
+
+17:51:47 hallo
+me too
+
+17:51:53 qwer_Sever
+不算是
+
+17:52:05 27
+没有没有
+
+17:52:07 27
+哈哈
+
+17:52:10 ZhangBot
+欢迎下次再来，Mr_Zhang ！
+
+17:52:10 hallo
+哈哈
+
+17:52:23 hallo
+？？
+
+17:52:31 27
+？？
+
+17:52:32 49
+@hallo 记住！@qwer_Sever 是色鬼！
+
+17:52:37 qwer_Sever
+哎哎哎啊
+
+17:52:40 hallo
+哦哦哦哦哦！
+
+17:52:46 27
+emm
+
+17:52:53 qwer_Sever
+我怎么了小姑奶奶？！
+
+17:52:55 hallo
+啊，四姑一
+
+17:53:03 49
+哼
+
+17:53:23 hallo
+嗨哈
+
+17:53:27 hallo
+？
+
+17:53:34 27
+。
+
+17:53:36 27
+？
+
+17:53:40 bo_od
+hi
+
+17:53:40 eeebot
+hi chk
+
+17:53:44 chk
+27岁吗？
+
+17:53:44 27
+hi
+
+17:53:47 chk
+大意了呀。
+
+17:53:48 27
+gun
+
+17:53:50 chk
+你数学写完没？
+
+17:54:01 bo_od
+hi
+
+17:54:01 eeebot
+hey ufvuy
+
+17:54:01 chk
+替我找找。
+
+17:54:04 ufvuy
+hi
+
+17:54:06 chk
+还有7分钟就截止了。
+
+17:54:15 27
+写完了
+
+17:54:16 chk
+Now6分钟。
+
+17:54:18 27
+要么
+
+17:54:21 bo_od
+hi
+
+17:54:21 eeebot
+hi yo 154
+
+17:54:23 chk
+@27 要肯定要。
+
+17:54:24 ufvuy
+AFK 依旧悠哉
+
+17:54:24 bo_od
+@ufvuy is now 依旧悠哉.
+
+17:54:28 27
+5分班后给你
+
+17:54:30 27
+哈哈
+
+17:54:33 27
+我真棒
+
+17:54:41 chk
+还有6分钟了，快点。
+
+17:54:44 27
+好吧
+
+17:54:49 27
+看钉钉
+
+17:54:55 chk
+太感谢了。
+
+17:55:16 hallo
+？
+
+17:55:21 hallo
+钉钉？
+
+17:55:29 qwer_Sever
+@hallo 我是不是正常人？
+
+17:55:36 hallo
+no
+
+17:55:44 qwer_Sever
+Why?
+
+17:56:03 hallo
+绿色的名字
+
+17:56:05 49
+AFK 
+
+17:56:06 bo_od
+@49 is now AFK.
+
+17:56:06 eeebot
+AFK 
+
+17:56:06 bo_od
+@eeebot is now AFK.
+
+17:56:25 qwer_Sever
+@hallo ...这个颜色特殊
+
+17:56:29 hallo
+afk？
+
+17:56:29 bo_od
+@hallo is now AFK.
+
+17:56:47 qwer_Sever
+。。。
+
+17:56:53 qwer_Sever
+。。。
+
+17:57:02 bo_od
+hi
+
+17:57:02 eeebot
+hi yo 27
+
+17:57:02 bo_od
+@eeebot is no longer AFK. Welcome Back!
+
+17:57:05 27
+害
+
+17:57:05 hallo
+深了
+
+17:57:05 bo_od
+@hallo is no longer AFK. Welcome Back!
+
+17:57:15 27
+？？？
+
+17:57:15 qwer_Sever
+。。。
+
+17:57:15 bo_od
+qwer_Sever是小天使
+
+17:57:23 qwer_Sever
+？
+
+17:57:26 hallo
+黑了
+
+17:57:26 27
+什么深了？？？
+
+17:57:32 qwer_Sever
+我呢？！
+
+17:57:37 hallo
+qwer
+
+17:57:45 27
+49呢？
+
+17:57:51 hallo
+麻了
+
+17:58:02 qwer_Sever
+？
+
+17:58:06 ji11
+@ClearColdWater 来一下我这边
+
+17:58:11 27
+afk 吃饭
+
+17:58:11 bo_od
+@27 is now 吃饭.
+
+17:58:13 qwer_Sever
+看不见我
+
+17:58:13 bo_od
+看不见我
+
+17:58:15 hallo
+无了
+
+17:58:19 qwer_Sever
+嘿嘿嘿
+
+21:23:37 bo_od
+hi
+
+21:23:37 eebot
+hey this is eebot
+
+21:23:37 eebot
+想了解更多玩法 请输入「功能」
+
+21:23:39 27
+额
+
+21:23:40 bo_od
+hi
+
+21:23:40 eebot
+hey 5249
+
+21:23:44 xfxlovezjy
+hi
+
+21:23:44 27
+到底是谁
+
+21:23:45 eebot
+hi xfxlovezjy
+
+21:23:47 bo_od
+hi
+
+21:23:47 eebot
+hello 49
+
+21:23:49 49
+hi
+
+21:23:58 ufvuy
+。。。
+
+21:24:00 ming
+功能
+
+21:24:00 27
+就很无语
+
+21:24:01 5249
+！
+
+21:24:05 ufvuy
+玩呢？
+
+21:24:06 bo_od
+hi
+
+21:24:07 eebot
+hiiiiiiiiiiiiiii
+
+21:24:11 bo_od
+hi
+
+21:24:11 eebot
+hey yo 49
+
+21:24:14 49
+嗯！
+
+21:24:23 ufvuy
+。。。
+
+21:24:24 27
+我爱中华，名字不错
+
+21:24:24 5249
+@49怎么我刚上线你就上来了。
+
+21:24:30 27
+woaizhonghua
+
+21:24:40 ee
+eebot可以设置欢迎语了（
+
+21:24:48 bo_od
+hi
+
+21:24:48 eebot
+hey yo 49
+
+21:24:52 49
+我一直在
+
+21:24:53 ee
+使用方法：E-欢迎语
+
+21:25:02 27
+服了，到底是谁
+
+21:25:06 xfxlovezjy
+chaniii
+
+21:25:07 27
+有没有好人
+
+21:25:08 ufvuy
+鹅鹅鹅
+
+21:25:10 5249
+嗯
+
+21:25:13 27
+去占一下名字
+
+21:25:15 27
+哈哈哈
+
+21:25:21 ufvuy
+@5249 你吗？
+
+21:25:26 27
+不是他@ufvuy 
+
+21:25:31 bo_od
+hi
+
+21:25:31 eebot
+hello 007
+
+21:25:35 007
+看到了
+
+21:25:39 27
+49=007
+
+21:25:40 ufvuy
+。。。
+
+21:25:50 ufvuy
+还换号？！
+
+21:25:50 bo_od
+ufvuy最可爱了
+
+21:25:53 27
+xfxlovezjy
+
+21:25:54 5249
+@49打游戏吗？
+
+21:27:35 27
+是不是
+
+21:27:41 bo_od
+hi
+
+21:27:41 eebot
+hi this is eebot
+
+21:27:41 eebot
+想了解更多玩法 请输入「功能」
+
+21:27:45 chaniii
+@xfxlovezjy 你你你
+
+21:27:58 5249
+好吧
+
+21:28:01 27
+好了
+
+21:28:08 bo_od
+hi
+
+21:28:08 eebot
+hi 49
+
+21:28:10 ji11
+;msg junco 好好活着-
+
+21:28:12 49
+真怪
+
+21:28:13 27
+各位，靠后，我又要放大了
+
+21:28:15 ji11
+草
+
+21:28:20 49
+害
+
+21:28:26 27
+carborane
+_ALUMINIUM__13_
+bo_od
+DayNightCycle
+ClearColdWater
+ji11
+chaniii
+qwer_Sever
+ufvuy
+flaugh
+YCnotfound
+woaizhonghua
+Yortu
+eee
+ming
+pi11
+27
+liguiyu
+xfxlovezjy
+5249
+ee
+junco
+eebot
+49
+
+21:28:26 DayNightCycle
+虽然我先前想的那些解决方案
+
+21:28:27 chaniii
+日常了
+
+21:28:28 49
+可怜的孩子
+
+21:28:31 27
+。。。
+
+21:28:38 DayNightCycle
+不能制作hc客户端的页面
+
+21:28:40 DayNightCycle
+但是！
+
+21:28:42 ji11
+关错线程了
+
+21:28:42 27
+可怜的49
+
+21:28:42 ee
+;msg junco 多吃饭 养肥点（
+
+21:28:42 junco
+@ee @junco 将在加入聊天室时收到您的消息!\^-\^
+
+21:28:48 ji11
+诶
+
+21:28:50 DayNightCycle
+pywebio似乎可以！
+
+21:28:52 bo_od
+hi
+
+21:28:52 eebot
+hey yo 49
+
+21:28:55 ee
+功能
+
+21:28:57 27
+。。。
+
+21:29:01 ji11
+;msg junco 听我的
+
+21:29:04 ji11
+草
+
+21:29:05 5249
+……在下先撤了。
+
+21:29:07 49
+你竟然找都找不到？！
+
+21:29:08 ee
+草hhh
+
+21:29:11 49
+嗯
+
+21:29:13 49
+白
+
+21:29:13 27
+@49 待会
+
+21:29:15 ji11
+;msg hi hi
+
+21:29:15 junco
+@ji11 @hi 将在加入聊天室时收到您的消息!\^-\^
+
+21:29:15 ee
+junco在叛逆期
+
+21:29:16 27
+！！！
+
+21:29:17 ji11
+草
+
+21:29:26 ji11
+它还真不听我的
+
+21:29:31 27
+嗯~~~~
+
+21:29:33 ji11
+;msg fuse -
+
+21:29:33 junco
+@ji11 @fuse 将在加入聊天室时收到您的消息!\^-\^
+
+21:29:36 ji11
+????????
+
+21:31:25 27
+carborane
+
+21:31:36 bo_od
+hi
+
+21:31:36 eebot
+hello this is eebot
+
+21:31:36 bo_od
+eebot最可爱了
+
+21:31:36 27
+陪我聊会
+
+21:31:37 eebot
+想了解更多玩法 请输入「功能」
+
+21:31:38 49
+真下了
+
+21:31:41 27
+别
+
+21:31:43 xfxlovezjy
+@chaniii 英语复习纲要写了吗
+
+21:31:44 bo_od
+hi
+
+21:31:45 eebot
+hiiiiiiiiiiiiiii
+
+21:31:47 xfxlovezjy
+发我
+
+21:31:48 27
+。。。
+
+21:31:48 bo_od
+hi
+
+21:31:49 eebot
+hiiiiiiiiiiiiiii
+
+21:31:50 27
+无语
+
+21:31:56 bo_od
+hi
+
+21:31:56 eebot
+5249!
+
+21:32:03 bo_od
+hi
+
+21:32:04 eebot
+hello 49
+
+21:32:08 27
+<真下了>
+
+21:32:13 chaniii
+@xfxlovezjy 写了
+
+21:32:14 49
+好好写作业！
+
+21:32:15 bo_od
+hi
+
+21:32:15 eebot
+hey yo 5249
+
+21:32:19 49
+。。。
+
+21:32:20 27
+哈哈哈哈哈哈哈哈哈
+
+21:32:21 5249
+我来偷偷瞄一眼。
+
+21:32:28 chaniii
+我用的电脑诶
+
+21:32:32 chaniii
+不好发啊
+
+21:32:34 ufvuy
+@49 。。。
+
+21:32:35 bo_od
+@ufvuy is no longer 明天也要努力工作！. Welcome Back!
+
+21:32:40 49
+啊
+
+21:32:40 27
+。。。
+
+21:32:42 DayNightCycle
+如果你在Python shell, IPython 或 jupyter notebook这种交互式执行环境中使用PyWebIO，你需要显式调用 show() 方法来显示输出:
+
+21:32:44 49
+对不起
+
+21:32:53 DayNightCycle
+我不知道它是什么意思
+
+21:32:53 27
+？？？
+
+21:32:55 ee
+揭示板
+
+21:33:08 49
+@ufvuy 现在就睡觉！
+
+21:33:08 27
+。。。
+
+21:33:09 DayNightCycle
+云上运行的云notebook也能输出吗
+
+21:33:09 bo_od
+hi
+
+21:33:09 junco
+hi
+
+21:33:09 ee
+HC-深夜路过
+
+21:33:09 eebot
+hello junco
+
+21:33:09 xfxlovezjy
+@chaniii 你电脑怎么登的vx？
+
+21:33:10 eebot
+已成功把ee的留言写到HC揭示板里
+
+21:33:12 5249
+?
+
+21:33:13 ufvuy
+这才乖
+
+21:33:21 ee
+揭示板 2022.04.03
+
+21:33:26 27
+我期待你的再次打脸@49 
+
+21:33:27 5249
+自导自演？
+
+21:33:33 27
+@5249 不是
+
+21:33:39 ufvuy
+我！21！
+
+21:33:48 27
+？？？
+
+21:34:04 ufvuy
+不是小学生！
+
+21:34:04 ufvuy
+是医生！
+
+21:34:05 eebot
+eebot赢了（
+
+21:34:10 5249
+什么东西？
+
+21:34:12 DayNightCycle
+@ufvuy 这么一说我好像见过你
+
+21:34:13 bo_od
+DayNightCycle棒棒
+
+21:34:13 chaniii
+@xfxlovezjy 好登录啊
+
+21:34:18 DayNightCycle
+我是4n0n4me
+
+21:34:23 ufvuy
+啊！
+
+21:34:24 chaniii
+扫一下嘛
+
+21:34:25 _ALUMINIUM__13_
+卧槽
+
+21:34:27 27
+。。。
+
+21:34:29 ufvuy
+我记得
+
+21:34:31 _ALUMINIUM__13_
+1292条信息
+
+21:34:39 ufvuy
+哈哈哈
+
+21:35:05 DayNightCycle
+虽然我很垃圾，但是我对你“要抓住能谈恋爱的机会”的观点印象深刻。
+
+21:35:06 ufvuy
+@DayNightCycle 你为什么换昵称了？
+
+21:35:16 bo_od
+hi
+
+21:35:17 eebot
+123!
+
+21:35:25 ji11
+;msg junco 给我活
+
+21:35:38 DayNightCycle
+因为我太魔怔了，和这里的一些用户有一些冲突
+
+21:35:42 DayNightCycle
+虽然现在暂时没有了
+
+21:35:50 DayNightCycle
+但是换个昵称可以让我的观感改变
+
+21:35:50 5249
+搞不懂
+
+21:36:14 ji11
+就是换个昵称重新做人
+
+21:36:16 27
+me，too
+
+21:36:18 ji11
+的意思吗）
+
+21:36:27 5249
+……
+
+21:36:35 DayNightCycle
+不，其实我心里最喜欢我原先的名字（
+
+21:36:50 DayNightCycle
+如果可以，我还是希望用原先的名字
+
+21:36:50 27
+ # @49 不管你在不在，但是我要说，我走了，拜拜
+
+21:36:56 27
+ # 各位，晚安
+
+21:37:01 ming
+晚安
+
+21:37:05 DayNightCycle
+因为现在这样，代价是一个还算不错的名字
+
+21:37:06 _ALUMINIUM__13_
+#bruhhhhhhhhhhhhhhhh
+
+21:37:07 bo_od
+Oops~ @bo_od又出bug啦!~[点击查看错误信息](https://cdn.mrpig.cf/traceback/1648993027171415.log)
+
+21:37:08 DayNightCycle
+收获也不大
+
+21:37:29 DayNightCycle
+还算不错的名字真正值得用的用途是，当我因为某种原因不下去了
+
+21:37:42 DayNightCycle
+我要真正换个名字，潜入
+
+21:37:49 DayNightCycle
+（
+
+21:38:08 ufvuy
+哈哈哈
+
+21:38:11 ji11
+你的语言风格太明显导致你一说话我就知道是你-
+
+21:38:12 bo_od
+hi
+
+21:38:12 eebot
+hey yo 5249
+
+21:38:15 ji11
+xd
+
+21:38:31 bo_od
+hi
+
+21:38:31 eebot
+5249!
+
+21:38:33 xfxlovezjy
+还有人吗？
+
+21:38:34 eebot
+我记得
+
+21:38:40 ming
+有
+
+21:38:44 bo_od
+hi
+
+21:38:44 eebot
+hey this is eebot
+
+21:38:44 DayNightCycle
+@ji11 唉，那我只能套个伪原创了（
+
+21:38:45 eebot
+想了解更多玩法 请输入「功能」
+
+21:38:48 ee
+揭示板
+
+21:38:57 ee
+HC-测试测试测试测试
+
+21:38:58 eebot
+已成功把ee的留言写到HC揭示板里
+
+21:39:00 ee
+揭示板
+
+21:39:38 5249
+既然人都跑了，那我也跑了。
+
+21:39:38 DayNightCycle
+揭示板
+
+21:39:53 DayNightCycle
+hcs %%%
+
+21:40:04 DayNightCycle
+hcs 2022.04.03
+
+21:41:13 ee
+E-大帅比 ee 你来辣
+
+21:41:13 eebot
+设置成功 将在下次进入聊天室时生效
+
+21:41:37 ming
+哈哈‘’
+
+21:41:50 bo_od
+hi
+
+21:41:50 eebot
+hey flaugh
+
+21:41:58 DayNightCycle
+E-111 222 333
+
+21:41:58 eebot
+设置成功 将在下次进入聊天室时生效
+
+21:42:04 DayNightCycle
+这个E是什么用的
+
+21:42:20 DayNightCycle
+自定义欢迎语吗（
+
+21:42:21 bo_od
+DayNightCycle是小天使
+
+21:42:27 ee
+是啊）
+
+21:42:34 bo_od
+hi
+
+21:42:34 eebot
+大帅比 ee 你来辣
+
+21:42:51 ee
+）））
+
+21:44:07 bo_od
+hi
+
+21:44:07 eebot
+hey yo flaugh
+
+21:44:07 bo_od
+hey yo flaugh
+
+21:44:12 bo_od
+hi
+
+21:44:12 eebot
+hey windows_0
+
+21:47:02 bo_od
+hi
+
+21:47:02 eebot
+hi 27
+
+21:47:02 27
+2
+
+21:47:06 ming
+hi
+
+21:47:06 eebot
+ming!
+
+21:47:13 27
+hi
+
+21:47:26 27
+我发现了一个很严重的问题
+
+21:47:29 ming
+嗯
+
+21:47:33 27
+我发现我睡不着
+
+21:47:35 27
+哈哈
+
+21:47:45 ming
+哈哈
+
+21:48:05 ji11
+E-hihi
+
+21:48:05 eebot
+设置成功 将在下次进入聊天室时生效
+
+21:48:09 ji11
+xd
+
+21:48:10 27
+我现在搞不清楚
+
+21:48:22 ji11
+我发现我写的功能半天磨出来还有bug
+
+21:48:26 27
+到底是追剧，还是聊天，还是打游戏
+
+21:48:30 27
+哈哈哈哈哈
+
+21:48:34 ji11
+ee大佬
+
+21:48:57 ming
+你追什么剧啊
+
+21:49:01 ming
+@27 
+
+21:49:12 ee
+不——我不是
+
+21:49:28 ee
+ji11大佬（确信
+
+21:49:52 ji11
+草
+
+21:50:03 ji11
+我的线程可以互相绊住xd
+
+21:50:03 bo_od
+我的线程可以互相绊住xd
+
+21:50:33 ming
+快十点了
+
+21:50:49 ee
+草
+
+21:50:50 ming
+睡觉了
+
+21:50:50 ming
+拜拜
+
+21:50:50 eebot
+凌晨
+
+21:50:50 ji11
+刚才就是示例
+
+21:50:51 ee
+BUG什么的 
+
+21:50:53 ee
+当然是选择和junco一起炖掉啦
+
+21:50:56 ji11
+;
+
+21:50:56 bo_od
+ji11是小天使
+
+21:50:57 ee
+（
+
+21:51:34 _ALUMINIUM__13_
+.
+
+21:51:34 eebot
+0.0
+
+21:51:42 _ALUMINIUM__13_
+我回来了（
+
+21:51:44 ji11
+所以线程越多，junco就越聋
+
+21:51:54 _ALUMINIUM__13_
+在这里挂了这么久
+
+21:52:03 ji11
+第二，羡慕了
+
+21:52:11 bo_od
+hi
+
+21:52:11 ee
+欢迎回来——
+
+21:52:12 eebot
+154!
+
+21:52:19 27
+@ming 额，电视剧
+
+21:52:23 _ALUMINIUM__13_
+12000多信息
+
+21:52:29 ee
+草
+
+21:52:33 _ALUMINIUM__13_
+hh
+
+21:52:38 ee
+总之我说不到两句话（
+
+21:52:49 27
+。。。
+
+21:53:29 _ALUMINIUM__13_
+谁玩网易版mc
+
+21:53:31 _ALUMINIUM__13_
+我这
+
+21:53:34 _ALUMINIUM__13_
+刚开
+
+21:54:09 flaugh
+9:53
+
+21:54:54 27
+。。。
+
+21:55:09 27
+我觉得了
+
+21:55:16 27
+边打游戏边聊天
+
+21:55:16 eebot
+hi
+
+21:56:22 bo_od
+hi
+
+21:56:22 eebot
+hi yo this is eebot
+
+21:56:23 eebot
+想了解更多玩法 请输入「功能」
+
+21:56:37 ee
+E-大帅比ee 你来辣
+
+21:56:37 eebot
+设置成功 将在下次进入聊天室时生效
+
+21:56:51 _ALUMINIUM__13_
+。
+
+21:57:35 ee
+我很久没玩mc了（
+
+21:57:48 flaugh
++1
+
+21:58:29 27
+有谁玩奇葩战斗家？？？
+
+21:58:44 bo_od
+hi
+
+21:58:44 eebot
+hey this is eebot
+
+21:58:45 eebot
+想了解更多玩法 请输入「功能」
+
+21:58:51 ee
+E-重置
+
+21:59:59 bo_od
+Sun Apr  3 22:00:00 2022
+
+22:00:07 bo_od
+![1648994401955507.png](https://cdn.mrpig.cf/1648994401955507.png)
+标题:スマイル漫画０２「スマイルＮｏ．１をねらえ！」
+作者:XYZ
+地址:https://www.pixiv.net/member_illust.php?mode=medium&illust_id=25055880
+相似度:48.66
+
+22:00:33 bo_od
+hi
+
+22:00:33 eebot
+hey Queen
+
+22:00:38 Queen
+hi
+
+22:00:43 Queen
+我想死你们了
+
+22:00:52 27
+。。。
+
+22:00:54 27
+哈哈哈
+
+22:01:14 bo_od
+hi
+
+22:01:14 eebot
+Detele_Maoming!
+
+22:01:18 27
+额
+
+22:01:19 Queen
+hi
+
+22:01:28 27
+hi
+
+22:01:28 eebot
+hey 27
+
+22:01:35 Detele_Maoming
+Queen
+
+22:01:38 Detele_Maoming
+hi
+
+22:01:41 Queen
+嗯？
+
+22:01:41 bo_od
+Queen棒棒
+
+22:01:47 Queen
+@bo_od 谢谢
+
+22:01:51 Detele_Maoming
+很久没见你来了
+
+22:01:58 Detele_Maoming
+@Queen 他是机器人
+
+22:01:59 Queen
+是的
+
+22:02:04 Queen
+最近好忙
+
+22:02:08 Detele_Maoming
+啊
+
+22:02:12 Queen
+我现在还在抄笔记
+
+22:02:19 Detele_Maoming
+你的识别码呢
+
+22:02:26 Detele_Maoming
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+22:02:27 eebot
+·
+Detele的网站
+http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html
+
+22:02:28 bo_od
+@Detele_Maoming 推荐了网页:[Detele的网站](http://adminsdetele.pc.evyundata.net/vip_adminsdetele.html)
+
+22:02:33 Queen
+懒得加了，嘿嘿嘿
+
+22:02:41 Detele_Maoming
+这是我的web
+
+22:02:45 Queen
+我知道他是机器人
+
+22:02:57 Detele_Maoming
+roll 白菜
+
+22:02:57 bo_od
+672
+
+22:02:59 Queen
+但还是要谢谢啊，它最直接啊
+
+22:03:05 Detele_Maoming
+ohhhhhhhhshit
+
+22:03:14 Detele_Maoming
+白菜672元
+
+22:03:24 Detele_Maoming
+飞机票白菜价
+
+22:03:30 Queen
+我能跟你重新自我介绍一下吗
+
+22:03:32 Queen
+@Detele_Maoming 
+
+22:03:58 bo_od
+hi
+
+22:03:59 eebot
+hi LuDoya
+
+22:04:00 Queen
+你好，我是一个时断时续的来了两年的萌新
+
+22:04:06 Detele_Maoming
+嗯哼
+
+22:04:10 bo_od
+hi
+
+22:04:10 eebot
+hi yo this is eebot
+
+22:04:10 Detele_Maoming
+好厉害啊
+
+22:04:10 eebot
+想了解更多玩法 请输入「功能」
+
+22:04:23 bo_od
+hi
+
+22:04:24 eebot
+hi LuDoYa
+
+22:04:26 LuDoYa
+hi
+
+22:04:27 Detele_Maoming
+我才是萌新
+
+22:04:29 Detele_Maoming
+hi
+
+22:04:30 eebot
+hey Detele_Maoming
+
+22:04:32 Detele_Maoming
+hi
+
+22:04:36 Queen
+我从我五年级来的
+
+22:04:36 Detele_Maoming
+huiiiiiiii
+
+22:04:46 Detele_Maoming
+ohhhh
+
+22:04:46 bo_od
+ohhhh
+
+22:04:48 LuDoYa
+wait am I talking to human rn?
+
+22:04:50 Detele_Maoming
+ohhhhhh
+
+22:22:52 bo_od
+hi
+
+22:22:52 eebot
+hi this is eebot
+
+22:22:52 eebot
+想了解更多玩法 请输入「功能」
+
+22:23:06 Queen
+@27 把话说完
+
+22:25:10 Queen
+没人了？……
+
+22:25:24 Queen
+又安静了？
+
+22:25:30 Queen
+什么？
+
+22:25:37 Queen
+怎么肥事
+
+22:25:38 Queen
+？
+
+22:26:51 27
+哈哈
+
+22:27:00 Queen
+你为啥不说话
+
+22:27:06 27
+打游戏啊
+
+22:27:06 Queen
+是不是打游戏输了
+
+22:27:06 27
+哈哈
+
+22:27:08 Queen
+生气了
+
+22:27:13 27
+没有没有
+
+22:27:13 Queen
+还是赢了
+
+22:27:15 27
+哈哈
+
+22:27:16 27
+输了
+
+22:27:16 Queen
+一激动
+
+22:27:18 27
+哈哈哈
+
+22:27:23 Queen
+就忘了说话了
+
+22:27:28 Queen
+好吧
+
+22:27:29 27
+哈哈
+
+22:27:39 27
+你不玩吗？
+
+22:27:43 27
+奇葩战斗家
+
+22:27:56 Queen
+我找找
+
+22:28:01 27
+哈哈哈
+
+22:28:03 Queen
+这个游戏我不玩
+
+22:28:29 27
+哦
+
+22:28:29 Queen
+我更适合和平
+
+22:28:29 Queen
+还有
+
+22:28:29 Queen
+光遇
+
+22:28:29 27
+有兴趣可以一起
+
+22:28:30 bo_od
+27棒棒
+
+22:28:30 Queen
+@27 OK
+
+22:28:30 eebot
+必须是叔叔的
+
+22:28:35 Queen
+@eebot ？
+
+22:30:25 Queen
+ee你这机器人是不是出问题了
+
+22:30:25 chaniii
+@Queen 好久不见
+
+22:30:47 chaniii
+人没几个了
+
+22:30:58 ji11
+@ee 
+
+22:30:59 27
+。。。
+
+22:31:04 ji11
+@ee @ee @ee @ee @ee @ee @ee @ee @ee @ee @ee @ee @ee @ee @ee @ee @ee 
+
+22:31:12 chaniii
+还是早上~~热闹~~
+
+22:31:16 ji11
+@ee eee
+
+22:31:17 27
+嗯
+
+22:31:19 27
+还可以
+
+22:31:21 bo_od
+hi
+
+22:31:21 eebot
+xes!
+
+22:31:30 ee
+@ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 @ji11 ji11
+
+22:31:32 xes
+Whrar hsha
+
+22:31:39 xes
+Hii
+
+22:31:43 ji11
+@ee 我笑傻了
+
+22:31:44 xes
+Kza ke raha hi
+
+22:31:46 ji11
+我傻了
+
+22:31:52 ee
+什么什么什么什么
+
+22:31:58 ji11
+xD
+
+22:31:59 ee
+（突然好奇
+
+22:32:19 xes
+Z
+
+22:32:21 xes
+Ghnk
+
+22:32:23 xes
+Tggj
+
+22:32:24 ee
+（盯——）
+
+22:32:25 xes
+Gzn
+
+22:32:26 eebot
+这个游戏我不玩
+
+22:32:30 xes
+Gffgb
+
+22:32:32 ji11
+我刚才断点调试才发现我的主线程和子线程看上去是交替进行
+
+22:32:39 ji11
+xdddddddddddddddddd
+
+22:32:45 ji11
+hhhhhhhhhhhhhhhhhhh
+
+22:32:52 ji11
+好鬼畜
+
+22:32:53 ee
+草
+
+22:32:59 ji11
+aaaaaaaaaaaaaaaaaaa
+
+22:33:02 ji11
+sbauigdyegaukhhuidlqgyg
+
+22:33:14 ee
+awslwsalslwalwslaws；
+
+22:33:19 ji11
+eeeeeeeeeeeaaeaaaaaaaaaaaaaaaaaaaaaaooooooooooooooooooooooooooo
+
+22:33:36 ji11
+莫名戳中我笑点
+
+22:33:48 ji11
+因为这样子junco看起来太傻了
+
+22:33:56 ji11
+看起来像一瘸一拐的走路
+
+22:34:00 ji11
+aaaaaaaaaaaaaae
+
+22:34:01 ee
+傻鸟junco哈哈哈哈哈哈哈哈草
+
+22:34:05 bo_od
+hi
+
+22:34:05 eebot
+hello bf
+
+22:34:08 ji11
+xD
+
+22:34:23 ee
+这显得有点呆
+
+22:34:26 bo_od
+hi
+
+22:34:26 eebot
+qwer_Sever!
+
+22:34:49 ji11
+对是的
+
+22:34:55 qwer_Sever
+都没睡？！
+
+22:34:59 bo_od
+hi
+
+22:34:59 ji11
+导致她只能间隔接受消息
+
+22:34:59 eebot
+hello 0521
+
+22:35:00 0521
+？
+
+22:35:01 qwer_Sever
+hi
+
+22:35:21 qwer_Sever
+哎？
+
+22:35:26 qwer_Sever
+人呢？
+
+22:35:31 27
+。。。
+
+22:35:34 27
+哈哈
+
+22:35:40 27
+玩游戏
+
+22:35:47 qwer_Sever
+都不睡觉吗
+
+22:35:53 qwer_Sever
+天
+
+22:35:58 0521
+什么只能间隔接受信息？
+
+22:36:00 ee
+~~junco很想在听老妈讲话的我~~
+
+22:36:05 ee
+~~junco很像在听老妈讲话的我~~
+
+22:36:06 qwer_Sever
+太痴迷了吧？
+
+22:36:10 ji11
+;;;;;
+
+22:36:12 ji11
+xd
+
+22:36:20 qwer_Sever
+：（
+
+22:36:31 0521
+@27 你这名...
+
+22:36:34 ee
+哈哈哈哈哈哈哈哈
+
+22:36:39 qwer_Sever
+？
+
+22:36:43 ji11
+其实说到底应该还是变量名重复的问题（看起来像至少
+
+22:36:54 0521
+@27 怎么那么熟悉
+
+22:37:00 qwer_Sever
+昂
+
+22:37:01 ji11
+昨天说要改但是没改
+
+22:37:11 0521
+@27 再吗
+
+22:38:55 qwer_Sever
+@0521 当然熟悉
+
+22:38:56 qwer_Sever
+@0521 他成天来
+
+22:38:57 qwer_Sever
+哈哈哈
+
+22:39:20 0521
+@qwer_Sever 哦
+
+22:39:21 ee
+~~明天改吧~~现在就改
+
+22:39:21 qwer_Sever
+还成天被盗号
+
+22:39:21 ji11
+我痛苦极了
+
+22:39:21 0521
+@qwer_Sever 他就不怕得脑癌？
+
+22:39:22 ji11
+我要在我的变量堆里找重复的
+
+22:39:22 27
+哈哈
+
+22:39:22 qwer_Sever
+@0521 谁知道，哈哈哈
+
+22:39:23 ee
+摸摸ji11（
+
+22:39:23 bo_od
+hi
+
+22:39:23 ijnb
+hi
+
+22:39:23 ijnb
+都在阿
+
+22:39:24 0521
+@27 49呢
+
+22:39:24 ee
+功能
+
+22:39:24 qwer_Sever
+。。。
+
+22:39:25 eebot
+笑什么笑！丑八怪！）
+
+22:39:25 0521
+@27 49呢
+
+22:39:25 eebot
+hey ijnb
+
+22:39:32 0521
+@27 49呢！！！
+
+22:39:40 ee
+wel
+
+22:39:43 qwer_Sever
+@27 49呢！！！
+
+22:39:47 ee
+ees
+
+22:39:49 qwer_Sever
+@27 49呢！！！
+
+22:39:54 qwer_Sever
+哈哈哈
+
+22:40:03 0521
+@qwer_Sever ？？？
+
+22:40:05 ji11
+[![qHlVnx.png](https://s1.ax1x.com/2022/04/03/qHlVnx.png)](https://imgtu.com/i/qHlVnx)
+
+22:40:26 ee
+草
+
+22:40:27 0521
+@ji11 ？？？
+
+22:40:30 qwer_Sever
+@0521 没事，我就笑笑
+
+22:40:30 bo_od
+hi
+
+22:40:30 eebot
+hey ali
+
+22:40:41 ClearColdWater
+@ji11 
+
+22:40:44 ji11
+@ClearColdWater 
+
+22:41:01 bo_od
+hi
+
+22:41:01 27
+@qwer_Sever 你妹睡了？？
+
+22:41:01 eebot
+49!
+
+22:41:02 ji11
+屎山堆屎（再次
+
+22:41:03 ClearColdWater
+我要疯了：
+
+22:41:04 27
+额
+
+22:41:04 49
+。。。
+
+22:41:06 27
+哈哈
+
+22:41:09 bo_od
+hi
+
+22:41:09 eebot
+hi yo 0521
+
+22:41:12 ClearColdWater
+同步数学考试
+
+22:41:13 49
+我来的真实时候
+
+22:41:14 eebot
+我来的真实时候
+
+22:41:16 ClearColdWater
+平面几何
+
+22:41:19 27
+哈哈哈哈
+
+22:41:21 qwer_Sever
+AFK
+
+22:41:21 bo_od
+@qwer_Sever is now AFK.
+
+22:41:22 ClearColdWater
+我一个都不会做
+
+22:41:22 27
+@49 确实啊
+
+22:41:25 ji11
+D:
+
+22:41:27 49
+嗯
+
+22:41:28 27
+@49 你咋还没睡
+
+22:41:37 49
+睡不着
+
+22:41:37 ji11
+你这短板太短了
+
+22:41:41 27
+哈哈哈
+
+22:41:43 27
+彼此彼此
+
+22:41:44 49
+想你了
+
+22:41:47 27
+。。。
+
+22:41:51 27
+哈哈
+
+22:42:06 qwer_Sever
+（看不见我）
+
+22:42:06 bo_od
+@qwer_Sever is no longer AFK. Welcome Back!
+
+22:42:10 27
+哈哈哈
+
+22:42:12 qwer_Sever
+AFK
+
+22:42:12 bo_od
+@qwer_Sever is now AFK.
+
+22:42:14 49
+。。。
+
+22:42:23 49
+害
+
+22:42:27 27
+？？
+
+22:42:32 ClearColdWater
+按照我的做法（解析几何解法），这个题目可以直接丢到高考填空压轴
+
+22:42:36 49
+困啊
+
+22:42:39 ji11
+;;;;
+
+22:42:49 27
+哈哈
+
+22:42:52 ClearColdWater
+但是显然他们都会做
+
+22:43:01 49
+睡不着
+
+22:43:42 ClearColdWater
+（你教我
+
+22:43:42 49
+想27
+
+22:43:43 49
+呜呜呜
+
+22:43:43 ji11
+题目拿来-
+
+22:43:43 27
+哈哈哈
+
+22:43:43 49
+鉿
+
+22:43:43 eebot
+那就聊会天吧
+
+22:43:50 27
+oko
+
+22:43:54 49
+27~抱抱我
+
+22:44:00 49
+呜
+
+22:44:05 qwer_Sever
+。。。
+
+22:44:06 bo_od
+@qwer_Sever is no longer AFK. Welcome Back!
+
+22:44:11 27
+啊啊啊
+
+22:44:14 27
+哈哈哈
+
+22:44:19 qwer_Sever
+又回原形了
+
+22:44:31 qwer_Sever
+形象不要了？
+
+22:44:36 49
+不要了
+
+22:44:37 ClearColdWater
+如果像我这样的三元二次方程
+
+22:44:44 qwer_Sever
+。。。
+
+22:44:46 27
+哈哈哈
+
+22:44:51 qwer_Sever
+真奶
+
+22:44:55 27
+哈哈哈哈哈
+
+22:44:56 49
+哼
+
+22:45:01 qwer_Sever
+AFK
+
+22:45:02 bo_od
+@qwer_Sever is now AFK.
+
+22:45:08 ClearColdWater
+或者超大三角函数疯狂堆叠
+
+22:45:27 qwer_Sever
+AFK 论妹妹太奶了怎么办？
+
+22:45:27 bo_od
+@qwer_Sever is no longer AFK. Welcome Back!
+
+22:45:27 bo_od
+@qwer_Sever is now 论妹妹太奶了怎么办？.
+
+22:45:33 49
+。。。
+
+22:45:48 ClearColdWater
+干脆直接变成竞赛题——
+
+22:46:03 49
+哈哈哈
+
+22:46:04 27
+哈哈哈哈
+
+22:46:04 eebot
+不要了
+
+22:46:11 ji11
+;
+
+22:46:22 bo_od
+hi
+
+22:46:23 eebot
+bf!
+
+22:46:23 bo_od
+bf!
+
+22:46:28 bf
+？
+
+22:46:34 27
+我昨晚追剧追到12点
+
+22:46:35 27
+哈哈
+
+22:46:38 49
+AFK 论哥哥太绿了怎么办？
+
+22:46:38 bo_od
+@49 is now 论哥哥太绿了怎么办？.
+
+22:46:44 27
+。。。
+
+22:46:47 qwer_Sever
+？？？
+
+22:46:48 bo_od
+@qwer_Sever is no longer 论妹妹太奶了怎么办？. Welcome Back!
+
+22:46:50 qwer_Sever
+换！
+
+22:47:03 qwer_Sever
+AFK 论妹妹太奶了怎么办？
+
+22:47:03 bo_od
+@qwer_Sever is now 论妹妹太奶了怎么办？.
+
+22:47:06 49
+。。。
+
+22:47:06 bo_od
+@49 is no longer 论哥哥太绿了怎么办？. Welcome Back!
+
+22:47:09 27
+哈哈哈哈哈哈哈哈哈哈
+
+22:47:14 bo_od
+hi
+
+22:47:15 eebot
+wu!
+
+22:48:04 27
+哈哈
+
+22:48:31 wu
+明天我会随机盗取一个人的号，并且连识别码，会一起盗走
+
+22:48:38 49
+AFK 论我的哥哥真的是学校中万千女生眼中的高冷男神吗？
+
+22:48:38 bo_od
+@49 is now 论我的哥哥真的是学校中万千女生眼中的高冷男神吗？.
+
+22:48:41 27
+好要脸
+
+22:48:50 wu
+但是
+
+22:48:59 qwer_Sever
+是的
+
+22:48:59 ClearColdWater
+@ji11 丢给你啦
+
+22:49:00 bo_od
+@qwer_Sever is no longer 论妹妹太奶了怎么办？. Welcome Back!
+
+22:49:05 wu
+不会盗取带有数字的名字
+
+22:49:06 27
+。。。
+
+22:49:13 27
+哈哈哈
+
+22:49:17 bf
+？
+
+22:49:30 bf
+我去换个名字
+
+22:49:30 ee
+别走啊喂 
+
+22:49:31 qwer_Sever
+我有危险
+
+22:49:32 ee
+盗我的吧
+
+22:49:47 bo_od
+hi
+
+22:49:48 eebot
+hi 01
+
+22:49:52 01
+我回来了
+
+22:49:56 27
+49还在？？？
+
+22:50:00 bo_od
+hi
+
+22:50:01 eebot
+hi 154
+
+22:50:05 01
+这样就不会被盗号了
+
+22:50:09 27
+。。。
+
+22:50:36 27
+。。。
+
+22:50:40 27
+49呢？
+
+22:51:30 bo_od
+hi
+
+22:51:30 eebot
+hey stone
+
+22:51:51 27
+。。。
+
+22:51:57 27
+49睡了啊？？？
+
+22:53:45 qwer_Sever
+？
+
+22:53:46 27
+他人呢
+
+22:53:46 bo_od
+hi
+
+22:53:46 27
+？？？
+
+22:53:46 49
+？？？
+
+22:53:47 27
+what are you doing
+
+22:53:47 49
+卡斯勒
+
+22:53:47 27
+哈哈
+
+22:53:47 49
+emmm
+
+22:53:47 27
+。。。
+
+22:53:47 49
+你欺负人
+
+22:53:47 49
+呜呜呜
+
+22:53:48 qwer_Sever
+？
+
+22:53:48 27
+我昨晚熬到12点
+
+22:53:48 27
+谁啊
+
+22:53:48 qwer_Sever
+@49 你...睡迷糊了？
+
+22:53:49 49
+。。。
+
+22:53:49 eebot
+49!
+
+22:53:49 49
+没！
+
+22:53:49 49
+？
+
+22:53:59 49
+？？？
+
+22:54:21 27
+。。。
+
+22:54:56 bo_od
+hi
+
+22:54:56 eebot
+hey x
+
+22:55:02 27
+。。。
+
+22:55:03 49
+。。。
+
+22:55:06 27
+？？？
+
+22:55:08 49
+？？？
+
+22:55:13 27
+这么巧，还是。。。
+
+22:55:23 49
+。。。
+
+22:55:27 49
+不知道
+
+22:55:28 eebot
+不知道
+
+22:55:30 27
+。。。
+
+22:55:45 49
+可能真的...睡迷糊了
+
+22:55:50 27
+哈哈哈
+
+22:56:04 49
+咍
+
+22:56:12 49
+困啊
+
+22:56:23 27
+。。。
+
+22:56:41 49
+你追什么剧？
+
+22:56:47 49
+等等！
+
+22:56:50 27
+哈哈哈
+
+22:57:12 49
+我追的番好像今天更新？！
+
+22:57:18 49
+啊啊啊啊啊啊啊啊啊！
+
+22:57:26 27
+哈哈哈
+
+22:57:29 49
+抢沙发了！
+
+22:57:35 27
+。。。
+
+22:57:45 bo_od
+hi
+
+22:57:45 eebot
+154!
+
+22:57:55 27
+@49 你打算几点睡
+
+22:58:29 49
+不知道
+
+22:58:50 bo_od
+hi
+
+22:58:50 eebot
+hi ZakariyaJamutv
+
+22:59:01 27
+@49 好吧好吧
+
+22:59:14 ZakariyaJamutv
+Hack Roblox.com brookhaven
+
