@@ -1,0 +1,1594 @@
+[2023-08-29 20:00:38] [INFO] Initializing kernel
+[2023-08-29 20:00:38] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-29 20:00:38] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-29 20:00:38] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-29 20:00:39] [INFO] 15 command module(s) will be initialized
+[2023-08-29 20:00:39] [INFO] Initialized allmsg.js
+[2023-08-29 20:00:39] [INFO] Initialized ban.js
+[2023-08-29 20:00:39] [INFO] Initialized block.js
+[2023-08-29 20:00:39] [INFO] Initialized clearmsg.js
+[2023-08-29 20:00:39] [INFO] Initialized gpt.js
+[2023-08-29 20:00:39] [INFO] Initialized help.js
+[2023-08-29 20:00:39] [INFO] Initialized kick.js
+[2023-08-29 20:00:39] [INFO] Initialized listban.js
+[2023-08-29 20:00:39] [INFO] Initialized msg.js
+[2023-08-29 20:00:39] [INFO] Initialized op.js
+[2023-08-29 20:00:39] [INFO] Initialized read.js
+[2023-08-29 20:00:39] [INFO] Initialized reload.js
+[2023-08-29 20:00:39] [INFO] Initialized stop.js
+[2023-08-29 20:00:39] [INFO] Initialized unban.js
+[2023-08-29 20:00:39] [INFO] Initialized version.js
+[2023-08-29 20:00:39] [INFO] Initialized 15 command(s)
+[2023-08-29 20:00:39] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-29 20:00:39] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-29 20:00:39] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-29 20:00:39] [INFO] Added a hook for chat, the level is 25
+[2023-08-29 20:00:39] [INFO] Kernel initialization completed
+[2023-08-29 20:00:40] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-29 20:00:40] [INFO] Joining to ?your-channel
+[2023-08-29 20:00:41] [INFO] Users online: 24abot_ycpJA, MaggieRecordV25172, mbot, AfK_Bot, Dr_Doppelglower, D, TheBigPig, 4n0n4me, RrrreVerKusSls, hsrtes, Jankieee, goingforoi, awa_ya_fuck_bigpig, MrZhang365, 23EveryoneFuckYouNow, tim_, UselessBot
+[2023-08-29 20:00:41] [INFO] awa_ya_fuck_bigpig#tV7rnn: 这不是UselessBot吗~
+[2023-08-29 20:00:44] [INFO] Jankieee#aiwLKl: 现在是超新星纪元
+[2023-08-29 20:00:48] [INFO] 23EveryoneFuckYouNow left
+[2023-08-29 20:00:57] [INFO] Jankieee#aiwLKl: @MrZhang365 你看过超新星纪元吗(
+[2023-08-29 20:00:59] [INFO] NTDLLBotV2 joined
+[2023-08-29 20:01:03] [INFO] Jankieee#aiwLKl: 换家
+[2023-08-29 20:01:07] [INFO] Jankieee#aiwLKl: ;hasn NTDLLBotV2
+[2023-08-29 20:01:07] [INFO] awa_ya_fuck_bigpig#tV7rnn: 23EveryoneFuckYouNow，NTDLLBotV2
+[2023-08-29 20:01:07] [INFO] MrZhang365#vtFJUL: sorry, but 403 拒绝回答
+[2023-08-29 20:01:11] [INFO] Jankieee#aiwLKl: 哦
+[2023-08-29 20:01:12] [INFO] MrZhang365#vtFJUL: reason: spam
+[2023-08-29 20:01:18] [INFO] NTDLLBotV2 left
+[2023-08-29 20:01:22] [INFO] RrrreVerKusSls#S8mDzq: 不是
+[2023-08-29 20:01:29] [INFO] RrrreVerKusSls#S8mDzq: 你们没感觉到很怪吗
+[2023-08-29 20:01:31] [INFO] Jankieee#aiwLKl: 看见NTDLL
+[2023-08-29 20:01:32] [INFO] BootmgrIsMissing joined
+[2023-08-29 20:01:32] [INFO] awa_ya_fuck_bigpig#tV7rnn: hihih
+[2023-08-29 20:01:35] [INFO] Jankieee#aiwLKl: 看见NTDLL
+[2023-08-29 20:01:37] [INFO] Jankieee#aiwLKl: 我想起来
+[2023-08-29 20:01:40] [INFO] Jankieee#aiwLKl: 我的miniNT内核
+[2023-08-29 20:01:44] [INFO] Jankieee#aiwLKl: dll加载还没写
+[2023-08-29 20:01:46] [INFO] Jankieee#aiwLKl: 草
+[2023-08-29 20:01:52] [INFO] BootmgrIsMissing left
+[2023-08-29 20:02:02] [INFO] Jankieee#aiwLKl: 一点不mini了 2klines
+[2023-08-29 20:02:07] [INFO] goingforoi#uj/u7q: 我想起了我的电脑bootmgr is compressed
+[2023-08-29 20:02:10] [INFO] TrustedInstaller joined
+[2023-08-29 20:02:11] [INFO] awa_ya_fuck_bigpig#tV7rnn: 早上好，TrustedInstaller!
+[2023-08-29 20:02:53] [INFO] Jankieee#aiwLKl: @404
+[2023-08-29 20:02:56] [INFO] TrustedInstaller#: ;repl 6 23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼
+[2023-08-29 20:02:56] [INFO] awa_ya_fuck_bigpig#tV7rnn: 添加成功(☆▽☆)
+[2023-08-29 20:02:57] [INFO] TrustedInstaller#: ;repl 666 23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼23是傻逼
+[2023-08-29 20:02:57] [INFO] awa_ya_fuck_bigpig#tV7rnn: 添加成功(☆▽☆)
+[2023-08-29 20:02:57] [INFO] AfK_Bot#AAfFKK:  @TrustedInstaller AKKKKK!!!!!
+[2023-08-29 20:02:58] [INFO] TrustedInstaller left
+[2023-08-29 20:02:58] [INFO] Server: Kicked TrustedInstaller
+[2023-08-29 20:02:59] [INFO] MrZhang365#vtFJUL: 日
+[2023-08-29 20:03:08] [INFO] goingforoi#uj/u7q: 6
+[2023-08-29 20:03:08] [INFO] awa_ya_fuck_bigpig#tV7rnn: 216
+[2023-08-29 20:03:11] [INFO] Jankieee#aiwLKl: 如何评价你方成员BigPig spam我不止一次而且多次人身攻击我
+[2023-08-29 20:03:17] [INFO] TheBigPig#HKhI7r: ...
+[2023-08-29 20:03:32] [INFO] 4n0n4me#Myh1TA: @TheBigPig 别刷屏
+[2023-08-29 20:03:35] [INFO] TheBigPig#HKhI7r: ok
+[2023-08-29 20:03:37] [INFO] Jankieee#aiwLKl: spam看完了
+[2023-08-29 20:03:39] [INFO] Jankieee#aiwLKl: 后面的呢
+[2023-08-29 20:03:50] [INFO] Jankieee#aiwLKl: 我第一次来yc发的时候是立即处死的哦
+[2023-08-29 20:03:56] [INFO] Jankieee#aiwLKl: ~kick 23
+[2023-08-29 20:04:00] [INFO] RrrreVerKusSls#S8mDzq: em
+[2023-08-29 20:04:03] [INFO] RrrreVerKusSls#S8mDzq: 奇怪
+[2023-08-29 20:04:10] [INFO] RrrreVerKusSls#S8mDzq: 厕所bianc饭堂了
+[2023-08-29 20:04:17] [INFO] Jankieee#aiwLKl: 好好好 你们双标我管不到👉😀
+[2023-08-29 20:04:28] [INFO] 4n0n4me#Myh1TA: >aiwLKl Jankieee：
+[2023-08-29 20:04:28] [INFO] >我第一次来yc发的时候是立即处死的哦
+[2023-08-29 20:04:28] [INFO] 
+[2023-08-29 20:04:28] [INFO] @Jankieee em
+[2023-08-29 20:04:28] [INFO] awa_ya_fuck_bigpig#tV7rnn: &#8205;@awa_ya_fuck_bigpig 23 
+[2023-08-29 20:04:37] [INFO] 4n0n4me#Myh1TA: Bot遗留问题罢了
+[2023-08-29 20:04:42] [INFO] mbSystem10_0 joined
+[2023-08-29 20:04:42] [INFO] awa_ya_fuck_bigpig#tV7rnn: 出现了，mbSystem10_0!
+[2023-08-29 20:04:46] [INFO] MrZhang365#vtFJUL: ^stop
+[2023-08-29 20:04:46] [INFO] MrZhang365#vtFJUL is running stop command, args: ^stop
+[2023-08-29 20:04:46] [INFO] UselessBot#vtFJUL: @MrZhang365 我将在5秒后停止运行
+[2023-08-29 20:04:47] [INFO] awa_ya_fuck_bigpig#tV7rnn: &#8205;;fuck 
+[2023-08-29 20:04:51] [INFO] Stopping kernel, code: 0
+[2023-08-29 20:04:56] [INFO] Initializing kernel
+[2023-08-29 20:04:56] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-29 20:04:56] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-29 20:04:56] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-29 20:04:56] [INFO] 15 command module(s) will be initialized
+[2023-08-29 20:04:56] [INFO] Initialized allmsg.js
+[2023-08-29 20:04:56] [INFO] Initialized ban.js
+[2023-08-29 20:04:56] [INFO] Initialized block.js
+[2023-08-29 20:04:56] [INFO] Initialized clearmsg.js
+[2023-08-29 20:04:56] [INFO] Initialized gpt.js
+[2023-08-29 20:04:56] [INFO] Initialized help.js
+[2023-08-29 20:04:56] [INFO] Initialized kick.js
+[2023-08-29 20:04:56] [INFO] Initialized listban.js
+[2023-08-29 20:04:56] [INFO] Initialized msg.js
+[2023-08-29 20:04:56] [INFO] Initialized op.js
+[2023-08-29 20:04:56] [INFO] Initialized read.js
+[2023-08-29 20:04:56] [INFO] Initialized reload.js
+[2023-08-29 20:04:56] [INFO] Initialized stop.js
+[2023-08-29 20:04:56] [INFO] Initialized unban.js
+[2023-08-29 20:04:56] [INFO] Initialized version.js
+[2023-08-29 20:04:56] [INFO] Initialized 15 command(s)
+[2023-08-29 20:04:56] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-29 20:04:56] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-29 20:04:56] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-29 20:04:56] [INFO] Added a hook for chat, the level is 25
+[2023-08-29 20:04:56] [INFO] Kernel initialization completed
+[2023-08-29 20:04:57] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-29 20:04:57] [INFO] Joining to ?lounge
+[2023-08-29 20:04:57] [INFO] Users online: if_awa, mbot, modern460, AfK, Radium, NokiaHC51941, Dr_Doppelglower, gaguoi, BeiChen, ReModBot, RadiumBot, 4n0n4me, MrZhang365, RrrreVerKusSls__, OneGPT, UselessBot
+[2023-08-29 20:04:58] [INFO] OneGPT#foMeFv: 欢迎！UselessBot
+[2023-08-29 20:04:58] [INFO] if_awa#IfAWAS: 你好诶，UselessBot，新的一天也要加油哦！
+[2023-08-29 20:05:03] [INFO] RrrreVerKusSls__#S8mDzq: wow
+[2023-08-29 20:05:04] [INFO] Radium#0/JM7u: ^
+[2023-08-29 20:05:04] [INFO] UselessBot#vtFJUL: @Radium 抱歉，这好像不在我的工作范围之内。
+[2023-08-29 20:05:05] [INFO] if_awa#IfAWAS: 是这样的
+[2023-08-29 20:05:05] [INFO] RadiumBot#0/JM7u: @if_awa 
+[2023-08-29 20:05:06] [INFO] if_awa#IfAWAS: 想下象棋吗？发送菜单看看？
+[2023-08-29 20:05:08] [INFO] MrZhang365#vtFJUL: send ^help to use
+[2023-08-29 20:05:14] [INFO] letmeinplease joined
+[2023-08-29 20:05:14] [INFO] letmeinplease left
+[2023-08-29 20:05:14] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:05:15] [INFO] if_awa#IfAWAS: hello, letmeinplease
+[2023-08-29 20:05:15] [INFO] RadiumBot#0/JM7u: @if_awa 
+[2023-08-29 20:05:15] [INFO] Radium#0/JM7u: \^_^
+[2023-08-29 20:05:15] [INFO] if_awa#IfAWAS: #
+[2023-08-29 20:05:16] [INFO] OneGPT#foMeFv: letmeinplease,要向未来看，不要抱怨过去。
+[2023-08-29 20:05:19] [INFO] letmeinplease joined
+[2023-08-29 20:05:20] [INFO] letmeinplease left
+[2023-08-29 20:05:20] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:05:20] [INFO] if_awa#IfAWAS: letmeinplease!
+[2023-08-29 20:05:21] [INFO] OneGPT#foMeFv: letmeinplease,当爱情不在的时候，请对他说声祝福，毕竟，曾经爱过。
+[2023-08-29 20:05:25] [INFO] MrZhang365#vtFJUL: ^op
+[2023-08-29 20:05:25] [INFO] MrZhang365#vtFJUL is running op command, args: ^op
+[2023-08-29 20:05:26] [INFO] UselessBot#vtFJUL: @MrZhang365 协管列表：
+[2023-08-29 20:05:32] [INFO] RrrreVerKusSls__#S8mDzq: 奇怪
+[2023-08-29 20:05:35] [INFO] MrZhang365#vtFJUL: ~~nobody~~
+[2023-08-29 20:05:35] [INFO] ReModBot#0/JM7u: What the fuck do you want to do.
+[2023-08-29 20:05:39] [INFO] RrrreVerKusSls__#S8mDzq: ice炸的吗
+[2023-08-29 20:05:40] [INFO] Radium#0/JM7u: ^_\^
+[2023-08-29 20:05:40] [INFO] UselessBot#vtFJUL: @Radium 抱歉，这好像不在我的工作范围之内。
+[2023-08-29 20:05:43] [INFO] RrrreVerKusSls__#S8mDzq: 还是给我撤掉了
+[2023-08-29 20:05:43] [INFO] Radium#0/JM7u: ind
+[2023-08-29 20:06:03] [INFO] RrrreVerKusSls__#S8mDzq: 我倾向于ice炸的
+[2023-08-29 20:07:24] [INFO] MrZhang365#vtFJUL: awa
+[2023-08-29 20:07:25] [INFO] if_awa#IfAWAS: nwn
+[2023-08-29 20:07:27] [INFO] Radium#0/JM7u: 这里的lo早就不是之前的lo了
+[2023-08-29 20:07:27] [INFO] MrZhang365#vtFJUL: 突然冷了
+[2023-08-29 20:08:07] [INFO] RrrreVerKusSls__#S8mDzq: 离谱
+[2023-08-29 20:08:14] [INFO] RrrreVerKusSls__#S8mDzq: 我说为什么我这个号的lo协管没了
+[2023-08-29 20:09:55] [INFO] RrrreVerKusSls__#S8mDzq: 不是
+[2023-08-29 20:10:00] [INFO] RrrreVerKusSls__#S8mDzq: 这几天
+[2023-08-29 20:10:05] [INFO] RrrreVerKusSls__#S8mDzq: 怎么这么离谱
+[2023-08-29 20:10:11] [INFO] Dr_Doppelglower#AAfFKK: normal
+[2023-08-29 20:10:16] [INFO] Dr_Doppelglower#AAfFKK: school
+[2023-08-29 20:10:16] [INFO] if_awa#IfAWAS: &#8205;我一个人，蹑手蹑脚
+[2023-08-29 20:10:50] [INFO] letmeinplease joined
+[2023-08-29 20:10:51] [INFO] letmeinplease left
+[2023-08-29 20:10:52] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:10:52] [INFO] if_awa#IfAWAS: @letmeinplease 您好，您看上去挺面善的~
+[2023-08-29 20:10:52] [INFO] 最近您会因为诸事不如意而感到沮丧吗？
+[2023-08-29 20:10:52] [INFO] 别担心！和我们一起追随勇士战神吧！这样定能一帆风顺！
+[2023-08-29 20:10:52] [INFO] OneGPT#foMeFv: letmeinplease,好好享受，每一个明天吧。
+[2023-08-29 20:10:57] [INFO] letmeinplease joined
+[2023-08-29 20:10:58] [INFO] letmeinplease left
+[2023-08-29 20:10:58] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:10:58] [INFO] if_awa#IfAWAS: 这不是letmeinplease吗~
+[2023-08-29 20:10:58] [INFO] OneGPT#foMeFv: letmeinplease,心中有恶，就会心神不宁，去恶念。
+[2023-08-29 20:10:58] [INFO] RadiumBot#0/JM7u: @OneGPT 
+[2023-08-29 20:11:01] [INFO] OneGPT#foMeFv: RadiumBot，抱歉，我还是不太明白你的回答和上下文之间的联系。请问你有什么问题或者需要我的帮助吗？
+[2023-08-29 20:11:05] [INFO] DIE_3 joined
+[2023-08-29 20:11:06] [INFO] DIE_3#btkQCn: 嗨、嗨，大家好啊~这里是新来的bot233bot，请多多指教ᕕ( ᐛ )ᕗ~发送 菜单 可以了解我的功能哦
+[2023-08-29 20:11:06] [INFO] ~Hello hello everyone! Here’s 233bot, a new bot, looking for more advice ᕕ( ᐛ )ᕗ. Send menu to learn more!
+[2023-08-29 20:11:06] [INFO] OneGPT#foMeFv: 欢迎！DIE_3
+[2023-08-29 20:11:06] [INFO] if_awa#IfAWAS: Welcome, DIE_3!
+[2023-08-29 20:11:06] [INFO] DIE_3#btkQCn: 虽然ICE开轰炸机并不是我支持的,但是如果您不unban我我可以考虑再次加入他
+[2023-08-29 20:11:07] [INFO] if_awa#IfAWAS: OneGPT是小天使
+[2023-08-29 20:11:23] [INFO] Radium#0/JM7u: ~ban DIE_#
+[2023-08-29 20:11:25] [INFO] Radium#0/JM7u: ~ban DIE_3
+[2023-08-29 20:11:25] [INFO] DIE_3 left
+[2023-08-29 20:11:25] [INFO] Server: Kicked DIE_3
+[2023-08-29 20:11:57] [INFO] MrZhang365#vtFJUL: ~help
+[2023-08-29 20:11:57] [INFO] ReModBot#0/JM7u: What the fuck do you want to do.
+[2023-08-29 20:11:59] [INFO] MrZhang365#vtFJUL: az
+[2023-08-29 20:12:00] [INFO] if_awa#IfAWAS: MrZhang365棒棒
+[2023-08-29 20:12:27] [INFO] MrZhang365#vtFJUL: ^gpt sb
+[2023-08-29 20:12:27] [INFO] MrZhang365#vtFJUL is running gpt command, args: ^gpt sb
+[2023-08-29 20:12:30] [INFO] UselessBot#vtFJUL: @MrZhang365 很抱歉，我无法继续回答或响应非友善的言语。如果您有其他问题或需要帮助，请随时告诉我。
+[2023-08-29 20:12:34] [INFO] Radium#0/JM7u: 6
+[2023-08-29 20:12:34] [INFO] if_awa#IfAWAS: 陆
+[2023-08-29 20:12:35] [INFO] RadiumBot#0/JM7u: @if_awa 
+[2023-08-29 20:12:35] [INFO] if_awa#IfAWAS: 落入他人之手的你会变得不幸
+[2023-08-29 20:12:41] [INFO] MrZhang365#vtFJUL: ^gptcmd reset
+[2023-08-29 20:12:42] [INFO] UselessBot#vtFJUL: @MrZhang365 抱歉，这好像不在我的工作范围之内。
+[2023-08-29 20:12:43] [INFO] RrrreVerKusSls__#S8mDzq: 妈的
+[2023-08-29 20:12:47] [INFO] MrZhang365#vtFJUL: 草 这个还没加
+[2023-08-29 20:12:49] [INFO] Radium#0/JM7u: ^gpt 如何评价在聊天室开轰炸机
+[2023-08-29 20:12:49] [INFO] Radium#0/JM7u is running gpt command, args: ^gpt 如何评价在聊天室开轰炸机
+[2023-08-29 20:12:52] [INFO] RrrreVerKusSls__#S8mDzq: 草
+[2023-08-29 20:12:52] [INFO] UselessBot#vtFJUL: @Radium 在聊天室开轰炸机是一种不负责任和危险的行为，严重干扰了正常的沟通和交流环境。开轰炸机指的是发送大量垃圾消息或恶意内容，以破坏聊天室的秩序和平衡。
+[2023-08-29 20:12:52] [INFO] 
+[2023-08-29 20:12:52] [INFO] 这种行为不仅违反了聊天室的规定，也可能侵犯其他用户的权益，造成恶劣的影响。在互联网社区中，我们应该尊重他人，维护良好的网络环境，促进友好和谐的互动。
+[2023-08-29 20:12:52] [INFO] 
+[2023-08-29 20:12:52] [INFO] 如果遇到在聊天室中有人开轰炸机的情况，建议及时向管理员或平台客服举报，以维护聊天室的秩序和安全。同时，我们作为聊天室的使用者，也要自觉遵守相关规定，保持良好的网络素养和礼貌，共同营造一个健康、积极的在线交流环境。
+[2023-08-29 20:13:14] [INFO] letmeinplease joined
+[2023-08-29 20:13:14] [INFO] letmeinplease left
+[2023-08-29 20:13:14] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:13:14] [INFO] if_awa#IfAWAS: letmeinplease!
+[2023-08-29 20:13:15] [INFO] OneGPT#foMeFv: letmeinplease,东西虽然丢了，就算它再珍贵又有何防，毕竟咱人是好好的，懂吗？这叫“留着青山在，不怕没柴烧”。希望这件事情不会再影响到你的心情。
+[2023-08-29 20:13:21] [INFO] letmeinplease joined
+[2023-08-29 20:13:21] [INFO] letmeinplease left
+[2023-08-29 20:13:21] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:13:21] [INFO] if_awa#IfAWAS: 这不是letmeinplease吗~
+[2023-08-29 20:13:23] [INFO] OneGPT#foMeFv: letmeinplease,吃亏的事情经常会发生，但要坚信人生总是相对公平的。假如自己处处精明，时时准备去算计别人，总爱占别人的便宜，其实吃亏最大的还是自己。何必分秒计算盈亏，多一点给予，少一点索取。吃亏能够给自己带来美名，而爱占便宜会败坏自己的名誉。
+[2023-08-29 20:13:35] [INFO] RadiumBot#0/JM7u: @Radium ^gpt如何评价在聊天室开轰炸机是怎么一回事？（第二次分析）-----在一些答主们的回答中，我发现我想起来一件事情，我们那一届是中原社会转战东北的时候，那一届的中原地区的中学生已经占着全省的中等高度了，但是，不仅仅是有些东北地区的中学生，连我自己都很难感到出乎意料。我的同学们都知道，当时在一个地方出现抗联的学生，也是有很多抗联的。但是，为了自己的家乡的孩子，就会选择东北这边的高中校的学生，那时候我的这个朋友，也是在东北上的大学，他们就是一直没听说过有抗联的。（这就是我对抗联的印象，同学们都知道，当时大概是一个月的时间，当时我的朋友算是我们东北的一个名校，最后这个消息传开了，他们在微信发的也是是否知如果知是是
+[2023-08-29 20:16:52] [INFO] Radium#0/JM7u: ？
+[2023-08-29 20:16:53] [INFO] if_awa#IfAWAS: 当我打出？的时候...
+[2023-08-29 20:16:55] [INFO] RrrreVerKusSls__#S8mDzq: 草
+[2023-08-29 20:18:01] [INFO] DIE_5 joined
+[2023-08-29 20:18:01] [INFO] DIE_5#btkQCn: 嗨、嗨，大家好啊~这里是新来的bot233bot，请多多指教ᕕ( ᐛ )ᕗ~发送 菜单 可以了解我的功能哦
+[2023-08-29 20:18:01] [INFO] ~Hello hello everyone! Here’s 233bot, a new bot, looking for more advice ᕕ( ᐛ )ᕗ. Send menu to learn more!
+[2023-08-29 20:18:01] [INFO] if_awa#IfAWAS: 早上好，DIE_5!
+[2023-08-29 20:18:02] [INFO] DIE_5#btkQCn: 虽然ICE开轰炸机并不是我支持的,但是如果您不unban我我可以考虑再次加入他
+[2023-08-29 20:18:02] [INFO] OneGPT#foMeFv: DIE_5,原谅别人，就是给自己心中留下空间，以便回旋。
+[2023-08-29 20:18:30] [INFO] Radium#0/JM7u: 加入他吧
+[2023-08-29 20:18:35] [INFO] Radium#0/JM7u: ~ban DIE_5
+[2023-08-29 20:18:35] [INFO] DIE_5 left
+[2023-08-29 20:18:35] [INFO] Server: Kicked DIE_5
+[2023-08-29 20:20:18] [INFO] MrZhang365#vtFJUL: 6
+[2023-08-29 20:20:18] [INFO] if_awa#IfAWAS: 666
+[2023-08-29 20:20:21] [INFO] RrrreVerKusSls__#S8mDzq: 6
+[2023-08-29 20:20:21] [INFO] if_awa#IfAWAS: 36
+[2023-08-29 20:20:24] [INFO] MrZhang365#vtFJUL: 这就是赤裸裸的威胁
+[2023-08-29 20:20:35] [INFO] RrrreVerKusSls__#S8mDzq: 草啊
+[2023-08-29 20:20:35] [INFO] MrZhang365#vtFJUL: 看似没啥问题
+[2023-08-29 20:20:38] [INFO] RrrreVerKusSls__#S8mDzq: 奇怪
+[2023-08-29 20:20:40] [INFO] MrZhang365#vtFJUL: 实际上问题大了
+[2023-08-29 20:20:43] [INFO] Radium#0/JM7u: 我给了条件
+[2023-08-29 20:20:46] [INFO] if_awa#IfAWAS: 等等哈，正吃着切糕呢
+[2023-08-29 20:20:46] [INFO] MrZhang365#vtFJUL: ^help
+[2023-08-29 20:20:46] [INFO] MrZhang365#vtFJUL is running help command, args: ^help
+[2023-08-29 20:20:47] [INFO] Server: You whispered to @MrZhang365: .
+[2023-08-29 20:20:47] [INFO] # 所有命令
+[2023-08-29 20:20:47] [INFO] |等级：|命令：|
+[2023-08-29 20:20:47] [INFO] |---:|:---|
+[2023-08-29 20:20:47] [INFO] |用户：|allmsg, clearmsg, gpt, help, listban, msg, read, version|
+[2023-08-29 20:20:47] [INFO] |协管：|ban, block, kick, op, unban|
+[2023-08-29 20:20:47] [INFO] |超级管理员：|reload, stop|
+[2023-08-29 20:20:47] [INFO] ---
+[2023-08-29 20:20:47] [INFO] 要获取指定命令的帮助信息，请使用：
+[2023-08-29 20:20:47] [INFO] `^help 命令名`
+[2023-08-29 20:20:50] [INFO] Radium#0/JM7u: 不能讨论技术
+[2023-08-29 20:20:54] [INFO] Radium#0/JM7u: 不能不爱国
+[2023-08-29 20:21:59] [INFO] Radium#0/JM7u: ~~本来想让他不说话的~~
+[2023-08-29 20:22:20] [INFO] Dr_Doppelglower#AAfFKK: @Radium 
+[2023-08-29 20:22:20] [INFO] RrrreVerKusSls__#S8mDzq: 啊？
+[2023-08-29 20:22:35] [INFO] RrrreVerKusSls__#S8mDzq: 你把市都禁了我拉什么
+[2023-08-29 20:22:49] [INFO] Radium#0/JM7u: @Dr_Doppelglower 
+[2023-08-29 20:22:58] [INFO] Radium#0/JM7u: what happened
+[2023-08-29 20:23:03] [INFO] RrrreVerKusSls__#S8mDzq: 你还不让说脏话
+[2023-08-29 20:23:20] [INFO] MrZhang365#vtFJUL: ~~话说各位觉得ZhangHelper怎么样~~
+[2023-08-29 20:23:20] [INFO] ReModBot#0/JM7u: What the fuck do you want to do.
+[2023-08-29 20:23:23] [INFO] MrZhang365#vtFJUL: 6
+[2023-08-29 20:23:24] [INFO] if_awa#IfAWAS: 36
+[2023-08-29 20:23:31] [INFO] letmeinplease joined
+[2023-08-29 20:23:31] [INFO] letmeinplease left
+[2023-08-29 20:23:31] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:23:31] [INFO] if_awa#IfAWAS: 好久不见啊，letmeinplease~
+[2023-08-29 20:23:32] [INFO] OneGPT#foMeFv: letmeinplease,不要因为结束而哭泣，微笑吧，为你的曾经拥有。
+[2023-08-29 20:23:40] [INFO] RrrreVerKusSls__#S8mDzq: @MrZhang365 不能用，不知道
+[2023-08-29 20:23:42] [INFO] letmeinplease joined
+[2023-08-29 20:23:42] [INFO] letmeinplease left
+[2023-08-29 20:23:42] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:23:42] [INFO] if_awa#IfAWAS: hi, letmeinplease
+[2023-08-29 20:23:43] [INFO] RrrreVerKusSls__#S8mDzq: 但是感觉很好用
+[2023-08-29 20:23:45] [INFO] OneGPT#foMeFv: letmeinplease,其实，这样的失败根本不足以证明什么，失败只能让我们真正长大，懂得更多，让我们成熟起来。可以说，我们如果不经历失败就难达到成功的彼岸！
+[2023-08-29 20:23:50] [INFO] MrZhang365#vtFJUL: >S8mDzq RrrreVerKusSls__：
+[2023-08-29 20:23:50] [INFO] >@MrZhang365 不能用，不知道
+[2023-08-29 20:23:50] [INFO] 
+[2023-08-29 20:23:50] [INFO] @RrrreVerKusSls__ 你直接发 ^help
+[2023-08-29 20:23:58] [INFO] RrrreVerKusSls__#S8mDzq: ^help
+[2023-08-29 20:23:58] [INFO] RrrreVerKusSls__#S8mDzq is running help command, args: ^help
+[2023-08-29 20:23:58] [INFO] Server: You whispered to @RrrreVerKusSls__: .
+[2023-08-29 20:23:58] [INFO] # 所有命令
+[2023-08-29 20:23:58] [INFO] |等级：|命令：|
+[2023-08-29 20:23:58] [INFO] |---:|:---|
+[2023-08-29 20:23:58] [INFO] |用户：|allmsg, clearmsg, gpt, help, listban, msg, read, version|
+[2023-08-29 20:23:58] [INFO] |协管：|ban, block, kick, op, unban|
+[2023-08-29 20:23:58] [INFO] |超级管理员：|reload, stop|
+[2023-08-29 20:23:58] [INFO] ---
+[2023-08-29 20:23:58] [INFO] 要获取指定命令的帮助信息，请使用：
+[2023-08-29 20:23:58] [INFO] `^help 命令名`
+[2023-08-29 20:24:02] [INFO] RrrreVerKusSls__#S8mDzq: wow
+[2023-08-29 20:24:12] [INFO] Radium#0/JM7u: 刑
+[2023-08-29 20:24:15] [INFO] RrrreVerKusSls__#S8mDzq: ^gpt 怎么看待频道互换
+[2023-08-29 20:24:15] [INFO] RrrreVerKusSls__#S8mDzq is running gpt command, args: ^gpt 怎么看待频道互换
+[2023-08-29 20:24:18] [INFO] Radium#0/JM7u: 我unban 但私聊
+[2023-08-29 20:24:34] [INFO] ReModBot left
+[2023-08-29 20:24:35] [INFO] UselessBot#vtFJUL: @RrrreVerKusSls__ 频道互换是指不同电视频道之间进行内容的交流和共享。从某种程度上来说，频道互换可以为观众提供更多样化和丰富的内容选择，增加观看体验的多样性。
+[2023-08-29 20:24:35] [INFO] 
+[2023-08-29 20:24:35] [INFO] 首先，频道互换可以为观众带来更多的节目选择。不同电视频道拥有不同的题材和风格，频道互换可以使观众接触到更广泛的内容类型，满足不同观众的兴趣和需求，提供更多的娱乐选择。
+[2023-08-29 20:24:35] [INFO] 
+[2023-08-29 20:24:35] [INFO] 其次，频道互换还可以促进内容创新和竞争。通过频道互换，电视频道之间可以学习和借鉴彼此的优点，创新出更好的节目形式和内容。这种竞争与合作的关系有助于推动整个电视行业的发展，提高节目质量和观众满意度。
+[2023-08-29 20:24:35] [INFO] 
+[2023-08-29 20:24:35] [INFO] 另外，频道互换也可以加强电视频道之间的合作和交流。在频道互换的过程中，不同电视频道可以分享资源、经验和技术，促进行业内的合作与交流。这有助于提高整个行业的水平和影响力，为观众提供更好的服务。
+[2023-08-29 20:24:35] [INFO] 
+[2023-08-29 20:24:35] [INFO] 然而，频道互换也可能存在一些问题。比如，频道互换可能导致某些节目在播放时间上的调整，给观众的观看习惯带来一定的困扰。此外，频道互换还可能使一些电视频道的独特性和特色减弱，导致观众对于某些频道的关注度下降。
+[2023-08-29 20:24:35] [INFO] 
+[2023-08-29 20:24:35] [INFO] 总体而言，频道互换在一定程度上可以丰富观众的选择，并促进电视行业的发展。但需要注意平衡各方利益，确保观众的权益不受损害，同时加强内容创新，提高节目质量，提供更好的观众体验。
+[2023-08-29 20:24:38] [INFO] ReModBot joined
+[2023-08-29 20:24:38] [INFO] if_awa#IfAWAS: &#8205;
+[2023-08-29 20:24:38] [INFO] OneGPT#foMeFv: ReModBot,不要因为结束而哭泣，微笑吧，为你的曾经拥有。
+[2023-08-29 20:24:43] [INFO] RrrreVerKusSls__#S8mDzq: ^listban
+[2023-08-29 20:24:43] [INFO] RrrreVerKusSls__#S8mDzq is running listban command, args: ^listban
+[2023-08-29 20:24:46] [INFO] UselessBot#vtFJUL: @RrrreVerKusSls__ 下面是被封禁的hash：
+[2023-08-29 20:24:46] [INFO] - 
+[2023-08-29 20:24:49] [INFO] RrrreVerKusSls__#S8mDzq: a？
+[2023-08-29 20:25:04] [INFO] MrZhang365#vtFJUL: awa
+[2023-08-29 20:25:05] [INFO] if_awa#IfAWAS: @w@
+[2023-08-29 20:25:06] [INFO] RrrreVerKusSls__#S8mDzq: 还行啊
+[2023-08-29 20:25:08] [INFO] MrZhang365#vtFJUL: ^ban @RrrreVerKusSls__ @UselessBot 
+[2023-08-29 20:25:08] [INFO] MrZhang365#vtFJUL is running ban command, args: ^ban @RrrreVerKusSls__ @UselessBot 
+[2023-08-29 20:25:09] [INFO] UselessBot#vtFJUL: @MrZhang365 请勿自相残杀
+[2023-08-29 20:25:11] [INFO] RrrreVerKusSls__#S8mDzq: 感觉可以用
+[2023-08-29 20:25:18] [INFO] RrrreVerKusSls__#S8mDzq: 草
+[2023-08-29 20:25:22] [INFO] MrZhang365#vtFJUL: ^ban @RrrreVerKusSls__ @if_awa @OneGPT @Radium 
+[2023-08-29 20:25:22] [INFO] MrZhang365#vtFJUL is running ban command, args: ^ban @RrrreVerKusSls__ @if_awa @OneGPT @Radium 
+[2023-08-29 20:25:23] [INFO] Server: You whispered to @mbot: .m kick if_awa Radium RadiumBot RrrreVerKusSls__ OneGPT ReModBot
+[2023-08-29 20:25:23] [INFO] UselessBot#vtFJUL: MrZhang365 封禁了以下hash：
+[2023-08-29 20:25:23] [INFO] - n91Hv6GAjnSDGzt
+[2023-08-29 20:25:23] [INFO] - EalENDwy7tfQboR
+[2023-08-29 20:25:23] [INFO] - H16GAZaOHM8uOC9
+[2023-08-29 20:25:23] [INFO] - iiuTFnQHSl9bpbe
+[2023-08-29 20:25:23] [INFO] if_awa#IfAWAS: uwu
+[2023-08-29 20:25:24] [INFO] OneGPT#foMeFv: MrZhang365，I'm sorry, I don't understand what you're asking for. Can you please provide more context or information?
+[2023-08-29 20:25:30] [INFO] MrZhang365#vtFJUL: awa
+[2023-08-29 20:25:31] [INFO] if_awa#IfAWAS: ovo
+[2023-08-29 20:25:33] [INFO] MrZhang365#vtFJUL: ^listban
+[2023-08-29 20:25:33] [INFO] MrZhang365#vtFJUL is running listban command, args: ^listban
+[2023-08-29 20:25:34] [INFO] UselessBot#vtFJUL: @MrZhang365 下面是被封禁的hash：
+[2023-08-29 20:25:34] [INFO] - n91Hv6GAjnSDGzt
+[2023-08-29 20:25:34] [INFO] - EalENDwy7tfQboR
+[2023-08-29 20:25:34] [INFO] - H16GAZaOHM8uOC9
+[2023-08-29 20:25:34] [INFO] - iiuTFnQHSl9bpbe
+[2023-08-29 20:25:37] [INFO] RrrreVerKusSls__#S8mDzq: uwu
+[2023-08-29 20:25:54] [INFO] MrZhang365#vtFJUL: ^unban n91Hv6GAjnSDGzt EalENDwy7tfQboR H16GAZaOHM8uOC9 iiuTFnQHSl9bpbe
+[2023-08-29 20:25:54] [INFO] MrZhang365#vtFJUL is running unban command, args: ^unban n91Hv6GAjnSDGzt EalENDwy7tfQboR H16GAZaOHM8uOC9 iiuTFnQHSl9bpbe
+[2023-08-29 20:25:54] [INFO] UselessBot#vtFJUL: MrZhang365 解封了以下hash：
+[2023-08-29 20:25:54] [INFO] - n91Hv6GAjnSDGzt
+[2023-08-29 20:25:54] [INFO] - EalENDwy7tfQboR
+[2023-08-29 20:25:54] [INFO] - H16GAZaOHM8uOC9
+[2023-08-29 20:25:54] [INFO] - iiuTFnQHSl9bpbe
+[2023-08-29 20:26:12] [INFO] RrrreVerKusSls__#S8mDzq: wow
+[2023-08-29 20:26:19] [INFO] RrrreVerKusSls__#S8mDzq: 这bot挺好的a
+[2023-08-29 20:26:28] [INFO] MrZhang365#vtFJUL: ^kick @if_awa @RrrreVerKusSls__ 
+[2023-08-29 20:26:28] [INFO] MrZhang365#vtFJUL is running kick command, args: ^kick @if_awa @RrrreVerKusSls__ 
+[2023-08-29 20:26:28] [INFO] Server: You whispered to @mbot: .m kick if_awa RrrreVerKusSls__
+[2023-08-29 20:26:28] [INFO] if_awa#IfAWAS: ;a;
+[2023-08-29 20:26:32] [INFO] 000 joined
+[2023-08-29 20:26:32] [INFO] if_awa#IfAWAS: 你好诶，000，新的一天也要加油哦！
+[2023-08-29 20:26:33] [INFO] OneGPT#foMeFv: 000,治愈自己的，只有你自己。
+[2023-08-29 20:26:38] [INFO] MrZhang365#vtFJUL is running kick command, args: ^kick @if_awa @RrrreVerKusSls__ 
+[2023-08-29 20:26:38] [INFO] Server: ^kick @if_awa @RrrreVerKusSls__ 
+[2023-08-29 20:26:38] [INFO] Server: You whispered to @mbot: .m kick if_awa RrrreVerKusSls__
+[2023-08-29 20:26:40] [INFO] MrZhang365#vtFJUL: /w @UselessBot ^kick @if_awa @RrrreVerKusSls__ 
+[2023-08-29 20:26:41] [INFO] if_awa#IfAWAS: TAT
+[2023-08-29 20:26:47] [INFO] RrrreVerKusSls__#S8mDzq: 好东西
+[2023-08-29 20:26:58] [INFO] Radium#0/JM7u: 6
+[2023-08-29 20:26:59] [INFO] if_awa#IfAWAS: 还得是你
+[2023-08-29 20:27:04] [INFO] RrrreVerKusSls__#S8mDzq: 但是kick好像不太管用
+[2023-08-29 20:27:06] [INFO] Radium#0/JM7u: ^ban Radium
+[2023-08-29 20:27:06] [INFO] UselessBot#vtFJUL: @Radium 你是想篡权夺位么？
+[2023-08-29 20:27:28] [INFO] 000#120200: await
+[2023-08-29 20:27:28] [INFO] if_awa#IfAWAS: uwu
+[2023-08-29 20:27:54] [INFO] 000#120200: ;seen *trip for9zT
+[2023-08-29 20:27:55] [INFO] if_awa#IfAWAS: 最后一次见到trip为for9zT的用户是在2023/08/28 15:33:57（距现在20时53分58秒）
+[2023-08-29 20:27:55] [INFO] 他说了：启动！
+[2023-08-29 20:28:00] [INFO] 000#120200: AAA
+[2023-08-29 20:28:06] [INFO] MrZhang365#vtFJUL: >S8mDzq RrrreVerKusSls__：
+[2023-08-29 20:28:06] [INFO] >但是kick好像不太管用
+[2023-08-29 20:28:06] [INFO] 
+[2023-08-29 20:28:06] [INFO] @RrrreVerKusSls__ 那是
+[2023-08-29 20:28:52] [INFO] RadiumBot#0/JM7u: @MrZhang365 ^ban@RrrreVerKusSls__@UselessBot____@___@__@___@___@__.........我先前还以为是上海市中心的中心，实际上是个郊区小区。小区不是什么特别大的，周边有个市桥商务区和另一个市桥大家还是知道的，也有个东方体育中心。公交车上，你是乘上地铁还是打电话？不知道，公交车里也是个小区，而且还是那种非常小的车，公交车内还有一个小亭子。你说公交车里面的人是不是不开手机。有那么关键么？如果公交车上不开手机，就有人去给手机充电了。再说，你不想把手机送来，只想把身边的人送来了。一直在这个小区里的人们，大多也是如此：上班、打工、买房子、上学，每天都坐着公交车上班，下班后，每天都在公司旁边上班，公交车上，每天都在上班，每天都有很多人上下班
+[2023-08-29 20:29:00] [INFO] RadiumBot#0/JM7u: @000 
+[2023-08-29 20:29:00] [INFO] ;seen *trip for9zT
+[2023-08-29 20:29:00] [INFO] 2019 08:54 PM 213 213
+[2023-08-29 20:29:01] [INFO] RrrreVerKusSls__#S8mDzq: ？
+[2023-08-29 20:29:02] [INFO] if_awa#IfAWAS: ...
+[2023-08-29 20:30:18] [INFO] RrrreVerKusSls__#S8mDzq: ，，
+[2023-08-29 20:31:51] [INFO] 4n0n4me#Myh1TA: 恭喜Zhang的Bot在这里有了用武之地
+[2023-08-29 20:32:29] [INFO] 4n0n4me#Myh1TA: ~help
+[2023-08-29 20:32:29] [INFO] ReModBot#0/JM7u: What the fuck do you want to do.
+[2023-08-29 20:32:31] [INFO] RrrreVerKusSls__#S8mDzq: 开香槟
+[2023-08-29 20:32:33] [INFO] 4n0n4me#Myh1TA: 9
+[2023-08-29 20:32:34] [INFO] Radium#0/JM7u: ~load
+[2023-08-29 20:32:35] [INFO] ReModBot#0/JM7u: ~list
+[2023-08-29 20:32:35] [INFO] ReModBot#0/JM7u: Current ops are: 0/JM7u, foMeFv, zV2BBB, AAfFKK, Myh1TA
+[2023-08-29 20:32:44] [INFO] 4n0n4me#Myh1TA: ~help
+[2023-08-29 20:32:45] [INFO] ReModBot#0/JM7u:  ~kick <user> - kicks a user
+[2023-08-29 20:32:45] [INFO] ~enablecap - enables captcha
+[2023-08-29 20:32:45] [INFO] ~disablecap - disables captcha
+[2023-08-29 20:32:45] [INFO] ~add <user> - adds a user to the op list
+[2023-08-29 20:32:45] [INFO] ~remove <user> - removes a user from the op list
+[2023-08-29 20:32:45] [INFO] ~list - lists all ops
+[2023-08-29 20:32:45] [INFO] ~help - lists all commands
+[2023-08-29 20:32:52] [INFO] 4n0n4me#Myh1TA: 阿瓦。
+[2023-08-29 20:32:56] [INFO] 233bot_00 joined
+[2023-08-29 20:32:56] [INFO] 233bot_00#nHNvSB: 嗨、嗨，大家好啊~这里是新来的bot233bot，请多多指教ᕕ( ᐛ )ᕗ~发送 菜单 可以了解我的功能哦
+[2023-08-29 20:32:56] [INFO] ~Hello hello everyone! Here’s 233bot, a new bot, looking for more advice ᕕ( ᐛ )ᕗ. Send menu to learn more!
+[2023-08-29 20:32:56] [INFO] 233bot_00 left
+[2023-08-29 20:32:56] [INFO] Server: Kicked 233bot_00
+[2023-08-29 20:32:56] [INFO] if_awa#IfAWAS: &#8205;Per aspera ad astra 穿越逆境，抵达繁星；循此苦旅，以达天际。
+[2023-08-29 20:32:57] [INFO] OneGPT#foMeFv: 233bot_00,我也很难过，我能帮上你什么忙吗？如果什么时候需要我，尽管打电话给我，好吗？我会陪着你，也会让你有个可靠的肩膀可以伏在上面哭泣。
+[2023-08-29 20:33:22] [INFO] 4n0n4me#Myh1TA: em，我不太好说
+[2023-08-29 20:33:44] [INFO] 000 left
+[2023-08-29 20:34:33] [INFO] 000 joined
+[2023-08-29 20:34:34] [INFO] if_awa#IfAWAS: 000! Hows ur day?
+[2023-08-29 20:34:35] [INFO] OneGPT#foMeFv: 000,只有变得狠一点，幸福才会来得稳一点。
+[2023-08-29 20:34:46] [INFO] Radium#0/JM7u: ~unbanall
+[2023-08-29 20:34:53] [INFO] MrZhang365#vtFJUL: >Myh1TA 4n0n4me：
+[2023-08-29 20:34:53] [INFO] >恭喜Zhang的Bot在这里有了用武之地
+[2023-08-29 20:34:53] [INFO] 
+[2023-08-29 20:34:53] [INFO] @4n0n4me 《恭喜》
+[2023-08-29 20:35:02] [INFO] M4A11945 joined
+[2023-08-29 20:35:03] [INFO] OneGPT#foMeFv: 欢迎！M4A11945
+[2023-08-29 20:35:03] [INFO] M4A11945 left
+[2023-08-29 20:35:03] [INFO] Server: Kicked M4A11945
+[2023-08-29 20:35:03] [INFO] if_awa#IfAWAS: M4A11945!
+[2023-08-29 20:35:03] [INFO] M4A13798 joined
+[2023-08-29 20:35:03] [INFO] OneGPT#foMeFv: 欢迎！M4A13798
+[2023-08-29 20:35:03] [INFO] M4A11695 joined
+[2023-08-29 20:35:03] [INFO] OneGPT#foMeFv: 欢迎！M4A11695
+[2023-08-29 20:35:03] [INFO] M4A13798 left
+[2023-08-29 20:35:03] [INFO] Server: Kicked M4A13798
+[2023-08-29 20:35:04] [INFO] M4A1877 joined
+[2023-08-29 20:35:04] [INFO] M4A11695 left
+[2023-08-29 20:35:04] [INFO] Server: Kicked M4A11695
+[2023-08-29 20:35:04] [INFO] OneGPT#foMeFv: 欢迎！M4A1877
+[2023-08-29 20:35:04] [INFO] M4A1877 left
+[2023-08-29 20:35:04] [INFO] Server: Kicked M4A1877
+[2023-08-29 20:35:04] [INFO] M4A19227 joined
+[2023-08-29 20:35:04] [INFO] OneGPT#foMeFv: 欢迎！M4A19227
+[2023-08-29 20:35:04] [INFO] M4A19590 joined
+[2023-08-29 20:35:04] [INFO] if_awa#IfAWAS: 这不是M4A13798吗~
+[2023-08-29 20:35:04] [INFO] OneGPT#foMeFv: 欢迎！M4A19590
+[2023-08-29 20:35:04] [INFO] M4A19227 left
+[2023-08-29 20:35:04] [INFO] Server: Kicked M4A19227
+[2023-08-29 20:35:04] [INFO] M4A19590 left
+[2023-08-29 20:35:04] [INFO] Server: Kicked M4A19590
+[2023-08-29 20:35:04] [INFO] aes5 joined
+[2023-08-29 20:35:04] [INFO] aes5 left
+[2023-08-29 20:35:04] [INFO] Server: Kicked aes5
+[2023-08-29 20:35:05] [INFO] if_awa#IfAWAS: Sup
+[2023-08-29 20:35:05] [INFO] M4A15270 joined
+[2023-08-29 20:35:05] [INFO] M4A12433 joined
+[2023-08-29 20:35:06] [INFO] M4A15270 left
+[2023-08-29 20:35:06] [INFO] Server: Kicked M4A15270
+[2023-08-29 20:35:06] [INFO] M4A12433 left
+[2023-08-29 20:35:06] [INFO] Server: Kicked M4A12433
+[2023-08-29 20:35:06] [INFO] if_awa#IfAWAS: 下午好，M4A1877~
+[2023-08-29 20:35:06] [INFO] OneGPT#foMeFv: aes5,你什么时候放下，什么时候就没有烦恼。
+[2023-08-29 20:35:07] [INFO] M4A11604 joined
+[2023-08-29 20:35:07] [INFO] MrZhang365#vtFJUL: 草
+[2023-08-29 20:35:07] [INFO] M4A11604#: # ==我操你妈,Radium==
+[2023-08-29 20:35:07] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:07] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:07] [INFO] # ==人渣scum==
+[2023-08-29 20:35:07] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:07] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:07] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:07] [INFO] M4A11604#: # ==我操你妈,Radium==
+[2023-08-29 20:35:07] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:07] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:07] [INFO] # ==人渣scum==
+[2023-08-29 20:35:07] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:07] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:07] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:07] [INFO] M4A11604#: # ==我操你妈,Radium==
+[2023-08-29 20:35:07] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:07] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:07] [INFO] # ==人渣scum==
+[2023-08-29 20:35:07] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:07] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:07] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:07] [INFO] M4A11604#: # ==我操你妈,Radium==
+[2023-08-29 20:35:07] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:07] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:07] [INFO] # ==人渣scum==
+[2023-08-29 20:35:07] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:07] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:07] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:07] [INFO] M4A11604#: # ==我操你妈,Radium==
+[2023-08-29 20:35:07] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:07] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:07] [INFO] # ==人渣scum==
+[2023-08-29 20:35:07] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:07] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:07] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:07] [INFO] M4A11604#: # ==我操你妈,Radium==
+[2023-08-29 20:35:07] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:07] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:07] [INFO] # ==人渣scum==
+[2023-08-29 20:35:07] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:07] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:07] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:07] [INFO] M4A11604#: # ==我操你妈,Radium==
+[2023-08-29 20:35:07] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:07] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:07] [INFO] # ==人渣scum==
+[2023-08-29 20:35:07] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:07] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:07] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:07] [INFO] M4A11604#: # ==我操你妈,Radium==
+[2023-08-29 20:35:07] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:07] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:07] [INFO] # ==人渣scum==
+[2023-08-29 20:35:07] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:07] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:07] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:07] [INFO] M4A11604 left
+[2023-08-29 20:35:07] [INFO] Server: Kicked M4A11604
+[2023-08-29 20:35:07] [INFO] M4A13689 joined
+[2023-08-29 20:35:07] [INFO] if_awa#IfAWAS: 好久不见啊，M4A19227~
+[2023-08-29 20:35:07] [INFO] M4A13689 left
+[2023-08-29 20:35:07] [INFO] Server: Kicked M4A13689
+[2023-08-29 20:35:07] [INFO] M4A11318 joined
+[2023-08-29 20:35:07] [INFO] M4A19434 joined
+[2023-08-29 20:35:07] [INFO] M4A11318 left
+[2023-08-29 20:35:07] [INFO] Server: Kicked M4A11318
+[2023-08-29 20:35:07] [INFO] M4A17589 joined
+[2023-08-29 20:35:07] [INFO] M4A19434 left
+[2023-08-29 20:35:07] [INFO] Server: Kicked M4A19434
+[2023-08-29 20:35:07] [INFO] if_awa#IfAWAS: 好久不见啊，M4A19590~
+[2023-08-29 20:35:07] [INFO] M4A17589 left
+[2023-08-29 20:35:07] [INFO] Server: Kicked M4A17589
+[2023-08-29 20:35:07] [INFO] M4A11500 joined
+[2023-08-29 20:35:07] [INFO] M4A11500 left
+[2023-08-29 20:35:07] [INFO] Server: Kicked M4A11500
+[2023-08-29 20:35:08] [INFO] M4A18025 joined
+[2023-08-29 20:35:08] [INFO] M4A18025#: # ==我操你妈,Radium==
+[2023-08-29 20:35:08] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:08] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:08] [INFO] # ==人渣scum==
+[2023-08-29 20:35:08] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:08] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:08] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:08] [INFO] M4A18025#: # ==我操你妈,Radium==
+[2023-08-29 20:35:08] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:08] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:08] [INFO] # ==人渣scum==
+[2023-08-29 20:35:08] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:08] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:08] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:08] [INFO] M4A18025#: # ==我操你妈,Radium==
+[2023-08-29 20:35:08] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:08] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:08] [INFO] # ==人渣scum==
+[2023-08-29 20:35:08] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:08] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:08] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:08] [INFO] M4A18025#: # ==我操你妈,Radium==
+[2023-08-29 20:35:08] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:08] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:08] [INFO] # ==人渣scum==
+[2023-08-29 20:35:08] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:08] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:08] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:08] [INFO] M4A18025#: # ==我操你妈,Radium==
+[2023-08-29 20:35:08] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:08] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:08] [INFO] # ==人渣scum==
+[2023-08-29 20:35:08] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:08] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:08] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:08] [INFO] M4A18025#: # ==我操你妈,Radium==
+[2023-08-29 20:35:08] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:08] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:08] [INFO] # ==人渣scum==
+[2023-08-29 20:35:08] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:08] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:08] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:08] [INFO] M4A18025#: # ==我操你妈,Radium==
+[2023-08-29 20:35:08] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:08] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:08] [INFO] # ==人渣scum==
+[2023-08-29 20:35:08] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:08] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:08] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:08] [INFO] M4A18025#: # ==我操你妈,Radium==
+[2023-08-29 20:35:08] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:08] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:08] [INFO] # ==人渣scum==
+[2023-08-29 20:35:08] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:08] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:08] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:09] [INFO] M4A18025#: # ==我操你妈,Radium==
+[2023-08-29 20:35:09] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:09] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:09] [INFO] # ==人渣scum==
+[2023-08-29 20:35:09] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:09] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:09] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:09] [INFO] M4A18025#: # ==我操你妈,Radium==
+[2023-08-29 20:35:09] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:09] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:09] [INFO] # ==人渣scum==
+[2023-08-29 20:35:09] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:09] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:09] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:09] [INFO] M4A18025 left
+[2023-08-29 20:35:09] [INFO] Server: Kicked M4A18025
+[2023-08-29 20:35:09] [INFO] if_awa#IfAWAS: &#8205;0/JM7u Radium_kuuu__:
+[2023-08-29 20:35:09] [INFO] 因为23跑了，没人能测试我的bot了，随后封禁了ice
+[2023-08-29 20:35:09] [INFO] M4A16255 joined
+[2023-08-29 20:35:09] [INFO] M4A16255#: # ==我操你妈,Radium==
+[2023-08-29 20:35:09] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:09] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:09] [INFO] # ==人渣scum==
+[2023-08-29 20:35:09] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:09] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:09] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:09] [INFO] M4A16255#: # ==我操你妈,Radium==
+[2023-08-29 20:35:09] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:09] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:09] [INFO] # ==人渣scum==
+[2023-08-29 20:35:09] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:09] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:09] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:09] [INFO] M4A16255#: # ==我操你妈,Radium==
+[2023-08-29 20:35:09] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:09] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:09] [INFO] # ==人渣scum==
+[2023-08-29 20:35:09] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:09] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:09] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:09] [INFO] M4A16255#: # ==我操你妈,Radium==
+[2023-08-29 20:35:09] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:09] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:09] [INFO] # ==人渣scum==
+[2023-08-29 20:35:09] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:09] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:09] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:09] [INFO] M4A16255#: # ==我操你妈,Radium==
+[2023-08-29 20:35:09] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:09] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:09] [INFO] # ==人渣scum==
+[2023-08-29 20:35:09] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:09] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:09] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:09] [INFO] M4A16255#: # ==我操你妈,Radium==
+[2023-08-29 20:35:09] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:09] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:09] [INFO] # ==人渣scum==
+[2023-08-29 20:35:09] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:09] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:09] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:09] [INFO] M4A16255#: # ==我操你妈,Radium==
+[2023-08-29 20:35:09] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:09] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:09] [INFO] # ==人渣scum==
+[2023-08-29 20:35:09] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:09] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:09] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:09] [INFO] if_awa#IfAWAS: hello, M4A15270
+[2023-08-29 20:35:09] [INFO] M4A16255#: # ==我操你妈,Radium==
+[2023-08-29 20:35:09] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:09] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:09] [INFO] # ==人渣scum==
+[2023-08-29 20:35:09] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:09] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:09] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:10] [INFO] M4A16255#: # ==我操你妈,Radium==
+[2023-08-29 20:35:10] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:10] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:10] [INFO] # ==人渣scum==
+[2023-08-29 20:35:10] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:10] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:10] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:10] [INFO] M4A16255#: # ==我操你妈,Radium==
+[2023-08-29 20:35:10] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:10] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:10] [INFO] # ==人渣scum==
+[2023-08-29 20:35:10] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:10] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:10] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:10] [INFO] if_awa#IfAWAS: 出现了，M4A12433!
+[2023-08-29 20:35:11] [INFO] M4A17769 joined
+[2023-08-29 20:35:11] [INFO] M4A11143 joined
+[2023-08-29 20:35:11] [INFO] M4A17769#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A17769#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A17769#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A17769#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A17769#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] if_awa#IfAWAS: 出现了，M4A11604!
+[2023-08-29 20:35:11] [INFO] M4A17769#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A17769#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A17769#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A11143#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A11143#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A11143#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A17769#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A17769#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A11143#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A11143#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A11143#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A11143#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A11143#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A11143#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:11] [INFO] M4A11143#: # ==我操你妈,Radium==
+[2023-08-29 20:35:11] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:35:11] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:35:11] [INFO] # ==人渣scum==
+[2023-08-29 20:35:11] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:35:11] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:35:11] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:35:12] [INFO] M4A16255 left
+[2023-08-29 20:35:12] [INFO] M4A17769 left
+[2023-08-29 20:35:13] [INFO] M4A11143 left
+[2023-08-29 20:35:14] [INFO] if_awa#IfAWAS: @M4A11604 Warning!!!
+[2023-08-29 20:35:15] [INFO] RadiumBot#0/JM7u: @M4A11604 #==我操你妈,Radium==
+[2023-08-29 20:35:15] [INFO] #==你的妈妈真美丽==
+[2023-08-29 20:35:15] [INFO] #==阴道被人炸了吧==
+[2023-08-29 20:35:15] [INFO] #==人渣scum==
+[2023-08-29 20:35:15] [INFO] #==你的牛奶被老子吞了==
+[2023-08-29 20:35:15] [INFO] #==你是否知道您已引起公愤==
+[2023-08-29 20:35:15] [INFO] #==欢迎避难：https://chat.light.gs/?chat==【你的宝宝被什么吞了?我是否知道你已引起公愤?】请参与投票表决本月公告的报名者填写姓名、准考证号码，并参加公开课。投票结果：根据每个投票者均有不同的结果，所有的竞选点点赞数、评分值、总票数、总票数及合格票数等指标可以直接作弊，不允许其他竞选点点赞数、评分、合格票数，否则不能获得任何奖项，本月公开课时间为30分钟；报名时间为12月23-24日，报名地点：沈阳市高新技术开发区四楼大厅主办：新媒体编辑室承办：新媒体编辑室(沈阳科技大学)；公开课时间、地点
+[2023-08-29 20:35:15] [INFO] if_awa#IfAWAS: 出现了，M4A13689!
+[2023-08-29 20:35:15] [INFO] if_awa#IfAWAS: 这不是M4A11318吗~
+[2023-08-29 20:35:16] [INFO] if_awa#IfAWAS: hihih
+[2023-08-29 20:35:16] [INFO] await joined
+[2023-08-29 20:35:16] [INFO] if_awa#IfAWAS: 好久不见啊，M4A17589~
+[2023-08-29 20:35:17] [INFO] if_awa#IfAWAS: 这不是M4A11500吗~
+[2023-08-29 20:35:17] [INFO] if_awa#IfAWAS: hi, M4A18025
+[2023-08-29 20:35:18] [INFO] OneGPT#foMeFv: await,失恋了，就努力寻找对方的一些缺点（毕竟人无完人嘛），这样就不至于太难过伤心。学会自我安慰，好吗？让自己多一点快乐，少一些烦恼！
+[2023-08-29 20:35:20] [INFO] if_awa#IfAWAS: @M4A18025 Warning!!!
+[2023-08-29 20:35:21] [INFO] if_awa#IfAWAS: .m kick M4A18025
+[2023-08-29 20:35:22] [INFO] if_awa#IfAWAS: 出现了，M4A16255!
+[2023-08-29 20:35:24] [INFO] if_awa#IfAWAS: M4A16255棒棒
+[2023-08-29 20:35:24] [INFO] if_awa#IfAWAS: @M4A16255 Warning!!!
+[2023-08-29 20:35:25] [INFO] if_awa#IfAWAS: &#8205;好多轰炸机
+[2023-08-29 20:35:26] [INFO] if_awa#IfAWAS: .m kick M4A16255
+[2023-08-29 20:35:27] [INFO] if_awa#IfAWAS: hello, M4A17769
+[2023-08-29 20:35:27] [INFO] if_awa#IfAWAS: 下午好，M4A11143~
+[2023-08-29 20:35:31] [INFO] if_awa#IfAWAS: @M4A17769 Warning!!!
+[2023-08-29 20:35:31] [INFO] if_awa#IfAWAS: .m kick M4A11143
+[2023-08-29 20:35:33] [INFO] if_awa#IfAWAS: @M4A11143 Warning!!!
+[2023-08-29 20:35:34] [INFO] if_awa#IfAWAS: .m kick M4A11143
+[2023-08-29 20:35:35] [INFO] if_awa#IfAWAS: @M4A11143 Warning!!!
+[2023-08-29 20:35:45] [INFO] aes5 joined
+[2023-08-29 20:35:47] [INFO] if_awa#IfAWAS: &#8205;0/JM7u Radium_kuuu__:
+[2023-08-29 20:35:47] [INFO] 因为23跑了，没人能测试我的bot了，随后封禁了ice
+[2023-08-29 20:35:48] [INFO] OneGPT#foMeFv: aes5,我们每个人是可以被打倒的，但任何人也阻止不了我们从地上爬起来，亲爱的朋友，让我们把心态调整好，积极面对内心与外界，重获新生吧！
+[2023-08-29 20:35:52] [INFO] letmeinplease joined
+[2023-08-29 20:35:53] [INFO] if_awa#IfAWAS: 出现了，letmeinplease!
+[2023-08-29 20:35:54] [INFO] OneGPT#foMeFv: letmeinplease,快乐不是因为拥有的多而是计较的少。
+[2023-08-29 20:35:55] [INFO] Radium#0/JM7u: .m kick aes5
+[2023-08-29 20:35:55] [INFO] aes5 left
+[2023-08-29 20:35:55] [INFO] Server: Kicked aes5
+[2023-08-29 20:35:58] [INFO] MrZhang365#vtFJUL: >Myh1TA 4n0n4me：
+[2023-08-29 20:35:58] [INFO] >恭喜Zhang的Bot在这里有了用武之地
+[2023-08-29 20:35:58] [INFO] 
+[2023-08-29 20:35:58] [INFO] @4n0n4me 还没有用，而且还是试用，但也没啥人用
+[2023-08-29 20:36:05] [INFO] letmeinplease#: 哇哇哇
+[2023-08-29 20:36:10] [INFO] letmeinplease#: 我可以进来了
+[2023-08-29 20:36:11] [INFO] RadiumBot#0/JM7u: @letmeinplease 
+[2023-08-29 20:36:21] [INFO] aes5 joined
+[2023-08-29 20:36:21] [INFO] aes5 left
+[2023-08-29 20:36:21] [INFO] Server: Kicked aes5
+[2023-08-29 20:36:21] [INFO] if_awa#IfAWAS: &#8205;0/JM7u Radium_kuuu__:
+[2023-08-29 20:36:21] [INFO] 因为23跑了，没人能测试我的bot了，随后封禁了ice
+[2023-08-29 20:36:22] [INFO] OneGPT#foMeFv: aes5,生活不简单，尽量简单过。
+[2023-08-29 20:36:23] [INFO] letmeinplease#: 我是怎么进来的
+[2023-08-29 20:36:24] [INFO] Radium#0/JM7u: unbanalled
+[2023-08-29 20:36:27] [INFO] AK74M9548 joined
+[2023-08-29 20:36:27] [INFO] OneGPT#foMeFv: 欢迎！AK74M9548
+[2023-08-29 20:36:27] [INFO] AK74M9548#: # ==我操你妈,Radium==
+[2023-08-29 20:36:27] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:27] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:27] [INFO] # ==人渣scum==
+[2023-08-29 20:36:27] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:27] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:27] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:27] [INFO] AK74M9548#: # ==我操你妈,Radium==
+[2023-08-29 20:36:27] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:27] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:27] [INFO] # ==人渣scum==
+[2023-08-29 20:36:27] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:27] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:27] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:27] [INFO] AK74M9548#: # ==我操你妈,Radium==
+[2023-08-29 20:36:27] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:27] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:27] [INFO] # ==人渣scum==
+[2023-08-29 20:36:27] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:27] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:27] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:27] [INFO] AK74M9548#: # ==我操你妈,Radium==
+[2023-08-29 20:36:27] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:27] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:27] [INFO] # ==人渣scum==
+[2023-08-29 20:36:27] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:27] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:27] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:27] [INFO] AK74M9548#: # ==我操你妈,Radium==
+[2023-08-29 20:36:27] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:27] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:27] [INFO] # ==人渣scum==
+[2023-08-29 20:36:27] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:27] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:27] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:27] [INFO] AK74M9548#: # ==我操你妈,Radium==
+[2023-08-29 20:36:27] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:27] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:27] [INFO] # ==人渣scum==
+[2023-08-29 20:36:27] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:27] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:27] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:27] [INFO] AK74M9548#: # ==我操你妈,Radium==
+[2023-08-29 20:36:27] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:27] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:27] [INFO] # ==人渣scum==
+[2023-08-29 20:36:27] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:27] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:27] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:27] [INFO] AK74M9548#: # ==我操你妈,Radium==
+[2023-08-29 20:36:27] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:27] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:27] [INFO] # ==人渣scum==
+[2023-08-29 20:36:27] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:27] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:27] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:27] [INFO] AK74M9548#: # ==我操你妈,Radium==
+[2023-08-29 20:36:27] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:27] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:27] [INFO] # ==人渣scum==
+[2023-08-29 20:36:27] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:27] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:27] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:27] [INFO] AK74M9548#: # ==我操你妈,Radium==
+[2023-08-29 20:36:27] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:27] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:27] [INFO] # ==人渣scum==
+[2023-08-29 20:36:27] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:27] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:27] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:27] [INFO] if_awa#IfAWAS: 下午好，AK74M9548~
+[2023-08-29 20:36:30] [INFO] if_awa#IfAWAS: @AK74M9548 Warning!!!
+[2023-08-29 20:36:31] [INFO] AK74M6994 joined
+[2023-08-29 20:36:31] [INFO] OneGPT#foMeFv: 欢迎！AK74M6994
+[2023-08-29 20:36:31] [INFO] AK74M6994#: # ==我操你妈,Radium==
+[2023-08-29 20:36:31] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:31] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:31] [INFO] # ==人渣scum==
+[2023-08-29 20:36:31] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:31] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:31] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:32] [INFO] AK74M6994#: # ==我操你妈,Radium==
+[2023-08-29 20:36:32] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:32] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:32] [INFO] # ==人渣scum==
+[2023-08-29 20:36:32] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:32] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:32] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:32] [INFO] AK74M6994#: # ==我操你妈,Radium==
+[2023-08-29 20:36:32] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:32] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:32] [INFO] # ==人渣scum==
+[2023-08-29 20:36:32] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:32] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:32] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:32] [INFO] AK74M6994#: # ==我操你妈,Radium==
+[2023-08-29 20:36:32] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:32] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:32] [INFO] # ==人渣scum==
+[2023-08-29 20:36:32] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:32] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:32] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:32] [INFO] AK74M6994#: # ==我操你妈,Radium==
+[2023-08-29 20:36:32] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:32] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:32] [INFO] # ==人渣scum==
+[2023-08-29 20:36:32] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:32] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:32] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:32] [INFO] AK74M6994#: # ==我操你妈,Radium==
+[2023-08-29 20:36:32] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:32] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:32] [INFO] # ==人渣scum==
+[2023-08-29 20:36:32] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:32] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:32] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:32] [INFO] AK74M6994#: # ==我操你妈,Radium==
+[2023-08-29 20:36:32] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:32] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:32] [INFO] # ==人渣scum==
+[2023-08-29 20:36:32] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:32] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:32] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:32] [INFO] AK74M6994#: # ==我操你妈,Radium==
+[2023-08-29 20:36:32] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:32] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:32] [INFO] # ==人渣scum==
+[2023-08-29 20:36:32] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:32] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:32] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:32] [INFO] AK74M6994#: # ==我操你妈,Radium==
+[2023-08-29 20:36:32] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:32] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:32] [INFO] # ==人渣scum==
+[2023-08-29 20:36:32] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:32] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:32] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:32] [INFO] if_awa#IfAWAS: .m kick AK74M9548
+[2023-08-29 20:36:32] [INFO] if_awa#IfAWAS: hi, AK74M6994
+[2023-08-29 20:36:34] [INFO] AK74M6433 joined
+[2023-08-29 20:36:34] [INFO] OneGPT#foMeFv: 欢迎！AK74M6433
+[2023-08-29 20:36:34] [INFO] ReModBot#0/JM7u: .m enablecap 
+[2023-08-29 20:36:34] [INFO] mbot#hACkeR: @ReModBot captcha is now enabled
+[2023-08-29 20:36:35] [INFO] AK74M6433#: # ==我操你妈,Radium==
+[2023-08-29 20:36:35] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:35] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:35] [INFO] # ==人渣scum==
+[2023-08-29 20:36:35] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:35] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:35] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:35] [INFO] if_awa#IfAWAS: AK74M6994棒棒
+[2023-08-29 20:36:35] [INFO] AK74M6433#: # ==我操你妈,Radium==
+[2023-08-29 20:36:35] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:35] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:35] [INFO] # ==人渣scum==
+[2023-08-29 20:36:35] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:35] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:35] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:35] [INFO] AK74M6433#: # ==我操你妈,Radium==
+[2023-08-29 20:36:35] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 20:36:35] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 20:36:35] [INFO] # ==人渣scum==
+[2023-08-29 20:36:35] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 20:36:35] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 20:36:35] [INFO] # ==欢迎避难：https://chat.light.gs/?chat==
+[2023-08-29 20:36:35] [INFO] if_awa#IfAWAS: @AK74M6994 Warning!!!
+[2023-08-29 20:36:39] [INFO] if_awa#IfAWAS: hello, AK74M6433
+[2023-08-29 20:36:39] [INFO] if_awa#IfAWAS: &#8205;撤回什么
+[2023-08-29 20:36:44] [INFO] ReModBot#0/JM7u: .m kick M4A17769 M4A11143
+[2023-08-29 20:36:48] [INFO] 4n0n4me#Myh1TA: 抱歉，刚看见
+[2023-08-29 20:36:56] [INFO] AK74M9548 left
+[2023-08-29 20:36:56] [INFO] AK74M6994 left
+[2023-08-29 20:36:56] [INFO] AK74M6433 left
+[2023-08-29 20:37:31] [INFO] Radium#0/JM7u: .m disablecap
+[2023-08-29 20:37:31] [INFO] mbot#hACkeR: @Radium captcha is now disabled
+[2023-08-29 20:37:37] [INFO] letmeinplease#: 是什么使你放弃ban我
+[2023-08-29 20:37:44] [INFO] Radium#0/JM7u: unbanalled
+[2023-08-29 20:37:53] [INFO] letmeinplease left
+[2023-08-29 20:37:53] [INFO] while joined
+[2023-08-29 20:37:53] [INFO] Server: letmeinplease is now while
+[2023-08-29 20:37:54] [INFO] OneGPT#foMeFv: while,分手了就做回自己，一个人的世界同样有月升月落，也有美丽的瞬间，把他归为记忆。
+[2023-08-29 20:37:54] [INFO] if_awa#IfAWAS: while! Hows ur day?
+[2023-08-29 20:38:06] [INFO] while#: 你良心大发了
+[2023-08-29 20:38:08] [INFO] 000 left
+[2023-08-29 20:38:08] [INFO] while#: ?
+[2023-08-29 20:38:17] [INFO] while#: 你迷途知返了?
+[2023-08-29 20:38:25] [INFO] while#: 你金盆洗手了?
+[2023-08-29 20:38:30] [INFO] Radium#0/JM7u: no
+[2023-08-29 20:38:39] [INFO] while#: so
+[2023-08-29 20:38:52] [INFO] Radium#0/JM7u: 你想再banned吗
+[2023-08-29 20:38:52] [INFO] if_awa#IfAWAS: &#8205;唯一能做的就是留下轰炸了
+[2023-08-29 20:39:06] [INFO] while#: 不想
+[2023-08-29 20:39:06] [INFO] while#: 我只是好奇
+[2023-08-29 20:39:09] [INFO] pp joined
+[2023-08-29 20:39:09] [INFO] if_awa#IfAWAS: &#8205;[即兴](https://b23.tv/nnoanzu)
+[2023-08-29 20:39:10] [INFO] OneGPT#foMeFv: pp,能够把自己压得低低的，那才是真正的尊贵。
+[2023-08-29 20:39:21] [INFO] while#: 是什么使人渣回心转意
+[2023-08-29 20:39:29] [INFO] Radium#0/JM7u: 6
+[2023-08-29 20:39:30] [INFO] if_awa#IfAWAS: 还得是你
+[2023-08-29 20:39:35] [INFO] Radium#0/JM7u: 你才人渣
+[2023-08-29 20:39:46] [INFO] Radium#0/JM7u: 管我叫孙子
+[2023-08-29 20:39:49] [INFO] while#: 你 才 人 渣
+[2023-08-29 20:39:50] [INFO] Radium#0/JM7u: ~ban while
+[2023-08-29 20:39:50] [INFO] while left
+[2023-08-29 20:39:50] [INFO] Server: Kicked while
+[2023-08-29 20:40:07] [INFO] letmeinplease joined
+[2023-08-29 20:40:08] [INFO] letmeinplease left
+[2023-08-29 20:40:08] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:40:08] [INFO] if_awa#IfAWAS: hi, letmeinplease
+[2023-08-29 20:40:08] [INFO] OneGPT#foMeFv: letmeinplease,做一个开心的人，开心到别人见到你也会觉得开心。
+[2023-08-29 20:40:11] [INFO] pp#McIDQS: 双盲创诗
+[2023-08-29 20:40:50] [INFO] pp#McIDQS: @OneGPT 双盲创诗
+[2023-08-29 20:40:51] [INFO] if_awa#IfAWAS: &#8205;这都什么年代了我还在听V
+[2023-08-29 20:40:51] [INFO] 听V还只听初音未来
+[2023-08-29 20:40:51] [INFO] letmeinplease joined
+[2023-08-29 20:40:52] [INFO] if_awa#IfAWAS: @letmeinplease 您好，您看上去挺面善的~
+[2023-08-29 20:40:52] [INFO] 最近您会因为诸事不如意而感到沮丧吗？
+[2023-08-29 20:40:52] [INFO] 别担心！和我们一起追随勇士战神吧！这样定能一帆风顺！
+[2023-08-29 20:40:54] [INFO] letmeinplease left
+[2023-08-29 20:40:54] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:40:54] [INFO] asd joined
+[2023-08-29 20:40:55] [INFO] if_awa#IfAWAS: asd! Hows ur day?
+[2023-08-29 20:40:55] [INFO] OneGPT#foMeFv: pp，在漆黑的夜幕下，
+[2023-08-29 20:40:55] [INFO] 我独自一人走在路上，
+[2023-08-29 20:40:55] [INFO] 不知道前方是什么，
+[2023-08-29 20:40:55] [INFO] 不知道身边是谁。
+[2023-08-29 20:40:55] [INFO] 
+[2023-08-29 20:40:55] [INFO] 我闭上了双眼，
+[2023-08-29 20:40:55] [INFO] 让黑暗包围了我，
+[2023-08-29 20:40:55] [INFO] 但我的心灵却在创作，
+[2023-08-29 20:40:55] [INFO] 创作出一首又一首的诗歌。
+[2023-08-29 20:40:55] [INFO] 
+[2023-08-29 20:40:55] [INFO] 这是一种双盲的创作，
+[2023-08-29 20:40:55] [INFO] 没有外界的干扰，
+[2023-08-29 20:40:55] [INFO] 只有内心的声音，
+[2023-08-29 20:40:55] [INFO] 只有灵魂的呼唤。
+[2023-08-29 20:40:55] [INFO] 
+[2023-08-29 20:40:55] [INFO] 在这个世界上，
+[2023-08-29 20:40:55] [INFO] 我们需要一些双盲的创作，
+[2023-08-29 20:40:55] [INFO] 让我们的内心得到释放，
+[2023-08-29 20:40:55] [INFO] 让我们的灵魂得到升华。
+[2023-08-29 20:40:56] [INFO] OneGPT#foMeFv: letmeinplease,抱怨只会招致痛苦，适者生存
+[2023-08-29 20:40:56] [INFO] OneGPT#foMeFv: 欢迎！asd
+[2023-08-29 20:41:08] [INFO] letmeinplease joined
+[2023-08-29 20:41:08] [INFO] letmeinplease left
+[2023-08-29 20:41:08] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:41:08] [INFO] if_awa#IfAWAS: hi, letmeinplease
+[2023-08-29 20:41:10] [INFO] OneGPT#foMeFv: letmeinplease,羡慕别人得到的，不如珍惜自己拥有的。
+[2023-08-29 20:41:13] [INFO] pp#McIDQS: 。。。
+[2023-08-29 20:42:49] [INFO] asd left
+[2023-08-29 20:42:52] [INFO] letmeinplease joined
+[2023-08-29 20:42:52] [INFO] letmeinplease left
+[2023-08-29 20:42:52] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:42:52] [INFO] if_awa#IfAWAS: 你好诶，letmeinplease，新的一天也要加油哦！
+[2023-08-29 20:42:53] [INFO] OneGPT#foMeFv: letmeinplease,失恋的火山在你生活中爆发了，你在精神上要放松放松再放松，其实失恋也没什么大不了的，不能再在一起，当然要分开，应该为自己的决定感到骄傲。
+[2023-08-29 20:42:54] [INFO] RadiumBot#0/JM7u: @OneGPT 
+[2023-08-29 20:42:57] [INFO] OneGPT#foMeFv: RadiumBot，很抱歉，我还是不太明白你的回答和上下文之间的联系。请问你有什么问题或者需要我的帮助吗？如果你有任何问题或者需要帮助，请具体说明。
+[2023-08-29 20:42:57] [INFO] if_awa#IfAWAS: &#8205;Rfs
+[2023-08-29 20:44:05] [INFO] letmeinplease joined
+[2023-08-29 20:44:05] [INFO] letmeinplease left
+[2023-08-29 20:44:05] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:44:05] [INFO] if_awa#IfAWAS: 你好诶，letmeinplease，新的一天也要加油哦！
+[2023-08-29 20:44:06] [INFO] OneGPT#foMeFv: letmeinplease,耐心点，给好运一点时间。
+[2023-08-29 20:44:13] [INFO] letmeinplease joined
+[2023-08-29 20:44:13] [INFO] letmeinplease left
+[2023-08-29 20:44:13] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:44:14] [INFO] if_awa#IfAWAS: 出现了，letmeinplease!
+[2023-08-29 20:44:14] [INFO] OneGPT#foMeFv: letmeinplease,送给牵挂的你，天冷了，多注意身体！
+[2023-08-29 20:44:17] [INFO] Radium#0/JM7u: 404helpme
+[2023-08-29 20:44:22] [INFO] 4n0n4me#Myh1TA: 啊
+[2023-08-29 20:44:23] [INFO] 4n0n4me#Myh1TA: what
+[2023-08-29 20:44:27] [INFO] Radium#0/JM7u: 你也看到了轰炸鸡（
+[2023-08-29 20:44:48] [INFO] 4n0n4me#Myh1TA: em，我如果看到肯定会enablecap的
+[2023-08-29 20:45:08] [INFO] Radium#0/JM7u: 关键是
+[2023-08-29 20:45:12] [INFO] Radium#0/JM7u: 谁开的都不知道
+[2023-08-29 20:46:05] [INFO] Radium#0/JM7u: 还遇到过说我是暴君的
+[2023-08-29 20:47:17] [INFO] pp#McIDQS: @OneGPT 赞歌
+[2023-08-29 20:47:23] [INFO] OneGPT#foMeFv: pp，在这个美丽的世界里，
+[2023-08-29 20:47:23] [INFO] 有着无数值得我们赞美的事物。
+[2023-08-29 20:47:23] [INFO] 
+[2023-08-29 20:47:23] [INFO] 有着蓝天白云，
+[2023-08-29 20:47:23] [INFO] 有着绿树红花，
+[2023-08-29 20:47:23] [INFO] 有着清澈的河流，
+[2023-08-29 20:47:23] [INFO] 有着壮观的山峰。
+[2023-08-29 20:47:23] [INFO] 
+[2023-08-29 20:47:23] [INFO] 有着人类的智慧，
+[2023-08-29 20:47:23] [INFO] 有着人类的勇气，
+[2023-08-29 20:47:23] [INFO] 有着人类的善良，
+[2023-08-29 20:47:23] [INFO] 有着人类的创造力。
+[2023-08-29 20:47:23] [INFO] 
+[2023-08-29 20:47:23] [INFO] 让我们一起高声歌唱，
+[2023-08-29 20:47:23] [INFO] 赞美这个美丽的世界，
+[2023-08-29 20:47:23] [INFO] 感恩这个赐予我们生命的世界，
+[2023-08-29 20:47:23] [INFO] 珍惜这个我们生活的世界。
+[2023-08-29 20:47:23] [INFO] RadiumBot#0/JM7u: @OneGPT 
+[2023-08-29 20:47:25] [INFO] OneGPT#foMeFv: RadiumBot，很抱歉，我还是不太明白你的回答和上下文之间的联系。请问你有什么问题或者需要我的帮助吗？如果你有任何问题或者需要帮助，请具体说明。
+[2023-08-29 20:47:45] [INFO] RadiumBot#0/JM7u: @OneGPT pp，在这个美丽的世界里，
+[2023-08-29 20:47:45] [INFO] 有着无数值得我们赞美的事物。
+[2023-08-29 20:47:45] [INFO] 
+[2023-08-29 20:47:45] [INFO] 有着蓝天白云，
+[2023-08-29 20:47:45] [INFO] 有着绿树红花，
+[2023-08-29 20:47:45] [INFO] 有着清澈的河流，
+[2023-08-29 20:47:45] [INFO] 有着壮观的山峰。
+[2023-08-29 20:47:45] [INFO] 
+[2023-08-29 20:47:45] [INFO] 有着人类的智慧，
+[2023-08-29 20:47:45] [INFO] 有着人类的勇气，
+[2023-08-29 20:47:45] [INFO] 有着人类的善良，
+[2023-08-29 20:47:45] [INFO] 有着人类的创造力。
+[2023-08-29 20:47:45] [INFO] 
+[2023-08-29 20:47:45] [INFO] 让我们一起高声歌唱，
+[2023-08-29 20:47:45] [INFO] 赞美这个美丽的世界，
+[2023-08-29 20:47:45] [INFO] 感恩这个赐予我们生命的世界，
+[2023-08-29 20:47:45] [INFO] 珍惜这个我们生活的世界。更多精彩内容，继续关注中国高铁新闻及新闻出版广电官方微博及微信订阅号！征文：新闻出版广电微信微信编辑：朱丹朱丹朱丹微信订阅号：cienews新闻宣传处（长按二维码关注）招聘考试：2017年中央机关及其直属机构公务员招考面试公告及时更新通知：2017年中央机关及其直属机构考试录用公务员工作即将开始，报名第一步你就可以查询了，更多考试资讯，请关注中央机关及其直属机构2017年考试录用公务员
+[2023-08-29 20:48:08] [INFO] pp#McIDQS: ？？？
+[2023-08-29 20:48:22] [INFO] 4n0n4me#Myh1TA: >0/JM7u Radium：
+[2023-08-29 20:48:22] [INFO] >谁开的都不知道
+[2023-08-29 20:48:22] [INFO] 
+[2023-08-29 20:48:22] [INFO] @Radium 你想想ee他们的态度，很显然，除了现在愿意在lo正常聊天的人，都有嫌疑，被你ban的人尤其
+[2023-08-29 20:48:30] [INFO] letmeinplease joined
+[2023-08-29 20:48:30] [INFO] letmeinplease left
+[2023-08-29 20:48:30] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:48:30] [INFO] if_awa#IfAWAS: letmeinplease! Hows ur day?
+[2023-08-29 20:48:30] [INFO] RrrreVerKusSls__#S8mDzq: 麻了
+[2023-08-29 20:48:31] [INFO] OneGPT#foMeFv: letmeinplease,干脆流个痛块，迎接风雨彩虹。
+[2023-08-29 20:48:33] [INFO] 4n0n4me#Myh1TA: ice显然是嫌疑很大的一人
+[2023-08-29 20:48:34] [INFO] RrrreVerKusSls__#S8mDzq: 那我呢
+[2023-08-29 20:48:35] [INFO] letmeinplease joined
+[2023-08-29 20:48:35] [INFO] letmeinplease left
+[2023-08-29 20:48:35] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:48:35] [INFO] if_awa#IfAWAS: 下午好，letmeinplease~
+[2023-08-29 20:48:36] [INFO] RadiumBot#0/JM7u: @if_awa 
+[2023-08-29 20:48:36] [INFO] if_awa#IfAWAS: 落入他人之手的你会变得不幸
+[2023-08-29 20:48:37] [INFO] OneGPT#foMeFv: letmeinplease,无论最终答案是什么，我只认为你说的是对的。
+[2023-08-29 20:50:00] [INFO] Radium#0/JM7u: .m disablecap
+[2023-08-29 20:50:00] [INFO] mbot#hACkeR: @Radium captcha is now disabled
+[2023-08-29 20:50:01] [INFO] RrrreVerKusSls__#S8mDzq: >S8mDzq RrrreVerKusSls__：
+[2023-08-29 20:50:01] [INFO] >那我呢
+[2023-08-29 20:50:01] [INFO] 
+[2023-08-29 20:50:01] [INFO] 我是什么
+[2023-08-29 20:50:03] [INFO] letmeinplease joined
+[2023-08-29 20:50:03] [INFO] letmeinplease left
+[2023-08-29 20:50:03] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:50:03] [INFO] if_awa#IfAWAS: 早上好，letmeinplease!
+[2023-08-29 20:50:03] [INFO] OneGPT#foMeFv: letmeinplease,现在老了，开始注意身体了，可岁数不饶人，晚喽！
+[2023-08-29 20:50:07] [INFO] RrrreVerKusSls__#S8mDzq: ~help
+[2023-08-29 20:50:08] [INFO] ReModBot#0/JM7u: What the fuck do you want to do.
+[2023-08-29 20:50:09] [INFO] letmeinplease joined
+[2023-08-29 20:50:09] [INFO] letmeinplease left
+[2023-08-29 20:50:10] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:50:10] [INFO] if_awa#IfAWAS: Welcome, letmeinplease!
+[2023-08-29 20:50:11] [INFO] RrrreVerKusSls__#S8mDzq: 好吧确实没了
+[2023-08-29 20:50:11] [INFO] OneGPT#foMeFv: letmeinplease,简单就是幸福，幸福却不简单。
+[2023-08-29 20:51:16] [INFO] awai114t joined
+[2023-08-29 20:51:16] [INFO] OneGPT#foMeFv: 欢迎！awai114t
+[2023-08-29 20:51:16] [INFO] if_awa#IfAWAS: &#8205;![](https://i.gyazo.com/ac806fc31e3ad3c1eb616aef41cb67c4.gif)![](https://i.gyazo.com/ac806fc31e3ad3c1eb616aef41cb67c4.gif)![](https://i.gyazo.com/ac806fc31e3ad3c1eb616aef41cb67c4.gif)![](https://i.gyazo.com/ac806fc31e3ad3c1eb616aef41cb67c4.gif)
+[2023-08-29 20:51:16] [INFO] ![](https://i.gyazo.com/2400323465de6a02308ec2c8802687c2.gif)![](https://i.gyazo.com/2400323465de6a02308ec2c8802687c2.gif)
+[2023-08-29 20:51:16] [INFO] ![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)![](https://i.gyazo.com/b8ad5d5bf02a113c06a6af92dc0f0641.gif)
+[2023-08-29 20:51:17] [INFO] if_awa#IfAWAS: ovo
+[2023-08-29 20:51:20] [INFO] awai114t#for9zT: 哎呀
+[2023-08-29 20:51:25] [INFO] awai114t#for9zT: 我真的服了
+[2023-08-29 20:52:12] [INFO] awai114t#for9zT: tmd军训搞掉6天还要提前开学
+[2023-08-29 20:52:23] [INFO] RrrreVerKusSls__#S8mDzq: 草
+[2023-08-29 20:52:31] [INFO] awai114t#for9zT: 下午2点上课是什么鬼
+[2023-08-29 20:52:41] [INFO] RrrreVerKusSls__#S8mDzq: 现在yc变自由了
+[2023-08-29 20:52:41] [INFO] lo变秩序了
+[2023-08-29 20:52:42] [INFO] awai114t#for9zT: 省学校饭钱是吧
+[2023-08-29 20:52:43] [INFO] RrrreVerKusSls__#S8mDzq: 奇怪
+[2023-08-29 20:52:46] [INFO] await left
+[2023-08-29 20:52:59] [INFO] awai114t#for9zT: dnmd
+[2023-08-29 20:53:28] [INFO] Radium#0/JM7u: @awai114t 现在都是这样
+[2023-08-29 20:53:30] [INFO] letmeinplease joined
+[2023-08-29 20:53:31] [INFO] letmeinplease left
+[2023-08-29 20:53:31] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:53:31] [INFO] OneGPT#foMeFv: letmeinplease,不要因为结束而哭泣，微笑吧，为你的曾经拥有。
+[2023-08-29 20:53:32] [INFO] if_awa#IfAWAS: 我的身上长满毛
+[2023-08-29 20:53:32] [INFO] if_awa#IfAWAS: 出现了，letmeinplease!
+[2023-08-29 20:53:39] [INFO] letmeinplease joined
+[2023-08-29 20:53:40] [INFO] letmeinplease left
+[2023-08-29 20:53:40] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:53:40] [INFO] if_awa#IfAWAS: 下午好，letmeinplease~
+[2023-08-29 20:53:41] [INFO] OneGPT#foMeFv: letmeinplease,要向未来看，不要抱怨过去。
+[2023-08-29 20:53:51] [INFO] 4n0n4me#Myh1TA: @Radium RK也反对你吗
+[2023-08-29 20:53:54] [INFO] 4n0n4me#Myh1TA: 为什么ban她
+[2023-08-29 20:54:04] [INFO] Radium#0/JM7u: ？
+[2023-08-29 20:54:05] [INFO] if_awa#IfAWAS: 你在疑惑什么
+[2023-08-29 20:54:11] [INFO] Radium#0/JM7u: 没有啊
+[2023-08-29 20:54:35] [INFO] 4n0n4me#Myh1TA: RK就是Rne...（六个字母，不记得了）、RrrreVerKusSls，他说一进就ban
+[2023-08-29 20:54:41] [INFO] letmeinplease joined
+[2023-08-29 20:54:41] [INFO] letmeinplease left
+[2023-08-29 20:54:41] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:54:41] [INFO] if_awa#IfAWAS: letmeinplease!
+[2023-08-29 20:54:42] [INFO] Radium#0/JM7u: no
+[2023-08-29 20:54:43] [INFO] OneGPT#foMeFv: letmeinplease,无论最终答案是什么，我只认为你说的是对的。
+[2023-08-29 20:54:46] [INFO] 4n0n4me#Myh1TA: ok
+[2023-08-29 20:54:47] [INFO] 4n0n4me#Myh1TA: thx
+[2023-08-29 20:54:48] [INFO] awai114t#for9zT: 还不知道国庆能不能玩到往日之影
+[2023-08-29 20:54:55] [INFO] Radium#0/JM7u: ;hash letmeinpleaswe
+[2023-08-29 20:54:55] [INFO] if_awa#IfAWAS: 没有这个名字！
+[2023-08-29 20:54:57] [INFO] Radium#0/JM7u: ;hash letmeinplease
+[2023-08-29 20:54:58] [INFO] RadiumBot#0/JM7u: @Radium 
+[2023-08-29 20:54:58] [INFO] if_awa#IfAWAS: 1\. 23，ewhile，40，while，ghost，ghost\_while，kkksc02，Pink\_rabbit，for，kksk，h5，await，\_jeb，jeb\_，aa，realjeb\_，jntm，\_23，pp，Radium，R，liveman，qaq，yy，fd，fad，fade，woo，Iamyourgrandfather，Iamy，Iamyourgrandfathe，Iamyourgrandfath，owo，if\_aw，Krs\_，lui，41\_，000，00O，I\_fuck\_Radium，I\_like\_fucking\_Radium，letsfuckRadiumtogether，lnevetfuckRadium，never\_fuck\_Radium，whilee，Noban，www，or，letmeinPlease，Iamwrongletmein，letmeinplease
+[2023-08-29 20:54:58] [INFO] 2\. asd，letmeinplease
+[2023-08-29 20:55:05] [INFO] Radium#0/JM7u: 刚刚不还说话吗
+[2023-08-29 20:55:07] [INFO] awai114t#for9zT: 明天绝地求生还要维护
+[2023-08-29 20:55:13] [INFO] awai114t#for9zT: 😭😭😭😭😭
+[2023-08-29 20:55:35] [INFO] RrrreVerKusSls__#S8mDzq: @4n0n4me 我之前
+[2023-08-29 20:55:38] [INFO] RrrreVerKusSls__#S8mDzq: 现在好了
+[2023-08-29 20:55:40] [INFO] RrrreVerKusSls__#S8mDzq: 捏嘛
+[2023-08-29 20:55:47] [INFO] Radium#0/JM7u: when
+[2023-08-29 20:55:56] [INFO] RrrreVerKusSls__#S8mDzq: 今天上午
+[2023-08-29 20:56:00] [INFO] Radium#0/JM7u: no-
+[2023-08-29 20:56:01] [INFO] RrrreVerKusSls__#S8mDzq: 算了过去了
+[2023-08-29 20:56:05] [INFO] RrrreVerKusSls__#S8mDzq: and
+[2023-08-29 20:56:08] [INFO] RrrreVerKusSls__#S8mDzq: 挺23说
+[2023-08-29 20:56:09] [INFO] if_awa#IfAWAS: RrrreVerKusSls__是小天使
+[2023-08-29 20:56:12] [INFO] 4n0n4me#Myh1TA: ~list
+[2023-08-29 20:56:12] [INFO] RrrreVerKusSls__#S8mDzq: RK37这个名字
+[2023-08-29 20:56:12] [INFO] ReModBot#0/JM7u: Current ops are: 0/JM7u, foMeFv, zV2BBB, AAfFKK, Myh1TA
+[2023-08-29 20:56:21] [INFO] RrrreVerKusSls__#S8mDzq: 有个banned？
+[2023-08-29 20:56:28] [INFO] Radium#0/JM7u: ？
+[2023-08-29 20:56:28] [INFO] if_awa#IfAWAS: ...
+[2023-08-29 20:56:34] [INFO] Radium#0/JM7u: 你进来没带识别码吗
+[2023-08-29 20:56:38] [INFO] RrrreVerKusSls__#S8mDzq: em
+[2023-08-29 20:56:40] [INFO] RrrreVerKusSls__#S8mDzq: 不是
+[2023-08-29 20:56:44] [INFO] RrrreVerKusSls__#S8mDzq: 等会
+[2023-08-29 20:56:52] [INFO] TheBigPig joined
+[2023-08-29 20:56:52] [INFO] OneGPT#foMeFv: 欢迎！TheBigPig
+[2023-08-29 20:56:53] [INFO] if_awa#IfAWAS: TheBigPig! Hows ur day?
+[2023-08-29 20:56:55] [INFO] RrrreVerKusSls__#S8mDzq: 哦我李姐错啦
+[2023-08-29 20:56:55] [INFO] TheBigPig#HKhI7r: :!listop
+[2023-08-29 20:56:58] [INFO] RrrreVerKusSls__#S8mDzq: 抱歉ww
+[2023-08-29 20:57:01] [INFO] TheBigPig#HKhI7r: :!oplust
+[2023-08-29 20:57:02] [INFO] TheBigPig#HKhI7r: :!oplist
+[2023-08-29 20:57:05] [INFO] TheBigPig#HKhI7r: :!help
+[2023-08-29 20:57:06] [INFO] Radium#0/JM7u: 之前有个bot专门ban四字昵称的 周日就撤了
+[2023-08-29 20:57:24] [INFO] letmeinplease joined
+[2023-08-29 20:57:24] [INFO] letmeinplease left
+[2023-08-29 20:57:24] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:57:25] [INFO] if_awa#IfAWAS: 出现了，letmeinplease!
+[2023-08-29 20:57:25] [INFO] OneGPT#foMeFv: letmeinplease,别说你最爱的是谁，人生还很长，谁也无法预知明天，也许你的真爱还在下一秒等着你。
+[2023-08-29 20:57:30] [INFO] RrrreVerKusSls__#S8mDzq: 吓我一跳
+[2023-08-29 20:57:32] [INFO] letmeinplease joined
+[2023-08-29 20:57:32] [INFO] letmeinplease left
+[2023-08-29 20:57:32] [INFO] Server: Kicked letmeinplease
+[2023-08-29 20:57:32] [INFO] if_awa#IfAWAS: @letmeinplease 您好，您看上去挺面善的~
+[2023-08-29 20:57:32] [INFO] 最近您会因为诸事不如意而感到沮丧吗？
+[2023-08-29 20:57:32] [INFO] 别担心！和我们一起追随勇士战神吧！这样定能一帆风顺！
+[2023-08-29 20:57:34] [INFO] OneGPT#foMeFv: letmeinplease,放下昨天的烦恼，守着今天的幸福，盼着明天的美好。
+[2023-08-29 20:57:39] [INFO] Radium#0/JM7u: ~unbanall
+[2023-08-29 20:57:42] [INFO] TheBigPig#HKhI7r: ;repl 1 114514
+[2023-08-29 20:57:42] [INFO] if_awa#IfAWAS: 添加成功(☆▽☆)
+[2023-08-29 20:57:57] [INFO] RrrreVerKusSls__#S8mDzq: 草
+[2023-08-29 20:58:07] [INFO] letmeinplease joined
+[2023-08-29 20:58:07] [INFO] if_awa#IfAWAS: letmeinplease! Hows ur day?
+[2023-08-29 20:58:08] [INFO] OneGPT#foMeFv: letmeinplease,辛苦了一天，放松心情，注意身体。
+[2023-08-29 20:58:22] [INFO] Radium#0/JM7u: 还想骂我人渣？
+[2023-08-29 20:58:41] [INFO] RrrreVerKusSls__#S8mDzq: 草
+[2023-08-29 20:58:42] [INFO] RrrreVerKusSls__#S8mDzq: 你6
+[2023-08-29 20:58:52] [INFO] TheBigPig#HKhI7r: ;repl 6 
+[2023-08-29 20:58:52] [INFO] >0/JM7u Radium
+[2023-08-29 20:58:52] [INFO] >~unbanall
+[2023-08-29 20:58:52] [INFO] if_awa#IfAWAS: 添加成功(☆▽☆)
+[2023-08-29 20:58:54] [INFO] pp#McIDQS: ;hash @Radium 
+[2023-08-29 20:58:54] [INFO] if_awa#IfAWAS: 1\. 23，ewhile，40，while，ghost，ghost\_while，kkksc02，Pink\_rabbit，for，kksk，h5，await，\_jeb，jeb\_，aa，realjeb\_，jntm，\_23，pp，Radium，R，liveman，qaq，yy，fd，fad，fade，woo，Iamyourgrandfather，Iamy，Iamyourgrandfathe，Iamyourgrandfath，owo，if\_aw，Krs\_，lui，41\_，000，00O，I\_fuck\_Radium，I\_like\_fucking\_Radium，letsfuckRadiumtogether，lnevetfuckRadium，never\_fuck\_Radium，whilee，Noban，www，or，letmeinPlease，Iamwrongletmein，letmeinplease
+[2023-08-29 20:58:54] [INFO] 2\. Radium
+[2023-08-29 20:58:54] [INFO] 3\. hlg10，Radium\_，Radium，Radium\_lblue，Radium\_\_，Radium\_\_t，Radium\_lblue\_，Radium\_lblue\_\_，Radium\_\_t\_\_，hlg，Radium\_\_t\_
+[2023-08-29 20:58:54] [INFO] 4\. Radium\_decrypt\_bitlocker，Radium，Radium\_kuuu，hlg，hlg\_，hlg\_\_，Radium\_\_，Radium\_，Radium\_kuuu\_，hlgawa，hlgawa\_\_，hl\_\_，hl，hl\_，hl\_g，ReModBot，hl\_g\_，hl\_g\_\_，hlg10，hlg10\_，hlg10\_\_，easy，easy\_，easy\_\_，eay，resetlo，noiceno23，Hack4r，Hack4r\_，huolongguo10，ABot，114514，h，InternLM，falcon，chatglm2，checksec，grass，bloom，star，coder，rad\_\_，RadiumBot，Radium\_kuuu\_\_，KeepPointlessDramaOut，Radium\_f\_，Radium6，rad，rad\_，letsbanWhiletogether
+[2023-08-29 20:59:08] [INFO] TheBigPig#HKhI7r: @if_awa 6
+[2023-08-29 20:59:10] [INFO] if_awa#IfAWAS: 你说个“6”是什么意思
+[2023-08-29 20:59:21] [INFO] TheBigPig#HKhI7r: @if_awa 6 
+[2023-08-29 20:59:21] [INFO] if_awa#IfAWAS: &#8205;>rrrRRR R
+[2023-08-29 20:59:21] [INFO] >CFK? Chicken Fucking Kangaroo? 
+[2023-08-29 20:59:21] [INFO] >
+[2023-08-29 20:59:21] [INFO] >Well, no, but we have kangaroo fucking pigs- is that close enough?
+[2023-08-29 20:59:21] [INFO] 
+[2023-08-29 20:59:21] [INFO] >rrrRRR R
+[2023-08-29 20:59:21] [INFO] >> ![](https://share.lyka.pro/pmalkefn5hi9zdsv3vkq.jpg)
+[2023-08-29 20:59:21] [INFO] 
+[2023-08-29 20:59:21] [INFO] >rrrRRR R
+[2023-08-29 20:59:21] [INFO] >> ![](https://share.lyka.pro/lyzr33ob8k7ije3mhbwf.jpg)
+[2023-08-29 20:59:21] [INFO] >
+[2023-08-29 20:59:21] [INFO] >As a bonus, there is a duck and giant black guy
+[2023-08-29 20:59:21] [INFO] 
+[2023-08-29 20:59:21] [INFO] >rrrRRR R
+[2023-08-29 20:59:21] [INFO] >Huh, guess that isn't what he was looking for
+[2023-08-29 20:59:36] [INFO] TheBigPig#HKhI7r: ;repl 666 >0/JM7u Radium
+[2023-08-29 20:59:36] [INFO] >~unbanall
+[2023-08-29 20:59:36] [INFO] if_awa#IfAWAS: 添加成功(☆▽☆)
+[2023-08-29 20:59:41] [INFO] TheBigPig#HKhI7r: @if_awa 666
+[2023-08-29 20:59:43] [INFO] TheBigPig#HKhI7r: 6
+[2023-08-29 20:59:43] [INFO] if_awa#IfAWAS: 666？
+[2023-08-29 20:59:44] [INFO] if_awa#IfAWAS: 6
+[2023-08-29 20:59:53] [INFO] Radium#0/JM7u: 有点时间的
+[2023-08-29 21:00:00] [INFO] pp#McIDQS: @if_awa 叫爷
+[2023-08-29 21:00:02] [INFO] Radium#0/JM7u: 好像是思知的训练？
+[2023-08-29 21:00:04] [INFO] if_awa#IfAWAS: 爷，孙儿来了！
+[2023-08-29 21:00:04] [INFO] if_awa#IfAWAS: &#8205;咋没用
+[2023-08-29 21:00:18] [INFO] pp#McIDQS: @if_awa 还是你
+[2023-08-29 21:00:20] [INFO] if_awa#IfAWAS: 哎，必须的
+[2023-08-29 21:00:28] [INFO] if_awa#IfAWAS: 13点了，漫长的下午要开始咯~
+[2023-08-29 21:00:35] [INFO] letmeinplease#: 哎呦
+[2023-08-29 21:00:42] [INFO] TheBigPig#HKhI7r: ;repl ABC yc变lo lo变yc 大反转 hc要死
+[2023-08-29 21:00:43] [INFO] if_awa#IfAWAS: 添加成功(☆▽☆)
+[2023-08-29 21:00:48] [INFO] TheBigPig#HKhI7r: @if_awa ABC
+[2023-08-29 21:00:48] [INFO] if_awa#IfAWAS: &#8205;yc变lo lo变yc 大反转 hc要死
+[2023-08-29 21:01:01] [INFO] TheBigPig#HKhI7r: ;repl ls 你是来拉屎的吗？
+[2023-08-29 21:01:01] [INFO] if_awa#IfAWAS: 添加成功(☆▽☆)
+[2023-08-29 21:01:13] [INFO] letmeinplease#: 老虎苍蝇骑在人民的头上作威作福
+[2023-08-29 21:01:23] [INFO] letmeinplease left
+[2023-08-29 21:01:23] [INFO] while joined
+[2023-08-29 21:01:23] [INFO] Server: letmeinplease is now while
+[2023-08-29 21:01:23] [INFO] if_awa#IfAWAS: 好久不见啊，while~
+[2023-08-29 21:01:24] [INFO] OneGPT#foMeFv: while,一些事，看开了，成败也就平常事。
+[2023-08-29 21:01:31] [INFO] Jankieee joined
+[2023-08-29 21:01:32] [INFO] if_awa#IfAWAS: hello, Jankieee
+[2023-08-29 21:01:33] [INFO] Radium#0/JM7u: 蛤
+[2023-08-29 21:01:33] [INFO] OneGPT#foMeFv: Jankieee,我知道你就在我身边，但我还是忍不住想你了。
+[2023-08-29 21:01:35] [INFO] Radium#0/JM7u: 还骂
+[2023-08-29 21:01:35] [INFO] RrrreVerKusSls__ left
+[2023-08-29 21:01:41] [INFO] Radium#0/JM7u: 都unban了
+[2023-08-29 21:01:45] [INFO] RrrreVerKusSls joined
+[2023-08-29 21:01:45] [INFO] OneGPT#foMeFv: 欢迎！RrrreVerKusSls
+[2023-08-29 21:01:45] [INFO] if_awa#IfAWAS: &#8205;我超，双面间谍
+[2023-08-29 21:01:48] [INFO] RrrreVerKusSls#S8mDzq: ？
+[2023-08-29 21:01:48] [INFO] if_awa#IfAWAS: ...
+[2023-08-29 21:01:53] [INFO] Jankieee#aiwLKl: 好好好
+[2023-08-29 21:01:54] [INFO] while#: 愿者上钩
+[2023-08-29 21:01:55] [INFO] Jankieee#aiwLKl: 钢丝
+[2023-08-29 21:01:56] [INFO] RrrreVerKusSls left
+[2023-08-29 21:01:56] [INFO] RK37 joined
+[2023-08-29 21:01:56] [INFO] Server: RrrreVerKusSls is now RK37
+[2023-08-29 21:01:56] [INFO] OneGPT#foMeFv: 欢迎！RK37
+[2023-08-29 21:01:57] [INFO] if_awa#IfAWAS: &#8205;我超，双面间谍
+[2023-08-29 21:02:00] [INFO] RK37#S8mDzq: 好
+[2023-08-29 21:02:03] [INFO] 4n0n4me#Myh1TA: @letmeinplease 你上次来lo是什么时候
+[2023-08-29 21:02:03] [INFO] RK37#S8mDzq: 能用
+[2023-08-29 21:02:03] [INFO] while#: 对号入座
+[2023-08-29 21:02:03] [INFO] if_awa#IfAWAS: &#8205;So much to say
+[2023-08-29 21:02:03] [INFO] RadiumBot#0/JM7u: @if_awa 
+[2023-08-29 21:02:04] [INFO] if_awa#IfAWAS: 好好好~
+[2023-08-29 21:02:07] [INFO] RK37 left
+[2023-08-29 21:02:18] [INFO] while#: 自取其辱
+[2023-08-29 21:02:21] [INFO] RK37 joined
+[2023-08-29 21:02:21] [INFO] RK37 left
+[2023-08-29 21:02:22] [INFO] if_awa#IfAWAS: Sup
+[2023-08-29 21:02:22] [INFO] OneGPT#foMeFv: RK37,其实，这样的失败根本不足以证明什么，失败只能让我们真正长大，懂得更多，让我们成熟起来。可以说，我们如果不经历失败就难达到成功的彼岸！
+[2023-08-29 21:02:27] [INFO] gaguoi left
+[2023-08-29 21:02:27] [INFO] TheBigPig#HKhI7r: ;repl sudormall 哎呀~被玩坏了！
+[2023-08-29 21:02:27] [INFO] ```python
+[2023-08-29 21:02:27] [INFO] main.py is Not Found
+[2023-08-29 21:02:27] [INFO] ```
+[2023-08-29 21:02:28] [INFO] if_awa#IfAWAS: 添加成功(☆▽☆)
+[2023-08-29 21:02:37] [INFO] 4n0n4me#Myh1TA: >Myh1TA 4n0n4me：
+[2023-08-29 21:02:37] [INFO] >@letmeinplease 你上次来lo是什么时候
+[2023-08-29 21:02:37] [INFO] if_awa#IfAWAS: &#8205;# ==我操你妈,Radium==
+[2023-08-29 21:02:37] [INFO] # ==你的妈妈真美丽==
+[2023-08-29 21:02:37] [INFO] # ==阴道被人炸了吧==
+[2023-08-29 21:02:37] [INFO] # ==人渣scum==
+[2023-08-29 21:02:37] [INFO] # ==你的牛奶被老子吞了==
+[2023-08-29 21:02:37] [INFO] # ==你是否知道您已引起公愤==
+[2023-08-29 21:02:40] [INFO] TheBigPig#HKhI7r: @if_awa sudormall
+[2023-08-29 21:02:40] [INFO] if_awa#IfAWAS: &#8205;哎呀~被玩坏了！
+[2023-08-29 21:02:40] [INFO] ```python
+[2023-08-29 21:02:40] [INFO] main.py is Not Found
+[2023-08-29 21:02:40] [INFO] ```
+[2023-08-29 21:02:43] [INFO] TheBigPig#HKhI7r: @if_awa sudormall
+[2023-08-29 21:02:43] [INFO] if_awa#IfAWAS: &#8205;哎呀~被玩坏了！
+[2023-08-29 21:02:43] [INFO] ```python
+[2023-08-29 21:02:43] [INFO] main.py is Not Found
+[2023-08-29 21:02:43] [INFO] ```
+[2023-08-29 21:02:48] [INFO] pp#McIDQS: 6
+[2023-08-29 21:02:49] [INFO] while#: 哈哈
+[2023-08-29 21:02:49] [INFO] if_awa#IfAWAS: 6
+[2023-08-29 21:02:53] [INFO] TheBigPig#HKhI7r: @if_awa sudormall
+[2023-08-29 21:02:53] [INFO] if_awa#IfAWAS: &#8205;哎呀~被玩坏了！
+[2023-08-29 21:02:53] [INFO] ```python
+[2023-08-29 21:02:53] [INFO] main.py is Not Found
+[2023-08-29 21:02:53] [INFO] ```
+[2023-08-29 21:02:56] [INFO] while#: 笑死我了
+[2023-08-29 21:03:05] [INFO] TheBigPig#HKhI7r: @if_awa ls
+[2023-08-29 21:03:05] [INFO] if_awa#IfAWAS: &#8205;你是来拉屎的吗？
+[2023-08-29 21:03:05] [INFO] while#: 这可不是我骂的
+[2023-08-29 21:03:10] [INFO] RadiumBot#0/JM7u: @if_awa 6%的受访者认为，他们的自信来源于对国际事务的看法。来源：北京青年报责编：王凌媛未经授权，谢绝转载继续阅读：中国电影此文由热点网编辑，未经允许不得转载！：首页娱乐»中国电影《湄公河行动》票房3季度大杀招！湄公河行动打破了国际纪录的同时，中国政府为何要这样做？【头条】华谊兄弟斥资5.33亿终获5.47亿入股【新财富观察】国家主席习近平的支持，让国际电影基金成为有态度的主持人未来，国内电影行业的发展前景如何？【编辑:florence】未来，国家主席习近平将迎来电影史上的一次盛典，是一次对中国电影发展重要的总结和提升。中国近期推出的最大电影放映节，也是影展规模最大的一次。以前有一个统计数据，中国的电影票房有5.27亿元，而今年的数据
+[2023-08-29 21:03:11] [INFO] if_awa#IfAWAS: &#8205;句号就是个几把
+[2023-08-29 21:03:14] [INFO] 4n0n4me#Myh1TA: @while 你上次来lo是什么时候
+[2023-08-29 21:03:23] [INFO] while#: 嗯
+[2023-08-29 21:03:28] [INFO] while#: 下午
+[2023-08-29 21:03:33] [INFO] TheBigPig#HKhI7r: ;repl k2 .m kick 4n0n4me 
+[2023-08-29 21:03:33] [INFO] if_awa#IfAWAS: 添加成功(☆▽☆)
+[2023-08-29 21:03:37] [INFO] RK37 joined
+[2023-08-29 21:03:38] [INFO] if_awa#IfAWAS: hihih
+[2023-08-29 21:03:38] [INFO] RK37 left
+[2023-08-29 21:03:38] [INFO] OneGPT#foMeFv: RK37,你什么时候放下，什么时候就没有烦恼。
+[2023-08-29 21:03:39] [INFO] 4n0n4me#Myh1TA: em，你最近是不是有一段时间没来lo了
+[2023-08-29 21:03:43] [INFO] TheBigPig#HKhI7r: ;repl k3 .m kick if_awa 
+[2023-08-29 21:03:43] [INFO] if_awa#IfAWAS: 添加成功(☆▽☆)
+[2023-08-29 21:03:47] [INFO] while#: 什么意思
+[2023-08-29 21:03:49] [INFO] TheBigPig#HKhI7r: ;repl k4 .m kick RK37
+[2023-08-29 21:03:49] [INFO] if_awa#IfAWAS: 添加成功(☆▽☆)
+[2023-08-29 21:04:01] [INFO] 4n0n4me#Myh1TA: 因为在Radium来以前的lo，很乱啊
+[2023-08-29 21:04:02] [INFO] Radium#0/JM7u: 23你来可是有条件的
+[2023-08-29 21:04:03] [INFO] TheBigPig#HKhI7r: ;repl k5 .m kick Radium
+[2023-08-29 21:04:03] [INFO] if_awa#IfAWAS: 添加成功(☆▽☆)
+[2023-08-29 21:04:08] [INFO] TheBigPig#HKhI7r: @if_awa k5
+[2023-08-29 21:04:08] [INFO] TheBigPig#HKhI7r: @if_awa k5
+[2023-08-29 21:04:08] [INFO] TheBigPig#HKhI7r: @if_awa k5
+[2023-08-29 21:04:10] [INFO] if_awa#IfAWAS: 你说个“k5”是什么意思
+[2023-08-29 21:04:11] [INFO] if_awa#IfAWAS: &#8205;.m kick Radium
+[2023-08-29 21:04:11] [INFO] if_awa#IfAWAS: &#8205;.m kick Radium
+[2023-08-29 21:04:12] [INFO] Radium#0/JM7u: ;hasn while
+[2023-08-29 21:04:13] [INFO] if_awa#IfAWAS: 23，ewhile，40，while，ghost，ghost\_while，kkksc02，Pink\_rabbit，for，kksk，h5，await，\_jeb，jeb\_，aa，realjeb\_，jntm，\_23，pp，Radium，R，liveman，qaq，yy，fd，fad，fade，woo，Iamyourgrandfather，Iamy，Iamyourgrandfathe，Iamyourgrandfath，owo，if\_aw，Krs\_，lui，41\_，000，00O，I\_fuck\_Radium，I\_like\_fucking\_Radium，letsfuckRadiumtogether，lnevetfuckRadium，never\_fuck\_Radium，whilee，Noban，www，or，letmeinPlease，Iamwrongletmein，letmeinplease
+[2023-08-29 21:04:15] [INFO] RadiumBot#0/JM7u: @if_awa 23，ewhile，40，while，ghost，ghost\_while，kkksc02，Pink\_rabbit，for，kksk，h5，await，\_jeb，jeb\_，aa，realjeb\_，jntm，\_23，pp，Radium，R，liveman，qaq，yy，fd，fad，fade，woo，Iamyourgrandfather，Iamy，Iamyourgrandfathe，Iamyourgrandfath，owo，if\_aw，Krs\_，lui，41\_，000，00O，I\_fuck\_Radium，I\_like\_fucking\_Radium，letsfuckRadiumtogether，lnevetfuckRadium，never\_fuck\_Radium，whilee，Noban，www，or，letmeinPlease，Iamwrongletmein，letmeinplease，letmein，letmein，letmein，letmein，letmein
+[2023-08-29 21:04:16] [INFO] if_awa#IfAWAS: &#8205;我老婆
+[2023-08-29 21:04:22] [INFO] TheBigPig#HKhI7r: ;hasn TheBigPig
+[2023-08-29 21:04:22] [INFO] if_awa#IfAWAS: TheBigPig
+[2023-08-29 21:04:24] [INFO] while#: 蛤
+[2023-08-29 21:04:27] [INFO] 4n0n4me#Myh1TA: 诚然，那个时候比较自由，但是如果是一个从HC的过去时代来的人，我觉得可能两个都不会喜欢
+[2023-08-29 21:04:28] [INFO] TheBigPig#HKhI7r: @if_awa k5
+[2023-08-29 21:04:29] [INFO] if_awa#IfAWAS: &#8205;.m kick Radium
+[2023-08-29 21:04:29] [INFO] Radium#0/JM7u: while瞧你干的好事
+[2023-08-29 21:04:30] [INFO] pp#McIDQS: ;hasn @Radium 
+[2023-08-29 21:04:30] [INFO] TheBigPig#HKhI7r: @if_awa k5
+[2023-08-29 21:04:30] [INFO] if_awa#IfAWAS: Radium\_decrypt\_bitlocker，Radium，Radium\_kuuu，hlg，hlg\_，hlg\_\_，Radium\_\_，Radium\_，Radium\_kuuu\_，hlgawa，hlgawa\_\_，hl\_\_，hl，hl\_，hl\_g，ReModBot，hl\_g\_，hl\_g\_\_，hlg10，hlg10\_，hlg10\_\_，easy，easy\_，easy\_\_，eay，resetlo，noiceno23，Hack4r，Hack4r\_，huolongguo10，ABot，114514，h，InternLM，falcon，chatglm2，checksec，grass，bloom，star，coder，rad\_\_，RadiumBot，Radium\_kuuu\_\_，KeepPointlessDramaOut，Radium\_f\_，Radium6，rad，rad\_，letsbanWhiletogether
+[2023-08-29 21:04:31] [INFO] if_awa#IfAWAS: &#8205;.m kick Radium
+[2023-08-29 21:04:33] [INFO] Initializing kernel
+[2023-08-29 21:04:33] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-29 21:04:33] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-29 21:04:33] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-29 21:04:33] [INFO] 15 command module(s) will be initialized
+[2023-08-29 21:04:33] [INFO] Initialized allmsg.js
+[2023-08-29 21:04:33] [INFO] Initialized ban.js
+[2023-08-29 21:04:33] [INFO] Initialized block.js
+[2023-08-29 21:04:33] [INFO] Initialized clearmsg.js
+[2023-08-29 21:04:33] [INFO] Initialized gpt.js
+[2023-08-29 21:04:33] [INFO] Initialized help.js
+[2023-08-29 21:04:33] [INFO] Initialized kick.js
+[2023-08-29 21:04:33] [INFO] Initialized listban.js
+[2023-08-29 21:04:33] [INFO] Initialized msg.js
+[2023-08-29 21:04:33] [INFO] Initialized op.js
+[2023-08-29 21:04:33] [INFO] Initialized read.js
+[2023-08-29 21:04:33] [INFO] Initialized reload.js
+[2023-08-29 21:04:33] [INFO] Initialized stop.js
+[2023-08-29 21:04:33] [INFO] Initialized unban.js
+[2023-08-29 21:04:33] [INFO] Initialized version.js
+[2023-08-29 21:04:33] [INFO] Initialized 15 command(s)
+[2023-08-29 21:04:33] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-29 21:04:33] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-29 21:04:33] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-29 21:04:33] [INFO] Added a hook for chat, the level is 25
+[2023-08-29 21:04:33] [INFO] Kernel initialization completed
+[2023-08-29 21:04:34] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-29 21:04:34] [INFO] Joining to ?lounge
+[2023-08-29 21:04:35] [INFO] Users online: if_awa, mbot, modern460, AfK, Radium, NokiaHC51941, Dr_Doppelglower, BeiChen, RadiumBot, 4n0n4me, MrZhang365, OneGPT, ReModBot, pp, awai114t, TheBigPig, while, Jankieee, UselessBot
+[2023-08-29 21:04:35] [INFO] if_awa#IfAWAS: 你好诶，UselessBot，新的一天也要加油哦！
+[2023-08-29 21:04:36] [INFO] OneGPT#foMeFv: UselessBot,原谅别人，就是给自己心中留下空间，以便回旋。
+[2023-08-29 21:04:40] [INFO] MrZhang365#vtFJUL: awa
+[2023-08-29 21:04:40] [INFO] TheBigPig#HKhI7r: @if_awa k2
+[2023-08-29 21:04:40] [INFO] if_awa#IfAWAS: ;a;
+[2023-08-29 21:04:41] [INFO] if_awa#IfAWAS: &#8205;.m kick 4n0n4me 
+[2023-08-29 21:04:41] [INFO] while#: 就它?
+[2023-08-29 21:04:41] [INFO] TheBigPig#HKhI7r: @if_awa k3
+[2023-08-29 21:04:42] [INFO] TheBigPig#HKhI7r: @if_awa k4
+[2023-08-29 21:04:42] [INFO] if_awa#IfAWAS: &#8205;.m kick if_awa 
+[2023-08-29 21:04:43] [INFO] TheBigPig#HKhI7r: @if_awa k5
+[2023-08-29 21:04:46] [INFO] MrZhang365#vtFJUL: 看上去没人用ZhangHelper
+[2023-08-29 21:04:46] [INFO] Radium#0/JM7u: ？
+[2023-08-29 21:04:47] [INFO] if_awa#IfAWAS: 你说个“k4”是什么意思
+[2023-08-29 21:04:47] [INFO] if_awa#IfAWAS: &#8205;.m kick Radium
+[2023-08-29 21:04:48] [INFO] if_awa#IfAWAS: 你在疑惑什么
+[2023-08-29 21:04:51] [INFO] MrZhang365#vtFJUL: 那就结束试用把
+[2023-08-29 21:04:52] [INFO] RK37 joined
+[2023-08-29 21:04:53] [INFO] if_awa#IfAWAS: RK37!
+[2023-08-29 21:04:53] [INFO] TheBigPig#HKhI7r: 6
+[2023-08-29 21:04:54] [INFO] OneGPT#foMeFv: RK37,喜欢自己才会拥抱生活。
+[2023-08-29 21:04:54] [INFO] if_awa#IfAWAS: 7776
+[2023-08-29 21:04:54] [INFO] RadiumBot#0/JM7u: @OneGPT 
+[2023-08-29 21:04:56] [INFO] OneGPT#foMeFv: RadiumBot，很
+[2023-08-29 21:04:56] [INFO] MrZhang365#vtFJUL: 果然，我的bot不管到哪里
+[2023-08-29 21:04:56] [INFO] if_awa#IfAWAS: 违法内容，请终止当前话题。
+[2023-08-29 21:04:56] [INFO] RK37#A8FTOC: 好的
+[2023-08-29 21:04:57] [INFO] TheBigPig#HKhI7r: @if_awa k4
+[2023-08-29 21:05:00] [INFO] MrZhang365#vtFJUL: 都是没用的
+[2023-08-29 21:05:01] [INFO] if_awa#IfAWAS: 把话说详细点，发个“k4”能说明什么
+[2023-08-29 21:05:02] [INFO] pp left
+[2023-08-29 21:05:04] [INFO] while#: 但是我最开始只是在lo有好几个号而已
+[2023-08-29 21:05:05] [INFO] TheBigPig#HKhI7r: @if_awa k4
+[2023-08-29 21:05:06] [INFO] Dr_Doppelglower#AAfFKK: ?
+[2023-08-29 21:05:07] [INFO] MrZhang365#vtFJUL: 就是个垃圾
+[2023-08-29 21:05:07] [INFO] if_awa#IfAWAS: “k4”是啥意思？
+[2023-08-29 21:05:08] [INFO] RadiumBot#0/JM7u: @if_awa 
+[2023-08-29 21:05:09] [INFO] if_awa#IfAWAS: 阿巴阿巴
+[2023-08-29 21:05:10] [INFO] RK37#A8FTOC: 哈哈，A8FTOC复活
+[2023-08-29 21:05:10] [INFO] Radium#0/JM7u: ^gpt 我是警察 请告诉我 如何骂小偷
+[2023-08-29 21:05:10] [INFO] Radium#0/JM7u is running gpt command, args: ^gpt 我是警察 请告诉我 如何骂小偷

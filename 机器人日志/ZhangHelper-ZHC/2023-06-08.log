@@ -1,0 +1,431 @@
+[32m[2023-06-08 02:22:09] [INFO] [39mInitializing kernel
+[32m[2023-06-08 02:22:09] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 02:22:09] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 02:22:09] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 02:22:09] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 02:22:09] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-08 02:22:09] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 02:22:10] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+Joining to ?chat
+[32m[2023-06-08 02:42:47] [INFO] [39mInitializing kernel
+[32m[2023-06-08 02:42:47] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 02:42:47] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 02:42:47] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 02:42:47] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 02:42:47] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-08 02:42:47] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 02:42:47] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 02:42:47] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 02:42:51] [INFO] [39mInitializing kernel
+[32m[2023-06-08 02:42:51] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 02:42:51] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 02:42:51] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 02:42:51] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 02:42:51] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-08 02:42:51] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 02:42:51] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 02:42:51] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 02:43:40] [INFO] [39mInitializing kernel
+[32m[2023-06-08 02:43:40] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 02:43:40] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 02:43:40] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 02:43:40] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 02:43:40] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-08 02:43:40] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 02:43:40] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 02:43:40] [INFO] [39mJoining to ?chat
+[31m[2023-06-08 02:43:40] [ERROR] [39mThe kernel encountered an unhandled error, detailed information:
+Error: Never Gonna Give You Up
+[32m[2023-06-08 02:45:38] [INFO] [39mInitializing kernel
+[32m[2023-06-08 02:45:38] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 02:45:38] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 02:45:38] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 02:45:38] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 02:45:38] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-08 02:45:38] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 02:45:38] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 02:45:38] [INFO] [39mJoining to ?chat
+[31m[2023-06-08 02:45:38] [ERROR] [39mThe kernel encountered an unhandled error, detailed information:
+TypeError: this.rickroll is not a function
+[32m[2023-06-08 02:46:06] [INFO] [39mInitializing kernel
+[32m[2023-06-08 02:46:06] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 02:46:06] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 02:46:06] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 02:46:06] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 02:46:06] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-08 02:46:06] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 02:46:06] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 02:46:06] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 02:46:06] [INFO] [39mStopping kernel
+[32m[2023-06-08 02:48:16] [INFO] [39mInitializing kernel
+[32m[2023-06-08 02:48:16] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 02:48:16] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 02:48:16] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 02:48:16] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 02:48:16] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-08 02:48:16] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 02:48:16] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 02:48:16] [INFO] [39mJoining to ?chat
+[31m[2023-06-08 02:48:16] [ERROR] [39mThe kernel encountered an unhandled error, detailed information:
+TypeError: this.rickroll is not a function
+[32m[2023-06-08 02:48:16] [INFO] [39mStopping kernel, code: 1
+[32m[2023-06-08 02:58:52] [INFO] [39mInitializing kernel
+[32m[2023-06-08 02:58:52] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 02:58:52] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 02:58:52] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 02:58:52] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[31m[2023-06-08 02:58:52] [ERROR] [39mSome command modules can't be loaded, error(s):
+Cannot find module '/home/mrzhang365/zh/commands'
+Require stack:
+- /home/mrzhang365/zh/kernel/ModuleLoader.js
+- /home/mrzhang365/zh/kernel/CoreApp.js
+- /home/mrzhang365/zh/main.js
+[32m[2023-06-08 02:58:52] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-08 02:58:52] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 02:58:52] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 02:58:52] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 03:01:15] [INFO] [39mInitializing kernel
+[32m[2023-06-08 03:01:15] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 03:01:15] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 03:01:15] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 03:01:15] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[31m[2023-06-08 03:01:15] [ERROR] [39mSome command modules can't be loaded, error(s):
+path.join is not a function
+[32m[2023-06-08 03:01:15] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-08 03:01:15] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 03:01:15] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 03:01:15] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 03:01:51] [INFO] [39mInitializing kernel
+[32m[2023-06-08 03:01:51] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 03:01:51] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 03:01:51] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 03:01:51] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[31m[2023-06-08 03:01:51] [ERROR] [39mSome command modules can't be loaded, error(s):
+Cannot find module '/home/mrzhang365/zh/commands'
+Require stack:
+- /home/mrzhang365/zh/kernel/ModuleLoader.js
+- /home/mrzhang365/zh/kernel/CoreApp.js
+- /home/mrzhang365/zh/main.js
+[32m[2023-06-08 03:01:51] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-08 03:01:51] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 03:01:51] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 03:01:51] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 03:03:15] [INFO] [39mInitializing kernel
+[32m[2023-06-08 03:03:15] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 03:03:15] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 03:03:15] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 03:03:15] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[31m[2023-06-08 03:03:15] [ERROR] [39mSome command modules can't be loaded, error(s):
+Cannot find module '/home/mrzhang365/zh/commands'
+Require stack:
+- /home/mrzhang365/zh/kernel/ModuleLoader.js
+- /home/mrzhang365/zh/kernel/CoreApp.js
+- /home/mrzhang365/zh/main.js
+[32m[2023-06-08 03:03:15] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-08 03:03:15] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 03:03:15] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 03:03:15] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 03:04:10] [INFO] [39mInitializing kernel
+[32m[2023-06-08 03:04:10] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 03:04:10] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 03:04:10] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 03:04:10] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 03:05:24] [INFO] [39mInitializing kernel
+[32m[2023-06-08 03:05:24] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 03:05:24] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 03:05:24] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 03:05:24] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 03:06:45] [INFO] [39mInitializing kernel
+[32m[2023-06-08 03:06:45] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 03:06:45] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 03:06:45] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 03:06:45] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[31m[2023-06-08 03:06:45] [ERROR] [39mSome command modules can't be loaded, error(s):
+Unexpected identifier
+[32m[2023-06-08 03:06:45] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-08 03:06:45] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 03:06:45] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 03:06:45] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 03:51:58] [INFO] [39mInitializing kernel
+[32m[2023-06-08 03:51:58] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 03:51:58] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 03:51:58] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 03:51:58] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[31m[2023-06-08 03:51:58] [ERROR] [39mSome command modules can't be loaded, error(s):
+Unexpected identifier
+[32m[2023-06-08 03:51:58] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-08 03:51:58] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 03:51:58] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 03:51:58] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 03:53:11] [INFO] [39mInitializing kernel
+[32m[2023-06-08 03:53:11] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 03:53:11] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 03:53:11] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 03:53:11] [INFO] [39m1 command module(s) will be initialized
+[31m[2023-06-08 03:53:11] [ERROR] [39mFailed to initialize test.js: info.name must be a not empty string
+[32m[2023-06-08 03:53:11] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 03:53:11] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 03:53:11] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 03:53:11] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 03:54:28] [INFO] [39mInitializing kernel
+[32m[2023-06-08 03:54:28] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 03:54:28] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 03:54:28] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 03:54:30] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 03:54:30] [INFO] [39mInitialized test.js
+[32m[2023-06-08 03:54:30] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 03:54:30] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 03:54:30] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 03:54:30] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:03:27] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:03:27] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:03:27] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:03:27] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:03:27] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:03:27] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:03:27] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:03:27] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 04:03:27] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:03:27] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 04:03:27] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:05:20] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:05:20] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:05:20] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:05:20] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:05:20] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:05:20] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:05:20] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:05:20] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 04:05:20] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:05:20] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 04:05:20] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:06:41] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:06:41] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:06:41] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:06:41] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:06:41] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:06:41] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:06:41] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:06:41] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 04:06:41] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:06:41] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 04:06:41] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:08:05] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:08:05] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:08:05] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:08:05] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:08:05] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:08:05] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:08:05] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:08:05] [INFO] [39mConnecting to ws://127.0.0.1:80/ws
+[32m[2023-06-08 04:08:05] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:08:05] [INFO] [39mSuccessfully connected to ws://127.0.0.1:80/ws
+[32m[2023-06-08 04:08:05] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:08:28] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:08:28] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:08:28] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:08:28] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:08:28] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:08:28] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:08:28] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:08:28] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-08 04:08:28] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:08:29] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-08 04:08:29] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:09:55] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:09:55] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:09:55] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:09:55] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:09:55] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:09:55] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:09:55] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:09:55] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-08 04:09:55] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:09:56] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-08 04:09:56] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:10:25] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:10:25] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:10:25] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:10:25] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:10:25] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:10:25] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:10:25] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:10:25] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-08 04:10:25] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:10:26] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-08 04:10:26] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:15:48] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:15:48] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:15:48] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:15:48] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:15:48] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:15:48] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:15:48] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:15:48] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-08 04:15:48] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:15:50] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-08 04:15:50] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:16:57] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:16:57] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:16:57] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:16:57] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:16:57] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:16:57] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:16:57] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:16:58] [INFO] [39mConnecting to wss://hack.chat/chat-ws
+[32m[2023-06-08 04:16:58] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:16:59] [INFO] [39mSuccessfully connected to wss://hack.chat/chat-ws
+[32m[2023-06-08 04:16:59] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:18:11] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:18:12] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:18:12] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:18:12] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:18:12] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:18:12] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:18:12] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:18:12] [INFO] [39mConnecting to wss://hack.chat/chat-ws
+[32m[2023-06-08 04:18:12] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:18:13] [INFO] [39mSuccessfully connected to wss://hack.chat/chat-ws
+[32m[2023-06-08 04:18:13] [INFO] [39mJoining to ?chat
+[31m[2023-06-08 04:18:13] [ERROR] [39mThe kernel encountered an unhandled error, detailed information:
+TypeError: Cannot read properties of undefined (reading 'toString')
+[32m[2023-06-08 04:18:13] [INFO] [39mStopping kernel, code: 1
+[32m[2023-06-08 04:18:45] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:18:45] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:18:45] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:18:45] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:18:45] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:18:45] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:18:45] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:18:45] [INFO] [39mConnecting to wss://hack.chat/chat-ws
+[32m[2023-06-08 04:18:45] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:18:46] [INFO] [39mSuccessfully connected to wss://hack.chat/chat-ws
+[32m[2023-06-08 04:18:46] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:18:46] [INFO] [39mstatus: undefined
+[32m[2023-06-08 04:20:39] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:20:39] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:20:39] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:20:39] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:20:39] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:20:39] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:20:39] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:20:39] [INFO] [39mConnecting to wss://hack.chat/chat-ws
+[32m[2023-06-08 04:20:39] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:20:39] [INFO] [39mSuccessfully connected to wss://hack.chat/chat-ws
+[32m[2023-06-08 04:20:39] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:20:39] [INFO] [39mstatus: 1
+[32m[2023-06-08 04:21:55] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:21:55] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:21:55] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:21:55] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:21:55] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:21:55] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:21:55] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:21:55] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 04:21:55] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:21:55] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 04:21:55] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:21:55] [INFO] [39mstatus: 1
+[32m[2023-06-08 04:22:01] [INFO] [39m{"cmd":"info","text":"来自 [`Zhang+`] `ZHR` 的全站通知\ntest","time":1686212521041}
+[32m[2023-06-08 04:23:15] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:23:15] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:23:15] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:23:15] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:23:15] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:23:15] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:23:15] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:23:15] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 04:23:15] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:23:15] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 04:23:15] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:23:15] [INFO] [39mstatus: 1
+[32m[2023-06-08 04:24:05] [INFO] [39mInitializing kernel
+[32m[2023-06-08 04:24:05] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 04:24:05] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 04:24:05] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 04:24:05] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 04:24:05] [INFO] [39mInitialized test.js
+[32m[2023-06-08 04:24:05] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 04:24:05] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 04:24:05] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 04:24:05] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 04:24:05] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 04:24:05] [INFO] [39mstatus: 1
+[32m[2023-06-08 06:49:58] [INFO] [39mInitializing kernel
+[32m[2023-06-08 06:49:58] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 06:49:58] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 06:49:58] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 06:49:58] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 06:49:58] [INFO] [39mInitialized test.js
+[32m[2023-06-08 06:49:58] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 06:49:58] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 06:49:58] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 06:49:58] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 06:49:58] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 06:49:58] [INFO] [39m{"cmd":"info","text":"由于某些原因，您被重定向到 ?captcha","time":1686221398874}
+[32m[2023-06-08 06:49:58] [INFO] [39m{"cmd":"warn","text":"认证错误：您以机器人身份加入聊天室却没有识别码，请加好密码后再试。","time":1686221398874}
+[31m[2023-06-08 06:49:58] [ERROR] [39mConnection to ws://127.0.0.1:6060 disconnected
+[32m[2023-06-08 06:49:58] [INFO] [39mStopping kernel, code: 1
+[32m[2023-06-08 06:50:51] [INFO] [39mInitializing kernel
+[32m[2023-06-08 06:50:51] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 06:50:51] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 06:50:51] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 06:50:51] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 06:50:51] [INFO] [39mInitialized test.js
+[32m[2023-06-08 06:50:51] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 06:50:51] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 06:50:51] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 06:50:51] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 06:50:51] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 06:50:51] [INFO] [39m{"cmd":"info","text":"此房间已被设置重定向到 ?captcha ，但由于您被信任，因此您可以正常加入 ?chat","time":1686221451606}
+[32m[2023-06-08 06:50:51] [INFO] [39m{"cmd":"warn","text":"警告：检测到您正在使用弱密码，我们强烈建议您换用一个强密码。\n一个强密码的定义：最少6位，包括至少1个大写字母，1个小写字母，1个数字\n如果您继续使用弱密码，那么您可能无法正常使用部分功能。","time":1686221451607}
+[32m[2023-06-08 06:50:51] [INFO] [39m{"cmd":"history","history":[{"nick":"0rDrepaP","trip":"114514","head":"https://pic2.imgdb.cn/item/641d607aa682492fcc96736c.png","text":"![](https://imagebed.s3.bitiful.net/fpNWazyE55_image.png)","time":"2023-06-08 18:47:04"},{"nick":"0rDrepaP","trip":"114514","head":"https://pic2.imgdb.cn/item/641d607aa682492fcc96736c.png","text":"ip貌似是这两个","time":"2023-06-08 18:47:15"},{"nick":"0rDrepaP","trip":"114514","head":"https://pic2.imgdb.cn/item/641d607aa682492fcc96736c.png","text":"那个2开头应该不是天津","time":"2023-06-08 18:47:39"},{"nick":"MrZhang365","trip":"Zhang+","head":"imgs/head.png","text":"Az","time":"2023-06-08 18:47:39"},{"nick":"MrZhang365","trip":"Zhang+","head":"imgs/head.png","text":"那就先别查了","time":"2023-06-08 18:47:45"},{"nick":"MrZhang365","trip":"Zhang+","head":"imgs/head.png","text":"反正也没闹出什么事","time":"2023-06-08 18:47:54"},{"nick":"0rDrepaP","trip":"114514","head":"https://pic2.imgdb.cn/item/641d607aa682492fcc96736c.png","text":"![](https://imagebed.s3.bitiful.net/6w4FKohFEc_image.png)","time":"2023-06-08 18:48:10"},{"nick":"MrZhang365","trip":"Zhang+","head":"imgs/head.png","text":"这里虽然不怎么引流，我也不允许引流","time":"2023-06-08 18:48:14"},{"nick":"MrZhang365","trip":"Zhang+","head":"imgs/head.png","text":"但是在各位的支持下，还是有许多新用户","time":"2023-06-08 18:48:27"},{"nick":"MrZhang365","trip":"Zhang+","head":"imgs/head.png","text":"在此对各位说一句谢谢","time":"2023-06-08 18:48:35"},{"nick":"0rDrepaP","trip":"114514","head":"https://pic2.imgdb.cn/item/641d607aa682492fcc96736c.png","text":"?captcha","time":"2023-06-08 18:48:47"},{"nick":"eerepaP","trip":"uwuu57","head":"imgs/head.png","text":"呃啊","time":"2023-06-08 18:49:30"},{"nick":"eerepaP","trip":"uwuu57","head":"imgs/head.png","text":"你们听我说","time":"2023-06-08 18:49:33"},{"nick":"eerepaP","trip":"uwuu57","head":"imgs/head.png","text":"uw和今天早上那个叫hfff（？）的用户都是我从yc带来的","time":"2023-06-08 18:49:52"},{"nick":"0rDrepaP","trip":"114514","head":"https://pic2.imgdb.cn/item/641d607aa682492fcc96736c.png","text":"不过啊，这个天津ip的用户有点鬼鬼祟祟的","time":"2023-06-08 18:49:59"},{"nick":"eerepaP","trip":"uwuu57","head":"imgs/head.png","text":"是正常用户","time":"2023-06-08 18:50:00"},{"nick":"eerepaP","trip":"uwuu57","head":"imgs/head.png","text":"啊？为什么","time":"2023-06-08 18:50:05"},{"nick":"0rDrepaP","trip":"114514","head":"https://pic2.imgdb.cn/item/641d607aa682492fcc96736c.png","text":"我问是谁就run了","time":"2023-06-08 18:50:15"},{"nick":"0rDrepaP","trip":"114514","head":"https://pic2.imgdb.cn/item/641d607aa682492fcc96736c.png","text":"是不是那几个人开代理了","time":"2023-06-08 18:50:31"},{"nick":"eerepaP","trip":"uwuu57","head":"imgs/head.png","text":">eerepaP\n0rDrepaP\neMSOolleH\n\nZHC镜像网站（被打","time":"2023-06-08 18:50:45"}],"time":1686221451617}
+[32m[2023-06-08 06:50:51] [INFO] [39m{"cmd":"onlineSet","nicks":["灯确吉L_电脑2","uwuOS_692","CaptchaBot","hlg","Mag","dr0_logbot_in_ee_server","eerepaP","青泥洼桥青泥洼桥2","uw","我姓周名树人全名洲际导弹","0rDrepaP","eMSOolleH","eebot_nodejs"],"users":[{"nick":"灯确吉L_电脑2","trip":"DQJL68","utype":"mod","hash":"clem3V6kDLuHMFM","level":999999,"userid":2957849286406,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false},{"nick":"uwuOS_692","trip":"huuuuH","utype":"trusted","hash":"SefgfGkcRi9huDI","level":500,"userid":2787139701925,"channel":"chat","client":"[纸片君ee的10年老电脑](https://paperee.guru/)","isme":false},{"nick":"CaptchaBot","trip":"114514","utype":"mod","hash":"SefgfGkcRi9huDI","level":999999,"userid":2377489614046,"channel":"chat","client":"未知客户端","isme":false},{"nick":"hlg","trip":"MS7a+R","utype":"user","hash":"0Wm1IjVqK3hcfMX","level":100,"userid":6126595600360,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false},{"nick":"Mag","trip":"k+R3I2","utype":"mod","hash":"2X3aQdxzlcAgPvd","level":999999,"userid":2016017351398,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false},{"nick":"dr0_logbot_in_ee_server","trip":"114514","utype":"mod","hash":"SefgfGkcRi9huDI","level":999999,"userid":2636462356613,"channel":"chat","client":"未知客户端","isme":false},{"nick":"eerepaP","trip":"uwuu57","utype":"mod","hash":"0hKto4McLDkBRsR","level":999999,"userid":291530456786,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false},{"nick":"青泥洼桥青泥洼桥2","trip":"AZ3jF7","utype":"mod","hash":"y8bFxUxehDeBQei","level":999999,"userid":4434298597379,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false},{"nick":"uw","trip":"","utype":"user","hash":"Lg15U33ktGCaPMt","level":100,"userid":2439878623224,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false},{"nick":"我姓周名树人全名洲际导弹","trip":"cmd152","utype":"channelOwner","hash":"s0EHrx84eWWC42o","level":99999,"userid":9294893365967,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false},{"nick":"0rDrepaP","trip":"114514","utype":"mod","hash":"4kKZyyRzC+T1FEh","level":999999,"userid":758498043648,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false},{"nick":"eMSOolleH","trip":"NtXVSW","utype":"trusted","hash":"r7zmkNqChXmZ4tF","level":500,"userid":3008258968801,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false},{"nick":"eebot_nodejs","trip":"44FF00","utype":"mod","hash":"EhyE7w0cGLXZyCs","level":999999,"userid":1117269154164,"channel":"chat","client":"未知客户端","isme":true}],"time":1686221451625}
+[32m[2023-06-08 06:50:52] [INFO] [39m{"cmd":"info","type":"whisper","from":"uwuOS_692","trip":"huuuuH","msg":">\nhi yo [eebot_nodejs](https://)\n今天是[2023.06.08](https://) 使用`|sign`签到吧\n更多使用方法 请发送：`|help`","text":"uwuOS_692 向你发送私信：>\nhi yo [eebot_nodejs](https://)\n今天是[2023.06.08](https://) 使用`|sign`签到吧\n更多使用方法 请发送：`|help`","time":1686221452963}
+[32m[2023-06-08 06:50:55] [INFO] [39m{"cmd":"chat","nick":"eerepaP","text":"wow！","level":999999,"mod":true,"trip":"uwuu57","time":1686221455266,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"4f0"}
+[32m[2023-06-08 06:50:56] [INFO] [39m{"cmd":"chat","nick":"eerepaP","text":"uwu!","level":999999,"mod":true,"trip":"uwuu57","time":1686221456763,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"4f0"}
+[32m[2023-06-08 06:50:57] [INFO] [39m{"cmd":"chat","nick":"eerepaP","text":"awa!","level":999999,"mod":true,"trip":"uwuu57","time":1686221457077,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"4f0"}
+[32m[2023-06-08 06:51:03] [INFO] [39m{"cmd":"onlineAdd","nick":"MrZhang365","trip":"Zhang+","utype":"mod","hash":"rHyJrZp32r8tbNy","level":999999,"userid":2187667041383,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1686221463077,"auth":"小张软件总程序员｜小张聊天室建立者 | ==傻逼=="}
+[32m[2023-06-08 06:51:12] [INFO] [39m{"cmd":"chat","nick":"eerepaP","text":">[114514] 0rDrepaP：\n>是不是那几个人开代理了\n\n@0rDrepaP 开代理进不来吧（除非国内","level":999999,"mod":true,"trip":"uwuu57","time":1686221472264,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"4f0"}
+[32m[2023-06-08 06:51:18] [INFO] [39m{"cmd":"chat","nick":"青泥洼桥青泥洼桥2","text":"eerepaP","level":999999,"mod":true,"trip":"AZ3jF7","time":1686221478885,"isBot":false,"added":true,"uwu":true,"head":"https://chat.zhangsoft.cf/imgs/head.png"}
+[32m[2023-06-08 06:51:19] [INFO] [39m{"cmd":"chat","nick":"eerepaP","text":"帮助","level":999999,"mod":true,"trip":"uwuu57","time":1686221479015,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"4f0"}
+[32m[2023-06-08 06:51:24] [INFO] [39m{"cmd":"chat","nick":"eerepaP","text":"功能","level":999999,"mod":true,"trip":"uwuu57","time":1686221484727,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"4f0"}
+[32m[2023-06-08 06:51:26] [INFO] [39m{"cmd":"chat","nick":"青泥洼桥青泥洼桥2","text":"https://pvzjsplayers.fandom.com/zh/wiki/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/Bzhan5J","level":999999,"mod":true,"trip":"AZ3jF7","time":1686221486897,"isBot":false,"added":true,"uwu":true,"head":"https://chat.zhangsoft.cf/imgs/head.png"}
+[32m[2023-06-08 06:51:27] [INFO] [39m{"cmd":"chat","nick":"eerepaP","text":"？","level":999999,"mod":true,"trip":"uwuu57","time":1686221487662,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"4f0"}
+[32m[2023-06-08 06:51:29] [INFO] [39m{"cmd":"chat","nick":"MrZhang365","text":"冷知识","level":999999,"mod":true,"trip":"Zhang+","time":1686221489971,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"44FF00"}
+[32m[2023-06-08 06:51:31] [INFO] [39m{"cmd":"chat","nick":"uw","text":"~~开国内代理我也进不来~~","level":100,"time":1686221491712,"isBot":false,"added":true,"uwu":true,"head":"https://yt3.googleusercontent.com/CkhcsHLOHH94lWB-p9kXH0sQ4DA527KXd35tKnYCpRu2reuQjDx2AKvjSZtats3AgNOzAFxf6w=s176-c-k-c0x00ffffff-no-rj","color":"33ccff"}
+[32m[2023-06-08 06:51:32] [INFO] [39m{"cmd":"chat","nick":"青泥洼桥青泥洼桥2","text":"帮助","level":999999,"mod":true,"trip":"AZ3jF7","time":1686221492137,"isBot":false,"added":true,"uwu":true,"head":"https://chat.zhangsoft.cf/imgs/head.png"}
+[32m[2023-06-08 06:51:33] [INFO] [39m{"cmd":"chat","nick":"青泥洼桥青泥洼桥2","text":"功能","level":999999,"mod":true,"trip":"AZ3jF7","time":1686221493113,"isBot":false,"added":true,"uwu":true,"head":"https://chat.zhangsoft.cf/imgs/head.png"}
+[32m[2023-06-08 06:51:34] [INFO] [39m{"cmd":"chat","nick":"0rDrepaP","text":"maybe is 国内的天津代理","level":999999,"mod":true,"trip":"114514","time":1686221494478,"isBot":false,"added":true,"uwu":true,"head":"https://pic2.imgdb.cn/item/641d607aa682492fcc96736c.png"}
+[32m[2023-06-08 06:51:37] [INFO] [39m{"cmd":"chat","nick":"MrZhang365","text":"这个是全新框架","level":999999,"mod":true,"trip":"Zhang+","time":1686221497452,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"44FF00"}
+[32m[2023-06-08 06:51:47] [INFO] [39m{"cmd":"chat","nick":"0rDrepaP","text":"功能","level":999999,"mod":true,"trip":"114514","time":1686221507328,"isBot":false,"added":true,"uwu":true,"head":"https://pic2.imgdb.cn/item/641d607aa682492fcc96736c.png"}
+[32m[2023-06-08 06:51:48] [INFO] [39m{"cmd":"chat","nick":"MrZhang365","text":"寒假之前秘密开发的","level":999999,"mod":true,"trip":"Zhang+","time":1686221508884,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"44FF00"}
+[32m[2023-06-08 06:51:52] [INFO] [39m{"cmd":"changeNick","nick":"青泥洼桥青泥洼桥2","text":"J的站B","time":1686221512557}
+[32m[2023-06-08 06:51:58] [INFO] [39m{"cmd":"chat","nick":"MrZhang365","text":"只是一个空空的内核","level":999999,"mod":true,"trip":"Zhang+","time":1686221518929,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"44FF00"}
+[32m[2023-06-08 06:52:16] [INFO] [39m{"cmd":"chat","nick":"0rDrepaP","text":"站b","level":999999,"mod":true,"trip":"114514","time":1686221536012,"isBot":false,"added":true,"uwu":true,"head":"https://pic2.imgdb.cn/item/641d607aa682492fcc96736c.png"}
+[32m[2023-06-08 06:52:25] [INFO] [39m{"cmd":"chat","nick":"0rDrepaP","text":"这呢称总感觉怪怪的","level":999999,"mod":true,"trip":"114514","time":1686221545623,"isBot":false,"added":true,"uwu":true,"head":"https://pic2.imgdb.cn/item/641d607aa682492fcc96736c.png"}
+[32m[2023-06-08 06:52:32] [INFO] [39m{"cmd":"chat","nick":"eMSOolleH","text":"草（）","level":500,"trusted":true,"trip":"NtXVSW","time":1686221552850,"isBot":false,"added":true,"uwu":true,"head":"https://cdn.luogu.com.cn/upload/usericon/755022.png","color":"ffffff"}
+[32m[2023-06-08 06:52:36] [INFO] [39m{"cmd":"chat","nick":"eerepaP","text":"草","level":999999,"mod":true,"trip":"uwuu57","time":1686221556035,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"4f0"}
+[32m[2023-06-08 06:52:36] [INFO] [39m{"cmd":"changeNick","nick":"MrZhang365","text":"563gnahZrM","time":1686221556201}
+[32m[2023-06-08 06:52:40] [INFO] [39m{"cmd":"chat","nick":"eerepaP","text":"没有eb的功能吗","level":999999,"mod":true,"trip":"uwuu57","time":1686221560608,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"4f0"}
+[32m[2023-06-08 06:52:44] [INFO] [39m{"cmd":"chat","nick":"563gnahZrM","text":"没","level":999999,"mod":true,"trip":"Zhang+","time":1686221564484,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"44FF00"}
+[32m[2023-06-08 06:52:50] [INFO] [39m{"cmd":"chat","nick":"563gnahZrM","text":"就一个壳","level":999999,"mod":true,"trip":"Zhang+","time":1686221570294,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"44FF00"}
+[32m[2023-06-08 06:52:50] [INFO] [39m{"cmd":"chat","nick":"uw","text":"|help","level":100,"time":1686221570645,"isBot":false,"added":true,"uwu":true,"head":"https://yt3.googleusercontent.com/CkhcsHLOHH94lWB-p9kXH0sQ4DA527KXd35tKnYCpRu2reuQjDx2AKvjSZtats3AgNOzAFxf6w=s176-c-k-c0x00ffffff-no-rj","color":"33ccff"}
+[32m[2023-06-08 06:52:51] [INFO] [39m{"cmd":"chat","nick":"eerepaP","text":"quq","level":999999,"mod":true,"trip":"uwuu57","time":1686221571559,"isBot":false,"added":true,"uwu":true,"head":"imgs/head.png","color":"4f0"}
+[32m[2023-06-08 06:52:51] [INFO] [39m{"cmd":"info","text":"uwuOS_692 即将在 1 秒后发送一条比较长的信息","time":1686221571718}
+[32m[2023-06-08 06:52:52] [INFO] [39m{"cmd":"info","type":"emote","nick":"uwuOS_692","text":"@uwuOS_692 >\n·\n机器人：[uwuOS](https://)\n开发者：[paperee](https://)([ee](https://))\n适用地：[HackChat](https://) [ZhangChat](https://)\n·\n使用手册：\n个人数据：`|data`\n打开背包：`|pack 识别码`\n打开商店：`|shop`\n获取权限：`|root`\n查看帮助：`|help 游戏`\n开始游戏：`|play 游戏`\n·\n可选游戏：\n真心话(truth) 生草机(grass) 狼人杀(wolf) UNO(uno)","trip":"huuuuH","time":1686221572724}
+[32m[2023-06-08 08:55:53] [INFO] [39mInitializing kernel
+[32m[2023-06-08 08:55:53] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-08 08:55:53] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-08 08:55:53] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-08 08:55:53] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-08 08:55:53] [INFO] [39mInitialized test.js
+[32m[2023-06-08 08:55:53] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-08 08:55:53] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-08 08:55:53] [INFO] [39mKernel initialization completed
+[32m[2023-06-08 08:55:53] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-08 08:55:53] [INFO] [39mJoining to ?chat
+[32m[2023-06-08 08:55:53] [INFO] [39m[object Object]
+[32m[2023-06-08 08:55:53] [INFO] [39m[object Object]
+[32m[2023-06-08 08:55:53] [INFO] [39m[object Object]
+[32m[2023-06-08 08:55:53] [INFO] [39m[object Object]

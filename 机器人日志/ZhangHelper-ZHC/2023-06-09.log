@@ -1,0 +1,388 @@
+[32m[2023-06-09 09:35:50] [INFO] [39mInitializing kernel
+[32m[2023-06-09 09:35:50] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 09:35:50] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 09:35:50] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 09:35:50] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 09:35:50] [INFO] [39mInitialized test.js
+[32m[2023-06-09 09:35:50] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 09:35:50] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 09:35:50] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 09:35:50] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 09:35:50] [INFO] [39mJoining to ?chat
+[32m[2023-06-09 09:35:50] [INFO] [39mUsers online: MrZhang365 灯确吉L_电脑2 dr0_logbot_in_ee_server CaptchaBot uw uwuOS_611 org ee eebot_nodejs
+[32m[2023-06-09 10:06:40] [INFO] [39mInitializing kernel
+[32m[2023-06-09 10:06:40] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 10:06:40] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 10:06:40] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 10:06:40] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 10:06:40] [INFO] [39mInitialized test.js
+[32m[2023-06-09 10:06:40] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 10:06:40] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 10:06:40] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 10:06:40] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 10:06:40] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 10:06:40] [INFO] [39mUsers online: MrZhang365 eebot_nodejs
+[32m[2023-06-09 10:06:45] [INFO] [39mMrZhang365#Zhang+: ^
+[32m[2023-06-09 10:06:45] [INFO] [39meebot_nodejs#44FF00: 404
+[32m[2023-06-09 10:06:45] [INFO] [39meebot_nodejs#44FF00: err
+[32m[2023-06-09 10:06:56] [INFO] [39mMrZhang365#Zhang+: ^test
+[32m[2023-06-09 10:06:56] [INFO] [39meebot_nodejs#44FF00: 404
+[32m[2023-06-09 10:06:56] [INFO] [39meebot_nodejs#44FF00: err
+[32m[2023-06-09 10:08:02] [INFO] [39mInitializing kernel
+[32m[2023-06-09 10:08:02] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 10:08:02] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 10:08:02] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 10:08:02] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 10:08:02] [INFO] [39mInitialized test.js
+[32m[2023-06-09 10:08:02] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 10:08:02] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 10:08:02] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 10:08:02] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 10:08:02] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 10:08:02] [INFO] [39mUsers online: MrZhang365 eebot_nodejs
+[32m[2023-06-09 10:08:12] [INFO] [39mMrZhang365#Zhang+: ^test
+[32m[2023-06-09 10:08:12] [INFO] [39meebot_nodejs#44FF00: 404
+[32m[2023-06-09 10:11:41] [INFO] [39mInitializing kernel
+[32m[2023-06-09 10:11:41] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 10:11:41] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 10:11:41] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 10:11:41] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 10:11:41] [INFO] [39mInitialized test.js
+[32m[2023-06-09 10:11:41] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 10:11:41] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 10:11:41] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 10:11:41] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 10:11:41] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 10:11:41] [INFO] [39mUsers online: MrZhang365 eebot_nodejs
+[32m[2023-06-09 10:11:45] [INFO] [39mMrZhang365#Zhang+: ^test
+[32m[2023-06-09 10:11:45] [INFO] [39meebot_nodejs#44FF00: 404
+[32m[2023-06-09 10:12:40] [INFO] [39mInitializing kernel
+[32m[2023-06-09 10:12:40] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 10:12:40] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 10:12:40] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 10:12:40] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 10:12:40] [INFO] [39mInitialized test.js
+[32m[2023-06-09 10:12:40] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 10:12:40] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 10:12:40] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 10:12:40] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 10:12:40] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 10:12:40] [INFO] [39mUsers online: MrZhang365 eebot_nodejs
+[32m[2023-06-09 10:12:44] [INFO] [39mMrZhang365#Zhang+: ^test
+[32m[2023-06-09 10:12:44] [INFO] [39mMrZhang365#Zhang+ is running undefined command, args: ^test
+[32m[2023-06-09 10:12:44] [INFO] [39mtest
+[32m[2023-06-09 10:13:29] [INFO] [39mInitializing kernel
+[32m[2023-06-09 10:13:29] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 10:13:29] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 10:13:29] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 10:13:29] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 10:13:29] [INFO] [39mInitialized test.js
+[32m[2023-06-09 10:13:29] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 10:13:29] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 10:13:29] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 10:13:29] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 10:13:29] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 10:13:29] [INFO] [39mUsers online: MrZhang365 eebot_nodejs
+[32m[2023-06-09 10:13:32] [INFO] [39mMrZhang365#Zhang+: ^
+[32m[2023-06-09 10:13:32] [INFO] [39meebot_nodejs#44FF00: 404
+[32m[2023-06-09 10:13:33] [INFO] [39mMrZhang365#Zhang+: ^test
+[32m[2023-06-09 10:13:33] [INFO] [39mMrZhang365#Zhang+ is running test command, args: ^test
+[32m[2023-06-09 10:13:33] [INFO] [39mtest
+[31m[2023-06-09 10:13:33] [ERROR] [39mFailed to run undefined with ^test, user: MrZhang365#Zhang+}. error: undefined
+[32m[2023-06-09 10:13:33] [INFO] [39meebot_nodejs#44FF00: err
+[32m[2023-06-09 10:14:22] [INFO] [39mInitializing kernel
+[32m[2023-06-09 10:14:22] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 10:14:22] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 10:14:22] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 10:14:22] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 10:14:22] [INFO] [39mInitialized test.js
+[32m[2023-06-09 10:14:22] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 10:14:22] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 10:14:22] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 10:14:22] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 10:14:22] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 10:14:22] [INFO] [39mUsers online: MrZhang365 eebot_nodejs
+[32m[2023-06-09 10:14:32] [INFO] [39mtest#Zhang+: ^test
+[31m[2023-06-09 10:14:32] [ERROR] [39mCan'n find user test
+[32m[2023-06-09 10:14:32] [INFO] [39mStopping kernel, code: 1
+[32m[2023-06-09 02:21:42] [INFO] [39mInitializing kernel
+[32m[2023-06-09 02:21:42] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 02:21:42] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 02:21:42] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 02:21:42] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 02:21:42] [INFO] [39mInitialized test.js
+[32m[2023-06-09 02:21:42] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 02:21:42] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 02:21:42] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 02:21:42] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 02:21:42] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 02:21:42] [INFO] [39mUsers online: MrZhang365 ZhangHelper365_BetA
+[32m[2023-06-09 02:21:50] [INFO] [39mMrZhang365#Zhang+: test
+[32m[2023-06-09 02:21:58] [INFO] [39mMrZhang365#Zhang+: a
+a
+a
+[32m[2023-06-09 02:22:06] [INFO] [39mMrZhang365#Zhang+: ^help
+[32m[2023-06-09 02:22:16] [INFO] [39mMrZhang365#Zhang+: ^
+[32m[2023-06-09 02:22:52] [INFO] [39mInitializing kernel
+[32m[2023-06-09 02:22:52] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 02:22:52] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 02:22:52] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 02:22:52] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 02:22:52] [INFO] [39mInitialized test.js
+[32m[2023-06-09 02:22:52] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 02:22:52] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 02:22:52] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 02:22:52] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 02:22:52] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 02:22:52] [INFO] [39mUsers online: MrZhang365 ZhangHelper365_Beta
+[32m[2023-06-09 02:22:55] [INFO] [39mMrZhang365#Zhang+: ^
+[32m[2023-06-09 02:23:03] [INFO] [39mMrZhang365#Zhang+: ^aa
+[32m[2023-06-09 02:23:05] [INFO] [39mMrZhang365#Zhang+: ^test
+[32m[2023-06-09 02:23:05] [INFO] [39mMrZhang365#Zhang+ is running test command, args: ^test
+[32m[2023-06-09 02:23:05] [INFO] [39mtest
+[31m[2023-06-09 02:23:05] [ERROR] [39mFailed to run undefined with ^test, user: MrZhang365#Zhang+}. error: sb
+[32m[2023-06-09 02:23:05] [INFO] [39mZhangHelper365_Beta#44FF00: Err!
+[32m[2023-06-09 02:23:11] [INFO] [39mInitializing kernel
+[32m[2023-06-09 02:23:11] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 02:23:11] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 02:23:11] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 02:23:11] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 02:23:11] [INFO] [39mInitialized test.js
+[32m[2023-06-09 02:23:11] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 02:23:11] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 02:23:11] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 02:23:11] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 02:23:11] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 02:23:11] [INFO] [39mUsers online: MrZhang365 ZhangHelper365_Beta
+[32m[2023-06-09 02:23:40] [INFO] [39mInitializing kernel
+[32m[2023-06-09 02:23:40] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 02:23:40] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 02:23:40] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 02:23:40] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 02:23:40] [INFO] [39mInitialized test.js
+[32m[2023-06-09 02:23:40] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 02:23:40] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 02:23:40] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 02:23:40] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 02:23:40] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 02:23:40] [INFO] [39mUsers online: MrZhang365 ZhangHelper365_Beta
+[32m[2023-06-09 02:23:43] [INFO] [39mMrZhang365#Zhang+: ^test
+[32m[2023-06-09 02:23:43] [INFO] [39mMrZhang365#Zhang+ is running test command, args: ^test
+[32m[2023-06-09 02:23:43] [INFO] [39mtest
+[31m[2023-06-09 02:23:43] [ERROR] [39mFailed to run undefined with ^test, user: MrZhang365#Zhang+}. error: sb
+[32m[2023-06-09 02:23:43] [INFO] [39mZhangHelper365_Beta#44FF00: Err!
+[32m[2023-06-09 02:23:46] [INFO] [39mMrZhang365#Zhang+: ^aa
+[32m[2023-06-09 02:33:23] [INFO] [39mInitializing kernel
+[32m[2023-06-09 02:33:23] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 02:33:23] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 02:33:23] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 02:33:23] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 02:33:23] [INFO] [39mInitialized test.js
+[32m[2023-06-09 02:33:23] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 02:33:23] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 02:33:23] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 02:33:23] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 02:33:23] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 02:33:23] [INFO] [39mUsers online: MrZhang365 ZhangHelper365_Beta
+[32m[2023-06-09 02:33:27] [INFO] [39mMrZhang365#Zhang+: a
+[32m[2023-06-09 02:33:33] [INFO] [39mMrZhang365 => a
+[32m[2023-06-09 02:33:38] [INFO] [39ma#Zhang+: ^test
+[31m[2023-06-09 02:33:38] [ERROR] [39mThe kernel encountered an unhandled error, detailed information:
+TypeError: Cannot read properties of undefined (reading 'nick')
+[32m[2023-06-09 02:33:38] [INFO] [39mStopping kernel, code: 1
+[32m[2023-06-09 02:47:02] [INFO] [39mInitializing kernel
+[32m[2023-06-09 02:47:02] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 02:47:02] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 02:47:02] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 02:47:02] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 02:47:02] [INFO] [39mInitialized test.js
+[32m[2023-06-09 02:47:02] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 02:47:02] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 02:47:02] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 02:47:02] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 02:47:02] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 02:47:02] [INFO] [39mUsers online: a ZhangHelper365_Beta
+[32m[2023-06-09 02:47:09] [INFO] [39ma#Zhang+: ^help
+[32m[2023-06-09 02:47:12] [INFO] [39ma#Zhang+: ^err
+[32m[2023-06-09 02:47:20] [INFO] [39ma#Zhang+: ^test
+[32m[2023-06-09 02:47:20] [INFO] [39ma#Zhang+ is running test command, args: ^test
+[32m[2023-06-09 02:47:20] [INFO] [39mtest
+[31m[2023-06-09 02:47:20] [ERROR] [39mFailed to run undefined with ^test, user: a#Zhang+}. error: sb
+[32m[2023-06-09 02:47:20] [INFO] [39mZhangHelper365_Beta#44FF00: Err!
+[32m[2023-06-09 02:47:24] [INFO] [39ma => b
+[32m[2023-06-09 02:47:29] [INFO] [39mb#Zhang+: ^err
+[32m[2023-06-09 02:47:33] [INFO] [39mb#Zhang+: ^help
+[32m[2023-06-09 02:47:37] [INFO] [39mb#Zhang+: ^test
+[32m[2023-06-09 02:47:37] [INFO] [39mb#Zhang+ is running test command, args: ^test
+[32m[2023-06-09 02:47:37] [INFO] [39mtest
+[31m[2023-06-09 02:47:37] [ERROR] [39mFailed to run undefined with ^test, user: b#Zhang+}. error: sb
+[32m[2023-06-09 02:47:37] [INFO] [39mZhangHelper365_Beta#44FF00: Err!
+[32m[2023-06-09 03:27:20] [INFO] [39mInitializing kernel
+[32m[2023-06-09 03:27:20] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 03:27:20] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 03:27:20] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 03:27:20] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 03:27:20] [INFO] [39mInitialized op.js
+[32m[2023-06-09 03:27:20] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 03:27:20] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 03:27:20] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 03:27:20] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 03:27:20] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 03:27:20] [INFO] [39mUsers online: MrZhang365 ZhangHelper365_Beta
+[32m[2023-06-09 03:27:25] [INFO] [39mMrZhang365 left
+[32m[2023-06-09 03:27:30] [INFO] [39mtest joined
+[32m[2023-06-09 03:27:32] [INFO] [39mtest#: ^op
+[31m[2023-06-09 03:27:32] [ERROR] [39mThe kernel encountered an unhandled error, detailed information:
+TypeError: this.whsiper is not a function
+[32m[2023-06-09 03:27:32] [INFO] [39mStopping kernel, code: 1
+[32m[2023-06-09 03:27:51] [INFO] [39mInitializing kernel
+[32m[2023-06-09 03:27:51] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 03:27:51] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 03:27:51] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 03:27:51] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 03:27:51] [INFO] [39mInitialized op.js
+[32m[2023-06-09 03:27:51] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 03:27:51] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 03:27:51] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 03:27:51] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 03:27:51] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 03:27:51] [INFO] [39mUsers online: test ZhangHelper365_Beta
+[32m[2023-06-09 03:27:53] [INFO] [39mtest#: ^op
+[32m[2023-06-09 03:28:28] [INFO] [39mInitializing kernel
+[32m[2023-06-09 03:28:28] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 03:28:28] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 03:28:28] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 03:28:28] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 03:28:28] [INFO] [39mInitialized op.js
+[32m[2023-06-09 03:28:28] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 03:28:28] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 03:28:28] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 03:28:28] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 03:28:28] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 03:28:28] [INFO] [39mUsers online: test ZhangHelper365_Beta
+[32m[2023-06-09 03:28:31] [INFO] [39mtest#: ^ 
+[32m[2023-06-09 03:28:38] [INFO] [39mtest#: ^op
+[32m[2023-06-09 03:30:29] [INFO] [39mInitializing kernel
+[32m[2023-06-09 03:30:29] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 03:30:29] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 03:30:29] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 03:30:29] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 03:30:29] [INFO] [39mInitialized op.js
+[32m[2023-06-09 03:30:29] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 03:30:29] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 03:30:29] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 03:30:29] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 03:30:29] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 03:30:29] [INFO] [39mUsers online: test ZhangHelper365_Beta
+[32m[2023-06-09 03:30:32] [INFO] [39mtest left
+[32m[2023-06-09 03:30:42] [INFO] [39mMrZhang365 joined
+[32m[2023-06-09 03:30:45] [INFO] [39mMrZhang365#Zhang+: ^op
+[32m[2023-06-09 03:30:45] [INFO] [39mMrZhang365#Zhang+ is running op command, args: ^op
+[32m[2023-06-09 03:30:45] [INFO] [39mZhangHelper365_Beta#44FF00: OPs list: 
+[32m[2023-06-09 03:34:54] [INFO] [39mInitializing kernel
+[32m[2023-06-09 03:34:54] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 03:34:54] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 03:34:54] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[31m[2023-06-09 03:34:54] [ERROR] [39mSome command modules can't be loaded, error(s):
+missing ) after argument list
+[32m[2023-06-09 03:34:54] [INFO] [39m0 command module(s) will be initialized
+[32m[2023-06-09 03:34:54] [INFO] [39mInitialized 0 command(s)
+[32m[2023-06-09 03:34:54] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 03:34:54] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 03:34:54] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 03:34:54] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 03:34:54] [INFO] [39mUsers online: MrZhang365 ZhangHelper365_Beta
+[32m[2023-06-09 03:35:00] [INFO] [39mMrZhang365#Zhang+: ^op
+[32m[2023-06-09 03:35:04] [INFO] [39mMrZhang365#Zhang+: ^op
+[32m[2023-06-09 03:35:54] [INFO] [39mInitializing kernel
+[32m[2023-06-09 03:35:54] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 03:35:54] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 03:35:54] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 03:35:54] [INFO] [39m1 command module(s) will be initialized
+[32m[2023-06-09 03:35:54] [INFO] [39mInitialized op.js
+[32m[2023-06-09 03:35:54] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-09 03:35:54] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 03:35:54] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 03:35:54] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 03:35:54] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 03:35:54] [INFO] [39mUsers online: MrZhang365 ZhangHelper365_Beta
+[32m[2023-06-09 03:35:58] [INFO] [39mMrZhang365#Zhang+: ^op
+[32m[2023-06-09 03:35:58] [INFO] [39mMrZhang365#Zhang+ is running op command, args: ^op
+[32m[2023-06-09 03:35:58] [INFO] [39mZhangHelper365_Beta#44FF00: OPs list: 
+[32m[2023-06-09 03:36:04] [INFO] [39mMrZhang365#Zhang+: ^op cmd152
+[32m[2023-06-09 03:36:04] [INFO] [39mMrZhang365#Zhang+ is running op command, args: ^op cmd152
+[32m[2023-06-09 03:36:04] [INFO] [39mZhangHelper365_Beta#44FF00: Added an OP: cmd152
+[32m[2023-06-09 03:36:07] [INFO] [39mMrZhang365#Zhang+: ^op
+[32m[2023-06-09 03:36:07] [INFO] [39mMrZhang365#Zhang+ is running op command, args: ^op
+[32m[2023-06-09 03:36:07] [INFO] [39mZhangHelper365_Beta#44FF00: OPs list: cmd152
+[32m[2023-06-09 03:36:09] [INFO] [39mMrZhang365#Zhang+: ^op cmd152
+[32m[2023-06-09 03:36:09] [INFO] [39mMrZhang365#Zhang+ is running op command, args: ^op cmd152
+[32m[2023-06-09 03:36:09] [INFO] [39mZhangHelper365_Beta#44FF00: Remove an OP: cmd152
+[32m[2023-06-09 03:36:12] [INFO] [39mMrZhang365#Zhang+: ^op
+[32m[2023-06-09 03:36:12] [INFO] [39mMrZhang365#Zhang+ is running op command, args: ^op
+[32m[2023-06-09 03:36:12] [INFO] [39mZhangHelper365_Beta#44FF00: OPs list: 
+[32m[2023-06-09 03:42:07] [INFO] [39mInitializing kernel
+[32m[2023-06-09 03:42:07] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 03:42:07] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 03:42:07] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 03:42:07] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-09 03:42:07] [INFO] [39mInitialized kick.js
+[32m[2023-06-09 03:42:07] [INFO] [39mInitialized op.js
+[32m[2023-06-09 03:42:07] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-09 03:42:07] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 03:42:07] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 03:42:07] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 03:42:07] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 03:42:07] [INFO] [39mUsers online: MrZhang365 ZhangHelper365_Beta
+[32m[2023-06-09 03:42:15] [INFO] [39mMrZhang365#Zhang+: ^kick Mr
+[32m[2023-06-09 03:42:15] [INFO] [39mMrZhang365#Zhang+ is running kick command, args: ^kick Mr
+[31m[2023-06-09 03:42:15] [ERROR] [39mFailed to run undefined with ^kick Mr, user: MrZhang365#Zhang+}. error: TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received an instance of Object
+[32m[2023-06-09 03:42:15] [INFO] [39mZhangHelper365_Beta#44FF00: Err!
+[32m[2023-06-09 03:42:47] [INFO] [39mInitializing kernel
+[32m[2023-06-09 03:42:47] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-09 03:42:47] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-09 03:42:47] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-09 03:42:47] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-09 03:42:47] [INFO] [39mInitialized kick.js
+[32m[2023-06-09 03:42:47] [INFO] [39mInitialized op.js
+[32m[2023-06-09 03:42:47] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-09 03:42:47] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-09 03:42:47] [INFO] [39mKernel initialization completed
+[32m[2023-06-09 03:42:47] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-09 03:42:47] [INFO] [39mJoining to ?12345
+[32m[2023-06-09 03:42:47] [INFO] [39mUsers online: MrZhang365 ZhangHelper365_Beta
+[32m[2023-06-09 03:42:51] [INFO] [39mMrZhang365#Zhang+: ^kick Mr
+[32m[2023-06-09 03:42:51] [INFO] [39mMrZhang365#Zhang+ is running kick command, args: ^kick Mr
+[32m[2023-06-09 03:42:53] [INFO] [39mMrZhang365#Zhang+: ^kick
+[32m[2023-06-09 03:42:53] [INFO] [39mMrZhang365#Zhang+ is running kick command, args: ^kick
+[32m[2023-06-09 03:42:53] [INFO] [39mZhangHelper365_Beta#44FF00: Please tell me who will be kicked
+[32m[2023-06-09 03:42:56] [INFO] [39mMrZhang365#Zhang+: ^kick    
+[32m[2023-06-09 03:42:56] [INFO] [39mMrZhang365#Zhang+ is running kick command, args: ^kick    
+[32m[2023-06-09 03:43:01] [INFO] [39mMrZhang365#Zhang+: ^kick MrZhang365
+[32m[2023-06-09 03:43:01] [INFO] [39mMrZhang365#Zhang+ is running kick command, args: ^kick MrZhang365
+[32m[2023-06-09 03:43:15] [INFO] [39m1 joined
+[32m[2023-06-09 03:43:18] [INFO] [39m1#: ^kick 1
+[32m[2023-06-09 03:43:27] [INFO] [39m2 joined
+[32m[2023-06-09 03:43:34] [INFO] [39m3 joined
+[32m[2023-06-09 03:43:46] [INFO] [39m4 joined
+[32m[2023-06-09 03:43:53] [INFO] [39m4 left
+[32m[2023-06-09 03:43:58] [INFO] [39m4 joined
+[32m[2023-06-09 03:44:04] [INFO] [39mMrZhang365#Zhang+: ^op gTuZAB
+[32m[2023-06-09 03:44:04] [INFO] [39mMrZhang365#Zhang+ is running op command, args: ^op gTuZAB
+[32m[2023-06-09 03:44:04] [INFO] [39mZhangHelper365_Beta#44FF00: Added an OP: gTuZAB
+[32m[2023-06-09 03:44:16] [INFO] [39m4#gTuZAB: ^kick 4
+[32m[2023-06-09 03:44:16] [INFO] [39m4#gTuZAB is running kick command, args: ^kick 4
+[32m[2023-06-09 03:44:16] [INFO] [39m4 left
+[32m[2023-06-09 03:44:20] [INFO] [39m4 joined
+[32m[2023-06-09 03:44:26] [INFO] [39m4#gTuZAB: ^kick 1 2 3
+[32m[2023-06-09 03:44:26] [INFO] [39m4#gTuZAB is running kick command, args: ^kick 1 2 3
+[32m[2023-06-09 03:44:26] [INFO] [39m3 left
+[32m[2023-06-09 03:44:26] [INFO] [39m2 left
+[32m[2023-06-09 03:44:26] [INFO] [39m1 left
+[32m[2023-06-09 03:44:44] [INFO] [39m1 joined
+[32m[2023-06-09 03:44:50] [INFO] [39m2 joined
+[32m[2023-06-09 03:45:03] [INFO] [39m4#gTuZAB: ^kick 1 2 4
+[32m[2023-06-09 03:45:03] [INFO] [39m4#gTuZAB is running kick command, args: ^kick 1 2 4
+[32m[2023-06-09 03:45:03] [INFO] [39m2 left
+[32m[2023-06-09 03:45:03] [INFO] [39m1 left
+[32m[2023-06-09 03:45:03] [INFO] [39m4 left

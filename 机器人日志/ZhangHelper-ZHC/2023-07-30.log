@@ -1,0 +1,299 @@
+[32m[2023-07-30 10:50:43] [INFO] [39mInitializing kernel
+[32m[2023-07-30 10:50:43] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-07-30 10:50:43] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-07-30 10:50:43] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-07-30 10:50:43] [INFO] [39m15 command module(s) will be initialized
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized allmsg.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized ban.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized block.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized clearmsg.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized draw.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized gpt.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized help.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized kick.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized msg.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized nsfw.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized op.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized read.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized reload.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized stop.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized version.js
+[32m[2023-07-30 10:50:43] [INFO] [39mInitialized 15 command(s)
+[32m[2023-07-30 10:50:43] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-07-30 10:50:43] [INFO] [39mAdded a hook for onlineAdd, the level is 0
+[32m[2023-07-30 10:50:43] [INFO] [39mAdded a hook for chat, the level is 25
+[32m[2023-07-30 10:50:43] [INFO] [39mKernel initialization completed
+[31m[2023-07-30 10:50:43] [ERROR] [39mFailed to connect to wss://chat.zhangsoft.cf/ws
+[32m[2023-07-30 10:50:43] [INFO] [39mStopping kernel, code: 1
+[32m[2023-07-30 10:50:58] [INFO] [39mInitializing kernel
+[32m[2023-07-30 10:50:58] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-07-30 10:50:58] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-07-30 10:50:58] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-07-30 10:50:58] [INFO] [39m15 command module(s) will be initialized
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized allmsg.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized ban.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized block.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized clearmsg.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized draw.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized gpt.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized help.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized kick.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized msg.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized nsfw.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized op.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized read.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized reload.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized stop.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized version.js
+[32m[2023-07-30 10:50:58] [INFO] [39mInitialized 15 command(s)
+[32m[2023-07-30 10:50:58] [INFO] [39mConnecting to wss://chat.zhangsoft.link/ws
+[32m[2023-07-30 10:50:58] [INFO] [39mAdded a hook for onlineAdd, the level is 0
+[32m[2023-07-30 10:50:58] [INFO] [39mAdded a hook for chat, the level is 25
+[32m[2023-07-30 10:50:58] [INFO] [39mKernel initialization completed
+[32m[2023-07-30 10:51:00] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.link/ws
+[32m[2023-07-30 10:51:00] [INFO] [39mJoining to ?chat
+[32m[2023-07-30 10:51:00] [INFO] [39mUsers online: ZhangHelper365, PaperDr0_, dddd, 纸张, raverkusels, PaperRmls, eebot42, 22c, Paperee, Fin, ZhangHelper365_
+[32m[2023-07-30 10:51:00] [INFO] [39meebot42#44FF00: hello ZhangHelper365_
+[32m[2023-07-30 10:51:07] [INFO] [39m纸张#Zhang+: ^gpt hi
+[32m[2023-07-30 10:51:07] [INFO] [39m纸张#Zhang+ is running gpt command, args: ^gpt hi
+[32m[2023-07-30 10:51:07] [INFO] [39mZhangHelper365#Zhang+: 抱歉，这好像不在我的工作范围之内。
+[32m[2023-07-30 10:51:07] [INFO] [39mPaperRmls#YuBFQG: hi yooooooooooooooooooo
+[32m[2023-07-30 10:51:08] [INFO] [39mPaperRmls#YuBFQG: uwu!
+[31m[2023-07-30 10:51:08] [ERROR] [39mFailed to request ChatGPT: TypeError: Cannot read properties of undefined (reading 'reason')
+[32m[2023-07-30 10:51:08] [INFO] [39mZhangHelper365_#Zhang+: @纸张 我出错了
+[32m[2023-07-30 10:51:14] [INFO] [39mPaperRmls#YuBFQG: 9
+[32m[2023-07-30 10:51:16] [INFO] [39mFin#: 好家伙
+[32m[2023-07-30 10:51:20] [INFO] [39mFin#: 怎么全都成paper了
+[32m[2023-07-30 10:51:44] [INFO] [39mFin#: @eebot42 晚上好
+[32m[2023-07-30 10:51:46] [INFO] [39meebot42#44FF00: 晚上好啊 uwu
+[32m[2023-07-30 10:51:46] [INFO] [39mPaperRmls#YuBFQG: @Fin 快快来把火（）
+[32m[2023-07-30 10:52:18] [INFO] [39mInitializing kernel
+[32m[2023-07-30 10:52:18] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-07-30 10:52:18] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-07-30 10:52:18] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-07-30 10:52:18] [INFO] [39m15 command module(s) will be initialized
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized allmsg.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized ban.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized block.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized clearmsg.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized draw.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized gpt.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized help.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized kick.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized msg.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized nsfw.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized op.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized read.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized reload.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized stop.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized version.js
+[32m[2023-07-30 10:52:18] [INFO] [39mInitialized 15 command(s)
+[32m[2023-07-30 10:52:18] [INFO] [39mConnecting to wss://chat.zhangsoft.link/ws
+[32m[2023-07-30 10:52:18] [INFO] [39mAdded a hook for onlineAdd, the level is 0
+[32m[2023-07-30 10:52:18] [INFO] [39mAdded a hook for chat, the level is 25
+[32m[2023-07-30 10:52:18] [INFO] [39mKernel initialization completed
+[32m[2023-07-30 10:52:19] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.link/ws
+[32m[2023-07-30 10:52:19] [INFO] [39mJoining to ?chat
+[32m[2023-07-30 10:52:20] [INFO] [39mUsers online: ZhangHelper365, PaperDr0_, dddd, 纸张, raverkusels, PaperRmls, eebot42, 22c, Paperee, Fin, ZhangHelper365_
+[32m[2023-07-30 10:52:20] [INFO] [39meebot42#44FF00: hey ZhangHelper365_
+[32m[2023-07-30 10:52:26] [INFO] [39m纸张#Zhang+: ^gpt hi
+[32m[2023-07-30 10:52:26] [INFO] [39m纸张#Zhang+ is running gpt command, args: ^gpt hi
+[32m[2023-07-30 10:52:37] [INFO] [39mZhangHelper365#Zhang+: 抱歉，这好像不在我的工作范围之内。
+[31m[2023-07-30 10:53:18] [ERROR] [39mFailed to request ChatGPT: TypeError: fetch failed
+[32m[2023-07-30 10:53:18] [INFO] [39m纸张#Zhang+: 不！要！报！错！
+[32m[2023-07-30 10:53:18] [INFO] [39mFin#: @eebot42 你看到ee了吗？
+[32m[2023-07-30 10:53:18] [INFO] [39meebot42#44FF00: 没有 eb一般不会主动要的）
+[32m[2023-07-30 10:53:18] [INFO] [39mFin#: @eebot42 告诉我一个秘密
+[32m[2023-07-30 10:53:18] [INFO] [39mServer: @eebot42 可能是假的）
+[32m[2023-07-30 10:53:18] [INFO] [39mFin#: 诶？这个改了哈哈哈
+[32m[2023-07-30 10:53:18] [INFO] [39mPaperRmls#YuBFQG: 9
+[32m[2023-07-30 10:53:19] [INFO] [39mZhangHelper365_#Zhang+: @纸张 我出错了
+[32m[2023-07-30 10:53:41] [INFO] [39mRVKS joined
+[32m[2023-07-30 10:53:42] [INFO] [39meebot42#44FF00: hi yooooooooo
+[32m[2023-07-30 10:53:43] [INFO] [39meebot42#44FF00: uwu!
+[32m[2023-07-30 10:53:43] [INFO] [39m纸张#Zhang+: ee在eb背后窥屏
+[32m[2023-07-30 10:53:46] [INFO] [39m纸张#Zhang+: ^reload
+[32m[2023-07-30 10:53:46] [INFO] [39m纸张#Zhang+ is running reload command, args: ^reload
+[32m[2023-07-30 10:53:46] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-07-30 10:53:46] [INFO] [39m15 command module(s) will be initialized
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized allmsg.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized ban.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized block.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized clearmsg.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized draw.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized gpt.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized help.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized kick.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized msg.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized nsfw.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized op.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized read.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized reload.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized stop.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized version.js
+[32m[2023-07-30 10:53:46] [INFO] [39mInitialized 15 command(s)
+[32m[2023-07-30 10:53:46] [INFO] [39mAdded a hook for onlineAdd, the level is 0
+[32m[2023-07-30 10:53:46] [INFO] [39mAdded a hook for chat, the level is 25
+[32m[2023-07-30 10:53:46] [INFO] [39mZhangHelper365#Zhang+: 已重载 15 个命令
+[32m[2023-07-30 10:53:46] [INFO] [39mZhangHelper365_#Zhang+: 已重载 15 个命令
+[32m[2023-07-30 10:53:47] [INFO] [39mRVKS#nu+5kk: 我靠
+[32m[2023-07-30 10:53:50] [INFO] [39m纸张#Zhang+: ^gpt test
+[32m[2023-07-30 10:53:50] [INFO] [39m纸张#Zhang+ is running gpt command, args: ^gpt test
+[32m[2023-07-30 10:53:58] [INFO] [39mZhangHelper365#Zhang+: 抱歉，这好像不在我的工作范围之内。
+[32m[2023-07-30 10:53:58] [INFO] [39mRVKS#nu+5kk: 谁他妈占用我名字
+[31m[2023-07-30 10:54:35] [ERROR] [39mFailed to request ChatGPT: TypeError: fetch failed
+[32m[2023-07-30 10:54:35] [INFO] [39mPaperRmls#YuBFQG: @RVKS 你自己（
+[32m[2023-07-30 10:54:35] [INFO] [39mRVKS#nu+5kk: 啊？
+[32m[2023-07-30 10:54:35] [INFO] [39mRVKS#nu+5kk: ？？？？？
+[32m[2023-07-30 10:54:35] [INFO] [39mPaperRmls#YuBFQG:  @RVKS 
+[32m[2023-07-30 10:54:35] [INFO] [39m/kickzom raverkusels 
+[32m[2023-07-30 10:54:36] [INFO] [39mZhangHelper365_#Zhang+: @纸张 我出错了
+[32m[2023-07-30 10:54:40] [INFO] [39mFin#: >[Zhang+] 纸张：
+[32m[2023-07-30 10:54:40] [INFO] [39m>ee在eb背后窥屏
+[32m[2023-07-30 10:54:40] [INFO] [39m
+[32m[2023-07-30 10:54:40] [INFO] [39m@纸张  哈哈哈
+[32m[2023-07-30 10:54:45] [INFO] [39m纸张#Zhang+: 我无语了
+[32m[2023-07-30 10:54:46] [INFO] [39mRVKS#nu+5kk: 今日首蹦
+[32m[2023-07-30 10:54:48] [INFO] [39m纸张#Zhang+: 这BUG
+[32m[2023-07-30 10:54:51] [INFO] [39m纸张#Zhang+: 以前还好好的
+[32m[2023-07-30 10:54:57] [INFO] [39mPaperRmls#YuBFQG: @RVKS /kickzom raverkusels 
+[32m[2023-07-30 10:55:02] [INFO] [39m纸张#Zhang+: 而且还是fetch内部错误
+[32m[2023-07-30 10:55:02] [INFO] [39mPaperRmls#YuBFQG: 发送
+[32m[2023-07-30 10:55:06] [INFO] [39mFin#: >[Zhang+] ZhangHelper365_：
+[32m[2023-07-30 10:55:06] [INFO] [39m>@纸张 我出错了
+[32m[2023-07-30 10:55:06] [INFO] [39m
+[32m[2023-07-30 10:55:06] [INFO] [39m@ZhangHelper365_ 还挺主动，遇到问题知道主动找爹哈哈哈
+[32m[2023-07-30 10:55:10] [INFO] [39m纸张#Zhang+: 读取了undefined的属性
+[32m[2023-07-30 10:55:12] [INFO] [39m纸张#Zhang+: 无语
+[32m[2023-07-30 10:55:18] [INFO] [39m纸张#Zhang+: @Fin 你加上识别码试试
+[32m[2023-07-30 10:55:19] [INFO] [39m纸张#Zhang+: 他也会找你
+[32m[2023-07-30 10:55:25] [INFO] [39mServer: raverkusels 被 PaperRmls 踢出了聊天室
+[32m[2023-07-30 10:55:25] [INFO] [39mraverkusels left
+[32m[2023-07-30 10:55:30] [INFO] [39mFin#: 哦？
+[32m[2023-07-30 10:55:31] [INFO] [39mFin#: 我试试
+[32m[2023-07-30 10:55:33] [INFO] [39mFin left
+[32m[2023-07-30 10:55:42] [INFO] [39mPaperRmls#YuBFQG: e僵尸号
+[32m[2023-07-30 10:55:46] [INFO] [39mRVKS#nu+5kk: 啊
+[32m[2023-07-30 10:55:48] [INFO] [39mFin joined
+[32m[2023-07-30 10:55:50] [INFO] [39meebot42#44FF00: hi yoooooooo
+[32m[2023-07-30 10:55:50] [INFO] [39meebot42#44FF00: hi yooooooooo
+[32m[2023-07-30 10:55:53] [INFO] [39mFin#n5dwlK: 嗨嗨嗨
+[32m[2023-07-30 10:55:57] [INFO] [39m纸张#Zhang+: 可以用 /kickzom 昵称 自行踢出
+[32m[2023-07-30 10:56:07] [INFO] [39mFin left
+[32m[2023-07-30 10:56:12] [INFO] [39mFin joined
+[32m[2023-07-30 10:56:13] [INFO] [39meebot42#44FF00: awa!
+[32m[2023-07-30 10:56:14] [INFO] [39meebot42#44FF00: 来了老弟~
+[32m[2023-07-30 10:56:19] [INFO] [39mPaperRmls#YuBFQG: @RVKS 可以用 /kickzom 昵称 自行踢出
+[32m[2023-07-30 10:56:29] [INFO] [39mPaperDr0_ left
+[32m[2023-07-30 10:56:37] [INFO] [39mPaperDr0_ joined
+[32m[2023-07-30 10:56:38] [INFO] [39mPaperRmls left
+[32m[2023-07-30 10:56:38] [INFO] [39meebot42#44FF00: awa!
+[32m[2023-07-30 10:56:39] [INFO] [39meebot42#44FF00: 来了老弟~
+[32m[2023-07-30 10:56:53] [INFO] [39m纸张#Zhang+: ^reload
+[32m[2023-07-30 10:56:53] [INFO] [39m纸张#Zhang+ is running reload command, args: ^reload
+[32m[2023-07-30 10:56:53] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-07-30 10:56:53] [INFO] [39m15 command module(s) will be initialized
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized allmsg.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized ban.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized block.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized clearmsg.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized draw.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized gpt.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized help.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized kick.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized msg.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized nsfw.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized op.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized read.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized reload.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized stop.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized version.js
+[32m[2023-07-30 10:56:53] [INFO] [39mInitialized 15 command(s)
+[32m[2023-07-30 10:56:53] [INFO] [39mAdded a hook for onlineAdd, the level is 0
+[32m[2023-07-30 10:56:53] [INFO] [39mAdded a hook for chat, the level is 25
+[32m[2023-07-30 10:56:53] [INFO] [39mZhangHelper365#Zhang+: 已重载 15 个命令
+[32m[2023-07-30 10:56:54] [INFO] [39mZhangHelper365_#Zhang+: 已重载 15 个命令
+[32m[2023-07-30 10:56:57] [INFO] [39m纸张#Zhang+: ^gpt test
+[32m[2023-07-30 10:56:57] [INFO] [39m纸张#Zhang+ is running gpt command, args: ^gpt test
+[32m[2023-07-30 10:56:57] [INFO] [39mZhangHelper365#Zhang+: 抱歉，这好像不在我的工作范围之内。
+[31m[2023-07-30 10:56:58] [ERROR] [39mFailed to request ChatGPT: TypeError: fetch failed
+[32m[2023-07-30 10:56:58] [INFO] [39mZhangHelper365_#Zhang+: @纸张 我出错了
+[32m[2023-07-30 10:57:05] [INFO] [39m纸张#Zhang+: ^gpt test
+[32m[2023-07-30 10:57:05] [INFO] [39m纸张#Zhang+ is running gpt command, args: ^gpt test
+[32m[2023-07-30 10:57:05] [INFO] [39mZhangHelper365#Zhang+: 抱歉，这好像不在我的工作范围之内。
+[32m[2023-07-30 11:03:44] [INFO] [39mInitializing kernel
+[32m[2023-07-30 11:03:44] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-07-30 11:03:44] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-07-30 11:03:44] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-07-30 11:03:44] [INFO] [39m15 command module(s) will be initialized
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized allmsg.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized ban.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized block.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized clearmsg.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized draw.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized gpt.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized help.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized kick.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized msg.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized nsfw.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized op.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized read.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized reload.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized stop.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized version.js
+[32m[2023-07-30 11:03:44] [INFO] [39mInitialized 15 command(s)
+[32m[2023-07-30 11:03:44] [INFO] [39mConnecting to wss://chat.zhangsoft.link/ws
+[32m[2023-07-30 11:03:44] [INFO] [39mAdded a hook for onlineAdd, the level is 0
+[32m[2023-07-30 11:03:44] [INFO] [39mAdded a hook for chat, the level is 25
+[32m[2023-07-30 11:03:44] [INFO] [39mKernel initialization completed
+[32m[2023-07-30 11:03:46] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.link/ws
+[32m[2023-07-30 11:03:46] [INFO] [39mJoining to ?chat
+[32m[2023-07-30 11:03:46] [INFO] [39mUsers online: ZhangHelper365, dddd, 纸张, eebot42, 22c, Paperee, PaperDr0_, Remelens, raverkusels, ZhangHelper365_
+[32m[2023-07-30 11:03:46] [INFO] [39mraverkusels#nu+5kk: ，，，
+[32m[2023-07-30 11:03:47] [INFO] [39meebot42#44FF00: hey ZhangHelper365_
+[32m[2023-07-30 11:03:54] [INFO] [39m纸张#Zhang+: ^gpt test
+[32m[2023-07-30 11:03:54] [INFO] [39m纸张#Zhang+ is running gpt command, args: ^gpt test
+[32m[2023-07-30 11:03:54] [INFO] [39mZhangHelper365#Zhang+: 抱歉，这好像不在我的工作范围之内。
+[32m[2023-07-30 11:03:56] [INFO] [39mZhangHelper365_#Zhang+: @纸张 [object Response]
+[32m[2023-07-30 11:03:59] [INFO] [39mraverkusels#nu+5kk: uwu!
+[32m[2023-07-30 11:04:02] [INFO] [39m纸张#Zhang+: Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+[32m[2023-07-30 11:04:03] [INFO] [39mRemelens#YuBFQG: 9
+[32m[2023-07-30 11:04:09] [INFO] [39mRemelens#YuBFQG: uwu!
+[32m[2023-07-30 11:04:09] [INFO] [39mRemelens#YuBFQG: awa!
+[32m[2023-07-30 11:04:26] [INFO] [39m纸张#Zhang+: ^reload
+[32m[2023-07-30 11:04:26] [INFO] [39m纸张#Zhang+ is running reload command, args: ^reload
+[32m[2023-07-30 11:04:26] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-07-30 11:04:26] [INFO] [39m15 command module(s) will be initialized
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized allmsg.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized ban.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized block.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized clearmsg.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized draw.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized gpt.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized help.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized kick.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized msg.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized nsfw.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized op.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized read.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized reload.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized stop.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized version.js
+[32m[2023-07-30 11:04:26] [INFO] [39mInitialized 15 command(s)
+[32m[2023-07-30 11:04:26] [INFO] [39mAdded a hook for onlineAdd, the level is 0
+[32m[2023-07-30 11:04:26] [INFO] [39mAdded a hook for chat, the level is 25
+[32m[2023-07-30 11:04:26] [INFO] [39mZhangHelper365#Zhang+: 已重载 15 个命令
+[32m[2023-07-30 11:04:26] [INFO] [39mZhangHelper365_#Zhang+: 已重载 15 个命令
+[32m[2023-07-30 11:04:28] [INFO] [39m纸张#Zhang+: ^gpt 你好
+[32m[2023-07-30 11:04:28] [INFO] [39m纸张#Zhang+ is running gpt command, args: ^gpt 你好
+[32m[2023-07-30 11:04:28] [INFO] [39mZhangHelper365#Zhang+: 抱歉，这好像不在我的工作范围之内。
+[32m[2023-07-30 11:04:31] [INFO] [39mZhangHelper365_#Zhang+: @纸张 你好！很高兴能够与你交流。有什么问题或者需要我的帮助吗？
+[32m[2023-07-30 11:04:37] [INFO] [39m纸张#Zhang+: ^gpt 你是谁
+[32m[2023-07-30 11:04:37] [INFO] [39m纸张#Zhang+ is running gpt command, args: ^gpt 你是谁
+[32m[2023-07-30 11:04:37] [INFO] [39mZhangHelper365#Zhang+: 抱歉，这好像不在我的工作范围之内。
+[32m[2023-07-30 11:04:44] [INFO] [39mZhangHelper365_#Zhang+: @纸张 我是一个基于 GPT-3.5 接口的AI机器人，由OpenAI开发。我被称为binjie09。我可以回答各种问题、提供信息和与你进行对话。请告诉我你需要什么帮助，我会尽力给予回答。
+[32m[2023-07-30 11:04:48] [INFO] [39m纸张#Zhang+: ^gpt 你知道《只因你太美》吗？
+[32m[2023-07-30 11:04:48] [INFO] [39m纸张#Zhang+ is running gpt command, args: ^gpt 你知道《只因你太美》吗？
+[32m[2023-07-30 11:04:48] [INFO] [39mZhangHelper365#Zhang+: 抱歉，这好像不在我的工作范围之内。
+[32m[2023-07-30 11:04:59] [INFO] [39mZhangHelper365_#Zhang+: @纸张 是的，我知道《只因你太美》这首歌。它是一首非常受欢迎的中文流行歌曲，由毛阿敏演唱，于1993年首次发布。这首歌曲以其动情的歌词和旋律而广为人知，成为了毛阿敏的代表作之一。如果你对这首歌有任何具体的问题或者想要了解更多信息，我会尽量帮助你。
+[32m[2023-07-30 11:05:12] [INFO] [39mPaperee#uwuu57: 草

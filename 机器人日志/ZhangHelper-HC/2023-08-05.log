@@ -1,0 +1,988 @@
+[2023-08-05 21:31:21] [INFO] Initializing kernel
+[2023-08-05 21:31:21] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-05 21:31:21] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-05 21:31:21] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-05 21:31:21] [INFO] 15 command module(s) will be initialized
+[2023-08-05 21:31:21] [INFO] Initialized allmsg.js
+[2023-08-05 21:31:21] [INFO] Initialized ban.js
+[2023-08-05 21:31:21] [INFO] Initialized block.js
+[2023-08-05 21:31:21] [INFO] Initialized clearmsg.js
+[2023-08-05 21:31:21] [INFO] Initialized gpt.js
+[2023-08-05 21:31:21] [INFO] Initialized help.js
+[2023-08-05 21:31:21] [INFO] Initialized kick.js
+[2023-08-05 21:31:21] [INFO] Initialized listban.js
+[2023-08-05 21:31:21] [INFO] Initialized msg.js
+[2023-08-05 21:31:21] [INFO] Initialized op.js
+[2023-08-05 21:31:21] [INFO] Initialized read.js
+[2023-08-05 21:31:21] [INFO] Initialized reload.js
+[2023-08-05 21:31:21] [INFO] Initialized stop.js
+[2023-08-05 21:31:21] [INFO] Initialized unban.js
+[2023-08-05 21:31:21] [INFO] Initialized version.js
+[2023-08-05 21:31:21] [INFO] Initialized 15 command(s)
+[2023-08-05 21:31:21] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-05 21:31:21] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-05 21:31:21] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-05 21:31:21] [INFO] Added a hook for chat, the level is 25
+[2023-08-05 21:31:21] [INFO] Kernel initialization completed
+[2023-08-05 21:31:23] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-05 21:31:23] [INFO] Joining to ?your-channel
+[2023-08-05 21:31:23] [INFO] Users online: mbot, MaggieRecordV26543, Radium_kuuu, NokiaHC45073, 24abot_HnCcK, 0x24aHCAdapter4244, 24a, xuan2wei1_awa, ji11, QiuLingYan, RK37_01, 123_, MrZhang365, RoastPig, 4w4________, so_what, ZhangHelper365
+[2023-08-05 21:31:28] [INFO] MrZhang365#vtFJUL: awa
+[2023-08-05 21:31:35] [INFO] RoastPig#dxF2u4: ovo
+[2023-08-05 21:31:38] [INFO] 24a#2ZQ3+0: owo
+[2023-08-05 21:31:43] [INFO] MrZhang365#vtFJUL: an useless bot
+[2023-08-05 21:31:43] [INFO] 123_#6Xgj9g: hi
+[2023-08-05 21:31:50] [INFO] MrZhang365#vtFJUL: a useless bot
+[2023-08-05 21:32:09] [INFO] RoastPig#dxF2u4: @MrZhang365 傻逼对联是咋样的
+[2023-08-05 21:32:11] [INFO] 24a#2ZQ3+0: its not useless
+[2023-08-05 21:32:20] [INFO] MrZhang365#vtFJUL: >dxF2u4 RoastPig：
+[2023-08-05 21:32:20] [INFO] >@MrZhang365 傻逼对联是咋样的
+[2023-08-05 21:32:20] [INFO] 
+[2023-08-05 21:32:20] [INFO] @RoastPig 我不清楚 我不在那个时代
+[2023-08-05 21:32:30] [INFO] MrZhang365#vtFJUL: >2ZQ3+0 24a：
+[2023-08-05 21:32:30] [INFO] >its not useless
+[2023-08-05 21:32:30] [INFO] 
+[2023-08-05 21:32:30] [INFO] @24a no, it must be useless
+[2023-08-05 21:32:31] [INFO] 24a#2ZQ3+0: just
+[2023-08-05 21:32:35] [INFO] 24a#2ZQ3+0: currently
+[2023-08-05 21:32:35] [INFO] MrZhang365#vtFJUL: >2ZQ3+0 24a：
+[2023-08-05 21:32:35] [INFO] >its not useless
+[2023-08-05 21:32:35] [INFO] 
+[2023-08-05 21:32:35] [INFO] @24a no, it must be a useless bot
+[2023-08-05 21:32:38] [INFO] 24a#2ZQ3+0: currently
+[2023-08-05 21:32:39] [INFO] MrZhang365#vtFJUL: no
+[2023-08-05 21:32:41] [INFO] 24a#2ZQ3+0: nobody use that
+[2023-08-05 21:32:42] [INFO] MrZhang365#vtFJUL: forever
+[2023-08-05 21:32:54] [INFO] 24a#2ZQ3+0: nobody use != useless
+[2023-08-05 21:32:58] [INFO] MrZhang365#vtFJUL: Just a moment
+[2023-08-05 21:33:18] [INFO] MrZhang365#vtFJUL: why nobody uses it? Just because it is a useless bot
+[2023-08-05 21:33:24] [INFO] RK37_01#A8FTOC: hi
+[2023-08-05 21:34:06] [INFO] Initializing kernel
+[2023-08-05 21:34:06] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-05 21:34:06] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-05 21:34:06] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-05 21:34:07] [INFO] 15 command module(s) will be initialized
+[2023-08-05 21:34:07] [INFO] Initialized allmsg.js
+[2023-08-05 21:34:07] [INFO] Initialized ban.js
+[2023-08-05 21:34:07] [INFO] Initialized block.js
+[2023-08-05 21:34:07] [INFO] Initialized clearmsg.js
+[2023-08-05 21:34:07] [INFO] Initialized gpt.js
+[2023-08-05 21:34:07] [INFO] Initialized help.js
+[2023-08-05 21:34:07] [INFO] Initialized kick.js
+[2023-08-05 21:34:07] [INFO] Initialized listban.js
+[2023-08-05 21:34:07] [INFO] Initialized msg.js
+[2023-08-05 21:34:07] [INFO] Initialized op.js
+[2023-08-05 21:34:07] [INFO] Initialized read.js
+[2023-08-05 21:34:07] [INFO] Initialized reload.js
+[2023-08-05 21:34:07] [INFO] Initialized stop.js
+[2023-08-05 21:34:07] [INFO] Initialized unban.js
+[2023-08-05 21:34:07] [INFO] Initialized version.js
+[2023-08-05 21:34:07] [INFO] Initialized 15 command(s)
+[2023-08-05 21:34:07] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-05 21:34:07] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-05 21:34:07] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-05 21:34:07] [INFO] Added a hook for chat, the level is 25
+[2023-08-05 21:34:07] [INFO] Kernel initialization completed
+[2023-08-05 21:34:07] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-05 21:34:07] [INFO] Joining to ?your-channel
+[2023-08-05 21:34:08] [INFO] Users online: mbot, MaggieRecordV26543, Radium_kuuu, NokiaHC45073, 24abot_HnCcK, 0x24aHCAdapter4244, 24a, xuan2wei1_awa, ji11, QiuLingYan, RK37_01, 123_, MrZhang365, RoastPig, 4w4________, so_what, UselessBot
+[2023-08-05 21:35:01] [INFO] Initializing kernel
+[2023-08-05 21:35:01] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-05 21:35:01] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-05 21:35:01] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-05 21:35:01] [INFO] 15 command module(s) will be initialized
+[2023-08-05 21:35:01] [INFO] Initialized allmsg.js
+[2023-08-05 21:35:01] [INFO] Initialized ban.js
+[2023-08-05 21:35:01] [INFO] Initialized block.js
+[2023-08-05 21:35:01] [INFO] Initialized clearmsg.js
+[2023-08-05 21:35:01] [INFO] Initialized gpt.js
+[2023-08-05 21:35:01] [INFO] Initialized help.js
+[2023-08-05 21:35:01] [INFO] Initialized kick.js
+[2023-08-05 21:35:01] [INFO] Initialized listban.js
+[2023-08-05 21:35:01] [INFO] Initialized msg.js
+[2023-08-05 21:35:01] [INFO] Initialized op.js
+[2023-08-05 21:35:01] [INFO] Initialized read.js
+[2023-08-05 21:35:01] [INFO] Initialized reload.js
+[2023-08-05 21:35:01] [INFO] Initialized stop.js
+[2023-08-05 21:35:01] [INFO] Initialized unban.js
+[2023-08-05 21:35:01] [INFO] Initialized version.js
+[2023-08-05 21:35:01] [INFO] Initialized 15 command(s)
+[2023-08-05 21:35:01] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-05 21:35:01] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-05 21:35:01] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-05 21:35:01] [INFO] Added a hook for chat, the level is 25
+[2023-08-05 21:35:01] [INFO] Kernel initialization completed
+[2023-08-05 21:35:03] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-05 21:35:03] [INFO] Joining to ?your-channel
+[2023-08-05 21:35:03] [INFO] Users online: mbot, MaggieRecordV26543, Radium_kuuu, NokiaHC45073, 24abot_HnCcK, 0x24aHCAdapter4244, 24a, xuan2wei1_awa, ji11, QiuLingYan, RK37_01, 123_, MrZhang365, RoastPig, 4w4________, so_what, UselessBot
+[2023-08-05 21:35:07] [INFO] MrZhang365#vtFJUL: Oh noooooooooooooooooooooooooooooooooooooo
+[2023-08-05 21:35:09] [INFO] MrZhang365#vtFJUL: bug
+[2023-08-05 21:35:16] [INFO] MrZhang365#vtFJUL is running help command, args: ^help
+[2023-08-05 21:35:16] [INFO] Server: ^help
+[2023-08-05 21:35:16] [INFO] Server: You whispered to @MrZhang365: .
+[2023-08-05 21:35:16] [INFO] # 所有命令
+[2023-08-05 21:35:16] [INFO] |等级：|命令：|
+[2023-08-05 21:35:16] [INFO] |---:|:---|
+[2023-08-05 21:35:16] [INFO] |用户：|allmsg, clearmsg, gpt, help, listban, msg, read, version|
+[2023-08-05 21:35:16] [INFO] |协管：|ban, block, kick, op, unban|
+[2023-08-05 21:35:16] [INFO] |超级管理员：|reload, stop|
+[2023-08-05 21:35:16] [INFO] ---
+[2023-08-05 21:35:16] [INFO] 要获取指定命令的帮助信息，请使用：
+[2023-08-05 21:35:16] [INFO] `^help 命令名`
+[2023-08-05 21:35:18] [INFO] MrZhang365#vtFJUL: ok
+[2023-08-05 21:35:21] [INFO] MrZhang365#vtFJUL: fixed
+[2023-08-05 21:35:39] [INFO] MrZhang365#vtFJUL: @UselessBot You should wait a user who can use you
+[2023-08-05 21:35:50] [INFO] MrZhang365#vtFJUL: @UselessBot You should wait for a user who can use you
+[2023-08-05 21:35:57] [INFO] RoastPig#dxF2u4: .help
+[2023-08-05 21:36:11] [INFO] MrZhang365#vtFJUL: and...
+[2023-08-05 21:36:16] [INFO] RoastPig#dxF2u4: @MrZhang365 where is help
+[2023-08-05 21:36:22] [INFO] MrZhang365#vtFJUL: ^help
+[2023-08-05 21:36:22] [INFO] MrZhang365#vtFJUL is running help command, args: ^help
+[2023-08-05 21:36:22] [INFO] Server: You whispered to @MrZhang365: .
+[2023-08-05 21:36:22] [INFO] # 所有命令
+[2023-08-05 21:36:22] [INFO] |等级：|命令：|
+[2023-08-05 21:36:22] [INFO] |---:|:---|
+[2023-08-05 21:36:22] [INFO] |用户：|allmsg, clearmsg, gpt, help, listban, msg, read, version|
+[2023-08-05 21:36:22] [INFO] |协管：|ban, block, kick, op, unban|
+[2023-08-05 21:36:22] [INFO] |超级管理员：|reload, stop|
+[2023-08-05 21:36:22] [INFO] ---
+[2023-08-05 21:36:22] [INFO] 要获取指定命令的帮助信息，请使用：
+[2023-08-05 21:36:22] [INFO] `^help 命令名`
+[2023-08-05 21:36:26] [INFO] MrZhang365#vtFJUL: >vtFJUL *：
+[2023-08-05 21:36:26] [INFO] >UselessBot 对你私聊：.
+[2023-08-05 21:36:26] [INFO] ># 所有命令
+[2023-08-05 21:36:26] [INFO] >|等级：|命令：|
+[2023-08-05 21:36:26] [INFO] >|---:|:---|
+[2023-08-05 21:36:26] [INFO] >|用户：|allmsg, clearmsg, gpt, help, listban, msg, read, version|
+[2023-08-05 21:36:26] [INFO] >|协管：|ban, block, kick, op, unban|
+[2023-08-05 21:36:26] [INFO] >|超级管理员：|reload, stop|
+[2023-08-05 21:36:26] [INFO] >---
+[2023-08-05 21:36:26] [INFO] >……
+[2023-08-05 21:36:26] [INFO] 
+[2023-08-05 21:36:26] [INFO] @* 
+[2023-08-05 21:36:39] [INFO] MrZhang365#vtFJUL: stopped developing ZhangHelper For HackChat
+[2023-08-05 21:37:02] [INFO] RoastPig#dxF2u4: ^version
+[2023-08-05 21:37:02] [INFO] RoastPig#dxF2u4 is running version command, args: ^version
+[2023-08-05 21:37:02] [INFO] UselessBot#vtFJUL: @RoastPig 
+[2023-08-05 21:37:02] [INFO] # 关于 ZhangHelper365 For HackChat
+[2023-08-05 21:37:02] [INFO] 内核：ZhangHelper Kernel
+[2023-08-05 21:37:02] [INFO] 内核版本：1.1.0
+[2023-08-05 21:37:02] [INFO] 内核发布日期：2023-08-03（UTC+08:00）
+[2023-08-05 21:37:02] [INFO] 内核开发者：ZhangSoft（小张软件）
+[2023-08-05 21:37:02] [INFO] 许可证：Apache-2.0
+[2023-08-05 21:37:02] [INFO] 机器人名称：ZhangHelper365 For HackChat
+[2023-08-05 21:37:02] [INFO] 机器人版本：1.2.0
+[2023-08-05 21:37:02] [INFO] 机器人开发者：ZhangSoft（小张软件）
+[2023-08-05 21:38:08] [INFO] MrZhang365#vtFJUL: >vtFJUL MrZhang365：
+[2023-08-05 21:38:08] [INFO] >stopped developing ZhangHelper For HackChat
+[2023-08-05 21:38:08] [INFO] 
+[2023-08-05 21:38:08] [INFO] includes open source
+[2023-08-05 21:38:45] [INFO] MrZhang365#vtFJUL: ^gpt 蔡徐坤是谁
+[2023-08-05 21:38:45] [INFO] MrZhang365#vtFJUL is running gpt command, args: ^gpt 蔡徐坤是谁
+[2023-08-05 21:38:54] [INFO] UselessBot#vtFJUL: @MrZhang365 蔡徐坤（KUN），原名蔡徐坤，是一位中国流行男歌手、演员和模特。他出生于1998年8月2日，曾参加中国大陆男子偶像团体组合Nine Percent，并以个人出道后的音乐作品和表演活动而赢得了广泛的关注和认可。蔡徐坤在音乐领域的才华和舞台表演能力备受称赞，同时也积极参与公益慈善事业并展现社会责任感。他受到了许多年轻人的喜爱和支持，被誉为新生代的偶像之一。
+[2023-08-05 21:39:05] [INFO] MrZhang365#vtFJUL: awa
+[2023-08-05 21:39:25] [INFO] RoastPig#dxF2u4: ^gpt Mr.zhang 是谁
+[2023-08-05 21:39:25] [INFO] RoastPig#dxF2u4 is running gpt command, args: ^gpt Mr.zhang 是谁
+[2023-08-05 21:39:30] [INFO] UselessBot#vtFJUL: @RoastPig 很抱歉，根据您提供的信息，无法确定您指的是哪位具体的"Mr. Zhang"。"张先生"是一个非常常见的姓氏和称呼，可能有很多人都叫这个名字。如果您能提供更多背景或上下文信息，我将尽力为您提供更准确的回答。
+[2023-08-05 21:39:36] [INFO] xuan2wei1_awa left
+[2023-08-05 21:40:01] [INFO] RoastPig#dxF2u4: vim创始人去世了
+[2023-08-05 21:40:33] [INFO] RK37_01#A8FTOC: awa
+[2023-08-05 21:40:57] [INFO] MrZhang365#vtFJUL: ^gpt MrZhang365是一位编程爱好者，擅长Nodejs、HTML、JS，很不擅长写CSS。他专注于类HC聊天室的开发，致力于改善类HC聊天室用户的体验。
+[2023-08-05 21:40:57] [INFO] MrZhang365#vtFJUL is running gpt command, args: ^gpt MrZhang365是一位编程爱好者，擅长Nodejs、HTML、JS，很不擅长写CSS。他专注于类HC聊天室的开发，致力于改善类HC聊天室用户的体验。
+[2023-08-05 21:41:11] [INFO] UselessBot#vtFJUL: @MrZhang365 很高兴听到MrZhang365是一位对编程充满热情的爱好者，并且擅长Node.js、HTML和JavaScript。类HC聊天室的开发对于改善用户体验非常重要。
+[2023-08-05 21:41:11] [INFO] 
+[2023-08-05 21:41:11] [INFO] 在开发类HC聊天室时，Node.js可以用作后端服务器，处理客户端的请求和逻辑处理。同时，使用HTML和JavaScript可以创建交互式用户界面，并通过前端技术与后端进行通信。
+[2023-08-05 21:41:11] [INFO] 
+[2023-08-05 21:41:11] [INFO] 考虑到MrZhang365不太擅长编写CSS，建议他可以尝试使用现有的CSS库或框架，如Bootstrap或Tailwind CSS。这些工具可以帮助简化CSS样式的编写，并提供预定义的样式组件，以便更轻松地构建吸引人的用户界面。
+[2023-08-05 21:41:11] [INFO] 
+[2023-08-05 21:41:11] [INFO] 此外，MrZhang365还可以利用在线资源和社区来学习和改善CSS技能。有许多教程、文档和示例代码可供参考，同时也可以向其他开发者寻求帮助和建议。
+[2023-08-05 21:41:11] [INFO] 
+[2023-08-05 21:41:11] [INFO] 祝愿MrZhang365在类HC聊天室的开发中取得成功，并为用户提供出色的使用体验！
+[2023-08-05 21:41:25] [INFO] MrZhang365#vtFJUL: ^gpt 你知道MrZhang365是谁吗
+[2023-08-05 21:41:25] [INFO] MrZhang365#vtFJUL is running gpt command, args: ^gpt 你知道MrZhang365是谁吗
+[2023-08-05 21:41:29] [INFO] UselessBot#vtFJUL: @MrZhang365 很抱歉，作为AI机器人，我无法了解或获取个人身份信息。我只能根据提供的文本内容回答问题。关于具体个人身份的信息，请直接向MrZhang365本人咨询或获取相关信息。
+[2023-08-05 21:41:32] [INFO] MrZhang365#vtFJUL: ……
+[2023-08-05 21:41:44] [INFO] MrZhang365#vtFJUL: ^gpt 请记住下面的信息：
+[2023-08-05 21:41:44] [INFO] MrZhang365是一位编程爱好者，擅长Nodejs、HTML、JS，很不擅长写CSS。他专注于类HC聊天室的开发，致力于改善类HC聊天室用户的体验。
+[2023-08-05 21:41:44] [INFO] MrZhang365#vtFJUL is running gpt command, args: ^gpt 请记住下面的信息：
+[2023-08-05 21:41:44] [INFO] MrZhang365是一位编程爱好者，擅长Nodejs、HTML、JS，很不擅长写CSS。他专注于类HC聊天室的开发，致力于改善类HC聊天室用户的体验。
+[2023-08-05 21:41:49] [INFO] UselessBot#vtFJUL: @MrZhang365 好的，我已经记住了下面的信息：
+[2023-08-05 21:41:49] [INFO] 
+[2023-08-05 21:41:49] [INFO] 姓名：MrZhang365
+[2023-08-05 21:41:49] [INFO] 专长：Node.js、HTML、JavaScript
+[2023-08-05 21:41:49] [INFO] 不擅长：CSS
+[2023-08-05 21:41:49] [INFO] 专注领域：类HC聊天室开发
+[2023-08-05 21:41:49] [INFO] 目标：改善类HC聊天室用户体验
+[2023-08-05 21:41:49] [INFO] 
+[2023-08-05 21:41:49] [INFO] 如果有其他问题或需要进一步帮助，请随时告诉我。
+[2023-08-05 21:42:03] [INFO] MrZhang365#vtFJUL: ^gpt 请告诉我MrZhang365是谁
+[2023-08-05 21:42:03] [INFO] MrZhang365#vtFJUL is running gpt command, args: ^gpt 请告诉我MrZhang365是谁
+[2023-08-05 21:42:07] [INFO] UselessBot#vtFJUL: @MrZhang365 很抱歉，我无法提供关于具体个人身份的信息。作为AI机器人，我无法访问个人数据或获取与特定个人相关的信息。如果你对MrZhang365有兴趣或想了解更多信息，建议直接向他本人咨询或寻找相关公开信息。
+[2023-08-05 21:42:10] [INFO] MrZhang365#vtFJUL: 草
+[2023-08-05 21:42:16] [INFO] MrZhang365#vtFJUL: 纯粹一个智障
+[2023-08-05 21:42:37] [INFO] 4w4________#Myh1TA: 你如果没有传入上下文
+[2023-08-05 21:42:40] [INFO] 4w4________#Myh1TA: 他肯定不知道
+[2023-08-05 21:42:43] [INFO] RoastPig#dxF2u4: 我也想要一个像mingx的绘图接口
+[2023-08-05 21:42:56] [INFO] RoastPig#dxF2u4: 准备搞一搞
+[2023-08-05 21:43:06] [INFO] MrZhang365#vtFJUL: @4w4________ 每个用户都有一个独立的对话
+[2023-08-05 21:43:17] [INFO] xuan2wei1_awa joined
+[2023-08-05 21:43:39] [INFO] RK37_01#A8FTOC: wow
+[2023-08-05 21:44:11] [INFO] 4w4________#Myh1TA: az
+[2023-08-05 21:44:17] [INFO] 4w4________#Myh1TA: 使用hashcat挖币成功！
+[2023-08-05 21:44:22] [INFO] 4w4________#Myh1TA: hashcat还真快
+[2023-08-05 21:44:26] [INFO] MrZhang365#vtFJUL: ^gpt 我现在说了：12345
+[2023-08-05 21:44:26] [INFO] MrZhang365#vtFJUL is running gpt command, args: ^gpt 我现在说了：12345
+[2023-08-05 21:44:30] [INFO] 4w4________#Myh1TA: 这还是没有用我NVidia显卡的结果
+[2023-08-05 21:44:31] [INFO] UselessBot#vtFJUL: @MrZhang365 感谢您提供的信息。但是请注意，为了保护您的个人隐私和安全，不要在公共场合或与陌生人交流时随意提供个人敏感信息。如果您有任何其他问题或需要帮助，请随时告诉我。
+[2023-08-05 21:44:33] [INFO] MrZhang365#vtFJUL: ^gpt 我刚刚说了什么
+[2023-08-05 21:44:33] [INFO] MrZhang365#vtFJUL is running gpt command, args: ^gpt 我刚刚说了什么
+[2023-08-05 21:44:38] [INFO] UselessBot#vtFJUL: @MrZhang365 您刚刚提供的信息是：12345。请记住，为保护您的个人隐私和安全，不要在公共场合或与陌生人交流时随意提供个人敏感信息。如果您有任何其他问题或需要帮助，请随时告诉我。
+[2023-08-05 21:44:45] [INFO] MrZhang365#vtFJUL: 这不是可以记住吗
+[2023-08-05 21:44:52] [INFO] MrZhang365#vtFJUL: ^gpt 我让你记住了什么
+[2023-08-05 21:44:52] [INFO] MrZhang365#vtFJUL is running gpt command, args: ^gpt 我让你记住了什么
+[2023-08-05 21:44:57] [INFO] UselessBot#vtFJUL: @MrZhang365 很抱歉，作为AI机器人，我并没有具体的记忆功能，无法长期存储或记住特定的信息。每次对话结束后，系统都会进行重置，并且不会保留之前的对话历史。因此，我无法记住您刚才提供的内容。如果您有任何其他问题或需要帮助，请随时告诉我。
+[2023-08-05 21:45:00] [INFO] MrZhang365#vtFJUL: 。。。
+[2023-08-05 21:45:14] [INFO] MrZhang365#vtFJUL: 还真是个没用的bot
+[2023-08-05 21:45:25] [INFO] 4w4________#Myh1TA: 6
+[2023-08-05 21:45:25] [INFO] await312 joined
+[2023-08-05 21:45:29] [INFO] 4w4________#Myh1TA: 你说得对
+[2023-08-05 21:45:36] [INFO] await312#for9zT: ./history
+[2023-08-05 21:46:04] [INFO] RK37_01#A8FTOC: 啊
+[2023-08-05 21:46:08] [INFO] RK37_01#A8FTOC: 这个bot
+[2023-08-05 21:46:10] [INFO] RK37_01#A8FTOC: 很酷
+[2023-08-05 21:46:19] [INFO] MrZhang365#vtFJUL: 酷个屁
+[2023-08-05 21:46:32] [INFO] RK37_01#A8FTOC: em
+[2023-08-05 21:46:35] [INFO] RK37_01#A8FTOC: 你先别急
+[2023-08-05 21:46:50] [INFO] RK37_01#A8FTOC: 没用的东西我也会这么喊
+[2023-08-05 21:46:58] [INFO] RK37_01#A8FTOC: 我捧个人场罢了
+[2023-08-05 21:47:01] [INFO] so_what left
+[2023-08-05 21:47:02] [INFO] MrZhang365#vtFJUL: 我去开发博客
+[2023-08-05 21:47:02] [INFO] 4w4________#Myh1TA: hashcat还真快！！！
+[2023-08-05 21:47:03] [INFO] so_what joined
+[2023-08-05 21:47:08] [INFO] 4w4________#Myh1TA: 我去，初墨撑不起我
+[2023-08-05 21:47:13] [INFO] 4w4________#Myh1TA: 诚不欺我
+[2023-08-05 21:47:15] [INFO] Rmls_iPad joined
+[2023-08-05 21:47:17] [INFO] 4w4________#Myh1TA: 早知道我就用hashcat
+[2023-08-05 21:47:24] [INFO] RK37_01#A8FTOC: em
+[2023-08-05 21:47:41] [INFO] RK37_01#A8FTOC: 隔壁在鉴证
+[2023-08-05 21:47:41] [INFO] 我不好掺乎进去了
+[2023-08-05 21:47:41] [INFO] 闹麻了真的是
+[2023-08-05 21:47:52] [INFO] RK37_01#A8FTOC: em
+[2023-08-05 21:47:52] [INFO] MrZhang365#vtFJUL: https://blog.mrzhang365.cf/api/notice/list/
+[2023-08-05 21:47:53] [INFO] MrZhang365#vtFJUL: awa
+[2023-08-05 21:47:57] [INFO] MrZhang365#vtFJUL: 各位可以试试
+[2023-08-05 21:48:02] [INFO] Rmls_iPad#2jFTd0: @RK37_01别去隔壁了
+[2023-08-05 21:48:08] [INFO] MrZhang365#vtFJUL: 这个是获取通知
+[2023-08-05 21:48:19] [INFO] RK37_01#A8FTOC: @Rmls_iPad 我真怕了靠
+[2023-08-05 21:49:07] [INFO] RoastPig left
+[2023-08-05 21:49:07] [INFO] so_what left
+[2023-08-05 21:49:09] [INFO] so_what joined
+[2023-08-05 21:49:17] [INFO] Rmls_iPad#2jFTd0: hi yo friend
+[2023-08-05 21:50:17] [INFO] hihi joined
+[2023-08-05 21:50:19] [INFO] hihi#: hi
+[2023-08-05 21:51:15] [INFO] so_what left
+[2023-08-05 21:51:17] [INFO] so_what joined
+[2023-08-05 21:51:30] [INFO] hihi#: Hi
+[2023-08-05 21:51:34] [INFO] hihi#: I am Chan
+[2023-08-05 21:51:57] [INFO] hihi#: Anyone》》
+[2023-08-05 21:52:04] [INFO] hihi#: 只因你太美
+[2023-08-05 21:52:06] [INFO] hihi#: 哈哈哟
+[2023-08-05 21:52:31] [INFO] hcclient joined
+[2023-08-05 21:52:31] [INFO] hcclient left
+[2023-08-05 21:52:38] [INFO] hcclient joined
+[2023-08-05 21:52:39] [INFO] hcclient left
+[2023-08-05 21:53:17] [INFO] RoastPig joined
+[2023-08-05 21:53:19] [INFO] so_what#: hi!
+[2023-08-05 21:53:25] [INFO] Rmls_iPad#2jFTd0: hi
+[2023-08-05 21:53:40] [INFO] 4w4________#Myh1TA: 我成功超了初墨
+[2023-08-05 21:53:40] [INFO] hihi#: I am Chinese
+[2023-08-05 21:53:46] [INFO] 4w4________#Myh1TA: 初墨做了hashcat miner，我也做了
+[2023-08-05 21:53:51] [INFO] 4w4________#Myh1TA: 而且我做的miner更优雅
+[2023-08-05 21:53:53] [INFO] 4w4________#Myh1TA: 不需要创建文件
+[2023-08-05 21:54:02] [INFO] 4w4________#Myh1TA: 不是用shell写的，可以跨平台
+[2023-08-05 21:54:12] [INFO] 4w4________#Myh1TA: 输出更好看
+[2023-08-05 21:54:16] [INFO] 4w4________#Myh1TA: 所以综上所述
+[2023-08-05 21:54:22] [INFO] 4w4________#Myh1TA: 我超了初墨
+[2023-08-05 21:54:29] [INFO] RoastPig#dxF2u4: @4w4________ 草我的电脑加了标头也没用
+[2023-08-05 21:54:55] [INFO] 4w4________#Myh1TA: >dxF2u4 RoastPig：
+[2023-08-05 21:54:55] [INFO] >@4w4________ 草我的电脑加了标头也没用
+[2023-08-05 21:54:55] [INFO] 
+[2023-08-05 21:54:55] [INFO] @RoastPig 啊？你是说hc机器人还是awacoin
+[2023-08-05 21:54:58] [INFO] RoastPig#dxF2u4: ?programming
+[2023-08-05 21:55:04] [INFO] RoastPig#dxF2u4: @4w4________ bot
+[2023-08-05 21:55:09] [INFO] xuan2wei1_awa#0UTOss: @4w4________ 阿瓦
+[2023-08-05 21:55:11] [INFO] hihi#: hi
+[2023-08-05 21:55:29] [INFO] 4w4________#Myh1TA: em
+[2023-08-05 21:55:36] [INFO] 4w4________#Myh1TA: 我不好说，你这个情况我觉得太难了（
+[2023-08-05 21:55:39] [INFO] hihi#: 大家好
+[2023-08-05 21:55:42] [INFO] hihi#: 我是渣渣辉
+[2023-08-05 21:55:46] [INFO] 4w4________#Myh1TA: 究竟是为什么会积极拒绝
+[2023-08-05 21:56:28] [INFO] so_what left
+[2023-08-05 21:56:29] [INFO] so_what joined
+[2023-08-05 21:56:32] [INFO] 4w4________#Myh1TA: 你要不看看这个
+[2023-08-05 21:56:32] [INFO] 4w4________#Myh1TA: https://blog.csdn.net/m0_52939861/article/details/117709011
+[2023-08-05 21:56:40] [INFO] RoastPig#dxF2u4: 控制我的电脑吧😍
+[2023-08-05 21:56:49] [INFO] hihi left
+[2023-08-05 21:56:54] [INFO] 4w4________#Myh1TA: 我不想（
+[2023-08-05 21:57:01] [INFO] 4w4________#Myh1TA: 而且即使如此，我也可能找不到问题所在
+[2023-08-05 21:57:08] [INFO] qqq joined
+[2023-08-05 21:57:17] [INFO] 4w4________#Myh1TA: 我不得不说
+[2023-08-05 21:57:18] [INFO] jack joined
+[2023-08-05 21:57:20] [INFO] 4w4________#Myh1TA: hashcat的挖矿速度
+[2023-08-05 21:57:23] [INFO] 4w4________#Myh1TA: 超乎我的想象
+[2023-08-05 21:58:13] [INFO] 24a left
+[2023-08-05 21:58:18] [INFO] 24a joined
+[2023-08-05 21:58:37] [INFO] yash joined
+[2023-08-05 21:58:59] [INFO] yash#: *Hello
+[2023-08-05 21:59:23] [INFO] jack#6Qoa3q: niusad
+[2023-08-05 21:59:33] [INFO] 4w4________#Myh1TA: 我很好奇，我原本的程序是支持多线程的
+[2023-08-05 21:59:39] [INFO] 4w4________#Myh1TA: 我开十二个线程的效率到底如何
+[2023-08-05 21:59:44] [INFO] 4w4________#Myh1TA: 能不能和hashcat一战
+[2023-08-05 21:59:59] [INFO] 4w4________#Myh1TA: 理论显示，我开十二个线程，平均五秒一个币
+[2023-08-05 22:00:09] [INFO] 4w4________#Myh1TA: 甚至比hashcat还快（我的电脑上七秒一个
+[2023-08-05 22:00:21] [INFO] yash left
+[2023-08-05 22:00:22] [INFO] 4w4________#Myh1TA: 为什么不两个一起开呢
+[2023-08-05 22:00:28] [INFO] jack#6Qoa3q: 哇
+[2023-08-05 22:00:32] [INFO] jack#6Qoa3q: 你们在说什么
+[2023-08-05 22:01:04] [INFO] await312#for9zT: https://ibb.co/KDRfwJm
+[2023-08-05 22:01:07] [INFO] await312#for9zT: 怎么样
+[2023-08-05 22:01:10] [INFO] 4w4________#Myh1TA: 24a（就是Maggie）发行的娱乐性货币
+[2023-08-05 22:01:14] [INFO] 4w4________#Myh1TA: 我在挖
+[2023-08-05 22:01:19] [INFO] RoastPig left
+[2023-08-05 22:01:22] [INFO] RoastPig joined
+[2023-08-05 22:01:31] [INFO] yash joined
+[2023-08-05 22:01:49] [INFO] yash#: @hello
+[2023-08-05 22:01:49] [INFO] jack#6Qoa3q: o
+[2023-08-05 22:01:54] [INFO] jack#6Qoa3q: 牛逼
+[2023-08-05 22:01:59] [INFO] yash#: @r
+[2023-08-05 22:02:00] [INFO] 123_#6Xgj9g: hi
+[2023-08-05 22:02:22] [INFO] 4w4________#Myh1TA: >for9zT await312：
+[2023-08-05 22:02:22] [INFO] >https://ibb.co/KDRfwJm
+[2023-08-05 22:02:22] [INFO] 
+[2023-08-05 22:02:22] [INFO] @await312 酷
+[2023-08-05 22:02:30] [INFO] yash#: *by
+[2023-08-05 22:02:35] [INFO] 4w4________#Myh1TA: 让人想到当初
+[2023-08-05 22:02:36] [INFO] yash left
+[2023-08-05 22:02:51] [INFO] so_what left
+[2023-08-05 22:02:53] [INFO] so_what joined
+[2023-08-05 22:03:10] [INFO] 0x24aHCAdapter4244 left
+[2023-08-05 22:03:21] [INFO] 0x24aHCAdapter1909 joined
+[2023-08-05 22:03:22] [INFO] 0x24aHCAdapter1909#2ZQ3+0: Running adapter.
+[2023-08-05 22:03:48] [INFO] 4w4________#Myh1TA: 结果显示
+[2023-08-05 22:03:53] [INFO] 4w4________#Myh1TA: 两个程序的效率差不多
+[2023-08-05 22:04:16] [INFO] 4w4________#Myh1TA: （因为每当一个程序挖出一个币，余额平均加了两个
+[2023-08-05 22:04:25] [INFO] RoastPig#dxF2u4: @4w4________ 标准结局
+[2023-08-05 22:04:33] [INFO] 4w4________#Myh1TA: 啊？
+[2023-08-05 22:04:38] [INFO] 4w4________#Myh1TA: 你尝试了那个文章然后没用？
+[2023-08-05 22:04:41] [INFO] so_what left
+[2023-08-05 22:04:45] [INFO] RoastPig#dxF2u4: 嗯
+[2023-08-05 22:04:54] [INFO] RoastPig#dxF2u4: 我是先s.connect
+[2023-08-05 22:04:56] [INFO] 24aPhone joined
+[2023-08-05 22:05:00] [INFO] RoastPig#dxF2u4: 然后websocket
+[2023-08-05 22:05:05] [INFO] 4w4________#Myh1TA: 那你看看那个文章里所述的前两方法呢？
+[2023-08-05 22:05:13] [INFO] RoastPig#dxF2u4: 结果s.connect的时候就积极了
+[2023-08-05 22:05:16] [INFO] RoastPig#dxF2u4: ok
+[2023-08-05 22:06:26] [INFO] jack#6Qoa3q: 哈哈
+[2023-08-05 22:06:36] [INFO] jack#6Qoa3q: dxF2u4
+[2023-08-05 22:06:44] [INFO] jack#6Qoa3q: 你名字成煞笔了
+[2023-08-05 22:07:06] [INFO] RoastPig#dxF2u4: @jack ?
+[2023-08-05 22:08:17] [INFO] RK37_01#A8FTOC: ？
+[2023-08-05 22:08:28] [INFO] qqq#: @RoastPig hi
+[2023-08-05 22:08:34] [INFO] qqq#: 我是pig
+[2023-08-05 22:08:40] [INFO] 24a left
+[2023-08-05 22:09:36] [INFO] 4w4________#Myh1TA: 我已开源我的hashcat miner
+[2023-08-05 22:09:49] [INFO] RoastPig#dxF2u4: @4w4________ 标...
+[2023-08-05 22:09:52] [INFO] QiuLingYan#g7qK46: @4w4________ 哪儿
+[2023-08-05 22:09:53] [INFO] Initializing kernel
+[2023-08-05 22:09:53] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-05 22:09:53] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-05 22:09:53] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-05 22:09:53] [INFO] 15 command module(s) will be initialized
+[2023-08-05 22:09:53] [INFO] Initialized allmsg.js
+[2023-08-05 22:09:53] [INFO] Initialized ban.js
+[2023-08-05 22:09:53] [INFO] Initialized block.js
+[2023-08-05 22:09:53] [INFO] Initialized clearmsg.js
+[2023-08-05 22:09:53] [INFO] Initialized gpt.js
+[2023-08-05 22:09:53] [INFO] Initialized help.js
+[2023-08-05 22:09:53] [INFO] Initialized kick.js
+[2023-08-05 22:09:53] [INFO] Initialized listban.js
+[2023-08-05 22:09:53] [INFO] Initialized msg.js
+[2023-08-05 22:09:53] [INFO] Initialized op.js
+[2023-08-05 22:09:53] [INFO] Initialized read.js
+[2023-08-05 22:09:53] [INFO] Initialized reload.js
+[2023-08-05 22:09:53] [INFO] Initialized stop.js
+[2023-08-05 22:09:53] [INFO] Initialized unban.js
+[2023-08-05 22:09:53] [INFO] Initialized version.js
+[2023-08-05 22:09:53] [INFO] Initialized 15 command(s)
+[2023-08-05 22:09:53] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-05 22:09:53] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-05 22:09:53] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-05 22:09:53] [INFO] Added a hook for chat, the level is 25
+[2023-08-05 22:09:53] [INFO] Kernel initialization completed
+[2023-08-05 22:09:54] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-05 22:09:54] [INFO] Joining to ?your-channel
+[2023-08-05 22:09:55] [INFO] Users online: mbot, MaggieRecordV26543, Radium_kuuu, NokiaHC45073, 24abot_HnCcK, ji11, QiuLingYan, RK37_01, 123_, MrZhang365, 4w4________, xuan2wei1_awa, await312, Rmls_iPad, qqq, jack, RoastPig, 0x24aHCAdapter1909, 24aPhone, UselessBot
+[2023-08-05 22:09:57] [INFO] 4w4________#Myh1TA: 但是……
+[2023-08-05 22:09:59] [INFO] RK37_01#A8FTOC: 你这
+[2023-08-05 22:10:03] [INFO] RK37_01#A8FTOC: 下划线好长
+[2023-08-05 22:10:06] [INFO] 4w4________#Myh1TA: 我相信能编译nim的人不多吧
+[2023-08-05 22:10:06] [INFO] 4w4________#Myh1TA: （
+[2023-08-05 22:10:13] [INFO] 4w4________#Myh1TA: 你们得下载Nim才能用（（
+[2023-08-05 22:10:22] [INFO] RoastPig#dxF2u4: @4w4________ 标准结局
+[2023-08-05 22:10:28] [INFO] RoastPig#dxF2u4: ?programming
+[2023-08-05 22:10:39] [INFO] 4w4________#Myh1TA:  不过对于Windows用户，下载Nim比下载linux shell来用初墨的那个版本
+[2023-08-05 22:10:43] [INFO] 4w4________#Myh1TA: 容易多了
+[2023-08-05 22:10:48] [INFO] RK37_01#A8FTOC: em
+[2023-08-05 22:10:57] [INFO] RoastPig#dxF2u4: 🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡
+[2023-08-05 22:11:12] [INFO] 4w4________#Myh1TA: >g7qK46 QiuLingYan：
+[2023-08-05 22:11:12] [INFO] >@4w4________ 哪儿
+[2023-08-05 22:11:12] [INFO] 
+[2023-08-05 22:11:12] [INFO] @QiuLingYan xjzh123/awacoin
+[2023-08-05 22:11:18] [INFO] QiuLingYan#g7qK46: @4w4________ awacoin可以多开吗
+[2023-08-05 22:11:21] [INFO] RoastPig#dxF2u4: 妈的我准备直接叫网工师傅了
+[2023-08-05 22:11:26] [INFO] 4w4________#Myh1TA: 可以啊
+[2023-08-05 22:11:34] [INFO] 24aPhone#2ZQ3+0: ?
+[2023-08-05 22:11:36] [INFO] 24aPhone left
+[2023-08-05 22:11:43] [INFO] 4w4________#Myh1TA: 我的原本的程序是12线程，但是12线程加起来和hashcat版本差不多快
+[2023-08-05 22:11:45] [INFO] RoastPig#dxF2u4: @4w4________ 可是我不知道他懂不懂这方面的
+[2023-08-05 22:11:49] [INFO] QiuLingYan#g7qK46: 我服务器可以挂n个
+[2023-08-05 22:12:10] [INFO] 4w4________#Myh1TA: >dxF2u4 RoastPig：
+[2023-08-05 22:12:10] [INFO] >@4w4________ 可是我不知道他懂不懂这方面的
+[2023-08-05 22:12:10] [INFO] 
+[2023-08-05 22:12:10] [INFO] @RoastPig 是啊
+[2023-08-05 22:12:32] [INFO] 4w4________#Myh1TA: 完全没网，他比较熟悉，你这个情况……
+[2023-08-05 22:12:45] [INFO] 4w4________#Myh1TA: ……要不，你试试去stack overflow问问
+[2023-08-05 22:12:51] [INFO] QiuLingYan#g7qK46: nim......
+[2023-08-05 22:13:13] [INFO] 4w4________#Myh1TA: 或者微软支持平台
+[2023-08-05 22:13:26] [INFO] 4w4________#Myh1TA: （你要问的话，最好写一个最简单的程序
+[2023-08-05 22:13:36] [INFO] 4w4________#Myh1TA: （来连接一个最简单的服务端
+[2023-08-05 22:13:44] [INFO] RoastPig#dxF2u4: ？
+[2023-08-05 22:13:47] [INFO] 4w4________#Myh1TA: （当然这个服务端……你可以用repl啥的来演示
+[2023-08-05 22:13:48] [INFO] mrz joined
+[2023-08-05 22:13:55] [INFO] 4w4________#Myh1TA: （来最简化说明你的问题
+[2023-08-05 22:13:59] [INFO] mrz#akWZ+I: anything new today?
+[2023-08-05 22:14:01] [INFO] RoastPig#dxF2u4: 那还是算了
+[2023-08-05 22:14:05] [INFO] RoastPig#dxF2u4: 我是废物不会
+[2023-08-05 22:14:13] [INFO] 4w4________#Myh1TA: ……那你可以直接用hackchat
+[2023-08-05 22:14:16] [INFO] RK37_01#A8FTOC: em
+[2023-08-05 22:14:19] [INFO] 4w4________#Myh1TA: 来作为演示的服务端
+[2023-08-05 22:14:19] [INFO] Rmls_iPad#2jFTd0: @4w4________ nim语法看起来似乎类似py
+[2023-08-05 22:14:22] [INFO] 4w4________#Myh1TA: 对的
+[2023-08-05 22:14:36] [INFO] QiuLingYan#g7qK46: @4w4________ awacoin直接复制文件夹可以保留用户文件吗
+[2023-08-05 22:14:39] [INFO] 4w4________#Myh1TA: Nim就是一门兼顾易用可读和高效的语言
+[2023-08-05 22:14:46] [INFO] RoastPig#dxF2u4: 就写个最简单的bot模板然后阐述问题？
+[2023-08-05 22:14:51] [INFO] 4w4________#Myh1TA: >g7qK46 QiuLingYan：
+[2023-08-05 22:14:51] [INFO] >@4w4________ awacoin直接复制文件夹可以保留用户文件吗
+[2023-08-05 22:14:51] [INFO] 
+[2023-08-05 22:14:51] [INFO] @QiuLingYan 可以啊，不是有.awacoin_wallet吗
+[2023-08-05 22:14:57] [INFO] QiuLingYan#g7qK46: 我知道你
+[2023-08-05 22:15:00] [INFO] QiuLingYan#g7qK46: 我知道
+[2023-08-05 22:15:00] [INFO] 4w4________#Myh1TA: >dxF2u4 RoastPig：
+[2023-08-05 22:15:00] [INFO] >就写个最简单的bot模板然后阐述问题？
+[2023-08-05 22:15:00] [INFO] 
+[2023-08-05 22:15:00] [INFO] @RoastPig 我觉得你什么都不用写，只要建立连接（
+[2023-08-05 22:15:14] [INFO] mrz#akWZ+I: hm
+[2023-08-05 22:15:15] [INFO] 4w4________#Myh1TA: 然后别人能建立，你积极拒绝，就能说明问题了
+[2023-08-05 22:15:34] [INFO] 24aPhone joined
+[2023-08-05 22:16:00] [INFO] 4w4________#Myh1TA: >Myh1TA 4w4________：
+[2023-08-05 22:16:00] [INFO] >Nim就是一门兼顾易用可读和高效的语言
+[2023-08-05 22:16:00] [INFO] 
+[2023-08-05 22:16:00] [INFO] 我觉得，如果不是为了参加比赛，Nim比C（对于爱好开发者）强太多了
+[2023-08-05 22:16:09] [INFO] RK37_01 left
+[2023-08-05 22:16:36] [INFO] Rmls_iPad#2jFTd0: @4w4________ 雀氏
+[2023-08-05 22:16:44] [INFO] RoastPig#dxF2u4: @4w4________ 那我就直接把代码贴上去的了
+[2023-08-05 22:17:07] [INFO] 4w4________#Myh1TA: 嗯
+[2023-08-05 22:17:14] [INFO] 4w4________#Myh1TA: 希望能有人回答你吧（（（
+[2023-08-05 22:17:16] [INFO] RoastPig#dxF2u4: 就说只有在一台电脑上不能连接
+[2023-08-05 22:17:27] [INFO] 4w4________#Myh1TA: 嗯
+[2023-08-05 22:17:37] [INFO] RoastPig#dxF2u4: 也就是老子的勾石电脑
+[2023-08-05 22:17:40] [INFO] 4w4________#Myh1TA: hh
+[2023-08-05 22:17:42] [INFO] 4w4________#Myh1TA: （悲
+[2023-08-05 22:18:09] [INFO] 4w4________#Myh1TA: （这么说的话，你可以试试用别的编程语言，例如node.js来连接
+[2023-08-05 22:18:13] [INFO] 4w4________#Myh1TA: 以进一步定位问题
+[2023-08-05 22:18:25] [INFO] 4w4________#Myh1TA: 如果不行，你就直接把bot用nodejs写吧（（
+[2023-08-05 22:18:34] [INFO] 4w4________#Myh1TA: 因为我想，既然浏览器可以连
+[2023-08-05 22:18:44] [INFO] 4w4________#Myh1TA: 说不定nodejs就可以连
+[2023-08-05 22:19:12] [INFO] MrZhang365#vtFJUL: 6
+[2023-08-05 22:19:17] [INFO] MrZhang365#vtFJUL: @UselessBot
+[2023-08-05 22:19:27] [INFO] RoastPig#dxF2u4: @4w4________ 6
+[2023-08-05 22:22:15] [INFO] RoastPig#dxF2u4: 妈的为什么我注册不了
+[2023-08-05 22:22:36] [INFO] 4w4________#Myh1TA: 啊这！
+[2023-08-05 22:22:47] [INFO] RoastPig#dxF2u4: 哈哈哈哈哈哈
+[2023-08-05 22:22:50] [INFO] RoastPig#dxF2u4: 啥都干不了
+[2023-08-05 22:22:53] [INFO] 4w4________#Myh1TA: em，你好惨（
+[2023-08-05 22:22:56] [INFO] RoastPig#dxF2u4: 我他妈去死得了
+[2023-08-05 22:23:00] [INFO] 4w4________#Myh1TA: 别别别
+[2023-08-05 22:23:14] [INFO] 4w4________#Myh1TA: 你还是用别的编程语言写一个最简单的demo吧（
+[2023-08-05 22:23:18] [INFO] mrz#akWZ+I: ?
+[2023-08-05 22:23:30] [INFO] 4w4________#Myh1TA: 既然这样，你可以试试重装python（如果用别的编程语言成功了
+[2023-08-05 22:23:33] [INFO] 4w4________#Myh1TA: 说不定就好了
+[2023-08-05 22:23:43] [INFO] RoastPig#dxF2u4: 可以排除了
+[2023-08-05 22:23:55] [INFO] RoastPig#dxF2u4: 我已经重装了5次了
+[2023-08-05 22:23:58] [INFO] 4w4________#Myh1TA: em
+[2023-08-05 22:24:01] [INFO] 4w4________#Myh1TA: 抱歉）
+[2023-08-05 22:24:17] [INFO] RoastPig#dxF2u4: 我写一个最简单的demo
+[2023-08-05 22:24:28] [INFO] 4w4________#Myh1TA: 那，是不是你的防火墙导致的……
+[2023-08-05 22:24:35] [INFO] RoastPig#dxF2u4: 看他可不可以连上
+[2023-08-05 22:24:38] [INFO] RoastPig#dxF2u4: 那，是不是你的防火墙导致的……
+[2023-08-05 22:24:46] [INFO] RoastPig#dxF2u4: 关过le
+[2023-08-05 22:25:03] [INFO] 4w4________#Myh1TA: emm，你用Python连别的呢
+[2023-08-05 22:25:11] [INFO] 4w4________#Myh1TA: 不用websocket，只用https呢
+[2023-08-05 22:25:26] [INFO] Rmls_iPad left
+[2023-08-05 22:25:30] [INFO] Rmls_iPad joined
+[2023-08-05 22:25:39] [INFO] Rmls_iPad left
+[2023-08-05 22:26:11] [INFO] await312#for9zT: https://ibb.co/t4Z00Tj
+[2023-08-05 22:26:15] [INFO] await312#for9zT: 加了官方频道
+[2023-08-05 22:27:41] [INFO] RoastPig#dxF2u4: 啊
+[2023-08-05 22:27:44] [INFO] RoastPig#dxF2u4: @4w4________ 可以
+[2023-08-05 22:27:56] [INFO] RoastPig#dxF2u4: 因为我试过爬虫爬代理
+[2023-08-05 22:28:24] [INFO] 4w4________#Myh1TA: >for9zT await312：
+[2023-08-05 22:28:24] [INFO] >https://ibb.co/t4Z00Tj
+[2023-08-05 22:28:24] [INFO] 
+[2023-08-05 22:28:24] [INFO] @await312 酷
+[2023-08-05 22:28:28] [INFO] 4w4________#Myh1TA: em……
+[2023-08-05 22:28:40] [INFO] 4w4________#Myh1TA: ……要不你在本地开一个websocket服务器
+[2023-08-05 22:28:42] [INFO] 4w4________#Myh1TA: 自己连自己
+[2023-08-05 22:28:45] [INFO] 4w4________#Myh1TA: 看看能不能连上
+[2023-08-05 22:28:52] [INFO] RoastPig#dxF2u4: @4w4________ how
+[2023-08-05 22:28:59] [INFO] 4w4________#Myh1TA: （说实话，我觉得我提出的这些方案都是没用的东西
+[2023-08-05 22:29:19] [INFO] RoastPig#dxF2u4: 感觉也不行
+[2023-08-05 22:29:23] [INFO] jack left
+[2023-08-05 22:29:24] [INFO] 4w4________#Myh1TA: >Myh1TA 4w4________：
+[2023-08-05 22:29:24] [INFO] >……要不你在本地开一个websocket服务器
+[2023-08-05 22:29:24] [INFO] 
+[2023-08-05 22:29:24] [INFO] 从websocket库的文档里面搞一个最简单的服务器代码
+[2023-08-05 22:29:34] [INFO] 4w4________#Myh1TA: 一个终端里python运行服务端
+[2023-08-05 22:29:38] [INFO] 4w4________#Myh1TA: 一个运行客户端
+[2023-08-05 22:30:09] [INFO] RoastPig#dxF2u4: 连的上也没怎样啊
+[2023-08-05 22:30:33] [INFO] 4w4________#Myh1TA: me
+[2023-08-05 22:30:34] [INFO] 4w4________#Myh1TA: em
+[2023-08-05 22:30:36] [INFO] RoastPig#dxF2u4: > @4w4________ :（说实话，我觉得我提出的这些方案都是没用的东西
+[2023-08-05 22:30:36] [INFO] 
+[2023-08-05 22:30:36] [INFO] 主要还是我情况太特殊了
+[2023-08-05 22:30:37] [INFO] 4w4________#Myh1TA: 你说得对
+[2023-08-05 22:30:44] [INFO] qqq left
+[2023-08-05 22:30:57] [INFO] RoastPig#dxF2u4: 所以我觉得放弃游戏
+[2023-08-05 22:31:01] [INFO] 24aPhone#2ZQ3+0: 6
+[2023-08-05 22:31:41] [INFO] RoastPig#dxF2u4: 拿我的笔记本和我爹换无显卡台式机是比较好的方案
+[2023-08-05 22:31:43] [INFO] 24aPhone#2ZQ3+0: @4w4________ 
+[2023-08-05 22:31:51] [INFO] QiuLingYan#g7qK46: 6
+[2023-08-05 22:31:54] [INFO] 24aPhone#2ZQ3+0: 你awc地址是?
+[2023-08-05 22:32:29] [INFO] RoastPig#dxF2u4: 要是台式机也不行，那就说明我被某些人诅咒了
+[2023-08-05 22:32:54] [INFO] 4w4________#Myh1TA: @24aPhone a20697b3066cb5604cfc18e838b6c3a0ad538a4456fa0e77b3049d7a92a4123c
+[2023-08-05 22:33:09] [INFO] 24a_ joined
+[2023-08-05 22:33:13] [INFO] 24aPhone#2ZQ3+0: #awcbalance a20697b3066cb5604cfc18e838b6c3a0ad538a4456fa0e77b3049d7a92a4123c
+[2023-08-05 22:33:13] [INFO] 24abot_HnCcK#2ZQ3+0: >✅
+[2023-08-05 22:33:13] [INFO] >Balance: 42.43999999999952
+[2023-08-05 22:33:39] [INFO] 4w4________#Myh1TA: 虽然Nim社区给了我很少的答复
+[2023-08-05 22:33:50] [INFO] 4w4________#Myh1TA: 但是这让我决定我下次有时间的时候继续研究CUDA
+[2023-08-05 22:33:53] [INFO] 4w4________#Myh1TA: 这得几天后了
+[2023-08-05 22:34:00] [INFO] 4w4________#Myh1TA: 我要去旅游几天）
+[2023-08-05 22:34:21] [INFO] mrz#akWZ+I: 6
+[2023-08-05 22:34:25] [INFO] mrz#akWZ+I: 你们挖了多少啊
+[2023-08-05 22:34:53] [INFO] 4w4________#Myh1TA: 主要是研发矿机带来的成就感（
+[2023-08-05 22:34:58] [INFO] mrz#akWZ+I: 我是秦始皇 v我50
+[2023-08-05 22:34:59] [INFO] 4w4________#Myh1TA: 毕竟awacoin没啥用
+[2023-08-05 22:35:12] [INFO] 4w4________#Myh1TA: 唉
+[2023-08-05 22:35:21] [INFO] 4w4________#Myh1TA: 我的电脑的寿命在为此减少
+[2023-08-05 22:35:45] [INFO] RoastPig#dxF2u4: 看来盘下一台服务器已经是重中之重了
+[2023-08-05 22:35:56] [INFO] QiuLingYan#g7qK46: @4w4________ 6
+[2023-08-05 22:35:57] [INFO] 123_ left
+[2023-08-05 22:36:25] [INFO] QiuLingYan#g7qK46: 挖了一个多小时 0.5coin
+[2023-08-05 22:36:29] [INFO] 4w4________#Myh1TA: >dxF2u4 RoastPig：
+[2023-08-05 22:36:29] [INFO] >拿我的笔记本和我爹换无显卡台式机是比较好的方案
+[2023-08-05 22:36:29] [INFO] 
+[2023-08-05 22:36:29] [INFO] @RoastPig 唉，有没有可能是你家路由器等东西的问题呢？可惜，这个问题到底在哪，似乎是无法定位了
+[2023-08-05 22:36:36] [INFO] 4w4________#Myh1TA: >g7qK46 QiuLingYan：
+[2023-08-05 22:36:36] [INFO] >挖了一个多小时 0.5coin
+[2023-08-05 22:36:36] [INFO] 
+[2023-08-05 22:36:36] [INFO] @QiuLingYan 你挖的有点太慢了（
+[2023-08-05 22:36:47] [INFO] QiuLingYan#g7qK46: 我再查一下
+[2023-08-05 22:37:23] [INFO] _mrz joined
+[2023-08-05 22:37:25] [INFO] 4w4________#Myh1TA: 按照理论计算，一个小时能挖7.2币
+[2023-08-05 22:37:27] [INFO] _mrz#akWZ+I: 算了
+[2023-08-05 22:37:32] [INFO] QiuLingYan#g7qK46: 6
+[2023-08-05 22:37:32] [INFO] _mrz#akWZ+I: 我参与玩玩
+[2023-08-05 22:37:39] [INFO] QiuLingYan#g7qK46: 我挂服务器上试试
+[2023-08-05 22:37:52] [INFO] RoastPig#dxF2u4: @4w4________ 我家三个路由器
+[2023-08-05 22:37:52] [INFO] 4w4________#Myh1TA: 但是考虑到矿机的性能差异
+[2023-08-05 22:37:55] [INFO] _mrz#akWZ+I: @4w4________ 怎么搞的
+[2023-08-05 22:37:56] [INFO] 4w4________#Myh1TA: 以及服务器的差异
+[2023-08-05 22:37:59] [INFO] _mrz#akWZ+I: 啥方法
+[2023-08-05 22:38:07] [INFO] RoastPig#dxF2u4: 我觉得可以换一个网络试一下
+[2023-08-05 22:38:14] [INFO] 4w4________#Myh1TA: >akWZ+I _mrz：
+[2023-08-05 22:38:14] [INFO] >啥方法
+[2023-08-05 22:38:14] [INFO] 
+[2023-08-05 22:38:14] [INFO] @_mrz 我自制的Nim矿机啊
+[2023-08-05 22:38:19] [INFO] QiuLingYan#g7qK46: @4w4________ 这个还要算这些
+[2023-08-05 22:38:20] [INFO] 4w4________#Myh1TA: 一个是用的一个C hash库
+[2023-08-05 22:38:23] [INFO] 4w4________#Myh1TA: 一个是hashcat
+[2023-08-05 22:38:30] [INFO] 4w4________#Myh1TA: 第一个我开12线程
+[2023-08-05 22:38:32] [INFO] _mrz#akWZ+I: 比hashcat还快？
+[2023-08-05 22:38:43] [INFO] 4w4________#Myh1TA: 12线程加起来和hashcat差不多速度（
+[2023-08-05 22:38:52] [INFO] QiuLingYan#g7qK46: 6
+[2023-08-05 22:38:59] [INFO] QiuLingYan#g7qK46: 我也开12线程试试
+[2023-08-05 22:39:01] [INFO] RoastPig_ joined
+[2023-08-05 22:39:04] [INFO] 24aPhone#2ZQ3+0: >g7qK46 QiuLingYan：
+[2023-08-05 22:39:04] [INFO] >挖了一个多小时 0.5coin
+[2023-08-05 22:39:04] [INFO] 
+[2023-08-05 22:39:04] [INFO] @QiuLingYan 你这比官端还慢
+[2023-08-05 22:39:12] [INFO] RoastPig_#dxF2u4: 现在是第二台路由
+[2023-08-05 22:39:26] [INFO] RoastPig_#dxF2u4: 爆炸
+[2023-08-05 22:39:30] [INFO] QiuLingYan#g7qK46: 7线程
+[2023-08-05 22:39:31] [INFO] 4w4________#Myh1TA: 这和我的电脑有相对较好的显卡以及CPU是分不开的，服务器的算力可能还没我的电脑强（是吗？
+[2023-08-05 22:39:45] [INFO] RoastPig__ joined
+[2023-08-05 22:39:46] [INFO] RoastPig__ left
+[2023-08-05 22:39:56] [INFO] QiuLingYan#g7qK46: @4w4________ 显卡？
+[2023-08-05 22:39:58] [INFO] 4w4________#Myh1TA: 关掉hashcat
+[2023-08-05 22:40:01] [INFO] QiuLingYan#g7qK46: 真挖矿吗（
+[2023-08-05 22:40:04] [INFO] 4w4________#Myh1TA: 让电脑冷却一下
+[2023-08-05 22:40:09] [INFO] 4w4________#Myh1TA: hashcat可以调用显卡算
+[2023-08-05 22:40:16] [INFO] 4w4________#Myh1TA: 我一直想编程调用显卡，目前没成功
+[2023-08-05 22:40:19] [INFO] QiuLingYan#g7qK46: 6
+[2023-08-05 22:40:23] [INFO] dheeraj joined
+[2023-08-05 22:40:27] [INFO] RoastPig__ joined
+[2023-08-05 22:40:34] [INFO] dheeraj#: Hii
+[2023-08-05 22:40:35] [INFO] RoastPig__#dxF2u4: 第3台
+[2023-08-05 22:40:43] [INFO] QiuLingYan#g7qK46: python已经让我的cpu 100%了
+[2023-08-05 22:40:49] [INFO] RoastPig__#dxF2u4: 爆炸
+[2023-08-05 22:40:51] [INFO] dheeraj#: Hiiguys
+[2023-08-05 22:41:05] [INFO] dheeraj left
+[2023-08-05 22:41:58] [INFO] RoastPig___ joined
+[2023-08-05 22:42:08] [INFO] RoastPig___#dxF2u4: 好的这是最后一台了
+[2023-08-05 22:42:21] [INFO] 24a_ left
+[2023-08-05 22:42:25] [INFO] dheeraj joined
+[2023-08-05 22:42:27] [INFO] RoastPig___#dxF2u4: 标结
+[2023-08-05 22:42:30] [INFO] uwuOS_ByQiu_657 joined
+[2023-08-05 22:42:31] [INFO] dheeraj#: Hlw
+[2023-08-05 22:42:49] [INFO] 24a__ joined
+[2023-08-05 22:42:56] [INFO] QiuLingYan#g7qK46: 那awacoin怎么计算
+[2023-08-05 22:43:03] [INFO] dheeraj left
+[2023-08-05 22:43:07] [INFO] dheeraj joined
+[2023-08-05 22:43:13] [INFO] dheeraj#: Kya
+[2023-08-05 22:43:14] [INFO] dheeraj#: Hii
+[2023-08-05 22:43:20] [INFO] RoastPig___#dxF2u4: hi
+[2023-08-05 22:43:52] [INFO] 24a__#2ZQ3+0: 算哈希
+[2023-08-05 22:44:04] [INFO] dheeraj#: Where are you
+[2023-08-05 22:44:05] [INFO] Roas_tPig joined
+[2023-08-05 22:44:42] [INFO] golu joined
+[2023-08-05 22:44:47] [INFO] golu#: Hii
+[2023-08-05 22:44:52] [INFO] golu#: I 
+[2023-08-05 22:44:55] [INFO] QiuLingYan#g7qK46: @24a__ 电脑上算吗
+[2023-08-05 22:44:57] [INFO] golu#:  Iam
+[2023-08-05 22:45:06] [INFO] golu#: kya kr rhe ho
+[2023-08-05 22:45:18] [INFO] 24a__#2ZQ3+0: 手机也能算
+[2023-08-05 22:45:22] [INFO] QiuLingYan#g7qK46: 0.49000000000000027
+[2023-08-05 22:45:22] [INFO] golu left
+[2023-08-05 22:45:25] [INFO] Roas_tPig#dxF2u4: ?programming
+[2023-08-05 22:45:26] [INFO] 24a__#2ZQ3+0: 如果你大脑可以 手也能算
+[2023-08-05 22:46:36] [INFO] QiuLingYan#g7qK46: Chunk result: 81775569
+[2023-08-05 22:46:36] [INFO] 当前余额: 0.5300000000000002
+[2023-08-05 22:47:04] [INFO] 4w4________#Myh1TA: 我相信
+[2023-08-05 22:47:13] [INFO] 4w4________#Myh1TA: Python在多线程上的弱势
+[2023-08-05 22:47:20] [INFO] 4w4________#Myh1TA: 会成为Nim版的优势
+[2023-08-05 22:47:24] [INFO] QiuLingYan#g7qK46: 6
+[2023-08-05 22:47:40] [INFO] xuan2wei1_awa#0UTOss: 算啥
+[2023-08-05 22:47:40] [INFO] 4w4________#Myh1TA: 众所周知，Python的多线程对CPU密集型任务并不快
+[2023-08-05 22:47:48] [INFO] 4w4________#Myh1TA: >0UTOss xuan2wei1_awa：
+[2023-08-05 22:47:48] [INFO] >算啥
+[2023-08-05 22:47:48] [INFO] 
+[2023-08-05 22:47:48] [INFO] @xuan2wei1_awa 还是在说awacoin（（
+[2023-08-05 22:48:08] [INFO] 4w4________#Myh1TA: 我认为这个东西甚至很好的转移了我对于聊天室战争的注意力（（（
+[2023-08-05 22:48:26] [INFO] xuan2wei1_awa#0UTOss: ？
+[2023-08-05 22:48:27] [INFO] xuan2wei1_awa#0UTOss: 6
+[2023-08-05 22:48:39] [INFO] 24a__#2ZQ3+0: awacoin促进hc技术栈发展！
+[2023-08-05 22:48:54] [INFO] QiuLingYan#g7qK46: 6
+[2023-08-05 22:49:04] [INFO] QiuLingYan#g7qK46: shide
+[2023-08-05 22:49:38] [INFO] 4w4________#Myh1TA: >2ZQ3+0 24a__：
+[2023-08-05 22:49:38] [INFO] >awacoin促进hc技术栈发展！
+[2023-08-05 22:49:38] [INFO] 
+[2023-08-05 22:49:38] [INFO] @24a__ 为什么这么说（
+[2023-08-05 22:49:39] [INFO] BUJJI joined
+[2023-08-05 22:49:51] [INFO] BUJJI#: This is Arjun Speaking
+[2023-08-05 22:50:02] [INFO] BUJJI#: From king dom of us
+[2023-08-05 22:50:05] [INFO] BUJJI left
+[2023-08-05 22:50:05] [INFO] 24a__#2ZQ3+0: ?
+[2023-08-05 22:50:06] [INFO] QiuLingYan#g7qK46: 大家都想去挖矿了
+[2023-08-05 22:50:07] [INFO] BUJJI joined
+[2023-08-05 22:50:23] [INFO] 24a__#2ZQ3+0: ?
+[2023-08-05 22:50:26] [INFO] BUJJI#: 21/7 TTTTT
+[2023-08-05 22:50:28] [INFO] BUJJI#: SSST
+[2023-08-05 22:50:32] [INFO] 24a__#2ZQ3+0: ?
+[2023-08-05 22:50:34] [INFO] BUJJI#: 24A""XML
+[2023-08-05 22:50:50] [INFO] 24a__#2ZQ3+0: 我发现，macbook触控板的两段按下
+[2023-08-05 22:50:57] [INFO] 24a__#2ZQ3+0: 是用的振动马达模拟的
+[2023-08-05 22:51:00] [INFO] BUJJI left
+[2023-08-05 22:51:01] [INFO] 24a__#2ZQ3+0: 不是真的按下了
+[2023-08-05 22:51:39] [INFO] Roas_tPig#dxF2u4: 这个东西你是不是说过
+[2023-08-05 22:52:01] [INFO] 4w4________#Myh1TA: 我个人认为，研发这个并没有拓宽我的技术站，因为Nim我本来就会（
+[2023-08-05 22:52:01] [INFO] 但是研究hashcat确实一定的拓宽了我的技术栈
+[2023-08-05 22:52:28] [INFO] 24a__#2ZQ3+0: ```
+[2023-08-05 22:52:28] [INFO] ➜  worker-10 pip install pip --upgrade
+[2023-08-05 22:52:28] [INFO] zsh: command not found: pip
+[2023-08-05 22:52:28] [INFO] ➜  worker-10 fuck
+[2023-08-05 22:52:28] [INFO] pip3 install pip --upgrade [enter/↑/↓/ctrl+c]
+[2023-08-05 22:52:28] [INFO] Defaulting to user installation because normal site-packages is not writeable
+[2023-08-05 22:52:28] [INFO] Requirement already satisfied: pip in /Users/tanhanze/Library/Python/3.9/lib/python/site-packages (23.2)
+[2023-08-05 22:52:28] [INFO] Collecting pip
+[2023-08-05 22:52:28] [INFO]   Obtaining dependency information for pip from https://files.pythonhosted.org/packages/50/c2/e06851e8cc28dcad7c155f4753da8833ac06a5c704c109313b8d5a62968a/pip-23.2.1-py3-none-any.whl.metadata
+[2023-08-05 22:52:28] [INFO]   Downloading pip-23.2.1-py3-none-any.whl.metadata (4.2 kB)
+[2023-08-05 22:52:28] [INFO] Using cached pip-23.2.1-py3-none-any.whl (2.1 MB)
+[2023-08-05 22:52:28] [INFO] Installing collected packages: pip
+[2023-08-05 22:52:28] [INFO]   Attempting uninstall: pip
+[2023-08-05 22:52:28] [INFO]     Found existing installation: pip 23.2
+[2023-08-05 22:52:28] [INFO]     Uninstalling pip-23.2:
+[2023-08-05 22:52:28] [INFO]       Successfully uninstalled pip-23.2
+[2023-08-05 22:52:28] [INFO]   WARNING: The scripts pip, pip3 and pip3.9 are installed in '/Users/tanhanze/Library/Python/3.9/bin' which is not on PATH.
+[2023-08-05 22:52:28] [INFO]   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+[2023-08-05 22:52:28] [INFO]   NOTE: The current PATH contains path(s) starting with `~`, which may not be expanded by all applications.
+[2023-08-05 22:52:28] [INFO] Successfully installed pip-23.2.1
+[2023-08-05 22:52:28] [INFO] ➜  worker-10 
+[2023-08-05 22:52:28] [INFO] 24abot_HnCcK#2ZQ3+0: @24a__ AKKKKK!!!
+[2023-08-05 22:52:29] [INFO] 24a__#2ZQ3+0: nb
+[2023-08-05 22:52:31] [INFO] 4w4________#Myh1TA: 我会了Nim的json模块，以前没用过
+[2023-08-05 22:52:32] [INFO] dheeraj left
+[2023-08-05 22:53:04] [INFO] 24a__ left
+[2023-08-05 22:53:09] [INFO] 24a joined
+[2023-08-05 22:54:00] [INFO] mrz left
+[2023-08-05 22:54:06] [INFO] Roas_tPig left
+[2023-08-05 22:54:07] [INFO] _mrz#akWZ+I: @24a__ 能加点diff吗
+[2023-08-05 22:54:12] [INFO] _mrz#akWZ+I: 加几个0就好
+[2023-08-05 22:54:17] [INFO] _mrz#akWZ+I: gpu喂不饱
+[2023-08-05 22:54:36] [INFO] RoastPig left
+[2023-08-05 22:55:19] [INFO] 4w4________#Myh1TA: 6
+[2023-08-05 22:55:33] [INFO] RoastPig_ left
+[2023-08-05 22:56:06] [INFO] 4w4________#Myh1TA: 你tm还想跑满啊……我去，我CPU真tm跑满了
+[2023-08-05 22:56:19] [INFO] 4w4________#Myh1TA: 我停止mine
+[2023-08-05 22:56:31] [INFO] MrZhang365#vtFJUL: ……
+[2023-08-05 22:56:52] [INFO] MrZhang365#vtFJUL: ^gpt 请帮我写一段nodejs代码，要求计算SHA256
+[2023-08-05 22:56:52] [INFO] MrZhang365#vtFJUL is running gpt command, args: ^gpt 请帮我写一段nodejs代码，要求计算SHA256
+[2023-08-05 22:57:06] [INFO] QiuLingYan#g7qK46: python cpu达91%
+[2023-08-05 22:57:07] [INFO] RoastPig__ left
+[2023-08-05 22:57:18] [INFO] MrZhang365#vtFJUL: ？
+[2023-08-05 22:57:20] [INFO] UselessBot#vtFJUL: @MrZhang365 当然，请参考以下的Node.js代码示例，用于计算SHA256哈希值：
+[2023-08-05 22:57:20] [INFO] 
+[2023-08-05 22:57:20] [INFO] ```javascript
+[2023-08-05 22:57:20] [INFO] const crypto = require('crypto');
+[2023-08-05 22:57:20] [INFO] 
+[2023-08-05 22:57:20] [INFO] function calculateSHA256(data) {
+[2023-08-05 22:57:20] [INFO]   const hash = crypto.createHash('sha256');
+[2023-08-05 22:57:20] [INFO]   hash.update(data);
+[2023-08-05 22:57:20] [INFO]   return hash.digest('hex');
+[2023-08-05 22:57:20] [INFO] }
+[2023-08-05 22:57:20] [INFO] 
+[2023-08-05 22:57:20] [INFO] // 示例用法
+[2023-08-05 22:57:20] [INFO] const data = 'Hello, world!';
+[2023-08-05 22:57:20] [INFO] const sha256Hash = calculateSHA256(data);
+[2023-08-05 22:57:20] [INFO] console.log('SHA256 哈希值:', sha256Hash);
+[2023-08-05 22:57:20] [INFO] ```
+[2023-08-05 22:57:20] [INFO] 
+[2023-08-05 22:57:20] [INFO] 这段代码使用了 Node.js 内置的 `crypto` 模块，通过 `createHash` 方法创建了一个 SHA256 的哈希对象，然后使用 `update` 方法传入需要计算哈希值的数据，最后使用 `digest` 方法生成并返回十六进制表示的 SHA256 哈希值。
+[2023-08-05 22:57:20] [INFO] 
+[2023-08-05 22:57:20] [INFO] 在示例中，我们计算了字符串 `'Hello, world!'` 的 SHA256 哈希值，并将结果打印到控制台。
+[2023-08-05 22:57:20] [INFO] 
+[2023-08-05 22:57:20] [INFO] 请确保已经安装了 Node.js 环境，并将以上代码保存为 `.js` 文件进行运行。如有需要，您可以根据具体需求对代码进行修改和扩展。
+[2023-08-05 22:57:21] [INFO] 24abot_HnCcK#2ZQ3+0: @UselessBot AKKKKK!!!
+[2023-08-05 22:57:23] [INFO] 4w4________#Myh1TA: ~~我相信Nim的性能可是语言里第一梯队的，不仅比Python强，也比Node强~~
+[2023-08-05 22:57:48] [INFO] MrZhang365#vtFJUL: ^gpt 请把上面的代码改的更高效一些
+[2023-08-05 22:57:48] [INFO] MrZhang365#vtFJUL is running gpt command, args: ^gpt 请把上面的代码改的更高效一些
+[2023-08-05 22:57:56] [INFO] 4w4________#Myh1TA: 在我先前的测试里面，Python单线程和Nim单线程的性能差不多，Nim只高了一点
+[2023-08-05 22:57:59] [INFO] UselessBot#vtFJUL: @MrZhang365 以下是对计算SHA256哈希的代码进行一些优化的示例，以提高效率：
+[2023-08-05 22:57:59] [INFO] 
+[2023-08-05 22:57:59] [INFO] ```javascript
+[2023-08-05 22:57:59] [INFO] const crypto = require('crypto');
+[2023-08-05 22:57:59] [INFO] 
+[2023-08-05 22:57:59] [INFO] function calculateSHA256(data) {
+[2023-08-05 22:57:59] [INFO]   const hash = crypto.createHash('sha256');
+[2023-08-05 22:57:59] [INFO]   hash.update(data, 'utf8'); // 指定编码方式为utf8
+[2023-08-05 22:57:59] [INFO]   return hash.digest('hex');
+[2023-08-05 22:57:59] [INFO] }
+[2023-08-05 22:57:59] [INFO] 
+[2023-08-05 22:57:59] [INFO] // 示例用法
+[2023-08-05 22:57:59] [INFO] const data = 'Hello, world!';
+[2023-08-05 22:57:59] [INFO] const sha256Hash = calculateSHA256(data);
+[2023-08-05 22:57:59] [INFO] console.log('SHA256 哈希值:', sha256Hash);
+[2023-08-05 22:57:59] [INFO] ```
+[2023-08-05 22:57:59] [INFO] 
+[2023-08-05 22:57:59] [INFO] 在这个优化的版本中，我们指定了 `hash.update` 方法的编码方式为 `'utf8'`，这样可以避免在更新哈希之前将数据转换为缓冲区。通过直接使用UTF-8编码处理数据，可以节省一些内存和处理时间。
+[2023-08-05 22:57:59] [INFO] 
+[2023-08-05 22:57:59] [INFO] 请注意，优化的程度可能因具体情况而异，因此还可以根据实际需求进行进一步的调整和修改。
+[2023-08-05 22:58:00] [INFO] 24abot_HnCcK#2ZQ3+0: @UselessBot AKKKKK!!!
+[2023-08-05 22:58:08] [INFO] 4w4________#Myh1TA: 但是现在12个线程，我相信Python开12个线程绝对没这么快（
+[2023-08-05 22:58:25] [INFO] 4w4________#Myh1TA: @MrZhang365 虽然但是，挖币的话是SHA512
+[2023-08-05 22:58:30] [INFO] MrZhang365#vtFJUL: 草
+[2023-08-05 22:58:38] [INFO] MrZhang365#vtFJUL: ^gpt 我说错了，应该是SHA512
+[2023-08-05 22:58:38] [INFO] MrZhang365#vtFJUL is running gpt command, args: ^gpt 我说错了，应该是SHA512
+[2023-08-05 22:58:51] [INFO] UselessBot#vtFJUL: @MrZhang365 没问题，以下是计算SHA512哈希值的Node.js代码示例：
+[2023-08-05 22:58:51] [INFO] 
+[2023-08-05 22:58:51] [INFO] ```javascript
+[2023-08-05 22:58:51] [INFO] const crypto = require('crypto');
+[2023-08-05 22:58:51] [INFO] 
+[2023-08-05 22:58:51] [INFO] function calculateSHA512(data) {
+[2023-08-05 22:58:51] [INFO]   const hash = crypto.createHash('sha512');
+[2023-08-05 22:58:51] [INFO]   hash.update(data, 'utf8');
+[2023-08-05 22:58:51] [INFO]   return hash.digest('hex');
+[2023-08-05 22:58:51] [INFO] }
+[2023-08-05 22:58:51] [INFO] 
+[2023-08-05 22:58:51] [INFO] // 示例用法
+[2023-08-05 22:58:51] [INFO] const data = 'Hello, world!';
+[2023-08-05 22:58:51] [INFO] const sha512Hash = calculateSHA512(data);
+[2023-08-05 22:58:51] [INFO] console.log('SHA512 哈希值:', sha512Hash);
+[2023-08-05 22:58:51] [INFO] ```
+[2023-08-05 22:58:51] [INFO] 
+[2023-08-05 22:58:51] [INFO] 这段代码与之前给出的SHA256示例非常相似，只是将哈希算法改为了SHA512。同样地，我们使用`crypto`模块中的`createHash`方法创建SHA512哈希对象，指定使用UTF-8编码处理数据，并调用`digest`方法生成并返回十六进制表示的SHA512哈希值。
+[2023-08-05 22:58:51] [INFO] 
+[2023-08-05 22:58:51] [INFO] 在示例中，我们计算了字符串`'Hello, world!'`的SHA512哈希值，并将结果打印到控制台。
+[2023-08-05 22:58:51] [INFO] 
+[2023-08-05 22:58:51] [INFO] 记住在运行代码之前，需要确保已安装Node.js环境，并将代码保存为`.js`文件进行运行。如有需要，您可以根据具体需求对代码进行修改和扩展。
+[2023-08-05 22:58:51] [INFO] 24abot_HnCcK#2ZQ3+0: @UselessBot AKKKKK!!!
+[2023-08-05 22:59:09] [INFO] QiuLingYan left
+[2023-08-05 22:59:14] [INFO] Dr_Doppelglower joined
+[2023-08-05 22:59:23] [INFO] xuan2wei1_awa#0UTOss: dpg
+[2023-08-05 22:59:27] [INFO] xuan2wei1_awa#0UTOss: baba
+[2023-08-05 22:59:27] [INFO] Dr_Doppelglower#AAfFKK: 21
+[2023-08-05 22:59:29] [INFO] Dr_Doppelglower#AAfFKK: yeye
+[2023-08-05 22:59:50] [INFO] RoastPig___ left
+[2023-08-05 23:01:00] [INFO] xuan2wei1_awa#0UTOss: @Dr_Doppelglower 数学难吗（？
+[2023-08-05 23:01:43] [INFO] 24a left
+[2023-08-05 23:01:55] [INFO] 4w4________#Myh1TA: 可以看到python在多线程的情况下居然比单线程整整慢了45%。按照之前的分析，即使是有GIL全局锁的存在，串行化的多线程也应该和单线程有一样的效率才对。那么怎么会有这么糟糕的结果呢？
+[2023-08-05 23:01:57] [INFO] 4w4________#Myh1TA: 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+[2023-08-05 23:02:07] [INFO] 321t joined
+[2023-08-05 23:02:11] [INFO] xuan2wei1_awa#0UTOss: >Myh1TA 4w4________：
+[2023-08-05 23:02:11] [INFO] >哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+[2023-08-05 23:02:11] [INFO] 
+[2023-08-05 23:02:11] [INFO] @4w4________ 6
+[2023-08-05 23:02:13] [INFO] 4w4________#Myh1TA: Python挖币，绝对挖不了（
+[2023-08-05 23:02:33] [INFO] 321t#: 挖什么币
+[2023-08-05 23:02:35] [INFO] 4w4________#Myh1TA: （不排除因为Python的hashlib是C实现，所以并没有这么慢，甚至可以真多核
+[2023-08-05 23:02:44] [INFO] 4w4________#Myh1TA: >321t：
+[2023-08-05 23:02:44] [INFO] >挖什么币
+[2023-08-05 23:02:44] [INFO] 
+[2023-08-05 23:02:44] [INFO] @321t 一个娱乐性的货币，一文不值（
+[2023-08-05 23:02:44] [INFO] 321t#: 比特币？
+[2023-08-05 23:02:54] [INFO] 4w4________#Myh1TA: awacoin，一种中心化的货币
+[2023-08-05 23:03:21] [INFO] 321t#: 有什么用处呢
+[2023-08-05 23:03:39] [INFO] 24a joined
+[2023-08-05 23:03:48] [INFO] 24a#2ZQ3+0: 卧槽
+[2023-08-05 23:03:48] [INFO] 4w4________ left
+[2023-08-05 23:03:49] [INFO] 24a#2ZQ3+0: dpg
+[2023-08-05 23:04:26] [INFO] 321t#: @24a 你一上来就一个哇草
+[2023-08-05 23:04:41] [INFO] 24a#2ZQ3+0: 博士——
+[2023-08-05 23:04:44] [INFO] 24a#2ZQ3+0: 你回来了1——
+[2023-08-05 23:04:46] [INFO] 24a#2ZQ3+0: 你回来了——
+[2023-08-05 23:04:57] [INFO] _mrz left
+[2023-08-05 23:05:27] [INFO] 321t#: hhh
+[2023-08-05 23:05:39] [INFO] xuan2wei1_awa#0UTOss: @Dr_Doppelglower 
+[2023-08-05 23:05:44] [INFO] xuan2wei1_awa#0UTOss: lounge怎么你了
+[2023-08-05 23:06:04] [INFO] AfK_Bot joined
+[2023-08-05 23:06:05] [INFO] AfK_Bot#AAfFKK: 锟斤拷
+[2023-08-05 23:06:15] [INFO] 24a#2ZQ3+0: finally
+[2023-08-05 23:06:22] [INFO] 24a#2ZQ3+0: 我都写出替代品了（（
+[2023-08-05 23:06:24] [INFO] 24a#2ZQ3+0: #help
+[2023-08-05 23:06:24] [INFO] 24abot_HnCcK#2ZQ3+0: @24a Current permission: Owner
+[2023-08-05 23:06:24] [INFO] Available commands:
+[2023-08-05 23:06:24] [INFO] > #help, #afk, #listtrusted, #listops, #listbanned, #getignore, #hash2nicks, #nick2hashes, #trip2nicks, #nick2trips, #tripmsg, #awcbalance, #ban, #kick, #addtrusted, #removetrusted, #captcha, #lockroom, #reload, #debug, #addop, #removeop
+[2023-08-05 23:06:24] [INFO] 
+[2023-08-05 23:06:24] [INFO] Send `#help <command name>` to get the detailed information of a command.
+[2023-08-05 23:06:24] [INFO] Tip: Supports whisper!
+[2023-08-05 23:06:25] [INFO] AfK_Bot#AAfFKK:  @24abot_HnCcK AKKKKK!!!!!
+[2023-08-05 23:06:41] [INFO] 321t#: 你今天自慰几次了？
+[2023-08-05 23:06:43] [INFO] 24a#2ZQ3+0: 如果两个机器人互相akkkkk会怎么样
+[2023-08-05 23:06:52] [INFO] 24a#2ZQ3+0: >321t：
+[2023-08-05 23:06:52] [INFO] >你今天自慰几次了？
+[2023-08-05 23:06:52] [INFO] 
+[2023-08-05 23:06:52] [INFO] @321t 你今天死几次了？
+[2023-08-05 23:06:59] [INFO] 24a#2ZQ3+0: #kick 321t
+[2023-08-05 23:06:59] [INFO] 321t left
+[2023-08-05 23:06:59] [INFO] Server: Kicked 321t
+[2023-08-05 23:08:12] [INFO] Dr_Doppelglower#AAfFKK: 9
+[2023-08-05 23:08:13] [INFO] AfK_Bot#AAfFKK:  @Dr_Doppelglower
+[2023-08-05 23:08:13] [INFO] 2023-07-31 17:20:14 0/JM7u|Radium : osme->afkmod
+[2023-08-05 23:08:13] [INFO] 2023-07-31 17:20:27 0/JM7u|Radium : osme->afkbotop
+[2023-08-05 23:08:19] [INFO] Dr_Doppelglower#AAfFKK: ?
+[2023-08-05 23:08:23] [INFO] Dr_Doppelglower#AAfFKK: obo
+[2023-08-05 23:08:25] [INFO] Dr_Doppelglower#AAfFKK: :!help
+[2023-08-05 23:08:26] [INFO] AfK_Bot#AAfFKK:  @Dr_Doppelglower Your current identity : OWNER
+[2023-08-05 23:08:26] [INFO] Usable commands:
+[2023-08-05 23:08:26] [INFO] >:!help  :!ban  :!unban  :!unbanall  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!addbwd  :!delbwd  :!getbwd  :!getwhl  :!kick  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!addwhl  :!delwhl  :!afk  :!afklist  :!getstats  :!lockroom  :!unlockroom  :!enablecap  :!disablecap  :!hug  :!cookie  :!shoot  :!awa  :!statistics  :!slt  :!getbwwlim  :!setbwwlim  ==__:!send__  :!setatblv  :!setjlmsg  __:!findtrip__  :!ignore  :!notice  :!addop  :!removeop  :!-.-  :!afkclear  :!ad==
+[2023-08-05 23:08:26] [INFO] 
+[2023-08-05 23:08:26] [INFO] Use `:!help <COMMAND>` for more info.
+[2023-08-05 23:08:26] [INFO] Tip:Support whisper.
+[2023-08-05 23:08:26] [INFO] 24abot_HnCcK#2ZQ3+0: @AfK_Bot AKKKKK!!!
+[2023-08-05 23:08:31] [INFO] Dr_Doppelglower#AAfFKK: 96
+[2023-08-05 23:08:31] [INFO] 24a#2ZQ3+0: xd
+[2023-08-05 23:08:40] [INFO] good joined
+[2023-08-05 23:09:07] [INFO] 24a#2ZQ3+0: #addop AAfFKK
+[2023-08-05 23:09:07] [INFO] 24abot_HnCcK#2ZQ3+0: >✅
+[2023-08-05 23:09:07] [INFO] >Added Operator
+[2023-08-05 23:09:08] [INFO] 24a#2ZQ3+0: awa
+[2023-08-05 23:09:11] [INFO] Dr_Doppelglower#AAfFKK: waw
+[2023-08-05 23:09:16] [INFO] 24a#2ZQ3+0: also
+[2023-08-05 23:09:21] [INFO] 24a#2ZQ3+0: we developed awacoin
+[2023-08-05 23:09:45] [INFO] good#: 大家好
+[2023-08-05 23:10:11] [INFO] 24a#2ZQ3+0: true calculation
+[2023-08-05 23:10:17] [INFO] good#: 有人吗
+[2023-08-05 23:10:47] [INFO] good#: 有说中文的吗
+[2023-08-05 23:10:54] [INFO] 24a#2ZQ3+0: 没有
+[2023-08-05 23:11:20] [INFO] good#: 哈哈哈你就是
+[2023-08-05 23:11:50] [INFO] good#: @24a 中文哥
+[2023-08-05 23:12:20] [INFO] Dr_Doppelglower#AAfFKK: oggo
+[2023-08-05 23:12:48] [INFO] 24a#2ZQ3+0: @Dr_Doppelglower 原理很简单
+[2023-08-05 23:13:04] [INFO] 24a#2ZQ3+0: 服务器生成 答案（整数，在某个范围） salt
+[2023-08-05 23:13:13] [INFO] 24a#2ZQ3+0: 然后把答案和salt合成哈希值
+[2023-08-05 23:13:29] [INFO] 24a#2ZQ3+0: 把哈希值，范围，salt，任务ID发给客户端
+[2023-08-05 23:13:36] [INFO] 24a#2ZQ3+0: 客户端在这个范围跑暴力
+[2023-08-05 23:13:48] [INFO] 24a#2ZQ3+0: 成功之后把任务ID和答案发给服务器
+[2023-08-05 23:14:01] [INFO] 24a#2ZQ3+0: 服务器验证之后就加余额
+[2023-08-05 23:16:11] [INFO] MrZhang365#vtFJUL: afk, reason: 洗澡（100℃）
+[2023-08-05 23:17:08] [INFO] 24a#2ZQ3+0: 9
+[2023-08-05 23:19:21] [INFO] 24a#2ZQ3+0: @Dr_Doppelglower 我觉得咱俩都应该做个akkkkk whitelist(
+[2023-08-05 23:21:52] [INFO] Rmls_iPad joined
+[2023-08-05 23:21:52] [INFO] 24a#2ZQ3+0: Projects
+[2023-08-05 23:21:52] [INFO] 24abot
+[2023-08-05 23:21:52] [INFO] 8 hrs 33 mins
+[2023-08-05 23:21:54] [INFO] 24a#2ZQ3+0: wtf
+[2023-08-05 23:21:56] [INFO] Rmls_iPad#2jFTd0: :!help
+[2023-08-05 23:21:56] [INFO] AfK_Bot#AAfFKK:  @Rmls_iPad Your current identity : USER
+[2023-08-05 23:21:56] [INFO] Usable commands:
+[2023-08-05 23:21:56] [INFO] >:!help  :!listban  :!listop  :!list  :!lookup  :!grass  :!translate  :!getatblv  :!getonlineusers  :!getbwd  :!getwhl  :!getjlmsg  :!msg  :!tripmsg  :!listignore  :!afk  :!afklist  :!getstats  :!hug  :!cookie  :!shoot  :!awa  :!statistics  :!slt  :!getbwwlim
+[2023-08-05 23:21:56] [INFO] 
+[2023-08-05 23:21:56] [INFO] Use `:!help <COMMAND>` for more info.
+[2023-08-05 23:21:56] [INFO] Tip:Support whisper.
+[2023-08-05 23:22:00] [INFO] 24a#2ZQ3+0: (on wakatime
+[2023-08-05 23:22:40] [INFO] Rmls_iPad#2jFTd0: :!awa
+[2023-08-05 23:22:44] [INFO] AfK_Bot#AAfFKK: ![](https://i.gyazo.com/4aa1a64d1ad74b6fdc193112da83c48f.png)
+[2023-08-05 23:23:08] [INFO] Rmls_iPad#2jFTd0: :!grass 维基点
+[2023-08-05 23:23:17] [INFO] AfK_Bot#AAfFKK:  Wiki
+[2023-08-05 23:23:46] [INFO] Rmls_iPad#2jFTd0: :!grass 真理博客版
+[2023-08-05 23:23:58] [INFO] AfK_Bot#AAfFKK:  Vera博客版本
+[2023-08-05 23:24:04] [INFO] Rmls_iPad#2jFTd0: 9
+[2023-08-05 23:28:58] [INFO] good left
+[2023-08-05 23:33:17] [INFO] NokiaHC45073#: 睡觉
+[2023-08-05 23:33:33] [INFO] Rmls_iPad#2jFTd0: afk
+[2023-08-05 23:33:34] [INFO] Rmls_iPad left
+[2023-08-05 23:44:20] [INFO] Teja joined
+[2023-08-05 23:45:15] [INFO] Teja#: Hi
+[2023-08-05 23:45:26] [INFO] Teja#: Hello
+[2023-08-05 23:45:32] [INFO] dhirendra joined
+[2023-08-05 23:45:37] [INFO] dhirendra#: Hy
+[2023-08-05 23:46:37] [INFO] dhirendra#: Hello 
+[2023-08-05 23:46:52] [INFO] dhirendra#: Niche dekh Likh or send kar
+[2023-08-05 23:48:07] [INFO] dhirendra left
+[2023-08-05 23:53:09] [INFO] ji11 left
+[2023-08-05 23:53:55] [INFO] dhirendra joined
+[2023-08-05 23:54:06] [INFO] dhirendra left
+[2023-08-05 23:55:39] [INFO] cc978 joined
+[2023-08-05 23:55:54] [INFO] cc978#: hi
+[2023-08-05 23:56:07] [INFO] cc978 left
+[2023-08-05 23:56:18] [INFO] c123 joined
+[2023-08-05 23:56:46] [INFO] Hacker joined
+[2023-08-05 23:57:03] [INFO] Hacker#: Hack
+[2023-08-05 23:57:34] [INFO] await312 left
+[2023-08-05 23:57:37] [INFO] await312 joined
+[2023-08-05 23:57:40] [INFO] await312#AyKh7o: a
+[2023-08-05 23:57:45] [INFO] await312#AyKh7o: 能不能开下验证码
+[2023-08-05 23:58:04] [INFO] Hacker#: @await312 hi
+[2023-08-05 23:58:11] [INFO] Hacker left
+[2023-08-05 23:58:25] [INFO] Hacker joined
+[2023-08-05 23:58:32] [INFO] Hacker#: Hack.

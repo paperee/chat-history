@@ -1,0 +1,613 @@
+[32m[2023-06-21 10:01:19] [INFO] [39mInitializing kernel
+[32m[2023-06-21 10:01:19] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 10:01:19] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 10:01:19] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 10:01:19] [INFO] [39m3 command module(s) will be initialized
+[32m[2023-06-21 10:01:19] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 10:01:19] [INFO] [39mInitialized op.js
+[32m[2023-06-21 10:01:19] [INFO] [39mInitialized stdin.js
+[32m[2023-06-21 10:01:19] [INFO] [39mInitialized 3 command(s)
+[32m[2023-06-21 10:01:19] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-21 10:01:19] [INFO] [39mKernel initialization completed
+[31m[2023-06-21 10:01:19] [ERROR] [39mFailed to connect to ws://127.0.0.1:6060
+[32m[2023-06-21 10:01:19] [INFO] [39mStopping kernel, code: 1
+[32m[2023-06-21 10:02:15] [INFO] [39mInitializing kernel
+[32m[2023-06-21 10:02:15] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 10:02:15] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 10:02:15] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 10:02:15] [INFO] [39m3 command module(s) will be initialized
+[32m[2023-06-21 10:02:15] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 10:02:15] [INFO] [39mInitialized op.js
+[32m[2023-06-21 10:02:15] [INFO] [39mInitialized stdin.js
+[32m[2023-06-21 10:02:15] [INFO] [39mInitialized 3 command(s)
+[32m[2023-06-21 10:02:15] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:02:15] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 10:02:16] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:02:16] [INFO] [39mJoining to ?chat
+[32m[2023-06-21 10:02:17] [INFO] [39mUsers online: dr0_logbot_in_ee_server uwuOS_141 CaptchaBot 灯确吉L_电脑2 hlg10 DLBot MrZhang365 DeRaphael ZhangHelper365
+[32m[2023-06-21 10:02:18] [INFO] [39mServer: uwuOS_141 向你发送私信：>
+hi yo [ZhangHelper365](https://)
+今天是[2023.06.21](https://) 使用`|sign`签到吧
+更多使用方法 请发送：`|help`
+[32m[2023-06-21 10:02:48] [INFO] [39mInitializing kernel
+[32m[2023-06-21 10:02:48] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 10:02:48] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 10:02:48] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 10:02:48] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 10:02:48] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 10:02:48] [INFO] [39mInitialized op.js
+[32m[2023-06-21 10:02:48] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 10:02:48] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:02:48] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 10:02:49] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:02:49] [INFO] [39mJoining to ?chat
+[32m[2023-06-21 10:02:49] [INFO] [39mUsers online: dr0_logbot_in_ee_server uwuOS_141 CaptchaBot 灯确吉L_电脑2 hlg10 DLBot MrZhang365 DeRaphael ZhangHelper365
+[32m[2023-06-21 10:02:50] [INFO] [39mServer: uwuOS_141 向你发送私信：>
+hi yo [ZhangHelper365](https://)
+今天是[2023.06.21](https://) 使用`|sign`签到吧
+更多使用方法 请发送：`|help`
+[32m[2023-06-21 10:03:16] [INFO] [39mInitializing kernel
+[32m[2023-06-21 10:03:16] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 10:03:16] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 10:03:16] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 10:03:16] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 10:03:16] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 10:03:16] [INFO] [39mInitialized op.js
+[32m[2023-06-21 10:03:16] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 10:03:16] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:03:16] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 10:03:17] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:03:17] [INFO] [39mJoining to ?chat
+[32m[2023-06-21 10:03:17] [INFO] [39mUsers online: dr0_logbot_in_ee_server uwuOS_141 CaptchaBot 灯确吉L_电脑2 hlg10 DLBot MrZhang365 DeRaphael ZhangHelper365
+[32m[2023-06-21 10:03:18] [INFO] [39mServer: uwuOS_141 向你发送私信：>
+hi yo [ZhangHelper365](https://)
+今天是[2023.06.21](https://) 使用`|sign`签到吧
+更多使用方法 请发送：`|help`
+[32m[2023-06-21 10:18:33] [INFO] [39mMrZhang365#Zhang+: 长信息预警！！！
+[32m[2023-06-21 10:18:37] [INFO] [39mServer: MrZhang365 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-21 10:18:38] [INFO] [39mMrZhang365#Zhang+: ```
+（2022-07-28 22:59:17）zhang｜Mr_Zhang：hi yo
+（2022-07-28 22:59:22）zhang｜Mr_Zhang：hi yo
+（2022-07-28 22:59:53）zhang｜Mr_Zhang：你好，这应该是你的第一个回忆。
+（2022-07-28 23:13:44）zhang｜Mr_Zhang：小张，我们绝对不能容忍卢本伟，决不能和它妥协！！！
+（2022-08-22 16:01:41）zhang｜三：aaa
+（2022-08-25 12:52:30）F1n+S1｜Blaze：>zhang Zhang：
+>结果发现微信支付的密码忘了😭
+
+@Zhang 非常厉害！
+（2022-08-26 12:11:33）azazaz｜阿哲：这名称颜色咋重置啊
+（2022-08-26 15:54:29）Admin｜fish2：在环境异常的情况下直接弹出输入框吧
+（2022-08-26 19:56:42）Admin｜fish：话说加入时的ip和murmur怎么没啦
+（2022-08-28 21:01:36）Admin｜fish：对了move命令会有bug，move的时候得把channelowner去掉
+（2022-08-29 16:31:57）zhang｜Mr_Zhang：111
+（2022-09-04 11:18:45）QiuBot｜QiuControl：如果我能在win10上安装宝塔。。。那是不是直接用宝塔配置了。。。
+（2022-09-04 20:50:09）azazaz｜阿哲：这个点歌咋坏咯
+（2022-09-10 16:36:45）ICI3Hp｜Maggie：能不能让有token的用户能从国外进入啊，找代理好麻烦...求求了！
+（2022-09-10 21:05:34）Admin｜fishh：我简单看了下，少了stats.js、leceyer
+（2022-09-10 21:06:05）Admin｜fishh：我加进去了，然后我寻思着你的等候房间写在哪个文件里了，我没看到啊
+（2022-09-10 21:06:22）Admin｜fishh：我寻思着待会儿没人了准备开始reload
+（2022-09-12 11:38:06）QiuBot｜CF：你能把你那个博客发给我不 我也想搭建一个
+（2022-09-15 09:30:09）Admin｜fish：下次就直接告诉他5个字：狗眼看人低
+（2022-09-15 09:46:21）Admin｜fish：
+* 致404:
+	1. 贵方曾强调，yc没有规则，因此USBot所有行为均为合规合理
+	2. 即使yc仍然存在规则，USBot从未刷屏、发送违规违法内容，因此USBot也为合规合理
+	3. 请贵方先核实是谁在战后仍然不愿和平，仍尝试引战。贵方表明，在xc以外的地方，你（指404）与light无关，则可理解为light在xc的行为均与你有关。light在宣布和平后屡次攻击xc、在gitee进行辱骂以及在yc辱骂Mr_Zhang，这些行为没有任何人制止。如果贵方认为该行为合理合规，则是否代表我方也可进入yc辱骂他人？
+	4. 我方对于yc的验证码、锁房进行的绕过、破解均为我方技术研究，贵方无权干涉
+	5. 在宣布和平后，xc从未主动与yc再次引起冲突，但yc的light仍主动引战，我方不得已进行反击
+	6. 如果贵方认为轰炸机不合规，那么在公屏辱骂他人合规吗？
+（2022-09-15 09:49:28）Admin｜fish：若贵方仍希望与我方开战，则我方奉陪到底
+（2022-09-15 09:49:41）Admin｜fish：这是反驳
+（2022-09-16 17:24:56）｜Elle：我翻历史记录结果只有15号的 这什么情况 404和Light干了什么
+zhang Mr_Zhang
+昨晚404来闹事
+zhang Mr_Zhang
+历史记录被清除了
+zhang Mr_Zhang
+hhh
+zhang Mr_Zhang
+404说，light用ZhangHaoRanChaoJiShaBi这个名字
+zhang Mr_Zhang
+与yc无关
+zhang Mr_Zhang
+是他个人行为
+zhang Mr_Zhang
+以牙还牙
+zhang Mr_Zhang
+我这个行为属于个人行为
+（2022-09-19 20:06:38）Admin｜fish：我更新了下，~~因为改join了~~
+（2022-09-19 20:06:57）Admin｜fish：~~所以崩了好几次~~
+（2022-09-19 20:07:50）Admin｜fish：现在murmur是被加密的，而且前端js也是加密的，没办法伪造murmur了，而且后面准备把murmur和ip一起加密掉，这样可以防止有人提取浏览器真的murmur放到轰炸机上
+（2022-09-27 11:43:58）Admin｜fish：最近来了好多新用户，我暂时先把临时管理加回来了（~~其实我挺喜欢这个功能的~~）
+（2022-09-27 22:29:16）EzKbtg｜初墨：魔改源文件啊（
+（2022-09-29 22:01:34）QiuBot｜Qiu：你能不能帮DZ加个认证：
+（2022-10-01 06:54:13）QiuBot｜Qiu：websocket._exceptions.WebSocketConnectionClosedException: Connection to remote host was lost
+（2022-10-01 06:54:31）QiuBot｜Qiu：shellbot手机运行报错
+
+```
+[32m[2023-06-21 10:18:49] [INFO] [39mMrZhang365#Zhang+: 无意间发现了早期ZhangHelper版本的留言板
+[32m[2023-06-21 10:19:19] [INFO] [39mMrZhang365#Zhang+: 最早期的ZhangHelper有一个功能是给张留言
+[32m[2023-06-21 10:19:50] [INFO] [39mMrZhang365#Zhang+: 下面还有个run.txt
+[32m[2023-06-21 10:19:55] [INFO] [39mMrZhang365#Zhang+: 我不记得这是什么了
+[32m[2023-06-21 10:19:58] [INFO] [39mMrZhang365#Zhang+: 点开看看
+[32m[2023-06-21 10:20:04] [INFO] [39mMrZhang365#Zhang+: 估计是美好的回忆
+[32m[2023-06-21 10:20:17] [INFO] [39mMrZhang365#Zhang+: 地铁上老人看手机
+[32m[2023-06-21 10:20:21] [INFO] [39mMrZhang365#Zhang+: 我NM
+[32m[2023-06-21 10:20:32] [INFO] [39mMrZhang365#Zhang+: 这TM是卢本伟进进出出刷屏的记录
+[32m[2023-06-21 10:20:45] [INFO] [39mMrZhang365#Zhang+: 带有严重的辱骂性
+[32m[2023-06-21 10:20:47] [INFO] [39mMrZhang365#Zhang+: 侮辱性
+[32m[2023-06-21 10:20:51] [INFO] [39mMrZhang365#Zhang+: 算了，不看
+[32m[2023-06-21 10:22:52] [INFO] [39mMrZhang365#Zhang+: 这好像是ZhangHelper 2.0版本
+[32m[2023-06-21 10:22:55] [INFO] [39mMrZhang365#Zhang+: 对，就是2.0
+[32m[2023-06-21 10:23:01] [INFO] [39mMrZhang365#Zhang+: 1.0是单文件的
+[32m[2023-06-21 10:26:52] [INFO] [39mServer: 10:26:59
+[32m[2023-06-21 10:26:52] [INFO] [39mMrZhang365#Zhang+: 是这段代码
+[32m[2023-06-21 10:26:57] [INFO] [39mServer: MrZhang365 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-21 10:26:58] [INFO] [39mMrZhang365#Zhang+: ```python
+        elif cmdlist[0]=="^tripmsg":
+            if cmdlen >2:
+                message=msg[len(cmdlist[0]+' '+cmdlist[1]+' '):]
+                MessageManager.add("trip",cmdlist[1],nick,trip,message)
+                if cmdlist[1] == ConfigManager.config['owner']:
+                    f=open('message.txt','a')
+                    f.write(time.strftime("（%Y-%m-%d %H:%M:%S）")+trip+'｜'+nick+'：'+message+'\n')
+                    f.close()
+                    sendmsg='留言成功！您给我的主人的留言将会永久珍藏在某个文件中，这将会成为他宝贵的回忆！'
+                else:
+                    sendmsg=f"留言成功！当识别码为 {cmdlist[1]} 的用户下次处于活跃状态时，我会通知他"
+            else:
+                sendmsg="参数错误"
+```
+[32m[2023-06-21 10:27:23] [INFO] [39mMrZhang365#Zhang+: 宝 贵 的 回 忆
+[32m[2023-06-21 10:28:27] [INFO] [39mServer: MrZhang365 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-21 10:28:28] [INFO] [39mMrZhang365#Zhang+: ```python
+        elif cmdlist[0] == "^reload":
+            if level == 4:
+                try:
+                    hotreload()
+                except:
+                    xc.send_message('热重载出错！\n'+str(sys.exc_info()))
+                else:
+                    xc.send_message('热重载成功！')
+            else:
+                sendmsg="您是在找抽么？"
+[32m[2023-06-21 10:28:34] [INFO] [39mMrZhang365#Zhang+: 《您是在找抽么？》
+[32m[2023-06-21 10:31:15] [INFO] [39mMrZhang365#Zhang+: 其实我也不是没有向eb学习过
+[32m[2023-06-21 10:31:22] [INFO] [39mMrZhang365#Zhang+: zh曾经有一次大胆的尝试
+[32m[2023-06-21 10:31:32] [INFO] [39mMrZhang365#Zhang+: 只不过由于有人反映刷屏被我删了
+[32m[2023-06-21 10:31:34] [INFO] [39mMrZhang365#Zhang+: 看这个：
+[32m[2023-06-21 10:31:39] [INFO] [39mServer: MrZhang365 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-21 10:31:40] [INFO] [39mMrZhang365#Zhang+: ```python3
+def play(msg,sender):
+    global botsleep
+    return 0
+    if botsleep:return 0
+    if msg[0] in ['。','.','…','e','额','、','；',';']:
+        xc.send_message(random.choice([f'此时无语胜过千言万语',f'/me 和{sender}一起无语',f'{ConfigManager.config["nick"]}听不懂',f'奇奇怪怪的符号让{ConfigManager.config["nick"]}摸不着头脑']))
+    elif msg[0] in ['哈','呵']:
+        xc.send_message(random.choice([f'真的那么好笑吗？',f'{msg}擦',f'{msg}嗝-',f'好家伙',f'好！家！伙！']))
+[32m[2023-06-21 10:31:45] [INFO] [39mMrZhang365#Zhang+: 里面加了个 return 0
+[32m[2023-06-21 10:33:35] [INFO] [39mZhang_Helper_old joined
+[32m[2023-06-21 10:33:36] [INFO] [39mZhang_Helper_old#Zhang+: @MrZhang365 您的昵称已经绑定了识别码“zhang”，所以您可能是冒牌货。一路走好！
+[32m[2023-06-21 10:33:43] [INFO] [39mMrZhang365#Zhang+: 。。。
+[32m[2023-06-21 10:34:01] [INFO] [39mMrZhang365#Zhang+: 六
+[32m[2023-06-21 10:34:08] [INFO] [39mMrZhang365#Zhang+: 哎呀，报错了
+[32m[2023-06-21 10:34:24] [INFO] [39mZhang_Helper_old left
+[32m[2023-06-21 10:34:50] [INFO] [39mZhang_Helper_old joined
+[32m[2023-06-21 10:34:51] [INFO] [39mZhang_Helper_old#Zhang+: @MrZhang365 您的昵称已经绑定了识别码“zhang”，所以您可能是冒牌货。一路走好！
+[32m[2023-06-21 10:35:06] [INFO] [39mZhang_Helper_old left
+[32m[2023-06-21 10:35:09] [INFO] [39mZhang_Helper_old joined
+[32m[2023-06-21 10:35:11] [INFO] [39mZhang_Helper_old#Zhang+: @MrZhang365 您的昵称已经绑定了识别码“zhang”，所以您可能是冒牌货。一路走好！
+[32m[2023-06-21 10:35:11] [INFO] [39mZhang_Helper_old#Zhang+: 出错啦！详细信息：
+没有这个命令，你是不是想输入：`give`？
+[32m[2023-06-21 10:35:17] [INFO] [39mMrZhang365#Zhang+: emmmmmm
+[32m[2023-06-21 10:35:20] [INFO] [39mMrZhang365#Zhang+: i'm sorry
+[32m[2023-06-21 10:35:25] [INFO] [39mMrZhang365#Zhang+: ^help
+[32m[2023-06-21 10:35:25] [INFO] [39mServer: 你向 @MrZhang365 发送私信：.
+# $$404\ Not\ Found$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-21 10:36:07] [INFO] [39mMrZhang365#Zhang+: ^reload
+[32m[2023-06-21 10:36:07] [INFO] [39mServer: 你向 @MrZhang365 发送私信：.
+# $$404\ Not\ Found$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-21 10:36:07] [INFO] [39mZhang_Helper_old#Zhang+: 您是在找抽么？
+[32m[2023-06-21 10:36:30] [INFO] [39mMrZhang365#Zhang+: ^helperlist
+[32m[2023-06-21 10:36:31] [INFO] [39mServer: 你向 @MrZhang365 发送私信：.
+# $$404\ Not\ Found$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-21 10:36:31] [INFO] [39mZhang_Helper_old#Zhang+: 目前已授权以下识别码使用ZhangHelper的部分功能：
+['Qwer', 'wT7fe6', 'M20WZt', 'cNDZzG', 'ICI3Hp', '0L2nRW', 'rOcAHq', 'F1n+S1', '9997Rc', 'QiuBot']
+[32m[2023-06-21 10:36:41] [INFO] [39mMrZhang365#Zhang+: ^cb 我是傻逼
+[32m[2023-06-21 10:36:42] [INFO] [39mServer: 你向 @MrZhang365 发送私信：.
+# $$404\ Not\ Found$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-21 10:36:43] [INFO] [39mZhang_Helper_old#Zhang+: MrZhang365 抛出了一个漂流瓶，不知道谁会收到。
+[32m[2023-06-21 10:36:43] [INFO] [39mZhang_Helper_old#Zhang+: 啊呀！MrZhang365 的漂流瓶被深海的鲸鱼吞了！
+[32m[2023-06-21 10:36:45] [INFO] [39mMrZhang365#Zhang+: 。。。
+[32m[2023-06-21 10:36:58] [INFO] [39mMrZhang365#Zhang+: ^music
+[32m[2023-06-21 10:36:58] [INFO] [39mServer: 你向 @MrZhang365 发送私信：.
+# $$404\ Not\ Found$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-21 10:36:59] [INFO] [39mZhang_Helper_old#Zhang+: 为你推荐 [第三人称](http://music.163.com/song/media/outer/url?id=502043537)
+音乐ID：502043537
+[32m[2023-06-21 10:37:00] [INFO] [39mZhang_Helper_old#Zhang+: 出错啦！详细信息：
+没有这个命令，你是不是想输入：`head`？
+[32m[2023-06-21 10:37:03] [INFO] [39mMrZhang365#Zhang+: azzzzzzzzzzzzz
+[32m[2023-06-21 10:37:35] [INFO] [39mZhang_Helper_old left
+[32m[2023-06-21 10:41:37] [INFO] [39mServer: 10:41:44
+[32m[2023-06-21 10:41:37] [INFO] [39mMrZhang365#Zhang+: woc
+[32m[2023-06-21 10:41:43] [INFO] [39mMrZhang365#Zhang+: ZhangHelper1.0的代码
+[32m[2023-06-21 10:41:47] [INFO] [39mMrZhang365#Zhang+: 就是一坨屎山啊
+[32m[2023-06-21 10:46:26] [INFO] [39mDLBot left
+[32m[2023-06-21 10:46:32] [INFO] [39mCaptchaBot left
+[32m[2023-06-21 10:46:33] [INFO] [39mCaptchaBot joined
+[32m[2023-06-21 10:46:37] [INFO] [39mDLBot joined
+[32m[2023-06-21 10:46:38] [INFO] [39mServer: 10:46:45
+[32m[2023-06-21 10:46:38] [INFO] [39mMrZhang365#Zhang+: .
+[32m[2023-06-21 10:47:46] [INFO] [39mhlg10 left
+[32m[2023-06-21 10:47:52] [INFO] [39muwuOS_141 left
+[32m[2023-06-21 10:47:58] [INFO] [39mMrZhang365#Zhang+: ...?
+[32m[2023-06-21 10:48:34] [INFO] [39muwuOS_003 joined
+[32m[2023-06-21 11:00:04] [INFO] [39mDeRaphael left
+[32m[2023-06-21 11:27:29] [INFO] [39mDeRphael joined
+[32m[2023-06-21 11:29:31] [INFO] [39mDeRphael left
+[32m[2023-06-21 10:48:29] [INFO] [39mInitializing kernel
+[32m[2023-06-21 10:48:29] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 10:48:29] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 10:48:29] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 10:48:29] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 10:48:29] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 10:48:29] [INFO] [39mInitialized op.js
+[32m[2023-06-21 10:48:29] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 10:48:29] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:48:29] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 10:48:31] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:48:31] [INFO] [39mJoining to ?chat
+[33m[2023-06-21 10:48:32] [WARN] [39mServer: 认证错误：您无权以机器人身份加入聊天室，请确认您被授权且密码正确。
+[31m[2023-06-21 10:48:32] [ERROR] [39mConnection to wss://chat.zhangsoft.cf/ws disconnected
+[32m[2023-06-21 10:48:32] [INFO] [39mStopping kernel, code: 1
+[32m[2023-06-21 10:48:52] [INFO] [39mInitializing kernel
+[32m[2023-06-21 10:48:52] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 10:48:52] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 10:48:52] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 10:48:52] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 10:48:52] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 10:48:52] [INFO] [39mInitialized op.js
+[32m[2023-06-21 10:48:52] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 10:48:52] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:48:52] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 10:48:54] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:48:54] [INFO] [39mJoining to ?chat
+[32m[2023-06-21 10:48:54] [INFO] [39mUsers online: 灯确吉L_电脑2 MelonCmd_bot dr0_logbot_in_ee_server CaptchaBot MsgBot sus magg1e hlg123 RS_Seeker MrZhang365 PaperDr0 uw HelloOSMe ZhangHelper365
+[32m[2023-06-21 10:48:55] [INFO] [39mMelonCmd_bot#cmd152:  hi yo 傻逼ZhangHelper365
+[32m[2023-06-21 10:50:26] [INFO] [39mInitializing kernel
+[32m[2023-06-21 10:50:26] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 10:50:26] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 10:50:26] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 10:50:26] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 10:50:26] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 10:50:26] [INFO] [39mInitialized op.js
+[32m[2023-06-21 10:50:26] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 10:50:26] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:50:26] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 10:50:27] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:50:27] [INFO] [39mJoining to ?chat
+[31m[2023-06-21 10:50:28] [ERROR] [39mThe kernel encountered an unhandled error, detailed information:
+TypeError: Cannot read properties of undefined (reading 'config')
+[32m[2023-06-21 10:50:28] [INFO] [39mStopping kernel, code: 1
+[32m[2023-06-21 10:52:44] [INFO] [39mInitializing kernel
+[32m[2023-06-21 10:52:44] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 10:52:44] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 10:52:44] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 10:52:44] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 10:52:44] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 10:52:44] [INFO] [39mInitialized op.js
+[32m[2023-06-21 10:52:44] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 10:52:44] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:52:44] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 10:52:45] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:52:45] [INFO] [39mJoining to ?chat
+[32m[2023-06-21 10:52:45] [INFO] [39mUsers online: 灯确吉L_电脑2 MelonCmd_bot dr0_logbot_in_ee_server CaptchaBot MsgBot sus magg1e hlg123 RS_Seeker MrZhang365 PaperDr0 uw HelloOSMe ZhangHelper365
+[32m[2023-06-21 10:52:47] [INFO] [39mMelonCmd_bot#cmd152:  hi yo 傻逼ZhangHelper365
+[32m[2023-06-21 10:52:51] [INFO] [39mMrZhang365#Zhang+: nice
+[32m[2023-06-21 10:52:58] [INFO] [39msus#cmd152: ^help
+[32m[2023-06-21 10:52:58] [INFO] [39mZhangHelper365#Zhang+: 抱歉，这好像不在我的工作范围之内。
+[32m[2023-06-21 10:53:03] [INFO] [39mHelloOSMe#NtXVSW: 9
+[32m[2023-06-21 10:55:29] [INFO] [39mInitializing kernel
+[32m[2023-06-21 10:55:29] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 10:55:29] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 10:55:29] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 10:55:29] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 10:55:29] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 10:55:29] [INFO] [39mInitialized op.js
+[32m[2023-06-21 10:55:29] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 10:55:29] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:55:29] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 10:55:31] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:55:31] [INFO] [39mJoining to ?chat
+[32m[2023-06-21 10:55:32] [INFO] [39mUsers online: 灯确吉L_电脑2, MelonCmd_bot, dr0_logbot_in_ee_server, CaptchaBot, sus, magg1e, hlg123, RS_Seeker, MrZhang365, PaperDr0, uw, HelloOSMe, ZhangHelper365
+[32m[2023-06-21 10:55:32] [INFO] [39mMelonCmd_bot#cmd152:  hi yo 傻逼ZhangHelper365
+[32m[2023-06-21 10:55:34] [INFO] [39mHelloOSMe#NtXVSW: 9
+[32m[2023-06-21 10:55:37] [INFO] [39mPaperDr0#114514: ^help
+[32m[2023-06-21 10:55:38] [INFO] [39mZhangHelper365#Zhang+: 抱歉，这好像不在我的工作范围之内。
+[32m[2023-06-21 10:55:38] [INFO] [39mMrZhang365 => 111
+[32m[2023-06-21 10:55:40] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-21 10:55:45] [INFO] [39msus#cmd152: ok
+[32m[2023-06-21 10:55:46] [INFO] [39m111 => MrZhang365
+[32m[2023-06-21 10:55:46] [INFO] [39mMsgBot joined
+[32m[2023-06-21 10:55:46] [INFO] [39mMelonCmd_bot#cmd152:  ```
+<cmd1152> I keep on going Missing the moments
+<cmd1152> Living in the fast lang is etting kino of lonely
+[Server] yeah
+[32m[2023-06-21 10:55:47] [INFO] [39mServer: @MsgBot 加载成功！使用\`help查看帮助
+[32m[2023-06-21 10:55:51] [INFO] [39msus#cmd152: >[NtXVSW] HelloOSMe：
+>`
+
+@HelloOSMe 重新试试
+[32m[2023-06-21 10:56:11] [INFO] [39msus#cmd152: ^_\^
+[32m[2023-06-21 10:56:11] [INFO] [39mZhangHelper365#Zhang+: 抱歉，这好像不在我的工作范围之内。
+[32m[2023-06-21 10:56:24] [INFO] [39mMrZhang365#Zhang+: ^op
+[32m[2023-06-21 10:56:25] [INFO] [39mZhangHelper365#Zhang+: 你是想篡权夺位么？
+[32m[2023-06-21 10:56:27] [INFO] [39mMrZhang365#Zhang+: ...
+[32m[2023-06-21 10:56:30] [INFO] [39mMrZhang365#Zhang+: ...?
+[32m[2023-06-21 10:56:32] [INFO] [39mPaperDr0#114514: 996
+[32m[2023-06-21 10:56:49] [INFO] [39mInitializing kernel
+[32m[2023-06-21 10:56:49] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 10:56:49] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 10:56:49] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 10:56:49] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 10:56:49] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 10:56:49] [INFO] [39mInitialized op.js
+[32m[2023-06-21 10:56:49] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 10:56:49] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:56:49] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 10:56:50] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:56:50] [INFO] [39mJoining to ?chat
+[32m[2023-06-21 10:56:50] [INFO] [39mUsers online: 灯确吉L_电脑2, MelonCmd_bot, dr0_logbot_in_ee_server, CaptchaBot, sus, magg1e, hlg123, RS_Seeker, MrZhang365, PaperDr0, uw, HelloOSMe, MsgBot, ZhangHelper365
+[32m[2023-06-21 10:56:51] [INFO] [39mMelonCmd_bot#cmd152:  hi yo 傻逼ZhangHelper365
+[32m[2023-06-21 10:57:03] [INFO] [39mInitializing kernel
+[32m[2023-06-21 10:57:03] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 10:57:03] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 10:57:03] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 10:57:03] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 10:57:03] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 10:57:03] [INFO] [39mInitialized op.js
+[32m[2023-06-21 10:57:03] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 10:57:03] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:57:03] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 10:57:04] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:57:04] [INFO] [39mJoining to ?chat
+[32m[2023-06-21 10:57:05] [INFO] [39mUsers online: 灯确吉L_电脑2, MelonCmd_bot, dr0_logbot_in_ee_server, CaptchaBot, sus, magg1e, hlg123, RS_Seeker, MrZhang365, PaperDr0, uw, HelloOSMe, MsgBot, ZhangHelper365
+[32m[2023-06-21 10:57:06] [INFO] [39mMelonCmd_bot#cmd152:  hi yo 傻逼ZhangHelper365
+[32m[2023-06-21 10:57:11] [INFO] [39mMrZhang365#Zhang+: ^op
+[32m[2023-06-21 10:57:11] [INFO] [39mMrZhang365#Zhang+ is running op command, args: ^op
+[32m[2023-06-21 10:57:11] [INFO] [39mZhangHelper365#Zhang+: OPs list: oLZSix
+[32m[2023-06-21 10:57:15] [INFO] [39mServer: sus 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-21 10:57:16] [INFO] [39msus#cmd152: >[114514] PaperDr0：
+>>[Zhang+] ZhangHelper365：
+>>你是想篡权夺位么？
+>
+>@ZhangHelper365 ~~自 取 其 首~~
+
+@PaperDr0 
+[32m[2023-06-21 10:57:27] [INFO] [39mMrZhang365#Zhang+: ^kick
+[32m[2023-06-21 10:57:27] [INFO] [39mMrZhang365#Zhang+ is running kick command, args: ^kick
+[32m[2023-06-21 10:57:28] [INFO] [39mZhangHelper365#Zhang+: Please tell me who will be kicked
+[32m[2023-06-21 10:58:00] [INFO] [39mMrZhang365#Zhang+: ^kick ZhangHelper365
+[32m[2023-06-21 10:58:00] [INFO] [39mMrZhang365#Zhang+ is running kick command, args: ^kick ZhangHelper365
+[33m[2023-06-21 10:58:00] [WARN] [39mServer: 不能踢你的同事，这是很粗鲁的
+[32m[2023-06-21 10:58:13] [INFO] [39mHelloOSMe#NtXVSW: `
+[32m[2023-06-21 10:58:13] [INFO] [39mMsgBot#cmd152: 200 OK
+未读的留言板【按时间倒序】（还有0页）
+
+>【未读】[cmd152]sus：测试
+
+PS：发送 \`showmsg 查看完整留言板，再发送一次 \` 或者 \`noreadmsg 显示下一页
+[32m[2023-06-21 10:58:23] [INFO] [39msus#cmd152: >cmd1152，本帖隐藏的内容需要积分高于 6000 才可浏览，您当前积分为 2492
+
+你妈
+[32m[2023-06-21 10:58:30] [INFO] [39mInitializing kernel
+[32m[2023-06-21 10:58:30] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 10:58:30] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 10:58:30] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 10:58:30] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 10:58:30] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 10:58:30] [INFO] [39mInitialized op.js
+[32m[2023-06-21 10:58:30] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 10:58:31] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:58:31] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 10:58:32] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 10:58:32] [INFO] [39mJoining to ?chat
+[32m[2023-06-21 10:58:32] [INFO] [39mUsers online: 灯确吉L_电脑2, MelonCmd_bot, dr0_logbot_in_ee_server, CaptchaBot, sus, magg1e, hlg123, RS_Seeker, MrZhang365, PaperDr0, uw, HelloOSMe, MsgBot, ZhangHelper365
+[32m[2023-06-21 10:58:33] [INFO] [39mMelonCmd_bot#cmd152:  hi yo 傻逼ZhangHelper365
+[32m[2023-06-21 10:58:39] [INFO] [39mMrZhang365#Zhang+: ^kick ZhangHelper365
+[32m[2023-06-21 10:58:39] [INFO] [39mMrZhang365#Zhang+ is running kick command, args: ^kick ZhangHelper365
+[33m[2023-06-21 10:58:40] [WARN] [39mServer: 不能踢你的同事，这是很粗鲁的
+[32m[2023-06-21 10:58:40] [INFO] [39mZhangHelper365#Zhang+: Server error: 不能踢你的同事，这是很粗鲁的
+[32m[2023-06-21 10:58:51] [INFO] [39msus#cmd152: .rgh
+[32m[2023-06-21 10:58:53] [INFO] [39msus#cmd152: .rh
+[32m[2023-06-21 10:58:53] [INFO] [39mServer: @MelonCmd_bot Deleting history...
+[32m[2023-06-21 10:58:54] [INFO] [39mMelonCmd_bot#cmd152: 出错了，详细信息：
+抱歉，您的权限不足，无法执行 `rm-history` 命令，请检查权限后再试
+[32m[2023-06-21 10:59:06] [INFO] [39msus#cmd152: .dumb sus 0.001
+[32m[2023-06-21 10:59:06] [INFO] [39mMelonCmd_bot#cmd152: @sus 你想干嘛？
+[32m[2023-06-21 10:59:10] [INFO] [39msus#cmd152: 9
+[32m[2023-06-21 10:59:18] [INFO] [39msus#cmd152: ~~.undumb sus~~
+[32m[2023-06-21 10:59:23] [INFO] [39msus#cmd152: .undumb sus
+[32m[2023-06-21 10:59:24] [INFO] [39mMelonCmd_bot#cmd152: 出错了，详细信息：
+错误：您没有提供参数 ip
+[32m[2023-06-21 10:59:29] [INFO] [39msus#cmd152: （？）
+[32m[2023-06-21 10:59:34] [INFO] [39msus#cmd152: （？）
+[32m[2023-06-21 10:59:41] [INFO] [39msus#cmd152: @MrZhang365 我谢谢你
+[32m[2023-06-21 10:59:48] [INFO] [39msus#cmd152: 你更新之后我机器人又炸了一半
+[32m[2023-06-21 10:59:50] [INFO] [39mHelloOSMe#NtXVSW: 996
+[32m[2023-06-21 11:07:06] [INFO] [39mHelloOSMe left
+[32m[2023-06-21 11:10:42] [INFO] [39mInitializing kernel
+[32m[2023-06-21 11:10:42] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 11:10:42] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 11:10:42] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 11:10:42] [INFO] [39m2 command module(s) will be initialized
+[31m[2023-06-21 11:10:42] [ERROR] [39mFailed to initialize kick.js: can't find info object
+[32m[2023-06-21 11:10:42] [INFO] [39mInitialized op.js
+[32m[2023-06-21 11:10:42] [INFO] [39mInitialized 1 command(s)
+[32m[2023-06-21 11:10:42] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:10:42] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 11:10:44] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:10:44] [INFO] [39mJoining to ?chat
+[32m[2023-06-21 11:10:44] [INFO] [39mUsers online: 灯确吉L_电脑2, MelonCmd_bot, dr0_logbot_in_ee_server, CaptchaBot, sus, magg1e, hlg123, RS_Seeker, MrZhang365, PaperDr0, uw, MsgBot, ZhangHelper365
+[32m[2023-06-21 11:10:45] [INFO] [39mMelonCmd_bot#cmd152:  hi yo 傻逼ZhangHelper365
+[32m[2023-06-21 11:11:04] [INFO] [39mInitializing kernel
+[32m[2023-06-21 11:11:04] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 11:11:04] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 11:11:04] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 11:11:04] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 11:11:04] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 11:11:04] [INFO] [39mInitialized op.js
+[32m[2023-06-21 11:11:04] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 11:11:04] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:11:04] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 11:11:05] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:11:05] [INFO] [39mJoining to ?chat
+[32m[2023-06-21 11:11:05] [INFO] [39mUsers online: 灯确吉L_电脑2, MelonCmd_bot, dr0_logbot_in_ee_server, CaptchaBot, sus, magg1e, hlg123, RS_Seeker, MrZhang365, PaperDr0, uw, MsgBot, ZhangHelper365
+[32m[2023-06-21 11:11:06] [INFO] [39mMelonCmd_bot#cmd152:  hi yo 傻逼ZhangHelper365
+[32m[2023-06-21 11:11:12] [INFO] [39mServer: @MrZhang365 test
+[32m[2023-06-21 11:11:47] [INFO] [39mServer: [Zhang+] MrZhang365 在 ?chat 成功执行了提权操作。
+该用户IP地址：106.47.117.88
+如果您认为本次操作不安全，请立刻执行 `clearpower` 命令并立刻通知所有管理员，同时请联系 Xiao_Zhang_123@outlook.com
+[32m[2023-06-21 11:12:40] [INFO] [39mInitializing kernel
+[32m[2023-06-21 11:12:40] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 11:12:40] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 11:12:40] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 11:12:40] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 11:12:40] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 11:12:40] [INFO] [39mInitialized op.js
+[32m[2023-06-21 11:12:40] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 11:12:40] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:12:40] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 11:12:42] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:12:42] [INFO] [39mJoining to ?chat
+[32m[2023-06-21 11:12:43] [INFO] [39mUsers online: 灯确吉L_电脑2, MelonCmd_bot, dr0_logbot_in_ee_server, CaptchaBot, sus, magg1e, hlg123, RS_Seeker, MrZhang365, PaperDr0, uw, MsgBot, ZhangHelper365
+[32m[2023-06-21 11:12:43] [INFO] [39mMelonCmd_bot#cmd152:  hi yo 傻逼ZhangHelper365
+[32m[2023-06-21 11:13:45] [INFO] [39mInitializing kernel
+[32m[2023-06-21 11:13:45] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 11:13:45] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 11:13:45] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 11:13:45] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 11:13:45] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 11:13:45] [INFO] [39mInitialized op.js
+[32m[2023-06-21 11:13:45] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 11:13:45] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:13:45] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 11:13:46] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:13:46] [INFO] [39mJoining to ?cha
+[32m[2023-06-21 11:13:47] [INFO] [39mUsers online: ZhangHelper365
+[32m[2023-06-21 11:14:23] [INFO] [39mInitializing kernel
+[32m[2023-06-21 11:14:23] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 11:14:23] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 11:14:23] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 11:14:23] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 11:14:23] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 11:14:23] [INFO] [39mInitialized op.js
+[32m[2023-06-21 11:14:23] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 11:14:23] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:14:41] [INFO] [39mInitializing kernel
+[32m[2023-06-21 11:14:41] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 11:14:41] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 11:14:41] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 11:14:41] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 11:14:41] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 11:14:41] [INFO] [39mInitialized op.js
+[32m[2023-06-21 11:14:41] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 11:14:41] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:14:41] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 11:14:42] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:14:42] [INFO] [39mJoining to ?cha
+[32m[2023-06-21 11:14:43] [INFO] [39mUsers online: ZhangHelper365
+[32m[2023-06-21 11:16:19] [INFO] [39mInitializing kernel
+[32m[2023-06-21 11:16:19] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 11:16:19] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 11:16:19] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 11:16:19] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 11:16:19] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 11:16:19] [INFO] [39mInitialized op.js
+[32m[2023-06-21 11:16:19] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 11:16:20] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:17:33] [INFO] [39mInitializing kernel
+[32m[2023-06-21 11:17:33] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 11:17:33] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 11:17:33] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 11:17:33] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 11:17:33] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 11:17:33] [INFO] [39mInitialized op.js
+[32m[2023-06-21 11:17:33] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 11:17:33] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:17:50] [INFO] [39mInitializing kernel
+[32m[2023-06-21 11:17:50] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 11:17:50] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 11:17:50] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 11:17:50] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 11:17:50] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 11:17:50] [INFO] [39mInitialized op.js
+[32m[2023-06-21 11:17:50] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 11:17:50] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:18:00] [INFO] [39mInitializing kernel
+[32m[2023-06-21 11:18:00] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 11:18:00] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 11:18:00] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 11:18:00] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 11:18:00] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 11:18:00] [INFO] [39mInitialized op.js
+[32m[2023-06-21 11:18:00] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 11:18:00] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:19:09] [INFO] [39mInitializing kernel
+[32m[2023-06-21 11:19:09] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 11:19:09] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 11:19:09] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 11:19:09] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 11:19:09] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 11:19:09] [INFO] [39mInitialized op.js
+[32m[2023-06-21 11:19:09] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 11:19:09] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:19:09] [INFO] [39mAdded hook for info, the level is 1
+[32m[2023-06-21 11:19:09] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 11:19:10] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:19:10] [INFO] [39mJoining to ?cha
+[32m[2023-06-21 11:19:10] [INFO] [39mUsers online: ZhangHelper365
+[31m[2023-06-21 11:19:27] [ERROR] [39mThe kernel encountered an unhandled error, detailed information:
+TypeError: this.hooks[cmd].main is not a function
+[32m[2023-06-21 11:19:27] [INFO] [39mStopping kernel, code: 1
+[32m[2023-06-21 11:20:02] [INFO] [39mInitializing kernel
+[32m[2023-06-21 11:20:02] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 11:20:02] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 11:20:02] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 11:20:02] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 11:20:02] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 11:20:02] [INFO] [39mInitialized op.js
+[32m[2023-06-21 11:20:02] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 11:20:02] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:20:15] [INFO] [39mAdded a hook for info, the level is 1
+[32m[2023-06-21 11:20:15] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 11:20:17] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:20:17] [INFO] [39mJoining to ?cha
+[32m[2023-06-21 11:20:17] [INFO] [39mUsers online: ZhangHelper365
+[32m[2023-06-21 11:21:01] [INFO] [39mInitializing kernel
+[32m[2023-06-21 11:21:01] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-21 11:21:01] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-21 11:21:01] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-21 11:21:01] [INFO] [39m2 command module(s) will be initialized
+[32m[2023-06-21 11:21:01] [INFO] [39mInitialized kick.js
+[32m[2023-06-21 11:21:01] [INFO] [39mInitialized op.js
+[32m[2023-06-21 11:21:01] [INFO] [39mInitialized 2 command(s)
+[32m[2023-06-21 11:21:01] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:21:01] [INFO] [39mAdded a hook for info, the level is 1
+[32m[2023-06-21 11:21:01] [INFO] [39mKernel initialization completed
+[32m[2023-06-21 11:21:02] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-21 11:21:02] [INFO] [39mJoining to ?cha
+[32m[2023-06-21 11:21:06] [INFO] [39mUsers online: ZhangHelper365
+[32m[2023-06-21 11:21:08] [INFO] [39mZhangHelper365#Zhang+: 收到了一个info：来自 [`Zhang+`] `MrZhang365` 的全站通知：
+test

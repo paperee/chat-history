@@ -1,0 +1,65 @@
+[32m[2023-06-07 08:54:09] [INFO] [39mawa[33m[2023-06-07 08:54:20] [WARN] [39mwoc![31m[2023-06-07 08:54:28] [ERROR] [39mmd[32m[2023-06-07 09:32:42] [INFO] [39mInitializing kernel
+[32m[2023-06-07 09:32:42] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-07 09:32:42] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-07 09:33:57] [INFO] [39mInitializing kernel
+[32m[2023-06-07 09:33:57] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-07 09:33:57] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-07 09:34:44] [INFO] [39mInitializing kernel
+[32m[2023-06-07 09:34:44] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-07 09:34:44] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-07 09:35:35] [INFO] [39mInitializing kernel
+[32m[2023-06-07 09:35:35] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-07 09:35:35] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-07 09:35:35] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-07 09:35:35] [INFO] [39mKernel initialization completed
+[32m[2023-06-07 09:36:50] [INFO] [39mInitializing kernel
+[32m[2023-06-07 09:36:50] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-07 09:36:50] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-07 09:36:50] [INFO] [39mConnecting to ws://127.0.0.1:80
+[32m[2023-06-07 09:36:50] [INFO] [39mKernel initialization completed
+[32m[2023-06-07 09:37:35] [INFO] [39mInitializing kernel
+[32m[2023-06-07 09:37:35] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-07 09:37:35] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-07 09:37:35] [INFO] [39mConnecting to ws://127.0.0.1:1111
+[32m[2023-06-07 09:37:35] [INFO] [39mKernel initialization completed
+[32m[2023-06-07 09:39:47] [INFO] [39mInitializing kernel
+[32m[2023-06-07 09:39:47] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-07 09:39:47] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-07 09:39:47] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-07 09:39:47] [INFO] [39mKernel initialization completed
+[32m[2023-06-07 09:40:49] [INFO] [39mInitializing kernel
+[32m[2023-06-07 09:40:49] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-07 09:40:49] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-07 09:40:49] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-07 09:40:49] [INFO] [39mKernel initialization completed
+[32m[2023-06-07 09:41:17] [INFO] [39mInitializing kernel
+[32m[2023-06-07 09:41:17] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-07 09:41:17] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-07 09:41:17] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-07 09:41:17] [INFO] [39mKernel initialization completed
+[32m[2023-06-07 09:41:17] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-07 09:41:17] [INFO] [39mJoining to ?chat
+[32m[2023-06-07 08:25:41] [INFO] [39mInitializing kernel
+[32m[2023-06-07 08:25:41] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-07 08:25:41] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-07 08:25:41] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-07 08:25:41] [INFO] [39mKernel initialization completed
+[32m[2023-06-07 08:25:41] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-07 08:25:41] [INFO] [39mJoining to ?chat
+[32m[2023-06-07 09:06:18] [INFO] [39mInitializing kernel
+[32m[2023-06-07 09:06:18] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-07 09:06:18] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-07 09:06:18] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-07 09:07:01] [INFO] [39mInitializing kernel
+[32m[2023-06-07 09:07:01] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-07 09:07:01] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-07 09:07:01] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-07 09:08:05] [INFO] [39mInitializing kernel
+[32m[2023-06-07 09:08:05] [INFO] [39mLoading /home/mrzhang365/zh/config/config.json
+[32m[2023-06-07 09:08:05] [INFO] [39m/home/mrzhang365/zh/config/config.json was loaded
+[32m[2023-06-07 09:08:05] [INFO] [39mConnecting to ws://127.0.0.1:6060
+[32m[2023-06-07 09:08:05] [INFO] [39mLoading command modules from /home/mrzhang365/zh/commands
+[32m[2023-06-07 09:08:05] [INFO] [39m0 will be initialized
+[32m[2023-06-07 09:08:05] [INFO] [39mKernel initialization completed
+[32m[2023-06-07 09:08:05] [INFO] [39mSuccessfully connected to ws://127.0.0.1:6060
+[32m[2023-06-07 09:08:05] [INFO] [39mJoining to ?chat

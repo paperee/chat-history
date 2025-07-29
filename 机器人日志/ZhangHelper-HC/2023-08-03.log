@@ -1,0 +1,966 @@
+[2023-08-03 19:42:33] [INFO] Initializing kernel
+[2023-08-03 19:42:33] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-03 19:42:33] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-03 19:42:33] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-03 19:42:33] [INFO] 16 command module(s) will be initialized
+[2023-08-03 19:42:33] [INFO] Initialized allmsg.js
+[2023-08-03 19:42:33] [INFO] Initialized ban.js
+[2023-08-03 19:42:33] [INFO] Initialized block.js
+[2023-08-03 19:42:33] [INFO] Initialized clearmsg.js
+[2023-08-03 19:42:33] [INFO] Initialized draw.js
+[2023-08-03 19:42:33] [INFO] Initialized gpt.js
+[2023-08-03 19:42:33] [INFO] Initialized help.js
+[2023-08-03 19:42:33] [INFO] Initialized kick.js
+[2023-08-03 19:42:33] [INFO] Initialized lobby.js
+[2023-08-03 19:42:33] [INFO] Initialized msg.js
+[2023-08-03 19:42:33] [INFO] Initialized nsfw.js
+[2023-08-03 19:42:33] [INFO] Initialized op.js
+[2023-08-03 19:42:33] [INFO] Initialized read.js
+[2023-08-03 19:42:33] [INFO] Initialized reload.js
+[2023-08-03 19:42:33] [INFO] Initialized stop.js
+[2023-08-03 19:42:33] [INFO] Initialized version.js
+[2023-08-03 19:42:33] [INFO] Initialized 16 command(s)
+[2023-08-03 19:42:33] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-03 19:42:33] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-03 19:42:33] [INFO] Added a hook for chat, the level is 25
+[2023-08-03 19:42:33] [INFO] Kernel initialization completed
+[2023-08-03 19:42:35] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-03 19:42:35] [INFO] Joining to ?your-channel
+[2023-08-03 19:42:36] [INFO] Users online: mbot, uwuOS_ByQiu_284, NokiaHC95410, MaggieRecordV26543, Radium_kuuu, 0x24aHCAdapter2998, 4w4__, gygogyu, flaugh, await25, RK37__, 123, MrZhang365, RoastPig, 24aa__, zzChomo__, leo, joy, 24abot_KgcJm, ZhangHelper365
+[2023-08-03 19:42:39] [INFO] 24aa__#2ZQ3+0: 我对kernel做了改动 必须重启
+[2023-08-03 19:42:40] [INFO] Joined ?lobby
+[2023-08-03 19:42:44] [INFO] 24aa__#2ZQ3+0: ^help
+[2023-08-03 19:42:44] [INFO] 24aa__#2ZQ3+0 is running help command, args: ^help
+[2023-08-03 19:42:44] [INFO] Server: You whispered to @24aa__: .
+[2023-08-03 19:42:44] [INFO] # 所有命令
+[2023-08-03 19:42:44] [INFO] |等级：|命令：|
+[2023-08-03 19:42:44] [INFO] |---:|:---|
+[2023-08-03 19:42:44] [INFO] |用户：|allmsg, clearmsg, draw, gpt, help, msg, read, version|
+[2023-08-03 19:42:44] [INFO] |协管：|kick, nsfw|
+[2023-08-03 19:42:44] [INFO] |管理员：|ban, block, op|
+[2023-08-03 19:42:44] [INFO] |超级管理员：|lobby, reload, stop|
+[2023-08-03 19:42:44] [INFO] ---
+[2023-08-03 19:42:44] [INFO] 要获取指定命令的帮助信息，请使用：
+[2023-08-03 19:42:44] [INFO] `^help 命令名`
+[2023-08-03 19:42:45] [INFO] MrZhang365#vtFJUL: ^test
+[2023-08-03 19:42:45] [WARN] Server: You are sending too much text. Wait a moment and try again.
+[2023-08-03 19:42:45] [WARN] Press the up arrow key to restore your last message.
+[2023-08-03 19:42:45] [WARN] Server: You are being rate-limited or blocked.
+[2023-08-03 19:42:46] [WARN] Server: You are sending too much text. Wait a moment and try again.
+[2023-08-03 19:42:46] [WARN] Press the up arrow key to restore your last message.
+[2023-08-03 19:42:46] [WARN] Server: You are being rate-limited or blocked.
+[2023-08-03 19:42:46] [WARN] Server: You are being rate-limited or blocked.
+[2023-08-03 19:42:46] [WARN] Server: You are being rate-limited or blocked.
+[2023-08-03 19:42:46] [WARN] Server: You are being rate-limited or blocked.
+[2023-08-03 19:42:46] [WARN] Server: You are being rate-limited or blocked.
+[2023-08-03 19:42:47] [WARN] Server: You are being rate-limited or blocked.
+[2023-08-03 19:42:47] [WARN] Server: You are being rate-limited or blocked.
+[2023-08-03 19:42:47] [WARN] Server: You are being rate-limited or blocked.
+[2023-08-03 19:42:48] [WARN] Server: You are sending too much text. Wait a moment and try again.
+[2023-08-03 19:42:48] [WARN] Press the up arrow key to restore your last message.
+[2023-08-03 19:43:28] [INFO] Initializing kernel
+[2023-08-03 19:43:28] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-03 19:43:28] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-03 19:43:28] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-03 19:43:28] [INFO] 16 command module(s) will be initialized
+[2023-08-03 19:43:28] [INFO] Initialized allmsg.js
+[2023-08-03 19:43:28] [INFO] Initialized ban.js
+[2023-08-03 19:43:28] [INFO] Initialized block.js
+[2023-08-03 19:43:28] [INFO] Initialized clearmsg.js
+[2023-08-03 19:43:28] [INFO] Initialized draw.js
+[2023-08-03 19:43:28] [INFO] Initialized gpt.js
+[2023-08-03 19:43:28] [INFO] Initialized help.js
+[2023-08-03 19:43:28] [INFO] Initialized kick.js
+[2023-08-03 19:43:28] [INFO] Initialized lobby.js
+[2023-08-03 19:43:28] [INFO] Initialized msg.js
+[2023-08-03 19:43:28] [INFO] Initialized nsfw.js
+[2023-08-03 19:43:28] [INFO] Initialized op.js
+[2023-08-03 19:43:28] [INFO] Initialized read.js
+[2023-08-03 19:43:28] [INFO] Initialized reload.js
+[2023-08-03 19:43:28] [INFO] Initialized stop.js
+[2023-08-03 19:43:28] [INFO] Initialized version.js
+[2023-08-03 19:43:28] [INFO] Initialized 16 command(s)
+[2023-08-03 19:43:28] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-03 19:43:28] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-03 19:43:28] [INFO] Added a hook for chat, the level is 25
+[2023-08-03 19:43:28] [INFO] Kernel initialization completed
+[2023-08-03 19:43:30] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-03 19:43:30] [INFO] Joining to ?your-channel
+[2023-08-03 19:43:32] [INFO] Users online: mbot, uwuOS_ByQiu_284, NokiaHC95410, MaggieRecordV26543, Radium_kuuu, 0x24aHCAdapter2998, 4w4__, gygogyu, flaugh, await25, RK37__, 123, MrZhang365, RoastPig, 24aa__, leo, joy, 24abot_KgcJm, zzChomo, ZhangHelper365
+[2023-08-03 19:43:34] [WARN] ?lobby WARNING: You are joining channels too fast. Wait a moment and try again.
+[2023-08-03 19:43:36] [INFO] 24aa__#2ZQ3+0: #debug awa
+[2023-08-03 19:43:36] [INFO] 24abot_KgcJm#2ZQ3+0: Error: name 'awa' is not defined
+[2023-08-03 19:43:42] [INFO] 24aa__#2ZQ3+0: #debug onlineUsers
+[2023-08-03 19:43:43] [INFO] 24abot_KgcJm#2ZQ3+0: No result
+[2023-08-03 19:44:37] [INFO] Initializing kernel
+[2023-08-03 19:44:37] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-03 19:44:37] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-03 19:44:37] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-03 19:44:37] [INFO] 14 command module(s) will be initialized
+[2023-08-03 19:44:37] [INFO] Initialized allmsg.js
+[2023-08-03 19:44:37] [INFO] Initialized ban.js
+[2023-08-03 19:44:37] [INFO] Initialized block.js
+[2023-08-03 19:44:37] [INFO] Initialized clearmsg.js
+[2023-08-03 19:44:37] [INFO] Initialized gpt.js
+[2023-08-03 19:44:37] [INFO] Initialized help.js
+[2023-08-03 19:44:37] [INFO] Initialized kick.js
+[2023-08-03 19:44:37] [INFO] Initialized msg.js
+[2023-08-03 19:44:37] [INFO] Initialized nsfw.js
+[2023-08-03 19:44:37] [INFO] Initialized op.js
+[2023-08-03 19:44:37] [INFO] Initialized read.js
+[2023-08-03 19:44:37] [INFO] Initialized reload.js
+[2023-08-03 19:44:37] [INFO] Initialized stop.js
+[2023-08-03 19:44:37] [INFO] Initialized version.js
+[2023-08-03 19:44:37] [INFO] Initialized 14 command(s)
+[2023-08-03 19:44:37] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-03 19:44:37] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-03 19:44:37] [INFO] Added a hook for chat, the level is 25
+[2023-08-03 19:44:37] [INFO] Kernel initialization completed
+[2023-08-03 19:44:37] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-03 19:44:37] [INFO] Joining to ?your-channel
+[2023-08-03 19:44:38] [INFO] Users online: mbot, uwuOS_ByQiu_284, NokiaHC95410, MaggieRecordV26543, Radium_kuuu, 0x24aHCAdapter2998, 4w4__, gygogyu, flaugh, await25, RK37__, 123, MrZhang365, RoastPig, 24aa__, leo, joy, 24abot_KgcJm, zzChomo, ZhangHelper365
+[2023-08-03 19:44:40] [INFO] 24aa__#2ZQ3+0: #debug result = onlineUsers
+[2023-08-03 19:44:47] [INFO] MrZhang365#vtFJUL: ^test
+[2023-08-03 19:44:47] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 19:44:47] [INFO] 24aa__#2ZQ3+0: aaa?
+[2023-08-03 19:44:52] [INFO] Server: You whispered to @MrZhang365: .
+[2023-08-03 19:44:52] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 19:44:56] [INFO] MrZhang365#vtFJUL: vtFJUL ZhangHelper365
+[2023-08-03 19:44:56] [INFO] @MrZhang365 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 19:44:56] [INFO] 
+[2023-08-03 19:44:56] [INFO] 2ZQ3+0 24aa__
+[2023-08-03 19:44:56] [INFO] aaa?
+[2023-08-03 19:44:56] [INFO] 
+[2023-08-03 19:44:56] [INFO] *
+[2023-08-03 19:44:56] [INFO] 你对 @ZhangHelper365 私聊：^test
+[2023-08-03 19:44:56] [INFO] 
+[2023-08-03 19:44:56] [INFO] vtFJUL *
+[2023-08-03 19:44:56] [INFO] ZhangHelper365 对你私聊：.
+[2023-08-03 19:44:56] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 19:44:57] [INFO] MrZhang365#vtFJUL: nice
+[2023-08-03 19:45:03] [INFO] MrZhang365#vtFJUL: 成功实现私信操作
+[2023-08-03 19:45:03] [INFO] 24aa__#2ZQ3+0: #debug result = 1+1
+[2023-08-03 19:58:52] [INFO] Initializing kernel
+[2023-08-03 19:58:52] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-03 19:58:52] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-03 19:58:52] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-03 19:58:52] [INFO] 14 command module(s) will be initialized
+[2023-08-03 19:58:52] [INFO] Initialized allmsg.js
+[2023-08-03 19:58:52] [INFO] Initialized ban.js
+[2023-08-03 19:58:52] [INFO] Initialized block.js
+[2023-08-03 19:58:52] [INFO] Initialized clearmsg.js
+[2023-08-03 19:58:52] [INFO] Initialized gpt.js
+[2023-08-03 19:58:52] [INFO] Initialized help.js
+[2023-08-03 19:58:52] [INFO] Initialized kick.js
+[2023-08-03 19:58:52] [INFO] Initialized msg.js
+[2023-08-03 19:58:52] [INFO] Initialized nsfw.js
+[2023-08-03 19:58:52] [INFO] Initialized op.js
+[2023-08-03 19:58:52] [INFO] Initialized read.js
+[2023-08-03 19:58:52] [INFO] Initialized reload.js
+[2023-08-03 19:58:52] [INFO] Initialized stop.js
+[2023-08-03 19:58:52] [INFO] Initialized version.js
+[2023-08-03 19:58:52] [INFO] Initialized 14 command(s)
+[2023-08-03 19:58:52] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-03 19:58:52] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-03 19:58:52] [INFO] Added a hook for chat, the level is 25
+[2023-08-03 19:58:52] [INFO] Kernel initialization completed
+[2023-08-03 19:58:53] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-03 19:58:53] [INFO] Joining to ?your-channel
+[2023-08-03 19:58:53] [INFO] Users online: mbot, uwuOS_ByQiu_284, NokiaHC95410, MaggieRecordV26543, Radium_kuuu, 4w4__, gygogyu, flaugh, await25, RK37__, 123, MrZhang365, RoastPig, leo, 24abot_KgcJm, zzChomo, 24aa__, bruh, 0x24aHCAdapter4278, ZhangHelper365
+[2023-08-03 19:59:04] [INFO] MrZhang365#vtFJUL: ^ban @111
+[2023-08-03 19:59:04] [INFO] MrZhang365#vtFJUL is running ban command, args: ^ban @111
+[2023-08-03 19:59:04] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 找不到用户：111
+[2023-08-03 19:59:10] [INFO] 24aa__#2ZQ3+0: 对kernel做了点小改动，重启一下
+[2023-08-03 19:59:13] [INFO] 24abot_KgcJm left
+[2023-08-03 19:59:17] [INFO] 24abot_EsBBn joined
+[2023-08-03 19:59:21] [INFO] 24aa__#2ZQ3+0: #help
+[2023-08-03 19:59:22] [INFO] MrZhang365#vtFJUL: ^ban @MrZhang365 @24aa__ 
+[2023-08-03 19:59:22] [INFO] MrZhang365#vtFJUL is running ban command, args: ^ban @MrZhang365 @24aa__ 
+[2023-08-03 19:59:22] [ERROR] Failed to run ban with ^ban @MrZhang365 @24aa__ , user: MrZhang365#vtFJUL}. error: TypeError: Cannot read properties of undefined (reading 'users')
+[2023-08-03 19:59:22] [ERROR]     at Command.run (D:\HC项目\zhanghelper\commands\ban.js:36:14)
+[2023-08-03 19:59:22] [ERROR]     at CommandManager.runCommand (D:\HC项目\zhanghelper\kernel\CommandManager.js:53:14)
+[2023-08-03 19:59:22] [ERROR]     at CommandManager.handleCommand (D:\HC项目\zhanghelper\kernel\CommandManager.js:74:21)
+[2023-08-03 19:59:22] [ERROR]     at MainClient.handleMessage (D:\HC项目\zhanghelper\kernel\MainClient.js:80:47)
+[2023-08-03 19:59:22] [ERROR]     at MainClient.emit (node:events:513:28)
+[2023-08-03 19:59:22] [ERROR]     at Receiver.receiverOnMessage (D:\HC项目\zhanghelper\node_modules\ws\lib\websocket.js:1184:20)
+[2023-08-03 19:59:22] [ERROR]     at Receiver.emit (node:events:513:28)
+[2023-08-03 19:59:22] [ERROR]     at Receiver.dataMessage (D:\HC项目\zhanghelper\node_modules\ws\lib\receiver.js:541:14)
+[2023-08-03 19:59:22] [ERROR]     at Receiver.getData (D:\HC项目\zhanghelper\node_modules\ws\lib\receiver.js:459:17)
+[2023-08-03 19:59:22] [ERROR]     at Receiver.startLoop (D:\HC项目\zhanghelper\node_modules\ws\lib\receiver.js:158:22)
+[2023-08-03 19:59:22] [INFO] 24abot_EsBBn#2ZQ3+0: @24aa__ Current permission: Owner
+[2023-08-03 19:59:22] [INFO] Available commands:
+[2023-08-03 19:59:22] [INFO] > #help, #ban, #kick, #addtrusted, #removetrusted, #reload, #debug, #addop, #removeop
+[2023-08-03 19:59:22] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 抱歉，我在处理你的请求时，出现了未知问题。
+[2023-08-03 19:59:32] [INFO] 24aa__#2ZQ3+0: #reload
+[2023-08-03 19:59:33] [INFO] 24abot_EsBBn#2ZQ3+0: >✅
+[2023-08-03 19:59:33] [INFO] >Reload Success
+[2023-08-03 19:59:36] [INFO] 24aa__#2ZQ3+0: oggo
+[2023-08-03 19:59:38] [INFO] MrZhang365#vtFJUL: 草
+[2023-08-03 19:59:38] [INFO] 24aa__#2ZQ3+0: lemee test
+[2023-08-03 19:59:39] [INFO] MrZhang365#vtFJUL: BUG
+[2023-08-03 19:59:41] [INFO] 24aa__#2ZQ3+0: if exception
+[2023-08-03 19:59:54] [INFO] 24aa__#2ZQ3+0: #reload
+[2023-08-03 19:59:54] [INFO] 24abot_EsBBn#2ZQ3+0: >❌
+[2023-08-03 19:59:54] [INFO] >Reload failed, reason wroted to the logs.
+[2023-08-03 19:59:58] [INFO] 24aa__#2ZQ3+0: oggo!
+[2023-08-03 20:00:02] [INFO] 24aa__#2ZQ3+0: oggo!
+[2023-08-03 20:00:04] [INFO] 24aa__#2ZQ3+0: #reload
+[2023-08-03 20:00:05] [INFO] 24abot_EsBBn#2ZQ3+0: >✅
+[2023-08-03 20:00:05] [INFO] >Reload Success
+[2023-08-03 20:00:10] [INFO] MrZhang365#vtFJUL: ^reload
+[2023-08-03 20:00:10] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 你是想篡权夺位么？
+[2023-08-03 20:00:14] [INFO] MrZhang365#vtFJUL: ？？？？？？？？？？？
+[2023-08-03 20:00:51] [INFO] Initializing kernel
+[2023-08-03 20:00:51] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-03 20:00:51] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-03 20:00:51] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-03 20:00:52] [INFO] 14 command module(s) will be initialized
+[2023-08-03 20:00:52] [INFO] Initialized allmsg.js
+[2023-08-03 20:00:52] [INFO] Initialized ban.js
+[2023-08-03 20:00:52] [INFO] Initialized block.js
+[2023-08-03 20:00:52] [INFO] Initialized clearmsg.js
+[2023-08-03 20:00:52] [INFO] Initialized gpt.js
+[2023-08-03 20:00:52] [INFO] Initialized help.js
+[2023-08-03 20:00:52] [INFO] Initialized kick.js
+[2023-08-03 20:00:52] [INFO] Initialized msg.js
+[2023-08-03 20:00:52] [INFO] Initialized nsfw.js
+[2023-08-03 20:00:52] [INFO] Initialized op.js
+[2023-08-03 20:00:52] [INFO] Initialized read.js
+[2023-08-03 20:00:52] [INFO] Initialized reload.js
+[2023-08-03 20:00:52] [INFO] Initialized stop.js
+[2023-08-03 20:00:52] [INFO] Initialized version.js
+[2023-08-03 20:00:52] [INFO] Initialized 14 command(s)
+[2023-08-03 20:00:52] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-03 20:00:52] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-03 20:00:52] [INFO] Added a hook for chat, the level is 25
+[2023-08-03 20:00:52] [INFO] Kernel initialization completed
+[2023-08-03 20:00:52] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-03 20:00:52] [INFO] Joining to ?your-channel
+[2023-08-03 20:00:52] [INFO] Users online: mbot, uwuOS_ByQiu_284, NokiaHC95410, MaggieRecordV26543, Radium_kuuu, 4w4__, gygogyu, flaugh, await25, RK37__, 123, MrZhang365, RoastPig, leo, zzChomo, 24aa__, bruh, 0x24aHCAdapter4278, 24abot_EsBBn, ZhangHelper365
+[2023-08-03 20:01:00] [INFO] MrZhang365#vtFJUL: ^ban @MrZhang365 @24aa__ 
+[2023-08-03 20:01:00] [INFO] MrZhang365#vtFJUL is running ban command, args: ^ban @MrZhang365 @24aa__ 
+[2023-08-03 20:01:00] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 MrZhang365 已经被封禁了
+[2023-08-03 20:01:02] [INFO] 24aa__#2ZQ3+0: #reload
+[2023-08-03 20:01:04] [INFO] 24abot_EsBBn#2ZQ3+0: >✅
+[2023-08-03 20:01:04] [INFO] >Reload Success
+[2023-08-03 20:01:07] [INFO] 24aa__#2ZQ3+0: #addtrusted 2ZQ3+0
+[2023-08-03 20:01:08] [INFO] 24abot_EsBBn#2ZQ3+0: >✅
+[2023-08-03 20:01:08] [INFO] >Added Trusted
+[2023-08-03 20:01:16] [INFO] 24aa__#2ZQ3+0: #addtrusted vtFJUL
+[2023-08-03 20:01:17] [INFO] 24abot_EsBBn#2ZQ3+0: >✅
+[2023-08-03 20:01:17] [INFO] >Added Trusted
+[2023-08-03 20:01:18] [INFO] MrZhang365#vtFJUL: ^ban @24abot_EsBBn @RK37__ 
+[2023-08-03 20:01:18] [INFO] MrZhang365#vtFJUL is running ban command, args: ^ban @24abot_EsBBn @RK37__ 
+[2023-08-03 20:01:18] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:01:18] [INFO] .m kick RK37__ 24abot_EsBBn
+[2023-08-03 20:01:18] [INFO] ZhangHelper365#vtFJUL: MrZhang365 封禁了以下hash：
+[2023-08-03 20:01:18] [INFO] - EM4Wt2AjeRvH+2g
+[2023-08-03 20:01:18] [INFO] - 1+MsQUTI5bGciX/
+[2023-08-03 20:01:18] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:01:18] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:01:19] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:01:19] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:01:19] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:01:19] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:01:19] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:01:19] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:01:19] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:01:19] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:01:20] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:01:20] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:01:20] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:01:20] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:01:20] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:01:20] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:01:21] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:01:21] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:01:21] [INFO] MrZhang365#vtFJUL: OK
+[2023-08-03 20:01:21] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:01:21] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:01:21] [WARN] Server: You are sending too much text. Wait a moment and try again.
+[2023-08-03 20:01:21] [WARN] Press the up arrow key to restore your last message.
+[2023-08-03 20:01:21] [INFO] 363bf160a9e1462 joined
+[2023-08-03 20:01:22] [INFO] 363bf160a9e1462 left
+[2023-08-03 20:01:22] [INFO] 24aa__#2ZQ3+0: XD
+[2023-08-03 20:19:29] [INFO] Initializing kernel
+[2023-08-03 20:19:29] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-03 20:19:29] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-03 20:19:29] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-03 20:19:29] [INFO] 15 command module(s) will be initialized
+[2023-08-03 20:19:29] [INFO] Initialized allmsg.js
+[2023-08-03 20:19:29] [INFO] Initialized ban.js
+[2023-08-03 20:19:29] [INFO] Initialized block.js
+[2023-08-03 20:19:29] [INFO] Initialized clearmsg.js
+[2023-08-03 20:19:29] [INFO] Initialized gpt.js
+[2023-08-03 20:19:29] [INFO] Initialized help.js
+[2023-08-03 20:19:29] [INFO] Initialized kick.js
+[2023-08-03 20:19:29] [INFO] Initialized listban.js
+[2023-08-03 20:19:29] [INFO] Initialized msg.js
+[2023-08-03 20:19:29] [INFO] Initialized op.js
+[2023-08-03 20:19:29] [INFO] Initialized read.js
+[2023-08-03 20:19:29] [INFO] Initialized reload.js
+[2023-08-03 20:19:29] [INFO] Initialized stop.js
+[2023-08-03 20:19:29] [INFO] Initialized unban.js
+[2023-08-03 20:19:29] [INFO] Initialized version.js
+[2023-08-03 20:19:29] [INFO] Initialized 15 command(s)
+[2023-08-03 20:19:29] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-03 20:19:29] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-03 20:19:29] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-03 20:19:29] [INFO] Added a hook for chat, the level is 25
+[2023-08-03 20:19:29] [INFO] Kernel initialization completed
+[2023-08-03 20:19:35] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-03 20:19:35] [INFO] Joining to ?your-channel
+[2023-08-03 20:19:35] [INFO] Users online: mbot, NokiaHC95410, MaggieRecordV26543, Radium_kuuu, 4w4__, gygogyu, flaugh, await25, RK37__, 123, MrZhang365, leo, zzChomo, 24aa__, 0x24aHCAdapter4278, 24abot_EsBBn, sindhu, Turu, chandu, ZhangHelper365
+[2023-08-03 20:19:40] [INFO] MrZhang365#vtFJUL: starting
+[2023-08-03 20:19:41] [INFO] mike11111_ joined
+[2023-08-03 20:19:44] [INFO] MrZhang365#vtFJUL: ^listban
+[2023-08-03 20:19:44] [INFO] MrZhang365#vtFJUL is running listban command, args: ^listban
+[2023-08-03 20:19:44] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 下面是被封禁的hash：
+[2023-08-03 20:19:44] [INFO] - 
+[2023-08-03 20:19:46] [INFO] mike11111_#KDCi5E: 踢我干什么？
+[2023-08-03 20:19:48] [INFO] MrZhang365#vtFJUL: 草？
+[2023-08-03 20:19:48] [INFO] Turu#: zzzzzzzz
+[2023-08-03 20:19:56] [INFO] chandu#: @sindhu hi
+[2023-08-03 20:19:57] [INFO] MrZhang365#vtFJUL: 草
+[2023-08-03 20:20:01] [INFO] MrZhang365#vtFJUL: ^help
+[2023-08-03 20:20:01] [INFO] MrZhang365#vtFJUL is running help command, args: ^help
+[2023-08-03 20:20:01] [INFO] Server: You whispered to @MrZhang365: .
+[2023-08-03 20:20:01] [INFO] # 所有命令
+[2023-08-03 20:20:01] [INFO] |等级：|命令：|
+[2023-08-03 20:20:01] [INFO] |---:|:---|
+[2023-08-03 20:20:01] [INFO] |用户：|allmsg, clearmsg, gpt, help, listban, msg, read, version|
+[2023-08-03 20:20:01] [INFO] |协管：|ban, block, kick, op, unban|
+[2023-08-03 20:20:01] [INFO] |超级管理员：|reload, stop|
+[2023-08-03 20:20:01] [INFO] ---
+[2023-08-03 20:20:01] [INFO] 要获取指定命令的帮助信息，请使用：
+[2023-08-03 20:20:01] [INFO] `^help 命令名`
+[2023-08-03 20:20:08] [INFO] mike11111_#KDCi5E: ^help
+[2023-08-03 20:20:08] [INFO] mike11111_#KDCi5E is running help command, args: ^help
+[2023-08-03 20:20:08] [INFO] Server: You whispered to @mike11111_: .
+[2023-08-03 20:20:08] [INFO] # 所有命令
+[2023-08-03 20:20:08] [INFO] |等级：|命令：|
+[2023-08-03 20:20:08] [INFO] |---:|:---|
+[2023-08-03 20:20:08] [INFO] |用户：|allmsg, clearmsg, gpt, help, listban, msg, read, version|
+[2023-08-03 20:20:08] [INFO] |协管：|ban, block, kick, op, unban|
+[2023-08-03 20:20:08] [INFO] |超级管理员：|reload, stop|
+[2023-08-03 20:20:08] [INFO] ---
+[2023-08-03 20:20:08] [INFO] 要获取指定命令的帮助信息，请使用：
+[2023-08-03 20:20:08] [INFO] `^help 命令名`
+[2023-08-03 20:20:09] [INFO] MrZhang365#vtFJUL: >KDCi5E mike11111_：
+[2023-08-03 20:20:09] [INFO] >踢我干什么？
+[2023-08-03 20:20:09] [INFO] 
+[2023-08-03 20:20:09] [INFO] @mike11111_ 你令人反感 你不知道？
+[2023-08-03 20:20:18] [INFO] mike11111_#KDCi5E: Emm
+[2023-08-03 20:20:18] [INFO] MrZhang365#vtFJUL: ^ban @mike11111_ 
+[2023-08-03 20:20:18] [INFO] MrZhang365#vtFJUL is running ban command, args: ^ban @mike11111_ 
+[2023-08-03 20:20:18] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:20:18] [INFO] .m kick mike11111_
+[2023-08-03 20:20:18] [INFO] ZhangHelper365#vtFJUL: MrZhang365 封禁了以下hash：
+[2023-08-03 20:20:18] [INFO] - Fx1KyPZo1mT8yfG
+[2023-08-03 20:20:18] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:20:18] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:20:18] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:20:18] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:20:18] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:20:18] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:20:19] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:20:19] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:20:19] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:20:19] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:20:20] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:20:20] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:20:20] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:20:20] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:20:20] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:20:20] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:20:20] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:20:20] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:20:21] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:20:21] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:20:21] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:20:21] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:20:21] [INFO] 123#6Xgj9g: ^help
+[2023-08-03 20:20:21] [INFO] 123#6Xgj9g is running help command, args: ^help
+[2023-08-03 20:20:21] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:20:21] [INFO] 抱歉，这好像不在我的工作范围之内。
+[2023-08-03 20:20:22] [WARN] Server: You are sending too much text. Wait a moment and try again.
+[2023-08-03 20:20:22] [WARN] Press the up arrow key to restore your last message.
+[2023-08-03 20:20:22] [WARN] Server: You are being rate-limited or blocked.
+[2023-08-03 20:21:35] [INFO] Initializing kernel
+[2023-08-03 20:21:35] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-03 20:21:35] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-03 20:21:35] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-03 20:21:35] [INFO] 15 command module(s) will be initialized
+[2023-08-03 20:21:35] [INFO] Initialized allmsg.js
+[2023-08-03 20:21:35] [INFO] Initialized ban.js
+[2023-08-03 20:21:35] [INFO] Initialized block.js
+[2023-08-03 20:21:35] [INFO] Initialized clearmsg.js
+[2023-08-03 20:21:35] [INFO] Initialized gpt.js
+[2023-08-03 20:21:35] [INFO] Initialized help.js
+[2023-08-03 20:21:35] [INFO] Initialized kick.js
+[2023-08-03 20:21:35] [INFO] Initialized listban.js
+[2023-08-03 20:21:35] [INFO] Initialized msg.js
+[2023-08-03 20:21:35] [INFO] Initialized op.js
+[2023-08-03 20:21:35] [INFO] Initialized read.js
+[2023-08-03 20:21:35] [INFO] Initialized reload.js
+[2023-08-03 20:21:35] [INFO] Initialized stop.js
+[2023-08-03 20:21:35] [INFO] Initialized unban.js
+[2023-08-03 20:21:35] [INFO] Initialized version.js
+[2023-08-03 20:21:35] [INFO] Initialized 15 command(s)
+[2023-08-03 20:21:35] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-03 20:21:35] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-03 20:21:35] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-03 20:21:35] [INFO] Added a hook for chat, the level is 25
+[2023-08-03 20:21:35] [INFO] Kernel initialization completed
+[2023-08-03 20:21:36] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-03 20:21:36] [INFO] Joining to ?your-channel
+[2023-08-03 20:21:36] [INFO] Users online: mbot, NokiaHC95410, MaggieRecordV26543, Radium_kuuu, 4w4__, gygogyu, flaugh, await25, RK37__, 123, MrZhang365, leo, zzChomo, 24aa__, 0x24aHCAdapter4278, 24abot_EsBBn, Turu, mike11111_, ZhangHelper365
+[2023-08-03 20:21:39] [INFO] RK37__#A8FTOC: 你俩就一直这样吗☆*
+[2023-08-03 20:21:39] [INFO] mike11111_#KDCi5E: 官网
+[2023-08-03 20:21:45] [INFO] mike11111_#KDCi5E: Emm
+[2023-08-03 20:21:45] [INFO] MrZhang365#vtFJUL: ^listban
+[2023-08-03 20:21:45] [INFO] MrZhang365#vtFJUL is running listban command, args: ^listban
+[2023-08-03 20:21:46] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 下面是被封禁的hash：
+[2023-08-03 20:21:46] [INFO] - Fx1KyPZo1mT8yfG
+[2023-08-03 20:21:50] [INFO] MrZhang365#vtFJUL: ^unban aaa
+[2023-08-03 20:21:50] [INFO] MrZhang365#vtFJUL is running unban command, args: ^unban aaa
+[2023-08-03 20:21:50] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 aaa 没有被封禁
+[2023-08-03 20:21:50] [INFO] RK37__#A8FTOC: 不是你走就是他走☆*
+[2023-08-03 20:21:51] [INFO] 123#6Xgj9g: ^help
+[2023-08-03 20:21:51] [INFO] 123#6Xgj9g is running help command, args: ^help
+[2023-08-03 20:21:52] [INFO] Server: You whispered to @123: .
+[2023-08-03 20:21:52] [INFO] # 所有命令
+[2023-08-03 20:21:52] [INFO] |等级：|命令：|
+[2023-08-03 20:21:52] [INFO] |---:|:---|
+[2023-08-03 20:21:52] [INFO] |用户：|allmsg, clearmsg, gpt, help, listban, msg, read, version|
+[2023-08-03 20:21:52] [INFO] |协管：|ban, block, kick, op, unban|
+[2023-08-03 20:21:52] [INFO] |超级管理员：|reload, stop|
+[2023-08-03 20:21:52] [INFO] ---
+[2023-08-03 20:21:52] [INFO] 要获取指定命令的帮助信息，请使用：
+[2023-08-03 20:21:52] [INFO] `^help 命令名`
+[2023-08-03 20:21:53] [INFO] mike11111_#KDCi5E: 你钱也就不要了是吧？
+[2023-08-03 20:21:55] [INFO] MrZhang365#vtFJUL: ^unban Fx1KyPZo1mT8yfG
+[2023-08-03 20:21:55] [INFO] MrZhang365#vtFJUL is running unban command, args: ^unban Fx1KyPZo1mT8yfG
+[2023-08-03 20:21:55] [INFO] ZhangHelper365#vtFJUL: MrZhang365 解封了以下hash：
+[2023-08-03 20:21:55] [INFO] - Fx1KyPZo1mT8yfG
+[2023-08-03 20:21:57] [INFO] MrZhang365#vtFJUL: OK
+[2023-08-03 20:21:58] [INFO] MrZhang365#vtFJUL: 完美
+[2023-08-03 20:21:58] [INFO] mike11111_#KDCi5E: 还要我走是吗？
+[2023-08-03 20:22:01] [INFO] RK37__#A8FTOC: 反正就得留一个呗☆*
+[2023-08-03 20:22:03] [INFO] zzChomo#STuREh: 挖到32了
+[2023-08-03 20:22:05] [INFO] RK37__#A8FTOC: 麻了☆*
+[2023-08-03 20:22:10] [INFO] MrZhang365#vtFJUL: ^kick MrZhang365
+[2023-08-03 20:22:10] [INFO] MrZhang365#vtFJUL is running kick command, args: ^kick MrZhang365
+[2023-08-03 20:22:10] [INFO] mike11111_#KDCi5E: 。
+[2023-08-03 20:22:10] [INFO] Server: You whispered to @mbot: .
+[2023-08-03 20:22:10] [INFO] .m kick MrZhang365
+[2023-08-03 20:22:15] [INFO] RK37__#A8FTOC: @zzChomo 有毅力的☆*
+[2023-08-03 20:22:19] [INFO] MrZhang365#vtFJUL: nice
+[2023-08-03 20:22:24] [INFO] mike11111_#KDCi5E: E
+[2023-08-03 20:22:27] [INFO] RK37__#A8FTOC: 。☆*
+[2023-08-03 20:22:31] [INFO] mike11111_ left
+[2023-08-03 20:22:31] [INFO] Server: Kicked mike11111_
+[2023-08-03 20:22:32] [INFO] RK37__#A8FTOC: ememem☆*
+[2023-08-03 20:22:45] [INFO] mike11111_ joined
+[2023-08-03 20:22:45] [INFO] 123#6Xgj9g: @zzChomo 是不是关掉那个代码就没了（）
+[2023-08-03 20:22:51] [INFO] mike11111_#KDCi5E: 到时候我要找站长，要管理员
+[2023-08-03 20:22:51] [INFO] zzChomo#STuREh: @123 啥
+[2023-08-03 20:22:57] [INFO] mike11111_#KDCi5E: md
+[2023-08-03 20:22:57] [INFO] 24aa__#2ZQ3+0: >KDCi5E mike11111_：
+[2023-08-03 20:22:57] [INFO] >到时候我要找站长，要管理员
+[2023-08-03 20:22:57] [INFO] 
+[2023-08-03 20:22:57] [INFO] @mike11111_ 6
+[2023-08-03 20:23:00] [INFO] zzChomo#STuREh: 咱不会的能不能百度
+[2023-08-03 20:23:02] [INFO] RK37__#A8FTOC: 7☆*
+[2023-08-03 20:23:07] [INFO] mike11111_#KDCi5E: emm
+[2023-08-03 20:23:09] [INFO] RK37__#A8FTOC: 。☆*
+[2023-08-03 20:23:10] [INFO] MrZhang365#vtFJUL: 你太令人反感了
+[2023-08-03 20:23:11] [INFO] 24aa__#2ZQ3+0: 本来还想帮你说几句话
+[2023-08-03 20:23:11] [INFO] mike11111_ left
+[2023-08-03 20:23:11] [INFO] Server: Kicked mike11111_
+[2023-08-03 20:23:13] [INFO] 24aa__#2ZQ3+0: 现在看来
+[2023-08-03 20:23:13] [INFO] RK37__#A8FTOC: ☆*
+[2023-08-03 20:23:13] [INFO] MrZhang365#vtFJUL: 你没有自知之明嘛
+[2023-08-03 20:23:15] [INFO] 24aa__#2ZQ3+0: 活该
+[2023-08-03 20:23:15] [INFO] RK37__#A8FTOC: ☆*
+[2023-08-03 20:23:21] [INFO] RK37__#A8FTOC: STOPPPPP☆*
+[2023-08-03 20:23:23] [INFO] RK37__#A8FTOC: ☆*
+[2023-08-03 20:23:26] [INFO] mike11111_ joined
+[2023-08-03 20:23:29] [INFO] MrZhang365#vtFJUL: 你没有自知之明嘛
+[2023-08-03 20:23:29] [INFO] mike11111_#KDCi5E: 。
+[2023-08-03 20:23:29] [INFO] mike11111_ left
+[2023-08-03 20:23:29] [INFO] Server: Kicked mike11111_
+[2023-08-03 20:23:30] [INFO] MrZhang365#vtFJUL: 你太令人反感了
+[2023-08-03 20:23:32] [INFO] 24aa__#2ZQ3+0: #ban mike11111_
+[2023-08-03 20:23:32] [INFO] 24abot_EsBBn#2ZQ3+0: >✅
+[2023-08-03 20:23:32] [INFO] >Banned hash Fx1KyPZo1mT8yfG
+[2023-08-03 20:23:33] [INFO] 123#6Xgj9g: @zzChomo 挖币的代码
+[2023-08-03 20:23:35] [INFO] MrZhang365#vtFJUL: 容我说一句
+[2023-08-03 20:23:36] [INFO] MrZhang365#vtFJUL: ……
+[2023-08-03 20:47:53] [INFO] Initializing kernel
+[2023-08-03 20:47:53] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-03 20:47:53] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-03 20:47:53] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-03 20:47:53] [INFO] 15 command module(s) will be initialized
+[2023-08-03 20:47:53] [INFO] Initialized allmsg.js
+[2023-08-03 20:47:53] [INFO] Initialized ban.js
+[2023-08-03 20:47:53] [INFO] Initialized block.js
+[2023-08-03 20:47:53] [INFO] Initialized clearmsg.js
+[2023-08-03 20:47:53] [INFO] Initialized gpt.js
+[2023-08-03 20:47:53] [INFO] Initialized help.js
+[2023-08-03 20:47:53] [INFO] Initialized kick.js
+[2023-08-03 20:47:53] [INFO] Initialized listban.js
+[2023-08-03 20:47:53] [INFO] Initialized msg.js
+[2023-08-03 20:47:53] [INFO] Initialized op.js
+[2023-08-03 20:47:53] [INFO] Initialized read.js
+[2023-08-03 20:47:53] [INFO] Initialized reload.js
+[2023-08-03 20:47:53] [INFO] Initialized stop.js
+[2023-08-03 20:47:53] [INFO] Initialized unban.js
+[2023-08-03 20:47:53] [INFO] Initialized version.js
+[2023-08-03 20:47:53] [INFO] Initialized 15 command(s)
+[2023-08-03 20:47:53] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-03 20:47:54] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-03 20:47:54] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-03 20:47:54] [INFO] Added a hook for chat, the level is 25
+[2023-08-03 20:47:54] [INFO] Kernel initialization completed
+[2023-08-03 20:47:56] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-03 20:47:56] [INFO] Joining to ?your-channel
+[2023-08-03 20:47:56] [INFO] Users online: mbot, NokiaHC95410, MaggieRecordV26543, Radium_kuuu, 4w4__, gygogyu, flaugh, await25, RK37__, 123, MrZhang365, leo, zzChomo, 0x24aHCAdapter4278, 24abot_EsBBn, ansh_sanodiya_, 24aa__, ZhangHelper365
+[2023-08-03 20:48:11] [INFO] 24aa__#2ZQ3+0: #reload
+[2023-08-03 20:48:12] [INFO] 24abot_EsBBn#2ZQ3+0: >✅
+[2023-08-03 20:48:12] [INFO] >Reload Success
+[2023-08-03 20:48:18] [INFO] 24aa__#2ZQ3+0: good!
+[2023-08-03 20:48:23] [INFO] 24aa__#2ZQ3+0: now supports whisper
+[2023-08-03 20:48:23] [INFO] MrZhang365#vtFJUL: >vtFJUL MrZhang365：
+[2023-08-03 20:48:23] [INFO] >没有协管权限的不要往上凑
+[2023-08-03 20:48:23] [INFO] 
+[2023-08-03 20:48:23] [INFO] 我看着心烦
+[2023-08-03 20:48:29] [INFO] MrZhang365#vtFJUL: >2ZQ3+0 24aa__：
+[2023-08-03 20:48:29] [INFO] >now supports whisper
+[2023-08-03 20:48:29] [INFO] 
+[2023-08-03 20:48:29] [INFO] @24aa__ 我的已经支持了
+[2023-08-03 20:48:32] [INFO] MrZhang365#vtFJUL: 要不试试？
+[2023-08-03 20:48:37] [INFO] 24aa__#2ZQ3+0: qwq...
+[2023-08-03 20:48:40] [INFO] RK37__#A8FTOC: Mix笔刷塑造伞的质感倒是挺棒的☆*
+[2023-08-03 20:48:49] [INFO] RK37__#A8FTOC: 小味增一下上来了☆*
+[2023-08-03 20:48:49] [INFO] zzChomo#STuREh: 四十一块六毛四
+[2023-08-03 20:48:55] [INFO] 24aa__#2ZQ3+0: @zzChomo 666
+[2023-08-03 20:48:57] [INFO] MrZhang365#vtFJUL: ……
+[2023-08-03 20:49:07] [INFO] 24aa__#2ZQ3+0: i already got 60
+[2023-08-03 20:49:31] [INFO] zzChomo#STuREh: >A8FTOC RK37__：
+[2023-08-03 20:49:31] [INFO] >小味增一下上来了☆*
+[2023-08-03 20:49:31] [INFO] 
+[2023-08-03 20:49:31] [INFO] @RK37__ 什么 味噌 哪里有味噌（
+[2023-08-03 20:49:31] [INFO] MrZhang365#vtFJUL: 。。。
+[2023-08-03 20:49:37] [INFO] RK37__#A8FTOC: @zzChomo 草☆*
+[2023-08-03 20:49:47] [INFO] RK37__#A8FTOC: （）☆*
+[2023-08-03 20:49:51] [INFO] MrZhang365#vtFJUL: awa
+[2023-08-03 20:49:59] [INFO] MrZhang365#vtFJUL: 展示一下ZhangHelper的日志：
+[2023-08-03 20:50:01] [INFO] MrZhang365#vtFJUL: 长信息——
+[2023-08-03 20:50:03] [INFO] zzChomo#STuREh: @24aa__ 我发现colab就一开始能挖
+[2023-08-03 20:50:04] [INFO] RK37__#A8FTOC: em 但Mix是个好笔刷（（）☆*
+[2023-08-03 20:50:07] [INFO] zzChomo#STuREh: 到后面就卡死
+[2023-08-03 20:50:17] [INFO] 24aa__#2ZQ3+0: #reload
+[2023-08-03 20:50:18] [INFO] 24abot_EsBBn#2ZQ3+0: >✅
+[2023-08-03 20:50:18] [INFO] >Reload Success
+[2023-08-03 20:50:29] [INFO] MrZhang365#vtFJUL: ```
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initializing kernel
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] 16 command module(s) will be initialized
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized allmsg.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized ban.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized block.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized clearmsg.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized draw.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized gpt.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized help.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized kick.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized lobby.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized msg.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized nsfw.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized op.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized read.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized reload.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized stop.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized version.js
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Initialized 16 command(s)
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Added a hook for chat, the level is 25
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:33] [INFO] Kernel initialization completed
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:35] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:35] [INFO] Joining to ?your-channel
+[2023-08-03 20:50:29] [INFO] [2023-08-03 19:42:36] [INFO] Users online: mbot, uwuOS_ByQiu_284, NokiaHC95410, MaggieRecordV26543, Radium_kuuu, 0x24aHCAdapter2998, 4w4__, gygogyu, flaugh, await25, RK37__, 123, MrZhang365, RoastPig, 24aa__, zzChomo__, leo, joy, 24abot_KgcJm, ZhangHelper365
+[2023-08-03 20:50:30] [INFO] ansh_sanodiya_ left
+[2023-08-03 20:50:30] [INFO] 24aa__#2ZQ3+0: a
+[2023-08-03 20:50:49] [INFO] RK37__#A8FTOC: em☆*
+[2023-08-03 20:50:58] [INFO] 24aa__#2ZQ3+0: next step:
+[2023-08-03 20:51:01] [INFO] 24aa__#2ZQ3+0: do the AKKKKK
+[2023-08-03 20:51:10] [INFO] MrZhang365#vtFJUL: ...
+[2023-08-03 20:51:12] [INFO] MrZhang365#vtFJUL: >2ZQ3+0 24aa__：
+[2023-08-03 20:51:12] [INFO] >do the AKKKKK
+[2023-08-03 20:51:12] [INFO] 
+[2023-08-03 20:51:12] [INFO] @24aa__ make
+[2023-08-03 20:51:13] [INFO] RK37__#A8FTOC: @24aa__ 要不你试试。zhang等半天没有用这bot（）☆*
+[2023-08-03 20:51:20] [INFO] 24aa__#2ZQ3+0: make the akk
+[2023-08-03 20:51:21] [INFO] RK37__#A8FTOC: （）☆*
+[2023-08-03 20:51:21] [INFO] 24aa__#2ZQ3+0: afk
+[2023-08-03 20:51:23] [INFO] MrZhang365#vtFJUL: ^version
+[2023-08-03 20:51:23] [INFO] MrZhang365#vtFJUL is running version command, args: ^version
+[2023-08-03 20:51:23] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 # 关于 ZhangHelper365 For HackChat
+[2023-08-03 20:51:23] [INFO] 内核：ZhangHelper Kernel
+[2023-08-03 20:51:23] [INFO] 内核版本：1.1.0
+[2023-08-03 20:51:23] [INFO] 内核发布日期：2023-08-03（UTC+08:00）
+[2023-08-03 20:51:23] [INFO] 内核开发者：ZhangSoft（小张软件）
+[2023-08-03 20:51:23] [INFO] 许可证：Apache-2.0
+[2023-08-03 20:51:23] [INFO] 机器人名称：ZhangHelper365 For HackChat
+[2023-08-03 20:51:23] [INFO] 机器人版本：1.2.0
+[2023-08-03 20:51:23] [INFO] 机器人开发者：ZhangSoft（小张软件）
+[2023-08-03 20:51:43] [INFO] MrZhang365#vtFJUL: ^reload
+[2023-08-03 20:51:43] [INFO] MrZhang365#vtFJUL is running reload command, args: ^reload
+[2023-08-03 20:51:43] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-03 20:51:43] [INFO] 15 command module(s) will be initialized
+[2023-08-03 20:51:43] [INFO] Initialized allmsg.js
+[2023-08-03 20:51:43] [INFO] Initialized ban.js
+[2023-08-03 20:51:43] [INFO] Initialized block.js
+[2023-08-03 20:51:43] [INFO] Initialized clearmsg.js
+[2023-08-03 20:51:43] [INFO] Initialized gpt.js
+[2023-08-03 20:51:43] [INFO] Initialized help.js
+[2023-08-03 20:51:43] [INFO] Initialized kick.js
+[2023-08-03 20:51:43] [INFO] Initialized listban.js
+[2023-08-03 20:51:43] [INFO] Initialized msg.js
+[2023-08-03 20:51:43] [INFO] Initialized op.js
+[2023-08-03 20:51:43] [INFO] Initialized read.js
+[2023-08-03 20:51:43] [INFO] Initialized reload.js
+[2023-08-03 20:51:43] [INFO] Initialized stop.js
+[2023-08-03 20:51:43] [INFO] Initialized unban.js
+[2023-08-03 20:51:43] [INFO] Initialized version.js
+[2023-08-03 20:51:43] [INFO] Initialized 15 command(s)
+[2023-08-03 20:51:43] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-03 20:51:43] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-03 20:51:43] [INFO] Added a hook for chat, the level is 25
+[2023-08-03 20:51:44] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 已重载 15 个命令
+[2023-08-03 20:51:45] [INFO] MrZhang365#vtFJUL: ^version
+[2023-08-03 20:51:45] [INFO] MrZhang365#vtFJUL is running version command, args: ^version
+[2023-08-03 20:51:45] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 
+[2023-08-03 20:51:45] [INFO] # 关于 ZhangHelper365 For HackChat
+[2023-08-03 20:51:45] [INFO] 内核：ZhangHelper Kernel
+[2023-08-03 20:51:45] [INFO] 内核版本：1.1.0
+[2023-08-03 20:51:45] [INFO] 内核发布日期：2023-08-03（UTC+08:00）
+[2023-08-03 20:51:45] [INFO] 内核开发者：ZhangSoft（小张软件）
+[2023-08-03 20:51:45] [INFO] 许可证：Apache-2.0
+[2023-08-03 20:51:45] [INFO] 机器人名称：ZhangHelper365 For HackChat
+[2023-08-03 20:51:45] [INFO] 机器人版本：1.2.0
+[2023-08-03 20:51:45] [INFO] 机器人开发者：ZhangSoft（小张软件）
+[2023-08-03 20:54:38] [INFO] zzChomo#STuREh: 四十三块九毛九
+[2023-08-03 20:54:56] [INFO] MrZhang365#vtFJUL: ^msg MrZhang365 留言测试
+[2023-08-03 20:54:56] [INFO] MrZhang365#vtFJUL is running msg command, args: ^msg MrZhang365 留言测试
+[2023-08-03 20:54:56] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 你管这叫识别码？
+[2023-08-03 20:55:02] [INFO] MrZhang365#vtFJUL: ^msg vtFJUL 留言测试
+[2023-08-03 20:55:02] [INFO] MrZhang365#vtFJUL is running msg command, args: ^msg vtFJUL 留言测试
+[2023-08-03 20:55:03] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 我记下来了，当识别码为 vtFJUL 的用户说话的时候，我会提醒TA查看的
+[2023-08-03 20:55:03] [INFO] Server: You whispered to @ZhangHelper365: .
+[2023-08-03 20:55:03] [INFO] hi yo 你有一些留言还没有查看，执行 ^read 即可查看哦
+[2023-08-03 20:55:04] [INFO] MrZhang365#vtFJUL: aaa
+[2023-08-03 20:55:04] [INFO] Server: You whispered to @MrZhang365: .
+[2023-08-03 20:55:04] [INFO] hi yo 你有一些留言还没有查看，执行 ^read 即可查看哦
+[2023-08-03 20:55:07] [INFO] MrZhang365#vtFJUL: ^read
+[2023-08-03 20:55:07] [INFO] MrZhang365#vtFJUL is running read command, args: ^read
+[2023-08-03 20:55:07] [INFO] Server: You whispered to @MrZhang365: .
+[2023-08-03 20:55:07] [INFO] # MrZhang365 的留言板
+[2023-08-03 20:55:07] [INFO] [2023-08-03 20:55:02] MrZhang365#vtFJUL: 留言测试
+[2023-08-03 20:55:10] [INFO] MrZhang365#vtFJUL: ^clearmsg
+[2023-08-03 20:55:10] [INFO] MrZhang365#vtFJUL is running clearmsg command, args: ^clearmsg
+[2023-08-03 20:55:10] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 留言板已经清空啦
+[2023-08-03 20:55:51] [INFO] RK37__#A8FTOC: 啊☆*
+[2023-08-03 20:56:37] [INFO] 4w4__#Myh1TA: 如果别人不反对，我可以给你协管，，，
+[2023-08-03 20:56:47] [INFO] RK37__#A8FTOC: ....☆*
+[2023-08-03 20:57:19] [INFO] MrZhang365#vtFJUL: oh 我发现了GitHub头像地址的奥秘
+[2023-08-03 20:57:20] [INFO] MrZhang365#vtFJUL: https://avatars.githubusercontent.com/u/97789520
+[2023-08-03 20:57:20] [INFO] 4w4__#Myh1TA: ……继续挖矿
+[2023-08-03 20:57:21] [INFO] MrZhang365#vtFJUL: this
+[2023-08-03 20:57:24] [INFO] 4w4__#Myh1TA: 随便挖一挖
+[2023-08-03 20:57:25] [INFO] MrZhang365#vtFJUL: 这个是ee的头像
+[2023-08-03 20:57:31] [INFO] MrZhang365#vtFJUL: 链接规律就是
+[2023-08-03 20:57:37] [INFO] MrZhang365#vtFJUL: https://avatars.githubusercontent.com/u/用户ID
+[2023-08-03 20:57:44] [INFO] 24aa__#2ZQ3+0: #reload
+[2023-08-03 20:57:45] [INFO] 24abot_EsBBn#2ZQ3+0: >✅
+[2023-08-03 20:57:45] [INFO] >Reload Success
+[2023-08-03 20:57:48] [INFO] 24aa__#2ZQ3+0: lemee try
+[2023-08-03 20:58:02] [INFO] 24aa__#2ZQ3+0: not spam,just test
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:02] [INFO] a
+[2023-08-03 20:58:04] [INFO] MrZhang365#vtFJUL: Ohhhhhhhhhhhhhhhhhh
+[2023-08-03 20:58:04] [INFO] 24aa__#2ZQ3+0: ??
+[2023-08-03 20:58:12] [INFO] MrZhang365#vtFJUL: 我的头像显示出来咯
+[2023-08-03 20:58:13] [INFO] 4w4__#Myh1TA: Nim版awacoin
+[2023-08-03 20:58:22] [INFO] 4w4__#Myh1TA: 现已支持查看余额、转账
+[2023-08-03 20:58:24] [INFO] 4w4__#Myh1TA: 但是不支持注册
+[2023-08-03 20:58:31] [INFO] 24aa__#2ZQ3+0: #reload
+[2023-08-03 20:58:32] [INFO] 24abot_EsBBn#2ZQ3+0: >✅
+[2023-08-03 20:58:32] [INFO] >Reload Success
+[2023-08-03 20:58:34] [INFO] 24aa__#2ZQ3+0: not spam,just test
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] a
+[2023-08-03 20:58:34] [INFO] RK37__#A8FTOC: emem☆*
+[2023-08-03 20:58:34] [INFO] 24abot_EsBBn#2ZQ3+0: @24aa__ AKKKKK!!!
+[2023-08-03 20:58:38] [INFO] 24aa__#2ZQ3+0: not spam,just test
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:38] [INFO] a
+[2023-08-03 20:58:39] [INFO] 24abot_EsBBn#2ZQ3+0: @24aa__ AKKKKK!!!
+[2023-08-03 20:58:42] [INFO] 24aa__#2ZQ3+0: not spam,just test
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] a
+[2023-08-03 20:58:42] [INFO] RK37__#A8FTOC: 酷☆*
+[2023-08-03 20:58:42] [INFO] 24abot_EsBBn#2ZQ3+0: @24aa__ AKKKKK!!!
+[2023-08-03 20:58:44] [INFO] 24aa__#2ZQ3+0: ???
+[2023-08-03 20:58:47] [INFO] 24aa__#2ZQ3+0: why not kick???
+[2023-08-03 20:58:59] [INFO] 24aa__#2ZQ3+0: thisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistest
+[2023-08-03 20:58:59] [INFO] 24abot_EsBBn#2ZQ3+0: @24aa__ AKKKKK!!!
+[2023-08-03 20:58:59] [INFO] 24aa__#2ZQ3+0: thisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistestthisistest
+[2023-08-03 20:59:00] [INFO] 24abot_EsBBn#2ZQ3+0: @24aa__ Bye~
+[2023-08-03 20:59:03] [INFO] 24aa__ left
+[2023-08-03 20:59:07] [INFO] 24aa__ joined
+[2023-08-03 20:59:07] [INFO] 24aa__#2ZQ3+0: good
+[2023-08-03 20:59:23] [INFO] 24aa__#2ZQ3+0: wait
+[2023-08-03 20:59:25] [INFO] 4w4__#Myh1TA: 我要做一个大胆的尝试
+[2023-08-03 20:59:28] [INFO] 24aa__#2ZQ3+0: i didnt kicked by mbot
+[2023-08-03 20:59:51] [INFO] 24aa__#2ZQ3+0: #reload
+[2023-08-03 20:59:52] [INFO] 24abot_EsBBn#2ZQ3+0: >✅
+[2023-08-03 20:59:52] [INFO] >Reload Success
+[2023-08-03 20:59:54] [INFO] 24aa__#2ZQ3+0: afk shower
+[2023-08-03 20:59:58] [INFO] 4w4__#Myh1TA: 把i的遍历顺序倒过来
+[2023-08-03 21:00:03] [INFO] 4w4__#Myh1TA: 是不是会提高效率（（
+[2023-08-03 21:00:08] [INFO] 4w4__#Myh1TA: 数学上来说不可能
+[2023-08-03 21:00:12] [INFO] 4w4__#Myh1TA: 但是我感觉似乎有可能
+[2023-08-03 21:00:30] [INFO] 4w4__#Myh1TA: 唉
+[2023-08-03 21:00:34] [INFO] 4w4__#Myh1TA: 这么挖也太慢了，，，
+[2023-08-03 21:00:41] [INFO] 4w4__#Myh1TA: 初墨为啥能挖的这么多呢
+[2023-08-03 21:02:07] [INFO] 24aa__ left
+[2023-08-03 21:02:10] [INFO] 24aa joined
+[2023-08-03 21:02:36] [INFO] 4w4__#Myh1TA: md
+[2023-08-03 21:02:38] [INFO] MrZhang365#vtFJUL: [![pPFeUgJ.png](https://s1.ax1x.com/2023/08/03/pPFeUgJ.png)](https://imgse.com/i/pPFeUgJ)
+[2023-08-03 21:02:40] [INFO] MrZhang365#vtFJUL: 如图
+[2023-08-03 21:02:40] [INFO] 4w4__#Myh1TA: 挖矿还真是让人着迷
+[2023-08-03 21:02:48] [INFO] MrZhang365#vtFJUL: 刚刚尝试给评论区加上头像
+[2023-08-03 21:02:56] [INFO] MrZhang365#vtFJUL: 于是就有了巨型头像
+[2023-08-03 21:03:15] [INFO] MrZhang365#vtFJUL: 总之
+[2023-08-03 21:03:17] [INFO] MrZhang365#vtFJUL: 特别无语
+[2023-08-03 21:03:52] [INFO] MrZhang365#vtFJUL: 不过这也初步证明了方案可行
+[2023-08-03 21:04:05] [INFO] RK37__#A8FTOC: 草☆*
+[2023-08-03 21:04:06] [INFO] MrZhang365#vtFJUL: 只需要用css调整一下
+[2023-08-03 21:04:10] [INFO] MrZhang365#vtFJUL: 尺寸
+[2023-08-03 21:04:30] [INFO] 4w4__#Myh1TA: md
+[2023-08-03 21:04:33] [INFO] 4w4__#Myh1TA: 我为什么要为了一个
+[2023-08-03 21:04:37] [INFO] 4w4__#Myh1TA: 没用的东西
+[2023-08-03 21:04:40] [INFO] 4w4__#Myh1TA: 浪费电脑的寿命
+[2023-08-03 21:04:52] [INFO] 4w4__#Myh1TA: 我突然想到一个好办法
+[2023-08-03 21:04:54] [INFO] 4w4__#Myh1TA: Nim可以编译
+[2023-08-03 21:04:57] [INFO] 4w4__#Myh1TA: 别人看不到源码
+[2023-08-03 21:05:06] [INFO] 4w4__#Myh1TA: 我发布矿机，但是让矿机同时替我挖矿
+[2023-08-03 21:05:12] [INFO] 4w4__#Myh1TA: （（（
+[2023-08-03 21:05:23] [INFO] 4w4__#Myh1TA: （开玩笑的
+[2023-08-03 21:05:53] [INFO] 4w4__#Myh1TA: 我又想到一个和方法
+[2023-08-03 21:05:54] [INFO] 4w4__#Myh1TA: 好方法
+[2023-08-03 21:06:08] [INFO] 4w4__#Myh1TA: 发布一个炸HC的工具，或者类似的工具给ice、23他们
+[2023-08-03 21:06:11] [INFO] 4w4__#Myh1TA: 让他们替我挖矿
+[2023-08-03 21:06:15] [INFO] RK37__#A8FTOC: 我靠☆*
+[2023-08-03 21:06:24] [INFO] RK37__#A8FTOC: 我电脑又在嘶吼☆*
+[2023-08-03 21:06:46] [INFO] 24aab joined
+[2023-08-03 21:06:48] [INFO] 24aab#2ZQ3+0: #help
+[2023-08-03 21:06:53] [INFO] 24aab#2ZQ3+0: ??
+[2023-08-03 21:06:53] [INFO] 4w4__#Myh1TA: >Myh1TA 4w4__：
+[2023-08-03 21:06:53] [INFO] >md
+[2023-08-03 21:06:54] [INFO] 666 joined
+[2023-08-03 21:06:57] [INFO] 666#NTThcC: hi
+[2023-08-03 21:06:58] [INFO] 4w4__#Myh1TA: @24aab 你看看历史记录（
+[2023-08-03 21:07:03] [INFO] 24aab#2ZQ3+0: i think i need a ping thread
+[2023-08-03 21:07:26] [INFO] 24aab#2ZQ3+0: 66
+[2023-08-03 21:07:27] [INFO] 24aab#2ZQ3+0: nbnb
+[2023-08-03 21:08:03] [INFO] MrZhang365#vtFJUL: nm
+[2023-08-03 21:08:44] [INFO] MrZhang365#vtFJUL: 气死我了
+[2023-08-03 21:09:31] [INFO] 24abot_YTddz joined
+[2023-08-03 21:09:31] [INFO] 24abot_YTddz left
+[2023-08-03 21:09:34] [INFO] 24abot_ZoAbz joined
+[2023-08-03 21:09:52] [INFO] Initializing kernel
+[2023-08-03 21:09:52] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-03 21:09:52] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-03 21:09:52] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-03 21:09:52] [INFO] 15 command module(s) will be initialized
+[2023-08-03 21:09:52] [INFO] Initialized allmsg.js
+[2023-08-03 21:09:52] [INFO] Initialized ban.js
+[2023-08-03 21:09:52] [INFO] Initialized block.js
+[2023-08-03 21:09:52] [INFO] Initialized clearmsg.js
+[2023-08-03 21:09:52] [INFO] Initialized gpt.js
+[2023-08-03 21:09:52] [INFO] Initialized help.js
+[2023-08-03 21:09:52] [INFO] Initialized kick.js
+[2023-08-03 21:09:52] [INFO] Initialized listban.js
+[2023-08-03 21:09:52] [INFO] Initialized msg.js
+[2023-08-03 21:09:52] [INFO] Initialized op.js
+[2023-08-03 21:09:52] [INFO] Initialized read.js
+[2023-08-03 21:09:52] [INFO] Initialized reload.js
+[2023-08-03 21:09:52] [INFO] Initialized stop.js
+[2023-08-03 21:09:52] [INFO] Initialized unban.js
+[2023-08-03 21:09:52] [INFO] Initialized version.js
+[2023-08-03 21:09:52] [INFO] Initialized 15 command(s)
+[2023-08-03 21:09:52] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-03 21:09:52] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-03 21:09:52] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-03 21:09:52] [INFO] Added a hook for chat, the level is 25
+[2023-08-03 21:09:52] [INFO] Kernel initialization completed
+[2023-08-03 21:09:53] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-03 21:09:53] [INFO] Joining to ?your-channel
+[2023-08-03 21:09:54] [INFO] Users online: mbot, NokiaHC95410, MaggieRecordV26543, Radium_kuuu, 4w4__, gygogyu, flaugh, await25, RK37__, 123, MrZhang365, leo, zzChomo, 0x24aHCAdapter4278, 24abot_EsBBn, 24aa, 24aab, 666, 24abot_ZoAbz, ZhangHelper365
+[2023-08-03 21:09:56] [INFO] 24aab#2ZQ3+0: #help
+[2023-08-03 21:09:57] [INFO] 24abot_ZoAbz#2ZQ3+0: @24aab Current permission: Owner
+[2023-08-03 21:09:57] [INFO] Available commands:
+[2023-08-03 21:09:57] [INFO] > #help, #listtrusted, #listops, #listbanned, #getignore, #ban, #kick, #addtrusted, #removetrusted, #captcha, #lockroom, #reload, #debug, #addop, #removeop
+[2023-08-03 21:09:57] [INFO] 24abot_ZoAbz#2ZQ3+0: @24abot_ZoAbz AKKKKK!!!
+[2023-08-03 21:10:01] [INFO] 24abot_ZoAbz left
+[2023-08-03 21:10:02] [INFO] 24aab#2ZQ3+0: ?6
+[2023-08-03 21:10:04] [INFO] 24abot_KAAOm joined
+[2023-08-03 21:10:15] [INFO] MrZhang365#vtFJUL: 就没人看看ZhangHelper?
+[2023-08-03 21:10:19] [INFO] MrZhang365#vtFJUL: 这令我心凉
+[2023-08-03 21:10:27] [INFO] 24aab#2ZQ3+0: qwq 我没有nodejs
+[2023-08-03 21:10:31] [INFO] 24abot_KAAOm left
+[2023-08-03 21:10:35] [INFO] 24abot_SMBVs joined
+[2023-08-03 21:10:36] [INFO] 24abot_SMBVs left
+[2023-08-03 21:10:40] [INFO] MrZhang365#vtFJUL: qwq别跟我说你卸载了nodejs
+[2023-08-03 21:10:49] [INFO] MrZhang365#vtFJUL: 我记得你上次还测试了我写的AuthBot
+[2023-08-03 21:10:59] [INFO] 24aab#2ZQ3+0: 有没有一种可能
+[2023-08-03 21:11:02] [INFO] 24aab#2ZQ3+0: 我换电脑了
+[2023-08-03 21:11:03] [INFO] MrZhang365#vtFJUL: ……
+[2023-08-03 21:12:42] [INFO] 24abot_eKCwl joined
+[2023-08-03 21:12:42] [INFO] 24abot_eKCwl left
+[2023-08-03 21:12:46] [INFO] 24abot_Uzdav joined
+[2023-08-03 21:12:50] [INFO] Initializing kernel
+[2023-08-03 21:12:50] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-03 21:12:50] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-03 21:12:50] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-03 21:12:50] [INFO] 15 command module(s) will be initialized
+[2023-08-03 21:12:50] [INFO] Initialized allmsg.js
+[2023-08-03 21:12:50] [INFO] Initialized ban.js
+[2023-08-03 21:12:50] [INFO] Initialized block.js
+[2023-08-03 21:12:50] [INFO] Initialized clearmsg.js
+[2023-08-03 21:12:50] [INFO] Initialized gpt.js
+[2023-08-03 21:12:50] [INFO] Initialized help.js
+[2023-08-03 21:12:50] [INFO] Initialized kick.js
+[2023-08-03 21:12:50] [INFO] Initialized listban.js
+[2023-08-03 21:12:50] [INFO] Initialized msg.js
+[2023-08-03 21:12:50] [INFO] Initialized op.js
+[2023-08-03 21:12:50] [INFO] Initialized read.js
+[2023-08-03 21:12:50] [INFO] Initialized reload.js
+[2023-08-03 21:12:50] [INFO] Initialized stop.js
+[2023-08-03 21:12:50] [INFO] Initialized unban.js
+[2023-08-03 21:12:50] [INFO] Initialized version.js
+[2023-08-03 21:12:50] [INFO] Initialized 15 command(s)
+[2023-08-03 21:12:50] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-03 21:12:50] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-03 21:12:50] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-03 21:12:50] [INFO] Added a hook for chat, the level is 25
+[2023-08-03 21:12:50] [INFO] Kernel initialization completed
+[2023-08-03 21:12:52] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-03 21:12:52] [INFO] Joining to ?your-channel
+[2023-08-03 21:12:52] [INFO] Users online: mbot, NokiaHC95410, MaggieRecordV26543, Radium_kuuu, 4w4__, gygogyu, flaugh, await25, RK37__, 123, MrZhang365, leo, zzChomo, 0x24aHCAdapter4278, 24abot_EsBBn, 24aa, 24aab, 666, ZhangHelper365
+[2023-08-03 21:14:08] [INFO] 24abot_WcMNS joined
+[2023-08-03 21:14:09] [INFO] 24abot_WcMNS left
+[2023-08-03 21:14:37] [INFO] 24abot_EKHjJ joined
+[2023-08-03 21:14:38] [INFO] 24abot_EKHjJ left
+[2023-08-03 21:14:41] [INFO] 24abot_Kllsf joined
+[2023-08-03 21:15:08] [INFO] 24abot_Kllsf left
+[2023-08-03 21:15:11] [INFO] 24abot_mBabV joined
+[2023-08-03 21:15:28] [INFO] 24abot_mBabV left
+[2023-08-03 21:15:31] [INFO] 24aab#2ZQ3+0: ???
+[2023-08-03 21:15:45] [INFO] 24aa left
+[2023-08-03 21:15:45] [INFO] 24abot_EsBBn left
+[2023-08-03 21:15:50] [INFO] 24abot_uLioH joined
+[2023-08-03 21:16:04] [INFO] 24aab#2ZQ3+0: finally
+[2023-08-03 21:16:10] [INFO] 24aab#2ZQ3+0: no fadianing
+[2023-08-03 21:16:15] [INFO] 24aab#2ZQ3+0: #help
+[2023-08-03 21:16:16] [INFO] 24abot_uLioH#2ZQ3+0: @24aab Current permission: Owner
+[2023-08-03 21:16:16] [INFO] Available commands:
+[2023-08-03 21:16:16] [INFO] > #help, #listtrusted, #listops, #listbanned, #getignore, #ban, #kick, #addtrusted, #removetrusted, #captcha, #lockroom, #reload, #debug, #addop, #removeop
+[2023-08-03 21:16:17] [INFO] 24abot_uLioH#2ZQ3+0: @24abot_uLioH AKKKKK!!!
+[2023-08-03 21:16:21] [INFO] 24aab#2ZQ3+0: 6
+[2023-08-03 21:16:37] [INFO] MrZhang365#vtFJUL: ^stop fuck you
+[2023-08-03 21:16:37] [INFO] MrZhang365#vtFJUL is running stop command, args: ^stop fuck you
+[2023-08-03 21:16:37] [INFO] ZhangHelper365#vtFJUL: @MrZhang365 我将在5秒后停止运行
+[2023-08-03 21:16:42] [INFO] Stopping kernel, code: 0

@@ -1,0 +1,329 @@
+[32m[2023-06-26 03:59:35] [INFO] [39mInitializing kernel
+[32m[2023-06-26 03:59:35] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-26 03:59:35] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-26 03:59:35] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-26 03:59:35] [INFO] [39m13 command module(s) will be initialized
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized allmsg.js
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized ban.js
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized block.js
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized clearmsg.js
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized gpt.js
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized help.js
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized kick.js
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized msg.js
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized op.js
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized read.js
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized reload.js
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized stop.js
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized version.js
+[32m[2023-06-26 03:59:35] [INFO] [39mInitialized 13 command(s)
+[32m[2023-06-26 03:59:35] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-26 03:59:35] [INFO] [39mAdded a hook for onlineAdd, the level is 0
+[32m[2023-06-26 03:59:35] [INFO] [39mAdded a hook for chat, the level is 25
+[32m[2023-06-26 03:59:35] [INFO] [39mKernel initialization completed
+[32m[2023-06-26 03:59:38] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-26 03:59:38] [INFO] [39mJoining to ?chat
+[32m[2023-06-26 03:59:39] [INFO] [39mUsers online: CaptchaBot, DLBot, dr0_logbot_in_ee_server, hlg123, Lithium, Arwen, MelonCmd_bot, sus, ZHR, PaperDr0, 灯确吉L, 404, zzChumo_小米平板5Pro, ZhangHelper365
+[32m[2023-06-26 03:59:40] [INFO] [39m{"nick":"MelonCmd_bot","trip":"cmd152","utype":"channelOwner","hash":"pGg/4DynklVlVCG","level":1,"userid":9178751508100,"channel":"chat","client":"小张聊天室桌面版","isme":false}
+[32m[2023-06-26 03:59:40] [INFO] [39mMelonCmd_bot#cmd152:  # 傻逼 ZhangHelper365 的档案
+[32m[2023-06-26 03:59:40] [INFO] [39m昵称#识别码：ZhangHelper365#Zhang+
+[32m[2023-06-26 03:59:40] [INFO] [39m用户类型：mod
+[32m[2023-06-26 03:59:40] [INFO] [39m客户端：未知客户端
+[32m[2023-06-26 03:59:40] [INFO] [39m系统认证：小张软件总程序员｜小张聊天室建立者 | ==傻逼==
+[32m[2023-06-26 03:59:47] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 03:59:47] [INFO] [39mZHR#Zhang+: ^help gpt
+[32m[2023-06-26 03:59:47] [INFO] [39mZHR#Zhang+ is running help command, args: ^help gpt
+[32m[2023-06-26 03:59:48] [INFO] [39mServer: 由于您发送的私信过长，所以信息会在 1 秒后发送
+[32m[2023-06-26 03:59:49] [INFO] [39mServer: 你向 @ZHR 发送私信: .
+[32m[2023-06-26 03:59:49] [INFO] [39mgpt 命令：
+[32m[2023-06-26 03:59:49] [INFO] [39m| | |
+[32m[2023-06-26 03:59:49] [INFO] [39m|---:|:---|
+[32m[2023-06-26 03:59:49] [INFO] [39m|名称：|gpt|
+[32m[2023-06-26 03:59:49] [INFO] [39m|开发者：|ZhangSoft|
+[32m[2023-06-26 03:59:49] [INFO] [39m|权限：|1|
+[32m[2023-06-26 03:59:49] [INFO] [39m|说明：|向ChatGPT发送信息|
+[32m[2023-06-26 03:59:49] [INFO] [39m|用法：|^gpt 信息|
+[32m[2023-06-26 03:59:52] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 03:59:52] [INFO] [39mZHR#Zhang+: ^gpt hi yo
+[32m[2023-06-26 03:59:52] [INFO] [39mZHR#Zhang+ is running gpt command, args: ^gpt hi yo
+[32m[2023-06-26 03:59:53] [INFO] [39m{"nick":"ZhangHelper365","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":6418458372320,"channel":"chat","client":"未知客户端","isme":true}
+[32m[2023-06-26 03:59:53] [INFO] [39mZhangHelper365#Zhang+: 正在请求ChatGPT API，请稍等
+[32m[2023-06-26 04:00:04] [INFO] [39m{"nick":"zzChumo_小米平板5Pro","trip":"oLZSix","utype":"trusted","hash":"R9HgPn90m6i+eRa","level":1,"userid":5246351977827,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:00:04] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: ![1685841123866.jpeg](https://img1.imgtp.com/2023/06/26/IhnNLi2H.jpeg)
+[32m[2023-06-26 04:00:08] [INFO] [39m{"nick":"zzChumo_小米平板5Pro","trip":"oLZSix","utype":"trusted","hash":"R9HgPn90m6i+eRa","level":1,"userid":5246351977827,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:00:08] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: ![-325cbb59d2d771a6.jpg](https://img1.imgtp.com/2023/06/26/QmKsHuOI.jpg)
+[32m[2023-06-26 04:00:13] [INFO] [39m{"nick":"zzChumo_小米平板5Pro","trip":"oLZSix","utype":"trusted","hash":"R9HgPn90m6i+eRa","level":1,"userid":5246351977827,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:00:13] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: ![-22dfee27a5d8dbf3.jpg](https://img1.imgtp.com/2023/06/26/ppiDRorQ.jpg)
+[32m[2023-06-26 04:00:23] [INFO] [39mServer: @DLBot [AD] DLMSS生存服务器
+[32m[2023-06-26 04:00:23] [INFO] [39mhttps://lightworld689.github.io
+[32m[2023-06-26 04:00:23] [INFO] [39m{"nick":"zzChumo_小米平板5Pro","trip":"oLZSix","utype":"trusted","hash":"R9HgPn90m6i+eRa","level":1,"userid":5246351977827,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:00:23] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: ![-325cbb59d2d771a6.jpg](https://img1.imgtp.com/2023/06/26/QmKsHuOI.jpg)
+[32m[2023-06-26 04:00:34] [INFO] [39m{"nick":"zzChumo_小米平板5Pro","trip":"oLZSix","utype":"trusted","hash":"R9HgPn90m6i+eRa","level":1,"userid":5246351977827,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:00:34] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: 草草草 我图呢
+[32m[2023-06-26 04:01:26] [INFO] [39m{"nick":"zzChumo_小米平板5Pro","trip":"oLZSix","utype":"trusted","hash":"R9HgPn90m6i+eRa","level":1,"userid":5246351977827,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:01:26] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: ![-8605636ce2200f5.jpg](https://img1.imgtp.com/2023/06/26/khkh98el.jpg)
+[32m[2023-06-26 04:01:26] [INFO] [39m![6dcf7cdac8fcd982.jpg](https://img1.imgtp.com/2023/06/26/Dty3iSTt.jpg)
+[32m[2023-06-26 04:02:13] [INFO] [39m{"nick":"zzChumo_小米平板5Pro","trip":"oLZSix","utype":"trusted","hash":"R9HgPn90m6i+eRa","level":1,"userid":5246351977827,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:02:13] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: ![Screenshot_2023-06-15-04-57-55-817_com.tencent.tim-edit.jpg](https://img1.imgtp.com/2023/06/26/CS96WkYd.jpg)
+[32m[2023-06-26 04:02:35] [INFO] [39mInitializing kernel
+[32m[2023-06-26 04:02:35] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-26 04:02:35] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-26 04:02:35] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-26 04:02:35] [INFO] [39m13 command module(s) will be initialized
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized allmsg.js
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized ban.js
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized block.js
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized clearmsg.js
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized gpt.js
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized help.js
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized kick.js
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized msg.js
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized op.js
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized read.js
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized reload.js
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized stop.js
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized version.js
+[32m[2023-06-26 04:02:35] [INFO] [39mInitialized 13 command(s)
+[32m[2023-06-26 04:02:35] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-26 04:02:35] [INFO] [39mAdded a hook for onlineAdd, the level is 0
+[32m[2023-06-26 04:02:35] [INFO] [39mAdded a hook for chat, the level is 25
+[32m[2023-06-26 04:02:35] [INFO] [39mKernel initialization completed
+[32m[2023-06-26 04:02:38] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-26 04:02:38] [INFO] [39mJoining to ?chat
+[32m[2023-06-26 04:02:50] [INFO] [39mInitializing kernel
+[32m[2023-06-26 04:02:50] [INFO] [39mLoading D:\ZHC\zh\config\config.json
+[32m[2023-06-26 04:02:50] [INFO] [39mD:\ZHC\zh\config\config.json was loaded
+[32m[2023-06-26 04:02:50] [INFO] [39mLoading command modules from D:\ZHC\zh\commands
+[32m[2023-06-26 04:02:50] [INFO] [39m13 command module(s) will be initialized
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized allmsg.js
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized ban.js
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized block.js
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized clearmsg.js
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized gpt.js
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized help.js
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized kick.js
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized msg.js
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized op.js
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized read.js
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized reload.js
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized stop.js
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized version.js
+[32m[2023-06-26 04:02:50] [INFO] [39mInitialized 13 command(s)
+[32m[2023-06-26 04:02:50] [INFO] [39mConnecting to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-26 04:02:50] [INFO] [39mAdded a hook for onlineAdd, the level is 0
+[32m[2023-06-26 04:02:50] [INFO] [39mAdded a hook for chat, the level is 25
+[32m[2023-06-26 04:02:50] [INFO] [39mKernel initialization completed
+[32m[2023-06-26 04:02:54] [INFO] [39mSuccessfully connected to wss://chat.zhangsoft.cf/ws
+[32m[2023-06-26 04:02:54] [INFO] [39mJoining to ?chat
+[32m[2023-06-26 04:02:55] [INFO] [39mUsers online: CaptchaBot, DLBot, dr0_logbot_in_ee_server, hlg123, Lithium, Arwen, MelonCmd_bot, sus, ZHR, PaperDr0, 灯确吉L, 404, zzChumo_小米平板5Pro, ZhangHelper365
+[32m[2023-06-26 04:02:55] [INFO] [39m{"nick":"MelonCmd_bot","trip":"cmd152","utype":"channelOwner","hash":"pGg/4DynklVlVCG","level":1,"userid":9178751508100,"channel":"chat","client":"小张聊天室桌面版","isme":false}
+[32m[2023-06-26 04:02:55] [INFO] [39mMelonCmd_bot#cmd152:  # 傻逼 ZhangHelper365 的档案
+[32m[2023-06-26 04:02:55] [INFO] [39m昵称#识别码：ZhangHelper365#Zhang+
+[32m[2023-06-26 04:02:55] [INFO] [39m用户类型：mod
+[32m[2023-06-26 04:02:55] [INFO] [39m客户端：未知客户端
+[32m[2023-06-26 04:02:55] [INFO] [39m系统认证：小张软件总程序员｜小张聊天室建立者 | ==傻逼==
+[32m[2023-06-26 04:03:05] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:03:05] [INFO] [39mZHR#Zhang+: ^gpt hi yo
+[32m[2023-06-26 04:03:05] [INFO] [39mZHR#Zhang+ is running gpt command, args: ^gpt hi yo
+[32m[2023-06-26 04:03:05] [INFO] [39m{"nick":"ZhangHelper365","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":5532792517312,"channel":"chat","client":"未知客户端","isme":true}
+[32m[2023-06-26 04:03:05] [INFO] [39mZhangHelper365#Zhang+: 正在请求ChatGPT API，请稍等
+[32m[2023-06-26 04:03:25] [INFO] [39m写代码ing joined
+[32m[2023-06-26 04:03:28] [INFO] [39m写代码ing left
+[32m[2023-06-26 04:03:45] [INFO] [39m写代码ing joined
+[32m[2023-06-26 04:03:48] [INFO] [39mServer: @MelonCmd_bot [Ad] **[以下广告内容来自YAN，可能不受欢迎，您可以联系cmd移除]**
+[32m[2023-06-26 04:03:48] [INFO] [39m废旧灯管是有害垃圾！
+[32m[2023-06-26 04:04:11] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:04:11] [INFO] [39mPaperDr0#114514: 你谁啊
+[32m[2023-06-26 04:04:22] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:04:22] [INFO] [39m写代码ing#: @PaperDr0 您以前ban了我啊
+[32m[2023-06-26 04:04:24] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:04:24] [INFO] [39mPaperDr0#114514: 6
+[32m[2023-06-26 04:04:26] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:04:26] [INFO] [39mPaperDr0#114514: 北京ip
+[32m[2023-06-26 04:04:28] [INFO] [39msus left
+[32m[2023-06-26 04:04:32] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:04:32] [INFO] [39m写代码ing#: 别ban我
+[32m[2023-06-26 04:04:37] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:04:37] [INFO] [39m写代码ing#: 听我说一下
+[32m[2023-06-26 04:04:46] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:04:46] [INFO] [39mZHR#Zhang+: 为什么
+[32m[2023-06-26 04:04:50] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:04:50] [INFO] [39mZHR#Zhang+: 你是谁
+[32m[2023-06-26 04:04:54] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:04:54] [INFO] [39mZHR#Zhang+: 请先告诉我你是谁
+[32m[2023-06-26 04:04:55] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:04:55] [INFO] [39m写代码ing#: @ZHR 我是写代码ing
+[32m[2023-06-26 04:04:58] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:04:58] [INFO] [39mPaperDr0#114514: 好，我就听你的遗言在嘎你
+[32m[2023-06-26 04:05:02] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:02] [INFO] [39mZHR#Zhang+: 我们不认识你
+[32m[2023-06-26 04:05:07] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:07] [INFO] [39mZHR#Zhang+: 你是怎么来到这里的
+[32m[2023-06-26 04:05:08] [INFO] [39mhlg123 left
+[32m[2023-06-26 04:05:08] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:08] [INFO] [39mPaperDr0#114514: @ZHR 不用看了，就是他
+[32m[2023-06-26 04:05:12] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:12] [INFO] [39mZHR#Zhang+: 怎么知道这里的
+[32m[2023-06-26 04:05:13] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:13] [INFO] [39mZHR#Zhang+: 你是你好吗
+[32m[2023-06-26 04:05:14] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:05:14] [INFO] [39m写代码ing#: @ZHR 聊天室不是陌生人聊天的吗？
+[32m[2023-06-26 04:05:14] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:14] [INFO] [39mPaperDr0#114514: 那个水滴或者你好
+[32m[2023-06-26 04:05:15] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:15] [INFO] [39mZHR#Zhang+: 或者是质子
+[32m[2023-06-26 04:05:29] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:05:29] [INFO] [39m写代码ing#: @ZHR 什么啊，除了你好都是三体里的
+[32m[2023-06-26 04:05:32] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:32] [INFO] [39mZHR#Zhang+: >写代码ing：
+[32m[2023-06-26 04:05:32] [INFO] [39m>@ZHR 聊天室不是陌生人聊天的吗？
+[32m[2023-06-26 04:05:32] [INFO] [39m
+[32m[2023-06-26 04:05:32] [INFO] [39m@写代码ing 但是我们根本不引流，所以一般情况下没有新用户
+[32m[2023-06-26 04:05:35] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:35] [INFO] [39mPaperDr0#114514: 快说啊
+[32m[2023-06-26 04:05:45] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:45] [INFO] [39mZHR#Zhang+: 有新用户就是很可疑的
+[32m[2023-06-26 04:05:51] [INFO] [39m{"nick":"zzChumo_小米平板5Pro","trip":"oLZSix","utype":"trusted","hash":"R9HgPn90m6i+eRa","level":1,"userid":5246351977827,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:51] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: 24岁，是肿瘤
+[32m[2023-06-26 04:05:51] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:51] [INFO] [39mZHR#Zhang+: 说实话
+[32m[2023-06-26 04:05:54] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:54] [INFO] [39mZHR#Zhang+: 不然火锅字符
+[32m[2023-06-26 04:05:56] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:05:56] [INFO] [39m写代码ing#: @ZHR 不是啊，小张聊天室不是一搜就出来了吗
+[32m[2023-06-26 04:05:56] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:56] [INFO] [39mPaperDr0#114514: 这个质子也刷过屏
+[32m[2023-06-26 04:05:57] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:05:57] [INFO] [39mZHR#Zhang+: 后果自负
+[32m[2023-06-26 04:06:02] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:06:02] [INFO] [39m写代码ing#: 在页面顶端啊
+[32m[2023-06-26 04:06:02] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:06:02] [INFO] [39mPaperDr0#114514: 6
+[32m[2023-06-26 04:06:07] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:06:07] [INFO] [39m写代码ing#: 浏览器页面顶端
+[32m[2023-06-26 04:06:08] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:06:08] [INFO] [39mZHR#Zhang+: >写代码ing：
+[32m[2023-06-26 04:06:08] [INFO] [39m>@ZHR 不是啊，小张聊天室不是一搜就出来了吗
+[32m[2023-06-26 04:06:08] [INFO] [39m
+[32m[2023-06-26 04:06:08] [INFO] [39m@写代码ing 那你怎么知道这里的
+[32m[2023-06-26 04:06:08] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:06:08] [INFO] [39mPaperDr0#114514: 你哪里知道小张的啊
+[32m[2023-06-26 04:06:12] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:06:12] [INFO] [39mZHR#Zhang+: 你怎么知道有小张聊天室的
+[32m[2023-06-26 04:06:16] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:06:16] [INFO] [39mZHR#Zhang+: 别骗人了
+[32m[2023-06-26 04:06:22] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:06:22] [INFO] [39mPaperDr0#114514: 对啊
+[32m[2023-06-26 04:06:28] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:06:28] [INFO] [39mPaperDr0#114514: 答辩用户
+[32m[2023-06-26 04:06:28] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:06:28] [INFO] [39mZHR#Zhang+: 我知道你是你好/三体水滴/ESL
+[32m[2023-06-26 04:06:49] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:06:49] [INFO] [39m写代码ing#: @ZHR 你好我知道，是十字街里的
+[32m[2023-06-26 04:06:53] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:06:53] [INFO] [39mPaperDr0#114514: 6
+[32m[2023-06-26 04:06:57] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:06:57] [INFO] [39m写代码ing#: 但ESL和水滴是什么鬼
+[32m[2023-06-26 04:06:58] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:06:58] [INFO] [39mZHR#Zhang+: 我问你
+[32m[2023-06-26 04:07:00] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:07:00] [INFO] [39mPaperDr0#114514: 还装傻捏
+[32m[2023-06-26 04:07:02] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:07:02] [INFO] [39mZHR#Zhang+: 你是怎么知道这里的
+[32m[2023-06-26 04:07:04] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:07:04] [INFO] [39mZHR#Zhang+: 别装傻
+[32m[2023-06-26 04:07:11] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:07:11] [INFO] [39mZHR#Zhang+: 你怎么知道这世界上还有小张聊天室的
+[32m[2023-06-26 04:07:12] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:07:12] [INFO] [39m写代码ing#: 我看见友情链接了啊
+[32m[2023-06-26 04:07:17] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:07:17] [INFO] [39mZHR#Zhang+: 哪个友情链接
+[32m[2023-06-26 04:07:17] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:07:17] [INFO] [39mPaperDr0#114514: 哪里的
+[32m[2023-06-26 04:07:24] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:07:24] [INFO] [39mZHR#Zhang+: 网站地址报上名来
+[32m[2023-06-26 04:07:24] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:07:24] [INFO] [39m写代码ing#: @PaperDr0 发网址吗？
+[32m[2023-06-26 04:07:28] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:07:28] [INFO] [39mPaperDr0#114514: 对
+[32m[2023-06-26 04:07:29] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:07:29] [INFO] [39mZHR#Zhang+: 发
+[32m[2023-06-26 04:07:33] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:07:33] [INFO] [39m写代码ing#: 等一下，我看一下历史记录
+[32m[2023-06-26 04:07:37] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:07:37] [INFO] [39mPaperDr0#114514: 6
+[32m[2023-06-26 04:07:54] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:07:54] [INFO] [39mPaperDr0#114514: 北京也就你们几个
+[32m[2023-06-26 04:07:54] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:07:54] [INFO] [39m写代码ing#: https://mrzhang365.github.io/page/2/
+[32m[2023-06-26 04:07:58] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:07:58] [INFO] [39mZHR#Zhang+: @写代码ing 我知道你在背景海淀区的
+[32m[2023-06-26 04:08:00] [INFO] [39m{"nick":"zzChumo_小米平板5Pro","trip":"oLZSix","utype":"trusted","hash":"R9HgPn90m6i+eRa","level":1,"userid":5246351977827,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:08:00] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: 估计ice
+[32m[2023-06-26 04:08:04] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:08:04] [INFO] [39m写代码ing#: @ZHR ？
+[32m[2023-06-26 04:08:05] [INFO] [39m{"nick":"zzChumo_小米平板5Pro","trip":"oLZSix","utype":"trusted","hash":"R9HgPn90m6i+eRa","level":1,"userid":5246351977827,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:08:05] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: t
+[32m[2023-06-26 04:08:08] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:08:08] [INFO] [39mPaperDr0#114514: 你怎么找到小张的博客的呢
+[32m[2023-06-26 04:08:11] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:08:11] [INFO] [39mZHR#Zhang+: 因为我可以查询到你的IP地址
+[32m[2023-06-26 04:08:16] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:08:16] [INFO] [39mZHR#Zhang+: 我也在海淀区
+[32m[2023-06-26 04:08:22] [INFO] [39m{"cmd":"onlineAdd","nick":"写代码ing","trip":"","utype":"user","hash":"xgUtuDFMdCW98xL","level":1,"userid":580767359900,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isBot":false,"time":1687766636480}
+[32m[2023-06-26 04:08:22] [INFO] [39m写代码ing#: @ZHR 6
+[32m[2023-06-26 04:08:25] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:08:25] [INFO] [39mZHR#Zhang+: 咱们离得很近
+[32m[2023-06-26 04:08:29] [INFO] [39m写代码ing left
+[32m[2023-06-26 04:08:33] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:08:33] [INFO] [39mPaperDr0#114514: 6
+[32m[2023-06-26 04:08:34] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:08:34] [INFO] [39mZHR#Zhang+: 6
+[32m[2023-06-26 04:08:38] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:08:38] [INFO] [39mZHR#Zhang+: 怕不是被吓跑了
+[32m[2023-06-26 04:08:40] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:08:40] [INFO] [39mPaperDr0#114514: >*：
+[32m[2023-06-26 04:08:40] [INFO] [39m>写代码ing 的IP地址为：2408:8207:2420:ad31:d59a:f8c4:42d:db35
+[32m[2023-06-26 04:08:40] [INFO] [39m
+[32m[2023-06-26 04:08:40] [INFO] [39m@* 
+[32m[2023-06-26 04:08:50] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:08:50] [INFO] [39mZHR#Zhang+: /banip 2408:8207:2420:ad31:d59a:f8c4:42d:db35
+[32m[2023-06-26 04:08:57] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:08:57] [INFO] [39mZHR#Zhang+: 等等
+[32m[2023-06-26 04:08:58] [INFO] [39mServer: [114514] PaperDr0 封禁了IP地址：2408:8207:2420:ad31:d59a:f8c4:42d:db35
+[32m[2023-06-26 04:08:58] [INFO] [39m波及用户：
+[32m[2023-06-26 04:08:58] [INFO] [39m
+[32m[2023-06-26 04:09:00] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:09:00] [INFO] [39mZHR#Zhang+: 等待两分钟
+[32m[2023-06-26 04:09:05] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:09:05] [INFO] [39mPaperDr0#114514: 啊
+[32m[2023-06-26 04:09:05] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:09:05] [INFO] [39mZHR#Zhang+: 刑，那就现在ban
+[32m[2023-06-26 04:09:20] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:09:20] [INFO] [39mZHR#Zhang+: 关键是
+[32m[2023-06-26 04:09:22] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:09:22] [INFO] [39mZHR#Zhang+: 我的博客里
+[32m[2023-06-26 04:09:26] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:09:26] [INFO] [39mZHR#Zhang+: 也没有ZHC链接啊
+[32m[2023-06-26 04:09:32] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:09:32] [INFO] [39mZHR#Zhang+: ¯\\\_(ツ)\_/¯
+[32m[2023-06-26 04:09:37] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:09:37] [INFO] [39mPaperDr0#114514: 问题是这家伙它咋知道你的博客的呢
+[32m[2023-06-26 04:09:45] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:09:45] [INFO] [39mZHR#Zhang+: bing搜搜就知道
+[32m[2023-06-26 04:09:50] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:09:50] [INFO] [39mZHR#Zhang+: 他知道我的昵称
+[32m[2023-06-26 04:09:53] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:09:53] [INFO] [39mZHR#Zhang+: bing一搜就有
+[32m[2023-06-26 04:10:26] [INFO] [39m{"nick":"PaperDr0","trip":"114514","utype":"mod","hash":"8Syb25GVX2rEwNO","level":3,"userid":3236388411439,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:10:26] [INFO] [39mPaperDr0#114514: 哦搜索`Mr_Zhang`对吧（
+[32m[2023-06-26 04:10:30] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:10:30] [INFO] [39mZHR#Zhang+: 对啊
+[32m[2023-06-26 04:10:38] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:10:38] [INFO] [39mZHR#Zhang+: 但是我的博客上压根儿就没写ZHC
+[32m[2023-06-26 04:10:39] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:10:39] [INFO] [39mZHR#Zhang+: ¯\\\_(ツ)\_/¯
+[32m[2023-06-26 04:10:42] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:10:42] [INFO] [39mZHR#Zhang+: 有一个傻逼
+[32m[2023-06-26 04:10:47] [INFO] [39m{"nick":"ZHR","trip":"Zhang+","utype":"mod","hash":"IsAqbWDOR9Kr8J2","level":4,"userid":194614498492,"channel":"chat","client":"[小张聊天室网页版](https://chat.zhangsoft.cf/)","isme":false}
+[32m[2023-06-26 04:10:47] [INFO] [39mZHR#Zhang+: 又

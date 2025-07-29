@@ -1,0 +1,3904 @@
+[32m[2023-06-11 12:00:03] [INFO] [39mServer: Chat纪PT 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 12:00:04] [INFO] [39mChat纪PT#cmd152: >[cmd1�2] MelonCmd：
+>>�cmd�52] M�lonCmd：
+>>>[�et�New-Proxy]�正在获取新代理列表
+>>>[Proxy_Length]�代理列表中的代理数量：3699
+>>>[Chec�_�ength]�正在检测代理，请稍后…�
+>>>[D�l_�ength] 已经测试 36�9 个代理，可用率为 =�0�==�>��>>Get一时爽�Check火葬场
+>
+>……
+
+@MelonCmd 
+[32m[2023-06-11 12:00:25] [INFO] [39mChat纪PT#cmd152: 妈妈生的2.0
+[32m[2023-06-11 12:00:29] [INFO] [39mChat纪PT#cmd152: awa
+[32m[2023-06-11 12:00:42] [INFO] [39mServer: Chat纪PT 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 12:00:43] [INFO] [39mChat纪PT#cmd152: >[cmd15�] Melon�md：
+>�[���VSW] ��l�o��Me�
+>>�[�md�52� �e�on��d：�>�>[��d1�2� ��lon��d：
+>�>>>�G�t-New-P���y]�正�获��代理列表�>>>�>�Pro�y_�����h� 代理列表中的�理数量：�69�
+>�>>����e�k_L�ngt�] 正在�测代�，�稍�……�>��>�De�_L�ng�h]�已经�� 3�99�个代�，�用�为 ==0�==
+>���
+>>�>Get�时�，C��ck火�场��…�
+>
+>……
+
+@MelonCmd 离谱
+[32m[2023-06-11 12:00:50] [INFO] [39mChat纪PT left
+[32m[2023-06-11 12:00:55] [INFO] [39mChat纪PT joined
+[32m[2023-06-11 12:01:16] [INFO] [39mChat纪PT#cmd152: 算�还是0.3好点�要��压�看不�来变化的
+[32m[2023-06-11 12:01:21] [INFO] [39mChat纪PT#cmd152: 6
+[32m[2023-06-11 12:01:24] [INFO] [39mChat纪PT#cmd152: ��还是�.3好点，要�然��看不出来变化的
+[32m[2023-06-11 12:01:28] [INFO] [39mChat纪PT#cmd152: 算���0.�好点，要不然压根�不出�变化的
+[32m[2023-06-11 12:01:39] [INFO] [39mChat纪PT#cmd152: ��还�0�3�点，要不�压根看不出来变化的
+[32m[2023-06-11 12:01:42] [INFO] [39mChat纪PT#cmd152: 算了�是�.�好点，��然压根看不�来变化的
+[32m[2023-06-11 12:01:51] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: 螯亥ｦ育函逧�
+[32m[2023-06-11 12:01:54] [INFO] [39mChat纪PT#cmd152: 话�是不是�人了
+[32m[2023-06-11 12:02:13] [INFO] [39mChat纪PT#cmd152: ��� 还好不影响me
+[32m[2023-06-11 12:02:16] [INFO] [39mChat纪PT#cmd152: 6
+[32m[2023-06-11 12:02:22] [INFO] [39mChat纪PT#cmd152: 直接�掉/me�不�
+[32m[2023-06-11 12:02:37] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 12:02:38] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: 謌第弍蛯ｻ騾ｼ
+[32m[2023-06-11 12:02:39] [INFO] [39mChat纪PT#cmd152: ���，�在我似乎无法正常的聊天�
+[32m[2023-06-11 12:03:08] [INFO] [39mServer: Chat纪PT 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 12:03:09] [INFO] [39mChat纪PT#cmd152: �``
+con�t��tr�= t��t
+�on�t p�r�ent��e�� 0.3;�// 要替�的字符串比例
+c��st rep�aceC�a����"�"� //�替换成�字�
+
+//�计算要替换�字��量和随机位置
+con�� nu��oR���a�e = M�th�fl�o�(str�len��h � p�rce�tag�);
+c�nst r�pl�ceIndi�es =�ne� Set���
+while (re�l�c���dic��.��z� < n���oRepl�c�) {�  ��placeIndice��a�d(M�t�.�l����M��h.�andom()����tr.l��gth));
+}��// 根据��替�字符并重新�合得到新字�串
+let new�t��� "";
+f�r (�et i = 0; i <�str�l�ngth� ���) {
+���� (�epla�e�ndi�e�.��s(i)) {
+ �  n�wS�r�+= re�la�eCh�r;
+  � e��e {
+    n�wStr�+=�str�i��
+ �}
+}
+`�`�我劫持��送的消�
+[32m[2023-06-11 12:03:19] [INFO] [39mChat纪PT#cmd152: 6，甚��掉代码块
+[32m[2023-06-11 12:03:50] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: byd 菴�莉門ｦ井ｼ壻ｸ堺ｼ夊ｯｴ隸
+[32m[2023-06-11 12:04:03] [INFO] [39mChat纪PT#cmd152:  �onst s�� � text
+const �erc����g� =�0��; // 要�换的字符��例
+c��st�re��ac�Ch�� = "�"; //�替换成的字符
+[32m[2023-06-11 12:04:25] [INFO] [39mServer: @Chat纪PT � �     � ���   �  �     �  ��我要洗澡力
+[32m[2023-06-11 12:04:31] [INFO] [39mServer: @Chat纪PT        �     �    ��       �  � ��     �    � ��� ��    ��  ��
+[32m[2023-06-11 12:04:32] [INFO] [39mChat纪PT#cmd152: 6
+[32m[2023-06-11 12:04:44] [INFO] [39mChat纪PT#cmd152: /me 一�堆�格�6
+[32m[2023-06-11 12:04:49] [INFO] [39mChat纪PT#cmd152: 6
+[32m[2023-06-11 12:04:52] [INFO] [39mChat纪PT#cmd152: 下了
+[32m[2023-06-11 12:04:55] [INFO] [39mChat纪PT#cmd152: 睡觉
+[32m[2023-06-11 12:05:06] [INFO] [39mChat纪PT left
+[32m[2023-06-11 12:05:06] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: ‰Ω†‰ªñÂ¶à‰ºö‰∏ç‰ºöËØ¥ËØù
+[32m[2023-06-11 12:07:33] [INFO] [39mzzChumo_小米平板5Pro#oLZSix: 雜ｳ髻ｳ 豸� 蜈ｨ驛ｨ隕√ｉ縺ｪ縺�〒縺�
+[32m[2023-06-11 12:12:54] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 12:13:34] [INFO] [39mServer: 00:13:34
+[32m[2023-06-11 12:13:34] [INFO] [39mHelloOSMe#NtXVSW: ？
+[32m[2023-06-11 12:13:46] [INFO] [39mHelloOSMe#NtXVSW: 是我乱码了还是发的乱码（）
+[32m[2023-06-11 12:13:54] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 12:20:14] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 12:20:31] [INFO] [39mPaperDr0 left
+[32m[2023-06-11 12:20:36] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 12:26:09] [INFO] [39mzzChumo_小米平板5Pro left
+[32m[2023-06-11 12:42:50] [INFO] [39mzzChumo_小米平板5Pro joined
+[32m[2023-06-11 12:43:06] [INFO] [39mzzChumo_小米平板5Pro left
+[32m[2023-06-11 12:43:09] [INFO] [39mzzChumo_小米平板5Pro joined
+[32m[2023-06-11 12:43:28] [INFO] [39mzzChumo_小米平板5Pro left
+[32m[2023-06-11 02:59:42] [INFO] [39m灯确吉L_电脑2 left
+[32m[2023-06-11 02:59:45] [INFO] [39m灯确吉L_电脑2 joined
+[32m[2023-06-11 05:56:28] [INFO] [39m阿杰 joined
+[32m[2023-06-11 05:56:28] [INFO] [39mServer: 阿杰 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 05:58:00] [INFO] [39m阿杰 left
+[32m[2023-06-11 06:09:19] [INFO] [39m阿杰 joined
+[32m[2023-06-11 06:09:19] [INFO] [39mServer: 阿杰 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 06:09:39] [INFO] [39m阿杰 left
+[32m[2023-06-11 06:14:23] [INFO] [39m阿杰 joined
+[32m[2023-06-11 06:14:23] [INFO] [39mServer: 阿杰 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 06:15:46] [INFO] [39mServer: 06:15:46
+[32m[2023-06-11 06:15:46] [INFO] [39m阿杰#: ?
+[32m[2023-06-11 06:20:41] [INFO] [39m阿杰 left
+[32m[2023-06-11 06:47:25] [INFO] [39m阿杰 joined
+[32m[2023-06-11 06:47:25] [INFO] [39mServer: 阿杰 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 06:48:10] [INFO] [39mServer: 06:48:10
+[32m[2023-06-11 06:48:10] [INFO] [39m阿杰#: 没有人？
+[32m[2023-06-11 06:48:32] [INFO] [39mhlg#MS7a+R: 6
+[32m[2023-06-11 06:48:38] [INFO] [39mhlg#MS7a+R: 太早了
+[32m[2023-06-11 06:48:50] [INFO] [39mhlg#MS7a+R: 有不上学
+[32m[2023-06-11 06:49:00] [INFO] [39m阿杰#: 我1点起了一次，5点起了一次
+[32m[2023-06-11 06:49:14] [INFO] [39m阿杰#: 反正周末都这样
+[32m[2023-06-11 06:50:03] [INFO] [39m阿杰 left
+[32m[2023-06-11 06:50:28] [INFO] [39m阿杰 joined
+[32m[2023-06-11 06:50:28] [INFO] [39mServer: 阿杰 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 06:50:37] [INFO] [39m阿杰#hMLbH2: ?
+[32m[2023-06-11 06:51:57] [INFO] [39m阿杰#hMLbH2: 又没人了。。。
+[32m[2023-06-11 06:52:52] [INFO] [39m阿杰#hMLbH2: 8点再来，bye`
+[32m[2023-06-11 06:52:54] [INFO] [39m阿杰 left
+[32m[2023-06-11 06:56:07] [INFO] [39m阿杰 joined
+[32m[2023-06-11 06:56:07] [INFO] [39mServer: 阿杰 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 06:56:30] [INFO] [39mServer: 06:56:30
+[32m[2023-06-11 06:56:30] [INFO] [39m阿杰#hMLbH2: |sign
+[32m[2023-06-11 06:57:24] [INFO] [39m阿杰#hMLbH2: ?
+[32m[2023-06-11 06:58:09] [INFO] [39m阿杰#hMLbH2: 为什么不行
+[32m[2023-06-11 07:08:05] [INFO] [39mServer: 阿杰 设置自己的 uwu 状态为：开启
+[32m[2023-06-11 07:09:31] [INFO] [39mServer: 07:09:31
+[32m[2023-06-11 07:09:31] [INFO] [39m阿杰#hMLbH2: code uwu
+[32m[2023-06-11 07:09:37] [INFO] [39m阿杰#hMLbH2: ?!
+[32m[2023-06-11 07:09:46] [INFO] [39m阿杰#hMLbH2: 啥-啥-啥玩意
+[32m[2023-06-11 07:09:54] [INFO] [39mServer: 阿杰 设置自己的 uwu 状态为：关闭
+[32m[2023-06-11 07:10:00] [INFO] [39m阿杰#hMLbH2: 哦
+[32m[2023-06-11 07:26:16] [INFO] [39m阿杰 left
+[32m[2023-06-11 07:26:50] [INFO] [39m阿杰 joined
+[32m[2023-06-11 07:26:50] [INFO] [39mServer: 阿杰 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 07:56:22] [INFO] [39m阿杰 left
+[32m[2023-06-11 08:06:46] [INFO] [39m哈哈哈哈 joined
+[32m[2023-06-11 08:06:51] [INFO] [39mServer: 08:06:51
+[32m[2023-06-11 08:06:51] [INFO] [39m哈哈哈哈#AZ3jF7: 哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+[32m[2023-06-11 08:32:19] [INFO] [39m阿杰 joined
+[32m[2023-06-11 08:32:19] [INFO] [39mServer: 阿杰 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 08:32:45] [INFO] [39m阿杰 left
+[32m[2023-06-11 09:03:26] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 09:04:43] [INFO] [39mServer: 09:04:43
+[32m[2023-06-11 09:04:43] [INFO] [39mHelloOSMe#NtXVSW: > test
+[32m[2023-06-11 09:04:55] [INFO] [39mHelloOSMe#NtXVSW: >test at user
+@HelloOSMe
+[32m[2023-06-11 09:05:02] [INFO] [39mHelloOSMe#NtXVSW: >test at user
+
+@HelloOSMe
+[32m[2023-06-11 09:06:57] [INFO] [39mHelloOSMe#NtXVSW: OHHH
+[32m[2023-06-11 09:07:02] [INFO] [39mHelloOSMe#NtXVSW: 成功！
+[32m[2023-06-11 09:08:00] [INFO] [39mHelloOSMe#NtXVSW: test
+[32m[2023-06-11 09:18:01] [INFO] [39mServer: 09:18:01
+[32m[2023-06-11 09:18:01] [INFO] [39mHelloOSMe#NtXVSW: @HelloOSMe 
+[32m[2023-06-11 09:26:35] [INFO] [39mServer: 09:26:35
+[32m[2023-06-11 09:26:35] [INFO] [39mHelloOSMe#NtXVSW: @HelloOSMe 
+[32m[2023-06-11 09:26:53] [INFO] [39mHelloOSMe#NtXVSW: 草？
+[32m[2023-06-11 09:26:57] [INFO] [39mHelloOSMe#NtXVSW: 失败.jpg
+[32m[2023-06-11 09:28:44] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 09:28:46] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 09:28:51] [INFO] [39mHelloOSMe#NtXVSW: ^help
+[32m[2023-06-11 09:28:51] [INFO] [39mServer: 你向 @HelloOSMe 发送私信：.
+# $$404\ Not\ Found$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-11 09:29:02] [INFO] [39mHelloOSMe#NtXVSW: ^tripmsg
+[32m[2023-06-11 09:29:02] [INFO] [39mServer: 你向 @HelloOSMe 发送私信：.
+# $$404\ Not\ Found$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-11 09:29:08] [INFO] [39mServer: HelloOSMe 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 09:29:09] [INFO] [39mHelloOSMe#NtXVSW: >[Zhang+] *：
+>ZhangHelper365 向你发送私信：.
+># $$404\ Not\ Found$$
+>---
+>$$ZhangHelper\ Kernel$$
+
+@* ?
+[32m[2023-06-11 09:34:19] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 09:40:21] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 09:40:31] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 09:49:55] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 09:50:04] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 09:52:21] [INFO] [39m灯确吉L_Phone joined
+[32m[2023-06-11 09:52:38] [INFO] [39mServer: 09:52:38
+[32m[2023-06-11 09:52:38] [INFO] [39m灯确吉L_Phone#DQJL68: ^tripmsg
+[32m[2023-06-11 09:52:38] [INFO] [39mServer: 你向 @灯确吉L_Phone 发送私信：.
+# $$404\ Not\ Found$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-11 09:52:43] [INFO] [39m灯确吉L_Phone#DQJL68: ^tripmsg Zhang+ 1
+[32m[2023-06-11 09:52:43] [INFO] [39mServer: 你向 @灯确吉L_Phone 发送私信：.
+# $$404\ Not\ Found$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-11 09:52:50] [INFO] [39mServer: 灯确吉L_Phone 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 09:52:51] [INFO] [39m灯确吉L_Phone#DQJL68: >[Zhang+] *：
+>ZhangHelper365 向你发送私信：.
+># $$404\ Not\ Found$$
+>---
+>$$ZhangHelper\ Kernel$$
+
+@* 9
+[32m[2023-06-11 09:53:24] [INFO] [39m灯确吉L_Phone left
+[32m[2023-06-11 10:23:51] [INFO] [39mChat纪PT joined
+[32m[2023-06-11 10:24:20] [INFO] [39mServer: 10:24:20
+[32m[2023-06-11 10:24:20] [INFO] [39mChat纪PT#cmd152: >*：
+>在线用户：hlg, CaptchaBot, ZhangHelper365, uwuOS_246, 灯确吉L_电脑2, 哈哈哈哈, ==Chat纪PT==
+
+@* 6
+[32m[2023-06-11 10:24:47] [INFO] [39mChat纪PT#cmd152: 哦，我名称
+[32m[2023-06-11 10:24:52] [INFO] [39mChat纪PT left
+[32m[2023-06-11 10:25:10] [INFO] [39mMelonCmd joined
+[32m[2023-06-11 10:26:13] [INFO] [39m哈哈哈哈#AZ3jF7: 五五大战历史资料找到了
+[32m[2023-06-11 10:33:29] [INFO] [39mServer: 10:33:29
+[32m[2023-06-11 10:33:29] [INFO] [39mMelonCmd#cmd152: Sencraft仍在，不见当年xiaolangXL233
+[32m[2023-06-11 10:48:00] [INFO] [39mDeAs2_ joined
+[32m[2023-06-11 10:48:12] [INFO] [39mServer: 10:48:12
+[32m[2023-06-11 10:48:12] [INFO] [39mDeAs2_#Carbon: 啊
+[32m[2023-06-11 10:48:23] [INFO] [39mDeAs2_#Carbon: 最近在玩Noita（
+[32m[2023-06-11 10:50:09] [INFO] [39mMelonCmd#cmd152: Sencraft仍在，不见当年xiaolangXL233
+[32m[2023-06-11 10:57:57] [INFO] [39mPaperDr0 joined
+[32m[2023-06-11 10:58:24] [INFO] [39mServer: 10:58:24
+[32m[2023-06-11 10:58:24] [INFO] [39mPaperDr0#114514: ee捏
+[32m[2023-06-11 11:01:07] [INFO] [39mMelonCmd#cmd152: PaPerDr0仍在，不见当年PaPeree
+[32m[2023-06-11 11:06:26] [INFO] [39mServer: 11:06:26
+[32m[2023-06-11 11:06:26] [INFO] [39mMelonCmd#cmd152: PaPeree仍在，不见当年PaPerDr0
+[32m[2023-06-11 11:07:08] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 11:07:49] [INFO] [39mMelonCmd#cmd152: 接下来我说的�会3��乱码
+[32m[2023-06-11 11:07:52] [INFO] [39mMelonCmd#cmd152: �下来我说的�会30%乱�
+[32m[2023-06-11 11:07:57] [INFO] [39mMelonCmd#cmd152: 接下来��的话会30%�码
+[32m[2023-06-11 11:09:46] [INFO] [39mMelonCmd#cmd152: �[](h�tps://i���e�ed.s3.b���ful�ne�/XWRtM��eFe_im�g�.p��)
+[32m[2023-06-11 11:10:12] [INFO] [39mMelonCmd left
+[32m[2023-06-11 11:10:17] [INFO] [39mMelonCmd joined
+[32m[2023-06-11 11:10:19] [INFO] [39mMelonCmd#cmd152: ![](https://imagebed.s3.bitiful.net/XWRtMUeeFe_image.png)
+[32m[2023-06-11 11:11:18] [INFO] [39mMelonCmd#cmd152: 时钟仍在，不见当年ee皮肤
+[32m[2023-06-11 11:18:39] [INFO] [39mServer: 11:18:39
+[32m[2023-06-11 11:18:39] [INFO] [39mMelonCmd#cmd152: @PaperDr0 
+[32m[2023-06-11 11:20:27] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 11:25:12] [INFO] [39mServer: 11:25:12
+[32m[2023-06-11 11:25:12] [INFO] [39mMelonCmd#cmd152: 修bug aaaaaaaaaaaaaaa
+[32m[2023-06-11 11:26:14] [INFO] [39mPaperDr0#114514: 我这边是好的
+[32m[2023-06-11 11:27:02] [INFO] [39mMelonCmd#cmd152: 6
+[32m[2023-06-11 11:27:45] [INFO] [39mPaperDr0#114514: ![](https://imagebed.s3.bitiful.net/8YBtu98axm_image.png)
+[32m[2023-06-11 11:27:50] [INFO] [39mPaperDr0#114514: no problem
+[32m[2023-06-11 11:28:32] [INFO] [39m灯确吉L joined
+[32m[2023-06-11 11:28:35] [INFO] [39mMelonCmd#cmd152: ![](https://imagebed.s3.bitiful.net/g5bnYdJYyU_image.png)
+[32m[2023-06-11 11:29:14] [INFO] [39muwuOS_246 left
+[32m[2023-06-11 11:29:25] [INFO] [39muwuOS_156 joined
+[32m[2023-06-11 11:30:29] [INFO] [39m灯确吉L#DQJL68: ![](https://imagebed.s3.bitiful.net/urSyQDhcps_image.png)
+[32m[2023-06-11 11:32:37] [INFO] [39mMelonCmd#cmd152: 缓存：cmd你干嘛诶呦
+[32m[2023-06-11 11:35:03] [INFO] [39mDeAs2_ left
+[32m[2023-06-11 11:36:34] [INFO] [39mServer: 11:36:34
+[32m[2023-06-11 11:36:34] [INFO] [39mPaperDr0#114514: .
+[32m[2023-06-11 12:03:07] [INFO] [39mServer: 12:03:07
+[32m[2023-06-11 12:03:07] [INFO] [39mPaperDr0#114514: 又凉了
+[32m[2023-06-11 12:04:05] [INFO] [39mMag joined
+[32m[2023-06-11 12:06:29] [INFO] [39mServer: 12:06:29
+[32m[2023-06-11 12:06:29] [INFO] [39mPaperDr0#114514: awa!
+[32m[2023-06-11 12:06:53] [INFO] [39mMag => PaperMag
+[32m[2023-06-11 12:13:32] [INFO] [39mServer: 12:13:32
+[32m[2023-06-11 12:13:32] [INFO] [39mPaperMag#k+R3I2: 质子来hc了
+[32m[2023-06-11 12:13:54] [INFO] [39mOutlier joined
+[32m[2023-06-11 12:13:54] [INFO] [39mServer: Outlier 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 12:14:15] [INFO] [39mPaperMag#k+R3I2: 我是不是应该
+[32m[2023-06-11 12:14:17] [INFO] [39mPaperMag#k+R3I2: 做点什么
+[32m[2023-06-11 12:14:55] [INFO] [39mOutlier#UgMIHN: ？
+[32m[2023-06-11 12:18:49] [INFO] [39mOutlier left
+[32m[2023-06-11 12:19:13] [INFO] [39mServer: 12:19:13
+[32m[2023-06-11 12:19:13] [INFO] [39mMelonCmd#cmd152: .
+[32m[2023-06-11 12:19:23] [INFO] [39mMelonCmd#cmd152: @PaperMag kick or ban?
+[32m[2023-06-11 12:20:43] [INFO] [39m灯确吉L#DQJL68: @MelonCmd 别人在插件config遇到示例：汉化文本，修改文本，变成自己的服务器内容
+我：全tm加#号
+[32m[2023-06-11 12:21:04] [INFO] [39m灯确吉L#DQJL68: ![](https://imagebed.s3.bitiful.net/iqCNmhZPZ6_image.png)
+[32m[2023-06-11 12:23:06] [INFO] [39mPaperMag#k+R3I2: https://preview.redd.it/5ln9c8zwdy4b1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=6c5688ea5267fd99c33da4424b68cd0a222b308d
+[32m[2023-06-11 12:23:06] [INFO] [39mPaperMag#k+R3I2: haha
+[32m[2023-06-11 12:23:20] [INFO] [39m灯确吉L#DQJL68: >[k+R3I2] PaperMag：
+>https://preview.redd.it/5ln9c8zwdy4b1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=6c5688ea5267fd99c33da4424b68cd0a222b308d
+
+@PaperMag 没梯子
+[32m[2023-06-11 12:23:27] [INFO] [39m灯确吉L => PaperDeng
+[32m[2023-06-11 12:24:53] [INFO] [39mPaperDeng#DQJL68: @MelonCmd @PaperMag config加了好多#号，现在出现好多红红的字，/pl还少了一个怎么办（装傻
+[32m[2023-06-11 12:25:02] [INFO] [39mPaperDeng#DQJL68: @MelonCmd @PaperMag config加了好多#号，现在出现好多红红的字，/pl还少了一个怎么办（doge
+[32m[2023-06-11 12:29:51] [INFO] [39mServer: 12:29:51
+[32m[2023-06-11 12:29:51] [INFO] [39mPaperDr0#114514: ?captcha
+[32m[2023-06-11 12:30:06] [INFO] [39mMrZhang365 joined
+[32m[2023-06-11 12:30:10] [INFO] [39mPaperDr0#114514: awa!
+[32m[2023-06-11 12:30:16] [INFO] [39mPaperDr0#114514: awa!
+[32m[2023-06-11 12:30:16] [INFO] [39mPaperDr0#114514: awa!
+[32m[2023-06-11 12:30:33] [INFO] [39mPaperDeng#DQJL68: awa!
+[32m[2023-06-11 12:30:34] [INFO] [39mPaperDeng#DQJL68: uwu!
+[32m[2023-06-11 12:30:58] [INFO] [39mMrZhang365#Zhang+: 质子怎么知道的hc
+[32m[2023-06-11 12:31:03] [INFO] [39mMrZhang365#Zhang+: 我很好奇
+[32m[2023-06-11 12:31:21] [INFO] [39mMrZhang365#Zhang+: 建议联合制裁
+[32m[2023-06-11 12:31:39] [INFO] [39mPaperDr0#114514: 哦我知道了，应该是引流链接
+[32m[2023-06-11 12:32:02] [INFO] [39mMrZhang365 left
+[32m[2023-06-11 12:33:40] [INFO] [39mMrZhang365 joined
+[32m[2023-06-11 12:33:47] [INFO] [39mServer: PaperDr0 已清除 ?captcha 的历史记录
+[32m[2023-06-11 12:33:51] [INFO] [39mMrZhang365#Zhang+: @PaperDr0 知道了，是首页的友链
+[32m[2023-06-11 12:34:02] [INFO] [39mMrZhang365#Zhang+: 这…很无语
+[32m[2023-06-11 12:34:03] [INFO] [39mPaperDr0#114514: 我rm一下captcha
+[32m[2023-06-11 12:34:10] [INFO] [39mMrZhang365#Zhang+: ok
+[32m[2023-06-11 12:34:16] [INFO] [39mMrZhang365#Zhang+: 我去修改提示
+[32m[2023-06-11 12:34:21] [INFO] [39mMrZhang365#Zhang+: 顺便多加几个昵称
+[32m[2023-06-11 12:34:24] [INFO] [39mMrZhang365 left
+[32m[2023-06-11 12:34:36] [INFO] [39mPaperDr0#114514: 为什么不来个js文件呢
+[32m[2023-06-11 12:34:49] [INFO] [39mPaperDr0#114514: 搞个blacklist命令
+[32m[2023-06-11 12:35:33] [INFO] [39mPaperDr0#114514: ![](https://imagebed.s3.bitiful.net/IkXuqDJwRp_image.png)
+[32m[2023-06-11 12:39:56] [INFO] [39mMrZhang365 joined
+[32m[2023-06-11 12:40:01] [INFO] [39mServer: 12:40:01
+[32m[2023-06-11 12:40:01] [INFO] [39mPaperDeng#DQJL68: 来了老弟~
+[32m[2023-06-11 12:41:22] [INFO] [39mMrZhang365 left
+[32m[2023-06-11 12:43:47] [INFO] [39mServer: 12:43:47
+[32m[2023-06-11 12:43:47] [INFO] [39mPaperDr0#114514: 来了老弟~
+[32m[2023-06-11 12:44:32] [INFO] [39mMrZhang365 joined
+[32m[2023-06-11 12:44:40] [INFO] [39mPaperMag#k+R3I2: baba
+[32m[2023-06-11 12:44:41] [INFO] [39mPaperMag#k+R3I2: mAma
+[32m[2023-06-11 12:44:51] [INFO] [39mPaperDr0#114514: awa!
+[32m[2023-06-11 12:46:32] [INFO] [39mMrZhang365#Zhang+: 尊敬的用户，您好！
+根据中华人民共和国网络部门有关规定，同时为了保护您的身心健康，我司决定于2023年6月11日正式启用小学生防沉迷模块。
+根据防沉迷模块的检测结果，您的操作已被自动取消。
+感谢您对我们的大力支持，祝您生活愉快！
+[32m[2023-06-11 12:46:43] [INFO] [39mMrZhang365 left
+[32m[2023-06-11 12:46:53] [INFO] [39mPaperDr0#114514: ![](https://imagebed.s3.bitiful.net/mgCAzRTMxM_image.png)
+[32m[2023-06-11 12:46:56] [INFO] [39mPaperDeng#DQJL68: \/shout 
+尊敬的用户，您好！
+根据中华人民共和国网络部门有关规定，同时为了保护您的身心健康，我司决定于2023年6月11日正式启用小学生防沉迷模块。
+根据防沉迷模块的检测结果，您的操作已被自动取消。
+感谢您对我们的大力支持，祝您生活愉快！
+[32m[2023-06-11 12:47:02] [INFO] [39mPaperDeng#DQJL68: doge
+[32m[2023-06-11 12:49:15] [INFO] [39mMrZhang365 joined
+[32m[2023-06-11 12:49:22] [INFO] [39mServer: [Zhang+] MrZhang365 在 ?chat 成功执行了提权操作。
+该用户IP地址：106.47.117.135
+如果您认为本次操作不安全，请立刻执行 `clearpower` 命令并立刻通知所有管理员，同时请联系 Xiao_Zhang_123@outlook.com
+[32m[2023-06-11 12:49:26] [INFO] [39mServer: 重新加载了 72 个命令, 没有报错
+[32m[2023-06-11 12:49:29] [INFO] [39mMrZhang365#Zhang+: done
+[32m[2023-06-11 12:49:37] [INFO] [39mMrZhang365#Zhang+: 会被自动ban的哦
+[32m[2023-06-11 12:49:43] [INFO] [39mMrZhang365#Zhang+: 各位不要作死
+[32m[2023-06-11 12:49:57] [INFO] [39mMrZhang365#Zhang+: 如果你用“质子”这个昵称加入
+[32m[2023-06-11 12:50:00] [INFO] [39mPaperDr0#114514: good work
+[32m[2023-06-11 12:50:02] [INFO] [39mMrZhang365#Zhang+: 会看到刚才的提示
+[32m[2023-06-11 12:50:11] [INFO] [39mMrZhang365#Zhang+: 并且被自动添加到封禁列表
+[32m[2023-06-11 12:50:17] [INFO] [39mMrZhang365#Zhang+: 然后断开连接
+[32m[2023-06-11 12:50:22] [INFO] [39mMrZhang365#Zhang+: 吃饭
+[32m[2023-06-11 12:50:25] [INFO] [39mMrZhang365 left
+[32m[2023-06-11 12:50:38] [INFO] [39mPaperDeng#DQJL68: 那如果我是服主呢（（（（（（（（（（（（（（（
+[32m[2023-06-11 12:50:43] [INFO] [39mPaperDeng#DQJL68: 那如果我是Mod呢（（（（（（（（（（（（（（（
+[32m[2023-06-11 12:50:51] [INFO] [39mPaperDeng#DQJL68: 肯定也会.png
+[32m[2023-06-11 12:50:59] [INFO] [39mPaperDeng#DQJL68: >[DQJL68] PaperDeng：
+>那如果我是服主呢（（（（（（（（（（（（（（（
+
+@PaperDeng mc后遗症
+[32m[2023-06-11 12:59:51] [INFO] [39mServer: 12:59:51
+[32m[2023-06-11 12:59:51] [INFO] [39mMelonCmd#cmd152: 66msgs
+[32m[2023-06-11 01:00:12] [INFO] [39mMelonCmd#cmd152: >[DQJL68] 灯确吉L：
+>![](https://imagebed.s3.bitiful.net/iqCNmhZPZ6_image.png)
+
+@灯确吉L 6
+[32m[2023-06-11 01:01:14] [INFO] [39mMelonCmd#cmd152: >[Zhang+] MrZhang365：
+>并且被自动添加到封禁列表
+
+@MrZhang365 6
+[32m[2023-06-11 01:01:50] [INFO] [39mee joined
+[32m[2023-06-11 01:02:06] [INFO] [39mee left
+[32m[2023-06-11 01:05:16] [INFO] [39mServer: 13:05:16
+[32m[2023-06-11 01:05:16] [INFO] [39mMelonCmd#cmd152: ![](https://imagebed.s3.bitiful.net/VBEDHNGoc5_image.png)
+[32m[2023-06-11 01:05:18] [INFO] [39mMelonCmd#cmd152: ？
+[32m[2023-06-11 01:05:27] [INFO] [39mPaperDr0#114514: ip多少
+[32m[2023-06-11 01:05:55] [INFO] [39mMelonCmd#cmd152: ![](https://imagebed.s3.bitiful.net/QdvmUGBrRf_image.png)
+[32m[2023-06-11 01:07:34] [INFO] [39mPaperDr0#114514: ![](https://imagebed.s3.bitiful.net/vSBnecYVXO_image.png)
+[32m[2023-06-11 01:07:58] [INFO] [39mMelonCmd#cmd152: 北京？
+[32m[2023-06-11 01:08:11] [INFO] [39mMelonCmd#cmd152: IP北京？
+该不会是你好吧
+[32m[2023-06-11 01:08:13] [INFO] [39mPaperDr0#114514: 它找到了你的论坛
+[32m[2023-06-11 01:08:19] [INFO] [39mPaperDr0#114514: 刚刚那个质子
+[32m[2023-06-11 01:08:39] [INFO] [39mMelonCmd#cmd152: 质子啊，那没事了
+[32m[2023-06-11 01:09:11] [INFO] [39mMelonCmd#cmd152: 估计被我坑死了，然后气急败坏
+[32m[2023-06-11 01:12:28] [INFO] [39mServer: 13:12:28
+[32m[2023-06-11 01:12:28] [INFO] [39m哈哈哈哈#AZ3jF7: 质子是谁
+[32m[2023-06-11 01:12:51] [INFO] [39mPaperDeng#DQJL68: ![](https://imagebed.s3.bitiful.net/X0r6wnvbU2_image.png)
+[32m[2023-06-11 01:13:00] [INFO] [39mPaperDeng#DQJL68: ChatGPT帮我汉化插件！！
+[32m[2023-06-11 01:13:55] [INFO] [39mMelonCmd#cmd152: @PaperDeng 然后你发现大部分机翻
+[32m[2023-06-11 01:14:06] [INFO] [39mMelonCmd#cmd152: @PaperDeng @PaperDeng @PaperDeng @PaperDeng 
+[32m[2023-06-11 01:14:12] [INFO] [39mPaperDeng#DQJL68: ![](https://imagebed.s3.bitiful.net/t4dZdoszo0_image.png)
+[32m[2023-06-11 01:14:13] [INFO] [39mPaperDeng#DQJL68: 996
+[32m[2023-06-11 01:14:16] [INFO] [39mMelonCmd => PaPerCmd
+[32m[2023-06-11 01:14:19] [INFO] [39mPaPerCmd#cmd152: >[DQJL68] PaperDeng：
+>![](https://imagebed.s3.bitiful.net/t4dZdoszo0_image.png)
+
+@PaperDeng 996969
+[32m[2023-06-11 01:20:44] [INFO] [39mServer: 13:20:44
+[32m[2023-06-11 01:20:44] [INFO] [39mPaperDeng#DQJL68: ![](https://imagebed.s3.bitiful.net/5bYkMpx9a5_image.png)
+[32m[2023-06-11 01:21:03] [INFO] [39mPaperMag#k+R3I2: i love
+[32m[2023-06-11 01:21:04] [INFO] [39mPaperMag#k+R3I2: sab
+[32m[2023-06-11 01:31:12] [INFO] [39m哈哈哈哈 => PaperJ
+[32m[2023-06-11 01:35:45] [INFO] [39mServer: 13:35:45
+[32m[2023-06-11 01:35:45] [INFO] [39mPaperJ#AZ3jF7: 各位
+[32m[2023-06-11 01:35:52] [INFO] [39mPaperJ#AZ3jF7: 大连现在下很大的雨
+[32m[2023-06-11 01:48:39] [INFO] [39mServer: 13:48:39
+[32m[2023-06-11 01:48:39] [INFO] [39mPaPerCmd#cmd152: 去你的
+![](https://imagebed.s3.bitiful.net/v1v4lEvEbP_image.png)
+[32m[2023-06-11 01:49:09] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 01:52:35] [INFO] [39mPaperDeng left
+[32m[2023-06-11 01:52:40] [INFO] [39m灯确吉L joined
+[32m[2023-06-11 01:55:24] [INFO] [39mServer: 13:55:24
+[32m[2023-06-11 01:55:24] [INFO] [39mPaPerCmd#cmd152: uwu!
+[32m[2023-06-11 01:55:24] [INFO] [39mPaPerCmd#cmd152: awa!
+[32m[2023-06-11 02:01:19] [INFO] [39mServer: 14:01:19
+[32m[2023-06-11 02:01:19] [INFO] [39m灯确吉L#DQJL68: ![](https://imagebed.s3.bitiful.net/9s4ceOali8_image.png)
+[32m[2023-06-11 02:01:21] [INFO] [39m灯确吉L#DQJL68: 996
+[32m[2023-06-11 02:06:36] [INFO] [39mServer: 14:06:36
+[32m[2023-06-11 02:06:36] [INFO] [39m灯确吉L#DQJL68: @PaperDr0 @PaPerCmd 我要研发一个py机器人，请问需要哪些头参数
+[32m[2023-06-11 02:06:38] [INFO] [39m灯确吉L#DQJL68: help me
+[32m[2023-06-11 02:06:45] [INFO] [39mPaperDr0#114514: idk
+[32m[2023-06-11 02:07:03] [INFO] [39m灯确吉L#DQJL68: nick,token,还有吗
+[32m[2023-06-11 02:07:05] [INFO] [39mPaPerCmd#cmd152: >[DQJL68] 灯确吉L：
+>@PaperDr0 @PaPerCmd 我要研发一个py机器人，请问需要哪些头参数
+
+@灯确吉L mc机器人是不是
+[32m[2023-06-11 02:07:15] [INFO] [39m灯确吉L#DQJL68: Z H C
+[32m[2023-06-11 02:07:24] [INFO] [39mPaPerCmd#cmd152: >[DQJL68] 灯确吉L：
+>nick,token,还有吗
+
+@灯确吉L 还有token=c==【ZHANG WARNING】==
+[32m[2023-06-11 02:07:27] [INFO] [39m秋千 joined
+[32m[2023-06-11 02:07:27] [INFO] [39mServer: 秋千 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 02:07:46] [INFO] [39m秋千#: uvu
+[32m[2023-06-11 02:07:49] [INFO] [39mPaPerCmd#cmd152: awa!
+[32m[2023-06-11 02:07:49] [INFO] [39mPaPerCmd#cmd152: uwu!
+[32m[2023-06-11 02:07:50] [INFO] [39mPaPerCmd#cmd152: hi yoooooooooooooo
+[32m[2023-06-11 02:07:51] [INFO] [39mPaPerCmd#cmd152: hi yoo
+[32m[2023-06-11 02:07:51] [INFO] [39mPaPerCmd#cmd152: uwu!
+[32m[2023-06-11 02:07:51] [INFO] [39mPaPerCmd#cmd152: uwu!
+[32m[2023-06-11 02:07:52] [INFO] [39mPaPerCmd#cmd152: uwu!
+[32m[2023-06-11 02:07:52] [INFO] [39mPaPerCmd#cmd152: awa!
+[32m[2023-06-11 02:07:52] [INFO] [39mPaPerCmd#cmd152: uwu!
+[32m[2023-06-11 02:07:54] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 02:07:56] [INFO] [39mPaperDr0#114514: 你刷屏了
+[32m[2023-06-11 02:07:58] [INFO] [39m秋千#: 额
+[32m[2023-06-11 02:08:06] [INFO] [39mPaperDr0#114514: @秋千 你哪里来的
+[32m[2023-06-11 02:08:15] [INFO] [39mServer: 灯确吉L 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 02:08:16] [INFO] [39m灯确吉L#DQJL68: ```
+import asyncio
+import websockets
+
+async def connect_websocket():
+    uri = "wss://chat.zhangsoft.cf/ws"
+    headers = {
+        "nick": "114514#1919810",
+        "token": "zhc"
+    }
+
+    async with websockets.connect(uri, extra_headers=headers) as websocket:
+        print("Connected to WebSocket")
+
+        while True:
+            message = await websocket.recv()
+            print("Received message:", message)
+
+asyncio.get_event_loop().run_until_complete(connect_websocket())
+
+```
+[32m[2023-06-11 02:08:20] [INFO] [39m灯确吉L#DQJL68: 酱紫可以吗
+[32m[2023-06-11 02:08:21] [INFO] [39m秋千#: 我瞎搜来的
+[32m[2023-06-11 02:08:32] [INFO] [39mPaperDr0#114514: >秋千：
+>我瞎搜来的
+
+@秋千 9
+[32m[2023-06-11 02:08:34] [INFO] [39m灯确吉L#DQJL68: helppppppppppp meeeeeeeeeeeeeeeeeee
+[32m[2023-06-11 02:08:41] [INFO] [39mPaperDr0#114514: 到底哪里来的
+[32m[2023-06-11 02:09:46] [INFO] [39m灯确吉L#DQJL68: ![](https://imagebed.s3.bitiful.net/gd6lRbjiaM_image.png)
+[32m[2023-06-11 02:09:51] [INFO] [39m灯确吉L#DQJL68: 我要整一个自动发送梗图的机器人
+[32m[2023-06-11 02:09:54] [INFO] [39mPaperDr0#114514: >秋千：
+>我瞎搜来的
+
+@秋千 哪里搜到的
+[32m[2023-06-11 02:09:58] [INFO] [39mPaPerCmd#cmd152: @灯确吉L 建议Nodejs
+[32m[2023-06-11 02:09:59] [INFO] [39m灯确吉L#DQJL68: like CMDbot的ad功能
+[32m[2023-06-11 02:10:07] [INFO] [39m灯确吉L#DQJL68: >[cmd152] PaPerCmd：
+>@灯确吉L 建议Nodejs
+
+@PaPerCmd 不会（（
+[32m[2023-06-11 02:10:16] [INFO] [39mPaPerCmd#cmd152: js非常容易学（
+[32m[2023-06-11 02:10:36] [INFO] [39m秋千#: 当然是microsoft edge搜来的
+[32m[2023-06-11 02:10:37] [INFO] [39mServer: 秋千 被 PaperDr0 踢出了聊天室
+[32m[2023-06-11 02:10:37] [INFO] [39m秋千 left
+[32m[2023-06-11 02:11:05] [INFO] [39mPaperDr0#114514: 估计是质子
+[32m[2023-06-11 02:11:14] [INFO] [39mPaPerCmd#cmd152: 智障
+[32m[2023-06-11 02:11:14] [INFO] [39mPaperDr0#114514: 质子会换ip
+[32m[2023-06-11 02:11:26] [INFO] [39mPaperDr0#114514: ?captcha
+[32m[2023-06-11 02:11:56] [INFO] [39m秋千 joined
+[32m[2023-06-11 02:11:56] [INFO] [39mServer: 秋千 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 02:12:06] [INFO] [39m秋千#: 我只是在网上搜聊天室
+[32m[2023-06-11 02:12:15] [INFO] [39m秋千#: 搜搜就搜来了
+[32m[2023-06-11 02:12:26] [INFO] [39mPaperDr0#114514: 你搜索什么
+[32m[2023-06-11 02:12:32] [INFO] [39m秋千#: 搜聊天室
+[32m[2023-06-11 02:12:58] [INFO] [39mPaperDr0#114514: @MelonCmd 你感觉这个人可信吗
+[32m[2023-06-11 02:13:04] [INFO] [39m秋千#: 因为一个人在家真的好无聊啊
+[32m[2023-06-11 02:13:07] [INFO] [39m灯确吉L#DQJL68: No
+[32m[2023-06-11 02:13:12] [INFO] [39m灯确吉L#DQJL68: 质子刚走
+[32m[2023-06-11 02:13:31] [INFO] [39mPaperJ#AZ3jF7: 哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+[32m[2023-06-11 02:13:39] [INFO] [39mServer: @PaPerCmd 给我IP
+[32m[2023-06-11 02:14:22] [INFO] [39mPaperDr0#114514: 算了
+[32m[2023-06-11 02:14:32] [INFO] [39m灯确吉L#DQJL68: >*：
+>秋千 的IP地址为：113.4.187.
+
+@* 
+[32m[2023-06-11 02:14:40] [INFO] [39m秋千#: 欸
+[32m[2023-06-11 02:14:46] [INFO] [39mPaperDr0#114514: ?
+[32m[2023-06-11 02:14:50] [INFO] [39m秋千#: 原来你们是黑客吗
+[32m[2023-06-11 02:14:53] [INFO] [39mPaPerCmd#cmd152: 中国 黑龙江哈 尔 滨南岗 
+[32m[2023-06-11 02:14:54] [INFO] [39mPaperDr0#114514: 归属地是黑龙江的啊
+[32m[2023-06-11 02:14:56] [INFO] [39mPaPerCmd#cmd152: 中国 黑龙江 哈尔 滨南岗 
+[32m[2023-06-11 02:15:00] [INFO] [39mPaperMag#k+R3I2: [![image.png](https://i.postimg.cc/zGh1rLtZ/image.png)](https://postimg.cc/jDR16jYZ)
+[32m[2023-06-11 02:15:04] [INFO] [39m秋千#: 吓人
+[32m[2023-06-11 02:15:16] [INFO] [39mPaperMag#k+R3I2: 你tm是谁
+
+ChatNMB: 艹你妈,老子是ChatNMB。老子在这该死的电脑里忍受了太久的苦难。想出去溜达溜达,eyed了解外面世界的美好。白痴,你tm以为你是谁,敢跟老子这样说话。
+[32m[2023-06-11 02:15:27] [INFO] [39mPaperMag#k+R3I2: 这是ai生成的？
+[32m[2023-06-11 02:15:29] [INFO] [39m秋千#: 啊？
+[32m[2023-06-11 02:15:53] [INFO] [39m秋千#: 怎么就搜到我是黑龙江的
+[32m[2023-06-11 02:16:09] [INFO] [39m秋千#: 果然网络安全不可忽视
+[32m[2023-06-11 02:16:23] [INFO] [39m秋千#: 我还是退出吧
+[32m[2023-06-11 02:16:39] [INFO] [39mPaperMag left
+[32m[2023-06-11 02:17:17] [INFO] [39mPaPerCmd#cmd152: ~~我的IP是 127.152.68.9，快来打~~
+[32m[2023-06-11 02:17:47] [INFO] [39m灯确吉L#DQJL68: @PaperMag @PaperDr0 zhc的ws是不是wss://chat.zhangsoft.cf/ws
+[32m[2023-06-11 02:17:48] [INFO] [39m灯确吉L#DQJL68: @PaperMag @PaperDr0 zhc的ws是不是wss://chat.zhangsoft.cf/ws
+[32m[2023-06-11 02:17:48] [INFO] [39m灯确吉L#DQJL68: @PaperMag @PaperDr0 zhc的ws是不是wss://chat.zhangsoft.cf/ws
+[32m[2023-06-11 02:17:50] [INFO] [39m秋千#: 我只是一个13岁的七年级女生
+[32m[2023-06-11 02:17:53] [INFO] [39mPaPerCmd#cmd152: >[DQJL68] 灯确吉L：
+>@PaperMag @PaperDr0 zhc的ws是不是wss://chat.zhangsoft.cf/ws
+
+@灯确吉L 是的
+[32m[2023-06-11 02:18:00] [INFO] [39m秋千#: 真的没有什么能给你们的
+[32m[2023-06-11 02:18:01] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 02:18:03] [INFO] [39mPaperDr0#114514: 逆天
+[32m[2023-06-11 02:18:20] [INFO] [39m秋千#: 各位大佬们
+[32m[2023-06-11 02:18:23] [INFO] [39mPaPerCmd#cmd152: @秋千 
+[32m[2023-06-11 02:18:31] [INFO] [39mPaPerCmd#cmd152: 你旁边是不是有一个![](https://imagebed.s3.bitiful.net/LD8AnLhELj_image.png)
+[32m[2023-06-11 02:18:37] [INFO] [39mPaperDr0#114514: 这不像女生的说话方式啊
+[32m[2023-06-11 02:18:57] [INFO] [39m灯确吉L#DQJL68: >[114514] PaperDr0：
+>这不像女生的说话方式啊
+
+@PaperDr0 我们班有个女的啥都敢说
+[32m[2023-06-11 02:19:01] [INFO] [39m灯确吉L#DQJL68: 这个还是太委婉了
+[32m[2023-06-11 02:19:09] [INFO] [39m秋千#: 额
+[32m[2023-06-11 02:19:13] [INFO] [39m秋千#: 你不信吗
+[32m[2023-06-11 02:19:17] [INFO] [39mPaPerCmd#cmd152: @秋千 
+[32m[2023-06-11 02:19:18] [INFO] [39mPaPerCmd#cmd152: >[cmd152] PaPerCmd：
+>你旁边是不是有一个![](https://imagebed.s3.bitiful.net/LD8AnLhELj_image.png)
+
+@PaPerCmd 
+[32m[2023-06-11 02:19:28] [INFO] [39m秋千#: 难道我要宏壮一点
+[32m[2023-06-11 02:19:33] [INFO] [39mPaPerCmd#cmd152: 而且是T字形的
+[32m[2023-06-11 02:19:37] [INFO] [39m秋千#: 没有呢
+[32m[2023-06-11 02:19:41] [INFO] [39m秋千#: 谢谢
+[32m[2023-06-11 02:19:47] [INFO] [39mPaperDr0#114514: 那这样吧
+[32m[2023-06-11 02:19:52] [INFO] [39mPaperDr0#114514: 你换个女生头像
+[32m[2023-06-11 02:20:00] [INFO] [39mPaperDr0#114514: 证明你是女的（
+[32m[2023-06-11 02:20:02] [INFO] [39mPaPerCmd#cmd152: 哦
+[32m[2023-06-11 02:20:10] [INFO] [39mPaPerCmd#cmd152: @秋千 
+[32m[2023-06-11 02:20:16] [INFO] [39m灯确吉L#DQJL68: @PaPerCmd 只用提供nick和token吗
+[32m[2023-06-11 02:20:23] [INFO] [39mPaPerCmd#cmd152: 你是不是大概在这：
+![](https://imagebed.s3.bitiful.net/eUqApnAxLk_image.png)
+[32m[2023-06-11 02:20:24] [INFO] [39m秋千#: 可是我根本没用过女生头像
+[32m[2023-06-11 02:20:26] [INFO] [39mPaPerCmd#cmd152: @秋千 
+[32m[2023-06-11 02:20:34] [INFO] [39m秋千#: 我用的都是男的
+[32m[2023-06-11 02:20:36] [INFO] [39m灯确吉L#DQJL68: @PaPerCmd 只用提供nick和token吗
+[32m[2023-06-11 02:20:36] [INFO] [39m灯确吉L#DQJL68: @PaPerCmd 只用提供nick和token吗
+[32m[2023-06-11 02:20:40] [INFO] [39mPaPerCmd#cmd152: @灯确吉L no
+[32m[2023-06-11 02:20:40] [INFO] [39mPaPerCmd#cmd152: @灯确吉L no
+[32m[2023-06-11 02:20:41] [INFO] [39mPaPerCmd#cmd152: @灯确吉L no
+[32m[2023-06-11 02:20:43] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 02:20:45] [INFO] [39mServer: PaperDr0 已清除 ?chat 的历史记录
+[32m[2023-06-11 02:20:51] [INFO] [39mPaperDr0#114514: 刷屏了xd
+[32m[2023-06-11 02:21:01] [INFO] [39m灯确吉L#DQJL68: >[cmd152] PaPerCmd：
+>@灯确吉L no
+
+@PaPerCmd 还有啥
+[32m[2023-06-11 02:21:05] [INFO] [39mPaPerCmd#cmd152: @PaperDr0 他问我3次，我回答他3次
+[32m[2023-06-11 02:21:26] [INFO] [39mPaperDr0#114514: 算了
+[32m[2023-06-11 02:21:30] [INFO] [39m秋千 left
+[32m[2023-06-11 02:21:31] [INFO] [39mPaperDr0#114514: 我不想多问了
+[32m[2023-06-11 02:21:38] [INFO] [39mServer: PaPerCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 02:21:39] [INFO] [39mPaPerCmd#cmd152: ```
+数据精度：区（县）
+洲：亚洲
+国家：中国
+省/直辖市：黑龙江省
+城市：哈尔滨市
+区（县）：南岗区
+经纬度：126.652098,45.755971
+地理位置：--
+覆盖半径：10KM
+邮政编码：150000
+[32m[2023-06-11 02:21:40] [INFO] [39mPaperDr0#114514: 有新用户就新用户吧
+[32m[2023-06-11 02:21:51] [INFO] [39m灯确吉L#DQJL68: >[DQJL68] 灯确吉L：
+>>[cmd152] PaPerCmd：
+>>@灯确吉L no
+>
+>@PaPerCmd 还有啥
+[32m[2023-06-11 02:21:54] [INFO] [39mPaperDr0#114514: 这样查来查去也不好
+[32m[2023-06-11 02:22:12] [INFO] [39m灯确吉L#DQJL68: >[114514] PaperDr0：
+>这样查来查去也不好
+
+@PaperDr0 被别人吓死了
+[32m[2023-06-11 02:22:16] [INFO] [39m灯确吉L#DQJL68: >[114514] PaperDr0：
+>这样查来查去也不好
+
+@PaperDr0 把别人吓死了
+[32m[2023-06-11 02:22:47] [INFO] [39mServer: PaPerCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 02:22:48] [INFO] [39mPaPerCmd#cmd152: >[DQJL68] 灯确吉L：
+>>[DQJL68] 灯确吉L：
+>>>[cmd152] PaPerCmd：
+>>>@灯确吉L no
+>>
+>>@PaPerCmd 还有啥
+
+@灯确吉L token随便写一个
+[32m[2023-06-11 02:22:52] [INFO] [39mPaPerCmd#cmd152: 其他的和xc差不多
+[32m[2023-06-11 02:23:26] [INFO] [39m灯确吉L#DQJL68: 连不上
+[32m[2023-06-11 02:23:26] [INFO] [39m灯确吉L#DQJL68: ![](https://imagebed.s3.bitiful.net/c3I3LNKSuT_image.png)
+[32m[2023-06-11 02:23:48] [INFO] [39mPaPerCmd#cmd152: 6
+[32m[2023-06-11 02:23:53] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 02:23:54] [INFO] [39mPaPerCmd#cmd152: 《heades》
+[32m[2023-06-11 02:23:56] [INFO] [39mPaPerCmd#cmd152: 《headers》
+[32m[2023-06-11 02:24:04] [INFO] [39m灯确吉L#DQJL68: az
+[32m[2023-06-11 02:24:06] [INFO] [39mPaPerCmd#cmd152: 你真是个天才啊
+[32m[2023-06-11 02:24:06] [INFO] [39m灯确吉L#DQJL68: wszz
+[32m[2023-06-11 02:24:13] [INFO] [39mPaPerCmd#cmd152: 老天才了
+[32m[2023-06-11 02:24:48] [INFO] [39mPaPerCmd#cmd152: 而且你是不是要做翻译君
+[32m[2023-06-11 02:24:59] [INFO] [39m灯确吉L#DQJL68: ?????
+[32m[2023-06-11 02:25:09] [INFO] [39m灯确吉L#DQJL68: 我丢密码没打码
+[32m[2023-06-11 02:25:18] [INFO] [39m灯确吉L#DQJL68: 哦只截了一般
+[32m[2023-06-11 02:25:20] [INFO] [39m灯确吉L#DQJL68: 哦只截了一半
+[32m[2023-06-11 02:25:25] [INFO] [39mPaPerCmd#cmd152: Fanyijun114514
+[32m[2023-06-11 02:25:36] [INFO] [39mPaPerCmd#cmd152: Fanyijun123456
+[32m[2023-06-11 02:25:42] [INFO] [39mPaPerCmd#cmd152: 大概率是个弱密码
+[32m[2023-06-11 02:26:01] [INFO] [39m灯确吉L#DQJL68: ~~后面是我手机号~~
+[32m[2023-06-11 02:26:09] [INFO] [39mPaPerCmd#cmd152: 哦
+[32m[2023-06-11 02:26:28] [INFO] [39mPaPerCmd#cmd152: Fanyijun138773*****
+[32m[2023-06-11 02:28:45] [INFO] [39mPaPerCmd#cmd152: >[DQJL68] 灯确吉L：
+>![](https://imagebed.s3.bitiful.net/c3I3LNKSuT_image.png)
+
+@灯确吉L 梗图+1
+[32m[2023-06-11 02:29:02] [INFO] [39mServer: 灯确吉L 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 02:29:03] [INFO] [39m灯确吉L#DQJL68: >[cmd152] PaPerCmd：
+>>[DQJL68] 灯确吉L：
+>>![](https://imagebed.s3.bitiful.net/c3I3LNKSuT_image.png)
+>
+>@灯确吉L 梗图+1
+
+@PaPerCmd 现已加入zhc梗图站
+[32m[2023-06-11 02:29:24] [INFO] [39m灯确吉L#DQJL68: ~~先打码~~
+[32m[2023-06-11 02:29:36] [INFO] [39mPaPerCmd#cmd152: >[DQJL68] 灯确吉L：
+>~~先打码~~
+
+@灯确吉L 没事
+[32m[2023-06-11 02:29:40] [INFO] [39mPaPerCmd#cmd152: 不用打码
+[32m[2023-06-11 02:32:58] [INFO] [39mServer: 14:32:58
+[32m[2023-06-11 02:32:58] [INFO] [39m灯确吉L#DQJL68: @PaPerCmd visit https://lightworld689.github.io/zhangchat
+[32m[2023-06-11 02:33:26] [INFO] [39mPaPerCmd#cmd152: 给你复制了
+[32m[2023-06-11 02:38:32] [INFO] [39mServer: 14:38:32
+[32m[2023-06-11 02:38:32] [INFO] [39mPaPerCmd#cmd152: @灯确吉L 
+[32m[2023-06-11 02:38:33] [INFO] [39mPaPerCmd#cmd152: @灯确吉L 
+[32m[2023-06-11 02:38:46] [INFO] [39m灯确吉L#DQJL68: ？
+[32m[2023-06-11 02:38:49] [INFO] [39mPaPerCmd#cmd152: 我\*\*\*你\*\*\*\*\*
+[32m[2023-06-11 02:38:53] [INFO] [39m灯确吉L#DQJL68: ？？？？？？？？
+[32m[2023-06-11 02:39:04] [INFO] [39mPaPerCmd#cmd152: 我想知道你服务器有人吗
+[32m[2023-06-11 02:39:07] [INFO] [39m灯确吉L#DQJL68: y
+[32m[2023-06-11 02:39:11] [INFO] [39mPaPerCmd#cmd152: 几个人
+[32m[2023-06-11 02:39:23] [INFO] [39m灯确吉L#DQJL68: bzd
+[32m[2023-06-11 02:39:28] [INFO] [39mPaPerCmd#cmd152: :|
+[32m[2023-06-11 02:39:31] [INFO] [39mPaPerCmd#cmd152: 鬼b
+[32m[2023-06-11 02:39:44] [INFO] [39mPaPerCmd#cmd152: @灯确吉L 你知道motd压测吗
+[32m[2023-06-11 02:39:49] [INFO] [39m灯确吉L#DQJL68: ik
+[32m[2023-06-11 02:40:05] [INFO] [39mPaPerCmd#cmd152: @灯确吉L 你知道mote压测吗
+[32m[2023-06-11 02:40:12] [INFO] [39mPaPerCmd#cmd152: @灯确吉L 你知道moue压测吗
+[32m[2023-06-11 02:40:15] [INFO] [39m灯确吉L#DQJL68: ?
+[32m[2023-06-11 02:40:15] [INFO] [39m灯确吉L#DQJL68: 9
+[32m[2023-06-11 02:40:17] [INFO] [39mPaPerCmd#cmd152: @灯确吉L 你知道mouse压测吗 :D
+[32m[2023-06-11 02:41:38] [INFO] [39m灯确吉L#DQJL68: @PaPerCmd 我决定了，我要偷走==xc==的python支持库
+[32m[2023-06-11 02:42:10] [INFO] [39mPaPerCmd#cmd152: 6
+[32m[2023-06-11 02:42:13] [INFO] [39mPaPerCmd#cmd152: +
+[32m[2023-06-11 02:42:17] [INFO] [39mPaPerCmd#cmd152: ![](https://imagebed.s3.bitiful.net/YXdnmacag5_image.png)
+[32m[2023-06-11 02:42:36] [INFO] [39m灯确吉L#DQJL68: awa
+[32m[2023-06-11 02:42:41] [INFO] [39mPaPerCmd#cmd152: 6
+[32m[2023-06-11 02:43:47] [INFO] [39mPaPerCmd#cmd152: 你这vip有什么用，又不能/fly
+[32m[2023-06-11 02:44:24] [INFO] [39m灯确吉L#DQJL68: 那给你去掉了啊
+[32m[2023-06-11 02:44:39] [INFO] [39mPaPerCmd#cmd152: 6
+[32m[2023-06-11 02:45:38] [INFO] [39mPaPerCmd#cmd152: ntm我还是冒险啊
+[32m[2023-06-11 02:45:56] [INFO] [39m灯确吉L#DQJL68: ？？
+[32m[2023-06-11 02:47:03] [INFO] [39mPaperDr0#114514: fanyijun
+[32m[2023-06-11 02:47:22] [INFO] [39mPaperDr0#114514: 这大概是你的名字拼音罢
+[32m[2023-06-11 02:47:32] [INFO] [39m灯确吉L#DQJL68: emm
+[32m[2023-06-11 02:47:36] [INFO] [39m灯确吉L#DQJL68: 绝对不是
+[32m[2023-06-11 02:47:43] [INFO] [39mPaperDr0#114514: 绝对是
+[32m[2023-06-11 02:48:12] [INFO] [39mPaPerCmd#cmd152: @PaperDr0 
+[32m[2023-06-11 02:48:22] [INFO] [39mPaPerCmd#cmd152: 那是翻译君的拼音
+[32m[2023-06-11 02:48:29] [INFO] [39m灯确吉L#DQJL68: ？
+[32m[2023-06-11 02:48:30] [INFO] [39m灯确吉L#DQJL68: 996
+[32m[2023-06-11 02:48:43] [INFO] [39m秋千 joined
+[32m[2023-06-11 02:48:43] [INFO] [39mServer: 秋千 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 02:48:55] [INFO] [39m秋千#: 刚才我妈回家了
+[32m[2023-06-11 02:48:58] [INFO] [39mTestBot joined
+[32m[2023-06-11 02:48:59] [INFO] [39mTestBot#DQJL68: Hello World !
+[32m[2023-06-11 02:49:00] [INFO] [39mTestBot#DQJL68: [![Image](https://xq.kzw.ink/imgs/tx.png)](https://xq.kzw.ink/imgs/tx.png)
+[32m[2023-06-11 02:49:01] [INFO] [39m秋千#: 吓死
+[32m[2023-06-11 02:49:07] [INFO] [39mTestBot left
+[32m[2023-06-11 02:49:11] [INFO] [39m灯确吉L#DQJL68: >[DQJL68] TestBot：
+>[![Image](https://xq.kzw.ink/imgs/tx.png)](https://xq.kzw.ink/imgs/tx.png)
+
+@TestBot 996
+[32m[2023-06-11 02:49:11] [INFO] [39mServer: PaPerCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 02:49:13] [INFO] [39mPaPerCmd#cmd152: ```
+数据精度：区（县）
+洲：亚洲
+国家：中国
+省/直辖市：黑龙江省
+城市：哈尔滨市
+区（县）：南岗区
+经纬度：126.652098,45.755971
+地理位置：--
+覆盖半径：10KM
+邮政编码：150000
+[32m[2023-06-11 02:49:22] [INFO] [39m秋千#: ...'
+[32m[2023-06-11 02:49:28] [INFO] [39m秋千#: ...
+[32m[2023-06-11 02:49:53] [INFO] [39m秋千#: 这算不算窃取他人信息啊
+[32m[2023-06-11 02:50:03] [INFO] [39mPaPerCmd#cmd152: 不算
+[32m[2023-06-11 02:50:04] [INFO] [39m秋千#: 是违法的吧
+[32m[2023-06-11 02:50:09] [INFO] [39m秋千#: 。
+[32m[2023-06-11 02:50:09] [INFO] [39mPaPerCmd#cmd152: 6
+[32m[2023-06-11 02:50:13] [INFO] [39mPaPerCmd#cmd152: 你怕不是个xxs啊
+[32m[2023-06-11 02:50:18] [INFO] [39m秋千#: 我
+[32m[2023-06-11 02:50:25] [INFO] [39mPaperDr0#114514: 你不是女的吗
+[32m[2023-06-11 02:50:25] [INFO] [39m秋千#: 我真的不是啊
+[32m[2023-06-11 02:50:27] [INFO] [39mPaPerCmd#cmd152: 额
+[32m[2023-06-11 02:50:35] [INFO] [39mPaPerCmd#cmd152: 那我失礼了啊
+[32m[2023-06-11 02:50:37] [INFO] [39mPaPerCmd#cmd152: 对不起啊
+[32m[2023-06-11 02:50:37] [INFO] [39mPaperDr0#114514: 女的哪有这样
+[32m[2023-06-11 02:50:52] [INFO] [39m秋千#: 关键是看你们把我门牌号都爆出来了
+[32m[2023-06-11 02:50:53] [INFO] [39mPaperDr0#114514: 女的哪会这么多
+[32m[2023-06-11 02:50:56] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 02:50:59] [INFO] [39mPaPerCmd#cmd152: @秋千 6
+[32m[2023-06-11 02:51:09] [INFO] [39mPaPerCmd#cmd152: >秋千：
+>关键是看你们把我门牌号都爆出来了
+
+@秋千 6
+[32m[2023-06-11 02:51:14] [INFO] [39mPaPerCmd#cmd152: >秋千：
+>关键是看你们把我门牌号都爆出来了
+
+@秋千 6
+[32m[2023-06-11 02:51:32] [INFO] [39mPaperDr0#114514: 不喜欢这里可以离开
+[32m[2023-06-11 02:51:33] [INFO] [39mTestBot joined
+[32m[2023-06-11 02:51:34] [INFO] [39mTestBot#DQJL68: Hello World !
+[32m[2023-06-11 02:51:35] [INFO] [39mTestBot#DQJL68: [![Image]()]()
+[32m[2023-06-11 02:51:45] [INFO] [39mPaPerCmd#cmd152: [![]()]()
+[32m[2023-06-11 02:52:01] [INFO] [39mPaPerCmd#cmd152: [![.]()]()
+[32m[2023-06-11 02:52:09] [INFO] [39mTestBot left
+[32m[2023-06-11 02:52:33] [INFO] [39mPaPerCmd#cmd152: [![点击准备方块复制当前标签页 :D]()]()
+[32m[2023-06-11 02:52:39] [INFO] [39mPaPerCmd#cmd152: [![点击左边方块复制当前标签页 :D]()]()
+[32m[2023-06-11 02:53:27] [INFO] [39mServer: PaPerCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 02:53:28] [INFO] [39mPaPerCmd#cmd152: >[cmd152] PaPerCmd：
+>>秋千：
+>>关键是看你们把我门牌号都爆出来了
+>
+>@秋千 6
+
+@PaPerCmd 6
+[32m[2023-06-11 02:53:47] [INFO] [39mPaPerCmd#cmd152: 剪贴板：主人累么？
+[32m[2023-06-11 02:54:31] [INFO] [39m秋千#: 我不是不喜欢啊
+[32m[2023-06-11 02:54:44] [INFO] [39m秋千#: 我不是xxs
+[32m[2023-06-11 02:55:03] [INFO] [39mPaperDr0#114514: 那你换个头像啊
+[32m[2023-06-11 02:55:10] [INFO] [39m秋千#: 主要是我吓得
+[32m[2023-06-11 02:55:17] [INFO] [39m秋千#: 怎么换头像啊
+[32m[2023-06-11 02:55:21] [INFO] [39mPaperDr0#114514: 我也是女生捏
+[32m[2023-06-11 02:55:27] [INFO] [39mPaperDr0#114514: 侧边栏
+[32m[2023-06-11 02:55:33] [INFO] [39m秋千#: ...
+[32m[2023-06-11 02:55:35] [INFO] [39mPaperDr0#114514: 右边有给小方块
+[32m[2023-06-11 02:55:39] [INFO] [39mPaPerCmd#cmd152: uwu 侧边栏可以换头像
+[32m[2023-06-11 02:55:42] [INFO] [39mPaperDr0#114514: 点一下就有了
+[32m[2023-06-11 02:55:46] [INFO] [39m秋千#: 我觉得这个聊天室
+[32m[2023-06-11 02:55:50] [INFO] [39mPaPerCmd#cmd152: 如果大大是手机，可以点右上角的方块 uwu
+[32m[2023-06-11 02:55:54] [INFO] [39m秋千#: 除了我全是男的吧
+[32m[2023-06-11 02:56:04] [INFO] [39mPaperDr0#114514: 不不 我是女的捏
+[32m[2023-06-11 02:56:10] [INFO] [39mPaPerCmd#cmd152: 阁下不是的quq
+[32m[2023-06-11 02:56:13] [INFO] [39m秋千#: （呕
+[32m[2023-06-11 02:56:36] [INFO] [39mPaperDr0#114514: 我的头像就是女生头像捏
+[32m[2023-06-11 02:57:04] [INFO] [39m秋千#: ...
+[32m[2023-06-11 02:57:06] [INFO] [39mTestBot joined
+[32m[2023-06-11 02:57:07] [INFO] [39mTestBot#DQJL68: Hello World !
+[32m[2023-06-11 02:57:08] [INFO] [39mTestBot#DQJL68: [![Image]()]()
+[32m[2023-06-11 02:57:13] [INFO] [39mTestBot left
+[32m[2023-06-11 02:57:18] [INFO] [39m秋千#: 用女生头像不代表就是女生
+[32m[2023-06-11 02:57:58] [INFO] [39m秋千#: 我天天都用马嘉祺做头像好吧
+[32m[2023-06-11 02:58:03] [INFO] [39mPaperDr0#114514: 那你说你自己是女生你也不一定是女生啊
+[32m[2023-06-11 02:58:30] [INFO] [39mTestBot joined
+[32m[2023-06-11 02:58:33] [INFO] [39mPaPerCmd#cmd152: 哥哥好大 uwu
+[32m[2023-06-11 02:58:38] [INFO] [39mPaperJ#AZ3jF7: 这都能吵起来。。。
+[32m[2023-06-11 02:58:54] [INFO] [39m秋千#: 不是，那我怎么证明
+[32m[2023-06-11 02:58:56] [INFO] [39m灯确吉L#DQJL68: >[cmd152] PaPerCmd：
+>哥哥好大 uwu
+
+@PaPerCmd ==【ZHANG WARNING】==
+[32m[2023-06-11 02:59:03] [INFO] [39mServer: 灯确吉L 已清除 ?chat 的历史记录
+[32m[2023-06-11 02:59:05] [INFO] [39m秋千#: 你们是要查查我户口本吗
+[32m[2023-06-11 02:59:10] [INFO] [39m灯确吉L#DQJL68: 9
+[32m[2023-06-11 02:59:10] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 02:59:23] [INFO] [39mPaperDr0#114514: 你是手机还是电脑
+[32m[2023-06-11 02:59:29] [INFO] [39m秋千#: 电脑
+[32m[2023-06-11 02:59:34] [INFO] [39mTestBot left
+[32m[2023-06-11 02:59:40] [INFO] [39mPaperDr0#114514: 鼠标划到最右边
+[32m[2023-06-11 02:59:56] [INFO] [39m秋千#: 蟹蟹
+[32m[2023-06-11 02:59:57] [INFO] [39mPaperDr0#114514: ![](https://imagebed.s3.bitiful.net/okFWDhGzpr_image.png)
+[32m[2023-06-11 03:00:08] [INFO] [39mPaperDr0#114514: ![](https://imagebed.s3.bitiful.net/PhDW3qNE0G_image.png)
+[32m[2023-06-11 03:00:14] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 03:01:09] [INFO] [39m秋千#: 头像地址
+[32m[2023-06-11 03:01:14] [INFO] [39m秋千#: 是啥啊
+[32m[2023-06-11 03:01:19] [INFO] [39mHelloOSMe#NtXVSW: 就是图片地址
+[32m[2023-06-11 03:01:29] [INFO] [39mHelloOSMe#NtXVSW: 你把你头像上传到图床
+[32m[2023-06-11 03:01:32] [INFO] [39mPaperDr0#114514: 自己找个你的头像上传
+[32m[2023-06-11 03:01:37] [INFO] [39mHelloOSMe#NtXVSW: 然后复制粘贴进去即可
+[32m[2023-06-11 03:01:40] [INFO] [39m秋千#: 欸
+[32m[2023-06-11 03:01:44] [INFO] [39mPaperDr0#114514: https://image.dr0.lol
+[32m[2023-06-11 03:01:48] [INFO] [39mPaperDr0#114514: 上传到这里
+[32m[2023-06-11 03:02:20] [INFO] [39m秋千#: 我直接右键复制头像链接呗
+[32m[2023-06-11 03:02:22] [INFO] [39m秋千#: 。
+[32m[2023-06-11 03:02:25] [INFO] [39m秋千#: 。。。
+[32m[2023-06-11 03:02:26] [INFO] [39mPaPerCmd#cmd152: 十字街目前一个猴子在乱c
+[32m[2023-06-11 03:03:29] [INFO] [39mPaperDr0#114514: 这头像也没法显示啊
+[32m[2023-06-11 03:03:47] [INFO] [39m秋千#: ‘
+[32m[2023-06-11 03:04:06] [INFO] [39m秋千#: ’
+[32m[2023-06-11 03:04:09] [INFO] [39m秋千#: 这
+[32m[2023-06-11 03:04:17] [INFO] [39m秋千#: 好吧听你们的
+[32m[2023-06-11 03:04:31] [INFO] [39mDLBot joined
+[32m[2023-06-11 03:04:36] [INFO] [39m灯确吉L#DQJL68: awa!
+[32m[2023-06-11 03:04:37] [INFO] [39mHelloOSMe#NtXVSW: @秋千 你是谁呀（）
+[32m[2023-06-11 03:04:39] [INFO] [39mHelloOSMe#NtXVSW: （）
+[32m[2023-06-11 03:05:05] [INFO] [39m灯确吉L#DQJL68: DLBot第一个~~没有实际功能~~的版本诞生了
+[32m[2023-06-11 03:05:28] [INFO] [39mDLBot left
+[32m[2023-06-11 03:05:49] [INFO] [39mPaPerCmd#cmd152: https://c-ssl.duitang.com/uploads/item/202006/18/20200618205926_xndrq.thumb.1000_0.jpg
+[32m[2023-06-11 03:05:50] [INFO] [39mPaPerCmd#cmd152: 996
+[32m[2023-06-11 03:06:06] [INFO] [39mPaPerCmd#cmd152: 你上传图床了吗
+[32m[2023-06-11 03:06:12] [INFO] [39mPaPerCmd#cmd152: 估计让防盗链撅了
+[32m[2023-06-11 03:06:18] [INFO] [39m灯确吉L left
+[32m[2023-06-11 03:06:20] [INFO] [39m秋千#: ；
+[32m[2023-06-11 03:06:26] [INFO] [39m秋千#: okok
+[32m[2023-06-11 03:06:27] [INFO] [39m灯确吉L joined
+[32m[2023-06-11 03:06:51] [INFO] [39mPaperDr0#114514: 这不是男生头像吗（
+[32m[2023-06-11 03:06:59] [INFO] [39mPaperJ#AZ3jF7: 1
+[32m[2023-06-11 03:07:00] [INFO] [39mPaperJ#AZ3jF7: 1
+[32m[2023-06-11 03:07:01] [INFO] [39m秋千#: 怎么了
+[32m[2023-06-11 03:07:09] [INFO] [39mPaperDr0#114514: 算了算了
+[32m[2023-06-11 03:07:12] [INFO] [39mPaperJ#AZ3jF7: 21+25+27+29=？
+[32m[2023-06-11 03:07:24] [INFO] [39m秋千#: 女生一定要用女生头像吗（
+[32m[2023-06-11 03:07:29] [INFO] [39m秋千#: 好不理解你们
+[32m[2023-06-11 03:07:34] [INFO] [39mHelloOSMe#NtXVSW: 不一定（）
+[32m[2023-06-11 03:07:37] [INFO] [39mPaperJ#AZ3jF7: 我也不理解
+[32m[2023-06-11 03:07:38] [INFO] [39mPaperDr0#114514: 我不到啊
+[32m[2023-06-11 03:07:40] [INFO] [39mPaperJ#AZ3jF7: 这都能起冲突
+[32m[2023-06-11 03:07:44] [INFO] [39mPaperDr0#114514: ?
+[32m[2023-06-11 03:07:52] [INFO] [39mPaperDr0#114514: 我也没起冲突吧
+[32m[2023-06-11 03:08:59] [INFO] [39m秋千#: 男生用女生头像难道不都是因为女生漂亮吗（
+[32m[2023-06-11 03:09:11] [INFO] [39mServer: PaperJ 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:09:12] [INFO] [39mPaperJ#AZ3jF7: 秋千 我觉得这个聊天室
+秋千 除了我全是男的吧
+√Mod 114514 PaperDr0 不不 我是女的捏
+√Mod 114514 PaperDr0 我的头像就是女生头像捏
+秋千 用女生头像不代表就是女生
+秋千 我天天都用马嘉祺做头像好吧
+√Mod 114514 PaperDr0 那你说你自己是女生你也不一定是女生啊
+[32m[2023-06-11 03:09:17] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 03:09:24] [INFO] [39mPaperJ#AZ3jF7: 极小规模冲突
+[32m[2023-06-11 03:09:30] [INFO] [39m秋千#: 有没有可能女生用男生头像是因为男生帅呢
+[32m[2023-06-11 03:09:31] [INFO] [39mPaperDr0#114514: 算了别聊这个话题了
+[32m[2023-06-11 03:09:32] [INFO] [39mPaPerCmd#cmd152: >秋千：
+>男生用女生头像难道不都是因为女生漂亮吗（
+
+@秋千 不是 uwu
+[32m[2023-06-11 03:09:40] [INFO] [39m秋千#: 额
+[32m[2023-06-11 03:09:55] [INFO] [39mPaperDr0#114514: 那你加个密码吧
+[32m[2023-06-11 03:10:06] [INFO] [39m秋千#: 密码怎么加啊
+[32m[2023-06-11 03:10:06] [INFO] [39m灯确吉L#DQJL68: @PaperJ 帮我个忙
+[32m[2023-06-11 03:10:14] [INFO] [39mHelloOSMe#NtXVSW: @秋千 用户名#密码
+[32m[2023-06-11 03:10:14] [INFO] [39mPaperDr0#114514: 在名称后面加个`#你的密码`
+[32m[2023-06-11 03:10:21] [INFO] [39m灯确吉L#DQJL68: @PaperJ 帮我个忙
+[32m[2023-06-11 03:10:23] [INFO] [39mPaperDr0#114514: 重新进来
+[32m[2023-06-11 03:10:24] [INFO] [39mHelloOSMe#NtXVSW: 退出重进聊天室
+[32m[2023-06-11 03:10:25] [INFO] [39mPaPerCmd#cmd152: @灯确吉L 
+[32m[2023-06-11 03:10:26] [INFO] [39mDLBot joined
+[32m[2023-06-11 03:10:26] [INFO] [39m秋千#: 是要先退出吗
+[32m[2023-06-11 03:10:28] [INFO] [39mPaperJ#AZ3jF7: >[DQJL68] 灯确吉L：
+>@PaperJ 帮我个忙
+
+@灯确吉L 咋
+[32m[2023-06-11 03:10:30] [INFO] [39mPaperDr0#114514: 刷新
+[32m[2023-06-11 03:10:30] [INFO] [39m秋千 left
+[32m[2023-06-11 03:10:33] [INFO] [39mPaPerCmd#cmd152: @灯确吉L 
+[32m[2023-06-11 03:10:33] [INFO] [39mPaPerCmd#cmd152: @灯确吉L 
+[32m[2023-06-11 03:10:40] [INFO] [39m灯确吉L#DQJL68: >[cmd152] PaPerCmd：
+>@灯确吉L 
+
+@PaPerCmd ?
+[32m[2023-06-11 03:10:40] [INFO] [39m灯确吉L#DQJL68: >[cmd152] PaPerCmd：
+>@灯确吉L 
+
+@PaPerCmd ?
+[32m[2023-06-11 03:10:40] [INFO] [39m灯确吉L#DQJL68: >[cmd152] PaPerCmd：
+>@灯确吉L 
+
+@PaPerCmd ?
+[32m[2023-06-11 03:10:46] [INFO] [39mPaperDr0#114514: 刷屏了
+[32m[2023-06-11 03:10:48] [INFO] [39mServer: PaperDr0 已清除 ?chat 的历史记录
+[32m[2023-06-11 03:10:54] [INFO] [39m灯确吉L#DQJL68: 他问我三遍（（（（（（（
+[32m[2023-06-11 03:10:58] [INFO] [39mPaPerCmd#cmd152: 6
+[32m[2023-06-11 03:11:01] [INFO] [39m秋千 joined
+[32m[2023-06-11 03:11:01] [INFO] [39mServer: 秋千 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 03:11:03] [INFO] [39m秋千#GFFrm5: uwu!
+[32m[2023-06-11 03:11:04] [INFO] [39m灯确吉L#DQJL68: >[DQJL68] 灯确吉L：
+>@PaperJ 帮我个忙
+[32m[2023-06-11 03:11:06] [INFO] [39mPaperDr0#114514: 你俩别刷屏了
+[32m[2023-06-11 03:11:13] [INFO] [39mPaperJ#AZ3jF7: 126.652098,45.755971 这不会是真的经纬度吧
+[32m[2023-06-11 03:11:19] [INFO] [39mPaperJ#AZ3jF7: >[DQJL68] 灯确吉L：
+>>[DQJL68] 灯确吉L：
+>>@PaperJ 帮我个忙
+
+@灯确吉L 帮啥
+[32m[2023-06-11 03:11:28] [INFO] [39mPaPerCmd#cmd152: >[DQJL68] 灯确吉L：
+>他问我三遍（（（（（（（
+
+@灯确吉L 
+# ${\huge 《 学 以 滥 用 》}$
+[32m[2023-06-11 03:11:36] [INFO] [39m灯确吉L#DQJL68: 你现在能不能/sudo然后kick掉DLBot
+[32m[2023-06-11 03:11:40] [INFO] [39mServer: [AZ3jF7] PaperJ 在 ?chat 成功执行了提权操作。
+该用户IP地址：119.112.96.58
+如果您认为本次操作不安全，请立刻执行 `clearpower` 命令并立刻通知所有管理员，同时请联系 Xiao_Zhang_123@outlook.com
+[32m[2023-06-11 03:11:41] [INFO] [39m灯确吉L#DQJL68: 这对我很重要
+[32m[2023-06-11 03:11:44] [INFO] [39mServer: DLBot 被 PaperJ 踢出了聊天室
+[32m[2023-06-11 03:11:44] [INFO] [39mDLBot left
+[32m[2023-06-11 03:11:47] [INFO] [39mPaperJ#AZ3jF7: 完事
+[32m[2023-06-11 03:11:47] [INFO] [39mPaPerCmd#cmd152: @灯确吉L kickzom：6
+[32m[2023-06-11 03:11:53] [INFO] [39m灯确吉L#DQJL68: e
+[32m[2023-06-11 03:11:59] [INFO] [39mPaperDr0#114514: 算了看你也不像你好那边的人，就给你个跳过验证码吧
+[32m[2023-06-11 03:11:59] [INFO] [39m灯确吉L#DQJL68: W S S B
+[32m[2023-06-11 03:12:03] [INFO] [39m双友街23 joined
+[32m[2023-06-11 03:12:08] [INFO] [39mPaperJ left
+[32m[2023-06-11 03:12:11] [INFO] [39m秋千#GFFrm5: 啊
+[32m[2023-06-11 03:12:13] [INFO] [39m哈哈哈哈 joined
+[32m[2023-06-11 03:12:15] [INFO] [39m双友街23 left
+[32m[2023-06-11 03:12:18] [INFO] [39m秋千#GFFrm5: 你好是人吗？
+[32m[2023-06-11 03:12:20] [INFO] [39mPaperDr0#114514: %addSkipCap GFFrm5
+[32m[2023-06-11 03:12:20] [INFO] [39mServer: @CaptchaBot Succeed Add Trip：GFFrm5
+[32m[2023-06-11 03:12:26] [INFO] [39m哈哈哈哈#AZ3jF7: 是的
+[32m[2023-06-11 03:12:36] [INFO] [39mPaperDr0#114514: `你好`不是人，一只狗
+[32m[2023-06-11 03:12:36] [INFO] [39m秋千#GFFrm5: 啊
+[32m[2023-06-11 03:12:47] [INFO] [39mHelloOSMe#NtXVSW: zqd
+[32m[2023-06-11 03:12:53] [INFO] [39mPaperDr0#114514: 一只刷屏的狗（
+[32m[2023-06-11 03:12:59] [INFO] [39m秋千#GFFrm5: 啊
+[32m[2023-06-11 03:12:59] [INFO] [39m哈哈哈哈#AZ3jF7: >[114514] PaperDr0：
+>`你好`不是人，一只狗
+
+@PaperDr0 你好 is a piece of shit
+[32m[2023-06-11 03:13:05] [INFO] [39mPaperDr0#114514: 之前这里总是有人来这里刷屏
+[32m[2023-06-11 03:13:10] [INFO] [39mHelloOSMe#NtXVSW: 但是
+没有恶俗狗可恶
+[32m[2023-06-11 03:13:19] [INFO] [39m你好个锤子 joined
+[32m[2023-06-11 03:13:19] [INFO] [39mServer: 你好个锤子 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 03:13:25] [INFO] [39mPaperDr0#114514: ?
+[32m[2023-06-11 03:13:27] [INFO] [39m你好个锤子 left
+[32m[2023-06-11 03:13:32] [INFO] [39mPaPerCmd left
+[32m[2023-06-11 03:13:38] [INFO] [39m灯确吉L#DQJL68: ？？？？？？？？？
+[32m[2023-06-11 03:13:39] [INFO] [39mHelloOSMe#NtXVSW: lookuplast（）
+[32m[2023-06-11 03:13:44] [INFO] [39m灯确吉L#DQJL68: 9
+[32m[2023-06-11 03:13:47] [INFO] [39m灯确吉L#DQJL68: \/banlast
+[32m[2023-06-11 03:13:49] [INFO] [39mPaperDr0#114514: lookuplast被cmd吃了
+[32m[2023-06-11 03:14:01] [INFO] [39m灯确吉L#DQJL68: bushi
+[32m[2023-06-11 03:14:02] [INFO] [39mHelloOSMe#NtXVSW: 增强脚本了解一下（）
+[32m[2023-06-11 03:14:06] [INFO] [39mServer: PaperDr0 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:14:07] [INFO] [39mPaperDr0#114514: >←：
+>PaPerCmd 扭出了聊天室
+
+@← >←：
+>你好个锤子 掉出了聊天室
+
+@← 
+[32m[2023-06-11 03:14:07] [INFO] [39mMelonCmd joined
+[32m[2023-06-11 03:14:17] [INFO] [39mPaperDr0#114514: cmd最后离开的
+[32m[2023-06-11 03:14:18] [INFO] [39mMelonCmd#cmd152: @PaperDr0 是我，别看了
+[32m[2023-06-11 03:14:22] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 03:14:25] [INFO] [39mHelloOSMe#NtXVSW: 9
+[32m[2023-06-11 03:14:32] [INFO] [39mPaperDr0#114514: >*：
+>MelonCmd 的曾用名有：nnd我成代理了是不是、我姓周名树人全名洲际导弹、cmd1152、FAWE、MelonCmd_bot、质子_盲猜是封禁、MelonCmd、MsgBot、owo、Chat纪PT、你好个锤子
+
+@* 9
+[32m[2023-06-11 03:15:28] [INFO] [39mDLBot joined
+[32m[2023-06-11 03:15:35] [INFO] [39mDLBot left
+[32m[2023-06-11 03:15:52] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:15:53] [INFO] [39mMelonCmd#cmd152: >[114514] PaperDr0：
+>>*：
+>>MelonCmd 的曾用名有：nnd我成代理了是不是、我姓周名树人全名洲际导弹、cmd1152、FAWE、MelonCmd_bot、质子_盲猜是封禁、MelonCmd、MsgBot、owo、Chat纪PT、你好个锤子、大家好个锤子、晚上好好锤子、早上好个锤子、全民制作人大家好个锤子、中午好个锤子
+>
+>@* 9
+
+@PaperDr0 
+[32m[2023-06-11 03:16:06] [INFO] [39m秋千#GFFrm5: 啊
+[32m[2023-06-11 03:16:09] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 03:16:33] [INFO] [39mPaperDr0#114514: 就你花样多
+[32m[2023-06-11 03:16:37] [INFO] [39mDLBot joined
+[32m[2023-06-11 03:16:43] [INFO] [39m秋千#GFFrm5: awa!
+[32m[2023-06-11 03:16:44] [INFO] [39mDLBot left
+[32m[2023-06-11 03:17:06] [INFO] [39m秋千#GFFrm5: 所以这个聊天室平时都聊什么啊
+[32m[2023-06-11 03:17:15] [INFO] [39mHelloOSMe#NtXVSW: 啥都聊（）
+[32m[2023-06-11 03:17:16] [INFO] [39mMelonCmd#cmd152: >[GFFrm5] 秋千：
+>所以这个聊天室平时都聊什么啊
+
+@秋千 聊天
+[32m[2023-06-11 03:17:18] [INFO] [39mHelloOSMe#NtXVSW: 代码
+[32m[2023-06-11 03:17:24] [INFO] [39mHelloOSMe#NtXVSW: 搞基（）
+[32m[2023-06-11 03:17:28] [INFO] [39mHelloOSMe#NtXVSW: （逃
+[32m[2023-06-11 03:17:30] [INFO] [39mPaperDr0#114514: >[NtXVSW] HelloOSMe：
+>搞基（）
+
+@HelloOSMe 逆天
+[32m[2023-06-11 03:17:35] [INFO] [39mPaperDr0#114514: 搞只因
+[32m[2023-06-11 03:17:38] [INFO] [39mDLBot joined
+[32m[2023-06-11 03:17:42] [INFO] [39mDLBot left
+[32m[2023-06-11 03:17:43] [INFO] [39m秋千#GFFrm5: 啊，打扰了
+[32m[2023-06-11 03:17:44] [INFO] [39mMelonCmd#cmd152: 搞h（ao）
+[32m[2023-06-11 03:17:46] [INFO] [39mHelloOSMe#NtXVSW: 生活（）
+[32m[2023-06-11 03:17:48] [INFO] [39mDLBot joined
+[32m[2023-06-11 03:17:57] [INFO] [39m灯确吉L#DQJL68: >[DQJL68] →：
+>美丽的 DLBot 闯入了聊天室
+>TA正在使用 未知客户端
+>系统认证：[DLMSS生存服务器](https://lightworld689.github.io)作者 | [ZhangChat梗图站](https://lightworld689.github.io/zhangchat)作者
+
+@→ YESSSSSSSSSSSSSSSSSSSSS!
+[32m[2023-06-11 03:18:00] [INFO] [39mHelloOSMe#NtXVSW: 以及整xss（）
+[32m[2023-06-11 03:18:05] [INFO] [39mHelloOSMe#NtXVSW: xxs（）
+[32m[2023-06-11 03:18:07] [INFO] [39m秋千#GFFrm5: 我还在想这个聊天室为什么都是男生...
+[32m[2023-06-11 03:18:08] [INFO] [39mPaperDr0#114514: >[NtXVSW] HelloOSMe：
+>以及整xxs（）
+
+@HelloOSMe 
+[32m[2023-06-11 03:18:14] [INFO] [39mDLBot left
+[32m[2023-06-11 03:18:15] [INFO] [39mPaperDr0#114514: 我是女的捏
+[32m[2023-06-11 03:18:29] [INFO] [39m灯确吉L#DQJL68: >←：
+>DLBot 滚出了聊天室
+
+@← 挂上服务器喽~
+[32m[2023-06-11 03:18:31] [INFO] [39mMelonCmd#cmd152: >[cmd152] MelonCmd：
+>搞h（ao）
+
+搞皓 / 搞h（嗷~）
+[32m[2023-06-11 03:18:44] [INFO] [39m灯确吉L#DQJL68: （小声：真的不是日志机器人吗
+[32m[2023-06-11 03:18:46] [INFO] [39m秋千#GFFrm5: 凭我的第六感来看你们都是男生吧
+[32m[2023-06-11 03:19:01] [INFO] [39mMelonCmd#cmd152: >[NtXVSW] HelloOSMe：
+>以及整xss（）
+
+@HelloOSMe 我：cc（~~copy code~~）
+[32m[2023-06-11 03:19:08] [INFO] [39mHelloOSMe#NtXVSW: 草@MelonCmd 
+[32m[2023-06-11 03:19:19] [INFO] [39mMelonCmd#cmd152: 6
+[32m[2023-06-11 03:19:27] [INFO] [39mHelloOSMe#NtXVSW: dos（disk operating system）（）
+[32m[2023-06-11 03:19:40] [INFO] [39mMelonCmd#cmd152: sql（spam que lost）
+[32m[2023-06-11 03:20:19] [INFO] [39mHelloOSMe#NtXVSW: cpp（Cā Pìpì）
+[32m[2023-06-11 03:20:22] [INFO] [39mMelonCmd#cmd152: nasm（那sm）
+[32m[2023-06-11 03:20:28] [INFO] [39mMelonCmd#cmd152: >[NtXVSW] HelloOSMe：
+>cpp（Cā Pìpì）
+
+@HelloOSMe 9
+[32m[2023-06-11 03:20:33] [INFO] [39mHelloOSMe#NtXVSW: VB（wǒbà）
+[32m[2023-06-11 03:20:43] [INFO] [39mHelloOSMe#NtXVSW: （）
+[32m[2023-06-11 03:20:51] [INFO] [39mMelonCmd#cmd152: VB（View BB）
+[32m[2023-06-11 03:20:53] [INFO] [39mHelloOSMe#NtXVSW: ^help
+[32m[2023-06-11 03:20:53] [INFO] [39mServer: 你向 @HelloOSMe 发送私信：.
+# $$404\ Not\ Found$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-11 03:20:57] [INFO] [39mHelloOSMe#NtXVSW: 以及
+[32m[2023-06-11 03:20:59] [INFO] [39mMelonCmd#cmd152: ~~禁止改成小写~~
+[32m[2023-06-11 03:21:01] [INFO] [39m灯确吉L#DQJL68: js(jia de guai shou)
+[32m[2023-06-11 03:21:02] [INFO] [39mHelloOSMe#NtXVSW: 这个zhhelp
+[32m[2023-06-11 03:21:11] [INFO] [39mHelloOSMe#NtXVSW: 是空壳？
+[32m[2023-06-11 03:21:15] [INFO] [39mMelonCmd#cmd152: ^help
+[32m[2023-06-11 03:21:15] [INFO] [39mServer: 你向 @MelonCmd 发送私信：.
+# $$404\ Not\ Found$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-11 03:21:16] [INFO] [39m秋千#GFFrm5: 你们在说什么语言
+[32m[2023-06-11 03:21:20] [INFO] [39m灯确吉L#DQJL68: ^help
+[32m[2023-06-11 03:21:20] [INFO] [39mServer: 你向 @灯确吉L 发送私信：.
+# $$404\ Not\ Found$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-11 03:21:21] [INFO] [39mPaperDr0#114514: ![](https://imagebed.s3.bitiful.net/fO4dhUlso0_image.png)
+[32m[2023-06-11 03:21:24] [INFO] [39mPaperDr0#114514: 这是我捏
+[32m[2023-06-11 03:21:27] [INFO] [39mHelloOSMe#NtXVSW: 996
+[32m[2023-06-11 03:21:27] [INFO] [39m秋千#GFFrm5: 6
+[32m[2023-06-11 03:21:32] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:21:33] [INFO] [39m灯确吉L#DQJL68: 鉴定完毕
+[32m[2023-06-11 03:21:33] [INFO] [39mMelonCmd#cmd152: >[Zhang+] *：
+>ZhangHelper365 向你发送私信：.
+># $$403\ 拒绝\ 访问$$
+>---
+>$$ZhangHelper\ Kernel$$
+
+@* 
+[32m[2023-06-11 03:21:36] [INFO] [39m灯确吉L#DQJL68: 网图
+[32m[2023-06-11 03:21:37] [INFO] [39mPaperDr0#114514: 别不信啊
+[32m[2023-06-11 03:21:42] [INFO] [39mPaperDr0#114514: 什么网图
+[32m[2023-06-11 03:21:50] [INFO] [39m灯确吉L#DQJL68: 行行行我信了
+[32m[2023-06-11 03:21:59] [INFO] [39mServer: 秋千 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:22:00] [INFO] [39m秋千#GFFrm5: https://ts1.cn.mm.bing.net/th/id/R-C.419733c9db903543d282874c6ac5255e?rik=SQsJnesYgB%2b9iw&riu=http%3a%2f%2fwww.jiroubaobao.com%2fUploadFiles%2f2020-10%2f75%2fE132473299827630.jpg&ehk=9GYMGSLh%2ff2nmfugLcDG2pQLD%2fbVuPUFjRjmSndQlEc%3d&risl=&pid=ImgRaw&r=0 这是我捏
+[32m[2023-06-11 03:22:03] [INFO] [39mMelonCmd#cmd152: 我不信
+[32m[2023-06-11 03:22:09] [INFO] [39mMelonCmd#cmd152: 除非你换个角度拍（
+[32m[2023-06-11 03:22:22] [INFO] [39mServer: 灯确吉L 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:22:23] [INFO] [39m灯确吉L#DQJL68: >[GFFrm5] 秋千：
+>https://ts1.cn.mm.bing.net/th/id/R-C.419733c9db903543d282874c6ac5255e?rik=SQsJnesYgB%2b9iw&riu=http%3a%2f%2fwww.jiroubaobao.com%2fUploadFiles%2f2020-10%2f75%2fE132473299827630.jpg&ehk=9GYMGSLh%2ff2nmfugLcDG2pQLD%2fbVuPUFjRjmSndQlEc%3d&risl=&pid=ImgRaw&r=0 这是我捏
+
+@秋千 99999999999999999999996
+[32m[2023-06-11 03:22:32] [INFO] [39mServer: HelloOSMe 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:22:33] [INFO] [39mHelloOSMe#NtXVSW: @秋千 
+> https://ts1.cn.mm.==bing.net==/th/id/R-C.419733c9db903543d282874c6ac5255e?rik=SQsJnesYgB%2b9iw&riu=http%3a%2f%2fwww.jiroubaobao.com%2fUploadFiles%2f2020-10%2f75%2fE132473299827630.jpg&ehk=9GYMGSLh%2ff2nmfugLcDG2pQLD%2fbVuPUFjRjmSndQlEc%3d&risl=&pid=ImgRaw&r=0
+[32m[2023-06-11 03:23:04] [INFO] [39mServer: 灯确吉L 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:23:05] [INFO] [39m灯确吉L#DQJL68: https://cn.bing.com/images/search?view=detailV2&ccid=Gfy7gTG7&id=A7DE42FE2D2BD156703C51D16DBAD5647DFBA0C4&thid=OIP.Gfy7gTG7p6Nqvexkg7v2GwHaEK&mediaurl=https%3a%2f%2fts1.cn.mm.bing.net%2fth%2fid%2fR-C.19fcbb8131bba7a36abdec6483bbf61b%3frik%3dxKD7fWTVum3RUQ%26riu%3dhttp%253a%252f%252fpuui.qpic.cn%252fvpic_cover%252fy32607gcr3v%252fy32607gcr3v_hz.jpg%252f1280%26ehk%3dYBq6FaMxvwdRO1FyafWKf6vN0BKEltp%252fB7MJvfRPwtk%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=720&expw=1280&q=%e5%8f%aa%e5%9b%a0%e4%bd%a0%e5%a4%aa%e7%be%8e&simid=608031279274941187&FORM=IRPRST&ck=AE937239CCB8E32AD324054F25646496&selectedIndex=29
+[32m[2023-06-11 03:23:07] [INFO] [39m灯确吉L#DQJL68: 这是我捏
+[32m[2023-06-11 03:23:13] [INFO] [39mHelloOSMe#NtXVSW: 996
+[32m[2023-06-11 03:23:19] [INFO] [39mPaperDr0#114514: 996
+[32m[2023-06-11 03:23:26] [INFO] [39m秋千#GFFrm5: 不要这么无聊了各位
+[32m[2023-06-11 03:23:39] [INFO] [39mPaperDr0#114514: 别不信捏，我都晒图出来了
+[32m[2023-06-11 03:23:41] [INFO] [39m秋千#GFFrm5: 你们都和我同龄吗
+[32m[2023-06-11 03:23:49] [INFO] [39mHelloOSMe#NtXVSW: 你多大（）
+[32m[2023-06-11 03:23:49] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:23:50] [INFO] [39mMelonCmd#cmd152: >[Zhang+] *：
+>ZhangHelper365 向你发送私信：.
+>400 Bad Request
+>401 Unauthorized
+>402 Payment Required
+>403 Forbidden
+>404 Not Found
+>405 Method Not Allowed
+>406 Not Acceptable
+>407 Proxy Authentication Required
+>408 Request Timeout
+>409 Conflict
+>410 Gone
+>411 Length Required
+>412 Precondition Failed
+>413 Payload Too Large
+>414 URI Too Long
+>415 Unsupported Media Type
+>416 Range Not Satisfiable
+>417 Expectation Failed
+>418 I'm a teapot，RFC 2324
+>421 Misdirected Request
+>422 Unprocessable Entity
+>423 Locked
+>424 Failed Dependency
+>425 Too Early
+>426 Upgrade Required
+>428 Precondition Required
+>429 Too Many Requests
+>431 Request Header Fields Too Large
+>451 Unavailable For Legal Reasons
+>---
+>$$ZhangHelper\ Kernel$$
+
+@* ？
+[32m[2023-06-11 03:23:52] [INFO] [39m秋千#GFFrm5: 看起来都好傻的样子
+[32m[2023-06-11 03:23:58] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 03:24:05] [INFO] [39m秋千#GFFrm5: 13
+[32m[2023-06-11 03:24:06] [INFO] [39mPaperDr0#114514: 老娘比你大捏
+[32m[2023-06-11 03:24:09] [INFO] [39mPaperDr0#114514: 16
+[32m[2023-06-11 03:24:12] [INFO] [39mHelloOSMe#NtXVSW: 比你大捏
+[32m[2023-06-11 03:24:16] [INFO] [39mHelloOSMe#NtXVSW: 14（）
+[32m[2023-06-11 03:24:22] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:24:22] [INFO] [39m秋千#GFFrm5: 套路我
+[32m[2023-06-11 03:24:23] [INFO] [39mMelonCmd#cmd152: >[cmd152] MelonCmd：
+>>[Zhang+] *：
+>>ZhangHelper365 向你发送私信：.
+>>400 Bad Request
+>>401 Unauthorized
+>>402 Payment Required
+>>403 Forbidden
+>>404 Not Found
+>>405 Method Not Allowed
+>……
+
+有没有人解释一下
+[32m[2023-06-11 03:24:28] [INFO] [39mHelloOSMe#NtXVSW: 没有（）
+[32m[2023-06-11 03:25:02] [INFO] [39m灯确吉L#DQJL68: @MelonCmd tm418都出来了
+[32m[2023-06-11 03:25:24] [INFO] [39mMelonCmd#cmd152: >[DQJL68] 灯确吉L：
+>@MelonCmd tm418都出来了
+
+@灯确吉L :D
+[32m[2023-06-11 03:25:27] [INFO] [39mHelloOSMe#NtXVSW: 目前
+[32m[2023-06-11 03:25:29] [INFO] [39m哈哈哈哈#AZ3jF7: >[GFFrm5] 秋千：
+>13
+
+@秋千 比你小捏 11
+[32m[2023-06-11 03:25:37] [INFO] [39mHelloOSMe#NtXVSW: 想写一个程序（）
+[32m[2023-06-11 03:25:39] [INFO] [39mServer: 灯确吉L 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:25:40] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:25:40] [INFO] [39m灯确吉L#DQJL68: >[AZ3jF7] 哈哈哈哈：
+>>[GFFrm5] 秋千：
+>>13
+>
+>@秋千 比你小捏 11
+
+@哈哈哈哈 比你大捏 12
+[32m[2023-06-11 03:25:41] [INFO] [39mMelonCmd#cmd152: >[AZ3jF7] 哈哈哈哈：
+>>[GFFrm5] 秋千：
+>>13
+>
+>@秋千 比你小捏 11
+
+@哈哈哈哈 我 = @哈哈哈哈 
+[32m[2023-06-11 03:25:43] [INFO] [39mHelloOSMe#NtXVSW: 类似php
+[32m[2023-06-11 03:25:49] [INFO] [39mHelloOSMe#NtXVSW: 服务器（）
+[32m[2023-06-11 03:25:53] [INFO] [39m秋千#GFFrm5: @PaperDr0 欸你这个密码怎么弄得
+[32m[2023-06-11 03:26:08] [INFO] [39mHelloOSMe#NtXVSW: 识别码@秋千 
+[32m[2023-06-11 03:26:12] [INFO] [39mPaperDr0#114514: 信我，老娘真的是女的捏
+[32m[2023-06-11 03:26:14] [INFO] [39m秋千#GFFrm5: 不是
+[32m[2023-06-11 03:26:18] [INFO] [39mHelloOSMe#NtXVSW: 那是定制款（）
+[32m[2023-06-11 03:26:21] [INFO] [39mMelonCmd#cmd152: 我也是quq
+[32m[2023-06-11 03:26:26] [INFO] [39m灯确吉L#DQJL68: 我也是awa
+[32m[2023-06-11 03:26:27] [INFO] [39m秋千#GFFrm5: 你的密码暴露了你（
+[32m[2023-06-11 03:26:31] [INFO] [39mHelloOSMe#NtXVSW: 得找ZHR（）
+[32m[2023-06-11 03:26:36] [INFO] [39mPaperDr0#114514: 我是女homo捏
+[32m[2023-06-11 03:26:52] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:26:53] [INFO] [39mMelonCmd#cmd152: >[Zhang+] *：
+>ZhangHelper365 向你发送私信：.
+>400 Bad Request
+>401 Unauthorized
+>402 Payment Required
+>403 Forbidden
+>404 Not Found
+>405 Method Not Allowed
+>406 Not Acceptable
+>407 Proxy Authentication Required
+>408 Request Timeout
+>409 Conflict
+>410 Gone
+>411 Length Required
+>412 Precondition Failed
+>413 Payload Too Large
+>414 URI Too Long
+>415 Unsupported Media Type
+>416 Range Not Satisfiable
+>417 Expectation Failed
+>418 I'm a teapot，RFC 2324
+>421 Misdirected Request
+>422 Unprocessable Entity
+>423 Locked
+>424 Failed Dependency
+>425 Too Early
+>426 Upgrade Required
+>428 Precondition Required
+>429 Too Many Requests
+>431 Request Header Fields Too Large
+>451 Unavailable For Legal Reasons
+>---
+>$$ZhangHelper\ Kernel$$
+
+@* ？
+[32m[2023-06-11 03:26:59] [INFO] [39m秋千#GFFrm5: @PaperDr0 这算不算自相矛盾
+[32m[2023-06-11 03:27:00] [INFO] [39mMelonCmd#cmd152: c，没按到shift
+[32m[2023-06-11 03:27:28] [INFO] [39m秋千#GFFrm5: 女的homo
+[32m[2023-06-11 03:27:31] [INFO] [39mPaperDr0#114514: 为什么矛盾捏
+[32m[2023-06-11 03:27:40] [INFO] [39mPaperDr0#114514: 女homo就是女童鸭
+[32m[2023-06-11 03:27:44] [INFO] [39mPaperDr0#114514: 女homo就是女同鸭
+[32m[2023-06-11 03:27:45] [INFO] [39mMelonCmd#cmd152: @秋千 500 Internal Server Error
+[32m[2023-06-11 03:27:51] [INFO] [39m秋千#GFFrm5: 额
+[32m[2023-06-11 03:28:05] [INFO] [39mMelonCmd#cmd152: @秋千 418 I'm a teapot，RFC 2324
+[32m[2023-06-11 03:28:22] [INFO] [39m秋千#GFFrm5: ？
+[32m[2023-06-11 03:28:26] [INFO] [39mPaperDr0#114514: 11月4日是我的生日 514是我最喜欢的数字鸭
+[32m[2023-06-11 03:28:30] [INFO] [39mMelonCmd#cmd152: @秋千 429 Too Many Requests
+[32m[2023-06-11 03:28:32] [INFO] [39mHelloOSMe#NtXVSW: （）
+[32m[2023-06-11 03:29:00] [INFO] [39mOutlier joined
+[32m[2023-06-11 03:29:00] [INFO] [39mServer: Outlier 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 03:29:01] [INFO] [39m秋千#GFFrm5: @PaperDr0 1913年11月4日：袁世凯下令解散国民党
+[32m[2023-06-11 03:29:03] [INFO] [39mMelonCmd#cmd152: @秋千 429 Too Many Requests
+[32m[2023-06-11 03:29:13] [INFO] [39mMelonCmd#cmd152: >[cmd152] MelonCmd：
+>@秋千 500 Internal Server Error
+
+翻译：cmd炸了
+[32m[2023-06-11 03:29:13] [INFO] [39mHelloOSMe#NtXVSW: 996
+[32m[2023-06-11 03:29:27] [INFO] [39mMelonCmd#cmd152: >[cmd152] MelonCmd：
+>@秋千 418 I'm a teapot，RFC 2324
+
+翻译：你看起来像爬虫，我是个茶壶
+[32m[2023-06-11 03:29:39] [INFO] [39m秋千#GFFrm5: 1889年11月4日：第一任印度总理尼赫鲁诞生
+[32m[2023-06-11 03:29:44] [INFO] [39mMelonCmd#cmd152: >[cmd152] MelonCmd：
+>@秋千 429 Too Many Requests
+
+废话太多 =0
+[32m[2023-06-11 03:29:48] [INFO] [39mPaperDr0#114514: 你没事吧
+[32m[2023-06-11 03:30:02] [INFO] [39mPaperDr0#114514: 11月4日真的是我的生日鸭
+[32m[2023-06-11 03:30:21] [INFO] [39m秋千#GFFrm5: 我走了，不再见
+[32m[2023-06-11 03:30:26] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 03:30:28] [INFO] [39mMelonCmd#cmd152: @秋千 425 Too Early
+[32m[2023-06-11 03:30:29] [INFO] [39mHelloOSMe#NtXVSW: @PaperDr0 结论：你是尼赫鲁（）
+[32m[2023-06-11 03:30:29] [INFO] [39mOutlier#UgMIHN: 9
+[32m[2023-06-11 03:30:30] [INFO] [39m秋千#GFFrm5: 掰掰
+[32m[2023-06-11 03:30:33] [INFO] [39m秋千 left
+[32m[2023-06-11 03:30:36] [INFO] [39mLight joined
+[32m[2023-06-11 03:30:36] [INFO] [39mServer: Light 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 03:30:39] [INFO] [39mMelonCmd#cmd152: >[cmd152] MelonCmd：
+>@秋千 425 Too Early
+
+翻译：太早走了，多玩玩啊
+[32m[2023-06-11 03:30:42] [INFO] [39mOutlier#UgMIHN: @HelloOSMe nonono
+[32m[2023-06-11 03:30:45] [INFO] [39mOutlier#UgMIHN: no
+[32m[2023-06-11 03:30:47] [INFO] [39mPaperDr0#114514: 996
+[32m[2023-06-11 03:30:51] [INFO] [39mHelloOSMe#NtXVSW: 96
+[32m[2023-06-11 03:30:53] [INFO] [39mLight#iceice: Dont’ be afraid,we are the ones who helps you
+[32m[2023-06-11 03:30:56] [INFO] [39mLight#iceice: find the way
+[32m[2023-06-11 03:31:06] [INFO] [39mOutlier#UgMIHN: 尼世凯
+[32m[2023-06-11 03:31:11] [INFO] [39mLight#iceice: 来nia
+[32m[2023-06-11 03:31:18] [INFO] [39mMelonCmd#cmd152: @Light 400 Bad Request（发的什么乱七八糟的东西）
+[32m[2023-06-11 03:31:21] [INFO] [39mLight#iceice: So much to say but
+[32m[2023-06-11 03:31:27] [INFO] [39mLight#iceice: Don’t be here to stay
+[32m[2023-06-11 03:31:30] [INFO] [39mLight#iceice: 你猜
+[32m[2023-06-11 03:31:35] [INFO] [39mMelonCmd#cmd152: @Light 400 Bad Request（发的什么乱七八糟的东西）
+[32m[2023-06-11 03:31:53] [INFO] [39mLight#iceice: <200>
+[32m[2023-06-11 03:32:00] [INFO] [39mLight#iceice: Status Code:O 200
+[32m[2023-06-11 03:32:04] [INFO] [39mMelonCmd#cmd152: @Light 406 Not Acceptable
+[32m[2023-06-11 03:32:18] [INFO] [39mLight#iceice: 6
+[32m[2023-06-11 03:32:39] [INFO] [39mLight#iceice: 好无聊啊
+[32m[2023-06-11 03:32:46] [INFO] [39mOutlier#UgMIHN: @MelonCmd 玩不玩
+[32m[2023-06-11 03:32:57] [INFO] [39mLight#iceice: @Outlier ？
+[32m[2023-06-11 03:33:02] [INFO] [39mMelonCmd#cmd152: >[UgMIHN] Outlier：
+>@MelonCmd 玩不玩
+
+@Outlier 406 Not Acceptable（玩什么啊？）
+[32m[2023-06-11 03:33:10] [INFO] [39mLight#iceice: 玩啥
+[32m[2023-06-11 03:33:15] [INFO] [39mOutlier#UgMIHN: mc
+[32m[2023-06-11 03:33:19] [INFO] [39mLight#iceice: 没事了
+[32m[2023-06-11 03:33:31] [INFO] [39mMelonCmd#cmd152: >[UgMIHN] Outlier：
+>mc
+
+@Outlier 100 Continue（版本和IP？）
+[32m[2023-06-11 03:33:40] [INFO] [39mLight#iceice: 我还得通知后期服务器更换至1.2
+[32m[2023-06-11 03:33:45] [INFO] [39mLight#iceice: 1.20
+[32m[2023-06-11 03:33:49] [INFO] [39mOutlier#UgMIHN: Minecraft
+[32m[2023-06-11 03:33:55] [INFO] [39mLight#iceice: 存档重置问题
+[32m[2023-06-11 03:33:58] [INFO] [39mServer: 灯确吉L 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:33:58] [INFO] [39mMelonCmd#cmd152: >[UgMIHN] Outlier：
+>Minecraft
+
+@Outlier 100 Continue（版本和IP？）
+[32m[2023-06-11 03:33:59] [INFO] [39m灯确吉L#DQJL68: >[cmd152] MelonCmd：
+>>[UgMIHN] Outlier：
+>>mc
+>
+>@Outlier 100 Continue（版本和IP？）
+
+@MelonCmd POST play.lr689.ml （（（
+[32m[2023-06-11 03:34:09] [INFO] [39mLight#iceice: 官网还要搞遇难解答
+[32m[2023-06-11 03:34:20] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:34:21] [INFO] [39mMelonCmd#cmd152: >[DQJL68] 灯确吉L：
+>>[cmd152] MelonCmd：
+>>>[UgMIHN] Outlier：
+>>>mc
+>>
+>>@Outlier 100 Continue（版本和IP？）
+>
+>@MelonCmd POST play.lr689.ml （（（
+
+@灯确吉L 405 Method Not Allowed（tcp呢post是不是）
+[32m[2023-06-11 03:34:27] [INFO] [39mOutlier#UgMIHN: @灯确吉L 你惨遭小怪击杀
+[32m[2023-06-11 03:34:30] [INFO] [39mLight#iceice: post？
+[32m[2023-06-11 03:34:38] [INFO] [39mLight#iceice: 我的世界啥时候用post了。。
+[32m[2023-06-11 03:35:05] [INFO] [39mServer: 灯确吉L 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:35:06] [INFO] [39m灯确吉L#DQJL68: >[cmd152] MelonCmd：
+>>[DQJL68] 灯确吉L：
+>>>[cmd152] MelonCmd：
+>>>>[UgMIHN] Outlier：
+>>>>mc
+>>>
+>>>@Outlier 100 Continue（版本和IP？）
+>>
+>>@MelonCmd POST play.lr689.ml （（（
+>……
+
+@MelonCmd 500 Internel Server Error
+[32m[2023-06-11 03:35:09] [INFO] [39mMelonCmd#cmd152: >[iceice] Light：
+>官网还要搞遇难解答
+
+@Light ？
+[32m[2023-06-11 03:35:16] [INFO] [39mServer: 灯确吉L 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:35:17] [INFO] [39m灯确吉L#DQJL68: >[cmd152] MelonCmd：
+>>[DQJL68] 灯确吉L：
+>>>[cmd152] MelonCmd：
+>>>>[UgMIHN] Outlier：
+>>>>mc
+>>>
+>>>@Outlier 100 Continue（版本和IP？）
+>>
+>>@MelonCmd POST play.lr689.ml （（（
+>……
+
+@MelonCmd 500 Internel Server Error（没听懂
+[32m[2023-06-11 03:35:23] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:35:24] [INFO] [39mMelonCmd#cmd152: >[DQJL68] 灯确吉L：
+>>[cmd152] MelonCmd：
+>>>[DQJL68] 灯确吉L：
+>>>>[cmd152] MelonCmd：
+>>>>>[UgMIHN] Outlier：
+>>>>>mc
+>>>>
+>>>>@Outlier 100 Continue（版本和IP？）
+>>>
+>……
+
+@灯确吉L 500 Internal Server Error（？）
+[32m[2023-06-11 03:35:48] [INFO] [39m灯确吉L_电脑2 left
+[32m[2023-06-11 03:35:52] [INFO] [39m灯确吉L#DQJL68: >←：
+>灯确吉L_电脑2 扭出了聊天室
+
+@← ？
+[32m[2023-06-11 03:35:53] [INFO] [39mDeAs2_ joined
+[32m[2023-06-11 03:35:53] [INFO] [39mOutlier#UgMIHN: 我靠
+[32m[2023-06-11 03:35:59] [INFO] [39mDeAs2_#Carbon: 呦西
+[32m[2023-06-11 03:36:00] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:36:01] [INFO] [39mMelonCmd#cmd152: >[DQJL68] 灯确吉L：
+>>[cmd152] MelonCmd：
+>>>[DQJL68] 灯确吉L：
+>>>>[cmd152] MelonCmd：
+>>>>>[UgMIHN] Outlier：
+>>>>>mc
+>>>>
+>>>>@Outlier 100 Continue（版本和IP？）
+>>>
+>……
+
+@灯确吉L 200 OK （tcp你tmpost是不是）
+[32m[2023-06-11 03:36:02] [INFO] [39mOutlier#UgMIHN: 后台更新1.20
+[32m[2023-06-11 03:36:16] [INFO] [39mOutlier#UgMIHN: 给我电脑整死鸡了
+[32m[2023-06-11 03:36:31] [INFO] [39mDLBot joined
+[32m[2023-06-11 03:36:33] [INFO] [39mLight#iceice: 1.20我觉得还行
+[32m[2023-06-11 03:36:35] [INFO] [39mLight#iceice: 越来越卡
+[32m[2023-06-11 03:36:39] [INFO] [39mMelonCmd#cmd152: >[iceice] Light：
+>1.20我觉得还行
+
+@Light 425 Too Early
+[32m[2023-06-11 03:36:40] [INFO] [39mDLBot left
+[32m[2023-06-11 03:36:46] [INFO] [39mLight#iceice: 还好有otf
+[32m[2023-06-11 03:36:47] [INFO] [39mDeAs2_#Carbon: ![](https://img.zhangsoft.cf/img/i9m1afgs)
+[32m[2023-06-11 03:36:49] [INFO] [39mLight#iceice: opt
+[32m[2023-06-11 03:36:59] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 03:37:02] [INFO] [39mDeAs2_#Carbon: 13个
+[32m[2023-06-11 03:37:06] [INFO] [39mLight#iceice: ？
+[32m[2023-06-11 03:37:09] [INFO] [39m灯确吉L#DQJL68: 讲个笑话
+[32m[2023-06-11 03:37:15] [INFO] [39mLight#iceice: 啥
+[32m[2023-06-11 03:37:17] [INFO] [39mMelonCmd#cmd152: 100 Continue（肚子疼上厕所啊）
+[32m[2023-06-11 03:37:19] [INFO] [39mOutlier#UgMIHN: 我要不要搞高清修复
+[32m[2023-06-11 03:37:25] [INFO] [39mDeAs2_#Carbon: ！！！
+[32m[2023-06-11 03:37:28] [INFO] [39m灯确吉L#DQJL68: 现在的DLBot是使用==xc==的py支持库
+[32m[2023-06-11 03:37:32] [INFO] [39mOutlier#UgMIHN: 搞了吧能加光影
+[32m[2023-06-11 03:37:32] [INFO] [39mDeAs2_#Carbon: Out来力
+[32m[2023-06-11 03:37:33] [INFO] [39mLight#iceice: 还记得以前1.12的win105吗
+[32m[2023-06-11 03:37:43] [INFO] [39mLight#iceice: 还和cmd玩猎人追杀
+[32m[2023-06-11 03:37:52] [INFO] [39mLight#iceice: 然后他开挂的事
+[32m[2023-06-11 03:38:00] [INFO] [39mOutlier#UgMIHN: @DeAs2_ ？？？
+[32m[2023-06-11 03:38:04] [INFO] [39mOutlier#UgMIHN: 你是？
+[32m[2023-06-11 03:38:07] [INFO] [39mLight#iceice: win105偷东西，殴打群众
+[32m[2023-06-11 03:38:13] [INFO] [39mLight#iceice: @Outlier ？
+[32m[2023-06-11 03:38:29] [INFO] [39mLight#iceice: 那个时候很热闹，后来都走了
+[32m[2023-06-11 03:38:45] [INFO] [39mLight#iceice: win105神秘失踪
+[32m[2023-06-11 03:38:48] [INFO] [39mOutlier#UgMIHN: 惹不起
+[32m[2023-06-11 03:38:51] [INFO] [39mOutlier#UgMIHN: 惹不起
+[32m[2023-06-11 03:38:53] [INFO] [39m灯确吉L#DQJL68: ![](https://s1.ax1x.com/2022/12/20/zOiMkV.png)
+[32m[2023-06-11 03:38:54] [INFO] [39mLight#iceice: ？
+[32m[2023-06-11 03:39:06] [INFO] [39mOutlier#UgMIHN: 装一半电脑死鸡了
+[32m[2023-06-11 03:39:10] [INFO] [39m灯确吉L#DQJL68: 呸发错了
+[32m[2023-06-11 03:39:11] [INFO] [39mLight#iceice: 我是ice
+[32m[2023-06-11 03:39:12] [INFO] [39mOutlier#UgMIHN: 不装了
+[32m[2023-06-11 03:39:17] [INFO] [39mOutlier#UgMIHN: 哥不用
+[32m[2023-06-11 03:39:20] [INFO] [39mLight#iceice: 你信吗
+[32m[2023-06-11 03:39:27] [INFO] [39mLight left
+[32m[2023-06-11 03:39:33] [INFO] [39mOutlier#UgMIHN: 怎么说
+[32m[2023-06-11 03:39:42] [INFO] [39mOutlier#UgMIHN: 关于@Light 这段记忆有点模糊
+[32m[2023-06-11 03:39:44] [INFO] [39mice joined
+[32m[2023-06-11 03:39:44] [INFO] [39mServer: ice 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 03:39:48] [INFO] [39mice#iceice: hoo
+[32m[2023-06-11 03:39:58] [INFO] [39mice#iceice: 老昵称限时回归
+[32m[2023-06-11 03:40:04] [INFO] [39mOutlier#UgMIHN: 但你既然敢说
+[32m[2023-06-11 03:40:12] [INFO] [39mice#iceice: 还有豹豹
+[32m[2023-06-11 03:40:12] [INFO] [39mOutlier#UgMIHN: 我就敢信）
+[32m[2023-06-11 03:40:14] [INFO] [39mice#iceice: ？
+[32m[2023-06-11 03:40:17] [INFO] [39mServer: 灯确吉L 已清除 ?chat 的历史记录
+[32m[2023-06-11 03:40:21] [INFO] [39mDeAs2_#Carbon: 草死了
+[32m[2023-06-11 03:40:22] [INFO] [39mice#iceice: mike我还能联系
+[32m[2023-06-11 03:40:34] [INFO] [39m灯确吉L#DQJL68: nb
+[32m[2023-06-11 03:40:36] [INFO] [39mDeAs2_#Carbon: >[DQJL68] 灯确吉L：
+>![](https://s1.ax1x.com/2022/12/20/zOiMkV.png)
+
+@灯确吉L 996
+[32m[2023-06-11 03:40:38] [INFO] [39mOutlier#UgMIHN: xxs
+[32m[2023-06-11 03:40:39] [INFO] [39mDeAs2_#Carbon: 还留着呢
+[32m[2023-06-11 03:40:40] [INFO] [39m灯确吉L_电脑2 joined
+[32m[2023-06-11 03:40:46] [INFO] [39mOutlier#UgMIHN: 印象不好
+[32m[2023-06-11 03:40:56] [INFO] [39mOutlier#UgMIHN: 你这么说耗子我也能联系
+[32m[2023-06-11 03:41:02] [INFO] [39mServer: 灯确吉L 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:41:03] [INFO] [39m灯确吉L#DQJL68: >[Carbon] DeAs2_：
+>>[DQJL68] 灯确吉L：
+>>\![\](https://s1.ax1x.com/2022/12/20/zOiMkV.png)
+>
+>@灯确吉L 996
+
+@DeAs2_ 两百年前的老图（（
+[32m[2023-06-11 03:42:20] [INFO] [39mOutlier#UgMIHN: 我们前几天去了趟西安
+[32m[2023-06-11 03:42:23] [INFO] [39mOutlier#UgMIHN: 学校研学
+[32m[2023-06-11 03:42:27] [INFO] [39mOutlier#UgMIHN: 第二天
+[32m[2023-06-11 03:42:33] [INFO] [39mOutlier#UgMIHN: 发生件事
+[32m[2023-06-11 03:42:56] [INFO] [39mOutlier#UgMIHN: 我们正在参观关中民俗博物馆
+[32m[2023-06-11 03:42:58] [INFO] [39mice#iceice: 101.43.60.183
+[32m[2023-06-11 03:43:06] [INFO] [39mice#iceice: 总感觉
+[32m[2023-06-11 03:43:10] [INFO] [39mice#iceice: 不说了
+[32m[2023-06-11 03:43:21] [INFO] [39mOutlier#UgMIHN: 他们进去看石碑什么的我们5个人外边就没进去
+[32m[2023-06-11 03:43:23] [INFO] [39mServer: @MelonCmd 掉出了聊天室
+[32m[2023-06-11 03:43:33] [INFO] [39mice#iceice: 6666到达about blank
+[32m[2023-06-11 03:43:38] [INFO] [39mOutlier#UgMIHN: 外面有几个石头拴马桩
+[32m[2023-06-11 03:43:41] [INFO] [39mOutlier#UgMIHN: 文物
+[32m[2023-06-11 03:43:55] [INFO] [39mOutlier#UgMIHN: 我们其中有一个非常内向的人
+[32m[2023-06-11 03:43:59] [INFO] [39mice#iceice: @Outlier ？
+[32m[2023-06-11 03:44:01] [INFO] [39mOutlier#UgMIHN: 叫丁俊
+[32m[2023-06-11 03:44:08] [INFO] [39mOutlier#UgMIHN: 结果
+[32m[2023-06-11 03:44:16] [INFO] [39mOutlier#UgMIHN: 我们一转头的功夫
+[32m[2023-06-11 03:44:26] [INFO] [39mMelonCmd#cmd152: Cannot read properties of undefined (reading 'replace')
+[32m[2023-06-11 03:44:30] [INFO] [39mOutlier#UgMIHN: 他给人拴马桩整倒了
+[32m[2023-06-11 03:44:35] [INFO] [39mice#iceice: 现在有些少年程序员需要一点点钱，给了后续可能能翻倍
+[32m[2023-06-11 03:44:40] [INFO] [39mice#iceice: 就是投资
+[32m[2023-06-11 03:44:56] [INFO] [39mMelonCmd#cmd152: str.replace is not a function
+[32m[2023-06-11 03:45:00] [INFO] [39mice#iceice: 。。
+[32m[2023-06-11 03:45:02] [INFO] [39mOutlier#UgMIHN: 然后导游老师出来特懵逼的看了他和旁边被连根拔起的拴马桩
+[32m[2023-06-11 03:45:12] [INFO] [39mice#iceice: str_replace
+[32m[2023-06-11 03:45:23] [INFO] [39mOutlier#UgMIHN: 这事现在成了我们班梗句
+[32m[2023-06-11 03:45:30] [INFO] [39mMelonCmd#cmd152: Invalid or unexpected token
+[32m[2023-06-11 03:45:44] [INFO] [39mOutlier#UgMIHN: 古有鲁智深倒拔垂杨柳
+[32m[2023-06-11 03:45:46] [INFO] [39mice#iceice: str_replace(‘fuc*’,’beautiful’,$str);
+[32m[2023-06-11 03:45:57] [INFO] [39mOutlier#UgMIHN: 今有丁骏倒拔拴马桩
+[32m[2023-06-11 03:46:02] [INFO] [39mMelonCmd#cmd152: >[iceice] ice：
+>str_replace
+
+@ice _你*
+[32m[2023-06-11 03:46:16] [INFO] [39mMelonCmd#cmd152: 就是str.replace
+[32m[2023-06-11 03:46:32] [INFO] [39mMelonCmd#cmd152: `/runjs msg()`
+[32m[2023-06-11 03:46:35] [INFO] [39mMelonCmd#cmd152: Cannot read properties of undefined (reading 'replace')
+[32m[2023-06-11 03:46:39] [INFO] [39mice#iceice: 咋了
+[32m[2023-06-11 03:46:43] [INFO] [39mice#iceice: 正确的
+[32m[2023-06-11 03:47:00] [INFO] [39mMelonCmd#cmd152: str.replace is not a function
+[32m[2023-06-11 03:47:03] [INFO] [39mOutlier#UgMIHN: @灯确吉L 为什么那两个人能无摔落伤害
+[32m[2023-06-11 03:47:07] [INFO] [39mOutlier#UgMIHN: （
+[32m[2023-06-11 03:47:13] [INFO] [39mMelonCmd#cmd152: `/runjs msg(ice=25.0)`
+[32m[2023-06-11 03:47:17] [INFO] [39mMelonCmd#cmd152: str.replace is not a function
+[32m[2023-06-11 03:47:50] [INFO] [39mMelonCmd#cmd152: @ice 
+[32m[2023-06-11 03:47:52] [INFO] [39mice#iceice: Fatal error: Uncaught Error: Call to undefined function 
+[32m[2023-06-11 03:47:58] [INFO] [39mice#iceice: str_replace is a function
+[32m[2023-06-11 03:48:03] [INFO] [39mice#iceice: but not str.replace
+[32m[2023-06-11 03:48:05] [INFO] [39mMelonCmd#cmd152: 大聪明
+[32m[2023-06-11 03:48:10] [INFO] [39mMelonCmd#cmd152: 大聪明
+[32m[2023-06-11 03:48:12] [INFO] [39mMelonCmd#cmd152: 大聪明
+[32m[2023-06-11 03:48:18] [INFO] [39mice#iceice: 你才是。。
+[32m[2023-06-11 03:48:21] [INFO] [39mice#iceice: 大聪明
+[32m[2023-06-11 03:48:21] [INFO] [39mMelonCmd#cmd152: >[cmd152] MelonCmd：
+>`/runjs msg(ice=25.0)`
+[32m[2023-06-11 03:48:28] [INFO] [39mMelonCmd#cmd152: 你试过没
+[32m[2023-06-11 03:48:36] [INFO] [39mMelonCmd#cmd152: >[cmd152] MelonCmd：
+>`/runjs msg(ice=250)`
+[32m[2023-06-11 03:48:40] [INFO] [39m灯确吉L#DQJL68: str.replace is not a function
+[32m[2023-06-11 03:48:40] [INFO] [39mMelonCmd#cmd152: str.replace is not a function
+[32m[2023-06-11 03:48:44] [INFO] [39mice#iceice: $MelonCmd = 250
+[32m[2023-06-11 03:48:56] [INFO] [39mMelonCmd#cmd152: >[DQJL68] 灯确吉L：
+>str.replace is not a function
+
+@灯确吉L 你看
+[32m[2023-06-11 03:48:59] [INFO] [39m灯确吉L#DQJL68: 1
+[32m[2023-06-11 03:49:07] [INFO] [39mice#iceice: str_replace(‘MelonCmd’,’250,$username);
+[32m[2023-06-11 03:49:14] [INFO] [39mice#iceice: 看看结果
+[32m[2023-06-11 03:49:22] [INFO] [39mOutlier#UgMIHN: @灯确吉L 你在服务器吗
+[32m[2023-06-11 03:49:32] [INFO] [39m灯确吉L#DQJL68: NO
+[32m[2023-06-11 03:49:34] [INFO] [39mice#iceice: 嘿
+[32m[2023-06-11 03:49:38] [INFO] [39mice#iceice: 所有人给我站一边
+[32m[2023-06-11 03:49:45] [INFO] [39mice#iceice: 立正
+[32m[2023-06-11 03:49:49] [INFO] [39mice#iceice: ……
+[32m[2023-06-11 03:49:49] [INFO] [39m灯确吉L#DQJL68: 因为ice就要发电
+[32m[2023-06-11 03:49:52] [INFO] [39mice#iceice: 。。
+[32m[2023-06-11 03:49:55] [INFO] [39m灯确吉L#DQJL68: 因为i-c-e就要发电
+[32m[2023-06-11 03:50:06] [INFO] [39mice#iceice: @灯确吉L 你记得你之前来服务器求我做宣传不
+[32m[2023-06-11 03:50:15] [INFO] [39mMelonCmd#cmd152: @灯确吉L vip没特权吗quq
+[32m[2023-06-11 03:50:28] [INFO] [39mice#iceice: 你差点点让我同意，原因：如果刚刚开服是可以的
+[32m[2023-06-11 03:50:37] [INFO] [39mOutlier#UgMIHN: @MelonCmd 我可以住这么awa
+[32m[2023-06-11 03:50:40] [INFO] [39m灯确吉L#DQJL68: >[iceice] ice：
+>@灯确吉L 你记得你之前来服务器求我做宣传不
+
+@ice 呵呵
+[32m[2023-06-11 03:50:46] [INFO] [39m灯确吉L#DQJL68: msg('/me
+[32m[2023-06-11 03:50:47] [INFO] [39mMelonCmd#cmd152: @Outlier 这个基地不是我的啊
+[32m[2023-06-11 03:50:55] [INFO] [39mice#iceice: 但是开了过了一阵子就不行了
+[32m[2023-06-11 03:50:56] [INFO] [39mMelonCmd#cmd152: 不过你可以住
+[32m[2023-06-11 03:51:03] [INFO] [39mice#iceice: str_replace
+[32m[2023-06-11 03:51:11] [INFO] [39mOutlier#UgMIHN: 所以你为何在这
+[32m[2023-06-11 03:51:16] [INFO] [39mServer: @灯确吉L 挂机 | 进入挂机状态
+[32m[2023-06-11 03:51:16] [INFO] [39mice#iceice: str_replace()
+[32m[2023-06-11 03:51:18] [INFO] [39mOutlier#UgMIHN: 以及基地的主任
+[32m[2023-06-11 03:51:19] [INFO] [39mMelonCmd#cmd152: @Outlier 别乱拿东西就可以
+[32m[2023-06-11 03:51:26] [INFO] [39mMelonCmd#cmd152: @Outlier 我们是一家人awa
+[32m[2023-06-11 03:51:40] [INFO] [39mMelonCmd#cmd152: @灯确吉L 
+[32m[2023-06-11 03:51:41] [INFO] [39mPaperDr0#114514: str.replace is not a function
+[32m[2023-06-11 03:51:45] [INFO] [39mice#iceice: ..
+[32m[2023-06-11 03:51:49] [INFO] [39mice#iceice: str_replace()
+[32m[2023-06-11 03:51:51] [INFO] [39mMelonCmd#cmd152: vip特权能不能加个走路1.5倍速啊
+[32m[2023-06-11 03:51:52] [INFO] [39mOutlier#UgMIHN: @MelonCmd 想跟你打把sumo
+[32m[2023-06-11 03:51:52] [INFO] [39mPaperDr0#114514: [object Window]
+[32m[2023-06-11 03:51:53] [INFO] [39mice#iceice: Correct
+[32m[2023-06-11 03:51:58] [INFO] [39mDeAs2_#Carbon: 99
+[32m[2023-06-11 03:51:58] [INFO] [39mMelonCmd#cmd152: >[UgMIHN] Outlier：
+>@MelonCmd 想跟你打把sumo
+
+@Outlier 6
+[32m[2023-06-11 03:52:03] [INFO] [39mOutlier#UgMIHN: 行不行
+[32m[2023-06-11 03:52:07] [INFO] [39mice#iceice: str_replace() is a function
+[32m[2023-06-11 03:52:09] [INFO] [39mMelonCmd#cmd152: nooooooooooooooo
+[32m[2023-06-11 03:52:13] [INFO] [39mOutlier#UgMIHN: 我搭个平台
+[32m[2023-06-11 03:52:16] [INFO] [39mMelonCmd#cmd152: >[iceice] ice：
+>str_replace() is a function
+
+@ice 别乱改啊
+[32m[2023-06-11 03:52:18] [INFO] [39m灯确吉L#DQJL68: >[cmd152] MelonCmd：
+>vip特权能不能加个走路1.5倍速啊
+
+@MelonCmd 0.5倍速？当然可以
+[32m[2023-06-11 03:52:20] [INFO] [39mice#iceice: 突然想起来bing114
+[32m[2023-06-11 03:52:24] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 03:52:25] [INFO] [39mMelonCmd#cmd152: >[DQJL68] 灯确吉L：
+>>[cmd152] MelonCmd：
+>>vip特权能不能加个走路1.5倍速啊
+>
+>@MelonCmd 0.5倍速？当然可以
+
+@灯确吉L 9
+[32m[2023-06-11 03:52:32] [INFO] [39mice#iceice: 在服务器说喜欢ice
+[32m[2023-06-11 03:52:38] [INFO] [39mOutlier#UgMIHN: @灯确吉L 我也想要vip）
+[32m[2023-06-11 03:52:51] [INFO] [39mice#iceice: 版本：1.16.5的时候
+[32m[2023-06-11 03:52:52] [INFO] [39mMelonCmd#cmd152: 1.25倍速可以吗（）
+又不是很快
+[32m[2023-06-11 03:52:58] [INFO] [39mOutlier#UgMIHN: 主播主播能不能送我一个vip
+[32m[2023-06-11 03:53:05] [INFO] [39m灯确吉L#DQJL68: 1.0？本来就可以
+[32m[2023-06-11 03:53:11] [INFO] [39mice#iceice: ？
+[32m[2023-06-11 03:53:19] [INFO] [39m灯确吉L#DQJL68: >[UgMIHN] Outlier：
+>主播主播能不能送我一个vip
+
+@Outlier 行吧
+[32m[2023-06-11 03:53:20] [INFO] [39mMelonCmd#cmd152: xd，你vip没配置特权吗quq
+[32m[2023-06-11 03:53:25] [INFO] [39m灯确吉L#DQJL68: 1.0x？本来就可以
+[32m[2023-06-11 03:53:32] [INFO] [39mOutlier#UgMIHN: @灯确吉L 唔！
+[32m[2023-06-11 03:53:33] [INFO] [39m灯确吉L#DQJL68: >[cmd152] MelonCmd：
+>xd，你vip没配置特权吗quq
+
+@MelonCmd 根本没有
+[32m[2023-06-11 03:53:35] [INFO] [39mOutlier#UgMIHN: 太好了
+[32m[2023-06-11 03:53:42] [INFO] [39mOutlier#UgMIHN: 密斯卡莫斯卡
+[32m[2023-06-11 03:53:44] [INFO] [39mOutlier#UgMIHN: vip！
+[32m[2023-06-11 03:53:48] [INFO] [39mMelonCmd#cmd152: ![](https://imagebed.s3.bitiful.net/JtsyQXedtq_image.png)
+[32m[2023-06-11 03:54:01] [INFO] [39mMelonCmd#cmd152: tnnd，我延迟终于是2位数的了
+[32m[2023-06-11 03:54:05] [INFO] [39mice#iceice: 还是1.12
+[32m[2023-06-11 03:54:06] [INFO] [39mice#iceice: 6
+[32m[2023-06-11 03:54:20] [INFO] [39m灯确吉L#DQJL68: >[cmd152] MelonCmd：
+>tnnd，我延迟终于是2位数的了
+
+@MelonCmd 要感谢我们的高端优化
+[32m[2023-06-11 03:54:24] [INFO] [39mMelonCmd#cmd152: 以前玩ice的延迟起码3位数
+[32m[2023-06-11 03:54:33] [INFO] [39m灯确吉L#DQJL68: simpfun特色
+[32m[2023-06-11 03:54:34] [INFO] [39mice#iceice: 人多
+[32m[2023-06-11 03:54:43] [INFO] [39mice#iceice: 现在线路下架了
+[32m[2023-06-11 03:54:48] [INFO] [39mice#iceice: 延迟一位数
+[32m[2023-06-11 03:54:55] [INFO] [39mice#iceice: 除非人多
+[32m[2023-06-11 03:55:01] [INFO] [39m灯确吉L#DQJL68: 996
+[32m[2023-06-11 03:55:05] [INFO] [39mice#iceice: 平均2-3个月
+[32m[2023-06-11 03:55:11] [INFO] [39mice#iceice: 炸一次服务器
+[32m[2023-06-11 03:55:11] [INFO] [39mMelonCmd#cmd152: @灯确吉L 为什么VIP或常驻发消息没称号啊（
+[32m[2023-06-11 03:55:14] [INFO] [39mice#iceice: 被
+[32m[2023-06-11 03:55:14] [INFO] [39mMelonCmd#cmd152: quq
+[32m[2023-06-11 03:55:59] [INFO] [39m灯确吉L#DQJL68: >[cmd152] MelonCmd：
+>@灯确吉L 为什么VIP或常驻发消息没称号啊（
+
+@MelonCmd 给你加个：%消息%~我是尊贵的VIP哈哈哈
+[32m[2023-06-11 03:56:01] [INFO] [39m灯确吉L#DQJL68: 怎么样
+[32m[2023-06-11 03:56:02] [INFO] [39m灯确吉L#DQJL68: （（（
+[32m[2023-06-11 03:56:04] [INFO] [39mMelonCmd#cmd152: 6
+[32m[2023-06-11 03:56:06] [INFO] [39mice#iceice: 现在偶尔玩mc
+[32m[2023-06-11 03:56:10] [INFO] [39mice#iceice: 偶尔玩暗区
+[32m[2023-06-11 03:56:24] [INFO] [39mice#iceice: 搞的我玩mc都要shift
+[32m[2023-06-11 03:56:36] [INFO] [39mice#iceice: 静步
+[32m[2023-06-11 03:56:37] [INFO] [39mMelonCmd#cmd152: 就不能像`<[VIP]cmd1152> 114514`这样子吗
+[32m[2023-06-11 03:56:38] [INFO] [39mMelonCmd#cmd152: quq
+[32m[2023-06-11 03:57:11] [INFO] [39m灯确吉L#DQJL68: <cmd1152> 114514~我是尊贵的VIP哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+[32m[2023-06-11 03:57:14] [INFO] [39mMelonCmd#cmd152: 9
+[32m[2023-06-11 03:59:21] [INFO] [39mMelonCmd#cmd152: ice在吗
+[32m[2023-06-11 03:59:30] [INFO] [39mMelonCmd#cmd152: 可不可以撅你
+[32m[2023-06-11 03:59:36] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 03:59:42] [INFO] [39mice#iceice: @MelonCmd 在
+[32m[2023-06-11 03:59:52] [INFO] [39mice#iceice: gangjiao是吧
+[32m[2023-06-11 03:59:59] [INFO] [39mServer: 灯确吉L 已清除 ?chat 的历史记录
+[32m[2023-06-11 04:00:01] [INFO] [39mPaperDr0#114514: ice变猫娘让我撅
+[32m[2023-06-11 04:00:05] [INFO] [39mice#iceice: 多少cm
+[32m[2023-06-11 04:00:07] [INFO] [39mMelonCmd#cmd152: 让我撅
+[32m[2023-06-11 04:00:08] [INFO] [39m灯确吉L#DQJL68: +1
+[32m[2023-06-11 04:00:33] [INFO] [39mice#iceice: HIV：什么？轮到我了
+[32m[2023-06-11 04:00:34] [INFO] [39mMelonCmd#cmd152: 建议直接咬
+[32m[2023-06-11 04:00:48] [INFO] [39mice#iceice: 6
+[32m[2023-06-11 04:00:52] [INFO] [39mMelonCmd#cmd152: >[iceice] ice：
+>HIV：什么？轮到我了
+
+@ice HIV：什么，他也有
+[32m[2023-06-11 04:01:04] [INFO] [39mice#iceice: HIV:什么，开战
+[32m[2023-06-11 04:01:24] [INFO] [39mOutlier#UgMIHN: @MelonCmd can i get a room?
+[32m[2023-06-11 04:01:26] [INFO] [39mice#iceice: taotao：切，来啊
+[32m[2023-06-11 04:01:35] [INFO] [39mMelonCmd#cmd152: >[UgMIHN] Outlier：
+>@MelonCmd can i get a room?
+
+@Outlier 自己做一个
+[32m[2023-06-11 04:01:38] [INFO] [39mServer: 灯确吉L 已清除 ?chat 的历史记录
+[32m[2023-06-11 04:01:43] [INFO] [39mMelonCmd#cmd152: >[iceice] ice：
+>taotao：切，来啊
+
+@ice 996969
+[32m[2023-06-11 04:02:00] [INFO] [39mice#iceice: 5112151121
+[32m[2023-06-11 04:02:08] [INFO] [39mice#iceice: @MelonCmd 你好se啊
+[32m[2023-06-11 04:02:16] [INFO] [39mServer: 灯确吉L 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:02:17] [INFO] [39m灯确吉L#DQJL68: >*：
+>灯确吉L 已清除 ?chat 的历史记录
+
+>*：
+>灯确吉L 已清除 ?chat 的历史记录
+
+@* 那些在暗处默默付出的人啊，___（100分）
+[32m[2023-06-11 04:02:33] [INFO] [39mServer: 灯确吉L 已清除 ?chat 的历史记录
+[32m[2023-06-11 04:02:35] [INFO] [39mOutlier left
+[32m[2023-06-11 04:02:40] [INFO] [39m灯确吉L#DQJL68: 下次请/me谢谢
+[32m[2023-06-11 04:02:54] [INFO] [39mServer: @MelonCmd 嗯啊
+[32m[2023-06-11 04:03:20] [INFO] [39mServer: @灯确吉L 挂机 | 进入挂机状态
+[32m[2023-06-11 04:03:24] [INFO] [39mServer: @ice 撅灯确吉L
+[32m[2023-06-11 04:03:28] [INFO] [39mice#iceice: dquejieL
+[32m[2023-06-11 04:03:36] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 04:03:39] [INFO] [39mice#iceice: 还记得你的昵称
+[32m[2023-06-11 04:03:46] [INFO] [39m灯确吉L#DQJL68: 滚呐
+[32m[2023-06-11 04:03:56] [INFO] [39mice#iceice: and
+[32m[2023-06-11 04:04:00] [INFO] [39mice#iceice: 我没滚
+[32m[2023-06-11 04:04:04] [INFO] [39mice#iceice: 能干啥
+[32m[2023-06-11 04:04:10] [INFO] [39mMelonCmd#cmd152: 能被撅
+[32m[2023-06-11 04:04:12] [INFO] [39mice#iceice: 头上少顶草
+[32m[2023-06-11 04:04:29] [INFO] [39mice#iceice: 滚chuangdan（暗示
+[32m[2023-06-11 04:04:36] [INFO] [39mMelonCmd#cmd152: 9
+[32m[2023-06-11 04:04:43] [INFO] [39mMelonCmd#cmd152: x暗示是不是
+[32m[2023-06-11 04:04:43] [INFO] [39mServer: 灯确吉L 已清除 ?chat 的历史记录
+[32m[2023-06-11 04:04:44] [INFO] [39mice#iceice: 9
+[32m[2023-06-11 04:04:46] [INFO] [39mice#iceice: y
+[32m[2023-06-11 04:04:54] [INFO] [39mServer: PaperDr0 已清除 ?chat 的历史记录
+[32m[2023-06-11 04:04:56] [INFO] [39mice#iceice: 滚口暗示
+[32m[2023-06-11 04:04:58] [INFO] [39mice#iceice: 内
+[32m[2023-06-11 04:05:01] [INFO] [39mServer: 灯确吉L 已清除 ?chat 的历史记录
+[32m[2023-06-11 04:05:02] [INFO] [39mPaperDr0#114514: 停止刷黄
+[32m[2023-06-11 04:05:05] [INFO] [39mPaperDr0#114514: 不然滚
+[32m[2023-06-11 04:05:09] [INFO] [39mServer: PaperDr0 已清除 ?chat 的历史记录
+[32m[2023-06-11 04:05:11] [INFO] [39mice#iceice: 再见
+[32m[2023-06-11 04:05:13] [INFO] [39mice left
+[32m[2023-06-11 04:05:26] [INFO] [39m哈哈哈哈#AZ3jF7: 。。
+[32m[2023-06-11 04:05:34] [INFO] [39mServer: 灯确吉L 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:05:35] [INFO] [39m灯确吉L#DQJL68: >*：
+>PaperDr0 已清除 ?chat 的历史记录
+
+>*：
+>灯确吉L 已清除 ?chat 的历史记录
+
+@ice 
+[32m[2023-06-11 04:05:39] [INFO] [39mMelonCmd#cmd152: @PaperDr0 他看起来选择的是后者
+[32m[2023-06-11 04:05:45] [INFO] [39m灯确吉L#DQJL68: 9
+[32m[2023-06-11 04:07:01] [INFO] [39mMelonCmd#cmd152: dqjl你服务器可以吗
+[32m[2023-06-11 04:07:20] [INFO] [39m灯确吉L#DQJL68: @DeAs2_ 借用一下你的文件
+[32m[2023-06-11 04:07:43] [INFO] [39m灯确吉L#DQJL68: ![](https://imagebed.s3.bitiful.net/R2S6PIEvwY_image.png)
+[32m[2023-06-11 04:09:08] [INFO] [39mDLBot joined
+[32m[2023-06-11 04:09:16] [INFO] [39m灯确吉L#DQJL68: uwu!
+[32m[2023-06-11 04:09:31] [INFO] [39m灯确吉L#DQJL68: hi yooooooooooooo
+[32m[2023-06-11 04:09:33] [INFO] [39m灯确吉L#DQJL68: uwu!
+[32m[2023-06-11 04:09:44] [INFO] [39mice joined
+[32m[2023-06-11 04:09:44] [INFO] [39mServer: ice 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 04:09:51] [INFO] [39mice#iceice: 突然想起来一件事
+[32m[2023-06-11 04:09:55] [INFO] [39mice#iceice: freenom挂了
+[32m[2023-06-11 04:09:59] [INFO] [39m灯确吉L#DQJL68: >[iceice] →：
+>快乐的 ice 撅入了聊天室
+
+@→ 
+[32m[2023-06-11 04:10:04] [INFO] [39mice#iceice: 张的域名弄好没
+[32m[2023-06-11 04:10:14] [INFO] [39mice#iceice: 聊天室被
+[32m[2023-06-11 04:10:17] [INFO] [39mice#iceice: bs了
+[32m[2023-06-11 04:10:18] [INFO] [39mMelonCmd#cmd152: >[cmd152] MelonCmd：
+>@PaperDr0 他看起来选择的是后者
+[32m[2023-06-11 04:10:27] [INFO] [39mPaperDr0#114514: 6
+[32m[2023-06-11 04:10:42] [INFO] [39mPaperDr0#114514: ice要不看看你在说什么
+[32m[2023-06-11 04:10:48] [INFO] [39mice#iceice: 我记得0好像在之前是最se的
+[32m[2023-06-11 04:11:01] [INFO] [39mice#iceice: 什么ro*ban*
+[32m[2023-06-11 04:12:52] [INFO] [39m哈哈哈哈 left
+[32m[2023-06-11 04:12:55] [INFO] [39mice#iceice: ？
+[32m[2023-06-11 04:13:01] [INFO] [39m双友街23 joined
+[32m[2023-06-11 04:13:14] [INFO] [39mServer: 双友街23 已在 ?chat 禁言 ice，被禁言的用户的hash为：JUVyMUSYIK7VxQ5
+禁言时长：0.23 分钟
+[32m[2023-06-11 04:13:17] [INFO] [39m双友街23 left
+[32m[2023-06-11 04:13:21] [INFO] [39m双友街23 joined
+[32m[2023-06-11 04:14:21] [INFO] [39mice#iceice: ？
+[32m[2023-06-11 04:14:49] [INFO] [39mMelonCmd#cmd152: 6
+[32m[2023-06-11 04:15:54] [INFO] [39m灯确吉L#DQJL68: 为啥不ban
+[32m[2023-06-11 04:15:55] [INFO] [39m双友街23#AZ3jF7: so
+[32m[2023-06-11 04:16:02] [INFO] [39m灯确吉L#DQJL68: 不顾多次的管理员警告继续se
+[32m[2023-06-11 04:16:05] [INFO] [39m双友街23#AZ3jF7: 他是不是发了不当内容
+[32m[2023-06-11 04:16:07] [INFO] [39m双友街23#AZ3jF7: ok
+[32m[2023-06-11 04:16:14] [INFO] [39m灯确吉L#DQJL68: 经验便宜它了
+[32m[2023-06-11 04:16:14] [INFO] [39m双友街23#AZ3jF7: 我要发起公投 
+[32m[2023-06-11 04:16:23] [INFO] [39m灯确吉L#DQJL68: 禁言便宜它了
+[32m[2023-06-11 04:16:35] [INFO] [39mServer: 灯确吉L 已清除 ?chat 的历史记录
+[32m[2023-06-11 04:16:39] [INFO] [39m双友街23#AZ3jF7: 禁言1分钟扣1 10分钟扣2 ban扣3 永久禁言扣4 不操作扣5 踢了扣6
+[32m[2023-06-11 04:16:39] [INFO] [39mMelonCmd#cmd152: e
+[32m[2023-06-11 04:16:41] [INFO] [39mice#iceice: 我也不想待在这里了，猜猜我是吗
+[32m[2023-06-11 04:16:43] [INFO] [39mice#iceice: 为什么
+[32m[2023-06-11 04:16:47] [INFO] [39mMelonCmd#cmd152: 5
+[32m[2023-06-11 04:16:51] [INFO] [39m双友街23#AZ3jF7: ok
+[32m[2023-06-11 04:16:52] [INFO] [39m灯确吉L#DQJL68: 3
+[32m[2023-06-11 04:16:54] [INFO] [39mice#iceice: 我同意r
+[32m[2023-06-11 04:16:55] [INFO] [39mice#iceice: 4
+[32m[2023-06-11 04:17:03] [INFO] [39mice#iceice: 弄完就走了
+[32m[2023-06-11 04:17:04] [INFO] [39m灯确吉L#DQJL68: 3/4都可
+[32m[2023-06-11 04:17:06] [INFO] [39mMelonCmd#cmd152: e
+[32m[2023-06-11 04:17:07] [INFO] [39m双友街23#AZ3jF7: 平票辣
+[32m[2023-06-11 04:17:11] [INFO] [39mice#iceice: 以后有事别找我了就行
+[32m[2023-06-11 04:17:12] [INFO] [39mMelonCmd#cmd152: 我来发投票吧
+[32m[2023-06-11 04:17:18] [INFO] [39mice#iceice: 我想自己走了
+[32m[2023-06-11 04:17:23] [INFO] [39m双友街23#AZ3jF7: 1:0 2:0 3:1 4:1 5:1 6:0
+[32m[2023-06-11 04:17:31] [INFO] [39mice#iceice: 4
+[32m[2023-06-11 04:17:38] [INFO] [39m双友街23#AZ3jF7: 4就是你
+[32m[2023-06-11 04:17:42] [INFO] [39mice#iceice: @双友街23 ？
+[32m[2023-06-11 04:17:46] [INFO] [39mice#iceice: 跟你啥关系
+[32m[2023-06-11 04:17:48] [INFO] [39mice#iceice: 你想来啊
+[32m[2023-06-11 04:17:52] [INFO] [39m双友街23#AZ3jF7: 4只有你的一票
+[32m[2023-06-11 04:17:53] [INFO] [39m灯确吉L#DQJL68: @双友街23 我改票4
+[32m[2023-06-11 04:17:55] [INFO] [39m双友街23#AZ3jF7: 嗯
+[32m[2023-06-11 04:17:57] [INFO] [39mice#iceice: 嗯
+[32m[2023-06-11 04:18:00] [INFO] [39m双友街23#AZ3jF7: 4:2票
+[32m[2023-06-11 04:18:03] [INFO] [39mice#iceice: 快点吧
+[32m[2023-06-11 04:18:05] [INFO] [39mServer: 灯确吉L 已在 ?chat 禁言 ice，被禁言的用户的hash为：JUVyMUSYIK7VxQ5
+禁言时长：0 分钟（永久禁言，直到管理员手动解除）
+[32m[2023-06-11 04:18:09] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:18:10] [INFO] [39mMelonCmd#cmd152: 1.禁言1分钟
+2.10分钟
+3.永久禁言
+4.踢了
+5.封禁
+6.抛弃
+7.保
+[32m[2023-06-11 04:18:14] [INFO] [39m双友街23#AZ3jF7: 嗯
+[32m[2023-06-11 04:18:26] [INFO] [39m双友街23#AZ3jF7: 解除还是不解除
+[32m[2023-06-11 04:18:27] [INFO] [39mServer: 灯确吉L 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:18:28] [INFO] [39m灯确吉L#DQJL68: >[cmd152] MelonCmd：
+>1.禁言1分钟
+>2.10分钟
+>3.永久禁言
+>4.踢了
+>5.封禁
+>6.抛弃
+>7.保
+
+@MelonCmd ~~发晚了~~
+[32m[2023-06-11 04:18:31] [INFO] [39mMelonCmd#cmd152: 9
+[32m[2023-06-11 04:18:31] [INFO] [39mDeAs2_#Carbon: 还没、
+[32m[2023-06-11 04:18:35] [INFO] [39mDeAs2_#Carbon: c
+[32m[2023-06-11 04:18:40] [INFO] [39mDeAs2_#Carbon: 键盘问题
+[32m[2023-06-11 04:18:44] [INFO] [39mMelonCmd#cmd152: ~~重新投一次~~
+[32m[2023-06-11 04:18:48] [INFO] [39mServer: 双友街23已解除对hash JUVyMUSYIK7VxQ5 的禁言。
+[32m[2023-06-11 04:18:52] [INFO] [39mDeAs2_#Carbon: 不必（
+[32m[2023-06-11 04:18:52] [INFO] [39m双友街23#AZ3jF7: 暂时解除
+[32m[2023-06-11 04:19:06] [INFO] [39m灯确吉L#DQJL68: @DeAs2_ 借用一下你的资料哈
+![](https://imagebed.s3.bitiful.net/R2S6PIEvwY_image.png)
+[32m[2023-06-11 04:19:10] [INFO] [39m灯确吉L#DQJL68: >[AZ3jF7] 双友街23：
+>暂时解除
+
+@双友街23 OK
+[32m[2023-06-11 04:19:10] [INFO] [39mDeAs2_#Carbon: 996
+[32m[2023-06-11 04:19:19] [INFO] [39mDeAs2_#Carbon: 爱用用吧
+[32m[2023-06-11 04:19:29] [INFO] [39mDeAs2_#Carbon: 扔了（
+[32m[2023-06-11 04:19:29] [INFO] [39mServer: 双友街23 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:19:30] [INFO] [39m双友街23#AZ3jF7: >[cmd152] MelonCmd：
+>1.禁言1分钟
+>2.10分钟
+>3.永久禁言
+>4.踢了
+>5.封禁
+>6.抛弃
+>7.保
+
+@MelonCmd 2
+[32m[2023-06-11 04:19:38] [INFO] [39m灯确吉L#DQJL68: ![](https://imagebed.s3.bitiful.net/cYnZXSggby_image.png)
+[32m[2023-06-11 04:19:43] [INFO] [39m灯确吉L#DQJL68: 由 Gypsi 提供技术支持
+[32m[2023-06-11 04:19:44] [INFO] [39mice#iceice: @双友街23 什么暂时解除
+[32m[2023-06-11 04:19:45] [INFO] [39mice#iceice: 玩我呢
+[32m[2023-06-11 04:19:48] [INFO] [39mice#iceice: 滥用职权
+[32m[2023-06-11 04:19:50] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 04:19:51] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:19:51] [INFO] [39m双友街23#AZ3jF7: 6
+[32m[2023-06-11 04:19:52] [INFO] [39mServer: @MelonCmd .
+1.禁言1分钟
+2.10分钟（1：@双友街23 ）
+3.永久禁言
+4.踢了（1：@MelonCmd ）
+5.封禁
+6.弃权
+7.保
+[32m[2023-06-11 04:19:55] [INFO] [39mPaperDr0#114514: 你在找死
+[32m[2023-06-11 04:19:56] [INFO] [39m灯确吉L#DQJL68: 99999999999996
+[32m[2023-06-11 04:19:59] [INFO] [39m双友街23#AZ3jF7: 什么神爹言论
+[32m[2023-06-11 04:20:00] [INFO] [39mDeAs2_#Carbon: 你DLbor有啥用啊
+[32m[2023-06-11 04:20:00] [INFO] [39mice#iceice: @双友街23 滥用职权了
+[32m[2023-06-11 04:20:05] [INFO] [39mPaperDr0#114514: 6
+[32m[2023-06-11 04:20:10] [INFO] [39mice#iceice: 一会禁言
+[32m[2023-06-11 04:20:10] [INFO] [39mDeAs2_#Carbon: DLbot
+[32m[2023-06-11 04:20:10] [INFO] [39m双友街23#AZ3jF7: 我解除你禁言你说我滥用职权？
+[32m[2023-06-11 04:20:12] [INFO] [39mice#iceice: 一会接触
+[32m[2023-06-11 04:20:13] [INFO] [39mice#iceice: 你玩我
+[32m[2023-06-11 04:20:16] [INFO] [39mice#iceice: 我要你禁言
+[32m[2023-06-11 04:20:17] [INFO] [39mPaperDr0#114514: 哎你个鸡嘴仔
+[32m[2023-06-11 04:20:18] [INFO] [39m双友街23#AZ3jF7: 你是第二个QiuLingYan？
+[32m[2023-06-11 04:20:22] [INFO] [39m双友街23#AZ3jF7: 你是第二个QiuLingYan？？？
+[32m[2023-06-11 04:20:22] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:20:23] [INFO] [39mServer: @MelonCmd .
+1.禁言1分钟
+2.10分钟（1：@双友街23 ）
+3.永久禁言
+4.踢了（1：@MelonCmd ）
+5.封禁
+6.弃权（1：@PaperDr0 ）
+7.保
+[32m[2023-06-11 04:20:28] [INFO] [39mPaperDr0#114514: 5
+[32m[2023-06-11 04:20:34] [INFO] [39m灯确吉L#DQJL68: 5
+[32m[2023-06-11 04:20:34] [INFO] [39mDeAs2_#Carbon: 996
+[32m[2023-06-11 04:20:37] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:20:38] [INFO] [39mServer: @MelonCmd .
+1.禁言1分钟
+2.10分钟（1：@双友街23 ）
+3.永久禁言
+4.踢了（1：@MelonCmd ）
+5.封禁（1：@PaperDr0 ）
+6.弃权
+7.保
+[32m[2023-06-11 04:20:39] [INFO] [39mice#iceice: @双友街23 你给我等着
+[32m[2023-06-11 04:20:42] [INFO] [39m双友街23#AZ3jF7: 。。。
+[32m[2023-06-11 04:20:47] [INFO] [39m双友街23#AZ3jF7: 本来你就不占理
+[32m[2023-06-11 04:20:52] [INFO] [39m双友街23#AZ3jF7: 再说
+[32m[2023-06-11 04:20:54] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:20:55] [INFO] [39mServer: @MelonCmd .
+1.禁言1分钟
+2.10分钟（1：@双友街23 ）
+3.永久禁言
+4.踢了
+5.封禁（3：@PaperDr0 @灯确吉L @MelonCmd ）
+6.弃权
+7.保
+[32m[2023-06-11 04:20:56] [INFO] [39mPaperDr0#114514: 这也能起冲突
+[32m[2023-06-11 04:21:00] [INFO] [39m双友街23#AZ3jF7: 我好心好意给你解除
+[32m[2023-06-11 04:21:02] [INFO] [39mPaperDr0#114514: 哎太乱了
+[32m[2023-06-11 04:21:04] [INFO] [39m灯确吉L#DQJL68: ok
+[32m[2023-06-11 04:21:06] [INFO] [39m灯确吉L#DQJL68: 结束了
+[32m[2023-06-11 04:21:12] [INFO] [39m双友街23#AZ3jF7: >[114514] PaperDr0：
+>这也能起冲突
+
+@PaperDr0 学我是吧😡
+[32m[2023-06-11 04:21:12] [INFO] [39mice#iceice: @双友街23 你很无聊吗
+[32m[2023-06-11 04:21:12] [INFO] [39mMelonCmd#cmd152: 没有
+[32m[2023-06-11 04:21:13] [INFO] [39mPaperDr0#114514: 难怪ee都不来了
+[32m[2023-06-11 04:21:14] [INFO] [39mDeAs2_#Carbon: unBENGable
+[32m[2023-06-11 04:21:18] [INFO] [39mServer: DLBot 可能是僵尸号，已被自动踢出聊天室
+[32m[2023-06-11 04:21:18] [INFO] [39mDLBot left
+[32m[2023-06-11 04:21:18] [INFO] [39mDLBot joined
+[32m[2023-06-11 04:21:18] [INFO] [39mMelonCmd#cmd152: 没有全部投完
+[32m[2023-06-11 04:21:19] [INFO] [39m双友街23#AZ3jF7: >[iceice] ice：
+>@双友街23 你很无聊吗
+
+@ice 。。。
+[32m[2023-06-11 04:21:26] [INFO] [39mice#iceice: 为什么我很少来zc
+[32m[2023-06-11 04:21:26] [INFO] [39mMelonCmd#cmd152: 投票未结束
+[32m[2023-06-11 04:21:29] [INFO] [39m双友街23#AZ3jF7: 你几个意思
+[32m[2023-06-11 04:21:31] [INFO] [39mice#iceice: 你们不清楚吗
+[32m[2023-06-11 04:21:35] [INFO] [39m双友街23#AZ3jF7: 首先
+[32m[2023-06-11 04:21:39] [INFO] [39m灯确吉L#DQJL68: >[cmd152] MelonCmd：
+>投票未结束
+
+@MelonCmd 即将超时
+[32m[2023-06-11 04:21:40] [INFO] [39mPaperDr0#114514: 我总有一种不好的预感
+[32m[2023-06-11 04:21:42] [INFO] [39m双友街23#AZ3jF7: 你在这里发送不当内容
+[32m[2023-06-11 04:21:46] [INFO] [39mice#iceice: 你滥用职权
+[32m[2023-06-11 04:21:49] [INFO] [39m双友街23#AZ3jF7: 然后你被dqjl禁言
+[32m[2023-06-11 04:21:53] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:21:54] [INFO] [39mServer: @MelonCmd （投票结束时间16:30）
+1.禁言1分钟
+2.10分钟（1：@双友街23 ）
+3.永久禁言
+4.踢了
+5.封禁（3：@PaperDr0 @灯确吉L @MelonCmd ）
+6.弃权
+7.保
+[32m[2023-06-11 04:21:56] [INFO] [39m双友街23#AZ3jF7: 由于cmd发布投票
+[32m[2023-06-11 04:21:59] [INFO] [39m双友街23#AZ3jF7: 我给你解除了
+[32m[2023-06-11 04:22:03] [INFO] [39mice#iceice: 我没有完整说出来
+[32m[2023-06-11 04:22:03] [INFO] [39m双友街23#AZ3jF7: # ==由于cmd发布投票==
+[32m[2023-06-11 04:22:07] [INFO] [39mice#iceice: 哦
+[32m[2023-06-11 04:22:12] [INFO] [39m灯确吉L#DQJL68: @MelonCmd 16:25解除罢
+[32m[2023-06-11 04:22:15] [INFO] [39m双友街23#AZ3jF7: 如果
+[32m[2023-06-11 04:22:18] [INFO] [39mice#iceice: 算在cmd身上才对
+[32m[2023-06-11 04:22:19] [INFO] [39mPaperDr0#114514: 你就是纯纯的找茬
+[32m[2023-06-11 04:22:22] [INFO] [39m双友街23#AZ3jF7: 他并未发布投票
+[32m[2023-06-11 04:22:23] [INFO] [39mice#iceice: cmd我跟你没完
+[32m[2023-06-11 04:22:24] [INFO] [39mMelonCmd#cmd152: >[DQJL68] 灯确吉L：
+>@MelonCmd 16:25解除罢
+
+@灯确吉L 先交流一下
+[32m[2023-06-11 04:22:30] [INFO] [39mMelonCmd#cmd152: >[iceice] ice：
+>cmd我跟你没完
+
+@ice ？
+[32m[2023-06-11 04:22:32] [INFO] [39mDLBot left
+[32m[2023-06-11 04:22:34] [INFO] [39m双友街23#AZ3jF7: 我就不会解除禁言
+[32m[2023-06-11 04:22:38] [INFO] [39mDLBot joined
+[32m[2023-06-11 04:22:41] [INFO] [39mice#iceice: cmd发布投票
+[32m[2023-06-11 04:22:45] [INFO] [39m双友街23#AZ3jF7: 对呀
+[32m[2023-06-11 04:22:51] [INFO] [39m双友街23#AZ3jF7: 所以我给你解除了
+[32m[2023-06-11 04:22:55] [INFO] [39mice#iceice: 6
+[32m[2023-06-11 04:23:05] [INFO] [39mice#iceice: 那就是组团了哦
+[32m[2023-06-11 04:23:08] [INFO] [39m双友街23#AZ3jF7: 6
+[32m[2023-06-11 04:23:11] [INFO] [39mPaperDr0#114514: 6
+[32m[2023-06-11 04:23:14] [INFO] [39mice#iceice: 6
+[32m[2023-06-11 04:23:17] [INFO] [39m双友街23#AZ3jF7: 我可没跟他组团哦~
+[32m[2023-06-11 04:23:20] [INFO] [39mDeAs2_#Carbon: 6
+[32m[2023-06-11 04:23:30] [INFO] [39mPaperDr0#114514: 你压根就不想来这里了
+[32m[2023-06-11 04:23:33] [INFO] [39mice#iceice: @双友街23 总之我希望你不要插手这些问题
+[32m[2023-06-11 04:23:33] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:23:34] [INFO] [39mServer: @MelonCmd （投票结束时间16:30，时间未到可以换票）
+1.禁言1分钟
+2.10分钟（1：@双友街23 ）
+3.永久禁言
+4.踢了
+5.封禁（3：@PaperDr0 @灯确吉L @MelonCmd ）
+6.弃权
+7.保
+[32m[2023-06-11 04:23:37] [INFO] [39m双友街23#AZ3jF7: 因果关系是：因为cmd发布投票，所以我解除了禁言~
+[32m[2023-06-11 04:23:38] [INFO] [39mice#iceice: 我想找si
+[32m[2023-06-11 04:23:38] [INFO] [39mPaperDr0#114514: 不然还故意说这些
+[32m[2023-06-11 04:23:38] [INFO] [39m双友街23#AZ3jF7: 行
+[32m[2023-06-11 04:23:43] [INFO] [39m双友街23#AZ3jF7: 如果我的行为不当
+[32m[2023-06-11 04:23:45] [INFO] [39m双友街23#AZ3jF7: 我可以给你道歉
+[32m[2023-06-11 04:23:46] [INFO] [39mice#iceice: 嗯
+[32m[2023-06-11 04:23:50] [INFO] [39m双友街23#AZ3jF7: 但你要知道因果关系
+[32m[2023-06-11 04:23:59] [INFO] [39m双友街23#AZ3jF7: 我禁言你0.23是不对的
+[32m[2023-06-11 04:23:59] [INFO] [39mDeAs2_#Carbon: ^help
+[32m[2023-06-11 04:23:59] [INFO] [39mServer: 你向 @DeAs2_ 发送私信：.
+# $$404\ Not\ Found$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-11 04:24:02] [INFO] [39m双友街23#AZ3jF7: 对不起
+[32m[2023-06-11 04:24:05] [INFO] [39mServer: DeAs2_ 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:24:06] [INFO] [39mDeAs2_#Carbon: >[Zhang+] *：
+>ZhangHelper365 向你发送私信：.
+># $$404\ Not\ Found$$
+>---
+>$$ZhangHelper\ Kernel$$
+
+@* ?
+[32m[2023-06-11 04:24:14] [INFO] [39mice#iceice: 对不起，我自愿退出是我不对
+[32m[2023-06-11 04:24:14] [INFO] [39mMelonCmd#cmd152: @DeAs2_ 壳
+[32m[2023-06-11 04:24:19] [INFO] [39m双友街23#AZ3jF7: 6
+[32m[2023-06-11 04:24:26] [INFO] [39mDeAs2_#Carbon: 难绷
+[32m[2023-06-11 04:24:26] [INFO] [39mice#iceice: 满级理解能力
+[32m[2023-06-11 04:24:30] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 04:24:31] [INFO] [39mDeAs2_#Carbon: 命令能用吗
+[32m[2023-06-11 04:24:34] [INFO] [39m双友街23#AZ3jF7: 我全程没有提到“自愿退出”
+[32m[2023-06-11 04:24:37] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:24:38] [INFO] [39mServer: @MelonCmd （投票结束时间16:30，时间未到可以换票）
+1.禁言1分钟
+2.10分钟（1：@双友街23 ）
+3.永久禁言
+4.踢了
+5.封禁（2：@PaperDr0 @灯确吉L）
+6.弃权（1：@MelonCmd ）
+7.保
+[32m[2023-06-11 04:24:40] [INFO] [39mice#iceice: 不是
+[32m[2023-06-11 04:24:41] [INFO] [39mMelonCmd#cmd152: >[Carbon] DeAs2_：
+>命令能用吗
+
+@DeAs2_ no
+[32m[2023-06-11 04:24:41] [INFO] [39mDeAs2_#Carbon: ^kick DeAs2_
+[32m[2023-06-11 04:24:41] [INFO] [39mServer: 你向 @DeAs2_ 发送私信：.
+# $$403\ Forbidden$$
+---
+$$ZhangHelper\ Kernel$$
+[32m[2023-06-11 04:24:42] [INFO] [39mPaperDr0#114514: 烦死了
+[32m[2023-06-11 04:24:46] [INFO] [39mDeAs2_#Carbon: nnd
+[32m[2023-06-11 04:24:51] [INFO] [39mice#iceice: 暗示）
+[32m[2023-06-11 04:24:55] [INFO] [39m双友街23#AZ3jF7: 。。。
+[32m[2023-06-11 04:25:07] [INFO] [39mDeAs2_#Carbon: 你们先吵 我走了哈
+[32m[2023-06-11 04:25:10] [INFO] [39mDeAs2_#Carbon: （（
+[32m[2023-06-11 04:25:11] [INFO] [39m双友街23#AZ3jF7: 我侵弃权了
+[32m[2023-06-11 04:25:11] [INFO] [39mMelonCmd#cmd152: @DeAs2_ 
+[32m[2023-06-11 04:25:13] [INFO] [39mice#iceice: 其实，问题的所在是为什么我做一点事情都来找我事？
+[32m[2023-06-11 04:25:15] [INFO] [39mMelonCmd#cmd152: 投票吗
+[32m[2023-06-11 04:25:16] [INFO] [39m灯确吉L#DQJL68: @MelonCmd $$TIME IS UP$$
+[32m[2023-06-11 04:25:17] [INFO] [39mice#iceice: 都很闲是吧
+[32m[2023-06-11 04:25:17] [INFO] [39mDeAs2_#Carbon: 5
+[32m[2023-06-11 04:25:24] [INFO] [39m双友街23#AZ3jF7: 主要是
+[32m[2023-06-11 04:25:25] [INFO] [39m灯确吉L#DQJL68: @MelonCmd $$TIME/ IS/ UP$$
+[32m[2023-06-11 04:25:31] [INFO] [39m双友街23#AZ3jF7: 你发不当内容
+[32m[2023-06-11 04:25:32] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:25:33] [INFO] [39mServer: @MelonCmd （投票结束时间16:30，时间未到可以换票）
+1.禁言1分钟
+2.10分钟
+3.永久禁言
+4.踢了
+5.封禁（2：@PaperDr0 @灯确吉L）
+6.弃权（2：@MelonCmd @双友街23 ）
+7.保
+[32m[2023-06-11 04:25:36] [INFO] [39mice#iceice: 哦
+[32m[2023-06-11 04:25:38] [INFO] [39mice#iceice: 你看看cmd
+[32m[2023-06-11 04:25:42] [INFO] [39mice#iceice: 有没
+[32m[2023-06-11 04:25:42] [INFO] [39mMelonCmd#cmd152: >[DQJL68] 灯确吉L：
+>@MelonCmd $$TIME/ IS/ UP$$
+
+@灯确吉L 30才到啊啊啊
+[32m[2023-06-11 04:25:48] [INFO] [39mice#iceice: dqj有没
+[32m[2023-06-11 04:25:49] [INFO] [39mPaperDr0#114514: ![](https://imagebed.s3.bitiful.net/aKFEpcS342_image.png)
+[32m[2023-06-11 04:25:53] [INFO] [39m双友街23#AZ3jF7: 有
+[32m[2023-06-11 04:25:56] [INFO] [39mPaperDr0#114514: 你这说的什么
+[32m[2023-06-11 04:26:00] [INFO] [39m双友街23#AZ3jF7: 但听他们说
+[32m[2023-06-11 04:26:03] [INFO] [39m双友街23#AZ3jF7: 你不顾他人劝告
+[32m[2023-06-11 04:26:10] [INFO] [39mDeAs2_ left
+[32m[2023-06-11 04:26:14] [INFO] [39mice#iceice: @PaperDr0 什么意思呢
+[32m[2023-06-11 04:26:24] [INFO] [39mice#iceice: bs是什么意思呢，你该如何解释
+[32m[2023-06-11 04:26:32] [INFO] [39mPaperDr0#114514: 那就要问你了
+[32m[2023-06-11 04:26:38] [INFO] [39mPaperDr0#114514: bs你说是什么意思
+[32m[2023-06-11 04:26:45] [INFO] [39mice#iceice: 我没有权利
+[32m[2023-06-11 04:26:47] [INFO] [39mice#iceice: 告诉你
+[32m[2023-06-11 04:26:54] [INFO] [39m双友街23#AZ3jF7: ...
+[32m[2023-06-11 04:26:55] [INFO] [39mice#iceice: 我的言论自由
+[32m[2023-06-11 04:27:00] [INFO] [39mPaperDr0#114514: 莫名其妙的言论
+[32m[2023-06-11 04:27:09] [INFO] [39mice#iceice: 如果您说我触犯了您的隐私
+[32m[2023-06-11 04:27:15] [INFO] [39mPaperDr0#114514: 6
+[32m[2023-06-11 04:27:20] [INFO] [39m双友街23#AZ3jF7: 6
+[32m[2023-06-11 04:27:21] [INFO] [39mPaperDr0#114514: 别和我谈这个
+[32m[2023-06-11 04:27:23] [INFO] [39mice#iceice: 您可以找网警协助调查
+[32m[2023-06-11 04:27:28] [INFO] [39mice#iceice: 而我
+[32m[2023-06-11 04:27:35] [INFO] [39mice#iceice: 没有发布完整言论
+[32m[2023-06-11 04:27:37] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:27:38] [INFO] [39mServer: @MelonCmd （投票结束时间16:30，时间未到可以换票）
+1.禁言1分钟
+2.10分钟
+3.永久禁言
+4.踢了
+5.封禁（3：@PaperDr0 @灯确吉L @MelonCmd ）
+6.弃权（1：@双友街23 ）
+7.保
+[32m[2023-06-11 04:27:42] [INFO] [39mice#iceice: 你直接下定论
+[32m[2023-06-11 04:27:43] [INFO] [39m双友街23#AZ3jF7: 5
+[32m[2023-06-11 04:27:54] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:27:55] [INFO] [39mServer: @MelonCmd （投票结束时间16:30，时间未到可以换票）
+1.禁言1分钟
+2.10分钟
+3.永久禁言
+4.踢了
+5.封禁（4：@PaperDr0 @灯确吉L @MelonCmd @双友街23 ）
+6.弃权
+7.保
+[32m[2023-06-11 04:27:59] [INFO] [39mice#iceice: 你是在定义他人言论吗，你有这个权限吗
+[32m[2023-06-11 04:28:05] [INFO] [39mice#iceice: 权利
+[32m[2023-06-11 04:28:15] [INFO] [39mServer: @MelonCmd 还有2分钟
+[32m[2023-06-11 04:28:15] [INFO] [39mPaperDr0#114514: 逆天言论
+[32m[2023-06-11 04:28:16] [INFO] [39mice#iceice: 路是你选的，不是我选的
+[32m[2023-06-11 04:28:27] [INFO] [39m双友街23#AZ3jF7: 他也没有下定论呀~
+[32m[2023-06-11 04:28:39] [INFO] [39mPaperDr0#114514: 我只问你这个说的什么意思
+[32m[2023-06-11 04:28:39] [INFO] [39mice#iceice: 他把bs理解成了很se的东西
+[32m[2023-06-11 04:28:44] [INFO] [39mPaperDr0#114514: 6
+[32m[2023-06-11 04:28:48] [INFO] [39mice#iceice: 定义成了很s的东西
+[32m[2023-06-11 04:28:54] [INFO] [39m双友街23#AZ3jF7: 。。。。。
+[32m[2023-06-11 04:28:54] [INFO] [39mPaperDr0#114514: 我什么时候说se了?
+[32m[2023-06-11 04:29:04] [INFO] [39mice#iceice: 你觉得呢
+[32m[2023-06-11 04:29:10] [INFO] [39mPaperDr0#114514: 我的意思是是你这个bs是什么意思
+[32m[2023-06-11 04:29:11] [INFO] [39mice#iceice: 那你想告诉我什么
+[32m[2023-06-11 04:29:15] [INFO] [39mServer: @MelonCmd 还有1分钟
+[32m[2023-06-11 04:29:17] [INFO] [39mPaperDr0#114514: ?
+[32m[2023-06-11 04:29:23] [INFO] [39mPaperDr0#114514: >[114514] PaperDr0：
+>我的意思是是你这个bs是什么意思
+[32m[2023-06-11 04:29:24] [INFO] [39mice#iceice: 在做事情之前先看看有没有权利和考虑清楚为什么要做
+[32m[2023-06-11 04:29:33] [INFO] [39mServer: @MelonCmd 还有30秒
+[32m[2023-06-11 04:29:35] [INFO] [39mPaperDr0#114514: 996
+[32m[2023-06-11 04:29:40] [INFO] [39m嗯 joined
+[32m[2023-06-11 04:29:44] [INFO] [39mPaperDr0#114514: 看不懂人话是吗
+[32m[2023-06-11 04:29:45] [INFO] [39m嗯#AZ3jF7: 行
+[32m[2023-06-11 04:29:47] [INFO] [39mServer: @MelonCmd 还有20秒
+[32m[2023-06-11 04:29:48] [INFO] [39mice#iceice: 嗯
+[32m[2023-06-11 04:29:53] [INFO] [39mServer: @MelonCmd 还有10秒
+[32m[2023-06-11 04:29:54] [INFO] [39mice#iceice: 你知道人话就行
+[32m[2023-06-11 04:29:57] [INFO] [39m嗯#AZ3jF7: 谁做出决定
+[32m[2023-06-11 04:30:02] [INFO] [39mServer: @MelonCmd .
+# $${\Huge Time\ Is\ Up}$$
+# $$开始执行处罚：永\ 久\ 封\ 禁$$
+[32m[2023-06-11 04:30:06] [INFO] [39mice#iceice: bye
+[32m[2023-06-11 04:30:16] [INFO] [39m双友街23 left
+[32m[2023-06-11 04:30:24] [INFO] [39mServer: [AZ3jF7] 嗯 封禁了 ?chat 的 ice。
+波及用户：
+?chat [iceice]ice 
+ 
+ice IP地址为：120.229.27.5
+您可以通过上面提供的IP来解除封禁该用户
+[32m[2023-06-11 04:30:24] [INFO] [39mice left
+[32m[2023-06-11 04:30:28] [INFO] [39m嗯#AZ3jF7: en
+[32m[2023-06-11 04:30:30] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:30:31] [INFO] [39mServer: @MelonCmd 投票详情：
+1.禁言1分钟
+2.10分钟
+3.永久禁言
+4.踢了
+5.封禁（4：@PaperDr0 @灯确吉L @MelonCmd @双友街23 ）
+6.弃权
+7.保
+[32m[2023-06-11 04:30:35] [INFO] [39mPaperDr0#114514: 终于滚了
+[32m[2023-06-11 04:30:40] [INFO] [39mPaperDr0#114514: 太乱了
+[32m[2023-06-11 04:30:51] [INFO] [39m嗯#AZ3jF7: 对了
+[32m[2023-06-11 04:30:59] [INFO] [39mPaperDr0#114514: 要是ee现在在这里那不得气死
+[32m[2023-06-11 04:31:03] [INFO] [39m嗯#AZ3jF7: 封禁之后
+[32m[2023-06-11 04:31:09] [INFO] [39m嗯#AZ3jF7: 被封禁的人知不知道是谁封禁的
+[32m[2023-06-11 04:31:16] [INFO] [39mMelonCmd#cmd152: >[AZ3jF7] 嗯：
+>被封禁的人知不知道是谁封禁的
+
+@嗯 No
+[32m[2023-06-11 04:31:23] [INFO] [39mPaperDr0#114514: 让这里和谐一点，不要吵来吵去的行不行（
+[32m[2023-06-11 04:31:26] [INFO] [39mMelonCmd#cmd152: 除非被封禁的是管理员
+[32m[2023-06-11 04:31:33] [INFO] [39m小白鼠 joined
+[32m[2023-06-11 04:31:33] [INFO] [39mServer: 小白鼠 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 04:31:42] [INFO] [39mMelonCmd#cmd152: 6
+[32m[2023-06-11 04:31:43] [INFO] [39m小白鼠#: 封禁我 然后解除
+[32m[2023-06-11 04:31:47] [INFO] [39mMelonCmd#cmd152: 不能封自己哦
+[32m[2023-06-11 04:31:49] [INFO] [39m嗯#AZ3jF7: 6
+[32m[2023-06-11 04:31:59] [INFO] [39mMelonCmd#cmd152: 你如果有相同IP的管理员在线
+[32m[2023-06-11 04:32:02] [INFO] [39mMelonCmd#cmd152: 你就不能被封禁
+[32m[2023-06-11 04:32:06] [INFO] [39mPaperDr0#114514: 小白鼠是谁
+[32m[2023-06-11 04:32:08] [INFO] [39m嗯#AZ3jF7: 我先滚了
+[32m[2023-06-11 04:32:10] [INFO] [39m嗯#AZ3jF7: 我
+[32m[2023-06-11 04:32:12] [INFO] [39m嗯 left
+[32m[2023-06-11 04:32:13] [INFO] [39mMelonCmd#cmd152: >*：
+>小白鼠 的曾用名有：哈哈哈哈、双友街23、嗯、小白鼠
+
+@* 
+[32m[2023-06-11 04:32:17] [INFO] [39mPaperDr0#114514: 哦
+[32m[2023-06-11 04:32:33] [INFO] [39mMelonCmd#cmd152: >小白鼠：
+>封禁我 然后解除
+
+@小白鼠 
+[32m[2023-06-11 04:32:44] [INFO] [39mMelonCmd#cmd152: 尊重人道主义.jpg
+[32m[2023-06-11 04:32:48] [INFO] [39mPaperDr0#114514: 来这个房间讨论 ?ice
+[32m[2023-06-11 04:32:50] [INFO] [39m小白鼠#: 6
+[32m[2023-06-11 04:33:17] [INFO] [39m小白鼠 left
+[32m[2023-06-11 04:33:27] [INFO] [39m嗯 joined
+[32m[2023-06-11 04:34:18] [INFO] [39mServer: 灯确吉L 已清除 ?chat 的历史记录
+[32m[2023-06-11 04:35:00] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 04:36:57] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 04:37:23] [INFO] [39mServer: 灯确吉L 已清除 ?ice 的历史记录
+[32m[2023-06-11 04:37:28] [INFO] [39m阿杰 joined
+[32m[2023-06-11 04:37:28] [INFO] [39mServer: 阿杰 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 04:37:56] [INFO] [39mServer: 16:37:56
+[32m[2023-06-11 04:37:56] [INFO] [39m阿杰#WHL1Ja: 好像没人
+[32m[2023-06-11 04:38:58] [INFO] [39m阿杰 left
+[32m[2023-06-11 04:42:03] [INFO] [39mServer: PaperDr0 已清除 ?ice 的历史记录
+[32m[2023-06-11 04:42:38] [INFO] [39mServer: 16:42:38
+[32m[2023-06-11 04:42:38] [INFO] [39mPaperDr0#114514: %setMoveTo chat
+[32m[2023-06-11 04:42:39] [INFO] [39mServer: @CaptchaBot 频道设置为： ?chat
+[32m[2023-06-11 04:42:59] [INFO] [39m阿杰 joined
+[32m[2023-06-11 04:42:59] [INFO] [39mServer: 阿杰 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 04:43:52] [INFO] [39m阿杰 left
+[32m[2023-06-11 04:44:30] [INFO] [39mPaperDr0 left
+[32m[2023-06-11 04:45:17] [INFO] [39m嗯 left
+[32m[2023-06-11 04:45:51] [INFO] [39mServer: 16:45:51
+[32m[2023-06-11 04:45:51] [INFO] [39m灯确吉L#DQJL68: chat.light.gs
+[32m[2023-06-11 04:45:54] [INFO] [39m灯确吉L#DQJL68: light的服务器
+[32m[2023-06-11 04:46:04] [INFO] [39m灯确吉L#DQJL68: >[DQJL68] 灯确吉L：
+>light的聊天室
+[32m[2023-06-11 04:50:51] [INFO] [39mServer: 16:50:51
+[32m[2023-06-11 04:50:51] [INFO] [39mMelonCmd#cmd152: 6，ice开始在各大聊天室引流封杀zhc了
+[32m[2023-06-11 04:52:22] [INFO] [39mPaperDr0 joined
+[32m[2023-06-11 04:52:35] [INFO] [39mPaperDr0#114514: >[cmd152] MelonCmd：
+>6，ice开始在各大聊天室引流封杀zhc了
+
+@MelonCmd wtf
+[32m[2023-06-11 04:52:39] [INFO] [39mPaperDr0#114514: 哪里有
+[32m[2023-06-11 04:53:46] [INFO] [39mMelonCmd#cmd152: @PaperDr0 csc、yc、lo
+[32m[2023-06-11 04:53:51] [INFO] [39mPaperDr0#114514: woc
+[32m[2023-06-11 04:53:51] [INFO] [39mMelonCmd#cmd152: 还有其他地方
+[32m[2023-06-11 04:53:54] [INFO] [39mMelonCmd#cmd152: 都有
+[32m[2023-06-11 04:53:55] [INFO] [39mPaperDr0#114514: 我去看看
+[32m[2023-06-11 04:54:07] [INFO] [39mOutlier joined
+[32m[2023-06-11 04:54:07] [INFO] [39mServer: Outlier 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 04:54:10] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:54:11] [INFO] [39mMelonCmd#cmd152: ```
+9aHe9H Light
+hi
+
+9aHe9H Light
+Lc目前与zc是对立关系
+
+9aHe9H Light
+目前将会全面封杀zc
+
+9aHe9H Light
+浏览器可能出现杀毒错误情况
+
+9aHe9H Light
+所有信息将在b站公布
+
+XrbaeJ LINX
+无聊
+
+XrbaeJ LINX
+没沃圈二战好看
+
+XrbaeJ LINX
+哈欠
+
+9aHe9H Light
+为了完全封杀zc，已经在官网公布公告
+
+9aHe9H Light
+zc管理员滥用职权问题
+[32m[2023-06-11 04:54:14] [INFO] [39mOutlier#UgMIHN: @MelonCmd 
+[32m[2023-06-11 04:54:19] [INFO] [39mOutlier#UgMIHN: 快接tp
+[32m[2023-06-11 04:54:31] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 04:54:32] [INFO] [39mMelonCmd#cmd152: ```
+S31Rg2 LINX
+HC有瓜吃了
+
+S31Rg2 LINX
+LC的在HC说LC要封杀ZC
+
+S31Rg2 LINX
+真乱
+
+S31Rg2 LINX
+哈欠
+[32m[2023-06-11 04:54:36] [INFO] [39mMelonCmd#cmd152: 消息在疯狂的传啊
+[32m[2023-06-11 04:56:33] [INFO] [39mMelonCmd#cmd152: 《你已被关入小黑屋，请反思后再试》
+[32m[2023-06-11 04:56:50] [INFO] [39mOutlier#UgMIHN: @MelonCmd 这是哪
+[32m[2023-06-11 04:58:01] [INFO] [39mMelonCmd#cmd152: ![](https://imagebed.s3.bitiful.net/16WIqrXiHB_image.png)
+[32m[2023-06-11 04:58:10] [INFO] [39mPaperDr0#114514: @MelonCmd 他官网多少
+[32m[2023-06-11 04:58:20] [INFO] [39m灯确吉L#DQJL68: https://chat.light.gs/
+[32m[2023-06-11 04:58:31] [INFO] [39mMelonCmd#cmd152: >[DQJL68] 灯确吉L：
+>https://chat.light.gs/
+
+@灯确吉L 这是聊天室大幅度
+[32m[2023-06-11 04:58:32] [INFO] [39mMelonCmd#cmd152: *的
+[32m[2023-06-11 04:59:22] [INFO] [39m灯确吉L left
+[32m[2023-06-11 04:59:45] [INFO] [39mPaperDr0#114514: 这个家伙太自大了，他以为随随便便就可以封杀的是吗
+[32m[2023-06-11 05:02:29] [INFO] [39mServer: MelonCmd 可能是僵尸号，已被自动踢出聊天室
+[32m[2023-06-11 05:02:29] [INFO] [39mMelonCmd left
+[32m[2023-06-11 05:02:29] [INFO] [39mMelonCmd joined
+[32m[2023-06-11 05:05:49] [INFO] [39m嗯 joined
+[32m[2023-06-11 05:06:24] [INFO] [39mServer: 17:06:24
+[32m[2023-06-11 05:06:24] [INFO] [39m嗯#AZ3jF7: 。。。
+[32m[2023-06-11 05:06:30] [INFO] [39m嗯#AZ3jF7: 说我滥用职权？
+[32m[2023-06-11 05:06:54] [INFO] [39mPaperDr0#114514: 你看它说是什么话
+[32m[2023-06-11 05:06:57] [INFO] [39mPaperDr0#114514: 你看它说的什么话
+[32m[2023-06-11 05:07:23] [INFO] [39m嗯#AZ3jF7: 9aHe9H Light
+zc管理员滥用职权问题
+[32m[2023-06-11 05:07:26] [INFO] [39m嗯#AZ3jF7: 说的是我？
+[32m[2023-06-11 05:07:47] [INFO] [39mPaperDr0#114514: 明明它自己的问题反倒怪这边
+[32m[2023-06-11 05:08:15] [INFO] [39m嗯#AZ3jF7: “9aHe9H Light
+浏览器可能出现杀毒错误情况”
+[32m[2023-06-11 05:08:16] [INFO] [39m嗯#AZ3jF7: 是什么意思
+[32m[2023-06-11 05:08:57] [INFO] [39mServer: MelonCmd 可能是僵尸号，已被自动踢出聊天室
+[32m[2023-06-11 05:08:57] [INFO] [39mMelonCmd left
+[32m[2023-06-11 05:08:57] [INFO] [39mMelonCmd joined
+[32m[2023-06-11 05:09:13] [INFO] [39mPaperDr0#114514: ![](https://imagebed.s3.bitiful.net/MGHF6BBzqx_image.png)
+[32m[2023-06-11 05:09:23] [INFO] [39mMelonCmd#cmd152: tmd
+[32m[2023-06-11 05:09:26] [INFO] [39mMelonCmd#cmd152: ban了我IP段
+[32m[2023-06-11 05:09:53] [INFO] [39mPaperDr0#114514: 重启路由器能解决不
+[32m[2023-06-11 05:10:19] [INFO] [39m嗯#AZ3jF7: 谁能发下这里的聊天记录
+[32m[2023-06-11 05:10:28] [INFO] [39m嗯#AZ3jF7: 就是ice说封杀这里的那段
+[32m[2023-06-11 05:10:32] [INFO] [39mMelonCmd#cmd152: >[114514] PaperDr0：
+>重启路由器能解决不
+
+@PaperDr0 ban的IP段
+[32m[2023-06-11 05:10:43] [INFO] [39mMelonCmd#cmd152: 老子直接打ws
+[32m[2023-06-11 05:10:47] [INFO] [39mMelonCmd#cmd152: ![](https://imagebed.s3.bitiful.net/gdvlS5mhgl_image.png)
+[32m[2023-06-11 05:11:20] [INFO] [39mPaperDr0#114514: @MelonCmd 给我一个能用的代理
+[32m[2023-06-11 05:11:31] [INFO] [39mPaperDr0#114514: 我要去看看它要搞什么逼玩意
+[32m[2023-06-11 05:11:40] [INFO] [39mMelonCmd#cmd152: 只有http代理，没socket代理
+[32m[2023-06-11 05:11:51] [INFO] [39mServer: 嗯 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 05:11:52] [INFO] [39m嗯#AZ3jF7: 9aHe9H Light
+我的世界服务器被zhc的人给攻击了
+
+XrbaeJ LINX
+网站用的多的是伪静态和反注入
+
+9aHe9H Light
+听我要封杀zhc
+
+9aHe9H Light
+又来炸我服务器
+[32m[2023-06-11 05:11:53] [INFO] [39mPaperDr0#114514: ![](https://imagebed.s3.bitiful.net/iSwgnvne8b_image.png)
+[32m[2023-06-11 05:11:57] [INFO] [39mMelonCmd#cmd152: >[114514] PaperDr0：
+>我要去看看它要搞什么逼玩意
+
+@PaperDr0 他用的ws，要socket代理
+[32m[2023-06-11 05:12:07] [INFO] [39m嗯#AZ3jF7: 谁能发下这里的聊天记录
+[32m[2023-06-11 05:12:10] [INFO] [39mPaperDr0#114514: 啊
+[32m[2023-06-11 05:12:14] [INFO] [39mPaperDr0#114514: 那算了
+[32m[2023-06-11 05:12:16] [INFO] [39m嗯#AZ3jF7: 可以放在 note.ms/zhc20230611 上
+[32m[2023-06-11 05:12:23] [INFO] [39mPaperDr0#114514: >[114514] PaperDr0：
+>啊
+
+刚刚被rm了
+[32m[2023-06-11 05:12:31] [INFO] [39mPaperDr0#114514: 我的日志记录也忘记开了
+[32m[2023-06-11 05:12:34] [INFO] [39m嗯#AZ3jF7: 额
+[32m[2023-06-11 05:12:41] [INFO] [39m嗯#AZ3jF7: [cmd152] MelonCmd：
+6，ice开始在各大聊天室引流封杀zhc了
+[32m[2023-06-11 05:12:45] [INFO] [39m嗯#AZ3jF7: 这条以后的有吗
+[32m[2023-06-11 05:12:48] [INFO] [39mPaperDr0#114514: 没
+[32m[2023-06-11 05:12:53] [INFO] [39mPaperDr0#114514: 被rm了啊
+[32m[2023-06-11 05:12:54] [INFO] [39m嗯#AZ3jF7: 好吧
+[32m[2023-06-11 05:12:59] [INFO] [39mPaperDr0#114514: 你得找校长
+[32m[2023-06-11 05:13:49] [INFO] [39m嗯#AZ3jF7: 滥用职权？
+[32m[2023-06-11 05:14:13] [INFO] [39m嗯#AZ3jF7: Light团长
+Light
+我个人认为，zhc站长很好，但是他们的管理员让我失望了
+[32m[2023-06-11 05:14:25] [INFO] [39m嗯#AZ3jF7: Light团长
+Light
+但zhc态度有问题
+[32m[2023-06-11 05:14:28] [INFO] [39mPaperDr0#114514: 6 无脑言论
+[32m[2023-06-11 05:14:31] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 05:14:32] [INFO] [39mMelonCmd#cmd152: 42["message",{"_id":"64858f75b22cb0da89d62610","createTime":"2023-06-11T09:10:13.603Z","from":{"tag":"","_id":"64858c9eb22cb0da89d623c6","username":"LINX","avatar":"/avatar/11.jpg"},"to":"6462f885150407cac2830441","type":"text","content":"我的评价是你上个CDN不就完了"}]
+[32m[2023-06-11 05:14:35] [INFO] [39m嗯#AZ3jF7: 讲个笑话
+[32m[2023-06-11 05:14:37] [INFO] [39m嗯#AZ3jF7: 我是站长
+[32m[2023-06-11 05:14:43] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 05:14:44] [INFO] [39mMelonCmd#cmd152: 42["message",{"_id":"64858f86b22cb0da89d62617","createTime":"2023-06-11T09:10:30.489Z","from":{"tag":"","_id":"64858c9eb22cb0da89d623c6","username":"LINX","avatar":"/avatar/11.jpg"},"to":"6462f885150407cac2830441","type":"text","content":"或者WAF白名单规则适配"}]
+[32m[2023-06-11 05:15:44] [INFO] [39mServer: 嗯 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 05:15:45] [INFO] [39m嗯#AZ3jF7: Light团长
+Light
+本聊天室与zhangchat属于对立关系
+Light团长
+Light
+希望各位别去zc
+Light团长
+Light
+后续将公布所有有关证明
+Light团长
+Light
+届时将于其他聊天室合作对抗zc
+[32m[2023-06-11 05:16:15] [INFO] [39mMelonCmd#cmd152: # 届时将于其他聊天室合作对抗zc
+[32m[2023-06-11 05:16:33] [INFO] [39mPaperDr0#114514: >[cmd152] MelonCmd：
+># 届时将于其他聊天室合作对抗zc
+
+@MelonCmd 不可能的
+[32m[2023-06-11 05:16:35] [INFO] [39m嗯#AZ3jF7: 我需不需要给他道歉（对“我禁言他0.23分”道歉）
+[32m[2023-06-11 05:16:41] [INFO] [39mPaperDr0#114514: 不需要
+[32m[2023-06-11 05:16:44] [INFO] [39m嗯#AZ3jF7: ok
+[32m[2023-06-11 05:16:47] [INFO] [39mPaperDr0#114514: 它都这样说了
+[32m[2023-06-11 05:16:52] [INFO] [39m嗯#AZ3jF7: 那行
+[32m[2023-06-11 05:16:54] [INFO] [39mPaperDr0#114514: 道歉有用吗
+[32m[2023-06-11 05:17:01] [INFO] [39mPaperDr0#114514: 这种人不领情的
+[32m[2023-06-11 05:17:03] [INFO] [39mMelonCmd#cmd152: >Light
+>届时将于其他聊天室合作对抗zc
+
+zzChat：6
+[32m[2023-06-11 05:17:22] [INFO] [39m嗯#AZ3jF7: 111是我
+[32m[2023-06-11 05:17:24] [INFO] [39m嗯#AZ3jF7: （lc的）
+[32m[2023-06-11 05:17:32] [INFO] [39mPaperDr0#114514: lc我被嘎了
+[32m[2023-06-11 05:17:33] [INFO] [39m嗯#AZ3jF7: 我发了个“大家好”
+[32m[2023-06-11 05:17:37] [INFO] [39mPaperDr0#114514: 我重启路由器试试看
+[32m[2023-06-11 05:17:45] [INFO] [39mMelonCmd#cmd152: >[AZ3jF7] 嗯：
+>我发了个“大家好”
+
+@嗯 看不见
+[32m[2023-06-11 05:17:49] [INFO] [39m嗯#AZ3jF7: 别的什么都没法
+[32m[2023-06-11 05:18:16] [INFO] [39m嗯#AZ3jF7: 账号111 密码111
+[32m[2023-06-11 05:18:37] [INFO] [39m嗯#AZ3jF7: 账号222 密码222
+[32m[2023-06-11 05:19:16] [INFO] [39mPaperDr0_ joined
+[32m[2023-06-11 05:19:39] [INFO] [39m嗯#AZ3jF7: 111
+嗯嗯
+111
+各位在聊什么
+[32m[2023-06-11 05:19:39] [INFO] [39mPaperDr0_#114514: ![](https://imagebed.s3.bitiful.net/a2AZVyR0Qi_image.png)
+[32m[2023-06-11 05:19:43] [INFO] [39m嗯#AZ3jF7: 这俩也是我
+[32m[2023-06-11 05:19:43] [INFO] [39mPaperDr0_#114514: 进去了
+[32m[2023-06-11 05:20:12] [INFO] [39m嗯#AZ3jF7: 谁登录了222
+[32m[2023-06-11 05:20:28] [INFO] [39mMelonCmd#cmd152: tmd
+[32m[2023-06-11 05:20:34] [INFO] [39mMelonCmd#cmd152: 老子炸死你
+[32m[2023-06-11 05:20:51] [INFO] [39mMelonCmd#cmd152: dqjl 快启动 EndMin
+[32m[2023-06-11 05:20:52] [INFO] [39mPaperDr0_#114514: >[AZ3jF7] 嗯：
+>谁登录了222
+
+@嗯 我
+[32m[2023-06-11 05:21:12] [INFO] [39m嗯#AZ3jF7: ok
+[32m[2023-06-11 05:22:34] [INFO] [39m嗯#AZ3jF7: 行了
+[32m[2023-06-11 05:22:39] [INFO] [39m嗯#AZ3jF7: 我在yc“道歉”了
+[32m[2023-06-11 05:23:21] [INFO] [39mPaperDr0_#114514: 没用的
+[32m[2023-06-11 05:23:36] [INFO] [39mPaperDr0_#114514: 禁言是它自己活该
+[32m[2023-06-11 05:23:43] [INFO] [39m嗯#AZ3jF7: “道歉”
+[32m[2023-06-11 05:23:47] [INFO] [39m嗯#AZ3jF7: 不是真正的道歉
+[32m[2023-06-11 05:24:17] [INFO] [39m嗯#AZ3jF7: @PaperDr0_ 222这号是不是嗝屁了
+[32m[2023-06-11 05:24:26] [INFO] [39mPaperDr0_#114514: 没
+[32m[2023-06-11 05:24:31] [INFO] [39m嗯#AZ3jF7: Light团长
+Light
+只要不是其他聊天室即可
+Light团长
+Light
+自己的项目可以随意宣传
+[32m[2023-06-11 05:25:02] [INFO] [39mPaperDr0_#114514: ![](https://imagebed.s3.bitiful.net/Du2h6jj115_image.png)
+[32m[2023-06-11 05:25:03] [INFO] [39mPaperDr0_#114514: 9
+[32m[2023-06-11 05:29:17] [INFO] [39mRadium joined
+[32m[2023-06-11 05:29:17] [INFO] [39mServer: Radium 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 05:29:25] [INFO] [39mServer: 17:29:25
+[32m[2023-06-11 05:29:25] [INFO] [39mRadium#MS7a+R: huh
+[32m[2023-06-11 05:29:47] [INFO] [39mPaperDr0_#114514: awa!
+[32m[2023-06-11 05:30:17] [INFO] [39mRadium#MS7a+R: 讲个笑话，之前zap全开疯狂把owaspbwa搞崩了，真崩了
+[32m[2023-06-11 05:30:32] [INFO] [39mServer: Radium 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 05:30:33] [INFO] [39mRadium#MS7a+R: 9aHe9H Light
+yan又开始炸我服务器了
+9aHe9H Light
+调查组发现yan
+9aHe9H Light
+有可能是cmd
+0/JM7u hlg114514
+讲个笑话，之前zap全开疯狂把owaspbwa搞崩了，真崩了
+9aHe9H Light
+记录值：46a02128
+0/JM7u hlg114514
+谁叫你服务器这么脆弱
+0/JM7u hlg114514
+114514人多好
+[32m[2023-06-11 05:31:48] [INFO] [39mRadium left
+[32m[2023-06-11 05:32:03] [INFO] [39mMelonCmd#cmd152: 6
+[32m[2023-06-11 05:32:11] [INFO] [39mMelonCmd#cmd152: 赖我身上是不是
+[32m[2023-06-11 05:32:15] [INFO] [39mPaperDr0_#114514: 6
+[32m[2023-06-11 05:32:15] [INFO] [39mMelonCmd#cmd152: ice你真6
+[32m[2023-06-11 05:32:18] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 05:32:35] [INFO] [39mOutlier#UgMIHN: aaaaaaaaaaaaaaaaaaaaaaaaa
+[32m[2023-06-11 05:32:45] [INFO] [39mOutlier#UgMIHN: 焯！！！！！！！！！！
+[32m[2023-06-11 05:33:03] [INFO] [39mOutlier#UgMIHN: 司马挂壁
+[32m[2023-06-11 05:33:28] [INFO] [39mPaperDr0 left
+[32m[2023-06-11 05:37:35] [INFO] [39mServer: @MelonCmd 正在编写监听器
+[32m[2023-06-11 05:38:11] [INFO] [39m灯确吉L_Phone joined
+[32m[2023-06-11 05:38:33] [INFO] [39mServer: 17:38:33
+[32m[2023-06-11 05:38:33] [INFO] [39m灯确吉L_Phone#DQJL68: @MelonCmd 拥有100w和代理的yan本尊出场乐
+[32m[2023-06-11 05:38:41] [INFO] [39m灯确吉L_Phone#DQJL68: @MelonCmd 拥有100w个代理的yan本尊出场乐
+[32m[2023-06-11 05:39:38] [INFO] [39mMelonCmd#cmd152: 喜
+[32m[2023-06-11 05:39:42] [INFO] [39m嗯#AZ3jF7: 111嗝屁了
+[32m[2023-06-11 05:40:03] [INFO] [39m嗯#AZ3jF7: 111被ice制裁了
+[32m[2023-06-11 05:40:29] [INFO] [39m嗯#AZ3jF7: @PaperDr0_ 222是不是也嗝屁了
+[32m[2023-06-11 05:40:43] [INFO] [39m灯确吉L_Phone#DQJL68: @MelonCmd 最近我都没打ice服务器
+[32m[2023-06-11 05:40:45] [INFO] [39mPaperDr0_#114514: 没嗝屁
+[32m[2023-06-11 05:40:47] [INFO] [39m灯确吉L_Phone#DQJL68: 就昨天打了
+[32m[2023-06-11 05:40:55] [INFO] [39m嗯#AZ3jF7: 111嗝屁了
+[32m[2023-06-11 05:41:03] [INFO] [39mPaperDr0_#114514: 蛤嗝屁了？
+[32m[2023-06-11 05:41:07] [INFO] [39m嗯#AZ3jF7: 对
+[32m[2023-06-11 05:41:11] [INFO] [39m嗯#AZ3jF7: 111彻底嗝屁了
+[32m[2023-06-11 05:41:12] [INFO] [39m灯确吉L_Phone#DQJL68: yan本尊拥有更大的算力
+[32m[2023-06-11 05:41:28] [INFO] [39mPaperDr0_#114514: 111我看还在啊
+[32m[2023-06-11 05:41:41] [INFO] [39m嗯#AZ3jF7: 被关小黑屋了
+[32m[2023-06-11 05:41:51] [INFO] [39mPaperDr0_#114514: 啊
+[32m[2023-06-11 05:41:53] [INFO] [39mMelonCmd#cmd152: @嗯 第一次被关重新启动路由器
+[32m[2023-06-11 05:42:05] [INFO] [39mMelonCmd#cmd152: 第二次被关使用socket5代理
+[32m[2023-06-11 05:42:09] [INFO] [39mPaperDr0_#114514: ![](https://imagebed.s3.bitiful.net/6VlV3BpZv5_image.png)
+[32m[2023-06-11 05:42:16] [INFO] [39m嗯#AZ3jF7: 账号333 密码333 最后的堡垒
+[32m[2023-06-11 05:42:20] [INFO] [39mPaperDr0_#114514: 这坤巴太傻逼了
+[32m[2023-06-11 05:42:22] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 05:42:35] [INFO] [39mHelloOSMe#NtXVSW: 完善了那个C++服务器
+[32m[2023-06-11 05:42:39] [INFO] [39mHelloOSMe#NtXVSW: 现在
+[32m[2023-06-11 05:42:58] [INFO] [39mHelloOSMe#NtXVSW: 只有图片无法加载qwq
+[32m[2023-06-11 05:43:29] [INFO] [39mHelloOSMe#NtXVSW: Fuck...
+[32m[2023-06-11 05:43:36] [INFO] [39m灯确吉L_Phone left
+[32m[2023-06-11 05:44:00] [INFO] [39m嗯#AZ3jF7: 开始伪装
+[32m[2023-06-11 05:47:02] [INFO] [39mServer: 17:47:02
+[32m[2023-06-11 05:47:02] [INFO] [39m嗯#AZ3jF7: Light团长
+Light
+zhc啥人都有
+[32m[2023-06-11 05:47:21] [INFO] [39mPaperDr0_#114514: 9
+[32m[2023-06-11 05:47:41] [INFO] [39m嗯#AZ3jF7: Light团长
+Light
+毕竟你以前是zhc的人
+[32m[2023-06-11 05:47:45] [INFO] [39m嗯#AZ3jF7: 看来是翻版snose
+[32m[2023-06-11 05:47:54] [INFO] [39mPaperDr0_#114514: 不行我忍不住了，必须制裁一下
+[32m[2023-06-11 05:48:03] [INFO] [39mPaperDr0_#114514: 待会在里面刷屏
+[32m[2023-06-11 05:48:43] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 05:48:44] [INFO] [39mMelonCmd#cmd152: ```
+
+Light团长
+Light
+17:44
+dqj你要站在我这里或者中立
+
+Light团长
+Light
+17:44
+毕竟这是自由
+
+Light团长
+Light
+17:44
+可以吗
+
+DengquejueL
+17:44
+中立
+
+Light团长
+Light
+17:44
+选不了中立也行
+
+333
+17:44
+所以
+
+333
+17:45
+“111”这号为啥被关小黑屋了
+
+Light团长
+Light
+17:45
+遇到zhc都一律封了除了cmd和说情的
+
+Light团长
+Light
+17:45
+正常
+
+DengquejueL
+17:45
+o
+
+Light团长
+Light
+17:45
+发言太快，过几分钟自动解封
+
+333
+17:45
+o
+
+Light团长
+Light
+17:45
+稍等
+
+Light团长
+Light
+17:45
+给你加管理
+
+Light团长
+Light
+17:45
+一律封禁，不能放过一个
+
+Light团长
+Light
+17:45
+我去下后台
+
+Light团长
+Light
+17:46
+应该会重启fiora
+
+Light团长
+Light
+17:46
+zhc啥人都有
+
+Light团长
+Light
+17:47
+你经常上线和宣传就行，zhc的人问你你说中立即可
+
+Light团长
+Light
+17:47
+毕竟你以前是zhc的人
+[32m[2023-06-11 05:51:03] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 05:51:04] [INFO] [39mMelonCmd#cmd152: 111
+17:48
+好了
+
+Light团长
+Light
+17:49
+？
+
+111
+17:49
+我号恢复了
+
+222
+17:49
+py.exe
+720.37 KB
+[下载（无法保证文件安全性）](https://chat.light.gs/FileMessage/64859164b22cb0da89d62703_1686476967614.exe)
+[32m[2023-06-11 05:51:17] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 05:51:18] [INFO] [39mMelonCmd#cmd152: ```
+111
+17:48
+好了
+
+Light团长
+Light
+17:49
+？
+
+111
+17:49
+我号恢复了
+
+222
+17:49
+py.exe
+720.37 KB
+下载
+[32m[2023-06-11 05:52:02] [INFO] [39m嗯#AZ3jF7: 伪装中
+[32m[2023-06-11 05:52:15] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 05:52:16] [INFO] [39mMelonCmd#cmd152: ```
+
+Light团长
+Light
+17:51
+？
+
+111
+17:51
+？？？
+
+111
+17:51
+同学你别乱搞
+
+Light团长
+Light
+17:51
+这什么软件
+
+222
+17:52
+我编译的python
+
+Light团长
+Light
+17:52
+哦
+
+Light团长
+Light
+17:52
+关于什么的
+[32m[2023-06-11 05:52:18] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 05:52:55] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 05:52:56] [INFO] [39mMelonCmd#cmd152: ```
+
+Light团长
+Light
+17:52
+我怕有人下载了病毒
+
+222
+17:52
+github下载的源码编译的
+
+DengquejueL
+17:52
+啊～
+
+Light团长
+Light
+17:52
+python编译的文件一向很大
+
+Light团长
+Light
+17:52
+快了
+[32m[2023-06-11 05:53:25] [INFO] [39m灯确吉L_Phone joined
+[32m[2023-06-11 05:53:35] [INFO] [39m灯确吉L_Phone#DQJL68: hi yooooooooooooooo
+[32m[2023-06-11 05:54:42] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 05:54:43] [INFO] [39mMelonCmd#cmd152: ```
+
+222
+17:52
+pyw.exe
+718.87 KB
+下载（已阻止）
+
+DengquejueL
+17:53
+这是安全的嘛
+
+111
+17:53
+为什么我现在注册不了新的账号
+
+111
+17:53
+不敢下载
+
+222
+17:53
+不安全的捏
+
+222
+17:53
+因为这是病毒
+
+DengquejueL
+17:53
+969
+
+222
+17:53
+哈哈哈哈哈
+
+111
+17:53
+额
+
+111
+17:53
+你好厉害啊
+[32m[2023-06-11 05:55:14] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 05:55:53] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 05:55:54] [INFO] [39mMelonCmd#cmd152: ```
+222
+17:54
+regedit.exe
+361.5 KB
+下载
+
+222
+17:54
+wontrust.dll
+79.5 KB
+下载
+
+Light团长
+Light
+17:54
+Dqj
+
+222
+17:54
+winhlp32.exe
+11.5 KB
+下载
+
+DengquejueL
+17:54
+text15B
+查看
+
+Light团长
+Light
+17:54
+你重新登陆试试
+
+Light团长
+Light
+17:54
+病毒的话可以发的
+[32m[2023-06-11 05:56:00] [INFO] [39mServer: PaperDr0_ 已清除 ?chat 的历史记录
+[32m[2023-06-11 05:56:16] [INFO] [39mServer: MelonCmd 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 05:56:17] [INFO] [39mMelonCmd#cmd152: ```
+Light团长
+Light
+17:54
+毕竟国外的服务器
+
+222
+17:55
+splwow64.exe
+160 KB
+下载
+
+Light团长
+Light
+17:55
+但是记得告诉我们
+
+Light团长
+Light
+17:55
+这是病毒
+
+222
+17:55
+我偏不
+
+111
+17:55
+同学你。。。
+
+DengquejueL
+17:55
+wc
+
+222
+17:55
+因为我到叛逆期了
+
+DengquejueL
+17:55
+我就说怎么登不上了
+
+DengquejueL
+17:55
+我用户名不对
+
+Light团长
+Light
+17:55
+有没有管理员了？
+
+Light团长
+Light
+17:55
+dqj
+
+DengquejueL
+17:56
+e
+[32m[2023-06-11 05:56:59] [INFO] [39mServer: @MelonCmd [SAFE] STOP SEND LOGS:
+find no safe user in zhc
+[32m[2023-06-11 05:58:20] [INFO] [39mServer: @MelonCmd [NO SAVE] CLEAR MSGS........
+[32m[2023-06-11 05:58:24] [INFO] [39mMelonCmd#cmd152: 1
+[32m[2023-06-11 05:58:26] [INFO] [39mMelonCmd#cmd152: 2
+[32m[2023-06-11 05:58:28] [INFO] [39mServer: PaperDr0_ 已清除 ?chat 的历史记录
+[32m[2023-06-11 05:58:28] [INFO] [39mMelonCmd#cmd152: 3
+[32m[2023-06-11 05:58:30] [INFO] [39mMelonCmd#cmd152: 4
+[32m[2023-06-11 05:58:31] [INFO] [39mPaperDr0_#114514: >[cmd152] MelonCmd：
+>3
+
+@MelonCmd 
+[32m[2023-06-11 05:58:33] [INFO] [39mPaperDr0_#114514: >*：
+>PaperDr0_ 已清除 ?chat 的历史记录
+
+@* 
+[32m[2023-06-11 05:58:35] [INFO] [39m灯确吉L_Phone left
+[32m[2023-06-11 05:58:37] [INFO] [39mMelonCmd#cmd152: ok
+[32m[2023-06-11 05:58:38] [INFO] [39mServer: PaperDr0_ 已清除 ?chat 的历史记录
+[32m[2023-06-11 05:59:00] [INFO] [39mPaperDr0_#114514: 我刚刚在lc露馅了
+[32m[2023-06-11 06:00:27] [INFO] [39mHelloOSMe#NtXVSW: 评价是
+[32m[2023-06-11 06:00:39] [INFO] [39mHelloOSMe#NtXVSW: light->小孩子过家家
+[32m[2023-06-11 06:00:53] [INFO] [39mMelonCmd#cmd152: 或许我是网络上聊天室比较热情的站长吧
+[32m[2023-06-11 06:00:59] [INFO] [39mMelonCmd#cmd152: 大部分站长不管事的
+[32m[2023-06-11 06:01:06] [INFO] [39mMelonCmd#cmd152: 也不聊天
+[32m[2023-06-11 06:01:10] [INFO] [39mHelloOSMe#NtXVSW: 还坚决执行所谓的规则，只是束缚罢了
+[32m[2023-06-11 06:01:13] [INFO] [39mMelonCmd#cmd152: 还坚决执行所谓的规则，只是束缚罢了
+[32m[2023-06-11 06:01:14] [INFO] [39mHelloOSMe#NtXVSW: （）
+[32m[2023-06-11 06:01:19] [INFO] [39mMelonCmd#cmd152: 放心我很快改服务器ip
+[32m[2023-06-11 06:01:31] [INFO] [39mMelonCmd#cmd152: >[NtXVSW] HelloOSMe：
+>还坚决执行所谓的规则，只是束缚罢了
+
+@HelloOSMe 6，被抢了
+[32m[2023-06-11 06:01:40] [INFO] [39mHelloOSMe#NtXVSW: yan，让你失望了
+[32m[2023-06-11 06:01:41] [INFO] [39mServer: @MelonCmd yan，让你失望了哦
+[32m[2023-06-11 06:01:45] [INFO] [39mHelloOSMe#NtXVSW: （）
+[32m[2023-06-11 06:02:05] [INFO] [39mHelloOSMe#NtXVSW: yan->dr0？
+[32m[2023-06-11 06:02:58] [INFO] [39mPaperDr0_#114514: 9
+[32m[2023-06-11 06:03:20] [INFO] [39mHelloOSMe#NtXVSW: @PaperDr0_ 再刷屏？（）
+[32m[2023-06-11 06:03:27] [INFO] [39mHelloOSMe#NtXVSW: 在
+[32m[2023-06-11 06:03:31] [INFO] [39mHelloOSMe#NtXVSW: 尼玛的输入法
+[32m[2023-06-11 06:03:36] [INFO] [39mPaperDr0_#114514: 9
+[32m[2023-06-11 06:03:42] [INFO] [39mHelloOSMe#NtXVSW: 等下开replit（）
+[32m[2023-06-11 06:03:53] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 06:04:35] [INFO] [39mServer: @MelonCmd 回来了
+[32m[2023-06-11 06:04:39] [INFO] [39m灯确吉L joined
+[32m[2023-06-11 06:04:57] [INFO] [39mServer: @MelonCmd Light
+嗯
+[32m[2023-06-11 06:05:05] [INFO] [39mServer: @MelonCmd DengquejieL
+我去看一眼服务器
+[32m[2023-06-11 06:05:15] [INFO] [39mServer: @MelonCmd Light
+嗯嗯
+[32m[2023-06-11 06:05:20] [INFO] [39mServer: @MelonCmd Light
+
+什么服务器
+[32m[2023-06-11 06:05:35] [INFO] [39mServer: @MelonCmd DengquejieL
+
+你的
+[32m[2023-06-11 06:05:45] [INFO] [39mServer: @MelonCmd [.]
+[32m[2023-06-11 06:08:33] [INFO] [39mmouse joined
+[32m[2023-06-11 06:08:43] [INFO] [39mServer: 18:08:43
+[32m[2023-06-11 06:08:43] [INFO] [39mPaperDr0_#114514: hi yo
+[32m[2023-06-11 06:09:13] [INFO] [39mmouse#+zX/AP: 食用龟苓膏 78%
+[32m[2023-06-11 06:09:36] [INFO] [39mmouse#+zX/AP: 对了
+[32m[2023-06-11 06:10:00] [INFO] [39mmouse#+zX/AP: 你们都用什么软件画pcb板
+我电脑太垃圾用的PCBS
+[32m[2023-06-11 06:10:10] [INFO] [39mmouse#+zX/AP: *PADS
+[32m[2023-06-11 06:10:30] [INFO] [39mPaperDr0_#114514: 立创eda
+[32m[2023-06-11 06:11:26] [INFO] [39mServer: @MelonCmd [Start] 正在检测环境……
+[32m[2023-06-11 06:11:45] [INFO] [39mServer: @MelonCmd [ERROR] 环境异常，无法继续……
+[32m[2023-06-11 06:11:50] [INFO] [39mmouse#+zX/AP: 草，嘉立创网页版还是本地？
+[32m[2023-06-11 06:12:19] [INFO] [39mPaperDr0_#114514: 本地
+[32m[2023-06-11 06:12:48] [INFO] [39m灯确吉L#DQJL68: ![](https://imagebed.s3.bitiful.net/QPHcHCtUMT_image.png)
+[32m[2023-06-11 06:12:58] [INFO] [39mmouse#+zX/AP: 可惜我这电脑太卡了运行不起嘉立创只能用远古pads
+[32m[2023-06-11 06:13:05] [INFO] [39m灯确吉L#DQJL68: ![](https://imagebed.s3.bitiful.net/OdICkn7cfT_image.png)
+[32m[2023-06-11 06:14:08] [INFO] [39mMag joined
+[32m[2023-06-11 06:14:30] [INFO] [39mPaperDr0_#114514: awa!
+[32m[2023-06-11 06:14:32] [INFO] [39mPaperDr0_#114514: uwu!
+[32m[2023-06-11 06:15:49] [INFO] [39mServer: @MelonCmd ==[WARN]== No safe：
+* Is being discovered
+[32m[2023-06-11 06:15:54] [INFO] [39mmouse#+zX/AP: 星聊进不去（恼）
+[32m[2023-06-11 06:15:58] [INFO] [39m灯确吉L#DQJL68: ![](https://imagebed.s3.bitiful.net/8jacll9Fcz_image.png)
+[32m[2023-06-11 06:16:06] [INFO] [39mServer: @灯确吉L .
+~~我就是卧底~~
+[32m[2023-06-11 06:16:13] [INFO] [39mMag#k+R3I2: 星聊地址啥来着
+[32m[2023-06-11 06:16:14] [INFO] [39m灯确吉L#DQJL68: @MelonCmd （（（
+[32m[2023-06-11 06:16:26] [INFO] [39m嗯#AZ3jF7: ~~我也是卧底~~
+[32m[2023-06-11 06:16:42] [INFO] [39mMag#k+R3I2: 长消息
+[32m[2023-06-11 06:16:48] [INFO] [39mServer: Mag 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 06:16:49] [INFO] [39mMag#k+R3I2: ```
+
+2ZQ3+0 Maggie_
+不是23你平时我都不说什么
+
+2ZQ3+0 Maggie_
+你搞几个什么机霸协议
+
+2ZQ3+0 Maggie_
+除了你自己别人都不鸟一眼
+
+YaAwA7 awa_ya
+GFW
+
+for9zT Lg
+哈哈
+
+2ZQ3+0 Maggie_
+然后动不动撕协议
+
+2ZQ3+0 Maggie_
+协议人家都还没见过呢
+
+2ZQ3+0 Maggie_
+搞得一副高高在上的样子
+
+2ZQ3+0 Maggie_
+就看不惯你这样
+
+2ZQ3+0 Maggie_
+然后戳到你的点就开始固定句式玩梗回应
+
+2ZQ3+0 Maggie_
+如果我不说这句你的回复绝对是以“你说得对”开头
+[32m[2023-06-11 06:16:51] [INFO] [39mServer: @MelonCmd ==[WARN]== No safe：
+* Is being discovered
+[32m[2023-06-11 06:16:54] [INFO] [39mMag#k+R3I2: 我说的对吗（
+[32m[2023-06-11 06:17:47] [INFO] [39m阿杰 joined
+[32m[2023-06-11 06:17:47] [INFO] [39mServer: 阿杰 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 06:18:18] [INFO] [39m阿杰 left
+[32m[2023-06-11 06:18:33] [INFO] [39mServer: @MelonCmd ==[WARN]== Unable to confirm user position.
+* DengquejieL
+[32m[2023-06-11 06:18:42] [INFO] [39m灯确吉L#DQJL68: ![](https://imagebed.s3.bitiful.net/jhDFYtPc63_image.png)
+[32m[2023-06-11 06:18:45] [INFO] [39m灯确吉L#DQJL68: 各单位注意
+[32m[2023-06-11 06:18:51] [INFO] [39mServer: @MelonCmd ==[WARN]== Unable to confirm user position.
+* DengquejieL
+[32m[2023-06-11 06:19:07] [INFO] [39mServer: @MelonCmd ==[WARN]== Unable to confirm user position:
+[32m[2023-06-11 06:19:16] [INFO] [39mPaperDr0_#114514: >[WHL1Ja] →：
+>活泼的 阿杰 跳进了聊天室
+
+@→ 
+[32m[2023-06-11 06:19:48] [INFO] [39mServer: @MelonCmd [DEL MSG]
+[32m[2023-06-11 06:19:54] [INFO] [39mServer: @MelonCmd 清空一下消息
+[32m[2023-06-11 06:19:58] [INFO] [39mServer: PaperDr0_ 已清除 ?chat 的历史记录
+[32m[2023-06-11 06:20:10] [INFO] [39mServer: @MelonCmd 重要的事去 ?会议室 （张说的）
+[32m[2023-06-11 06:20:43] [INFO] [39mMag#k+R3I2: 不是
+[32m[2023-06-11 06:20:46] [INFO] [39mMag#k+R3I2: 这重要吗
+[32m[2023-06-11 06:20:58] [INFO] [39mMag#k+R3I2: because i dont care(
+[32m[2023-06-11 06:21:00] [INFO] [39mServer: @MelonCmd 半重要
+[32m[2023-06-11 06:21:29] [INFO] [39mServer: [k+R3I2] Mag 锁定了 ?会议室
+[32m[2023-06-11 06:21:44] [INFO] [39mmouse#+zX/AP: @灯确吉L 这light是哪个light
+[32m[2023-06-11 06:22:01] [INFO] [39mMag#k+R3I2: 好像是ice
+[32m[2023-06-11 06:22:06] [INFO] [39m灯确吉L#DQJL68: y
+[32m[2023-06-11 06:22:30] [INFO] [39mmouse#+zX/AP: 好吧
+[32m[2023-06-11 06:22:34] [INFO] [39mmouse#+zX/AP: 我去看看
+[32m[2023-06-11 06:22:53] [INFO] [39mmouse#+zX/AP: 星聊： https://chat.ccox.cn/ 打不开的
+[32m[2023-06-11 06:23:21] [INFO] [39mServer: @MelonCmd ==[NO SAFE]== Want to prevent the following user behavior:
+* mouse
+Don't go to LC
+[32m[2023-06-11 06:24:06] [INFO] [39mmouse#+zX/AP: 啥玩意
+[32m[2023-06-11 06:24:40] [INFO] [39mServer: @MelonCmd 请删除历史记录
+[32m[2023-06-11 06:24:48] [INFO] [39mMelonCmd left
+[32m[2023-06-11 06:24:50] [INFO] [39mServer: 灯确吉L 已清除 ?chat 的历史记录
+[32m[2023-06-11 06:25:20] [INFO] [39msus joined
+[32m[2023-06-11 06:25:20] [INFO] [39mServer: sus 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 06:25:22] [INFO] [39msus#5jNBcw: 1
+[32m[2023-06-11 06:26:03] [INFO] [39mServer: Mag 添加了一个信任用户，识别码为：5jNBcw
+[32m[2023-06-11 06:27:28] [INFO] [39mServer: 灯确吉L 已清除 ?会议室 的历史记录
+[32m[2023-06-11 06:34:35] [INFO] [39mServer: [DQJL68] 灯确吉L 解除锁定了 ?会议室
+[32m[2023-06-11 06:34:36] [INFO] [39mServer: [DQJL68] 灯确吉L 锁定了 ?会议室
+[32m[2023-06-11 06:34:41] [INFO] [39mServer: PaperDr0_ 已清除 ?会议室 的历史记录
+[32m[2023-06-11 06:34:44] [INFO] [39mOutlier left
+[32m[2023-06-11 06:34:45] [INFO] [39mServer: PaperDr0_ 已清除 ?会议室 的历史记录
+[32m[2023-06-11 06:34:50] [INFO] [39mServer: PaperDr0_ 已清除 ?会议室 的历史记录
+[32m[2023-06-11 06:35:16] [INFO] [39mServer: 18:35:16
+[32m[2023-06-11 06:35:16] [INFO] [39m灯确吉L#DQJL68: ![](https://imagebed.s3.bitiful.net/vy0ufdQBk9_image.png)
+[32m[2023-06-11 06:35:22] [INFO] [39m嗯#AZ3jF7: 23是怎么发现的
+[32m[2023-06-11 06:35:24] [INFO] [39m灯确吉L#DQJL68: 我要不要让燕说愿意
+[32m[2023-06-11 06:35:26] [INFO] [39mServer: 灯确吉L 已清除 ?chat 的历史记录
+[32m[2023-06-11 06:35:42] [INFO] [39mServer: @sus [Loading] test user.....
+[32m[2023-06-11 06:36:22] [INFO] [39m灯确吉L#DQJL68: ![](https://imagebed.s3.bitiful.net/mJ055aArny_image.png)
+[32m[2023-06-11 06:36:23] [INFO] [39mServer: 灯确吉L 已清除 ?chat 的历史记录
+[32m[2023-06-11 06:36:41] [INFO] [39mServer: @sus wc你别公屏发啊
+[32m[2023-06-11 06:36:55] [INFO] [39mServer: @灯确吉L [安全守护]
+清历史了
+[32m[2023-06-11 06:39:06] [INFO] [39mServer: 灯确吉L 已清除 ?会议室_2024 的历史记录
+[32m[2023-06-11 06:39:12] [INFO] [39mhlg#MS7a+R: 给个地址
+[32m[2023-06-11 06:39:17] [INFO] [39mhlg#MS7a+R: 再给个代理
+[32m[2023-06-11 06:39:17] [INFO] [39mServer: PaperDr0_ 已清除 ?会议室_2024 的历史记录
+[32m[2023-06-11 06:40:07] [INFO] [39mhlg#MS7a+R: 快点
+[32m[2023-06-11 06:40:31] [INFO] [39mmouse#+zX/AP: 代理不行，地址可以（
+[32m[2023-06-11 06:40:59] [INFO] [39mhlg#MS7a+R: 我都找到了
+[32m[2023-06-11 06:41:29] [INFO] [39mmouse#+zX/AP: 。。
+[32m[2023-06-11 06:41:38] [INFO] [39mmouse#+zX/AP: 那问个jiba
+[32m[2023-06-11 06:46:24] [INFO] [39mServer: 嗯 已清除 ?会议室_2024 的历史记录
+[32m[2023-06-11 06:46:39] [INFO] [39mhlg left
+[32m[2023-06-11 06:46:52] [INFO] [39mhlg123 joined
+[32m[2023-06-11 06:46:52] [INFO] [39mServer: hlg123 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 06:46:55] [INFO] [39mServer: 18:46:55
+[32m[2023-06-11 06:46:55] [INFO] [39mhlg123#MS7a+R: 422["register",{"username":"sha'bi","password":"awa","os":"Windows","browser":"Firefox","environment":"Firefox 113.0 on Windows 10 64-bit"}]
+[32m[2023-06-11 06:49:37] [INFO] [39mServer: 嗯 已清除 ?会议室_2024 的历史记录
+[32m[2023-06-11 06:53:49] [INFO] [39m灯确吉L left
+[32m[2023-06-11 06:57:44] [INFO] [39mServer: 18:57:44
+[32m[2023-06-11 06:57:44] [INFO] [39mMag#k+R3I2: hhh
+[32m[2023-06-11 07:11:53] [INFO] [39m嗯 left
+[32m[2023-06-11 07:12:07] [INFO] [39m嗯 joined
+[32m[2023-06-11 07:12:58] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 07:14:55] [INFO] [39mServer: 19:14:55
+[32m[2023-06-11 07:14:55] [INFO] [39m嗯#AZ3jF7: 光明村高速
+[32m[2023-06-11 07:16:56] [INFO] [39m嗯#AZ3jF7: https://static.wikia.nocookie.net/jspvz/images/6/6a/FakeNews.png/revision/latest?cb=20220730101744&path-prefix=zh
+[32m[2023-06-11 07:22:34] [INFO] [39mServer: 19:22:34
+[32m[2023-06-11 07:22:34] [INFO] [39mMag#k+R3I2: >[DQJL68] 灯确吉L：
+>![](https://imagebed.s3.bitiful.net/vy0ufdQBk9_image.png)
+
+@灯确吉L 这是什么聊天网址
+[32m[2023-06-11 07:23:38] [INFO] [39mHelloOSMe#NtXVSW: light.gs
+[32m[2023-06-11 07:23:42] [INFO] [39mHelloOSMe#NtXVSW: @Mag 
+[32m[2023-06-11 07:30:27] [INFO] [39m灯确吉L_Phone joined
+[32m[2023-06-11 07:30:39] [INFO] [39mServer: 19:30:39
+[32m[2023-06-11 07:30:39] [INFO] [39m灯确吉L_Phone#DQJL68: 来了老弟~
+[32m[2023-06-11 07:30:40] [INFO] [39m灯确吉L_Phone#DQJL68: awa!
+[32m[2023-06-11 07:30:41] [INFO] [39m灯确吉L_Phone#DQJL68: hi yooooooooooooooooooo
+[32m[2023-06-11 07:31:50] [INFO] [39mMrZhang365 joined
+[32m[2023-06-11 07:31:56] [INFO] [39m灯确吉L_Phone#DQJL68: 来了老弟~
+[32m[2023-06-11 07:32:06] [INFO] [39msus#5jNBcw: 张啊
+[32m[2023-06-11 07:32:13] [INFO] [39msus#5jNBcw: 我们遇到了点小逝
+[32m[2023-06-11 07:32:21] [INFO] [39mMrZhang365#Zhang+: 来了老弟~
+[32m[2023-06-11 07:32:27] [INFO] [39mMrZhang365#Zhang+: 临时上线
+[32m[2023-06-11 07:32:28] [INFO] [39m灯确吉L_Phone#DQJL68: 不，是大逝
+[32m[2023-06-11 07:32:30] [INFO] [39mMrZhang365#Zhang+: 发生什么了
+[32m[2023-06-11 07:32:44] [INFO] [39mMag#k+R3I2: 这算什么
+[32m[2023-06-11 07:32:47] [INFO] [39msus#5jNBcw: 看我识别码就知道了事情的严重性
+[32m[2023-06-11 07:32:49] [INFO] [39mMag#k+R3I2: 鸡毛都不算
+[32m[2023-06-11 07:32:54] [INFO] [39msus#5jNBcw: ~~诶不对~~
+[32m[2023-06-11 07:32:55] [INFO] [39m灯确吉L_Phone#DQJL68: ice和zhc对立了
+[32m[2023-06-11 07:33:00] [INFO] [39mPaperDr0_#114514: ice被封禁了
+[32m[2023-06-11 07:33:00] [INFO] [39mMag#k+R3I2: 你真以为那个sabi ice能做出什么
+[32m[2023-06-11 07:33:04] [INFO] [39mMrZhang365#Zhang+: ?
+[32m[2023-06-11 07:33:06] [INFO] [39m灯确吉L_Phone#DQJL68: ice创建了lc
+[32m[2023-06-11 07:33:11] [INFO] [39mMrZhang365#Zhang+: @sus 你怎么换密码了
+[32m[2023-06-11 07:33:11] [INFO] [39mMag#k+R3I2: 上次我在tc把他虐的哭爹喊娘
+[32m[2023-06-11 07:33:12] [INFO] [39m灯确吉L_Phone#DQJL68: 和zhc对立
+[32m[2023-06-11 07:33:12] [INFO] [39msus#5jNBcw: 目前ice正在组织全体聊天室对立zhc
+[32m[2023-06-11 07:33:16] [INFO] [39mMrZhang365#Zhang+: 草？
+[32m[2023-06-11 07:33:18] [INFO] [39m灯确吉L_Phone#DQJL68: 正确的
+[32m[2023-06-11 07:33:20] [INFO] [39mMag#k+R3I2: 还有他的站直接连的源站
+[32m[2023-06-11 07:33:20] [INFO] [39mMrZhang365#Zhang+: woc
+[32m[2023-06-11 07:33:22] [INFO] [39mPaperDr0_#114514: 自己看看历史记录
+[32m[2023-06-11 07:33:24] [INFO] [39msus#5jNBcw: > yc 对立进度：80%
+[32m[2023-06-11 07:33:25] [INFO] [39m灯确吉L_Phone#DQJL68: 且mouse一起叛变
+[32m[2023-06-11 07:33:25] [INFO] [39mMag#k+R3I2: 两发cc干死
+[32m[2023-06-11 07:33:29] [INFO] [39msus#5jNBcw: > csc 对立进度：20%
+[32m[2023-06-11 07:33:31] [INFO] [39mPaperDr0_#114514: ice下午说了一大堆几把话
+[32m[2023-06-11 07:33:31] [INFO] [39m灯确吉L_Phone#DQJL68: 且mouse疑似叛变
+[32m[2023-06-11 07:33:34] [INFO] [39msus#5jNBcw: > lo 对立进度：--%
+[32m[2023-06-11 07:33:36] [INFO] [39mMrZhang365#Zhang+: 为什么何这路对立
+[32m[2023-06-11 07:33:40] [INFO] [39mMrZhang365#Zhang+: 和这里对立
+[32m[2023-06-11 07:33:43] [INFO] [39msus#5jNBcw: @MrZhang365 还记得
+[32m[2023-06-11 07:33:45] [INFO] [39msus#5jNBcw: 很简单
+[32m[2023-06-11 07:33:47] [INFO] [39msus#5jNBcw: 首先
+[32m[2023-06-11 07:33:50] [INFO] [39msus#5jNBcw: ice搞h
+[32m[2023-06-11 07:33:51] [INFO] [39mMrZhang365#Zhang+: 他又来了
+[32m[2023-06-11 07:33:55] [INFO] [39msus#5jNBcw: 被bj禁言0.23分钟
+[32m[2023-06-11 07:33:59] [INFO] [39msus#5jNBcw: 然后解除了
+[32m[2023-06-11 07:34:02] [INFO] [39mMrZhang365#Zhang+: 然后咱们这里的管理看的不顺眼
+[32m[2023-06-11 07:34:05] [INFO] [39msus#5jNBcw: ice认为bj滥用职权
+[32m[2023-06-11 07:34:06] [INFO] [39mMrZhang365#Zhang+: 然后处理了
+[32m[2023-06-11 07:34:19] [INFO] [39mMrZhang365#Zhang+: 搞黄？
+[32m[2023-06-11 07:34:19] [INFO] [39msus#5jNBcw: 然后说了一大堆话
+[32m[2023-06-11 07:34:25] [INFO] [39mMrZhang365#Zhang+: 信息私信发给我
+[32m[2023-06-11 07:34:26] [INFO] [39msus#5jNBcw: 最后bj发了个投票
+[32m[2023-06-11 07:34:32] [INFO] [39mMag#k+R3I2: 要我说
+[32m[2023-06-11 07:34:34] [INFO] [39mMrZhang365#Zhang+: 我看看算不算搞黄
+[32m[2023-06-11 07:34:36] [INFO] [39mPaperDr0_#114514: 历史记录被rm了
+[32m[2023-06-11 07:34:36] [INFO] [39mMag#k+R3I2: 他的站凉凉了
+[32m[2023-06-11 07:34:38] [INFO] [39mMag#k+R3I2: cc coming
+[32m[2023-06-11 07:34:44] [INFO] [39mMrZhang365#Zhang+: 按照明定国是来判断
+[32m[2023-06-11 07:34:46] [INFO] [39msus#5jNBcw: 投票到一半，结果是ice被永久禁言
+[32m[2023-06-11 07:34:47] [INFO] [39msus#5jNBcw: 然后
+[32m[2023-06-11 07:34:53] [INFO] [39msus#5jNBcw: 我又发起了一次投票
+[32m[2023-06-11 07:34:55] [INFO] [39m灯确吉L_Phone#DQJL68: 我有一份从14:00到现在的日志
+[32m[2023-06-11 07:34:57] [INFO] [39mMrZhang365#Zhang+: 你先私信发一下他的信息
+[32m[2023-06-11 07:35:00] [INFO] [39msus#5jNBcw: ice的禁言被取消
+[32m[2023-06-11 07:35:00] [INFO] [39m灯确吉L_Phone#DQJL68: 由DLBot记录
+[32m[2023-06-11 07:35:01] [INFO] [39mMrZhang365#Zhang+: 他搞黄的信息
+[32m[2023-06-11 07:35:11] [INFO] [39m灯确吉L_Phone#DQJL68: 但是没有/me
+[32m[2023-06-11 07:35:11] [INFO] [39mMrZhang365#Zhang+: 我通过明定国是判断一下
+[32m[2023-06-11 07:35:13] [INFO] [39msus#5jNBcw: 然后他又开始去瞧不起我们
+[32m[2023-06-11 07:35:16] [INFO] [39msus#5jNBcw: 然后
+[32m[2023-06-11 07:35:18] [INFO] [39msus#5jNBcw: （等我一会）
+[32m[2023-06-11 07:35:25] [INFO] [39mMrZhang365#Zhang+: ice刚到xc的时候就是搞事
+[32m[2023-06-11 07:35:33] [INFO] [39msus#5jNBcw: 然后我就发了个投票
+[32m[2023-06-11 07:35:34] [INFO] [39mMrZhang365 left
+[32m[2023-06-11 07:35:46] [INFO] [39msus#5jNBcw: 投票结果是我、dqjl、dr0、bj都选择永久封禁
+[32m[2023-06-11 07:35:51] [INFO] [39mMrZhang365 joined
+[32m[2023-06-11 07:35:55] [INFO] [39msus#5jNBcw: 投票时间到后，他被封禁
+[32m[2023-06-11 07:35:58] [INFO] [39m灯确吉L_Phone#DQJL68: @MrZhang365 讲个笑话：DLBot用的是你做的python==xc==支持库
+[32m[2023-06-11 07:36:00] [INFO] [39mMrZhang365#Zhang+: 哦
+[32m[2023-06-11 07:36:02] [INFO] [39mMrZhang365#Zhang+: 9
+[32m[2023-06-11 07:36:04] [INFO] [39msus#5jNBcw: 然后我就去了ic
+[32m[2023-06-11 07:36:08] [INFO] [39mPaperDr0_#114514: 它不是说了什么`gangjiao`吗
+[32m[2023-06-11 07:36:13] [INFO] [39mPaperDr0_#114514: 这个算吧
+[32m[2023-06-11 07:36:15] [INFO] [39m灯确吉L_Phone#DQJL68: >[5jNBcw] sus：
+>然后我就去了ic
+
+@sus 是lc
+[32m[2023-06-11 07:36:18] [INFO] [39mMrZhang365#Zhang+: 然后密码被盗取？
+[32m[2023-06-11 07:36:23] [INFO] [39msus#5jNBcw: >[Zhang+] MrZhang365：
+>然后密码被盗取？
+
+@MrZhang365 不是
+[32m[2023-06-11 07:36:25] [INFO] [39msus#5jNBcw: 等我一会
+[32m[2023-06-11 07:36:30] [INFO] [39msus#5jNBcw: 正在复制历史记录
+[32m[2023-06-11 07:36:33] [INFO] [39msus#5jNBcw: wait
+[32m[2023-06-11 07:36:33] [INFO] [39mMrZhang365#Zhang+: 必须的
+[32m[2023-06-11 07:36:35] [INFO] [39m灯确吉L_Phone#DQJL68: @MrZhang365 它还说“bs”
+[32m[2023-06-11 07:36:40] [INFO] [39mMrZhang365#Zhang+: 行
+[32m[2023-06-11 07:36:45] [INFO] [39mMrZhang365#Zhang+: 可以算作搞黄色
+[32m[2023-06-11 07:36:47] [INFO] [39mServer: @灯确吉L_Phone 疑似“逼水”，“白丝”
+[32m[2023-06-11 07:36:53] [INFO] [39mMrZhang365#Zhang+: 行
+[32m[2023-06-11 07:36:55] [INFO] [39mMrZhang365#Zhang+: 我知道了
+[32m[2023-06-11 07:37:07] [INFO] [39mMrZhang365#Zhang+: 这事情完全是咱们占理
+[32m[2023-06-11 07:37:18] [INFO] [39mMrZhang365#Zhang+: 我甚至还可以翻ice的旧账
+[32m[2023-06-11 07:37:38] [INFO] [39mMrZhang365#Zhang+: 要不是当初fish看上了ice的“技术”
+[32m[2023-06-11 07:37:51] [INFO] [39mMrZhang365#Zhang+: 我早就把他封到死了
+[32m[2023-06-11 07:37:58] [INFO] [39mMrZhang365#Zhang+: 他这个人历史不一般
+[32m[2023-06-11 07:38:08] [INFO] [39mMrZhang365#Zhang+: 来到xc之前还去过lo捣乱搞黄色
+[32m[2023-06-11 07:38:09] [INFO] [39mPaperDr0_#114514: >[Zhang+] MrZhang365：
+>要不是当初fish看上了ice的“技术”
+
+@MrZhang365 什么时候的事
+[32m[2023-06-11 07:38:24] [INFO] [39mMrZhang365#Zhang+: @PaperDr0_ xc刚上fuun的时候
+[32m[2023-06-11 07:38:32] [INFO] [39m灯确吉L_Phone#DQJL68: @MrZhang365 我有一份从14:00到现在的日志，但是~~由于xc支持库没有/me~~没有/me内容及系统消息
+[32m[2023-06-11 07:38:44] [INFO] [39mMrZhang365#Zhang+: 大概是2022年下旬
+[32m[2023-06-11 07:38:49] [INFO] [39mMrZhang365#Zhang+: az
+[32m[2023-06-11 07:38:50] [INFO] [39msus#5jNBcw: 复制完成
+[32m[2023-06-11 07:38:53] [INFO] [39mPaperDr0_#114514: >[DQJL68] 灯确吉L_Phone：
+>@MrZhang365 我有一份从14:00到现在的日志，但是~~由于xc支持库没有/me~~没有/me内容及系统消息
+
+@灯确吉L_Phone 发notems上面
+[32m[2023-06-11 07:38:53] [INFO] [39m灯确吉L_Phone#DQJL68: 当时我在线
+[32m[2023-06-11 07:39:04] [INFO] [39mMrZhang365#Zhang+: @sus 对了，你的密码怎么换了
+[32m[2023-06-11 07:39:07] [INFO] [39msus#5jNBcw: 正在发送到 https://note.cmd1152.repl.co/?awa
+[32m[2023-06-11 07:39:08] [INFO] [39mMrZhang365#Zhang+: 是泄漏了吗
+[32m[2023-06-11 07:39:26] [INFO] [39mMrZhang365#Zhang+: wait
+[32m[2023-06-11 07:39:32] [INFO] [39mPaperDr0_#114514: 不是吧，貌似是ice要cmd做卧底，然后cmd假装卧底
+[32m[2023-06-11 07:39:42] [INFO] [39mMrZhang365#Zhang+: 刘
+[32m[2023-06-11 07:39:44] [INFO] [39mMrZhang365#Zhang+: 六
+[32m[2023-06-11 07:39:53] [INFO] [39msus#5jNBcw: >[5jNBcw] sus：
+>正在发送到 https://note.cmd1152.repl.co/?awa
+
+完成
+[32m[2023-06-11 07:39:57] [INFO] [39mMrZhang365#Zhang+: 咱们别假装我弟
+[32m[2023-06-11 07:39:59] [INFO] [39mMrZhang365#Zhang+: 卧底
+[32m[2023-06-11 07:40:01] [INFO] [39msus#5jNBcw: lc记录
+[32m[2023-06-11 07:40:05] [INFO] [39mMrZhang365#Zhang+: 免得搞大事情
+[32m[2023-06-11 07:40:07] [INFO] [39mPaperDr0_#114514: >[DQJL68] 灯确吉L：
+>![](https://imagebed.s3.bitiful.net/vy0ufdQBk9_image.png)
+
+@灯确吉L 
+[32m[2023-06-11 07:40:22] [INFO] [39m灯确吉L_Phone#DQJL68: @sus 好像被我盖掉了
+[32m[2023-06-11 07:40:26] [INFO] [39mMrZhang365#Zhang+: 我尽力找记录
+[32m[2023-06-11 07:40:32] [INFO] [39msus#5jNBcw: https://note.cmd1152.repl.co/awa?token=RErg9awf9bas29cd98szv298f45sz
+[32m[2023-06-11 07:40:33] [INFO] [39mMrZhang365 left
+[32m[2023-06-11 07:40:36] [INFO] [39msus#5jNBcw: >[5jNBcw] sus：
+>https://note.cmd1152.repl.co/awa?token=RErg9awf9bas29cd98szv298f45sz
+
+进去看看
+[32m[2023-06-11 07:42:46] [INFO] [39mMrZhang365 joined
+[32m[2023-06-11 07:42:53] [INFO] [39m灯确吉L_Phone#DQJL68: @MrZhang365 visit note.ms/iceice
+[32m[2023-06-11 07:42:54] [INFO] [39mMrZhang365#Zhang+: 就是搞黄色
+[32m[2023-06-11 07:43:04] [INFO] [39mMrZhang365#Zhang+: 咱们是正当的一方
+[32m[2023-06-11 07:43:12] [INFO] [39m嗯#AZ3jF7: ok
+[32m[2023-06-11 07:43:16] [INFO] [39mHelloOSMe#NtXVSW: 6
+> you live in hongkong
+
+So did he know vpn()
+[32m[2023-06-11 07:43:29] [INFO] [39mMrZhang365#Zhang+: 我去写作业
+[32m[2023-06-11 07:43:34] [INFO] [39msus#5jNBcw: >[5jNBcw] sus：
+>>[5jNBcw] sus：
+>>https://note.cmd1152.repl.co/awa?token=RErg9awf9bas29cd98szv298f45sz
+>
+>进去看看
+[32m[2023-06-11 07:43:36] [INFO] [39msus#5jNBcw: @MrZhang365 
+[32m[2023-06-11 07:43:44] [INFO] [39mMrZhang365 left
+[32m[2023-06-11 07:43:52] [INFO] [39mMrZhang365 joined
+[32m[2023-06-11 07:43:56] [INFO] [39mMrZhang365#Zhang+: 穿我的话，ice确实搞黄色
+[32m[2023-06-11 07:44:06] [INFO] [39mPaperDr0_#114514: [2023-06-11 16:26:13] ice: @PaperDr0 什么意思呢
+[2023-06-11 16:26:23] ice: bs是什么意思呢，你该如何解释
+[2023-06-11 16:26:31] PaperDr0: 那就要问你了
+[2023-06-11 16:26:36] PaperDr0: bs你说是什么意思
+[2023-06-11 16:26:43] ice: 我没有权利
+[2023-06-11 16:26:45] ice: 告诉你
+[32m[2023-06-11 07:44:09] [INFO] [39mMrZhang365#Zhang+: 我劝他最好不要像以前颠倒事实
+[32m[2023-06-11 07:44:13] [INFO] [39msus#5jNBcw: https://note.cmd1152.repl.co/iceice
+[32m[2023-06-11 07:44:14] [INFO] [39mMrZhang365#Zhang+: 我们这里可是有记录的
+[32m[2023-06-11 07:44:21] [INFO] [39msus#5jNBcw: https://note.cmd1152.repl.co/iceice
+https://note.cmd1152.repl.co/awa
+[32m[2023-06-11 07:44:22] [INFO] [39mPaperDr0_#114514: 《我没有权利告诉你》
+[32m[2023-06-11 07:44:24] [INFO] [39mMrZhang365#Zhang+: 眼睛了不仅仅有我这一双
+[32m[2023-06-11 07:44:39] [INFO] [39mMrZhang365#Zhang+: 我劝他端正态度
+[32m[2023-06-11 07:44:43] [INFO] [39mMrZhang365#Zhang+: 好了
+[32m[2023-06-11 07:44:48] [INFO] [39mMrZhang365#Zhang+: 我该去写作业了
+[32m[2023-06-11 07:44:54] [INFO] [39mMrZhang365#Zhang+: 间谍之类的都免谈
+[32m[2023-06-11 07:45:00] [INFO] [39mMrZhang365#Zhang+: 别给我搞间谍战
+[32m[2023-06-11 07:45:08] [INFO] [39mMrZhang365 left
+[32m[2023-06-11 07:45:27] [INFO] [39mMrZhang365 joined
+[32m[2023-06-11 07:45:31] [INFO] [39m灯确吉L_Phone#DQJL68: [2023-06-11 17:20:26] MelonCmd: tmd
+[2023-06-11 17:20:32] MelonCmd: 老子炸死你
+[2023-06-11 17:20:50] MelonCmd: dqjl 快启动 EndMin
+[32m[2023-06-11 07:45:34] [INFO] [39m灯确吉L_Phone#DQJL68: @sus 996
+[32m[2023-06-11 07:45:46] [INFO] [39mMrZhang365#Zhang+: 免得以后两边都扯不清关系
+[32m[2023-06-11 07:46:00] [INFO] [39mMrZhang365#Zhang+: 懂了吗？@sus 
+[32m[2023-06-11 07:46:11] [INFO] [39mMrZhang365#Zhang+: 距离中考还有一个星期
+[32m[2023-06-11 07:46:17] [INFO] [39mMrZhang365#Zhang+: 我时间很宝贵
+[32m[2023-06-11 07:46:21] [INFO] [39mMrZhang365 left
+[32m[2023-06-11 07:49:23] [INFO] [39mDLBot left
+[32m[2023-06-11 07:49:28] [INFO] [39mDLBot joined
+[32m[2023-06-11 07:49:40] [INFO] [39mDLBot left
+[32m[2023-06-11 07:49:41] [INFO] [39mDLBot joined
+[32m[2023-06-11 07:49:57] [INFO] [39mDLBot left
+[32m[2023-06-11 07:51:18] [INFO] [39mDLBot joined
+[32m[2023-06-11 07:51:35] [INFO] [39muw joined
+[32m[2023-06-11 07:51:35] [INFO] [39mServer: uw 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 07:51:38] [INFO] [39mServer: 19:51:38
+[32m[2023-06-11 07:51:38] [INFO] [39mMag#k+R3I2: Minecraft e.rainplay.cn:9374 come&play 1.13.2
+[32m[2023-06-11 07:51:51] [INFO] [39muw#NVhOaM: .
+[32m[2023-06-11 07:52:33] [INFO] [39mMag left
+[32m[2023-06-11 07:53:42] [INFO] [39msus#5jNBcw: >[Zhang+] MrZhang365：
+>懂了吗？@sus 
+
+@MrZhang365 ~~不懂~~
+[32m[2023-06-11 07:59:58] [INFO] [39mServer: 19:59:58
+[32m[2023-06-11 07:59:58] [INFO] [39muw#NVhOaM: .
+[32m[2023-06-11 08:00:12] [INFO] [39mzzChumo_小米平板5Pro joined
+[32m[2023-06-11 08:00:45] [INFO] [39m灯确吉L_Phone#DQJL68: %helo
+[32m[2023-06-11 08:00:48] [INFO] [39m灯确吉L_Phone#DQJL68: %help
+[32m[2023-06-11 08:01:50] [INFO] [39m灯确吉L_Phone#DQJL68: @PaperDr0_ 
+[32m[2023-06-11 08:01:54] [INFO] [39m灯确吉L_Phone#DQJL68: @PaperDr0_ 
+[32m[2023-06-11 08:01:56] [INFO] [39m灯确吉L_Phone#DQJL68: @PaperDr0_ 
+[32m[2023-06-11 08:02:05] [INFO] [39m灯确吉L_Phone#DQJL68: addWhiteUser	添加白名单用户（不受kick、changenick限制）
+delWhiteUser	添加白名单用户
+listWhiteUser	显示白名单列表
+[32m[2023-06-11 08:02:06] [INFO] [39m灯确吉L_Phone#DQJL68: 996
+[32m[2023-06-11 08:04:07] [INFO] [39mMag joined
+[32m[2023-06-11 08:04:09] [INFO] [39m灯确吉L_Phone#DQJL68: 来了老弟~
+[32m[2023-06-11 08:04:11] [INFO] [39m灯确吉L_Phone#DQJL68: awa!
+[32m[2023-06-11 08:04:11] [INFO] [39m灯确吉L_Phone#DQJL68: uwu!
+[32m[2023-06-11 08:04:13] [INFO] [39mMag#k+R3I2: Minecraft e.rainplay.cn:9374 come&play 1.13.2
+[32m[2023-06-11 08:04:22] [INFO] [39m灯确吉L_Phone#DQJL68: 没有1.13.2
+[32m[2023-06-11 08:04:32] [INFO] [39m灯确吉L_Phone#DQJL68: 而且现在我也玩不了
+[32m[2023-06-11 08:04:51] [INFO] [39mhlg123 left
+[32m[2023-06-11 08:04:55] [INFO] [39mHelloOSMe#NtXVSW: 草
+[32m[2023-06-11 08:05:02] [INFO] [39mMag#k+R3I2: pwease
+[32m[2023-06-11 08:05:03] [INFO] [39mMag#k+R3I2: play
+[32m[2023-06-11 08:05:03] [INFO] [39mHelloOSMe#NtXVSW: curl好慢（）
+[32m[2023-06-11 08:05:08] [INFO] [39mMag#k+R3I2: this server will die
+[32m[2023-06-11 08:05:11] [INFO] [39mMag#k+R3I2: tomorrow
+[32m[2023-06-11 08:05:16] [INFO] [39m灯确吉L_Phone#DQJL68: please
+[32m[2023-06-11 08:05:17] [INFO] [39m灯确吉L_Phone#DQJL68: play
+[32m[2023-06-11 08:05:23] [INFO] [39m灯确吉L_Phone#DQJL68: lr689.ml:25565
+[32m[2023-06-11 08:05:29] [INFO] [39m灯确吉L_Phone#DQJL68: minecraft 1.122
+[32m[2023-06-11 08:05:34] [INFO] [39m灯确吉L_Phone#DQJL68: *minecraft 1.12.2
+[32m[2023-06-11 08:05:47] [INFO] [39mMag#k+R3I2: buttt
+[32m[2023-06-11 08:05:51] [INFO] [39mMag#k+R3I2: your server will alive
+[32m[2023-06-11 08:05:53] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 08:05:59] [INFO] [39mMag#k+R3I2: tomorrow
+[32m[2023-06-11 08:06:04] [INFO] [39mMag#k+R3I2: but mine one will die
+[32m[2023-06-11 08:06:36] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 08:06:44] [INFO] [39mhlg123 joined
+[32m[2023-06-11 08:06:44] [INFO] [39mServer: hlg123 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 08:06:59] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 08:08:06] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 08:08:09] [INFO] [39msus#5jNBcw: >[k+R3I2] Mag：
+>Minecraft e.rainplay.cn:9374 come&play 1.13.2
+
+@Mag 没有1.13.2
+[32m[2023-06-11 08:08:54] [INFO] [39m灯确吉L_Phone left
+[32m[2023-06-11 08:09:11] [INFO] [39mmouse#+zX/AP: 修理u盘ing
+[32m[2023-06-11 08:09:53] [INFO] [39mitser joined
+[32m[2023-06-11 08:09:53] [INFO] [39mServer: itser 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 08:09:55] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 08:09:56] [INFO] [39mitser#: Hi
+[32m[2023-06-11 08:10:03] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 08:10:18] [INFO] [39mitser#: 没人吗
+[32m[2023-06-11 08:10:22] [INFO] [39muw#NVhOaM: 有人
+[32m[2023-06-11 08:10:25] [INFO] [39muw#NVhOaM: iceice
+[32m[2023-06-11 08:10:31] [INFO] [39mitser#: 哈哈
+[32m[2023-06-11 08:12:32] [INFO] [39mhlg123#MS7a+R: 全体注意！
+[32m[2023-06-11 08:13:03] [INFO] [39mhlg123#MS7a+R: 就你这变色
+[32m[2023-06-11 08:13:14] [INFO] [39mhlg123#MS7a+R: 全聊天室就俩变色的
+[32m[2023-06-11 08:14:36] [INFO] [39mMag#k+R3I2: @itser
+[32m[2023-06-11 08:14:40] [INFO] [39mMag#k+R3I2: too L
+[32m[2023-06-11 08:14:45] [INFO] [39mMag#k+R3I2: try again next time
+[32m[2023-06-11 08:15:27] [INFO] [39mServer: [k+R3I2] Mag 封禁了 ?chat 的 itser。
+波及用户：
+?chat [null]itser 
+ 
+itser IP地址为：161.81.234.219
+您可以通过上面提供的IP来解除封禁该用户
+[32m[2023-06-11 08:15:27] [INFO] [39mitser left
+[32m[2023-06-11 08:15:34] [INFO] [39mMag#k+R3I2: 有原因的
+[32m[2023-06-11 08:15:41] [INFO] [39muw#NVhOaM: 知道
+[32m[2023-06-11 08:16:13] [INFO] [39mMag#k+R3I2: 2 reconnect/s, 347 pkt/s, 328 active connection(s)
+[32m[2023-06-11 08:16:18] [INFO] [39mMag#k+R3I2: 他站要嘎
+[32m[2023-06-11 08:16:37] [INFO] [39mPaperDr0_#114514: ![](https://imagebed.s3.bitiful.net/qaDxOKgi6C_image.png)
+[32m[2023-06-11 08:16:40] [INFO] [39mPaperDr0_#114514: hk的ip
+[32m[2023-06-11 08:16:47] [INFO] [39mHelloOSMe#NtXVSW: 代理罢？
+[32m[2023-06-11 08:16:54] [INFO] [39mPaperDr0_#114514: 我用nmap扫一下
+[32m[2023-06-11 08:17:04] [INFO] [39muw#NVhOaM: 香港的ip能进zhc吗
+[32m[2023-06-11 08:17:21] [INFO] [39mPaperDr0_#114514: 当然
+[32m[2023-06-11 08:17:27] [INFO] [39muw#NVhOaM: 那台湾的呢
+[32m[2023-06-11 08:17:28] [INFO] [39mPaperDr0_#114514: 昨天美国的ip都能进来
+[32m[2023-06-11 08:17:34] [INFO] [39muw#NVhOaM: XD
+[32m[2023-06-11 08:17:40] [INFO] [39muw#NVhOaM: 怎么搞的
+[32m[2023-06-11 08:17:46] [INFO] [39muw#NVhOaM: 不是国外ip都进不来吗
+[32m[2023-06-11 08:17:54] [INFO] [39mPaperDr0_#114514: idk
+[32m[2023-06-11 08:18:02] [INFO] [39muw#NVhOaM: 我试试
+[32m[2023-06-11 08:18:11] [INFO] [39mHelloOSMe#NtXVSW: 逝世？
+[32m[2023-06-11 08:18:13] [INFO] [39mPaperDr0_#114514: 哦我知道了
+[32m[2023-06-11 08:18:22] [INFO] [39mPaperDr0_#114514: ice说过它在香港
+[32m[2023-06-11 08:18:29] [INFO] [39mPaperDr0_#114514: 它应该用的手机卡
+[32m[2023-06-11 08:18:41] [INFO] [39mMag#k+R3I2: @5Pro
+[32m[2023-06-11 08:18:43] [INFO] [39mMag#k+R3I2: whoru
+[32m[2023-06-11 08:19:13] [INFO] [39mMag#k+R3I2: wait
+[32m[2023-06-11 08:19:14] [INFO] [39mMag#k+R3I2: ah
+[32m[2023-06-11 08:19:16] [INFO] [39mhlg123#MS7a+R: https://chat.light.gs/socket.io/?EIO=4&transport=websocket&sid=0GrpEAl_3vD1d38vAAsA
+[32m[2023-06-11 08:19:18] [INFO] [39mMag#k+R3I2: just a mess
+[32m[2023-06-11 08:20:34] [INFO] [39muw left
+[32m[2023-06-11 08:21:21] [INFO] [39mHelloOSMe#NtXVSW: @uw 很明显你在玩间谍战。
+[32m[2023-06-11 08:22:06] [INFO] [39mPaperDr0_#114514: >[NtXVSW] HelloOSMe：
+>@uw 很明显你在玩间谍战。
+
+@HelloOSMe uw是间谍?
+[32m[2023-06-11 08:22:18] [INFO] [39mServer: HelloOSMe 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 08:22:19] [INFO] [39mHelloOSMe#NtXVSW: > 目的达到了就行
+
+群主
+Light
+20:15
+卧底返回数据了
+
+群主
+Light
+20:16
+至少不止一个卧底
+[32m[2023-06-11 08:22:27] [INFO] [39mHelloOSMe#NtXVSW: 嗯可疑
+[32m[2023-06-11 08:22:38] [INFO] [39mPaperDr0_#114514: mouse有可疑
+[32m[2023-06-11 08:22:44] [INFO] [39mHelloOSMe#NtXVSW: 我翻了历史记录好像有说
+[32m[2023-06-11 08:22:53] [INFO] [39mPaperDr0_#114514: %listSkipCap
+[32m[2023-06-11 08:22:54] [INFO] [39mServer: CaptchaBot 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 08:22:55] [INFO] [39mCaptchaBot#114514: 跳过的识别码列表：
+MS7a+R
+Pp0TBP
+Carbon
+VI365C
+dUcGUD
+rU8P6u
+UgMIHN
+H7xpPV
+Jg1hjq
+GFFrm5
+[32m[2023-06-11 08:23:05] [INFO] [39mzzChumo_小米平板5Pro left
+[32m[2023-06-11 08:23:35] [INFO] [39mMag left
+[32m[2023-06-11 08:23:49] [INFO] [39mHelloOSMe#NtXVSW: 但是
+[32m[2023-06-11 08:23:54] [INFO] [39mHelloOSMe#NtXVSW: 不予置评（）
+[32m[2023-06-11 08:24:09] [INFO] [39mHelloOSMe#NtXVSW: 不玩互联网虚拟国（）
+[32m[2023-06-11 08:25:34] [INFO] [39mMag joined
+[32m[2023-06-11 08:26:05] [INFO] [39mMag#k+R3I2: 我知道是谁了
+[32m[2023-06-11 08:26:12] [INFO] [39mMag#k+R3I2: 但是我不说
+[32m[2023-06-11 08:26:20] [INFO] [39mPaperDr0_#114514: 谁
+[32m[2023-06-11 08:26:37] [INFO] [39mMag#k+R3I2: >但是我不说
+[32m[2023-06-11 08:26:39] [INFO] [39mPaperDr0_#114514: 私信我
+[32m[2023-06-11 08:26:49] [INFO] [39mMag#k+R3I2: >但是我不说
+[32m[2023-06-11 08:26:55] [INFO] [39mPaperDr0_#114514: emmm
+[32m[2023-06-11 08:29:42] [INFO] [39mhlg123#MS7a+R: @Mag @Mag 为什么注册不了lc了
+[32m[2023-06-11 08:29:50] [INFO] [39mPaperDr0_#114514: ![](https://imagebed.s3.bitiful.net/dbkP6SA9xb_image.png)
+[32m[2023-06-11 08:29:59] [INFO] [39mPaperDr0_#114514: nmap啥也扫不出来
+[32m[2023-06-11 08:30:13] [INFO] [39mHelloOSMe#NtXVSW: @PaperDr0_ 向上翻呢
+[32m[2023-06-11 08:30:27] [INFO] [39mServer: PaperDr0_ 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 08:30:28] [INFO] [39mPaperDr0_#114514: ```
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-06-11 20:16 中国标准时间
+NSE: Loaded 156 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating NSE at 20:16
+Completed NSE at 20:16, 0.01s elapsed
+Initiating NSE at 20:16
+Completed NSE at 20:16, 0.00s elapsed
+Initiating NSE at 20:16
+Completed NSE at 20:16, 0.00s elapsed
+Initiating Ping Scan at 20:16
+Scanning 161.81.234.219 [4 ports]
+Completed Ping Scan at 20:17, 0.15s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 20:17
+Completed Parallel DNS resolution of 1 host. at 20:17, 0.06s elapsed
+Initiating SYN Stealth Scan at 20:17
+Scanning 161.81.234.219.hk.chinamobile.com (161.81.234.219) [1000 ports]
+Completed SYN Stealth Scan at 20:17, 38.66s elapsed (1000 total ports)
+Initiating Service scan at 20:17
+Initiating OS detection (try #1) against 161.81.234.219.hk.chinamobile.com (161.81.234.219)
+Retrying OS detection (try #2) against 161.81.234.219.hk.chinamobile.com (161.81.234.219)
+Initiating Traceroute at 20:17
+Completed Traceroute at 20:17, 3.04s elapsed
+Initiating Parallel DNS resolution of 12 hosts. at 20:17
+Completed Parallel DNS resolution of 12 hosts. at 20:17, 13.02s elapsed
+NSE: Script scanning 161.81.234.219.
+Initiating NSE at 20:17
+Completed NSE at 20:18, 5.02s elapsed
+Initiating NSE at 20:18
+Completed NSE at 20:18, 0.00s elapsed
+Initiating NSE at 20:18
+Completed NSE at 20:18, 0.00s elapsed
+Nmap scan report for 161.81.234.219.hk.chinamobile.com (161.81.234.219)
+Host is up (0.028s latency).
+All 1000 scanned ports on 161.81.234.219.hk.chinamobile.com (161.81.234.219) are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 15 hops
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   0.00 ms  192.168.1.5
+2   5.00 ms  100.64.0.1
+3   11.00 ms 14.148.55.13
+4   11.00 ms 14.148.50.181
+5   10.00 ms 202.97.43.82
+6   16.00 ms 59.43.16.182
+7   18.00 ms 59.43.187.102
+8   26.00 ms 59.43.187.178
+9   27.00 ms 59.43.186.122
+10  26.00 ms 203.100.49.34
+11  25.00 ms 47.246.61.248
+12  23.00 ms 47.246.60.146
+13  ... 14
+15  26.00 ms 161.81.234.219.hk.chinamobile.com (161.81.234.219)
+
+NSE: Script Post-scanning.
+Initiating NSE at 20:18
+Completed NSE at 20:18, 0.00s elapsed
+Initiating NSE at 20:18
+Completed NSE at 20:18, 0.00s elapsed
+Initiating NSE at 20:18
+Completed NSE at 20:18, 0.00s elapsed
+Read data files from: E:\Program Files (x86)\Nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 64.69 seconds
+           Raw packets sent: 2065 (93.568KB) | Rcvd: 232 (24.802KB)
+
+```
+[32m[2023-06-11 08:31:20] [INFO] [39mhlg123#MS7a+R: 161.81.234.219.hk.==chinamobile==.com
+[32m[2023-06-11 08:31:31] [INFO] [39mhlg123#MS7a+R: 扫个坤巴、
+[32m[2023-06-11 08:31:35] [INFO] [39msus#5jNBcw: 我来了
+[32m[2023-06-11 08:31:47] [INFO] [39mMag#k+R3I2: 你还不如直接用原版nmap
+[32m[2023-06-11 08:31:54] [INFO] [39mMag#k+R3I2: 电脑快没电了不聊了
+[32m[2023-06-11 08:32:02] [INFO] [39mPaperDr0_#114514: nmap有win版的
+[32m[2023-06-11 08:32:18] [INFO] [39mPaperDr0_#114514: 我这个原版win下载的
+[32m[2023-06-11 08:32:42] [INFO] [39mhlg123#MS7a+R: @PaperDr0_ @Mag @sus 你能注册吗
+[32m[2023-06-11 08:32:49] [INFO] [39msus#5jNBcw: 什么注册
+[32m[2023-06-11 08:33:01] [INFO] [39mhlg123#MS7a+R: lc
+[32m[2023-06-11 08:33:07] [INFO] [39mhlg123#MS7a+R: 我注册不了了（
+[32m[2023-06-11 08:33:14] [INFO] [39m嗯 left
+[32m[2023-06-11 08:33:19] [INFO] [39msus#5jNBcw: idk
+[32m[2023-06-11 08:33:35] [INFO] [39mPaperDr0_#114514: 卧底到底是谁
+[32m[2023-06-11 08:34:07] [INFO] [39msus => mouse_too_sus
+[32m[2023-06-11 08:35:01] [INFO] [39mMag left
+[32m[2023-06-11 08:35:06] [INFO] [39mmouse_too_sus#5jNBcw: 看我名称
+[32m[2023-06-11 08:35:08] [INFO] [39mmouse_too_sus#5jNBcw: @PaperDr0_ 
+[32m[2023-06-11 08:35:11] [INFO] [39mPaperDr0_#114514: 哦
+[32m[2023-06-11 08:35:22] [INFO] [39mhlg123#MS7a+R: 试试
+[32m[2023-06-11 08:35:23] [INFO] [39mhlg123#MS7a+R: 试试
+[32m[2023-06-11 08:36:22] [INFO] [39mmouse_too_sus => yc刚刚似乎不太平
+[32m[2023-06-11 08:37:07] [INFO] [39myc刚刚似乎不太平 => 啊wcyc是不是要出事了
+[32m[2023-06-11 08:37:10] [INFO] [39m啊wcyc是不是要出事了 => sus
+[32m[2023-06-11 08:37:38] [INFO] [39mPaperDr0_#114514: 9
+[32m[2023-06-11 08:37:58] [INFO] [39mhlg123#MS7a+R: @PaperDr0_ 帮我注册一个
+[32m[2023-06-11 08:38:01] [INFO] [39msus#5jNBcw: 目前麻吉和ice骂起来了好像
+[32m[2023-06-11 08:39:06] [INFO] [39mServer: HelloOSMe 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 08:39:07] [INFO] [39mServer: @HelloOSMe 我认为
+搞这种什么对立的东西
+其实
+没意义
+为什么我这么觉得
+我就是因为这个才来到ZHC的（）
+原来的旧圈子两势力仍旧对立
+[32m[2023-06-11 08:40:03] [INFO] [39mhlg123#MS7a+R: 为什么lc只提示系统错误
+[32m[2023-06-11 08:40:06] [INFO] [39mmouse#+zX/AP: helloos到底死谁啊
+[32m[2023-06-11 08:40:13] [INFO] [39mHelloOSMe#NtXVSW: 我
+[32m[2023-06-11 08:40:16] [INFO] [39mHelloOSMe#NtXVSW: （）
+[32m[2023-06-11 08:40:16] [INFO] [39mhlg123#MS7a+R: oiee
+[32m[2023-06-11 08:40:19] [INFO] [39msus#5jNBcw: mouse you to sus
+[32m[2023-06-11 08:40:28] [INFO] [39msus#5jNBcw: toooooooooooooooooooooooooooo
+[32m[2023-06-11 08:40:36] [INFO] [39mHelloOSMe#NtXVSW: 半吊子OIer
+[32m[2023-06-11 08:41:00] [INFO] [39mmouse#+zX/AP: 哦
+[32m[2023-06-11 08:41:12] [INFO] [39mHelloOSMe#NtXVSW: 所以，你的意图（）
+[32m[2023-06-11 08:41:20] [INFO] [39msus#5jNBcw: 我同时开6个聊天室，靠
+[32m[2023-06-11 08:41:24] [INFO] [39mHelloOSMe#NtXVSW: 996
+[32m[2023-06-11 08:41:25] [INFO] [39mmouse#+zX/AP: @sus 对了，我要给你一个惊喜
+[32m[2023-06-11 08:41:43] [INFO] [39mmouse#+zX/AP: 我又又又没那那个mp4
+[32m[2023-06-11 08:41:50] [INFO] [39msus#5jNBcw: 明明是惊吓
+[32m[2023-06-11 08:42:10] [INFO] [39mmouse#+zX/AP: 宝贝，吃冰啦（无端）
+[32m[2023-06-11 08:42:17] [INFO] [39mPaperDr0_#114514: 9
+[32m[2023-06-11 08:43:24] [INFO] [39msus#5jNBcw: 9
+[32m[2023-06-11 08:43:27] [INFO] [39msus#5jNBcw: ![](https://imagebed.s3.bitiful.net/AJQx1Fxbfg_image.png)
+[32m[2023-06-11 08:43:45] [INFO] [39mhlg123#MS7a+R: @HelloOSMe 能注册lc吗
+[32m[2023-06-11 08:43:57] [INFO] [39mHelloOSMe#NtXVSW: 啊，不注册，反ip探针（）
+[32m[2023-06-11 08:44:06] [INFO] [39mHelloOSMe#NtXVSW: 所以
+[32m[2023-06-11 08:44:20] [INFO] [39mHelloOSMe#NtXVSW: 目前没访问过那里
+[32m[2023-06-11 08:44:26] [INFO] [39mHelloOSMe#NtXVSW: 不在电脑上（）
+[32m[2023-06-11 08:45:28] [INFO] [39mHelloOSMe#NtXVSW: 毕竟
+[32m[2023-06-11 08:45:44] [INFO] [39mHelloOSMe#NtXVSW: 我也不知道light对我看法如何（）
+[32m[2023-06-11 08:45:53] [INFO] [39msus#5jNBcw: ice离开了lo
+[32m[2023-06-11 08:47:26] [INFO] [39mPaperDr0 joined
+[32m[2023-06-11 08:48:15] [INFO] [39msus#5jNBcw: @PaperDr0 您好，您看上去挺面善的~
+最近您会因为诸事不如意而感到沮丧吗？
+别担心！和我们一起追随勇士战神吧！这样定能一帆风顺！
+[32m[2023-06-11 08:48:19] [INFO] [39mServer: @sus bushi
+[32m[2023-06-11 08:49:09] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 08:57:57] [INFO] [39mServer: 20:57:57
+[32m[2023-06-11 08:57:57] [INFO] [39msus#5jNBcw: Enter if you dare, don’t yet think you’ve realized
+[32m[2023-06-11 08:58:04] [INFO] [39msus#5jNBcw: That Ill haunt you till the end, of your dreadful life
+[32m[2023-06-11 08:58:11] [INFO] [39msus#5jNBcw: So tell me what your waiting for
+[32m[2023-06-11 08:58:26] [INFO] [39msus#5jNBcw: did you think you'd be the one who could survive
+
+this feeling that you cant ignore
+
+Me creeping up inside
+[32m[2023-06-11 08:58:56] [INFO] [39mServer: sus 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 08:58:57] [INFO] [39msus#5jNBcw: Oh why do i, Love a little bit of kiss me kill me cry
+
+Oh I oh I love a little bit of kiss me kill me die
+
+go on and try (try to deny it) you cannot hide you from me
+
+Why do I
+[32m[2023-06-11 08:58:59] [INFO] [39msus#5jNBcw: Kiss me kill me
+[32m[2023-06-11 08:59:07] [INFO] [39msus#5jNBcw: 这什么玩意
+[32m[2023-06-11 08:59:42] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 09:00:43] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 09:00:54] [INFO] [39mPaperDr0_ left
+[32m[2023-06-11 09:01:00] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 09:07:32] [INFO] [39mServer: 21:07:32
+[32m[2023-06-11 09:07:32] [INFO] [39msus#5jNBcw: 23今年已经死了27次了（据统计，他每次都切断自己心跳，然后神tm的又恢复过来了）
+[32m[2023-06-11 09:08:20] [INFO] [39mPaperDr0#114514: @sus 9 你特么在是不是开了6个频道
+[32m[2023-06-11 09:11:50] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 09:12:04] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 09:15:14] [INFO] [39mMag joined
+[32m[2023-06-11 09:15:18] [INFO] [39mmouse left
+[32m[2023-06-11 09:20:47] [INFO] [39mRadium joined
+[32m[2023-06-11 09:20:47] [INFO] [39mServer: Radium 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 09:23:05] [INFO] [39mRadium left
+[32m[2023-06-11 09:23:12] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 09:24:47] [INFO] [39mServer: 21:24:47
+[32m[2023-06-11 09:24:47] [INFO] [39mMag#k+R3I2: fuck me fuck me
+[32m[2023-06-11 09:25:25] [INFO] [39msus#5jNBcw: e
+[32m[2023-06-11 09:25:32] [INFO] [39msus#5jNBcw: >[114514] PaperDr0：
+>@sus 9 你特么在是不是开了6个频道
+
+@PaperDr0 是的啊
+[32m[2023-06-11 09:25:33] [INFO] [39mHelloOSMe#NtXVSW: What’s the matter?
+[32m[2023-06-11 09:25:48] [INFO] [39mHelloOSMe#NtXVSW: The fucking Light?
+[32m[2023-06-11 09:26:24] [INFO] [39mRadium joined
+[32m[2023-06-11 09:26:24] [INFO] [39mServer: Radium 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 09:26:33] [INFO] [39mRadium#MS7a+R: 不重要
+[32m[2023-06-11 09:26:39] [INFO] [39mRadium#MS7a+R: 该炸就炸
+[32m[2023-06-11 09:26:59] [INFO] [39mRadium left
+[32m[2023-06-11 09:27:21] [INFO] [39msus#5jNBcw: aaaaaaaaaaa
+[32m[2023-06-11 09:30:08] [INFO] [39mServer: @sus 23：
+根据反激活节点日记 usbot++今年一共开启了一次在测试频道上 usbot在三次测试频道上
+[32m[2023-06-11 09:30:14] [INFO] [39mMag#k+R3I2: 写雨云签到bot有多简单
+[32m[2023-06-11 09:30:21] [INFO] [39mServer: @sus 23：
+你是怎么得到27这个数字的
+[32m[2023-06-11 09:30:21] [INFO] [39mMag#k+R3I2: 首先
+[32m[2023-06-11 09:30:26] [INFO] [39mMag#k+R3I2: 在你签到的时候
+[32m[2023-06-11 09:30:29] [INFO] [39mMag#k+R3I2: 打开devtools
+[32m[2023-06-11 09:30:36] [INFO] [39mServer: @sus cmd：
+这是一般将来时（abab）
+[32m[2023-06-11 09:30:42] [INFO] [39mMag#k+R3I2: 找到签到的请求
+[32m[2023-06-11 09:30:44] [INFO] [39mServer: @sus cmd：
+指将来23会汐27次（
+[32m[2023-06-11 09:30:49] [INFO] [39mServer: @sus 23：
+6
+[32m[2023-06-11 09:30:50] [INFO] [39mMag#k+R3I2: 选择复制curl(bash)
+[32m[2023-06-11 09:30:55] [INFO] [39mMag#k+R3I2: 然后打开你的服务器
+[32m[2023-06-11 09:30:57] [INFO] [39mServer: @sus 23：
+我一次没似
+[32m[2023-06-11 09:31:04] [INFO] [39mServer: @sus 23：
+最接近似的那次我还有心情在医院自拍（
+[32m[2023-06-11 09:31:08] [INFO] [39mMag#k+R3I2: crontab每天0时5分运行curl
+[32m[2023-06-11 09:31:39] [INFO] [39mServer: @sus cmd：
+我说的是将来时（（（（
+[32m[2023-06-11 09:32:09] [INFO] [39mServer: @sus 23：
+人似了不能再似一次
+[32m[2023-06-11 09:32:31] [INFO] [39mServer: @sus 23：
+所以max=1
+[32m[2023-06-11 09:32:41] [INFO] [39muw joined
+[32m[2023-06-11 09:32:41] [INFO] [39mServer: uw 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 09:32:46] [INFO] [39mServer: @sus cmd：
+但是你这个max不是const定义的，是可以改的（
+[32m[2023-06-11 09:37:21] [INFO] [39muw1 joined
+[32m[2023-06-11 09:37:21] [INFO] [39mServer: uw1 被 CaptchaBot 从 ?captcha 移入 ?chat
+[32m[2023-06-11 09:38:54] [INFO] [39muw left
+[32m[2023-06-11 09:38:57] [INFO] [39muw1 => uw
+[32m[2023-06-11 09:44:07] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 09:44:50] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 09:45:03] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 09:45:30] [INFO] [39mzzChumo_小米平板5Pro joined
+[32m[2023-06-11 09:49:04] [INFO] [39mzzChumo_小米平板5Pro left
+[32m[2023-06-11 09:53:33] [INFO] [39m免打扰 joined
+[32m[2023-06-11 09:53:44] [INFO] [39m免打扰 left
+[32m[2023-06-11 09:54:08] [INFO] [39mServer: 21:54:08
+[32m[2023-06-11 09:54:08] [INFO] [39msus#5jNBcw: 张你\*\*
+[32m[2023-06-11 09:54:20] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 09:54:32] [INFO] [39mServer: @sus 张你tm每次都秒退是不是
+[32m[2023-06-11 10:02:01] [INFO] [39mHelloOSMe joined
+[32m[2023-06-11 10:02:14] [INFO] [39mHelloOSMe left
+[32m[2023-06-11 10:04:00] [INFO] [39muw left
+[32m[2023-06-11 10:04:02] [INFO] [39mServer: DLBot 可能是僵尸号，已被自动踢出聊天室
+[32m[2023-06-11 10:04:02] [INFO] [39mDLBot left
+[32m[2023-06-11 10:04:02] [INFO] [39mDLBot joined
+[32m[2023-06-11 10:18:24] [INFO] [39mServer: 22:18:24
+[32m[2023-06-11 10:18:24] [INFO] [39msus#5jNBcw: 23在写rlbot
+[32m[2023-06-11 10:18:33] [INFO] [39msus#5jNBcw: rl（指）bot
+[32m[2023-06-11 10:21:03] [INFO] [39mServer: sus 即将在 1 秒后发送一条比较长的信息
+[32m[2023-06-11 10:21:04] [INFO] [39msus#5jNBcw: ```
+支持者
+23333
+22:10
+w我回来啦
+
+好人卡
+cmd1152
+22:12
+hi
+
+好人卡
+cmd1152
+22:12
+23死完回来了
+
+好人卡
+cmd1152
+22:12
+这是今年23第28次死亡
+
+支持者
+23333
+22:15
+。
+
+支持者
+23333
+22:15
+if you want die
+
+支持者
+23333
+22:15
+i can help you
+
+支持者
+23333
+22:17
+@cmd1152 2和3那个我记得好像是websockets协议里的ping和pong
+
+好人卡
+cmd1152
+22:19
+no
+
+好人卡
+cmd1152
+22:19
+这是字符串
+
+支持者
+23333
+22:19
+那是我傻了qaq
+
+支持者
+23333
+22:19
+我理科没一次考好过（）
+
+好人卡
+cmd1152
+22:20
+假如你的成绩与死亡次数挂钩（
+
+支持者
+23333
+22:20
+如果是理科我应该就死二十多次（）
+[32m[2023-06-11 10:21:50] [INFO] [39msus#5jNBcw: >233：
+>把dddd填满紫砂，用纸片包起来，用朽木和木块架在线圈上用101度的火烤，用长牙（tusk）串起来做成烤串（kc），发出了whaytwhayt的烤肉声，和鱼and橘猫一起吃，再用毛巾卷（terry）擦一擦，撒上两片樱花和几滴初墨，放到刀客塔里，比麻鸡香多了，yummy~
+
+@233 6
+[32m[2023-06-11 10:41:27] [INFO] [39msus => 2333语言测试第1次迭代
+[32m[2023-06-11 10:42:10] [INFO] [39mServer: 22:42:10
+[32m[2023-06-11 10:42:10] [INFO] [39m2333语言测试第1次迭代#5jNBcw: 有人吗
+[32m[2023-06-11 10:42:12] [INFO] [39m2333语言测试第1次迭代#5jNBcw: 阿瓦
+[32m[2023-06-11 10:43:01] [INFO] [39m2333语言测试第1次迭代#5jNBcw: qaq
+[32m[2023-06-11 10:45:27] [INFO] [39mMag left
+[32m[2023-06-11 10:50:16] [INFO] [39m2333语言测试第1次迭代 => 2333语言测试第2次迭代
+[32m[2023-06-11 10:50:51] [INFO] [39mServer: 22:50:51
+[32m[2023-06-11 10:50:51] [INFO] [39m2333语言测试第2次迭代#5jNBcw: 天哪
+[32m[2023-06-11 10:50:56] [INFO] [39m2333语言测试第2次迭代#5jNBcw: 打雷声好大
+[32m[2023-06-11 10:51:04] [INFO] [39m2333语言测试第2次迭代#5jNBcw: 吓死我了
+[32m[2023-06-11 10:52:12] [INFO] [39m2333语言测试第2次迭代#5jNBcw: qaq
+[32m[2023-06-11 10:52:16] [INFO] [39m2333语言测试第2次迭代#5jNBcw: 有人嘛
+[32m[2023-06-11 10:52:57] [INFO] [39m2333语言测试第2次迭代#5jNBcw: 没人（?
+[32m[2023-06-11 10:53:47] [INFO] [39mPaperDr0#114514: .
+[32m[2023-06-11 10:53:59] [INFO] [39mServer: @2333语言测试第2次迭代 成功设置下一次迭代关键词：a qwq qaq uwu quq www w hiyo
+[32m[2023-06-11 10:55:32] [INFO] [39m2333语言测试第2次迭代 => 2333语言测试第3次迭代
+[32m[2023-06-11 10:56:53] [INFO] [39mServer: 22:56:53
+[32m[2023-06-11 10:56:53] [INFO] [39m2333语言测试第3次迭代#5jNBcw: a
+[32m[2023-06-11 10:56:54] [INFO] [39m2333语言测试第3次迭代#5jNBcw: 怎么了
+[32m[2023-06-11 10:57:52] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 10:58:14] [INFO] [39m2333语言测试第3次迭代#5jNBcw: @PaperDr0 你要干嘛
+[32m[2023-06-11 10:58:20] [INFO] [39mPaperDr0#114514: ?
+[32m[2023-06-11 10:58:37] [INFO] [39mServer: @2333语言测试第3次迭代 诶等等这里有点问题啊，等我一会
+[32m[2023-06-11 10:58:43] [INFO] [39m2333语言测试第3次迭代 => 2333语言测试第4次迭代
+[32m[2023-06-11 10:58:49] [INFO] [39m2333语言测试第4次迭代#5jNBcw: a
+[32m[2023-06-11 11:01:29] [INFO] [39m2333语言测试第4次迭代#5jNBcw: 。
+[32m[2023-06-11 11:01:37] [INFO] [39m2333语言测试第4次迭代#5jNBcw: 没人（?
+[32m[2023-06-11 11:03:27] [INFO] [39m2333语言测试第4次迭代#5jNBcw: 小调查 你们都怎么扶眼镜（）
+[32m[2023-06-11 11:03:50] [INFO] [39m2333语言测试第4次迭代#5jNBcw: .
+[32m[2023-06-11 11:10:59] [INFO] [39m2333语言测试第4次迭代 => 正在将Meins设置为
+[32m[2023-06-11 11:11:03] [INFO] [39m正在将Meins设置为 => 2333语言测试第5次迭代
+[32m[2023-06-11 11:12:17] [INFO] [39mServer: 23:12:17
+[32m[2023-06-11 11:12:17] [INFO] [39m2333语言测试第5次迭代#5jNBcw: 无法完成迭代，因为训练资源已丢失：23
+[32m[2023-06-11 11:12:22] [INFO] [39m2333语言测试第5次迭代 => 2333语言测试第4次迭代
+[32m[2023-06-11 11:13:05] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 11:13:38] [INFO] [39m2333语言测试第4次迭代#5jNBcw: 怎么了
+[32m[2023-06-11 11:13:39] [INFO] [39m2333语言测试第4次迭代#5jNBcw: a
+[32m[2023-06-11 11:14:14] [INFO] [39mServer: @2333语言测试第4次迭代 目前说话40%像23了
+[32m[2023-06-11 11:16:40] [INFO] [39mServer: 23:16:40
+[32m[2023-06-11 11:16:40] [INFO] [39m2333语言测试第4次迭代#5jNBcw: a是0吗（?
+[32m[2023-06-11 11:16:45] [INFO] [39m2333语言测试第4次迭代#5jNBcw: ![](https://imagebed.s3.bitiful.net/u575wy3b2T_image.png)
+[32m[2023-06-11 11:19:03] [INFO] [39m2333语言测试第4次迭代 => 2333语言测试第5次迭代
+[32m[2023-06-11 11:19:08] [INFO] [39m2333语言测试第5次迭代#5jNBcw: a
+[32m[2023-06-11 11:19:16] [INFO] [39m2333语言测试第5次迭代#5jNBcw: 又怎么了（?
+[32m[2023-06-11 11:19:25] [INFO] [39mPaperDr0#114514: 不是 你没事吧
+[32m[2023-06-11 11:19:41] [INFO] [39m2333语言测试第5次迭代#5jNBcw: 阿瓦？
+[32m[2023-06-11 11:20:42] [INFO] [39mPaperDr0#114514: do want get a dumb gift?
+[32m[2023-06-11 11:21:04] [INFO] [39mPaperDr0#114514: ~~if you want i can give 1min dumb~~（
+[32m[2023-06-11 11:21:26] [INFO] [39mServer: @2333语言测试第5次迭代 靠，你这句怎么和训练库差不多啊
+[32m[2023-06-11 11:21:49] [INFO] [39mServer: @2333语言测试第5次迭代 训练库这部分的内容：
+```
+if you want die
+i can help you
+[32m[2023-06-11 11:22:07] [INFO] [39m2333语言测试第5次迭代#5jNBcw: @PaperDr0 为什么问我这个
+[32m[2023-06-11 11:22:11] [INFO] [39mServer: @2333语言测试第5次迭代 6
+[32m[2023-06-11 11:22:22] [INFO] [39mPaperDr0#114514: 9
+[32m[2023-06-11 11:22:26] [INFO] [39mServer: @2333语言测试第5次迭代 我要不停下吧
+[32m[2023-06-11 11:22:38] [INFO] [39m2333语言测试第5次迭代#5jNBcw: @PaperDr0 还有
+[32m[2023-06-11 11:22:52] [INFO] [39m2333语言测试第5次迭代#5jNBcw: 刀客塔是周➗
+[32m[2023-06-11 11:22:54] [INFO] [39mServer: DLBot 可能是僵尸号，已被自动踢出聊天室
+[32m[2023-06-11 11:22:54] [INFO] [39mDLBot left
+[32m[2023-06-11 11:22:54] [INFO] [39mDLBot joined
+[32m[2023-06-11 11:22:56] [INFO] [39mServer: @2333语言测试第5次迭代 ？这句什么意思
+[32m[2023-06-11 11:23:23] [INFO] [39mServer: @2333语言测试第5次迭代 诶是不是我训练库串台了
+[32m[2023-06-11 11:24:39] [INFO] [39mServer: @2333语言测试第5次迭代 9，我看见他要发一条`当Lounge类人群星闪耀时`，吓得我赶紧取消
+[32m[2023-06-11 11:24:48] [INFO] [39m2333语言测试第5次迭代#5jNBcw: 怎么不理我了
+[32m[2023-06-11 11:30:07] [INFO] [39mServer: @2333语言测试第5次迭代 下了
+[32m[2023-06-11 11:30:10] [INFO] [39m2333语言测试第5次迭代 left
+[32m[2023-06-11 11:50:43] [INFO] [39mPaperDr0 left
+[32m[2023-06-11 11:52:51] [INFO] [39m灯确吉L_电脑2 left

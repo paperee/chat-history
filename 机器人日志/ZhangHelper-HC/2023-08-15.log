@@ -1,0 +1,136 @@
+[2023-08-15 21:43:14] [INFO] Initializing kernel
+[2023-08-15 21:43:14] [INFO] Loading D:\HC项目\zhanghelper\config\config.json
+[2023-08-15 21:43:14] [INFO] D:\HC项目\zhanghelper\config\config.json was loaded
+[2023-08-15 21:43:14] [INFO] Loading command modules from D:\HC项目\zhanghelper\commands
+[2023-08-15 21:43:15] [INFO] 15 command module(s) will be initialized
+[2023-08-15 21:43:15] [INFO] Initialized allmsg.js
+[2023-08-15 21:43:15] [INFO] Initialized ban.js
+[2023-08-15 21:43:15] [INFO] Initialized block.js
+[2023-08-15 21:43:15] [INFO] Initialized clearmsg.js
+[2023-08-15 21:43:15] [INFO] Initialized gpt.js
+[2023-08-15 21:43:15] [INFO] Initialized help.js
+[2023-08-15 21:43:15] [INFO] Initialized kick.js
+[2023-08-15 21:43:15] [INFO] Initialized listban.js
+[2023-08-15 21:43:15] [INFO] Initialized msg.js
+[2023-08-15 21:43:15] [INFO] Initialized op.js
+[2023-08-15 21:43:15] [INFO] Initialized read.js
+[2023-08-15 21:43:15] [INFO] Initialized reload.js
+[2023-08-15 21:43:15] [INFO] Initialized stop.js
+[2023-08-15 21:43:15] [INFO] Initialized unban.js
+[2023-08-15 21:43:15] [INFO] Initialized version.js
+[2023-08-15 21:43:15] [INFO] Initialized 15 command(s)
+[2023-08-15 21:43:15] [INFO] Connecting to wss://hack.chat/chat-ws
+[2023-08-15 21:43:15] [INFO] Added a hook for onlineAdd, the level is 0
+[2023-08-15 21:43:15] [INFO] Added a hook for onlineAdd, the level is 1
+[2023-08-15 21:43:15] [INFO] Added a hook for chat, the level is 25
+[2023-08-15 21:43:15] [INFO] Kernel initialization completed
+[2023-08-15 21:43:16] [INFO] Successfully connected to wss://hack.chat/chat-ws
+[2023-08-15 21:43:16] [INFO] Joining to ?your-channel
+[2023-08-15 21:43:17] [INFO] Users online: 24abot_DYmry, MaggieRecordV22025, uwuOS_ByQiu_843, NokiaHC52344, AfK_Bot, Radium, Dr_Doppelglower_, 4w4__, 24a, cc, mbot, QiuLingYan, kanon, MrZhang365, UselessBot
+[2023-08-15 21:43:18] [INFO] MrZhang365#vtFJUL: like this
+[2023-08-15 21:43:20] [INFO] MrZhang365#vtFJUL: ^help
+[2023-08-15 21:43:20] [INFO] MrZhang365#vtFJUL is running help command, args: ^help
+[2023-08-15 21:43:21] [INFO] Server: You whispered to @MrZhang365: .
+[2023-08-15 21:43:21] [INFO] # 所有命令
+[2023-08-15 21:43:21] [INFO] |等级：|命令：|
+[2023-08-15 21:43:21] [INFO] |---:|:---|
+[2023-08-15 21:43:21] [INFO] |用户：|allmsg, clearmsg, gpt, help, listban, msg, read, version|
+[2023-08-15 21:43:21] [INFO] |协管：|ban, block, kick, op, unban|
+[2023-08-15 21:43:21] [INFO] |超级管理员：|reload, stop|
+[2023-08-15 21:43:21] [INFO] ---
+[2023-08-15 21:43:21] [INFO] 要获取指定命令的帮助信息，请使用：
+[2023-08-15 21:43:21] [INFO] `^help 命令名`
+[2023-08-15 21:43:21] [INFO] 4w4__#Myh1TA: >nHNvSB 23：
+[2023-08-15 21:43:21] [INFO] >>Myh1TA 4w4__：
+[2023-08-15 21:43:21] [INFO] >>你凭什么说他是坏人
+[2023-08-15 21:43:21] [INFO] >
+[2023-08-15 21:43:21] [INFO] >@4w4__ 就因为无可奉告
+[2023-08-15 21:43:21] [INFO] 
+[2023-08-15 21:43:21] [INFO] @23 
+[2023-08-15 21:43:27] [INFO] MrZhang365#vtFJUL: >vtFJUL *：
+[2023-08-15 21:43:27] [INFO] >UselessBot 对你私聊：.
+[2023-08-15 21:43:27] [INFO] ># 所有命令
+[2023-08-15 21:43:27] [INFO] >|等级：|命令：|
+[2023-08-15 21:43:27] [INFO] >|---:|:---|
+[2023-08-15 21:43:27] [INFO] >|用户：|allmsg, clearmsg, gpt, help, listban, msg, read, version|
+[2023-08-15 21:43:27] [INFO] >|协管：|ban, block, kick, op, unban|
+[2023-08-15 21:43:27] [INFO] >|超级管理员：|reload, stop|
+[2023-08-15 21:43:27] [INFO] >---
+[2023-08-15 21:43:27] [INFO] >……
+[2023-08-15 21:43:27] [INFO] 
+[2023-08-15 21:43:27] [INFO] @* 
+[2023-08-15 21:43:33] [INFO] 4w4__#Myh1TA: nHNvSB 23
+[2023-08-15 21:43:33] [INFO] ok
+[2023-08-15 21:43:33] [INFO] 
+[2023-08-15 21:43:33] [INFO] nHNvSB 23
+[2023-08-15 21:43:33] [INFO] 我不会再来hc搅合了
+[2023-08-15 21:43:33] [INFO] 
+[2023-08-15 21:43:33] [INFO] nHNvSB 23
+[2023-08-15 21:43:33] [INFO] 从此以后我就养老
+[2023-08-15 21:43:33] [INFO] 
+[2023-08-15 21:43:33] [INFO] g7qK46 QiuLingYan
+[2023-08-15 21:43:33] [INFO] 别把我删了就行
+[2023-08-15 21:43:33] [INFO] 
+[2023-08-15 21:43:33] [INFO] nHNvSB 23
+[2023-08-15 21:43:33] [INFO] @4w4__ 帮我给Maggie道个歉(
+[2023-08-15 21:43:54] [INFO] 24a#2ZQ3+0: 他死了我也不会原谅
+[2023-08-15 21:44:06] [INFO] 24a#2ZQ3+0: 我们hc人是这样的😋
+[2023-08-15 21:44:27] [INFO] 24a#2ZQ3+0: 别转发，我怕狗应激
+[2023-08-15 21:44:43] [INFO] MrZhang365#vtFJUL: qwq
+[2023-08-15 21:44:54] [INFO] NokiaHC52344#0/JM7u: 多少次了
+[2023-08-15 21:45:04] [INFO] MrZhang365#vtFJUL: ^kick MrZhang365 24a NokiaHC52344 mbot
+[2023-08-15 21:45:04] [INFO] MrZhang365#vtFJUL is running kick command, args: ^kick MrZhang365 24a NokiaHC52344 mbot
+[2023-08-15 21:45:04] [INFO] Server: You whispered to @mbot: .m kick MrZhang365 24a NokiaHC52344 mbot
+[2023-08-15 21:45:18] [INFO] 24a#2ZQ3+0: hh
+[2023-08-15 21:45:19] [INFO] MrZhang365#vtFJUL is running kick command, args: ^kick MrZhang365 24a NokiaHC52344 mbot
+[2023-08-15 21:45:19] [INFO] Server: ^kick MrZhang365 24a NokiaHC52344 mbot
+[2023-08-15 21:45:19] [INFO] Server: You whispered to @mbot: .m kick MrZhang365 24a NokiaHC52344 mbot
+[2023-08-15 21:46:24] [INFO] MrZhang365#vtFJUL is running ban command, args: ^ban MrZhang365 24a NokiaHC52344 mbot
+[2023-08-15 21:46:24] [INFO] Server: ^ban MrZhang365 24a NokiaHC52344 mbot
+[2023-08-15 21:46:24] [INFO] Server: You whispered to @MrZhang365: .
+[2023-08-15 21:46:24] [INFO] 请勿自相残杀
+[2023-08-15 21:46:53] [INFO] MrZhang365#vtFJUL is running ban command, args: ^ban NokiaHC52344 mbot AfK_Bot cc
+[2023-08-15 21:46:53] [INFO] Server: ^ban NokiaHC52344 mbot AfK_Bot cc
+[2023-08-15 21:46:53] [INFO] Server: You whispered to @mbot: .m kick NokiaHC52344 AfK_Bot cc mbot
+[2023-08-15 21:46:53] [INFO] UselessBot#vtFJUL: MrZhang365 封禁了以下hash：
+[2023-08-15 21:46:53] [INFO] - W6HqhYLyqf7L8yC
+[2023-08-15 21:46:53] [INFO] - T5DUGR2mgoI1i3Y
+[2023-08-15 21:46:53] [INFO] - foiIrZWbcNnURWe
+[2023-08-15 21:46:53] [INFO] - qwaBIqsEFw//A7v
+[2023-08-15 21:46:56] [INFO] MrZhang365#vtFJUL: hhhhhhhhhhhhhhhhhhh
+[2023-08-15 21:46:58] [INFO] MrZhang365#vtFJUL: 好玩
+[2023-08-15 21:47:00] [INFO] MrZhang365#vtFJUL: >*：
+[2023-08-15 21:47:00] [INFO] >你对 @UselessBot 私聊：^ban NokiaHC52344 mbot AfK_Bot cc
+[2023-08-15 21:47:00] [INFO] 
+[2023-08-15 21:47:00] [INFO] @* 
+[2023-08-15 21:47:09] [INFO] MrZhang365#vtFJUL: ^listban
+[2023-08-15 21:47:09] [INFO] MrZhang365#vtFJUL is running listban command, args: ^listban
+[2023-08-15 21:47:09] [INFO] UselessBot#vtFJUL: @MrZhang365 下面是被封禁的hash：
+[2023-08-15 21:47:09] [INFO] - W6HqhYLyqf7L8yC
+[2023-08-15 21:47:09] [INFO] - T5DUGR2mgoI1i3Y
+[2023-08-15 21:47:09] [INFO] - foiIrZWbcNnURWe
+[2023-08-15 21:47:09] [INFO] - qwaBIqsEFw//A7v
+[2023-08-15 21:47:22] [INFO] MrZhang365#vtFJUL: ^unban W6HqhYLyqf7L8yC T5DUGR2mgoI1i3Y foiIrZWbcNnURWe qwaBIqsEFw//A7v
+[2023-08-15 21:47:22] [INFO] MrZhang365#vtFJUL is running unban command, args: ^unban W6HqhYLyqf7L8yC T5DUGR2mgoI1i3Y foiIrZWbcNnURWe qwaBIqsEFw//A7v
+[2023-08-15 21:47:22] [INFO] UselessBot#vtFJUL: MrZhang365 解封了以下hash：
+[2023-08-15 21:47:22] [INFO] - W6HqhYLyqf7L8yC
+[2023-08-15 21:47:22] [INFO] - T5DUGR2mgoI1i3Y
+[2023-08-15 21:47:22] [INFO] - foiIrZWbcNnURWe
+[2023-08-15 21:47:22] [INFO] - qwaBIqsEFw//A7v
+[2023-08-15 21:47:23] [INFO] MrZhang365#vtFJUL: 6
+[2023-08-15 21:47:37] [INFO] 24a#2ZQ3+0: 23退网，好似
+[2023-08-15 21:48:02] [INFO] NokiaHC52344#0/JM7u: fake
+[2023-08-15 21:48:12] [INFO] NokiaHC52344#0/JM7u: 多少次了
+[2023-08-15 21:48:23] [INFO] 24a#2ZQ3+0: 也对
+[2023-08-15 21:48:27] [INFO] QiuLingYan#g7qK46: 这次估计是真的
+[2023-08-15 21:48:32] [INFO] 24a#2ZQ3+0: 希望这次是真的
+[2023-08-15 21:48:35] [INFO] MrZhang365#vtFJUL: 我：@23 你还没给我发传票呢！
+[2023-08-15 21:49:08] [INFO] NokiaHC52344#0/JM7u: same
+[2023-08-15 21:49:17] [INFO] 24a#2ZQ3+0: 23走之后ice就没什么用了
+[2023-08-15 21:49:28] [INFO] 24a#2ZQ3+0: 从此hc天下太平
+[2023-08-15 21:49:29] [INFO] QiuLingYan#g7qK46: 这次80%是真的
+[2023-08-15 21:49:35] [INFO] NokiaHC52344#0/JM7u: writing fuck lang
+[2023-08-15 21:49:37] [INFO] QiuLingYan#g7qK46: 因为我帮了他退网
+[2023-08-15 21:49:42] [INFO] 24a#2ZQ3+0: 6
+[2023-08-15 21:49:55] [INFO] 24a#2ZQ3+0: 你做的好啊！
+[2023-08-15 21:54:08] [INFO] A joined
